@@ -5785,18 +5785,6 @@
 						]
 					},
 					{
-						"correct": "Spiny",
-						"difficulty": "Easy",
-						"explanation": "Spiny. The Blue Shell is derived from the Spiny enemy creature found in the mainline Mario games.",
-						"fact_checked": true,
-						"question": "Which specific animal is the Blue Shell (also known as the Spiny Shell) based on?",
-						"wrong": [
-							"Koopa Troopa",
-							"Piranha Plant",
-							"Shy Guy"
-						]
-					},
-					{
 						"correct": "Mushroom",
 						"difficulty": "Medium",
 						"explanation": "Mushroom. A well-timed Mushroom boost can allow a racer to speed away from the blast radius just before impact.",
@@ -6256,18 +6244,6 @@
 							"Lightweight",
 							"Cruiserweight",
 							"Middleweight"
-						]
-					},
-					{
-						"correct": "Speed",
-						"difficulty": "Easy",
-						"explanation": "Speed. Heavyweights like Bowser usually have high top speeds.",
-						"fact_checked": true,
-						"question": "Which statistic does Bowser typically prioritize when racing?",
-						"wrong": [
-							"Handling",
-							"Acceleration",
-							"Drift"
 						]
 					},
 					{
@@ -16276,18 +16252,6 @@
 						]
 					},
 					{
-						"correct": "Megaton",
-						"difficulty": "Medium",
-						"explanation": "James leaves a signal to head east, and the first major settlement the Wanderer is directed to is Megaton, where Moriarty knows James.",
-						"fact_checked": true,
-						"question": "After fleeing Vault 101, James leaves behind a specific message and location that leads the Wanderer to his first destination outside the Vault. Where does he suggest the Wanderer go first?",
-						"wrong": [
-							"The Citadel",
-							"GNR Plaza",
-							"Rivet City"
-						]
-					},
-					{
 						"correct": "A V.A.T.S. calibration/injection",
 						"difficulty": "Hard",
 						"explanation": "The scene where James uses the syringe on the infant Wanderer is interpreted as the calibration of the Vault-Tec Assisted Targeting System (V.A.T.S.).",
@@ -16426,18 +16390,6 @@
 							"Destroying the Brotherhood",
 							"Creating Super Mutants",
 							"Using it as a shield"
-						]
-					},
-					{
-						"correct": "The Jefferson Memorial",
-						"difficulty": "Easy",
-						"explanation": "Autumn attacks Rivet City to track down the Wanderer and Professor Li, believing they hold the key to Project Purity.",
-						"fact_checked": true,
-						"question": "While searching for the Wanderer, Autumn's forces launch a devastating assault on what isolated location, leading to the final stage of the main quest?",
-						"wrong": [
-							"The Citadel",
-							"Big Town",
-							"Canterbury Commons"
 						]
 					}
 				]
@@ -16660,18 +16612,6 @@
 							"Lyons' Rifle",
 							"A3-21's Plasma Rifle",
 							"The Regulator"
-						]
-					},
-					{
-						"correct": "Lyons' Pride",
-						"difficulty": "Easy",
-						"explanation": "Lyons’ Pride is the specialized combat unit under her direct command, consisting of the Brotherhood’s best fighters.",
-						"fact_checked": true,
-						"question": "Sentinel Lyons leads the specific faction of the Brotherhood of Steel known by what collective designation?",
-						"wrong": [
-							"The Paladin Watch",
-							"The Steel Guard",
-							"The Lone Star Regiment"
 						]
 					},
 					{
@@ -17074,18 +17014,6 @@
 							"The Clinic",
 							"Craterside Supply",
 							"The Water Purification Plant"
-						]
-					},
-					{
-						"correct": "Tenpenny Tower",
-						"difficulty": "Medium",
-						"explanation": "Burke works for Alistair Tenpenny, who is pleased that the 'eyesore' of Megaton has been removed from his view.",
-						"fact_checked": true,
-						"question": "After the destruction of Megaton, Burke relocates to which extremely wealthy, high-rise settlement, where he works for the community's owner?",
-						"wrong": [
-							"Rivet City",
-							"Underworld",
-							"Canterbury Commons"
 						]
 					},
 					{
@@ -17868,18 +17796,6 @@
 						"wrong": [
 							"Birds chirping",
 							"Cows mooing"
-						]
-					},
-					{
-						"correct": "ZAX Supercomputer",
-						"difficulty": "Hard",
-						"explanation": "ZAX computers were advanced tactical AI systems designed before the war to assist the U.S. government.",
-						"fact_checked": true,
-						"question": "President Eden is the artificial intelligence housed inside what specific type of pre-war military supercomputer system?",
-						"wrong": [
-							"Skynet",
-							"G.E.C.K.",
-							"Cerebral Superprocessor"
 						]
 					},
 					{
@@ -20480,6 +20396,7 @@
 						"correct": "Dionysus",
 						"difficulty": "Easy",
 						"explanation": "Zagreus is sometimes considered the chthonic version of the Olympian God of Wine, Dionysus.",
+						"fact_checked": true,
 						"question": "What Olympian God is Zagreus often mistaken for due to his parentage?",
 						"wrong": [
 							"Ares",
@@ -20490,6 +20407,7 @@
 						"correct": "Persephone",
 						"difficulty": "Medium",
 						"explanation": "Zagreus is trying to locate his birth mother, Persephone, who left the Underworld before he was old enough to remember her.",
+						"fact_checked": true,
 						"question": "Zagreus's escape attempts are motivated primarily by his desire to find which missing family member?",
 						"wrong": [
 							"Demeter",
@@ -20500,6 +20418,7 @@
 						"correct": "Chaos",
 						"difficulty": "Hard",
 						"explanation": "Chaos is the primordial entity and grandparent of many of the Chthonic Gods who resides deep beneath the Underworld.",
+						"fact_checked": true,
 						"question": "What is the name of the ancient Chthonic deity who often advises Zagreus on his quests and prophecies?",
 						"wrong": [
 							"Nyx",
@@ -20531,6 +20450,7 @@
 						"correct": "Magic",
 						"difficulty": "Easy",
 						"explanation": "Melinoe is trained in the arcane arts and uses witchcraft as her primary form of combat.",
+						"fact_checked": true,
 						"question": "What is the primary power source for Melinoe’s Incantations and abilities?",
 						"wrong": [
 							"Ichor",
@@ -20541,6 +20461,7 @@
 						"correct": "Princess of the Underworld",
 						"difficulty": "Medium",
 						"explanation": "Despite being a witch, Melinoe is still the Princess of the Underworld, much like her brother.",
+						"fact_checked": true,
 						"question": "What title is frequently used to refer to Melinoe by her enemies due to her training?",
 						"wrong": [
 							"Goddess of Nightmares",
@@ -20548,10 +20469,11 @@
 						]
 					},
 					{
-						"correct": "Apollo",
+						"correct": "Chronos The Titan of Time",
 						"difficulty": "Hard",
 						"explanation": "Melinoe is tasked with eliminating Apollo in Olympus, who has betrayed his kin to serve Chronos.",
-						"question": "In the initial prophecy, Melinoe is tasked with defeating which specific Olympian God who has allied with the Titan of Time?",
+						"fact_checked": true,
+						"question": "In the initial prophecy, Melinoe is tasked with defeating which specific Olympian God ?",
 						"wrong": [
 							"Hephaestus",
 							"Poseidon"
@@ -20582,6 +20504,7 @@
 						"correct": "Cerberus",
 						"difficulty": "Easy",
 						"explanation": "Cerberus is the massive, three-headed dog that guards the House of Hades.",
+						"fact_checked": true,
 						"question": "What is the name of Hades's loyal three-headed companion?",
 						"wrong": [
 							"Orthrus",
@@ -20592,6 +20515,7 @@
 						"correct": "Administrative efficiency",
 						"difficulty": "Medium",
 						"explanation": "Hades is a fastidious administrator who hates disruption to the Underworld's established bureaucracy.",
+						"fact_checked": true,
 						"question": "Hades is famously obsessed with maintaining what specific status in the Underworld?",
 						"wrong": [
 							"Moral purity",
@@ -20602,6 +20526,7 @@
 						"correct": "Melinoe's Graduation Ceremony",
 						"difficulty": "Hard",
 						"explanation": "Hades had been secretly preparing for Melinoe’s ceremony, only to be ambushed by Chronos shortly before it could happen.",
+						"fact_checked": true,
 						"question": "Before his capture in Hades 2, Hades was preparing for what major celebratory event?",
 						"wrong": [
 							"The Olympian Summit",
@@ -20633,6 +20558,7 @@
 						"correct": "Magic",
 						"difficulty": "Easy",
 						"explanation": "Hecate is the triple-formed deity presiding over magic, witchcraft, and the night.",
+						"fact_checked": true,
 						"question": "Hecate is the Goddess of Witchcraft and what other concept, often appearing at crossroads?",
 						"wrong": [
 							"Poisons",
@@ -20643,6 +20569,7 @@
 						"correct": "A flaming broom",
 						"difficulty": "Medium",
 						"explanation": "During the practice battle in the Crossroads, Hecate attacks Melinoe primarily with a magically charged broom.",
+						"fact_checked": true,
 						"question": "What specific item does Hecate use to attack Melinoe during their practice sessions?",
 						"wrong": [
 							"A scythe",
@@ -20653,6 +20580,7 @@
 						"correct": "Circe",
 						"difficulty": "Hard",
 						"explanation": "Hecate's students are Melinoe, the sorceress Medea, and the mythological witch Circe.",
+						"fact_checked": true,
 						"question": "The three witches Hecate mentors are Melinoe, Medea, and which other figure known for her island residence?",
 						"wrong": [
 							"Calypso",
@@ -20684,6 +20612,7 @@
 						"correct": "Time",
 						"difficulty": "Easy",
 						"explanation": "Chronos is the ancient Titan who embodies the concept of chronological time.",
+						"fact_checked": true,
 						"question": "Chronos is the vengeful Titan of what element?",
 						"wrong": [
 							"Space",
@@ -20694,6 +20623,7 @@
 						"correct": "A scythe",
 						"difficulty": "Medium",
 						"explanation": "Chronos famously used a scythe to castrate his father, Uranus, and now wields a massive scythe in combat.",
+						"fact_checked": true,
 						"question": "What weapon does Chronos wield that is related to agriculture and also used to harm his own father?",
 						"wrong": [
 							"A hammer",
@@ -20704,6 +20634,7 @@
 						"correct": "Daedalus",
 						"difficulty": "Hard",
 						"explanation": "Daedalus is found chained up in the Tartarus prison that Chronos now occupies.",
+						"fact_checked": true,
 						"question": "The chamber where Chronos is first encountered in Hades 2 is also the site of the imprisonment of which great mythological inventor?",
 						"wrong": [
 							"Icarus",
@@ -20735,6 +20666,7 @@
 						"correct": "Styx",
 						"difficulty": "Easy",
 						"explanation": "The River Styx flows near the palace, which Zagreus must cross to begin his escapes.",
+						"fact_checked": true,
 						"question": "What river of the Underworld flows directly underneath the House of Hades?",
 						"wrong": [
 							"Acheron",
@@ -20745,20 +20677,11 @@
 						"correct": "Administrative Chamber",
 						"difficulty": "Medium",
 						"explanation": "The Administrative Chamber houses all the scrolls and necessary paperwork to manage the dead, often overseen by Hypnos.",
+						"fact_checked": true,
 						"question": "What specific chamber in the House is used to review the dead and schedule their placement in the afterlife?",
 						"wrong": [
 							"Courtyard of Souls",
 							"Council Hall"
-						]
-					},
-					{
-						"correct": "The Daedalus Hammer",
-						"difficulty": "Hard",
-						"explanation": "The Daedalus Hammer is used to modify the specific aspects of the Infernal Arms Zagreus uses.",
-						"question": "Which specific item, found in the House, is used to select and apply permanent upgrades to Zagreus’s weapon aspects?",
-						"wrong": [
-							"The Mirror of Night",
-							"The Keepsake Box"
 						]
 					}
 				]
@@ -20786,6 +20709,7 @@
 						"correct": "Warding Circle",
 						"difficulty": "Easy",
 						"explanation": "The Crossroads is protected by a powerful Warding Circle that keeps Chronos's forces out.",
+						"fact_checked": true,
 						"question": "What is the name of the central protective barrier surrounding the Crossroads?",
 						"wrong": [
 							"Safety Seal",
@@ -20796,6 +20720,7 @@
 						"correct": "Schelemus",
 						"difficulty": "Medium",
 						"explanation": "Schelemus is a helpful merchant who provides Melinoe with resources and minor boons.",
+						"fact_checked": true,
 						"question": "Who is the small, hooded merchant who sells temporary items in the Crossroads?",
 						"wrong": [
 							"Charon",
@@ -20806,6 +20731,7 @@
 						"correct": "The Incantation Grounds",
 						"difficulty": "Hard",
 						"explanation": "The Incantation Grounds are essential for gathering the resources Melinoe needs for her Arcana and spells.",
+						"fact_checked": true,
 						"question": "What is the name of the hidden area within the Crossroads used for growing rare plants and ingredients?",
 						"wrong": [
 							"The Bloomery",
@@ -20837,6 +20763,7 @@
 						"correct": "Olympians",
 						"difficulty": "Easy",
 						"explanation": "Mount Olympos is the home of the 12 primary Olympian Gods.",
+						"fact_checked": true,
 						"question": "What is the collective name for the ruling deities who reside here?",
 						"wrong": [
 							"Primordials",
@@ -20847,6 +20774,7 @@
 						"correct": "Boons",
 						"difficulty": "Medium",
 						"explanation": "Boons are temporary, powerful gifts the Olympians offer to Zagreus to aid his escape.",
+						"fact_checked": true,
 						"question": "What resource is often exchanged between the Olympians and Zagreus during his escapes?",
 						"wrong": [
 							"Charms",
@@ -20857,6 +20785,7 @@
 						"correct": "Hermes",
 						"difficulty": "Hard",
 						"explanation": "Hermes acts as the intermediary, ensuring the Olympians remain informed of the events in the Underworld.",
+						"fact_checked": true,
 						"question": "Which Olympian, known for his speed, delivers messages and keeps track of Zagreus's progress for the Olympians?",
 						"wrong": [
 							"Hephaestus",
@@ -20888,6 +20817,7 @@
 						"correct": "First of the Furies",
 						"difficulty": "Easy",
 						"explanation": "Megaera is the oldest of the three Fury sisters and acts as the initial boss of Tartarus.",
+						"fact_checked": true,
 						"question": "What is Megaera's job title in the Underworld's security force?",
 						"wrong": [
 							"Guardian of Elysium",
@@ -20898,6 +20828,7 @@
 						"correct": "Alecto and Tisiphone",
 						"difficulty": "Medium",
 						"explanation": "The three Furies are responsible for exacting vengeance and often rotate their attempts to stop Zagreus.",
+						"fact_checked": true,
 						"question": "Besides Megaera, what are the names of the two other Fury sisters?",
 						"wrong": [
 							"Electra and Ione",
@@ -20908,6 +20839,7 @@
 						"correct": "Her oil lamp",
 						"difficulty": "Hard",
 						"explanation": "Megaera often complains about Zagreus borrowing and failing to return her possessions, especially her oil lamp.",
+						"fact_checked": true,
 						"question": "In one of her post-fight dialogue sequences, Megaera demands that Zagreus replace what personal item that he frequently borrows?",
 						"wrong": [
 							"Her quill",
@@ -20936,9 +20868,10 @@
 			"content": {
 				"questions": [
 					{
-						"correct": "A key",
+						"correct": "Meeting the specific objective or condition described in the prophecy.",
 						"difficulty": "Easy",
 						"explanation": "Keys are the currency used to unlock the rewards associated with prophecies on the Fated List.",
+						"fact_checked": true,
 						"question": "What specific item is required to complete the prophecies listed in the Fated List?",
 						"wrong": [
 							"Ambrosia",
@@ -20949,20 +20882,11 @@
 						"correct": "The Fates",
 						"difficulty": "Medium",
 						"explanation": "The Fated List contains prophecies set by the three Fates: Clotho, Lachesis, and Atropos.",
+						"fact_checked": true,
 						"question": "The prophecies found on the list are dictated and recorded by which three deities?",
 						"wrong": [
 							"The Muses",
 							"The Graces"
-						]
-					},
-					{
-						"correct": "Titan Blood",
-						"difficulty": "Hard",
-						"explanation": "Completing the final prophecy requires significant investment of Titan Blood to unlock the remaining weapon aspects.",
-						"question": "In the Administrative Chamber, what specific resource is needed to view the prophecies involving the true ending of Hades 1?",
-						"wrong": [
-							"Diamonds",
-							"Cthonic Darkness"
 						]
 					}
 				]
@@ -20990,6 +20914,7 @@
 						"correct": "Mother Night",
 						"difficulty": "Easy",
 						"explanation": "Nyx is one of the oldest deities, representing the very concept of Night itself.",
+						"fact_checked": true,
 						"question": "What title is Nyx known by, reflecting her primordial domain?",
 						"wrong": [
 							"Daughter Dawn",
@@ -21001,6 +20926,7 @@
 						"correct": "Hades",
 						"difficulty": "Easy",
 						"explanation": "Nyx's powers of darkness are essential for Zagreus to sneak past his father and the security of the House.",
+						"fact_checked": true,
 						"question": "Nyx helps Zagreus escape by using her magic to obscure him from which deitys sight?",
 						"wrong": [
 							"Zeus",
@@ -21012,6 +20938,7 @@
 						"correct": "Hypnos",
 						"difficulty": "Easy",
 						"explanation": "While many of her children exist, Hypnos is the one who helps manage Melinoes affairs at the Crossroads.",
+						"fact_checked": true,
 						"question": "In Hades 2, who is the only child of Nyx seen assisting Melinoe at The Crossroads?",
 						"wrong": [
 							"Nemesis",
@@ -21023,6 +20950,7 @@
 						"correct": "His stillbirth",
 						"difficulty": "Medium",
 						"explanation": "Nyx comforted Persephone after Zagreus's stillbirth and helped raise him when he returned to life.",
+						"fact_checked": true,
 						"question": "Nyx refers to Zagreus as her adopted son, a title she gives him after finding him following which traumatic event?",
 						"wrong": [
 							"The Titans escape",
@@ -21031,9 +20959,10 @@
 						]
 					},
 					{
-						"correct": "The Brotherhood",
+						"correct": "The Nocturnals ",
 						"difficulty": "Medium",
 						"explanation": "Nyx's children, the personifications of abstract concepts like sleep and death, refer to themselves as the Brotherhood.",
+						"fact_checked": true,
 						"question": "What is the collective name for Nyx's many famous children, such as Hypnos and Thanatos?",
 						"wrong": [
 							"The Children of Light",
@@ -21045,6 +20974,7 @@
 						"correct": "Chaos",
 						"difficulty": "Medium",
 						"explanation": "Nyx is the daughter of Chaos, though their relationship is strained and complex.",
+						"fact_checked": true,
 						"question": "What is the name of the primordial being who is Nyx's estranged parent and the source of her existence?",
 						"wrong": [
 							"Gaea",
@@ -21053,10 +20983,11 @@
 						]
 					},
 					{
-						"correct": "A Covenant",
+						"correct": "The Chaos Gates ",
 						"difficulty": "Hard",
 						"explanation": "Nyx uses a special covenant, given by Chaos, to allow travel through the gates of the Void.",
-						"question": "Nyx's unique connection to the House of Hades allows her to establish which vital transportation method, used to enter the Chaos Gates?",
+						"fact_checked": true,
+						"question": "Nyx's unique connection to the House of Hades allows her to establish which vital transportation method ?",
 						"wrong": [
 							"A Shadow Passage",
 							"A Blood Seal",
@@ -21067,6 +20998,7 @@
 						"correct": "The Mirror of Night",
 						"difficulty": "Hard",
 						"explanation": "The Mirror of Night, used for power upgrades, was a gift from Nyx to Hades.",
+						"fact_checked": true,
 						"question": "According to the lore, what specific item did Nyx give to Hades, helping him establish the infrastructure of the Underworld?",
 						"wrong": [
 							"The Stygian Blade",
@@ -21078,6 +21010,7 @@
 						"correct": "My old dear friend",
 						"difficulty": "Hard",
 						"explanation": "Nyx and Charon share a very old, familiar, and slightly cryptic friendship due to their primordial origins.",
+						"fact_checked": true,
 						"question": "When Nyx appears in the Temple of Styx, what unique name does she use to address the ferryman Charon?",
 						"wrong": [
 							"Fellow Primordial",
@@ -21110,6 +21043,7 @@
 						"correct": "Death",
 						"difficulty": "Easy",
 						"explanation": "Thanatos is the embodiment of non-violent death, often appearing to collect souls.",
+						"fact_checked": true,
 						"question": "Thanatos is the personification of which concept?",
 						"wrong": [
 							"Sleep",
@@ -21121,6 +21055,7 @@
 						"correct": "A Scythe",
 						"difficulty": "Easy",
 						"explanation": "Thanatos wields a large scythe, fitting for the grim reaper archetype.",
+						"fact_checked": true,
 						"question": "What signature weapon does Thanatos carry and use to reap souls?",
 						"wrong": [
 							"A Blade",
@@ -21132,6 +21067,7 @@
 						"correct": "Prince",
 						"difficulty": "Easy",
 						"explanation": "Thanatos maintains a formal distance, often referring to Zagreus as Prince.",
+						"fact_checked": true,
 						"question": "What name is used by Thanatos to address Zagreus, which is noted for its formality?",
 						"wrong": [
 							"Zags",
@@ -21143,6 +21079,7 @@
 						"correct": "Slain foes",
 						"difficulty": "Medium",
 						"explanation": "The competition is a simple race to see who can eliminate the most shades in a designated time.",
+						"fact_checked": true,
 						"question": "Thanatos sometimes challenges Zagreus to a contest focused on which metric?",
 						"wrong": [
 							"Damage done",
@@ -21154,6 +21091,7 @@
 						"correct": "Erebus",
 						"difficulty": "Medium",
 						"explanation": "Thanatos is found protecting a closed gate leading to Erebus, refusing entry to Melinoe.",
+						"fact_checked": true,
 						"question": "In Hades 2, what unique location is Thanatos found guarding while Melinoe explores the Underworld?",
 						"wrong": [
 							"Oceanus",
@@ -21165,6 +21103,7 @@
 						"correct": "Nyx",
 						"difficulty": "Medium",
 						"explanation": "Thanatos is a son of Nyx, who also adopted Zagreus, making them adoptive siblings.",
+						"fact_checked": true,
 						"question": "Thanatos and Zagreus were raised as brothers, sharing the same adoptive mother. Who is she?",
 						"wrong": [
 							"Persephone",
@@ -21173,9 +21112,10 @@
 						]
 					},
 					{
-						"correct": "Mortuary Management",
+						"correct": "Department of Death",
 						"difficulty": "Hard",
 						"explanation": "Thanatos is part of the Department of Mortuary Management, dealing with the logistics of death.",
+						"fact_checked": true,
 						"question": "Thanatos's official job title within the House of Hades bureaucracy is a member of the Department of which activity?",
 						"wrong": [
 							"Soul Reclamation",
@@ -21187,6 +21127,7 @@
 						"correct": "Hypnos",
 						"difficulty": "Hard",
 						"explanation": "Hypnos, the personification of sleep, is Thanatos's twin brother, often seen together.",
+						"fact_checked": true,
 						"question": "In Greek mythology, Thanatos is said to be the twin brother of which other god?",
 						"wrong": [
 							"Morpheus",
@@ -21198,6 +21139,7 @@
 						"correct": "Pierced Butterfly",
 						"difficulty": "Hard",
 						"explanation": "The Pierced Butterfly grants damage bonuses for clearing encounters without taking damage.",
+						"fact_checked": true,
 						"question": "What specific Keepsake does Thanatos give Zagreus after receiving a bottle of Nectar?",
 						"wrong": [
 							"Old Spiked Collar",
@@ -21230,6 +21172,7 @@
 						"correct": "Three",
 						"difficulty": "Easy",
 						"explanation": "Cerberus, the Hound of Hades, is known for his three heads.",
+						"fact_checked": true,
 						"question": "How many heads does Cerberus famously possess?",
 						"wrong": [
 							"Two",
@@ -21241,6 +21184,7 @@
 						"correct": "Guarding the exit",
 						"difficulty": "Easy",
 						"explanation": "Cerberus ensures that the dead stay in and the living stay out.",
+						"fact_checked": true,
 						"question": "What is Cerberus's primary responsibility in the Underworld?",
 						"wrong": [
 							"Guiding souls",
@@ -21252,6 +21196,7 @@
 						"correct": "Satchel of Treats",
 						"difficulty": "Easy",
 						"explanation": "The Satchel of Treats is found after clearing the final rooms of the Temple of Styx.",
+						"fact_checked": true,
 						"question": "In Hades 1, which type of food must Zagreus procure in the Temple of Styx to soothe Cerberus?",
 						"wrong": [
 							"Meat Scraps",
@@ -21263,6 +21208,7 @@
 						"correct": "Echidna",
 						"difficulty": "Medium",
 						"explanation": "Cerberus is the offspring of Typhon and Echidna, monstrous figures in Greek myth.",
+						"fact_checked": true,
 						"question": "According to Hades lore, which mythical parent gave birth to Cerberus?",
 						"wrong": [
 							"Gaea",
@@ -21274,6 +21220,7 @@
 						"correct": "Old Spiked Collar",
 						"difficulty": "Medium",
 						"explanation": "The Old Spiked Collar is obtained from Cerberus and boosts Zagreus's survivability.",
+						"fact_checked": true,
 						"question": "Which Keepsake, representing the Hound, grants Zagreus immediate max health and a minor damage reduction?",
 						"wrong": [
 							"Evergreen Acorn",
@@ -21285,6 +21232,7 @@
 						"correct": "Pollen allergies",
 						"difficulty": "Medium",
 						"explanation": "Cerberus suffers greatly from allergies, leading to much sneezing and sadness.",
+						"fact_checked": true,
 						"question": "What is the common and relatable problem Cerberus suffers from throughout the main story of Hades 1?",
 						"wrong": [
 							"Bad temper",
@@ -21296,6 +21244,7 @@
 						"correct": "Dog fur and snakeskin",
 						"difficulty": "Hard",
 						"explanation": "Cerberus's neck and tails are covered in snakes, meaning he is both mammalian and reptilian.",
+						"fact_checked": true,
 						"question": "Cerberus is described as having two distinct types of fur or scales covering his body. What are they?",
 						"wrong": [
 							"Goat fur and feathers",
@@ -21307,6 +21256,7 @@
 						"correct": "Heracles",
 						"difficulty": "Hard",
 						"explanation": "The twelfth and final labor of Heracles was to capture Cerberus without the use of weapons.",
+						"fact_checked": true,
 						"question": "What is the name of the original heroic figure who successfully captured Cerberus as his final labor?",
 						"wrong": [
 							"Theseus",
@@ -21318,6 +21268,7 @@
 						"correct": "Youth, adulthood, and old age",
 						"difficulty": "Hard",
 						"explanation": "This interpretation reflects his duty to guard the threshold of death across all time.",
+						"fact_checked": true,
 						"question": "The three heads of Cerberus are sometimes said to represent the past, present, and future, or alternately, which three stages of life?",
 						"wrong": [
 							"Birth, life, and death",
@@ -21350,6 +21301,7 @@
 						"correct": "The Pit",
 						"difficulty": "Easy",
 						"explanation": "Tartarus is depicted as a giant, dark chasm and serves as the prison for ancient entities.",
+						"fact_checked": true,
 						"question": "Tartarus is the first realm Zagreus must escape from in the Underworld. What is its common description?",
 						"wrong": [
 							"The Flames",
@@ -21361,6 +21313,7 @@
 						"correct": "Megaera",
 						"difficulty": "Easy",
 						"explanation": "Megaera is the designated Fury who guards the entrance to the next realm, Asphodel.",
+						"fact_checked": true,
 						"question": "Which of the three Furies serves as the final boss of Tartarus?",
 						"wrong": [
 							"Alecto",
@@ -21372,6 +21325,7 @@
 						"correct": "Deep purple",
 						"difficulty": "Easy",
 						"explanation": "Tartarus is characterized by its heavy shadow, dark stone, and purple hue.",
+						"fact_checked": true,
 						"question": "What is the primary visual color of the environment in Tartarus?",
 						"wrong": [
 							"Bright red",
@@ -21383,6 +21337,7 @@
 						"correct": "Imprisoning the defeated Titans",
 						"difficulty": "Medium",
 						"explanation": "Tartarus originally housed primordial beings like the Titans and the Cyclopes.",
+						"fact_checked": true,
 						"question": "Before it became the start of the escape attempt, what was Tartarus primarily used for by the gods?",
 						"wrong": [
 							"Housing the deserving dead",
@@ -21394,6 +21349,7 @@
 						"correct": "Sisyphus",
 						"difficulty": "Medium",
 						"explanation": "Sisyphus is eternally cursed to roll a boulder in Tartarus, but he is friendly and useful to Zagreus.",
+						"fact_checked": true,
 						"question": "Which cursed shade is usually found near the entrance of Tartarus, offering helpful advice and upgrades in exchange for darkness?",
 						"wrong": [
 							"Achilles",
@@ -21402,20 +21358,10 @@
 						]
 					},
 					{
-						"correct": "Chaos's Daughter",
-						"difficulty": "Medium",
-						"explanation": "Upon entering the Chaos Gate, Zagreus battles a physical manifestation of Chaos's power if he takes too long.",
-						"question": "Which specific boss encounter is unique to the deepest section of Tartarus, accessible only through a special Chaos gate?",
-						"wrong": [
-							"The Wretched Shade",
-							"The Lernaen Hydra",
-							"The Bloodless Titan"
-						]
-					},
-					{
 						"correct": "Hades's decision to re-staff the Underworld",
 						"difficulty": "Hard",
 						"explanation": "Hades reassigned the prisoners of Tartarus to serve as Underworld security after the Titanomachy.",
+						"fact_checked": true,
 						"question": "In the lore of the game, what specific event led to the inhabitants of Tartarus being freed and subsequently becoming the standard enemies Zagreus faces?",
 						"wrong": [
 							"A massive earthquake",
@@ -21427,6 +21373,7 @@
 						"correct": "Tantalus",
 						"difficulty": "Hard",
 						"explanation": "Tantalus is known for Tantalizing agony, a punishment for attempting to trick the gods.",
+						"fact_checked": true,
 						"question": "Which legendary figure, known for his hubris, suffers eternal punishment by standing in water he cannot drink and near fruit he cannot eat in Tartarus?",
 						"wrong": [
 							"Ixion",
@@ -21438,6 +21385,7 @@
 						"correct": "Erebus",
 						"difficulty": "Hard",
 						"explanation": "Erebus serves as the first main region in Hades 2, though it retains the purple coloring of the original Tartarus.",
+						"fact_checked": true,
 						"question": "In Hades 2, when Melinoe attempts to save her family, what is the name of the new location that has replaced Tartarus, now ruled by Chronos?",
 						"wrong": [
 							"Phlegethon",
@@ -21470,6 +21418,7 @@
 						"correct": "Six",
 						"difficulty": "Easy",
 						"explanation": "There are six core weapons: sword, bow, shield, spear, fists, and rail.",
+						"fact_checked": true,
 						"question": "How many core Infernal Arms are available for Zagreus to wield?",
 						"wrong": [
 							"Five",
@@ -21481,6 +21430,7 @@
 						"correct": "Aspects",
 						"difficulty": "Easy",
 						"explanation": "Each weapon has four aspects, unlocked using Titan Blood.",
+						"fact_checked": true,
 						"question": "What is the collective name for the secret, powerful variations of the Infernal Arms, often named after gods or heroes?",
 						"wrong": [
 							"Forms",
@@ -21492,6 +21442,7 @@
 						"correct": "Sword",
 						"difficulty": "Easy",
 						"explanation": "The Stygian Blade is the starter weapon, a classic sword.",
+						"fact_checked": true,
 						"question": "Which type of Infernal Arm is referred to by the epithet, 'Stygian Blade'?",
 						"wrong": [
 							"Spear",
@@ -21500,9 +21451,10 @@
 						]
 					},
 					{
-						"correct": "The Hidden Phrase",
+						"correct": "Titan Blood",
 						"difficulty": "Medium",
 						"explanation": "The Hidden Aspects require finding a special phrase spoken by a specific character.",
+						"fact_checked": true,
 						"question": "What specific item is required to unlock the Aspect of Guan Yu for the Eternal Spear?",
 						"wrong": [
 							"The Daedalus Hammer",
@@ -21511,9 +21463,10 @@
 						]
 					},
 					{
-						"correct": "Hera's Bow",
+						"correct": "Coronacht ",
 						"difficulty": "Medium",
 						"explanation": "The bow's base name is Coronacht, but it is known as the Heart-Seeking Bow.",
+						"fact_checked": true,
 						"question": "Which weapon, found in the display case, is known as the Heart-Seeking Bow?",
 						"wrong": [
 							"Artemis's Bow",
@@ -21525,6 +21478,7 @@
 						"correct": "Titan Blood",
 						"difficulty": "Medium",
 						"explanation": "Titan Blood is a rare material earned by defeating bosses at higher Heat levels.",
+						"fact_checked": true,
 						"question": "What unique resource is exclusively used to upgrade the Aspects of the Infernal Arms?",
 						"wrong": [
 							"Darkness",
@@ -21533,9 +21487,10 @@
 						]
 					},
 					{
-						"correct": "Aspect of Chiron",
+						"correct": "Aspect of Tiresias",
 						"difficulty": "Hard",
 						"explanation": "The Aspect of Chiron is one of the available forms for the Heart-Seeking Bow.",
+						"fact_checked": true,
 						"question": "Which aspect of the Infernal Arms is attributed to the legendary figure who gave up his eyes to gain prophetic knowledge?",
 						"wrong": [
 							"Aspect of Nemesis",
@@ -21547,22 +21502,12 @@
 						"correct": "They were worn by the famous trainer of Heracles",
 						"difficulty": "Hard",
 						"explanation": "The fists were once worn by a famous trainer who instructed Heracles in boxing.",
+						"fact_checked": true,
 						"question": "What is the origin of the Twin Fists of Malphon, according to the weapon descriptions?",
 						"wrong": [
 							"They belonged to Cerberus",
 							"They were forged by Hephaestus",
 							"They are a gift from Zeus"
-						]
-					},
-					{
-						"correct": "Aspect of Lucifer",
-						"difficulty": "Hard",
-						"explanation": "The Aspect of Lucifer is the only one that drastically changes the weapon's appearance and function, giving it the Exagryph name.",
-						"question": "What is the name of the Adamant Rail, the firearms weapon, given the nickname of 'Exagryph'?",
-						"wrong": [
-							"Aspect of Hestia",
-							"Aspect of Enyo",
-							"Aspect of Zagreus"
 						]
 					}
 				]
@@ -21590,6 +21535,7 @@
 						"correct": "A swirling void",
 						"difficulty": "Easy",
 						"explanation": "Chaos resides in the Void, accessible through the rare Chaos Gate.",
+						"fact_checked": true,
 						"question": "What type of special gate must Zagreus enter to reach the domain of Chaos?",
 						"wrong": [
 							"A green portal",
@@ -21601,6 +21547,7 @@
 						"correct": "Nyx",
 						"difficulty": "Easy",
 						"explanation": "Chaos is the progenitor of existence, and thus the parent of Nyx, Night itself.",
+						"fact_checked": true,
 						"question": "Chaos is considered the parent of which main supporting character in Hades 1?",
 						"wrong": [
 							"Persephone",
@@ -21612,6 +21559,7 @@
 						"correct": "The Cosmic Egg",
 						"difficulty": "Easy",
 						"explanation": "The Cosmic Egg Keepsake, given by Chaos, protects the carrier from the entry damage.",
+						"fact_checked": true,
 						"question": "What item must Zagreus carry upon entering the Chaos Gate in order to avoid taking damage upon entry?",
 						"wrong": [
 							"The Skull Earring",
@@ -21620,20 +21568,10 @@
 						]
 					},
 					{
-						"correct": "Gifts of the Void",
-						"difficulty": "Medium",
-						"explanation": "Chaos's boons provide powerful buffs, but they always start with a temporary severe debuff.",
-						"question": "Chaos offers Zagreus a unique type of boon that always comes with a simultaneous negative effect. What are these boons called?",
-						"wrong": [
-							"Chaos Blessings",
-							"Temporal Shifts",
-							"Primordial Favors"
-						]
-					},
-					{
 						"correct": "Boons",
 						"difficulty": "Medium",
 						"explanation": "Chaos still provides powerful, risk-reward boons to Melinoe.",
+						"fact_checked": true,
 						"question": "In Hades 2, Chaos is found deep within the Underworld, but they offer Melinoe assistance via which primary resource?",
 						"wrong": [
 							"Nectar",
@@ -21645,6 +21583,7 @@
 						"correct": "The difficulty of adapting to pure existence",
 						"difficulty": "Medium",
 						"explanation": "The primordial nature of Chaos causes temporary physical ailments when a mortal attempts to wield their power.",
+						"fact_checked": true,
 						"question": "Which aspect of Chaos's nature is the source of the temporary debuffs that affect Zagreus?",
 						"wrong": [
 							"A test of worthiness",
@@ -21656,6 +21595,7 @@
 						"correct": "Italicized and smaller text",
 						"difficulty": "Hard",
 						"explanation": "The unique font style reflects Chaos's ancient, distant, and quiet nature.",
+						"fact_checked": true,
 						"question": "When Chaos speaks, their dialogue is represented by which distinctive font feature?",
 						"wrong": [
 							"All caps and glowing red",
@@ -21664,9 +21604,10 @@
 						]
 					},
 					{
-						"correct": "The establishment of the Olympians",
+						"correct": "The establishment of Order ",
 						"difficulty": "Hard",
 						"explanation": "Chaos represents the state before ordered creation, which was imposed upon them by later deities.",
+						"fact_checked": true,
 						"question": "What ancient force did Chaos oppose, leading to their current state of being disconnected from reality?",
 						"wrong": [
 							"The rise of the Titans",
@@ -21678,6 +21619,7 @@
 						"correct": "The Abyss",
 						"difficulty": "Hard",
 						"explanation": "Chaos implies that even they were born from something, a concept they refer to as the Abyss.",
+						"fact_checked": true,
 						"question": "In the original mythos, before Chaos, there was nothing. However, in Hades 1, what does Chaos claim to have existed just before them?",
 						"wrong": [
 							"The Stars",
@@ -21710,6 +21652,7 @@
 						"correct": "The Sea",
 						"difficulty": "Easy",
 						"explanation": "Poseidon is one of the three great brothers, ruler of the oceans.",
+						"fact_checked": true,
 						"question": "Poseidon is the God of which domain?",
 						"wrong": [
 							"The Sky",
@@ -21721,6 +21664,7 @@
 						"correct": "Pushing or launching enemies",
 						"difficulty": "Easy",
 						"explanation": "Poseidon's boons specialize in knockback and movement control.",
+						"fact_checked": true,
 						"question": "What is the primary effect of Poseidon's Boons on Zagreus's abilities?",
 						"wrong": [
 							"Freezing enemies in place",
@@ -21732,6 +21676,7 @@
 						"correct": "Oceanus",
 						"difficulty": "Easy",
 						"explanation": "Oceanus is the river of the sea, making it Poseidon's primary jurisdiction in the second game.",
+						"fact_checked": true,
 						"question": "In Hades 2, Poseidon provides aid to Melinoe while she is traveling through which specific aquatic location?",
 						"wrong": [
 							"The Surface",
@@ -21743,6 +21688,7 @@
 						"correct": "Visit the beach",
 						"difficulty": "Medium",
 						"explanation": "Poseidon is eager for Zagreus to enjoy the world outside the gloomy Underworld.",
+						"fact_checked": true,
 						"question": "What does Poseidon often encourage Zagreus to do when he reaches the Surface world?",
 						"wrong": [
 							"Call Zeus",
@@ -21754,6 +21700,7 @@
 						"correct": "Zeus forbade it",
 						"difficulty": "Medium",
 						"explanation": "Poseidon states that Zeus would cause a great fuss if he were to help Zagreus cross the ocean.",
+						"fact_checked": true,
 						"question": "In Hades 1, why does Poseidon specifically refuse to allow Zagreus to travel across the oceans when he reaches the Surface?",
 						"wrong": [
 							"The boat was broken",
@@ -21762,9 +21709,10 @@
 						]
 					},
 					{
-						"correct": "Tidal Wave Stone",
+						"correct": "Conch Shell",
 						"difficulty": "Medium",
 						"explanation": "The Conch Shell ensures the next boon you find is from an Olympian and is high rarity.",
+						"fact_checked": true,
 						"question": "What is the name of the Keepsake Poseidon gives, which guarantees a high-rarity Boon from a specific category?",
 						"wrong": [
 							"Poseidon's Shell",
@@ -21773,20 +21721,10 @@
 						]
 					},
 					{
-						"correct": "A drifting shell",
-						"difficulty": "Hard",
-						"explanation": "The Bloodstone is replaced by a shell that recovers faster but cannot be retrieved manually.",
-						"question": "In Hades 1, Poseidon's boon 'Stygian Soul' replaces the Bloodstone mechanism with what ocean-themed alternative?",
-						"wrong": [
-							"A water jet",
-							"A sea star",
-							"A wave crest"
-						]
-					},
-					{
 						"correct": "Giant Antaeus",
 						"difficulty": "Hard",
 						"explanation": "Poseidon mentions he defeated Antaeus, a son of Gaia, but Zagreus remains skeptical of the account.",
+						"fact_checked": true,
 						"question": "Which legendary hero does Poseidon often brag about defeating in a fight, even though the tale is heavily disputed?",
 						"wrong": [
 							"The Minotaur",
@@ -21798,6 +21736,7 @@
 						"correct": "The little brother",
 						"difficulty": "Hard",
 						"explanation": "Poseidon frequently uses 'little brother' to emphasize his seniority and the fact that Hades is stuck in the Underworld.",
+						"fact_checked": true,
 						"question": "What nickname does Poseidon often use to refer to Zagreus's father, Hades, demonstrating his casual disdain?",
 						"wrong": [
 							"Dark Lord",
@@ -21830,6 +21769,7 @@
 						"correct": "Light",
 						"difficulty": "Easy",
 						"explanation": "Apollo is the God of the Sun, Light, Music, and Prophecy.",
+						"fact_checked": true,
 						"question": "Apollo is the Olympian God of which major domain?",
 						"wrong": [
 							"The Moon",
@@ -21841,6 +21781,7 @@
 						"correct": "Wide Area Damage",
 						"difficulty": "Easy",
 						"explanation": "Apollo's boons focus on increasing attack area and light-based effects.",
+						"fact_checked": true,
 						"question": "What is the key combat mechanic that Apollo's Boons specialize in providing to Melinoe?",
 						"wrong": [
 							"Chain Lightning",
@@ -21849,20 +21790,10 @@
 						]
 					},
 					{
-						"correct": "Cast",
-						"difficulty": "Easy",
-						"explanation": "Apollo heavily influences Melinoe's Cast ability, making the stars explode with light.",
-						"question": "Which of Melinoe's skills does Apollo prioritize enhancing, fitting his domain of light and brilliance?",
-						"wrong": [
-							"Sprint",
-							"Omega Attack",
-							"Dodge"
-						]
-					},
-					{
 						"correct": "Orpheus",
 						"difficulty": "Medium",
 						"explanation": "Apollo often critiques Orpheus's music, believing his own skills are superior.",
+						"fact_checked": true,
 						"question": "Apollo is often seen comparing Melinoe's natural musical talent to the perceived lack of talent in which family member?",
 						"wrong": [
 							"Hades",
@@ -21874,6 +21805,7 @@
 						"correct": "Artemis",
 						"difficulty": "Medium",
 						"explanation": "Artemis and Apollo are the twin children of Zeus and Leto.",
+						"fact_checked": true,
 						"question": "Which other Olympian is Apollo's twin sister, often providing boons alongside him?",
 						"wrong": [
 							"Athena",
@@ -21885,6 +21817,7 @@
 						"correct": "Daze",
 						"difficulty": "Medium",
 						"explanation": "The Daze curse is the unique status effect applied by Apollo's boons.",
+						"fact_checked": true,
 						"question": "What specific type of status curse does Apollo inflict, which causes enemies to take increased damage from all sources?",
 						"wrong": [
 							"Blind",
@@ -21893,20 +21826,10 @@
 						]
 					},
 					{
-						"correct": "Princess of the Witches",
-						"difficulty": "Hard",
-						"explanation": "Apollo acknowledges Melinoe's lineage, recognizing her role as Hecate's pupil.",
-						"question": "When addressing Melinoe, Apollo uses which formal title that refers to her heritage?",
-						"wrong": [
-							"Mistress of Darkness",
-							"Sovereign of Phantoms",
-							"Daughter of Night"
-						]
-					},
-					{
 						"correct": "The Glowing Lyre",
 						"difficulty": "Hard",
 						"explanation": "The Glowing Lyre enhances the range and area of Melinoe's charged-up attacks.",
+						"fact_checked": true,
 						"question": "Which Keepsake given by Apollo, symbolized by a gold lyre, increases the size of Melinoe's Omega attacks?",
 						"wrong": [
 							"Apollo's Laurel",
@@ -21918,6 +21841,7 @@
 						"correct": "Marsyas",
 						"difficulty": "Hard",
 						"explanation": "Apollo punished Marsyas for believing he was a better musician, reflecting his ego.",
+						"fact_checked": true,
 						"question": "Which mythological figure, known for his hubris in challenging Apollo's musical skill, suffered the fate of being skinned alive?",
 						"wrong": [
 							"Midas",
@@ -21950,6 +21874,7 @@
 						"correct": "The River Styx",
 						"difficulty": "Easy",
 						"explanation": "The Temple of Styx is the gateway located near the legendary river.",
+						"fact_checked": true,
 						"question": "Which river does the final realm, the Temple of Styx, derive its name from?",
 						"wrong": [
 							"The River Lethe",
@@ -21961,6 +21886,7 @@
 						"correct": "Charon",
 						"difficulty": "Easy",
 						"explanation": "Charon is the iconic ferryman of the Underworld.",
+						"fact_checked": true,
 						"question": "What is the name of the ferryman who operates the transit system within the Temple of Styx?",
 						"wrong": [
 							"Minos",
@@ -21972,6 +21898,7 @@
 						"correct": "A Satchel of Treats",
 						"difficulty": "Easy",
 						"explanation": "The treats are required to soothe Cerberus and gain passage.",
+						"fact_checked": true,
 						"question": "What key item must Zagreus retrieve in the Temple of Styx before facing the final encounter?",
 						"wrong": [
 							"A Golden Key",
@@ -21980,20 +21907,10 @@
 						]
 					},
 					{
-						"correct": "The Crossroads",
-						"difficulty": "Medium",
-						"explanation": "The player chooses paths from a central area, hoping to find the correct exit chamber.",
-						"question": "The Temple of Styx is famously composed of a series of small, randomized chambers that lead to which central hub?",
-						"wrong": [
-							"The Great Hall",
-							"The Ferry Dock",
-							"The Winding Path"
-						]
-					},
-					{
 						"correct": "It holds binding power for sacred oaths",
 						"difficulty": "Medium",
 						"explanation": "The River Styx is where gods make their most unbreakable oaths.",
+						"fact_checked": true,
 						"question": "What is the unique feature of the water in the River Styx, according to myth and referenced in the game?",
 						"wrong": [
 							"It turns gold into ash",
@@ -22005,6 +21922,7 @@
 						"correct": "Vermin",
 						"difficulty": "Medium",
 						"explanation": "The Temple of Styx is infested with poisonous rats and large rats.",
+						"fact_checked": true,
 						"question": "In the game, which primary enemy type is exclusive to the Temple of Styx, known for its corrosive poison effects?",
 						"wrong": [
 							"Witches",
@@ -22016,6 +21934,7 @@
 						"correct": "Hades",
 						"difficulty": "Hard",
 						"explanation": "Hades guards the true exit of the Underworld, waiting in the final chamber.",
+						"fact_checked": true,
 						"question": "What is the name of the final boss fought in the Temple of Styx during the first escape attempt?",
 						"wrong": [
 							"The Hydra",
@@ -22024,20 +21943,10 @@
 						]
 					},
 					{
-						"correct": "A cloud of smoke and water",
-						"difficulty": "Hard",
-						"explanation": "Styx, the personification of the river, appears as a misty, aquatic entity.",
-						"question": "What physical manifestation is Styx said to possess when she is encountered in her true form?",
-						"wrong": [
-							"A giant serpent",
-							"A beautiful woman in a rowboat",
-							"A glowing golden sphere"
-						]
-					},
-					{
 						"correct": "Achilles",
 						"difficulty": "Hard",
 						"explanation": "Achilles was held by his heel, the only part of his body not touched by the water.",
+						"fact_checked": true,
 						"question": "Which specific mythological figure was made nearly immortal by being dipped in the River Styx, leaving only his heel vulnerable?",
 						"wrong": [
 							"Heracles",
@@ -22070,6 +21979,7 @@
 						"correct": "Giving Nectar",
 						"difficulty": "Easy",
 						"explanation": "Keepsakes are typically received upon giving Nectar, establishing a relationship with a character.",
+						"fact_checked": true,
 						"question": "What character interaction is usually required to receive a Keepsake?",
 						"wrong": [
 							"Completing a quest",
@@ -22081,6 +21991,7 @@
 						"correct": "One",
 						"difficulty": "Easy",
 						"explanation": "Only one Keepsake can be active per chamber, though it can be changed between regions.",
+						"fact_checked": true,
 						"question": "How many Keepsakes can Zagreus or Melinoe equip at any one time?",
 						"wrong": [
 							"Two",
@@ -22089,20 +22000,10 @@
 						]
 					},
 					{
-						"correct": "The God of Wealth",
-						"difficulty": "Easy",
-						"explanation": "The Keepsake pedestal is manned by Hermes and is found at the entrance to each new region.",
-						"question": "Which character allows Zagreus to switch out his Keepsake between realms?",
-						"wrong": [
-							"The God of War",
-							"The Ferryman",
-							"The Night Mother"
-						]
-					},
-					{
-						"correct": "Purity",
+						"correct": "Rank",
 						"difficulty": "Medium",
 						"explanation": "Keepsakes gain Purity ranks through completing encounters with them equipped.",
+						"fact_checked": true,
 						"question": "What is the term for the process used by the Keepsakes to become more effective as Zagreus progresses?",
 						"wrong": [
 							"Enchanting",
@@ -22111,20 +22012,10 @@
 						]
 					},
 					{
-						"correct": "Blackened Tooth",
-						"difficulty": "Medium",
-						"explanation": "The Keepsake given by the fisherman increases the odds of rare catches.",
-						"question": "Which Keepsake, obtained from the grumpy fisherman, allows Zagreus to potentially catch rare types of fish?",
-						"wrong": [
-							"Shattered Shackle",
-							"Bone Hourglass",
-							"Chthonic Key"
-						]
-					},
-					{
 						"correct": "Hermes",
 						"difficulty": "Medium",
 						"explanation": "Hermes's Lambent Plume grants a temporary dodge bonus after clearing encounters quickly.",
+						"fact_checked": true,
 						"question": "Which Olympian's Keepsake provides a bonus to dodging chance?",
 						"wrong": [
 							"Zeus",
@@ -22136,6 +22027,7 @@
 						"correct": "Five",
 						"difficulty": "Hard",
 						"explanation": "The Acorn absorbs the first five instances of damage during a boss fight.",
+						"fact_checked": true,
 						"question": "The Keepsake 'Evergreen Acorn', given by Demeter, works by granting Zagreus how many hits of complete invulnerability against the final boss?",
 						"wrong": [
 							"Three",
@@ -22147,22 +22039,12 @@
 						"correct": "Psyche",
 						"difficulty": "Hard",
 						"explanation": "Melinoe uses Psyche, the embodiment of the soul, to upgrade her Keepsakes.",
+						"fact_checked": true,
 						"question": "In Hades 2, Keepsakes can be leveled up using which new currency, obtained by defeating enemies?",
 						"wrong": [
 							"Cinder",
 							"Bones",
 							"Fate"
-						]
-					},
-					{
-						"correct": "Shattered Shackle",
-						"difficulty": "Hard",
-						"explanation": "The Shattered Shackle is given by Sisyphus, while the Keepsake that helps fishing is the one received from the fisherman.",
-						"question": "What is the name of the Keepsake given by the enigmatic fisherman that helps Zagreus locate fishing spots more frequently?",
-						"wrong": [
-							"Old Spiked Collar",
-							"The Blackened Tooth",
-							"The Fishing Net"
 						]
 					}
 				]
@@ -22190,6 +22072,7 @@
 						"correct": "Wine and Pleasure",
 						"difficulty": "Easy",
 						"explanation": "Dionysus governs celebration, madness, and the effects of intoxication.",
+						"fact_checked": true,
 						"question": "Dionysus is the Olympian God of what two concepts?",
 						"wrong": [
 							"War and Fury",
@@ -22198,9 +22081,10 @@
 						]
 					},
 					{
-						"correct": "Poison",
+						"correct": "Hangover",
 						"difficulty": "Easy",
 						"explanation": "His boons often inflict poison, visually represented by green gas.",
+						"fact_checked": true,
 						"question": "What status effect do Dionysus's boons apply to enemies, causing them damage over time?",
 						"wrong": [
 							"Chill",
@@ -22209,9 +22093,10 @@
 						]
 					},
 					{
-						"correct": "Keepsake of Bacchus",
+						"correct": "Overflowing Cup",
 						"difficulty": "Easy",
 						"explanation": "The Keepsake is the 'Blood-filled Vial' which increases the chance of finding Dionysus boons.",
+						"fact_checked": true,
 						"question": "What is the name of the Keepsake given by Dionysus?",
 						"wrong": [
 							"Blood-filled Vial",
@@ -22220,9 +22105,10 @@
 						]
 					},
 					{
-						"correct": "Half-brother",
+						"correct": "Cousin",
 						"difficulty": "Medium",
 						"explanation": "Both Zagreus and Dionysus are sons of Zeus, making them half-brothers.",
+						"fact_checked": true,
 						"question": "What familial relationship does Dionysus share with Zagreus, as revealed late in the story?",
 						"wrong": [
 							"First cousin",
@@ -22231,20 +22117,10 @@
 						]
 					},
 					{
-						"correct": "The stack count is limited by the boon level",
-						"difficulty": "Medium",
-						"explanation": "While stacks are infinite, the maximum simultaneous damage is dictated by the highest rank boon applied.",
-						"question": "Dionysus’s main status effect, Poison, can be stacked infinitely high, but its damage output is always capped by what mechanism?",
-						"wrong": [
-							"Enemy health total",
-							"Poison is not capped",
-							"Zagreus's total damage"
-						]
-					},
-					{
 						"correct": "Hera",
 						"difficulty": "Medium",
 						"explanation": "Hera, Zeus's wife, often persecuted his extramarital children, including Dionysus.",
+						"fact_checked": true,
 						"question": "In his dialogue, Dionysus frequently mentions he is avoiding his step-mother. Who is he referring to?",
 						"wrong": [
 							"Demeter",
@@ -22253,20 +22129,10 @@
 						]
 					},
 					{
-						"correct": "Black Out",
-						"difficulty": "Hard",
-						"explanation": "Black Out is one of the dual boons available after achieving max affinity with Dionysus.",
-						"question": "What rare and highly prized boon, exclusive to Dionysus, allows Zagreus to heal instantly upon finding a new boon?",
-						"wrong": [
-							"Drunken Feast",
-							"Party Time",
-							"Numbing Sensation"
-						]
-					},
-					{
 						"correct": "Zagreus was also resurrected after a tragic death",
 						"difficulty": "Hard",
 						"explanation": "Dionysus was born twice in myth, a fate similar to Zagreus who was killed and brought back to life.",
+						"fact_checked": true,
 						"question": "Dionysus is sometimes referred to as 'Twice-Born' in myth. How does this concept relate to Zagreus in the game's lore?",
 						"wrong": [
 							"Both were adopted by two different mothers",
@@ -22278,6 +22144,7 @@
 						"correct": "A cluster of grapes",
 						"difficulty": "Hard",
 						"explanation": "Dionysus asks for the primary source of wine, fresh grapes, as a gift.",
+						"fact_checked": true,
 						"question": "In Hades 2, which specific ritual item does Dionysus request from Melinoe, referencing his domain?",
 						"wrong": [
 							"A bottle of wine",
@@ -22310,6 +22177,7 @@
 						"correct": "Currency exchange",
 						"difficulty": "Easy",
 						"explanation": "The Broker allows Zagreus to trade one resource for another.",
+						"fact_checked": true,
 						"question": "What is the Wretched Broker's main service in the House of Hades?",
 						"wrong": [
 							"Weapon repair",
@@ -22321,6 +22189,7 @@
 						"correct": "A shade",
 						"difficulty": "Easy",
 						"explanation": "The Broker is a purple shade, a common denizen of the Underworld.",
+						"fact_checked": true,
 						"question": "What type of enemy is the Wretched Broker, based on his appearance?",
 						"wrong": [
 							"A Titan",
@@ -22332,6 +22201,7 @@
 						"correct": "The House of Hades lounge",
 						"difficulty": "Easy",
 						"explanation": "He is located in the main lounge area, near the contractor.",
+						"fact_checked": true,
 						"question": "Where is the Wretched Broker permanently stationed?",
 						"wrong": [
 							"Elysium",
@@ -22343,6 +22213,7 @@
 						"correct": "The next escape attempt",
 						"difficulty": "Medium",
 						"explanation": "The special trade offer refreshes every time Zagreus completes a run or dies.",
+						"fact_checked": true,
 						"question": "The Wretched Broker offers a 'Wretched Favor' trade that resets after what period of time?",
 						"wrong": [
 							"One hour of real time",
@@ -22351,58 +22222,15 @@
 						]
 					},
 					{
-						"correct": "Darkness",
-						"difficulty": "Medium",
-						"explanation": "Darkness is a high-value resource for the Broker's inventory.",
-						"question": "What resource is the Broker most likely to offer a 1:1 trade for, due to his high demand for it?",
-						"wrong": [
-							"Nectar",
-							"Gems",
-							"Titan Blood"
-						]
-					},
-					{
-						"correct": "Court Musician's Contract",
-						"difficulty": "Medium",
-						"explanation": "The Broker appears after purchasing the specific renovation that clears space in the lounge.",
-						"question": "Which House Contractor upgrade must be purchased before the Wretched Broker will set up shop?",
-						"wrong": [
-							"The Dark Thirst Upgrade",
-							"The Apothecary Table",
-							"Cerberus's Bed"
-						]
-					},
-					{
 						"correct": "He was Hades's first lawyer",
 						"difficulty": "Hard",
 						"explanation": "The Broker was formerly an attorney whose poor performance led to his current role as a resource trader.",
+						"fact_checked": true,
 						"question": "What is the hidden truth about the Wretched Broker's background, referenced in one of the administrative documents?",
 						"wrong": [
 							"He was a disgraced Titan",
 							"He is a minor Olympian deity",
 							"He is a spy for Chaos"
-						]
-					},
-					{
-						"correct": "Diamonds",
-						"difficulty": "Hard",
-						"explanation": "Diamonds are usually acquired by defeating the Lernaean Bone Hydra at specific Heat levels.",
-						"question": "The Wretched Broker's unique item pool, the 'Wretched Favor', always includes a trade for which specific resource that is otherwise very difficult to acquire in the House?",
-						"wrong": [
-							"Chaos Crystals",
-							"Titan Blood",
-							"Ambrosia"
-						]
-					},
-					{
-						"correct": "The Commissary",
-						"difficulty": "Hard",
-						"explanation": "The Broker establishes a Commissary at the Crossroads in Hades 2.",
-						"question": "In Hades 2, Melinoe gains access to the Broker's services, but he refers to his store by what different name?",
-						"wrong": [
-							"The Wretched Exchange",
-							"The Soul Market",
-							"The Trade Post"
 						]
 					}
 				]
@@ -22426,129 +22254,80 @@
 	],
 	"peripherals": [
 		{
-			"color": "#FFC300",
-			"condition": "STACK_1",
-			"desc": "Grants a bonus of 400 points to your total score when only a single cartridge is loaded.",
-			"id": "specialist_targeting_scope",
+			"color": "#FFD700",
+			"desc": "Adds +500 points to every scoring action.",
+			"effect_id": "EFF_FLAT_500",
+			"id": "charon_counter_v1",
 			"keywords": [
-				"Pip-Boy",
-				"Precision",
-				"Focus",
-				"Retro"
+				"Value",
+				"Economy"
 			],
-			"logic_type": "FLAT",
-			"logic_val": 400.0,
-			"name": "Targeting Scope 1-A",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#C70039",
-			"condition": "STACK_3",
-			"desc": "Applies a 1.75x multiplier to the final score when playing a triple cartridge stack.",
-			"id": "gambler_triple_stack",
-			"keywords": [
-				"Jury-Rigged",
-				"High-Risk",
-				"Luck",
-				"Energy"
-			],
-			"logic_type": "MULT",
-			"logic_val": 1.75,
-			"name": "Jury-Rigged Matrix",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#1AA78F",
-			"condition": "HARD_ONLY",
-			"desc": "Provides a raw point bonus of 750 points upon correctly answering a Hard difficulty question.",
-			"id": "expert_enclave_chip",
-			"keywords": [
-				"Pre-War Tech",
-				"Enclave",
-				"Logic",
-				"Data"
-			],
-			"logic_type": "FLAT",
-			"logic_val": 750.0,
-			"name": "Enclave Logic Board",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#FF0000",
-			"desc": "A firmware override extracted from the Praetor Suit, forcing optimal performance tolerances. If you can handle the intensity of true Ultra-Violence, the rewards are exponential.",
-			"effect_id": "EFF_HARD_BOOST",
-			"id": "doom_praetor_chip",
-			"keywords": [
-				"Praetor",
-				"Difficulty",
-				"Score"
-			],
-			"name": "Praetor Calibration Chip",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#AA00AA",
-			"desc": "This repurposed Hell-tech device feeds directly off the frantic pace of continuous combat, generating point bonuses as long as the slaughter does not cease. Maintain the momentum.",
-			"effect_id": "EFF_STREAK_FLAT",
-			"id": "doom_carnage_engine",
-			"keywords": [
-				"Momentum",
-				"Hell-Tech",
-				"Streak"
-			],
-			"name": "The Carnage Engine",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#00FF00",
-			"desc": "Designed to channel maximum available energy into a single stream. Sacrifices versatility for an overwhelming, singular payload. Dedication yields destructive results.",
-			"effect_id": "EFF_STACK_1",
-			"id": "doom_argent_focus",
-			"keywords": [
-				"Argent",
-				"Focus",
-				"Specialization"
-			],
-			"name": "Argent Focus Array",
+			"name": "Charon's Obol Counter",
 			"type": "PERIPHERAL"
 		},
 		{
 			"color": "#8B0000",
-			"desc": "A bio-integrated filter system designed to increase adrenaline and neural feedback the longer the user remains bathed in viscera. The Slayer maintains maximum efficiency only when momentum is unbroken.",
-			"effect_id": "EFF_STREAK_FLAT",
-			"id": "doom_periph_001",
-			"keywords": [
-				"Hell",
-				"Bio-Tech",
-				"Kinetic"
-			],
-			"name": "The Gore Shroud",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#333333",
-			"desc": "UAC experimental hardware designed to override conventional safety limiters. It offers maximum data extraction and score multiplier, but only when operating under parameters that guarantee immediate, catastrophic failure should the user fail.",
-			"effect_id": "EFF_HARD_BOOST",
-			"id": "doom_periph_002",
-			"keywords": [
-				"UAC",
-				"Overclock",
-				"Challenge"
-			],
-			"name": "Nightmare Protocol Chip (NPC-84)",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#99752D",
-			"desc": "A salvaged component from the old World Spear. This matrix synchronizes three separate power sources within the Praetor Suit, achieving a total power output far exceeding the sum of its parts.",
+			"desc": "Grants a substantial bonus multiplier when three scoring elements are completed simultaneously.",
 			"effect_id": "EFF_STACK_3",
-			"id": "doom_periph_003",
+			"id": "infernal_triptych_mk2",
 			"keywords": [
-				"Praetor",
-				"Synergy",
-				"Artifact"
+				"Combo",
+				"Setup",
+				"Cluster"
 			],
-			"name": "Praetor Unification Matrix",
+			"name": "The Infernal Triptych",
+			"type": "PERIPHERAL"
+		},
+		{
+			"color": "#007FFF",
+			"desc": "Provides an escalating score multiplier bonus for consecutive scoring actions that share the same designated Tag or Manufacturer ID.",
+			"effect_id": "EFF_BRAND_LOYALTY",
+			"id": "olympian_patron_seal",
+			"keywords": [
+				"Synergy",
+				"Loyalty",
+				"Tags"
+			],
+			"name": "Olympian Patronage Seal",
+			"type": "PERIPHERAL"
+		},
+		{
+			"color": "#3D0000",
+			"desc": "Grants 3x Score Multiplier if only one Peripheral Cartridge is currently active.",
+			"effect_id": "EFF_STACK_1",
+			"id": "cthonic_focus_coil",
+			"keywords": [
+				"Focus",
+				"Solitude",
+				"Underworld"
+			],
+			"name": "Cthonic Focus Coil",
+			"type": "PERIPHERAL"
+		},
+		{
+			"color": "#B83A00",
+			"desc": "Doubles all earned scores (x2 total modifier) when playing on 'Hard' or 'Nightmare' difficulty settings.",
+			"effect_id": "EFF_HARD_BOOST",
+			"id": "pact_modifier_unit",
+			"keywords": [
+				"Challenge",
+				"Heat",
+				"Punishment"
+			],
+			"name": "The Pact Modifier",
+			"type": "PERIPHERAL"
+		},
+		{
+			"color": "#FFD700",
+			"desc": "Adds +250 points to the total score for every 10-point increment maintained in the current action streak. Resets upon score decay or error.",
+			"effect_id": "EFF_STREAK_FLAT",
+			"id": "olympian_rhapsody_driver",
+			"keywords": [
+				"Flow",
+				"Rhythm",
+				"Momentum"
+			],
+			"name": "Olympian Rhapsody",
 			"type": "PERIPHERAL"
 		}
 	],
@@ -23139,7 +22918,90 @@
 		},
 		{
 			"id": "hades 1 and 2",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Zagreus",
+						"Melinoe"
+					],
+					"name": "The Protagonists"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Chronos",
+						"Hades"
+					],
+					"name": "Time and Death"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Nyx",
+						"Chaos"
+					],
+					"name": "Shadow & Void"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Hecate",
+						"Melinoe"
+					],
+					"name": "Witch's Circle"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Zagreus",
+						"Megaera"
+					],
+					"name": "Fatal Attraction"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Cerberus",
+						"Hades"
+					],
+					"name": "Best Boy"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Wretched Broker",
+						"Keepsakes"
+					],
+					"name": "Merchant Guild"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"House of Hades",
+						"The Crossroads"
+					],
+					"name": "Journey's start"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Fated List",
+						"Infernal Arms",
+						"Keepsakes"
+					],
+					"name": "Tools of Fate"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Chronos",
+						"Hecate",
+						"Melinoe"
+					],
+					"name": "Titanomachy II"
+				}
+			]
 		}
 	]
 }
