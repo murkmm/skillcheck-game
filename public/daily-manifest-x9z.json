@@ -1,0 +1,478 @@
+{
+	"last_updated": 1770330370,
+	"schedule": {
+		"2026-01-23": [
+			"crash_bandicoot",
+			"crash_bandicoot_2_cortex_strikes_back",
+			"crash_bandicoot_warped"
+		],
+		"2026-01-24": {
+			"difficulty": "Expert",
+			"games": [
+				"crash_team_racing_ps1",
+				"crash_bandicoot_4_its_about_time",
+				"crash_bandicoot"
+			],
+			"mode": "STANDARD",
+			"motd": "Crash Daily !"
+		},
+		"2026-01-25": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Hello Kitty Daily Challenge",
+			"shops": [
+				{
+					"game": "hello_kitty_roller_rescue",
+					"peri": "rumble_pack"
+				},
+				{
+					"game": "hello_kitty_party_pals",
+					"peri": "expansion_pak"
+				}
+			],
+			"starters": [
+				"hello_kitty_island_adventure",
+				"hello_kitty_kruisers",
+				"hello_kitty_parade"
+			]
+		},
+		"2026-01-26": {
+			"difficulty": "Easy",
+			"mode": "INFLATION",
+			"motd": "Fortnite",
+			"shops": [
+				{
+					"game": "",
+					"peri": "rumble_pack"
+				},
+				{
+					"game": "",
+					"peri": "expansion_pak"
+				}
+			],
+			"starters": [
+				"fortnite_trivia_archive",
+				"fortnite_trivia_archive",
+				"fortnite_trivia_archive"
+			]
+		},
+		"2026-01-27": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Rosies Special Pokemon Daily !",
+			"share_text": "Proved their Eevee knowledge !",
+			"shops": [
+				{
+					"game": "",
+					"peri": "rumble_pack"
+				},
+				{
+					"game": "",
+					"peri": "expansion_pak"
+				}
+			],
+			"starters": [
+				"pokemon_legends_za_trivia_v1",
+				"eevee_trivia_challenge",
+				"pokemon_sword_shield_gen8"
+			]
+		},
+		"2026-01-28": {
+			"difficulty": "Expert",
+			"mode": "SUDDEN_DEATH",
+			"motd": "Mark's Halo Daily Testing",
+			"share_text": "Finished the fight !",
+			"shops": [
+				{
+					"game": "halo_wars_classic",
+					"peri": "rumble_pack"
+				},
+				{
+					"game": "halo_3_odst_trivia",
+					"peri": "expansion_pak"
+				}
+			],
+			"starters": [
+				"halo_ce_vibe_check_001",
+				"halo_2_master_chief",
+				"halo_3_nostalgia_trivia"
+			]
+		},
+		"2026-01-29": {
+			"difficulty": "Hard",
+			"mode": "SUDDEN_DEATH",
+			"motd": "MORE TESTING",
+			"share_text": "Pokemon  madness !",
+			"shops": [
+				{
+					"game": "",
+					"peri": "rumble_pack"
+				},
+				{
+					"game": "",
+					"peri": "expansion_pak"
+				}
+			],
+			"starters": [
+				"eevee_trivia_challenge",
+				"pokemon_legends_za_trivia_v1",
+				"pokemon_sword_shield_gen8"
+			]
+		},
+		"2026-01-30": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Crash Firday !",
+			"share_text": "CRASHING INTO A TOP SCORE !",
+			"shops": [
+				{
+					"game": "doctor_neo_cortex_trivia",
+					"peri": "expansion_pak"
+				},
+				{
+					"game": "n_sanity_beach_trivia_20",
+					"peri": "rumble_pack"
+				}
+			],
+			"starters": [
+				"crash_bandicoot_character_trivia",
+				"warp_room_crash_2_trivia",
+				"coco_bandicoot_cb2_trivia"
+			]
+		},
+		"2026-01-31": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Halo New system test",
+			"share_text": "Finished The Fight",
+			"shops": [
+				{
+					"game": "guilty_spark",
+					"peri": "expansion_pak"
+				},
+				{
+					"game": "johnson",
+					"peri": "rumble_pack"
+				}
+			],
+			"starters": [
+				"master_chief",
+				"cortana",
+				"warthog",
+				"ghost",
+				"energy_sword",
+				"assault_rifle",
+				"reach",
+				"truth",
+				"installation_07",
+				"assault_on_the_control_room",
+				"flood",
+				"arbiter",
+				"installation_04",
+				"needler",
+				"scorpion",
+				"johnson",
+				"battle_rifle",
+				"high_charity",
+				"banshee",
+				"gravemind",
+				"guilty_spark"
+			]
+		},
+		"2026-02-01": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Gotta Catch Em All !",
+			"share_text": "Filled the Pokedex",
+			"shops": [
+				{
+					"game": "charizard",
+					"peri": "expansion_pak"
+				},
+				{
+					"game": "master_ball",
+					"peri": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"pikachu",
+				"charizard",
+				"pokédex"
+			],
+			"starters": [
+				"pikachu",
+				"red",
+				"s.s._anne",
+				"lavender_town",
+				"mewtwo",
+				"brock",
+				"bicycle",
+				"team_rocket",
+				"elite_four",
+				"surf",
+				"blue",
+				"pokédex",
+				"cinnabar_island",
+				"oak",
+				"cynthia",
+				"potions",
+				"tms",
+				"mt._silver",
+				"nurse_joy",
+				"gym_badges",
+				"poké_ball"
+			]
+		},
+		"2026-02-02": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Mario Kart Mondays !",
+			"share_text": "Avoided the blue shell !",
+			"shops": [
+				{
+					"game": "toad",
+					"peri": "rumble_pack"
+				},
+				{
+					"game": "yoshi",
+					"peri": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"luigi",
+				"mario",
+				"peach"
+			],
+			"starters": [
+				"mario",
+				"bowser",
+				"kart",
+				"gliding",
+				"fire_flower",
+				"blue_shell",
+				"rainbow_road",
+				"banana",
+				"coconut_mall",
+				"feather",
+				"coin",
+				"dry_bones",
+				"standard_kart",
+				"super_star",
+				"lakitu",
+				"mushroom",
+				"waluigi",
+				"wario_stadium",
+				"piranha_plant",
+				"lightning",
+				"luigi",
+				"peach",
+				"donkey_kong",
+				"wario",
+				"rosalina",
+				"shy_guy"
+			]
+		},
+		"2026-02-03": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Prepare to Die Edition",
+			"share_text": "Bonfire Lit",
+			"shops": [
+				{
+					"game": "sewer_rat",
+					"peri": "rumble_pack"
+				},
+				{
+					"game": "gaping_dragon",
+					"peri": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"artorias",
+				"chosen_undead",
+				"gwyn"
+			],
+			"starters": [
+				"chosen_undead",
+				"artorias",
+				"anor_londo",
+				"moonlight_greatsword",
+				"sif",
+				"firelink_shrine",
+				"solaire",
+				"gwyn",
+				"zweihander",
+				"bonfire",
+				"seath",
+				"quelaag",
+				"asylum_demon",
+				"taurus_demon",
+				"bell_gargoyle",
+				"capra_demon",
+				"iron_golem",
+				"titanite_demon",
+				"pinwheel",
+				"four_kings",
+				"chaos_eater",
+				"dragon",
+				"lautrec",
+				"siegmeyer",
+				"andre",
+				"priscilla",
+				"patches",
+				"frampt",
+				"kirk",
+				"reah",
+				"domhnall",
+				"logan",
+				"oswald",
+				"quelana"
+			]
+		},
+		"2026-02-04": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Nook Inc. Debt Repayment",
+			"share_text": "0 Bells remaining on my loan!",
+			"shops": [
+				{
+					"game": "kapp'n",
+					"peri": "expansion_pak"
+				},
+				{
+					"game": "lottie",
+					"peri": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"isabelle",
+				"tom_nook",
+				"k.k._slider"
+			],
+			"starters": [
+				"tom_nook",
+				"isabelle",
+				"the_museum",
+				"k.k._slider",
+				"redd",
+				"bell_bag",
+				"stalk_market",
+				"net",
+				"gyroid",
+				"resident_services",
+				"dodo_airlines",
+				"flick",
+				"blathers",
+				"celeste",
+				"sable",
+				"brewster",
+				"gulliver",
+				"c.j.",
+				"reese",
+				"cyrus",
+				"leif",
+				"harvey"
+			]
+		},
+		"2026-02-05": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Tunnel Snakes Rule!",
+			"share_text": "War... War never changes",
+			"shops": [
+				{
+					"p1": "specialist_targeting_scope",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "gambler_triple_stack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "expert_enclave_chip",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"three_dog",
+				"wanderer",
+				"colonel_autumn"
+			],
+			"starters": [
+				"wanderer",
+				"megaton",
+				"fat_man",
+				"deathclaw",
+				"project_purity",
+				"galaxy_news_radio",
+				"shishkebab",
+				"fawkes",
+				"james",
+				"colonel_autumn",
+				"james's_lab",
+				"sentinel_lyons",
+				"moira_brown",
+				"three_dog",
+				"mister_burke",
+				"butch_deloria",
+				"charon",
+				"lucas_simms",
+				"clover",
+				"harold",
+				"abraham_washington",
+				"eden",
+				"star_paladin_cross"
+			]
+		},
+		"2026-02-06": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Doom (2016): Hell on Mars",
+			"share_text": "Rip and Tear, until it is done. 🩸💀",
+			"shops": [
+				{
+					"p1": "doom_praetor_chip",
+					"p2": "doom_periph_001"
+				},
+				{
+					"p1": "doom_carnage_engine",
+					"p2": "doom_periph_002"
+				},
+				{
+					"p1": "doom_argent_focus",
+					"p2": "doom_periph_003"
+				}
+			],
+			"showcase": [
+				"doom_slayer",
+				"cacodaemon",
+				"cyberdemon"
+			],
+			"starters": [
+				"samuel_hayden",
+				"chainsaw",
+				"super_shotgun",
+				"uac_facility",
+				"argent_d'nur",
+				"imp",
+				"hell_knight",
+				"spider_mastermind",
+				"cacodaemon",
+				"pinky",
+				"revenant",
+				"mancubus",
+				"baron_of_hell",
+				"lost_soul",
+				"summoner",
+				"cyberdemon",
+				"spectre",
+				"possessed_soldier",
+				"prowler",
+				"hell_razor",
+				"unwilling",
+				"hell_razer",
+				"doom_slayer"
+			]
+		}
+	}
+}
