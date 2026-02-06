@@ -9,9 +9,5 @@
     }
   },
   "include": [".astro/types.d.ts", "**/*"],
-  "exclude": [
-    "dist/",
-    "node_modules",
-    "public/play"
-  ]
+  "exclude": ["dist/", "node_modules", "public/play"]
 }
