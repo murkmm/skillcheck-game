@@ -1,5 +1,5 @@
 {
-	"last_updated": 1770330370,
+	"last_updated": 1770417195,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -472,6 +472,55 @@
 				"unwilling",
 				"hell_razer",
 				"doom_slayer"
+			]
+		},
+		"2026-02-07": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Hades: Underworld Run",
+			"share_text": "Death to Chronos",
+			"shops": [
+				{
+					"p1": "charon_counter_v1",
+					"p2": "infernal_triptych_mk2"
+				},
+				{
+					"p1": "olympian_patron_seal",
+					"p2": "cthonic_focus_coil"
+				},
+				{
+					"p1": "pact_modifier_unit",
+					"p2": "olympian_rhapsody_driver"
+				}
+			],
+			"showcase": [
+				"melinoe",
+				"zagreus",
+				"hades"
+			],
+			"starters": [
+				"zagreus",
+				"melinoe",
+				"hades",
+				"hecate",
+				"chronos",
+				"house_of_hades",
+				"the_crossroads",
+				"mount_olympos",
+				"megaera",
+				"the_fated_list",
+				"nyx",
+				"thanatos",
+				"cerberus",
+				"tartarus",
+				"infernal_arms",
+				"chaos",
+				"poseidon",
+				"apollo",
+				"styx",
+				"keepsakes",
+				"dionysus",
+				"wretched_broker"
 			]
 		}
 	}
