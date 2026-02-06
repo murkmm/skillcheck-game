@@ -54,6 +54,14 @@ export default [
     },
   },
   {
-    ignores: ['dist', 'node_modules', '.github', 'types.generated.d.ts', '.astro'],
+    // --- UPDATED IGNORE LIST ---
+    ignores: [
+      'dist', 
+      'node_modules', 
+      '.github', 
+      'types.generated.d.ts', 
+      '.astro', 
+      'public/play/**' // <--- Added this line
+    ],
   },
 ];
