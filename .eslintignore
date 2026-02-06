@@ -1,0 +1,7 @@
+# Ignore Godot Game Files
+public/play/
+
+# Ignore Build Artifacts
+dist/
+node_modules/
+.astro/
