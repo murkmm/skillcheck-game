@@ -1,5 +1,5 @@
 {
-	"last_updated": 1770417195,
+	"last_updated": 1770553727,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -521,6 +521,57 @@
 				"keepsakes",
 				"dionysus",
 				"wretched_broker"
+			]
+		},
+		"2026-02-08": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Animal Crossing: Test  Daily revisit",
+			"share_text": "We did da test",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"tom_nook",
+				"isabelle",
+				"k.k._slider"
+			],
+			"starters": [
+				"isabelle",
+				"the_museum",
+				"k.k._slider",
+				"redd",
+				"bell_bag",
+				"stalk_market",
+				"net",
+				"gyroid",
+				"resident_services",
+				"dodo_airlines",
+				"flick",
+				"blathers",
+				"celeste",
+				"sable",
+				"brewster",
+				"gulliver",
+				"c.j.",
+				"reese",
+				"cyrus",
+				"leif",
+				"harvey",
+				"kapp'n",
+				"lottie",
+				"tom_nook"
 			]
 		}
 	}
