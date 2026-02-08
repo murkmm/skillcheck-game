@@ -1,5 +1,5 @@
 {
-	"last_updated": 1770553727,
+	"last_updated": 1770583840,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -572,6 +572,69 @@
 				"kapp'n",
 				"lottie",
 				"tom_nook"
+			]
+		},
+		"2026-02-09": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "2nd Dark Souls Test",
+			"share_text": "Prepare to test",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"chosen_undead",
+				"gwyn",
+				"artorias"
+			],
+			"starters": [
+				"chosen_undead",
+				"artorias",
+				"anor_londo",
+				"moonlight_greatsword",
+				"sif",
+				"firelink_shrine",
+				"solaire",
+				"gwyn",
+				"zweihander",
+				"bonfire",
+				"seath",
+				"quelaag",
+				"asylum_demon",
+				"taurus_demon",
+				"bell_gargoyle",
+				"capra_demon",
+				"gaping_dragon",
+				"iron_golem",
+				"titanite_demon",
+				"pinwheel",
+				"four_kings",
+				"chaos_eater",
+				"sewer_rat",
+				"dragon",
+				"lautrec",
+				"siegmeyer",
+				"andre",
+				"priscilla",
+				"patches",
+				"frampt",
+				"kirk",
+				"reah",
+				"domhnall",
+				"logan",
+				"oswald",
+				"quelana"
 			]
 		}
 	}
