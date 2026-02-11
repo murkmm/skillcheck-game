@@ -1,5 +1,5 @@
 {
-	"last_updated": 1770839773,
+	"last_updated": 1770842426,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -683,6 +683,56 @@
 				"banshee",
 				"gravemind",
 				"guilty_spark"
+			]
+		},
+		"2026-02-12": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "New Fallout Daily Test",
+			"share_text": "War does in fact change",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"moira_brown",
+				"three_dog",
+				"butch_deloria"
+			],
+			"starters": [
+				"wanderer",
+				"megaton",
+				"fat_man",
+				"deathclaw",
+				"project_purity",
+				"galaxy_news_radio",
+				"shishkebab",
+				"fawkes",
+				"james",
+				"colonel_autumn",
+				"james's_lab",
+				"sentinel_lyons",
+				"three_dog",
+				"mister_burke",
+				"butch_deloria",
+				"charon",
+				"lucas_simms",
+				"clover",
+				"harold",
+				"abraham_washington",
+				"eden",
+				"star_paladin_cross",
+				"moira_brown"
 			]
 		}
 	}
