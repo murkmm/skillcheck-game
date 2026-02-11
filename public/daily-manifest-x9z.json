@@ -1,5 +1,5 @@
 {
-	"last_updated": 1770583840,
+	"last_updated": 1770839773,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -635,6 +635,54 @@
 				"logan",
 				"oswald",
 				"quelana"
+			]
+		},
+		"2026-02-11": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Halo Daily Test",
+			"share_text": "Fight finished",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"master_chief",
+				"cortana",
+				"arbiter"
+			],
+			"starters": [
+				"master_chief",
+				"cortana",
+				"warthog",
+				"ghost",
+				"energy_sword",
+				"assault_rifle",
+				"reach",
+				"truth",
+				"installation_07",
+				"assault_on_the_control_room",
+				"flood",
+				"arbiter",
+				"installation_04",
+				"needler",
+				"scorpion",
+				"johnson",
+				"battle_rifle",
+				"high_charity",
+				"banshee",
+				"gravemind",
+				"guilty_spark"
 			]
 		}
 	}
