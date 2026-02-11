@@ -1,5 +1,5 @@
 {
-	"last_updated": 1770553727,
+	"last_updated": 1770842426,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -572,6 +572,167 @@
 				"kapp'n",
 				"lottie",
 				"tom_nook"
+			]
+		},
+		"2026-02-09": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "2nd Dark Souls Test",
+			"share_text": "Prepare to test",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"chosen_undead",
+				"gwyn",
+				"artorias"
+			],
+			"starters": [
+				"chosen_undead",
+				"artorias",
+				"anor_londo",
+				"moonlight_greatsword",
+				"sif",
+				"firelink_shrine",
+				"solaire",
+				"gwyn",
+				"zweihander",
+				"bonfire",
+				"seath",
+				"quelaag",
+				"asylum_demon",
+				"taurus_demon",
+				"bell_gargoyle",
+				"capra_demon",
+				"gaping_dragon",
+				"iron_golem",
+				"titanite_demon",
+				"pinwheel",
+				"four_kings",
+				"chaos_eater",
+				"sewer_rat",
+				"dragon",
+				"lautrec",
+				"siegmeyer",
+				"andre",
+				"priscilla",
+				"patches",
+				"frampt",
+				"kirk",
+				"reah",
+				"domhnall",
+				"logan",
+				"oswald",
+				"quelana"
+			]
+		},
+		"2026-02-11": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Halo Daily Test",
+			"share_text": "Fight finished",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"master_chief",
+				"cortana",
+				"arbiter"
+			],
+			"starters": [
+				"master_chief",
+				"cortana",
+				"warthog",
+				"ghost",
+				"energy_sword",
+				"assault_rifle",
+				"reach",
+				"truth",
+				"installation_07",
+				"assault_on_the_control_room",
+				"flood",
+				"arbiter",
+				"installation_04",
+				"needler",
+				"scorpion",
+				"johnson",
+				"battle_rifle",
+				"high_charity",
+				"banshee",
+				"gravemind",
+				"guilty_spark"
+			]
+		},
+		"2026-02-12": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "New Fallout Daily Test",
+			"share_text": "War does in fact change",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"moira_brown",
+				"three_dog",
+				"butch_deloria"
+			],
+			"starters": [
+				"wanderer",
+				"megaton",
+				"fat_man",
+				"deathclaw",
+				"project_purity",
+				"galaxy_news_radio",
+				"shishkebab",
+				"fawkes",
+				"james",
+				"colonel_autumn",
+				"james's_lab",
+				"sentinel_lyons",
+				"three_dog",
+				"mister_burke",
+				"butch_deloria",
+				"charon",
+				"lucas_simms",
+				"clover",
+				"harold",
+				"abraham_washington",
+				"eden",
+				"star_paladin_cross",
+				"moira_brown"
 			]
 		}
 	}
