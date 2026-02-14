@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771020356,
+	"last_updated": 1771081542,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -805,8 +805,8 @@
 				}
 			],
 			"showcase": [
+				"mario",
 				"wario",
-				"argent_d'nur",
 				"rosalina"
 			],
 			"starters": [
