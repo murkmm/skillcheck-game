@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771081542,
+	"last_updated": 1771157056,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -837,6 +837,54 @@
 				"wario",
 				"rosalina",
 				"shy_guy"
+			]
+		},
+		"2026-02-15": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "WE LOVE HALO",
+			"share_text": "BOOM  BOOM BANG",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"master_chief",
+				"cortana",
+				"arbiter"
+			],
+			"starters": [
+				"master_chief",
+				"cortana",
+				"warthog",
+				"ghost",
+				"energy_sword",
+				"assault_rifle",
+				"reach",
+				"truth",
+				"installation_07",
+				"assault_on_the_control_room",
+				"flood",
+				"arbiter",
+				"installation_04",
+				"needler",
+				"scorpion",
+				"johnson",
+				"battle_rifle",
+				"high_charity",
+				"banshee",
+				"gravemind",
+				"guilty_spark"
 			]
 		}
 	}
