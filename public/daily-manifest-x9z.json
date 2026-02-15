@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771157056,
+	"last_updated": 1771157086,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -885,6 +885,68 @@
 				"banshee",
 				"gravemind",
 				"guilty_spark"
+			]
+		},
+		"2026-02-16": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "I need more themes",
+			"share_text": "word",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"pikachu",
+				"red",
+				"mewtwo"
+			],
+			"starters": [
+				"pikachu",
+				"red",
+				"s.s._anne",
+				"master_ball",
+				"lavender_town",
+				"mewtwo",
+				"brock",
+				"bicycle",
+				"team_rocket",
+				"elite_four",
+				"surf",
+				"blue",
+				"pokédex",
+				"cinnabar_island",
+				"oak",
+				"cynthia",
+				"potions",
+				"tms",
+				"mt._silver",
+				"nurse_joy",
+				"charizard",
+				"gym_badges",
+				"poké_ball",
+				"squirtle",
+				"bulbasaur",
+				"eevee",
+				"snorlax",
+				"jigglypuff",
+				"lapras",
+				"gengar",
+				"gyarados",
+				"lugia",
+				"rayquaza",
+				"ditto",
+				"zubat"
 			]
 		}
 	}
