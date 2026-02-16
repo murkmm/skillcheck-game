@@ -1,23 +1,11 @@
-# Root
-
 /\*
 Cross-Origin-Embedder-Policy: credentialless
 Cross-Origin-Opener-Policy: same-origin
 
-# Game Folder (Trailing Slash)
-
-/play/
-Cross-Origin-Embedder-Policy: credentialless
-Cross-Origin-Opener-Policy: same-origin
-
-# Game Folder (No Slash)
-
-/play
-Cross-Origin-Embedder-Policy: credentialless
-Cross-Origin-Opener-Policy: same-origin
-
-# All Files inside Game Folder
-
 /play/\*
+Cross-Origin-Embedder-Policy: credentialless
+Cross-Origin-Opener-Policy: same-origin
+
+/play/index.html
 Cross-Origin-Embedder-Policy: credentialless
 Cross-Origin-Opener-Policy: same-origin
