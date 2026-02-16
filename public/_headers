@@ -1,11 +1,3 @@
 /\*
 Cross-Origin-Embedder-Policy: credentialless
 Cross-Origin-Opener-Policy: same-origin
-
-/play/\*
-Cross-Origin-Embedder-Policy: credentialless
-Cross-Origin-Opener-Policy: same-origin
-
-/play/index.html
-Cross-Origin-Embedder-Policy: credentialless
-Cross-Origin-Opener-Policy: same-origin
