@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Successful</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: sans-serif;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 { color: #4caf50; margin-bottom: 10px; }
+        p { color: #aaa; margin-bottom: 30px; }
+        button {
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>PAYMENT COMPLETE!</h1>
+    <p>Your license has been verified.</p>
+    
+    <button onclick="window.close()">RETURN TO GAME</button>
+
+    <script>
+        // 1. Notify the Opener (The Game Tab) if possible
+        try {
+            if (window.opener) {
+                window.opener.postMessage("payment_success", "*");
+            }
+        } catch (e) { console.log("Opener lost."); }
+
+        // 2. Attempt Auto-Close after 1 second
+        setTimeout(function() {
+            window.close();
+        }, 1000);
+    </script>
+</body>
+</html>
