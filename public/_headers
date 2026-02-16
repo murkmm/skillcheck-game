@@ -1,9 +1,23 @@
-# Allow the main site to be chill
-/*
-  Cross-Origin-Embedder-Policy: unsafe-none
-  Cross-Origin-Opener-Policy: unsafe-none
+# Root
 
-# Explicitly force the game folder to be chill
-/play/*
-  Cross-Origin-Embedder-Policy: unsafe-none
-  Cross-Origin-Opener-Policy: unsafe-none
+/\*
+Cross-Origin-Embedder-Policy: credentialless
+Cross-Origin-Opener-Policy: same-origin
+
+# Game Folder (Trailing Slash)
+
+/play/
+Cross-Origin-Embedder-Policy: credentialless
+Cross-Origin-Opener-Policy: same-origin
+
+# Game Folder (No Slash)
+
+/play
+Cross-Origin-Embedder-Policy: credentialless
+Cross-Origin-Opener-Policy: same-origin
+
+# All Files inside Game Folder
+
+/play/\*
+Cross-Origin-Embedder-Policy: credentialless
+Cross-Origin-Opener-Policy: same-origin
