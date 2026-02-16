@@ -1,6 +1,12 @@
 ---
 import Layout from '~/layouts/Layout.astro';
-// If using AstroWind, keep the Layout import to maintain your header/footer
+
+// FORCE RELAXED HEADERS
+// This tells the browser: "Allow external scripts (like Lemon Squeezy) to load."
+if (Astro.response && Astro.response.headers) {
+  Astro.response.headers.set('Cross-Origin-Embedder-Policy', 'unsafe-none');
+  Astro.response.headers.set('Cross-Origin-Opener-Policy', 'unsafe-none');
+}
 ---
 
 <Layout metadata={{ title: 'Skill Check - Play Now' }}>
@@ -11,7 +17,7 @@ import Layout from '~/layouts/Layout.astro';
       class="game-wrapper w-full h-full md:w-full md:max-w-[1280px] md:aspect-video md:h-auto shadow-2xl md:border border-slate-700 bg-black"
     >
       <iframe
-        src="/play/index.html?v=2"
+        src="/play/index.html?v=3"
         class="w-full h-full border-none"
         allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
         allowfullscreen
