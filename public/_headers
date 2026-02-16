@@ -1,3 +1,9 @@
+# Allow the main site to be chill
 /*
+  Cross-Origin-Embedder-Policy: unsafe-none
+  Cross-Origin-Opener-Policy: unsafe-none
+
+# Explicitly force the game folder to be chill
+/play/*
   Cross-Origin-Embedder-Policy: unsafe-none
   Cross-Origin-Opener-Policy: unsafe-none
