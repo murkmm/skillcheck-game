@@ -1,13 +1,10 @@
-# Root path - Relaxed security allows external scripts
 /*
   Cross-Origin-Embedder-Policy: unsafe-none
   Cross-Origin-Opener-Policy: unsafe-none
 
-# Game folder - Relaxed security
 /play/*
   Cross-Origin-Embedder-Policy: unsafe-none
   Cross-Origin-Opener-Policy: unsafe-none
 
-# Keep the compression fix for WASM
 /play/*.wasm
   Content-Encoding: gzip
