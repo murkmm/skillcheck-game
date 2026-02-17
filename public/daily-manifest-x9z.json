@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771157086,
+	"last_updated": 1771357973,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -947,6 +947,69 @@
 				"rayquaza",
 				"ditto",
 				"zubat"
+			]
+		},
+		"2026-02-17": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Test Daily ",
+			"share_text": "Test",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"chosen_undead",
+				"artorias",
+				"sif"
+			],
+			"starters": [
+				"chosen_undead",
+				"artorias",
+				"anor_londo",
+				"moonlight_greatsword",
+				"sif",
+				"firelink_shrine",
+				"solaire",
+				"gwyn",
+				"zweihander",
+				"bonfire",
+				"seath",
+				"quelaag",
+				"asylum_demon",
+				"taurus_demon",
+				"bell_gargoyle",
+				"capra_demon",
+				"gaping_dragon",
+				"iron_golem",
+				"titanite_demon",
+				"pinwheel",
+				"four_kings",
+				"chaos_eater",
+				"sewer_rat",
+				"dragon",
+				"lautrec",
+				"siegmeyer",
+				"andre",
+				"priscilla",
+				"patches",
+				"frampt",
+				"kirk",
+				"reah",
+				"domhnall",
+				"logan",
+				"oswald",
+				"quelana"
 			]
 		}
 	}
