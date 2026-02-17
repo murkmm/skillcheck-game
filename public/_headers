@@ -1,12 +1,11 @@
-# --- GLOBAL SETTINGS ---
 /*
   Cross-Origin-Embedder-Policy: credentialless
   Cross-Origin-Opener-Policy: same-origin
 
-# --- FIX: TELL BROWSER THE WASM IS ZIPPED ---
+/play/*
+  Cross-Origin-Embedder-Policy: credentialless
+  Cross-Origin-Opener-Policy: same-origin
+  
+# Tell browser the WASM file is compressed (Fixes "Magic Word" error)
 /play/*.wasm
   Content-Encoding: gzip
-
-# --- CACHE CONTROL (Optional but good) ---
-/play/*
-  Cache-Control: public, max-age=3600
