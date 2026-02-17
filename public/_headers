@@ -1,3 +1,12 @@
-/\*
-Cross-Origin-Embedder-Policy: unsafe-none
-Cross-Origin-Opener-Policy: unsafe-none
+# --- GLOBAL SETTINGS ---
+/*
+  Cross-Origin-Embedder-Policy: credentialless
+  Cross-Origin-Opener-Policy: same-origin
+
+# --- FIX: TELL BROWSER THE WASM IS ZIPPED ---
+/play/*.wasm
+  Content-Encoding: gzip
+
+# --- CACHE CONTROL (Optional but good) ---
+/play/*
+  Cache-Control: public, max-age=3600
