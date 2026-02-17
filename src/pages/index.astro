@@ -2,7 +2,6 @@
 import Layout from '~/layouts/Layout.astro';
 
 // FORCE RELAXED HEADERS
-// This tells the browser: "Allow external scripts (like Lemon Squeezy) to load."
 if (Astro.response && Astro.response.headers) {
   Astro.response.headers.set('Cross-Origin-Embedder-Policy', 'unsafe-none');
   Astro.response.headers.set('Cross-Origin-Opener-Policy', 'unsafe-none');
@@ -14,15 +13,89 @@ if (Astro.response && Astro.response.headers) {
     class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-slate-900 md:relative md:min-h-screen md:z-auto md:py-8"
   >
     <div
-      class="game-wrapper w-full h-full md:w-full md:max-w-[1280px] md:aspect-video md:h-auto shadow-2xl md:border border-slate-700 bg-black"
+      id="game-container"
+      class="game-wrapper relative group w-full h-full md:w-full md:max-w-[1280px] md:aspect-video md:h-auto shadow-2xl md:border border-slate-700 bg-black"
     >
       <iframe
         src="/play/index.html?v=3"
-        class="w-full h-full border-none"
+        class="w-full h-full border-none focus:outline-none"
         allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
         allowfullscreen
       >
       </iframe>
+
+      <button
+        id="fullscreen-btn"
+        class="absolute bottom-4 right-4 z-50 p-2 bg-black/50 hover:bg-blue-600 text-white rounded-lg backdrop-blur-sm transition-all duration-300 opacity-50 hover:opacity-100 hidden md:flex items-center gap-2 border border-white/10"
+        title="Toggle Fullscreen"
+      >
+        <svg
+          id="icon-max"
+          xmlns="http://www.w3.org/2000/svg"
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"
+          ></path>
+        </svg>
+        <svg
+          id="icon-min"
+          class="hidden"
+          xmlns="http://www.w3.org/2000/svg"
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"
+          ></path>
+        </svg>
+        <span class="text-sm font-semibold pr-1">FULLSCREEN</span>
+      </button>
     </div>
   </main>
 </Layout>
+
+<script>
+  const btn = document.getElementById('fullscreen-btn');
+  const container = document.getElementById('game-container');
+  const iconMax = document.getElementById('icon-max');
+  const iconMin = document.getElementById('icon-min');
+
+  if (btn && container) {
+    btn.addEventListener('click', () => {
+      if (!document.fullscreenElement) {
+        // ENTER FULLSCREEN
+        container.requestFullscreen().catch((err) => {
+          console.error(`Error attempting to enable fullscreen: ${err.message}`);
+        });
+      } else {
+        // EXIT FULLSCREEN
+        document.exitFullscreen();
+      }
+    });
+
+    // Listen for changes to update icon
+    document.addEventListener('fullscreenchange', () => {
+      if (document.fullscreenElement) {
+        iconMax?.classList.add('hidden');
+        iconMin?.classList.remove('hidden');
+        btn.classList.add('bg-black/0'); // Make button more subtle in fullscreen
+      } else {
+        iconMax?.classList.remove('hidden');
+        iconMin?.classList.add('hidden');
+        btn.classList.remove('bg-black/0');
+      }
+    });
+  }
+</script>
