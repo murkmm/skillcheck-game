@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771535309,
+	"last_updated": 1771535374,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1061,6 +1061,53 @@
 				"kapp'n",
 				"lottie",
 				"gyroid"
+			]
+		},
+		"2026-02-20": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Bioshock Fridays",
+			"share_text": "A man chooses...",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"elizabeth",
+				"jack",
+				"booker_dewitt"
+			],
+			"starters": [
+				"andrew_ryan",
+				"big_daddy",
+				"little_sister",
+				"rapture",
+				"plasmids",
+				"elizabeth",
+				"columbia",
+				"songbird",
+				"adam",
+				"frank_fontaine",
+				"sander_cohen",
+				"bridget_tenenbaum",
+				"splicers",
+				"vigors",
+				"the_lutece_twins",
+				"fort_frolic",
+				"eve",
+				"booker_dewitt",
+				"zachary_hale_comstock",
+				"jack"
 			]
 		}
 	}
