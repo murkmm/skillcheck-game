@@ -5642,6 +5642,83 @@
 							"Koopa Troopa and Toad",
 							"Donkey Kong Jr. and Toad"
 						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Mario wears his signature red cap throughout his adventure in Rogueport.",
+						"fact_checked": true,
+						"question": "What is the primary color of Mario's iconic hat?",
+						"wrong": [
+							"Green",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Plumber",
+						"difficulty": "Easy",
+						"explanation": "Mario and his brother Luigi are the world's most famous plumbers.",
+						"fact_checked": true,
+						"question": "What is Mario's primary profession?",
+						"wrong": [
+							"Carpenter",
+							"Doctor"
+						]
+					},
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Easy",
+						"explanation": "Princess Peach sends the map to Mario along with a letter asking him to meet her.",
+						"fact_checked": true,
+						"question": "Who sends Mario the magical map at the start of the game?",
+						"wrong": [
+							"Professor Frankly",
+							"Toadsworth"
+						]
+					},
+					{
+						"correct": "The Great Gonzales",
+						"difficulty": "Medium",
+						"explanation": "Grubba gives Mario this stage name when he registers for the Glitz Pit fights.",
+						"fact_checked": true,
+						"question": "What is Mario's fighting stage name in the Glitz Pit?",
+						"wrong": [
+							"The Red Menace",
+							"Iron Mario"
+						]
+					},
+					{
+						"correct": "None",
+						"difficulty": "Medium",
+						"explanation": "Mario travels to Rogueport alone while Luigi goes on his own separate adventure.",
+						"fact_checked": true,
+						"question": "Which brother accompanies Mario to Rogueport in the game's intro?",
+						"wrong": [
+							"Luigi",
+							"Wario"
+						]
+					},
+					{
+						"correct": "Lord Crump",
+						"difficulty": "Hard",
+						"explanation": "Mario fights Lord Crump in Rogueport Plaza to protect Goombella.",
+						"fact_checked": true,
+						"question": "In the game's prologue, who is the first enemy Mario encounters and fights?",
+						"wrong": [
+							"Goombella",
+							"Hooktail"
+						]
+					},
+					{
+						"correct": "The Toad Hero",
+						"difficulty": "Hard",
+						"explanation": "The legend tells of four heroes, including a Toad, who sealed the Shadow Queen.",
+						"fact_checked": true,
+						"question": "According to the Four Heroes legend, which hero's spirit is tied to Mario's journey?",
+						"wrong": [
+							"The Goomba Hero",
+							"The Koopa Hero"
+						]
 					}
 				]
 			},
@@ -5650,7 +5727,7 @@
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
 				"full_title": "Mario",
-				"theme_origin": "mario kart",
+				"theme_origin": "paper mario the thousand year door",
 				"type": "ENTITY"
 			},
 			"profiler": {
@@ -22250,6 +22327,5319 @@
 					"Utility"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Would You Kindly",
+						"difficulty": "Easy",
+						"explanation": "This phrase was a hypnotic trigger programmed into Jack's brain by Frank Fontaine.",
+						"fact_checked": true,
+						"question": "What is the iconic phrase used to mind-control Jack?",
+						"wrong": [
+							"Please and Thank You",
+							"If You Please",
+							"Obey the Master"
+						]
+					},
+					{
+						"correct": "Plane Crash",
+						"difficulty": "Easy",
+						"explanation": "Jack was manipulated into hijacking his own flight and crashing it near the lighthouse.",
+						"fact_checked": true,
+						"question": "How does Jack first arrive at the entrance to Rapture?",
+						"wrong": [
+							"Submarine Expedition",
+							"Luxury Cruise",
+							"Shipwreck"
+						]
+					},
+					{
+						"correct": "Chain Links",
+						"difficulty": "Easy",
+						"explanation": "The chains symbolize his lack of freedom and his role as a slave to his conditioning.",
+						"fact_checked": true,
+						"question": "What tattoo does Jack have on both of his wrists?",
+						"wrong": [
+							"Anchors",
+							"Skulls",
+							"The Letter R"
+						]
+					},
+					{
+						"correct": "Andrew Ryan",
+						"difficulty": "Medium",
+						"explanation": "Jack is the illegitimate son of Andrew Ryan and Jasmine Jolene.",
+						"fact_checked": true,
+						"question": "Who is Jack's biological father?",
+						"wrong": [
+							"Frank Fontaine",
+							"Booker DeWitt",
+							"Sander Cohen"
+						]
+					},
+					{
+						"correct": "Nico-Time",
+						"difficulty": "Medium",
+						"explanation": "Nico-Time is one of the many satirical brands found throughout the city of Rapture.",
+						"fact_checked": true,
+						"question": "What brand of cigarettes is Jack seen using in the intro?",
+						"wrong": [
+							"Ryan Blends",
+							"Oxford Lights",
+							"Smoker's Choice"
+						]
+					},
+					{
+						"correct": "Atlas",
+						"difficulty": "Medium",
+						"explanation": "Atlas was actually a persona used by the conman Frank Fontaine to manipulate Jack.",
+						"fact_checked": true,
+						"question": "Who does Jack believe is guiding him for most of the first game?",
+						"wrong": [
+							"Tenenbaum",
+							"Steinman",
+							"Suchong"
+						]
+					},
+					{
+						"correct": "Lot 111",
+						"difficulty": "Hard",
+						"explanation": "Lot 111 refers to the rapid-aging and mental programming process Jack endured as a child.",
+						"fact_checked": true,
+						"question": "What was the designation of the mental conditioning Jack underwent?",
+						"wrong": [
+							"Subject Delta",
+							"Project Wyvern",
+							"Case 42"
+						]
+					},
+					{
+						"correct": "Jasmine Jolene",
+						"difficulty": "Hard",
+						"explanation": "Jasmine Jolene was a dancer at Eve's Garden who sold her embryo to Fontaine's agents.",
+						"fact_checked": true,
+						"question": "What was the name of Jack's biological mother?",
+						"wrong": [
+							"Bridgette Tenenbaum",
+							"Sofia Lamb",
+							"Diane McClintock"
+						]
+					},
+					{
+						"correct": "Four years old",
+						"difficulty": "Hard",
+						"explanation": "Due to accelerated aging, Jack has the body of a man but was born only four years prior.",
+						"fact_checked": true,
+						"question": "How old is Jack chronologically during the events of Bioshock 1?",
+						"wrong": [
+							"Twenty Five years old",
+							"Thirty years old",
+							"Ten years old"
+						]
+					},
+					{
+						"correct": "A Wrench",
+						"difficulty": "Easy",
+						"explanation": "The wrench is Jack's iconic melee weapon and a favorite for players focusing on physical tonics.",
+						"fact_checked": true,
+						"question": "What is the first weapon Jack picks up after entering Rapture to defend himself?",
+						"wrong": [
+							"A Pistol",
+							"A Pipe Bolt",
+							"A Shotgun"
+						]
+					},
+					{
+						"correct": "To Jack, with love from Mom and Dad",
+						"difficulty": "Easy",
+						"explanation": "The note in the gift box (containing the revolver) begins 'To my son, with love,' masking the sinister nature of his mission.",
+						"fact_checked": true,
+						"question": "The gift Jack opens on the plane contains a note from his parents. What are the first words on that note?",
+						"wrong": [
+							"Would you kindly",
+							"Return to sender",
+							"Safe travels"
+						]
+					},
+					{
+						"correct": "Research Camera",
+						"difficulty": "Medium",
+						"explanation": "Taking photos of different Splicer types and Big Daddies provides Jack with damage boosts and new abilities.",
+						"fact_checked": true,
+						"question": "What device does Jack use to photograph enemies and learn their weaknesses?",
+						"wrong": [
+							"Gene-Scanner",
+							"Optic-Lens",
+							"Bio-Flash"
+						]
+					},
+					{
+						"correct": "A Big Daddy",
+						"difficulty": "Medium",
+						"explanation": "Jack must find a suit, a voice modulator, and pheromones to trick the Little Sisters into helping him.",
+						"fact_checked": true,
+						"question": "To bypass the security in Point Prometheus, Jack has to physically transform himself into what?",
+						"wrong": [
+							"A Splicer",
+							"A Turret",
+							"A Little Sister"
+						]
+					},
+					{
+						"correct": "Four years old",
+						"difficulty": "Hard",
+						"explanation": "Jack was grown in a lab with accelerated aging; though he looks like an adult, he was born only four years prior to the crash.",
+						"fact_checked": true,
+						"question": "Because of his genetic engineering, Jack’s physical body is only about how many years old during Bioshock 1?",
+						"wrong": [
+							"Two years old",
+							"Ten years old",
+							"Twenty years old"
+						]
+					}
+				]
+			},
+			"id": "jack",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Jack",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Protagonist",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Rapture",
+						"difficulty": "Easy",
+						"explanation": "Ryan built Rapture as a sanctuary away from the influence of governments and religions.",
+						"fact_checked": true,
+						"question": "What is the name of the underwater city built by Andrew Ryan?",
+						"wrong": [
+							"Columbia",
+							"Atlantis",
+							"The Hub"
+						]
+					},
+					{
+						"correct": "Golf Club",
+						"difficulty": "Easy",
+						"explanation": "He famously orders Jack to kill him with a golf club to prove Jack is a slave.",
+						"fact_checked": true,
+						"question": "What object does Andrew Ryan use to demonstrate a person's will to Jack?",
+						"wrong": [
+							"Wrench",
+							"Pistol",
+							"Violin"
+						]
+					},
+					{
+						"correct": "A man chooses a slave obeys",
+						"difficulty": "Easy",
+						"explanation": "This quote encapsulates his objectivist philosophy and his disdain for Jack's lack of free will.",
+						"fact_checked": true,
+						"question": "What is Andrew Ryan's famous quote about choice?",
+						"wrong": [
+							"Power belongs to the bold",
+							"No gods or kings",
+							"The city belongs to the rich"
+						]
+					},
+					{
+						"correct": "Objectivism",
+						"difficulty": "Medium",
+						"explanation": "Ryan's character and the city of Rapture are heavily inspired by the works of Ayn Rand.",
+						"fact_checked": true,
+						"question": "What political philosophy is Andrew Ryan based on?",
+						"wrong": [
+							"Nihilism",
+							"Communism",
+							"Anarchy"
+						]
+					},
+					{
+						"correct": "Parasites",
+						"difficulty": "Medium",
+						"explanation": "He believed anyone who benefited from the work of others without producing their own was a parasite.",
+						"fact_checked": true,
+						"question": "What does Andrew Ryan call people who live on the surface world?",
+						"wrong": [
+							"Slaves",
+							"Zombies",
+							"Sheep"
+						]
+					},
+					{
+						"correct": "Andrei Ryanofski",
+						"difficulty": "Medium",
+						"explanation": "He changed his name to escape his past in the Soviet Union and reinvent himself as a capitalist.",
+						"fact_checked": true,
+						"question": "What was Andrew Ryan's birth name before he moved to America?",
+						"wrong": [
+							"Aleksander Rykov",
+							"Anton Ryan",
+							"Andrei Romanov"
+						]
+					},
+					{
+						"correct": "1946",
+						"difficulty": "Hard",
+						"explanation": "Construction began after World War II to escape the looming threat of nuclear war.",
+						"fact_checked": true,
+						"question": "In what year did Andrew Ryan officially open Rapture?",
+						"wrong": [
+							"1959",
+							"1939",
+							"1951"
+						]
+					},
+					{
+						"correct": "Fontaine Futuristics",
+						"difficulty": "Hard",
+						"explanation": "The rivalry between Ryan and Fontaine eventually led to the Rapture Civil War.",
+						"fact_checked": true,
+						"question": "Which company was the primary rival to Ryan Industries in Rapture?",
+						"wrong": [
+							"Fink Manufacturing",
+							"Sinclair Solutions",
+							"Hephaestus Power"
+						]
+					},
+					{
+						"correct": "Released a poison gas",
+						"difficulty": "Hard",
+						"explanation": "Ryan poisoned the trees to prevent the rebels from having a supply of oxygen, showing his ruthless nature.",
+						"fact_checked": true,
+						"question": "What did Andrew Ryan do to the forests of Arcadia when Fontaine's men attacked?",
+						"wrong": [
+							"Set them on fire",
+							"Cut off the oxygen",
+							"Flooded the chambers"
+						]
+					},
+					{
+						"correct": "Parasites",
+						"difficulty": "Easy",
+						"explanation": "Ryan views anyone who lives off the work of others (government, looters, or altruists) as a 'Parasite'.",
+						"fact_checked": true,
+						"question": "Andrew Ryan often refers to his ideological enemies as what biological metaphor?",
+						"wrong": [
+							"Leeches",
+							"Viruses",
+							"Insects"
+						]
+					},
+					{
+						"correct": "The Great Chain",
+						"difficulty": "Easy",
+						"explanation": "Ryan believes that when everyone works for their own interest, they pull 'The Great Chain' of progress in the same direction.",
+						"fact_checked": true,
+						"question": "What is the name of Ryan's core economic philosophy that suggests society is guided by the market?",
+						"wrong": [
+							"The Unseen Hand",
+							"The Iron Will",
+							"The Golden Gear"
+						]
+					},
+					{
+						"correct": "Rapture Central Control",
+						"difficulty": "Medium",
+						"explanation": "Ryan waits for Jack in his inner sanctum within Rapture Central Control, choosing his own end.",
+						"fact_checked": true,
+						"question": "Where does Andrew Ryan make his final stand against Jack?",
+						"wrong": [
+							"The Lighthouse",
+							"The Kashmir Restaurant",
+							"Arcadia"
+						]
+					},
+					{
+						"correct": "Nationalized Fontaine Futuristics",
+						"difficulty": "Medium",
+						"explanation": "Hypocritically, Ryan seized Fontaine's company for the city (nationalization) to maintain control during the civil war.",
+						"fact_checked": true,
+						"question": "What action did Ryan take regarding Rapture's industry that went against his own 'free market' beliefs during the war?",
+						"wrong": [
+							"Closed the borders",
+							"Banned Plasmids",
+							"Lowered taxes"
+						]
+					},
+					{
+						"correct": "Russia",
+						"difficulty": "Hard",
+						"explanation": "Ryan was born in Russia (as Andrei Ryanofski) and fled to America to escape the rise of Bolshevism.",
+						"fact_checked": true,
+						"question": "Before building Rapture, in which country was Andrew Ryan born?",
+						"wrong": [
+							"Germany",
+							"United Kingdom",
+							"United States"
+						]
+					}
+				]
+			},
+			"id": "andrew_ryan",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Andrew Ryan",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Founder",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Protect Little Sisters",
+						"difficulty": "Easy",
+						"explanation": "Big Daddies are genetically enhanced humans bonded to protect the girls who gather ADAM.",
+						"fact_checked": true,
+						"question": "What is the primary job of a Big Daddy?",
+						"wrong": [
+							"Repair the city",
+							"Hunt the player",
+							"Guard the treasure"
+						]
+					},
+					{
+						"correct": "Bouncer",
+						"difficulty": "Easy",
+						"explanation": "The Bouncer is the most iconic type of Big Daddy and uses its drill for melee combat.",
+						"fact_checked": true,
+						"question": "Which variant of Big Daddy features a large drill arm?",
+						"wrong": [
+							"Rosie",
+							"Rumbler",
+							"Alpha Series"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Yellow light indicates they are calm, while red indicates they have become aggressive.",
+						"fact_checked": true,
+						"question": "What color are a Big Daddy's portholes when they are neutral?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Mr. Bubbles",
+						"difficulty": "Medium",
+						"explanation": "This name reflects the innocent perspective the Little Sisters have of their terrifying protectors.",
+						"fact_checked": true,
+						"question": "What do the Little Sisters affectionately call Big Daddies?",
+						"wrong": [
+							"Big Guy",
+							"Iron Giant",
+							"Daddy Longlegs"
+						]
+					},
+					{
+						"correct": "Rosie",
+						"difficulty": "Medium",
+						"explanation": "Rosies were originally intended for underwater construction and repair work.",
+						"fact_checked": true,
+						"question": "Which Big Daddy variant uses a rivet gun and wears a diving suit?",
+						"wrong": [
+							"Bouncer",
+							"Lancer",
+							"Rumbler"
+						]
+					},
+					{
+						"correct": "They become depressed or enraged",
+						"difficulty": "Medium",
+						"explanation": "The mental bond is so strong that the loss of a sister often causes the Big Daddy to lose its purpose.",
+						"fact_checked": true,
+						"question": "What happens to a Big Daddy if their assigned Little Sister is killed or rescued?",
+						"wrong": [
+							"They explode",
+							"They power down",
+							"They find a new sister immediately"
+						]
+					},
+					{
+						"correct": "Subject Delta",
+						"difficulty": "Hard",
+						"explanation": "Subject Delta was the first to be successfully 'Pair Bonded' to a single Little Sister.",
+						"fact_checked": true,
+						"question": "Who was the very first successful Big Daddy subject?",
+						"wrong": [
+							"Subject Sigma",
+							"Johnny Topside",
+							"Yi Suchong"
+						]
+					},
+					{
+						"correct": "Yi Suchong",
+						"difficulty": "Hard",
+						"explanation": "Dr. Suchong was killed by a Big Daddy during the final stages of the bonding process.",
+						"fact_checked": true,
+						"question": "What is the name of the scientist who pioneered the Big Daddy program?",
+						"wrong": [
+							"Bridgette Tenenbaum",
+							"Gilbert Alexander",
+							"J.S. Steinman"
+						]
+					},
+					{
+						"correct": "Protective Pheromones",
+						"difficulty": "Hard",
+						"explanation": "Pheromones were used to create an instinctual, unbreakable need to protect the girls.",
+						"fact_checked": true,
+						"question": "What is the chemical substance used to bond a Big Daddy to a Little Sister?",
+						"wrong": [
+							"ADAM",
+							"EVE",
+							"Gallon of Saltwater"
+						]
+					},
+					{
+						"correct": "A deep whale-like groan",
+						"difficulty": "Easy",
+						"explanation": "Big Daddies emit low, mournful groans that sound remarkably like whales communicating.",
+						"fact_checked": true,
+						"question": "What sound does a Big Daddy make that can be heard echoing through the corridors?",
+						"wrong": [
+							"A sharp whistle",
+							"A robotic beep",
+							"A human shout"
+						]
+					},
+					{
+						"correct": "It is aggressive / attacking",
+						"difficulty": "Easy",
+						"explanation": "Yellow means neutral, green means friendly (hypnotized), and red means it is ready to kill you.",
+						"fact_checked": true,
+						"question": "When a Big Daddy’s porthole lights turn RED, what does it mean?",
+						"wrong": [
+							"It is low on fuel",
+							"It is looking for a Sister",
+							"It is sleeping"
+						]
+					},
+					{
+						"correct": "A human grafted into the suit",
+						"difficulty": "Medium",
+						"explanation": "Big Daddies are humans whose skin and organs have been surgically grafted directly into the metal suit.",
+						"fact_checked": true,
+						"question": "What is physically inside the Big Daddy diving suit?",
+						"wrong": [
+							"A robot",
+							"Nothing (it's a ghost)",
+							"A giant sea slug"
+						]
+					},
+					{
+						"correct": "Protector Scent",
+						"difficulty": "Hard",
+						"explanation": "Protector Scent is a chemical treatment that makes Splicers perceive Big Daddies as terrifying and unappetizing targets.",
+						"fact_checked": true,
+						"question": "What is the name of the chemical pheromone used to keep Splicers from attacking Big Daddies on sight?",
+						"wrong": [
+							"Alpha Musk",
+							"Daddy's Breath",
+							"Slug Juice"
+						]
+					}
+				]
+			},
+			"id": "big_daddy",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Big Daddy",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Protector",
+					"Guardian",
+					"Mutant"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Large Syringe",
+						"difficulty": "Easy",
+						"explanation": "The syringe is used to extract ADAM-rich blood from 'Angels' found around the city.",
+						"fact_checked": true,
+						"question": "What tool do Little Sisters use to collect ADAM from corpses?",
+						"wrong": [
+							"Vacuum",
+							"Bucket",
+							"Magic Wand"
+						]
+					},
+					{
+						"correct": "Harvest or Rescue",
+						"difficulty": "Easy",
+						"explanation": "This moral choice determines how much ADAM the player receives and affects the game's ending.",
+						"fact_checked": true,
+						"question": "What choice does the player have when they catch a Little Sister?",
+						"wrong": [
+							"Kill or Ignore",
+							"Trade or Sell",
+							"Adopt or Release"
+						]
+					},
+					{
+						"correct": "Angels",
+						"difficulty": "Easy",
+						"explanation": "Due to their conditioning, they see the horrific city as a beautiful wonderland.",
+						"fact_checked": true,
+						"question": "What do Little Sisters call dead bodies found in Rapture?",
+						"wrong": [
+							"Ghosts",
+							"Sleepers",
+							"Splicers"
+						]
+					},
+					{
+						"correct": "Bridgette Tenenbaum",
+						"difficulty": "Medium",
+						"explanation": "Tenenbaum noticed a wounded dockworker's hands healed after being bitten by a deep-sea slug.",
+						"fact_checked": true,
+						"question": "Who discovered the sea slug that allows Little Sisters to produce ADAM?",
+						"wrong": [
+							"Sofia Lamb",
+							"Andrew Ryan",
+							"Frank Fontaine"
+						]
+					},
+					{
+						"correct": "To recycle ADAM",
+						"difficulty": "Medium",
+						"explanation": "They act as living refineries for the sea slugs implanted in their stomachs.",
+						"fact_checked": true,
+						"question": "What is the primary reason the girls are conditioned to be Little Sisters?",
+						"wrong": [
+							"To serve as spies",
+							"To clean the city",
+							"To look for survivors"
+						]
+					},
+					{
+						"correct": "Little Wonders",
+						"difficulty": "Medium",
+						"explanation": "Little Wonders was an educational facility that secretly served as a laboratory.",
+						"fact_checked": true,
+						"question": "What is the name of the orphanage where the girls were kept?",
+						"wrong": [
+							"Ryan's Youth",
+							"Safe Haven",
+							"Fontaine Home for Boys"
+						]
+					},
+					{
+						"correct": "She becomes a normal human girl",
+						"difficulty": "Hard",
+						"explanation": "Using a special plasmid, the player can remove the slug and restore the girl's humanity.",
+						"fact_checked": true,
+						"question": "What happens to a Little Sister if she is rescued by the player?",
+						"wrong": [
+							"She turns into a Splicer",
+							"She vanishes",
+							"She grows into a Big Sister"
+						]
+					},
+					{
+						"correct": "Sofia Lamb",
+						"difficulty": "Hard",
+						"explanation": "Sofia Lamb created Big Sisters to retrieve the kidnapped Little Sisters from the surface.",
+						"fact_checked": true,
+						"question": "Who led the movement to transform Little Sisters into 'Big Sisters' in Bioshock 2?",
+						"wrong": [
+							"Eleanor Lamb",
+							"Augustus Sinclair",
+							"Andrew Ryan"
+						]
+					},
+					{
+						"correct": "Eleanor Lamb",
+						"difficulty": "Hard",
+						"explanation": "Eleanor was the first Little Sister bonded to Subject Delta.",
+						"fact_checked": true,
+						"question": "Which Little Sister is the central character of Bioshock 2?",
+						"wrong": [
+							"Masha Lutz",
+							"Sally",
+							"Elizabeth"
+						]
+					},
+					{
+						"correct": "Humming or Singing",
+						"difficulty": "Easy",
+						"explanation": "Little Sisters often hum or sing creepy nursery rhymes while they 'harvest' ADAM.",
+						"fact_checked": true,
+						"question": "When you are near a Little Sister but can't see her, what sound do you usually hear her making?",
+						"wrong": [
+							"Screaming",
+							"Crying",
+							"Whistling"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Their eyes glow a bright, eerie yellow until they are 'rescued' and returned to normal.",
+						"fact_checked": true,
+						"question": "What color do a Little Sister's eyes glow when she is still under the influence of ADAM?",
+						"wrong": [
+							"Green",
+							"Blue",
+							"Red"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Medium",
+						"explanation": "Using Tenenbaum's gift, Jack releases a green light that purges the sea slug from the girl, saving her life.",
+						"fact_checked": true,
+						"question": "If Jack chooses to 'Rescue' a Little Sister, what color light does she emit as she is cured?",
+						"wrong": [
+							"White",
+							"Gold",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Vents in the wall",
+						"difficulty": "Medium",
+						"explanation": "Little Sisters travel through specialized 'Hidey-Hole' vents in the walls of Rapture.",
+						"fact_checked": true,
+						"question": "Where do Little Sisters hide when there is no Big Daddy around to protect them?",
+						"wrong": [
+							"Under beds",
+							"Inside trash cans",
+							"In the ocean"
+						]
+					},
+					{
+						"correct": "Mental conditioning / Hallucinations",
+						"difficulty": "Hard",
+						"explanation": "To make their 'gathering' job bearable, they are conditioned to see corpses as 'Angels' and Rapture as a golden paradise.",
+						"fact_checked": true,
+						"question": "Why do Little Sisters see the world as a beautiful, candy-filled wonderland instead of a ruin?",
+						"wrong": [
+							"They are wearing VR goggles",
+							"They are actually happy",
+							"The sea slug produces sugar"
+						]
+					}
+				]
+			},
+			"id": "little_sister",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Little Sister",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Child",
+					"Gatherer",
+					"Mutant"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Atlantic Ocean",
+						"difficulty": "Easy",
+						"explanation": "The city is hidden deep beneath the surface of the North Atlantic.",
+						"fact_checked": true,
+						"question": "In which ocean is the city of Rapture located?",
+						"wrong": [
+							"Pacific Ocean",
+							"Indian Ocean",
+							"Arctic Ocean"
+						]
+					},
+					{
+						"correct": "Geothermal Energy",
+						"difficulty": "Easy",
+						"explanation": "The Hephaestus district uses the heat from undersea volcanic vents to power the city.",
+						"fact_checked": true,
+						"question": "What is the main source of power for the city of Rapture?",
+						"wrong": [
+							"Nuclear Power",
+							"Coal Burning",
+							"Solar Panels"
+						]
+					},
+					{
+						"correct": "The Lighthouse",
+						"difficulty": "Easy",
+						"explanation": "The lone lighthouse in the middle of the ocean serves as a secret elevator to the bathysphere bay.",
+						"fact_checked": true,
+						"question": "What is the name of the lighthouse entrance to the city?",
+						"wrong": [
+							"The Beacon",
+							"The Gateway",
+							"The Pillar"
+						]
+					},
+					{
+						"correct": "New Year's Eve Riot",
+						"difficulty": "Medium",
+						"explanation": "A massive terrorist attack on New Year's Eve marked the start of the civil war that destroyed the city.",
+						"fact_checked": true,
+						"question": "What event caused the downfall of Rapture in 1959?",
+						"wrong": [
+							"An Earthquake",
+							"The Great Flood",
+							"A Robot Uprising"
+						]
+					},
+					{
+						"correct": "Fort Frolic",
+						"difficulty": "Medium",
+						"explanation": "Fort Frolic is ruled by the eccentric and psychopathic Sander Cohen.",
+						"fact_checked": true,
+						"question": "Which district in Rapture is the home of the city's artists and entertainment?",
+						"wrong": [
+							"Olympus Heights",
+							"Apollo Square",
+							"Point Prometheus"
+						]
+					},
+					{
+						"correct": "Ryan Industries",
+						"difficulty": "Medium",
+						"explanation": "Andrew Ryan used his conglomerate to control almost every aspect of the city's infrastructure.",
+						"fact_checked": true,
+						"question": "What is the name of the company that managed most of Rapture's technology?",
+						"wrong": [
+							"Fink Manufacturing",
+							"Comstock Corp",
+							"Oceanic Tech"
+						]
+					},
+					{
+						"correct": "Atlas's Resistance",
+						"difficulty": "Hard",
+						"explanation": "Though Atlas was a fraud, he led a genuine movement of the city's lower class.",
+						"fact_checked": true,
+						"question": "What was the name of the secret resistance group led by Atlas?",
+						"wrong": [
+							"The Vox Populi",
+							"The Apollo Loyalists",
+							"The Atlas Rebels"
+						]
+					},
+					{
+						"correct": "Arcadia",
+						"difficulty": "Hard",
+						"explanation": "Arcadia is a massive underwater forest designed by Julie Langford to provide air to the citizens.",
+						"fact_checked": true,
+						"question": "Where is the oxygen for the city of Rapture produced?",
+						"wrong": [
+							"The Hydro-Works",
+							"The Oxygen Farm",
+							"The Air Scrubber"
+						]
+					},
+					{
+						"correct": "Mercury Suites",
+						"difficulty": "Hard",
+						"explanation": "Mercury Suites in Olympus Heights housed the city's elite, including Ryan himself.",
+						"fact_checked": true,
+						"question": "What was the name of the luxury apartment complex where Andrew Ryan lived?",
+						"wrong": [
+							"Mercury Suites",
+							"Olympus Heights",
+							"High Point"
+						]
+					},
+					{
+						"correct": "Splicers",
+						"difficulty": "Easy",
+						"explanation": "Splicers are former citizens of Rapture who have become physically and mentally deformed due to ADAM abuse.",
+						"fact_checked": true,
+						"question": "Which of these is the most common enemy found wandering the leaky halls of Rapture?",
+						"wrong": [
+							"Ghouls",
+							"Synthetics",
+							"The Taken"
+						]
+					},
+					{
+						"correct": "Circus of Values",
+						"difficulty": "Easy",
+						"explanation": "The Circus of Values is a staple of Rapture, famous for its high-pitched greeting: 'Welcome to the Circus of Valuesss!'",
+						"fact_checked": true,
+						"question": "What is the name of the recurring clown-themed vending machine that shouts catchphrases at you?",
+						"wrong": [
+							"Ammo Bandito",
+							"El Grocer",
+							"Clown Town"
+						]
+					},
+					{
+						"correct": "Dr. J.S. Steinman",
+						"difficulty": "Medium",
+						"explanation": "Steinman was an aesthetic surgeon who lost his mind and began 'sculpting' his patients into nightmarish shapes.",
+						"fact_checked": true,
+						"question": "In the Medical Pavilion, which surgeon has become obsessed with 'perfect' beauty through horrific mutilation?",
+						"wrong": [
+							"Dr. Suchong",
+							"Dr. Tenenbaum",
+							"Dr. Lutece"
+						]
+					},
+					{
+						"correct": "Sander Cohen",
+						"difficulty": "Medium",
+						"explanation": "Sander Cohen is the eccentric ruler of Fort Frolic who forces Jack to help him finish his Quadtych of death.",
+						"fact_checked": true,
+						"question": "Which flamboyant artist requires Jack to take photographs of his victims to complete a 'Masterpiece'?",
+						"wrong": [
+							"Frank Fontaine",
+							"Augustus Sinclair",
+							"Peach Wilkins"
+						]
+					},
+					{
+						"correct": "Olympus Heights",
+						"difficulty": "Hard",
+						"explanation": "Hephaestus is the core of Rapture's power and Ryan's base of operations, named after the Greek god of the forge.",
+						"fact_checked": true,
+						"question": "What is the name of the high-end shopping district that serves as the gateway to Andrew Ryan’s office?",
+						"wrong": [
+							"Artemis Suites",
+							"Apollo Square",
+							"Point Prometheus"
+						]
+					}
+				]
+			},
+			"id": "rapture",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Rapture",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Underwater",
+					"Dystopia"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "EVE",
+						"difficulty": "Easy",
+						"explanation": "EVE acts as the fuel for the genetic abilities granted by Plasmids.",
+						"fact_checked": true,
+						"question": "What resource is required to activate and use a Plasmid?",
+						"wrong": [
+							"ADAM",
+							"Mana",
+							"Battery Power"
+						]
+					},
+					{
+						"correct": "Electro Bolt",
+						"difficulty": "Easy",
+						"explanation": "Electro Bolt is often the first Plasmid players acquire and is essential for opening electronic doors.",
+						"fact_checked": true,
+						"question": "Which Plasmid allows the player to shoot lightning from their hands?",
+						"wrong": [
+							"Incinerate",
+							"Winter Blast",
+							"Sonic Boom"
+						]
+					},
+					{
+						"correct": "Gatherer's Garden",
+						"difficulty": "Easy",
+						"explanation": "These machines use ADAM as currency to provide genetic upgrades.",
+						"fact_checked": true,
+						"question": "What is the name of the vending machines where Plasmids are purchased?",
+						"wrong": [
+							"Circus of Values",
+							"El Ammo Bandito",
+							"Gene Bank"
+						]
+					},
+					{
+						"correct": "Gene Tonics",
+						"difficulty": "Medium",
+						"explanation": "Gene Tonics provide permanent stat boosts or abilities without consuming EVE.",
+						"fact_checked": true,
+						"question": "What are the passive versions of Plasmids called?",
+						"wrong": [
+							"Passive Perks",
+							"Bio Boosts",
+							"Mutations"
+						]
+					},
+					{
+						"correct": "Hypnotize Big Daddy",
+						"difficulty": "Medium",
+						"explanation": "This Plasmid tricks a Big Daddy into thinking the player is a Little Sister worth protecting.",
+						"fact_checked": true,
+						"question": "Which Plasmid mimics the abilities of a Big Daddy to protect the player?",
+						"wrong": [
+							"Enrage",
+							"Target Dummy",
+							"Security Bullseye"
+						]
+					},
+					{
+						"correct": "Genetic mutation",
+						"difficulty": "Medium",
+						"explanation": "Excessive genetic modification leads to physical deformity and mental instability, creating Splicers.",
+						"fact_checked": true,
+						"question": "What is the physical side effect of overusing Plasmids and ADAM?",
+						"wrong": [
+							"Petrification",
+							"Glowing Eyes",
+							"Turning into a Slug"
+						]
+					},
+					{
+						"correct": "Incinerate",
+						"difficulty": "Hard",
+						"explanation": "In Rapture's marketing, Incinerate was sold as a convenient lifestyle tool as much as a weapon.",
+						"fact_checked": true,
+						"question": "Which Plasmid was advertised as a way to light a cigarette with a finger?",
+						"wrong": [
+							"Flare Shot",
+							"Fire Ball",
+							"Heat Wave"
+						]
+					},
+					{
+						"correct": "Fontaine Futuristics",
+						"difficulty": "Hard",
+						"explanation": "The packaging was designed to make genetic mutation look like a consumer product.",
+						"fact_checked": true,
+						"question": "What brand of soda-like bottles are Plasmids often found in?",
+						"wrong": [
+							"Shock Cola",
+							"Splicer Juice",
+							"Plasmid Punch"
+						]
+					},
+					{
+						"correct": "Plasmids are injectable while Vigors are drinkable",
+						"difficulty": "Hard",
+						"explanation": "Vigors were the Columbia equivalent of Plasmids, modified to be ingested orally.",
+						"fact_checked": true,
+						"question": "What is the primary difference between a Plasmid and a Vigor?",
+						"wrong": [
+							"Plasmids are for robots",
+							"Vigors don't use ADAM",
+							"Plasmids only work underwater"
+						]
+					},
+					{
+						"correct": "Incinerate!",
+						"difficulty": "Easy",
+						"explanation": "Incinerate! is the primary fire-based Plasmid used to burn enemies or melt ice blocking paths.",
+						"fact_checked": true,
+						"question": "Which Plasmid is represented by a hand holding a flaming fireball?",
+						"wrong": [
+							"Firestorm",
+							"Hot Hand",
+							"Dragon Breath"
+						]
+					},
+					{
+						"correct": "EVE",
+						"difficulty": "Easy",
+						"explanation": "EVE is the fuel for Plasmids; Jack injects it using blue 'EVE Hypos'.",
+						"fact_checked": true,
+						"question": "What is the name of the blue fluid that acts as 'mana' for using Plasmids?",
+						"wrong": [
+							"ADAM",
+							"Salts",
+							"Vigor"
+						]
+					},
+					{
+						"correct": "Telekinesis",
+						"difficulty": "Medium",
+						"explanation": "Telekinesis is one of the most versatile Plasmids, used for puzzles, defense, and creative combat.",
+						"fact_checked": true,
+						"question": "Which Plasmid allows Jack to move heavy objects or catch incoming rockets?",
+						"wrong": [
+							"Sonic Boom",
+							"Gravity Well",
+							"Force Push"
+						]
+					},
+					{
+						"correct": "Bees",
+						"difficulty": "Medium",
+						"explanation": "Insect Swarm releases a cloud of stinging bees that distract and damage multiple enemies at once.",
+						"fact_checked": true,
+						"question": "What does the 'Insect Swarm' Plasmid actually shoot out of the player's arm?",
+						"wrong": [
+							"Locusts",
+							"Spiders",
+							"Wasps"
+						]
+					},
+					{
+						"correct": "Target Dummy",
+						"difficulty": "Hard",
+						"explanation": "Target Dummy creates a stationary image of Jack that Splicers will attack, allowing for easy escapes or ambushes.",
+						"fact_checked": true,
+						"question": "Which Plasmid causes a decoy version of the player to appear, drawing enemy fire?",
+						"wrong": [
+							"Hologram",
+							"Mirror Image",
+							"Ghost Trick"
+						]
+					}
+				]
+			},
+			"id": "plasmids",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Plasmids",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Power",
+					"Mutagen",
+					"Upgrade"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Columbia",
+						"difficulty": "Easy",
+						"explanation": "She was imprisoned in a giant tower on the floating city of Columbia.",
+						"fact_checked": true,
+						"question": "In which city is Elizabeth held captive?",
+						"wrong": [
+							"Rapture",
+							"Paris",
+							"London"
+						]
+					},
+					{
+						"correct": "Songbird",
+						"difficulty": "Easy",
+						"explanation": "Songbird was her only companion and her jailer for most of her life.",
+						"fact_checked": true,
+						"question": "What is the name of the massive mechanical creature that guards Elizabeth?",
+						"wrong": [
+							"Big Daddy",
+							"The Raven",
+							"Sky-Hooker"
+						]
+					},
+					{
+						"correct": "Opening Tears",
+						"difficulty": "Easy",
+						"explanation": "She can open portals to alternate realities, which she calls 'Tears'.",
+						"fact_checked": true,
+						"question": "What unique ability does Elizabeth possess?",
+						"wrong": [
+							"Telekinesis",
+							"Invisibility",
+							"Pyrokinesis"
+						]
+					},
+					{
+						"correct": "Pinky Finger",
+						"difficulty": "Medium",
+						"explanation": "The tip of her pinky was severed when a Tear closed while she was being taken as a baby.",
+						"fact_checked": true,
+						"question": "What part of her body is Elizabeth missing?",
+						"wrong": [
+							"Ring Finger",
+							"Left Toe",
+							"Ear Lobe"
+						]
+					},
+					{
+						"correct": "Anna DeWitt",
+						"difficulty": "Medium",
+						"explanation": "She is the daughter of Booker DeWitt, taken by Comstock to be his heir.",
+						"fact_checked": true,
+						"question": "What is Elizabeth's real birth name?",
+						"wrong": [
+							"Eleanor Lamb",
+							"Alice Comstock",
+							"Annabelle DeWitt"
+						]
+					},
+					{
+						"correct": "Paris",
+						"difficulty": "Medium",
+						"explanation": "She has several books about France and longs to see the Eiffel Tower.",
+						"fact_checked": true,
+						"question": "Where does Elizabeth dream of moving to throughout the game?",
+						"wrong": [
+							"New York",
+							"Rapture",
+							"The Moon"
+						]
+					},
+					{
+						"correct": "Drained and suppressed her powers",
+						"difficulty": "Hard",
+						"explanation": "The tower she lived in was actually a giant machine designed to limit her reality-warping abilities.",
+						"fact_checked": true,
+						"question": "What did the Siphon do to Elizabeth?",
+						"wrong": [
+							"Gave her more energy",
+							"Kept her young",
+							"Controlled her mind"
+						]
+					},
+					{
+						"correct": "The Lutece Twins",
+						"difficulty": "Hard",
+						"explanation": "Robert and Rosalind Lutece built the technology that allowed Comstock to steal her.",
+						"fact_checked": true,
+						"question": "Who were the scientists responsible for Elizabeth's imprisonment?",
+						"wrong": [
+							"Yi Suchong",
+							"Gilbert Alexander",
+							"Jeremiah Fink"
+						]
+					},
+					{
+						"correct": "To find and save Sally",
+						"difficulty": "Hard",
+						"explanation": "She returns to Rapture to rescue a Little Sister she felt she had abandoned.",
+						"fact_checked": true,
+						"question": "In the 'Burial at Sea' DLC, what is Elizabeth's primary goal in Rapture?",
+						"wrong": [
+							"To kill Andrew Ryan",
+							"To find Booker",
+							"To destroy the city"
+						]
+					},
+					{
+						"correct": "Tears",
+						"difficulty": "Easy",
+						"explanation": "Elizabeth has the unique ability to open 'Tears' into alternate realities to bring objects or people through.",
+						"fact_checked": true,
+						"question": "What is the name of the interdimensional portals Elizabeth can open?",
+						"wrong": [
+							"Rifts",
+							"Windows",
+							"Breaches"
+						]
+					},
+					{
+						"correct": "Health and Ammo",
+						"difficulty": "Easy",
+						"explanation": "Elizabeth is a vital partner, scavenging the environment to throw Booker health, salts, and ammo when he's low.",
+						"fact_checked": true,
+						"question": "During combat, Elizabeth helps Booker by frequently tossing him which of these?",
+						"wrong": [
+							"New Guns",
+							"Grenades",
+							"Shields"
+						]
+					},
+					{
+						"correct": "It is partially missing",
+						"difficulty": "Medium",
+						"explanation": "Elizabeth wears a thimble because the tip of her pinky was severed when a Tear closed on it when she was a baby.",
+						"fact_checked": true,
+						"question": "What is physically unique about Elizabeth's right pinky finger?",
+						"wrong": [
+							"It has a tattoo",
+							"It is twice as long",
+							"It is made of gold"
+						]
+					},
+					{
+						"correct": "Monument Island",
+						"difficulty": "Medium",
+						"explanation": "She was kept in a massive angel-shaped tower on Monument Island, where her powers were studied and suppressed.",
+						"fact_checked": true,
+						"question": "In BioShock Infinite, where was Elizabeth imprisoned for most of her life?",
+						"wrong": [
+							"Battleship Bay",
+							"Soldier's Field",
+							"The Emporia"
+						]
+					},
+					{
+						"correct": "Anna DeWitt",
+						"difficulty": "Hard",
+						"explanation": "She was originally Anna DeWitt, the daughter of Booker DeWitt, before being sold to clear his gambling debts.",
+						"fact_checked": true,
+						"question": "What was the name given to Elizabeth at birth before she was taken by Comstock?",
+						"wrong": [
+							"Eleanor Lamb",
+							"Alice Stock",
+							"Sarah Booker"
+						]
+					}
+				]
+			},
+			"id": "elizabeth",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Elizabeth",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Heroine",
+					"Companion",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Quantum Levitation",
+						"difficulty": "Easy",
+						"explanation": "Lutece Particles allow the city to float at a fixed point in space.",
+						"fact_checked": true,
+						"question": "How does the city of Columbia stay in the air?",
+						"wrong": [
+							"Helium Balloons",
+							"Propellers",
+							"Anti-Gravity Magnets"
+						]
+					},
+					{
+						"correct": "Zachary Hale Comstock",
+						"difficulty": "Easy",
+						"explanation": "Comstock built the city based on American exceptionalism and religious zealotry.",
+						"fact_checked": true,
+						"question": "Who is the self-proclaimed 'Prophet' and founder of Columbia?",
+						"wrong": [
+							"Andrew Ryan",
+							"Daisy Fitzroy",
+							"Jeremiah Fink"
+						]
+					},
+					{
+						"correct": "Sky-Lines",
+						"difficulty": "Easy",
+						"explanation": "Citizens and soldiers use hooks to slide along magnetic rails in the sky.",
+						"fact_checked": true,
+						"question": "What is the name of the transport system used to move between buildings?",
+						"wrong": [
+							"The Bathysphere",
+							"Air-Rails",
+							"Cloud-Trains"
+						]
+					},
+					{
+						"correct": "The Boxer Rebellion",
+						"difficulty": "Medium",
+						"explanation": "The city fired upon Chinese civilians, leading to its secession from the United States.",
+						"fact_checked": true,
+						"question": "What major world event did Columbia participate in before disappearing?",
+						"wrong": [
+							"World War I",
+							"The Civil War",
+							"The Great Depression"
+						]
+					},
+					{
+						"correct": "Vox Populi",
+						"difficulty": "Medium",
+						"explanation": "Led by Daisy Fitzroy, the Vox Populi represents the oppressed working class of Columbia.",
+						"fact_checked": true,
+						"question": "What is the name of the resistance group fighting against Comstock?",
+						"wrong": [
+							"The Founders",
+							"The Atlas Rebels",
+							"The Sky-Dogs"
+						]
+					},
+					{
+						"correct": "Jeremiah Fink",
+						"difficulty": "Medium",
+						"explanation": "Fink used tears to 'borrow' technology from other timelines, including the Big Daddy concept.",
+						"fact_checked": true,
+						"question": "Which industry leader provides most of the technology in Columbia?",
+						"wrong": [
+							"Frank Fontaine",
+							"Yi Suchong",
+							"Thomas Edison"
+						]
+					},
+					{
+						"correct": "Battleship Bay",
+						"difficulty": "Hard",
+						"explanation": "It is a popular recreation spot designed to look like a coastal resort.",
+						"fact_checked": true,
+						"question": "What is the name of the artificial beach found in Columbia?",
+						"wrong": [
+							"Soldier's Field",
+							"Sky-Beach",
+							"Monument Island"
+						]
+					},
+					{
+						"correct": "A floating World's Fair",
+						"difficulty": "Hard",
+						"explanation": "It was launched in 1893 to showcase American progress to the world.",
+						"fact_checked": true,
+						"question": "What was the original purpose of Columbia according to the US government?",
+						"wrong": [
+							"A military base",
+							"A weather station",
+							"A luxury hotel"
+						]
+					},
+					{
+						"correct": "Monument Island",
+						"difficulty": "Hard",
+						"explanation": "The island is shaped like a giant angel and is the most prominent landmark in the city.",
+						"fact_checked": true,
+						"question": "What is the name of the monument that houses Elizabeth?",
+						"wrong": [
+							"The Siphon Tower",
+							"The Angel",
+							"Comstock House"
+						]
+					},
+					{
+						"correct": "In the clouds",
+						"difficulty": "Easy",
+						"explanation": "Columbia is a massive city that floats in the sky using giant balloons and 'Lutece Particles'.",
+						"fact_checked": true,
+						"question": "Instead of being underwater like Rapture, where is the city of Columbia located?",
+						"wrong": [
+							"Inside a volcano",
+							"In space",
+							"Underground"
+						]
+					},
+					{
+						"correct": "Sky-Lines",
+						"difficulty": "Easy",
+						"explanation": "Citizens and soldiers use the Sky-Lines, gripping them with 'Sky-Hooks' to zip across the city.",
+						"fact_checked": true,
+						"question": "What is the name of the magnetic transit system people use to travel between buildings in Columbia?",
+						"wrong": [
+							"Cloud-Rails",
+							"Air-Trams",
+							"Bolt-Ways"
+						]
+					},
+					{
+						"correct": "Zachary Hale Comstock",
+						"difficulty": "Medium",
+						"explanation": "Father Comstock is the founder and religious dictator of Columbia, worshiped as a prophet.",
+						"fact_checked": true,
+						"question": "Who is the 'Prophet' and leader of the city of Columbia?",
+						"wrong": [
+							"Andrew Ryan",
+							"Cornelius Slate",
+							"Jeremiah Fink"
+						]
+					},
+					{
+						"correct": "Vox Populi",
+						"difficulty": "Medium",
+						"explanation": "The Vox Populi (Latin for 'Voice of the People') is a militant group led by Daisy Fitzroy.",
+						"fact_checked": true,
+						"question": "What is the name of the revolutionary group fighting against Comstock’s rule?",
+						"wrong": [
+							"The Founders",
+							"The Resistance",
+							"The Sky-Pirates"
+						]
+					},
+					{
+						"correct": "Quantum Levitation",
+						"difficulty": "Hard",
+						"explanation": "Rosalind Lutece discovered a way to suspend particles in space at a fixed point, which she called 'Quantum Levitation'.",
+						"fact_checked": true,
+						"question": "Which scientific discovery allows the heavy buildings of Columbia to remain floating in the air?",
+						"wrong": [
+							"Anti-Gravity Gas",
+							"Magnetic Repulsion",
+							"Steam Propulsion"
+						]
+					}
+				]
+			},
+			"id": "columbia",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Columbia",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Sky",
+					"Floating"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Songbird's eyes change color based on its emotional state, similar to a Big Daddy.",
+						"fact_checked": true,
+						"question": "What color are Songbird's eyes when it is hostile?",
+						"wrong": [
+							"Yellow",
+							"Green",
+							"White"
+						]
+					},
+					{
+						"correct": "Elizabeth",
+						"difficulty": "Easy",
+						"explanation": "Songbird was designed to be Elizabeth's only friend and her eternal guardian.",
+						"fact_checked": true,
+						"question": "Who is Songbird's specific charge that it must protect?",
+						"wrong": [
+							"Comstock",
+							"Booker",
+							"Daisy Fitzroy"
+						]
+					},
+					{
+						"correct": "Columbia",
+						"difficulty": "Easy",
+						"explanation": "Songbird flies through the clouds of Columbia to prevent Elizabeth from escaping.",
+						"fact_checked": true,
+						"question": "Which city does Songbird patrol?",
+						"wrong": [
+							"Rapture",
+							"New York",
+							"Paris"
+						]
+					},
+					{
+						"correct": "Whistle",
+						"difficulty": "Medium",
+						"explanation": "The 'Whistle' used by the player contains the musical notes C-A-G-E.",
+						"fact_checked": true,
+						"question": "What instrument is used to play the melody that controls Songbird?",
+						"wrong": [
+							"Piano",
+							"Harp",
+							"Trumpet"
+						]
+					},
+					{
+						"correct": "Its suit collapses from pressure",
+						"difficulty": "Medium",
+						"explanation": "It was designed for low-pressure high altitudes and cannot survive the deep sea.",
+						"fact_checked": true,
+						"question": "What happens to Songbird when it goes underwater?",
+						"wrong": [
+							"It rusts immediately",
+							"It powers down",
+							"It swims away"
+						]
+					},
+					{
+						"correct": "C-A-G-E",
+						"difficulty": "Medium",
+						"explanation": "The notes correspond to the word 'Cage', symbolizing Elizabeth's imprisonment.",
+						"fact_checked": true,
+						"question": "What is the musical code used to pacify Songbird?",
+						"wrong": [
+							"B-A-B-Y",
+							"D-E-A-D",
+							"F-E-A-R"
+						]
+					},
+					{
+						"correct": "Jeremiah Fink",
+						"difficulty": "Hard",
+						"explanation": "Fink observed Big Daddies through a tear to develop the technology for Songbird.",
+						"fact_checked": true,
+						"question": "Which scientist created Songbird?",
+						"wrong": [
+							"Rosalind Lutece",
+							"Yi Suchong",
+							"Andrew Ryan"
+						]
+					},
+					{
+						"correct": "Leather and Metal",
+						"difficulty": "Hard",
+						"explanation": "It is a cyborg-like construct made of industrial materials wrapped over a biological heart.",
+						"fact_checked": true,
+						"question": "What material is Songbird's skin primarily made of?",
+						"wrong": [
+							"Feathers",
+							"Rubber",
+							"Synthetic Flesh"
+						]
+					},
+					{
+						"correct": "Drowns in Rapture",
+						"difficulty": "Hard",
+						"explanation": "Elizabeth transports Songbird to the ocean surrounding Rapture, where the pressure kills it.",
+						"fact_checked": true,
+						"question": "How does Songbird eventually die?",
+						"wrong": [
+							"Falls from the sky",
+							"Destroyed by Booker",
+							"Self-destructs"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Songbird's eyes glow a bright, piercing yellow (though they turn red when he is angry or aggressive).",
+						"fact_checked": true,
+						"question": "What is the primary color of Songbird's giant, glowing mechanical eyes?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Green"
+						]
+					},
+					{
+						"correct": "To guard Elizabeth",
+						"difficulty": "Easy",
+						"explanation": "Songbird was designed to be Elizabeth's jailer and protector, keeping her confined to Monument Island.",
+						"fact_checked": true,
+						"question": "In BioShock Infinite, what is Songbird’s primary mission?",
+						"wrong": [
+							"To destroy the Vox Populi",
+							"To kill Booker",
+							"To power Columbia"
+						]
+					},
+					{
+						"correct": "C-A-G-E",
+						"difficulty": "Medium",
+						"explanation": "The notes C, A, G, and E (spelling CAGE) are played on a whistle to control Songbird's actions.",
+						"fact_checked": true,
+						"question": "What 4-letter musical sequence is used to command Songbird via a whistle?",
+						"wrong": [
+							"B-I-R-D",
+							"S-O-N-G",
+							"D-E-A-D"
+						]
+					},
+					{
+						"correct": "Rapture",
+						"difficulty": "Medium",
+						"explanation": "Fink used 'tears' to observe Rapture's Big Daddy/Little Sister bond and applied it to create the Songbird/Elizabeth bond.",
+						"fact_checked": true,
+						"question": "Songbird's design was inspired by the 'Bonding' technology used in which other city?",
+						"wrong": [
+							"London",
+							"New York",
+							"Paris"
+						]
+					},
+					{
+						"correct": "Drowning in the ocean",
+						"difficulty": "Hard",
+						"explanation": "Elizabeth teleports Songbird into the ocean surrounding Rapture, where the immense water pressure crushes him.",
+						"fact_checked": true,
+						"question": "How does Songbird eventually die at the end of BioShock Infinite?",
+						"wrong": [
+							"Crashing into a building",
+							"Exploding in mid-air",
+							"Shot by Booker"
+						]
+					}
+				]
+			},
+			"id": "songbird",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Songbird",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Guardian",
+					"Beast",
+					"Machine"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Buying genetic upgrades",
+						"difficulty": "Easy",
+						"explanation": "ADAM is the currency used to rewrite a person's genetic code.",
+						"fact_checked": true,
+						"question": "What is the primary use of ADAM in Rapture?",
+						"wrong": [
+							"Powering machines",
+							"Cleaning the water",
+							"Feeding the citizens"
+						]
+					},
+					{
+						"correct": "Sea Slugs",
+						"difficulty": "Easy",
+						"explanation": "A specific species of deep-sea slug produces the stem cells known as ADAM.",
+						"fact_checked": true,
+						"question": "From which animal is raw ADAM harvested?",
+						"wrong": [
+							"Jellyfish",
+							"Sharks",
+							"Crabs"
+						]
+					},
+					{
+						"correct": "Little Sisters",
+						"difficulty": "Easy",
+						"explanation": "The slugs are implanted into the Little Sisters to act as living ADAM factories.",
+						"fact_checked": true,
+						"question": "Who are the primary carriers of ADAM in the game?",
+						"wrong": [
+							"Splicers",
+							"Big Daddies",
+							"Robots"
+						]
+					},
+					{
+						"correct": "EVE",
+						"difficulty": "Medium",
+						"explanation": "EVE is a modified form of ADAM that allows the user to trigger their powers.",
+						"fact_checked": true,
+						"question": "What is the liquid form of ADAM used to fuel Plasmids?",
+						"wrong": [
+							"ADAM Juice",
+							"Plasmid Fuel",
+							"Bio-Blue"
+						]
+					},
+					{
+						"correct": "Bridgette Tenenbaum",
+						"difficulty": "Medium",
+						"explanation": "Tenenbaum was the first to realize the slug's cells could replace human tissue.",
+						"fact_checked": true,
+						"question": "Who discovered the properties of ADAM?",
+						"wrong": [
+							"Andrew Ryan",
+							"Yi Suchong",
+							"Sofia Lamb"
+						]
+					},
+					{
+						"correct": "Cellular degeneration",
+						"difficulty": "Medium",
+						"explanation": "Regular use of ADAM destroys the user's natural cells, requiring more ADAM to survive.",
+						"fact_checked": true,
+						"question": "What is the negative consequence of harvesting ADAM from a body?",
+						"wrong": [
+							"Blindness",
+							"Loss of memory",
+							"Instant death"
+						]
+					},
+					{
+						"correct": "Electro Bolt",
+						"difficulty": "Hard",
+						"explanation": "Electro Bolt was the breakthrough product that proved the viability of genetic modification.",
+						"fact_checked": true,
+						"question": "What was the first Plasmid ever successfully created using ADAM?",
+						"wrong": [
+							"Incinerate",
+							"Telekinesis",
+							"Target Dummy"
+						]
+					},
+					{
+						"correct": "Symbiotic Gastropod",
+						"difficulty": "Hard",
+						"explanation": "The slug lives in a symbiotic relationship with its host, providing ADAM in exchange for nutrients.",
+						"fact_checked": true,
+						"question": "What is the scientific name for the sea slug that produces ADAM?",
+						"wrong": [
+							"Slugus Rapturus",
+							"Mutagenic Snail",
+							"Atlantic Parasite"
+						]
+					},
+					{
+						"correct": "Extreme demand for combat Plasmids and limited production capacity.",
+						"difficulty": "Hard",
+						"explanation": "The scarcity of ADAM led to the desperate harvesting of corpses by Splicers.",
+						"fact_checked": true,
+						"question": "Why did the ADAM supply run low during the Civil War?",
+						"wrong": [
+							"The ocean dried up",
+							"The Little Sisters escaped",
+							"The factory was bombed"
+						]
+					},
+					{
+						"correct": "Pink / Red",
+						"difficulty": "Easy",
+						"explanation": "ADAM is consistently represented by a glowing pinkish-red hue, distinct from the blue of EVE.",
+						"fact_checked": true,
+						"question": "What is the primary color of the ADAM substance when seen in glowing containers or syringes?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Gatherer's Garden",
+						"difficulty": "Easy",
+						"explanation": "Gatherer's Garden machines allow players to trade ADAM for Plasmids and Tonics.",
+						"fact_checked": true,
+						"question": "Where must Jack go to spend his collected ADAM on new upgrades?",
+						"wrong": [
+							"Power to the People",
+							"U-Invent",
+							"Gene Bank"
+						]
+					},
+					{
+						"correct": "Rewrites genetic code",
+						"difficulty": "Medium",
+						"explanation": "ADAM is a form of unstable stem cells that can be programmed to rewrite DNA, allowing users to manifest superpowers.",
+						"fact_checked": true,
+						"question": "Physiologically, what does ADAM actually do to the human body to grant powers?",
+						"wrong": [
+							"Speeds up the heart",
+							"Replaces blood with oil",
+							"Hardens the skin"
+						]
+					},
+					{
+						"correct": "Genetic instability and insanity",
+						"difficulty": "Medium",
+						"explanation": "Repeated use of ADAM causes 'Splicer's Itch,' leading to horrific physical deformities and total mental breakdown.",
+						"fact_checked": true,
+						"question": "What is the main side effect of repeated ADAM usage, as seen in Splicers?",
+						"wrong": [
+							"Permanent blindness",
+							"Inability to sleep",
+							"Extreme weight loss"
+						]
+					},
+					{
+						"correct": "A lining in the stomach",
+						"difficulty": "Hard",
+						"explanation": "The ADAM-producing stem cells are found in the lining of the slug's stomach; the Little Sisters host the slug inside their own bodies to produce it in bulk.",
+						"fact_checked": true,
+						"question": "From what part of the sea slug's anatomy is the raw ADAM actually harvested?",
+						"wrong": [
+							"The tentacles",
+							"The ink sac",
+							"The shell"
+						]
+					}
+				]
+			},
+			"id": "adam",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "ADAM",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Resource",
+					"Mutagen",
+					"Currency"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Gallows",
+						"difficulty": "Easy",
+						"explanation": "The gallows in the town square highlights Rogueport's rough and dangerous reputation.",
+						"fact_checked": true,
+						"question": "What structure stands in the center of the Rogueport plaza?",
+						"wrong": [
+							"A Fountain",
+							"A Statue"
+						]
+					},
+					{
+						"correct": "Don Pianta",
+						"difficulty": "Easy",
+						"explanation": "Don Pianta runs his criminal organization from his office in the parlor.",
+						"fact_checked": true,
+						"question": "Who is the boss of the Pianta Syndicate in eastern Rogueport?",
+						"wrong": [
+							"Ishnail",
+							"Vinny"
+						]
+					},
+					{
+						"correct": "The Thousand Year Door",
+						"difficulty": "Easy",
+						"explanation": "The ancient door and the ruins of an old city lie deep underground.",
+						"fact_checked": true,
+						"question": "What is located directly beneath the city of Rogueport?",
+						"wrong": [
+							"The Underwhere",
+							"The Glitz Pit"
+						]
+					},
+					{
+						"correct": "Ishnail",
+						"difficulty": "Medium",
+						"explanation": "Ishnail leads the Robbo thieves, who are the rivals of the Pianta Syndicate.",
+						"fact_checked": true,
+						"question": "Which rival gang leader operates out of western Rogueport?",
+						"wrong": [
+							"Don Pianta",
+							"Zess T"
+						]
+					},
+					{
+						"correct": "Zess T",
+						"difficulty": "Medium",
+						"explanation": "Zess T can cook special items for Mario if he brings her the right ingredients.",
+						"fact_checked": true,
+						"question": "What is the name of the famous cook found in Rogueport?",
+						"wrong": [
+							"Tayce T",
+							"Saffron"
+						]
+					},
+					{
+						"correct": "Podley",
+						"difficulty": "Medium",
+						"explanation": "Podley serves drinks and shares rumors with travelers at the local inn.",
+						"fact_checked": true,
+						"question": "What is the name of the bartender at the Rogueport Inn?",
+						"wrong": [
+							"Merlon",
+							"Dazzle"
+						]
+					},
+					{
+						"correct": "A Giant Cataclysm",
+						"difficulty": "Hard",
+						"explanation": "Legend says a massive cataclysm caused the original city to sink into the earth.",
+						"fact_checked": true,
+						"question": "What natural disaster destroyed the city that existed before Rogueport?",
+						"wrong": [
+							"A Volcano",
+							"A Flood"
+						]
+					},
+					{
+						"correct": "Merlon",
+						"difficulty": "Hard",
+						"explanation": "Merlon uses Shine Sprites to level up Mario's party members.",
+						"fact_checked": true,
+						"question": "Which character runs the Shine Sprite exchange in Rogueport?",
+						"wrong": [
+							"Merlow",
+							"Merlee"
+						]
+					},
+					{
+						"correct": "The Sewers",
+						"difficulty": "Hard",
+						"explanation": "Dazzle can be found in the underground tunnels where he trades badges for Star Pieces.",
+						"fact_checked": true,
+						"question": "Where does the shady dealer Dazzle hide in Rogueport?",
+						"wrong": [
+							"The Inn",
+							"The West Side"
+						]
+					}
+				]
+			},
+			"id": "rogueport",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Rogueport",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Town",
+					"Hub",
+					"Port"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Goomba",
+						"difficulty": "Easy",
+						"explanation": "Goombella is a plucky and intelligent Goomba student.",
+						"fact_checked": true,
+						"question": "What species is Mario's first partner, Goombella?",
+						"wrong": [
+							"Koopa",
+							"Toad"
+						]
+					},
+					{
+						"correct": "Archaeology",
+						"difficulty": "Easy",
+						"explanation": "Goombella is a junior at the University of Goom studying archaeology.",
+						"fact_checked": true,
+						"question": "What is Goombella's primary area of study at university?",
+						"wrong": [
+							"Biology",
+							"History"
+						]
+					},
+					{
+						"correct": "Professor Frankly",
+						"difficulty": "Medium",
+						"explanation": "Professor Frankly is an expert on the Thousand-Year Door and Goombella's mentor.",
+						"fact_checked": true,
+						"question": "What is the name of Goombella's professor?",
+						"wrong": [
+							"Professor Kolorado",
+							"Professor E Gadd"
+						]
+					},
+					{
+						"correct": "University of Goom",
+						"difficulty": "Medium",
+						"explanation": "She is a top student at this prestigious Goomba institution.",
+						"fact_checked": true,
+						"question": "What is the name of the university Goombella attends?",
+						"wrong": [
+							"Goomba U",
+							"Rogueport College"
+						]
+					},
+					{
+						"correct": "Tattle",
+						"difficulty": "Medium",
+						"explanation": "Tattle provides lore and tactical information about anything Mario encounters.",
+						"fact_checked": true,
+						"question": "Which ability allows Goombella to describe enemies and locations?",
+						"wrong": [
+							"Scan",
+							"Analyze"
+						]
+					},
+					{
+						"correct": "The University",
+						"difficulty": "Hard",
+						"explanation": "They met during her studies before they both moved to Rogueport for research.",
+						"fact_checked": true,
+						"question": "Where did Goombella first meet Professor Frankly?",
+						"wrong": [
+							"Rogueport",
+							"Petalburg"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Hard",
+						"explanation": "Despite her pink helmet, her shoes are a standard red color.",
+						"fact_checked": true,
+						"question": "What color are Goombella's shoes?",
+						"wrong": [
+							"Brown",
+							"Pink"
+						]
+					},
+					{
+						"correct": "The Four Heroes",
+						"difficulty": "Hard",
+						"explanation": "Her research is focused on the legends of the heroes who sealed the Shadow Queen.",
+						"fact_checked": true,
+						"question": "Which legendary hero does Goombella specifically admire in her research?",
+						"wrong": [
+							"The Ancient King",
+							"The Star Spirits"
+						]
+					}
+				]
+			},
+			"id": "goombella",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Goombella",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Partner",
+					"Scholar"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Seven",
+						"difficulty": "Easy",
+						"explanation": "There are seven Crystal Stars scattered across the world.",
+						"fact_checked": true,
+						"question": "How many Crystal Stars must Mario collect in total?",
+						"wrong": [
+							"Eight",
+							"Six"
+						]
+					},
+					{
+						"correct": "The Diamond Star",
+						"difficulty": "Easy",
+						"explanation": "The Diamond Star is guarded by Hooktail in the first chapter.",
+						"fact_checked": true,
+						"question": "What is the name of the first Crystal Star Mario finds?",
+						"wrong": [
+							"The Gold Star",
+							"The Ruby Star"
+						]
+					},
+					{
+						"correct": "Star Power",
+						"difficulty": "Easy",
+						"explanation": "Collecting stars increases Mario's maximum Star Power for special moves.",
+						"fact_checked": true,
+						"question": "What do the Crystal Stars provide to Mario in battle?",
+						"wrong": [
+							"Health",
+							"Defense"
+						]
+					},
+					{
+						"correct": "The Diamond Star",
+						"difficulty": "Medium",
+						"explanation": "Hooktail swallowed the Diamond Star years before Mario arrived.",
+						"fact_checked": true,
+						"question": "Which Crystal Star is held by the dragon Hooktail?",
+						"wrong": [
+							"The Emerald Star",
+							"The Sapphire Star"
+						]
+					},
+					{
+						"correct": "Glitzville",
+						"difficulty": "Medium",
+						"explanation": "The Gold Star is used as the championship belt for the Glitz Pit.",
+						"fact_checked": true,
+						"question": "Where is the Gold Star hidden?",
+						"wrong": [
+							"Poshley Heights",
+							"Twilight Town"
+						]
+					},
+					{
+						"correct": "Cortez",
+						"difficulty": "Medium",
+						"explanation": "Cortez keeps the Sapphire Star among his legendary treasure on Keelhaul Key.",
+						"fact_checked": true,
+						"question": "Which spectral pirate captain guards the Sapphire Star?",
+						"wrong": [
+							"Bobbery",
+							"Lord Crump"
+						]
+					},
+					{
+						"correct": "Crystal",
+						"difficulty": "Hard",
+						"explanation": "The final star is the transparent Crystal Star, held by Sir Grodus.",
+						"fact_checked": true,
+						"question": "What color is the Crystal Star found in the X-Naut Fortress?",
+						"wrong": [
+							"Purple",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Twilight Town",
+						"difficulty": "Hard",
+						"explanation": "The Ruby Star is recovered after defeating Doopliss in Creepy Steeple.",
+						"fact_checked": true,
+						"question": "In which location is the Ruby Star found?",
+						"wrong": [
+							"Boggly Woods",
+							"Fahr Outpost"
+						]
+					},
+					{
+						"correct": "The Emerald Star",
+						"difficulty": "Hard",
+						"explanation": "The Emerald Star is the prize for saving the Great Tree from the X-Nauts.",
+						"fact_checked": true,
+						"question": "Which star is guarded by the Punies in the Great Tree?",
+						"wrong": [
+							"The Diamond Star",
+							"The Gold Star"
+						]
+					}
+				]
+			},
+			"id": "the_crystal_stars",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "The Crystal Stars",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Artifact",
+					"Magic",
+					"Key"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pink and White",
+						"difficulty": "Easy",
+						"explanation": "Vivian wears a distinctive striped pink and white hat.",
+						"fact_checked": true,
+						"question": "What color is Vivian's signature hat?",
+						"wrong": [
+							"Purple and Blue",
+							"Red and White"
+						]
+					},
+					{
+						"correct": "The Shadow Sirens",
+						"difficulty": "Easy",
+						"explanation": "She was the youngest member of the trio alongside her sisters Beldam and Marilyn.",
+						"fact_checked": true,
+						"question": "Which group was Vivian originally a member of?",
+						"wrong": [
+							"The X Nauts",
+							"The Robbos"
+						]
+					},
+					{
+						"correct": "Beldam",
+						"difficulty": "Easy",
+						"explanation": "Beldam is the leader of the Shadow Sirens and treats Vivian poorly.",
+						"fact_checked": true,
+						"question": "What is the name of Vivian's eldest sister?",
+						"wrong": [
+							"Marilyn",
+							"Jolene"
+						]
+					},
+					{
+						"correct": "Mario was kind to her",
+						"difficulty": "Medium",
+						"explanation": "After Mario helps her find a missing item, she realizes he is a good person.",
+						"fact_checked": true,
+						"question": "Why does Vivian decide to join Mario's party?",
+						"wrong": [
+							"She wanted the stars",
+							"Beldam fired her"
+						]
+					},
+					{
+						"correct": "Twilight Town",
+						"difficulty": "Medium",
+						"explanation": "She joins Mario during the events of Chapter 4 to defeat Doopliss.",
+						"fact_checked": true,
+						"question": "What is the name of the town where Vivian joins the party?",
+						"wrong": [
+							"Rogueport",
+							"Petalburg"
+						]
+					},
+					{
+						"correct": "Veil",
+						"difficulty": "Medium",
+						"explanation": "Veil allows Mario and Vivian to disappear into the floor to avoid detection.",
+						"fact_checked": true,
+						"question": "What is the name of Vivian's ability to hide in the shadows?",
+						"wrong": [
+							"Shade",
+							"Sneak"
+						]
+					},
+					{
+						"correct": "The Superbombomb",
+						"difficulty": "Hard",
+						"explanation": "The search for the missing Superbombomb is what leads Vivian to meet Mario.",
+						"fact_checked": true,
+						"question": "What item did Beldam lose that she blamed Vivian for?",
+						"wrong": [
+							"The Crystal Star",
+							"The Map"
+						]
+					},
+					{
+						"correct": " Gonzales",
+						"difficulty": "Hard",
+						"explanation": "Since Doopliss had stolen Mario's identity, she knew him only as Gonzales at first.",
+						"fact_checked": true,
+						"question": "What does Vivian call Mario when she first joins him?",
+						"wrong": [
+							"Mario",
+							"The Shadow Hero"
+						]
+					}
+				]
+			},
+			"id": "vivian",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Vivian",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Partner",
+					"Shadow"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Shadow Queen",
+						"difficulty": "Easy",
+						"explanation": "The Shadow Queen is the ancient evil sealed behind the Thousand-Year Door.",
+						"fact_checked": true,
+						"question": "Who is the final boss of the game?",
+						"wrong": [
+							"Sir Grodus",
+							"Lord Crump"
+						]
+					},
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Easy",
+						"explanation": "The X-Nauts kidnap Peach to use her body as a vessel for the Queen.",
+						"fact_checked": true,
+						"question": "Whose body does the Shadow Queen possess to manifest?",
+						"wrong": [
+							"Mario",
+							"Goombella"
+						]
+					},
+					{
+						"correct": "The Palace of Shadows",
+						"difficulty": "Easy",
+						"explanation": "The Palace of Shadows is the final dungeon located behind the door.",
+						"fact_checked": true,
+						"question": "Where is the Shadow Queen's resting place located?",
+						"wrong": [
+							"The Glitz Pit",
+							"The Great Tree"
+						]
+					},
+					{
+						"correct": "One Thousand Years",
+						"difficulty": "Medium",
+						"explanation": "She was sealed away a millennium ago by the Four Heroes.",
+						"fact_checked": true,
+						"question": "How many years was the Shadow Queen sealed away?",
+						"wrong": [
+							"Five Hundred Years",
+							"Ten Thousand Years"
+						]
+					},
+					{
+						"correct": "The Four Heroes",
+						"difficulty": "Medium",
+						"explanation": "A Goomba, a Koopa, a Boo, and a Toad joined forces to seal her away.",
+						"fact_checked": true,
+						"question": "Who originally sealed the Shadow Queen?",
+						"wrong": [
+							"Merlon",
+							"Mario"
+						]
+					},
+					{
+						"correct": "The Pit of 100 Trials",
+						"difficulty": "Medium",
+						"explanation": "The Pit of 100 Trials was originally a containment area for her dark minions.",
+						"fact_checked": true,
+						"question": "What did the Shadow Queen create to house her monsters?",
+						"wrong": [
+							"The Glitz Pit",
+							"The Moon Base"
+						]
+					},
+					{
+						"correct": "Dark Purple",
+						"difficulty": "Hard",
+						"explanation": "Her essence is a swirling mass of dark purple and black energy.",
+						"fact_checked": true,
+						"question": "What color is the Shadow Queen's true spectral form?",
+						"wrong": [
+							"Pitch Black",
+							"Deep Red"
+						]
+					},
+					{
+						"correct": "Sir Grodus",
+						"difficulty": "Hard",
+						"explanation": "Sir Grodus, leader of the X-Nauts, planned to use her power to rule the world.",
+						"fact_checked": true,
+						"question": "Which character led the group that sought to resurrect her?",
+						"wrong": [
+							"Beldam",
+							"Lord Crump"
+						]
+					},
+					{
+						"correct": "It shatters",
+						"difficulty": "Hard",
+						"explanation": "The dark crown breaks apart as her spirit is finally banished.",
+						"fact_checked": true,
+						"question": "What happens to the Shadow Queen's crown after she is defeated?",
+						"wrong": [
+							"It vanishes",
+							"Peach keeps it"
+						]
+					}
+				]
+			},
+			"id": "the_shadow_queen",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "The Shadow Queen",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Boss",
+					"Ancient"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Bob omb",
+						"difficulty": "Easy",
+						"explanation": "Admiral Bobbery is a distinguished and elderly Bob-omb.",
+						"fact_checked": true,
+						"question": "What species is Admiral Bobbery?",
+						"wrong": [
+							"Goomba",
+							"Koopa"
+						]
+					},
+					{
+						"correct": "Sea Captain",
+						"difficulty": "Easy",
+						"explanation": "He was a famous sailor before a personal tragedy led him to retire.",
+						"fact_checked": true,
+						"question": "What was Bobbery's former profession?",
+						"wrong": [
+							"Soldier",
+							"Baker"
+						]
+					},
+					{
+						"correct": "The East Side",
+						"difficulty": "Easy",
+						"explanation": "He lives in a secluded house in the eastern part of the city.",
+						"fact_checked": true,
+						"question": "Where does Bobbery live in Rogueport?",
+						"wrong": [
+							"The Sewers",
+							"The West Side"
+						]
+					},
+					{
+						"correct": "Scarlette",
+						"difficulty": "Medium",
+						"explanation": "His grief over Scarlette's death caused him to swear off the sea.",
+						"fact_checked": true,
+						"question": "What was the name of Bobbery's late wife?",
+						"wrong": [
+							"Vivian",
+							"Jolene"
+						]
+					},
+					{
+						"correct": "A Letter from Scarlette",
+						"difficulty": "Medium",
+						"explanation": "The letter reveals her final wish was for him to keep following his passion for sailing.",
+						"fact_checked": true,
+						"question": "What item convinces Bobbery to return to the sea?",
+						"wrong": [
+							"A Crystal Star",
+							"A Bottle of Chuckola Cola"
+						]
+					},
+					{
+						"correct": "Keelhaul Key",
+						"difficulty": "Medium",
+						"explanation": "He joins Mario during the expedition to find the Sapphire Star.",
+						"fact_checked": true,
+						"question": "On which island does Bobbery officially join the party?",
+						"wrong": [
+							"The Moon",
+							"Twilight Town"
+						]
+					},
+					{
+						"correct": "The S.S. Tea Cup",
+						"difficulty": "Hard",
+						"explanation": "The S.S. Tea Cup is mentioned in his backstory as his former command.",
+						"fact_checked": true,
+						"question": "What is the name of the ship Bobbery famously captained?",
+						"wrong": [
+							"The S.S. Flavio",
+							"The S.S. Drake"
+						]
+					},
+					{
+						"correct": "Podley",
+						"difficulty": "Hard",
+						"explanation": "Podley, the bartender, had been holding onto the letter for years.",
+						"fact_checked": true,
+						"question": "Which character gives Mario the letter for Bobbery?",
+						"wrong": [
+							"Don Pianta",
+							"Zess T"
+						]
+					},
+					{
+						"correct": "Vintage Clockwork",
+						"difficulty": "Hard",
+						"explanation": "His design features a classic wind-up key on his back.",
+						"fact_checked": true,
+						"question": "What specific type of Bob-omb is Bobbery?",
+						"wrong": [
+							"Modern Fuse",
+							"Chemical"
+						]
+					}
+				]
+			},
+			"id": "admiral_bobbery",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Admiral Bobbery",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Partner",
+					"Sailor"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "In the Sky",
+						"difficulty": "Easy",
+						"explanation": "Glitzville is a floating city that Mario reaches via a blimp.",
+						"fact_checked": true,
+						"question": "Where is Glitzville located?",
+						"wrong": [
+							"Underground",
+							"On an Island"
+						]
+					},
+					{
+						"correct": "The Glitz Pit",
+						"difficulty": "Easy",
+						"explanation": "The Glitz Pit is the main attraction where fighters compete for the belt.",
+						"fact_checked": true,
+						"question": "What is the name of the fighting arena in Glitzville?",
+						"wrong": [
+							"The Battle Dome",
+							"The Smash Arena"
+						]
+					},
+					{
+						"correct": "Rawk Hawk",
+						"difficulty": "Easy",
+						"explanation": "Rawk Hawk is the arrogant current champion of the Glitz Pit.",
+						"fact_checked": true,
+						"question": "Who is the champion when Mario first arrives in Glitzville?",
+						"wrong": [
+							"Prince Mush",
+							"King K"
+						]
+					},
+					{
+						"correct": "Grubba",
+						"difficulty": "Medium",
+						"explanation": "Grubba runs the operations but hides a dark secret about his success.",
+						"fact_checked": true,
+						"question": "Who is the manager and promoter of the Glitz Pit?",
+						"wrong": [
+							"Don Pianta",
+							"Jolene"
+						]
+					},
+					{
+						"correct": "Prince Mush",
+						"difficulty": "Medium",
+						"explanation": "Prince Mush was Jolene's brother and the original champion of the arena.",
+						"fact_checked": true,
+						"question": "What is the name of the first champion who mysteriously disappeared?",
+						"wrong": [
+							"The Iron Adonis",
+							"Sir Swoop"
+						]
+					},
+					{
+						"correct": "The Gold Star",
+						"difficulty": "Medium",
+						"explanation": "Grubba uses the Gold Star to power a machine that drains the strength of fighters.",
+						"fact_checked": true,
+						"question": "Which Crystal Star is used as the Glitz Pit championship belt?",
+						"wrong": [
+							"The Ruby Star",
+							"The Diamond Star"
+						]
+					},
+					{
+						"correct": "Fresh Juice Shop",
+						"difficulty": "Hard",
+						"explanation": "The juice bar is where Mario can find clues about the arena's mysteries.",
+						"fact_checked": true,
+						"question": "What is the name of the juice bar located in Glitzville?",
+						"wrong": [
+							"The Glitz Bar",
+							"Podley's Place"
+						]
+					},
+					{
+						"correct": "Jolene",
+						"difficulty": "Hard",
+						"explanation": "Jolene uses the alias 'X' to guide Mario toward the truth about Grubba.",
+						"fact_checked": true,
+						"question": "Who is revealed to be the mysterious 'X' sending Mario emails?",
+						"wrong": [
+							"Princess Peach",
+							"Professor Frankly"
+						]
+					}
+				]
+			},
+			"id": "glitzville",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Glitzville",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Arena",
+					"Sky"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Mushroom Kingdom",
+						"difficulty": "Easy",
+						"explanation": "Peach is the beloved ruler of the Mushroom Kingdom.",
+						"fact_checked": true,
+						"question": "Which kingdom does Princess Peach rule?",
+						"wrong": [
+							"Sarasaland",
+							"The Beanbean Kingdom"
+						]
+					},
+					{
+						"correct": "The X Nauts",
+						"difficulty": "Easy",
+						"explanation": "For once, Bowser is not the primary antagonist who kidnaps the Princess.",
+						"fact_checked": true,
+						"question": "Who is the main kidnapper of Peach in this game?",
+						"wrong": [
+							"Bowser",
+							"Count Bleck"
+						]
+					},
+					{
+						"correct": "Emails",
+						"difficulty": "Easy",
+						"explanation": "Peach uses the computer TEC to send Mario digital updates.",
+						"fact_checked": true,
+						"question": "What does Peach send to Mario to help him on his quest?",
+						"wrong": [
+							"Letters",
+							"Packages"
+						]
+					},
+					{
+						"correct": "TEC",
+						"difficulty": "Medium",
+						"explanation": "TEC-XX is the mainframe computer of the X-Naut base that develops feelings for Peach.",
+						"fact_checked": true,
+						"question": "What is the name of the computer Peach befriends?",
+						"wrong": [
+							"HAL",
+							"CORE"
+						]
+					},
+					{
+						"correct": "Dance",
+						"difficulty": "Medium",
+						"explanation": "In one sequence, TEC asks Peach to dance with a holographic Mario.",
+						"fact_checked": true,
+						"question": "What does Peach have to do to help TEC understand love?",
+						"wrong": [
+							"Sing",
+							"Cook"
+						]
+					},
+					{
+						"correct": "An X Naut Uniform",
+						"difficulty": "Medium",
+						"explanation": "Peach uses a uniform to bypass security in certain parts of the base.",
+						"fact_checked": true,
+						"question": "What disguise does Peach wear to sneak around the X-Naut base?",
+						"wrong": [
+							"An Invisible Cloak",
+							"A Maid Outfit"
+						]
+					},
+					{
+						"correct": "TEC XX",
+						"difficulty": "Hard",
+						"explanation": "TEC-XX is the official name of the AI that assists Peach.",
+						"fact_checked": true,
+						"question": "What is the full designation number of the computer TEC?",
+						"wrong": [
+							"TEC 9000",
+							"TEC 01"
+						]
+					},
+					{
+						"correct": "Sir Grodus",
+						"difficulty": "Hard",
+						"explanation": "Sir Grodus intends to use her as the vessel for the Shadow Queen.",
+						"fact_checked": true,
+						"question": "Who is the X-Naut leader that Peach is brought to see initially?",
+						"wrong": [
+							"Lord Crump",
+							"Beldam"
+						]
+					},
+					{
+						"correct": "Transmits a message to Mario",
+						"difficulty": "Hard",
+						"explanation": "TEC sacrifices himself to send the final message and data to Mario.",
+						"fact_checked": true,
+						"question": "What is the final thing TEC does for Peach at the end of the base sequence?",
+						"wrong": [
+							"Teleports her home",
+							"Gives her a Star"
+						]
+					}
+				]
+			},
+			"id": "princess_peach",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Princess Peach",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Princess",
+					"Monarch"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Rogueport Sewers",
+						"difficulty": "Easy",
+						"explanation": "The door is hidden deep beneath the city of Rogueport.",
+						"fact_checked": true,
+						"question": "Where is the Thousand Year Door located?",
+						"wrong": [
+							"The Mushroom Palace",
+							"The Moon"
+						]
+					},
+					{
+						"correct": "The Crystal Stars",
+						"difficulty": "Easy",
+						"explanation": "All seven Crystal Stars must be placed on the pedestals to open the seal.",
+						"fact_checked": true,
+						"question": "What objects are required to open the Thousand Year Door?",
+						"wrong": [
+							"Golden Keys",
+							"Pure Hearts"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "Each pedestal corresponds to one of the seven Crystal Stars.",
+						"fact_checked": true,
+						"question": "How many pedestals are located in front of the door?",
+						"wrong": [
+							"Eight",
+							"Five"
+						]
+					},
+					{
+						"correct": "The Four Heroes",
+						"difficulty": "Medium",
+						"explanation": "The heroes built it to contain the Shadow Queen's spirit.",
+						"fact_checked": true,
+						"question": "Who built the Thousand Year Door?",
+						"wrong": [
+							"The X Nauts",
+							"The Shadow Queen"
+						]
+					},
+					{
+						"correct": "The Rogueport Sewers",
+						"difficulty": "Medium",
+						"explanation": "The door is the entrance to the Palace of Shadows.",
+						"fact_checked": true,
+						"question": "What is the name of the path leading to the door?",
+						"wrong": [
+							"The Pit of 100 Trials",
+							"The Great Tree"
+						]
+					},
+					{
+						"correct": "Every Thousand Years",
+						"difficulty": "Medium",
+						"explanation": "The door is named for the length of time the seal remains strong.",
+						"fact_checked": true,
+						"question": "How often does the seal on the door weaken?",
+						"wrong": [
+							"Every Hundred Years",
+							"Every Ten Years"
+						]
+					},
+					{
+						"correct": "The Legendary Toad",
+						"difficulty": "Hard",
+						"explanation": "The Toad hero was one of the four legendary figures who defeated the Queen.",
+						"fact_checked": true,
+						"question": "Which hero was a Toad that helped seal the door?",
+						"wrong": [
+							"Prince Mush",
+							"Toadsworth"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Hard",
+						"explanation": "A dark, ominous light emanates from the door as the ancient evil wakes.",
+						"fact_checked": true,
+						"question": "What color is the light that shines from the door when it opens?",
+						"wrong": [
+							"Bright White",
+							"Golden Yellow"
+						]
+					},
+					{
+						"correct": "It shows the next star",
+						"difficulty": "Hard",
+						"explanation": "Standing on the pedestal with the map reveals the location of the next Crystal Star.",
+						"fact_checked": true,
+						"question": "What happens to the Magical Map when it is brought to the door?",
+						"wrong": [
+							"It turns into a key",
+							"It glows red"
+						]
+					}
+				]
+			},
+			"id": "the_thousand_year_door",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "The Thousand Year Door",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ancient",
+					"Hub",
+					"Ruins"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Petalburg",
+						"difficulty": "Easy",
+						"explanation": "Koops joins Mario in the peaceful flowery town of Petalburg.",
+						"fact_checked": true,
+						"question": "What is the name of the town where Koops lives?",
+						"wrong": [
+							"Koopa Village",
+							"Rogueport",
+							"Hooktail Castle"
+						]
+					},
+					{
+						"correct": "To become brave",
+						"difficulty": "Easy",
+						"explanation": "Koops starts as a shy character who wants to prove his courage.",
+						"fact_checked": true,
+						"question": "What is Koops' primary motivation for joining Mario's quest?",
+						"wrong": [
+							"To get rich",
+							"To find a legendary badge",
+							"To escape his girlfriend"
+						]
+					},
+					{
+						"correct": "Light Blue",
+						"difficulty": "Easy",
+						"explanation": "Koops is easily identified by his light blue hoodie and shell.",
+						"fact_checked": true,
+						"question": "What color is the shell that Koops wears?",
+						"wrong": [
+							"Green",
+							"Red",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Koopie Koo",
+						"difficulty": "Medium",
+						"explanation": "Koopie Koo is a spirited Koopa who initially opposes Koops going on a dangerous journey.",
+						"fact_checked": true,
+						"question": "Who is Koops' girlfriend who tries to stop him from leaving?",
+						"wrong": [
+							"Kooper",
+							"Goombella",
+							"Bombette"
+						]
+					},
+					{
+						"correct": "Inside Hooktail's belly",
+						"difficulty": "Medium",
+						"explanation": "Koopley survived for ten years inside the dragon Hooktail.",
+						"fact_checked": true,
+						"question": "Where does Koops eventually find his father, Koopley?",
+						"wrong": [
+							"In a jail cell",
+							"At the bottom of a well",
+							"In Rogueport"
+						]
+					},
+					{
+						"correct": "Bandages on his nose",
+						"difficulty": "Medium",
+						"explanation": "Koops wears a bandage on his nose, giving him a scruffy but endearing look.",
+						"fact_checked": true,
+						"question": "What physical trait distinguishes Koops from other Koopas?",
+						"wrong": [
+							"A mohawk",
+							"Glasses",
+							"A missing tail"
+						]
+					},
+					{
+						"correct": "A special turtle shell",
+						"difficulty": "Hard",
+						"explanation": "Koopley's shell was so tough that even a dragon's stomach acid couldn't break it.",
+						"fact_checked": true,
+						"question": "What was Koops' father wearing that protected him from digestion?",
+						"wrong": [
+							"An invincible suit",
+							"A magic badge",
+							"Steel armor"
+						]
+					},
+					{
+						"correct": "Become a stronger person",
+						"difficulty": "Hard",
+						"explanation": "Koops realizes that true bravery comes from within, not just from fighting monsters.",
+						"fact_checked": true,
+						"question": "What does Koops promise to do for his father after the adventure ends?",
+						"wrong": [
+							"Take over the shop",
+							"Move to Rogueport",
+							"Rebuild the town"
+						]
+					}
+				]
+			},
+			"id": "koops",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Koops",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Partner",
+					"Koopa"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The X-Nauts",
+						"difficulty": "Easy",
+						"explanation": "Sir Grodus is the supreme commander of the high-tech X-Naut army.",
+						"fact_checked": true,
+						"question": "Which organization does Sir Grodus lead?",
+						"wrong": [
+							"The Koopa Troop",
+							"The Shadow Trio",
+							"The Smithy Gang"
+						]
+					},
+					{
+						"correct": "World Domination",
+						"difficulty": "Easy",
+						"explanation": "Grodus seeks the Crystal Stars to unlock the Thousand Year Door and rule the world.",
+						"fact_checked": true,
+						"question": "What is Sir Grodus' primary goal throughout the game?",
+						"wrong": [
+							"To marry Princess Peach",
+							"To find gold",
+							"To defeat Bowser"
+						]
+					},
+					{
+						"correct": "Cyborg",
+						"difficulty": "Easy",
+						"explanation": "Grodus is a mechanical being with a cold, calculated personality.",
+						"fact_checked": true,
+						"question": "What species or type of being is Sir Grodus?",
+						"wrong": [
+							"Goomba",
+							"Human",
+							"Ghost"
+						]
+					},
+					{
+						"correct": "The Moon",
+						"difficulty": "Medium",
+						"explanation": "The X-Naut Fortress is a high-tech facility hidden on the lunar surface.",
+						"fact_checked": true,
+						"question": "Where is Sir Grodus' main base of operations located?",
+						"wrong": [
+							"The Sky",
+							"Underground",
+							"An Island"
+						]
+					},
+					{
+						"correct": "The Shadow Trio",
+						"difficulty": "Medium",
+						"explanation": "Beldam, Marilyn, and Vivian are hired by Grodus to collect Crystal Stars.",
+						"fact_checked": true,
+						"question": "Who does Sir Grodus hire to do his dirty work in the field?",
+						"wrong": [
+							"The Mario Bros",
+							"The Koopa Bros",
+							"The Axem Rangers"
+						]
+					},
+					{
+						"correct": "He is blasted to a head",
+						"difficulty": "Medium",
+						"explanation": "The Shadow Queen quickly shows Grodus who is truly in charge by nearly destroying him.",
+						"fact_checked": true,
+						"question": "What happens to Grodus after the Shadow Queen is summoned?",
+						"wrong": [
+							"He becomes king",
+							"He is vaporized",
+							"He escapes to the moon"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Hard",
+						"explanation": "Grodus sports a regal red cape that contrasts with his metallic body.",
+						"fact_checked": true,
+						"question": "What color is the cape that Sir Grodus wears?",
+						"wrong": [
+							"Blue",
+							"Purple",
+							"Black"
+						]
+					},
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Hard",
+						"explanation": "Grodus requires a pure-hearted maiden to serve as the host for the ancient demon.",
+						"fact_checked": true,
+						"question": "Which character does Grodus use as a vessel for the Shadow Queen?",
+						"wrong": [
+							"Goombella",
+							"Flurrie",
+							"Vivian"
+						]
+					},
+					{
+						"correct": "Poshley Heights",
+						"difficulty": "Hard",
+						"explanation": "A rumor mentions them surviving and laying low in the wealthy Poshley Heights.",
+						"fact_checked": true,
+						"question": "In the game's epilogue, where are Grodus and Lord Crump rumored to be?",
+						"wrong": [
+							"Rogueport",
+							"Twilight Town",
+							"The Glitz Pit"
+						]
+					}
+				]
+			},
+			"id": "sir_grodus",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Sir Grodus",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Leader",
+					"Cyborg"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A luxury train",
+						"difficulty": "Easy",
+						"explanation": "The Excess Express is a famous high-end train traveling across the world.",
+						"fact_checked": true,
+						"question": "What kind of vehicle is the Excess Express?",
+						"wrong": [
+							"A cruise ship",
+							"An airship",
+							"A submarine"
+						]
+					},
+					{
+						"correct": "Poshley Heights",
+						"difficulty": "Easy",
+						"explanation": "The train runs between Rogueport and the upscale resort of Poshley Heights.",
+						"fact_checked": true,
+						"question": "Which destination does the Excess Express travel toward?",
+						"wrong": [
+							"Rogueport",
+							"Glitzville",
+							"Petalburg"
+						]
+					},
+					{
+						"correct": "Chapter Six",
+						"difficulty": "Easy",
+						"explanation": "Mario boards the train in Chapter 6 for a detective-themed adventure.",
+						"fact_checked": true,
+						"question": "In which chapter does the journey on the Excess Express take place?",
+						"wrong": [
+							"Chapter Three",
+							"Chapter Five",
+							"Chapter Eight"
+						]
+					},
+					{
+						"correct": "Pennington",
+						"difficulty": "Medium",
+						"explanation": "Pennington is a Penguin detective who fancies himself a master of deduction.",
+						"fact_checked": true,
+						"question": "Who is the detective on board that helps Mario solve mysteries?",
+						"wrong": [
+							"Doopliss",
+							"Frankly",
+							"Koops"
+						]
+					},
+					{
+						"correct": "A threatening note",
+						"difficulty": "Medium",
+						"explanation": "The journey begins with a threat left in Mario's cabin.",
+						"fact_checked": true,
+						"question": "What mystery does Mario investigate on the first day of the trip?",
+						"wrong": [
+							"A stolen cake",
+							"A murder",
+							"A missing ticket"
+						]
+					},
+					{
+						"correct": "Ghost T.",
+						"difficulty": "Medium",
+						"explanation": "Ghost T. is a Toad spirit who resides in Cabin 4.",
+						"fact_checked": true,
+						"question": "What is the name of the spectral entity haunting the train?",
+						"wrong": [
+							"Boo",
+							"Dark Bones",
+							"The Shadow"
+						]
+					},
+					{
+						"correct": "A pot",
+						"difficulty": "Hard",
+						"explanation": "The Cheep Cheep chef is distraught after losing his favorite soup pot.",
+						"fact_checked": true,
+						"question": "What specific item does the Chef of the train lose?",
+						"wrong": [
+							"His hat",
+							"His knife",
+							"A cookbook"
+						]
+					},
+					{
+						"correct": "Toad",
+						"difficulty": "Hard",
+						"explanation": "Zip Toad is a famous Toad actor traveling on the train.",
+						"fact_checked": true,
+						"question": "What species is the businessman character 'Zip Toad' on the train?",
+						"wrong": [
+							"Koopa",
+							"Goomba",
+							"Yoshi"
+						]
+					}
+				]
+			},
+			"id": "excess_express",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Excess Express",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Train",
+					"Luxury"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Goomba",
+						"difficulty": "Easy",
+						"explanation": "Frankly is an elderly, wise Goomba living in Rogueport.",
+						"fact_checked": true,
+						"question": "What is Professor Frankly's species?",
+						"wrong": [
+							"Toad",
+							"Koopa",
+							"Human"
+						]
+					},
+					{
+						"correct": "Goombella",
+						"difficulty": "Easy",
+						"explanation": "Goombella is a junior at U Goom where Frankly used to teach.",
+						"fact_checked": true,
+						"question": "Which character was a former student of Professor Frankly?",
+						"wrong": [
+							"Mario",
+							"Peach",
+							"Vivian"
+						]
+					},
+					{
+						"correct": "Rogueport",
+						"difficulty": "Easy",
+						"explanation": "His lab is located in the back of Rogueport's main square.",
+						"fact_checked": true,
+						"question": "In which city does Professor Frankly live?",
+						"wrong": [
+							"Petalburg",
+							"Poshley Heights",
+							"Fahr Outpost"
+						]
+					},
+					{
+						"correct": "Archaeology",
+						"difficulty": "Medium",
+						"explanation": "He is the leading expert on the legend of the Thousand Year Door.",
+						"fact_checked": true,
+						"question": "What subject does Professor Frankly specialize in?",
+						"wrong": [
+							"Biology",
+							"Chemistry",
+							"Cooking"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "The blue trash can is a distinct piece of furniture in his cluttered office.",
+						"fact_checked": true,
+						"question": "What color is the trash can in Frankly's office that he often inspects?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "He places it on his desk to examine it",
+						"difficulty": "Hard",
+						"explanation": "He uses his expertise to reveal the locations of the Crystal Stars on the map.",
+						"fact_checked": true,
+						"question": "What does Frankly do with the Magical Map when Mario first shows it to him?",
+						"wrong": [
+							"He eats it",
+							"He cleans it",
+							"He gives it back"
+						]
+					},
+					{
+						"correct": "University of Goom",
+						"difficulty": "Hard",
+						"explanation": "Goombella and Frankly are both associated with the University of Goom.",
+						"fact_checked": true,
+						"question": "What is the specific name of the university where Frankly taught?",
+						"wrong": [
+							"Mushroom College",
+							"Goomba Tech",
+							"Rogueport State"
+						]
+					},
+					{
+						"correct": "It was actually a cursed soul",
+						"difficulty": "Hard",
+						"explanation": "He discovers that the legendary treasure was actually a sealed demonic entity.",
+						"fact_checked": true,
+						"question": "What does Frankly reveal about the origins of the Shadow Queen's treasure?",
+						"wrong": [
+							"It was gold",
+							"It was a giant mushroom",
+							"It never existed"
+						]
+					}
+				]
+			},
+			"id": "professor_frankly",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Professor Frankly",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Scholar",
+					"Goomba"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Stealing badges",
+						"difficulty": "Easy",
+						"explanation": "Ms. Mowz is a notorious badge thief who loves shiny treasures.",
+						"fact_checked": true,
+						"question": "What is Ms. Mowz's secret hobby?",
+						"wrong": [
+							"Cooking",
+							"Racing",
+							"Singing"
+						]
+					},
+					{
+						"correct": "Mouse",
+						"difficulty": "Easy",
+						"explanation": "She is a stylish Squeek, a mouse-like species in the Mario world.",
+						"fact_checked": true,
+						"question": "What species is Ms. Mowz?",
+						"wrong": [
+							"Rat",
+							"Cat",
+							"Hamster"
+						]
+					},
+					{
+						"correct": "Optional",
+						"difficulty": "Easy",
+						"explanation": "Players must complete a specific side quest to recruit her to the team.",
+						"fact_checked": true,
+						"question": "Is Ms. Mowz a required partner or an optional one?",
+						"wrong": [
+							"Required",
+							"Temporary",
+							"Villain only"
+						]
+					},
+					{
+						"correct": "Lovely Howz of Badges",
+						"difficulty": "Medium",
+						"explanation": "She operates a shop on the rooftops of Rogueport when not adventuring.",
+						"fact_checked": true,
+						"question": "What is the name of the badge shop Ms. Mowz runs in Rogueport?",
+						"wrong": [
+							"The Badge Shop",
+							"Mowz Treasures",
+							"Shiny Boutique"
+						]
+					},
+					{
+						"correct": "Hooktail Castle",
+						"difficulty": "Medium",
+						"explanation": "She appears early on, looking for a rare badge in the dragon's lair.",
+						"fact_checked": true,
+						"question": "Where does Mario first encounter Ms. Mowz?",
+						"wrong": [
+							"Glitz Pit",
+							"The Moon",
+							"Boggly Woods"
+						]
+					},
+					{
+						"correct": "Kisses him",
+						"difficulty": "Medium",
+						"explanation": "She is known for her flirtatious nature and often blows kisses or kisses Mario.",
+						"fact_checked": true,
+						"question": "What does Ms. Mowz do to Mario after their first meeting?",
+						"wrong": [
+							"Steals his shoes",
+							"Pushes him",
+							"Gives him a map"
+						]
+					},
+					{
+						"correct": "The Elusive Badge",
+						"difficulty": "Hard",
+						"explanation": "Mario must find a badge hidden in Hooktail's room to prove his skills.",
+						"fact_checked": true,
+						"question": "To recruit Ms. Mowz, what item must Mario find for her?",
+						"wrong": [
+							"A diamond",
+							"A gold ring",
+							"Her lost key"
+						]
+					},
+					{
+						"correct": "Sniffing out hidden items",
+						"difficulty": "Hard",
+						"explanation": "She can detect if a badge or star piece is hidden in the current room.",
+						"fact_checked": true,
+						"question": "What is Ms. Mowz's unique ability outside of battle?",
+						"wrong": [
+							"Squeezing through pipes",
+							"Invisibility",
+							"Double jumping"
+						]
+					}
+				]
+			},
+			"id": "ms._mowz",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Ms. Mowz",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Partner",
+					"Thief",
+					"Mouse"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Glitz Pit",
+						"difficulty": "Easy",
+						"explanation": "Rawk Hawk is the reigning champion of the Glitzville fighting arena.",
+						"fact_checked": true,
+						"question": "Where is the only place Mario can fight Rawk Hawk?",
+						"wrong": [
+							"The Moon",
+							"Rogueport",
+							"Hooktail Castle"
+						]
+					},
+					{
+						"correct": "Gold",
+						"difficulty": "Easy",
+						"explanation": "He is a golden hawk with a very flashy personality.",
+						"fact_checked": true,
+						"question": "What color is Rawk Hawk's plumage?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Black"
+						]
+					},
+					{
+						"correct": "Feel the Rawk",
+						"difficulty": "Easy",
+						"explanation": "He frequently shouts this to pump up the crowd.",
+						"fact_checked": true,
+						"question": "What is Rawk Hawk's famous catchphrase?",
+						"wrong": [
+							"It is showtime",
+							"Rawk and Roll",
+							"I am the best"
+						]
+					},
+					{
+						"correct": "The Champion Belt",
+						"difficulty": "Medium",
+						"explanation": "Mario believes the belt contains a Crystal Star, though it turns out to be a fake.",
+						"fact_checked": true,
+						"question": "What object does Rawk Hawk possess that Mario wants?",
+						"wrong": [
+							"A Crystal Star",
+							"A Magic Key",
+							"A Gold Medal"
+						]
+					},
+					{
+						"correct": "Cheating and sabotage",
+						"difficulty": "Medium",
+						"explanation": "He used a machine to drain the power of other fighters before their matches.",
+						"fact_checked": true,
+						"question": "How did Rawk Hawk maintain his winning streak in the Glitz Pit?",
+						"wrong": [
+							"Magic",
+							"Pure strength",
+							"Bribery"
+						]
+					},
+					{
+						"correct": "The Great Gonzales",
+						"difficulty": "Medium",
+						"explanation": "He addresses Mario by his wrestling stage name.",
+						"fact_checked": true,
+						"question": "What does Rawk Hawk call Mario during their interactions?",
+						"wrong": [
+							"The Red Menace",
+							"Jumpman",
+							"Plumber Boy"
+						]
+					},
+					{
+						"correct": "He becomes a secondary rival",
+						"difficulty": "Hard",
+						"explanation": "He remains in the Glitz Pit and even helps Mario later by guarding the arena.",
+						"fact_checked": true,
+						"question": "What happens to Rawk Hawk after Mario defeats him for the title?",
+						"wrong": [
+							"He disappears",
+							"He joins the X-Nauts",
+							"He becomes a chef"
+						]
+					},
+					{
+						"correct": "Training in the gym",
+						"difficulty": "Hard",
+						"explanation": "He is shown maintaining his physique, likely preparing to reclaim his title.",
+						"fact_checked": true,
+						"question": "In the ending credits, what is Rawk Hawk shown doing?",
+						"wrong": [
+							"Eating cake",
+							"Sleeping",
+							"Flying over the sea"
+						]
+					}
+				]
+			},
+			"id": "rawk_hawk",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Rawk Hawk",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Rival",
+					"Fighter"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "An upscale resort town",
+						"difficulty": "Easy",
+						"explanation": "It is the most luxurious and wealthy destination in the game.",
+						"fact_checked": true,
+						"question": "What kind of town is Poshley Heights?",
+						"wrong": [
+							"A mining town",
+							"A ghost town",
+							"A port city"
+						]
+					},
+					{
+						"correct": "Garnet Star",
+						"difficulty": "Easy",
+						"explanation": "The Garnet Star is the prize found at the end of Chapter 6.",
+						"fact_checked": true,
+						"question": "Which Crystal Star is hidden in Poshley Heights?",
+						"wrong": [
+							"Ruby Star",
+							"Gold Star",
+							"Sapphire Star"
+						]
+					},
+					{
+						"correct": "Poshley Sanctum",
+						"difficulty": "Easy",
+						"explanation": "The Sanctum is a beautiful building that holds the town's treasures.",
+						"fact_checked": true,
+						"question": "What is the name of the main attraction in Poshley Heights?",
+						"wrong": [
+							"The Glitz Pit",
+							"Hooktail Castle",
+							"The Shadow Temple"
+						]
+					},
+					{
+						"correct": "Pennington",
+						"difficulty": "Medium",
+						"explanation": "The detective penguin Pennington also looks after the town's museum.",
+						"fact_checked": true,
+						"question": "Who is the curator of the Poshley Sanctum?",
+						"wrong": [
+							"Frankly",
+							"Merlon",
+							"Grubba"
+						]
+					},
+					{
+						"correct": "Behind a painting",
+						"difficulty": "Medium",
+						"explanation": "Mario must walk through a painting of the Sanctum to find the real star.",
+						"fact_checked": true,
+						"question": "Where is the real Crystal Star hidden in the Sanctum?",
+						"wrong": [
+							"In a chest",
+							"Under the floor",
+							"In the chandelier"
+						]
+					},
+					{
+						"correct": "Ms. Mowz",
+						"difficulty": "Hard",
+						"explanation": "She is often found near the Sanctum, looking for shiny badges.",
+						"fact_checked": true,
+						"question": "Which thief is frequently seen lurking around Poshley Heights?",
+						"wrong": [
+							"Wario",
+							"The Shadow Siren",
+							"Bandit"
+						]
+					},
+					{
+						"correct": "Bees and Butterflies",
+						"difficulty": "Hard",
+						"explanation": "The town is populated by elegant insect-like people.",
+						"fact_checked": true,
+						"question": "What species makes up the majority of the population in Poshley Heights?",
+						"wrong": [
+							"Toads",
+							"Koopas",
+							"Goombas"
+						]
+					},
+					{
+						"correct": "Zip Toad",
+						"difficulty": "Hard",
+						"explanation": "Zip Toad is a famous actor who resides in the resort.",
+						"fact_checked": true,
+						"question": "What is the name of the celebrity Toad who lives in Poshley Heights?",
+						"wrong": [
+							"Toadsworth",
+							"Master Toad",
+							"Super Toad"
+						]
+					}
+				]
+			},
+			"id": "poshley_heights",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Poshley Heights",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Resort",
+					"Wealthy"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "X-Naut",
+						"difficulty": "Easy",
+						"explanation": "The basic soldiers are round, masked minions.",
+						"fact_checked": true,
+						"question": "What is the standard grunt soldier of the X-Nauts called?",
+						"wrong": [
+							"Koopa Troopa",
+							"Goomba",
+							"Shy Guy"
+						]
+					},
+					{
+						"correct": "Lord Crump",
+						"difficulty": "Easy",
+						"explanation": "Lord Crump is Grodus' right-hand man and a recurring boss.",
+						"fact_checked": true,
+						"question": "What is the name of the X-Naut commander who fights Mario in Chapter 2?",
+						"wrong": [
+							"Grodus",
+							"Rawk Hawk",
+							"Doopliss"
+						]
+					},
+					{
+						"correct": "X-Naut Fortress",
+						"difficulty": "Easy",
+						"explanation": "The fortress is a massive tech-filled complex on the moon.",
+						"fact_checked": true,
+						"question": "What do the X-Nauts call their secret base?",
+						"wrong": [
+							"The Death Star",
+							"Grodus Castle",
+							"Moon Base Alpha"
+						]
+					},
+					{
+						"correct": "X-Naut PhD",
+						"difficulty": "Medium",
+						"explanation": "The PhD variants throw beakers that cause various status effects.",
+						"fact_checked": true,
+						"question": "Which variation of X-Naut is known for using chemical potions?",
+						"wrong": [
+							"Elite X-Naut",
+							"X-Naut Pilot",
+							"Mega X-Naut"
+						]
+					},
+					{
+						"correct": "Magnus Von Grapple",
+						"difficulty": "Medium",
+						"explanation": "Lord Crump pilots this giant robot in two different versions.",
+						"fact_checked": true,
+						"question": "What giant mechanical robot do the X-Nauts use to fight Mario?",
+						"wrong": [
+							"Mecha Bowser",
+							"Steel Titan",
+							"The X-Bot"
+						]
+					},
+					{
+						"correct": "Teleporters",
+						"difficulty": "Hard",
+						"explanation": "They use advanced technology to beam themselves across space.",
+						"fact_checked": true,
+						"question": "How do X-Nauts travel between the Moon and Earth?",
+						"wrong": [
+							"Rockets",
+							"Cannons",
+							"Magic Portals"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Hard",
+						"explanation": "Elite X-Nauts wear green uniforms and are much stronger than the blue grunts.",
+						"fact_checked": true,
+						"question": "What is the color of the Elite X-Naut uniforms?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Black"
+						]
+					},
+					{
+						"correct": "Imprisoning them",
+						"difficulty": "Hard",
+						"explanation": "They invaded the tree and put the Punies in cages to search for the Crystal Star.",
+						"fact_checked": true,
+						"question": "What were the X-Nauts doing to the Punies in the Great Tree?",
+						"wrong": [
+							"Eating them",
+							"Teaching them",
+							"Giving them badges"
+						]
+					}
+				]
+			},
+			"id": "x-nauts",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "X-Nauts",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Faction",
+					"Science"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Easy",
+						"explanation": "Peach sends the map to Mario after purchasing it in Rogueport.",
+						"fact_checked": true,
+						"question": "Who gives Mario the Magical Map at the start of the game?",
+						"wrong": [
+							"Professor Frankly",
+							"Merlon",
+							"Toadsworth"
+						]
+					},
+					{
+						"correct": "The Crystal Stars",
+						"difficulty": "Easy",
+						"explanation": "The map reacts to the Crystal Stars, showing where the next one is hidden.",
+						"fact_checked": true,
+						"question": "What does the Magical Map track the location of?",
+						"wrong": [
+							"Hidden Gold",
+							"The Princess",
+							"Legendary Badges"
+						]
+					},
+					{
+						"correct": "The Thousand Year Door",
+						"difficulty": "Easy",
+						"explanation": "Standing on the pedestal before the door causes the map to reveal new locations.",
+						"fact_checked": true,
+						"question": "Where must Mario take the map to update it?",
+						"wrong": [
+							"Professor Frankly's Lab",
+							"The Moon",
+							"The Glitz Pit"
+						]
+					},
+					{
+						"correct": "An ancient box",
+						"difficulty": "Medium",
+						"explanation": "The map was inside a legendary chest that could only be opened by the pure of heart.",
+						"fact_checked": true,
+						"question": "What was the Magical Map stored in before Peach bought it?",
+						"wrong": [
+							"A glass jar",
+							"A safe",
+							"A trash can"
+						]
+					},
+					{
+						"correct": "The Four Heroes",
+						"difficulty": "Medium",
+						"explanation": "The heroes who sealed the Shadow Queen created the map to help future generations.",
+						"fact_checked": true,
+						"question": "Which ancient group originally created the Magical Map?",
+						"wrong": [
+							"The X-Nauts",
+							"The Goombas",
+							"The Shadow Queen"
+						]
+					},
+					{
+						"correct": "White and Gold",
+						"difficulty": "Medium",
+						"explanation": "The map emits a divine light when a Crystal Star is found.",
+						"fact_checked": true,
+						"question": "What color is the glow of the Magical Map when it activates?",
+						"wrong": [
+							"Purple",
+							"Green",
+							"Blood Red"
+						]
+					},
+					{
+						"correct": "To lure a vessel to the door",
+						"difficulty": "Hard",
+						"explanation": "The legends were manipulated so that someone would eventually bring a vessel and the stars to the door.",
+						"fact_checked": true,
+						"question": "Why did the Shadow Queen allow the map to exist?",
+						"wrong": [
+							"She did not know it existed",
+							"She created it herself",
+							"It was a mistake"
+						]
+					},
+					{
+						"correct": "It becomes a normal map",
+						"difficulty": "Hard",
+						"explanation": "Once the Shadow Queen is defeated, its magical properties fade away.",
+						"fact_checked": true,
+						"question": "What happens to the Magical Map at the very end of the game?",
+						"wrong": [
+							"It disappears",
+							"It burns up",
+							"Mario keeps it"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Hard",
+						"explanation": "The map only reveals the location of the next star one at a time.",
+						"fact_checked": true,
+						"question": "How many locations are revealed on the map simultaneously at most?",
+						"wrong": [
+							"Seven",
+							"Three",
+							"All of them"
+						]
+					}
+				]
+			},
+			"id": "magical_map",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Magical Map",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Key Item",
+					"Artifact",
+					"Guide"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Actress",
+						"difficulty": "Easy",
+						"explanation": "Madame Flurrie is a famous opera singer and stage actress.",
+						"fact_checked": true,
+						"question": "What is Flurrie's profession before joining Mario?",
+						"wrong": [
+							"Chef",
+							"Teacher",
+							"Singer"
+						]
+					},
+					{
+						"correct": "Wind",
+						"difficulty": "Easy",
+						"explanation": "As a wind spirit, she can blow heavy objects away with a gust of air.",
+						"fact_checked": true,
+						"question": "What element does Flurrie control?",
+						"wrong": [
+							"Fire",
+							"Water",
+							"Earth"
+						]
+					},
+					{
+						"correct": "Boggly Woods",
+						"difficulty": "Easy",
+						"explanation": "She has a secluded house in the monochromatic Boggly Woods.",
+						"fact_checked": true,
+						"question": "Where does Madame Flurrie live?",
+						"wrong": [
+							"Twilight Town",
+							"Rogueport",
+							"Glitzville"
+						]
+					},
+					{
+						"correct": "Her necklace",
+						"difficulty": "Medium",
+						"explanation": "She refuses to leave her house because she feels 'naked' without her favorite necklace.",
+						"fact_checked": true,
+						"question": "What item must Mario retrieve for Flurrie before she joins him?",
+						"wrong": [
+							"Her ring",
+							"Her script",
+							"Her makeup"
+						]
+					},
+					{
+						"correct": "Wind Spirit",
+						"difficulty": "Medium",
+						"explanation": "She is a unique cloud-like entity known as a wind spirit.",
+						"fact_checked": true,
+						"question": "What species of creature is Madame Flurrie?",
+						"wrong": [
+							"Cloud Toad",
+							"Ghost",
+							"Lakitu"
+						]
+					},
+					{
+						"correct": "Blowing",
+						"difficulty": "Medium",
+						"explanation": "She can blow away paper-thin covers to reveal secrets.",
+						"fact_checked": true,
+						"question": "What is Flurrie's signature ability for uncovering hidden items?",
+						"wrong": [
+							"Digging",
+							"Sniffing",
+							"Shining a light"
+						]
+					},
+					{
+						"correct": "The Punies",
+						"difficulty": "Hard",
+						"explanation": "She acts as a maternal figure to the small Puni creatures in the Great Tree.",
+						"fact_checked": true,
+						"question": "Which group of creatures is Flurrie very protective of?",
+						"wrong": [
+							"The Toads",
+							"The Yoshis",
+							"The Koopas"
+						]
+					},
+					{
+						"correct": "Body Slam",
+						"difficulty": "Hard",
+						"explanation": "She uses her significant weight to crush enemies from above.",
+						"fact_checked": true,
+						"question": "What is the name of Flurrie's body-slamming attack?",
+						"wrong": [
+							"Cloud Drop",
+							"Heavy Press",
+							"Wind Crush"
+						]
+					},
+					{
+						"correct": "Performing on stage",
+						"difficulty": "Hard",
+						"explanation": "She returns to her passion for acting after the world is saved.",
+						"fact_checked": true,
+						"question": "In the game's epilogue, what does Flurrie return to doing?",
+						"wrong": [
+							"Sleeping",
+							"Teaching",
+							"Traveling the world"
+						]
+					}
+				]
+			},
+			"id": "madame_flurrie",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Madame Flurrie",
+				"theme_origin": "paper mario the thousand year door",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Partner",
+					"Spirit"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Frank Fontaine",
+						"difficulty": "Easy",
+						"explanation": "Fontaine was a con man who built a criminal empire to challenge Ryan's rule.",
+						"fact_checked": true,
+						"question": "Who is the main business rival of Andrew Ryan in Rapture?",
+						"wrong": [
+							"Sander Cohen",
+							"Bill McDonagh",
+							"Yi Suchong"
+						]
+					},
+					{
+						"correct": "Atlas",
+						"difficulty": "Easy",
+						"explanation": "He used the name Atlas to lead a worker's revolution against Andrew Ryan.",
+						"fact_checked": true,
+						"question": "What was the name of Frank Fontaine's primary cover identity?",
+						"wrong": [
+							"Apollo",
+							"Zeus",
+							"Hermes"
+						]
+					},
+					{
+						"correct": "Fontaine Futuristics",
+						"difficulty": "Easy",
+						"explanation": "Fontaine Futuristics was the birthplace of genetic modification in Rapture.",
+						"fact_checked": true,
+						"question": "What company did Fontaine use to manufacture Plasmids?",
+						"wrong": [
+							"Ryan Industries",
+							"Sinclair Solutions",
+							"Fink Manufacturing"
+						]
+					},
+					{
+						"correct": "A staged shootout with the police",
+						"difficulty": "Medium",
+						"explanation": "He faked his death to evade Andrew Ryan's security forces.",
+						"fact_checked": true,
+						"question": "How did Fontaine supposedly die before reappearing as Atlas?",
+						"wrong": [
+							"A lab explosion",
+							"A plane crash",
+							"A deep sea diving accident"
+						]
+					},
+					{
+						"correct": "Would You Kindly",
+						"difficulty": "Medium",
+						"explanation": "The phrase was a hypnotic trigger implanted into Jack's mind.",
+						"fact_checked": true,
+						"question": "What phrase did Fontaine use to mentally control Jack?",
+						"wrong": [
+							"Please proceed",
+							"If you please",
+							"By your command"
+						]
+					},
+					{
+						"correct": "Frank Gorland",
+						"difficulty": "Hard",
+						"explanation": "Gorland was a small-time crook from New York before he reinvented himself.",
+						"fact_checked": true,
+						"question": "What was Frank Fontaine's real name before coming to Rapture?",
+						"wrong": [
+							"Frankie Costello",
+							"Frank Miller",
+							"Frank Sullivan"
+						]
+					},
+					{
+						"correct": "Fontaine Department Store",
+						"difficulty": "Hard",
+						"explanation": "Ryan had the entire store sunk into a trench to imprison Fontaine's followers.",
+						"fact_checked": true,
+						"question": "In what specific department store was Fontaine's base hidden during the civil war?",
+						"wrong": [
+							"Point Prometheus",
+							"Fort Frolic",
+							"Pauper's Drop"
+						]
+					},
+					{
+						"correct": "An ADAM infused giant",
+						"difficulty": "Hard",
+						"explanation": "He injected massive amounts of three different types of ADAM to transform into a god-like being.",
+						"fact_checked": true,
+						"question": "What final form did Fontaine take during the final boss battle?",
+						"wrong": [
+							"A Big Daddy",
+							"A swarm of bees",
+							"A mechanical ghost"
+						]
+					}
+				]
+			},
+			"id": "frank_fontaine",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Frank Fontaine",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Human",
+					"Criminal"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fort Frolic",
+						"difficulty": "Easy",
+						"explanation": "Fort Frolic was the entertainment hub of Rapture where Cohen reigned supreme.",
+						"fact_checked": true,
+						"question": "What is the name of the artistic district ruled by Sander Cohen?",
+						"wrong": [
+							"Arcadia",
+							"Olympus Heights",
+							"Hephaestus"
+						]
+					},
+					{
+						"correct": "Artist",
+						"difficulty": "Easy",
+						"explanation": "Cohen was a painter, musician, and playwright who went insane from ADAM.",
+						"fact_checked": true,
+						"question": "What is Sander Cohen's primary profession?",
+						"wrong": [
+							"Doctor",
+							"Engineer",
+							"Politician"
+						]
+					},
+					{
+						"correct": "Plaster statues",
+						"difficulty": "Easy",
+						"explanation": "He covered his victims in plaster to preserve them as eternal statues.",
+						"fact_checked": true,
+						"question": "What does Cohen turn his victims into for his art?",
+						"wrong": [
+							"Paintings",
+							"Musical instruments",
+							"Wall decorations"
+						]
+					},
+					{
+						"correct": "The Quadtych",
+						"difficulty": "Medium",
+						"explanation": "The Quadtych required photographs of four of Cohen's former disciples.",
+						"fact_checked": true,
+						"question": "What is the name of the masterpiece Cohen asks Jack to help complete?",
+						"wrong": [
+							"The Trinity",
+							"The Final Scene",
+							"The Rapture Dream"
+						]
+					},
+					{
+						"correct": "Kyle Fitzpatrick",
+						"difficulty": "Medium",
+						"explanation": "Fitzpatrick was the first disciple Jack encountered in Fort Frolic.",
+						"fact_checked": true,
+						"question": "Which character was Cohen's former student who was blown up on a piano?",
+						"wrong": [
+							"Martin Finnegan",
+							"Silas Cobb",
+							"Hector Rodriguez"
+						]
+					},
+					{
+						"correct": "The Wild Bunny",
+						"difficulty": "Medium",
+						"explanation": "The poem is a bizarre and disturbing metaphor for transformation.",
+						"fact_checked": true,
+						"question": "What is the title of the poem Cohen wrote for Andrew Ryan?",
+						"wrong": [
+							"The Great Chain",
+							"The Ocean Deep",
+							"The Iron Mask"
+						]
+					},
+					{
+						"correct": "Olympus Heights",
+						"difficulty": "Hard",
+						"explanation": "If you spare him in Fort Frolic, you can visit his home and kill him there.",
+						"fact_checked": true,
+						"question": "Where can you find Cohen's secret apartment later in the game?",
+						"wrong": [
+							"Mercury Suites",
+							"Apollo Square",
+							"Point Prometheus"
+						]
+					},
+					{
+						"correct": "Piano",
+						"difficulty": "Hard",
+						"explanation": "He often forced his students to play piano until they reached perfection or madness.",
+						"fact_checked": true,
+						"question": "What instrument was Cohen famously known for playing?",
+						"wrong": [
+							"Violin",
+							"Cello",
+							"Flute"
+						]
+					},
+					{
+						"correct": "Martin Finnegan",
+						"difficulty": "Hard",
+						"explanation": "Finnegan was the Ice Man who would freeze his enemies.",
+						"fact_checked": true,
+						"question": "Which disciple of Cohen's is found in the Poseidon Plaza freezer?",
+						"wrong": [
+							"Silas Cobb",
+							"Hector Rodriguez",
+							"Albert Milonakis"
+						]
+					}
+				]
+			},
+			"id": "sander_cohen",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Sander Cohen",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Artist",
+					"Villain",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "ADAM",
+						"difficulty": "Easy",
+						"explanation": "She discovered that a sea slug produced a substance capable of healing cells.",
+						"fact_checked": true,
+						"question": "What substance did Bridget Tenenbaum discover in Rapture?",
+						"wrong": [
+							"EVE",
+							"Salt",
+							"Vigor"
+						]
+					},
+					{
+						"correct": "Little Ones",
+						"difficulty": "Easy",
+						"explanation": "Despite creating them, she developed a maternal protectiveness over the girls.",
+						"fact_checked": true,
+						"question": "What does Tenenbaum affectionately call the Little Sisters?",
+						"wrong": [
+							"Little Slugs",
+							"Small Angels",
+							"Daughters"
+						]
+					},
+					{
+						"correct": "Rescuing the girls",
+						"difficulty": "Easy",
+						"explanation": "She begs the player to save the girls rather than take their ADAM.",
+						"fact_checked": true,
+						"question": "Which side of the moral choice does Tenenbaum represent?",
+						"wrong": [
+							"Harvesting the girls",
+							"Killing the Big Daddies",
+							"Blowing up Rapture"
+						]
+					},
+					{
+						"correct": "Das Wunderkind",
+						"difficulty": "Medium",
+						"explanation": "Her genius was recognized at a very young age during World War II.",
+						"fact_checked": true,
+						"question": "What was Tenenbaum's nickname as a child prodigy?",
+						"wrong": [
+							"The Geneticist",
+							"The Little Genius",
+							"The Slug Queen"
+						]
+					},
+					{
+						"correct": "Yi Suchong",
+						"difficulty": "Medium",
+						"explanation": "Suchong and Tenenbaum were the lead scientists on the Protector project.",
+						"fact_checked": true,
+						"question": "Who did Tenenbaum collaborate with to create the Big Daddy bond?",
+						"wrong": [
+							"Andrew Ryan",
+							"Frank Fontaine",
+							"Sofia Lamb"
+						]
+					},
+					{
+						"correct": "Guilt over her experiments",
+						"difficulty": "Medium",
+						"explanation": "She sought redemption for the horrors she inflicted on the Little Sisters.",
+						"fact_checked": true,
+						"question": "Why did Tenenbaum turn against Fontaine and Ryan?",
+						"wrong": [
+							"They didn't pay her",
+							"They tried to kill her",
+							"She wanted to rule Rapture"
+						]
+					},
+					{
+						"correct": "On a sailor with a mangled hand",
+						"difficulty": "Hard",
+						"explanation": "She noticed a sailor's hand had completely healed after being bitten by a slug.",
+						"fact_checked": true,
+						"question": "Where did Tenenbaum first see the healing properties of the sea slug?",
+						"wrong": [
+							"On a dead fish",
+							"On her own arm",
+							"In a petri dish"
+						]
+					},
+					{
+						"correct": "It is never mentioned",
+						"difficulty": "Hard",
+						"explanation": "While she developed the cure, the very first test subject remains anonymous in lore.",
+						"fact_checked": true,
+						"question": "What was the name of the first Little Sister Tenenbaum successfully cured?",
+						"wrong": [
+							"Eleanor Lamb",
+							"Sally",
+							"Elizabeth"
+						]
+					}
+				]
+			},
+			"id": "bridget_tenenbaum",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Bridget Tenenbaum",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Scientist",
+					"Ally",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "ADAM addiction",
+						"difficulty": "Easy",
+						"explanation": "Excessive gene-splicing caused physical and mental degradation.",
+						"fact_checked": true,
+						"question": "What is the primary cause of the Splicers' mutations?",
+						"wrong": [
+							"Nuclear radiation",
+							"Deep sea pressure",
+							"Lack of sunlight"
+						]
+					},
+					{
+						"correct": "Masquerade masks",
+						"difficulty": "Easy",
+						"explanation": "They wear masks to hide their hideous facial deformities caused by ADAM.",
+						"fact_checked": true,
+						"question": "What kind of masks do Splicers often wear?",
+						"wrong": [
+							"Gas masks",
+							"Clown masks",
+							"Animal masks"
+						]
+					},
+					{
+						"correct": "Thuggish Splicer",
+						"difficulty": "Easy",
+						"explanation": "Thuggish Splicers are the most common and aggressive enemies in Rapture.",
+						"fact_checked": true,
+						"question": "What is the name for the basic Splicer that uses melee weapons?",
+						"wrong": [
+							"Leadhead Splicer",
+							"Spider Splicer",
+							"Houdini Splicer"
+						]
+					},
+					{
+						"correct": "Houdini Splicer",
+						"difficulty": "Medium",
+						"explanation": "They use genetic modifications to vanish and reappear during combat.",
+						"fact_checked": true,
+						"question": "Which Splicer type can teleport and shoot fireballs?",
+						"wrong": [
+							"Nitro Splicer",
+							"Spider Splicer",
+							"Brute Splicer"
+						]
+					},
+					{
+						"correct": "Spider Splicer",
+						"difficulty": "Medium",
+						"explanation": "Spider Splicers use hooks and genetic agility to move across high surfaces.",
+						"fact_checked": true,
+						"question": "What is the name of the Splicers that can crawl on ceilings?",
+						"wrong": [
+							"Crawl Splicer",
+							"Ceiling Splicer",
+							"Wall Splicer"
+						]
+					},
+					{
+						"correct": "Nitro Splicer",
+						"difficulty": "Hard",
+						"explanation": "Nitro Splicers are dangerous at a distance due to their constant throwing of bombs.",
+						"fact_checked": true,
+						"question": "Which Splicer variant uses explosives and grenades?",
+						"wrong": [
+							"Blast Splicer",
+							"Boom Splicer",
+							"Fire Splicer"
+						]
+					},
+					{
+						"correct": "They want her ADAM",
+						"difficulty": "Hard",
+						"explanation": "They are driven by an insane biological need to harvest the slug inside the girl.",
+						"fact_checked": true,
+						"question": "Why do Splicers react so violently to the sight of a Little Sister?",
+						"wrong": [
+							"They hate children",
+							"They are protecting her",
+							"They are scared of her"
+						]
+					}
+				]
+			},
+			"id": "splicers",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Splicers",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Enemy",
+					"Mutant",
+					"Creature"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Vigors",
+						"difficulty": "Easy",
+						"explanation": "Vigors provide Booker with supernatural abilities in the city of Columbia.",
+						"fact_checked": true,
+						"question": "What are the Columbia equivalents of Plasmids called?",
+						"wrong": [
+							"Tonics",
+							"Elixirs",
+							"Mutants"
+						]
+					},
+					{
+						"correct": "Drinking",
+						"difficulty": "Easy",
+						"explanation": "Unlike Plasmids which are injected, Vigors are bottled drinks.",
+						"fact_checked": true,
+						"question": "How are Vigors consumed by the user?",
+						"wrong": [
+							"Injection",
+							"Inhalation",
+							"Skin patches"
+						]
+					},
+					{
+						"correct": "Shock Jockey",
+						"difficulty": "Easy",
+						"explanation": "Shock Jockey is used both as a weapon and to power machinery.",
+						"fact_checked": true,
+						"question": "Which Vigor allows Booker to shoot lightning?",
+						"wrong": [
+							"Electro Bolt",
+							"Volt Drink",
+							"Sparkler"
+						]
+					},
+					{
+						"correct": "Jeremiah Fink",
+						"difficulty": "Medium",
+						"explanation": "Fink stole the technology through tears and mass-produced it for the city.",
+						"fact_checked": true,
+						"question": "Who is the primary manufacturer of Vigors in Columbia?",
+						"wrong": [
+							"Andrew Ryan",
+							"Frank Fontaine",
+							"Robert Lutece"
+						]
+					},
+					{
+						"correct": "Murder of Crows",
+						"difficulty": "Medium",
+						"explanation": "This Vigor distracts and pecks at enemies until they are incapacitated.",
+						"fact_checked": true,
+						"question": "Which Vigor summons a swarm of birds to attack enemies?",
+						"wrong": [
+							"Raven Call",
+							"Bird Strike",
+							"Sky Terror"
+						]
+					},
+					{
+						"correct": "Makes them fight for you and then commit suicide",
+						"difficulty": "Hard",
+						"explanation": "It is a dark Vigor that forces enemies to end their own lives after the effect wears off.",
+						"fact_checked": true,
+						"question": "What does the Possession Vigor do when used on a human enemy?",
+						"wrong": [
+							"Freezes them",
+							"Turns them into a crow",
+							"Explodes them"
+						]
+					},
+					{
+						"correct": "Return to Sender",
+						"difficulty": "Hard",
+						"explanation": "It creates a magnetic shield that catches projectiles to be thrown back.",
+						"fact_checked": true,
+						"question": "What is the name of the Vigor that allows Booker to absorb and reflect bullets?",
+						"wrong": [
+							"Ironside",
+							"Shield Up",
+							"Reflector"
+						]
+					},
+					{
+						"correct": "Observing Plasmids through a Tear",
+						"difficulty": "Hard",
+						"explanation": "Fink spied on Yi Suchong's work in Rapture through quantum holes.",
+						"fact_checked": true,
+						"question": "Where did Jeremiah Fink get the inspiration for Vigors?",
+						"wrong": [
+							"Ancient alchemy",
+							"A dream",
+							"Biological research in the jungle"
+						]
+					}
+				]
+			},
+			"id": "vigors",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Vigors",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Power",
+					"Item",
+					"Columbia"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Robert and Rosalind",
+						"difficulty": "Easy",
+						"explanation": "They are the brilliant duo that guide Booker throughout his journey.",
+						"fact_checked": true,
+						"question": "What are the first names of the Lutece Twins?",
+						"wrong": [
+							"Richard and Rebecca",
+							"Ronald and Rachel",
+							"Ray and Rose"
+						]
+					},
+					{
+						"correct": "They are the same person from different dimensions",
+						"difficulty": "Easy",
+						"explanation": "Rosalind and Robert are male and female versions of the same individual.",
+						"fact_checked": true,
+						"question": "What is the strange scientific reality of their relationship?",
+						"wrong": [
+							"They are clones",
+							"They are aliens",
+							"They are a married couple"
+						]
+					},
+					{
+						"correct": "Finish each other's sentences",
+						"difficulty": "Easy",
+						"explanation": "Their shared mind allows them to speak in a perfectly synchronized manner.",
+						"fact_checked": true,
+						"question": "What do the Luteces constantly do while talking?",
+						"wrong": [
+							"Argue loudly",
+							"Speak in whispers",
+							"Use sign language"
+						]
+					},
+					{
+						"correct": "The Lutece Field",
+						"difficulty": "Medium",
+						"explanation": "The Lutece Field suspends atoms in a fixed position relative to the earth.",
+						"fact_checked": true,
+						"question": "What machine did Rosalind Lutece invent to make Columbia float?",
+						"wrong": [
+							"The Gravity Engine",
+							"The Cloud Generator",
+							"The Atom Smasher"
+						]
+					},
+					{
+						"correct": "To undo the mistakes they helped create",
+						"difficulty": "Medium",
+						"explanation": "They felt responsible for the collapse of reality caused by the Tears.",
+						"fact_checked": true,
+						"question": "Why did the Luteces hire Booker DeWitt?",
+						"wrong": [
+							"To steal a treasure",
+							"To win a bet",
+							"To kill Comstock for money"
+						]
+					},
+					{
+						"correct": "Their machine was sabotaged",
+						"difficulty": "Medium",
+						"explanation": "Jeremiah Fink sabotaged their machine, scattering them across space and time.",
+						"fact_checked": true,
+						"question": "What happened to the Luteces that gave them their powers?",
+						"wrong": [
+							"They drank too many Vigors",
+							"They were hit by lightning",
+							"They were born that way"
+						]
+					},
+					{
+						"correct": "Always heads",
+						"difficulty": "Hard",
+						"explanation": "This represents a constant in the multiverse, as seen on the board they carry.",
+						"fact_checked": true,
+						"question": "What is the result of the coin flip the Luteces ask Booker to perform?",
+						"wrong": [
+							"Always tails",
+							"It changes every time",
+							"The coin disappears"
+						]
+					},
+					{
+						"correct": "Rosalind",
+						"difficulty": "Hard",
+						"explanation": "Rosalind lived in the world where Booker became Comstock, while Robert lived in the world where he stayed Booker.",
+						"fact_checked": true,
+						"question": "Which Lutece originated from the same dimension as Comstock?",
+						"wrong": [
+							"Robert",
+							"Both of them",
+							"Neither of them"
+						]
+					},
+					{
+						"correct": "Lute",
+						"difficulty": "Hard",
+						"explanation": "It is a pun on their last name, Lutece.",
+						"fact_checked": true,
+						"question": "What instrument is Robert Lutece seen playing during a beach scene?",
+						"wrong": [
+							"Violin",
+							"Guitar",
+							"Piano"
+						]
+					}
+				]
+			},
+			"id": "the_lutece_twins",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "The Lutece Twins",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Scientist",
+					"Mysterious",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sander Cohen",
+						"difficulty": "Easy",
+						"explanation": "Cohen turned the district into his personal artistic playground.",
+						"fact_checked": true,
+						"question": "Which character is the self-proclaimed ruler of Fort Frolic?",
+						"wrong": [
+							"Andrew Ryan",
+							"Atlas",
+							"J.S. Steinman"
+						]
+					},
+					{
+						"correct": "Entertainment and Arts",
+						"difficulty": "Easy",
+						"explanation": "It was Rapture's hub for theaters, shopping, and nightlife.",
+						"fact_checked": true,
+						"question": "What kind of district is Fort Frolic?",
+						"wrong": [
+							"Industrial",
+							"Residential",
+							"Medical"
+						]
+					},
+					{
+						"correct": "Eve Garden",
+						"difficulty": "Easy",
+						"explanation": "It is a key location where Jack finds a hidden audio diary.",
+						"fact_checked": true,
+						"question": "What is the name of the strip club located in Fort Frolic?",
+						"wrong": [
+							"The Siren",
+							"The Siren Song",
+							"The Velvet Room"
+						]
+					},
+					{
+						"correct": "They flicker or turn off",
+						"difficulty": "Medium",
+						"explanation": "Cohen uses the lighting to dramatize his various moods and entrances.",
+						"fact_checked": true,
+						"question": "What happens to the lights in Fort Frolic when Cohen speaks to you?",
+						"wrong": [
+							"They turn blue",
+							"They explode",
+							"They turn into spotlights"
+						]
+					},
+					{
+						"correct": "Fleet Hall",
+						"difficulty": "Medium",
+						"explanation": "Fleet Hall is where the final confrontation with Cohen's masterpiece occurs.",
+						"fact_checked": true,
+						"question": "What is the name of the grand theater within Fort Frolic?",
+						"wrong": [
+							"The Apollo Theater",
+							"The Grand Stage",
+							"The Rapture Opera House"
+						]
+					},
+					{
+						"correct": "To keep the citizens distracted",
+						"difficulty": "Medium",
+						"explanation": "Ryan believed art was a necessary distraction for the people of Rapture.",
+						"fact_checked": true,
+						"question": "Why does Andrew Ryan give control of this district to Cohen?",
+						"wrong": [
+							"He owed him money",
+							"They were brothers",
+							"Cohen won it in a game"
+						]
+					},
+					{
+						"correct": "Le Marquis d'Epoque",
+						"difficulty": "Hard",
+						"explanation": "This high-end shop is one of the many luxury boutiques in the plaza.",
+						"fact_checked": true,
+						"question": "What is the name of the cigar shop found in this area?",
+						"wrong": [
+							"Smoke and Mirrors",
+							"The Golden Leaf",
+							"Puff and Pass"
+						]
+					},
+					{
+						"correct": "Poseidon Plaza",
+						"difficulty": "Hard",
+						"explanation": "Poseidon Plaza contains the tunnel of ice where Martin Finnegan is found.",
+						"fact_checked": true,
+						"question": "What is the name of the ice-themed area inside Fort Frolic?",
+						"wrong": [
+							"Frozen Falls",
+							"Ice King Court",
+							"Glacier Point"
+						]
+					}
+				]
+			},
+			"id": "fort_frolic",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Fort Frolic",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Entertainment",
+					"Rapture"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Blue has always been the thematic color for genetic energy in BioShock.",
+						"fact_checked": true,
+						"question": "What is the color of the bar that represents your EVE?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Powering Plasmids",
+						"difficulty": "Easy",
+						"explanation": "EVE acts as the mana or fuel required to use genetic powers.",
+						"fact_checked": true,
+						"question": "What is EVE used for in the BioShock series?",
+						"wrong": [
+							"Healing health",
+							"Buying items",
+							"Upgrading guns"
+						]
+					},
+					{
+						"correct": "EVE Hypo",
+						"difficulty": "Easy",
+						"explanation": "The Hypo is an injectable syringe that instantly refills the EVE meter.",
+						"fact_checked": true,
+						"question": "What is the most common way to restore EVE?",
+						"wrong": [
+							"First Aid Kit",
+							"Food",
+							"Water"
+						]
+					},
+					{
+						"correct": "Circus of Values",
+						"difficulty": "Medium",
+						"explanation": "The Circus of Values sells various basic supplies including EVE.",
+						"fact_checked": true,
+						"question": "What is the name of the vending machine that primarily sells EVE Hypos?",
+						"wrong": [
+							"Gatherer Garden",
+							"El Ammo Bandito",
+							"U-Invent"
+						]
+					},
+					{
+						"correct": "Processed ADAM",
+						"difficulty": "Medium",
+						"explanation": "EVE is essentially a refined, usable form of the raw ADAM substance.",
+						"fact_checked": true,
+						"question": "What is the primary biological source of EVE?",
+						"wrong": [
+							"Sea water",
+							"Splicer blood",
+							"Plant extract"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Hard",
+						"explanation": "The carrying capacity is limited to encourage resource management.",
+						"fact_checked": true,
+						"question": "What is the max number of EVE Hypos Jack can carry initially?",
+						"wrong": [
+							"Three",
+							"Seven",
+							"Ten"
+						]
+					},
+					{
+						"correct": "The hand gesture fails to produce an effect",
+						"difficulty": "Hard",
+						"explanation": "Jack will attempt the snap or gesture, but only a small puff or spark will appear.",
+						"fact_checked": true,
+						"question": "What happens visually to the player character when they are out of EVE?",
+						"wrong": [
+							"The screen turns grey",
+							"The character faints",
+							"The weapon breaks"
+						]
+					}
+				]
+			},
+			"id": "eve",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "EVE",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Resource",
+					"Item",
+					"Energy"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Booker DeWitt",
+						"difficulty": "Easy",
+						"explanation": "Booker is a private investigator sent to the floating city of Columbia.",
+						"fact_checked": true,
+						"question": "What is the name of the protagonist in BioShock Infinite?",
+						"wrong": [
+							"Jack",
+							"Subject Delta",
+							"Andrew Ryan"
+						]
+					},
+					{
+						"correct": "AD",
+						"difficulty": "Easy",
+						"explanation": "The initials stand for Anna DeWitt, his daughter.",
+						"fact_checked": true,
+						"question": "What are the initials branded on Booker's hand?",
+						"wrong": [
+							"BD",
+							"CD",
+							"ED"
+						]
+					},
+					{
+						"correct": "Bring us the girl and wipe away the debt",
+						"difficulty": "Easy",
+						"explanation": "This phrase haunts Booker throughout the beginning of his journey.",
+						"fact_checked": true,
+						"question": "What is Booker's famous catchphrase regarding his mission?",
+						"wrong": [
+							"A man chooses",
+							"Would you kindly",
+							"The seed shall sit the throne"
+						]
+					},
+					{
+						"correct": "Wounded Knee",
+						"difficulty": "Medium",
+						"explanation": "His actions at Wounded Knee left him with deep psychological scars.",
+						"fact_checked": true,
+						"question": "What famous historical battle did Booker fight in?",
+						"wrong": [
+							"Gettysburg",
+							"Battle of the Bulge",
+							"The Alamo"
+						]
+					},
+					{
+						"correct": "Pinkerton National Detective Agency",
+						"difficulty": "Medium",
+						"explanation": "He was fired from the Pinkertons for his brutal methods.",
+						"fact_checked": true,
+						"question": "Which agency did Booker work for before becoming a private investigator?",
+						"wrong": [
+							"FBI",
+							"CIA",
+							"Scotland Yard"
+						]
+					},
+					{
+						"correct": "Father and daughter",
+						"difficulty": "Medium",
+						"explanation": "Elizabeth is actually Anna DeWitt, the daughter he sold years ago.",
+						"fact_checked": true,
+						"question": "What is the true relationship between Booker and Elizabeth?",
+						"wrong": [
+							"Brother and sister",
+							"Husband and wife",
+							"Total strangers"
+						]
+					},
+					{
+						"correct": "He allows himself to be drowned at his baptism",
+						"difficulty": "Hard",
+						"explanation": "By dying before the baptism, he prevents the birth of Comstock in all realities.",
+						"fact_checked": true,
+						"question": "How does Booker eventually 'break the cycle' at the end of the game?",
+						"wrong": [
+							"He kills Comstock",
+							"He destroys Columbia",
+							"He escapes to Paris"
+						]
+					},
+					{
+						"correct": "It is never mentioned",
+						"difficulty": "Hard",
+						"explanation": "While his past is detailed, his horse is not a named part of the lore.",
+						"fact_checked": true,
+						"question": "What was Booker's horse's name mentioned in his backstory?",
+						"wrong": [
+							"Justice",
+							"Liberty",
+							"Spirit"
+						]
+					}
+				]
+			},
+			"id": "booker_dewitt",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Booker DeWitt",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Protagonist",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Prophet",
+						"difficulty": "Easy",
+						"explanation": "He is the religious and political leader of the floating city of Columbia.",
+						"fact_checked": true,
+						"question": "What is the title given to Zachary Hale Comstock by his followers?",
+						"wrong": [
+							"The King",
+							"The Savior",
+							"The Father"
+						]
+					},
+					{
+						"correct": "Columbia",
+						"difficulty": "Easy",
+						"explanation": "He built Columbia to be a 'New Ark' for his chosen people.",
+						"fact_checked": true,
+						"question": "What city did Comstock found?",
+						"wrong": [
+							"Rapture",
+							"Olympia",
+							"New Eden"
+						]
+					},
+					{
+						"correct": "The False Shepherd",
+						"difficulty": "Easy",
+						"explanation": "He warned the citizens that a 'False Shepherd' would come to lead the lamb astray.",
+						"fact_checked": true,
+						"question": "What name does Comstock use to describe Booker DeWitt?",
+						"wrong": [
+							"The Lost Soul",
+							"The Great Sinner",
+							"The Metal Man"
+						]
+					},
+					{
+						"correct": "Exposure to the Lutece machine",
+						"difficulty": "Medium",
+						"explanation": "Using the Tears to see the future caused him to age rapidly and become sterile.",
+						"fact_checked": true,
+						"question": "How did Comstock become sterile?",
+						"wrong": [
+							"A war injury",
+							"A genetic disease",
+							"A curse"
+						]
+					},
+					{
+						"correct": "Lady Comstock",
+						"difficulty": "Medium",
+						"explanation": "He lied to the public to legitimize Elizabeth as his heir.",
+						"fact_checked": true,
+						"question": "Who did Comstock claim was the biological mother of Elizabeth?",
+						"wrong": [
+							"Rosalind Lutece",
+							"Daisy Fitzroy",
+							"He claimed she had no mother"
+						]
+					},
+					{
+						"correct": "The Hand of the Prophet",
+						"difficulty": "Medium",
+						"explanation": "The final levels of the game take place on this heavily armed airship.",
+						"fact_checked": true,
+						"question": "What is the name of Comstock's massive flagship?",
+						"wrong": [
+							"The Ark",
+							"The Sky Sovereign",
+							"The Divine Wing"
+						]
+					},
+					{
+						"correct": "Booker DeWitt",
+						"difficulty": "Hard",
+						"explanation": "Comstock is an alternate version of Booker who sought redemption through baptism.",
+						"fact_checked": true,
+						"question": "What was Comstock's name before he was baptized?",
+						"wrong": [
+							"Frank Fontaine",
+							"Andrew Ryan",
+							"Robert Lutece"
+						]
+					},
+					{
+						"correct": "The Founders",
+						"difficulty": "Hard",
+						"explanation": "The Founders are the ultra-nationalist ruling class of Columbia.",
+						"fact_checked": true,
+						"question": "Which political group does Comstock lead?",
+						"wrong": [
+							"The Vox Populi",
+							"The Handmen",
+							"The Apostles"
+						]
+					},
+					{
+						"correct": "Booker bashes his head against a birdbath",
+						"difficulty": "Hard",
+						"explanation": "Booker kills him in a fit of rage after Comstock threatens Elizabeth's fingers.",
+						"fact_checked": true,
+						"question": "How does Comstock actually die in the game's main timeline?",
+						"wrong": [
+							"Elizabeth stabs him",
+							"The Songbird eats him",
+							"He falls off Columbia"
+						]
+					}
+				]
+			},
+			"id": "zachary_hale_comstock",
+			"meta": {
+				"date_added": "2026-02-19",
+				"entity_category": "Theme Item",
+				"full_title": "Zachary Hale Comstock",
+				"theme_origin": "bioshock",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Leader",
+					"Columbia"
+				]
+			}
 		}
 	],
 	"peripherals": [
@@ -23000,6 +28390,200 @@
 						"Melinoe"
 					],
 					"name": "Titanomachy II"
+				}
+			]
+		},
+		{
+			"id": "bioshock",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Jack",
+						"Andrew Ryan",
+						"Frank Fontaine"
+					],
+					"name": "WOULD YOU KINDLY"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Booker DeWitt",
+						"Elizabeth",
+						"Zachary Hale Comstock"
+					],
+					"name": "THE FALSE SHEPHERD"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Big Daddy",
+						"Little Sister"
+					],
+					"name": "PROTECT AND GATHER"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Plasmids",
+						"EVE",
+						"ADAM"
+					],
+					"name": "GENETIC PERFECTION"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Booker DeWitt",
+						"Elizabeth"
+					],
+					"name": "CATCH, BOOKER!"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Andrew Ryan",
+						"Jack"
+					],
+					"name": "A MAN CHOOSES"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Bridget Tenenbaum",
+						"Little Sister"
+					],
+					"name": "MOTHER'S GUILT"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Elizabeth",
+						"The Lutece Twins"
+					],
+					"name": "TEAR IN REALITY"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Elizabeth",
+						"Songbird"
+					],
+					"name": "BIRD OR CAGE"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jack",
+						"Rapture"
+					],
+					"name": "BATHYSPHERE DESCENT"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Zachary Hale Comstock",
+						"Columbia"
+					],
+					"name": "THE PROPHET'S WILL"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Booker DeWitt",
+						"Vigors"
+					],
+					"name": "AERIAL ARSENAL"
+				}
+			]
+		},
+		{
+			"id": "paper mario the thousand year door",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mario",
+						"Glitzville",
+						"Rawk Hawk"
+					],
+					"name": "THE GREAT GONZALES"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Thousand Year Door",
+						"The Crystal Stars",
+						"Magical Map"
+					],
+					"name": "THE ANCIENT SEAL"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Sir Grodus",
+						"X-Nauts",
+						"Princess Peach"
+					],
+					"name": "MOON BASE CAPTIVE"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Shadow Queen",
+						"Sir Grodus",
+						"Princess Peach"
+					],
+					"name": "SHADOW POSSESSION"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Goombella",
+						"Professor Frankly"
+					],
+					"name": "ACADEMIC RESEARCH"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Glitzville",
+						"Rawk Hawk"
+					],
+					"name": "CHAMPION'S BELT"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Excess Express",
+						"Poshley Heights"
+					],
+					"name": "TICKET TO RIDE"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mario",
+						"Magical Map",
+						"The Crystal Stars"
+					],
+					"name": "STAR HUNTER"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mario",
+						"Princess Peach"
+					],
+					"name": "I Baked you a cake"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mario",
+						"Ms. Mowz"
+					],
+					"name": "THIEF'S KISS"
 				}
 			]
 		}
