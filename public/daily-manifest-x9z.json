@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771357973,
+	"last_updated": 1771535439,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1010,6 +1010,151 @@
 				"logan",
 				"oswald",
 				"quelana"
+			]
+		},
+		"2026-02-19": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Animal Crossing revenge",
+			"share_text": "Revenge",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"dodo_airlines",
+				"resident_services",
+				"gyroid"
+			],
+			"starters": [
+				"tom_nook",
+				"isabelle",
+				"the_museum",
+				"k.k._slider",
+				"redd",
+				"bell_bag",
+				"stalk_market",
+				"net",
+				"resident_services",
+				"dodo_airlines",
+				"flick",
+				"blathers",
+				"celeste",
+				"sable",
+				"brewster",
+				"gulliver",
+				"c.j.",
+				"reese",
+				"cyrus",
+				"leif",
+				"harvey",
+				"kapp'n",
+				"lottie",
+				"gyroid"
+			]
+		},
+		"2026-02-20": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Bioshock Fridays",
+			"share_text": "A man chooses...",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"elizabeth",
+				"jack",
+				"booker_dewitt"
+			],
+			"starters": [
+				"andrew_ryan",
+				"big_daddy",
+				"little_sister",
+				"rapture",
+				"plasmids",
+				"elizabeth",
+				"columbia",
+				"songbird",
+				"adam",
+				"frank_fontaine",
+				"sander_cohen",
+				"bridget_tenenbaum",
+				"splicers",
+				"vigors",
+				"the_lutece_twins",
+				"fort_frolic",
+				"eve",
+				"booker_dewitt",
+				"zachary_hale_comstock",
+				"jack"
+			]
+		},
+		"2026-02-21": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Paper Mario TTYD Saturday",
+			"share_text": "Great Gonzales rises again",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"mario",
+				"the_thousand_year_door",
+				"princess_peach"
+			],
+			"starters": [
+				"mario",
+				"rogueport",
+				"goombella",
+				"the_crystal_stars",
+				"vivian",
+				"the_shadow_queen",
+				"admiral_bobbery",
+				"glitzville",
+				"princess_peach",
+				"the_thousand_year_door",
+				"koops",
+				"sir_grodus",
+				"excess_express",
+				"professor_frankly",
+				"ms._mowz",
+				"rawk_hawk",
+				"poshley_heights",
+				"x-nauts",
+				"magical_map",
+				"madame_flurrie"
 			]
 		}
 	}
