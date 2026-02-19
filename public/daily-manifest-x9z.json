@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771357973,
+	"last_updated": 1771535309,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1010,6 +1010,57 @@
 				"logan",
 				"oswald",
 				"quelana"
+			]
+		},
+		"2026-02-19": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Animal Crossing revenge",
+			"share_text": "Revenge",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"dodo_airlines",
+				"resident_services",
+				"gyroid"
+			],
+			"starters": [
+				"tom_nook",
+				"isabelle",
+				"the_museum",
+				"k.k._slider",
+				"redd",
+				"bell_bag",
+				"stalk_market",
+				"net",
+				"resident_services",
+				"dodo_airlines",
+				"flick",
+				"blathers",
+				"celeste",
+				"sable",
+				"brewster",
+				"gulliver",
+				"c.j.",
+				"reese",
+				"cyrus",
+				"leif",
+				"harvey",
+				"kapp'n",
+				"lottie",
+				"gyroid"
 			]
 		}
 	}
