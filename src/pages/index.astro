@@ -63,6 +63,16 @@ if (Astro.response && Astro.response.headers) {
         <span class="text-sm font-semibold pr-1">FULLSCREEN</span>
       </button>
     </div>
+
+    <div
+      class="absolute bottom-4 z-50 flex flex-wrap justify-center gap-4 text-xs text-slate-300 bg-black/70 px-6 py-3 rounded-full backdrop-blur-md border border-white/10 md:static md:bg-transparent md:border-none md:mt-6 md:text-sm md:text-slate-500"
+    >
+      <a href="/terms" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Terms of Use</a>
+      <a href="/privacy" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Privacy Policy</a
+      >
+      <a href="/refunds" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Refund Policy</a>
+      <a href="mailto:support@ki10games.com" class="hover:text-white transition">Contact Support</a>
+    </div>
   </main>
 </Layout>
 
@@ -75,22 +85,19 @@ if (Astro.response && Astro.response.headers) {
   if (btn && container) {
     btn.addEventListener('click', () => {
       if (!document.fullscreenElement) {
-        // ENTER FULLSCREEN
         container.requestFullscreen().catch((err) => {
           console.error(`Error attempting to enable fullscreen: ${err.message}`);
         });
       } else {
-        // EXIT FULLSCREEN
         document.exitFullscreen();
       }
     });
 
-    // Listen for changes to update icon
     document.addEventListener('fullscreenchange', () => {
       if (document.fullscreenElement) {
         iconMax?.classList.add('hidden');
         iconMin?.classList.remove('hidden');
-        btn.classList.add('bg-black/0'); // Make button more subtle in fullscreen
+        btn.classList.add('bg-black/0');
       } else {
         iconMax?.classList.remove('hidden');
         iconMin?.classList.add('hidden');

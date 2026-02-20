@@ -1,0 +1,37 @@
+---
+import Layout from '~/layouts/Layout.astro';
+
+const { frontmatter } = Astro.props;
+---
+
+<Layout metadata={{ title: frontmatter.title }}>
+  <main class="min-h-screen bg-slate-900 text-slate-300 py-12 px-6 md:px-12 selection:bg-blue-500 selection:text-white">
+    <div class="max-w-3xl mx-auto">
+      <a
+        href="/"
+        onclick="event.preventDefault(); window.close(); setTimeout(function(){ window.location.href = '/'; }, 100);"
+        class="inline-flex items-center gap-2 mb-8 text-sm font-semibold text-blue-400 hover:text-blue-300 transition-colors"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="m12 19-7-7 7-7"></path>
+          <path d="M19 12H5"></path>
+        </svg>
+        Close Tab & Return
+      </a>
+
+      <article class="prose prose-invert prose-blue lg:prose-lg max-w-none">
+        <slot />
+      </article>
+    </div>
+  </main>
+</Layout>
