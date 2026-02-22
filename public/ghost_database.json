@@ -89,7 +89,7 @@
 					}
 				]
 			},
-			"id": "master_chief",
+			"id": "halo_master_chief",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -182,7 +182,7 @@
 					}
 				]
 			},
-			"id": "cortana",
+			"id": "halo_cortana",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -275,7 +275,7 @@
 					}
 				]
 			},
-			"id": "warthog",
+			"id": "halo_warthog",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -368,7 +368,7 @@
 					}
 				]
 			},
-			"id": "ghost",
+			"id": "halo_ghost",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -473,7 +473,7 @@
 					}
 				]
 			},
-			"id": "energy_sword",
+			"id": "halo_energy_sword",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -578,7 +578,7 @@
 					}
 				]
 			},
-			"id": "assault_rifle",
+			"id": "halo_assault_rifle",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -683,7 +683,7 @@
 					}
 				]
 			},
-			"id": "reach",
+			"id": "halo_reach",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -788,7 +788,7 @@
 					}
 				]
 			},
-			"id": "truth",
+			"id": "halo_truth",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -881,7 +881,7 @@
 					}
 				]
 			},
-			"id": "installation_07",
+			"id": "halo_installation_07",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -986,7 +986,7 @@
 					}
 				]
 			},
-			"id": "assault_on_the_control_room",
+			"id": "halo_assault_on_the_control_room",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1079,7 +1079,7 @@
 					}
 				]
 			},
-			"id": "flood",
+			"id": "halo_flood",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1172,7 +1172,7 @@
 					}
 				]
 			},
-			"id": "arbiter",
+			"id": "halo_arbiter",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1265,7 +1265,7 @@
 					}
 				]
 			},
-			"id": "installation_04",
+			"id": "halo_installation_04",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1358,7 +1358,7 @@
 					}
 				]
 			},
-			"id": "needler",
+			"id": "halo_needler",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1451,7 +1451,7 @@
 					}
 				]
 			},
-			"id": "scorpion",
+			"id": "halo_scorpion",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1556,7 +1556,7 @@
 					}
 				]
 			},
-			"id": "johnson",
+			"id": "halo_johnson",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1649,7 +1649,7 @@
 					}
 				]
 			},
-			"id": "battle_rifle",
+			"id": "halo_battle_rifle",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1718,7 +1718,7 @@
 					}
 				]
 			},
-			"id": "high_charity",
+			"id": "halo_high_charity",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1823,7 +1823,7 @@
 					}
 				]
 			},
-			"id": "banshee",
+			"id": "halo_banshee",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -1916,7 +1916,7 @@
 					}
 				]
 			},
-			"id": "gravemind",
+			"id": "halo_gravemind",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -2021,7 +2021,7 @@
 					}
 				]
 			},
-			"id": "guilty_spark",
+			"id": "halo_guilty_spark",
 			"meta": {
 				"date_added": "2026-01-31",
 				"entity_category": "Theme Item",
@@ -2114,7 +2114,7 @@
 					}
 				]
 			},
-			"id": "pikachu",
+			"id": "pokemon_pikachu",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2207,7 +2207,7 @@
 					}
 				]
 			},
-			"id": "red",
+			"id": "pokemon_red",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2300,7 +2300,7 @@
 					}
 				]
 			},
-			"id": "s.s._anne",
+			"id": "pokemon_s.s._anne",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2393,7 +2393,7 @@
 					}
 				]
 			},
-			"id": "master_ball",
+			"id": "pokemon_master_ball",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2486,7 +2486,7 @@
 					}
 				]
 			},
-			"id": "lavender_town",
+			"id": "pokemon_lavender_town",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2579,7 +2579,7 @@
 					}
 				]
 			},
-			"id": "mewtwo",
+			"id": "pokemon_mewtwo",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2684,7 +2684,7 @@
 					}
 				]
 			},
-			"id": "brock",
+			"id": "pokemon_brock",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2789,7 +2789,7 @@
 					}
 				]
 			},
-			"id": "bicycle",
+			"id": "pokemon_bicycle",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2870,7 +2870,7 @@
 					}
 				]
 			},
-			"id": "team_rocket",
+			"id": "pokemon_team_rocket",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -2975,7 +2975,7 @@
 					}
 				]
 			},
-			"id": "elite_four",
+			"id": "pokemon_elite_four",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3068,7 +3068,7 @@
 					}
 				]
 			},
-			"id": "surf",
+			"id": "pokemon_surf",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3173,7 +3173,7 @@
 					}
 				]
 			},
-			"id": "blue",
+			"id": "pokemon_blue",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3266,7 +3266,7 @@
 					}
 				]
 			},
-			"id": "pokédex",
+			"id": "pokemon_pokédex",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3359,7 +3359,7 @@
 					}
 				]
 			},
-			"id": "cinnabar_island",
+			"id": "pokemon_cinnabar_island",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3440,7 +3440,7 @@
 					}
 				]
 			},
-			"id": "oak",
+			"id": "pokemon_oak",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3545,7 +3545,7 @@
 					}
 				]
 			},
-			"id": "cynthia",
+			"id": "pokemon_cynthia",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3626,7 +3626,7 @@
 					}
 				]
 			},
-			"id": "potions",
+			"id": "pokemon_potions",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3719,7 +3719,7 @@
 					}
 				]
 			},
-			"id": "tms",
+			"id": "pokemon_tms",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3812,7 +3812,7 @@
 					}
 				]
 			},
-			"id": "mt._silver",
+			"id": "pokemon_mt._silver",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -3917,7 +3917,7 @@
 					}
 				]
 			},
-			"id": "nurse_joy",
+			"id": "pokemon_nurse_joy",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4010,7 +4010,7 @@
 					}
 				]
 			},
-			"id": "charizard",
+			"id": "pokemon_charizard",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4103,7 +4103,7 @@
 					}
 				]
 			},
-			"id": "gym_badges",
+			"id": "pokemon_gym_badges",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4196,7 +4196,7 @@
 					}
 				]
 			},
-			"id": "poké_ball",
+			"id": "pokemon_poké_ball",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4277,7 +4277,7 @@
 					}
 				]
 			},
-			"id": "squirtle",
+			"id": "pokemon_squirtle",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4382,7 +4382,7 @@
 					}
 				]
 			},
-			"id": "bulbasaur",
+			"id": "pokemon_bulbasaur",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4475,7 +4475,7 @@
 					}
 				]
 			},
-			"id": "eevee",
+			"id": "pokemon_eevee",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4556,7 +4556,7 @@
 					}
 				]
 			},
-			"id": "snorlax",
+			"id": "pokemon_snorlax",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4661,7 +4661,7 @@
 					}
 				]
 			},
-			"id": "jigglypuff",
+			"id": "pokemon_jigglypuff",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4754,7 +4754,7 @@
 					}
 				]
 			},
-			"id": "lapras",
+			"id": "pokemon_lapras",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4859,7 +4859,7 @@
 					}
 				]
 			},
-			"id": "gengar",
+			"id": "pokemon_gengar",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -4952,7 +4952,7 @@
 					}
 				]
 			},
-			"id": "gyarados",
+			"id": "pokemon_gyarados",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -5045,7 +5045,7 @@
 					}
 				]
 			},
-			"id": "lugia",
+			"id": "pokemon_lugia",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -5150,7 +5150,7 @@
 					}
 				]
 			},
-			"id": "rayquaza",
+			"id": "pokemon_rayquaza",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -5255,7 +5255,7 @@
 					}
 				]
 			},
-			"id": "ditto",
+			"id": "pokemon_ditto",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -5360,7 +5360,7 @@
 					}
 				]
 			},
-			"id": "zubat",
+			"id": "pokemon_zubat",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -5373,569 +5373,6 @@
 					"Creature",
 					"Villain",
 					"Cave Dweller"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Blue",
-						"difficulty": "Easy",
-						"explanation": "Blue. Mario traditionally wears a blue overall jumper with a red shirt.",
-						"fact_checked": true,
-						"question": "What primary color is associated with Mario's overalls?",
-						"wrong": [
-							"Red",
-							"Green",
-							"Yellow"
-						]
-					},
-					{
-						"correct": "Medium",
-						"difficulty": "Easy",
-						"explanation": "Medium. Mario typically represents the balanced middle ground driver, usually possessing average speed and acceleration.",
-						"fact_checked": true,
-						"question": "Mario is generally considered what type of weight class in Mario Kart games?",
-						"wrong": [
-							"Light",
-							"Heavy",
-							"Ultra Light"
-						]
-					},
-					{
-						"correct": "Karts",
-						"difficulty": "Easy",
-						"explanation": "Karts. The original game title focused exclusively on karts.",
-						"fact_checked": true,
-						"question": "What vehicle type did Mario and Luigi race in the original Super Mario Kart on the SNES?",
-						"wrong": [
-							"Bikes",
-							"ATVs",
-							"Buggy"
-						]
-					},
-					{
-						"correct": "B Dasher",
-						"difficulty": "Medium",
-						"explanation": "B Dasher. This kart was one of Mario's signature unlockable vehicles in Mario Kart DS.",
-						"fact_checked": true,
-						"question": "In Mario Kart DS, what classic vehicle was Mario associated with, designed to look like a small version of his standard kart?",
-						"wrong": [
-							"Wild Wing",
-							"Circuit Special",
-							"Standard MR"
-						]
-					},
-					{
-						"correct": "Red",
-						"difficulty": "Easy",
-						"explanation": "Red. Mario is known for his red cap and shirt.",
-						"fact_checked": true,
-						"question": "What color is Mario's primary racing uniform?",
-						"wrong": [
-							"Green",
-							"Yellow",
-							"Blue"
-						]
-					},
-					{
-						"correct": "Mushroom",
-						"difficulty": "Easy",
-						"explanation": "Mushroom. The Mushroom is the iconic speed boost item associated with Mario.",
-						"fact_checked": true,
-						"question": "Which specific item is Mario often shown utilizing in promotional art for the series?",
-						"wrong": [
-							"Star",
-							"Banana",
-							"Feather"
-						]
-					},
-					{
-						"correct": "Super Star",
-						"difficulty": "Medium",
-						"explanation": "Super Star. Mario and Luigi were the only characters to exclusively use the Super Star in Battle Mode.",
-						"fact_checked": true,
-						"question": "In the original 1992 Super Mario Kart, what was Mario's signature special item for battle mode?",
-						"wrong": [
-							"Red Shell",
-							"Fire Flower",
-							"Boo"
-						]
-					},
-					{
-						"correct": "Standard Champion",
-						"difficulty": "Medium",
-						"explanation": "Standard Champion. He was the champion of the standard 100cc category.",
-						"fact_checked": true,
-						"question": "What title did Mario hold in the original Super Mario Kart game?",
-						"wrong": [
-							"Flower Cup King",
-							"150cc Master",
-							"Special Cup Winner"
-						]
-					},
-					{
-						"correct": "Mario Kart 7",
-						"difficulty": "Hard",
-						"explanation": "Mario Kart 7. This 3DS title introduced the fully modular kart system.",
-						"fact_checked": true,
-						"question": "Which specific Mario Kart game introduced customizable kart parts, including chassis, tires, and gliders?",
-						"wrong": [
-							"Mario Kart DS",
-							"Mario Kart Wii",
-							"Mario Kart 8"
-						]
-					},
-					{
-						"correct": "Mushroom",
-						"difficulty": "Hard",
-						"explanation": "Mushroom. The trophy he holds resembles a Super Mushroom.",
-						"fact_checked": true,
-						"question": "In the promotional art for Mario Kart 64, Mario is depicted holding a trophy shaped like which specific item?",
-						"wrong": [
-							"Star",
-							"Banana",
-							"Green Shell"
-						]
-					},
-					{
-						"correct": "Luigi",
-						"difficulty": "Easy",
-						"explanation": "Luigi. Luigi is Mario's younger brother and frequent co-racer.",
-						"fact_checked": true,
-						"question": "Who is Mario's taller, green-clad brother, who also frequently participates in races?",
-						"wrong": [
-							"Wario",
-							"Toad",
-							"Peach"
-						]
-					},
-					{
-						"correct": "Mushroom Cup",
-						"difficulty": "Easy",
-						"explanation": "Mushroom Cup. The Mushroom Cup typically contains the easiest tracks, often including 'Mario Circuit' locations.",
-						"fact_checked": true,
-						"question": "Which cup is traditionally named after Mario and features his foundational tracks?",
-						"wrong": [
-							"Flower Cup",
-							"Star Cup",
-							"Special Cup"
-						]
-					},
-					{
-						"correct": "Super Mario Kart",
-						"difficulty": "Medium",
-						"explanation": "Super Mario Kart. Mario was a foundational character in the 1992 SNES original.",
-						"fact_checked": true,
-						"question": "In which specific Mario Kart title did Mario first appear as a playable character?",
-						"wrong": [
-							"Mario Kart 64",
-							"Mario Kart DS",
-							"Mario Kart Wii"
-						]
-					},
-					{
-						"correct": "Fireball",
-						"difficulty": "Hard",
-						"explanation": "Fireball. Mario and Luigi both used the Fireball in the two-driver game, Double Dash!!",
-						"fact_checked": true,
-						"question": "What is the name of the specific item Mario uses as his unique special item in Mario Kart: Double Dash!!?",
-						"wrong": [
-							"Hammer",
-							"Ice Flower",
-							"Cape Feather"
-						]
-					},
-					{
-						"correct": "F1 Racing",
-						"difficulty": "Hard",
-						"explanation": "F1 Racing. The design philosophy behind the early character models was based on F1 racecar drivers.",
-						"fact_checked": true,
-						"question": "Which real-world event was the Mario Kart team referencing when they initially designed Mario's racing outfit?",
-						"wrong": [
-							"IndyCar",
-							"Go-Karts",
-							"Rally Racing"
-						]
-					},
-					{
-						"correct": "Wahoo",
-						"difficulty": "Medium",
-						"explanation": "Wahoo. 'Wahoo' is Mario's signature celebratory cry in this iteration.",
-						"fact_checked": true,
-						"question": "In Mario Kart 64, what specific sound effect does Mario often shout when performing a successful jump or trick?",
-						"wrong": [
-							"Here we go",
-							"Let's-a-go",
-							"It's-a me"
-						]
-					},
-					{
-						"correct": "3 ",
-						"difficulty": "Medium",
-						"explanation": "4. Mario is generally considered the baseline 4.0 standard for comparison in MK8 stats.",
-						"fact_checked": true,
-						"question": "Mario's character stats (Speed, Weight, Acceleration) are usually perfectly centered around what number when calculated as a base value in Mario Kart 8?",
-						"wrong": [
-							"6",
-							"3",
-							"5"
-						]
-					},
-					{
-						"correct": "Red",
-						"difficulty": "Easy",
-						"explanation": "Red. Mario is consistently associated with the color red, which reflects in his default vehicles.",
-						"fact_checked": true,
-						"question": "What primary color is Mario's signature kart often painted?",
-						"wrong": [
-							"Blue",
-							"Green",
-							"Yellow"
-						]
-					},
-					{
-						"correct": "Mario Circuit",
-						"difficulty": "Easy",
-						"explanation": "Mario Circuit. Most Mario Kart games feature a track specifically named 'Mario Circuit'.",
-						"fact_checked": true,
-						"question": "In the series, which track name often includes 'Circuit' and is themed around the Mushroom Kingdom's hero?",
-						"wrong": [
-							"Rainbow Road",
-							"Toad's Factory",
-							"Koopa Beach"
-						]
-					},
-					{
-						"correct": "Mini-Turbo",
-						"difficulty": "Medium",
-						"explanation": "Mini-Turbo. The Mini-Turbo is a key mechanic rewarding skilled drifting.",
-						"fact_checked": true,
-						"question": "What is the term for the advanced racing technique where Mario and other characters can gain a temporary speed boost after drifting for a sufficient time?",
-						"wrong": [
-							"Dash Panel",
-							"Slipstream",
-							"Rocket Start"
-						]
-					},
-					{
-						"correct": "Lap counter / Lap markers",
-						"difficulty": "Medium",
-						"explanation": "The HUD in Mario Kart 64 displays three small Mario icons, and one is darkened for each lap completed.",
-						"fact_checked": true,
-						"question": "In Mario Kart 64, Mario's face is used to determine which crucial track element?",
-						"wrong": [
-							"Directional arrows",
-							"Boost pad icons",
-							"Starting lights"
-						]
-					},
-					{
-						"correct": "Yoshi and Peach",
-						"difficulty": "Hard",
-						"explanation": "The original roster had four pairs of identical stats: Mario/Luigi, Yoshi/Peach, Bowser/DK Jr., and Koopa Troopa/Toad.",
-						"fact_checked": true,
-						"question": "In Super Mario Kart (SNES), Mario and Luigi shared identical stats. Which other two playable characters also shared identical statistics, making them clones in terms of performance?",
-						"wrong": [
-							"Bowser and Donkey Kong Jr.",
-							"Koopa Troopa and Toad",
-							"Donkey Kong Jr. and Toad"
-						]
-					},
-					{
-						"correct": "Red",
-						"difficulty": "Easy",
-						"explanation": "Mario wears his signature red cap throughout his adventure in Rogueport.",
-						"fact_checked": true,
-						"question": "What is the primary color of Mario's iconic hat?",
-						"wrong": [
-							"Green",
-							"Blue"
-						]
-					},
-					{
-						"correct": "Plumber",
-						"difficulty": "Easy",
-						"explanation": "Mario and his brother Luigi are the world's most famous plumbers.",
-						"fact_checked": true,
-						"question": "What is Mario's primary profession?",
-						"wrong": [
-							"Carpenter",
-							"Doctor"
-						]
-					},
-					{
-						"correct": "Princess Peach",
-						"difficulty": "Easy",
-						"explanation": "Princess Peach sends the map to Mario along with a letter asking him to meet her.",
-						"fact_checked": true,
-						"question": "Who sends Mario the magical map at the start of the game?",
-						"wrong": [
-							"Professor Frankly",
-							"Toadsworth"
-						]
-					},
-					{
-						"correct": "The Great Gonzales",
-						"difficulty": "Medium",
-						"explanation": "Grubba gives Mario this stage name when he registers for the Glitz Pit fights.",
-						"fact_checked": true,
-						"question": "What is Mario's fighting stage name in the Glitz Pit?",
-						"wrong": [
-							"The Red Menace",
-							"Iron Mario"
-						]
-					},
-					{
-						"correct": "None",
-						"difficulty": "Medium",
-						"explanation": "Mario travels to Rogueport alone while Luigi goes on his own separate adventure.",
-						"fact_checked": true,
-						"question": "Which brother accompanies Mario to Rogueport in the game's intro?",
-						"wrong": [
-							"Luigi",
-							"Wario"
-						]
-					},
-					{
-						"correct": "Lord Crump",
-						"difficulty": "Hard",
-						"explanation": "Mario fights Lord Crump in Rogueport Plaza to protect Goombella.",
-						"fact_checked": true,
-						"question": "In the game's prologue, who is the first enemy Mario encounters and fights?",
-						"wrong": [
-							"Goombella",
-							"Hooktail"
-						]
-					},
-					{
-						"correct": "The Toad Hero",
-						"difficulty": "Hard",
-						"explanation": "The legend tells of four heroes, including a Toad, who sealed the Shadow Queen.",
-						"fact_checked": true,
-						"question": "According to the Four Heroes legend, which hero's spirit is tied to Mario's journey?",
-						"wrong": [
-							"The Goomba Hero",
-							"The Koopa Hero"
-						]
-					}
-				]
-			},
-			"id": "mario",
-			"meta": {
-				"date_added": "2026-02-01",
-				"entity_category": "Theme Item",
-				"full_title": "Mario",
-				"theme_origin": "paper mario the thousand year door",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Hero",
-					"Driver",
-					"Character"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "The player in 1st place",
-						"difficulty": "Easy",
-						"explanation": "The player in 1st place. The Blue Shell is designed as a catch-up mechanism targeting the race leader.",
-						"fact_checked": true,
-						"question": "What is the primary target of the Blue Shell?",
-						"wrong": [
-							"The player in last place",
-							"The player closest to the user",
-							"The player in 5th place"
-						]
-					},
-					{
-						"correct": "Red",
-						"difficulty": "Easy",
-						"explanation": "Red. The shell is blue but traditionally has red spiked studs.",
-						"fact_checked": true,
-						"question": "What color are the small spikes that cover the shell?",
-						"wrong": [
-							"Green",
-							"Yellow",
-							"Black"
-						]
-					},
-					{
-						"correct": "It traveled along the ground",
-						"difficulty": "Medium",
-						"explanation": "It traveled along the ground. In MK7, the Blue Shell operated like a massive Red Shell, hitting anyone in its path before exploding on the leader.",
-						"fact_checked": true,
-						"question": "In Mario Kart 7, what unique quality did the Blue Shell possess that allowed it to affect other players before reaching 1st place?",
-						"wrong": [
-							"It bounced off walls",
-							"It caused confusion",
-							"It shrank opponents"
-						]
-					},
-					{
-						"correct": "Togezo Shell",
-						"difficulty": "Hard",
-						"explanation": "Togezo Shell. 'Togezo' translates roughly to 'spiky thing', emphasizing its spiked nature.",
-						"fact_checked": true,
-						"question": "The Japanese name for the Blue Shell literally translates to what kind of shell?",
-						"wrong": [
-							"Kame Shell",
-							"Aoi Shell",
-							"Spike Shell"
-						]
-					},
-					{
-						"correct": "They are unaffected",
-						"difficulty": "Hard",
-						"explanation": "They are unaffected. The Blue Shell, once thrown, acts independently of the player who launched it.",
-						"fact_checked": true,
-						"question": "If a player hits a Blue Shell mid-air with a powerful item, what happens to the player who originally threw the shell?",
-						"wrong": [
-							"They get hit by the shell fragment",
-							"They lose all their coins",
-							"They are instantly shrunk"
-						]
-					},
-					{
-						"correct": "Spiny ",
-						"difficulty": "Easy",
-						"explanation": "Bowser. The Blue Shell's design, including its spikes, suggests a Koopa origin.",
-						"fact_checked": true,
-						"question": "Which recurring villain's shell does the Blue Shell most closely resemble?",
-						"wrong": [
-							"Wart",
-							"Wario",
-							"Kamek"
-						]
-					},
-					{
-						"correct": "Mario Kart 64",
-						"difficulty": "Medium",
-						"explanation": "Mario Kart 64. It debuted alongside the introduction of 3D tracks.",
-						"fact_checked": true,
-						"question": "The Blue Shell was first introduced in which console entry of the series?",
-						"wrong": [
-							"Super Mario Kart",
-							"Mario Kart: Super Circuit",
-							"Mario Kart DS"
-						]
-					},
-					{
-						"correct": "Super Horn",
-						"difficulty": "Medium",
-						"explanation": "Super Horn. The Super Horn's blast radius is capable of shattering the incoming shell.",
-						"fact_checked": true,
-						"question": "In Mario Kart 8, the Blue Shell can be destroyed mid-flight by using which specific item?",
-						"wrong": [
-							"Star",
-							"Boomerang Flower",
-							"Fire Flower"
-						]
-					},
-					{
-						"correct": "Mario Kart Wii",
-						"difficulty": "Hard",
-						"explanation": "Mario Kart Wii. This mechanic allowed skillful players to avoid the explosion just before impact.",
-						"fact_checked": true,
-						"question": "Which Mario Kart game first introduced the ability to dodge the Blue Shell using a well-timed Mushroom boost?",
-						"wrong": [
-							"Mario Kart DS",
-							"Mario Kart 8",
-							"Mario Kart 7"
-						]
-					},
-					{
-						"correct": "It drove on the ground",
-						"difficulty": "Hard",
-						"explanation": "It drove on the ground. In DS, it behaved like a Red Shell, but targeted the front-runner.",
-						"fact_checked": true,
-						"question": "Before Mario Kart Wii, how did the Blue Shell attack the leader in Mario Kart DS?",
-						"wrong": [
-							"It launched straight up and fell",
-							"It teleported to the target",
-							"It disappeared and reappeared ahead"
-						]
-					},
-					{
-						"correct": "Mushroom",
-						"difficulty": "Medium",
-						"explanation": "Mushroom. A well-timed Mushroom boost can allow a racer to speed away from the blast radius just before impact.",
-						"fact_checked": true,
-						"question": "In Mario Kart Wii and later titles, what item must a racer possess to successfully evade the Blue Shell just before it hits?",
-						"wrong": [
-							"Star",
-							"Lightning",
-							"Red Shell"
-						]
-					},
-					{
-						"correct": "Mario Kart Wii",
-						"difficulty": "Medium",
-						"explanation": "Mario Kart Wii. This mechanic was introduced in MKWii, making the item slightly easier to dodge for those in lower positions.",
-						"fact_checked": true,
-						"question": "In which Mario Kart game did the Blue Shell gain the ability to travel along the ground before jumping to attack 1st place, rather than flying the whole time?",
-						"wrong": [
-							"Mario Kart DS",
-							"Mario Kart 7",
-							"Mario Kart 8"
-						]
-					},
-					{
-						"correct": "Shell Sniping",
-						"difficulty": "Hard",
-						"explanation": "Shell Sniping. This advanced technique allows players to shoot items like Super Horns or Red Shells at the Blue Shell to destroy it.",
-						"fact_checked": true,
-						"question": "What is the common term used by players for neutralizing a Blue Shell by hitting it with another item, a mechanic exclusive to Mario Kart 8 Deluxe Battle Mode?",
-						"wrong": [
-							"Defense Boost",
-							"Shell Swat",
-							"Blue Blocker"
-						]
-					},
-					{
-						"correct": "Super Mario Kart",
-						"difficulty": "Medium",
-						"explanation": "Super Mario Kart. Early game data showed a concept for an item that flew over the track.",
-						"fact_checked": true,
-						"question": "Prior to Mario Kart 64, which classic Mario Kart game featured a 'Flying Item' placeholder that the Blue Shell concept evolved from?",
-						"wrong": [
-							"F-Zero",
-							"Super Mario World",
-							"Yoshi's Island"
-						]
-					},
-					{
-						"correct": "Double Dash and Super Mario Kart (SNES)",
-						"difficulty": "Hard",
-						"explanation": "Double Dash and Super Mario Kart (SNES). The Double Dash shell traveled along the track until it reached 1st place, instead of flying directly.",
-						"fact_checked": true,
-						"question": "The Blue Shell only travels along the ground, instead of flying, in which two main console iterations of Mario Kart?",
-						"wrong": [
-							"Mario Kart 64 and DS",
-							"Mario Kart Wii and 7",
-							"Mario Kart 8 and Super Mario Kart"
-						]
-					}
-				]
-			},
-			"id": "blue_shell",
-			"meta": {
-				"date_added": "2026-02-01",
-				"entity_category": "Theme Item",
-				"full_title": "Blue Shell",
-				"theme_origin": "mario kart",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Weapon",
-					"Offensive",
-					"Item"
 				]
 			}
 		},
@@ -6196,7 +5633,7 @@
 					}
 				]
 			},
-			"id": "rainbow_road",
+			"id": "mario_kart_rainbow_road",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -6493,7 +5930,7 @@
 					}
 				]
 			},
-			"id": "bowser",
+			"id": "mario_kart_bowser",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -6706,7 +6143,7 @@
 					}
 				]
 			},
-			"id": "banana",
+			"id": "mario_kart_banana",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -6859,7 +6296,7 @@
 					}
 				]
 			},
-			"id": "toad",
+			"id": "mario_kart_toad",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -7036,7 +6473,7 @@
 					}
 				]
 			},
-			"id": "coconut_mall",
+			"id": "mario_kart_coconut_mall",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -7129,7 +6566,7 @@
 					}
 				]
 			},
-			"id": "kart",
+			"id": "mario_kart_kart",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -7222,7 +6659,7 @@
 					}
 				]
 			},
-			"id": "feather",
+			"id": "mario_kart_feather",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -7351,7 +6788,7 @@
 					}
 				]
 			},
-			"id": "coin",
+			"id": "mario_kart_coin",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -7552,7 +6989,7 @@
 					}
 				]
 			},
-			"id": "dry_bones",
+			"id": "mario_kart_dry_bones",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -7789,7 +7226,7 @@
 					}
 				]
 			},
-			"id": "standard_kart",
+			"id": "mario_kart_standard_kart",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -7894,7 +7331,7 @@
 					}
 				]
 			},
-			"id": "super_star",
+			"id": "mario_kart_super_star",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8071,7 +7508,7 @@
 					}
 				]
 			},
-			"id": "yoshi",
+			"id": "mario_kart_yoshi",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8176,7 +7613,7 @@
 					}
 				]
 			},
-			"id": "gliding",
+			"id": "mario_kart_gliding",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8257,7 +7694,7 @@
 					}
 				]
 			},
-			"id": "lakitu",
+			"id": "mario_kart_lakitu",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8386,7 +7823,7 @@
 					}
 				]
 			},
-			"id": "fire_flower",
+			"id": "mario_kart_fire_flower",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8527,7 +7964,7 @@
 					}
 				]
 			},
-			"id": "mushroom",
+			"id": "mario_kart_mushroom",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8656,7 +8093,7 @@
 					}
 				]
 			},
-			"id": "waluigi",
+			"id": "mario_kart_waluigi",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8773,7 +8210,7 @@
 					}
 				]
 			},
-			"id": "wario_stadium",
+			"id": "mario_kart_wario_stadium",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8866,7 +8303,7 @@
 					}
 				]
 			},
-			"id": "piranha_plant",
+			"id": "mario_kart_piranha_plant",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -8983,7 +8420,7 @@
 					}
 				]
 			},
-			"id": "lightning",
+			"id": "mario_kart_lightning",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -9076,7 +8513,7 @@
 					}
 				]
 			},
-			"id": "luigi",
+			"id": "mario_kart_luigi",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -9157,7 +8594,7 @@
 					}
 				]
 			},
-			"id": "peach",
+			"id": "mario_kart_peach",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -9262,7 +8699,7 @@
 					}
 				]
 			},
-			"id": "donkey_kong",
+			"id": "mario_kart_donkey_kong",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -9343,7 +8780,7 @@
 					}
 				]
 			},
-			"id": "wario",
+			"id": "mario_kart_wario",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -9424,7 +8861,7 @@
 					}
 				]
 			},
-			"id": "rosalina",
+			"id": "mario_kart_rosalina",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -9505,7 +8942,7 @@
 					}
 				]
 			},
-			"id": "shy_guy",
+			"id": "mario_kart_shy_guy",
 			"meta": {
 				"date_added": "2026-02-01",
 				"entity_category": "Theme Item",
@@ -9598,7 +9035,7 @@
 					}
 				]
 			},
-			"id": "chosen_undead",
+			"id": "dark_souls_chosen_undead",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -9667,7 +9104,7 @@
 					}
 				]
 			},
-			"id": "artorias",
+			"id": "dark_souls_artorias",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -9772,7 +9209,7 @@
 					}
 				]
 			},
-			"id": "anor_londo",
+			"id": "dark_souls_anor_londo",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -9877,7 +9314,7 @@
 					}
 				]
 			},
-			"id": "moonlight_greatsword",
+			"id": "dark_souls_moonlight_greatsword",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -9982,7 +9419,7 @@
 					}
 				]
 			},
-			"id": "sif",
+			"id": "dark_souls_sif",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10087,7 +9524,7 @@
 					}
 				]
 			},
-			"id": "firelink_shrine",
+			"id": "dark_souls_firelink_shrine",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10192,7 +9629,7 @@
 					}
 				]
 			},
-			"id": "solaire",
+			"id": "dark_souls_solaire",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10297,7 +9734,7 @@
 					}
 				]
 			},
-			"id": "gwyn",
+			"id": "dark_souls_gwyn",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10402,7 +9839,7 @@
 					}
 				]
 			},
-			"id": "zweihander",
+			"id": "dark_souls_zweihander",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10507,7 +9944,7 @@
 					}
 				]
 			},
-			"id": "bonfire",
+			"id": "dark_souls_bonfire",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10612,7 +10049,7 @@
 					}
 				]
 			},
-			"id": "seath",
+			"id": "dark_souls_seath",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10705,7 +10142,7 @@
 					}
 				]
 			},
-			"id": "quelaag",
+			"id": "dark_souls_quelaag",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10798,7 +10235,7 @@
 					}
 				]
 			},
-			"id": "asylum_demon",
+			"id": "dark_souls_asylum_demon",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10891,7 +10328,7 @@
 					}
 				]
 			},
-			"id": "taurus_demon",
+			"id": "dark_souls_taurus_demon",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -10984,7 +10421,7 @@
 					}
 				]
 			},
-			"id": "bell_gargoyle",
+			"id": "dark_souls_bell_gargoyle",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11089,7 +10526,7 @@
 					}
 				]
 			},
-			"id": "capra_demon",
+			"id": "dark_souls_capra_demon",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11182,7 +10619,7 @@
 					}
 				]
 			},
-			"id": "gaping_dragon",
+			"id": "dark_souls_gaping_dragon",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11287,7 +10724,7 @@
 					}
 				]
 			},
-			"id": "iron_golem",
+			"id": "dark_souls_iron_golem",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11392,7 +10829,7 @@
 					}
 				]
 			},
-			"id": "titanite_demon",
+			"id": "dark_souls_titanite_demon",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11485,7 +10922,7 @@
 					}
 				]
 			},
-			"id": "pinwheel",
+			"id": "dark_souls_pinwheel",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11590,7 +11027,7 @@
 					}
 				]
 			},
-			"id": "four_kings",
+			"id": "dark_souls_four_kings",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11683,7 +11120,7 @@
 					}
 				]
 			},
-			"id": "chaos_eater",
+			"id": "dark_souls_chaos_eater",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11788,7 +11225,7 @@
 					}
 				]
 			},
-			"id": "sewer_rat",
+			"id": "dark_souls_sewer_rat",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11893,7 +11330,7 @@
 					}
 				]
 			},
-			"id": "dragon",
+			"id": "dark_souls_dragon",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -11986,7 +11423,7 @@
 					}
 				]
 			},
-			"id": "lautrec",
+			"id": "dark_souls_lautrec",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12079,7 +11516,7 @@
 					}
 				]
 			},
-			"id": "siegmeyer",
+			"id": "dark_souls_siegmeyer",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12172,7 +11609,7 @@
 					}
 				]
 			},
-			"id": "andre",
+			"id": "dark_souls_andre",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12265,7 +11702,7 @@
 					}
 				]
 			},
-			"id": "priscilla",
+			"id": "dark_souls_priscilla",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12358,7 +11795,7 @@
 					}
 				]
 			},
-			"id": "patches",
+			"id": "dark_souls_patches",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12451,7 +11888,7 @@
 					}
 				]
 			},
-			"id": "frampt",
+			"id": "dark_souls_frampt",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12556,7 +11993,7 @@
 					}
 				]
 			},
-			"id": "kirk",
+			"id": "dark_souls_kirk",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12649,7 +12086,7 @@
 					}
 				]
 			},
-			"id": "reah",
+			"id": "dark_souls_reah",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12730,7 +12167,7 @@
 					}
 				]
 			},
-			"id": "domhnall",
+			"id": "dark_souls_domhnall",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12835,7 +12272,7 @@
 					}
 				]
 			},
-			"id": "logan",
+			"id": "dark_souls_logan",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12892,7 +12329,7 @@
 					}
 				]
 			},
-			"id": "oswald",
+			"id": "dark_souls_oswald",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -12997,7 +12434,7 @@
 					}
 				]
 			},
-			"id": "quelana",
+			"id": "dark_souls_quelana",
 			"meta": {
 				"date_added": "2026-02-02",
 				"entity_category": "Theme Item",
@@ -13090,7 +12527,7 @@
 					}
 				]
 			},
-			"id": "tom_nook",
+			"id": "animal_crossing_tom_nook",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13183,7 +12620,7 @@
 					}
 				]
 			},
-			"id": "isabelle",
+			"id": "animal_crossing_isabelle",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13276,7 +12713,7 @@
 					}
 				]
 			},
-			"id": "the_museum",
+			"id": "animal_crossing_the_museum",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13381,7 +12818,7 @@
 					}
 				]
 			},
-			"id": "k.k._slider",
+			"id": "animal_crossing_k.k._slider",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13474,7 +12911,7 @@
 					}
 				]
 			},
-			"id": "redd",
+			"id": "animal_crossing_redd",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13567,7 +13004,7 @@
 					}
 				]
 			},
-			"id": "bell_bag",
+			"id": "animal_crossing_bell_bag",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13672,7 +13109,7 @@
 					}
 				]
 			},
-			"id": "stalk_market",
+			"id": "animal_crossing_stalk_market",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13777,7 +13214,7 @@
 					}
 				]
 			},
-			"id": "net",
+			"id": "animal_crossing_net",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13870,7 +13307,7 @@
 					}
 				]
 			},
-			"id": "gyroid",
+			"id": "animal_crossing_gyroid",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -13963,7 +13400,7 @@
 					}
 				]
 			},
-			"id": "resident_services",
+			"id": "animal_crossing_resident_services",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14056,7 +13493,7 @@
 					}
 				]
 			},
-			"id": "dodo_airlines",
+			"id": "animal_crossing_dodo_airlines",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14161,7 +13598,7 @@
 					}
 				]
 			},
-			"id": "flick",
+			"id": "animal_crossing_flick",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14254,7 +13691,7 @@
 					}
 				]
 			},
-			"id": "blathers",
+			"id": "animal_crossing_blathers",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14347,7 +13784,7 @@
 					}
 				]
 			},
-			"id": "celeste",
+			"id": "animal_crossing_celeste",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14452,7 +13889,7 @@
 					}
 				]
 			},
-			"id": "sable",
+			"id": "animal_crossing_sable",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14557,7 +13994,7 @@
 					}
 				]
 			},
-			"id": "brewster",
+			"id": "animal_crossing_brewster",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14650,7 +14087,7 @@
 					}
 				]
 			},
-			"id": "gulliver",
+			"id": "animal_crossing_gulliver",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14743,7 +14180,7 @@
 					}
 				]
 			},
-			"id": "c.j.",
+			"id": "animal_crossing_c.j.",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14824,7 +14261,7 @@
 					}
 				]
 			},
-			"id": "reese",
+			"id": "animal_crossing_reese",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14893,7 +14330,7 @@
 					}
 				]
 			},
-			"id": "cyrus",
+			"id": "animal_crossing_cyrus",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -14998,7 +14435,7 @@
 					}
 				]
 			},
-			"id": "leif",
+			"id": "animal_crossing_leif",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -15091,7 +14528,7 @@
 					}
 				]
 			},
-			"id": "harvey",
+			"id": "animal_crossing_harvey",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -15196,7 +14633,7 @@
 					}
 				]
 			},
-			"id": "kapp'n",
+			"id": "animal_crossing_kapp'n",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -15289,7 +14726,7 @@
 					}
 				]
 			},
-			"id": "lottie",
+			"id": "animal_crossing_lottie",
 			"meta": {
 				"date_added": "2026-02-03",
 				"entity_category": "Theme Item",
@@ -15418,7 +14855,7 @@
 					}
 				]
 			},
-			"id": "wanderer",
+			"id": "fallout_3_wanderer",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -15583,7 +15020,7 @@
 					}
 				]
 			},
-			"id": "megaton",
+			"id": "fallout_3_megaton",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -15676,7 +15113,7 @@
 					}
 				]
 			},
-			"id": "fat_man",
+			"id": "fallout_3_fat_man",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -15781,7 +15218,7 @@
 					}
 				]
 			},
-			"id": "deathclaw",
+			"id": "fallout_3_deathclaw",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -15910,7 +15347,7 @@
 					}
 				]
 			},
-			"id": "project_purity",
+			"id": "fallout_3_project_purity",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16003,7 +15440,7 @@
 					}
 				]
 			},
-			"id": "galaxy_news_radio",
+			"id": "fallout_3_galaxy_news_radio",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16156,7 +15593,7 @@
 					}
 				]
 			},
-			"id": "shishkebab",
+			"id": "fallout_3_shishkebab",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16249,7 +15686,7 @@
 					}
 				]
 			},
-			"id": "fawkes",
+			"id": "fallout_3_fawkes",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16342,7 +15779,7 @@
 					}
 				]
 			},
-			"id": "james",
+			"id": "fallout_3_james",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16471,7 +15908,7 @@
 					}
 				]
 			},
-			"id": "colonel_autumn",
+			"id": "fallout_3_colonel_autumn",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16588,7 +16025,7 @@
 					}
 				]
 			},
-			"id": "james's_lab",
+			"id": "fallout_3_james's_lab",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16729,7 +16166,7 @@
 					}
 				]
 			},
-			"id": "sentinel_lyons",
+			"id": "fallout_3_sentinel_lyons",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16899,7 +16336,7 @@
 					}
 				]
 			},
-			"id": "moira_brown",
+			"id": "fallout_3_moira_brown",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -16997,7 +16434,7 @@
 					}
 				]
 			},
-			"id": "three_dog",
+			"id": "fallout_3_three_dog",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17143,7 +16580,7 @@
 					}
 				]
 			},
-			"id": "mister_burke",
+			"id": "fallout_3_mister_burke",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17301,7 +16738,7 @@
 					}
 				]
 			},
-			"id": "butch_deloria",
+			"id": "fallout_3_butch_deloria",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17398,7 +16835,7 @@
 					}
 				]
 			},
-			"id": "charon",
+			"id": "fallout_3_charon",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17496,7 +16933,7 @@
 					}
 				]
 			},
-			"id": "lucas_simms",
+			"id": "fallout_3_lucas_simms",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17571,7 +17008,7 @@
 					}
 				]
 			},
-			"id": "clover",
+			"id": "fallout_3_clover",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17680,7 +17117,7 @@
 					}
 				]
 			},
-			"id": "harold",
+			"id": "fallout_3_harold",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17791,7 +17228,7 @@
 					}
 				]
 			},
-			"id": "abraham_washington",
+			"id": "fallout_3_abraham_washington",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17889,7 +17326,7 @@
 					}
 				]
 			},
-			"id": "eden",
+			"id": "fallout_3_eden",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -17975,7 +17412,7 @@
 					}
 				]
 			},
-			"id": "star_paladin_cross",
+			"id": "fallout_3_star_paladin_cross",
 			"meta": {
 				"date_added": "2026-02-04",
 				"entity_category": "Theme Item",
@@ -18032,7 +17469,7 @@
 					}
 				]
 			},
-			"id": "doom_slayer",
+			"id": "doom_(2016)_doom_slayer",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18149,7 +17586,7 @@
 					}
 				]
 			},
-			"id": "samuel_hayden",
+			"id": "doom_(2016)_samuel_hayden",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18194,7 +17631,7 @@
 					}
 				]
 			},
-			"id": "chainsaw",
+			"id": "doom_(2016)_chainsaw",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18239,7 +17676,7 @@
 					}
 				]
 			},
-			"id": "super_shotgun",
+			"id": "doom_(2016)_super_shotgun",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18296,7 +17733,7 @@
 					}
 				]
 			},
-			"id": "uac_facility",
+			"id": "doom_(2016)_uac_facility",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18413,7 +17850,7 @@
 					}
 				]
 			},
-			"id": "argent_d'nur",
+			"id": "doom_(2016)_argent_d'nur",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18470,7 +17907,7 @@
 					}
 				]
 			},
-			"id": "imp",
+			"id": "doom_(2016)_imp",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18563,7 +18000,7 @@
 					}
 				]
 			},
-			"id": "hell_knight",
+			"id": "doom_(2016)_hell_knight",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18656,7 +18093,7 @@
 					}
 				]
 			},
-			"id": "spider_mastermind",
+			"id": "doom_(2016)_spider_mastermind",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18773,7 +18210,7 @@
 					}
 				]
 			},
-			"id": "cacodaemon",
+			"id": "doom_(2016)_cacodaemon",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18866,7 +18303,7 @@
 					}
 				]
 			},
-			"id": "pinky",
+			"id": "doom_(2016)_pinky",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -18995,7 +18432,7 @@
 					}
 				]
 			},
-			"id": "revenant",
+			"id": "doom_(2016)_revenant",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -19184,7 +18621,7 @@
 					}
 				]
 			},
-			"id": "mancubus",
+			"id": "doom_(2016)_mancubus",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -19337,7 +18774,7 @@
 					}
 				]
 			},
-			"id": "baron_of_hell",
+			"id": "doom_(2016)_baron_of_hell",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -19454,7 +18891,7 @@
 					}
 				]
 			},
-			"id": "lost_soul",
+			"id": "doom_(2016)_lost_soul",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -19559,7 +18996,7 @@
 					}
 				]
 			},
-			"id": "summoner",
+			"id": "doom_(2016)_summoner",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -19688,7 +19125,7 @@
 					}
 				]
 			},
-			"id": "cyberdemon",
+			"id": "doom_(2016)_cyberdemon",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -19829,7 +19266,7 @@
 					}
 				]
 			},
-			"id": "spectre",
+			"id": "doom_(2016)_spectre",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -19946,7 +19383,7 @@
 					}
 				]
 			},
-			"id": "possessed_soldier",
+			"id": "doom_(2016)_possessed_soldier",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -20063,7 +19500,7 @@
 					}
 				]
 			},
-			"id": "prowler",
+			"id": "doom_(2016)_prowler",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -20168,7 +19605,7 @@
 					}
 				]
 			},
-			"id": "hell_razor",
+			"id": "doom_(2016)_hell_razor",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -20321,7 +19758,7 @@
 					}
 				]
 			},
-			"id": "unwilling",
+			"id": "doom_(2016)_unwilling",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -20450,7 +19887,7 @@
 					}
 				]
 			},
-			"id": "hell_razer",
+			"id": "doom_(2016)_hell_razer",
 			"meta": {
 				"date_added": "2026-02-05",
 				"entity_category": "Theme Item",
@@ -20504,7 +19941,7 @@
 					}
 				]
 			},
-			"id": "zagreus",
+			"id": "hades_1_and_2_zagreus",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20558,7 +19995,7 @@
 					}
 				]
 			},
-			"id": "melinoe",
+			"id": "hades_1_and_2_melinoe",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20612,7 +20049,7 @@
 					}
 				]
 			},
-			"id": "hades",
+			"id": "hades_1_and_2_hades",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20666,7 +20103,7 @@
 					}
 				]
 			},
-			"id": "hecate",
+			"id": "hades_1_and_2_hecate",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20720,7 +20157,7 @@
 					}
 				]
 			},
-			"id": "chronos",
+			"id": "hades_1_and_2_chronos",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20763,7 +20200,7 @@
 					}
 				]
 			},
-			"id": "house_of_hades",
+			"id": "hades_1_and_2_house_of_hades",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20817,7 +20254,7 @@
 					}
 				]
 			},
-			"id": "the_crossroads",
+			"id": "hades_1_and_2_the_crossroads",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20871,7 +20308,7 @@
 					}
 				]
 			},
-			"id": "mount_olympos",
+			"id": "hades_1_and_2_mount_olympos",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20925,7 +20362,7 @@
 					}
 				]
 			},
-			"id": "megaera",
+			"id": "hades_1_and_2_megaera",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -20968,7 +20405,7 @@
 					}
 				]
 			},
-			"id": "the_fated_list",
+			"id": "hades_1_and_2_the_fated_list",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -21097,7 +20534,7 @@
 					}
 				]
 			},
-			"id": "nyx",
+			"id": "hades_1_and_2_nyx",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -21226,7 +20663,7 @@
 					}
 				]
 			},
-			"id": "thanatos",
+			"id": "hades_1_and_2_thanatos",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -21355,7 +20792,7 @@
 					}
 				]
 			},
-			"id": "cerberus",
+			"id": "hades_1_and_2_cerberus",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -21472,7 +20909,7 @@
 					}
 				]
 			},
-			"id": "tartarus",
+			"id": "hades_1_and_2_tartarus",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -21589,7 +21026,7 @@
 					}
 				]
 			},
-			"id": "infernal_arms",
+			"id": "hades_1_and_2_infernal_arms",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -21706,7 +21143,7 @@
 					}
 				]
 			},
-			"id": "chaos",
+			"id": "hades_1_and_2_chaos",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -21823,7 +21260,7 @@
 					}
 				]
 			},
-			"id": "poseidon",
+			"id": "hades_1_and_2_poseidon",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -21928,7 +21365,7 @@
 					}
 				]
 			},
-			"id": "apollo",
+			"id": "hades_1_and_2_apollo",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -22033,7 +21470,7 @@
 					}
 				]
 			},
-			"id": "styx",
+			"id": "hades_1_and_2_styx",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -22126,7 +21563,7 @@
 					}
 				]
 			},
-			"id": "keepsakes",
+			"id": "hades_1_and_2_keepsakes",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -22231,7 +21668,7 @@
 					}
 				]
 			},
-			"id": "dionysus",
+			"id": "hades_1_and_2_dionysus",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -22312,7 +21749,7 @@
 					}
 				]
 			},
-			"id": "wretched_broker",
+			"id": "hades_1_and_2_wretched_broker",
 			"meta": {
 				"date_added": "2026-02-06",
 				"entity_category": "Theme Item",
@@ -22501,7 +21938,7 @@
 					}
 				]
 			},
-			"id": "jack",
+			"id": "bioshock_jack",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -22690,7 +22127,7 @@
 					}
 				]
 			},
-			"id": "andrew_ryan",
+			"id": "bioshock_andrew_ryan",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -22867,7 +22304,7 @@
 					}
 				]
 			},
-			"id": "big_daddy",
+			"id": "bioshock_big_daddy",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -23056,7 +22493,7 @@
 					}
 				]
 			},
-			"id": "little_sister",
+			"id": "bioshock_little_sister",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -23245,7 +22682,7 @@
 					}
 				]
 			},
-			"id": "rapture",
+			"id": "bioshock_rapture",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -23434,7 +22871,7 @@
 					}
 				]
 			},
-			"id": "plasmids",
+			"id": "bioshock_plasmids",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -23623,7 +23060,7 @@
 					}
 				]
 			},
-			"id": "elizabeth",
+			"id": "bioshock_elizabeth",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -23812,7 +23249,7 @@
 					}
 				]
 			},
-			"id": "columbia",
+			"id": "bioshock_columbia",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24001,7 +23438,7 @@
 					}
 				]
 			},
-			"id": "songbird",
+			"id": "bioshock_songbird",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24190,7 +23627,7 @@
 					}
 				]
 			},
-			"id": "adam",
+			"id": "bioshock_adam",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24310,7 +23747,7 @@
 					}
 				]
 			},
-			"id": "rogueport",
+			"id": "paper_mario_the_thousand_year_door_rogueport",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24419,7 +23856,7 @@
 					}
 				]
 			},
-			"id": "goombella",
+			"id": "paper_mario_the_thousand_year_door_goombella",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24539,7 +23976,7 @@
 					}
 				]
 			},
-			"id": "the_crystal_stars",
+			"id": "paper_mario_the_thousand_year_door_the_crystal_stars",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24648,7 +24085,7 @@
 					}
 				]
 			},
-			"id": "vivian",
+			"id": "paper_mario_the_thousand_year_door_vivian",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24768,7 +24205,7 @@
 					}
 				]
 			},
-			"id": "the_shadow_queen",
+			"id": "paper_mario_the_thousand_year_door_the_shadow_queen",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24888,7 +24325,7 @@
 					}
 				]
 			},
-			"id": "admiral_bobbery",
+			"id": "paper_mario_the_thousand_year_door_admiral_bobbery",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -24997,7 +24434,7 @@
 					}
 				]
 			},
-			"id": "glitzville",
+			"id": "paper_mario_the_thousand_year_door_glitzville",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -25117,7 +24554,7 @@
 					}
 				]
 			},
-			"id": "princess_peach",
+			"id": "paper_mario_the_thousand_year_door_princess_peach",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -25237,7 +24674,7 @@
 					}
 				]
 			},
-			"id": "the_thousand_year_door",
+			"id": "paper_mario_the_thousand_year_door_the_thousand_year_door",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -25354,7 +24791,7 @@
 					}
 				]
 			},
-			"id": "koops",
+			"id": "paper_mario_the_thousand_year_door_koops",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -25483,7 +24920,7 @@
 					}
 				]
 			},
-			"id": "sir_grodus",
+			"id": "paper_mario_the_thousand_year_door_sir_grodus",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -25600,7 +25037,7 @@
 					}
 				]
 			},
-			"id": "excess_express",
+			"id": "paper_mario_the_thousand_year_door_excess_express",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -25717,7 +25154,7 @@
 					}
 				]
 			},
-			"id": "professor_frankly",
+			"id": "paper_mario_the_thousand_year_door_professor_frankly",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -25834,7 +25271,7 @@
 					}
 				]
 			},
-			"id": "ms._mowz",
+			"id": "paper_mario_the_thousand_year_door_ms._mowz",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -25951,7 +25388,7 @@
 					}
 				]
 			},
-			"id": "rawk_hawk",
+			"id": "paper_mario_the_thousand_year_door_rawk_hawk",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -26068,7 +25505,7 @@
 					}
 				]
 			},
-			"id": "poshley_heights",
+			"id": "paper_mario_the_thousand_year_door_poshley_heights",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -26185,7 +25622,7 @@
 					}
 				]
 			},
-			"id": "x-nauts",
+			"id": "paper_mario_the_thousand_year_door_x-nauts",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -26314,7 +25751,7 @@
 					}
 				]
 			},
-			"id": "magical_map",
+			"id": "paper_mario_the_thousand_year_door_magical_map",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -26443,7 +25880,7 @@
 					}
 				]
 			},
-			"id": "madame_flurrie",
+			"id": "paper_mario_the_thousand_year_door_madame_flurrie",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -26560,7 +25997,7 @@
 					}
 				]
 			},
-			"id": "frank_fontaine",
+			"id": "bioshock_frank_fontaine",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -26689,7 +26126,7 @@
 					}
 				]
 			},
-			"id": "sander_cohen",
+			"id": "bioshock_sander_cohen",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -26806,7 +26243,7 @@
 					}
 				]
 			},
-			"id": "bridget_tenenbaum",
+			"id": "bioshock_bridget_tenenbaum",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -26911,7 +26348,7 @@
 					}
 				]
 			},
-			"id": "splicers",
+			"id": "bioshock_splicers",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -27028,7 +26465,7 @@
 					}
 				]
 			},
-			"id": "vigors",
+			"id": "bioshock_vigors",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -27157,7 +26594,7 @@
 					}
 				]
 			},
-			"id": "the_lutece_twins",
+			"id": "bioshock_the_lutece_twins",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -27274,7 +26711,7 @@
 					}
 				]
 			},
-			"id": "fort_frolic",
+			"id": "bioshock_fort_frolic",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -27379,7 +26816,7 @@
 					}
 				]
 			},
-			"id": "eve",
+			"id": "bioshock_eve",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -27496,7 +26933,7 @@
 					}
 				]
 			},
-			"id": "booker_dewitt",
+			"id": "bioshock_booker_dewitt",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
@@ -27625,7 +27062,7 @@
 					}
 				]
 			},
-			"id": "zachary_hale_comstock",
+			"id": "bioshock_zachary_hale_comstock",
 			"meta": {
 				"date_added": "2026-02-19",
 				"entity_category": "Theme Item",
