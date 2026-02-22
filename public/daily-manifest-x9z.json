@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771786818,
+	"last_updated": 1771788775,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1203,6 +1203,53 @@
 				"halo_gravemind",
 				"halo_guilty_spark",
 				"halo_master_chief"
+			]
+		},
+		"2026-02-23": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Halo Wars ",
+			"share_text": "For Samuel",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"halo_wars_sergeant_forge",
+				"halo_wars_captain_cutter",
+				"halo_wars_professor_anders"
+			],
+			"starters": [
+				"halo_wars_captain_cutter",
+				"halo_wars_atriox",
+				"halo_wars_the_ark",
+				"halo_wars_serina",
+				"halo_wars_sergeant_forge",
+				"halo_wars_isabel",
+				"halo_wars_spirit_of_fire",
+				"halo_wars_professor_anders",
+				"halo_wars_the_flood",
+				"halo_wars_decimus",
+				"halo_wars_ripa_moramee",
+				"halo_wars_spartan_jerome",
+				"halo_wars_prophet_of_regret",
+				"halo_wars_etran_harborage",
+				"halo_wars_let_volir",
+				"halo_wars_colony",
+				"halo_wars_spartan_alice",
+				"halo_wars_spartan_douglas",
+				"halo_wars_the_cartographer",
+				"halo_wars_voridus"
 			]
 		}
 	}
