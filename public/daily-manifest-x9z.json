@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771535439,
+	"last_updated": 1771786818,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1155,6 +1155,54 @@
 				"x-nauts",
 				"magical_map",
 				"madame_flurrie"
+			]
+		},
+		"2026-02-22": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Yet another Halo test",
+			"share_text": "More Halos",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"halo_master_chief",
+				"halo_cortana",
+				"halo_arbiter"
+			],
+			"starters": [
+				"halo_cortana",
+				"halo_warthog",
+				"halo_ghost",
+				"halo_energy_sword",
+				"halo_assault_rifle",
+				"halo_reach",
+				"halo_truth",
+				"halo_installation_07",
+				"halo_assault_on_the_control_room",
+				"halo_flood",
+				"halo_arbiter",
+				"halo_installation_04",
+				"halo_needler",
+				"halo_scorpion",
+				"halo_johnson",
+				"halo_battle_rifle",
+				"halo_high_charity",
+				"halo_banshee",
+				"halo_gravemind",
+				"halo_guilty_spark",
+				"halo_master_chief"
 			]
 		}
 	}
