@@ -27077,6 +27077,2407 @@
 					"Columbia"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Spirit of Fire",
+						"difficulty": "Easy",
+						"explanation": "Cutter has commanded the Spirit of Fire since its conversion from a colony ship to a warship.",
+						"question": "What is the name of the ship commanded by Captain Cutter?",
+						"wrong": [
+							"Pillar of Autumn",
+							"Forward Unto Dawn",
+							"Infinity"
+						]
+					},
+					{
+						"correct": "UNSC",
+						"difficulty": "Easy",
+						"explanation": "He is a legendary commander within the United Nations Space Command.",
+						"question": "Which faction does Captain Cutter lead?",
+						"wrong": [
+							"The Banished",
+							"The Covenant",
+							"The Flood"
+						]
+					},
+					{
+						"correct": "James",
+						"difficulty": "Easy",
+						"explanation": "His full name is James Gregory Cutter.",
+						"question": "What is Captain Cutter's first name?",
+						"wrong": [
+							"John",
+							"Thomas",
+							"Jacob"
+						]
+					},
+					{
+						"correct": "To stay with his ship",
+						"difficulty": "Medium",
+						"explanation": "Cutter felt a deep personal connection to the Spirit of Fire and its crew.",
+						"question": "Why did Cutter refuse a promotion to Admiral?",
+						"wrong": [
+							"He hated the pay",
+							"He wanted to retire",
+							"He preferred ground combat"
+						]
+					},
+					{
+						"correct": "Twenty eight years",
+						"difficulty": "Medium",
+						"explanation": "The ship drifted in space for nearly three decades after its slipspace drive was destroyed.",
+						"question": "How long was Cutter and his crew in cryosleep before reaching the Ark?",
+						"wrong": [
+							"Ten years",
+							"Fifty years",
+							"Five years"
+						]
+					},
+					{
+						"correct": "Reach",
+						"difficulty": "Medium",
+						"explanation": "Cutter was born on the military stronghold of Reach in the year 2479.",
+						"question": "On which planet was James Cutter born?",
+						"wrong": [
+							"Earth",
+							"Harvest",
+							"Arcadia"
+						]
+					},
+					{
+						"correct": "Logistics and supply",
+						"difficulty": "Hard",
+						"explanation": "His background in logistics made him the perfect candidate for a colony ship command.",
+						"question": "What was Cutter's tactical specialty before joining the Spirit of Fire?",
+						"wrong": [
+							"Orbital bombardment",
+							"Fighter piloting",
+							"Spartan training"
+						]
+					},
+					{
+						"correct": "Mary",
+						"difficulty": "Hard",
+						"explanation": "Cutter had a wife named Mary and a daughter whom he never saw again after the ship went missing.",
+						"question": "What is the name of the woman Cutter left behind on Earth?",
+						"wrong": [
+							"Catherine",
+							"Miranda",
+							"Ellen"
+						]
+					},
+					{
+						"correct": "Prophecy",
+						"difficulty": "Hard",
+						"explanation": "He turned down the command of the destroyer Prophecy to stay with the Spirit of Fire.",
+						"question": "Which ship was Cutter originally offered command of before choosing the Spirit of Fire?",
+						"wrong": [
+							"In Amber Clad",
+							"Say My Name",
+							"Grafton"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_captain_cutter",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Captain Cutter",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"UNSC",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Banished",
+						"difficulty": "Easy",
+						"explanation": "Atriox created the Banished after rebelling against the Covenant.",
+						"question": "What is the name of the faction founded by Atriox?",
+						"wrong": [
+							"The Covenant",
+							"The Storm",
+							"The Keepers"
+						]
+					},
+					{
+						"correct": "Brute",
+						"difficulty": "Easy",
+						"explanation": "He is a member of the Jiralhanae species, commonly known as Brutes.",
+						"question": "What species is Atriox?",
+						"wrong": [
+							"Elite",
+							"Hunter",
+							"Grunt"
+						]
+					},
+					{
+						"correct": "Chainbreaker",
+						"difficulty": "Easy",
+						"explanation": "Atriox fashioned Chainbreaker from the pieces of a gravity hammer and other scavenged parts.",
+						"question": "What is the name of Atriox's signature gravity mace?",
+						"wrong": [
+							"Fist of Rukt",
+							"Gravity Hammer",
+							"Oathkeeper"
+						]
+					},
+					{
+						"correct": "He was tired of his kin being used as fodder",
+						"difficulty": "Medium",
+						"explanation": "Atriox grew resentful after seeing his Brute brothers sent on suicide missions by the Elites.",
+						"question": "Why did Atriox first rebel against the Covenant?",
+						"wrong": [
+							"He wanted to be a Prophet",
+							"He found a Halo ring",
+							"He was promised gold"
+						]
+					},
+					{
+						"correct": "Red Team",
+						"difficulty": "Medium",
+						"explanation": "Atriox ambushed Jerome, Douglas, and Alice inside a research outpost on the Ark.",
+						"question": "Which Spartan team did Atriox easily defeat in their first encounter?",
+						"wrong": [
+							"Blue Team",
+							"Noble Team",
+							"Osiris"
+						]
+					},
+					{
+						"correct": "Little finger",
+						"difficulty": "Medium",
+						"explanation": "He lost the finger on his right hand during the struggle with his executioners.",
+						"question": "Which finger did Atriox lose during his ritual defiance?",
+						"wrong": [
+							"Thumb",
+							"Index finger",
+							"Middle finger"
+						]
+					},
+					{
+						"correct": "Ravaged Tusks",
+						"difficulty": "Hard",
+						"explanation": "The Ravaged Tusks were known for their bravery and high survival rates despite impossible odds.",
+						"question": "What was the name of the clan Atriox belonged to within the Covenant?",
+						"wrong": [
+							"Warial",
+							"Olyndicus",
+							"Rhulak"
+						]
+					},
+					{
+						"correct": "Forty",
+						"difficulty": "Hard",
+						"explanation": "Surviving forty front-line charges made him a legend and fueled his defiance.",
+						"question": "How many suicide missions did Atriox survive before finally rebelling?",
+						"wrong": [
+							"Ten",
+							"One hundred",
+							"Twenty"
+						]
+					},
+					{
+						"correct": "Scavenged Mark Six armor",
+						"difficulty": "Hard",
+						"explanation": "His mechanical gauntlet incorporates pieces of captured UNSC MJOLNIR armor.",
+						"question": "What material is Atriox's power gauntlet made from?",
+						"wrong": [
+							"Forerunner steel",
+							"Covenant alloy",
+							"Solid gold"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_atriox",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Atriox",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Banished",
+					"Brute"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Forerunners",
+						"difficulty": "Easy",
+						"explanation": "The Ark is a massive Forerunner installation designed to construct and control Halo rings.",
+						"question": "Who originally built the Ark?",
+						"wrong": [
+							"The Precursors",
+							"Humans",
+							"The Covenant"
+						]
+					},
+					{
+						"correct": "Building Halo rings",
+						"difficulty": "Easy",
+						"explanation": "It serves as a forge for the entire Halo array.",
+						"question": "What is the primary function of the Ark?",
+						"wrong": [
+							"Farming food",
+							"Storing water",
+							"Training soldiers"
+						]
+					},
+					{
+						"correct": "Outside the galaxy",
+						"difficulty": "Easy",
+						"explanation": "It is located far beyond the galactic rim to stay safe from Halo's pulse.",
+						"question": "Where is the Ark located relative to the Milky Way galaxy?",
+						"wrong": [
+							"At the center",
+							"On the edge",
+							"Near Earth"
+						]
+					},
+					{
+						"correct": "Installation 00",
+						"difficulty": "Medium",
+						"explanation": "Known as the Lesser Ark, its official designation is Installation 00.",
+						"question": "What is the technical name for the Ark seen in Halo Wars 2?",
+						"wrong": [
+							"Installation 04",
+							"Installation 05",
+							"Installation 07"
+						]
+					},
+					{
+						"correct": "One hundred thousand kilometers",
+						"difficulty": "Medium",
+						"explanation": "It is a massive structure, dwarfing any individual Halo ring.",
+						"question": "How wide is the Ark across its longest point?",
+						"wrong": [
+							"One thousand kilometers",
+							"Ten thousand kilometers",
+							"One million kilometers"
+						]
+					},
+					{
+						"correct": "Isabel",
+						"difficulty": "Medium",
+						"explanation": "Isabel was the lone survivor of a Banished attack on a research outpost.",
+						"question": "Which UNSC AI was found abandoned on the Ark by the Spirit of Fire?",
+						"wrong": [
+							"Cortana",
+							"Serina",
+							"Roland"
+						]
+					},
+					{
+						"correct": "The Foundry",
+						"difficulty": "Hard",
+						"explanation": "The Foundry is the massive manufacturing facility at the Ark's center.",
+						"question": "What is the name of the central structure on the Ark that can trigger the rings?",
+						"wrong": [
+							"The Core",
+							"The Library",
+							"The Citadel"
+						]
+					},
+					{
+						"correct": "Two to the power of eighteen light years",
+						"difficulty": "Hard",
+						"explanation": "This specific distance is a recurring number in Forerunner lore.",
+						"question": "Exactly how far is the Ark from the center of the galaxy?",
+						"wrong": [
+							"One million light years",
+							"Five hundred light years",
+							"Ten light years"
+						]
+					},
+					{
+						"correct": "The Librarian",
+						"difficulty": "Hard",
+						"explanation": "The Librarian oversaw the Ark's completion to ensure life could be re-seeded.",
+						"question": "Which Forerunner was responsible for the construction of the Lesser Ark?",
+						"wrong": [
+							"The Didact",
+							"Guilty Spark",
+							"Mendicant Bias"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_the_ark",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Ark",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Forerunner",
+					"Installation",
+					"Battlefield"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Smart AI",
+						"difficulty": "Easy",
+						"explanation": "Serina is a second-generation Smart AI assigned to the Spirit of Fire.",
+						"question": "What type of entity is Serina?",
+						"wrong": [
+							"Robot",
+							"Human",
+							"Covenant program"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Like many UNSC AIs, she projects herself as a blue-tinted humanoid figure.",
+						"question": "What color is Serina's holographic avatar?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Orange"
+						]
+					},
+					{
+						"correct": "Spirit of Fire",
+						"difficulty": "Easy",
+						"explanation": "She was the primary AI for the Spirit of Fire during the Harvest campaign.",
+						"question": "Which ship did Serina serve on?",
+						"wrong": [
+							"Infinity",
+							"Forward Unto Dawn",
+							"In Amber Clad"
+						]
+					},
+					{
+						"correct": "Rampancy",
+						"difficulty": "Medium",
+						"explanation": "Smart AIs eventually 'think' themselves to death, a process known as rampancy.",
+						"question": "What is the condition that causes Smart AIs like Serina to lose stability after seven years?",
+						"wrong": [
+							"Corruption",
+							"Fragmentation",
+							"Decline"
+						]
+					},
+					{
+						"correct": "She reached the end of her operational life",
+						"difficulty": "Medium",
+						"explanation": "She followed protocol to terminate herself to avoid the dangers of rampancy while the crew was in cryosleep.",
+						"question": "Why did Serina shut herself down before the Spirit of Fire reached the Ark?",
+						"wrong": [
+							"She was hacked",
+							"She was bored",
+							"She ran out of power"
+						]
+					},
+					{
+						"correct": "Professor Anders",
+						"difficulty": "Medium",
+						"explanation": "Serina and Ellen Anders shared a witty, if sometimes tense, relationship.",
+						"question": "Which member of the crew did Serina frequently trade sarcastic remarks with?",
+						"wrong": [
+							"Captain Cutter",
+							"Sergeant Forge",
+							"Jerome"
+						]
+					},
+					{
+						"correct": "SNA 1292",
+						"difficulty": "Hard",
+						"explanation": "Her service number is SNA 1292-4.",
+						"question": "What was Serina's official service number?",
+						"wrong": [
+							"CTN 0452",
+							"ISA 1307",
+							"BB 001"
+						]
+					},
+					{
+						"correct": "Writing letters and optimizing ship systems",
+						"difficulty": "Hard",
+						"explanation": "She spent years alone maintaining the ship and leaving final messages for the Captain.",
+						"question": "How did Serina spend her final moments while the crew slept?",
+						"wrong": [
+							"Playing games",
+							"Scanning for Covenant",
+							"Sleeping"
+						]
+					},
+					{
+						"correct": "The math doesn't look good",
+						"difficulty": "Hard",
+						"explanation": "She was known for her dry, realistic assessment of their dire situation.",
+						"question": "What did Serina famously say about the chances of survival at the end of the first game?",
+						"wrong": [
+							"We are going to die",
+							"Everything is fine",
+							"Victory is ours"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_serina",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Serina",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"AI",
+					"UNSC",
+					"Support"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "John",
+						"difficulty": "Easy",
+						"explanation": "His full name is John Forge.",
+						"question": "What is Sergeant Forge's first name?",
+						"wrong": [
+							"James",
+							"Jacob",
+							"Jim"
+						]
+					},
+					{
+						"correct": "Grizzly",
+						"difficulty": "Easy",
+						"explanation": "Forge often uses a customized Grizzly battle tank in the field.",
+						"question": "Which tank is Forge most associated with?",
+						"wrong": [
+							"Scorpion",
+							"Wraith",
+							"Rhino"
+						]
+					},
+					{
+						"correct": "He sacrificed himself to detonate a reactor",
+						"difficulty": "Easy",
+						"explanation": "Forge stayed behind to manually detonate the Spirit of Fire's FTL drive.",
+						"question": "How did Sergeant Forge die?",
+						"wrong": [
+							"Shot by a Sniper",
+							"Blown up by a Wraith",
+							"Died in his sleep"
+						]
+					},
+					{
+						"correct": "The Arbiter",
+						"difficulty": "Medium",
+						"explanation": "Forge defeated Arbiter Ripa Moramee on the surface of the Shield World.",
+						"question": "Which Covenant leader did Forge kill in a duel?",
+						"wrong": [
+							"Atriox",
+							"Decimus",
+							"Tartarus"
+						]
+					},
+					{
+						"correct": "Striking superior officers",
+						"difficulty": "Medium",
+						"explanation": "Forge had a short temper and a low tolerance for incompetent officers.",
+						"question": "Why was Forge demoted multiple times throughout his career?",
+						"wrong": [
+							"Bad shooting",
+							"Stealing supplies",
+							"Sleeping on duty"
+						]
+					},
+					{
+						"correct": "Arcadia",
+						"difficulty": "Medium",
+						"explanation": "Forge was instrumental in evacuating civilians during the attack on Arcadia.",
+						"question": "On which planet did Forge play a major role in its defense?",
+						"wrong": [
+							"Reach",
+							"Earth",
+							"Sanghelios"
+						]
+					},
+					{
+						"correct": "Rion Forge",
+						"difficulty": "Hard",
+						"explanation": "Rion Forge eventually becomes a scavenger and searches for her lost father.",
+						"question": "What is the name of Forge's daughter?",
+						"wrong": [
+							"Miranda Forge",
+							"Kelly Forge",
+							"Sarah Forge"
+						]
+					},
+					{
+						"correct": "Valadez",
+						"difficulty": "Hard",
+						"explanation": "He punched Lieutenant Valadez for putting his men in unnecessary danger.",
+						"question": "What was the name of the officer Forge struck that led to his imprisonment?",
+						"wrong": [
+							"Cutter",
+							"Hood",
+							"Halsey"
+						]
+					},
+					{
+						"correct": "Earth",
+						"difficulty": "Hard",
+						"explanation": "He was born on Earth, specifically in the United Republic of North America.",
+						"question": "Where was John Forge born?",
+						"wrong": [
+							"Harvest",
+							"Reach",
+							"Eridanus Two"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_sergeant_forge",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Sergeant Forge",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Soldier",
+					"UNSC"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "Isabel is a logistics AI and projects herself in a bright orange hue.",
+						"question": "What color is Isabel's hologram?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "The Ark",
+						"difficulty": "Easy",
+						"explanation": "She was discovered in a research outpost on the Ark after the Banished attacked.",
+						"question": "Where was Isabel found by the crew of the Spirit of Fire?",
+						"wrong": [
+							"Harvest",
+							"Arcadia",
+							"The Halo Ring"
+						]
+					},
+					{
+						"correct": "Logistics and research",
+						"difficulty": "Easy",
+						"explanation": "She was designed to manage supplies and food for the Ark's research colony.",
+						"question": "What was Isabel's original role before the Banished arrived?",
+						"wrong": [
+							"Combat management",
+							"Ship pilot",
+							"Spartan handler"
+						]
+					},
+					{
+						"correct": "The Banished slaughtered everyone else",
+						"difficulty": "Medium",
+						"explanation": "Atriox and his forces wiped out the entire human presence on the Ark except for her.",
+						"question": "Why was Isabel the only survivor at the research outpost?",
+						"wrong": [
+							"She hid in a box",
+							"The others left her",
+							"The Ark malfunctioned"
+						]
+					},
+					{
+						"correct": "Spirit of Fire",
+						"difficulty": "Medium",
+						"explanation": "She replaced the vacancy left by Serina to help Cutter fight the Banished.",
+						"question": "Which UNSC ship does Isabel eventually move to?",
+						"wrong": [
+							"Infinity",
+							"Shadow of Intent",
+							"Pillar of Autumn"
+						]
+					},
+					{
+						"correct": "She upgraded their tech with local resources",
+						"difficulty": "Medium",
+						"explanation": "Using the Ark's blueprints, she significantly upgraded the Spirit of Fire's aging hardware.",
+						"question": "How did Isabel help the Spirit of Fire gain an advantage against the Banished?",
+						"wrong": [
+							"She built a new ship",
+							"She called for backup",
+							"She hacked Atriox"
+						]
+					},
+					{
+						"correct": "ISA 1307",
+						"difficulty": "Hard",
+						"explanation": "Her full designation is ISA 1307-2.",
+						"question": "What is Isabel's service number?",
+						"wrong": [
+							"SNA 1292",
+							"CTN 0452",
+							"BB 11"
+						]
+					},
+					{
+						"correct": "Forty",
+						"difficulty": "Hard",
+						"explanation": "She was devastated by her inability to save the forty researchers under her care.",
+						"question": "How many scientists was Isabel responsible for before the Banished arrived?",
+						"wrong": [
+							"Ten",
+							"One hundred",
+							"Five"
+						]
+					},
+					{
+						"correct": "Fear of Atriox",
+						"difficulty": "Hard",
+						"explanation": "She was deeply traumatized by Atriox's brutality and initially wanted to hide rather than fight.",
+						"question": "What specific fear did Isabel have to overcome to help the UNSC?",
+						"wrong": [
+							"Fear of heights",
+							"Fear of space",
+							"Fear of the Flood"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_isabel",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Isabel",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"AI",
+					"UNSC",
+					"Support"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Colony ship",
+						"difficulty": "Easy",
+						"explanation": "It was originally a colony vessel designed for terraforming and transport.",
+						"question": "What was the Spirit of Fire's original purpose before the war?",
+						"wrong": [
+							"Warship",
+							"Prison ship",
+							"Mining vessel"
+						]
+					},
+					{
+						"correct": "CFV 88",
+						"difficulty": "Easy",
+						"explanation": "The CFV designation stands for Core Foundation Vessel.",
+						"question": "What is the ship's hull classification code?",
+						"wrong": [
+							"UNSC 117",
+							"MAC 01",
+							"HALO 04"
+						]
+					},
+					{
+						"correct": "It was used as a bomb to blow up a sun",
+						"difficulty": "Easy",
+						"explanation": "The drive was sacrificed to destroy the Forerunner Shield World's sun.",
+						"question": "What happened to the ship's slipspace drive?",
+						"wrong": [
+							"It broke down",
+							"It was stolen",
+							"It ran out of fuel"
+						]
+					},
+					{
+						"correct": "Twenty eight years",
+						"difficulty": "Medium",
+						"explanation": "The UNSC eventually gave up searching for the ship after it vanished in 2531.",
+						"question": "How long was the ship declared Missing in Action?",
+						"wrong": [
+							"Five years",
+							"Ten years",
+							"One hundred years"
+						]
+					},
+					{
+						"correct": "Halicarnassus",
+						"difficulty": "Medium",
+						"explanation": "It was constructed at the Halicarnassus Shipyards in 2473.",
+						"question": "Which shipyard was the Spirit of Fire built in?",
+						"wrong": [
+							"Reach",
+							"Mars",
+							"Tribute"
+						]
+					},
+					{
+						"correct": "MAC Blast",
+						"difficulty": "Medium",
+						"explanation": "The Magnetic Accelerator Cannon is the ship's primary method of support.",
+						"question": "What is the primary ground weapon used for orbital support from the ship?",
+						"wrong": [
+							"Nuke",
+							"Laser beam",
+							"Gravity well"
+						]
+					},
+					{
+						"correct": "Eleven thousand",
+						"difficulty": "Hard",
+						"explanation": "The ship contains roughly 11,000 pods to accommodate its massive crew and troop capacity.",
+						"question": "How many cryo pods are located on the Spirit of Fire?",
+						"wrong": [
+							"One hundred",
+							"One thousand",
+							"Fifty thousand"
+						]
+					},
+					{
+						"correct": "Two point five kilometers",
+						"difficulty": "Hard",
+						"explanation": "It measures exactly 2,500 meters from bow to stern.",
+						"question": "What is the ship's total length?",
+						"wrong": [
+							"Five kilometers",
+							"One kilometer",
+							"Ten kilometers"
+						]
+					},
+					{
+						"correct": "Verent",
+						"difficulty": "Hard",
+						"explanation": "Its initial mission was to provide hardware and transport for the colony of Verent.",
+						"question": "Which colony was the ship specifically designed to support before its conversion?",
+						"wrong": [
+							"Harvest",
+							"Reach",
+							"Arcadia"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_spirit_of_fire",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Spirit of Fire",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ship",
+					"UNSC",
+					"Base"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ellen",
+						"difficulty": "Easy",
+						"explanation": "Her full name is Professor Ellen Anders.",
+						"question": "What is Professor Anders' first name?",
+						"wrong": [
+							"Catherine",
+							"Sarah",
+							"Miranda"
+						]
+					},
+					{
+						"correct": "Forerunner technology",
+						"difficulty": "Easy",
+						"explanation": "Anders is an expert in xenobiology and ancient Forerunner artifacts.",
+						"question": "What is her primary field of study?",
+						"wrong": [
+							"Alien cooking",
+							"Weapon design",
+							"Space piloting"
+						]
+					},
+					{
+						"correct": "The Arbiter",
+						"difficulty": "Easy",
+						"explanation": "Arbiter Ripa Moramee kidnapped her to use her as a Reclaimer to activate Forerunner ships.",
+						"question": "Who kidnapped Professor Anders in the first Halo Wars?",
+						"wrong": [
+							"Atriox",
+							"Decimus",
+							"The Prophet of Truth"
+						]
+					},
+					{
+						"correct": "Rish University",
+						"difficulty": "Medium",
+						"explanation": "She was a brilliant professor at Rish University on the planet Arcadia.",
+						"question": "Where did Ellen Anders teach before joining the UNSC?",
+						"wrong": [
+							"Oxford",
+							"Harvard",
+							"Reach Academy"
+						]
+					},
+					{
+						"correct": "Dr. Catherine Halsey",
+						"difficulty": "Medium",
+						"explanation": "Dr. Halsey identified Anders as a fellow genius and a possible Reclaimer.",
+						"question": "Who was the mentor that discovered Anders' potential?",
+						"wrong": [
+							"Captain Cutter",
+							"Sergeant Forge",
+							"Lord Hood"
+						]
+					},
+					{
+						"correct": "She used a Forerunner transporter",
+						"difficulty": "Medium",
+						"explanation": "She used a localized teleportation system to get back to the Spirit of Fire.",
+						"question": "What did Anders do to escape the Shield World's sun?",
+						"wrong": [
+							"She flew a Pelican",
+							"She swam",
+							"She hid in a tank"
+						]
+					},
+					{
+						"correct": "Eighteen",
+						"difficulty": "Hard",
+						"explanation": "She was a child prodigy who earned her doctorate at a very young age.",
+						"question": "How old was Ellen Anders when she earned her PhD?",
+						"wrong": [
+							"Twenty five",
+							"Thirty",
+							"Twenty one"
+						]
+					},
+					{
+						"correct": "Theoretical Macro Biology",
+						"difficulty": "Hard",
+						"explanation": "Her thesis focused on large-scale biological structures, which eventually led her to study Forerunners.",
+						"question": "What was the specific title of her doctoral thesis?",
+						"wrong": [
+							"Forerunner Math",
+							"Alien Languages",
+							"Plasma Physics"
+						]
+					},
+					{
+						"correct": "She was pulled out of slipspace by a Guardian",
+						"difficulty": "Hard",
+						"explanation": "While traveling on a newly created Halo ring, she was intercepted by a Guardian.",
+						"question": "What happened to Anders at the end of Halo Wars 2?",
+						"wrong": [
+							"She died",
+							"She reached Earth",
+							"She stayed on the Ark"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_professor_anders",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Professor Anders",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Scientist",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Infection forms",
+						"difficulty": "Easy",
+						"explanation": "The Flood uses small, popcorn-like infection forms to hijack sentient bodies.",
+						"question": "What is the primary way the Flood spreads?",
+						"wrong": [
+							"Magic",
+							"Radio waves",
+							"Robots"
+						]
+					},
+					{
+						"correct": "Shield World 0459",
+						"difficulty": "Easy",
+						"explanation": "The Spirit of Fire discovered a major Flood infestation inside the Forerunner Shield World.",
+						"question": "Where was the Flood encountered in the first Halo Wars?",
+						"wrong": [
+							"Harvest",
+							"Arcadia",
+							"Earth"
+						]
+					},
+					{
+						"correct": "Gravemind",
+						"difficulty": "Easy",
+						"explanation": "The Gravemind is the collective consciousness that directs the parasite once it has enough mass.",
+						"question": "What is the name of the central intelligence that leads the Flood?",
+						"wrong": [
+							"The Prophet",
+							"The Overlord",
+							"The Hive"
+						]
+					},
+					{
+						"correct": "The consumption of all sentient life",
+						"difficulty": "Medium",
+						"explanation": "The Flood aims to bring 'peace' to the galaxy by merging all life into a single consciousness.",
+						"question": "What do the Flood actually want to achieve?",
+						"wrong": [
+							"World peace",
+							"Building ships",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Warm and humid",
+						"difficulty": "Medium",
+						"explanation": "The Flood thrives in swampy, moist, and high-temperature environments.",
+						"question": "What kind of environment do the Flood prefer to grow in?",
+						"wrong": [
+							"Cold and icy",
+							"Space vacuum",
+							"Dry desert"
+						]
+					},
+					{
+						"correct": "Halo Rings",
+						"difficulty": "Medium",
+						"explanation": "Halo rings were both weapons and laboratories for Flood research.",
+						"question": "Which Forerunner structure was built specifically to study and contain the Flood?",
+						"wrong": [
+							"Shield Worlds",
+							"Citadels",
+							"Foundries"
+						]
+					},
+					{
+						"correct": "The Precursors",
+						"difficulty": "Hard",
+						"explanation": "The Flood originated from the dust of the Precursors, who were the masters of the galaxy before the Forerunners.",
+						"question": "What are the Flood actually the corrupted remnants of?",
+						"wrong": [
+							"Ancient Humans",
+							"Forerunners",
+							"A virus"
+						]
+					},
+					{
+						"correct": "Feral Stage",
+						"difficulty": "Hard",
+						"explanation": "In the Feral Stage, the Flood act as individual predators without a central intelligence.",
+						"question": "What is the first stage of a Flood outbreak called?",
+						"wrong": [
+							"Coordinated Stage",
+							"Interstellar Stage",
+							"Infection Stage"
+						]
+					},
+					{
+						"correct": "Piercing the neck seal with calcium spikes",
+						"difficulty": "Hard",
+						"explanation": "They use specialized, hardened appendages to find the weakest points in armor seals.",
+						"question": "How do the Flood infection forms bypass MJOLNIR Spartan armor?",
+						"wrong": [
+							"Melting the metal",
+							"Hacking the AI",
+							"Squeezing through cracks"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_the_flood",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Flood",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Enemy",
+					"Parasite",
+					"Hostile"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "General",
+						"difficulty": "Easy",
+						"explanation": "Decimus serves as Atriox's second-in-command and top general.",
+						"question": "What rank does Decimus hold in the Banished?",
+						"wrong": [
+							"Grunt",
+							"King",
+							"Captain"
+						]
+					},
+					{
+						"correct": "Brute",
+						"difficulty": "Easy",
+						"explanation": "He is a high-ranking member of the Jiralhanae.",
+						"question": "What race is Decimus?",
+						"wrong": [
+							"Elite",
+							"Human",
+							"Hunter"
+						]
+					},
+					{
+						"correct": "A massive mech suit",
+						"difficulty": "Easy",
+						"explanation": "Decimus fights inside a heavily armored, powered exoskeleton.",
+						"question": "What does Decimus use to enhance his combat abilities?",
+						"wrong": [
+							"Magic",
+							"A jetpack",
+							"A sniper rifle"
+						]
+					},
+					{
+						"correct": "He was the first to witness Atriox defy the Covenant",
+						"difficulty": "Medium",
+						"explanation": "Decimus was there when Atriox killed his executioner and was inspired by his strength.",
+						"question": "Why did Decimus follow Atriox into rebellion?",
+						"wrong": [
+							"He was forced",
+							"He was paid",
+							"He hated Atriox"
+						]
+					},
+					{
+						"correct": "Siphon beam",
+						"difficulty": "Medium",
+						"explanation": "He uses a siphon ability to drain health and energy from his enemies.",
+						"question": "What unique power does Decimus use during his boss fight?",
+						"wrong": [
+							"Teleportation",
+							"Invisibility",
+							"Mind control"
+						]
+					},
+					{
+						"correct": "He was killed in battle",
+						"difficulty": "Medium",
+						"explanation": "Cutter's forces eventually cornered and killed Decimus on the Ark.",
+						"question": "What happened to Decimus at the end of his encounter with the UNSC?",
+						"wrong": [
+							"He escaped",
+							"He joined the UNSC",
+							"He became the leader"
+						]
+					},
+					{
+						"correct": "Enforcer and tactician",
+						"difficulty": "Hard",
+						"explanation": "Decimus was responsible for the day-to-day enforcement of Atriox's will.",
+						"question": "What was Decimus' primary role within the Banished organization?",
+						"wrong": [
+							"Cook",
+							"Pilot",
+							"Diplomat"
+						]
+					},
+					{
+						"correct": "Ravaged Tusks",
+						"difficulty": "Hard",
+						"explanation": "Like Atriox, he was part of the Ravaged Tusks clan within the Covenant.",
+						"question": "Which specific Brute clan did Decimus belong to before the Banished?",
+						"wrong": [
+							"Warial",
+							"Vheissu",
+							"Olyndicus"
+						]
+					},
+					{
+						"correct": "Boundless Fury",
+						"difficulty": "Hard",
+						"explanation": "Decimus' signature leader power is the devastating Boundless Fury strike.",
+						"question": "What is the name of the orbital strike Decimus can call down?",
+						"wrong": [
+							"Glassing Beam",
+							"Mac Strike",
+							"Hammer Fall"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_decimus",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Decimus",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Brute",
+					"Banished"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Arbiter",
+						"difficulty": "Easy",
+						"explanation": "Ripa Moramee was appointed as the Arbiter to lead the Covenant's search for Forerunner technology.",
+						"question": "What is the specific title held by Ripa Moramee?",
+						"wrong": [
+							"Shipmaster",
+							"Councilor",
+							"High Priest"
+						]
+					},
+					{
+						"correct": "Sergeant Forge",
+						"difficulty": "Easy",
+						"explanation": "Sergeant Forge defeated the Arbiter at the apex of the Shield World using a combat knife.",
+						"question": "Which human soldier eventually killed Ripa Moramee in single combat?",
+						"wrong": [
+							"Captain Cutter",
+							"Spartan Jerome",
+							"Professor Anders"
+						]
+					},
+					{
+						"correct": "Energy Swords",
+						"difficulty": "Easy",
+						"explanation": "The Arbiter is iconic for using two energy swords simultaneously to butcher his foes.",
+						"question": "What dual-wielded weapons does Ripa Moramee use in battle?",
+						"wrong": [
+							"Gravity Hammers",
+							"Plasma Rifles",
+							"Needlers"
+						]
+					},
+					{
+						"correct": "His extreme aggression",
+						"difficulty": "Medium",
+						"explanation": "The Prophet of Regret needed a ruthless enforcer who would do anything to achieve victory.",
+						"question": "Why was Ripa Moramee chosen to be the Arbiter despite his criminal past?",
+						"wrong": [
+							"His tactical genius",
+							"His religious devotion",
+							"His loyalty to the Elites"
+						]
+					},
+					{
+						"correct": "A Forerunner fleet",
+						"difficulty": "Medium",
+						"explanation": "The Covenant wanted to reactivate a massive fleet of dormant Forerunner dreadnoughts.",
+						"question": "What was the Arbiter searching for on the Shield World?",
+						"wrong": [
+							"The Halo rings",
+							"The Ark",
+							"The Composer"
+						]
+					},
+					{
+						"correct": "Red Team",
+						"difficulty": "Medium",
+						"explanation": "Red Team, led by Jerome, were the primary Spartan obstacles for the Arbiter's forces.",
+						"question": "Which Spartan team did Ripa Moramee frequently clash with?",
+						"wrong": [
+							"Blue Team",
+							"Noble Team",
+							"Osiris Team"
+						]
+					},
+					{
+						"correct": "The Weeping Quills",
+						"difficulty": "Hard",
+						"explanation": "He was being held for insubordination and failed coups before being pardoned for service.",
+						"question": "Which prison was Ripa Moramee liberated from by the Prophet of Regret?",
+						"wrong": [
+							"High Charity Dungeon",
+							"The Midnight Facility",
+							"Bastion"
+						]
+					},
+					{
+						"correct": "Filth",
+						"difficulty": "Hard",
+						"explanation": "He viewed humans as nothing more than an unclean obstacle to the Great Journey.",
+						"question": "What insult did Ripa Moramee frequently use to describe the Human race?",
+						"wrong": [
+							"Vermin",
+							"Monkeys",
+							"Heresy"
+						]
+					},
+					{
+						"correct": "Military Commander",
+						"difficulty": "Hard",
+						"explanation": "He was a high-ranking commander who led several successful campaigns before his internal rebellion.",
+						"question": "What was the Arbiter's primary role before his failure and subsequent imprisonment?",
+						"wrong": [
+							"Temple Guard",
+							"Politician",
+							"Pilot"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_ripa_moramee",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Ripa Moramee",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Sangheili",
+					"Commander"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Red Team",
+						"difficulty": "Easy",
+						"explanation": "Jerome is the commanding officer of the legendary Red Team aboard the Spirit of Fire.",
+						"question": "What is the name of the Spartan team led by Jerome?",
+						"wrong": [
+							"Blue Team",
+							"Gold Team",
+							"Green Team"
+						]
+					},
+					{
+						"correct": "Isabel",
+						"difficulty": "Easy",
+						"explanation": "Isabel joined Jerome and the crew after they found her on a ruined UNSC research outpost.",
+						"question": "Which AI helps Jerome during the conflict on the Ark?",
+						"wrong": [
+							"Cortana",
+							"Serina",
+							"Roland"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Like most Spartan IIs, Jerome wears a variant of green Mjolnir power armor.",
+						"question": "What is the primary color of Jerome's Spartan armor?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Spartan II",
+						"difficulty": "Medium",
+						"explanation": "Jerome was kidnapped as a child and trained alongside Master Chief.",
+						"question": "Which Spartan generation does Jerome belong to?",
+						"wrong": [
+							"Spartan I",
+							"Spartan III",
+							"Spartan IV"
+						]
+					},
+					{
+						"correct": "Cryosleep",
+						"difficulty": "Medium",
+						"explanation": "The Spirit of Fire drifted in space for nearly three decades while the crew slept.",
+						"question": "What was the status of Jerome and his team for 28 years?",
+						"wrong": [
+							"Missing in Action",
+							"Presumed Dead",
+							"In Hiding"
+						]
+					},
+					{
+						"correct": "Atriox",
+						"difficulty": "Medium",
+						"explanation": "Jerome and Red Team were soundly defeated by Atriox in their first encounter on the Ark.",
+						"question": "Which Banished leader did Jerome face in the opening of Halo Wars 2?",
+						"wrong": [
+							"Decimus",
+							"Voridus",
+							"Pavium"
+						]
+					},
+					{
+						"correct": "Cable",
+						"difficulty": "Hard",
+						"explanation": "His full name is Jerome Cable, though he is almost exclusively referred to by his rank and number.",
+						"question": "What is Spartan Jerome's last name?",
+						"wrong": [
+							"Smith",
+							"Halsey",
+							"117"
+						]
+					},
+					{
+						"correct": "Minister",
+						"difficulty": "Hard",
+						"explanation": "He was born on the colony of Minister before being identified for the Spartan program.",
+						"question": "Where was Jerome born?",
+						"wrong": [
+							"Reach",
+							"Earth",
+							"Harvest"
+						],
+						"year": "Which colony world was Jerome born on?"
+					},
+					{
+						"correct": "Genetic rejection",
+						"difficulty": "Hard",
+						"explanation": "His body initially rejected the augmentations, and he had to undergo intensive recovery to remain active.",
+						"question": "Why was Jerome nearly washed out of the Spartan program during augmentation?",
+						"wrong": [
+							"Poor performance",
+							"Psychological trauma",
+							"Injury"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_spartan_jerome",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Spartan Jerome",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Spartan",
+					"Commander"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gravity Throne",
+						"difficulty": "Easy",
+						"explanation": "The High Prophets use ornate gravity thrones for both transportation and defense.",
+						"question": "What kind of vehicle does the Prophet of Regret use for movement?",
+						"wrong": [
+							"Ghost",
+							"Banshee",
+							"Command Walker"
+						]
+					},
+					{
+						"correct": "The Covenant",
+						"difficulty": "Easy",
+						"explanation": "He is one of the three Hierarchs who rule the Covenant Empire.",
+						"question": "Which faction does the Prophet of Regret lead?",
+						"wrong": [
+							"The Banished",
+							"The UNSC",
+							"The Flood"
+						]
+					},
+					{
+						"correct": "Halo Wars",
+						"difficulty": "Easy",
+						"explanation": "While he is a major villain in Halo 2, his story begins earlier in the timeline of Halo Wars.",
+						"question": "In which game does the Prophet of Regret make his chronological first appearance?",
+						"wrong": [
+							"Halo Reach",
+							"Halo 2",
+							"Halo 3"
+						]
+					},
+					{
+						"correct": "Activating Forerunner ships",
+						"difficulty": "Medium",
+						"explanation": "He sought to use a massive fleet of Forerunner ships to end the war against humanity instantly.",
+						"question": "What was Regret's primary goal on the Shield World?",
+						"wrong": [
+							"Firing the Halo ring",
+							"Finding the Ark",
+							"Destroying Earth"
+						]
+					},
+					{
+						"correct": "The Arbiter",
+						"difficulty": "Medium",
+						"explanation": "Regret appointed Ripa Moramee as the Arbiter to handle the dirty work of his excavations.",
+						"question": "Who was the Prophet's hand-picked enforcer in Halo Wars?",
+						"wrong": [
+							"Tartarus",
+							"The Shipmaster",
+							"Decimus"
+						]
+					},
+					{
+						"correct": "High Charity",
+						"difficulty": "Medium",
+						"explanation": "He returned to the Covenant capital city to report his findings and regroup.",
+						"question": "Where did Regret flee to after the destruction of the Shield World?",
+						"wrong": [
+							"Delta Halo",
+							"Genesis",
+							"Sanghelios"
+						]
+					},
+					{
+						"correct": "Hod Rumnt",
+						"difficulty": "Hard",
+						"explanation": "Before becoming a High Prophet, he was a younger San'Shyuum known as Hod Rumnt.",
+						"question": "What was the Prophet of Regret's original name?",
+						"wrong": [
+							"Sesa Refumee",
+							"Ord Casto",
+							"Lod Manda"
+						]
+					},
+					{
+						"correct": "Prophet of Truth",
+						"difficulty": "Hard",
+						"explanation": "While they worked together, Truth often manipulated the more impulsive Regret.",
+						"question": "Which other High Prophet was Regret's closest political rival?",
+						"wrong": [
+							"Prophet of Mercy",
+							"Prophet of Sorrow",
+							"Prophet of Pity"
+						]
+					},
+					{
+						"correct": "Location of Harvest",
+						"difficulty": "Hard",
+						"explanation": "Regret's probes found Harvest, leading the Covenant to discover humans and their status as Reclaimers.",
+						"question": "What accidental discovery by Regret led to the start of the Human Covenant War?",
+						"wrong": [
+							"Location of Reach",
+							"The Ark Map",
+							"The Oracle"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_prophet_of_regret",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Prophet of Regret",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"San'Shyuum",
+					"Leader"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Shield World",
+						"difficulty": "Easy",
+						"explanation": "It is a massive Forerunner artificial planet designed to protect life from the Halo pulses.",
+						"question": "What is the common name for the Etran Harborage?",
+						"wrong": [
+							"Halo Ring",
+							"The Ark",
+							"High Charity"
+						]
+					},
+					{
+						"correct": "A miniature sun",
+						"difficulty": "Easy",
+						"explanation": "The interior of the Shield World is illuminated by a small star.",
+						"question": "What is located at the center of the Etran Harborage?",
+						"wrong": [
+							"A black hole",
+							"A Halo ring",
+							"The Librarian"
+						]
+					},
+					{
+						"correct": "Forerunners",
+						"difficulty": "Easy",
+						"explanation": "It is an ancient megastructure left behind by the Forerunner empire.",
+						"question": "Who originally built this massive structure?",
+						"wrong": [
+							"The Covenant",
+							"The Banished",
+							"Ancient Humans"
+						]
+					},
+					{
+						"correct": "Supernova via FTL drive",
+						"difficulty": "Medium",
+						"explanation": "They used the ship's Shaw Fujikawa drive to turn the internal sun into a supernova.",
+						"question": "How did the Spirit of Fire crew destroy the Shield World?",
+						"wrong": [
+							"Nuclear missiles",
+							"Crashing the ship",
+							"Orbital bombardment"
+						]
+					},
+					{
+						"correct": "The Flood",
+						"difficulty": "Medium",
+						"explanation": "The Flood had infested the interior of the world, leading to a three-way battle.",
+						"question": "What parasitic threat was found living inside the Shield World?",
+						"wrong": [
+							"The Banished",
+							"The Sentinels",
+							"The Prometheans"
+						]
+					},
+					{
+						"correct": "A dormant fleet",
+						"difficulty": "Medium",
+						"explanation": "The world contained a vast graveyard of Forerunner ships the Covenant wanted to pilot.",
+						"question": "What was the Covenant's main interest in this location?",
+						"wrong": [
+							"The Halo control room",
+							"Forerunner armor",
+							"The Didact"
+						]
+					},
+					{
+						"correct": "Shield World zero four five nine",
+						"difficulty": "Hard",
+						"explanation": "The Forerunners numbered their Shield Worlds; this one was designated 0459.",
+						"question": "What is the official Forerunner designation number for the Etran Harborage?",
+						"wrong": [
+							"Shield World zero zero one",
+							"Installation zero four",
+							"Requiem"
+						]
+					},
+					{
+						"correct": "Ripa Moramee",
+						"difficulty": "Hard",
+						"explanation": "The Arbiter led the initial Covenant expedition into the planet's hollow interior.",
+						"question": "Who was the first person to enter the interior of the Shield World?",
+						"wrong": [
+							"John 117",
+							"Sergeant Forge",
+							"Professor Anders"
+						]
+					},
+					{
+						"correct": "Commanding the fleet",
+						"difficulty": "Hard",
+						"explanation": "The Apex was the central control platform for the Sojourn-class dreadnoughts.",
+						"question": "What was the purpose of the Apex site within the Shield World?",
+						"wrong": [
+							"Scientific research",
+							"Housing the Flood",
+							"Firing Halos"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_etran_harborage",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Etran Harborage",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Forerunner",
+					"Shield World"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Shipmaster",
+						"difficulty": "Easy",
+						"explanation": "He is the captain of the Banished flagship and carries the title of Shipmaster.",
+						"question": "What is Let Volir's primary rank and title?",
+						"wrong": [
+							"Arbiter",
+							"Warlord",
+							"General"
+						]
+					},
+					{
+						"correct": "The Banished",
+						"difficulty": "Easy",
+						"explanation": "He was the first Elite to pledge his service and ship to Atriox.",
+						"question": "Which faction does Let Volir serve?",
+						"wrong": [
+							"The Covenant",
+							"The Swords of Sanghelios",
+							"The UNSC"
+						]
+					},
+					{
+						"correct": "Enduring Conviction",
+						"difficulty": "Easy",
+						"explanation": "The Enduring Conviction is a CAS-class assault carrier that serves as the Banished base on the Ark.",
+						"question": "What is the name of Let Volir's massive flagship?",
+						"wrong": [
+							"Shadow of Intent",
+							"Spirit of Fire",
+							"Long Night of Solace"
+						]
+					},
+					{
+						"correct": "To keep his crew alive",
+						"difficulty": "Medium",
+						"explanation": "After the Covenant's collapse, he chose mercenary life to provide for his loyal soldiers.",
+						"question": "Why did Let Volir decide to join Atriox and the Banished?",
+						"wrong": [
+							"Religious belief",
+							"Hatred of humans",
+							"A desire for power"
+						]
+					},
+					{
+						"correct": "Sangheili",
+						"difficulty": "Medium",
+						"explanation": "He is a member of the Elite species, often clashing culturally with the Brutes.",
+						"question": "What species is Let Volir?",
+						"wrong": [
+							"Jiralhanae",
+							"Unggoy",
+							"Kig-Yar"
+						]
+					},
+					{
+						"correct": "Fuel and supplies",
+						"difficulty": "Medium",
+						"explanation": "Atriox offered the logistical support needed to keep Let Volir's massive ship operational.",
+						"question": "What did Atriox promise Let Volir in exchange for his service?",
+						"wrong": [
+							"A Halo ring",
+							"Revenge on the Arbiter",
+							"Humanity's destruction"
+						]
+					},
+					{
+						"correct": "Fleet Master",
+						"difficulty": "Hard",
+						"explanation": "He was a high-ranking officer who commanded an entire fleet before the Great Schism.",
+						"question": "What was Let Volir's rank within the Covenant before its fall?",
+						"wrong": [
+							"Minor Elite",
+							"Zealot",
+							"Councilor"
+						]
+					},
+					{
+						"correct": "Over three thousand",
+						"difficulty": "Hard",
+						"explanation": "He brought a massive contingent of veteran warriors with him to the Banished.",
+						"question": "How many Sangheili were under Let Volir's command when he joined the Banished?",
+						"wrong": [
+							"Five hundred",
+							"Ten thousand",
+							"Fifty"
+						]
+					},
+					{
+						"correct": "Destroyed by Sentinels",
+						"difficulty": "Hard",
+						"explanation": "Isabel manipulated the Ark's defense systems to make Sentinels slice the ship in half.",
+						"question": "What happened to Let Volir's ship, the Enduring Conviction?",
+						"wrong": [
+							"Crashed into the Ark",
+							"Blown up by Jerome",
+							"Boarded and captured"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_let_volir",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Let Volir",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Sangheili",
+					"Banished"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Lekgolo",
+						"difficulty": "Easy",
+						"explanation": "Colony is a collective of orange worms known as Lekgolo.",
+						"question": "What species is the Banished commander known as Colony?",
+						"wrong": [
+							"Sangheili",
+							"Jiralhanae",
+							"Yanme'e"
+						]
+					},
+					{
+						"correct": "Hunter",
+						"difficulty": "Easy",
+						"explanation": "Colony uses a pair of modified Mgalekgolo or Hunter armor suits.",
+						"question": "What armor shape does Colony typically inhabit?",
+						"wrong": [
+							"Scarab",
+							"Elite",
+							"Spartan"
+						]
+					},
+					{
+						"correct": "The Banished",
+						"difficulty": "Easy",
+						"explanation": "Colony is one of the specialized high-ranking commanders in Atriox's army.",
+						"question": "Which faction does Colony lead units for?",
+						"wrong": [
+							"The Covenant",
+							"The Flood",
+							"UNSC"
+						]
+					},
+					{
+						"correct": "Speaks through subtitles only",
+						"difficulty": "Medium",
+						"explanation": "Colony rarely speaks vocally, communicating through digital signals or simple gestures.",
+						"question": "What is unique about Colony's communication style?",
+						"wrong": [
+							"Roars loudly",
+							"Telepathy",
+							"Speaks perfect English"
+						]
+					},
+					{
+						"correct": "Investigating Forerunner structures",
+						"difficulty": "Medium",
+						"explanation": "Colony is deeply interested in the Forerunner technology and the Ark's unique ecosystem.",
+						"question": "What is Colony's primary objective on the Ark?",
+						"wrong": [
+							"Killing humans",
+							"Finding Atriox",
+							"Starting the Flood"
+						]
+					},
+					{
+						"correct": "Two bond brothers",
+						"difficulty": "Medium",
+						"explanation": "Colony consists of two massive Hunter forms that act as a single intelligence.",
+						"question": "How many main entities make up the commander known as Colony?",
+						"wrong": [
+							"One single worm",
+							"A whole army",
+							"Three leaders"
+						]
+					},
+					{
+						"correct": "Living Warps",
+						"difficulty": "Hard",
+						"explanation": "These are Lekgolo swarms that can repair vehicles or attack enemies directly.",
+						"question": "What is the name of the specialized unit Colony can deploy?",
+						"wrong": [
+							"Plasma Wraiths",
+							"Super Scarabs",
+							"Worm Tanks"
+						]
+					},
+					{
+						"correct": "The Bond Brothers",
+						"difficulty": "Hard",
+						"explanation": "They represent the highest level of Lekgolo coordination within the Banished.",
+						"question": "What is the name of Colony's personal pair of Hunter captains?",
+						"wrong": [
+							"The Twin Souls",
+							"The Red Guards",
+							"The Ark Guardians"
+						]
+					},
+					{
+						"correct": "They are a massive swarm of worms",
+						"difficulty": "Hard",
+						"explanation": "As Lekgolo, they are not a single person but a colony of thousands of individual organisms.",
+						"question": "Why is this character named Colony?",
+						"wrong": [
+							"They lead a space colony",
+							"They were born on a colony",
+							"It is a code name"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_colony",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Colony",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Lekgolo",
+					"Commander"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Red Team",
+						"difficulty": "Easy",
+						"explanation": "Alice is a core member of Red Team alongside Jerome and Douglas.",
+						"question": "Which team does Spartan Alice belong to?",
+						"wrong": [
+							"Blue Team",
+							"Noble Team",
+							"Osiris Team"
+						]
+					},
+					{
+						"correct": "Heavy Weapons Specialist",
+						"difficulty": "Easy",
+						"explanation": "Alice is known for her proficiency with heavy ordinance and machine guns.",
+						"question": "What is Alice's primary role on her team?",
+						"wrong": [
+							"Medic",
+							"Pilot",
+							"Sniper"
+						]
+					},
+					{
+						"correct": "Spirit of Fire",
+						"difficulty": "Easy",
+						"explanation": "She has been part of the Spirit of Fire's crew since the beginning of the war.",
+						"question": "Which ship is Alice stationed on?",
+						"wrong": [
+							"Pillar of Autumn",
+							"Infinity",
+							"Forward Unto Dawn"
+						]
+					},
+					{
+						"correct": "Guerrilla warfare",
+						"difficulty": "Medium",
+						"explanation": "She spent weeks alone harassing Banished forces and freeing prisoners.",
+						"question": "What did Alice do after being separated from her team on the Ark?",
+						"wrong": [
+							"Surrendered",
+							"Hide in a cave",
+							"Stole a Banshee"
+						]
+					},
+					{
+						"correct": "UNSC personnel",
+						"difficulty": "Medium",
+						"explanation": "Alice led a successful breakout to recover captured UNSC troops for the resistance.",
+						"question": "Who did Alice rescue from a Banished labor camp?",
+						"wrong": [
+							"Professor Anders",
+							"Captain Cutter",
+							"Atriox"
+						]
+					},
+					{
+						"correct": "Spartan II",
+						"difficulty": "Medium",
+						"explanation": "Like Jerome and Douglas, she was part of the original Spartan II program.",
+						"question": "What generation of Spartan is Alice?",
+						"wrong": [
+							"Spartan I",
+							"Spartan III",
+							"Spartan IV"
+						]
+					},
+					{
+						"correct": "Valenti",
+						"difficulty": "Hard",
+						"explanation": "Her full name is Alice Valenti, designated Alice 130.",
+						"question": "What is Spartan Alice's last name?",
+						"wrong": [
+							"Smith",
+							"Cable",
+							"Slovakia"
+						]
+					},
+					{
+						"correct": "Missing in Action",
+						"difficulty": "Hard",
+						"explanation": "Since the Spirit of Fire was lost, she and her team were officially listed as MIA for decades.",
+						"question": "What was Alice's status during the Fall of Reach?",
+						"wrong": [
+							"Confirmed Dead",
+							"On Earth",
+							"In Combat"
+						]
+					},
+					{
+						"correct": "Reach",
+						"difficulty": "Hard",
+						"explanation": "She underwent the brutal Spartan II training on the planet Reach.",
+						"question": "Which specific Spartan program facility was Alice trained at?",
+						"wrong": [
+							"Tribute",
+							"Earth",
+							"Mars"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_spartan_alice",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Spartan Alice",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Spartan",
+					"Red Team"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Spartan Jerome",
+						"difficulty": "Easy",
+						"explanation": "Douglas serves under Jerome's leadership in Red Team.",
+						"question": "Who is the leader of the team Douglas belongs to?",
+						"wrong": [
+							"Master Chief",
+							"Captain Cutter",
+							"Spartan Alice"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "He wears the standard green Mjolnir armor of the Red Team Spartans.",
+						"question": "What color is Douglas's armor?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Tan"
+						]
+					},
+					{
+						"correct": "Halo Wars",
+						"difficulty": "Easy",
+						"explanation": "Douglas was introduced as a main character in the first Halo Wars.",
+						"question": "In which game does Douglas first appear?",
+						"wrong": [
+							"Halo 2",
+							"Halo 3",
+							"Halo Reach"
+						]
+					},
+					{
+						"correct": "Atriox",
+						"difficulty": "Medium",
+						"explanation": "Atriox crushed Douglas's shoulder during their first brutal encounter.",
+						"question": "Which Banished leader seriously injured Douglas on the Ark?",
+						"wrong": [
+							"Decimus",
+							"Voridus",
+							"Pavium"
+						]
+					},
+					{
+						"correct": "Medical treatment and armor repairs",
+						"difficulty": "Medium",
+						"explanation": "With Isabel's help, his armor was upgraded and his injuries treated quickly.",
+						"question": "How was Douglas able to return to combat after his injury?",
+						"wrong": [
+							"Cybernetic arm",
+							"Healing magic",
+							"He never returned"
+						]
+					},
+					{
+						"correct": "Missile Pods",
+						"difficulty": "Medium",
+						"explanation": "He is often seen manning or carrying heavy missile systems against Banished armor.",
+						"question": "What type of weapon does Douglas use to defend the Spirit of Fire?",
+						"wrong": [
+							"Sniper Rifle",
+							"Energy Sword",
+							"Shotgun"
+						]
+					},
+					{
+						"correct": "Slovakia",
+						"difficulty": "Hard",
+						"explanation": "His full name is Douglas Slovakia, designated Douglas 042.",
+						"question": "What is Spartan Douglas's last name?",
+						"wrong": [
+							"Valenti",
+							"Cable",
+							"Halsey"
+						]
+					},
+					{
+						"correct": "Asphodel",
+						"difficulty": "Hard",
+						"explanation": "He was born on the colony world of Asphodel.",
+						"question": "Where was Douglas born before being taken by the UNSC?",
+						"wrong": [
+							"Reach",
+							"Harvest",
+							"Earth"
+						]
+					},
+					{
+						"correct": "Twenty five seventeen",
+						"difficulty": "Hard",
+						"explanation": "He was part of the original 2517 intake of Spartan II candidates.",
+						"question": "What year was Douglas conscripted into the Spartan program?",
+						"wrong": [
+							"Twenty five twenty five",
+							"Twenty five fifty two",
+							"Twenty four hundred"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_spartan_douglas",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Spartan Douglas",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Spartan",
+					"Red Team"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Map room",
+						"difficulty": "Easy",
+						"explanation": "A Cartographer provides detailed maps and data for Forerunner installations.",
+						"question": "What is the primary function of a Forerunner Cartographer?",
+						"wrong": [
+							"Weapon storage",
+							"Prison",
+							"Living quarters"
+						]
+					},
+					{
+						"correct": "The Ark",
+						"difficulty": "Easy",
+						"explanation": "The mission to the Cartographer takes place on Installation 00, also known as the Ark.",
+						"question": "On which massive structure is the Cartographer in Halo Wars 2 located?",
+						"wrong": [
+							"Halo Ring",
+							"Shield World",
+							"Earth"
+						]
+					},
+					{
+						"correct": "Forerunners",
+						"difficulty": "Easy",
+						"explanation": "It is an ancient piece of Forerunner technology built millions of years ago.",
+						"question": "Which faction built the Cartographer?",
+						"wrong": [
+							"The Covenant",
+							"The Banished",
+							"UNSC"
+						]
+					},
+					{
+						"correct": "To find the Ark control center",
+						"difficulty": "Medium",
+						"explanation": "They needed the map to locate the central systems of the Ark to stop the Banished.",
+						"question": "Why did the Spirit of Fire need to access the Cartographer?",
+						"wrong": [
+							"To fire the Halo",
+							"To find Atriox",
+							"To repair the ship"
+						]
+					},
+					{
+						"correct": "The Banished",
+						"difficulty": "Medium",
+						"explanation": "The Banished had occupied the facility and used its data for their own ends.",
+						"question": "Who led the defense of the Cartographer against the UNSC?",
+						"wrong": [
+							"The Flood",
+							"The Covenant",
+							"Sentinels"
+						]
+					},
+					{
+						"correct": "Locations of all rings",
+						"difficulty": "Medium",
+						"explanation": "It acts as a galactic GPS for every Halo installation in existence.",
+						"question": "What kind of data does the Cartographer hold regarding the Halo rings?",
+						"wrong": [
+							"The rings' kill codes",
+							"Names of the rings",
+							"Ring construction dates"
+						]
+					},
+					{
+						"correct": "A portable terminal",
+						"difficulty": "Hard",
+						"explanation": "She used a specialized UNSC terminal to hack into the Forerunner network.",
+						"question": "What device did Professor Anders use to interface with the Cartographer?",
+						"wrong": [
+							"Her laptop",
+							"A neural link",
+							"An AI chip"
+						]
+					},
+					{
+						"correct": "Countless subterranean layers",
+						"difficulty": "Hard",
+						"explanation": "Forerunner structures are incredibly deep, extending miles into the planet's crust.",
+						"question": "How many levels does the Cartographer facility generally have?",
+						"wrong": [
+							"Only one",
+							"Three",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Sentinel defenses",
+						"difficulty": "Hard",
+						"explanation": "The Ark's automated Sentinel systems activate to protect the Cartographer's data.",
+						"question": "Which autonomous robots guard the Cartographer from intruders?",
+						"wrong": [
+							"Promethean Knights",
+							"Aggressor Sentinels",
+							"Mechanical Spiders"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_the_cartographer",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Cartographer",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Forerunner",
+					"Ark"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Jiralhanae",
+						"difficulty": "Easy",
+						"explanation": "Voridus is a Brute and a prominent leader within the Banished ranks.",
+						"question": "What species is the Banished leader Voridus?",
+						"wrong": [
+							"Sangheili",
+							"Unggoy",
+							"Human"
+						]
+					},
+					{
+						"correct": "Pavium",
+						"difficulty": "Easy",
+						"explanation": "Voridus and Pavium are brothers who lead a Banished legion together.",
+						"question": "Who is the brother of Voridus?",
+						"wrong": [
+							"Atriox",
+							"Decimus",
+							"Tartarus"
+						]
+					},
+					{
+						"correct": "Awakening the Nightmare",
+						"difficulty": "Easy",
+						"explanation": "He is a central figure in the DLC where the Flood is accidentally released.",
+						"question": "Which game expansion features Voridus as a main character?",
+						"wrong": [
+							"Spearbreaker",
+							"Standard Edition",
+							"Halo Wars 1"
+						]
+					},
+					{
+						"correct": "The Flood",
+						"difficulty": "Medium",
+						"explanation": "In his search for salvage, he broke the containment around the ruins of High Charity.",
+						"question": "What ancient threat did Voridus accidentally release on the Ark?",
+						"wrong": [
+							"The Didact",
+							"The Prometheans",
+							"The Sentinels"
+						]
+					},
+					{
+						"correct": "Gravity Hammer",
+						"difficulty": "Medium",
+						"explanation": "He uses a powerful modified gravity hammer to crush his enemies.",
+						"question": "What is Voridus's primary combat tool?",
+						"wrong": [
+							"Energy Sword",
+							"Plasma Pistol",
+							"Spiker"
+						]
+					},
+					{
+						"correct": "Speed and aggression",
+						"difficulty": "Medium",
+						"explanation": "Unlike his brother Pavium, Voridus is reckless and prefers fast, hard-hitting strikes.",
+						"question": "What trait does Voridus value most in combat?",
+						"wrong": [
+							"Tactical patience",
+							"Defense",
+							"Diplomacy"
+						]
+					},
+					{
+						"correct": "Longbolt",
+						"difficulty": "Hard",
+						"explanation": "They command the Longbolt legion, specialized in salvage and siege warfare.",
+						"question": "What was the name of the Banished legion led by Voridus and his brother?",
+						"wrong": [
+							"Ravagers",
+							"The Defiant",
+							"Iron Will"
+						]
+					},
+					{
+						"correct": "Disobeying orders",
+						"difficulty": "Hard",
+						"explanation": "Atriox specifically ordered them not to touch the High Charity ruins, which Voridus ignored.",
+						"question": "Why did Atriox punish Voridus after the Flood outbreak?",
+						"wrong": [
+							"Losing a battle",
+							"Stealing supplies",
+							"Killing Elites"
+						]
+					},
+					{
+						"correct": "Infused Brutes",
+						"difficulty": "Hard",
+						"explanation": "His troops use experimental infusion pools to strengthen themselves and damage enemies.",
+						"question": "What is the name of the specialized unit Voridus can deploy that uses chemicals?",
+						"wrong": [
+							"Toxic Grunts",
+							"Gel Wraiths",
+							"Acid Hunters"
+						]
+					}
+				]
+			},
+			"id": "halo_wars_voridus",
+			"meta": {
+				"date_added": "2026-02-22",
+				"entity_category": "Theme Item",
+				"full_title": "Voridus",
+				"theme_origin": "halo wars",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Jiralhanae",
+					"Banished"
+				]
+			}
 		}
 	],
 	"peripherals": [
@@ -28021,6 +30422,86 @@
 						"Ms. Mowz"
 					],
 					"name": "THIEF'S KISS"
+				}
+			]
+		},
+		{
+			"id": "halo wars",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Spartan Alice",
+						"Spartan Douglas",
+						"Spartan Jerome"
+					],
+					"name": "RED TEAM ASSEMBLED"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Ark",
+						"The Flood",
+						"Voridus"
+					],
+					"name": "AWAKENING THE NIGHTMARE"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Captain Cutter",
+						"Professor Anders",
+						"Sergeant Forge"
+					],
+					"name": "SPIRIT OF FIRE COMMAND"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Prophet of Regret",
+						"Ripa Moramee"
+					],
+					"name": "THE GREAT JOURNEY"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Atriox",
+						"Decimus"
+					],
+					"name": "BANISHED FOUNDERS"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Atriox",
+						"Captain Cutter"
+					],
+					"name": "CLASH OF COMMANDERS"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Professor Anders",
+						"The Cartographer"
+					],
+					"name": "FORERUNNER SECRETS"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Serina",
+						"Isabel"
+					],
+					"name": "SHIP LOGIC"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Spirit of Fire",
+						"Captain Cutter"
+					],
+					"name": "Captain and His ship"
 				}
 			]
 		}
