@@ -48,7 +48,7 @@ const { language, textDirection } = I18N;
 
   <body class="antialiased text-default bg-page tracking-tight">
     <div
-      id="dummy-ad-overlay"
+      id="dummy-support-overlay"
       style="display: none; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-color: rgba(0, 0, 0, 0.95); z-index: 9999; flex-direction: column; align-items: center; justify-content: center; font-family: ui-sans-serif, system-ui, sans-serif;"
     >
       <h2 style="color: #fbbf24; font-size: 24px; font-weight: bold; letter-spacing: 2px; margin-bottom: 10px;">
@@ -58,12 +58,12 @@ const { language, textDirection } = I18N;
 
       <div style="width: 250px; height: 8px; background-color: #27272a; border-radius: 4px; overflow: hidden;">
         <div
-          id="dummy-ad-progress"
+          id="dummy-support-progress"
           style="width: 0%; height: 100%; background-color: #fbbf24; transition: width 5s linear;"
         >
         </div>
       </div>
-      <p id="dummy-ad-timer" style="color: #71717a; font-size: 14px; margin-top: 15px;">5 seconds remaining</p>
+      <p id="dummy-support-timer" style="color: #71717a; font-size: 14px; margin-top: 15px;">5 seconds remaining</p>
     </div>
     <slot />
 
@@ -74,11 +74,13 @@ const { language, textDirection } = I18N;
       window.top.play_godot_ad = function (godot_callback) {
         console.log('[Astro] AD FUNCTION CALLED FROM GODOT!');
 
-        const overlay = document.getElementById('dummy-support-overlay');
-        const progress = document.getElementById('dummy-support-progress');
+        // Force it to look at the absolute top-level website document
+        const targetDoc = window.top.document || document;
+        const overlay = targetDoc.getElementById('dummy-support-overlay');
+        const progress = targetDoc.getElementById('dummy-support-progress');
 
         if (!overlay) {
-          console.error('[Astro] Could not find the overlay div!');
+          console.error('[Astro] Could not find the overlay div! Check your HTML IDs.');
           if (godot_callback) {
             try {
               godot_callback();
