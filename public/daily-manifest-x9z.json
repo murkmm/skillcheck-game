@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771788775,
+	"last_updated": 1771875386,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1250,6 +1250,55 @@
 				"halo_wars_spartan_douglas",
 				"halo_wars_the_cartographer",
 				"halo_wars_voridus"
+			]
+		},
+		"2026-02-24": {
+			"difficulty": "Hard",
+			"mode": "STANDARD",
+			"motd": "Hades Test !",
+			"share_text": "Oh it's heck all right",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"hades_1_and_2_melinoe",
+				"hades_1_and_2_zagreus",
+				"hades_1_and_2_hades"
+			],
+			"starters": [
+				"hades_1_and_2_zagreus",
+				"hades_1_and_2_melinoe",
+				"hades_1_and_2_hades",
+				"hades_1_and_2_hecate",
+				"hades_1_and_2_chronos",
+				"hades_1_and_2_house_of_hades",
+				"hades_1_and_2_the_crossroads",
+				"hades_1_and_2_mount_olympos",
+				"hades_1_and_2_megaera",
+				"hades_1_and_2_the_fated_list",
+				"hades_1_and_2_nyx",
+				"hades_1_and_2_thanatos",
+				"hades_1_and_2_cerberus",
+				"hades_1_and_2_tartarus",
+				"hades_1_and_2_infernal_arms",
+				"hades_1_and_2_chaos",
+				"hades_1_and_2_poseidon",
+				"hades_1_and_2_apollo",
+				"hades_1_and_2_styx",
+				"hades_1_and_2_keepsakes",
+				"hades_1_and_2_dionysus",
+				"hades_1_and_2_wretched_broker"
 			]
 		}
 	}
