@@ -28,6 +28,8 @@ const { language, textDirection } = I18N;
 <!doctype html>
 <html lang={language} dir={textDirection} class="2xl:text-[20px]">
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
     <CommonMeta />
     <Favicons />
     <CustomStyles />
@@ -68,38 +70,47 @@ const { language, textDirection } = I18N;
     <BasicScripts />
 
     <script is:inline>
-      window.play_interstitial_ad = function (godot_callback) {
-        console.log('[Astro] Global ad function triggered!');
+      // Force the function directly onto the absolute top-level window
+      window.top.play_godot_ad = function (godot_callback) {
+        console.log('[Astro] AD FUNCTION CALLED FROM GODOT!');
 
-        const overlay = document.getElementById('dummy-ad-overlay');
-        const progress = document.getElementById('dummy-ad-progress');
+        const overlay = document.getElementById('dummy-support-overlay');
+        const progress = document.getElementById('dummy-support-progress');
 
         if (!overlay) {
-          console.error('[Astro] Ad overlay div missing!');
-          if (godot_callback) godot_callback();
-          return;
-        }
-
-        overlay.style.display = 'flex';
-        if (progress) progress.style.width = '100%';
-
-        // 5-second dummy timer
-        setTimeout(() => {
-          overlay.style.display = 'none';
-          if (progress) progress.style.width = '0%';
-          console.log('[Astro] Ad finished, notifying Godot.');
-
-          // Use the 'call' method to ensure Godot's callback object is invoked properly
+          console.error('[Astro] Could not find the overlay div!');
           if (godot_callback) {
             try {
               godot_callback();
             } catch {
-              // We removed the (e) so ESLint is happy!
+              console.log('[Astro] Callback safely ignored.');
+            }
+          }
+          return;
+        }
+
+        overlay.style.display = 'flex';
+
+        setTimeout(() => {
+          if (progress) progress.style.width = '100%';
+        }, 50);
+
+        setTimeout(() => {
+          overlay.style.display = 'none';
+          if (progress) progress.style.width = '0%';
+          console.log('[Astro] Overlay finished, notifying Godot.');
+
+          if (godot_callback) {
+            try {
+              godot_callback();
+            } catch {
               console.log('[Astro] Callback handled.');
             }
           }
         }, 5000);
       };
+
+      console.log('[Astro] Global Ad Function attached to window.top!');
     </script>
   </body>
 </html>
