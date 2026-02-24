@@ -1,5 +1,5 @@
 {
-	"last_updated": 1771875386,
+	"last_updated": 1771969235,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1299,6 +1299,49 @@
 				"hades_1_and_2_keepsakes",
 				"hades_1_and_2_dionysus",
 				"hades_1_and_2_wretched_broker"
+			]
+		},
+		"2026-02-25": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Sonic Adventure 2: Less cards test",
+			"share_text": "Live and Learn !",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"sonic_adventure_2_sonic_the_hedgehog",
+				"sonic_adventure_2_shadow_the_hedgehog",
+				"sonic_adventure_2_dr_eggman"
+			],
+			"starters": [
+				"sonic_adventure_2_sonic_the_hedgehog",
+				"sonic_adventure_2_shadow_the_hedgehog",
+				"sonic_adventure_2_knuckles_the_echidna",
+				"sonic_adventure_2_rouge_the_bat",
+				"sonic_adventure_2_miles_tails_prower",
+				"sonic_adventure_2_dr_eggman",
+				"sonic_adventure_2_chao",
+				"sonic_adventure_2_city_escape",
+				"sonic_adventure_2_space_colony_ark",
+				"sonic_adventure_2_the_master_emerald",
+				"sonic_adventure_2_chaos_emeralds",
+				"sonic_adventure_2_biolizard",
+				"sonic_adventure_2_maria_robotnik",
+				"sonic_adventure_2_gun",
+				"sonic_adventure_2_green_forest",
+				"sonic_adventure_2_pumpkin_hill"
 			]
 		}
 	}
