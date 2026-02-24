@@ -29478,6 +29478,1782 @@
 					"Banished"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Sonic has been known as the Blue Blur since his debut in 1991.",
+						"question": "What is Sonic's signature color?",
+						"wrong": [
+							"Red",
+							"Black"
+						]
+					},
+					{
+						"correct": "GUN",
+						"difficulty": "Easy",
+						"explanation": "The Guardian Units of Nations mistakes Sonic for a different hedgehog.",
+						"question": "Which organization arrests Sonic at the start of the game?",
+						"wrong": [
+							"Team Dark",
+							"The Eggman Empire"
+						]
+					},
+					{
+						"correct": "I am Sonic the Hedgehog",
+						"difficulty": "Easy",
+						"explanation": "Sonic introduces himself after jumping from a military helicopter.",
+						"question": "What is Sonic's most famous catchphrase from the game's intro?",
+						"wrong": [
+							"Gotta go fast",
+							"Let is rock"
+						]
+					},
+					{
+						"correct": "Prison Island",
+						"difficulty": "Medium",
+						"explanation": "Sonic is held in a high security cell before being rescued by Amy and Tails.",
+						"question": "Where is Sonic imprisoned after his first encounter with Shadow?",
+						"wrong": [
+							"Iron Gate",
+							"The ARK"
+						]
+					},
+					{
+						"correct": "They have a similar silhouette",
+						"difficulty": "Medium",
+						"explanation": "To the untrained eye of the GUN soldiers, the two hedgehogs looked identical.",
+						"question": "Why does the military mistake Sonic for Shadow?",
+						"wrong": [
+							"They have the same voice",
+							"They wear the same shoes"
+						]
+					},
+					{
+						"correct": "A fake Chaos Emerald",
+						"difficulty": "Medium",
+						"explanation": "Tails created a yellow fake emerald that possessed the same wavelength as a real one.",
+						"question": "What does Sonic use to perform Chaos Control for the first time?",
+						"wrong": [
+							"A power ring",
+							"The Master Emerald"
+						]
+					},
+					{
+						"correct": "Miles Tails Prower",
+						"difficulty": "Hard",
+						"explanation": "Tails developed the counterfeit to trick Eggman and disable the Eclipse Cannon.",
+						"question": "Who created the fake Chaos Emerald that Sonic uses?",
+						"wrong": [
+							"Dr Eggman",
+							"Gerald Robotnik"
+						]
+					},
+					{
+						"correct": "A helicopter door",
+						"difficulty": "Hard",
+						"explanation": "Sonic rips a piece of the helicopter off to use as a makeshift snowboard.",
+						"question": "What is the name of the board Sonic uses to slide down the streets of Central City?",
+						"wrong": [
+							"An Extreme Gear",
+							"A hoverboard"
+						]
+					},
+					{
+						"correct": "Ten years",
+						"difficulty": "Hard",
+						"explanation": "A news report in the game mentions Sonic was sentenced to a ten year term.",
+						"question": "How many years of prison was Sonic sentenced to before his escape?",
+						"wrong": [
+							"Life",
+							"Five years"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_sonic_the_hedgehog",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Sonic the Hedgehog",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Speedster",
+					"Hedgehog"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Ultimate Lifeform",
+						"difficulty": "Easy",
+						"explanation": "Shadow was created to be the pinnacle of biological evolution.",
+						"question": "What is Shadow's self proclaimed title?",
+						"wrong": [
+							"The Black Blur",
+							"The Chosen One"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Shadow is primarily black with iconic red markings on his quills and limbs.",
+						"question": "What color are Shadow's stripes?",
+						"wrong": [
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Gerald Robotnik",
+						"difficulty": "Easy",
+						"explanation": "Professor Gerald Robotnik led the research that resulted in Shadow's creation.",
+						"question": "Who is Shadow's creator?",
+						"wrong": [
+							"Dr Eggman",
+							"The President"
+						]
+					},
+					{
+						"correct": "Maria Robotnik",
+						"difficulty": "Medium",
+						"explanation": "Maria was Gerald's granddaughter and lived with Shadow on the space colony.",
+						"question": "Who was Shadow's closest friend on the ARK?",
+						"wrong": [
+							"Rouge the Bat",
+							"Sonic"
+						]
+					},
+					{
+						"correct": "Fifty years",
+						"difficulty": "Medium",
+						"explanation": "Shadow was sealed away for half a century following the raid on the ARK.",
+						"question": "How many years was Shadow kept in stasis before Eggman found him?",
+						"wrong": [
+							"One hundred years",
+							"Ten years"
+						]
+					},
+					{
+						"correct": "Chaos Control",
+						"difficulty": "Medium",
+						"explanation": "By using a Chaos Emerald, Shadow can teleport instantly.",
+						"question": "What ability allows Shadow to warp through time and space?",
+						"wrong": [
+							"Chaos Spear",
+							"Chaos Blast"
+						]
+					},
+					{
+						"correct": "To cure Neuro immuno deficiency syndrome",
+						"difficulty": "Hard",
+						"explanation": "Gerald wanted to find a cure for his granddaughter Maria's terminal illness.",
+						"question": "What was the original purpose of Shadow's creation?",
+						"wrong": [
+							"To conquer the world",
+							"To fight aliens"
+						]
+					},
+					{
+						"correct": "Iron Gate",
+						"difficulty": "Hard",
+						"explanation": "Eggman infiltrates the high security GUN base Iron Gate to find his grandfather's legacy.",
+						"question": "What is the name of the facility where Shadow was first awakened by Eggman?",
+						"wrong": [
+							"Prison Island",
+							"Sand Ocean"
+						]
+					},
+					{
+						"correct": "To give people a chance to be happy",
+						"difficulty": "Hard",
+						"explanation": "Though his memory was corrupted by Gerald, Shadow eventually remembers Maria's true wish for humanity.",
+						"question": "What does Shadow promise Maria before she dies?",
+						"wrong": [
+							"To destroy the world",
+							"To protect the Chaos Emeralds"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_shadow_the_hedgehog",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Shadow the Hedgehog",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Antihero",
+					"Project Shadow",
+					"Hedgehog"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Guarding the Master Emerald",
+						"difficulty": "Easy",
+						"explanation": "Knuckles is the last surviving member of the Echidna tribe and the Master Emerald's protector.",
+						"question": "What is Knuckles' primary job?",
+						"wrong": [
+							"Hunting treasure",
+							"Fighting Sonic"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Knuckles is a red echidna with distinctive white markings on his chest.",
+						"question": "What color is Knuckles?",
+						"wrong": [
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "He shatters it",
+						"difficulty": "Easy",
+						"explanation": "Knuckles breaks the emerald into pieces so that Dr. Eggman cannot steal its power.",
+						"question": "What does Knuckles do to the Master Emerald to keep it from Eggman?",
+						"wrong": [
+							"He hides it",
+							"He swallows it"
+						]
+					},
+					{
+						"correct": "Rouge the Bat",
+						"difficulty": "Medium",
+						"explanation": "Knuckles and Rouge frequently clash while searching for the Master Emerald shards.",
+						"question": "Who is Knuckles' main rival in this game?",
+						"wrong": [
+							"Shadow the Hedgehog",
+							"Dr Eggman"
+						]
+					},
+					{
+						"correct": "Wild Canyon",
+						"difficulty": "Medium",
+						"explanation": "Knuckles pursues Rouge to Wild Canyon after she attempts to steal the emerald.",
+						"question": "Where does Knuckles' journey begin in the game?",
+						"wrong": [
+							"Pumpkin Hill",
+							"Meteor Herd"
+						]
+					},
+					{
+						"correct": "Sunglasses",
+						"difficulty": "Medium",
+						"explanation": "Knuckles can find hidden items by wearing the Sunglasses power up.",
+						"question": "What special accessory allows Knuckles to see invisible items?",
+						"wrong": [
+							"Treasure Scope",
+							"Ancient Mask"
+						]
+					},
+					{
+						"correct": "Rouge the Bat",
+						"difficulty": "Hard",
+						"explanation": "Despite their rivalry, Knuckles rescues Rouge after their fight in the Space Colony ARK.",
+						"question": "Which character does Knuckles save from falling into a pit of lava?",
+						"wrong": [
+							"Sonic",
+							"Amy Rose"
+						]
+					},
+					{
+						"correct": "Aquatic Mine",
+						"difficulty": "Hard",
+						"explanation": "The Air Necklace allows Knuckles to breathe underwater indefinitely.",
+						"question": "What is the name of the location where Knuckles finds the Air Necklace?",
+						"wrong": [
+							"Dry Lagoon",
+							"Death Chamber"
+						]
+					},
+					{
+						"correct": "The Lost Ghost",
+						"difficulty": "Hard",
+						"explanation": "The iconic hip hop track mentions searching for the Lost Ghost in the graveyard.",
+						"question": "In the song for Pumpkin Hill, what does the rapper say he wants to find?",
+						"wrong": [
+							"The Chaos Emerald",
+							"The Master Piece"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_knuckles_the_echidna",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Knuckles the Echidna",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Guardian",
+					"Echidna"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Treasure Hunter",
+						"difficulty": "Easy",
+						"explanation": "Rouge is a world class jewel thief and treasure hunter.",
+						"question": "What is Rouge's profession?",
+						"wrong": [
+							"Scientist",
+							"Pilot"
+						]
+					},
+					{
+						"correct": "Spying for the government",
+						"difficulty": "Easy",
+						"explanation": "Rouge is an undercover agent for the Guardian Units of Nations.",
+						"question": "What is Rouge secretly doing while working with Eggman?",
+						"wrong": [
+							"Planning to steal his mech",
+							"Searching for her family"
+						]
+					},
+					{
+						"correct": "Jewels",
+						"difficulty": "Easy",
+						"explanation": "Rouge has an insatiable love for high value gems, especially the Master Emerald.",
+						"question": "What specific item is Rouge obsessed with collecting?",
+						"wrong": [
+							"Rings",
+							"Robots"
+						]
+					},
+					{
+						"correct": "Knuckles the Echidna",
+						"difficulty": "Medium",
+						"explanation": "Rouge and Knuckles are both treasure hunters seeking the Master Emerald.",
+						"question": "Which character is Rouge's rival during the search for shards?",
+						"wrong": [
+							"Miles Tails Prower",
+							"Shadow the Hedgehog"
+						]
+					},
+					{
+						"correct": "The Dark Side",
+						"difficulty": "Medium",
+						"explanation": "Players control Rouge during the Dark Story campaign.",
+						"question": "Which team does Rouge belong to in the game's story?",
+						"wrong": [
+							"The Hero Side",
+							"The Neutral Side"
+						]
+					},
+					{
+						"correct": "Security Hall",
+						"difficulty": "Medium",
+						"explanation": "Security Hall features a strict time limit set by the military's security system.",
+						"question": "In which stage does Rouge have to find three emerald shards in five minutes?",
+						"wrong": [
+							"Dry Lagoon",
+							"Mad Space"
+						]
+					},
+					{
+						"correct": "Mad Space",
+						"difficulty": "Hard",
+						"explanation": "Mad Space is known for its gravity mechanics and planetary exploration.",
+						"question": "What is the name of Rouge's final stage on the ARK?",
+						"wrong": [
+							"Meteor Herd",
+							"Cosmic Wall"
+						]
+					},
+					{
+						"correct": "The President's Secretary",
+						"difficulty": "Hard",
+						"explanation": "Rouge maintains contact with her handlers at GUN via high tech communication.",
+						"question": "Who does Rouge report her findings to throughout the game?",
+						"wrong": [
+							"Shadow",
+							"Commander of GUN"
+						]
+					},
+					{
+						"correct": "Treasure Scope",
+						"difficulty": "Hard",
+						"explanation": "The Treasure Scope is her equivalent to Knuckles' Sunglasses.",
+						"question": "What accessory does Rouge find that allows her to see hidden objects?",
+						"wrong": [
+							"Sunglasses",
+							"Mystic Melody"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_rouge_the_bat",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Rouge the Bat",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Spy",
+					"Bat"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Miles Prower",
+						"difficulty": "Easy",
+						"explanation": "His name is a pun on the phrase miles per hour.",
+						"question": "What is Tails' real name?",
+						"wrong": [
+							"Tails the Fox",
+							"Miles Robotnik"
+						]
+					},
+					{
+						"correct": "Cyclone",
+						"difficulty": "Easy",
+						"explanation": "The Cyclone is a modified version of the Tornado 2 that can transform into a walker.",
+						"question": "What vehicle does Tails drive for most of the game?",
+						"wrong": [
+							"Tornado",
+							"Egg Walker"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "His twin tails allow him to fly like a helicopter.",
+						"question": "How many tails does Miles have?",
+						"wrong": [
+							"One",
+							"Three"
+						]
+					},
+					{
+						"correct": "Dr Eggman",
+						"difficulty": "Medium",
+						"explanation": "Tails and Eggman engage in several mech battles throughout the game.",
+						"question": "Who is Tails' primary rival during the shooting stages?",
+						"wrong": [
+							"Shadow",
+							"Rouge"
+						]
+					},
+					{
+						"correct": "A yellow fake emerald",
+						"difficulty": "Medium",
+						"explanation": "Tails carries a fake emerald designed to destroy the Eclipse Cannon.",
+						"question": "Which Chaos Emerald does Tails carry for most of the Hero story?",
+						"wrong": [
+							"The blue emerald",
+							"The red emerald"
+						]
+					},
+					{
+						"correct": "Prison Island",
+						"difficulty": "Medium",
+						"explanation": "Tails flies to Prison Island to break Sonic out of his military cell.",
+						"question": "Where does Tails rescue Sonic from?",
+						"wrong": [
+							"Space Colony ARK",
+							"Central City"
+						]
+					},
+					{
+						"correct": "Mystic Mansion",
+						"difficulty": "Hard",
+						"explanation": "In this game, his workshop is located in a secluded area where he keeps the Cyclone.",
+						"question": "What is the name of the island where Tails hides his workshop?",
+						"wrong": [
+							"Cacao Island",
+							"West Side Island"
+						]
+					},
+					{
+						"correct": "Laser Blaster",
+						"difficulty": "Hard",
+						"explanation": "The Laser Blaster increases the number of targets Tails can lock onto with his missiles.",
+						"question": "What upgrade does Tails get that allows him to lock onto more targets?",
+						"wrong": [
+							"Bazooka",
+							"Booster"
+						]
+					},
+					{
+						"correct": "Central City",
+						"difficulty": "Hard",
+						"explanation": "Tails hacks into the government network to find the President's whereabouts.",
+						"question": "Tails used his intellect to track the President's limousine to which location?",
+						"wrong": [
+							"Radical Highway",
+							"City Escape"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_miles_tails_prower",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Miles Tails Prower",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Pilot",
+					"Fox"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Robotnik",
+						"difficulty": "Easy",
+						"explanation": "His full name is Dr. Ivo Robotnik.",
+						"question": "What is Dr Eggman's real surname?",
+						"wrong": [
+							"Eggman",
+							"Gerald"
+						]
+					},
+					{
+						"correct": "Egg Walker",
+						"difficulty": "Easy",
+						"explanation": "Eggman pilots a modified mech similar to Tails' Cyclone.",
+						"question": "What is the name of Eggman's flying vehicle in this game?",
+						"wrong": [
+							"Egg Mobile",
+							"Egg Hornet"
+						]
+					},
+					{
+						"correct": "The Moon",
+						"difficulty": "Easy",
+						"explanation": "Eggman blows up half of the moon to threaten the world into submission.",
+						"question": "What does Eggman destroy to demonstrate the power of the Eclipse Cannon?",
+						"wrong": [
+							"The Earth",
+							"Prison Island"
+						]
+					},
+					{
+						"correct": "Shadow the Hedgehog",
+						"difficulty": "Medium",
+						"explanation": "Eggman breaks into a military vault to find his grandfather's ultimate weapon.",
+						"question": "Who does Eggman awaken from stasis at the start of the game?",
+						"wrong": [
+							"The Biolizard",
+							"Chaos"
+						]
+					},
+					{
+						"correct": "Gerald Robotnik",
+						"difficulty": "Medium",
+						"explanation": "Gerald was a world renowned scientist and the creator of the ARK.",
+						"question": "What is the name of Eggman's grandfather?",
+						"wrong": [
+							"Ivo Robotnik",
+							"Maria Robotnik"
+						]
+					},
+					{
+						"correct": "The location of Project Shadow",
+						"difficulty": "Medium",
+						"explanation": "The diary led Eggman to the hidden files on the ARK and Shadow.",
+						"question": "What did Eggman find in his grandfather's diary?",
+						"wrong": [
+							"The secret to eternal life",
+							"A recipe for eggs"
+						]
+					},
+					{
+						"correct": "To power the Eclipse Cannon",
+						"difficulty": "Hard",
+						"explanation": "The Eclipse Cannon requires all seven emeralds to reach full destructive potential.",
+						"question": "In the Dark Story, why does Eggman need the Chaos Emeralds?",
+						"wrong": [
+							"To become Super Eggman",
+							"To fix his mustache"
+						]
+					},
+					{
+						"correct": "Iron Gate",
+						"difficulty": "Hard",
+						"explanation": "Eggman starts by infiltrating the military base to find Shadow.",
+						"question": "What is the name of Eggman's first stage in the game?",
+						"wrong": [
+							"Sand Ocean",
+							"Lost Colony"
+						]
+					},
+					{
+						"correct": "Sand Ocean",
+						"difficulty": "Hard",
+						"explanation": "Sand Ocean is an ancient desert area leading to the pyramid base.",
+						"question": "Which desert level does Eggman traverse to reach his hidden base?",
+						"wrong": [
+							"Dry Lagoon",
+							"Wild Canyon"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_dr_eggman",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Dr Eggman",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Scientist",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Chao Garden",
+						"difficulty": "Easy",
+						"explanation": "Players can visit these gardens to care for and evolve their Chao.",
+						"question": "What is the name of the place where you raise Chao?",
+						"wrong": [
+							"Chao Park",
+							"Chao Zoo"
+						]
+					},
+					{
+						"correct": "Fruit",
+						"difficulty": "Easy",
+						"explanation": "Various fruits can be found growing in the gardens or bought in the Black Market.",
+						"question": "What do Chao eat to stay healthy?",
+						"wrong": [
+							"Pizza",
+							"Chaos Emeralds"
+						]
+					},
+					{
+						"correct": "Chaos Drives and Animals",
+						"difficulty": "Easy",
+						"explanation": "Chao take on the traits of animals or drives they interact with.",
+						"question": "What items are given to Chao to change their physical appearance?",
+						"wrong": [
+							"Rings and Stones",
+							"Potions and Spells"
+						]
+					},
+					{
+						"correct": "Hero Dark and Neutral",
+						"difficulty": "Medium",
+						"explanation": "The way a character treats a Chao determines its alignment.",
+						"question": "What are the three types of Chao alignments?",
+						"wrong": [
+							"Good Evil and Chaotic",
+							"Fire Water and Grass"
+						]
+					},
+					{
+						"correct": "Chao Race",
+						"difficulty": "Medium",
+						"explanation": "The Chao Race tests the stats the player has increased through training.",
+						"question": "What event allows Chao to compete for medals and toys?",
+						"wrong": [
+							"Chao Olympics",
+							"Chao Battle"
+						]
+					},
+					{
+						"correct": "The Black Market",
+						"difficulty": "Medium",
+						"explanation": "The Black Market is located in the Kindergarten and uses rings as currency.",
+						"question": "Where can you buy rare eggs and accessories for your Chao?",
+						"wrong": [
+							"The Chao Store",
+							"The Egg Shop"
+						]
+					},
+					{
+						"correct": "Chao Doctor",
+						"difficulty": "Hard",
+						"explanation": "The Chao Doctor can diagnose your Chao's health and mood.",
+						"question": "What is the name of the doctor who helps you in the Chao Kindergarten?",
+						"wrong": [
+							"Dr Eggman",
+							"Professor Chao"
+						]
+					},
+					{
+						"correct": "Chao Karate",
+						"difficulty": "Hard",
+						"explanation": "Chao Karate was added to the Battle version of the game as a new competitive mode.",
+						"question": "What is the combat focused mini game found in the Kindergarten?",
+						"wrong": [
+							"Chao Boxing",
+							"Chao Wrestling"
+						]
+					},
+					{
+						"correct": "It dies forever",
+						"difficulty": "Hard",
+						"explanation": "A gray cocoon signifies the permanent death of a Chao, while a pink one means reincarnation.",
+						"question": "What happens when a Chao reaches the end of its life cycle and forms a gray cocoon?",
+						"wrong": [
+							"It reincarnates",
+							"It evolves"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_chao",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Chao",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Creature",
+					"Pet",
+					"Garden"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sonic",
+						"difficulty": "Easy",
+						"explanation": "Sonic jumps from a plane into Central City to start the Hero story.",
+						"question": "Which character's story begins in City Escape?",
+						"wrong": [
+							"Shadow",
+							"Tails"
+						]
+					},
+					{
+						"correct": "Escape from the City",
+						"difficulty": "Easy",
+						"explanation": "The track is one of the most famous songs in the entire Sonic franchise.",
+						"question": "What is the name of the song that plays in this level?",
+						"wrong": [
+							"City Lights",
+							"Live and Learn"
+						]
+					},
+					{
+						"correct": "A GUN Truck",
+						"difficulty": "Easy",
+						"explanation": "The G.U.N. Truck chases Sonic down a series of hills at high speeds.",
+						"question": "What massive vehicle chases Sonic at the end of the level?",
+						"wrong": [
+							"The Egg Mobile",
+							"A Giant Mech"
+						]
+					},
+					{
+						"correct": "San Francisco",
+						"difficulty": "Medium",
+						"explanation": "The level features iconic steep hills and cable cars reminiscent of San Francisco.",
+						"question": "What city is City Escape modeled after?",
+						"wrong": [
+							"New York City",
+							"Tokyo"
+						]
+					},
+					{
+						"correct": "A metal helicopter door",
+						"difficulty": "Medium",
+						"explanation": "Sonic breaks off a piece of the military transport to use as a board.",
+						"question": "What does Sonic use to snowboard down the streets?",
+						"wrong": [
+							"A proper snowboard",
+							"A surfboard"
+						]
+					},
+					{
+						"correct": "Central City",
+						"difficulty": "Medium",
+						"explanation": "Central City serves as the primary urban hub in the game's world.",
+						"question": "In which city does the City Escape stage take place?",
+						"wrong": [
+							"Station Square",
+							"Empire City"
+						]
+					},
+					{
+						"correct": "GUN",
+						"difficulty": "Hard",
+						"explanation": "The Guardian Units of Nations are the primary antagonists of the early Hero story.",
+						"question": "What is the name of the military unit pursuing Sonic in this level?",
+						"wrong": [
+							"Eggman Army",
+							"Task Force 141"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "Standard levels contain three hidden boxes that transport you to the Chao Garden.",
+						"question": "How many secret Chao containers are hidden in City Escape?",
+						"wrong": [
+							"One",
+							"Five"
+						]
+					},
+					{
+						"correct": "Big Foot",
+						"difficulty": "Hard",
+						"explanation": "While 'Big Foot' is the boss, the chase truck is often referred to as the GUN Truck or Heavy Dog's escort.",
+						"question": "What is the name of the specific truck model that chases Sonic?",
+						"wrong": [
+							"Behemoth",
+							"The Juggernaut"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_city_escape",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "City Escape",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Level",
+					"City"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Space Colony ARK",
+						"difficulty": "Easy",
+						"explanation": "The ARK was the world's first space colony and a center for advanced research.",
+						"question": "What is the name of the massive space station?",
+						"wrong": [
+							"The Death Egg",
+							"Final Egg"
+						]
+					},
+					{
+						"correct": "Gerald Robotnik",
+						"difficulty": "Easy",
+						"explanation": "Professor Gerald Robotnik worked there 50 years prior to the game's events.",
+						"question": "Who led the research on the ARK?",
+						"wrong": [
+							"Dr Eggman",
+							"The President"
+						]
+					},
+					{
+						"correct": "The Eclipse Cannon",
+						"difficulty": "Easy",
+						"explanation": "The cannon is powerful enough to destroy entire planets when fully charged.",
+						"question": "What super weapon is built into the ARK?",
+						"wrong": [
+							"The Death Ray",
+							"The Ark Laser"
+						]
+					},
+					{
+						"correct": "It falls toward Earth",
+						"difficulty": "Medium",
+						"explanation": "Gerald programmed the ARK to crash into Earth as an act of revenge.",
+						"question": "What happens to the ARK at the end of the game?",
+						"wrong": [
+							"It explodes",
+							"It vanishes"
+						]
+					},
+					{
+						"correct": "Gerald Robotnik",
+						"difficulty": "Medium",
+						"explanation": "The colony was constructed with a massive likeness of its lead scientist.",
+						"question": "Whose face is the exterior of the ARK designed to resemble?",
+						"wrong": [
+							"Dr Eggman",
+							"Shadow"
+						]
+					},
+					{
+						"correct": "The military raid",
+						"difficulty": "Medium",
+						"explanation": "GUN raided the ARK to shut down Project Shadow, resulting in the death of Maria.",
+						"question": "Which tragedy occurred on the ARK 50 years ago?",
+						"wrong": [
+							"An alien invasion",
+							"A core meltdown"
+						]
+					},
+					{
+						"correct": "The seven Chaos Emeralds",
+						"difficulty": "Hard",
+						"explanation": "The cannon requires all seven emeralds to reach its maximum destructive output.",
+						"question": "What serves as the power source for the ARK's main cannon?",
+						"wrong": [
+							"The Master Emerald",
+							"Solar power"
+						]
+					},
+					{
+						"correct": "The Cannon's Core",
+						"difficulty": "Hard",
+						"explanation": "The final levels and bosses take place within the Cannon's Core.",
+						"question": "What is the name of the core room where the final battle occurs?",
+						"wrong": [
+							"The Heart of ARK",
+							"The Emerald Room"
+						]
+					},
+					{
+						"correct": "The Biolizard",
+						"difficulty": "Hard",
+						"explanation": "The Biolizard was the first prototype of the Ultimate Lifeform.",
+						"question": "Which prototype was left behind in the ARK's core?",
+						"wrong": [
+							"Shadow",
+							"Metal Sonic"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_space_colony_ark",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Space Colony ARK",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Space",
+					"Laboratory"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Knuckles the Echidna",
+						"difficulty": "Easy",
+						"explanation": "Knuckles is the last of his kind and responsible for the emerald's safety.",
+						"question": "Which character is the guardian of the Master Emerald?",
+						"wrong": [
+							"Sonic",
+							"Rouge"
+						]
+					},
+					{
+						"correct": "He breaks it",
+						"difficulty": "Easy",
+						"explanation": "Knuckles shatters the emerald to prevent Rouge and Eggman from taking it.",
+						"question": "What does Knuckles do to the emerald at the start of the game?",
+						"wrong": [
+							"He polishes it",
+							"He gives it to Eggman"
+						]
+					},
+					{
+						"correct": "To control the Chaos Emeralds",
+						"difficulty": "Easy",
+						"explanation": "The Master Emerald can neutralize or amplify the power of the seven Chaos Emeralds.",
+						"question": "What is the primary function of the Master Emerald?",
+						"wrong": [
+							"To grant wishes",
+							"To create food"
+						]
+					},
+					{
+						"correct": "Angel Island",
+						"difficulty": "Medium",
+						"explanation": "The emerald typically rests on the Altar of Emeralds on the floating Angel Island.",
+						"question": "Where is the Master Emerald usually kept?",
+						"wrong": [
+							"Space Colony ARK",
+							"Prison Island"
+						]
+					},
+					{
+						"correct": "Rouge the Bat",
+						"difficulty": "Medium",
+						"explanation": "Rouge's attempt to steal the jewel leads to its destruction.",
+						"question": "Who tries to steal the Master Emerald in the game's opening?",
+						"wrong": [
+							"Shadow",
+							"Tails"
+						]
+					},
+					{
+						"correct": "Shards",
+						"difficulty": "Medium",
+						"explanation": "Knuckles spends his levels searching for the scattered fragments of the gem.",
+						"question": "What must Knuckles collect to restore the emerald?",
+						"wrong": [
+							"Rings",
+							"Chaos Drives"
+						]
+					},
+					{
+						"correct": "The servants are the seven Chaos",
+						"difficulty": "Hard",
+						"explanation": "The prayer states that the Master Emerald is the one that shall control the others.",
+						"question": "What prayer is used to call upon the Master Emerald's power?",
+						"wrong": [
+							"Chaos is power",
+							"Great emerald grant me strength"
+						]
+					},
+					{
+						"correct": "The Shrine in the core",
+						"difficulty": "Hard",
+						"explanation": "Knuckles uses the Master Emerald's power to neutralize the Chaos Emeralds in the ARK's core.",
+						"question": "During the final story, where is the Master Emerald placed to stop the ARK?",
+						"wrong": [
+							"The Eclipse Cannon",
+							"Sonic's hands"
+						]
+					},
+					{
+						"correct": "He takes it back to Angel Island",
+						"difficulty": "Hard",
+						"explanation": "Knuckles returns to his duty as the guardian once the world is saved.",
+						"question": "In the game's ending, what does Knuckles do with the restored Master Emerald?",
+						"wrong": [
+							"He gives it to Rouge",
+							"He hides it in the desert"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_the_master_emerald",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "The Master Emerald",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Artifact",
+					"Power"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Seven",
+						"difficulty": "Easy",
+						"explanation": "There have always been seven primary Chaos Emeralds in the series lore.",
+						"question": "How many Chaos Emeralds are there in total?",
+						"wrong": [
+							"Six",
+							"Eight"
+						]
+					},
+					{
+						"correct": "Super State",
+						"difficulty": "Easy",
+						"explanation": "The emeralds transform them into Super Sonic and Super Shadow.",
+						"question": "What state do Sonic and Shadow enter when using all seven emeralds?",
+						"wrong": [
+							"Hyper State",
+							"Mega State"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Tails' counterfeit emerald is a bright yellow gem.",
+						"question": "What is the main color of the fake emerald Tails created?",
+						"wrong": [
+							"Green",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Shadow the Hedgehog",
+						"difficulty": "Medium",
+						"explanation": "Shadow uses the emerald to perform his signature Chaos Control move.",
+						"question": "Which character uses a Chaos Emerald to teleport?",
+						"wrong": [
+							"Knuckles",
+							"Eggman"
+						]
+					},
+					{
+						"correct": "The Eclipse Cannon",
+						"difficulty": "Medium",
+						"explanation": "The cannon uses the emeralds' infinite energy to fire.",
+						"question": "Where does Eggman put the emeralds to power his weapon?",
+						"wrong": [
+							"The Egg Mobile",
+							"The Death Egg"
+						]
+					},
+					{
+						"correct": "Infinite energy",
+						"difficulty": "Medium",
+						"explanation": "Gerald aimed to harness their limitless power for scientific advancement.",
+						"question": "What property of the Chaos Emeralds did Gerald Robotnik study?",
+						"wrong": [
+							"Light refraction",
+							"Magnetic pull"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Hard",
+						"explanation": "Shadow is famously seen holding the green emerald during his first meeting with Sonic.",
+						"question": "What color is the Chaos Emerald that Shadow holds in the intro?",
+						"wrong": [
+							"Red",
+							"Purple"
+						]
+					},
+					{
+						"correct": "It causes a reaction that can destroy machinery",
+						"difficulty": "Hard",
+						"explanation": "Tails designed the fake emerald to overload the Eclipse Cannon's power core.",
+						"question": "What happens if a fake emerald is used with the same wavelength as a real one?",
+						"wrong": [
+							"It turns the user into a ghost",
+							"It creates a black hole"
+						]
+					},
+					{
+						"correct": "Amy Rose",
+						"difficulty": "Hard",
+						"explanation": "In a frantic moment, the heroes lose track of the final gem, allowing Rouge to claim it.",
+						"question": "Which character accidentally leaves the last emerald behind for Rouge to find?",
+						"wrong": [
+							"Sonic",
+							"Tails"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_chaos_emeralds",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Chaos Emeralds",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Artifact",
+					"Power"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Ultimate Lifeform",
+						"difficulty": "Easy",
+						"explanation": "The Biolizard was Gerald's first attempt at creating the Ultimate Lifeform before Shadow.",
+						"question": "What is the Biolizard a prototype of?",
+						"wrong": [
+							"Metal Sonic",
+							"Chaos"
+						]
+					},
+					{
+						"correct": "The Cannon's Core",
+						"difficulty": "Easy",
+						"explanation": "It was sealed away in the deepest part of the Space Colony ARK.",
+						"question": "Where is the Biolizard kept?",
+						"wrong": [
+							"Prison Island",
+							"The Pyramid"
+						]
+					},
+					{
+						"correct": "Space Colony ARK",
+						"difficulty": "Easy",
+						"explanation": "It merges with the station to become the Finalhazard.",
+						"question": "What does the Biolizard eventually merge with?",
+						"wrong": [
+							"The Master Emerald",
+							"Dr Eggman"
+						]
+					},
+					{
+						"correct": "A life support system",
+						"difficulty": "Medium",
+						"explanation": "It has a large mechanical life support unit attached to its back.",
+						"question": "What does the Biolizard require to survive?",
+						"wrong": [
+							"Chaos Emeralds",
+							"Water"
+						]
+					},
+					{
+						"correct": "Shadow the Hedgehog",
+						"difficulty": "Medium",
+						"explanation": "Shadow must defeat the prototype to stop the ARK's descent.",
+						"question": "Who fights the Biolizard during the Cannon's Core level?",
+						"wrong": [
+							"Sonic",
+							"Knuckles"
+						]
+					},
+					{
+						"correct": "Finalhazard",
+						"difficulty": "Medium",
+						"explanation": "After merging with the ARK, it takes on its final, massive form.",
+						"question": "What is the evolved form of the Biolizard called?",
+						"wrong": [
+							"Perfect Lizard",
+							"Ultimate Hazard"
+						]
+					},
+					{
+						"correct": "It was too aggressive and required life support",
+						"difficulty": "Hard",
+						"explanation": "Its lack of control and biological instability made it a dangerous prototype.",
+						"question": "Why was the Biolizard considered a failure by Gerald?",
+						"wrong": [
+							"It was too small",
+							"It could not use Chaos Control"
+						]
+					},
+					{
+						"correct": "Gravity control",
+						"difficulty": "Hard",
+						"explanation": "It uses pink energy orbs to manipulate gravity and float.",
+						"question": "What ability does the Biolizard use to levitate in its boss fight?",
+						"wrong": [
+							"Wings",
+							"Jet propulsion"
+						]
+					},
+					{
+						"correct": "It was placed in cryostasis",
+						"difficulty": "Hard",
+						"explanation": "Like Shadow, it was kept in a frozen state by Gerald Robotnik.",
+						"question": "How did the Biolizard survive for 50 years?",
+						"wrong": [
+							"It ate robots",
+							"It absorbed Chaos energy"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_biolizard",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Biolizard",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Prototype",
+					"Monster"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gerald Robotnik",
+						"difficulty": "Easy",
+						"explanation": "Gerald created Shadow specifically to find a cure for Maria's illness.",
+						"question": "Who is Maria's grandfather?",
+						"wrong": [
+							"Dr Eggman",
+							"The President"
+						]
+					},
+					{
+						"correct": "Space Colony ARK",
+						"difficulty": "Easy",
+						"explanation": "Because of her illness, she could never travel down to Earth.",
+						"question": "Where did Maria spend her entire life?",
+						"wrong": [
+							"Earth",
+							"Angel Island"
+						]
+					},
+					{
+						"correct": "NIDS",
+						"difficulty": "Easy",
+						"explanation": "Neuro Immuno Deficiency Syndrome (NIDS) was the disease Maria suffered from.",
+						"question": "What was Maria's terminal illness called?",
+						"wrong": [
+							"Neuro Fever",
+							"The Shadow Sickness"
+						]
+					},
+					{
+						"correct": "Shadow the Hedgehog",
+						"difficulty": "Medium",
+						"explanation": "Shadow and Maria shared a deep, sibling-like bond.",
+						"question": "Who was Maria's constant companion on the ARK?",
+						"wrong": [
+							"Sonic",
+							"Tails"
+						]
+					},
+					{
+						"correct": "She was shot by a GUN soldier",
+						"difficulty": "Medium",
+						"explanation": "During the raid on the ARK, a soldier fired at her while she was helping Shadow escape.",
+						"question": "How did Maria die?",
+						"wrong": [
+							"She died of her illness",
+							"The ARK exploded"
+						]
+					},
+					{
+						"correct": "For them to be happy",
+						"difficulty": "Medium",
+						"explanation": "Her true wish was for Shadow to protect the people of Earth.",
+						"question": "What was Maria's final wish for humanity?",
+						"wrong": [
+							"For them to be destroyed",
+							"For Shadow to rule them"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Hard",
+						"explanation": "Maria is depicted wearing a light blue dress with matching headbands.",
+						"question": "What color was Maria's dress?",
+						"wrong": [
+							"Pink",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "She sent him to Earth in an escape pod",
+						"difficulty": "Hard",
+						"explanation": "She pulled a lever to eject Shadow's pod just before she was incapacitated.",
+						"question": "What did Maria do to save Shadow during the GUN raid?",
+						"wrong": [
+							"She hid him in a closet",
+							"She fought the soldiers"
+						]
+					},
+					{
+						"correct": "They are cousins",
+						"difficulty": "Hard",
+						"explanation": "Dr. Eggman (Ivo Robotnik) is the nephew of Gerald, making him Maria's cousin.",
+						"question": "What is Dr Eggman's relationship to Maria?",
+						"wrong": [
+							"He is her brother",
+							"He is her father"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_maria_robotnik",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Maria Robotnik",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Human",
+					"Backstory",
+					"ARK"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Guardian Units of Nations",
+						"difficulty": "Easy",
+						"explanation": "GUN is the worldwide military and law enforcement organization.",
+						"question": "What does the acronym GUN stand for?",
+						"wrong": [
+							"Global United Network",
+							"Government Union of Navy"
+						]
+					},
+					{
+						"correct": "GUN",
+						"difficulty": "Easy",
+						"explanation": "Rouge works as a secret agent and spy for the organization.",
+						"question": "Who is the primary employer of Rouge the Bat?",
+						"wrong": [
+							"Dr Eggman",
+							"Sonic"
+						]
+					},
+					{
+						"correct": "Prison Island",
+						"difficulty": "Easy",
+						"explanation": "Prison Island is a major base and detention center for GUN.",
+						"question": "Which location is a high security GUN facility?",
+						"wrong": [
+							"Pumpkin Hill",
+							"Cosmic Wall"
+						]
+					},
+					{
+						"correct": "The Commander",
+						"difficulty": "Medium",
+						"explanation": "The Commander is the high ranking official in charge of GUN's operations.",
+						"question": "Who leads the GUN organization?",
+						"wrong": [
+							"The President",
+							"The General"
+						]
+					},
+					{
+						"correct": "To shut down Project Shadow",
+						"difficulty": "Medium",
+						"explanation": "The government feared the power Gerald Robotnik was creating and ordered a shutdown.",
+						"question": "Why did GUN raid the ARK 50 years ago?",
+						"wrong": [
+							"To steal the Chaos Emeralds",
+							"To fight aliens"
+						]
+					},
+					{
+						"correct": "Big Foot",
+						"difficulty": "Medium",
+						"explanation": "Big Foot is a bipedal combat mech deployed to capture Sonic.",
+						"question": "What is the name of the giant GUN robot boss that Sonic fights?",
+						"wrong": [
+							"Egg Golem",
+							"Flying Dog"
+						]
+					},
+					{
+						"correct": "Flying Dog",
+						"difficulty": "Hard",
+						"explanation": "Flying Dog is a combat VTOL unit encountered by Rouge.",
+						"question": "Which GUN unit is a flying mech piloted by an elite soldier?",
+						"wrong": [
+							"Heavy Dog",
+							"Hot Shot"
+						]
+					},
+					{
+						"correct": "Sand Ocean",
+						"difficulty": "Hard",
+						"explanation": "Eggman infiltrates this base to reach his pyramid facility.",
+						"question": "What is the name of the GUN desert base?",
+						"wrong": [
+							"Hidden Base",
+							"Dusty Desert"
+						]
+					},
+					{
+						"correct": "Blue and White",
+						"difficulty": "Hard",
+						"explanation": "GUN soldiers are typically seen in high tech blue and white armor.",
+						"question": "What color is the standard GUN soldier uniform?",
+						"wrong": [
+							"Green and Brown",
+							"Black and Red"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_gun",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "GUN",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Organization",
+					"Military",
+					"Government"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sonic",
+						"difficulty": "Easy",
+						"explanation": "Sonic must escape the forest before Prison Island explodes.",
+						"question": "Which character plays the Green Forest level?",
+						"wrong": [
+							"Shadow",
+							"Knuckles"
+						]
+					},
+					{
+						"correct": "Eight minutes",
+						"difficulty": "Easy",
+						"explanation": "A timer counts down the time until the explosives on the island detonate.",
+						"question": "What is the time limit to complete Green Forest?",
+						"wrong": [
+							"Five minutes",
+							"Ten minutes"
+						]
+					},
+					{
+						"correct": "Prison Island",
+						"difficulty": "Easy",
+						"explanation": "Green Forest is the jungle region surrounding the GUN military base.",
+						"question": "Where is Green Forest located?",
+						"wrong": [
+							"Angel Island",
+							"The ARK"
+						]
+					},
+					{
+						"correct": "White Jungle",
+						"difficulty": "Medium",
+						"explanation": "Shadow traverses White Jungle while Sonic is in Green Forest.",
+						"question": "What is the name of the Dark Story counterpart to Green Forest?",
+						"wrong": [
+							"Sky Rail",
+							"Final Chase"
+						]
+					},
+					{
+						"correct": "Shadow the Hedgehog",
+						"difficulty": "Medium",
+						"explanation": "The two hedgehogs have their second duel on the island just before it blows up.",
+						"question": "What boss does Sonic fight immediately after Green Forest?",
+						"wrong": [
+							"Big Foot",
+							"Egg Walker"
+						]
+					},
+					{
+						"correct": "Giant bails of moss",
+						"difficulty": "Medium",
+						"explanation": "Sonic can bounce on large green moss structures to reach higher paths.",
+						"question": "What unique environmental feature allows Sonic to gain high altitude in this level?",
+						"wrong": [
+							"Springs",
+							"Fans"
+						]
+					},
+					{
+						"correct": "Amy Rose",
+						"difficulty": "Hard",
+						"explanation": "Amy finds Sonic in the forest and helps him navigate the island.",
+						"question": "Who is searching for Sonic in the forest after he escapes his cell?",
+						"wrong": [
+							"Rouge",
+							"The Commander"
+						]
+					},
+					{
+						"correct": "Ancient Light",
+						"difficulty": "Hard",
+						"explanation": "The Ancient Light allows Sonic to perform the Light Dash attack on enemies.",
+						"question": "What upgrade can Sonic find hidden in Green Forest?",
+						"wrong": [
+							"Flame Ring",
+							"Bounce Bracelet"
+						]
+					},
+					{
+						"correct": "Won't Stop Just Go",
+						"difficulty": "Hard",
+						"explanation": "The high energy rock track emphasizes the urgency of the escape.",
+						"question": "What is the name of the music track for Green Forest?",
+						"wrong": [
+							"White Jungle",
+							"Rhythm and Balance"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_green_forest",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Green Forest",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Island",
+					"Jungle"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Knuckles the Echidna",
+						"difficulty": "Easy",
+						"explanation": "Knuckles hunts for emerald shards in this spooky mountain level.",
+						"question": "Which character's stage is Pumpkin Hill?",
+						"wrong": [
+							"Sonic",
+							"Rouge"
+						]
+					},
+					{
+						"correct": "Halloween",
+						"difficulty": "Easy",
+						"explanation": "The level features jack o lanterns, ghosts, and a graveyard aesthetic.",
+						"question": "What is the theme of Pumpkin Hill?",
+						"wrong": [
+							"Christmas",
+							"Summer"
+						]
+					},
+					{
+						"correct": "Hip Hop",
+						"difficulty": "Easy",
+						"explanation": "The level is famous for its rap track performed by Hunnid P.",
+						"question": "What kind of music plays during this stage?",
+						"wrong": [
+							"Heavy Metal",
+							"Classical"
+						]
+					},
+					{
+						"correct": "Church Mountain Ghost Mountain and Pumpkin Mountain",
+						"difficulty": "Medium",
+						"explanation": "The level is divided into three distinct peaks connected by rail lines.",
+						"question": "What are the names of the three main mountains in the level?",
+						"wrong": [
+							"Big Hill Small Hill and Flat Hill",
+							"Spooky Peak Scary Peak and Sad Peak"
+						]
+					},
+					{
+						"correct": "King Boom Boo",
+						"difficulty": "Medium",
+						"explanation": "Knuckles fights the giant ghost in the Death Chamber, which is connected to the Hill.",
+						"question": "What is the name of the boss Knuckles fights in this area?",
+						"wrong": [
+							"Ghost King",
+							"Shadow"
+						]
+					},
+					{
+						"correct": "Rocket platforms",
+						"difficulty": "Medium",
+						"explanation": "Knuckles must use stationary rockets to blast up to the higher floating platforms.",
+						"question": "How do you reach the highest parts of the mountains?",
+						"wrong": [
+							"Flying",
+							"Elevators"
+						]
+					},
+					{
+						"correct": "Ghosts",
+						"difficulty": "Hard",
+						"explanation": "Various types of ghosts haunt the graveyard and mountains.",
+						"question": "Which enemy type is unique to the Pumpkin Hill area?",
+						"wrong": [
+							"Robots",
+							"Chaos"
+						]
+					},
+					{
+						"correct": "I ain't gonna let it get to me I'm just gonna creep",
+						"difficulty": "Hard",
+						"explanation": "The lyrics reflect Knuckles' stoic attitude despite the spooky environment.",
+						"question": "What is the specific lyric about the 'Great Pumpkin' in the song?",
+						"wrong": [
+							"The pumpkin is big and round",
+							"Watch out for the pumpkin king"
+						]
+					},
+					{
+						"correct": "Hammer Gloves",
+						"difficulty": "Hard",
+						"explanation": "The Hammer Gloves allow Knuckles to break hardened steel containers.",
+						"question": "What accessory is found in the nearby Death Chamber?",
+						"wrong": [
+							"Air Necklace",
+							"Shovel Claw"
+						]
+					}
+				]
+			},
+			"id": "sonic_adventure_2_pumpkin_hill",
+			"meta": {
+				"date_added": "2026-02-24",
+				"entity_category": "Theme Item",
+				"full_title": "Pumpkin Hill",
+				"theme_origin": "sonic adventure 2",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Graveyard",
+					"Mountain"
+				]
+			}
 		}
 	],
 	"peripherals": [
@@ -30496,12 +32272,84 @@
 					"name": "SHIP LOGIC"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Spirit of Fire",
 						"Captain Cutter"
 					],
 					"name": "Captain and His ship"
+				}
+			]
+		},
+		{
+			"id": "sonic adventure 2",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Sonic the Hedgehog",
+						"Miles Tails Prower",
+						"Knuckles the Echidna"
+					],
+					"name": "The Hero Story"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Dr Eggman",
+						"Shadow the Hedgehog",
+						"Rouge the Bat"
+					],
+					"name": "The Dark Story"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Chaos Emeralds",
+						"Shadow the Hedgehog"
+					],
+					"name": "Chaos Control"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sonic the Hedgehog",
+						"City Escape"
+					],
+					"name": "FOLLOW ME, SET ME FREE"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Knuckles the Echidna",
+						"Rouge the Bat",
+						"The Master Emerald"
+					],
+					"name": "Shattered"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sonic the Hedgehog",
+						"Shadow the Hedgehog"
+					],
+					"name": "Eternal Rivals"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Maria Robotnik",
+						"Shadow the Hedgehog"
+					],
+					"name": "Best Friends"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Knuckles the Echidna",
+						"Pumpkin Hill"
+					],
+					"name": "A Ghost's Pumpkin Soup"
 				}
 			]
 		}
