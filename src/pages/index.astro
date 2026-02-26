@@ -10,11 +10,12 @@ if (Astro.response && Astro.response.headers) {
 
 <Layout metadata={{ title: 'Skill Check - Play Now' }}>
   <main
-    class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black md:relative md:min-h-screen md:z-auto md:py-4 overflow-hidden"
+    class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#0e0e11] md:relative md:min-h-screen md:z-auto md:py-4 overflow-hidden"
   >
+    <!-- Notice we removed the md:border and shadow-2xl so it blends perfectly! -->
     <div
       id="game-container"
-      class="game-wrapper relative group w-full h-full md:h-auto md:aspect-video md:max-h-[85vh] md:max-w-[calc(85vh*1.778)] shadow-2xl md:border border-white/10 bg-black mx-auto"
+      class="game-wrapper relative group w-full h-full md:h-auto md:aspect-video md:max-h-[85vh] md:max-w-[calc(85vh*1.778)] bg-[#0e0e11] mx-auto"
     >
       <iframe
         src="/play/index.html?v=3"
