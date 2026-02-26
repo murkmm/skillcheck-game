@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772057330,
+	"last_updated": 1772146849,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1410,6 +1410,68 @@
 				"halo_wars_spartan_douglas",
 				"halo_wars_the_cartographer",
 				"halo_wars_voridus"
+			]
+		},
+		"2026-02-27": {
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Pokemon Red Day!",
+			"share_text": "Fire Red and Leaf Green !",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"pokemon_pikachu",
+				"pokemon_red",
+				"pokemon_mewtwo"
+			],
+			"starters": [
+				"pokemon_pikachu",
+				"pokemon_red",
+				"pokemon_s.s._anne",
+				"pokemon_master_ball",
+				"pokemon_lavender_town",
+				"pokemon_mewtwo",
+				"pokemon_brock",
+				"pokemon_bicycle",
+				"pokemon_team_rocket",
+				"pokemon_elite_four",
+				"pokemon_surf",
+				"pokemon_blue",
+				"pokemon_pokédex",
+				"pokemon_cinnabar_island",
+				"pokemon_oak",
+				"pokemon_cynthia",
+				"pokemon_potions",
+				"pokemon_tms",
+				"pokemon_mt._silver",
+				"pokemon_nurse_joy",
+				"pokemon_charizard",
+				"pokemon_gym_badges",
+				"pokemon_poké_ball",
+				"pokemon_squirtle",
+				"pokemon_bulbasaur",
+				"pokemon_eevee",
+				"pokemon_snorlax",
+				"pokemon_jigglypuff",
+				"pokemon_lapras",
+				"pokemon_gengar",
+				"pokemon_gyarados",
+				"pokemon_lugia",
+				"pokemon_rayquaza",
+				"pokemon_ditto",
+				"pokemon_zubat"
 			]
 		}
 	}
