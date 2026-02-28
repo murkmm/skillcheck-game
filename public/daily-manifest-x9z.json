@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772301056,
+	"last_updated": 1772301136,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1519,6 +1519,57 @@
 				"bioshock_eve",
 				"bioshock_booker_dewitt",
 				"bioshock_zachary_hale_comstock"
+			]
+		},
+		"2026-03-01": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Manimal Bossing",
+			"share_text": "Bruh",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"animal_crossing_harvey",
+				"animal_crossing_kapp'n",
+				"animal_crossing_celeste"
+			],
+			"starters": [
+				"animal_crossing_tom_nook",
+				"animal_crossing_isabelle",
+				"animal_crossing_the_museum",
+				"animal_crossing_k.k._slider",
+				"animal_crossing_redd",
+				"animal_crossing_bell_bag",
+				"animal_crossing_stalk_market",
+				"animal_crossing_net",
+				"animal_crossing_gyroid",
+				"animal_crossing_resident_services",
+				"animal_crossing_dodo_airlines",
+				"animal_crossing_flick",
+				"animal_crossing_blathers",
+				"animal_crossing_celeste",
+				"animal_crossing_sable",
+				"animal_crossing_brewster",
+				"animal_crossing_gulliver",
+				"animal_crossing_c.j.",
+				"animal_crossing_reese",
+				"animal_crossing_cyrus",
+				"animal_crossing_leif",
+				"animal_crossing_harvey",
+				"animal_crossing_kapp'n",
+				"animal_crossing_lottie"
 			]
 		}
 	}
