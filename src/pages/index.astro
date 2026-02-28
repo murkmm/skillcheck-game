@@ -10,12 +10,12 @@ if (Astro.response && Astro.response.headers) {
 
 <Layout metadata={{ title: 'Skill Check - Play Now' }}>
   <main
-    class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#0e0e11] md:relative md:min-h-screen md:z-auto md:py-4 overflow-hidden"
+    class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#0e0e11] md:relative md:min-h-screen md:z-auto md:py-8 overflow-hidden md:overflow-auto"
   >
-    <!-- Notice we removed the md:border and shadow-2xl so it blends perfectly! -->
+    <!-- THE GAME -->
     <div
       id="game-container"
-      class="game-wrapper relative group w-full h-full md:h-auto md:aspect-video md:max-h-[85vh] md:max-w-[calc(85vh*1.778)] bg-[#0e0e11] mx-auto"
+      class="game-wrapper relative group w-full h-full md:h-auto md:aspect-video md:max-h-[85vh] md:max-w-[calc(85vh*1.778)] bg-[#0e0e11] mx-auto shrink-0"
     >
       <iframe
         src="/play/index.html?v=3"
@@ -65,13 +65,44 @@ if (Astro.response && Astro.response.headers) {
       </button>
     </div>
 
-    <div class="hidden md:flex md:static md:flex-wrap justify-center gap-4 text-sm text-slate-500 mt-6">
+    <!-- FOOTER LINKS (Hidden on Mobile) -->
+    <div class="hidden md:flex md:static md:flex-wrap justify-center gap-6 text-sm text-slate-500 mt-8 shrink-0">
       <a href="/terms" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Terms of Use</a>
       <a href="/privacy" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Privacy Policy</a
       >
       <a href="/refunds" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Refund Policy</a>
       <a href="mailto:support@ki10games.com" class="hover:text-white transition">Contact Support</a>
     </div>
+
+    <!-- SEO / ADSENSE APPROVAL TEXT (Hidden on Mobile, Visible on Desktop) -->
+    <section class="hidden md:block max-w-4xl mx-auto text-slate-400 mt-12 px-6 pb-24 text-left shrink-0">
+      <h1 class="text-3xl font-bold text-white mb-4">About Skill Check</h1>
+      <p class="mb-6 leading-relaxed">
+        Skill Check is a daily retro-themed trivia and deckbuilding game. Test your video game knowledge, discover
+        secret cartridge synergies, and compete on the global daily leaderboards. Every day features a newly curated set
+        of cartridges spanning decades of gaming history.
+      </p>
+
+      <h2 class="text-2xl font-bold text-white mb-4">How to Play</h2>
+      <ul class="list-disc pl-6 space-y-3 marker:text-cyan-500">
+        <li>
+          <strong class="text-slate-200">Draft Cartridges:</strong> Select from classic gaming franchises to build your console
+          stack.
+        </li>
+        <li>
+          <strong class="text-slate-200">Find Synergies:</strong> Slot matching cartridges together to trigger massive score
+          multipliers and unlock hidden lore.
+        </li>
+        <li>
+          <strong class="text-slate-200">Answer Trivia:</strong> Answer questions about the games you slotted. The higher
+          you stack, the harder the questions become.
+        </li>
+        <li>
+          <strong class="text-slate-200">Maintain Your Streak:</strong> Come back every day for a new challenge, build your
+          daily streak, and fill out your Museum collection!
+        </li>
+      </ul>
+    </section>
   </main>
 </Layout>
 
