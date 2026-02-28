@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772146849,
+	"last_updated": 1772301056,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1472,6 +1472,53 @@
 				"pokemon_rayquaza",
 				"pokemon_ditto",
 				"pokemon_zubat"
+			]
+		},
+		"2026-02-28": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Bioshock Test",
+			"share_text": "Bigger Daddy",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"bioshock_little_sister",
+				"bioshock_big_daddy",
+				"bioshock_elizabeth"
+			],
+			"starters": [
+				"bioshock_jack",
+				"bioshock_andrew_ryan",
+				"bioshock_big_daddy",
+				"bioshock_little_sister",
+				"bioshock_rapture",
+				"bioshock_plasmids",
+				"bioshock_elizabeth",
+				"bioshock_columbia",
+				"bioshock_songbird",
+				"bioshock_adam",
+				"bioshock_frank_fontaine",
+				"bioshock_sander_cohen",
+				"bioshock_bridget_tenenbaum",
+				"bioshock_splicers",
+				"bioshock_vigors",
+				"bioshock_the_lutece_twins",
+				"bioshock_fort_frolic",
+				"bioshock_eve",
+				"bioshock_booker_dewitt",
+				"bioshock_zachary_hale_comstock"
 			]
 		}
 	}
