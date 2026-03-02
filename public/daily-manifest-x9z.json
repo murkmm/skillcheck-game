@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772301136,
+	"last_updated": 1772484291,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1570,6 +1570,49 @@
 				"animal_crossing_harvey",
 				"animal_crossing_kapp'n",
 				"animal_crossing_lottie"
+			]
+		},
+		"2026-03-03": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Resident Evil Daily Test",
+			"share_text": "Boulder",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"resident_evil_leon_s._kennedy",
+				"resident_evil_chris_redfield",
+				"resident_evil_jill_valentine"
+			],
+			"starters": [
+				"resident_evil_jill_valentine",
+				"resident_evil_chris_redfield",
+				"resident_evil_albert_wesker",
+				"resident_evil_nemesis",
+				"resident_evil_lady_dimitrescu",
+				"resident_evil_spencer_mansion",
+				"resident_evil_raccoon_city",
+				"resident_evil_the_merchant",
+				"resident_evil_green_herb",
+				"resident_evil_rocket_launcher",
+				"resident_evil_t-virus",
+				"resident_evil_claire_redfield",
+				"resident_evil_ada_wong",
+				"resident_evil_mr._x",
+				"resident_evil_typewriter",
+				"resident_evil_leon_s._kennedy"
 			]
 		}
 	}
