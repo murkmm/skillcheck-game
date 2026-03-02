@@ -31254,87 +31254,873 @@
 					"Mountain"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Raccoon Police Department",
+						"difficulty": "Easy",
+						"explanation": "Leon's first day on the job became a nightmare when he arrived in the middle of a city-wide zombie outbreak.",
+						"question": "On his first day as a police officer in Raccoon City, Leon is famously wearing the uniform of which organization?",
+						"wrong": [
+							"Special Tactics and Rescue Service",
+							"Secret Service",
+							"Federal Bureau of Investigation"
+						]
+					},
+					{
+						"correct": "The President",
+						"difficulty": "Medium",
+						"explanation": "Leon transitioned from a rookie cop to a top-tier government agent specifically tasked with protecting the President's family.",
+						"question": "In Resident Evil 4, Leon is sent to a remote European village to rescue the daughter of which high-ranking official?",
+						"wrong": [
+							"The Prime Minister",
+							"The Secretary of State",
+							"The CIA Director"
+						]
+					},
+					{
+						"correct": "Las Plagas",
+						"difficulty": "Hard",
+						"explanation": "While Leon fought zombies in his youth, his later career was defined by the parasitic Las Plagas used by Los Illuminados.",
+						"question": "Which specific viral strain was Leon's partner, Jack Krauser, infected with during their mission in South America?",
+						"wrong": [
+							"T-Virus",
+							"G-Virus",
+							"Verdugo Strain"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_leon_s._kennedy",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Leon S. Kennedy",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Agent",
+					"Survivor"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "STARS",
+						"difficulty": "Easy",
+						"explanation": "Jill served as the Rear Security for the Alpha Team of the Special Tactics and Rescue Service.",
+						"question": "Jill Valentine is a key member of which elite Raccoon City police unit?",
+						"wrong": [
+							"SWAT",
+							"BSAA",
+							"Wolfpack"
+						]
+					},
+					{
+						"correct": "Master of Unlocking",
+						"difficulty": "Medium",
+						"explanation": "This line from the original 1996 game became one of the most famous and memed quotes in gaming history.",
+						"question": "Jill famously earned which title from her teammate Barry Burton after she successfully bypassed a room trap using her lockpick?",
+						"wrong": [
+							"Queen of Keys",
+							"The Locksmith",
+							"Steel Picker"
+						]
+					},
+					{
+						"correct": "P30",
+						"difficulty": "Hard",
+						"explanation": "The P30 chemical gave Jill superhuman speed and strength but stripped her of her free will.",
+						"question": "In Resident Evil 5, Jill is controlled by Albert Wesker via a device on her chest that regularly administers which chemical?",
+						"wrong": [
+							"Uroboros",
+							"Progenitor",
+							"T-Abyss"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_jill_valentine",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Jill Valentine",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"STARS",
+					"Delta Force"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Claire Redfield",
+						"difficulty": "Easy",
+						"explanation": "The search for Chris is what originally brought Claire to the infested Raccoon City in the second game.",
+						"question": "Chris Redfield is the older brother of which other recurring series protagonist?",
+						"wrong": [
+							"Jill Valentine",
+							"Rebecca Chambers",
+							"Ada Wong"
+						]
+					},
+					{
+						"correct": "Punching a boulder",
+						"difficulty": "Medium",
+						"explanation": "The 'Boulder Punch' became a legendary moment of action-movie absurdity in the series' history.",
+						"question": "During the final battle of Resident Evil 5, Chris performs which physically impossible feat to move a large object in a volcano?",
+						"wrong": [
+							"Kicking a tank",
+							"Lifting a truck",
+							"Throwing a helicopter"
+						]
+					},
+					{
+						"correct": "Air Force",
+						"difficulty": "Hard",
+						"explanation": "Chris's piloting skills are frequently showcased when he needs to fly himself or his team into biohazard zones.",
+						"question": "Before joining STARS, Chris Redfield was an elite pilot for which branch of the United States military?",
+						"wrong": [
+							"Navy",
+							"Marines",
+							"Army Rangers"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_chris_redfield",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Chris Redfield",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"STARS",
+					"BSAA"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sunglasses",
+						"difficulty": "Easy",
+						"explanation": "Wesker's sunglasses hide his glowing orange eyes, a side effect of the experimental virus in his system.",
+						"question": "Wesker is almost never seen without which iconic accessory, even when indoors or at night?",
+						"wrong": [
+							"A Beret",
+							"A Trench Coat",
+							"Leather Gloves"
+						]
+					},
+					{
+						"correct": "Umbrella Corporation",
+						"difficulty": "Medium",
+						"explanation": "Wesker was a double agent who lured his own team to the Spencer Mansion to gather combat data for Umbrella.",
+						"question": "Which pharmaceutical company was Wesker secretly working for while acting as the leader of the STARS Alpha Team?",
+						"wrong": [
+							"Tricell",
+							"WilPharma",
+							"Neo-Umbrella"
+						]
+					},
+					{
+						"correct": "Uroboros",
+						"difficulty": "Hard",
+						"explanation": "Uroboros was designed to force a forced evolution on humanity, killing those with 'weak' DNA.",
+						"question": "Wesker's ultimate plan in Resident Evil 5 involved releasing which virus into the atmosphere via a stealth bomber?",
+						"wrong": [
+							"T-Veronica",
+							"G-Virus",
+							"C-Virus"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_albert_wesker",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Albert Wesker",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Captain",
+					"Umbrella"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "STARS",
+						"difficulty": "Easy",
+						"explanation": "Nemesis was programmed specifically to eliminate the surviving members of the STARS unit in Raccoon City.",
+						"question": "What is the only word that Nemesis repeatedly growls while pursuing his targets?",
+						"wrong": [
+							"Jill",
+							"Umbrella",
+							"Death"
+						]
+					},
+					{
+						"correct": "Rocket Launcher",
+						"difficulty": "Medium",
+						"explanation": "While most Tyrants rely on claws, Nemesis was intelligent enough to utilize advanced military hardware.",
+						"question": "Nemesis is famously equipped with which heavy weapon to take down targets from a distance?",
+						"wrong": [
+							"Minigun",
+							"Flamethrower",
+							"Grenade Launcher"
+						]
+					},
+					{
+						"correct": "NE-Alpha",
+						"difficulty": "Hard",
+						"explanation": "The NE-Alpha parasite gave Nemesis its increased intelligence and the ability to follow complex orders.",
+						"question": "The Nemesis-T Type was created by infecting a Tyrant with which specific type of parasite?",
+						"wrong": [
+							"Las Plagas",
+							"Cadou",
+							"Mother Mold"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_nemesis",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Nemesis",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Tyrant",
+					"Stalker"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Her extreme height",
+						"difficulty": "Easy",
+						"explanation": "Standing at nearly 10 feet tall, Lady Dimitrescu became an instant internet sensation upon her reveal.",
+						"question": "Alcina Dimitrescu is famous for which striking physical characteristic that makes her tower over the player?",
+						"wrong": [
+							"Her four arms",
+							"Her wings",
+							"Her lack of a head"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "Bela, Cassandra, and Daniela are her daughters, created from a swarm of blood-drinking insects.",
+						"question": "How many daughters does Lady Dimitrescu have living with her in her castle?",
+						"wrong": [
+							"Two",
+							"Four",
+							"Five"
+						]
+					},
+					{
+						"correct": "The Cadou Parasite",
+						"difficulty": "Hard",
+						"explanation": "Mother Miranda implanted the Cadou into Alcina, which granted her immortality but required her to consume human blood.",
+						"question": "Lady Dimitrescu's monstrous transformation is the result of being infected with which specific organism?",
+						"wrong": [
+							"The T-Virus",
+							"The G-Virus",
+							"The Abyss Virus"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_lady_dimitrescu",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Lady Dimitrescu",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Vampire",
+					"Castle"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Arklay Mountains",
+						"difficulty": "Easy",
+						"explanation": "The mansion served as a secret laboratory for the Umbrella Corporation under the guise of a private estate.",
+						"question": "The Spencer Mansion, the setting of the first game, is located deep within which mountain range?",
+						"wrong": [
+							"Appalachian Mountains",
+							"Rocky Mountains",
+							"Pyrenees Mountains"
+						]
+					},
+					{
+						"correct": "George Trevor",
+						"difficulty": "Medium",
+						"explanation": "Spencer had the architect and his family imprisoned within the mansion to ensure its secrets never left the grounds.",
+						"question": "Who was the architect commissioned by Oswell E. Spencer to design the trap-filled mansion?",
+						"wrong": [
+							"Edward Ashford",
+							"James Marcus",
+							"Henry Cooney"
+						]
+					},
+					{
+						"correct": "Snake",
+						"difficulty": "Hard",
+						"explanation": "The four main keys of the mansion are the Sword, Armor, Shield, and Helmet keys.",
+						"question": "The iconic 'Shield Key' found in the mansion features the emblem of which type of animal?",
+						"wrong": [
+							"Crow",
+							"Wolf",
+							"Spider"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_spencer_mansion",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Spencer Mansion",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Arklay",
+					"Estate",
+					"Classic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Destroyed by a missile",
+						"difficulty": "Easy",
+						"explanation": "The US government authorized 'Operation Mission Code: Barrier' to incinerate the city and contain the T-Virus.",
+						"question": "What was the ultimate fate of Raccoon City at the end of the 1998 outbreak?",
+						"wrong": [
+							"Flooded by a dam",
+							"Quarantined forever",
+							"Burnt to the ground"
+						]
+					},
+					{
+						"correct": "Umbrella Corporation",
+						"difficulty": "Medium",
+						"explanation": "Umbrella funded the police, the hospital, and most of the city's infrastructure to mask their illegal research.",
+						"question": "Which large pharmaceutical corporation was the primary employer and secret ruler of Raccoon City?",
+						"wrong": [
+							"Abstergo",
+							"Aperture Science",
+							"Weyland-Yutani"
+						]
+					},
+					{
+						"correct": "Art Museum",
+						"difficulty": "Hard",
+						"explanation": "This explains why the police station is filled with elaborate statues, puzzles, and secret passages.",
+						"question": "The Raccoon City Police Department (RPD) building used to serve what function before it was a police station?",
+						"wrong": [
+							"Orphanage",
+							"Hospital",
+							"City Hall"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_raccoon_city",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Raccoon City",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Outbreak",
+					"Urban",
+					"Ruins"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "What are you buying",
+						"difficulty": "Easy",
+						"explanation": "The Merchant's gravelly voice and mysterious nature made him a fan-favorite character in Resident Evil 4.",
+						"question": "What is the iconic four-word question the Merchant asks every time you open his shop menu?",
+						"wrong": [
+							"Need some help",
+							"Got any gold",
+							"Welcome to my shop"
+						]
+					},
+					{
+						"correct": "Pesetas",
+						"difficulty": "Medium",
+						"explanation": "The game takes place in rural Spain, where the currency used prior to the Euro was the Peseta.",
+						"question": "What currency does the Merchant accept from Leon in exchange for weapons and upgrades?",
+						"wrong": [
+							"Gold Coins",
+							"Lei",
+							"Dollars"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Hard",
+						"explanation": "The blue torches are a safe haven for players, indicating a zone where they can upgrade their gear.",
+						"question": "What color flame does the Merchant use to signal his shop locations throughout the game?",
+						"wrong": [
+							"Purple",
+							"Green",
+							"White"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_the_merchant",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "The Merchant",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Shop",
+					"Mysterious"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Restoring health",
+						"difficulty": "Easy",
+						"explanation": "Green Herbs are the most common healing item in the series and can be mixed for greater potency.",
+						"question": "What is the primary gameplay effect of consuming a Green Herb?",
+						"wrong": [
+							"Increasing speed",
+							"Granting ammo",
+							"Curing poison"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "While Green heals, Blue is the medicinal herb used to neutralize toxins from spiders and snakes.",
+						"question": "Which color herb must be mixed with a Green Herb to cure the 'Poison' status effect?",
+						"wrong": [
+							"Red",
+							"Yellow",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Arklay Mountains",
+						"difficulty": "Hard",
+						"explanation": "The specific soil and climate of the Arklay Mountains produced these herbs, which Umbrella later studied for their properties.",
+						"question": "In the Resident Evil lore, these medicinal herbs are unique species native to which specific mountain range?",
+						"wrong": [
+							"Himalayas",
+							"Swiss Alps",
+							"Andes"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_green_herb",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Green Herb",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Healing",
+					"Flora"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The final boss fight",
+						"difficulty": "Easy",
+						"explanation": "It is the series' 'Excalibur,' usually dropped by an ally to finish off a mutating monster once and for all.",
+						"question": "The Rocket Launcher is traditionally given to the player during which specific part of a Resident Evil game?",
+						"wrong": [
+							"The opening scene",
+							"The mid-game chase",
+							"The bonus missions"
+						]
+					},
+					{
+						"correct": "Brad Vickers",
+						"difficulty": "Medium",
+						"explanation": "Brad, the pilot who initially fled, returns in the nick of time to provide the firepower needed to win.",
+						"question": "In the original Resident Evil, who drops the Rocket Launcher for Jill or Chris during the final battle with the Tyrant?",
+						"wrong": [
+							"Barry Burton",
+							"Albert Wesker",
+							"Rebecca Chambers"
+						]
+					},
+					{
+						"correct": "Complete the game quickly",
+						"difficulty": "Hard",
+						"explanation": "Speedrunning is a core part of the series, with the Infinite Rocket Launcher serving as the ultimate reward for mastery.",
+						"question": "What is the standard requirement to unlock the Infinite Rocket Launcher in most Resident Evil games?",
+						"wrong": [
+							"Find every collectible",
+							"Kill every enemy",
+							"Never save the game"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_rocket_launcher",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Rocket Launcher",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Heavy",
+					"Finisher"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Zombie",
+						"difficulty": "Easy",
+						"explanation": "The T-Virus causes brain necrosis and a frantic hunger, turning people into the 'shuffling undead'.",
+						"question": "What is the most common type of enemy created when a human is infected with the T-Virus?",
+						"wrong": [
+							"Vampire",
+							"Werewolf",
+							"Ghost"
+						]
+					},
+					{
+						"correct": "Tyrant",
+						"difficulty": "Medium",
+						"explanation": "The virus was specifically developed to create the 'Tyrant,' the ultimate biological super-soldier.",
+						"question": "In the name 'T-Virus', what does the 'T' actually stand for?",
+						"wrong": [
+							"Toxic",
+							"Terror",
+							"Tank"
+						]
+					},
+					{
+						"correct": "Stairway to the Sun",
+						"difficulty": "Hard",
+						"explanation": "The flower was used by the Ndipaya tribe in Africa for their king-selection rituals before Umbrella discovered it.",
+						"question": "The T-Virus was originally derived from the Progenitor Virus, which was found in a flower called what?",
+						"wrong": [
+							"Blood Rose",
+							"Nightshade",
+							"Umbrella Lily"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_t-virus",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "T-Virus",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Virus",
+					"Science",
+					"Umbrella"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Motorcycle",
+						"difficulty": "Easy",
+						"explanation": "Claire rides into town on a motorcycle, wearing her signature red biker vest.",
+						"question": "What mode of transportation does Claire use to arrive in Raccoon City at the start of Resident Evil 2?",
+						"wrong": [
+							"Sports Car",
+							"Bus",
+							"Train"
+						]
+					},
+					{
+						"correct": "Sherry Birkin",
+						"difficulty": "Medium",
+						"explanation": "Sherry is the daughter of the scientists who created the G-Virus, making her a target for Umbrella.",
+						"question": "Claire spends much of Resident Evil 2 protecting and trying to escape with which young girl?",
+						"wrong": [
+							"Ashley Graham",
+							"Natalia Korda",
+							"Moira Burton"
+						]
+					},
+					{
+						"correct": "TerraSave",
+						"difficulty": "Hard",
+						"explanation": "Unlike her brother Chris, Claire chose a path of civilian activism and biohazard relief rather than military combat.",
+						"question": "In Resident Evil Revelations 2, Claire works for which human rights organization?",
+						"wrong": [
+							"The BSAA",
+							"The FBC",
+							"Global Watch"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_claire_redfield",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Claire Redfield",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Survivor",
+					"Biker"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Whether it is a dress or a tactical suit, Ada almost always incorporates red into her outfit.",
+						"question": "Ada Wong is most famously associated with wearing which color of clothing?",
+						"wrong": [
+							"Black",
+							"Blue",
+							"White"
+						]
+					},
+					{
+						"correct": "Grapple Gun",
+						"difficulty": "Medium",
+						"explanation": "The grapple gun is Ada's signature gadget, allowing her to move through environments differently than Leon.",
+						"question": "What specialized tool does Ada frequently use to traverse high ledges and escape dangerous situations?",
+						"wrong": [
+							"Jetpack",
+							"Climbing Claws",
+							"Teleporter"
+						]
+					},
+					{
+						"correct": "FBI Agent",
+						"difficulty": "Hard",
+						"explanation": "She used the FBI cover story to gain Leon's trust and help her track down the G-Virus sample.",
+						"question": "In Resident Evil 2, Ada initially lies to Leon about her identity, claiming to be a member of which profession?",
+						"wrong": [
+							"Journalist",
+							"Corporate Spy",
+							"Doctor"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_ada_wong",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Ada Wong",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Spy",
+					"Mercenary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fedora",
+						"difficulty": "Easy",
+						"explanation": "The fedora was added in the remake and became an iconic part of his intimidating silhouette.",
+						"question": "Mr. X is known for relentlessly pursuing the player through the RPD while wearing which type of hat?",
+						"wrong": [
+							"Beret",
+							"Baseball Cap",
+							"Top Hat"
+						]
+					},
+					{
+						"correct": "T-00",
+						"difficulty": "Medium",
+						"explanation": "While he is a T-103 series Tyrant, his specific unit deployed to the RPD is designated T-00.",
+						"question": "What is the official model designation for the Tyrant commonly known as Mr. X?",
+						"wrong": [
+							"T-103",
+							"Nemesis Alpha",
+							"G-Type"
+						]
+					},
+					{
+						"correct": "Retrieve a G-Virus sample",
+						"difficulty": "Hard",
+						"explanation": "He was sent by Umbrella to recover the virus sample hidden in Sherry Birkin's pendant.",
+						"question": "What is Mr. X's primary mission while stalking the hallways of the Raccoon City Police Department?",
+						"wrong": [
+							"Kill Leon Kennedy",
+							"Destroy the RPD",
+							"Protect Sherry Birkin"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_mr._x",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Mr. X",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Tyrant",
+					"Stalker"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Saving the game",
+						"difficulty": "Easy",
+						"explanation": "Typewriters are the traditional save points, often located in 'Safe Rooms' with soothing music.",
+						"question": "In the classic Resident Evil games, what is the primary purpose of interacting with a Typewriter?",
+						"wrong": [
+							"Upgrading weapons",
+							"Checking the map",
+							"Decoding messages"
+						]
+					},
+					{
+						"correct": "Ink Ribbon",
+						"difficulty": "Medium",
+						"explanation": "Ink Ribbons were limited, forcing players to think carefully about when it was truly worth saving their progress.",
+						"question": "In the early games, you cannot use a typewriter unless you have which consumable item in your inventory?",
+						"wrong": [
+							"Paper Sheet",
+							"Carbon Paper",
+							"Typewriter Key"
+						]
+					},
+					{
+						"correct": "Resident Evil 4",
+						"difficulty": "Hard",
+						"explanation": "RE4 modernized the series by removing the limited-save mechanic, though it kept the typewriter as a nostalgic save point.",
+						"question": "Which game in the main series was the first to allow players to save at a typewriter without using an Ink Ribbon?",
+						"wrong": [
+							"Resident Evil 3",
+							"Resident Evil 7",
+							"Resident Evil Village"
+						]
+					}
+				]
+			},
+			"id": "resident_evil_typewriter",
+			"meta": {
+				"date_added": "2026-03-02",
+				"entity_category": "Theme Item",
+				"full_title": "Typewriter",
+				"theme_origin": "resident evil",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Save",
+					"Icon"
+				]
+			}
 		}
 	],
-	"peripherals": [
-		{
-			"color": "#FFD700",
-			"desc": "Adds +500 points to every scoring action.",
-			"effect_id": "EFF_FLAT_500",
-			"id": "charon_counter_v1",
-			"keywords": [
-				"Value",
-				"Economy"
-			],
-			"name": "Charon's Obol Counter",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#8B0000",
-			"desc": "Grants a substantial bonus multiplier when three scoring elements are completed simultaneously.",
-			"effect_id": "EFF_STACK_3",
-			"id": "infernal_triptych_mk2",
-			"keywords": [
-				"Combo",
-				"Setup",
-				"Cluster"
-			],
-			"name": "The Infernal Triptych",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#007FFF",
-			"desc": "Provides an escalating score multiplier bonus for consecutive scoring actions that share the same designated Tag or Manufacturer ID.",
-			"effect_id": "EFF_BRAND_LOYALTY",
-			"id": "olympian_patron_seal",
-			"keywords": [
-				"Synergy",
-				"Loyalty",
-				"Tags"
-			],
-			"name": "Olympian Patronage Seal",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#3D0000",
-			"desc": "Grants 3x Score Multiplier if only one Peripheral Cartridge is currently active.",
-			"effect_id": "EFF_STACK_1",
-			"id": "cthonic_focus_coil",
-			"keywords": [
-				"Focus",
-				"Solitude",
-				"Underworld"
-			],
-			"name": "Cthonic Focus Coil",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#B83A00",
-			"desc": "Doubles all earned scores (x2 total modifier) when playing on 'Hard' or 'Nightmare' difficulty settings.",
-			"effect_id": "EFF_HARD_BOOST",
-			"id": "pact_modifier_unit",
-			"keywords": [
-				"Challenge",
-				"Heat",
-				"Punishment"
-			],
-			"name": "The Pact Modifier",
-			"type": "PERIPHERAL"
-		},
-		{
-			"color": "#FFD700",
-			"desc": "Adds +250 points to the total score for every 10-point increment maintained in the current action streak. Resets upon score decay or error.",
-			"effect_id": "EFF_STREAK_FLAT",
-			"id": "olympian_rhapsody_driver",
-			"keywords": [
-				"Flow",
-				"Rhythm",
-				"Momentum"
-			],
-			"name": "Olympian Rhapsody",
-			"type": "PERIPHERAL"
-		}
-	],
+	"peripherals": [],
 	"themes": [
 		{
 			"id": "halo",
@@ -32344,12 +33130,109 @@
 					"name": "Best Friends"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Knuckles the Echidna",
 						"Pumpkin Hill"
 					],
 					"name": "A Ghost's Pumpkin Soup"
+				}
+			]
+		},
+		{
+			"id": "resident evil",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Chris Redfield",
+						"Jill Valentine",
+						"Albert Wesker"
+					],
+					"name": "S.T.A.R.S. Alpha Team"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Leon S. Kennedy",
+						"Claire Redfield",
+						"Raccoon City"
+					],
+					"name": "Raccoon City Survivors"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Nemesis",
+						"Mr. X",
+						"Lady Dimitrescu"
+					],
+					"name": "Relentless Pursuers"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Typewriter",
+						"Green Herb",
+						"The Merchant"
+					],
+					"name": "A Moment Of Peace"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Chris Redfield",
+						"Claire Redfield"
+					],
+					"name": "The Redfield Bloodline"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Leon S. Kennedy",
+						"Ada Wong"
+					],
+					"name": "It's Complicated"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jill Valentine",
+						"Nemesis"
+					],
+					"name": "S.T.A.R.S. Target"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Spencer Mansion",
+						"T-Virus"
+					],
+					"name": "Ground Zero"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Leon S. Kennedy",
+						"The Merchant"
+					],
+					"name": "Stranger, Stranger!"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Albert Wesker",
+						"T-Virus"
+					],
+					"name": "Complete Global Saturation"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Rocket Launcher",
+						"Nemesis"
+					],
+					"name": "You Want S.T.A.R.S.?"
 				}
 			]
 		}
