@@ -32118,6 +32118,886 @@
 					"Icon"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Tail",
+						"difficulty": "Easy",
+						"explanation": "Gender differences were introduced in later generations, giving the female of this species a distinct heart-shaped notch at the end of its tail.",
+						"question": "Which specific body part of a female Pikachu is shaped like a heart, distinguishing it from the flat-edged tail of a male?",
+						"wrong": [
+							"Ears",
+							"Cheek Pouches",
+							"Paws"
+						]
+					},
+					{
+						"correct": "It prefers being outside",
+						"difficulty": "Medium",
+						"explanation": "Ash's Pikachu is famous for its stubborn personality and its preference to travel on Ash's shoulder rather than inside a capsule.",
+						"question": "In the animated series, what reason does Pikachu give for refusing to enter its Poké Ball in the very first episode?",
+						"wrong": [
+							"It is afraid of the dark",
+							"The ball is too small",
+							"It wants to stay wild"
+						]
+					},
+					{
+						"correct": "Thunder Stone",
+						"difficulty": "Hard",
+						"explanation": "While it can stay in its base form indefinitely, exposure to a Thunder Stone triggers its evolution into Raichu.",
+						"question": "Which rare item is required to evolve this yellow mascot into its Alolan or Kantonian psychic-powered successor?",
+						"wrong": [
+							"Light Ball",
+							"Sun Stone",
+							"Moon Stone"
+						]
+					}
+				]
+			},
+			"id": "pokopia_pikachu",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Pikachu",
+				"lore_desc": "The yellow Mouse Pokémon that serves as the globally recognized face of the entire franchise.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Electric",
+					"Mascot"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "The classic design features a red upper shell and a white lower shell separated by a black band.",
+						"question": "Which color traditionally makes up the bottom half of a standard, basic Poké Ball?",
+						"wrong": [
+							"Red",
+							"Silver",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Apricorns",
+						"difficulty": "Medium",
+						"explanation": "Apricorns come in various colors like Red, Blue, and Yellow, and can be turned into specialized balls like the Level Ball or Lure Ball.",
+						"question": "In the Johto region, a specialist named Kurt crafts custom balls out of which natural forest items?",
+						"wrong": [
+							"Berries",
+							"Acorns",
+							"Tree Bark"
+						]
+					},
+					{
+						"correct": "Quick Ball",
+						"difficulty": "Hard",
+						"explanation": "The Quick Ball has a much higher catch rate if thrown on the first turn of a battle.",
+						"question": "Which specific Poké Ball variant is designed to be more effective the earlier it is used in a wild encounter?",
+						"wrong": [
+							"Timer Ball",
+							"Fast Ball",
+							"Repeat Ball"
+						]
+					}
+				]
+			},
+			"id": "pokopia_poké_ball",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Poké Ball",
+				"lore_desc": "The essential red-and-white spherical device used by trainers to capture and store creatures.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Tool",
+					"Icon",
+					"Gear"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dragon",
+						"difficulty": "Easy",
+						"explanation": "Charizard is a Fire and Flying type; it only gains the Dragon type through specific Mega Evolutions.",
+						"question": "Which element is famously NOT part of Charizard's primary typing, despite its very dragon-like appearance?",
+						"wrong": [
+							"Fire",
+							"Flying",
+							"Air"
+						]
+					},
+					{
+						"correct": "It would die",
+						"difficulty": "Medium",
+						"explanation": "The flame on its tail represents its life force and burns most brightly when it is in peak health.",
+						"question": "If the flame on the tip of this creature's tail were to be completely extinguished, what is said to happen to it?",
+						"wrong": [
+							"It would lose its memory",
+							"It would turn into an Ice type",
+							"It would fall into a deep sleep"
+						]
+					},
+					{
+						"correct": "Fly",
+						"difficulty": "Hard",
+						"explanation": "It wasn't until the Yellow version that Charizard was finally able to learn the Hidden Machine move Fly.",
+						"question": "In the original 1996 Red and Blue games, what was the surprising move that Charizard could not learn despite having wings?",
+						"wrong": [
+							"Flamethrower",
+							"Slash",
+							"Wing Attack"
+						]
+					}
+				]
+			},
+			"id": "pokopia_charizard",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Charizard",
+				"lore_desc": "A draconic powerhouse that evolves from Charmander, known for its fierce loyalty and melting flames.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Fire",
+					"Flying",
+					"Icon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cinnabar Island",
+						"difficulty": "Easy",
+						"explanation": "Diaries found in the burnt-out Pokémon Mansion on Cinnabar Island detail the experiments that led to Mewtwo's birth.",
+						"question": "In which specific location was Mewtwo famously created by scientists before it escaped and destroyed the laboratory?",
+						"wrong": [
+							"Lavender Town",
+							"Cerulean Cave",
+							"Victory Road"
+						]
+					},
+					{
+						"correct": "Dr Fuji",
+						"difficulty": "Medium",
+						"explanation": "Dr. Fuji led the cloning project with the goal of resurrecting his deceased daughter, Amber, alongside Mewtwo.",
+						"question": "What is the name of the scientist often credited in the anime and movies as the primary creator of Mewtwo?",
+						"wrong": [
+							"Professor Oak",
+							"Bill",
+							"Professor Elm"
+						]
+					},
+					{
+						"correct": "Psystrike",
+						"difficulty": "Hard",
+						"explanation": "Psystrike is a unique move that deals physical damage based on the user's Special Attack stat.",
+						"question": "Mewtwo's signature move involves a massive burst of psychic energy. What is the name of this move?",
+						"wrong": [
+							"Psychic",
+							"Psycho Boost",
+							"Aura Sphere"
+						]
+					}
+				]
+			},
+			"id": "pokopia_mewtwo",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Mewtwo",
+				"lore_desc": "A genetically engineered psychic clone created from the DNA of an ancient, elusive ancestor.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Psychic",
+					"Villain",
+					"Legend"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Samuel",
+						"difficulty": "Easy",
+						"explanation": "Though everyone calls him Professor Oak, his first name is Samuel, as revealed in various media and the fourth movie.",
+						"question": "What is the first name of the famous Professor Oak who resides in Pallet Town?",
+						"wrong": [
+							"Arthur",
+							"Gary",
+							"Rowan"
+						]
+					},
+					{
+						"correct": "Competitive Trainer",
+						"difficulty": "Medium",
+						"explanation": "Oak was once a high-level competitive trainer and a rival to Agatha of the Elite Four.",
+						"question": "Before becoming a world-renowned professor, what was Oak's primary occupation in his youth?",
+						"wrong": [
+							"Gym Leader",
+							"Chef",
+							"Ship Captain"
+						]
+					},
+					{
+						"correct": "None",
+						"difficulty": "Hard",
+						"explanation": "Trick question for some: he refers to the creatures themselves as 'Pokémon' and doesn't compare them to real-world animals in his introduction.",
+						"question": "In the original games, what specific animal does Professor Oak famously compare the world of Pokémon to in his opening speech?",
+						"wrong": [
+							"Birds",
+							"Dogs",
+							"Insects"
+						]
+					}
+				]
+			},
+			"id": "pokopia_professor_oak",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Professor Oak",
+				"lore_desc": "The leading authority on creature research who gives new trainers their very first partner.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Human",
+					"Mentor",
+					"Ally"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Meowth",
+						"difficulty": "Easy",
+						"explanation": "Meowth taught himself to speak human language and walk upright to impress a female Meowth named Meowzie.",
+						"question": "Which talking creature is famously part of the Team Rocket trio alongside Jessie and James?",
+						"wrong": [
+							"Persian",
+							"Wobbuffet",
+							"Ekans"
+						]
+					},
+					{
+						"correct": "Giovanni",
+						"difficulty": "Medium",
+						"explanation": "Giovanni serves as both the boss of Team Rocket and the final Gym Leader of the Kanto region.",
+						"question": "What is the one-word motto or name of the secret leader who runs Team Rocket from the shadows?",
+						"wrong": [
+							"Cyrus",
+							"Ghetsis",
+							"Lysandre"
+						]
+					},
+					{
+						"correct": "Rocket",
+						"difficulty": "Hard",
+						"explanation": "The 'R' is simply the emblem for the organization's name, symbolizing their 'blast off' nature and high ambitions.",
+						"question": "What does the large red letter 'R' on the uniforms of Team Rocket members actually stand for?",
+						"wrong": [
+							"Raid",
+							"Ruler",
+							"Revenge"
+						]
+					}
+				]
+			},
+			"id": "pokopia_team_rocket",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Team Rocket",
+				"lore_desc": "A nefarious criminal organization dedicated to stealing rare creatures for profit and world domination.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Group",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Poké Flute",
+						"difficulty": "Easy",
+						"explanation": "The Poké Flute plays a melody that is the only thing capable of rousing this deep sleeper.",
+						"question": "Which musical instrument is required to wake a Snorlax that is blocking a road?",
+						"wrong": [
+							"Harp",
+							"Drum",
+							"Trumpet"
+						]
+					},
+					{
+						"correct": "Munchlax",
+						"difficulty": "Medium",
+						"explanation": "Munchlax was introduced in the fourth generation as a 'baby' Pokémon that eventually evolves into Snorlax.",
+						"question": "What is Snorlax's pre-evolved form, a smaller creature that is also known for its constant eating?",
+						"wrong": [
+							"Slakoth",
+							"Gulpin",
+							"Teddiursa"
+						]
+					},
+					{
+						"correct": "Feet",
+						"difficulty": "Hard",
+						"explanation": "According to several Pokédex entries, Snorlax doesn't mind if children use its stomach as a place to play, but its feet are sensitive.",
+						"question": "Which part of Snorlax's body is said to be the only place where it feels truly ticklish?",
+						"wrong": [
+							"Belly",
+							"Ears",
+							"Chin"
+						]
+					}
+				]
+			},
+			"id": "pokopia_snorlax",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Snorlax",
+				"lore_desc": "A massive, sleepy giant known for blocking paths and having an insatiable appetite.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Normal",
+					"Obstacle",
+					"Icon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Eight",
+						"difficulty": "Easy",
+						"explanation": "Eevee can evolve into Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, or Sylveon.",
+						"question": "How many different 'Eeveelutions' currently exist in the franchise as of the latest generation?",
+						"wrong": [
+							"Seven",
+							"Nine",
+							"Six"
+						]
+					},
+					{
+						"correct": "Umbreon",
+						"difficulty": "Medium",
+						"explanation": "Espeon and Umbreon were the first to use the day/night cycle mechanic for evolution in the Johto region.",
+						"question": "Which Eeveelution is achieved by leveling up Eevee with high friendship during the nighttime?",
+						"wrong": [
+							"Espeon",
+							"Sylveon",
+							"Glaceon"
+						]
+					},
+					{
+						"correct": "Fairy",
+						"difficulty": "Hard",
+						"explanation": "In addition to high affection or friendship, Eevee must know a Fairy-type move like Baby-Doll Eyes to become Sylveon.",
+						"question": "To evolve Eevee into the Fairy-type Sylveon, a trainer must ensure Eevee knows a move of which specific type?",
+						"wrong": [
+							"Normal",
+							"Psychic",
+							"Love"
+						]
+					}
+				]
+			},
+			"id": "pokopia_eevee",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Eevee",
+				"lore_desc": "The Evolution Pokémon, unique for its unstable genetic makeup that allows it to transform into many different types.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Normal",
+					"Evolution",
+					"Icon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Purple",
+						"difficulty": "Easy",
+						"explanation": "The distinctive purple and pink design signifies its status as the rarest and most powerful capture device.",
+						"question": "What color is the top half of a Master Ball, typically featuring two pink circular bumps and a large 'M'?",
+						"wrong": [
+							"Blue",
+							"Gold",
+							"Black"
+						]
+					},
+					{
+						"correct": "Silph Co",
+						"difficulty": "Medium",
+						"explanation": "The President of Silph Co. gives the player the Master Ball after they rescue the company from Team Rocket in Saffron City.",
+						"question": "Which company is lore-heavy credited with the invention and manufacturing of the Master Ball prototype?",
+						"wrong": [
+							"Devon Corp",
+							"Aether Foundation",
+							"Macro Cosmos"
+						]
+					},
+					{
+						"correct": "Tossing it from the Bag",
+						"difficulty": "Hard",
+						"explanation": "While it never misses a catch, a player could accidentally discard it from their inventory menu.",
+						"question": "In the very first generation of games, which of these was a legitimate way to lose your only Master Ball without catching anything?",
+						"wrong": [
+							"Missing a throw",
+							"A Pokémon dodging it",
+							"A Pokémon breaking out"
+						]
+					}
+				]
+			},
+			"id": "pokopia_master_ball",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Master Ball",
+				"lore_desc": "The ultimate Poké Ball that guarantees a 100% success rate when capturing any wild creature.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Tool",
+					"Rare",
+					"Icon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "001",
+						"difficulty": "Easy",
+						"explanation": "Bulbasaur holds the prestigious first spot in the Kanto and National Pokédex.",
+						"question": "What is the official Pokédex number assigned to Bulbasaur?",
+						"wrong": [
+							"000",
+							"151",
+							"025"
+						]
+					},
+					{
+						"correct": "It blooms into a flower",
+						"difficulty": "Medium",
+						"explanation": "The lifecycle of the plant on its back mirrors the evolution of the creature, ending in a massive tropical bloom.",
+						"question": "What happens to the bulb on Bulbasaur's back as it evolves into Ivysaur and eventually Venusaur?",
+						"wrong": [
+							"It falls off",
+							"It turns into a tree",
+							"It becomes a hard shell"
+						]
+					},
+					{
+						"correct": "Photosynthesis",
+						"difficulty": "Hard",
+						"explanation": "The bulb on its back stores energy from sunlight, allowing it to go for days without eating physical food.",
+						"question": "According to the Pokédex, how does Bulbasaur mainly obtain its energy during a long day of travel?",
+						"wrong": [
+							"Eating Berries",
+							"Drinking fresh water",
+							"Sleeping in dirt"
+						]
+					}
+				]
+			},
+			"id": "pokopia_bulbasaur",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Bulbasaur",
+				"lore_desc": "The very first entry in the national Pokédex, this creature carries a plant bulb on its back from birth.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Grass",
+					"Poison",
+					"Starter"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Trading",
+						"difficulty": "Easy",
+						"explanation": "Gengar is one of the original four Pokémon that require a trade between players to trigger evolution.",
+						"question": "What is the only way to evolve a Haunter into a Gengar in the traditional video games?",
+						"wrong": [
+							"Leveling up",
+							"Using a Dusk Stone",
+							"Maxing out friendship"
+						]
+					},
+					{
+						"correct": "Clefable",
+						"difficulty": "Medium",
+						"explanation": "Fans point to their similar body shapes and the fact that Gengar is the 'Shadow Pokémon' as evidence.",
+						"question": "A popular fan theory suggests that Gengar is actually the 'shadow' or corrupted version of which other pink Pokémon?",
+						"wrong": [
+							"Jigglypuff",
+							"Chansey",
+							"Slowpoke"
+						]
+					},
+					{
+						"correct": "It drops significantly",
+						"difficulty": "Hard",
+						"explanation": "Pokédex entries state that Gengar absorbs the heat of its surroundings, causing a sudden chill.",
+						"question": "What happens to the ambient temperature of a room when a Gengar is hiding nearby?",
+						"wrong": [
+							"It rises",
+							"It fluctuates wildly",
+							"Nothing"
+						]
+					}
+				]
+			},
+			"id": "pokopia_gengar",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Gengar",
+				"lore_desc": "The Shadow Pokémon that hides in the darkness, known for its mischievous grin and glowing red eyes.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ghost",
+					"Poison",
+					"Icon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A Truck",
+						"difficulty": "Easy",
+						"explanation": "The 'Mew under the truck' in Vermilion City is one of the most famous urban legends in gaming history.",
+						"question": "Under which famous object was Mew rumored to be hiding in a popular, but false, schoolyard myth?",
+						"wrong": [
+							"A Bridge",
+							"A Waterfall",
+							"A Large Rock"
+						]
+					},
+					{
+						"correct": "Every Move",
+						"difficulty": "Medium",
+						"explanation": "Because it contains the DNA of all Pokémon, Mew is capable of learning every single move taught by TMs and HMs.",
+						"question": "Which move is Mew famously able to learn that almost no other creature can learn through Technical Machines?",
+						"wrong": [
+							"Metronome",
+							"Fly",
+							"Transform"
+						]
+					},
+					{
+						"correct": "Shigeki Morimoto",
+						"difficulty": "Hard",
+						"explanation": "Morimoto added Mew as a prank after removing debugging tools, not intending for players to ever find it.",
+						"question": "Who was the programmer that secretly added Mew to the original game's code right before it was finalized?",
+						"wrong": [
+							"Satoshi Tajiri",
+							"Ken Sugimori",
+							"Junichi Masuda"
+						]
+					}
+				]
+			},
+			"id": "pokopia_mew",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Mew",
+				"lore_desc": "The mysterious ancestor of all creatures, said to contain the genetic code of every single species.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Psychic",
+					"Legend",
+					"Mythical"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Falling asleep",
+						"difficulty": "Easy",
+						"explanation": "Jigglypuff sings a lullaby that vibrates at a frequency guaranteed to put anyone who hears it to sleep.",
+						"question": "What is the primary side effect of listening to a Jigglypuff's song?",
+						"wrong": [
+							"Confusion",
+							"Paralysis",
+							"Happiness"
+						]
+					},
+					{
+						"correct": "Draws on them with a marker",
+						"difficulty": "Medium",
+						"explanation": "Upset that no one stays awake to hear its full song, it uses its microphone (which is also a marker) to doodle on the audience.",
+						"question": "In the animated series, what does Jigglypuff famously do to the faces of those who fall asleep during its performance?",
+						"wrong": [
+							"Slaps them",
+							"Paints them blue",
+							"Tickles them"
+						]
+					},
+					{
+						"correct": "Igglybuff",
+						"difficulty": "Hard",
+						"explanation": "Igglybuff is the baby form that evolves into Jigglypuff when it reaches a high level of friendship.",
+						"question": "What is the name of the pre-evolved form of Jigglypuff that was introduced in the second generation?",
+						"wrong": [
+							"Puffly",
+							"Jiggle",
+							"Wigglybuff"
+						]
+					}
+				]
+			},
+			"id": "pokopia_jigglypuff",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Jigglypuff",
+				"lore_desc": "A pink, balloon-like creature that uses its large eyes and soothing voice to mesmerize opponents.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Normal",
+					"Fairy",
+					"Icon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "The tiny town consists only of the player's house, their rival's house, and Professor Oak's lab.",
+						"question": "How many houses are located in the original Pallet Town in the first generation of games?",
+						"wrong": [
+							"Three",
+							"Four",
+							"One"
+						]
+					},
+					{
+						"correct": "Shades of Your Journey Await",
+						"difficulty": "Medium",
+						"explanation": "The sign reads 'Pallet Town: Shades of your journey await!', referencing the 'color' theme of the original games.",
+						"question": "What is the slogan of Pallet Town as seen on the town's welcome sign?",
+						"wrong": [
+							"The Town of Beginnings",
+							"A Pure White Start",
+							"Where Dreams Take Flight"
+						]
+					},
+					{
+						"correct": "Check your PC",
+						"difficulty": "Hard",
+						"explanation": "Checking the PC in your room allows you to withdraw a free Potion, which is helpful for your first battle.",
+						"question": "In the games, what does your mother tell you to do before leaving the house for the very first time?",
+						"wrong": [
+							"Change your clothes",
+							"Eat breakfast",
+							"Say goodbye to the neighbor"
+						]
+					}
+				]
+			},
+			"id": "pokopia_pallet_town",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Pallet Town",
+				"lore_desc": "The quiet, rural starting point for the journey of a lifetime in the Kanto region.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Home",
+					"Icon",
+					"Town"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pewter City",
+						"difficulty": "Easy",
+						"explanation": "Brock is the leader of the Pewter Gym, awarding the Boulder Badge to those who defeat him.",
+						"question": "What is the name of the city where Brock serves as the Gym Leader?",
+						"wrong": [
+							"Cerulean City",
+							"Viridian City",
+							"Fuchsia City"
+						]
+					},
+					{
+						"correct": "Pokémon Breeder",
+						"difficulty": "Medium",
+						"explanation": "While he is a strong trainer, Brock's true passion is caring for and raising healthy Pokémon as a Breeder (and later a Doctor).",
+						"question": "What is Brock's primary career goal in the animated series, which differs from his role as a Gym Leader?",
+						"wrong": [
+							"Chef",
+							"Doctor",
+							"Archaeologist"
+						]
+					},
+					{
+						"correct": "Onix",
+						"difficulty": "Hard",
+						"explanation": "The massive stone snake Onix is the final challenge in the Pewter City Gym battle.",
+						"question": "Which iconic Rock/Ground creature is Brock's most powerful and well-known partner in the original games?",
+						"wrong": [
+							"Geodude",
+							"Rhyhorn",
+							"Golem"
+						]
+					}
+				]
+			},
+			"id": "pokopia_brock",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Brock",
+				"lore_desc": "The Rock-type specialist and first Gym Leader of the Kanto region, known for his closed eyes and cooking skills.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Human",
+					"Leader",
+					"Ally"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Viridian City",
+						"difficulty": "Easy",
+						"explanation": "He is the 'Earth Badge' leader, using powerful Ground-type Pokémon in his hidden gym.",
+						"question": "Which Gym is Giovanni secretly the leader of before his identity is revealed?",
+						"wrong": [
+							"Saffron City",
+							"Cinnabar Island",
+							"Fuchsia City"
+						]
+					},
+					{
+						"correct": "Mewtwo",
+						"difficulty": "Medium",
+						"explanation": "Giovanni uses Mewtwo to crush challengers at his gym before the clone eventually rebels and escapes.",
+						"question": "In the anime, which Legendary Pokémon does Giovanni briefly control using a specialized suit of armor?",
+						"wrong": [
+							"Lugia",
+							"Entei",
+							"Groudon"
+						]
+					},
+					{
+						"correct": "Silver",
+						"difficulty": "Hard",
+						"explanation": "Silver, the rival from Gold and Silver, is the estranged son of the Team Rocket leader.",
+						"question": "Who is revealed to be Giovanni's son in the Johto region games through a special time-travel event?",
+						"wrong": [
+							"Blue",
+							"Wally",
+							"Gladion"
+						]
+					}
+				]
+			},
+			"id": "pokopia_giovanni",
+			"meta": {
+				"date_added": "2026-03-03",
+				"entity_category": "Theme Item",
+				"full_title": "Giovanni",
+				"lore_desc": "The enigmatic leader of Team Rocket who also holds a high-ranking position within the Pokémon League.",
+				"theme_origin": "pokopia",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Boss",
+					"Leader"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -32210,6 +33090,41 @@
 						"Team Rocket"
 					],
 					"name": "Cacth that Pikachu !"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Pikachu",
+						"Professor Oak",
+						"Pallet Town"
+					],
+					"name": "Where It All Began"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Team Rocket",
+						"Giovanni",
+						"Mewtwo"
+					],
+					"name": "The Syndicate"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Master Ball",
+						"Mew",
+						"Mewtwo"
+					],
+					"name": "Genetic Masterpiece"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Pikachu",
+						"Eevee"
+					],
+					"name": "Let's go !"
 				}
 			]
 		},
@@ -33227,12 +34142,25 @@
 					"name": "Complete Global Saturation"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Rocket Launcher",
 						"Nemesis"
 					],
 					"name": "You Want S.T.A.R.S.?"
+				}
+			]
+		},
+		{
+			"id": "pokopia",
+			"synergies": [
+				{
+					"bonus": 2000,
+					"items": [
+						"Mew",
+						"Mewtwo"
+					],
+					"name": "Clone"
 				}
 			]
 		}
