@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772486344,
+	"last_updated": 1772572444,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1613,6 +1613,49 @@
 				"resident_evil_mr._x",
 				"resident_evil_typewriter",
 				"resident_evil_leon_s._kennedy"
+			]
+		},
+		"2026-03-04": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Pokopia (broken)",
+			"share_text": "This set didn't work ",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"pokopia_pikachu",
+				"pokopia_charizard",
+				"pokopia_eevee"
+			],
+			"starters": [
+				"pokopia_pikachu",
+				"pokopia_poké_ball",
+				"pokopia_charizard",
+				"pokopia_mewtwo",
+				"pokopia_professor_oak",
+				"pokopia_team_rocket",
+				"pokopia_snorlax",
+				"pokopia_eevee",
+				"pokopia_master_ball",
+				"pokopia_bulbasaur",
+				"pokopia_gengar",
+				"pokopia_mew",
+				"pokopia_jigglypuff",
+				"pokopia_pallet_town",
+				"pokopia_brock",
+				"pokopia_giovanni"
 			]
 		}
 	}
