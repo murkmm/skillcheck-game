@@ -32998,6 +32998,1239 @@
 					"Leader"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cheese",
+						"difficulty": "Easy",
+						"explanation": "Alistair’s dialogue about 'licking a lamppost in winter' and his love for cheese are some of the game's most quoted lines.",
+						"question": "Which specific food item does Alistair famously claim to have a deep, almost spiritual appreciation for?",
+						"wrong": [
+							"Mutton",
+							"Sweetcakes",
+							"Ale"
+						]
+					},
+					{
+						"correct": "Maric Theirin",
+						"difficulty": "Easy",
+						"explanation": "Alistair is the bastard son of King Maric, making him the secret heir to the Ferelden throne.",
+						"question": "Alistair was raised at the chantry in Lothering, but who is his biological father, the former King of Ferelden?",
+						"wrong": [
+							"Cailan Theirin",
+							"Loghain Mac Tir",
+							"Arl Eamon"
+						]
+					},
+					{
+						"correct": "The Templars",
+						"difficulty": "Medium",
+						"explanation": "Alistair was being trained to hunt mages and serve the Chantry before Duncan used the Right of Conscription.",
+						"question": "Before being recruited by Duncan into the Grey Wardens, what order was Alistair training to join?",
+						"wrong": [
+							"The Seekers",
+							"The Circle of Magi",
+							"The Legion of the Dead"
+						]
+					},
+					{
+						"correct": "Goldanna",
+						"difficulty": "Medium",
+						"explanation": "Visiting Goldanna is a pivotal moment that allows the player to 'harden' Alistair's personality.",
+						"question": "What is the name of Alistair's estranged sister whom you can visit in the city of Denerim?",
+						"wrong": [
+							"Anora",
+							"Isolde",
+							"Mhairi"
+						]
+					},
+					{
+						"correct": "Duncan's Shield",
+						"difficulty": "Hard",
+						"explanation": "Finding Duncan's shield provides a massive approval boost and serves as a powerful piece of equipment for Alistair.",
+						"question": "In the 'Return to Ostagar' DLC, what personal item belonging to Alistair's mentor can the player recover and gift to him?",
+						"wrong": [
+							"Duncan's Dagger",
+							"The Warden's Oath",
+							"The King's Signet"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_alistair",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Alistair",
+				"lore_desc": "A sarcastic former Templar-in-training who is one of the last remaining Grey Wardens in Ferelden.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Companion",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Witch of the Wilds",
+						"difficulty": "Easy",
+						"explanation": "Morrigan is feared as a legendary 'Witch of the Wilds,' a figure often dismissed as a folk tale.",
+						"question": "What is the specific title given to Morrigan and her mother by the terrified locals of the Korcari Wilds?",
+						"wrong": [
+							"Banshee of the Woods",
+							"Shadow Sister",
+							"The Blight-Eater"
+						]
+					},
+					{
+						"correct": "Shapeshifter",
+						"difficulty": "Easy",
+						"explanation": "Morrigan starts the game with the Shapeshifter specialization, allowing her to take the form of spiders and bears.",
+						"question": "Morrigan possesses the unique ability to transform into animals. What is this specialized magical talent called?",
+						"wrong": [
+							"Blood Mage",
+							"Spirit Healer",
+							"Arcane Warrior"
+						]
+					},
+					{
+						"correct": "A Dark Ritual",
+						"difficulty": "Medium",
+						"explanation": "The Dark Ritual conceives a child that will draw in the soul of the Archdemon, sparing the Warden's life.",
+						"question": "What does Morrigan propose to do on the eve of the final battle to ensure the Grey Warden survives the killing of the Archdemon?",
+						"wrong": [
+							"A Blood Sacrifice",
+							"The Litany of Adralla",
+							"The Joining"
+						]
+					},
+					{
+						"correct": "The Black Grimoire",
+						"difficulty": "Medium",
+						"explanation": "The Black Grimoire contains the secrets of Flemeth’s magic and her true nature.",
+						"question": "Which personal item, hidden in Flemeth's hut, must you retrieve to significantly increase Morrigan's approval?",
+						"wrong": [
+							"The Mirror of Sorrows",
+							"The Dragon Bone Wand",
+							"The Amulet of Ages"
+						]
+					},
+					{
+						"correct": "A gold-rimmed pendant",
+						"difficulty": "Hard",
+						"explanation": "Morrigan's iconic necklace is a recurring visual element and a symbol of her ties to Flemeth.",
+						"question": "What specific type of jewelry does Morrigan wear that she claims is a gift from her mother, containing a drop of her own blood?",
+						"wrong": [
+							"A silver ring",
+							"An iron bracelet",
+							"A bone circlet"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_morrigan",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Morrigan",
+				"lore_desc": "A mysterious Witch of the Wilds who practices ancient, forbidden shape-shifting magic.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Companion",
+					"Mage"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Battle of Ostagar",
+						"difficulty": "Easy",
+						"explanation": "Loghain’s signal to retreat from the field at Ostagar is the inciting incident of the game's civil war.",
+						"question": "At which historic battle did Loghain famously retreat, leaving King Cailan to die at the hands of the Darkspawn?",
+						"wrong": [
+							"The Battle of River Dane",
+							"The Siege of Denerim",
+							"The Battle of Lothering"
+						]
+					},
+					{
+						"correct": "Anora",
+						"difficulty": "Easy",
+						"explanation": "Queen Anora is a shrewd politician and Loghain's only child, making her a key player in the Landsmeet.",
+						"question": "What is the name of Loghain's daughter, who serves as the Queen of Ferelden?",
+						"wrong": [
+							"Celene",
+							"Isolde",
+							"Elora"
+						]
+					},
+					{
+						"correct": "Orlais",
+						"difficulty": "Medium",
+						"explanation": "Loghain's paranoia stems from his history as a rebel leader fighting against the Orlesian occupation.",
+						"question": "Loghain is obsessed with preventing an invasion from which foreign empire, which formerly occupied Ferelden?",
+						"wrong": [
+							"Tevinter",
+							"Antiva",
+							"The Anderfels"
+						]
+					},
+					{
+						"correct": "The Joining",
+						"difficulty": "Medium",
+						"explanation": "Loghain can be forced to become a Grey Warden, though this causes Alistair to permanently leave the party.",
+						"question": "During the Landsmeet, if the Warden spares Loghain, what must he undergo to atone for his crimes?",
+						"wrong": [
+							"The Rite of Tranquility",
+							"The Gauntlet",
+							"Execution"
+						]
+					},
+					{
+						"correct": "Ser Cauthrien",
+						"difficulty": "Hard",
+						"explanation": "Ser Cauthrien is a loyal knight who challenges the Warden at the Landsmeet or the Arl of Denerim's estate.",
+						"question": "What is the name of Loghain's trusted right-hand woman and assassin who carries out his dirty work throughout the game?",
+						"wrong": [
+							"Vaughan",
+							"Howe",
+							"Urien"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_loghain_mac_tir",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Loghain Mac Tir",
+				"lore_desc": "A legendary war hero who betrayed his King at Ostagar to seize control of Ferelden.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Human",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A High Dragon",
+						"difficulty": "Easy",
+						"explanation": "Archdemons are Old Gods that have been awakened and corrupted, manifesting as massive, dark dragons.",
+						"question": "The Archdemon of the Fifth Blight takes the physical form of which creature?",
+						"wrong": [
+							"A Giant Spider",
+							"A Hydra",
+							"A Griffon"
+						]
+					},
+					{
+						"correct": "Urthemiel",
+						"difficulty": "Medium",
+						"explanation": "Urthemiel was the Old God of Beauty before being tainted by the Darkspawn.",
+						"question": "What is the name of the specific Old God that serves as the Archdemon in Dragon Age: Origins?",
+						"wrong": [
+							"Dumat",
+							"Toth",
+							"Razikale"
+						]
+					},
+					{
+						"correct": "To trap its soul in their body",
+						"difficulty": "Medium",
+						"explanation": "The soul of the Archdemon seeks the nearest creature with the Taint; if that creature has a soul (like a Warden), both are destroyed.",
+						"question": "Why must a Grey Warden be the one to deliver the final blow to an Archdemon?",
+						"wrong": [
+							"To purify the blood",
+							"Because they are immune to fire",
+							"To break the dragon's armor"
+						]
+					},
+					{
+						"correct": "The Song",
+						"difficulty": "Hard",
+						"explanation": "The 'Song' of the Archdemon is a constant telepathic signal that directs the horde and haunts the minds of Wardens.",
+						"question": "The Archdemon communicates with the Darkspawn and the Grey Wardens through what recurring psychic phenomenon?",
+						"wrong": [
+							"The Whisper",
+							"The Calling",
+							"The Dream"
+						]
+					},
+					{
+						"correct": "Ballistae",
+						"difficulty": "Hard",
+						"explanation": "Strategically using the ballistae around the roof of Fort Drakon is key to defeating the Archdemon on higher difficulties.",
+						"question": "In the final battle atop Fort Drakon, what environmental weapons can the player use to help damage the Archdemon?",
+						"wrong": [
+							"Catapults",
+							"Oil Vats",
+							"Magic Circles"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_the_archdemon",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "The Archdemon",
+				"lore_desc": "An Old God corrupted by the Blight, leading a massive horde of Darkspawn to destroy the world.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Dragon",
+					"Monster"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Right of Conscription",
+						"difficulty": "Easy",
+						"explanation": "The Right of Conscription allows a Grey Warden to draft anyone—from kings to criminals—into their ranks.",
+						"question": "What is the name of the legal power Duncan uses to force individuals into the Grey Wardens against their will?",
+						"wrong": [
+							"The Warden's Decree",
+							"The King's Pardon",
+							"The Law of the Grey"
+						]
+					},
+					{
+						"correct": "The Blight",
+						"difficulty": "Easy",
+						"explanation": "Duncan is the primary strategist coordinating with King Cailan to stop the Fifth Blight before it spreads.",
+						"original": "The Blight",
+						"question": "At the start of the game, Duncan takes the Warden to the ancient fortress of Ostagar to stop what looming threat?",
+						"wrong": [
+							"The Mage Rebellion",
+							"The Qunari Invasion",
+							"The Civil War"
+						]
+					},
+					{
+						"correct": "Stabs him with a sword",
+						"difficulty": "Medium",
+						"explanation": "Duncan executes Jory to protect the secret of the Joining and because there is 'no turning back' from the ritual.",
+						"question": "What does Duncan do to the recruit Jory when Jory panics and tries to flee during the Joining ritual?",
+						"wrong": [
+							"Lets him go",
+							"Forces him to drink",
+							"Magically binds him"
+						]
+					},
+					{
+						"correct": "Val Royeaux",
+						"difficulty": "Hard",
+						"explanation": "Duncan’s backstory in the novels reveals he was a street urchin and thief in the Orlesian capital, Val Royeaux.",
+						"question": "Before joining the Wardens, Duncan was a thief in which city-state known for its assassins and crows?",
+						"wrong": [
+							"Antiva City",
+							"Denerim",
+							"Kirkwall"
+						]
+					},
+					{
+						"correct": "Blue and Silver",
+						"difficulty": "Hard",
+						"explanation": "The Grey Wardens of Ferelden traditionally wear blue and silver/grey heraldry.",
+						"question": "What is the color of the signature cloak or surcoat worn by Duncan and the Grey Wardens at Ostagar?",
+						"wrong": [
+							"Red and Gold",
+							"Black and White",
+							"Green and Brown"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_duncan",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Duncan",
+				"lore_desc": "The Commander of the Grey in Ferelden who recruits the player character regardless of their origin.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Grey Warden",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Darkspawn Blood",
+						"difficulty": "Easy",
+						"explanation": "Recruits must drink a mixture containing Darkspawn blood to gain the ability to sense the horde.",
+						"question": "What is the primary, dangerous ingredient that recruits must drink during the Joining ritual?",
+						"wrong": [
+							"Dragon Fire",
+							"Lyrium",
+							"Demon Tears"
+						]
+					},
+					{
+						"correct": "Being able to sense Darkspawn",
+						"difficulty": "Easy",
+						"explanation": "The 'Taint' allows Wardens to sense the presence and thoughts of Darkspawn nearby.",
+						"question": "Which of these is a permanent side effect for anyone who successfully survives the Joining?",
+						"wrong": [
+							"Invisibility",
+							"Infinite Mana",
+							"Immortality"
+						]
+					},
+					{
+						"correct": "Lyrium",
+						"difficulty": "Medium",
+						"explanation": "A drop of lyrium is added to the chalice, which provides the magical catalyst for the transformation.",
+						"question": "In the ritual mixture, what is added to the blood to help the recruit survive the immediate infection?",
+						"wrong": [
+							"Elfroot",
+							"Mage's Breath",
+							"Andraste's Ashes"
+						]
+					},
+					{
+						"correct": "They die instantly",
+						"difficulty": "Medium",
+						"explanation": "The Joining is often fatal, which is why the Grey Wardens keep the details of the ritual a closely guarded secret.",
+						"question": "What happens to a recruit who is not 'strong enough' to survive the drinking of the chalice?",
+						"wrong": [
+							"They become a Ghoul",
+							"They turn into a Mage",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "Thirty years",
+						"difficulty": "Hard",
+						"explanation": "After about 30 years, the corruption becomes too great, and Wardens go into the Deep Roads to die in battle.",
+						"question": "Approximately how many years does a Grey Warden have before the Taint consumes them, leading to 'The Calling'?",
+						"wrong": [
+							"Ten years",
+							"Fifty years",
+							"One hundred years"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_the_joining",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "The Joining",
+				"lore_desc": "The secret and deadly ritual that turns a recruit into a full Grey Warden.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ritual",
+					"Lore",
+					"Magic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Tower of Ishal",
+						"difficulty": "Easy",
+						"explanation": "Flemeth takes the form of a giant bird to rescue the last two Wardens as the tower is overrun.",
+						"question": "Flemeth saves the Warden and Alistair from certain death at the top of which tower at Ostagar?",
+						"wrong": [
+							"The Tower of Magi",
+							"The Fort Drakon Tower",
+							"The Arl's Lookout"
+						]
+					},
+					{
+						"correct": "A High Dragon",
+						"difficulty": "Easy",
+						"explanation": "The boss fight against Flemeth in her dragon form is one of the most difficult optional encounters in the game.",
+						"question": "If the player chooses to fight Flemeth during Morrigan's personal quest, what creature does she transform into?",
+						"wrong": [
+							"A Pride Demon",
+							"A Giant Spider",
+							"A Werewolf"
+						]
+					},
+					{
+						"correct": "Osen",
+						"difficulty": "Medium",
+						"explanation": "The legend of Flemeth claims she summoned a spirit of vengeance after the murder of her lover, Osen.",
+						"question": "According to legend, Flemeth was a woman who sought revenge against her husband for murdering her lover. What was that lover's name?",
+						"wrong": [
+							"Cailan",
+							"Loghain",
+							"Maric"
+						]
+					},
+					{
+						"correct": "Possessing their bodies",
+						"difficulty": "Medium",
+						"explanation": "Morrigan fears that Flemeth intends to prolong her life by transferring her soul into Morrigan's body.",
+						"question": "Morrigan believes Flemeth has lived for centuries by doing what to her own daughters?",
+						"wrong": [
+							"Eating their hearts",
+							"Drinking their blood",
+							"Stealing their magic"
+						]
+					},
+					{
+						"correct": "The Korcari Wilds",
+						"difficulty": "Hard",
+						"explanation": "The Korcari Wilds are a frozen southern swampland where Flemeth and Morrigan reside in a small hut.",
+						"question": "Where does Flemeth live, isolated from the rest of Ferelden civilization?",
+						"wrong": [
+							"The Brecilian Forest",
+							"The Frostback Mountains",
+							"The Anderfels"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_flemeth",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Flemeth",
+				"lore_desc": "The legendary and immortal 'Witch of the Wilds' who saves the Warden from the top of Ishal.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Mage",
+					"Villain",
+					"Shape-shifter"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Darkspawn",
+						"difficulty": "Easy",
+						"explanation": "Darkspawn inhabit the Deep Roads between Blights, constantly warring with the dwarves.",
+						"question": "The Deep Roads are the primary home and breeding ground for which recurring enemy faction?",
+						"wrong": [
+							"Deepstalkers",
+							"The Qunari",
+							"Undead"
+						]
+					},
+					{
+						"correct": "Orzammar",
+						"difficulty": "Easy",
+						"explanation": "Orzammar is one of the last two remaining dwarven kingdoms and sits at the edge of the tunnels.",
+						"question": "Which dwarven city serves as the entrance to the Deep Roads in Dragon Age: Origins?",
+						"wrong": [
+							"Kal-Hirol",
+							"Gwaren",
+							"Denerim"
+						]
+					},
+					{
+						"correct": "Broodmothers",
+						"difficulty": "Medium",
+						"explanation": "Broodmothers are the horrific source of all Darkspawn, birthed through a gruesome transformation process.",
+						"question": "What is the name of the terrifying, multi-armed creatures created from kidnapped women in the Deep Roads?",
+						"wrong": [
+							"Abominations",
+							"Hurlocks",
+							"Shrieks"
+						]
+					},
+					{
+						"correct": "The Anvil of the Void",
+						"difficulty": "Medium",
+						"explanation": "The Anvil of the Void is used to create Golems by sacrificing living dwarven souls.",
+						"question": "What legendary dwarven artifact, guarded by the Paragon Caridin, can be found deep within the tunnels?",
+						"wrong": [
+							"The Crown of Orzammar",
+							"The Shield of the Legion",
+							"The Hammer of Tarsas"
+						]
+					},
+					{
+						"correct": "The Legion of the Dead",
+						"difficulty": "Hard",
+						"explanation": "The Legion of the Dead considers themselves legally dead and exists only to fight the Darkspawn horde.",
+						"question": "What is the name of the elite group of dwarves who permanently enter the Deep Roads to fight until they die?",
+						"wrong": [
+							"The Stone Legion",
+							"The Silent Sisters",
+							"The Warrior Caste"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_the_deep_roads",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "The Deep Roads",
+				"lore_desc": "A vast network of ancient subterranean tunnels connecting the fallen dwarven thaigs.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Dungeon",
+					"Underground",
+					"Dwarf"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Lothering",
+						"difficulty": "Easy",
+						"explanation": "Leliana joins the party in the Dane's Refuge tavern in Lothering, claiming the Maker told her to help.",
+						"question": "In which village's tavern does the player first encounter Leliana fighting off Loghain's men?",
+						"wrong": [
+							"Redcliffe",
+							"Haven",
+							"Honnleath"
+						]
+					},
+					{
+						"correct": "Bard",
+						"difficulty": "Easy",
+						"explanation": "Bards in Orlais are high-class spies who move through noble circles under the guise of entertainers.",
+						"question": "Leliana was trained in which specific Orlesian profession that combines performance with espionage?",
+						"wrong": [
+							"Jester",
+							"Duelist",
+							"Minstrel"
+						]
+					},
+					{
+						"correct": "Schmooples",
+						"difficulty": "Medium",
+						"explanation": "Schmooples is a Nug that the Warden can gift to Leliana, becoming the party's unofficial mascot.",
+						"question": "What is the name of the exotic, flightless bird Leliana loves and can keep as a pet in the camp?",
+						"wrong": [
+							"Nug",
+							"Barkspawn",
+							"Ser Pounce-a-lot"
+						]
+					},
+					{
+						"correct": "Marjolaine",
+						"difficulty": "Medium",
+						"explanation": "Marjolaine is the antagonist of Leliana's personal quest and the 'Leliana's Song' DLC.",
+						"question": "Who was Leliana's former mentor and lover who betrayed her, leading her to flee to Ferelden?",
+						"wrong": [
+							"Briala",
+							"Celene",
+							"Cassandra"
+						]
+					},
+					{
+						"correct": "A rose",
+						"difficulty": "Hard",
+						"explanation": "Leliana describes a vision of a rose blooming in the darkness, which she interprets as a sign of the Blight.",
+						"question": "What specific item does Leliana claim to have seen in a vision from the Maker, leading her to seek out the Warden?",
+						"wrong": [
+							"A sword",
+							"A flaming heart",
+							"A white deer"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_leliana",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Leliana",
+				"lore_desc": "A former Orlesian bard and spy turned Chantry lay sister who believes she has a vision from the Maker.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Companion",
+					"Rogue"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Antivan Crows",
+						"difficulty": "Easy",
+						"explanation": "The Antivan Crows are the most feared guild of assassins in Thedas, and Zevran is one of their best.",
+						"question": "Which notorious organization of assassins sent Zevran to kill the Grey Warden?",
+						"wrong": [
+							"The Silent Sisters",
+							"The Nightingales",
+							"The Shadow Assassins"
+						]
+					},
+					{
+						"correct": "In an ambush on the road",
+						"difficulty": "Easy",
+						"explanation": "Zevran sets up a roadside trap with traps and archers to assassinate the Warden.",
+						"question": "How does the player first encounter Zevran?",
+						"wrong": [
+							"In the Denerim dungeon",
+							"At a tavern in Antiva",
+							"During the Landsmeet"
+						]
+					},
+					{
+						"correct": "It is his best chance at survival",
+						"difficulty": "Medium",
+						"explanation": "Zevran knows the Crows will kill him for failing his mission, so joining the Warden is his only protection.",
+						"question": "If you spare Zevran's life after he fails to kill you, why does he offer to join your party?",
+						"wrong": [
+							"He falls in love instantly",
+							"He wants to see the Blight",
+							"He hates Loghain"
+						]
+					},
+					{
+						"correct": "Taliesen",
+						"difficulty": "Medium",
+						"explanation": "Taliesen is sent to either bring Zevran back or execute him for his desertion.",
+						"question": "Zevran's personal quest involves a confrontation with which former friend and fellow Crow in Denerim?",
+						"wrong": [
+							"Ignacio",
+							"Lucan",
+							"Rinala"
+						]
+					},
+					{
+						"correct": "Antivan Leather Boots",
+						"difficulty": "Hard",
+						"explanation": "Gifting Zevran Antivan Leather Boots is one of the best ways to gain his approval early on.",
+						"question": "What specific type of footwear does Zevran mention having a fondness for as a luxury item?",
+						"wrong": [
+							"Silk Slippers",
+							"Steel Greaves",
+							"Elven Sandals"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_zevran",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Zevran",
+				"lore_desc": "An Elven assassin hired to kill the Warden, who eventually joins the party with a flirtatious flair.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Companion",
+					"Assassin"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Qunari",
+						"difficulty": "Easy",
+						"explanation": "Sten is the first Qunari players encounter in the series, though he notably lacks the horns seen in later games.",
+						"question": "What is the name of the giant, horned race to which Sten belongs?",
+						"wrong": [
+							"Tal-Vashoth",
+							"Troll",
+							"Ogre"
+						]
+					},
+					{
+						"correct": "In a cage",
+						"difficulty": "Easy",
+						"explanation": "Sten is locked in a cage in Lothering as punishment for murdering a farming family in a fit of rage.",
+						"question": "Where do you first find Sten at the beginning of the game?",
+						"wrong": [
+							"In a library",
+							"On a battlefield",
+							"At the palace"
+						]
+					},
+					{
+						"correct": "A Sword",
+						"difficulty": "Medium",
+						"explanation": "For a Qunari of the Beresaad, their sword is their soul; losing it is a disgrace beyond death.",
+						"question": "Sten is obsessed with finding his lost weapon, which is essential to his honor. What kind of weapon is it?",
+						"wrong": [
+							"An Axe",
+							"A Maul",
+							"A Shield"
+						]
+					},
+					{
+						"correct": "The Qun",
+						"difficulty": "Medium",
+						"explanation": "The Qun dictates every aspect of a Qunari's life, from their job to their name.",
+						"question": "Sten strictly follows a philosophy and social structure known as what?",
+						"wrong": [
+							"The Chant of Light",
+							"The Code of Honor",
+							"The Stone"
+						]
+					},
+					{
+						"correct": "Asala",
+						"difficulty": "Hard",
+						"explanation": "Asala means 'soul' in the Qunari language, highlighting the weapon's importance.",
+						"question": "What is the name of Sten's unique personal sword that you must track down across Ferelden?",
+						"wrong": [
+							"Yusaris",
+							"Summerword",
+							"Agnar"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_sten",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Sten",
+				"lore_desc": "A stoic Qunari vanguard who is rescued from a cage in Lothering to seek redemption.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Companion",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Berserker",
+						"difficulty": "Easy",
+						"explanation": "Oghren introduces the Berserker specialization, which focuses on high damage at the cost of stamina.",
+						"question": "Oghren is a member of which specialized warrior class known for their uncontrollable rage?",
+						"wrong": [
+							"Reaver",
+							"Templar",
+							"Champion"
+						]
+					},
+					{
+						"correct": "Branka",
+						"difficulty": "Easy",
+						"explanation": "Branka became a Paragon for inventing smokeless coal but became obsessed with finding the Anvil of the Void.",
+						"question": "Oghren joins the party because he is searching for his wife, a Paragon. What is her name?",
+						"wrong": [
+							"Hespith",
+							"Sigrun",
+							"Mica"
+						]
+					},
+					{
+						"correct": "Drinking Ale",
+						"difficulty": "Medium",
+						"explanation": "Oghren is almost never seen without a drink and even has a specialized approval system involving different liquors.",
+						"question": "What is Oghren's favorite hobby, which often gets him into trouble or leads to comedic dialogue?",
+						"wrong": [
+							"Mining Gold",
+							"Writing Poetry",
+							"Cooking"
+						]
+					},
+					{
+						"correct": "Dragon Age: Awakening",
+						"difficulty": "Medium",
+						"explanation": "Oghren joins the Grey Wardens officially in the Awakening expansion, sporting a new set of armor.",
+						"question": "Oghren is the only companion from the base game to return as a full companion in which expansion?",
+						"wrong": [
+							"The Stone Prisoner",
+							"Witch Hunt",
+							"The Golems of Amgarrak"
+						]
+					},
+					{
+						"correct": "House Kondrat",
+						"difficulty": "Hard",
+						"explanation": "Oghren belonged to House Kondrat, a warrior caste house, before his disgrace following Branka's departure.",
+						"question": "What was the name of Oghren's former house or noble family in Orzammar before he was stripped of his rank?",
+						"wrong": [
+							"House Aeducan",
+							"House Helmi",
+							"House Harrowmont"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_oghren",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Oghren",
+				"lore_desc": "A disgraced dwarven Berserker with a drinking problem and a heavy axe.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Companion",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Honnleath",
+						"difficulty": "Easy",
+						"explanation": "Shale is the center-piece of 'The Stone Prisoner' DLC and is activated using a control rod.",
+						"question": "Shale is a DLC companion who is found frozen in the center of which village?",
+						"wrong": [
+							"Redcliffe",
+							"Haven",
+							"Crestwood"
+						]
+					},
+					{
+						"correct": "Pigeons",
+						"difficulty": "Easy",
+						"explanation": "Shale despises 'the feathered ones' because they spent decades defecating on her while she was frozen.",
+						"question": "Shale harbors a deep, murderous hatred for which specific type of animal?",
+						"wrong": [
+							"Dogs",
+							"Horses",
+							"Cats"
+						]
+					},
+					{
+						"correct": "Crystals",
+						"difficulty": "Medium",
+						"explanation": "Shale uses Small and Large Crystals in her armor and weapon slots, which change the color of her glowing parts.",
+						"question": "Instead of traditional armor, what items must the player equip to Shale to change her stats and appearance?",
+						"wrong": [
+							"Runes",
+							"Grindstones",
+							"Iron Plates"
+						]
+					},
+					{
+						"correct": "Shayle of House Cadash",
+						"difficulty": "Hard",
+						"explanation": "Shale was a female dwarf who volunteered to become a golem to protect her kingdom.",
+						"question": "What was Shale's original name when she was a living dwarf before becoming a Golem?",
+						"wrong": [
+							"Sigrun",
+							"Valta",
+							"Dagna"
+						]
+					},
+					{
+						"correct": "Wilhelm",
+						"difficulty": "Hard",
+						"explanation": "Wilhelm was a mage of the Circle who took Shale from the Deep Roads and kept her as a servant.",
+						"question": "Who was the wizard that owned Shale for years and was eventually killed by her when his control rod failed?",
+						"wrong": [
+							"Uldred",
+							"Irving",
+							"Finn"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_shale",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Shale",
+				"lore_desc": "A sarcastic, pigeon-hating Stone Golem found in the village of Honnleath.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Companion",
+					"Golem"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Korcari Wilds",
+						"difficulty": "Easy",
+						"explanation": "The fortress serves as a gateway and defensive line against the creatures emerging from the Wilds.",
+						"question": "Ostagar is located on the edge of which dangerous, southern region of Ferelden?",
+						"wrong": [
+							"The Brecilian Forest",
+							"The Frostback Mountains",
+							"The Hinterlands"
+						]
+					},
+					{
+						"correct": "The Tower of Ishal",
+						"difficulty": "Easy",
+						"explanation": "Lighting the beacon was supposed to be the signal for Loghain to charge, but he chose to retreat instead.",
+						"question": "The Warden is tasked with lighting a signal fire at the top of which tower to begin the flank maneuver?",
+						"wrong": [
+							"The Tower of Magi",
+							"The Sunspear Tower",
+							"The Warden's Keep"
+						]
+					},
+					{
+						"correct": "King Cailan",
+						"difficulty": "Medium",
+						"explanation": "Cailan Theirin's desire for glory led him to fight on the front lines, where he was killed by an Ogre.",
+						"question": "Which King of Ferelden dies during the Battle of Ostagar while fighting alongside the Grey Wardens?",
+						"wrong": [
+							"King Maric",
+							"King Alistair",
+							"King Endrin"
+						]
+					},
+					{
+						"correct": "An Ogre",
+						"difficulty": "Medium",
+						"explanation": "The Ogre boss fight is the first major challenge for many players and occurs just before the tower's fall.",
+						"question": "What kind of monstrous creature serves as the boss at the top of the Tower of Ishal?",
+						"wrong": [
+							"A Dragon",
+							"An Alpha Hurlock",
+							"A Pride Demon"
+						]
+					},
+					{
+						"correct": "The Tevinter Imperium",
+						"difficulty": "Hard",
+						"explanation": "Much of the grand architecture in Ferelden, including Ostagar, dates back to the Tevinter occupation.",
+						"question": "Ostagar was originally built by which empire as a defensive outpost against the southern barbarians?",
+						"wrong": [
+							"The Orlesian Empire",
+							"The Dwarven Empire",
+							"The Elven Kingdom"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_ostagar",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Ostagar",
+				"lore_desc": "The ancient Tevinter fortress where the Ferelden army makes its first stand against the Blight.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Fortress",
+					"Ruins",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Arl Eamon Guerrin",
+						"difficulty": "Easy",
+						"explanation": "Arl Eamon is Alistair's foster father and the only noble powerful enough to challenge Loghain.",
+						"question": "What is the name of the Arl who rules Redcliffe and is a close ally of the Grey Wardens?",
+						"wrong": [
+							"Arl Rendon Howe",
+							"Arl Leonas Bryland",
+							"Arl Teagan"
+						]
+					},
+					{
+						"correct": "Undead",
+						"difficulty": "Easy",
+						"explanation": "The 'night of the walking dead' requires the Warden to organize the village's defenses.",
+						"question": "What kind of supernatural threat attacks the village of Redcliffe every night when you first arrive?",
+						"wrong": [
+							"Darkspawn",
+							"Werewolves",
+							"Demons"
+						]
+					},
+					{
+						"correct": "Connor",
+						"difficulty": "Medium",
+						"explanation": "Connor Guerrin is a mage whose desire to save his father led him to be possessed by a Desire Demon.",
+						"question": "Which young boy is at the center of the magical disaster occurring within Redcliffe Castle?",
+						"wrong": [
+							"Kieran",
+							"Bevan",
+							"Jowan"
+						]
+					},
+					{
+						"correct": "Bann Teagan",
+						"difficulty": "Medium",
+						"explanation": "Teagan is a fan-favorite character known for his bravery and his 'possession dance' in the castle.",
+						"question": "What is the name of the Arl's younger brother, who leads the village's defense in his brother's absence?",
+						"wrong": [
+							"Bann Vaughan",
+							"Bann Alfstanna",
+							"Bann Esmerelle"
+						]
+					},
+					{
+						"correct": "The Sacred Ashes of Andraste",
+						"difficulty": "Hard",
+						"explanation": "The Sacred Ashes are said to have miraculous healing properties, capable of curing Eamon's poison.",
+						"question": "To save Arl Eamon, the Warden must find a mythical artifact hidden in the mountains. What is it?",
+						"wrong": [
+							"The Heart of the Forest",
+							"The Litany of Adralla",
+							"The Arl's Signet"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_redcliffe",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "Redcliffe",
+				"lore_desc": "A strategic village and castle under siege by an army of the undead each night.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Village",
+					"Fortress",
+					"Human"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Denerim",
+						"difficulty": "Easy",
+						"explanation": "Denerim is the capital of Ferelden and the site of the royal palace where the nobility meets.",
+						"question": "In which city does the Landsmeet take place?",
+						"wrong": [
+							"Redcliffe",
+							"Gwaren",
+							"Highever"
+						]
+					},
+					{
+						"correct": "Alistair",
+						"difficulty": "Easy",
+						"explanation": "The core conflict of the Landsmeet is whether Alistair (or the Warden) can prove Loghain is unfit to lead.",
+						"question": "The Landsmeet is called to decide between the leadership of Loghain and which other potential claimant?",
+						"wrong": [
+							"Bann Teagan",
+							"Arl Howe",
+							"Duncan"
+						]
+					},
+					{
+						"correct": "A massive brawl",
+						"difficulty": "Medium",
+						"explanation": "A lack of political support forces the Warden to fight their way through Loghain's guards and the dissenting nobles.",
+						"question": "If you fail to gain enough support from the nobles, the Landsmeet often ends in what?",
+						"wrong": [
+							"The Warden's execution",
+							"A peaceful vote",
+							"The Archdemon's arrival"
+						]
+					},
+					{
+						"correct": "Loghain Mac Tir",
+						"difficulty": "Medium",
+						"explanation": "The Warden or their champion can challenge Loghain to a duel to the death to settle the leadership dispute.",
+						"question": "The Landsmeet can conclude with a duel. Who is the traditional opponent the Warden must face?",
+						"wrong": [
+							"Arl Howe",
+							"Queen Anora",
+							"Ser Cauthrien"
+						]
+					},
+					{
+						"correct": "The Grand Cleric",
+						"difficulty": "Hard",
+						"explanation": "Grand Cleric Elethina (or a representative) oversees the session to ensure Chantry law is observed.",
+						"question": "What is the name of the person who traditionally presides over the Landsmeet as the moderator?",
+						"wrong": [
+							"The First Enchanter",
+							"The Arl of Denerim",
+							"The Chancellor"
+						]
+					}
+				]
+			},
+			"id": "dragon_age_origins_the_landsmeet",
+			"meta": {
+				"date_added": "2026-03-04",
+				"entity_category": "Theme Item",
+				"full_title": "The Landsmeet",
+				"lore_desc": "The traditional gathering of the Ferelden nobility to decide the fate of the throne.",
+				"theme_origin": "dragon age origins",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Political",
+					"Location",
+					"Human"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -34155,12 +35388,109 @@
 			"id": "pokopia",
 			"synergies": [
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Mew",
 						"Mewtwo"
 					],
 					"name": "Clone"
+				}
+			]
+		},
+		{
+			"id": "dragon age origins",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Loghain Mac Tir",
+						"Duncan",
+						"Ostagar"
+					],
+					"name": "Betrayal at Ostagar"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Loghain Mac Tir",
+						"Alistair",
+						"The Landsmeet"
+					],
+					"name": "The Fate of Ferelden"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Duncan",
+						"Alistair",
+						"The Joining"
+					],
+					"name": "Blood of the Wardens"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Oghren",
+						"Shale",
+						"The Deep Roads"
+					],
+					"name": "Into the Darkness"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Morrigan",
+						"The Archdemon"
+					],
+					"name": "The Dark Ritual"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Morrigan",
+						"Flemeth"
+					],
+					"name": "Witches of the Wilds"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Alistair",
+						"Redcliffe"
+					],
+					"name": "Redcliffe's Secret"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Archdemon",
+						"The Joining"
+					],
+					"name": "The Ultimate Sacrifice"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Leliana",
+						"Zevran"
+					],
+					"name": "Campfire Rogues"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sten",
+						"Zevran"
+					],
+					"name": "Foreign Muscle"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Sten",
+						"Shale"
+					],
+					"name": "Stoic Warriors"
 				}
 			]
 		}
