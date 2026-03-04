@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772572444,
+	"last_updated": 1772664340,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1656,6 +1656,49 @@
 				"pokopia_pallet_town",
 				"pokopia_brock",
 				"pokopia_giovanni"
+			]
+		},
+		"2026-03-05": {
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Dragon Age Origins",
+			"share_text": "Wardens Unite !",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"dragon_age_origins_alistair",
+				"dragon_age_origins_morrigan",
+				"dragon_age_origins_the_archdemon"
+			],
+			"starters": [
+				"dragon_age_origins_morrigan",
+				"dragon_age_origins_loghain_mac_tir",
+				"dragon_age_origins_the_archdemon",
+				"dragon_age_origins_duncan",
+				"dragon_age_origins_the_joining",
+				"dragon_age_origins_flemeth",
+				"dragon_age_origins_the_deep_roads",
+				"dragon_age_origins_leliana",
+				"dragon_age_origins_zevran",
+				"dragon_age_origins_sten",
+				"dragon_age_origins_oghren",
+				"dragon_age_origins_shale",
+				"dragon_age_origins_ostagar",
+				"dragon_age_origins_redcliffe",
+				"dragon_age_origins_the_landsmeet",
+				"dragon_age_origins_alistair"
 			]
 		}
 	}
