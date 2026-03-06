@@ -34231,6 +34231,886 @@
 					"Human"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "FLUDD",
+						"difficulty": "Easy",
+						"explanation": "FLUDD stands for Flash Liquidizer Ultra Dousing Device and was invented by Professor E. Gadd.",
+						"question": "In Super Mario Sunshine, what is the acronym for the sentient water-spraying device Mario wears on his back?",
+						"wrong": [
+							"WASH",
+							"SOAK",
+							"PUMP"
+						]
+					},
+					{
+						"correct": "Shadow Mario",
+						"difficulty": "Medium",
+						"explanation": "Shadow Mario is actually Bowser Jr. in disguise, using a magic paintbrush to frame the plumber.",
+						"question": "Mario is sentenced to clean up Isle Delfino because he is mistaken for a graffiti-painting lookalike known by what name?",
+						"wrong": [
+							"Metal Mario",
+							"Cosmic Mario",
+							"Dark Mario"
+						]
+					},
+					{
+						"correct": "Shine Sprites",
+						"difficulty": "Hard",
+						"explanation": "There are 120 Shine Sprites in total, representing the guardian spirits of the island's sunlight.",
+						"question": "To reach the final boss in the volcano of Isle Delfino, Mario must collect a specific number of which tropical collectibles?",
+						"wrong": [
+							"Power Stars",
+							"Sun Medals",
+							"Golden Mushrooms"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_mario",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Mario",
+				"lore_desc": "Trading his traditional power-ups for a high-tech water backpack, Mario takes a vacation to Isle Delfino that quickly turns into a cleanup mission.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Mascot",
+					"Explorer"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Poltergust 3000",
+						"difficulty": "Easy",
+						"explanation": "The Poltergust 3000 was designed by Professor E. Gadd to safely contain rowdy spirits.",
+						"question": "What is the name of the specialized vacuum cleaner Luigi uses to capture ghosts?",
+						"wrong": [
+							"Ghost Sucker 50",
+							"Phantom Sweeper",
+							"Specter Vac"
+						]
+					},
+					{
+						"correct": "King Boo",
+						"difficulty": "Medium",
+						"explanation": "King Boo trapped Mario in a painting as revenge for the many Boos Mario defeated in previous games.",
+						"question": "Which recurring Mario villain is revealed to be the mastermind behind the haunted mansion's traps?",
+						"wrong": [
+							"Dry Bowser",
+							"Kamek",
+							"Waluigi"
+						]
+					},
+					{
+						"correct": "Flashlight",
+						"difficulty": "Hard",
+						"explanation": "Luigi must time his flashlight beam to expose the ghost's heart before he can start reeling them in.",
+						"question": "Before Luigi can vacuum up a ghost, he must first stun them using which item?",
+						"wrong": [
+							"Camera",
+							"Holy Water",
+							"Stun Gun"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_luigi",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Luigi",
+				"lore_desc": "The often-overshadowed brother finally takes center stage, armed with a vacuum cleaner and a flashlight to save Mario from a haunted mansion.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Ghost Hunter",
+					"Brother"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sailing",
+						"difficulty": "Easy",
+						"explanation": "The game features a vast Great Sea that requires a boat to navigate the distance between islands.",
+						"question": "In the GameCube classic The Wind Waker, what is the primary method of traveling between islands?",
+						"wrong": [
+							"Flying",
+							"Teleporting",
+							"Swimming"
+						]
+					},
+					{
+						"correct": "King of Red Lions",
+						"difficulty": "Medium",
+						"explanation": "The boat is actually the vessel for the spirit of the King of Hyrule.",
+						"question": "What is the name of the talking red boat that guides Link through the Great Sea?",
+						"wrong": [
+							"Crimson Voyager",
+							"The Great Hylian",
+							"Roaring Tide"
+						]
+					},
+					{
+						"correct": "Wind Waker",
+						"difficulty": "Hard",
+						"explanation": "The Wind Waker is a conductor's baton that allows the user to command the winds themselves.",
+						"question": "Which musical instrument does Link use to control the direction of the wind and perform magic?",
+						"wrong": [
+							"Ocarina of Time",
+							"Harp of Ages",
+							"Goddess Lyre"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_link",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Link",
+				"lore_desc": "The Hero of Winds sets sail across a flooded Hyrule to rescue his sister and stop a resurgent ancient evil.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Swordsman",
+					"Sailor"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "First Person",
+						"difficulty": "Easy",
+						"explanation": "Retro Studios transitioned the series to a First-Person Adventure style, emphasizing immersion through Samus's visor.",
+						"question": "Metroid Prime shifted the series into which gameplay perspective for the first time?",
+						"wrong": [
+							"Top Down",
+							"Third Person",
+							"Side Scrolling"
+						]
+					},
+					{
+						"correct": "Phazon",
+						"difficulty": "Medium",
+						"explanation": "Phazon is a highly mutagenic material that crashed onto Tallon IV inside a Leviathan Seed.",
+						"question": "What is the name of the radioactive, corrupting blue substance that serves as the central threat in the Prime series?",
+						"wrong": [
+							"Fuel Gel",
+							"Ether",
+							"Metroid Ore"
+						]
+					},
+					{
+						"correct": "Morph Ball",
+						"difficulty": "Hard",
+						"explanation": "The Morph Ball is a staple of the series, often requiring the player to find a specific upgrade before it can be used.",
+						"question": "Which iconic Samus ability allows her to shrink into a small sphere to navigate tight crawlspaces?",
+						"wrong": [
+							"Screw Attack",
+							"Spin Jump",
+							"Power Bomb"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_samus_aran",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Samus Aran",
+				"lore_desc": "Trapped on the poisonous planet Tallon IV, Samus must recover her lost abilities and stop the spread of a corrupting energy source.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Bounty Hunter",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Red Pikmin are the first type discovered and have a pointy nose that aids in combat.",
+						"question": "Which color of Pikmin is known for being completely immune to fire?",
+						"wrong": [
+							"Blue",
+							"Yellow",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Captain Olimar",
+						"difficulty": "Medium",
+						"explanation": "Olimar is a tiny extraterrestrial who must recover 30 ship parts to return home before his life support fails.",
+						"question": "What is the name of the Hocotate Freight employee who first discovers the Pikmin after crashing his ship?",
+						"wrong": [
+							"Louie",
+							"The President",
+							"Alph"
+						]
+					},
+					{
+						"correct": "Electricity",
+						"difficulty": "Hard",
+						"explanation": "Yellow Pikmin were given the electrical immunity trait starting in Pikmin 2.",
+						"question": "Yellow Pikmin are unique because they can be thrown higher than others and possess an immunity to what hazard?",
+						"wrong": [
+							"Water",
+							"Poison",
+							"Crushing"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_pikmin",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Pikmin",
+				"lore_desc": "Tiny, plant-like creatures that follow orders, build bridges, and fight massive predators to help a stranded space captain.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Creature",
+					"Horde",
+					"Nature"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ashley Graham",
+						"difficulty": "Easy",
+						"explanation": "Ashley is the daughter of the President of the United States, held captive by a mysterious cult.",
+						"question": "In Resident Evil 4, Leon is sent to Europe to rescue which character?",
+						"wrong": [
+							"Ada Wong",
+							"Claire Redfield",
+							"Jill Valentine"
+						]
+					},
+					{
+						"correct": "Las Plagas",
+						"difficulty": "Medium",
+						"explanation": "Las Plagas allows the host to retain some intelligence and follow the orders of a leader.",
+						"question": "Unlike previous Resident Evil games, the enemies in the village are not zombies but humans infected with a parasite called what?",
+						"wrong": [
+							"T Virus",
+							"G Virus",
+							"Uroboros"
+						]
+					},
+					{
+						"correct": "The Merchant",
+						"difficulty": "Hard",
+						"explanation": "Known for his catchphrase 'What're ya buyin?', the Merchant is a fan-favorite character who remains neutral throughout the game.",
+						"question": "What is the name of the mysterious, hooded figure who follows Leon and sells him weapon upgrades?",
+						"wrong": [
+							"The Peddler",
+							"The Butcher",
+							"The Keeper"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_leon_kennedy",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Leon Kennedy",
+				"lore_desc": "A former rookie cop turned government agent sent to a rural Spanish village to rescue the President's kidnapped daughter.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Survivor",
+					"Agent"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blue Falcon",
+						"difficulty": "Easy",
+						"explanation": "The Blue Falcon is the most balanced vehicle in the F-Zero series and is synonymous with the Captain himself.",
+						"question": "What is the name of Captain Falcon's iconic, high-speed racing machine?",
+						"wrong": [
+							"Fire Stingray",
+							"Wild Goose",
+							"Golden Fox"
+						]
+					},
+					{
+						"correct": "Energy",
+						"difficulty": "Medium",
+						"explanation": "Using a boost consumes your machine's health, meaning you must balance speed with the risk of exploding.",
+						"question": "In the GameCube hit F-Zero GX, players can utilize a boost that drains which vital meter?",
+						"wrong": [
+							"Fuel",
+							"Shield",
+							"Nitro"
+						]
+					},
+					{
+						"correct": "Blood Falcon",
+						"difficulty": "Hard",
+						"explanation": "Blood Falcon was created from Captain Falcon's DNA after a massive racing accident years prior.",
+						"question": "What is the name of the evil clone of Captain Falcon who serves as a major antagonist in the series?",
+						"wrong": [
+							"Black Shadow",
+							"Deathborn",
+							"Dark Falcon"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_captain_falcon",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Captain Falcon",
+				"lore_desc": "The high-speed racing pilot of the Blue Falcon who balances his time between winning the F-Zero Grand Prix and hunting criminals.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Racer",
+					"Bounty Hunter"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Tom Nook",
+						"difficulty": "Easy",
+						"explanation": "Tom Nook gives the player their first house and sets up the mortgage system that drives the game's progression.",
+						"question": "In the original Animal Crossing, who is the local shopkeeper and landlord you owe money to?",
+						"wrong": [
+							"Blathers",
+							"K.K. Slider",
+							"Mr. Resetti"
+						]
+					},
+					{
+						"correct": "Mr. Resetti",
+						"difficulty": "Medium",
+						"explanation": "Mr. Resetti is a mole who delivers long, unskippable lectures about the importance of saving your progress.",
+						"question": "Which character appears and yells at the player if they turn off the GameCube without saving?",
+						"wrong": [
+							"Don Resetti",
+							"Copper",
+							"Booker"
+						]
+					},
+					{
+						"correct": "K.K. Slider",
+						"difficulty": "Hard",
+						"explanation": "K.K. Slider has a massive repertoire of songs that players can collect and play on their stereos at home.",
+						"question": "Every Saturday night, which guitar-playing dog visits the train station to perform music for the town?",
+						"wrong": [
+							"Digby",
+							"Rover",
+							"Harvey"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_villager",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Villager",
+				"lore_desc": "The new kid in town who spends their days fishing, catching bugs, and trying to pay off an ever-growing mortgage.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Resident",
+					"Mascot"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dinosaurs",
+						"difficulty": "Easy",
+						"explanation": "The game takes place on Dinosaur Planet, later renamed Sauria, where Fox aids various dinosaur tribes.",
+						"question": "In Star Fox Adventures, Fox explores a prehistoric world populated by which type of creatures?",
+						"wrong": [
+							"Dragons",
+							"Aliens",
+							"Robots"
+						]
+					},
+					{
+						"correct": "Tricky",
+						"difficulty": "Medium",
+						"explanation": "Prince Tricky can help Fox by digging up items and breathing fire on enemies.",
+						"question": "What is the name of the small triceratops prince who accompanies Fox throughout his adventure?",
+						"wrong": [
+							"Rocky",
+							"Bumpy",
+							"Spike"
+						]
+					},
+					{
+						"correct": "Krystal",
+						"difficulty": "Hard",
+						"explanation": "Krystal was originally intended to be the main protagonist of the game back when it was titled Dinosaur Planet.",
+						"question": "Which member of the Star Fox team is kidnapped and encased in a crystal at the start of the game?",
+						"wrong": [
+							"Slippy Toad",
+							"Peppy Hare",
+							"Falco Lombardi"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_fox_mccloud",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Fox McCloud",
+				"lore_desc": "The leader of the Star Fox team who temporarily puts down his flight stick to pick up a magic staff on the planet Sauria.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Pilot",
+					"Leader"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sonic Adventure 2",
+						"difficulty": "Easy",
+						"explanation": "Shadow was introduced as a rival to Sonic, working alongside Dr. Eggman to fulfill a plan of vengeance.",
+						"question": "Shadow the Hedgehog made his first appearance in which 3D platformer?",
+						"wrong": [
+							"Sonic Heroes",
+							"Shadow the Hedgehog",
+							"Sonic Unleashed"
+						]
+					},
+					{
+						"correct": "ARK",
+						"difficulty": "Medium",
+						"explanation": "Space Colony ARK was the site of the experiment that created Shadow, led by Gerald Robotnik.",
+						"question": "Shadow was created 50 years ago aboard a space colony named what?",
+						"wrong": [
+							"EGG",
+							"ORBIT",
+							"ZENITH"
+						]
+					},
+					{
+						"correct": "Chaos Control",
+						"difficulty": "Hard",
+						"explanation": "By using the power of a Chaos Emerald, Shadow can manipulate time and space to outmaneuver his foes.",
+						"question": "What is the name of Shadow's signature ability that allows him to warp through space and slow down time?",
+						"wrong": [
+							"Chaos Blast",
+							"Chaos Spear",
+							"Chaos Snap"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_shadow_the_hedgehog",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Shadow the Hedgehog",
+				"lore_desc": "The Ultimate Lifeform who debuted on the GameCube, often seen as a dark reflection of Sonic with a mysterious past.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Anti Hero",
+					"Rival",
+					"Speedster"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A Button Only",
+						"difficulty": "Easy",
+						"explanation": "The game was designed with a simple 'one-button' control scheme where holding 'A' handles braking, charging, and attacking.",
+						"question": "In Kirby Air Ride, what is the most common way for Kirby to steer and brake his vehicles?",
+						"wrong": [
+							"Analog Stick",
+							"L and R Buttons",
+							"D Pad"
+						]
+					},
+					{
+						"correct": "City Trial",
+						"difficulty": "Medium",
+						"explanation": "City Trial is the most popular mode in the game, allowing players to find and customize legendary star vehicles.",
+						"question": "Which game mode features a 3D city where players collect power-ups to prepare for a final stadium challenge?",
+						"wrong": [
+							"Top Ride",
+							"Air Ride",
+							"Dream Dash"
+						]
+					},
+					{
+						"correct": "Hydra and Dragoon",
+						"difficulty": "Hard",
+						"explanation": "Players must find three specific red boxes in City Trial to assemble these incredibly powerful legendary machines.",
+						"question": "What are the names of the two legendary 'machine' pieces that, when combined, create the ultimate air ride vehicles?",
+						"wrong": [
+							"Phoenix and Leviathan",
+							"Titan and Seraph",
+							"Alpha and Omega"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_kirby",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Kirby",
+				"lore_desc": "The pink puffball traded his usual platforming for high-speed vehicle combat in the cult classic Kirby Air Ride.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Racer",
+					"Alien"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Forsaken Fortress",
+						"difficulty": "Easy",
+						"explanation": "The Forsaken Fortress is where Link is initially defeated and thrown into the sea early in the game.",
+						"question": "In The Wind Waker, Ganondorf's hideout is located on which foreboding island?",
+						"wrong": [
+							"Dragon Roost Island",
+							"Fire Mountain",
+							"Star Island"
+						]
+					},
+					{
+						"correct": "Triforce",
+						"difficulty": "Medium",
+						"explanation": "Ganondorf typically holds the Triforce of Power and seeks the pieces held by Link and Zelda.",
+						"question": "In the GameCube era, Ganondorf often seeks to reunite the three pieces of which divine artifact?",
+						"wrong": [
+							"Master Sword",
+							"Spiritual Stones",
+							"Sage Medallions"
+						]
+					},
+					{
+						"correct": "Dual Swords",
+						"difficulty": "Hard",
+						"explanation": "Unlike his usual heavy weapons, the Wind Waker version of Ganondorf fights with a pair of nimble, deadly blades.",
+						"question": "What weapon does Ganondorf use during the final duel in The Wind Waker?",
+						"wrong": [
+							"A Trident",
+							"Dark Magic Only",
+							"A Giant Hammer"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_ganondorf",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Ganondorf",
+				"lore_desc": "The Great King of Evil who has survived the flooding of Hyrule and seeks to reclaim his throne from the shadows.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Warlock",
+					"Tyrant"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Tetra",
+						"difficulty": "Easy",
+						"explanation": "Tetra is unaware of her royal lineage until the middle of the game when she is revealed to be the heir to the throne.",
+						"question": "In The Wind Waker, Princess Zelda is first introduced as a sassy pirate leader known by what name?",
+						"wrong": [
+							"Sheik",
+							"Marin",
+							"Aryll"
+						]
+					},
+					{
+						"correct": "The Twilight Realm",
+						"difficulty": "Medium",
+						"explanation": "The Twilight Realm covers Hyrule in a dark shroud, turning most of its inhabitants into lingering spirits.",
+						"question": "In Twilight Princess, Zelda's kingdom is overtaken by a dark realm called what?",
+						"wrong": [
+							"The Dark World",
+							"The Silent Realm",
+							"The Shadow Zone"
+						]
+					},
+					{
+						"correct": "Sheik",
+						"difficulty": "Hard",
+						"explanation": "Players could switch between Zelda's magic-based moves and Sheik's fast-paced ninja attacks with a single button press.",
+						"question": "In the Super Smash Bros. Melee version of her character, Zelda can transform into which other fighter?",
+						"wrong": [
+							"Impa",
+							"Saria",
+							"Midna"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_zelda",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Zelda",
+				"lore_desc": "Whether she is disguised as a pirate or ruling a kingdom in twilight, the Princess of Hyrule is a vital force against darkness.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Princess",
+					"Leader"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Galaxia",
+						"difficulty": "Easy",
+						"explanation": "Galaxia is a golden sword with five points and is one of the most powerful weapons in the Kirby universe.",
+						"question": "What is the name of the legendary, star-encrusted sword Meta Knight carries?",
+						"wrong": [
+							"Master Blade",
+							"Star Rod",
+							"Kirby Slayer"
+						]
+					},
+					{
+						"correct": "Halberd",
+						"difficulty": "Medium",
+						"explanation": "The Halberd frequently serves as a level or stage in various Kirby and Smash Bros. games.",
+						"question": "What is the name of the massive armored battleship commanded by Meta Knight?",
+						"wrong": [
+							"The Ax",
+							"The Sword",
+							"The Shield"
+						]
+					},
+					{
+						"correct": "It breaks",
+						"difficulty": "Hard",
+						"explanation": "When defeated, Meta Knight's mask typically splits in half, briefly revealing his face—which looks remarkably like Kirby's.",
+						"question": "If Meta Knight is defeated in battle, what usually happens to his mask?",
+						"wrong": [
+							"It turns gold",
+							"It disappears",
+							"It explodes"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_meta_knight",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Meta Knight",
+				"lore_desc": "A mysterious masked warrior from Dream Land who values honor and carries a legendary golden blade.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Anti Hero",
+					"Knight",
+					"Rival"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Donkey Konga",
+						"difficulty": "Easy",
+						"explanation": "Donkey Konga used the DK Bongos peripheral, which had two drum pads and a microphone to detect clapping.",
+						"question": "What was the name of the rhythm game series that utilized a physical bongo drum controller?",
+						"wrong": [
+							"DK Beats",
+							"Jungle Rhythm",
+							"Bongo Blast"
+						]
+					},
+					{
+						"correct": "Hit the right bongo",
+						"difficulty": "Medium",
+						"explanation": "The game was unique for being a platformer controlled entirely by the DK Bongos peripheral.",
+						"question": "In the platformer Donkey Kong Jungle Beat, how do players move Donkey Kong to the right?",
+						"wrong": [
+							"Clap",
+							"Tilt the stick",
+							"Hit both bongos"
+						]
+					},
+					{
+						"correct": "Hand Slap",
+						"difficulty": "Hard",
+						"explanation": "Hand Slap is his Down-Special move, which can bury opponents or clear away smaller items.",
+						"question": "In Super Smash Bros. Melee, what is the name of Donkey Kong's powerful ground-pounding move?",
+						"wrong": [
+							"Giant Punch",
+							"Ape Smash",
+							"Kong Crush"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_donkey_kong",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Donkey Kong",
+				"lore_desc": "During the GameCube era, Donkey Kong took a rhythmic turn, using a set of bongo drums to save the day.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Ape",
+					"Musician"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "20 Hours",
+						"difficulty": "Easy",
+						"explanation": "Mewtwo was famous for having one of the most time-consuming unlock requirements in the game.",
+						"question": "In Super Smash Bros. Melee, how many combined hours of 'VS Mode' play are required to unlock Mewtwo?",
+						"wrong": [
+							"5 Hours",
+							"10 Hours",
+							"50 Hours"
+						]
+					},
+					{
+						"correct": "Shadow Ball",
+						"difficulty": "Medium",
+						"explanation": "Shadow Ball can be charged and stored, dealing significant damage and knockback when fully powered.",
+						"question": "Mewtwo's signature 'Neutral Special' move in Smash involves charging up a purple ball of energy called what?",
+						"wrong": [
+							"Psybeam",
+							"Dark Pulse",
+							"Aura Sphere"
+						]
+					},
+					{
+						"correct": "Confusion",
+						"difficulty": "Hard",
+						"explanation": "Confusion is a command grab that can be used to disrupt enemy recovery or return fire from projectiles.",
+						"question": "What is the name of Mewtwo's 'Side Special' move that reflects projectiles and flips opponents?",
+						"wrong": [
+							"Psychic",
+							"Telekinesis",
+							"Mind Warp"
+						]
+					}
+				]
+			},
+			"id": "gamecube_classics_mewtwo",
+			"meta": {
+				"date_added": "2026-03-06",
+				"entity_category": "Theme Item",
+				"full_title": "Mewtwo",
+				"lore_desc": "The genetic clone of Mew who was the ultimate unlockable challenge in the GameCube's premier fighting game.",
+				"theme_origin": "gamecube classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Psychic",
+					"Pokemon"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -34467,6 +35347,31 @@
 						"Fire Flower"
 					],
 					"name": "Fire Mario !"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Luigi",
+						"Mewtwo",
+						"Ganondorf"
+					],
+					"name": "Melee Hidden Challengers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Luigi",
+						"Leon Kennedy"
+					],
+					"name": "Mansion Survivors"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Donkey Kong",
+						"Ganondorf"
+					],
+					"name": "Super Heavyweights"
 				}
 			]
 		},
@@ -35284,6 +36189,23 @@
 						"Pumpkin Hill"
 					],
 					"name": "A Ghost's Pumpkin Soup"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Shadow the Hedgehog",
+						"Meta Knight",
+						"Mewtwo"
+					],
+					"name": "Edgy 2000s Rivals"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Shadow the Hedgehog",
+						"Mewtwo"
+					],
+					"name": "The Ultimate Lifeforms"
 				}
 			]
 		},
@@ -35485,12 +36407,100 @@
 					"name": "Foreign Muscle"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Sten",
 						"Shale"
 					],
 					"name": "Stoic Warriors"
+				}
+			]
+		},
+		{
+			"id": "gamecube classics",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Link",
+						"Zelda",
+						"Ganondorf"
+					],
+					"name": "The Triforce"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Samus Aran",
+						"Captain Falcon",
+						"Fox McCloud"
+					],
+					"name": "Galactic Pilots"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mario",
+						"Donkey Kong",
+						"Link"
+					],
+					"name": "Nintendo Pioneers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kirby",
+						"Meta Knight"
+					],
+					"name": "Air Riders"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Pikmin",
+						"Villager"
+					],
+					"name": "Green Thumbs"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mario",
+						"Luigi"
+					],
+					"name": "The Mario Bros"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Fox McCloud",
+						"Captain Falcon"
+					],
+					"name": "Melee Top Tiers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Link",
+						"Zelda"
+					],
+					"name": "Wisdom & Courage"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Samus Aran",
+						"Meta Knight"
+					],
+					"name": "Armored & Dangerous"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Mario",
+						"Villager"
+					],
+					"name": "F.L.U.D.D. & Hose"
 				}
 			]
 		}
