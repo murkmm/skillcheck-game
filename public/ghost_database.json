@@ -34267,6 +34267,61 @@
 							"Sun Medals",
 							"Golden Mushrooms"
 						]
+					},
+					{
+						"correct": "One drives, one uses items",
+						"difficulty": "Easy",
+						"explanation": "This GameCube exclusive feature allowed players to swap positions on the fly to manage different special items!",
+						"question": "In Mario Kart: Double Dash!!, what is the unique mechanic that allows two characters to ride on a single kart?",
+						"wrong": [
+							"A sidecar attachment",
+							"Fusing together",
+							"Standing on the roof"
+						]
+					},
+					{
+						"correct": "The Black Chest",
+						"difficulty": "Easy",
+						"explanation": "These 'curses' were actually helpful upgrades that leaned into the game's paper-thin aesthetic.",
+						"question": "In the RPG Paper Mario: The Thousand-Year Door, what is the name of the 'cursed' chest that gives Mario the ability to turn into a paper airplane?",
+						"wrong": [
+							"The Mimic",
+							"The Shadow Box",
+							"The Void Crate"
+						]
+					},
+					{
+						"correct": "A magic bandana",
+						"difficulty": "Medium",
+						"explanation": "By wearing a bib/bandana with Mario's facial features on it, Bowser Jr. could take on the form of the heroic plumber's doppelganger.",
+						"question": "In Super Mario Sunshine, what does Bowser Jr. use to transform himself into the liquid-like 'Shadow Mario'?",
+						"wrong": [
+							"A blue mushroom",
+							"A spray can",
+							"A cursed mirror"
+						]
+					},
+					{
+						"correct": "Toadsworth",
+						"difficulty": "Medium",
+						"explanation": "While Toadsworth is in the game, he stays at the inn to worry about Peach, rather than fighting by Mario's side.",
+						"question": "Which of these is NOT a partner that joins Mario on his quest in Paper Mario: The Thousand-Year Door?",
+						"wrong": [
+							"Goombella",
+							"Koops",
+							"Admiral Bobbery"
+						]
+					},
+					{
+						"correct": "The Robbo Thieves",
+						"difficulty": "Hard",
+						"explanation": "The Robbo Thieves, led by Ishnail, control the east side of Rogueport and are rivals to the Pianta Syndicate.",
+						"question": "In the hub world of Rogueport in TTYD, there is a notorious group of criminals that Mario must occasionally deal with. What are they called?",
+						"wrong": [
+							"The Goomba Gang",
+							"The X-Nauts",
+							"The Shadow Sirens"
+						]
 					}
 				]
 			},
@@ -34321,6 +34376,116 @@
 							"Camera",
 							"Holy Water",
 							"Stun Gun"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Luigi has been the 'green brother' since his inception, a color that helps him stand out against the ghosts.",
+						"question": "In his debut GameCube solo adventure, what color is Luigi’s iconic cap and shirt?",
+						"wrong": [
+							"Blue",
+							"Yellow",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Being easily scared",
+						"difficulty": "Easy",
+						"explanation": "Luigi's fearful animations and constant shivering became his defining character traits in this game.",
+						"question": "Despite his bravery, Luigi is characterized by what major personality trait in Luigi's Mansion?",
+						"wrong": [
+							"Being overconfident",
+							"Being extremely angry",
+							"Being very lazy"
+						]
+					},
+					{
+						"correct": "Polterpup",
+						"difficulty": "Medium",
+						"explanation": "Polterpup is a playful ghost dog who eventually becomes a recurring companion for Luigi in later sequels.",
+						"question": "What is the name of the spectral, glowing white dog who occasionally helps or hinders Luigi?",
+						"wrong": [
+							"Spooky",
+							"Bones",
+							"Ghostly"
+						]
+					},
+					{
+						"correct": "Chauncey",
+						"difficulty": "Medium",
+						"explanation": "Chauncey shrinks Luigi down and fights him in a giant crib full of bouncing balls and rocking horses.",
+						"question": "Who is the first major 'boss' ghost Luigi faces, a massive baby residing in the Area 1 nursery?",
+						"wrong": [
+							"Biff Atlas",
+							"Neville",
+							"Bogmire"
+						]
+					},
+					{
+						"correct": "Rank A",
+						"difficulty": "Hard",
+						"explanation": "Depending on how much gold and treasure you collect, Professor E. Gadd will build Luigi a house ranging from a tent to a 'Rank A' massive villa.",
+						"question": "What is the highest possible 'Rank' Luigi can achieve for his new mansion at the very end of the game?",
+						"wrong": [
+							"Rank S",
+							"Rank Gold",
+							"Rank Platinum"
+						]
+					},
+					{
+						"correct": "Professor E. Gadd",
+						"difficulty": "Easy",
+						"explanation": "Elvin Gadd is the genius behind the Poltergust 3000 and the Game Boy Horror!",
+						"question": "In Luigi's Mansion, what is the name of the eccentric, white-haired scientist who builds Luigi's ghost-hunting equipment?",
+						"wrong": [
+							"Dr. Crygor",
+							"Professor Oak",
+							"Doc Louis"
+						]
+					},
+					{
+						"correct": "Trick question: neither ever happens",
+						"difficulty": "Easy",
+						"explanation": "Unlike later games, the original Poltergust 3000 and flashlight have infinite power—fear is Luigi's only real limit!",
+						"question": "What happens in Luigi's Mansion when Luigi's flashlight battery 'dies' or he loses his Poltergust?",
+						"wrong": [
+							"He must find batteries",
+							"He uses a candle",
+							"He passes out from fear"
+						]
+					},
+					{
+						"correct": "Daisy",
+						"difficulty": "Medium",
+						"explanation": "Luigi and Daisy are paired up as the 'middleweight' counterparts to Mario and Peach.",
+						"question": "In Mario Kart: Double Dash!!, who is Luigi's default racing partner and the owner of the Heart special item?",
+						"wrong": [
+							"Peach",
+							"Birdo",
+							"Yoshi"
+						]
+					},
+					{
+						"correct": "Game Boy Horror",
+						"difficulty": "Medium",
+						"explanation": "A parody of the Game Boy Color, this device allowed Luigi to see the world from a first-person perspective and scan ghosts.",
+						"question": "In Luigi's Mansion, what is the name of the device Luigi uses to view the map and check his inventory, which looks like a handheld console?",
+						"wrong": [
+							"Ghost Tracker",
+							"Luigi Pad",
+							"Specter Screen"
+						]
+					},
+					{
+						"correct": "Rank H",
+						"difficulty": "Hard",
+						"explanation": "Rank H results in a tiny, depressing tent on the plot of land where the mansion once stood. Talk about a bad investment!",
+						"question": "What is the final 'Rank' of the mansion Luigi receives if he finishes the game with the lowest amount of money possible (less than 5,000G)?",
+						"wrong": [
+							"Rank F",
+							"Rank Z",
+							"The Shack"
 						]
 					}
 				]
@@ -34377,6 +34542,116 @@
 							"Harp of Ages",
 							"Goddess Lyre"
 						]
+					},
+					{
+						"correct": "The Hero's Tunic",
+						"difficulty": "Easy",
+						"explanation": "Link usually receives the Hero's Tunic from an elder or a family member at the start of his journey.",
+						"question": "What is the general name given to Link's iconic green clothing in the Zelda series?",
+						"wrong": [
+							"The Hyrule Garb",
+							"The Forest Cloak",
+							"The Master Suit"
+						]
+					},
+					{
+						"correct": "Outset Island",
+						"difficulty": "Easy",
+						"explanation": "Outset Island is where the game begins, and it's where Link receives his sword and green outfit for his birthday.",
+						"question": "In the Wind Waker, Link lives with his grandmother and sister on which peaceful island?",
+						"wrong": [
+							"Windfall Island",
+							"Dragon Roost Island",
+							"Skyloft"
+						]
+					},
+					{
+						"correct": "Aryll",
+						"difficulty": "Medium",
+						"explanation": "Aryll is known for her telescope and her love for seagulls, which Link inherits when she is taken.",
+						"question": "What is the name of Link’s younger sister, whose kidnapping by a giant bird kicks off the events of Wind Waker?",
+						"wrong": [
+							"Malon",
+							"Marin",
+							"Saria"
+						]
+					},
+					{
+						"correct": "Ordon Village",
+						"difficulty": "Medium",
+						"explanation": "Ordon Village is located just south of the Faron Province and is known for its goat herding.",
+						"question": "In Twilight Princess, Link begins his journey as a simple farmhand in which pastoral village?",
+						"wrong": [
+							"Kakariko Village",
+							"Hateno Village",
+							"Faron Woods"
+						]
+					},
+					{
+						"correct": "Iron Boots",
+						"difficulty": "Hard",
+						"explanation": "The Iron Boots are a recurring item, often used in puzzles involving magnetic floors or strong wind gusts.",
+						"question": "Which heavy metal boots are used by Link in Wind Waker to sink to the bottom of the ocean or resist heavy winds?",
+						"wrong": [
+							"Lead Boots",
+							"Anchor Boots",
+							"Heavy Greaves"
+						]
+					},
+					{
+						"correct": "Bow and Arrows",
+						"difficulty": "Easy",
+						"explanation": "Link utilized his classic Hylian arsenal, including his bow, bombs, and boomerang, to take on the fighters of SoulCalibur.",
+						"question": "In the GameCube version of SoulCalibur II, Link appeared as a special guest fighter. What is his primary projectile in that game?",
+						"wrong": [
+							"Fireballs",
+							"Slingshot",
+							"Crossbow"
+						]
+					},
+					{
+						"correct": "Midna",
+						"difficulty": "Easy",
+						"explanation": "Midna, the Twilight Princess herself, guides Link and uses her magical 'hair' to help him jump and attack.",
+						"question": "In Twilight Princess, Link can transform into a wolf. What is the name of the imp-like creature who rides on his back in this form?",
+						"wrong": [
+							"Fi",
+							"Navi",
+							"Tatls"
+						]
+					},
+					{
+						"correct": "He splits into four Links",
+						"difficulty": "Medium",
+						"explanation": "The sword's magic divides Link into four versions (Green, Red, Blue, and Violet) to defeat the wind mage Vaati.",
+						"question": "In Four Swords Adventures, what happens when Link pulls the legendary Four Sword from its sanctuary pedestal?",
+						"wrong": [
+							"He turns into a giant",
+							"He travels to the future",
+							"He loses his memories"
+						]
+					},
+					{
+						"correct": "The Hero's Clothes",
+						"difficulty": "Medium",
+						"explanation": "Link is forced to wear the 'hot and itchy' green tunic as part of a tradition honoring the legendary Hero of Time.",
+						"question": "In The Wind Waker, what does Link receive from his grandmother as a birthday gift at the very start of the game?",
+						"wrong": [
+							"A wooden shield",
+							"A telescope",
+							"A heavy sword"
+						]
+					},
+					{
+						"correct": "The Link from Ocarina of Time",
+						"difficulty": "Hard",
+						"explanation": "Known as the 'Hero's Shade,' he laments that he wasn't remembered as a hero in his time—confirming he is the previous Link.",
+						"question": "In Twilight Princess, Link is taught 'Hidden Skills' by a ghostly skeletal warrior. Who is this warrior widely believed to be?",
+						"wrong": [
+							"The King of Hyrule",
+							"Ganondorf's father",
+							"Link's actual father"
+						]
 					}
 				]
 			},
@@ -34432,6 +34707,61 @@
 							"Spin Jump",
 							"Power Bomb"
 						]
+					},
+					{
+						"correct": "Power Suit",
+						"difficulty": "Easy",
+						"explanation": "The Power Suit is a modular bio-mechanical exoskeleton that Samus can upgrade with various beams and abilities.",
+						"question": "What is the name of Samus's iconic orange and red suit that she wears for most of her missions?",
+						"wrong": [
+							"Varia Suit",
+							"Fusion Suit",
+							"Gravity Suit"
+						]
+					},
+					{
+						"correct": "The Chozo",
+						"difficulty": "Easy",
+						"explanation": "The Chozo took Samus in after her home colony was destroyed, infusing her with their DNA to help her survive.",
+						"question": "Which ancient, highly advanced bird-like race raised Samus and provided her with her technology?",
+						"wrong": [
+							"The Luminoth",
+							"The Skytownians",
+							"The Metroids"
+						]
+					},
+					{
+						"correct": "Phendrana Drifts",
+						"difficulty": "Medium",
+						"explanation": "Phendrana Drifts is famous for its haunting music and being the home of the Space Pirate research labs.",
+						"question": "In Metroid Prime, what is the name of the frozen, snowy region of Tallon IV that contains ancient Chozo ruins?",
+						"wrong": [
+							"Magmoor Caverns",
+							"Chozo Ruins",
+							"Sky Town"
+						]
+					},
+					{
+						"correct": "Meta Ridley",
+						"difficulty": "Medium",
+						"explanation": "After his defeat in the original Metroid, Ridley was rebuilt with mechanical parts, becoming Meta Ridley.",
+						"question": "Who is the leader of the Space Pirates and Samus's arch-nemesis, who appears as a cybernetic version of himself in Prime?",
+						"wrong": [
+							"Kraid",
+							"Dark Samus",
+							"Mother Brain"
+						]
+					},
+					{
+						"correct": "Chozo Artifacts",
+						"difficulty": "Hard",
+						"explanation": "The Chozo Artifacts are essentially keys left behind by the Chozo to seal the 'Great Poison' (Phazon) within the crater.",
+						"question": "To unlock the way to the Impact Crater in Metroid Prime, Samus must find twelve of what items hidden across the planet?",
+						"wrong": [
+							"Energy Tanks",
+							"Artifacts of Truth",
+							"Luminoth Keys"
+						]
 					}
 				]
 			},
@@ -34486,6 +34816,116 @@
 							"Water",
 							"Poison",
 							"Crushing"
+						]
+					},
+					{
+						"correct": "Blue Pikmin",
+						"difficulty": "Easy",
+						"explanation": "Blue Pikmin are the only ones in the original game that won't drown, making them essential for retrieving ship parts from ponds and lakes.",
+						"question": "Which color of Pikmin is capable of surviving underwater and features small gills on the sides of its head?",
+						"wrong": [
+							"Green Pikmin",
+							"Cyan Pikmin",
+							"Bubble Pikmin"
+						]
+					},
+					{
+						"correct": "Onions",
+						"difficulty": "Easy",
+						"explanation": "These biological ships are called Onions because of their shape and the way they 'sprout' new Pikmin from the ground.",
+						"question": "Captain Olimar stores his Pikmin inside giant, multi-legged biological nesting ships known by what name?",
+						"wrong": [
+							"Garlics",
+							"Seeds",
+							"Nests"
+						]
+					},
+					{
+						"correct": "Purple Pikmin",
+						"difficulty": "Medium",
+						"explanation": "Introduced in Pikmin 2, Purple Pikmin are the muscle of the group, capable of carrying objects that would normally require ten standard Pikmin.",
+						"question": "Which heavy, slow-moving Pikmin variety is ten times stronger than others and can stun enemies when slammed onto them?",
+						"wrong": [
+							"Rock Pikmin",
+							"Iron Pikmin",
+							"Heavy Pikmin"
+						]
+					},
+					{
+						"correct": "Eat them",
+						"difficulty": "Medium",
+						"explanation": "White Pikmin are filled with toxins; if a predator gulps one down, the poison causes massive internal damage to the creature.",
+						"question": "The tiny, red-eyed White Pikmin are unique because they can detect buried treasure and are lethal to enemies who do what?",
+						"wrong": [
+							"Step on them",
+							"Burn them",
+							"Touch them"
+						]
+					},
+					{
+						"correct": "Hocotate",
+						"difficulty": "Hard",
+						"explanation": "Olimar works for Hocotate Freight, located on Planet Hocotate, where even a single bottle cap is considered a fortune.",
+						"question": "Captain Olimar is a humble family man who hails from which distant, tiny planet?",
+						"wrong": [
+							"Koppai",
+							"Pikminia",
+							"Hesperia"
+						]
+					},
+					{
+						"correct": "Louie",
+						"difficulty": "Easy",
+						"explanation": "Louie joins Olimar to help pay off Hocotate Freight's massive debt, though he often causes more trouble than he helps.",
+						"question": "In Pikmin 2, Captain Olimar returns to the Pikmin planet not for survival, but for profit. Who is his clumsy, food-motivated co-worker?",
+						"wrong": [
+							"Alph",
+							"Charlie",
+							"President"
+						]
+					},
+					{
+						"correct": "It blooms into a flower",
+						"difficulty": "Easy",
+						"explanation": "Nectar instantly promotes a leaf or bud Pikmin to flower status, making them faster and stronger in combat.",
+						"question": "What happens to a Pikmin if it drinks a drop of yellow Nectar found in the wild?",
+						"wrong": [
+							"It turns into a Purple Pikmin",
+							"It gains super speed",
+							"It becomes immortal"
+						]
+					},
+					{
+						"correct": "The S.S. Dolphin",
+						"difficulty": "Medium",
+						"explanation": "Named after the GameCube's internal development codename, 'Project Dolphin'!",
+						"question": "In the original Pikmin, what is the name of Captain Olimar's beloved spaceship that he must rebuild?",
+						"wrong": [
+							"The Hocotate Ship",
+							"The Drake",
+							"The Blue Jay"
+						]
+					},
+					{
+						"correct": "Nothing; it only affects enemies",
+						"difficulty": "Medium",
+						"explanation": "Ultra-Bitter Spray is a weapon used by the captains to petrify enemies; the 'Ultra-Spicy' spray is the one that buffs your Pikmin!",
+						"question": "In Pikmin 2, what happens to your Pikmin if they are sprayed with 'Ultra-Bitter Spray'?",
+						"wrong": [
+							"They turn into stone",
+							"They grow to giant size",
+							"They die instantly"
+						]
+					},
+					{
+						"correct": "30",
+						"difficulty": "Hard",
+						"explanation": "While you only need 25 parts to escape the planet, you need all 30 to see the perfect ending where Olimar leaves with no regrets.",
+						"question": "How many total ship parts must Olimar recover in the first game to achieve the best possible ending?",
+						"wrong": [
+							"25",
+							"50",
+							"100"
 						]
 					}
 				]
@@ -34652,6 +35092,116 @@
 							"Rover",
 							"Harvey"
 						]
+					},
+					{
+						"correct": "Fishing Rod",
+						"difficulty": "Easy",
+						"explanation": "Fishing is one of the main ways to earn Bells, which you use to pay off your ever-increasing mortgage.",
+						"question": "In Animal Crossing, which tool do you use to pull fish out of the rivers and ocean?",
+						"wrong": [
+							"Net",
+							"Slingshot",
+							"Harpoon"
+						]
+					},
+					{
+						"correct": "Shovel",
+						"difficulty": "Easy",
+						"explanation": "Shovels are used to dig up fossils, pitfall seeds, or occasionally buried treasure.",
+						"question": "When you see an 'X' marked on the ground, what tool must you use to see what's buried underneath?",
+						"wrong": [
+							"Pickaxe",
+							"Hoe",
+							"Drill"
+						]
+					},
+					{
+						"correct": "Blathers",
+						"difficulty": "Medium",
+						"explanation": "Blathers will identify fossils for you and accept donations, though he often rambles about his distate for insects.",
+						"question": "What is the name of the scholarly owl who runs the town's museum and is terrified of bugs?",
+						"wrong": [
+							"Hootie",
+							"Celeste",
+							"Brewster"
+						]
+					},
+					{
+						"correct": "Rover",
+						"difficulty": "Medium",
+						"explanation": "Rover is a traveling cat who has appeared in nearly every Animal Crossing game to assist with the initial setup.",
+						"question": "Which blue-and-white cat greets you on the train at the very start of the game to help set your name and town?",
+						"wrong": [
+							"Bob",
+							"Mitzi",
+							"Tom"
+						]
+					},
+					{
+						"correct": "Wisp",
+						"difficulty": "Hard",
+						"explanation": "If you help Wisp catch his scattered spirits, he will offer to pull all the weeds in your town or give you a rare item.",
+						"question": "Which ghost appears in town late at night and tasks you with catching five 'spirits' in your net?",
+						"wrong": [
+							"Spooky",
+							"Casper",
+							"Boo"
+						]
+					},
+					{
+						"correct": "Two horns",
+						"difficulty": "Easy",
+						"explanation": "Depending on the gender you chose, you started with a Viking-style horned hat or a floppy cap, hiding your hair until much later!",
+						"question": "When you first arrive in town in the original Animal Crossing, what distinctive feature is on the hat your character is wearing?",
+						"wrong": [
+							"A propeller",
+							"A Mario 'M'",
+							"A pair of ears"
+						]
+					},
+					{
+						"correct": "Planting flowers and trees",
+						"difficulty": "Easy",
+						"explanation": "Nook starts you off with 'beautification' duties, forcing you to plant saplings and flowers around his shop.",
+						"question": "To get your first house and start your life in town, you have to work a part-time job for Tom Nook. What is the very first task he gives you?",
+						"wrong": [
+							"Catching a Coelacanth",
+							"Paying 1,000,000 Bells",
+							"Designing a shirt"
+						]
+					},
+					{
+						"correct": "The Lost and Found",
+						"difficulty": "Medium",
+						"explanation": "Copper guards the Lost and Found, where you can often snag free furniture or clothes that your neighbors 'misplaced.'",
+						"question": "If you are feeling generous (or just want to clear inventory), where in the local Police Station can you find free, unclaimed items left by other villagers?",
+						"wrong": [
+							"The Evidence Locker",
+							"The Recycling Bin",
+							"The Charity Box"
+						]
+					},
+					{
+						"correct": "Connecting a Game Boy Advance",
+						"difficulty": "Medium",
+						"explanation": "By using a GBA Link Cable, Kapp'n would take you to a tropical island where an exclusive villager lived in a bungalow!",
+						"question": "In the GameCube version of Animal Crossing, what is the only way to visit the secret 'Animal Island' that exists off the coast?",
+						"wrong": [
+							"Buying a boat from Nook",
+							"Swimming with a wetsuit",
+							"Flying with Dodo Airlines"
+						]
+					},
+					{
+						"correct": "A Money Tree",
+						"difficulty": "Hard",
+						"explanation": "Burying Bells in a glowing hole gives you a chance to grow a tree that sprouts three bags of cash, though it's never a 100% guarantee!",
+						"question": "If you are lucky enough to find a 'shining' spot on the ground and bury a bag of money there, what unique object might grow?",
+						"wrong": [
+							"A Golden Shovel",
+							"A Giant Mushroom",
+							"A Star Fragment"
+						]
 					}
 				]
 			},
@@ -34706,6 +35256,61 @@
 							"Slippy Toad",
 							"Peppy Hare",
 							"Falco Lombardi"
+						]
+					},
+					{
+						"correct": "Star Fox",
+						"difficulty": "Easy",
+						"explanation": "The Star Fox team was originally founded by Fox's father and later reformed by Fox himself.",
+						"question": "What is the name of Fox's mercenary team that includes Falco, Peppy, and Slippy?",
+						"wrong": [
+							"Star Wolf",
+							"The Cornerian Guard",
+							"Sky Fox"
+						]
+					},
+					{
+						"correct": "Wolf O'Donnell",
+						"difficulty": "Easy",
+						"explanation": "Wolf O'Donnell leads Star Wolf and shares a complicated, respectful rivalry with Fox McCloud.",
+						"question": "Who is the leader of the rival mercenary group and Fox’s primary flying nemesis?",
+						"wrong": [
+							"Leon Powalski",
+							"Pigma Dengar",
+							"Andrew Oikonny"
+						]
+					},
+					{
+						"correct": "James McCloud",
+						"difficulty": "Medium",
+						"explanation": "James McCloud was the original leader of Star Fox; his 'death' is a driving force for Fox's career.",
+						"question": "In the Star Fox series, what was the name of Fox’s father, who disappeared during a mission to the planet Venom?",
+						"wrong": [
+							"John McCloud",
+							"Joseph McCloud",
+							"Hunter McCloud"
+						]
+					},
+					{
+						"correct": "Andross",
+						"difficulty": "Medium",
+						"explanation": "Andross was a brilliant scientist from Corneria whose dangerous experiments led to his exile to the wasteland of Venom.",
+						"question": "Which evil scientist is responsible for the destruction of the Lylat System and serves as the overarching villain of the series?",
+						"wrong": [
+							"Dr. Eggman",
+							"General Scales",
+							"Professor Elvin Gadd"
+						]
+					},
+					{
+						"correct": "Reflector",
+						"difficulty": "Hard",
+						"explanation": "While competitive players call it 'The Shine,' the official move name in the game is the Reflector.",
+						"question": "In Super Smash Bros. Melee, what is the name of Fox’s 'Down Special' move that reflects projectiles with a blue hexagon?",
+						"wrong": [
+							"Shine",
+							"Energy Shield",
+							"Hex-Guard"
 						]
 					}
 				]
@@ -34762,6 +35367,116 @@
 							"Chaos Spear",
 							"Chaos Snap"
 						]
+					},
+					{
+						"correct": "The Ultimate Life Form",
+						"difficulty": "Easy",
+						"explanation": "Professor Gerald Robotnik created Shadow with the intent of curing terminal illnesses, labeling him the 'Ultimate Life Form'.",
+						"question": "Created in a lab to be the pinnacle of evolution, Shadow is frequently referred to by what title?",
+						"wrong": [
+							"The Chaos King",
+							"The Dark Speedster",
+							"The Genetic Master"
+						]
+					},
+					{
+						"correct": "Black and Red",
+						"difficulty": "Easy",
+						"explanation": "Shadow’s edgy aesthetic is defined by his jet-black fur accented with bright red stripes on his quills and limbs.",
+						"question": "What are the two primary colors that make up Shadow the Hedgehog's iconic fur and quill design?",
+						"wrong": [
+							"Black and Blue",
+							"Grey and Crimson",
+							"Black and Purple"
+						]
+					},
+					{
+						"correct": "Maria Robotnik",
+						"difficulty": "Medium",
+						"explanation": "Maria was Gerald's granddaughter and Shadow's closest friend; her tragic death shaped his initially vengeful outlook on humanity.",
+						"question": "Shadow’s core motivation stems from a promise he made to which young girl while aboard the Space Colony ARK?",
+						"wrong": [
+							"Hope Robotnik",
+							"Elise Robotnik",
+							"Tikal"
+						]
+					},
+					{
+						"correct": "G.U.N.",
+						"difficulty": "Medium",
+						"explanation": "G.U.N. (Guardian Units of Nations) is the military force responsible for the raid on the ARK fifty years prior to the games.",
+						"question": "What is the acronym for the worldwide military organization that serves as both an ally and an enemy to Shadow?",
+						"wrong": [
+							"S.H.I.E.L.D.",
+							"A.R.K.",
+							"P.E.A.C.E."
+						]
+					},
+					{
+						"correct": "Air Shoes",
+						"difficulty": "Hard",
+						"explanation": "Unlike Sonic, who runs with pure physical speed, Shadow utilizes his Air Shoes to skate at high velocities.",
+						"question": "Shadow doesn't just run; he hovers above the ground using specialized propulsion footwear known as what?",
+						"wrong": [
+							"Jet Boots",
+							"Hover Soles",
+							"Chaos Kicks"
+						]
+					},
+					{
+						"correct": "Inhibitor Rings",
+						"difficulty": "Easy",
+						"explanation": "These gold rings keep his immense Chaos energy in check; when he removes them, he becomes significantly more powerful but tires easily.",
+						"question": "Shadow the Hedgehog made his debut on the GameCube in Sonic Adventure 2: Battle. What does he wear on his wrists and ankles to limit his power?",
+						"wrong": [
+							"Gravity Boots",
+							"Chaos Shackles",
+							"Iron Manacles"
+						]
+					},
+					{
+						"correct": "Space Colony ARK",
+						"difficulty": "Easy",
+						"explanation": "The ARK was a massive research facility where Professor Gerald Robotnik conducted his top-secret experiments.",
+						"question": "Shadow was created to be the 'Ultimate Life Form.' On what orbital research station was he born?",
+						"wrong": [
+							"Death Egg",
+							"The Citadel",
+							"Helsing Station"
+						]
+					},
+					{
+						"correct": "A Black Motorcycle",
+						"difficulty": "Medium",
+						"explanation": "The intro cinematic famously features Shadow cocking a submachine gun and riding a sleek black chopper!",
+						"question": "In the game Shadow the Hedgehog, Shadow is given the choice to use various weapons. Which of these is a vehicle he can actually drive?",
+						"wrong": [
+							"An Extreme Gear board",
+							"The Tornado",
+							"The Blue Falcon"
+						]
+					},
+					{
+						"correct": "To give hope to humanity",
+						"difficulty": "Medium",
+						"explanation": "Shadow initially misremembers Maria's wish as revenge, but later realizes she wanted him to protect the people of Earth.",
+						"question": "In Sonic Adventure 2, Shadow is motivated by his memories of a young girl. What was her final wish for him before she died?",
+						"wrong": [
+							"To destroy the world",
+							"To find the Chaos Emeralds",
+							"To kill Sonic"
+						]
+					},
+					{
+						"correct": "G.U.N.",
+						"difficulty": "Hard",
+						"explanation": "The Guardian Units of Nations (G.U.N.) feared the research being done on the ARK and shut it down with extreme force.",
+						"question": "Which military organization is responsible for the raid on the ARK that resulted in Maria's death and Shadow's capture?",
+						"wrong": [
+							"S.H.I.E.L.D.",
+							"The Eggman Empire",
+							"Team Dark"
+						]
 					}
 				]
 			},
@@ -34816,6 +35531,116 @@
 							"Phoenix and Leviathan",
 							"Titan and Seraph",
 							"Alpha and Omega"
+						]
+					},
+					{
+						"correct": "Inhaling them",
+						"difficulty": "Easy",
+						"explanation": "Kirby's signature move is his inhale, which allows him to copy the 'essence' or abilities of his foes.",
+						"question": "What is Kirby's primary method of dealing with enemies and gaining their powers?",
+						"wrong": [
+							"Punching them",
+							"Jumping on them",
+							"Throwing a star"
+						]
+					},
+					{
+						"correct": "Planet Popstar",
+						"difficulty": "Easy",
+						"explanation": "Planet Popstar is shaped like a five-pointed star and is home to Dream Land.",
+						"question": "What is the name of the star-shaped planet that Kirby calls home?",
+						"wrong": [
+							"Dream Land",
+							"Star Haven",
+							"Galactic Nova"
+						]
+					},
+					{
+						"correct": "Whispy Woods",
+						"difficulty": "Medium",
+						"explanation": "Whispy Woods is the first boss in almost every Kirby game, attacking with falling apples and sharp roots.",
+						"question": "Which recurring boss is a large, sentient apple tree that tries to blow Kirby away with air puffs?",
+						"wrong": [
+							"Flowery Woods",
+							"Apple Jack",
+							"Timber Terror"
+						]
+					},
+					{
+						"correct": "Warp Star",
+						"difficulty": "Medium",
+						"explanation": "The Warp Star is Kirby’s most iconic method of travel, balanced for all types of racing in the game.",
+						"question": "In Kirby Air Ride, what is the name of the default, gold star-shaped vehicle Kirby uses?",
+						"wrong": [
+							"Flight Star",
+							"Compact Star",
+							"Star Runner"
+						]
+					},
+					{
+						"correct": "Wheelie Scooter",
+						"difficulty": "Hard",
+						"explanation": "The Wheelie Scooter is a fast, two-wheeled vehicle based on the Wheelie enemy, though it has very low health.",
+						"question": "Which unique vehicle in Kirby Air Ride is essentially a tire with a seat, specializing in high-speed ground travel?",
+						"wrong": [
+							"Wheelie Bike",
+							"Rex Wheelie",
+							"Turbo Tire"
+						]
+					},
+					{
+						"correct": "City Trial",
+						"difficulty": "Easy",
+						"explanation": "City Trial is the most beloved mode in the game, featuring random events like meteor showers and UFO invasions!",
+						"question": "In Kirby Air Ride, players don't just race; they can play a massive open-city mode where they collect power-ups. What is this mode called?",
+						"wrong": [
+							"Kirby Quest",
+							"Star Run",
+							"Dream Land Tour"
+						]
+					},
+					{
+						"correct": "The A Button",
+						"difficulty": "Easy",
+						"explanation": "The game was designed to be played with 'simple controls,' where Kirby automatically moves and the A button handles drifting and braking.",
+						"question": "What is Kirby's primary method of steering and braking in the game Kirby Air Ride?",
+						"wrong": [
+							"The Control Stick",
+							"The L and R Triggers",
+							"The C-Stick"
+						]
+					},
+					{
+						"correct": "Dragoon",
+						"difficulty": "Medium",
+						"explanation": "The Dragoon is a majestic red bird-like machine that has incredible flight capabilities.",
+						"question": "Which of these is a 'Legendary Air Ride Machine' that must be assembled from three hidden parts in City Trial?",
+						"wrong": [
+							"Shadow Star",
+							"Winged Victory",
+							"Nova"
+						]
+					},
+					{
+						"correct": "He runs on foot",
+						"difficulty": "Medium",
+						"explanation": "Kirby is surprisingly fast on his feet, but he's vulnerable until he finds a new machine to hop onto!",
+						"question": "In Kirby Air Ride, if Kirby loses his vehicle, how does he continue to move around the map?",
+						"wrong": [
+							"He floats like a balloon",
+							"He rides a Warp Star",
+							"He hitches a ride with King Dedede"
+						]
+					},
+					{
+						"correct": "Hydra",
+						"difficulty": "Hard",
+						"explanation": "The Hydra is the tank-like counterpart to the Dragoon; it requires charging up before it can move, but its stats are monstrous.",
+						"question": "What is the name of the white, high-tech 'Legendary' machine in Kirby Air Ride that has a massive health bar and specializes in combat?",
+						"wrong": [
+							"Goliath",
+							"Behemoth",
+							"Iron Star"
 						]
 					}
 				]
@@ -34927,6 +35752,116 @@
 							"Saria",
 							"Midna"
 						]
+					},
+					{
+						"correct": "A Wolf",
+						"difficulty": "Easy",
+						"explanation": "Link becomes 'Wolf Link' when entering the Twilight-covered regions, a form Zelda eventually helps him master.",
+						"question": "In the darker GameCube title Twilight Princess, Zelda’s kingdom is shrouded in shadow, and Link is transformed into what animal?",
+						"wrong": [
+							"A Raven",
+							"A Bear",
+							"A Panther"
+						]
+					},
+					{
+						"correct": "Midna",
+						"difficulty": "Easy",
+						"explanation": "Midna is the 'Twilight Princess' herself, seeking Zelda's help to reclaim her throne from the usurper Zant.",
+						"question": "Which mysterious, small, and sarcastic creature serves as Link's guide (and Zelda's distant relative) in Twilight Princess?",
+						"wrong": [
+							"Navi",
+							"Tatl",
+							"Fi"
+						]
+					},
+					{
+						"correct": "The Pirate Ship",
+						"difficulty": "Medium",
+						"explanation": "Though she is known as Tetra, her vessel is simply referred to as the Pirate Ship throughout the adventure.",
+						"question": "In the Wind Waker, before Zelda's true identity is revealed, she leads a crew of pirates on a ship named what?",
+						"wrong": [
+							"The Great Sea Queen",
+							"The Red Lion",
+							"The Tetra"
+						]
+					},
+					{
+						"correct": "Zant",
+						"difficulty": "Medium",
+						"explanation": "Zant made a deal with Ganondorf to gain god-like powers, allowing him to overthrow the rightful rulers of the Twilight.",
+						"question": "Who is the 'Usurper King' of the Twilight Realm who serves as the primary antagonist for the majority of Twilight Princess?",
+						"wrong": [
+							"Vaati",
+							"Ghirahim",
+							"Agahnim"
+						]
+					},
+					{
+						"correct": "Arbiter's Grounds",
+						"difficulty": "Hard",
+						"explanation": "The Arbiter's Grounds served as a place where Hyrule's worst criminals were sent to be judged and occasionally executed.",
+						"question": "In the Twilight Princess desert, the Mirror of Twilight is housed within a massive, ruined prison known as what?",
+						"wrong": [
+							"Stone Tower Temple",
+							"The Forsaken Fortress",
+							"Shadow Temple"
+						]
+					},
+					{
+						"correct": "Tetra",
+						"difficulty": "Easy",
+						"explanation": "Before she discovered her destiny as Princess Zelda, she was the spunky, tan-skinned leader of a pirate crew!",
+						"question": "In The Wind Waker, Zelda spent most of her life unaware of her royalty, instead leading a group of seafaring outlaws under what name?",
+						"wrong": [
+							"Gonzel",
+							"Aryll",
+							"Mako"
+						]
+					},
+					{
+						"correct": "Her Sword",
+						"difficulty": "Easy",
+						"explanation": "In a poignant cutscene, Zelda drops her rapier to the floor, choosing a peaceful surrender over a hopeless battle for her people.",
+						"question": "In the darker-toned Twilight Princess, what item does Zelda surrender to Zant to prevent the total destruction of Hyrule Castle?",
+						"wrong": [
+							"The Triforce",
+							"The Ocarina",
+							"The Light Arrows"
+						]
+					},
+					{
+						"correct": "A soulless vessel",
+						"difficulty": "Medium",
+						"explanation": "Zelda transfers her spirit to heal a dying Midna, leaving her physical body behind as a cold, motionless shell in the throne room.",
+						"question": "During the events of Twilight Princess, Zelda eventually sacrifices her physical form to save Midna. In what state does Zelda exist for the middle portion of the game?",
+						"wrong": [
+							"A white wolf",
+							"A painting",
+							"A small fairy"
+						]
+					},
+					{
+						"correct": "A shard of the Triforce",
+						"difficulty": "Medium",
+						"explanation": "Her necklace was actually a piece of the Triforce of Wisdom, which glowed and transformed her once the King of Hyrule matched it with his own fragment.",
+						"question": "In The Wind Waker, what specific piece of jewelry is Zelda wearing that eventually reveals her true identity when united with another fragment?",
+						"wrong": [
+							"A Zora Sapphire",
+							"The King's Signet",
+							"An Amber Relic"
+						]
+					},
+					{
+						"correct": "The Master Sword",
+						"difficulty": "Hard",
+						"explanation": "She was hidden in the basement of Hyrule Castle, right where the Master Sword acted as a seal to keep time frozen for the kingdom below the waves.",
+						"question": "In the sunken Hyrule of The Wind Waker, Zelda is left in a hidden chamber for safety. Which legendary weapon was she standing near before Link drew it?",
+						"wrong": [
+							"The Megaton Hammer",
+							"The Mirror Shield",
+							"The Gilded Sword"
+						]
 					}
 				]
 			},
@@ -34981,6 +35916,116 @@
 							"It turns gold",
 							"It disappears",
 							"It explodes"
+						]
+					},
+					{
+						"correct": "Offering him a sword",
+						"difficulty": "Easy",
+						"explanation": "Meta Knight refuses to fight an unarmed opponent, typically dropping a sword into the arena for Kirby to pick up.",
+						"question": "Meta Knight is famous for his strict code of honor, often doing what for Kirby before a duel begins?",
+						"wrong": [
+							"Giving him a health item",
+							"Waiting for him to wake up",
+							"Bowing three times"
+						]
+					},
+					{
+						"correct": "Kirby",
+						"difficulty": "Easy",
+						"explanation": "When Meta Knight's mask breaks, he is revealed to be a round, blue creature almost identical to Kirby.",
+						"question": "Beneath his silver mask, Meta Knight’s face is surprisingly similar in appearance to which other character?",
+						"wrong": [
+							"King Dedede",
+							"Waddle Dee",
+							"Gooey"
+						]
+					},
+					{
+						"correct": "A Bat",
+						"difficulty": "Medium",
+						"explanation": "His Dimensional Cape transforms into leathery, bat-like wings that allow him to fly and perform his 'Shuttle Loop' maneuver.",
+						"question": "Meta Knight’s cape is not just for fashion; it can transform into a pair of wings resembling those of what animal?",
+						"wrong": [
+							"An Eagle",
+							"A Butterfly",
+							"A Dragon"
+						]
+					},
+					{
+						"correct": "The Meta-Knights",
+						"difficulty": "Medium",
+						"explanation": "The Meta-Knights include specific members like Axe Knight, Mace Knight, Trident Knight, and Javelin Knight.",
+						"question": "What is the name of the elite group of soldiers and mercenaries who serve Meta Knight on his battleship?",
+						"wrong": [
+							"The Star Warriors",
+							"The Blade Brothers",
+							"The Knight Guard"
+						]
+					},
+					{
+						"correct": "Dimensional Cape",
+						"difficulty": "Hard",
+						"explanation": "Dimensional Cape allows Meta Knight to disappear and reappear elsewhere, often following up with a surprise strike.",
+						"question": "What is the name of Meta Knight's signature move in Super Smash Bros. Melee where he wraps himself in his cape to teleport?",
+						"wrong": [
+							"Meta Warp",
+							"Shadow Step",
+							"Knight's Vanish"
+						]
+					},
+					{
+						"correct": "A blue Kirby",
+						"difficulty": "Easy",
+						"explanation": "In almost every game where he is defeated, his mask cracks to reveal that he looks remarkably similar to Kirby himself!",
+						"question": "Meta Knight's most famous feature is his silver mask. What is his face famously revealed to look like if the mask ever breaks?",
+						"wrong": [
+							"A dark shadow",
+							"A scarred warrior",
+							"A robotic core"
+						]
+					},
+					{
+						"correct": "The Halberd",
+						"difficulty": "Easy",
+						"explanation": "The Halberd is a recurring iconic setting in the Kirby series and even appears as a stage in Super Smash Bros.",
+						"question": "What is the name of Meta Knight's massive, flying battleship that he uses to try and take over Dream Land?",
+						"wrong": [
+							"The Meta-Carrier",
+							"The Sword Ship",
+							"The Nightmare"
+						]
+					},
+					{
+						"correct": "He always flies and has no machine",
+						"difficulty": "Medium",
+						"explanation": "Meta Knight uses his own wings to hover above the track, meaning he doesn't need to hop onto an Air Ride Machine.",
+						"question": "In Kirby Air Ride, how is Meta Knight controlled differently compared to other characters like Kirby or King Dedede?",
+						"wrong": [
+							"He can only move on ground",
+							"He uses a motorcycle",
+							"He teleports"
+						]
+					},
+					{
+						"correct": "As a collectible Trophy",
+						"difficulty": "Medium",
+						"explanation": "Fans had to wait until Super Smash Bros. Brawl for him to be playable, but his detailed model was available as a rare trophy in Melee.",
+						"question": "In Super Smash Bros. Melee, Meta Knight actually doesn't appear as a playable fighter. How does he appear in the game?",
+						"wrong": [
+							"As a boss",
+							"As a background cameo",
+							"As an Assist Trophy"
+						]
+					},
+					{
+						"correct": "Galaxia",
+						"difficulty": "Hard",
+						"explanation": "Galaxia is a powerful holy weapon that can only be wielded by those strong enough to withstand its power.",
+						"question": "What is the specific name of the legendary golden sword Meta Knight wields, which possesses a sentient 'eye' at its hilt?",
+						"wrong": [
+							"Dark Slash",
+							"Master Blade",
+							"Knight's Sorrow"
 						]
 					}
 				]
@@ -35091,6 +36136,61 @@
 							"Psychic",
 							"Telekinesis",
 							"Mind Warp"
+						]
+					},
+					{
+						"correct": "20 Hours",
+						"difficulty": "Easy",
+						"explanation": "Mewtwo required a massive time investment (or 700 matches) to unlock, making him one of the hardest characters to earn.",
+						"question": "In Super Smash Bros. Melee, Mewtwo is a secret character. To unlock him, you must play a total of how many hours in Versus mode?",
+						"wrong": [
+							"5 Hours",
+							"10 Hours",
+							"50 Hours"
+						]
+					},
+					{
+						"correct": "He levitates/teleports",
+						"difficulty": "Easy",
+						"explanation": "Mewtwo is known for his floaty, psychic movement, making him a difficult character to master due to his light weight.",
+						"question": "Mewtwo's fighting style in Melee is unique because he doesn't walk normally. How does he move across the ground?",
+						"wrong": [
+							"He slides on ice",
+							"He rolls like a ball",
+							"He sprints on all fours"
+						]
+					},
+					{
+						"correct": "Confusion",
+						"difficulty": "Medium",
+						"explanation": "Confusion is a command grab that spins the opponent around, leaving them dizzy and vulnerable.",
+						"question": "In Melee, what is the name of Mewtwo's 'Side Special' move that flips enemies and reflects projectiles?",
+						"wrong": [
+							"Psychic Swap",
+							"Telekinesis",
+							"Mind Warp"
+						]
+					},
+					{
+						"correct": "DNA engineering focused on battle",
+						"difficulty": "Medium",
+						"explanation": "Scientists focused so much on making him the ultimate fighter that they 'forgot' to give him a compassionate heart.",
+						"question": "According to Mewtwo's Trophy description in Melee, what is the 'scientific' reason for his cold and aggressive personality?",
+						"wrong": [
+							"He was raised by Team Rocket",
+							"He lost his memories",
+							"He was lonely in a lab"
+						]
+					},
+					{
+						"correct": "Say its own name",
+						"difficulty": "Hard",
+						"explanation": "While Pikachu and Jigglypuff say their names, Mewtwo simply lets out a deep, psychic-sounding grunt.",
+						"question": "In the Melee character select screen, Mewtwo is the only Pokémon character who doesn't do what when selected?",
+						"wrong": [
+							"Show its face",
+							"Make a sound",
+							"Strike a pose"
 						]
 					}
 				]
@@ -36495,7 +37595,7 @@
 					"name": "Armored & Dangerous"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Mario",
 						"Villager"
