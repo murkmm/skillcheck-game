@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772897392,
+	"last_updated": 1772897428,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1724,6 +1724,49 @@
 				"gamecube_classics_mario",
 				"gamecube_classics_link",
 				"gamecube_classics_samus_aran"
+			],
+			"starters": [
+				"gamecube_classics_mario",
+				"gamecube_classics_luigi",
+				"gamecube_classics_link",
+				"gamecube_classics_samus_aran",
+				"gamecube_classics_pikmin",
+				"gamecube_classics_leon_kennedy",
+				"gamecube_classics_captain_falcon",
+				"gamecube_classics_villager",
+				"gamecube_classics_fox_mccloud",
+				"gamecube_classics_shadow_the_hedgehog",
+				"gamecube_classics_kirby",
+				"gamecube_classics_ganondorf",
+				"gamecube_classics_zelda",
+				"gamecube_classics_meta_knight",
+				"gamecube_classics_donkey_kong",
+				"gamecube_classics_mewtwo"
+			]
+		},
+		"2026-03-07": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Gamecube AGAIN",
+			"share_text": "I'm LAZY",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"gamecube_classics_link",
+				"gamecube_classics_pikmin",
+				"gamecube_classics_leon_kennedy"
 			],
 			"starters": [
 				"gamecube_classics_mario",
