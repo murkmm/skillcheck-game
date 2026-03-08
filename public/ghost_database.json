@@ -1,4 +1,31 @@
 {
+	"app_themes": {
+		"rapture_deco": {
+			"accent": "#00ffcc",
+			"bg": "#0a1118",
+			"border": "#d4af37",
+			"danger": "#ff3333",
+			"name": "Rapture Deco",
+			"panel": "#121e2b",
+			"success": "#33ff33",
+			"text_dim": "#8c9dae",
+			"text_main": "#f0e6d2",
+			"warning": "#ffaa00"
+		}
+	},
+	"challenges": [
+		{
+			"desc": "Perfect 3 BioShock Cartridges",
+			"id": "fran_bioshock",
+			"name": "Welcome to Rapture",
+			"reward_text": "Rapture",
+			"target": 3.0,
+			"target_key": "bioshock",
+			"type": "mastery_franchise",
+			"unlocks_theme": "rapture_deco",
+			"unlocks_title": "would_you_kindly"
+		}
+	],
 	"games": [
 		{
 			"content": {
@@ -37604,5 +37631,12 @@
 				}
 			]
 		}
-	]
+	],
+	"titles": {
+		"would_you_kindly": {
+			"color": "#00ffcc",
+			"icon": "res://icons/anchor-bold.png",
+			"text": "Would You Kindly?"
+		}
+	}
 }
