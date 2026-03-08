@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772897428,
+	"last_updated": 1772996869,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1828,6 +1828,56 @@
 				"gamecube_classics_meta_knight",
 				"gamecube_classics_donkey_kong",
 				"gamecube_classics_mewtwo"
+			]
+		},
+		"2026-03-09": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Fallout Test",
+			"share_text": "War be changing",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"fallout_3_moira_brown",
+				"fallout_3_wanderer",
+				"fallout_3_sentinel_lyons"
+			],
+			"starters": [
+				"fallout_3_wanderer",
+				"fallout_3_megaton",
+				"fallout_3_fat_man",
+				"fallout_3_deathclaw",
+				"fallout_3_project_purity",
+				"fallout_3_galaxy_news_radio",
+				"fallout_3_shishkebab",
+				"fallout_3_fawkes",
+				"fallout_3_james",
+				"fallout_3_colonel_autumn",
+				"fallout_3_james's_lab",
+				"fallout_3_sentinel_lyons",
+				"fallout_3_moira_brown",
+				"fallout_3_three_dog",
+				"fallout_3_mister_burke",
+				"fallout_3_butch_deloria",
+				"fallout_3_charon",
+				"fallout_3_lucas_simms",
+				"fallout_3_clover",
+				"fallout_3_harold",
+				"fallout_3_abraham_washington",
+				"fallout_3_eden",
+				"fallout_3_star_paladin_cross"
 			]
 		}
 	}
