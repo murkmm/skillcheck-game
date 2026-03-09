@@ -36238,6 +36238,2998 @@
 					"Pokemon"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Joker",
+						"difficulty": "Easy",
+						"explanation": "Joker is the wildcard of the group, a name chosen to represent his status as the leader who holds the team's trump card.",
+						"question": "By what codename is the main protagonist of the Phantom Thieves primarily known?",
+						"wrong": [
+							"Ace",
+							"King",
+							"Jack"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "Joker's iconic mask is stark white with black detailing around the eyes, symbolizing his hidden identity.",
+						"question": "What color is the signature bird-like mask worn by the leader of the Phantom Thieves?",
+						"wrong": [
+							"Red",
+							"Black",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Knife",
+						"difficulty": "Easy",
+						"explanation": "Joker uses a dagger or short knife, fitting for a thief who needs to be quick and precise.",
+						"question": "What type of melee weapon does Joker primarily use in combat?",
+						"wrong": [
+							"Katana",
+							"Mace",
+							"Rapier"
+						]
+					},
+					{
+						"correct": "The Fool",
+						"difficulty": "Easy",
+						"explanation": "The Fool represents a journey of infinite possibilities, fitting for a character who can hold multiple Personas.",
+						"question": "Which Arcana does Joker represent as the protagonist of the story?",
+						"wrong": [
+							"The Emperor",
+							"The Magician",
+							"The Chariot"
+						]
+					},
+					{
+						"correct": "Arsene",
+						"difficulty": "Easy",
+						"explanation": "Arsene is based on the fictional gentleman thief Arsène Lupin, mirroring Joker's role in the world.",
+						"question": "What is the name of Joker's initial starting Persona that manifests at Shujin Academy?",
+						"wrong": [
+							"Zorro",
+							"Captain Kidd",
+							"Carmen"
+						]
+					},
+					{
+						"correct": "092",
+						"difficulty": "Medium",
+						"explanation": "Joker is viewed as a 'Prisoner of Fate' within the Velvet Room, and 092 is his designated inmate number.",
+						"question": "In the Velvet Room, what is the prisoner number displayed on Joker's uniform?",
+						"wrong": [
+							"101",
+							"007",
+							"777"
+						]
+					},
+					{
+						"correct": "Satanael",
+						"difficulty": "Medium",
+						"explanation": "Satanael is summoned when the collective will of the people supports the Phantom Thieves in the final battle.",
+						"question": "What is the name of Joker's massive Ultimate Persona used to defeat the final god of control?",
+						"wrong": [
+							"Lucifer",
+							"Beelzebub",
+							"Raoul"
+						]
+					},
+					{
+						"correct": "Leblanc Attic",
+						"difficulty": "Medium",
+						"explanation": "Joker lives in the dusty attic above Cafe Leblanc, which he eventually turns into a cozy base of operations.",
+						"question": "Where does Joker spend his nights and sleep throughout the school year?",
+						"wrong": [
+							"School Dorms",
+							"Sae's Apartment",
+							"A Hotel Room"
+						]
+					},
+					{
+						"correct": "Curse",
+						"difficulty": "Medium",
+						"explanation": "Arsene uses Eiha, a Curse-type skill, establishing Joker's early combat role as a dark-element user.",
+						"question": "Which specific element does Joker's first Persona, Arsene, specialize in?",
+						"wrong": [
+							"Fire",
+							"Bless",
+							"Psychic"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Medium",
+						"explanation": "Joker's red gloves are one of the most vibrant parts of his black trench coat ensemble.",
+						"question": "What is the specific color of the gloves Joker wears as part of his Phantom Thief outfit?",
+						"wrong": [
+							"Black",
+							"White",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Castle of Lust",
+						"difficulty": "Hard",
+						"explanation": "Joker awakens his Persona in Kamoshida's Palace, also known as the Castle of Lust, while trying to save Ryuji.",
+						"question": "During his initial awakening, which Palace was Joker physically inside?",
+						"wrong": [
+							"Museum of Vanity",
+							"Bank of Gluttony",
+							"Casino of Envy"
+						]
+					},
+					{
+						"correct": "Shujin Academy",
+						"difficulty": "Hard",
+						"explanation": "Shujin Academy is the school Joker attends, where the word 'Shujin' is a pun on the Japanese word for prisoner.",
+						"question": "What is the name of the school Joker is transferred to at the beginning of the game?",
+						"wrong": [
+							"Kosei High",
+							"Gekkoukan High",
+							"Yasogami High"
+						]
+					},
+					{
+						"correct": "Pistol",
+						"difficulty": "Hard",
+						"explanation": "Joker uses a semi-automatic pistol, which provides a balance of speed and ammunition count.",
+						"question": "What type of long-range firearm does Joker utilize in the Metaverse?",
+						"wrong": [
+							"Shotgun",
+							"Submachine Gun",
+							"Sniper Rifle"
+						]
+					},
+					{
+						"correct": "Raoul",
+						"difficulty": "Hard",
+						"explanation": "Raoul is the true name of the fictional Lupin, serving as a powerful late-game upgrade to his identity.",
+						"question": "What is the name of the 'Third Tier' Persona Joker can obtain in the definitive edition's final semester?",
+						"wrong": [
+							"Izanagi",
+							"Orpheus",
+							"Vishnu"
+						]
+					},
+					{
+						"correct": "Lust",
+						"difficulty": "Hard",
+						"explanation": "The seven deadly sins theme the Palaces, with Kamoshida's castle representing the Sin of Lust.",
+						"question": "Which specific sin is Joker's first target, Kamoshida, associated with in the Metaverse?",
+						"wrong": [
+							"Greed",
+							"Wrath",
+							"Pride"
+						]
+					}
+				]
+			},
+			"id": "persona_5_joker",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Joker",
+				"lore_desc": "The transfer student leader of the Phantom Thieves who wields the power of the Wild Card.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Leader",
+					"Trickster"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mona",
+						"difficulty": "Easy",
+						"explanation": "Mona is a shortened version of Morgana, used as a snappy codename in the field.",
+						"question": "What is the codename used by the cat-like guide of the Phantom Thieves?",
+						"wrong": [
+							"Neko",
+							"Meow",
+							"Shadow"
+						]
+					},
+					{
+						"correct": "Ann Takamaki",
+						"difficulty": "Easy",
+						"explanation": "Morgana is constantly fawning over Ann, often calling her 'Lady Ann' and praising her beauty.",
+						"question": "Which member of the Phantom Thieves does Morgana have an obvious and recurring crush on?",
+						"wrong": [
+							"Makoto Niijima",
+							"Futaba Sakura",
+							"Haru Okumura"
+						]
+					},
+					{
+						"correct": "A Van",
+						"difficulty": "Easy",
+						"explanation": "Morgana claims that the public perception of cats turning into buses (like in Totoro) allows him to transform into a van.",
+						"question": "What form does Morgana take to transport the team through the winding paths of Mementos?",
+						"wrong": [
+							"A Motorcycle",
+							"A Helicopter",
+							"A Tank"
+						]
+					},
+					{
+						"correct": "Black Cat",
+						"difficulty": "Easy",
+						"explanation": "Morgana looks like a black cat with white paws and a white muzzle, though he hates being called a cat.",
+						"question": "What animal does Morgana resemble in the real world?",
+						"wrong": [
+							"Dog",
+							"Raccoon",
+							"Hamster"
+						]
+					},
+					{
+						"correct": "Wind",
+						"difficulty": "Easy",
+						"explanation": "Zorro uses Garu-type skills, allowing Morgana to control the wind and heal the party.",
+						"question": "What is the primary element of Morgana's Persona, Zorro?",
+						"wrong": [
+							"Ice",
+							"Electricity",
+							"Nuclear"
+						]
+					},
+					{
+						"correct": "Slingshot",
+						"difficulty": "Medium",
+						"explanation": "The slingshot fits Morgana's small stature, allowing him to pelt enemies with projectiles from a distance.",
+						"question": "What type of weapon does Morgana use for his ranged attacks?",
+						"wrong": [
+							"Blowgun",
+							"Crossbow",
+							"Throwing Stars"
+						]
+					},
+					{
+						"correct": "A Large Belly",
+						"difficulty": "Medium",
+						"explanation": "Zorro is a rotund, muscular figure with a prominent belly, standing in contrast to Morgana's small cat form.",
+						"question": "Morgana's Persona, Zorro, is famously depicted with what large physical feature?",
+						"wrong": [
+							"Giant Wings",
+							"Three Heads",
+							"Flaming Tail"
+						]
+					},
+					{
+						"correct": "The Magician",
+						"difficulty": "Medium",
+						"explanation": "The Magician Arcana often represents the protagonist's closest companion and guide in modern Persona games.",
+						"question": "Which Arcana does Morgana belong to in the game's social system?",
+						"wrong": [
+							"The Star",
+							"The Moon",
+							"The Sun"
+						]
+					},
+					{
+						"correct": "Igor",
+						"difficulty": "Medium",
+						"explanation": "Igor created Morgana as a final hope to assist the Trickster and stop the impending ruin.",
+						"question": "Who created Morgana deep within the Velvet Room?",
+						"wrong": [
+							"Margaret",
+							"Elizabeth",
+							"Marie"
+						]
+					},
+					{
+						"correct": "Mercurius",
+						"difficulty": "Medium",
+						"explanation": "Mercurius is the Roman equivalent of Hermes, the messenger god, fitting Morgana's role as a guide.",
+						"question": "What is the name of Morgana's Ultimate Persona?",
+						"wrong": [
+							"Hermes",
+							"Apollo",
+							"Mars"
+						]
+					},
+					{
+						"correct": "Go to Sleep",
+						"difficulty": "Hard",
+						"explanation": "Morgana's insistence that Joker 'go to sleep' became a famous meme among the fanbase.",
+						"question": "What specific action does Morgana constantly force Joker to do at night if he is tired?",
+						"wrong": [
+							"Do Homework",
+							"Eat Curry",
+							"Clean Leblanc"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Hard",
+						"explanation": "The bright yellow scarf pops against his black and white thief outfit, giving him a dash of color.",
+						"question": "What color is the scarf Morgana wears around his neck in his Metaverse form?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Green"
+						]
+					},
+					{
+						"correct": "Lucky Punch",
+						"difficulty": "Hard",
+						"explanation": "Lucky Punch has a high critical hit rate, often used to down enemies that have no elemental weaknesses.",
+						"question": "What is the name of the special 'Lucky' physical attack Morgana uses to knock down enemies?",
+						"wrong": [
+							"Cat Scratch",
+							"Mona Slam",
+							"Feline Fury"
+						]
+					},
+					{
+						"correct": "A Prison Cell",
+						"difficulty": "Hard",
+						"explanation": "Morgana was locked in a cell within Kamoshida's Palace when he was first discovered by the boys.",
+						"question": "Where was Morgana first found by Joker and Ryuji?",
+						"wrong": [
+							"A Trash Can",
+							"The School Roof",
+							"A Park Bench"
+						]
+					},
+					{
+						"correct": "Haru Okumura",
+						"difficulty": "Hard",
+						"explanation": "Morgana teams up with Haru (the 'Beauty Thief') briefly after feeling unappreciated by the Phantom Thieves.",
+						"question": "Which character does Morgana temporarily join forces with after leaving the group during the Okumura arc?",
+						"wrong": [
+							"Goro Akechi",
+							"Sae Niijima",
+							"Yusuke Kitagawa"
+						]
+					}
+				]
+			},
+			"id": "persona_5_morgana",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Morgana",
+				"lore_desc": "A mysterious cat-like creature who guides the Phantom Thieves and insists he was once a human.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Guide",
+					"Mascot"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Skull",
+						"difficulty": "Easy",
+						"explanation": "Ryuji's codename comes from his skull-shaped mask, fitting his punk-rock aesthetic.",
+						"question": "What is the codename used by Ryuji Sakamoto in the Metaverse?",
+						"wrong": [
+							"Bone",
+							"Deadhead",
+							"Reaper"
+						]
+					},
+					{
+						"correct": "Track and Field",
+						"difficulty": "Easy",
+						"explanation": "Ryuji was a star sprinter on the track team until a confrontation with Kamoshida ended his athletic career.",
+						"question": "What was Ryuji's extracurricular activity before his leg was injured by Kamoshida?",
+						"wrong": [
+							"Basketball",
+							"Baseball",
+							"Swimming"
+						]
+					},
+					{
+						"correct": "Electricity",
+						"difficulty": "Easy",
+						"explanation": "Captain Kidd uses Zio-type skills, allowing Ryuji to shock enemies into submission.",
+						"question": "What is the primary element of Ryuji's Persona, Captain Kidd?",
+						"wrong": [
+							"Fire",
+							"Ice",
+							"Wind"
+						]
+					},
+					{
+						"correct": "Bludgeon",
+						"difficulty": "Easy",
+						"explanation": "Ryuji uses clubs, pipes, and maces, which emphasize his high physical strength and 'tough guy' persona.",
+						"question": "What type of heavy melee weapon does Ryuji wield in battle?",
+						"wrong": [
+							"Scythe",
+							"Axe",
+							"Spear"
+						]
+					},
+					{
+						"correct": "Blonde",
+						"difficulty": "Easy",
+						"explanation": "Ryuji's bleached blonde hair is a sign of his delinquency in Japanese school culture.",
+						"question": "What is the color of Ryuji's hair after he dyed it to look more rebellious?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Black"
+						]
+					},
+					{
+						"correct": "The Chariot",
+						"difficulty": "Medium",
+						"explanation": "The Chariot symbolizes movement, energy, and the overcoming of obstacles, fitting for a former runner.",
+						"question": "Which Arcana does Ryuji Sakamoto represent in his Confidant relationship?",
+						"wrong": [
+							"The Tower",
+							"The Hermit",
+							"The Lovers"
+						]
+					},
+					{
+						"correct": "Ramen",
+						"difficulty": "Medium",
+						"explanation": "Ryuji is a massive fan of ramen, particularly the shops in Ogikubo.",
+						"question": "What is Ryuji's favorite food, which he often invites Joker to eat with him?",
+						"wrong": [
+							"Sushi",
+							"Curry",
+							"Burgers"
+						]
+					},
+					{
+						"correct": "Captain Kidd",
+						"difficulty": "Medium",
+						"explanation": "Captain Kidd is based on William Kidd, a famous privateer-turned-pirate.",
+						"question": "What is the name of Ryuji's legendary pirate Persona?",
+						"wrong": [
+							"Blackbeard",
+							"Drake",
+							"Jack Sparrow"
+						]
+					},
+					{
+						"correct": "Shotgun",
+						"difficulty": "Medium",
+						"explanation": "The shotgun allows Ryuji to deal massive damage at close range, fitting his aggressive playstyle.",
+						"question": "What kind of firearm does Ryuji use in the Metaverse?",
+						"wrong": [
+							"Rifle",
+							"Revolver",
+							"Machine Gun"
+						]
+					},
+					{
+						"correct": "Seiten Taisei",
+						"difficulty": "Medium",
+						"explanation": "Seiten Taisei is the Japanese name for Sun Wukong, the Monkey King, who represents Ryuji's rebellious spirit.",
+						"question": "What is the name of Ryuji's Ultimate Persona, based on a character from Journey to the West?",
+						"wrong": [
+							"Sun Wukong",
+							"Hanuman",
+							"Goku"
+						]
+					},
+					{
+						"correct": "ZOMG",
+						"difficulty": "Hard",
+						"explanation": "Ryuji's shirt features the internet slang 'ZOMG', highlighting his loud and energetic personality.",
+						"question": "What phrase is famously printed on Ryuji's t-shirt in his casual summer outfit?",
+						"wrong": [
+							"NOOB",
+							"FAIL",
+							"ROFL"
+						]
+					},
+					{
+						"correct": "Left Leg",
+						"difficulty": "Hard",
+						"explanation": "Kamoshida purposefully provoked Ryuji and 'acted in self-defense,' breaking his leg and ending his running career.",
+						"question": "Which specific body part did Kamoshida break, ruining Ryuji's career as an athlete?",
+						"wrong": [
+							"Right Leg",
+							"Right Arm",
+							"Left Shoulder"
+						]
+					},
+					{
+						"correct": "William",
+						"difficulty": "Hard",
+						"explanation": "William is the actual first name of Captain Kidd, symbolizing a return to the man behind the legend.",
+						"question": "What is the name of the 'Third Tier' Persona Ryuji obtains in the final semester?",
+						"wrong": [
+							"Edward",
+							"Francis",
+							"Henry"
+						]
+					},
+					{
+						"correct": "A Giant Skull",
+						"difficulty": "Hard",
+						"explanation": "Captain Kidd stands atop a massive, golden skull that floats through the air.",
+						"question": "Ryuji's pirate Persona, Captain Kidd, is famously standing on top of what object?",
+						"wrong": [
+							"A Ship's Wheel",
+							"A Treasure Chest",
+							"A Cannon"
+						]
+					},
+					{
+						"correct": "Physical Therapy",
+						"difficulty": "Hard",
+						"explanation": "Ryuji finally accepts that he needs professional help to heal his leg and return to his passion for running.",
+						"question": "In his final Confidant rank, Ryuji decides to go where to help his leg recover?",
+						"wrong": [
+							"The Gym",
+							"A Track Meet",
+							"A Hospital"
+						]
+					}
+				]
+			},
+			"id": "persona_5_ryuji_sakamoto",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Ryuji Sakamoto",
+				"lore_desc": "A former track star with a short fuse who serves as Joker's first human ally in the Metaverse.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Warrior",
+					"Punk"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Panther",
+						"difficulty": "Easy",
+						"explanation": "Her codename Panther was chosen due to her red catsuit and feline-themed mask.",
+						"question": "What is the codename used by Ann Takamaki in the Metaverse?",
+						"wrong": [
+							"Cougar",
+							"Cat",
+							"Kitten"
+						]
+					},
+					{
+						"correct": "Fashion Model",
+						"difficulty": "Easy",
+						"explanation": "Ann's striking looks often lead to her working as a fashion model for magazines.",
+						"question": "What is Ann's part-time job outside of being a student at Shujin Academy?",
+						"wrong": [
+							"Barista",
+							"Tutor",
+							"Florist"
+						]
+					},
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "Carmen uses Agi-type skills, representing Ann's burning passion and strong will.",
+						"question": "What is the primary elemental affinity of Ann's Persona, Carmen?",
+						"wrong": [
+							"Ice",
+							"Wind",
+							"Bless"
+						]
+					},
+					{
+						"correct": "Whip",
+						"difficulty": "Easy",
+						"explanation": "Ann uses a whip, which matches her outfit's theme of a femme fatale or a dominatrix-style thief.",
+						"question": "What is Ann's signature melee weapon in the Metaverse?",
+						"wrong": [
+							"Sword",
+							"Chain",
+							"Fan"
+						]
+					},
+					{
+						"correct": "Pigtails",
+						"difficulty": "Easy",
+						"explanation": "Her twin pigtails are a defining feature of her character design in both the real world and the Metaverse.",
+						"question": "Ann is frequently seen wearing her blonde hair in what specific style?",
+						"wrong": [
+							"Ponytail",
+							"Braid",
+							"Bob Cut"
+						]
+					},
+					{
+						"correct": "Shiho Suzui",
+						"difficulty": "Medium",
+						"explanation": "Shiho's tragic situation under Kamoshida is the primary reason Ann joins the Phantom Thieves.",
+						"question": "Who is Ann's best friend, whose attempted suicide triggers the first major arc of the game?",
+						"wrong": [
+							"Mika",
+							"Hifumi Togo",
+							"Sae Niijima"
+						]
+					},
+					{
+						"correct": "The Lovers",
+						"difficulty": "Medium",
+						"explanation": "The Lovers Arcana often represents choices, relationships, and the search for one's own identity.",
+						"question": "Which Arcana does Ann Takamaki represent in her Confidant relationship?",
+						"wrong": [
+							"The Star",
+							"The Moon",
+							"The Empress"
+						]
+					},
+					{
+						"correct": "Submachine Gun",
+						"difficulty": "Medium",
+						"explanation": "The submachine gun allows Ann to fire a barrage of bullets at the entire enemy party.",
+						"question": "What type of long-range firearm does Ann use in combat?",
+						"wrong": [
+							"Sniper Rifle",
+							"Handgun",
+							"Shotgun"
+						]
+					},
+					{
+						"correct": "Carmen",
+						"difficulty": "Medium",
+						"explanation": "Carmen is a legendary figure who used her charms and strong will to stay independent.",
+						"question": "What is the name of Ann's initial Persona, inspired by the famous opera character?",
+						"wrong": [
+							"Medea",
+							"Circe",
+							"Salome"
+						]
+					},
+					{
+						"correct": "Sweets",
+						"difficulty": "Medium",
+						"explanation": "Ann is often seen treating herself to cakes, crepes, and other desserts when she is stressed.",
+						"question": "Ann has a massive appetite and a particular obsession with what kind of food?",
+						"wrong": [
+							"Spicy Food",
+							"Steak",
+							"Vegetables"
+						]
+					},
+					{
+						"correct": "Hecate",
+						"difficulty": "Hard",
+						"explanation": "Hecate is a powerful goddess of sorcery and the moon, reflecting Ann's mastery of fire magic.",
+						"question": "What is the name of Ann's Ultimate Persona, a Greek goddess of magic?",
+						"wrong": [
+							"Athena",
+							"Artemis",
+							"Hera"
+						]
+					},
+					{
+						"correct": "Mika",
+						"difficulty": "Hard",
+						"explanation": "Mika is a cunning model who often tries to sabotage Ann's shoots to maintain her own spotlight.",
+						"question": "Ann is often teased by her rival model at her agency. What is that rival's name?",
+						"wrong": [
+							"Yuki",
+							"Rina",
+							"Saki"
+						]
+					},
+					{
+						"correct": "United States",
+						"difficulty": "Hard",
+						"explanation": "Ann is 1/4th American, which led to her being ostracized by classmates who saw her as 'different'.",
+						"question": "Which country is Ann's grandfather from, explaining her quarter-foreign heritage?",
+						"wrong": [
+							"England",
+							"France",
+							"Germany"
+						]
+					},
+					{
+						"correct": "Celestine",
+						"difficulty": "Hard",
+						"explanation": "Celestine is the name of the actress who first famously portrayed Carmen on stage.",
+						"question": "What is the name of Ann's 'Third Tier' Persona from the definitive edition?",
+						"wrong": [
+							"Isabella",
+							"Rosalind",
+							"Bianca"
+						]
+					},
+					{
+						"correct": "Beach Shoot",
+						"difficulty": "Hard",
+						"explanation": "Joker accompanies Ann to a beach shoot to help her find her motivation and 'act' more effectively.",
+						"question": "What was the name of the first 'modeling' job Joker helps Ann with during her Confidant story?",
+						"wrong": [
+							"Jewelry Campaign",
+							"Perfume Ad",
+							"Bridal Show"
+						]
+					}
+				]
+			},
+			"id": "persona_5_ann_takamaki",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Ann Takamaki",
+				"lore_desc": "A kind-hearted girl and part-time model who feels like an outsider due to her American heritage.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Mage",
+					"Model"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fox",
+						"difficulty": "Easy",
+						"explanation": "Yusuke wears a fox mask, fitting for his traditional Japanese aesthetic and elegant movements.",
+						"question": "What is the codename used by Yusuke Kitagawa in the Metaverse?",
+						"wrong": [
+							"Wolf",
+							"Inu",
+							"Kitsune"
+						]
+					},
+					{
+						"correct": "Art",
+						"difficulty": "Easy",
+						"explanation": "Yusuke is a dedicated painter who views the world through the lens of composition and color.",
+						"question": "What is Yusuke's primary obsession and life's passion?",
+						"wrong": [
+							"Cooking",
+							"Music",
+							"Sports"
+						]
+					},
+					{
+						"correct": "Katana",
+						"difficulty": "Easy",
+						"explanation": "Yusuke's combat style is based on Iaijutsu, the art of quick-drawing a katana.",
+						"question": "What type of melee weapon does Yusuke use to slice through enemies?",
+						"wrong": [
+							"Rapier",
+							"Broadsword",
+							"Dagger"
+						]
+					},
+					{
+						"correct": "Ice",
+						"difficulty": "Easy",
+						"explanation": "Goemon uses Bufu-type skills, contrasting with Ryuji's electricity and Ann's fire.",
+						"question": "What is the primary elemental affinity of Yusuke's Persona, Goemon?",
+						"wrong": [
+							"Fire",
+							"Electricity",
+							"Nuclear"
+						]
+					},
+					{
+						"correct": "Madarame",
+						"difficulty": "Easy",
+						"explanation": "Madarame was Yusuke's foster father and mentor, though he was secretly exploiting Yusuke's talent.",
+						"question": "Which famous artist and mentor does Yusuke live with at the start of the game?",
+						"wrong": [
+							"Iwai",
+							"Kamoshida",
+							"Shido"
+						]
+					},
+					{
+						"correct": "The Emperor",
+						"difficulty": "Medium",
+						"explanation": "The Emperor represents structure, father figures, and authority, reflecting Yusuke's struggle with Madarame.",
+						"question": "Which Arcana does Yusuke Kitagawa represent in his Confidant relationship?",
+						"wrong": [
+							"The Hierophant",
+							"The Hermit",
+							"The Hanged Man"
+						]
+					},
+					{
+						"correct": "Goemon",
+						"difficulty": "Medium",
+						"explanation": "Ishikawa Goemon was a semi-legendary outlaw who stole from the rich and gave to the poor.",
+						"question": "What is the name of Yusuke's initial Persona, based on a legendary Japanese outlaw?",
+						"wrong": [
+							"Jiraiya",
+							"Susano-o",
+							"Take-Mikazuchi"
+						]
+					},
+					{
+						"correct": "Two Lobsters",
+						"difficulty": "Medium",
+						"explanation": "In one of the game's funniest scenes, Yusuke spends his last bit of money on two lobsters because they are 'aesthetically pleasing'.",
+						"question": "Yusuke is frequently broke and starving. What unusual 'pet' does he buy instead of food at one point?",
+						"wrong": [
+							"A Goldfish",
+							"A Turtle",
+							"A Cricket"
+						]
+					},
+					{
+						"correct": "Assault Rifle",
+						"difficulty": "Medium",
+						"explanation": "Yusuke uses an assault rifle, which allows him to provide consistent cover fire for the team.",
+						"question": "What type of long-range firearm does Yusuke utilize in the Metaverse?",
+						"wrong": [
+							"Pistol",
+							"Shotgun",
+							"Grenade Launcher"
+						]
+					},
+					{
+						"correct": "Sayuri",
+						"difficulty": "Medium",
+						"explanation": "The 'Sayuri' was painted by Yusuke's mother and stolen by Madarame, who claimed it as his own work.",
+						"question": "What is the name of the famous painting that is central to Yusuke's backstory?",
+						"wrong": [
+							"Sakura",
+							"The Scream",
+							"Monolith"
+						]
+					},
+					{
+						"correct": "Kamu Susano-o",
+						"difficulty": "Hard",
+						"explanation": "Susano-o is the brother of Amaterasu and is often associated with the sea and storms.",
+						"question": "What is the name of Yusuke's Ultimate Persona, a Shinto storm god?",
+						"wrong": [
+							"Tsukuyomi",
+							"Amaterasu",
+							"Raiden"
+						]
+					},
+					{
+						"correct": "Kosei High",
+						"difficulty": "Hard",
+						"explanation": "Kosei High is a separate school from Joker's, known for its prestigious art programs.",
+						"question": "What is the name of the high school Yusuke attends, which specializes in the arts?",
+						"wrong": [
+							"Shujin Academy",
+							"Gekkoukan High",
+							"Seven Sisters"
+						]
+					},
+					{
+						"correct": "Gorokichi",
+						"difficulty": "Hard",
+						"explanation": "Gorokichi was the childhood name of Ishikawa Goemon, representing Yusuke's return to his roots.",
+						"question": "What is the name of Yusuke's 'Third Tier' Persona from the definitive edition?",
+						"wrong": [
+							"Kanemitsu",
+							"Masamune",
+							"Muramasa"
+						]
+					},
+					{
+						"correct": "Inokashira Park",
+						"difficulty": "Hard",
+						"explanation": "Yusuke often sits at the park in Kichijoji or Inokashira to sketch and contemplate the meaning of beauty.",
+						"question": "Where does Yusuke often go to 'people watch' and find inspiration for his art?",
+						"wrong": [
+							"Shibuya Station",
+							"Akihabara",
+							"The Underground Mall"
+						]
+					},
+					{
+						"correct": "Skill Card Duplication",
+						"difficulty": "Hard",
+						"explanation": "As an artist, Yusuke can use his skills to paint copies of Skill Cards, allowing the player to reuse powerful abilities.",
+						"question": "What unique ability does Yusuke have that allows him to duplicate items for the party?",
+						"wrong": [
+							"Item Crafting",
+							"Lockpicking",
+							"Healing"
+						]
+					}
+				]
+			},
+			"id": "persona_5_yusuke_kitagawa",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Yusuke Kitagawa",
+				"lore_desc": "An eccentric art student from Kosei High who seeks to capture the beauty of the world through his brush.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Artist",
+					"Samurai"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Queen",
+						"difficulty": "Easy",
+						"explanation": "Her codename Queen reflects her role as the team's strategist and her commanding presence.",
+						"question": "What is the codename used by Makoto Niijima in the Metaverse?",
+						"wrong": [
+							"Rider",
+							"Ace",
+							"Princess"
+						]
+					},
+					{
+						"correct": "Student Council President",
+						"difficulty": "Easy",
+						"explanation": "Makoto was the top-ranking student leader, though she felt pressured by the principal to act as his spy.",
+						"question": "What was Makoto's role at Shujin Academy before joining the Phantom Thieves?",
+						"wrong": [
+							"Cheerleader",
+							"Librarian",
+							"Discipline Head"
+						]
+					},
+					{
+						"correct": "Nuclear",
+						"difficulty": "Easy",
+						"explanation": "Nuclear (Frei) skills are Makoto's specialty, used to cause explosive damage to afflicted enemies.",
+						"question": "What is the primary elemental affinity of Makoto's Persona, Johanna?",
+						"wrong": [
+							"Fire",
+							"Psychic",
+							"Curse"
+						]
+					},
+					{
+						"correct": "A Motorcycle",
+						"difficulty": "Easy",
+						"explanation": "Johanna is a rare Persona that takes the form of a vehicle, which Makoto rides into battle.",
+						"question": "What unique form does Makoto's initial Persona, Johanna, take?",
+						"wrong": [
+							"A Car",
+							"A Chariot",
+							"A Horse"
+						]
+					},
+					{
+						"correct": "Brass Knuckles",
+						"difficulty": "Easy",
+						"explanation": "Makoto uses spiked knuckles, highlighting her background in martial arts (Aikido).",
+						"question": "What type of melee weapon does Makoto use for close-quarters combat?",
+						"wrong": [
+							"Tonfa",
+							"Staff",
+							"Nunchucks"
+						]
+					},
+					{
+						"correct": "The Priestess",
+						"difficulty": "Medium",
+						"explanation": "The Priestess represents hidden knowledge, wisdom, and intuition, fitting for a studious character like Makoto.",
+						"question": "Which Arcana does Makoto Niijima represent in her Confidant relationship?",
+						"wrong": [
+							"The Justice",
+							"The Empress",
+							"The Judgement"
+						]
+					},
+					{
+						"correct": "Sae Niijima",
+						"difficulty": "Medium",
+						"explanation": "Sae is both a protector and a source of pressure for Makoto throughout the story.",
+						"question": "What is the name of Makoto's older sister, who is a high-ranking prosecutor?",
+						"wrong": [
+							"Hifumi Togo",
+							"Chihaya Mifune",
+							"Ichiko Ohya"
+						]
+					},
+					{
+						"correct": "Revolver",
+						"difficulty": "Medium",
+						"explanation": "Makoto uses a revolver, which she handles with professional-grade accuracy.",
+						"question": "What type of long-range firearm does Makoto utilize in the Metaverse?",
+						"wrong": [
+							"Shotgun",
+							"Pistol",
+							"Submachine Gun"
+						]
+					},
+					{
+						"correct": "Johanna",
+						"difficulty": "Medium",
+						"explanation": "Pope Joan was a legendary woman who allegedly reigned as Pope during the Middle Ages.",
+						"question": "What is the name of Makoto's initial Persona, based on a legendary female Pope?",
+						"wrong": [
+							"Joan",
+							"Mary",
+							"Elizabeth"
+						]
+					},
+					{
+						"correct": "Buchimaru-kun",
+						"difficulty": "Medium",
+						"explanation": "Buchimaru-kun is a round panda character that Makoto finds adorable but tries to keep hidden.",
+						"question": "Makoto has a secret obsession with a certain merchandise character. What is its name?",
+						"wrong": [
+							"Hello Kitty",
+							"Morgana",
+							"Jack Frost"
+						]
+					},
+					{
+						"correct": "Anat",
+						"difficulty": "Hard",
+						"explanation": "Anat is a war goddess, though in the context of the game, she represents Makoto's evolution of Johanna.",
+						"question": "What is the name of Makoto's Ultimate Persona, a female mathematician and philosopher?",
+						"wrong": [
+							"Hypatia",
+							"Athena",
+							"Sophia"
+						]
+					},
+					{
+						"correct": "A Human Head",
+						"difficulty": "Hard",
+						"explanation": "The front of Johanna features a metallic face/head, adding to its eerie and powerful design.",
+						"question": "Makoto's Persona, Johanna, has what specific item embedded in its 'front wheel'?",
+						"wrong": [
+							"A Clock",
+							"A Heart",
+							"A Shield"
+						]
+					},
+					{
+						"correct": "Agnes",
+						"difficulty": "Hard",
+						"explanation": "Agnes is another name associated with the legend of Pope Joan, symbolizing the truth behind the myth.",
+						"question": "What is the name of Makoto's 'Third Tier' Persona from the definitive edition?",
+						"wrong": [
+							"Agatha",
+							"Lucia",
+							"Beatrice"
+						]
+					},
+					{
+						"correct": "Aikido",
+						"difficulty": "Hard",
+						"explanation": "Makoto uses Aikido to defend herself and others, which translates to her powerful melee attacks.",
+						"question": "Which martial art does Makoto practice, as mentioned during her Confidant scenes?",
+						"wrong": [
+							"Karate",
+							"Judo",
+							"Kendo"
+						]
+					},
+					{
+						"correct": "Student Council President",
+						"difficulty": "Hard",
+						"explanation": "Before she joined, the team simply referred to her by her title while she followed them around with a magazine.",
+						"question": "What was the codename Joker gave Makoto while she was 'spying' on them in Shibuya?",
+						"wrong": [
+							"Stalker",
+							"Glasses",
+							"The Bookworm"
+						]
+					}
+				]
+			},
+			"id": "persona_5_makoto_niijima",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Makoto Niijima",
+				"lore_desc": "The disciplined student council president of Shujin Academy who discovers her inner rebel.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Strategist",
+					"Biker"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Oracle",
+						"difficulty": "Easy",
+						"explanation": "Her codename Oracle (or Navi in Japanese) represents her ability to see through the Metaverse.",
+						"question": "What is the codename used by Futaba Sakura when she acts as the team's navigator?",
+						"wrong": [
+							"Navi",
+							"Hacker",
+							"Shadow"
+						]
+					},
+					{
+						"correct": "Adopted Daughter",
+						"difficulty": "Easy",
+						"explanation": "Sojiro took Futaba in after her mother passed away, becoming her legal guardian.",
+						"question": "What is Futaba's relationship to Sojiro Sakura, the owner of Cafe Leblanc?",
+						"wrong": [
+							"Biological Daughter",
+							"Niece",
+							"Employee"
+						]
+					},
+					{
+						"correct": "A UFO",
+						"difficulty": "Easy",
+						"explanation": "Necronomicon is a giant flying saucer that Futaba sits inside during combat.",
+						"question": "What unique form does Futaba's Persona, Necronomicon, take?",
+						"wrong": [
+							"A Car",
+							"A Book",
+							"A Dragon"
+						]
+					},
+					{
+						"correct": "Wakaba Isshiki",
+						"difficulty": "Easy",
+						"explanation": "Wakaba was a cognitive researcher whose death left Futaba traumatized for years.",
+						"question": "What is the name of the genius mother Futaba lost in a tragic 'accident'?",
+						"wrong": [
+							"Sae Niijima",
+							"Ichiko Ohya",
+							"Chihaya Mifune"
+						]
+					},
+					{
+						"correct": "Hacking",
+						"difficulty": "Easy",
+						"explanation": "Futaba is an world-class hacker who previously operated under the alias 'Alibaba'.",
+						"question": "Futaba is a master of what skill, which she uses to help the Phantom Thieves?",
+						"wrong": [
+							"Cooking",
+							"Sewing",
+							"Dancing"
+						]
+					},
+					{
+						"correct": "The Hermit",
+						"difficulty": "Medium",
+						"explanation": "The Hermit Arcana perfectly represents her reclusive lifestyle and search for inner truth.",
+						"question": "Which Arcana does Futaba Sakura represent in her Confidant relationship?",
+						"wrong": [
+							"The Moon",
+							"The Star",
+							"The Tower"
+						]
+					},
+					{
+						"correct": "Medjed",
+						"difficulty": "Medium",
+						"explanation": "Futaba founded Medjed but left it, only for the group to later become a threat to the Phantom Thieves.",
+						"question": "What is the name of the mysterious hacking group Futaba was once associated with?",
+						"wrong": [
+							"Anonymous",
+							"Phantoms",
+							"The Order"
+						]
+					},
+					{
+						"correct": "Necronomicon",
+						"difficulty": "Medium",
+						"explanation": "The Necronomicon is a fictional book of magic from the Cthulhu Mythos.",
+						"question": "What is the name of Futaba's initial Persona, named after a famous grimoire?",
+						"wrong": [
+							"Al Azif",
+							"Grimoire",
+							"Forbidden Book"
+						]
+					},
+					{
+						"correct": "Neo Featherman",
+						"difficulty": "Medium",
+						"explanation": "Futaba is a massive geek and loves the Neo Featherman series, often collecting their figurines.",
+						"question": "What is Futaba's favorite fictional superhero franchise, which she often references?",
+						"wrong": [
+							"Power Rangers",
+							"Sentai Five",
+							"Masked Rider"
+						]
+					},
+					{
+						"correct": "Prometheus",
+						"difficulty": "Medium",
+						"explanation": "Prometheus gave fire to humanity, symbolizing Futaba's role in bringing light and data to the team.",
+						"question": "What is the name of Futaba's Ultimate Persona, a Greek titan of foresight?",
+						"wrong": [
+							"Atlas",
+							"Kronos",
+							"Oceanus"
+						]
+					},
+					{
+						"correct": "Alibaba",
+						"difficulty": "Hard",
+						"explanation": "She used the name Alibaba to hide her identity while asking the Phantom Thieves to steal her own heart.",
+						"question": "Before joining the team, Futaba contacted Joker using what digital alias?",
+						"wrong": [
+							"Forty Thieves",
+							"Morgiana",
+							"Sinbad"
+						]
+					},
+					{
+						"correct": "Orange",
+						"difficulty": "Hard",
+						"explanation": "Futaba's bright orange hair is dyed; her natural hair color is actually black like her mother's.",
+						"question": "What specific color is Futaba's hair, which she dyed herself?",
+						"wrong": [
+							"Red",
+							"Pink",
+							"Green"
+						]
+					},
+					{
+						"correct": "Al Azif",
+						"difficulty": "Hard",
+						"explanation": "Al Azif is the original Arabic name for the Necronomicon.",
+						"question": "What is the name of Futaba's 'Third Tier' Persona from the definitive edition?",
+						"wrong": [
+							"Cthulhu",
+							"Hastur",
+							"Yog-Sothoth"
+						]
+					},
+					{
+						"correct": "Under a Closet",
+						"difficulty": "Hard",
+						"explanation": "Due to her extreme social anxiety, she hides in her closet when people enter her room.",
+						"question": "Where does Futaba usually hide when she first meets the Phantom Thieves in person?",
+						"wrong": [
+							"In a Box",
+							"Behind a Curtain",
+							"In the Attic"
+						]
+					},
+					{
+						"correct": "Wrath",
+						"difficulty": "Hard",
+						"explanation": "Despite her shut-in nature, her Palace represented the Sin of Wrath—specifically, wrath directed at herself.",
+						"question": "Which specific sin was associated with Futaba's own Palace?",
+						"wrong": [
+							"Sloth",
+							"Envy",
+							"Greed"
+						]
+					}
+				]
+			},
+			"id": "persona_5_futaba_sakura",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Futaba Sakura",
+				"lore_desc": "A shut-in genius hacker who provides technical support and navigation for the Phantom Thieves.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Hacker",
+					"Navigator"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Noir",
+						"difficulty": "Easy",
+						"explanation": "Noir (French for black) fits her elegant, musketeer-inspired thief outfit.",
+						"question": "What is the codename used by Haru Okumura in the Metaverse?",
+						"wrong": [
+							"Rose",
+							"Violet",
+							"Fleur"
+						]
+					},
+					{
+						"correct": "Gardening",
+						"difficulty": "Easy",
+						"explanation": "Haru grows various vegetables and flowers, which provide powerful healing items for the team.",
+						"question": "What is Haru's favorite hobby, which she practices on the school rooftop?",
+						"wrong": [
+							"Cooking",
+							"Painting",
+							"Knitting"
+						]
+					},
+					{
+						"correct": "Psychic",
+						"difficulty": "Easy",
+						"explanation": "Psychic (Psi) skills allow Haru to exploit mental ailments like Fear and Confusion.",
+						"question": "What is the primary elemental affinity of Haru's Persona, Milady?",
+						"wrong": [
+							"Nuclear",
+							"Bless",
+							"Curse"
+						]
+					},
+					{
+						"correct": "Axe",
+						"difficulty": "Easy",
+						"explanation": "Despite her gentle appearance, Haru wields a heavy battle axe with surprising efficiency.",
+						"question": "What massive melee weapon does Haru use to crush her enemies?",
+						"wrong": [
+							"Hammer",
+							"Mace",
+							"Spear"
+						]
+					},
+					{
+						"correct": "Okumura Foods",
+						"difficulty": "Easy",
+						"explanation": "Okumura Foods is the parent company of the Big Bang Burger chain.",
+						"question": "Haru is the heiress to what massive fast-food empire?",
+						"wrong": [
+							"Big Bang Burger",
+							"Wild Duck Burger",
+							"Beef Bowl Shop"
+						]
+					},
+					{
+						"correct": "The Empress",
+						"difficulty": "Medium",
+						"explanation": "The Empress represents motherhood, abundance, and authority, fitting for an heiress.",
+						"question": "Which Arcana does Haru Okumura represent in her Confidant relationship?",
+						"wrong": [
+							"The Star",
+							"The Sun",
+							"The Fortune"
+						]
+					},
+					{
+						"correct": "Grenade Launcher",
+						"difficulty": "Medium",
+						"explanation": "Haru's grenade launcher deals heavy damage to all enemies on the field.",
+						"question": "What type of long-range firearm does Haru utilize in the Metaverse?",
+						"wrong": [
+							"Sniper Rifle",
+							"Flamethrower",
+							"Machine Gun"
+						]
+					},
+					{
+						"correct": "Milady",
+						"difficulty": "Medium",
+						"explanation": "Milady de Winter is the cunning antagonist from Dumas's novel.",
+						"question": "What is the name of Haru's initial Persona, inspired by The Three Musketeers?",
+						"wrong": [
+							"Constance",
+							"Athos",
+							"D'Artagnan"
+						]
+					},
+					{
+						"correct": "Gatling Guns",
+						"difficulty": "Medium",
+						"explanation": "In a startling reveal, Milady lifts her skirt to reveal several hidden machine guns.",
+						"question": "Haru's Persona, Milady, hides what weapon under her massive Victorian skirt?",
+						"wrong": [
+							"Cannons",
+							"Missiles",
+							"Swords"
+						]
+					},
+					{
+						"correct": "Kunikazu Okumura",
+						"difficulty": "Medium",
+						"explanation": "Kunikazu Okumura is the target of the fifth Palace, representing the Sin of Greed.",
+						"question": "What is the name of Haru's father, the greedy CEO of Okumura Foods?",
+						"wrong": [
+							"Masayoshi Shido",
+							"Suguru Kamoshida",
+							"Junya Kaneshiro"
+						]
+					},
+					{
+						"correct": "Astarte",
+						"difficulty": "Hard",
+						"explanation": "Astarte is a goddess of war and fertility, reflecting Haru's dual nature.",
+						"question": "What is the name of Haru's Ultimate Persona, a Phoenician goddess?",
+						"wrong": [
+							"Ishtar",
+							"Aphrodite",
+							"Venus"
+						]
+					},
+					{
+						"correct": "Beauty Thief",
+						"difficulty": "Hard",
+						"explanation": "She and Morgana formed a duo briefly, with Haru taking on this dramatic self-given title.",
+						"question": "Before joining the team, what did Haru call herself while working with Morgana?",
+						"wrong": [
+							"Flower Thief",
+							"Rose Thief",
+							"Mystic Thief"
+						]
+					},
+					{
+						"correct": "Lucy",
+						"difficulty": "Hard",
+						"explanation": "Lucy is based on the real-life historical figure Lucy Hay, who inspired the character of Milady.",
+						"question": "What is the name of Haru's 'Third Tier' Persona from the definitive edition?",
+						"wrong": [
+							"Louise",
+							"Lydia",
+							"Laura"
+						]
+					},
+					{
+						"correct": "Elephant Dung Coffee",
+						"difficulty": "Hard",
+						"explanation": "Haru's sophisticated (and expensive) taste in coffee is a recurring joke in her social link.",
+						"question": "What specific type of coffee is Haru knowledgeable about, as seen in her Confidant story?",
+						"wrong": [
+							"Civet Coffee",
+							"Blue Mountain",
+							"Kopi Luwak"
+						]
+					},
+					{
+						"correct": "Sugimura",
+						"difficulty": "Hard",
+						"explanation": "Sugimura is an arrogant, abusive man who views Haru only as a tool for his advancement.",
+						"question": "What is the name of the man Haru is being forced to marry for her father's political gain?",
+						"wrong": [
+							"Tanaka",
+							"Yamada",
+							"Sato"
+						]
+					}
+				]
+			},
+			"id": "persona_5_haru_okumura",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Haru Okumura",
+				"lore_desc": "The polite daughter of a business tycoon who hides a surprisingly fierce spirit.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Heiress",
+					"Gardener"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Crow",
+						"difficulty": "Easy",
+						"explanation": "His codename Crow matches his mask and his role as a lone flyer in the group.",
+						"question": "What is the codename used by Goro Akechi in the Metaverse?",
+						"wrong": [
+							"Raven",
+							"Hawk",
+							"Eagle"
+						]
+					},
+					{
+						"correct": "Detective",
+						"difficulty": "Easy",
+						"explanation": "Akechi is a celebrity detective who assists the police in investigating the Phantom Thieves.",
+						"question": "What is Akechi's famous profession that earned him the title 'The Detective Prince'?",
+						"wrong": [
+							"Lawyer",
+							"Police Officer",
+							"Journalist"
+						]
+					},
+					{
+						"correct": "Pancakes",
+						"difficulty": "Easy",
+						"explanation": "Akechi's mention of 'delicious pancakes' proved he could hear Morgana's voice, revealing he was a Metaverse user.",
+						"question": "Which food item is Akechi famously obsessed with, leading to a major slip-up in his cover story?",
+						"wrong": [
+							"Waffles",
+							"Crepes",
+							"Burgers"
+						]
+					},
+					{
+						"correct": "Bless and Curse",
+						"difficulty": "Easy",
+						"explanation": "Robin Hood represents Akechi's public 'heroic' persona, using both light and dark magic.",
+						"question": "What are the two primary elements used by Akechi's first Persona, Robin Hood?",
+						"wrong": [
+							"Fire and Ice",
+							"Wind and Electric",
+							"Nuclear and Psychic"
+						]
+					},
+					{
+						"correct": "Saber",
+						"difficulty": "Easy",
+						"explanation": "Akechi uses a serrated saber that looks like a toy or a beam sword.",
+						"question": "What type of melee weapon does Akechi use while in his 'heroic' Crow outfit?",
+						"wrong": [
+							"Katana",
+							"Knife",
+							"Spear"
+						]
+					},
+					{
+						"correct": "Justice",
+						"difficulty": "Medium",
+						"explanation": "The Justice Arcana is ironic, given Akechi's hidden nature and his role in the legal system.",
+						"question": "Which Arcana does Goro Akechi represent in the game's social system?",
+						"wrong": [
+							"Strength",
+							"Judgment",
+							"Death"
+						]
+					},
+					{
+						"correct": "Masayoshi Shido",
+						"difficulty": "Medium",
+						"explanation": "Akechi is the illegitimate son of Shido and seeks revenge for how his mother was treated.",
+						"question": "Who is Goro Akechi's biological father, who he secretly plans to take down?",
+						"wrong": [
+							"Sojiro Sakura",
+							"Kunikazu Okumura",
+							"Suguru Kamoshida"
+						]
+					},
+					{
+						"correct": "Loki",
+						"difficulty": "Medium",
+						"explanation": "Loki represents Akechi's trickery, madness, and his ability to induce psychotic breakdowns.",
+						"question": "What is the name of Akechi's true, darker Persona, based on Norse mythology?",
+						"wrong": [
+							"Odin",
+							"Thor",
+							"Fenrir"
+						]
+					},
+					{
+						"correct": "Hereward",
+						"difficulty": "Medium",
+						"explanation": "Hereward the Wake was an Anglo-Saxon rebel, representing Akechi's defiance of fate.",
+						"question": "What is the name of Akechi's 'Third Tier' Persona from the definitive edition?",
+						"wrong": [
+							"Arthur",
+							"Lancelot",
+							"Mordred"
+						]
+					},
+					{
+						"correct": "Black and Blue",
+						"difficulty": "Medium",
+						"explanation": "His 'Berserker' outfit is a dark, striped suit that reflects his mental instability.",
+						"question": "When Akechi reveals his true nature, his white outfit changes to what color?",
+						"wrong": [
+							"Red and Gold",
+							"Silver and Green",
+							"Purple and White"
+						]
+					},
+					{
+						"correct": "Call of Chaos",
+						"difficulty": "Hard",
+						"explanation": "Call of Chaos is the power granted by Loki to induce madness in others.",
+						"question": "What is the specific name of the ability Akechi uses to turn Shadows and Personas berserk?",
+						"wrong": [
+							"Psychotic Breakdown",
+							"Mental Shutdown",
+							"Shadow Flare"
+						]
+					},
+					{
+						"correct": "Two Years",
+						"difficulty": "Hard",
+						"explanation": "Akechi had been Shido's secret assassin for two years before the events of the game.",
+						"question": "How many years has Akechi been operating in the Metaverse before meeting Joker?",
+						"wrong": [
+							"One Year",
+							"Three Years",
+							"Six Months"
+						]
+					},
+					{
+						"correct": "Jazz Jin",
+						"difficulty": "Hard",
+						"explanation": "Jazz Jin is a location where players can buff their teammates' Personas.",
+						"question": "What is the name of the jazz club Akechi takes Joker to in Kichijoji?",
+						"wrong": [
+							"Blue Note",
+							"Swing Time",
+							"The Velvet Room"
+						]
+					},
+					{
+						"correct": "Ray Gun",
+						"difficulty": "Hard",
+						"explanation": "Akechi uses a futuristic ray gun that matches the theatricality of his Crow persona.",
+						"question": "What type of long-range firearm does Akechi use in his Crow form?",
+						"wrong": [
+							"Pistol",
+							"Rifle",
+							"Submachine Gun"
+						]
+					},
+					{
+						"correct": "Pawn",
+						"difficulty": "Hard",
+						"explanation": "Akechi laments that he was just a pawn in Shido's game, despite his attempts to be the player.",
+						"question": "Which specific chess piece does Akechi compare himself to during his final confrontation?",
+						"wrong": [
+							"Knight",
+							"Bishop",
+							"Rook"
+						]
+					}
+				]
+			},
+			"id": "persona_5_goro_akechi",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Goro Akechi",
+				"lore_desc": "A brilliant high school detective who is both a rival and a temporary ally to the Phantom Thieves.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Rival",
+					"Detective",
+					"Villain"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Arsène Lupin",
+						"difficulty": "Easy",
+						"explanation": "Arsene is directly inspired by Maurice Leblanc's famous fictional thief.",
+						"question": "Who is the mythological or literary figure that Arsene is based on?",
+						"wrong": [
+							"Sherlock Holmes",
+							"Robin Hood",
+							"Zorro"
+						]
+					},
+					{
+						"correct": "Red and Black",
+						"difficulty": "Easy",
+						"explanation": "Arsene's striking design features a red suit with black wings and trim.",
+						"question": "What is the primary color scheme of the Persona Arsene?",
+						"wrong": [
+							"Blue and Silver",
+							"Yellow and White",
+							"Green and Brown"
+						]
+					},
+					{
+						"correct": "Top Hat",
+						"difficulty": "Easy",
+						"explanation": "The top hat is a staple of the 'gentleman thief' look that Arsene embodies.",
+						"question": "Arsene is famously depicted wearing what type of hat?",
+						"wrong": [
+							"Fedora",
+							"Beret",
+							"Bowler Hat"
+						]
+					},
+					{
+						"correct": "Eiha",
+						"difficulty": "Easy",
+						"explanation": "Eiha is the basic Curse-element skill in the Persona series.",
+						"question": "What is the name of the very first skill Arsene learns, which deals Curse damage?",
+						"wrong": [
+							"Zio",
+							"Agi",
+							"Bufu"
+						]
+					},
+					{
+						"correct": "Talons",
+						"difficulty": "Easy",
+						"explanation": "Arsene has large, bird-like talons, adding to his demonic and avian aesthetic.",
+						"question": "What physical feature does Arsene have instead of normal feet?",
+						"wrong": [
+							"Boots",
+							"Hooves",
+							"Wheels"
+						]
+					},
+					{
+						"correct": "The Fool",
+						"difficulty": "Medium",
+						"explanation": "As Joker's starting Persona, Arsene represents the beginning of the Fool's Journey.",
+						"question": "Which Arcana does Arsene belong to?",
+						"wrong": [
+							"The Magician",
+							"The Death",
+							"The Devil"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Medium",
+						"explanation": "His massive black wings emphasize his status as a rebel and a fallen-angel figure.",
+						"question": "Arsene has a pair of large, tattered wings. What is their color?",
+						"wrong": [
+							"Red",
+							"White",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Cleave",
+						"difficulty": "Medium",
+						"explanation": "Cleave is a low-level physical skill that allows Arsene to deal damage without using SP.",
+						"question": "What is the name of the second skill Arsene learns, which is a physical attack?",
+						"wrong": [
+							"Bash",
+							"Slash",
+							"Punch"
+						]
+					},
+					{
+						"correct": "Trickster",
+						"difficulty": "Medium",
+						"explanation": "Arsene refers to Joker as a 'Trickster' who must defy the ruin that awaits him.",
+						"question": "In the game's opening, Arsene speaks to Joker. What does he call the protagonist?",
+						"wrong": [
+							"Prisoner",
+							"Hero",
+							"Thief"
+						]
+					},
+					{
+						"correct": "Awakening",
+						"difficulty": "Medium",
+						"explanation": "The Awakening is a violent and transformative process where the user's mask is ripped off.",
+						"question": "What is the specific name of the chain-heavy animation that occurs when Joker summons Arsene for the first time?",
+						"wrong": [
+							"Manifestation",
+							"Breakout",
+							"Summoning"
+						]
+					},
+					{
+						"correct": "Chin",
+						"difficulty": "Hard",
+						"explanation": "Arsene has an elongated, pointed chin piece that gives him a sharp, menacing silhouette.",
+						"question": "Arsene's design features a very long, pointed part of his mask. What is it called?",
+						"wrong": [
+							"Nose",
+							"Ear",
+							"Horn"
+						]
+					},
+					{
+						"correct": "Dodge Bless",
+						"difficulty": "Hard",
+						"explanation": "As a Curse-based Persona, Arsene is naturally weak to Bless, so this skill helps mitigate that weakness.",
+						"question": "Which passive skill does Arsene learn at level 7, which increases dodge against Bless attacks?",
+						"wrong": [
+							"Resist Bless",
+							"Null Bless",
+							"Evade Bless"
+						]
+					},
+					{
+						"correct": "Maurice Leblanc",
+						"difficulty": "Hard",
+						"explanation": "The author's name is also the namesake for the cafe where Joker lives.",
+						"question": "What is the name of the author who wrote the original Arsène Lupin novels?",
+						"wrong": [
+							"Arthur Conan Doyle",
+							"Victor Hugo",
+							"Gaston Leroux"
+						]
+					},
+					{
+						"correct": "I shall remain within the sea of your soul",
+						"difficulty": "Hard",
+						"explanation": "This line reminds the player that Arsene is a part of Joker's core identity, even if he is fused.",
+						"question": "In the Velvet Room, if you fuse Arsene away, what is the 'Farewell' line he says to Joker?",
+						"wrong": [
+							"We will meet again",
+							"I am always with you",
+							"Farewell, my master"
+						]
+					},
+					{
+						"correct": "Brave Blade",
+						"difficulty": "Hard",
+						"explanation": "In the prologue, Joker's Arsene appears much stronger than his Level 1 version, using Brave Blade.",
+						"question": "What is the name of the high-level physical skill Arsene uses in the game's opening cinematic?",
+						"wrong": [
+							"God's Hand",
+							"Gigantomachia",
+							"Sword Dance"
+						]
+					}
+				]
+			},
+			"id": "persona_5_arsene",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Arsene",
+				"lore_desc": "The first Persona awakened by Joker, inspired by the legendary gentleman thief Arsène Lupin.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Persona",
+					"Symbol",
+					"Thief"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Long Nose",
+						"difficulty": "Easy",
+						"explanation": "Igor's unusually long nose has been his trademark look across every Persona game.",
+						"question": "What is Igor's most defining physical feature?",
+						"wrong": [
+							"Giant Ears",
+							"Three Eyes",
+							"Metal Teeth"
+						]
+					},
+					{
+						"correct": "The Velvet Room",
+						"difficulty": "Easy",
+						"explanation": "The Velvet Room is a place that exists between dream and reality, mind and matter.",
+						"question": "What is the name of the location where Igor resides and assists the protagonist?",
+						"wrong": [
+							"The Blue Room",
+							"The Prison Room",
+							"The Dream World"
+						]
+					},
+					{
+						"correct": "Persona Fusion",
+						"difficulty": "Easy",
+						"explanation": "Igor uses his powers to fuse multiple Personas into new, more powerful ones.",
+						"question": "What is the primary function Igor performs for the player in the Velvet Room?",
+						"wrong": [
+							"Buying Items",
+							"Healing the Party",
+							"Saving the Game"
+						]
+					},
+					{
+						"correct": "A Prison",
+						"difficulty": "Easy",
+						"explanation": "The room's form reflects the protagonist's state of mind, which in Joker's case, is that of a prisoner.",
+						"question": "In Persona 5, what form does the Velvet Room take?",
+						"wrong": [
+							"An Elevator",
+							"A Limo",
+							"A Library"
+						]
+					},
+					{
+						"correct": "Caroline and Justine",
+						"difficulty": "Easy",
+						"explanation": "The twins act as wardens who assist Igor in managing the inmate, Joker.",
+						"question": "Who are Igor's twin assistants at the beginning of the game?",
+						"wrong": [
+							"Margaret and Elizabeth",
+							"Lavenza and Marie",
+							"Theo and Nameless"
+						]
+					},
+					{
+						"correct": "The Fool",
+						"difficulty": "Medium",
+						"explanation": "Igor holds the Fool Arcana, guiding the protagonist through their social links and growth.",
+						"question": "Which Arcana is Igor associated with in Persona 5?",
+						"wrong": [
+							"The World",
+							"The Universe",
+							"The Emperor"
+						]
+					},
+					{
+						"correct": "He was an Imposter",
+						"difficulty": "Medium",
+						"explanation": "The 'Igor' seen for most of the game was actually the god Yaldabaoth in disguise.",
+						"question": "What is the shocking secret about Igor's identity revealed near the end of the game?",
+						"wrong": [
+							"He was Joker's Father",
+							"He was a Shadow",
+							"He was Morgana"
+						]
+					},
+					{
+						"correct": "Lavenza",
+						"difficulty": "Medium",
+						"explanation": "Lavenza is the true form of the Velvet Room assistant, restored when Caroline and Justine fuse.",
+						"question": "What is the name of the 'real' Igor's combined assistant who appears after the twins merge?",
+						"wrong": [
+							"Margaret",
+							"Elizabeth",
+							"Marie"
+						]
+					},
+					{
+						"correct": "It becomes higher pitched",
+						"difficulty": "Medium",
+						"explanation": "The imposter had a deep, gravelly voice, while the real Igor has the more traditional, high-pitched voice from previous games.",
+						"question": "What change happens to Igor's voice when the 'real' Igor finally returns?",
+						"wrong": [
+							"It becomes lower pitched",
+							"He stops talking",
+							"He sounds like a child"
+						]
+					},
+					{
+						"correct": "Inmate",
+						"difficulty": "Medium",
+						"explanation": "Because the Velvet Room is a prison, Igor and the twins refer to Joker as an Inmate.",
+						"question": "What does Igor call the protagonist throughout the game?",
+						"wrong": [
+							"Guest",
+							"Trickster",
+							"Master"
+						]
+					},
+					{
+						"correct": "Philemon",
+						"difficulty": "Hard",
+						"explanation": "Philemon is the overarching benevolent force in the Persona series who created Igor.",
+						"question": "What is the name of the entity that Igor serves as a doll or creation of?",
+						"wrong": [
+							"Nyx",
+							"Erebus",
+							"Izanami"
+						]
+					},
+					{
+						"correct": "Guillotine",
+						"difficulty": "Hard",
+						"explanation": "The Guillotine is the standard fusion method, fitting the prison theme of the room.",
+						"question": "Which ritual does Igor use to execute Personas for fusion in Persona 5?",
+						"wrong": [
+							"Electric Chair",
+							"Gallows",
+							"Iron Maiden"
+						]
+					},
+					{
+						"correct": "Group Guillotine",
+						"difficulty": "Hard",
+						"explanation": "Group Guillotine (or Advanced Fusion) is required to create high-level legendary Personas.",
+						"question": "What is the name of the specific fusion method where Igor uses three or more Personas?",
+						"wrong": [
+							"Mass Fusion",
+							"Special Fusion",
+							"Advanced Fusion"
+						]
+					},
+					{
+						"correct": "To see if humanity desired ruin",
+						"difficulty": "Hard",
+						"explanation": "Yaldabaoth set up a contest between two 'Tricksters' to determine the fate of the world.",
+						"question": "What was the purpose of the 'fake' Igor's game between Joker and Akechi?",
+						"wrong": [
+							"To find a new master",
+							"To destroy the Velvet Room",
+							"To steal Joker's soul"
+						]
+					},
+					{
+						"correct": "Fusion accidents are more likely",
+						"difficulty": "Hard",
+						"explanation": "While Alertness mostly affects Palaces, high tension in the 'game' can lead to more frequent fusion accidents.",
+						"question": "What happens in the Velvet Room when the 'security level' (Alertness) reaches 100% in the real world?",
+						"wrong": [
+							"Igor disappears",
+							"The room turns red",
+							"You are kicked out"
+						]
+					}
+				]
+			},
+			"id": "persona_5_igor",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Igor",
+				"lore_desc": "The long-nosed master of the Velvet Room who oversees the fusion of Personas.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Master",
+					"Guide",
+					"Mystery"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Coffee and Curry",
+						"difficulty": "Easy",
+						"explanation": "Sojiro's specialty is a very specific, high-quality coffee and a secret-recipe curry.",
+						"question": "What are the two primary items sold on the menu at Cafe Leblanc?",
+						"wrong": [
+							"Tea and Cakes",
+							"Burgers and Fries",
+							"Sushi and Sake"
+						]
+					},
+					{
+						"correct": "Yongen-Jaya",
+						"difficulty": "Easy",
+						"explanation": "Yongen-Jaya is a sleepy residential district based on the real-world Sangenjaya.",
+						"question": "What is the name of the neighborhood where Cafe Leblanc is located?",
+						"wrong": [
+							"Shibuya",
+							"Shinjuku",
+							"Akihabara"
+						]
+					},
+					{
+						"correct": "The Attic",
+						"difficulty": "Easy",
+						"explanation": "Joker lives in the spacious but dusty attic above the cafe.",
+						"question": "Where does Joker's bedroom reside within the Leblanc building?",
+						"wrong": [
+							"The Basement",
+							"The Back Room",
+							"The Apartment Next Door"
+						]
+					},
+					{
+						"correct": "Sojiro Sakura",
+						"difficulty": "Easy",
+						"explanation": "Sojiro, nicknamed 'Boss', takes Joker in as a favor to a former acquaintance.",
+						"question": "What is the name of the gruff but kind owner of Cafe Leblanc?",
+						"wrong": [
+							"Munehisa Iwai",
+							"Toranosuke Yoshida",
+							"Sadayo Kawakami"
+						]
+					},
+					{
+						"correct": "Futaba Sakura",
+						"difficulty": "Easy",
+						"explanation": "Futaba eventually starts hanging out in the cafe regularly once she becomes more comfortable.",
+						"question": "Which character is often found sitting at the booth in Leblanc, even late at night?",
+						"wrong": [
+							"Ryuji Sakamoto",
+							"Ann Takamaki",
+							"Yusuke Kitagawa"
+						]
+					},
+					{
+						"correct": "Civet",
+						"difficulty": "Medium",
+						"explanation": "Sojiro teaches Joker about Civet coffee (Kopi Luwak), which involves coffee beans being eaten and excreted by a civet.",
+						"question": "What animal's 'brewing method' is a frequent topic of conversation in Leblanc?",
+						"wrong": [
+							"Elephant",
+							"Monkey",
+							"Bat"
+						]
+					},
+					{
+						"correct": "Leblanc Curry",
+						"difficulty": "Medium",
+						"explanation": "The recipe was originally developed by Futaba's mother, Wakaba, and perfected by Sojiro.",
+						"question": "What is the name of the specific brand or type of curry Leblanc is famous for?",
+						"wrong": [
+							"Sakura Spice",
+							"Phantom Curry",
+							"Attic Stew"
+						]
+					},
+					{
+						"correct": "Crossword Book",
+						"difficulty": "Medium",
+						"explanation": "Solving crosswords at the table increases Joker's Knowledge stat without passing time.",
+						"question": "What object sits on the counter that the player can interact with to solve puzzles once a week?",
+						"wrong": [
+							"Rubik's Cube",
+							"Chess Set",
+							"Sudoku Tablet"
+						]
+					},
+					{
+						"correct": "It is the last name of the creator of Arsène Lupin",
+						"difficulty": "Medium",
+						"explanation": "Maurice Leblanc is the author of the original Arsène Lupin novels.",
+						"question": "What is the significance of the name 'Leblanc'?",
+						"wrong": [
+							"It means The White in French",
+							"It was Sojiro's wife's name",
+							"It is a type of coffee bean"
+						]
+					},
+					{
+						"correct": "Call a maid service",
+						"difficulty": "Medium",
+						"explanation": "Joker uses the yellow payphone to call Kawakami for her housekeeping (or maid) services.",
+						"question": "What can Joker do with the payphone located inside Cafe Leblanc?",
+						"wrong": [
+							"Call the police",
+							"Call his parents",
+							"Save the game"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "Leblanc is a very quiet shop; usually, only one or two 'regulars' are ever seen sitting at the booths.",
+						"question": "What is the maximum number of customers usually seen in Leblanc at once?",
+						"wrong": [
+							"Zero",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "There is no pink phone outside",
+						"difficulty": "Hard",
+						"explanation": "While there is a phone box nearby, the iconic pink phone is actually a different location's feature; Leblanc's is inside.",
+						"question": "What is the name of the pink rotary phone sitting outside the cafe in the alleyway?",
+						"wrong": [
+							"The Hotline",
+							"The Save Point",
+							"The Public Phone"
+						]
+					},
+					{
+						"correct": "Ryuji Sakamoto",
+						"difficulty": "Hard",
+						"explanation": "Ryuji visits very early in the game to discuss the Metaverse and their first Palace exploration.",
+						"question": "Which Phantom Thief is the first to ever visit Joker's room in the attic?",
+						"wrong": [
+							"Morgana",
+							"Ann Takamaki",
+							"Yusuke Kitagawa"
+						]
+					},
+					{
+						"correct": "The Stove",
+						"difficulty": "Hard",
+						"explanation": "Using the stove allows Joker to cook curry, which is one of the few items that restores SP.",
+						"question": "What item can Joker use in the Leblanc kitchen to restore SP for the team?",
+						"wrong": [
+							"The Fridge",
+							"The Blender",
+							"The Coffee Maker"
+						]
+					},
+					{
+						"correct": "He is blocked from the door",
+						"difficulty": "Hard",
+						"explanation": "The game physically prevents the player from interacting with the door, forcing them to go to bed.",
+						"question": "What happens if Joker tries to leave Leblanc at night when Morgana tells him he's tired?",
+						"wrong": [
+							"He loses HP",
+							"He passes out",
+							"He gets a scolding from Sojiro"
+						]
+					}
+				]
+			},
+			"id": "persona_5_leblanc",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Leblanc",
+				"lore_desc": "The quiet coffee shop in Yongen-Jaya that serves as Joker's home and the Phantom Thieves' secret hideout.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Home",
+					"Cafe",
+					"Base"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Black",
+						"difficulty": "Easy",
+						"explanation": "The students wear stylish black blazers with red and white checkered trousers or skirts.",
+						"question": "What is the primary color of the Shujin Academy school blazer?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Suguru Kamoshida",
+						"difficulty": "Easy",
+						"explanation": "Kamoshida is a former Olympic medalist who uses his status to abuse students.",
+						"question": "Who is the abusive gym teacher and the first major antagonist at Shujin Academy?",
+						"wrong": [
+							"Masayoshi Shido",
+							"Kunikazu Okumura",
+							"Junya Kaneshiro"
+						]
+					},
+					{
+						"correct": "Prisoner",
+						"difficulty": "Easy",
+						"explanation": "The name reflects the game's theme of the students being 'prisoners of fate'.",
+						"question": "What is the meaning of the word 'Shujin' in Japanese, which is a pun on the school's theme?",
+						"wrong": [
+							"Student",
+							"Master",
+							"Scholar"
+						]
+					},
+					{
+						"correct": "The Rooftop",
+						"difficulty": "Easy",
+						"explanation": "The rooftop is a restricted area that the Thieves use to speak privately away from teachers.",
+						"question": "Where is the secret meeting spot on campus where the Phantom Thieves first discuss their plans?",
+						"wrong": [
+							"The Library",
+							"The Gym",
+							"The Cafeteria"
+						]
+					},
+					{
+						"correct": "Principal Kobayakawa",
+						"difficulty": "Easy",
+						"explanation": "Kobayakawa is a large, sweating man who is secretly working for Shido's conspiracy.",
+						"question": "What is the name of the school principal who constantly pressures Makoto to find the Phantom Thieves?",
+						"wrong": [
+							"Principal Tanaka",
+							"Principal Sato",
+							"Principal Kawakami"
+						]
+					},
+					{
+						"correct": "Sadayo Kawakami",
+						"difficulty": "Medium",
+						"explanation": "Kawakami is Joker's homeroom teacher who works extra jobs to pay off a debt.",
+						"question": "Which character works as a teacher at Shujin and also has a secret job as a maid?",
+						"wrong": [
+							"Ichiko Ohya",
+							"Chihaya Mifune",
+							"Sae Niijima"
+						]
+					},
+					{
+						"correct": "Tae Takemi",
+						"difficulty": "Medium",
+						"explanation": "While not a Shujin employee, she is the local doctor many students (and Joker) visit.",
+						"question": "What is the name of the school's doctor who operates a clinic nearby and provides 'medicine'?",
+						"wrong": [
+							"Munehisa Iwai",
+							"Toranosuke Yoshida",
+							"Yuuki Mishima"
+						]
+					},
+					{
+						"correct": "A Shield",
+						"difficulty": "Medium",
+						"explanation": "The shield crest adds to the 'prison and authority' imagery of the school.",
+						"question": "What is the crest of Shujin Academy, which appears on their uniform buttons and gates?",
+						"wrong": [
+							"A Heart",
+							"A Sword",
+							"A Crown"
+						]
+					},
+					{
+						"correct": "Yusuke Kitagawa",
+						"difficulty": "Medium",
+						"explanation": "Yusuke attends Kosei High, a specialized school for the arts.",
+						"question": "Which Phantom Thief is NOT a student at Shujin Academy?",
+						"wrong": [
+							"Makoto Niijima",
+							"Ann Takamaki",
+							"Ryuji Sakamoto"
+						]
+					},
+					{
+						"correct": "2-D",
+						"difficulty": "Medium",
+						"explanation": "Joker is a second-year student in class D, along with Ann and Ryuji.",
+						"question": "What is the specific classroom number for Joker's homeroom?",
+						"wrong": [
+							"1-A",
+							"3-C",
+							"2-B"
+						]
+					},
+					{
+						"correct": "Takuto Maruki",
+						"difficulty": "Hard",
+						"explanation": "Maruki is a kind counselor who later becomes a central figure in the third semester.",
+						"question": "What is the name of the counselor hired by Shujin after the Kamoshida incident in the definitive edition?",
+						"wrong": [
+							"Sojiro Sakura",
+							"Goro Akechi",
+							"Masayoshi Shido"
+						]
+					},
+					{
+						"correct": "Third Floor",
+						"difficulty": "Hard",
+						"explanation": "The library is on the 3rd floor, where Joker can study to increase his Knowledge stat.",
+						"question": "Where is the Shujin Academy library located in the school building?",
+						"wrong": [
+							"First Floor",
+							"Basement",
+							"Second Floor"
+						]
+					},
+					{
+						"correct": "Yuuki Mishima",
+						"difficulty": "Hard",
+						"explanation": "Mishima was a victim of Kamoshida who becomes the Thieves' biggest fan and webmaster.",
+						"question": "What is the name of the student who runs the Phantom Aficionado Website and attends Shujin?",
+						"wrong": [
+							"Shiho Suzui",
+							"Hifumi Togo",
+							"Munehisa Iwai"
+						]
+					},
+					{
+						"correct": "Mr. Onodera",
+						"difficulty": "Hard",
+						"explanation": "Actually, Mr. Inui is the one with the armor, but Mr. Ushimaru is the one who throws chalk at Joker.",
+						"question": "Which Shujin teacher is known for wearing a suit of armor during his history lectures?",
+						"wrong": [
+							"Mr. Ushimaru",
+							"Ms. Chouno",
+							"Mr. Inui"
+						]
+					},
+					{
+						"correct": "Blue and White",
+						"difficulty": "Hard",
+						"explanation": "The track and gym students are seen wearing blue tracksuits with white accents.",
+						"question": "What is the specific color of the school gym uniforms at Shujin?",
+						"wrong": [
+							"Red and White",
+							"Green and Black",
+							"All White"
+						]
+					}
+				]
+			},
+			"id": "persona_5_shujin_academy",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Shujin Academy",
+				"lore_desc": "The high school where most of the Phantom Thieves are students and where their journey begins.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"School",
+					"Prison",
+					"Social"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Subway System",
+						"difficulty": "Easy",
+						"explanation": "Mementos is a series of interconnected subway tunnels that descend deep underground.",
+						"question": "What real-world location does Mementos resemble in its layout and theme?",
+						"wrong": [
+							"Shopping Mall",
+							"High School",
+							"Airport"
+						]
+					},
+					{
+						"correct": "The Reaper",
+						"difficulty": "Easy",
+						"explanation": "The Reaper is a recurring Persona series boss that punishes players for idling in dungeons.",
+						"question": "What is the name of the unstoppable, powerful enemy that appears if you stay on one floor for too long?",
+						"wrong": [
+							"The Warden",
+							"The Butcher",
+							"The Phantom"
+						]
+					},
+					{
+						"correct": "Morgana",
+						"difficulty": "Easy",
+						"explanation": "Morgana transforms into a van, allowing the team to travel long distances quickly.",
+						"question": "Who drives the team through the tunnels of Mementos?",
+						"wrong": [
+							"Makoto Niijima",
+							"Ryuji Sakamoto",
+							"Joker"
+						]
+					},
+					{
+						"correct": "Red and Black",
+						"difficulty": "Easy",
+						"explanation": "The red and black aesthetic matches the Phantom Thieves' colors and represents the 'pulsing' heart of society.",
+						"question": "What is the primary color scheme of the walls and floors in Mementos?",
+						"wrong": [
+							"Blue and White",
+							"Green and Grey",
+							"Yellow and Brown"
+						]
+					},
+					{
+						"correct": "The Holy Grail",
+						"difficulty": "Easy",
+						"explanation": "The Holy Grail represents the public's desire to be controlled and is the source of the dungeon's power.",
+						"question": "What is found at the very bottom of Mementos at the end of the game?",
+						"wrong": [
+							"A Giant Treasure Chest",
+							"The King's Throne",
+							"A Prison Cell"
+						]
+					},
+					{
+						"correct": "Jose",
+						"difficulty": "Medium",
+						"explanation": "Jose is a small boy in a star-themed car who can trade items and buff Mementos for the player.",
+						"question": "What is the name of the mysterious child who lives in Mementos and collects flowers?",
+						"wrong": [
+							"Morgana",
+							"Igor",
+							"Philemon"
+						]
+					},
+					{
+						"correct": "Hebrew Paths",
+						"difficulty": "Medium",
+						"explanation": "The paths in Mementos (like Qimranut and Aiyatsbus) are named after concepts in the Qliphoth.",
+						"question": "Mementos is divided into several areas named after what? ",
+						"wrong": [
+							"Greek Gods",
+							"Seven Sins",
+							"Planets"
+						]
+					},
+					{
+						"correct": "Stamps",
+						"difficulty": "Medium",
+						"explanation": "Joker collects stamps at the end of various paths to pay Jose for permanent dungeon buffs.",
+						"question": "What item can Jose provide to change the 'cognition' of Mementos, increasing EXP or money?",
+						"wrong": [
+							"Coins",
+							"Tickets",
+							"Stickers"
+						]
+					},
+					{
+						"correct": "Rare shadows appear more often",
+						"difficulty": "Medium",
+						"explanation": "Bad weather causes the 'flu' or other status effects to affect shadows, and increases rare item drops.",
+						"question": "In the definitive edition, what happens to Mementos during heavy rain or bad weather?",
+						"wrong": [
+							"The floor collapses",
+							"The Reaper is weaker",
+							"You cannot enter"
+						]
+					},
+					{
+						"correct": "Path of Qimranut",
+						"difficulty": "Medium",
+						"explanation": "Qimranut is the shallowest layer of Mementos, containing only two floors.",
+						"question": "What is the name of the first path in Mementos, accessible right after it is discovered?",
+						"wrong": [
+							"Path of Sheriruth",
+							"Path of Adyeshach",
+							"Path of Akzeriyyuth"
+						]
+					},
+					{
+						"correct": "Flu Season",
+						"difficulty": "Hard",
+						"explanation": "During Flu Season, The Reaper could spawn with the Despair status, causing it to die automatically after 3 turns.",
+						"question": "Which specific weather condition allowed players to easily defeat The Reaper in the original game?",
+						"wrong": [
+							"Thunderstorm",
+							"Heat Wave",
+							"Pollen Alert"
+						]
+					},
+					{
+						"correct": "Qliphoth World",
+						"difficulty": "Hard",
+						"explanation": "The Qliphoth World is where Mementos merges with the real world, turning Tokyo into a nightmare landscape.",
+						"question": "What is the name of the ultimate area that appears below Mementos during the final battle?",
+						"wrong": [
+							"Tartarus",
+							"The Abyss",
+							"The Rift"
+						]
+					},
+					{
+						"correct": "Complete Mementos Requests",
+						"difficulty": "Hard",
+						"explanation": "The Thieves take on side-requests from the Phan-Site to change the hearts of lesser criminals.",
+						"question": "What do the Phantom Thieves do to 'Targets' in Mementos who don't have their own Palace?",
+						"wrong": [
+							"Delete their data",
+							"Arrest them",
+							"Kill their Shadows"
+						]
+					},
+					{
+						"correct": "A Juicer",
+						"difficulty": "Hard",
+						"explanation": "Jose puts the flowers into a machine on his head that looks like a juicer to create items.",
+						"question": "What object does Jose use to transform the flowers you collect into items?",
+						"wrong": [
+							"A Hammer",
+							"A Magic Wand",
+							"A Blender"
+						]
+					},
+					{
+						"correct": "Makoto Niijima",
+						"difficulty": "Hard",
+						"explanation": "Despite being the strategist, Makoto is easily spooked by the supernatural elements of the Metaverse.",
+						"question": "Which Phantom Thief is notably afraid of the dark/ghostly atmosphere of Mementos early on?",
+						"wrong": [
+							"Ryuji Sakamoto",
+							"Ann Takamaki",
+							"Futaba Sakura"
+						]
+					}
+				]
+			},
+			"id": "persona_5_mementos",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Mementos",
+				"lore_desc": "The massive, ever-changing dungeon that represents the collective unconsciousness of the general public.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Dungeon",
+					"Subway",
+					"Collective"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Prosecutor",
+						"difficulty": "Easy",
+						"explanation": "Sae is a public prosecutor working for the Special Investigation Department.",
+						"question": "What is Sae Niijima's high-stress profession?",
+						"wrong": [
+							"Police Officer",
+							"Judge",
+							"Defense Attorney"
+						]
+					},
+					{
+						"correct": "Makoto Niijima",
+						"difficulty": "Easy",
+						"explanation": "Sae has been raising Makoto alone since their father, a police officer, passed away.",
+						"question": "Which Phantom Thief is Sae Niijima's younger sister?",
+						"wrong": [
+							"Ann Takamaki",
+							"Futaba Sakura",
+							"Haru Okumura"
+						]
+					},
+					{
+						"correct": "A Casino",
+						"difficulty": "Easy",
+						"explanation": "Sae views the legal system as a rigged game where winning is the only thing that matters.",
+						"question": "What is the theme of Sae Niijima's Palace in the Metaverse?",
+						"wrong": [
+							"A Bank",
+							"A Courtroom",
+							"A Museum"
+						]
+					},
+					{
+						"correct": "Judgement",
+						"difficulty": "Easy",
+						"explanation": "The Judgement Arcana represents the evaluation of one's actions, fitting for a prosecutor.",
+						"question": "Which Arcana does Sae Niijima represent in the story?",
+						"wrong": [
+							"Justice",
+							"The Empress",
+							"The Star"
+						]
+					},
+					{
+						"correct": "Interrogates him",
+						"difficulty": "Easy",
+						"explanation": "The entire story is told in flashback while Sae interrogates Joker in a prison cell.",
+						"question": "Sae Niijima is the primary character who does what to Joker throughout the game's framing story?",
+						"wrong": [
+							"Trains him",
+							"Heals him",
+							"Arrests him"
+						]
+					},
+					{
+						"correct": "Shadow Sae",
+						"difficulty": "Medium",
+						"explanation": "In her Palace, her Shadow takes the form of a high-stakes casino dealer.",
+						"question": "What is the name of Sae's Shadow form during her boss fight?",
+						"wrong": [
+							"The Dealer",
+							"The Queen of Hearts",
+							"Justice Bringer"
+						]
+					},
+					{
+						"correct": "Envy",
+						"difficulty": "Medium",
+						"explanation": "Sae's envy of others' success and her desire to climb the ladder fueled her distorted desires.",
+						"question": "Which specific sin is associated with Sae's Palace?",
+						"wrong": [
+							"Pride",
+							"Gluttony",
+							"Greed"
+						]
+					},
+					{
+						"correct": "Silver",
+						"difficulty": "Medium",
+						"explanation": "Sae's distinct silver/grey hair gives her a cold, professional appearance.",
+						"question": "What color is Sae Niijima's hair?",
+						"wrong": [
+							"Black",
+							"Brown",
+							"Blonde"
+						]
+					},
+					{
+						"correct": "A Roulette Wheel",
+						"difficulty": "Medium",
+						"explanation": "The roulette wheel determines the element or rules of the combat round.",
+						"question": "In her boss fight, Sae uses a giant object to determine her attacks. What is it?",
+						"wrong": [
+							"A Slot Machine",
+							"A Deck of Cards",
+							"A Pair of Dice"
+						]
+					},
+					{
+						"correct": "A Police Officer",
+						"difficulty": "Medium",
+						"explanation": "Her father died in the line of duty, leaving Sae to believe that 'justice' was a thankless burden.",
+						"question": "Who was Sae's father, whose death influenced her view of justice?",
+						"wrong": [
+							"A Politician",
+							"A Lawyer",
+							"A Thief"
+						]
+					},
+					{
+						"correct": "Leviathan",
+						"difficulty": "Hard",
+						"explanation": "During her boss battle, she transforms into a demonic form known as Leviathan.",
+						"question": "What is the name of Sae's 'Persona' form, though she never actually summons one as an ally?",
+						"wrong": [
+							"Behemoth",
+							"Ziz",
+							"Kraken"
+						]
+					},
+					{
+						"correct": "Niijima's Courthouse",
+						"difficulty": "Hard",
+						"explanation": "While it appears as a Casino, its location in reality is the District Court.",
+						"question": "Sae's Palace is located in which real-world district of Tokyo?",
+						"wrong": [
+							"Shibuya",
+							"Ginza",
+							"Roppongi"
+						]
+					},
+					{
+						"correct": "The Battle Arena",
+						"difficulty": "Hard",
+						"explanation": "Joker must win a series of arena fights to earn enough coins to progress.",
+						"question": "What is the name of the 'game' you must play in Sae's Palace to reach the manager's floor?",
+						"wrong": [
+							"High Stakes Poker",
+							"The Slot Challenge",
+							"The Maze of Dice"
+						]
+					},
+					{
+						"correct": "Director SIU",
+						"difficulty": "Hard",
+						"explanation": "The Director of the Special Investigations Unit is secretly working for the conspiracy.",
+						"question": "Which character is Sae's boss, who eventually betrays her?",
+						"wrong": [
+							"Masayoshi Shido",
+							"Principal Kobayakawa",
+							"Kunikazu Okumura"
+						]
+					},
+					{
+						"correct": "Become a Defense Attorney",
+						"difficulty": "Hard",
+						"explanation": "After her heart is changed (voluntarily by the plot), she switches sides to defend the innocent.",
+						"question": "At the end of the game, what does Sae decide to do for her career?",
+						"wrong": [
+							"Become a Judge",
+							"Retire",
+							"Join the Police Force"
+						]
+					}
+				]
+			},
+			"id": "persona_5_sae_niijima",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Sae Niijima",
+				"lore_desc": "A serious and driven prosecutor who is the legal guardian and older sister of Makoto Niijima.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Confidant",
+					"Prosecutor",
+					"Sister"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Boss",
+						"difficulty": "Easy",
+						"explanation": "As the owner of Leblanc, they all respectfully (or casually) refer to him as Boss.",
+						"question": "What nickname do the Phantom Thieves often use for Sojiro?",
+						"wrong": [
+							"Chief",
+							"Master",
+							"Pops"
+						]
+					},
+					{
+						"correct": "Hoo boy",
+						"difficulty": "Easy",
+						"explanation": "Sojiro's 'Hoo boy' is one of the most recognizable lines in the English dub.",
+						"question": "What is Sojiro's signature catchphrase that he often says when he's surprised or stressed?",
+						"wrong": [
+							"Good grief",
+							"Oh boy",
+							"Well then"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "His bright yellow apron is his standard work uniform in the cafe.",
+						"question": "What color is the apron Sojiro typically wears while working at Leblanc?",
+						"wrong": [
+							"Green",
+							"Brown",
+							"Red"
+						]
+					},
+					{
+						"correct": "Futaba Sakura",
+						"difficulty": "Easy",
+						"explanation": "He took Futaba in after her mother, his close friend Wakaba, passed away.",
+						"question": "Who is Sojiro's adopted daughter, whom he is fiercely protective of?",
+						"wrong": [
+							"Makoto Niijima",
+							"Ann Takamaki",
+							"Sae Niijima"
+						]
+					},
+					{
+						"correct": "The Hierophant",
+						"difficulty": "Easy",
+						"explanation": "The Hierophant represents tradition, guidance, and a fatherly mentor figure.",
+						"question": "Which Arcana does Sojiro Sakura represent in his Confidant relationship?",
+						"wrong": [
+							"The Hermit",
+							"The Hanged Man",
+							"The Emperor"
+						]
+					},
+					{
+						"correct": "Government Official",
+						"difficulty": "Medium",
+						"explanation": "Sojiro worked in the government, which is how he met the cognitive researcher Wakaba Isshiki.",
+						"question": "What was Sojiro's profession before he opened Cafe Leblanc?",
+						"wrong": [
+							"Chef",
+							"Police Officer",
+							"Salaryman"
+						]
+					},
+					{
+						"correct": "Charm",
+						"difficulty": "Medium",
+						"explanation": "Learning the sophisticated art of coffee brewing boosts Joker's Charm stat.",
+						"question": "What does Sojiro help Joker improve by teaching him how to brew coffee?",
+						"wrong": [
+							"Proficiency",
+							"Kindness",
+							"Knowledge"
+						]
+					},
+					{
+						"correct": "Coffee Beans",
+						"difficulty": "Medium",
+						"explanation": "Adding coffee to the curry is the 'Leblanc way' to deepen the flavor profile.",
+						"question": "Sojiro's curry recipe is famous for containing what secret 'hidden' ingredient type?",
+						"wrong": [
+							"Chocolate",
+							"Apples",
+							"Honey"
+						]
+					},
+					{
+						"correct": "Annoyed and suspicious",
+						"difficulty": "Medium",
+						"explanation": "Due to Joker's criminal record, Sojiro starts off very cold and sets strict rules.",
+						"question": "How does Sojiro initially feel about Joker staying at his cafe?",
+						"wrong": [
+							"Happy and welcoming",
+							"Indifferent",
+							"Scared"
+						]
+					},
+					{
+						"correct": "Wakaba Isshiki",
+						"difficulty": "Medium",
+						"explanation": "His love for Wakaba is why he dedicated his life to protecting Futaba.",
+						"question": "What is the name of the woman Sojiro was in love with, who was also Futaba's mother?",
+						"wrong": [
+							"Sae Niijima",
+							"Ichiko Ohya",
+							"Chihaya Mifune"
+						]
+					},
+					{
+						"correct": "Rank 10",
+						"difficulty": "Hard",
+						"explanation": "Sojiro actually discovers the truth earlier in the main plot, but his full support is solidified in the final rank.",
+						"question": "At what Confidant rank does Sojiro finally find out Joker is a Phantom Thief?",
+						"wrong": [
+							"Rank 5",
+							"Rank 1",
+							"Rank 8"
+						]
+					},
+					{
+						"correct": "Youji Isshiki",
+						"difficulty": "Hard",
+						"explanation": "Youji is Wakaba's brother who abused Futaba and later tried to sue Sojiro for custody.",
+						"question": "What is the name of Futaba's uncle who tries to extort money from Sojiro?",
+						"wrong": [
+							"Shinji Isshiki",
+							"Kenji Sakura",
+							"Taro Sakura"
+						]
+					},
+					{
+						"correct": "Fedora",
+						"difficulty": "Hard",
+						"explanation": "Sojiro has a very classic, dapper style, often pairing a fedora with his coat.",
+						"question": "Sojiro is often seen wearing what type of hat when he leaves the cafe?",
+						"wrong": [
+							"Beanie",
+							"Flat Cap",
+							"Panama Hat"
+						]
+					},
+					{
+						"correct": "Blue Mountain",
+						"difficulty": "Hard",
+						"explanation": "Sojiro speaks highly of Jamaican Blue Mountain coffee for its balanced flavor.",
+						"question": "What specific type of coffee bean does Sojiro consider the 'King of Beans'?",
+						"wrong": [
+							"Arabica",
+							"Robusta",
+							"Kona"
+						]
+					},
+					{
+						"correct": "A Recipe Note",
+						"difficulty": "Hard",
+						"explanation": "He gives Joker a note with the secret curry recipe, symbolizing that he is now family.",
+						"question": "What does Sojiro give Joker as a parting gift on his final day in Tokyo?",
+						"wrong": [
+							"A Coffee Grinder",
+							"His Apron",
+							"A Suitcase"
+						]
+					}
+				]
+			},
+			"id": "persona_5_sojiro_sakura",
+			"meta": {
+				"date_added": "2026-03-09",
+				"entity_category": "Theme Item",
+				"full_title": "Sojiro Sakura",
+				"lore_desc": "The owner of Cafe Leblanc and Joker's guardian who hides a past in government intelligence.",
+				"theme_origin": "persona 5",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Confidant",
+					"Guardian",
+					"Chef"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -37628,6 +40620,112 @@
 						"Villager"
 					],
 					"name": "F.L.U.D.D. & Hose"
+				}
+			]
+		},
+		{
+			"id": "persona 5",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Joker",
+						"Ryuji Sakamoto",
+						"Morgana"
+					],
+					"name": "The Founding Thieves"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Joker",
+						"Ryuji Sakamoto",
+						"Sojiro Sakura"
+					],
+					"name": "Café Leblanc Residents"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Joker",
+						"Arsene",
+						"Igor"
+					],
+					"name": "The Trickster's Fate"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Joker",
+						"Ryuji Sakamoto",
+						"Shujin Academy"
+					],
+					"name": "Shujin Outcasts"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Sojiro Sakura",
+						"Futaba Sakura",
+						"Leblanc"
+					],
+					"name": "The Sakura Family"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Joker",
+						"Arsene"
+					],
+					"name": "I Am Thou..."
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Joker",
+						"Goro Akechi"
+					],
+					"name": "Two Sides of the Same Coin"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Makoto Niijima",
+						"Sae Niijima"
+					],
+					"name": "Sisters of Justice"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Yusuke Kitagawa",
+						"Ann Takamaki"
+					],
+					"name": "The Artist & His Muse"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Morgana",
+						"Mementos"
+					],
+					"name": "The Morgana Car"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Morgana",
+						"Futaba Sakura"
+					],
+					"name": "Phantom Navigators"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Morgana",
+						"Haru Okumura"
+					],
+					"name": "Beauty Thief"
 				}
 			]
 		}

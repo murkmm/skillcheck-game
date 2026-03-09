@@ -1,5 +1,5 @@
 {
-	"last_updated": 1772996869,
+	"last_updated": 1773099132,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1878,6 +1878,49 @@
 				"fallout_3_abraham_washington",
 				"fallout_3_eden",
 				"fallout_3_star_paladin_cross"
+			]
+		},
+		"2026-03-10": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Persona 5: Shujin Academy Midterms ",
+			"share_text": "Looking cool, Joker!",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"persona_5_joker",
+				"persona_5_morgana",
+				"persona_5_shujin_academy"
+			],
+			"starters": [
+				"persona_5_joker",
+				"persona_5_morgana",
+				"persona_5_ryuji_sakamoto",
+				"persona_5_ann_takamaki",
+				"persona_5_yusuke_kitagawa",
+				"persona_5_makoto_niijima",
+				"persona_5_futaba_sakura",
+				"persona_5_haru_okumura",
+				"persona_5_goro_akechi",
+				"persona_5_arsene",
+				"persona_5_igor",
+				"persona_5_leblanc",
+				"persona_5_shujin_academy",
+				"persona_5_mementos",
+				"persona_5_sae_niijima",
+				"persona_5_sojiro_sakura"
 			]
 		}
 	}
