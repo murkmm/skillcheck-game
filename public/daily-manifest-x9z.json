@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773099132,
+	"last_updated": 1773183096,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1921,6 +1921,50 @@
 				"persona_5_mementos",
 				"persona_5_sae_niijima",
 				"persona_5_sojiro_sakura"
+			]
+		},
+		"2026-03-11": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "The Witcher 3: Trivia Hunt",
+			"share_text": "Evil is evil. Lesser, greater, middling, makes no difference",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"the_witcher_3_wild_hunt_geralt_of_rivia",
+				"the_witcher_3_wild_hunt_yennefer_of_vengerberg",
+				"the_witcher_3_wild_hunt_triss_merigold"
+			],
+			"starters": [
+				"the_witcher_3_wild_hunt_geralt_of_rivia",
+				"the_witcher_3_wild_hunt_cirilla_fiona_elen_riannon",
+				"the_witcher_3_wild_hunt_yennefer_of_vengerberg",
+				"the_witcher_3_wild_hunt_triss_merigold",
+				"the_witcher_3_wild_hunt_vesemir",
+				"the_witcher_3_wild_hunt_dandelion",
+				"the_witcher_3_wild_hunt_eredin_bréacc_glas",
+				"the_witcher_3_wild_hunt_gaunter_o'dimm",
+				"the_witcher_3_wild_hunt_the_bloody_baron",
+				"the_witcher_3_wild_hunt_roach",
+				"the_witcher_3_wild_hunt_kaer_morhen",
+				"the_witcher_3_wild_hunt_novigrad",
+				"the_witcher_3_wild_hunt_gwent",
+				"the_witcher_3_wild_hunt_aerondight",
+				"the_witcher_3_wild_hunt_leshen",
+				"the_witcher_3_wild_hunt_the_skellige_isles",
+				"the_witcher_3_wild_hunt_igni"
 			]
 		}
 	}
