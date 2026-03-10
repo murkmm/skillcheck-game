@@ -39230,6 +39230,3185 @@
 					"Chef"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The White Wolf",
+						"difficulty": "Easy",
+						"explanation": "Geralt gained his snowy white hair from the intense experimental mutations he underwent during his training at Kaer Morhen.",
+						"question": "What is the common moniker Geralt is known by due to his hair color and school?",
+						"wrong": [
+							"The Pale Rider",
+							"The Silver Fox",
+							"The Grey Ghost"
+						]
+					},
+					{
+						"correct": "School of the Wolf",
+						"difficulty": "Easy",
+						"explanation": "The School of the Wolf is based in the mountain fortress of Kaer Morhen and is known for its balanced combat style.",
+						"question": "Which Witcher School does Geralt belong to, symbolized by the medallion he wears?",
+						"wrong": [
+							"School of the Cat",
+							"School of the Griffin",
+							"School of the Viper"
+						]
+					},
+					{
+						"correct": "Dandelion",
+						"difficulty": "Easy",
+						"explanation": "Dandelion, also known as Julian Alfred Pankratz, Viscount de Lettenhove, chronicles Geralt's adventures (with much exaggeration).",
+						"question": "Who is Geralt's best friend and a famous traveling bard?",
+						"wrong": [
+							"Zoltan",
+							"Eskel",
+							"Lambert"
+						]
+					},
+					{
+						"correct": "Silver",
+						"difficulty": "Easy",
+						"explanation": "As the saying goes, silver is for monsters, while steel is for humans and beasts.",
+						"question": "What kind of sword does Geralt primarily use to fight supernatural monsters?",
+						"wrong": [
+							"Steel",
+							"Meteorite",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Trial of the Grasses",
+						"difficulty": "Easy",
+						"explanation": "Only about three out of ten children survive the grueling Trial of the Grasses, which uses secret alchemical formulas to alter their physiology.",
+						"question": "What is the name of the mutation process that children undergo to become Witchers?",
+						"wrong": [
+							"The Cleansing",
+							"The Rite of Passage",
+							"The Mutagenesis"
+						]
+					},
+					{
+						"correct": "The Butcher of Blaviken",
+						"difficulty": "Medium",
+						"explanation": "Geralt was forced to kill a group of mercenaries in the streets of Blaviken to prevent a massacre, though the public saw him as a cold-blooded killer.",
+						"question": "Geralt earned a grim nickname after a violent incident in a specific town. What is it?",
+						"wrong": [
+							"The Scourge of Vizima",
+							"The Beast of Beauclair",
+							"The Slayer of Oxenfurt"
+						]
+					},
+					{
+						"correct": "Unknown",
+						"difficulty": "Medium",
+						"explanation": "Geralt chose the name 'of Rivia' and even adopted a Rivian accent on Vesemir's advice to sound more trustworthy to potential clients.",
+						"question": "Though he calls himself 'of Rivia', where was Geralt actually born?",
+						"wrong": [
+							"Cintra",
+							"Rivia",
+							"Temeria"
+						]
+					},
+					{
+						"correct": "Visenna",
+						"difficulty": "Medium",
+						"explanation": "Visenna was a druid and sorceress who left Geralt at Kaer Morhen when he was a young boy.",
+						"question": "Who is Geralt's biological mother, a sorceress he meets briefly in his life?",
+						"wrong": [
+							"Tissaia",
+							"Lydia",
+							"Philippa"
+						]
+					},
+					{
+						"correct": "Law of Surprise",
+						"difficulty": "Medium",
+						"explanation": "The Law of Surprise dictates that a man saved by another must give his savior 'that which you find at home yet did not expect'.",
+						"question": "What is the name of the Law that bound Ciri to Geralt as his 'destiny'?",
+						"wrong": [
+							"Law of Hospitality",
+							"Law of the Land",
+							"Law of First Blood"
+						]
+					},
+					{
+						"correct": "Aard",
+						"difficulty": "Medium",
+						"explanation": "Aard is a simple psychokinetic thrust used to break through walls or stun opponents in combat.",
+						"question": "Which of these Witcher Signs creates a kinetic blast to knock back enemies?",
+						"wrong": [
+							"Igni",
+							"Quen",
+							"Yrden"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "Because he showed high resilience to the initial trials, Geralt was subjected to additional experiments, which resulted in his hair losing all pigment.",
+						"question": "How many extra experimental mutations did Geralt undergo compared to standard Witchers?",
+						"wrong": [
+							"One",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "The Tourney of Knights",
+						"difficulty": "Hard",
+						"explanation": "Geralt can enter the tourney as Ravix of Fourhorn or Geralt of Rivia to win the favors of the Duchess.",
+						"question": "What was the name of the tournament in Toussaint where Geralt can compete under an alias?",
+						"wrong": [
+							"The Grand Melee",
+							"The Festival of Swords",
+							"The Ducal Games"
+						]
+					},
+					{
+						"correct": "Yrden",
+						"difficulty": "Hard",
+						"explanation": "Yrden is essential for fighting Noonwraiths and other incorporeal monsters, as it forces them into a physical form.",
+						"question": "Which Witcher Sign is Geralt using when he creates a magical trap on the ground to slow spirits?",
+						"wrong": [
+							"Axii",
+							"Quen",
+							"Igni"
+						]
+					},
+					{
+						"correct": "Anabelle",
+						"difficulty": "Hard",
+						"explanation": "Anabelle was a lord's daughter who died in a tower on Fyke Isle and became a Pesta (Plague Maiden).",
+						"question": "In the quest 'A Towerful of Mice', what is the name of the spirit Geralt must decide the fate of?",
+						"wrong": [
+							"Kiera",
+							"Iris",
+							"Marlene"
+						]
+					},
+					{
+						"correct": "Cat",
+						"difficulty": "Hard",
+						"explanation": "The Cat potion is a staple for cave exploration, though it makes the user extremely sensitive to bright light.",
+						"question": "What is the name of the potion that allows Geralt to see in total darkness but turns his eyes black?",
+						"wrong": [
+							"Owl",
+							"Wolf",
+							"Full Moon"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_geralt_of_rivia",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Geralt of Rivia",
+				"lore_desc": "A legendary monster hunter for hire, known as the White Wolf, who navigates a world of moral ambiguity to find his adopted daughter.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Witcher",
+					"Mutant"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ciri",
+						"difficulty": "Easy",
+						"explanation": "While her full name is long and royal, she is known simply as Ciri to her friends and mentors.",
+						"question": "What is Ciri's shorter, more common nickname?",
+						"wrong": [
+							"Cilla",
+							"Riannon",
+							"Fiona"
+						]
+					},
+					{
+						"correct": "Cintra",
+						"difficulty": "Easy",
+						"explanation": "Ciri is the granddaughter of Queen Calanthe, the 'Lioness of Cintra'.",
+						"question": "Ciri is the sole heir to which fallen kingdom?",
+						"wrong": [
+							"Redania",
+							"Aedirn",
+							"Temeria"
+						]
+					},
+					{
+						"correct": "Elder Blood",
+						"difficulty": "Easy",
+						"explanation": "Elder Blood (Hen Ichaer) is a powerful elven lineage that allows the user to manipulate time and space.",
+						"question": "What unique bloodline does Ciri possess that gives her world-altering powers?",
+						"wrong": [
+							"Dragon Blood",
+							"Royal Blood",
+							"Pure Blood"
+						]
+					},
+					{
+						"correct": "Geralt of Rivia",
+						"difficulty": "Easy",
+						"explanation": "Though Emhyr is her biological father, Ciri shares a deep familial bond with Geralt, who raised and trained her.",
+						"question": "Who does Ciri consider her adoptive father?",
+						"wrong": [
+							"Emhyr var Emreis",
+							"Vesemir",
+							"Dandelion"
+						]
+					},
+					{
+						"correct": "Zireael",
+						"difficulty": "Easy",
+						"explanation": "Zireael is the Gnomish word for 'Swallow', which is also Ciri's name in Elder Speech.",
+						"question": "What is the name of Ciri's custom-made Witcher sword?",
+						"wrong": [
+							"Aerondight",
+							"Black Unicorn",
+							"Winter's Blade"
+						]
+					},
+					{
+						"correct": "Kaer Morhen",
+						"difficulty": "Medium",
+						"explanation": "She was trained in the Witcher arts at Kaer Morhen, though she never underwent the mutations.",
+						"question": "Ciri spent a significant portion of her childhood training at which fortress?",
+						"wrong": [
+							"Cintra",
+							"Vizima",
+							"Oxenfurt"
+						]
+					},
+					{
+						"correct": "Emhyr var Emreis",
+						"difficulty": "Medium",
+						"explanation": "Emhyr, also known as the White Flame Dancing on the Graves of his Foes, spent years searching for his daughter to secure his empire.",
+						"question": "Who is Ciri's biological father and the Emperor of Nilfgaard?",
+						"wrong": [
+							"Radovid V",
+							"Foltest",
+							"Henselt"
+						]
+					},
+					{
+						"correct": "Ithlinne's Prophecy",
+						"difficulty": "Medium",
+						"explanation": "The prophecy foretells the end of the world via the White Frost and the role of the Child of Elder Blood.",
+						"question": "What is the name of the prophecy that predicts Ciri will save or destroy the world?",
+						"wrong": [
+							"The Elder Scroll",
+							"The White Frost",
+							"The Conjunction"
+						]
+					},
+					{
+						"correct": "Cat",
+						"difficulty": "Medium",
+						"explanation": "Ciri took a Cat School medallion from the bounty hunter Leo Bonhart after she defeated him.",
+						"question": "What animal is depicted on Ciri's favorite medallion?",
+						"wrong": [
+							"Wolf",
+							"Bird",
+							"Bear"
+						]
+					},
+					{
+						"correct": "Cyberpunk",
+						"difficulty": "Medium",
+						"explanation": "She describes people with 'metal in their heads' and flying ships, a clear nod to CD Projekt Red's other major franchise.",
+						"question": "During her travels between worlds, Ciri briefly describes a futuristic city. Which world is she likely referencing?",
+						"wrong": [
+							"The Continent",
+							"Mars",
+							"London"
+						]
+					},
+					{
+						"correct": "Duny",
+						"difficulty": "Hard",
+						"explanation": "Emhyr lived as Duny, the Urcheon of Erlenwald, before his curse was broken by Geralt.",
+						"question": "What was the alias used by Ciri's father when he was cursed to look like a hedgehog?",
+						"wrong": [
+							"Pavetta",
+							"Skjall",
+							"Hjalmar"
+						]
+					},
+					{
+						"correct": "The Rats",
+						"difficulty": "Hard",
+						"explanation": "The Rats were a gang of young misfits and criminals that Ciri joined while hiding from her pursuers.",
+						"question": "Ciri spent time with a group of outlaws in her youth known as what?",
+						"wrong": [
+							"The Scoia'tael",
+							"The Wild Hunt",
+							"The Blue Stripes"
+						]
+					},
+					{
+						"correct": "Avallac'h",
+						"difficulty": "Hard",
+						"explanation": "Avallac'h, also known as the Fox, is an Aen Elle elf who has a complicated obsession with the Elder Blood.",
+						"question": "What is the name of the elven Sage who mentors Ciri and helps her hide from the Wild Hunt?",
+						"wrong": [
+							"Eredin",
+							"Ge'els",
+							"Caranthir"
+						]
+					},
+					{
+						"correct": "A scar on her left cheek",
+						"difficulty": "Hard",
+						"explanation": "She was struck by an orion (a throwing star) thrown by Skellen, leaving a permanent mark across her face.",
+						"question": "Ciri has a distinct physical feature on her face caused by a wound from Stefan Skellen. What is it?",
+						"wrong": [
+							"A missing eye",
+							"A burned ear",
+							"A notched chin"
+						]
+					},
+					{
+						"correct": "Skjall",
+						"difficulty": "Hard",
+						"explanation": "Skjall was later cast out as a coward by his village, and Geralt must eventually clear his name.",
+						"question": "In the Skellige Isles, Ciri befriends a young man who helps her escape the Wild Hunt. What was his name?",
+						"wrong": [
+							"Hjalmar",
+							"Crach",
+							"Donar"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_cirilla_fiona_elen_riannon",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Cirilla Fiona Elen Riannon",
+				"lore_desc": "The Child of Prophecy and heir to the Cintran throne, she possesses the power to travel through space and time.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Royal",
+					"Elder Blood"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Lilac and Gooseberries",
+						"difficulty": "Easy",
+						"explanation": "The scent is so iconic that it became the title of the very first quest in the game.",
+						"question": "What is the signature scent that always follows Yennefer?",
+						"wrong": [
+							"Rose and Sandalwood",
+							"Lavender and Honey",
+							"Pine and Cedar"
+						]
+					},
+					{
+						"correct": "Violet",
+						"difficulty": "Easy",
+						"explanation": "Her striking violet eyes are one of her most defining and enchanting features.",
+						"question": "What is Yennefer's distinctive eye color?",
+						"wrong": [
+							"Emerald Green",
+							"Steely Grey",
+							"Deep Blue"
+						]
+					},
+					{
+						"correct": "Triss Merigold",
+						"difficulty": "Easy",
+						"explanation": "Triss and Yennefer are both close friends and powerful mages, creating a famous 'team' divide among fans.",
+						"question": "Which sorceress is Yennefer's primary rival for Geralt's affections?",
+						"wrong": [
+							"Keira Metz",
+							"Philippa Eilhart",
+							"Sheala de Tancarville"
+						]
+					},
+					{
+						"correct": "Adoptive Mother",
+						"difficulty": "Easy",
+						"explanation": "Yennefer loves Ciri as her own daughter and spent years teaching her how to control her magical abilities.",
+						"question": "What is Yennefer's relationship to Ciri?",
+						"wrong": [
+							"Aunt",
+							"Teacher",
+							"Sister"
+						]
+					},
+					{
+						"correct": "Black and White",
+						"difficulty": "Easy",
+						"explanation": "Yennefer is famous for her elegant black and white attire, which she rarely deviates from.",
+						"question": "What color of clothing does Yennefer strictly wear?",
+						"wrong": [
+							"Red and Gold",
+							"Blue and Silver",
+							"Green and Brown"
+						]
+					},
+					{
+						"correct": "The Lodge of Sorceresses",
+						"difficulty": "Medium",
+						"explanation": "Though she has a rocky relationship with them, she is an influential member of the Lodge.",
+						"question": "Yennefer is a member of which secret organization of female mages?",
+						"wrong": [
+							"The Brotherhood of Sorcerers",
+							"The Order of the Flaming Rose",
+							"The Circle of Magi"
+						]
+					},
+					{
+						"correct": "Hunchback",
+						"difficulty": "Medium",
+						"explanation": "Like many sorceresses, she was born with physical deformities that were cured through painful magical procedures at Aretuza.",
+						"question": "Before her magical transformation, Yennefer suffered from what physical condition?",
+						"wrong": [
+							"Blindness",
+							"Lameness",
+							"Deafness"
+						]
+					},
+					{
+						"correct": "Aretuza",
+						"difficulty": "Medium",
+						"explanation": "Aretuza is the premier academy for young women with magical talent, located on the island of Thanedd.",
+						"question": "Where did Yennefer receive her magical training?",
+						"wrong": [
+							"Ban Ard",
+							"Oxenfurt",
+							"Kaer Morhen"
+						]
+					},
+					{
+						"correct": "Portal",
+						"difficulty": "Medium",
+						"explanation": "Geralt notoriously hates Yennefer's portals because of the physical toll they take on him.",
+						"question": "What is the name of the magical creature Yennefer uses to travel quickly (and often dangerously)?",
+						"wrong": [
+							"Griffin",
+							"Wyvern",
+							"Pegasus"
+						]
+					},
+					{
+						"correct": "The Mask of Uroboros",
+						"difficulty": "Medium",
+						"explanation": "The mask allows the user to see into the past, but using it triggers a massive storm.",
+						"question": "In the Skellige Isles, Yennefer steals a sacred artifact to find Ciri. What is it?",
+						"wrong": [
+							"The Horn of Plenty",
+							"The Sunstone",
+							"The Pearl of the Deep"
+						]
+					},
+					{
+						"correct": "The Last Wish",
+						"difficulty": "Hard",
+						"explanation": "The quest references the original short story where Geralt used a wish to bind their fates together.",
+						"question": "What was the name of the djinn-related quest that determines the future of Geralt and Yennefer's romance?",
+						"wrong": [
+							"A Matter of Life and Death",
+							"Now or Never",
+							"Wish Upon a Star"
+						]
+					},
+					{
+						"correct": "Aedirn",
+						"difficulty": "Hard",
+						"explanation": "She was the long-time advisor to King Demavend of Aedirn.",
+						"question": "Which kingdom's king did Yennefer serve as an advisor to before the events of the game?",
+						"wrong": [
+							"Nilfgaard",
+							"Redania",
+							"Temeria"
+						]
+					},
+					{
+						"correct": "Unicorn",
+						"difficulty": "Hard",
+						"explanation": "The stuffed unicorn is a running joke and a site for one of the game's more famous romantic scenes.",
+						"question": "Yennefer has a stuffed animal in her room in Skellige that Geralt can interact with. What is it?",
+						"wrong": [
+							"Bear",
+							"Wolf",
+							"Horse"
+						]
+					},
+					{
+						"correct": "The Ritual of Sigrdrifa",
+						"difficulty": "Hard",
+						"explanation": "She uses the Garden of Freya to perform the ritual on the remains of Skjall.",
+						"question": "What is the name of the necromantic spell Yennefer uses on a corpse in Skellige to get information?",
+						"wrong": [
+							"The Black Breath",
+							"The Dead Man's Tongue",
+							"The Soul Bind"
+						]
+					},
+					{
+						"correct": "Yenna",
+						"difficulty": "Hard",
+						"explanation": "While 'Yen' is a nickname, her original name before her transformation was a simpler variation of her current name.",
+						"question": "What was Yennefer's birth name before she became a sorceress?",
+						"wrong": [
+							"Jennefer",
+							"Yannka",
+							"Yen"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_yennefer_of_vengerberg",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Yennefer of Vengerberg",
+				"lore_desc": "A powerful and talented sorceress known for her violet eyes, raven hair, and scent of lilac and gooseberries.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Mage",
+					"Hero",
+					"Love Interest"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Triss is easily recognized by her chestnut-red hair, which is described as her most striking feature.",
+						"question": "What color is Triss Merigold's famously vibrant hair?",
+						"wrong": [
+							"Black",
+							"Blonde",
+							"White"
+						]
+					},
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "She is known for her devastating fire spells and her role as a pyromancer.",
+						"question": "Triss is a master of which element in combat?",
+						"wrong": [
+							"Ice",
+							"Lightning",
+							"Earth"
+						]
+					},
+					{
+						"correct": "Novigrad",
+						"difficulty": "Easy",
+						"explanation": "She is hiding in Novigrad, leading an underground movement to save mages from the Witch Hunters.",
+						"question": "In which city does Triss live when Geralt first finds her in the main story?",
+						"wrong": [
+							"Vizima",
+							"Oxenfurt",
+							"Beauclair"
+						]
+					},
+					{
+						"correct": "Magical Potions",
+						"difficulty": "Easy",
+						"explanation": "Ironically, as a mage, Triss is allergic to magic and cannot take the very potions she brews for others.",
+						"question": "Triss is allergic to what specific type of substance?",
+						"wrong": [
+							"Silver",
+							"Flowers",
+							"Garlic"
+						]
+					},
+					{
+						"correct": "The Fourteenth of the Hill",
+						"difficulty": "Easy",
+						"explanation": "She was mistakenly thought to have died at the Battle of Sodden Hill, where thirteen other mages perished.",
+						"question": "What is Triss's nickname based on her role in a major historical battle?",
+						"wrong": [
+							"The Flame of Sodden",
+							"The Red Sorceress",
+							"The Lady of Merigold"
+						]
+					},
+					{
+						"correct": "King Foltest",
+						"difficulty": "Medium",
+						"explanation": "Triss served as the royal advisor to King Foltest of Temeria for many years.",
+						"question": "Who was Triss a close friend and advisor to in the Kingdom of Temeria?",
+						"wrong": [
+							"King Radovid",
+							"King Henselt",
+							"King Demavend"
+						]
+					},
+					{
+						"correct": "A Matter of Life and Death",
+						"difficulty": "Medium",
+						"explanation": "Geralt and Triss attend the Vegelbud estate ball to help smuggle a young alchemist out of the city.",
+						"question": "What is the name of the quest where Geralt can attend a masquerade ball with Triss?",
+						"wrong": [
+							"Now or Never",
+							"The Vegelbud Gala",
+							"The Last Wish"
+						]
+					},
+					{
+						"correct": "A Sapphire",
+						"difficulty": "Medium",
+						"explanation": "While Yennefer wears the obsidian star, Triss is often associated with her sapphire jewelry.",
+						"question": "What kind of pendant does Triss traditionally wear?",
+						"wrong": [
+							"An Obsidian Star",
+							"A Wolf Medallion",
+							"A Golden Sun"
+						]
+					},
+					{
+						"correct": "Caleb Menge",
+						"difficulty": "Medium",
+						"explanation": "Menge is the ruthless commander of the Eternal Fire's Witch Hunters.",
+						"question": "In Novigrad, who is the leader of the Witch Hunters that Triss and Geralt must deal with?",
+						"wrong": [
+							"Whoreson Junior",
+							"Sigismund Dijkstra",
+							"Hierarch Hemmelfart"
+						]
+					},
+					{
+						"correct": "The Mage Underground",
+						"difficulty": "Medium",
+						"explanation": "Triss dedicated herself to smuggling mages and alchemists out of the city to the safety of Kovir.",
+						"question": "What was the name of the underground network Triss helped organize in Novigrad?",
+						"wrong": [
+							"The Scoia'tael",
+							"The Lodge",
+							"The Rats"
+						]
+					},
+					{
+						"correct": "Battle of Sodden Hill",
+						"difficulty": "Hard",
+						"explanation": "She was so badly burned and disfigured that she was only identified by her hair color.",
+						"question": "Triss sustained severe scarring during which battle?",
+						"wrong": [
+							"Battle of Brenna",
+							"Siege of Cintra",
+							"Battle of Kaer Morhen"
+						]
+					},
+					{
+						"correct": "Philippa Eilhart",
+						"difficulty": "Hard",
+						"explanation": "Philippa was a founding member of the Lodge and a mentor to Triss, though their relationship became strained.",
+						"question": "What is the name of the sorceress who was Triss's mentor and 'big sister' figure?",
+						"wrong": [
+							"Yennefer",
+							"Keira Metz",
+							"Margarita Laux-Antille"
+						]
+					},
+					{
+						"correct": "Kovir",
+						"difficulty": "Hard",
+						"explanation": "She is offered a position as an advisor to the King of Kovir and Poviss.",
+						"question": "What kingdom does Triss plan to move to after leaving Novigrad?",
+						"wrong": [
+							"Nilfgaard",
+							"Lyria",
+							"Skellige"
+						]
+					},
+					{
+						"correct": "A magical light",
+						"difficulty": "Hard",
+						"explanation": "She uses her magic to illuminate the path and protect the mages from the monsters lurking below.",
+						"question": "In the quest 'Now or Never', what does Triss use to lead the mages through the sewers?",
+						"wrong": [
+							"A map",
+							"A torch",
+							"A compass"
+						]
+					},
+					{
+						"correct": "Mousesack",
+						"difficulty": "Hard",
+						"explanation": "While she uses many herbs, she specifically mentions the properties of magical incense for tracking.",
+						"question": "Which plant does Triss use to create a special incense for a ritual in the game?",
+						"wrong": [
+							"Arenaria",
+							"Wolfsbane",
+							"Hellebore"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_triss_merigold",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Triss Merigold",
+				"lore_desc": "The 'Fourteenth of the Hill', a compassionate sorceress known for her fiery red hair and mastery of pyromancy.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Mage",
+					"Hero",
+					"Love Interest"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "School of the Wolf",
+						"difficulty": "Easy",
+						"explanation": "He is the mentor and leader of the remaining Wolf School Witchers.",
+						"question": "Vesemir is the oldest living member of which Witcher school?",
+						"wrong": [
+							"School of the Cat",
+							"School of the Bear",
+							"School of the Griffin"
+						]
+					},
+					{
+						"correct": "Kaer Morhen",
+						"difficulty": "Easy",
+						"explanation": "Kaer Morhen has been the home of the Wolf School for centuries.",
+						"question": "In which mountain fortress does Vesemir reside?",
+						"wrong": [
+							"Kaer Trolde",
+							"The Bastion",
+							"Vizima"
+						]
+					},
+					{
+						"correct": "Mentor",
+						"difficulty": "Easy",
+						"explanation": "Vesemir taught Geralt and the others everything they know about monster hunting.",
+						"question": "What is Vesemir's primary role to Geralt and the other Witchers?",
+						"wrong": [
+							"King",
+							"Blacksmith",
+							"Enemy"
+						]
+					},
+					{
+						"correct": "Ciri",
+						"difficulty": "Easy",
+						"explanation": "His sacrifice at the Battle of Kaer Morhen is one of the most emotional moments in the game.",
+						"question": "Vesemir dies defending which character from the Wild Hunt?",
+						"wrong": [
+							"Geralt",
+							"Yennefer",
+							"Triss"
+						]
+					},
+					{
+						"correct": "Sword",
+						"difficulty": "Easy",
+						"explanation": "Like all Witchers, he is a master of the silver and steel blades.",
+						"question": "What is Vesemir's signature weapon?",
+						"wrong": [
+							"Axe",
+							"Crossbow",
+							"Staff"
+						]
+					},
+					{
+						"correct": "Imlerith",
+						"difficulty": "Medium",
+						"explanation": "Imlerith snaps Vesemir's neck during the assault on Kaer Morhen.",
+						"question": "Which member of the Wild Hunt is responsible for Vesemir's death?",
+						"wrong": [
+							"Eredin",
+							"Caranthir",
+							"Nithral"
+						]
+					},
+					{
+						"correct": "Oxenfurt",
+						"difficulty": "Medium",
+						"explanation": "Geralt meets her during an auction in the 'Hearts of Stone' expansion.",
+						"question": "Vesemir once had a romantic encounter with an older noblewoman named Countess Mignole. In which city can Geralt meet her?",
+						"wrong": [
+							"Novigrad",
+							"Beauclair",
+							"Vizima"
+						]
+					},
+					{
+						"correct": "Fencing Instructor",
+						"difficulty": "Medium",
+						"explanation": "He was the swordmaster, which is why he survived the massacre—he wasn't in the labs.",
+						"question": "What was Vesemir's specific role at Kaer Morhen before the fortress was attacked years ago?",
+						"wrong": [
+							"Alchemist",
+							"Gatekeeper",
+							"Grandmaster"
+						]
+					},
+					{
+						"correct": "Griffin",
+						"difficulty": "Medium",
+						"explanation": "The Royal Griffin of White Orchard is the first major boss Geralt and Vesemir tackle together.",
+						"question": "In the game's prologue, what monster are Vesemir and Geralt hunting together?",
+						"wrong": [
+							"Ghouls",
+							"Leshen",
+							"Wyvern"
+						]
+					},
+					{
+						"correct": "Wolf School Armor",
+						"difficulty": "Medium",
+						"explanation": "His classic Witcher gear represents the traditional look of the Wolf School.",
+						"question": "What does Vesemir wear during the Battle of Kaer Morhen that Geralt can later obtain?",
+						"wrong": [
+							"A wide-brimmed hat",
+							"A red cape",
+							"A golden belt"
+						]
+					},
+					{
+						"correct": "The Trial of the Grasses",
+						"difficulty": "Hard",
+						"explanation": "While he knows the procedure, he doesn't have the alchemical knowledge to perform it without a mage.",
+						"question": "Vesemir is the only Witcher left who knows the secret of what?",
+						"wrong": [
+							"The location of Ciri",
+							"The Elder Blood",
+							"The King of the Wild Hunt"
+						]
+					},
+					{
+						"correct": "Over 200",
+						"difficulty": "Hard",
+						"explanation": "Vesemir is ancient, predating the construction of many of the Continent's current kingdoms.",
+						"question": "How many years roughly has Vesemir been a Witcher?",
+						"wrong": [
+							"50",
+							"100",
+							"500"
+						]
+					},
+					{
+						"correct": "Mignole",
+						"difficulty": "Hard",
+						"explanation": "Countess Mignole has collected Witcher gear for years in memory of her brief time with Vesemir.",
+						"question": "What is the name of the woman Vesemir loved, who Geralt meets at an auction?",
+						"wrong": [
+							"Adda",
+							"Anabelle",
+							"Iris"
+						]
+					},
+					{
+						"correct": "Lambert",
+						"difficulty": "Hard",
+						"explanation": "Lambert often complains about Vesemir's old-fashioned and harsh training methods.",
+						"question": "In the quest 'The Final Trial', which Witcher mentions that Vesemir used to be very strict about training?",
+						"wrong": [
+							"Eskel",
+							"Geralt",
+							"Gaetan"
+						]
+					},
+					{
+						"correct": "She takes it",
+						"difficulty": "Hard",
+						"explanation": "Ciri claims Vesemir's Wolf medallion as a way to honor her fallen mentor.",
+						"question": "What does Ciri do with Vesemir's medallion after he passes away?",
+						"wrong": [
+							"She buries it",
+							"She gives it to Geralt",
+							"She burns it"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_vesemir",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Vesemir",
+				"lore_desc": "The oldest and most experienced Witcher of the School of the Wolf, who serves as a father figure to Geralt and Ciri.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Witcher",
+					"Mentor",
+					"Hero"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Bard",
+						"difficulty": "Easy",
+						"explanation": "He is the most famous poet and singer on the Continent.",
+						"question": "What is Dandelion's primary profession?",
+						"wrong": [
+							"Soldier",
+							"Merchant",
+							"Spy"
+						]
+					},
+					{
+						"correct": "Rosemary and Thyme",
+						"difficulty": "Easy",
+						"explanation": "He later renames it 'The Chameleon' after Geralt helps him renovate it.",
+						"question": "What is the name of the tavern Dandelion opens in Novigrad?",
+						"wrong": [
+							"The Kingfisher",
+							"The Golden Sturgeon",
+							"The Seven Cats"
+						]
+					},
+					{
+						"correct": "Julian Alfred Pankratz",
+						"difficulty": "Easy",
+						"explanation": "He is actually a Viscount by birth, though he rarely uses his title.",
+						"question": "What is Dandelion's real, noble name?",
+						"wrong": [
+							"Caleb Menge",
+							"Philip Strenger",
+							"Emiel Regis"
+						]
+					},
+					{
+						"correct": "Half a Century of Poetry",
+						"difficulty": "Easy",
+						"explanation": "His memoirs serve as the loading screen narrations in the game.",
+						"question": "Dandelion is famous for writing a collection of stories about Geralt. What is it called?",
+						"wrong": [
+							"The Witcher's Journal",
+							"The White Wolf Sagas",
+							"Songs of the North"
+						]
+					},
+					{
+						"correct": "Lute",
+						"difficulty": "Easy",
+						"explanation": "His lute is his most prized possession, often used to woo audiences and ladies alike.",
+						"question": "What instrument is Dandelion most famous for playing?",
+						"wrong": [
+							"Harp",
+							"Flute",
+							"Fiddle"
+						]
+					},
+					{
+						"correct": "Sigi Dijkstra",
+						"difficulty": "Medium",
+						"explanation": "Dandelion attempted to steal Dijkstra's treasure to fund his new cabaret.",
+						"question": "In Novigrad, Geralt finds out Dandelion was trying to rob whose vault?",
+						"wrong": [
+							"The Bloody Baron",
+							"The King of Beggars",
+							"Whoreson Junior"
+						]
+					},
+					{
+						"correct": "Purple",
+						"difficulty": "Medium",
+						"explanation": "He is almost always seen wearing his feathered purple bonnet.",
+						"question": "What color is Dandelion's signature flamboyant hat?",
+						"wrong": [
+							"Red",
+							"Yellow",
+							"Green"
+						]
+					},
+					{
+						"correct": "Temple Isle",
+						"difficulty": "Medium",
+						"explanation": "He was held by the Witch Hunters on Temple Isle in Novigrad.",
+						"question": "Dandelion was imprisoned in which location before Geralt rescued him?",
+						"wrong": [
+							"The Bastion",
+							"Deireadh Prison",
+							"Kaer Morhen"
+						]
+					},
+					{
+						"correct": "Priscilla",
+						"difficulty": "Medium",
+						"explanation": "Priscilla, also known as Callonetta, is a brilliant performer who captures Dandelion's heart.",
+						"question": "Who is the talented female bard and Dandelion's love interest in Novigrad?",
+						"wrong": [
+							"Keira",
+							"Ciri",
+							"Shani"
+						]
+					},
+					{
+						"correct": "A lizard",
+						"difficulty": "Medium",
+						"explanation": "The name reflects Dandelion's own adaptable and colorful personality.",
+						"question": "What animal does Dandelion's tavern 'The Chameleon' get its new name from?",
+						"wrong": [
+							"A bird",
+							"A wolf",
+							"A cat"
+						]
+					},
+					{
+						"correct": "Stage a fake fight",
+						"difficulty": "Hard",
+						"explanation": "Dandelion wants Geralt to pretend to be a villain so Dandelion can 'rescue' a lady and gain fame.",
+						"question": "In the quest 'Cabaret', what does Dandelion ask Geralt to do to help promote the tavern?",
+						"wrong": [
+							"Kill a monster",
+							"Write a poem",
+							"Borrow money"
+						]
+					},
+					{
+						"correct": "Master of Liberal Arts",
+						"difficulty": "Hard",
+						"explanation": "He is an alumnus and occasionally a guest lecturer at Oxenfurt University.",
+						"question": "What is Dandelion's title as the head of a certain university's department?",
+						"wrong": [
+							"Dean of History",
+							"Professor of Music",
+							"Rector Magnificus"
+						]
+					},
+					{
+						"correct": "The King of Beggars",
+						"difficulty": "Hard",
+						"explanation": "Dandelion used his connections to help Ciri hide from the Temple Guard.",
+						"question": "Who is the crime lord Dandelion was secretly working with to help Ciri?",
+						"wrong": [
+							"Whoreson Junior",
+							"Cleaver",
+							"Dijkstra"
+						]
+					},
+					{
+						"correct": "Anna Henrietta",
+						"difficulty": "Hard",
+						"explanation": "Technically, Anna Henrietta is a Duchess, but Dandelion's history in Toussaint is legendary.",
+						"question": "Which sorceress did Dandelion once have a brief, disastrous affair with?",
+						"wrong": [
+							"Yennefer",
+							"Triss",
+							"Philippa"
+						]
+					},
+					{
+						"correct": "The Wolven Storm",
+						"difficulty": "Hard",
+						"explanation": "Actually, Priscilla writes 'The Wolven Storm' about Geralt and Yennefer, which Dandelion deeply admires.",
+						"question": "What is the name of the poem Dandelion writes for Priscilla?",
+						"wrong": [
+							"The White Wolf",
+							"The Lilac Scent",
+							"The Swallow's Flight"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_dandelion",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Dandelion",
+				"lore_desc": "A world-famous bard, poet, and Geralt's best friend, known for his flamboyant outfits and constant trouble with women.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Companion",
+					"Bard"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Wild Hunt",
+						"difficulty": "Easy",
+						"explanation": "Known as the Dearg Ruadhri in their own tongue, they appear as omens of war and death.",
+						"question": "Eredin is the leader of which terrifying group of spectral riders?",
+						"wrong": [
+							"The Black Riders",
+							"The Ghost Guard",
+							"The Night Wraiths"
+						]
+					},
+					{
+						"correct": "Elf",
+						"difficulty": "Easy",
+						"explanation": "He is an Aen Elle, or 'People of the Alders', from another world.",
+						"question": "What is Eredin's race?",
+						"wrong": [
+							"Human",
+							"Vampire",
+							"Demon"
+						]
+					},
+					{
+						"correct": "Capturing Ciri",
+						"difficulty": "Easy",
+						"explanation": "He needs Ciri's Elder Blood to open a portal large enough to move his entire army to Geralt's world.",
+						"question": "What is Eredin's main goal throughout the game?",
+						"wrong": [
+							"Killing Geralt",
+							"Conquering Novigrad",
+							"Finding the Grail"
+						]
+					},
+					{
+						"correct": "A skull",
+						"difficulty": "Easy",
+						"explanation": "His armor is designed to look skeletal and intimidating to strike fear into his victims.",
+						"question": "What does Eredin's helmet resemble?",
+						"wrong": [
+							"A wolf",
+							"A dragon",
+							"A crown"
+						]
+					},
+					{
+						"correct": "Naglfar",
+						"difficulty": "Easy",
+						"explanation": "The Naglfar is a ship made of the claws of the dead, originating from Norse mythology.",
+						"question": "What is the name of Eredin's flagship?",
+						"wrong": [
+							"The Flying Dutchman",
+							"The Black Pearl",
+							"The Wraith"
+						]
+					},
+					{
+						"correct": "He poisoned the previous king",
+						"difficulty": "Medium",
+						"explanation": "Eredin murdered King Auberon Muircetach to seize the throne for himself.",
+						"question": "How did Eredin become the King of the Aen Elle?",
+						"wrong": [
+							"He was elected",
+							"He was the firstborn",
+							"He won a duel"
+						]
+					},
+					{
+						"correct": "Tir na Lia",
+						"difficulty": "Medium",
+						"explanation": "Tir na Lia is the capital of the world inhabited by the Aen Elle.",
+						"question": "Which world do Eredin and the Aen Elle elves come from?",
+						"wrong": [
+							"Aretuza",
+							"The Continent",
+							"Ofir"
+						]
+					},
+					{
+						"correct": "Imlerith",
+						"difficulty": "Medium",
+						"explanation": "Imlerith is the brutal warrior Geralt fights on Bald Mountain.",
+						"question": "Who is Eredin's top general, known for his massive mace?",
+						"wrong": [
+							"Caranthir",
+							"Nithral",
+							"Ge'els"
+						]
+					},
+					{
+						"correct": "Caranthir",
+						"difficulty": "Medium",
+						"explanation": "Caranthir Ar-Feiniel was a student of Avallac'h before joining Eredin.",
+						"question": "Who is the navigator of the Wild Hunt who can manipulate space and time?",
+						"wrong": [
+							"Nithral",
+							"Eredin",
+							"Ge'els"
+						]
+					},
+					{
+						"correct": "Dearg Ruadhri",
+						"difficulty": "Medium",
+						"explanation": "It translates to 'Red Riders', referring to the color of their armor.",
+						"question": "What is the true name of the Wild Hunt in their own elven language?",
+						"wrong": [
+							"Hen Ichaer",
+							"Aen Seidhe",
+							"Dh'oine"
+						]
+					},
+					{
+						"correct": "The Red Riders",
+						"difficulty": "Hard",
+						"explanation": "He commanded the Red Riders, who were tasked with raiding other worlds for slaves.",
+						"question": "Eredin was once the leader of which elite military unit before becoming King?",
+						"wrong": [
+							"The Blue Stripes",
+							"The Iron Guard",
+							"The Silver Host"
+						]
+					},
+					{
+						"correct": "Ge'els",
+						"difficulty": "Hard",
+						"explanation": "Ge'els agrees to stop sending reinforcements to Eredin once he learns Eredin murdered the previous king.",
+						"question": "Who is the viceroy and painter in Tir na Lia that Geralt and Avallac'h visit to turn against Eredin?",
+						"wrong": [
+							"Caranthir",
+							"Imlerith",
+							"Auberon"
+						]
+					},
+					{
+						"correct": "Undvik",
+						"difficulty": "Hard",
+						"explanation": "The final battle takes place on the shores of Undvik in the Skellige Isles.",
+						"question": "What is the final location where Geralt duels Eredin?",
+						"wrong": [
+							"Kaer Morhen",
+							"Novigrad",
+							"Bald Mountain"
+						]
+					},
+					{
+						"correct": "Avallac'h tricked us both",
+						"difficulty": "Hard",
+						"explanation": "His final words are an attempt to plant doubt in Geralt's mind about their elven ally.",
+						"question": "What does Eredin whisper to Geralt just before he dies?",
+						"wrong": [
+							"Ciri is lost",
+							"The Frost is coming",
+							"I will return"
+						]
+					},
+					{
+						"correct": "Turning into a wolf",
+						"difficulty": "Hard",
+						"explanation": "Eredin uses magic and swordsmanship, but he is not a shapeshifter.",
+						"question": "Which of these is NOT a power Eredin displays during his boss fight?",
+						"wrong": [
+							"Teleportation",
+							"Ice blasts",
+							"Opening portals"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_eredin_bréacc_glas",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Eredin Bréacc Glas",
+				"lore_desc": "The King of the Wild Hunt and leader of the Aen Elle elves, who relentlessly pursues Ciri to harness her power.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Wild Hunt",
+					"Elf"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Master Mirror",
+						"difficulty": "Easy",
+						"explanation": "He is also known as the Man of Glass, reflecting his association with mirrors and contracts.",
+						"question": "What is Gaunter O'Dimm's common nickname?",
+						"wrong": [
+							"The Glass Man",
+							"The Shadow King",
+							"The Soul Eater"
+						]
+					},
+					{
+						"correct": "His god-like powers",
+						"difficulty": "Easy",
+						"explanation": "The initials are a subtle nod by the developers to his near-infinite power over time and reality.",
+						"question": "What does O'Dimm's initials (G.O.D.) likely hint at?",
+						"wrong": [
+							"His birthplace",
+							"His real name",
+							"Nothing"
+						]
+					},
+					{
+						"correct": "Hearts of Stone",
+						"difficulty": "Easy",
+						"explanation": "He is the central figure of the first expansion, where he holds Olgierd von Everec's soul.",
+						"question": "In which expansion pack is Gaunter O'Dimm the primary antagonist?",
+						"wrong": [
+							"Blood and Wine",
+							"Wild Hunt",
+							"The White Frost"
+						]
+					},
+					{
+						"correct": "Stops time and sticks a spoon in his eye",
+						"difficulty": "Easy",
+						"explanation": "This chilling scene demonstrates O'Dimm's absolute control over time and his casual cruelty.",
+						"question": "What does O'Dimm do to a man in a tavern who interrupts his conversation with Geralt?",
+						"wrong": [
+							"Turns him into a frog",
+							"Makes him vanish",
+							"Freezes him forever"
+						]
+					},
+					{
+						"correct": "Apples",
+						"difficulty": "Easy",
+						"explanation": "He is frequently seen calmly munching on a red apple while chaos unfolds around him.",
+						"question": "What is O'Dimm's favorite food to snack on while waiting?",
+						"wrong": [
+							"Bread",
+							"Grapes",
+							"Meat"
+						]
+					},
+					{
+						"correct": "White Orchard Tavern",
+						"difficulty": "Medium",
+						"explanation": "He appears as a seemingly helpful traveler who knows suspiciously much about Yennefer.",
+						"question": "Where does Geralt first meet Gaunter O'Dimm at the very start of the game?",
+						"wrong": [
+							"Novigrad Docks",
+							"Kaer Morhen",
+							"Vizima Palace"
+						]
+					},
+					{
+						"correct": "A brand on his cheek",
+						"difficulty": "Medium",
+						"explanation": "The brand serves as a constant reminder of the debt Geralt owes him.",
+						"question": "What kind of mark does O'Dimm place on Geralt's face to ensure he completes his task?",
+						"wrong": [
+							"A tattoo on his neck",
+							"A scar on his forehead",
+							"A glowing rune"
+						]
+					},
+					{
+						"correct": "The Moon",
+						"difficulty": "Medium",
+						"explanation": "The contract specified they must meet on the moon, which Olgierd thought was impossible until O'Dimm found a loophole.",
+						"question": "What must Olgierd von Everec be standing on for O'Dimm to finally collect his soul?",
+						"wrong": [
+							"A crossroads",
+							"A grave",
+							"A mountain top"
+						]
+					},
+					{
+						"correct": "Time Manipulation",
+						"difficulty": "Medium",
+						"explanation": "He can stop, slow, or accelerate time with a simple clap of his hands.",
+						"question": "O'Dimm is a master of what type of magic that even sorceresses find impossible?",
+						"wrong": [
+							"Necromancy",
+							"Pyromancy",
+							"Illusion"
+						]
+					},
+					{
+						"correct": "Winning a riddle challenge",
+						"difficulty": "Medium",
+						"explanation": "O'Dimm cannot be killed by conventional means, only outsmarted in a wager.",
+						"question": "What is the only way Geralt can defeat O'Dimm at the end of 'Hearts of Stone'?",
+						"wrong": [
+							"Killing him with silver",
+							"Using a dimeritium bomb",
+							"Casting Igni"
+						]
+					},
+					{
+						"correct": "He went blind and lived in a circle of protection",
+						"difficulty": "Hard",
+						"explanation": "The Professor lived in fear inside a magical circle, knowing O'Dimm was waiting for him to step out.",
+						"question": "Professor Shakeslock at Oxenfurt University spent his life researching O'Dimm. What happened to him?",
+						"wrong": [
+							"He was turned to stone",
+							"He was eaten by ghouls",
+							"He became O'Dimm's servant"
+						]
+					},
+					{
+						"correct": "The Spotted Wight",
+						"difficulty": "Hard",
+						"explanation": "Marlene de Trastamara was cursed to be a Wight who could never eat from a spoon until the curse was broken.",
+						"question": "Which monster was actually a woman cursed by Gaunter O'Dimm for refusing him food?",
+						"wrong": [
+							"The Pesta",
+							"The Succubus",
+							"The Nightwraith"
+						]
+					},
+					{
+						"correct": "A reflection",
+						"difficulty": "Hard",
+						"explanation": "The riddle describes something that 'is in everything and on everything, but no one can touch it'.",
+						"question": "What is the answer to the riddle O'Dimm poses to Geralt in the final confrontation?",
+						"wrong": [
+							"Time",
+							"Death",
+							"Love"
+						]
+					},
+					{
+						"correct": "Mirrors",
+						"difficulty": "Hard",
+						"explanation": "He calls himself a Merchant of Mirrors, though the 'mirrors' often represent the reflections of people's inner desires.",
+						"question": "O'Dimm claims to be a 'merchant' of what?",
+						"wrong": [
+							"Souls",
+							"Fate",
+							"Time"
+						]
+					},
+					{
+						"correct": "Unlimited Gold",
+						"difficulty": "Hard",
+						"explanation": "While he offers many powerful items, he does not offer a simple chest of infinite gold.",
+						"question": "In the ending where Geralt lets O'Dimm take Olgierd's soul, what reward can Geralt NOT choose?",
+						"wrong": [
+							"A bottomless carafe of spirits",
+							"A saddle of speed",
+							"Information on Ciri"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_gaunter_o'dimm",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Gaunter O'Dimm",
+				"lore_desc": "An enigmatic and seemingly omnipotent being who collects souls through twisted contracts and wagers.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Supernatural",
+					"Merchant"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Philip Strenger",
+						"difficulty": "Easy",
+						"explanation": "Though he is known as the Baron, his birth name is Philip Strenger.",
+						"question": "What is the Bloody Baron's real name?",
+						"wrong": [
+							"Sigismund Dijkstra",
+							"Vernon Roche",
+							"Emhyr var Emreis"
+						]
+					},
+					{
+						"correct": "Crow's Perch",
+						"difficulty": "Easy",
+						"explanation": "Crow's Perch is a fortified manor in the heart of the Velen swamps.",
+						"question": "Where is the Bloody Baron's seat of power located?",
+						"wrong": [
+							"Vizima",
+							"Novigrad",
+							"Kaer Trolde"
+						]
+					},
+					{
+						"correct": "Alcoholism",
+						"difficulty": "Easy",
+						"explanation": "His heavy drinking caused him to become violent, leading his wife and daughter to flee.",
+						"question": "What is the Baron's primary vice that led to his family's downfall?",
+						"wrong": [
+							"Gambling",
+							"Gluttony",
+							"Greed"
+						]
+					},
+					{
+						"correct": "Botchling",
+						"difficulty": "Easy",
+						"explanation": "The Botchling is a cursed creature born from an unwanted, unburied infant.",
+						"question": "What is the name of the creature Geralt must help the Baron with, which was his unborn child?",
+						"wrong": [
+							"Godling",
+							"Nekker",
+							"Foglet"
+						]
+					},
+					{
+						"correct": "Anna",
+						"difficulty": "Easy",
+						"explanation": "Anna Strenger fled to the swamps and was eventually found serving the Crones.",
+						"question": "What was the name of the Baron's wife who went missing?",
+						"wrong": [
+							"Tamara",
+							"Keira",
+							"Felicia"
+						]
+					},
+					{
+						"correct": "Temeria",
+						"difficulty": "Medium",
+						"explanation": "He was a Temerian soldier who deserted and eventually took over the manor after the previous lord fled.",
+						"question": "To which military force did the Baron belong before seizing Crow's Perch?",
+						"wrong": [
+							"Nilfgaard",
+							"Redania",
+							"Aedirn"
+						]
+					},
+					{
+						"correct": "Tamara",
+						"difficulty": "Medium",
+						"explanation": "Tamara fled to Oxenfurt and joined the Witch Hunters to escape her father.",
+						"question": "What is the name of the Baron's daughter who joined the Eternal Fire?",
+						"wrong": [
+							"Anna",
+							"Ciri",
+							"Triss"
+						]
+					},
+					{
+						"correct": "A Lubberkin",
+						"difficulty": "Medium",
+						"explanation": "A Lubberkin is a benevolent household spirit that protects the family.",
+						"question": "If Geralt chooses to lift the curse on the Botchling, what does it turn into?",
+						"wrong": [
+							"A Godling",
+							"A Spirit",
+							"A Human"
+						]
+					},
+					{
+						"correct": "The Crones",
+						"difficulty": "Medium",
+						"explanation": "The Crones of Crookback Bog granted her a wish in exchange for her eternal service.",
+						"question": "Who are the three powerful entities the Baron's wife made a deal with?",
+						"wrong": [
+							"The Furies",
+							"The Harpies",
+							"The Sirens"
+						]
+					},
+					{
+						"correct": "Horse Racing",
+						"difficulty": "Medium",
+						"explanation": "Geralt can enter a race against the Baron's men to win a new saddle.",
+						"question": "What is the Baron's favorite hobby, which Geralt can participate in at Crow's Perch?",
+						"wrong": [
+							"Gwent",
+							"Fist Fighting",
+							"Darts"
+						]
+					},
+					{
+						"correct": "He fled during the war",
+						"difficulty": "Hard",
+						"explanation": "The Baron simply moved into the abandoned manor during the chaos of the Nilfgaardian invasion.",
+						"question": "What happened to the previous owner of Crow's Perch?",
+						"wrong": [
+							"The Baron killed him",
+							"He died of plague",
+							"He became a monster"
+						]
+					},
+					{
+						"correct": "Tamara",
+						"difficulty": "Hard",
+						"explanation": "The doll was Tamara's childhood toy, which the Baron kept as a reminder of his daughter.",
+						"question": "In the Baron's room, Geralt finds a doll. Who did it belong to?",
+						"wrong": [
+							"Anna",
+							"Ciri",
+							"Geralt"
+						]
+					},
+					{
+						"correct": "He doesn't give a horse",
+						"difficulty": "Hard",
+						"explanation": "The Baron gives Geralt a saddle, not a horse; Geralt only ever rides Roach.",
+						"question": "What is the specific color of the horse the Baron gives Geralt if he wins the race?",
+						"wrong": [
+							"Black",
+							"White",
+							"Chestnut"
+						]
+					},
+					{
+						"correct": "The Blue Mountains",
+						"difficulty": "Hard",
+						"explanation": "He takes her to a healer in the Blue Mountains in hopes of restoring her mind.",
+						"question": "If the Baron survives the questline, where does he take his wife to seek a cure?",
+						"wrong": [
+							"Kaer Morhen",
+							"Novigrad",
+							"Vizima"
+						]
+					},
+					{
+						"correct": "Take its blood",
+						"difficulty": "Hard",
+						"explanation": "Its blood is needed for a ritual by the Pellar if the curse isn't lifted.",
+						"question": "What does the Baron ask Geralt to do with the Botchling if they choose to kill it instead of save it?",
+						"wrong": [
+							"Burn its body",
+							"Bury it under the threshold",
+							"Throw it in the well"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_the_bloody_baron",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "The Bloody Baron",
+				"lore_desc": "The self-proclaimed ruler of Velen, a flawed and tragic man struggling with alcoholism and a broken family.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Ruler",
+					"Velen"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Roach",
+						"difficulty": "Easy",
+						"explanation": "Geralt names every horse he owns Roach, regardless of their appearance.",
+						"question": "What is the name of Geralt's horse?",
+						"wrong": [
+							"Kelpie",
+							"Pegasus",
+							"Bucephalus"
+						]
+					},
+					{
+						"correct": "Female",
+						"difficulty": "Easy",
+						"explanation": "Geralt prefers mares, claiming they are more reliable and even-tempered.",
+						"question": "What gender is Roach typically?",
+						"wrong": [
+							"Male",
+							"Non-binary",
+							"Unknown"
+						]
+					},
+					{
+						"correct": "Standing on rooftops",
+						"difficulty": "Easy",
+						"explanation": "Roach's tendency to spawn in strange places like roofs became a beloved meme.",
+						"question": "What is the most famous 'glitch' associated with Roach in popular culture?",
+						"wrong": [
+							"Flying",
+							"Talking",
+							"Turning invisible"
+						]
+					},
+					{
+						"correct": "All of them",
+						"difficulty": "Easy",
+						"explanation": "Geralt can hang the heads of defeated monsters on Roach's saddle to gain various bonuses.",
+						"question": "Which Witcher gear set includes a special trophy that can be equipped on Roach?",
+						"wrong": [
+							"Wolf School",
+							"Ursine School",
+							"Manticore School"
+						]
+					},
+					{
+						"correct": "Saddle",
+						"difficulty": "Easy",
+						"explanation": "Higher quality saddles allow Roach to gallop for longer periods.",
+						"question": "What item can Geralt equip on Roach to increase her stamina?",
+						"wrong": [
+							"Blinkers",
+							"Horseshoes",
+							"Saddlebags"
+						]
+					},
+					{
+						"correct": "A special mushroom brew",
+						"difficulty": "Medium",
+						"explanation": "In the quest 'Equine Phantoms', Geralt drinks a potion that lets him hear Roach's voice.",
+						"question": "In the Blood and Wine expansion, what allows Roach to actually speak to Geralt?",
+						"wrong": [
+							"A magical curse",
+							"A dream sequence",
+							"A translator spell"
+						]
+					},
+					{
+						"correct": "Kelpie",
+						"difficulty": "Medium",
+						"explanation": "Unlike Geralt, Ciri gave her horse a unique name, Kelpie, after a shapeshifting water spirit.",
+						"question": "What is the name of Ciri's horse?",
+						"wrong": [
+							"Roach",
+							"Blackie",
+							"Shadowfax"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Medium",
+						"explanation": "He is given a magnificent black Nilfgaardian stallion, which replaces the standard brown Roach.",
+						"question": "If Geralt refuses the money from Emperor Emhyr for finding Ciri, what color horse does he receive?",
+						"wrong": [
+							"White",
+							"Brown",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Reduces Fear",
+						"difficulty": "Medium",
+						"explanation": "Blinkers prevent Roach from panicking when she is near monsters.",
+						"question": "What is the function of 'Blinkers' in Roach's equipment?",
+						"wrong": [
+							"Increases Speed",
+							"Increases Inventory",
+							"Allows jumping"
+						]
+					},
+					{
+						"correct": "Equine Phantoms",
+						"difficulty": "Medium",
+						"explanation": "This humorous quest explores the bond between Geralt and his horse.",
+						"question": "What was the name of the quest where Roach's voice is heard?",
+						"wrong": [
+							"A Horse's Tale",
+							"The Talking Mare",
+							"The Whispering Woods"
+						]
+					},
+					{
+						"correct": "A woman with a deep voice",
+						"difficulty": "Hard",
+						"explanation": "Roach is voiced by a woman, despite her surprisingly deep and cynical tone in the quest.",
+						"question": "Who voices Roach in the English version of the 'Equine Phantoms' quest?",
+						"wrong": [
+							"Geralt's voice actor",
+							"Dandelion's voice actor",
+							"A real horse"
+						]
+					},
+					{
+						"correct": "A small fish",
+						"difficulty": "Hard",
+						"explanation": "In Polish, 'Płotka' is a diminutive for a common freshwater fish, the roach.",
+						"question": "What does 'Roach' actually refer to in its original language?",
+						"wrong": [
+							"A cockroach",
+							"A weed",
+							"A pebble"
+						]
+					},
+					{
+						"correct": "Rein Armor",
+						"difficulty": "Hard",
+						"explanation": "While there are many cosmetic and functional items, 'Rein Armor' is not a category.",
+						"question": "Which of these is NOT a real piece of Roach equipment in the game?",
+						"wrong": [
+							"Saddlebags",
+							"Saddles",
+							"Trophies"
+						]
+					},
+					{
+						"correct": "Whistling",
+						"difficulty": "Hard",
+						"explanation": "A sharp whistle will bring Roach to Geralt's side, even if she has to cross an ocean to get there.",
+						"question": "How does Geralt summon Roach?",
+						"wrong": [
+							"Calling her name",
+							"Using a bell",
+							"Clicking his tongue"
+						]
+					},
+					{
+						"correct": "100",
+						"difficulty": "Hard",
+						"explanation": "The best saddlebags (Zerrikanian) add 100 to Geralt's carrying capacity.",
+						"question": "What is the maximum number of items Roach's saddlebags can help Geralt carry in the base game?",
+						"wrong": [
+							"50",
+							"75",
+							"150"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_roach",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Roach",
+				"lore_desc": "Geralt's loyal mare, or rather, the name he gives to every horse he has ever owned.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Animal",
+					"Horse"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "School of the Wolf",
+						"difficulty": "Easy",
+						"explanation": "It is the ancient fortress where Geralt, Eskel, and Lambert were trained.",
+						"question": "Kaer Morhen is the home of which Witcher school?",
+						"wrong": [
+							"School of the Cat",
+							"School of the Bear",
+							"School of the Griffin"
+						]
+					},
+					{
+						"correct": "Blue Mountains",
+						"difficulty": "Easy",
+						"explanation": "The fortress is hidden deep within the treacherous and remote Blue Mountains.",
+						"question": "In which mountain range is Kaer Morhen located?",
+						"wrong": [
+							"Mahakam Mountains",
+							"Dragon Mountains",
+							"Fiery Mountains"
+						]
+					},
+					{
+						"correct": "Keep of the Elder Sea",
+						"difficulty": "Easy",
+						"explanation": "It refers to the fact that the valley was once under the sea millions of years ago.",
+						"question": "What is the translation of 'Kaer Morhen' from Elder Speech?",
+						"wrong": [
+							"Wolf's Den",
+							"Mountain of Blood",
+							"Old Fortress"
+						]
+					},
+					{
+						"correct": "Battle of Kaer Morhen",
+						"difficulty": "Easy",
+						"explanation": "Geralt and his allies defend the fortress against an all-out assault by the Wild Hunt.",
+						"question": "Which major battle takes place at Kaer Morhen in the middle of the game?",
+						"wrong": [
+							"The Nilfgaardian Siege",
+							"The Massacre of the Wolves",
+							"The Elven Uprising"
+						]
+					},
+					{
+						"correct": "Vesemir",
+						"difficulty": "Easy",
+						"explanation": "Vesemir is the eldest and maintains the crumbling keep.",
+						"question": "Who is the primary keeper and mentor of the fortress when the game begins?",
+						"wrong": [
+							"Geralt",
+							"Eskel",
+							"Lambert"
+						]
+					},
+					{
+						"correct": "Lake Morhen",
+						"difficulty": "Medium",
+						"explanation": "The lake is a key feature of the valley and is home to several monster encounters.",
+						"question": "What is the name of the nearby lake where Witchers often fish or train?",
+						"wrong": [
+							"Lake Vizima",
+							"The Great Lake",
+							"Blue Lake"
+						]
+					},
+					{
+						"correct": "A mob of angry humans attacked it",
+						"difficulty": "Medium",
+						"explanation": "Fueled by hatred of mutants, a mob led by mages attacked the keep and killed most of the Witchers and students.",
+						"question": "What caused the decline of Kaer Morhen years before the game starts?",
+						"wrong": [
+							"A monster invasion",
+							"A magical plague",
+							"A natural earthquake"
+						]
+					},
+					{
+						"correct": "The Laboratory",
+						"difficulty": "Medium",
+						"explanation": "The lab contains the alchemical equipment and 'The Table' used for the trials.",
+						"question": "Where in the fortress are the mutations (Trial of the Grasses) performed?",
+						"wrong": [
+							"The Great Hall",
+							"The Dungeons",
+							"The Tower"
+						]
+					},
+					{
+						"correct": "Yennefer",
+						"difficulty": "Medium",
+						"explanation": "She does this because Triss and Geralt had slept in it while Yennefer was missing.",
+						"question": "Which sorceress famously throws Geralt's bed out the window at Kaer Morhen?",
+						"wrong": [
+							"Triss",
+							"Keira",
+							"Philippa"
+						]
+					},
+					{
+						"correct": "Varin",
+						"difficulty": "Medium",
+						"explanation": "Varin was an instructor whose ghost can be found by Geralt during a side quest.",
+						"question": "What is the name of the Witcher who was tortured and killed at the 'Bastion' near Kaer Morhen?",
+						"wrong": [
+							"Gaetan",
+							"Leo",
+							"Coën"
+						]
+					},
+					{
+						"correct": "The Killer",
+						"difficulty": "Hard",
+						"explanation": "The 'Killer' was a dangerous path that tested the endurance and agility of the boys.",
+						"question": "What was the name of the trial involving a steep mountain climb that young Witcher candidates had to complete?",
+						"wrong": [
+							"The Gauntlet",
+							"The Peak",
+							"The Wolf's Run"
+						]
+					},
+					{
+						"correct": "Unknown",
+						"difficulty": "Hard",
+						"explanation": "The game mentions the assault was led by fanatic mages and priests, though the specific leader is rarely named in the game world's lore books.",
+						"question": "Who was the mage who led the historical assault on Kaer Morhen?",
+						"wrong": [
+							"Azar Javed",
+							"Vilgefortz",
+							"Rience"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Hard",
+						"explanation": "Geralt, Vesemir, Eskel, and Lambert are the four remaining members present.",
+						"question": "How many Witchers of the Wolf School are present at the fortress when the Wild Hunt attacks?",
+						"wrong": [
+							"Three",
+							"Five",
+							"Six"
+						]
+					},
+					{
+						"correct": "Trollololo",
+						"difficulty": "Hard",
+						"explanation": "Actually, the paint-collecting troll is near Oxenfurt. The trolls near Kaer Morhen are hostile until you beat them in a specific quest.",
+						"question": "What is the name of the troll who lives in a cave near Kaer Morhen and collects paint?",
+						"wrong": [
+							"Bart",
+							"Wham-a-Wham",
+							"No troll lives there"
+						]
+					},
+					{
+						"correct": "The final test to become a Witcher",
+						"difficulty": "Hard",
+						"explanation": "Candidates had to reach the Circle of Elements to charge their medallions with magic.",
+						"question": "What is the 'Trial of the Medallion'?",
+						"wrong": [
+							"A fight with a griffin",
+							"A magical duel",
+							"Forging a sword"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_kaer_morhen",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Kaer Morhen",
+				"lore_desc": "The secluded mountain stronghold and training ground for the Witchers of the School of the Wolf.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Fortress",
+					"Witcher",
+					"Mountains"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Redania",
+						"difficulty": "Easy",
+						"explanation": "While it is within Redania's borders, it maintains its own laws and neutrality.",
+						"question": "Novigrad is known as a 'Free City'. In which kingdom is it geographically located?",
+						"wrong": [
+							"Temeria",
+							"Aedirn",
+							"Nilfgaard"
+						]
+					},
+					{
+						"correct": "The Eternal Fire",
+						"difficulty": "Easy",
+						"explanation": "The Church of the Eternal Fire is a fanatical religion that views all non-humans and mages as abominations.",
+						"question": "What is the dominant religion in Novigrad that hunts mages?",
+						"wrong": [
+							"The Great Sun",
+							"Melitele",
+							"Freya"
+						]
+					},
+					{
+						"correct": "Sigismund Dijkstra",
+						"difficulty": "Easy",
+						"explanation": "The former head of Redanian Intelligence now operates as one of the four crime lords.",
+						"question": "Who is the leader of the criminal underworld in Novigrad, known for his intelligence?",
+						"wrong": [
+							"Whoreson Junior",
+							"Cleaver",
+							"King of Beggars"
+						]
+					},
+					{
+						"correct": "Hierarch Square",
+						"difficulty": "Easy",
+						"explanation": "It is named after the Hierarch, the religious leader of the Eternal Fire.",
+						"question": "What is the name of the main square in Novigrad where executions take place?",
+						"wrong": [
+							"Temple Square",
+							"Market Square",
+							"The Great Plaza"
+						]
+					},
+					{
+						"correct": "Temple Isle",
+						"difficulty": "Easy",
+						"explanation": "Temple Isle is the highest point in the city and the most heavily guarded.",
+						"question": "What is the name of the island where the wealthy and the Church reside?",
+						"wrong": [
+							"Rich Island",
+							"The Citadel",
+							"Palace Isle"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Medium",
+						"explanation": "The Big Four are Dijkstra, Cleaver, Whoreson Junior, and the King of Beggars.",
+						"question": "How many 'Big Four' crime lords are there in Novigrad?",
+						"wrong": [
+							"Three",
+							"Five",
+							"Six"
+						]
+					},
+					{
+						"correct": "Pontar Crossing",
+						"difficulty": "Medium",
+						"explanation": "The Pontar River is the natural border between Redania and Temeria.",
+						"question": "What is the name of the pass that connects Novigrad to the southern lands of Velen?",
+						"wrong": [
+							"The Great Gate",
+							"The River Bridge",
+							"The King's Road"
+						]
+					},
+					{
+						"correct": "Francis Bedlam",
+						"difficulty": "Medium",
+						"explanation": "Francis Bedlam runs the Putrid Grove, a sanctuary for those the Church hunts.",
+						"question": "Who is the 'King of Beggars'?",
+						"wrong": [
+							"Carlo Varese",
+							"Caleb Menge",
+							"Cyprian Wiley"
+						]
+					},
+					{
+						"correct": "Rosemary and Thyme",
+						"difficulty": "Medium",
+						"explanation": "He inherited it from a friend and turned it into his base of operations.",
+						"question": "What is the name of the brothel owned by Dandelion before it becomes a tavern?",
+						"wrong": [
+							"The Passiflora",
+							"Crippled Kate's",
+							"The Seven Cats"
+						]
+					},
+					{
+						"correct": "Radovid V",
+						"difficulty": "Medium",
+						"explanation": "Radovid 'The Stern' is a tactical genius and a paranoid madman.",
+						"question": "Who is the ruthless King of Redania who wants to conquer Novigrad?",
+						"wrong": [
+							"Foltest",
+							"Henselt",
+							"Emhyr"
+						]
+					},
+					{
+						"correct": "Cyprian Wiley",
+						"difficulty": "Hard",
+						"explanation": "He earned his nickname from his father, the original Whoreson.",
+						"question": "What is the true identity of 'Whoreson Junior'?",
+						"wrong": [
+							"Francis Bedlam",
+							"Carlo Varese",
+							"Sigismund Dijkstra"
+						]
+					},
+					{
+						"correct": "High Stakes",
+						"difficulty": "Hard",
+						"explanation": "Geralt must pay a high entry fee and have a very strong deck to participate.",
+						"question": "What is the name of the elite Gwent tournament held at the Passiflora?",
+						"wrong": [
+							"The Grand Melee",
+							"The King's Cup",
+							"The Golden Card"
+						]
+					},
+					{
+						"correct": "The Black District",
+						"difficulty": "Hard",
+						"explanation": "The Bits is the slum, Silverton is the artisan district, and Farcorners is the outskirts.",
+						"question": "Which of these is NOT one of the city's districts?",
+						"wrong": [
+							"Bits",
+							"Silverton",
+							"The Farcorners"
+						]
+					},
+					{
+						"correct": "Carlo Varese",
+						"difficulty": "Hard",
+						"explanation": "Cleaver is known for his short temper and his rivalry with Whoreson Junior.",
+						"question": "What is the name of the dwarf who leads the 'Cleaver' gang?",
+						"wrong": [
+							"Zoltan Chivay",
+							"Barclay Els",
+							"Yarpin Zigrin"
+						]
+					},
+					{
+						"correct": "St. Gregory's Bridge",
+						"difficulty": "Hard",
+						"explanation": "It is one of the most iconic landmarks in the city's skyline.",
+						"question": "What is the name of the bridge that leads to the Temple Isle?",
+						"wrong": [
+							"The Hierarch's Way",
+							"The Gate of Faith",
+							"The Eternal Span"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_novigrad",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Novigrad",
+				"lore_desc": "The largest city in the world, a bustling metropolis and Free City known for its commerce, crime, and religious fanaticism.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Redania",
+					"Port"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dwarves",
+						"difficulty": "Easy",
+						"explanation": "The game was originally played by dwarves in their mountain halls before becoming a worldwide craze.",
+						"question": "Which race is credited with inventing Gwent?",
+						"wrong": [
+							"Humans",
+							"Elves",
+							"Gnomes"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "Matches are played in a best-of-three format.",
+						"question": "How many rounds must a player win to win a match of Gwent?",
+						"wrong": [
+							"One",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "Nilfgaardian Empire",
+						"difficulty": "Easy",
+						"explanation": "Nilfgaard relies heavily on Spies to draw more cards from their deck.",
+						"question": "Which card deck features the 'Spy' mechanic most prominently?",
+						"wrong": [
+							"Monsters",
+							"Scoia'tael",
+							"Skellige"
+						]
+					},
+					{
+						"correct": "Both players lose a life gem",
+						"difficulty": "Easy",
+						"explanation": "Unless you are playing the Nilfgaardian faction, which wins ties by default.",
+						"question": "What happens if a round ends in a tie for both players?",
+						"wrong": [
+							"It's a draw",
+							"Both players win",
+							"The round is replayed"
+						]
+					},
+					{
+						"correct": "10",
+						"difficulty": "Easy",
+						"explanation": "Managing these 10 cards across three rounds is the key to victory.",
+						"question": "What is the maximum number of cards a player starts with in their hand?",
+						"wrong": [
+							"7",
+							"12",
+							"15"
+						]
+					},
+					{
+						"correct": "Biting Frost",
+						"difficulty": "Medium",
+						"explanation": "Frost affects the front row, Fog affects the middle (Ranged), and Rain affects the back (Siege).",
+						"question": "Which weather card reduces the strength of all Close Combat units to 1?",
+						"wrong": [
+							"Impenetrable Fog",
+							"Torrential Rain",
+							"Skellige Storm"
+						]
+					},
+					{
+						"correct": "Scorch",
+						"difficulty": "Medium",
+						"explanation": "Scorch is a risky card that can even destroy your own units if they are the strongest.",
+						"question": "What is the name of the special card that can destroy the strongest unit(s) on the board?",
+						"wrong": [
+							"Execution",
+							"The Sun",
+							"Fireball"
+						]
+					},
+					{
+						"correct": "Monsters",
+						"difficulty": "Medium",
+						"explanation": "The Monsters faction is known for its 'Sustain' and 'Muster' abilities.",
+						"question": "Which faction's special ability allows them to keep one random unit on the board after a round?",
+						"wrong": [
+							"Northern Realms",
+							"Scoia'tael",
+							"Nilfgaard"
+						]
+					},
+					{
+						"correct": "Returning a card to your hand",
+						"difficulty": "Medium",
+						"explanation": "Decoys are vital for reusing Spies or Medic units.",
+						"question": "What is the 'Decoy' card used for?",
+						"wrong": [
+							"Swapping a card with the opponent",
+							"Discarding a card",
+							"Doubling unit strength"
+						]
+					},
+					{
+						"correct": "The Scholar",
+						"difficulty": "Medium",
+						"explanation": "Aldert Geert is a scholar who teaches Geralt the rules of the game at the tavern.",
+						"question": "Which character gives Geralt his very first Gwent deck in White Orchard?",
+						"wrong": [
+							"Vesemir",
+							"The Innkeeper",
+							"Gaunter O'Dimm"
+						]
+					},
+					{
+						"correct": "Geralt of Rivia",
+						"difficulty": "Hard",
+						"explanation": "Geralt is a neutral Hero card, meaning he is unaffected by special cards or weather.",
+						"question": "What is the name of the legendary card with 15 strength that represents Geralt?",
+						"wrong": [
+							"The White Wolf",
+							"Butcher of Blaviken",
+							"Witcher Champion"
+						]
+					},
+					{
+						"correct": "Blood and Wine",
+						"difficulty": "Hard",
+						"explanation": "The Skellige deck was introduced during the tournament in Beauclair.",
+						"question": "The Skellige deck was added in which expansion?",
+						"wrong": [
+							"Hearts of Stone",
+							"Wild Hunt",
+							"None"
+						]
+					},
+					{
+						"correct": "Emiel Regis",
+						"difficulty": "Hard",
+						"explanation": "Regis is a higher vampire and one of Geralt's most loyal companions.",
+						"question": "Which Gwent card features a character who is actually a powerful vampire?",
+						"wrong": [
+							"Dandelion",
+							"Zoltan",
+							"Vernon Roche"
+						]
+					},
+					{
+						"correct": "Resurrects a card from the graveyard",
+						"difficulty": "Hard",
+						"explanation": "Medics can bring back non-Hero cards to play them again immediately.",
+						"question": "What does the 'Medic' ability do?",
+						"wrong": [
+							"Heals a wounded card",
+							"Protects a row",
+							"Draws two cards"
+						]
+					},
+					{
+						"correct": "Collect 'Em All",
+						"difficulty": "Hard",
+						"explanation": "This is one of the most notoriously difficult and easily-failed quests in the game.",
+						"question": "What is the name of the quest where Geralt must collect every single card in the game?",
+						"wrong": [
+							"The Gwent Master",
+							"Card Shark",
+							"Geralt's Collection"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_gwent",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Gwent",
+				"lore_desc": "An addictive dwarven card game played across the Continent that simulates a battle between two armies.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Game",
+					"Card",
+					"Collectable"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Lady of the Lake",
+						"difficulty": "Easy",
+						"explanation": "She is a mystical entity found in a lake in Toussaint (and previously in the first Witcher game).",
+						"question": "Who bestows the sword Aerondight upon Geralt?",
+						"wrong": [
+							"Vesemir",
+							"Eredin",
+							"The Bloody Baron"
+						]
+					},
+					{
+						"correct": "Blood and Wine",
+						"difficulty": "Easy",
+						"explanation": "The sword is part of a legendary quest in the Duchy of Toussaint.",
+						"question": "In which expansion pack can Geralt obtain Aerondight?",
+						"wrong": [
+							"Hearts of Stone",
+							"Wild Hunt",
+							"The White Frost"
+						]
+					},
+					{
+						"correct": "Silver",
+						"difficulty": "Easy",
+						"explanation": "It is a Witcher's tool for slaying monsters, infused with magical properties.",
+						"question": "What kind of sword is Aerondight?",
+						"wrong": [
+							"Steel",
+							"Iron",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Its damage increases with use",
+						"difficulty": "Easy",
+						"explanation": "The sword gains permanent damage increases when you kill enemies with a full charge.",
+						"question": "What unique mechanic does Aerondight have that makes it better than other swords?",
+						"wrong": [
+							"It never breaks",
+							"It shoots fire",
+							"It talks"
+						]
+					},
+					{
+						"correct": "The Five Virtues",
+						"difficulty": "Easy",
+						"explanation": "He must demonstrate Compassion, Generosity, Honor, Valor, and Wisdom.",
+						"question": "What must Geralt prove to be worthy of receiving the sword?",
+						"wrong": [
+							"His combat skill",
+							"His wealth",
+							"His heritage"
+						]
+					},
+					{
+						"correct": "Lancelot",
+						"difficulty": "Medium",
+						"explanation": "In Arthurian legend, Arondight was the sword of Sir Lancelot du Lac.",
+						"question": "Aerondight is a reference to the sword of which Arthurian knight?",
+						"wrong": [
+							"Arthur",
+							"Galahad",
+							"Percival"
+						]
+					},
+					{
+						"correct": "Hitting enemies without taking damage",
+						"difficulty": "Medium",
+						"explanation": "Each successful hit increases its charge, making every swing more powerful.",
+						"question": "How does Aerondight 'charge' during a fight?",
+						"wrong": [
+							"Using Signs",
+							"Drinking potions",
+							"Waiting"
+						]
+					},
+					{
+						"correct": "It always lands critical hits",
+						"difficulty": "Medium",
+						"explanation": "Once fully charged, the sword glows and guarantees a critical hit on every strike.",
+						"question": "What happens once Aerondight reaches 10 charges in a single combat?",
+						"wrong": [
+							"It explodes",
+							"It heals Geralt",
+							"It freezes the enemy"
+						]
+					},
+					{
+						"correct": "There Can Be Only One",
+						"difficulty": "Medium",
+						"explanation": "The quest name is a classic reference to the 'Highlander' franchise.",
+						"question": "What is the name of the quest to obtain Aerondight?",
+						"wrong": [
+							"The Lady's Gift",
+							"The Virtuous Witcher",
+							"Sword of the Lake"
+						]
+					},
+					{
+						"correct": "Generosity",
+						"difficulty": "Medium",
+						"explanation": "Being generous with coin is one of the ways Geralt can prove his character.",
+						"question": "What is the 'virtue' associated with paying a shoe-shine boy for information?",
+						"wrong": [
+							"Wisdom",
+							"Honor",
+							"Compassion"
+						]
+					},
+					{
+						"correct": "He lost it in a dragon's mouth",
+						"difficulty": "Hard",
+						"explanation": "During the prologue of the second game, Geralt loses the sword while fighting a dragon.",
+						"question": "If Geralt already had Aerondight from a previous game, what happened to it?",
+						"wrong": [
+							"He sold it",
+							"He broke it",
+							"He gave it to Ciri"
+						]
+					},
+					{
+						"correct": "10",
+						"difficulty": "Hard",
+						"explanation": "This scaling allows the sword to remain the best silver weapon regardless of your level.",
+						"question": "What is the max number of damage points the sword can gain per character level?",
+						"wrong": [
+							"5",
+							"15",
+							"20"
+						]
+					},
+					{
+						"correct": "Justice",
+						"difficulty": "Hard",
+						"explanation": "While Justice is noble, the specific Toussaint virtues are Honor, Wisdom, Valor, Compassion, and Generosity.",
+						"question": "Which of these is NOT one of the five virtues required for the sword?",
+						"wrong": [
+							"Wisdom",
+							"Valor",
+							"Compassion"
+						]
+					},
+					{
+						"correct": "Water magic",
+						"difficulty": "Hard",
+						"explanation": "The hermit is actually the Lady of the Lake's champion and uses the water around him to attack.",
+						"question": "When Geralt fights the hermit at the end of the quest, what does the hermit use to fight?",
+						"wrong": [
+							"A sword",
+							"A mace",
+							"Fireballs"
+						]
+					},
+					{
+						"correct": "Winning a duel fairly",
+						"difficulty": "Hard",
+						"explanation": "Winning the duel against the knight at the tourney or accepting a challenge can prove Geralt's honor.",
+						"question": "What is the 'Honor' virtue proved by in Toussaint?",
+						"wrong": [
+							"Sparing a monster",
+							"Giving money to a child",
+							"Saving a knight"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_aerondight",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Aerondight",
+				"lore_desc": "The most powerful silver sword in the game, gifted by the Lady of the Lake to those who prove their virtue.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Sword",
+					"Relic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A deer skull",
+						"difficulty": "Easy",
+						"explanation": "The deer skull with large antlers is the most iconic feature of this woodland monster.",
+						"question": "What does a Leshen's head look like?",
+						"wrong": [
+							"A wolf's head",
+							"A human face",
+							"A tree stump"
+						]
+					},
+					{
+						"correct": "Dense forests",
+						"difficulty": "Easy",
+						"explanation": "Leshens are territorial guardians of primeval woods.",
+						"question": "Where are you most likely to encounter a Leshen?",
+						"wrong": [
+							"Open fields",
+							"Cities",
+							"Underground caves"
+						]
+					},
+					{
+						"correct": "Igni",
+						"difficulty": "Easy",
+						"explanation": "Being made of wood and bark, Leshens are highly vulnerable to fire.",
+						"question": "Which Witcher Sign is most effective against a Leshen?",
+						"wrong": [
+							"Aard",
+							"Yrden",
+							"Axii"
+						]
+					},
+					{
+						"correct": "Wolves and crows",
+						"difficulty": "Easy",
+						"explanation": "They command the beasts of the forest to do their bidding.",
+						"question": "What kind of animals does a Leshen typically control to attack its enemies?",
+						"wrong": [
+							"Bears and boars",
+							"Spiders and rats",
+							"Cats and dogs"
+						]
+					},
+					{
+						"correct": "Turns into a cloud of crows",
+						"difficulty": "Easy",
+						"explanation": "This dramatic transformation allows them to reposition during a fight.",
+						"question": "What does a Leshen do when it wants to disappear or move quickly?",
+						"wrong": [
+							"Teleports in a flash of light",
+							"Sinks into the ground",
+							"Turns invisible"
+						]
+					},
+					{
+						"correct": "Ancient Leshen",
+						"difficulty": "Medium",
+						"explanation": "Ancient Leshens are much more durable and possess stronger magical abilities.",
+						"question": "What is an exceptionally old and powerful Leshen called?",
+						"wrong": [
+							"Greater Leshen",
+							"Elder Wood",
+							"Forest King"
+						]
+					},
+					{
+						"correct": "Marked them with its magic",
+						"difficulty": "Medium",
+						"explanation": "As long as the 'marked' person remains near the village, the Leshen can be reborn.",
+						"question": "In the quest 'In the Heart of the Woods', what has the Leshen done to a villager to stay immortal?",
+						"wrong": [
+							"Eaten their heart",
+							"Stolen their shadow",
+							"Cursed their blood"
+						]
+					},
+					{
+						"correct": "Leshen Decoction",
+						"difficulty": "Medium",
+						"explanation": "The decoction reflects damage back at enemies who hit Geralt.",
+						"question": "What item can Geralt craft using a Leshen's remains?",
+						"wrong": [
+							"Cat Potion",
+							"Thunderbolt",
+							"White Honey"
+						]
+					},
+					{
+						"correct": "Protecting its territory",
+						"difficulty": "Medium",
+						"explanation": "Geralt must often destroy these wooden structures to draw the Leshen out.",
+						"question": "What are the Leshen's 'totems' used for?",
+						"wrong": [
+							"Healing itself",
+							"Storing gold",
+							"Luring prey"
+						]
+					},
+					{
+						"correct": "Summons roots to impale enemies",
+						"difficulty": "Medium",
+						"explanation": "The root attack is its most dangerous long-range ability.",
+						"question": "How does a Leshen attack using the ground?",
+						"wrong": [
+							"Causes earthquakes",
+							"Turns the ground to mud",
+							"Creates sinkholes"
+						]
+					},
+					{
+						"correct": "Relict",
+						"difficulty": "Hard",
+						"explanation": "Relicts are ancient creatures that are the last of their kind or from another era.",
+						"question": "What class of monster is the Leshen categorized as in the Bestiary?",
+						"wrong": [
+							"Necrophage",
+							"Elementa",
+							"Hybrid"
+						]
+					},
+					{
+						"correct": "Kernun",
+						"difficulty": "Hard",
+						"explanation": "Kernun is a specifically named Leshen that has been terrorizing loggers.",
+						"question": "What is the name of the unique Leshen found in the 'Lord of the Wood' contract near Novigrad?",
+						"wrong": [
+							"Grovedweller",
+							"Woodland Spirit",
+							"Old Spear-tip"
+						]
+					},
+					{
+						"correct": "Spriggans look more like humanoid trees",
+						"difficulty": "Hard",
+						"explanation": "While similar, Spriggans (found in Toussaint) are more plant-like and lack the deer skull.",
+						"question": "A Leshen is often confused with a 'Spriggan'. What is the main visual difference?",
+						"wrong": [
+							"Spriggans have wings",
+							"Spriggans are smaller",
+							"There is no difference"
+						]
+					},
+					{
+						"correct": "You sacrifice wolf hearts",
+						"difficulty": "Hard",
+						"explanation": "The elders want you to perform a ritual instead of killing the spirit to maintain their tradition.",
+						"question": "What happens if you choose to follow the 'old ways' in the Skellige Leshen quest?",
+						"wrong": [
+							"You kill the Leshen",
+							"You pay the villagers",
+							"You leave the forest"
+						]
+					},
+					{
+						"correct": "Slashing and stabbing",
+						"difficulty": "Hard",
+						"explanation": "In close combat, the Leshen uses its elongated claws to deal heavy physical damage.",
+						"question": "What are the Leshen's long, branch-like fingers used for?",
+						"wrong": [
+							"Casting spells",
+							"Climbing trees",
+							"Nothing"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_leshen",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Leshen",
+				"lore_desc": "An ancient and powerful forest spirit that protects its woods with cruel, primeval magic.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Spirit",
+					"Forest"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ard Skellig",
+						"difficulty": "Easy",
+						"explanation": "Ard Skellig is the largest island and the seat of the High King.",
+						"question": "What is the main island of the Skellige archipelago?",
+						"wrong": [
+							"An Skellig",
+							"Undvik",
+							"Spikeroog"
+						]
+					},
+					{
+						"correct": "Kaer Trolde",
+						"difficulty": "Easy",
+						"explanation": "The fortress is carved directly into the cliffs of Ard Skellig.",
+						"question": "What is the name of the fortress where the High King of Skellige sits?",
+						"wrong": [
+							"Crow's Perch",
+							"Kaer Morhen",
+							"Vizima"
+						]
+					},
+					{
+						"correct": "Vikings",
+						"difficulty": "Easy",
+						"explanation": "Their ships, clans, and burial customs are clearly inspired by Norse mythology and culture.",
+						"question": "The culture of Skellige is heavily inspired by which real-world historical people?",
+						"wrong": [
+							"Romans",
+							"Samurai",
+							"Egyptians"
+						]
+					},
+					{
+						"correct": "Clan an Craite",
+						"difficulty": "Easy",
+						"explanation": "Led by Crach an Craite, they are one of the most powerful families on the islands.",
+						"question": "What is the name of the clan that rules from Kaer Trolde?",
+						"wrong": [
+							"Clan Tuirseach",
+							"Clan Drummond",
+							"Clan Heymaey"
+						]
+					},
+					{
+						"correct": "Boat",
+						"difficulty": "Easy",
+						"explanation": "The archipelago is vast and requires a sturdy sailboat to navigate its treacherous waters.",
+						"question": "What is the primary method of travel between the different islands in Skellige?",
+						"wrong": [
+							"Horse",
+							"Portal",
+							"Swimming"
+						]
+					},
+					{
+						"correct": "Crach an Craite",
+						"difficulty": "Medium",
+						"explanation": "Crach is the patriarch of Clan an Craite and a key political figure.",
+						"question": "Who is the Jarl of Ard Skellig and a long-time friend of Geralt and Yennefer?",
+						"wrong": [
+							"Hjalmar",
+							"Cerys",
+							"Madman Lugos"
+						]
+					},
+					{
+						"correct": "Hindarsfjall",
+						"difficulty": "Medium",
+						"explanation": "It is home to the Garden of Freya and the village of Lofoten.",
+						"question": "What is the name of the 'cursed' island where Ciri and Skjall were attacked?",
+						"wrong": [
+							"Undvik",
+							"Faroe",
+							"Spikeroog"
+						]
+					},
+					{
+						"correct": "The Ice Giant",
+						"difficulty": "Medium",
+						"explanation": "Geralt can help Hjalmar an Craite slay the giant to reclaim the island.",
+						"question": "What is the name of the legendary giant who drove the people off the island of Undvik?",
+						"wrong": [
+							"The Cloud Giant",
+							"The Mountain Troll",
+							"The Cyclops"
+						]
+					},
+					{
+						"correct": "Cerys",
+						"difficulty": "Medium",
+						"explanation": "Cerys an Craite represents a shift toward peace and internal stability for Skellige.",
+						"question": "Which of Crach's children is the 'logical' and 'calm' choice for the throne?",
+						"wrong": [
+							"Hjalmar",
+							"Sigi",
+							"Birna"
+						]
+					},
+					{
+						"correct": "A burning ship",
+						"difficulty": "Medium",
+						"explanation": "The deceased king is placed on a longship, which is set ablaze as it sails out to sea.",
+						"question": "What is the name of the Skellige funeral rite for a king?",
+						"wrong": [
+							"A mountain burial",
+							"A sea feast",
+							"A stone circle"
+						]
+					},
+					{
+						"correct": "Naglfar",
+						"difficulty": "Hard",
+						"explanation": "The Skelligers fear the Naglfar, which Eredin uses as his flagship.",
+						"question": "What is the name of the massive ship in elven legend that signals the end of the world?",
+						"wrong": [
+							"The White Ship",
+							"The Drakkar",
+							"The Ghost Sail"
+						]
+					},
+					{
+						"correct": "Freya",
+						"difficulty": "Hard",
+						"explanation": "Freya, the Great Mother, is the patron deity of the islands.",
+						"question": "Who is the goddess most revered by the people of Skellige?",
+						"wrong": [
+							"Melitele",
+							"The Eternal Fire",
+							"The Great Sun"
+						]
+					},
+					{
+						"correct": "Madman Lugos",
+						"difficulty": "Hard",
+						"explanation": "Lugos is known for his aggression and his intense rivalry with Crach an Craite.",
+						"question": "What is the name of the crazed leader of Clan Drummond?",
+						"wrong": [
+							"Donar an Hindar",
+							"Holger Blackhand",
+							"Udalryk"
+						]
+					},
+					{
+						"correct": "Spikeroog",
+						"difficulty": "Hard",
+						"explanation": "Spikeroog is also home to the cursed Jarl Udalryk and the Hym spirit.",
+						"question": "Which island is inhabited by the 'Sirens' and has a giant hole in its center?",
+						"wrong": [
+							"Undvik",
+							"Ard Skellig",
+							"An Skellig"
+						]
+					},
+					{
+						"correct": "Luring the Wild Hunt's ship",
+						"difficulty": "Hard",
+						"explanation": "The Sunstone reflects light to signal the Naglfar, bringing it into a trap.",
+						"question": "In Skellige, what is the 'Sunstone' used for?",
+						"wrong": [
+							"Healing Ciri",
+							"Stopping the White Frost",
+							"Crowning the King"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_the_skellige_isles",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "The Skellige Isles",
+				"lore_desc": "A rugged archipelago inhabited by fierce seafaring clans who value honor, tradition, and strength.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Islands",
+					"Norse"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "Igni is used to burn enemies, light torches, and even melt ice.",
+						"question": "What element does the Igni sign manipulate?",
+						"wrong": [
+							"Water",
+							"Earth",
+							"Air"
+						]
+					},
+					{
+						"correct": "Igni",
+						"difficulty": "Easy",
+						"explanation": "The Sign causes burning damage over time, making it very effective against many foes.",
+						"question": "Which Witcher Sign is best for setting a monster on fire?",
+						"wrong": [
+							"Aard",
+							"Quen",
+							"Axii"
+						]
+					},
+					{
+						"correct": "A triangular shape",
+						"difficulty": "Easy",
+						"explanation": "Witchers use specific finger placements to channel magical energy into a blast.",
+						"question": "What hand gesture is associated with casting Igni?",
+						"wrong": [
+							"A fist",
+							"A flat palm",
+							"A circular motion"
+						]
+					},
+					{
+						"correct": "Light campfires and torches",
+						"difficulty": "Easy",
+						"explanation": "It is a practical tool for survival and exploring dark dungeons.",
+						"question": "What can Geralt do with Igni outside of combat?",
+						"wrong": [
+							"Open locked doors",
+							"Talk to animals",
+							"Fly"
+						]
+					},
+					{
+						"correct": "Beasts and Draconids",
+						"difficulty": "Easy",
+						"explanation": "Creatures with fur, feathers, or scales are often highly flammable.",
+						"question": "Which monster type is most afraid of or vulnerable to Igni?",
+						"wrong": [
+							"Specters",
+							"Elementals",
+							"Vampires"
+						]
+					},
+					{
+						"correct": "A continuous jet of flame",
+						"difficulty": "Medium",
+						"explanation": "This allows Geralt to focus fire on a single target for sustained damage.",
+						"question": "The 'Firestream' upgrade for Igni changes the blast into what?",
+						"wrong": [
+							"A massive explosion",
+							"A circle of fire",
+							"A flaming sword"
+						]
+					},
+					{
+						"correct": "It increases the chance to apply the Burning status",
+						"difficulty": "Medium",
+						"explanation": "Higher intensity makes it much more likely that enemies will catch fire and stop attacking.",
+						"question": "How does increasing Geralt's 'Sign Intensity' affect Igni?",
+						"wrong": [
+							"It makes the fire blue",
+							"It increases his sword speed",
+							"It makes it cost less stamina"
+						]
+					},
+					{
+						"correct": "Dragon's Dream",
+						"difficulty": "Medium",
+						"explanation": "Dragon's Dream releases a cloud of flammable gas that Igni can ignite.",
+						"question": "What kind of bomb can be used in combination with Igni to create a massive explosion?",
+						"wrong": [
+							"Grapeshot",
+							"Dancing Star",
+							"Moon Dust"
+						]
+					},
+					{
+						"correct": "Griffin School",
+						"difficulty": "Medium",
+						"explanation": "The Griffin gear is designed for Witcher 'mages' who rely on their Signs.",
+						"question": "Which armor set specifically boosts the power of Signs like Igni?",
+						"wrong": [
+							"Wolf School",
+							"Cat School",
+							"Bear School"
+						]
+					},
+					{
+						"correct": "The Circle of Elements",
+						"difficulty": "Medium",
+						"explanation": "The Circle of Elements near Kaer Morhen is where Witchers harness natural magical power.",
+						"question": "In the 'Trial of the Medallion', where must Geralt go to charge his signs?",
+						"wrong": [
+							"A volcano",
+							"A library",
+							"A graveyard"
+						]
+					},
+					{
+						"correct": "Burning",
+						"difficulty": "Hard",
+						"explanation": "Burning not only deals damage but also panics most enemies, leaving them defenseless.",
+						"question": "Which of these status effects is Igni famous for applying?",
+						"wrong": [
+							"Poison",
+							"Bleeding",
+							"Freezing"
+						]
+					},
+					{
+						"correct": "Monster Nests",
+						"difficulty": "Hard",
+						"explanation": "While Grapeshot is more common, Igni can be used on some flammable environmental hazards to clear nests.",
+						"question": "Igni can be used to destroy specific objects in the world. Which ones?",
+						"wrong": [
+							"Stone walls",
+							"Iron gates",
+							"Magic barriers"
+						]
+					},
+					{
+						"correct": "Glyph of Igni",
+						"difficulty": "Hard",
+						"explanation": "Glyphs are used to enhance specific signs within the sockets of gear.",
+						"question": "What is the name of the glyph that increases Igni's power when slotted into armor?",
+						"wrong": [
+							"Glyph of Fire",
+							"Glyph of Burning",
+							"Glyph of the Sun"
+						]
+					},
+					{
+						"correct": "The Toad Prince",
+						"difficulty": "Hard",
+						"explanation": "The Toad Prince lives in the sewers and is largely unaffected by fire damage.",
+						"question": "Which boss is notoriously resistant to Igni?",
+						"wrong": [
+							"The Leshen",
+							"The Grave Hag",
+							"The Werewolf"
+						]
+					},
+					{
+						"correct": "All of it",
+						"difficulty": "Hard",
+						"explanation": "By default, casting a Sign consumes Geralt's entire stamina bar, which then must regenerate.",
+						"question": "What is the base stamina cost to cast Igni?",
+						"wrong": [
+							"50 percent",
+							"10 percent",
+							"None"
+						]
+					}
+				]
+			},
+			"id": "the_witcher_3_wild_hunt_igni",
+			"meta": {
+				"date_added": "2026-03-10",
+				"entity_category": "Theme Item",
+				"full_title": "Igni",
+				"lore_desc": "A basic but versatile Witcher Sign that allows the user to discharge a burst of fire from their hand.",
+				"theme_origin": "the witcher 3 wild hunt",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Magic",
+					"Witcher",
+					"Weapon"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -40720,12 +43899,109 @@
 					"name": "Phantom Navigators"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Morgana",
 						"Haru Okumura"
 					],
 					"name": "Beauty Thief"
+				}
+			]
+		},
+		{
+			"id": "the witcher 3 wild hunt",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Geralt of Rivia",
+						"Cirilla Fiona Elen Riannon",
+						"Yennefer of Vengerberg"
+					],
+					"name": "The Witcher's Family"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Geralt of Rivia",
+						"Vesemir",
+						"Kaer Morhen"
+					],
+					"name": "Defenders of the Keep"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Dandelion",
+						"Triss Merigold",
+						"Novigrad"
+					],
+					"name": "Streets of Novigrad"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Geralt of Rivia",
+						"Roach",
+						"Aerondight"
+					],
+					"name": "The Witcher's Arsenal"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Geralt of Rivia",
+						"Cirilla Fiona Elen Riannon"
+					],
+					"name": "Destiny Intertwined"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Bloody Baron",
+						"Gwent"
+					],
+					"name": "Care For a Round?"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Leshen",
+						"Igni"
+					],
+					"name": "Kill It With Fire"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Eredin Bréacc Glas",
+						"Cirilla Fiona Elen Riannon"
+					],
+					"name": "The Wild Hunt"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Geralt of Rivia",
+						"Gaunter O'Dimm"
+					],
+					"name": "Master of Mirrors"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Yennefer of Vengerberg",
+						"The Skellige Isles"
+					],
+					"name": "The Anomaly"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Geralt of Rivia",
+						"Triss Merigold"
+					],
+					"name": "Team Triss"
 				}
 			]
 		}
