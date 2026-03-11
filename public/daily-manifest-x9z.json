@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773271451,
+	"last_updated": 1773271675,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2008,6 +2008,59 @@
 				"elden_ring_maliketh,_the_black_blade",
 				"elden_ring_rennala,_queen_of_the_full_moon",
 				"elden_ring_godfrey,_first_elden_lord"
+			]
+		},
+		"2026-03-13": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Bloodborne: Insight Check",
+			"share_text": "Tonight... Gehrman joins the hunt",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"bloodborne_lady_maria",
+				"bloodborne_gehrman",
+				"bloodborne_holy_moonlight_sword"
+			],
+			"starters": [
+				"bloodborne_hunter's_dream",
+				"bloodborne_father_gascoigne",
+				"bloodborne_the_doll",
+				"bloodborne_lady_maria",
+				"bloodborne_ludwig",
+				"bloodborne_saw_cleaver",
+				"bloodborne_eileen_the_crow",
+				"bloodborne_central_yharnam",
+				"bloodborne_holy_moonlight_sword",
+				"bloodborne_gehrman",
+				"bloodborne_vicar_amelia",
+				"bloodborne_rom",
+				"bloodborne_micolash",
+				"bloodborne_orphan_of_kos",
+				"bloodborne_amygdala",
+				"bloodborne_alfred",
+				"bloodborne_djura",
+				"bloodborne_old_yharnam",
+				"bloodborne_byrgenwerth",
+				"bloodborne_cainhurst_castle",
+				"bloodborne_whirligig_saw",
+				"bloodborne_burial_blade",
+				"bloodborne_insight",
+				"bloodborne_blood_echoes",
+				"bloodborne_moon_presence",
+				"bloodborne_messengers"
 			]
 		}
 	}
