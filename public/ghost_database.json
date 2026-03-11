@@ -45401,6 +45401,4868 @@
 					"Tarnished"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Doll",
+						"difficulty": "Easy",
+						"explanation": "The Plain Doll remains a lifeless object until the Hunter gains the Insight necessary to see her true form.",
+						"question": "Which inanimate resident of the Dream comes to life once you gain your first point of Insight?",
+						"wrong": [
+							"The Messengers",
+							"Gehrman",
+							"The Workshop Cat"
+						]
+					},
+					{
+						"correct": "Speaking to the Doll",
+						"difficulty": "Easy",
+						"explanation": "The Doll channels Blood Echoes into the Hunter's body to increase their strength and skill.",
+						"question": "What is the primary method of leveling up your attributes within the Hunter's Dream?",
+						"wrong": [
+							"Using the Workshop Bench",
+							"Burning Blood Echoes",
+							"Kneeling at the Altar"
+						]
+					},
+					{
+						"correct": "The Workshop",
+						"difficulty": "Easy",
+						"explanation": "The Workshop allows Hunters to repair, fortify, and customize their trick weapons with Blood Gems.",
+						"question": "What structure serves as the Hunter's primary storage and weapon fortification station?",
+						"wrong": [
+							"The Cathedral",
+							"The Laboratory",
+							"The Great Library"
+						]
+					},
+					{
+						"correct": "The Awakening Headstone",
+						"difficulty": "Easy",
+						"explanation": "Headstones act as portals, linking the Dream to various regions of the waking world.",
+						"question": "Where do Hunters spawn when they first arrive in the Dream or return from Yharnam?",
+						"wrong": [
+							"The Workshop Fireplace",
+							"The Garden Gates",
+							"The Moon Altar"
+						]
+					},
+					{
+						"correct": "Gehrman",
+						"difficulty": "Easy",
+						"explanation": "Gehrman was the very first Hunter and now acts as an advisor to those trapped in the Dream.",
+						"question": "Who is the elderly man in a wheelchair who serves as your guide within the Dream?",
+						"wrong": [
+							"Master Willem",
+							"Ludwig",
+							"Laurence"
+						]
+					},
+					{
+						"correct": "Messengers",
+						"difficulty": "Medium",
+						"explanation": "Messengers are inhabitant spirits of the Dream that worship Hunters and facilitate trade.",
+						"question": "What are the small, grey creatures that pop out of the ground to sell you items called?",
+						"wrong": [
+							"Imps",
+							"Goblins",
+							"Spirit Vessels"
+						]
+					},
+					{
+						"correct": "Endless Pillars",
+						"difficulty": "Medium",
+						"explanation": "Outside the playable area, the Dream appears to be situated in a void filled with massive, vertical stone pillars.",
+						"question": "The Hunter's Dream is physically located atop a pillar of rock surrounded by what landmark?",
+						"wrong": [
+							"A Sea of Blood",
+							"A Dark Forest",
+							"A Snowy Mountain"
+						]
+					},
+					{
+						"correct": "It catches on fire",
+						"difficulty": "Medium",
+						"explanation": "Once the end of the Hunt is near, the Workshop is set ablaze as the Dream begins to conclude its cycle.",
+						"question": "What happens to the Workshop in the Hunter's Dream during the final stages of the game?",
+						"wrong": [
+							"It crumbles into the sea",
+							"It turns into a Great One",
+							"It disappears entirely"
+						]
+					},
+					{
+						"correct": "Bold Hunter's Mark",
+						"difficulty": "Medium",
+						"explanation": "Unlike the standard Mark, the Bold version allows a safe return while preserving your currency.",
+						"question": "Which specific item allows the Hunter to warp back to the Dream without losing Blood Echoes?",
+						"wrong": [
+							"Shining Coins",
+							"Lead Elixir",
+							"Small Resonant Bell"
+						]
+					},
+					{
+						"correct": "Find a Ribbon or Hat",
+						"difficulty": "Medium",
+						"explanation": "Finding cosmetic items like the Red Ribbon or Top Hat allows you to dress up your Messengers at the stump.",
+						"question": "What must you do to unlock the 'Stump' in the back of the Dream to customize your Messengers?",
+						"wrong": [
+							"Defeat a Great One",
+							"Perform a Ritual",
+							"Reach Level 50"
+						]
+					},
+					{
+						"correct": "Moon Presence",
+						"difficulty": "Hard",
+						"explanation": "The Moon Presence, also known as Flora, sustains the Dream and uses Gehrman as its surrogate child.",
+						"question": "Which Great One is the secret 'host' or creator of the Hunter's Dream?",
+						"wrong": [
+							"Oedon",
+							"Kos",
+							"Amygdala"
+						]
+					},
+					{
+						"correct": "Coldblood Flower",
+						"difficulty": "Hard",
+						"explanation": "The fields are filled with pale, white flowers that mirror the Lumenflowers found in the Research Hall.",
+						"question": "What is the name of the flower that covers the field where you face the final boss in the Dream?",
+						"wrong": [
+							"Sedge Flower",
+							"White Lupin",
+							"Lumenflower"
+						]
+					},
+					{
+						"correct": "Siderite",
+						"difficulty": "Hard",
+						"explanation": "Siderite is said to have fallen from the heavens, and Gehrman's weapon was forged from this celestial mineral.",
+						"question": "According to the Burial Blade's description, what material is the Hunter's Dream supposedly made of?",
+						"wrong": [
+							"Solidified Blood",
+							"Petrified Wood",
+							"Dream Essence"
+						]
+					},
+					{
+						"correct": "Small Hair Ornament",
+						"difficulty": "Hard",
+						"explanation": "Giving the Doll the Small Hair Ornament causes her to weep a 'Tear Stone' and express a rare moment of joy.",
+						"question": "Which item can be found in the real-world 'Abandoned Old Workshop' that triggers a secret dialogue with the Doll?",
+						"wrong": [
+							"Old Hunter Bone",
+							"Tear Stone",
+							"One Third of Umbilical Cord"
+						]
+					},
+					{
+						"correct": "An Infant Great One",
+						"difficulty": "Hard",
+						"explanation": "By consuming three Umbilical Cords, the Hunter ascends humanity to become a newborn Great One.",
+						"question": "In the 'Childhood's Beginning' ending, what does the Hunter transform into within the Dream?",
+						"wrong": [
+							"A New Doll",
+							"A Beast-Man",
+							"The New Gehrman"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_hunter's_dream",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Hunter's Dream",
+				"lore_desc": "A spectral workshop and safe haven maintained by the Moon Presence to host the Hunters of the Dream.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Sanctuary",
+					"Moon",
+					"Workshop"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A werewolf-like beast",
+						"difficulty": "Easy",
+						"explanation": "Halfway through the fight, Gascoigne loses his humanity and transforms into a large, aggressive beast.",
+						"question": "What is Father Gascoigne's primary transformation mid-fight?",
+						"wrong": [
+							"A giant spider",
+							"A ball of snakes",
+							"A spectral ghost"
+						]
+					},
+					{
+						"correct": "Tiny Music Box",
+						"difficulty": "Easy",
+						"explanation": "The music box plays a melody that reminds him of his family, momentarily confusing his beastly mind.",
+						"question": "Which item, given to you by his daughter, can stun Gascoigne during the fight?",
+						"wrong": [
+							"Shining Coin",
+							"Wooden Shield",
+							"Red Brooch"
+						]
+					},
+					{
+						"correct": "Oedon Tomb",
+						"difficulty": "Easy",
+						"explanation": "The fight takes place in a graveyard known as the Tomb of Oedon, filled with tombstones that act as obstacles.",
+						"question": "In what location do you encounter Father Gascoigne?",
+						"wrong": [
+							"Grand Cathedral",
+							"Iosefka's Clinic",
+							"Hemwick Charnel Lane"
+						]
+					},
+					{
+						"correct": "Hunter Axe",
+						"difficulty": "Easy",
+						"explanation": "He uses the Hunter Axe, often extending it to its two-handed form to perform spinning attacks.",
+						"question": "What trick weapon does Gascoigne wield in his human phase?",
+						"wrong": [
+							"Saw Cleaver",
+							"Threaded Cane",
+							"Kirkhammer"
+						]
+					},
+					{
+						"correct": "Father",
+						"difficulty": "Easy",
+						"explanation": "Though he is called 'Father', the description of his garb notes that this is a title from a foreign land.",
+						"question": "What title is Gascoigne referred to by, despite the Healing Church not using it?",
+						"wrong": [
+							"Bishop",
+							"Saint",
+							"Deacon"
+						]
+					},
+					{
+						"correct": "Viola",
+						"difficulty": "Medium",
+						"explanation": "Viola's body is found on a rooftop nearby, and her Red Brooch can be returned to her daughter.",
+						"question": "What is the name of Father Gascoigne's wife, whom you find deceased in the arena?",
+						"wrong": [
+							"Adella",
+							"Annalise",
+							"Arianna"
+						]
+					},
+					{
+						"correct": "Hunter Blunderbuss",
+						"difficulty": "Medium",
+						"explanation": "His Blunderbuss has a wide spread, making it very effective at stopping the Hunter's movements.",
+						"question": "What firearm does Gascoigne use to parry the player?",
+						"wrong": [
+							"Hunter Pistol",
+							"Evelyn",
+							"Repeating Pistol"
+						]
+					},
+					{
+						"correct": "Henryk",
+						"difficulty": "Medium",
+						"explanation": "Henryk was an old hunter and a colleague of Gascoigne's; you later fight him in the same arena.",
+						"question": "Who was Gascoigne's partner in hunting before he went mad?",
+						"wrong": [
+							"Alfred",
+							"Djura",
+							"Valtr"
+						]
+					},
+					{
+						"correct": "He transforms early",
+						"difficulty": "Medium",
+						"explanation": "Playing the box three times while he is human will trigger his beast transformation prematurely.",
+						"question": "What happens if you use the Tiny Music Box too many times before his transformation?",
+						"wrong": [
+							"He regains his health",
+							"He runs away",
+							"The music box breaks"
+						]
+					},
+					{
+						"correct": "Mergo's Lullaby",
+						"difficulty": "Medium",
+						"explanation": "The music box plays a version of Mergo's Lullaby, a recurring and haunting melody throughout the game.",
+						"question": "What is the flavor text of the music box's song title?",
+						"wrong": [
+							"Lullaby of the Moon",
+							"Gehrman's Theme",
+							"Hail the Nightmare"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Hard",
+						"explanation": "The Red Jeweled Brooch is a key quest item that can be turned into a Blood Gem or given to his daughter.",
+						"question": "What color is the brooch found on Viola's body?",
+						"wrong": [
+							"Gold",
+							"Blue",
+							"Emerald"
+						]
+					},
+					{
+						"correct": "A foreign land",
+						"difficulty": "Hard",
+						"explanation": "Gascoigne is an outsider to Yharnam, similar to the player character, which is why he holds the title 'Father'.",
+						"question": "According to the lore, where did Gascoigne travel from before arriving in Yharnam?",
+						"wrong": [
+							"Cainhurst",
+							"The Fishing Hamlet",
+							"The Dream"
+						]
+					},
+					{
+						"correct": "The smell of incense",
+						"difficulty": "Hard",
+						"explanation": "The scarf is stained with the scent of holy incense, which is meant to ward off the stench of beasts.",
+						"question": "What is the unique feature of Gascoigne's Hunter Garb according to its description?",
+						"wrong": [
+							"Its fire resistance",
+							"Its silk lining",
+							"It is immune to blood"
+						]
+					},
+					{
+						"correct": "She is never named",
+						"difficulty": "Hard",
+						"explanation": "While often called 'Gascoigne's Daughter' by fans, she is never given a formal name in the game credits or dialogue.",
+						"question": "What is the name of the daughter who gives you the Music Box?",
+						"wrong": [
+							"Elena",
+							"Clara",
+							"Sophie"
+						]
+					},
+					{
+						"correct": "Beasts all over the shop",
+						"difficulty": "Hard",
+						"explanation": "His iconic line 'Beasts all over the shop... You'll be one of them, sooner or later' highlights his growing insanity.",
+						"question": "Which phrase does Gascoigne utter as he prepares to fight the player?",
+						"wrong": [
+							"Fear the old blood",
+							"Tonight, Gehrman joins the hunt",
+							"A hunter must hunt"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_father_gascoigne",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Father Gascoigne",
+				"lore_desc": "A former priest of a foreign land who became a hunter and eventually succumbed to the beastly scourge.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Beast",
+					"Hunter"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blood Echoes",
+						"difficulty": "Easy",
+						"explanation": "The Doll converts the echoes of blood gathered from slain enemies into physical and mental power.",
+						"question": "What resource does the Doll use to level up the Hunter's stats?",
+						"wrong": [
+							"Insight",
+							"Coldblood",
+							"Quicksilver Bullets"
+						]
+					},
+					{
+						"correct": "She respawns next time you visit",
+						"difficulty": "Easy",
+						"explanation": "The Doll is an immortal construct of the Dream; even if destroyed, she returns when the area is reloaded.",
+						"question": "What happens if you attack and 'kill' the Doll in the Hunter's Dream?",
+						"wrong": [
+							"She is gone forever",
+							"Gehrman attacks you",
+							"You can no longer level up"
+						]
+					},
+					{
+						"correct": "Lady Maria",
+						"difficulty": "Easy",
+						"explanation": "Gehrman created the Doll in the likeness of his former student, Maria, whom he harbored a deep obsession for.",
+						"question": "Which character was the physical model for the Doll's appearance?",
+						"wrong": [
+							"Vicar Amelia",
+							"Queen Annalise",
+							"Eileen the Crow"
+						]
+					},
+					{
+						"correct": "Zero",
+						"difficulty": "Easy",
+						"explanation": "A Hunter requires at least one point of Insight to perceive the Doll as a living being.",
+						"question": "When the Doll is 'dormant' (lifeless), what is your Insight level usually at?",
+						"wrong": [
+							"Ten",
+							"Ninety-nine",
+							"One"
+						]
+					},
+					{
+						"correct": "A curtsy",
+						"difficulty": "Easy",
+						"explanation": "The Doll is programmed to be polite and will respond to several of the player's gestures with her own.",
+						"question": "What gesture does the Doll often perform if you bow to her?",
+						"wrong": [
+							"A wave",
+							"A clap",
+							"A roar"
+						]
+					},
+					{
+						"correct": "Pale white fluid",
+						"difficulty": "Medium",
+						"explanation": "Instead of red blood, the Doll leaks a 'paleblood' or milky fluid, indicating her artificial nature.",
+						"question": "What does the Doll bleed when she is hit by the player?",
+						"wrong": [
+							"Red blood",
+							"Black oil",
+							"Sparkling dust"
+						]
+					},
+					{
+						"correct": "Abandoned Old Workshop",
+						"difficulty": "Medium",
+						"explanation": "A physical, silent version of the Doll sits in the hidden Abandoned Old Workshop in Cathedral Ward.",
+						"question": "Where can the 'real' non-animated version of the Doll be found in the waking world?",
+						"wrong": [
+							"Byrgenwerth College",
+							"Healing Church Workshop",
+							"Upper Cathedral Ward"
+						]
+					},
+					{
+						"correct": "Small Hair Ornament",
+						"difficulty": "Medium",
+						"explanation": "The ornament belonged to the real Lady Maria, and seeing it triggers a faint emotional memory in the Doll.",
+						"question": "What item can you give the Doll to make her shed a 'Tear Stone'?",
+						"wrong": [
+							"Ring of Betrothal",
+							"Pearl Slug",
+							"Blood Stone Shard"
+						]
+					},
+					{
+						"correct": "Like a mother holding a baby",
+						"difficulty": "Medium",
+						"explanation": "After the Hunter becomes an infant Great One, the Doll picks them up and says, 'Are you cold? Oh, good Hunter.'",
+						"question": "In the 'Childhood's Beginning' ending, how does the Doll treat the Hunter?",
+						"wrong": [
+							"Like a servant to a king",
+							"She ignores them",
+							"She tries to kill them"
+						]
+					},
+					{
+						"correct": "Tear Blood Gem",
+						"difficulty": "Medium",
+						"explanation": "The Tear Stone becomes a Tear Blood Gem that provides passive HP recovery when slotted into a weapon.",
+						"question": "What is the name of the 'Tear' item the Doll gives you, which can be used for health regeneration?",
+						"wrong": [
+							"Doll's Crystal",
+							"Droplet of Hope",
+							"Pulsing Gemstone"
+						]
+					},
+					{
+						"correct": "Let the echoes become your strength",
+						"difficulty": "Hard",
+						"explanation": "Her prayer is: 'Let the echoes become your strength. Let it be as you wish... this nourish-ment.'",
+						"question": "Which of these lines is part of the Doll's prayer for the Hunter?",
+						"wrong": [
+							"Fear the old blood",
+							"The sky and the cosmos are one",
+							"Seek the paleblood"
+						]
+					},
+					{
+						"correct": "Joint stiffness",
+						"difficulty": "Hard",
+						"explanation": "Her slight idling twitches are designed to mimic the subtle movements of old, articulated porcelain dolls.",
+						"question": "The Doll's finger movements occasionally twitch. This is a reference to what real-world doll-making phenomenon?",
+						"wrong": [
+							"The uncanny valley",
+							"Puppet mastery",
+							"Clockwork winding"
+						]
+					},
+					{
+						"correct": "Silver",
+						"difficulty": "Hard",
+						"explanation": "Her eyes are a pale silver, reflecting the moonlight that governs the Dream.",
+						"question": "What is the specific color of the Doll's eyes?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Violet"
+						]
+					},
+					{
+						"correct": "Moon Presence",
+						"difficulty": "Hard",
+						"explanation": "As the animator of the Dream, the Moon Presence likely gave the Doll sentience to comfort the lonely Gehrman.",
+						"question": "Which Great One is theorized to have breathed life into the Doll at Gehrman's request?",
+						"wrong": [
+							"Oedon",
+							"Ebrietas",
+							"Kos"
+						]
+					},
+					{
+						"correct": "She claps",
+						"difficulty": "Hard",
+						"explanation": "The Doll is highly responsive; she will clap her hands if you express joy in her presence.",
+						"question": "If you use the 'Make a Gesture' action 'Joy' in front of the Doll, how does she react?",
+						"wrong": [
+							"She tilts her head",
+							"She laughs",
+							"She hides her face"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_the_doll",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "The Doll",
+				"lore_desc": "A life-sized porcelain doll created by Gehrman, animated by the Hunter's Insight to serve and empower them.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Construct",
+					"Ally",
+					"Dream"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Astral Clocktower",
+						"difficulty": "Easy",
+						"explanation": "She sits in a chair in the Astral Clocktower, guarding the entrance to the Fishing Hamlet.",
+						"question": "In which DLC location does the fight with Lady Maria take place?",
+						"wrong": [
+							"Hunter's Nightmare",
+							"Research Hall",
+							"Fishing Hamlet"
+						]
+					},
+					{
+						"correct": "Rakuyo",
+						"difficulty": "Easy",
+						"explanation": "The Rakuyo is a twin-blade weapon that splits into a saber and a dagger.",
+						"question": "What is the name of Maria's signature trick weapon?",
+						"wrong": [
+							"Chikage",
+							"Burial Blade",
+							"Blade of Mercy"
+						]
+					},
+					{
+						"correct": "Her own blood",
+						"difficulty": "Easy",
+						"explanation": "Despite despising her heritage, she stabs herself to coat her blades in blood for longer reach and more damage.",
+						"question": "What substance does Maria use to buff her weapons during her second phase?",
+						"wrong": [
+							"Fire paper",
+							"Bolt paper",
+							"Arcane mist"
+						]
+					},
+					{
+						"correct": "Annalise, Queen of the Vilebloods",
+						"difficulty": "Easy",
+						"explanation": "Maria originated from Cainhurst Castle and shared the blood of the Vileblood royalty.",
+						"question": "Lady Maria is a distant relative of which royal figure?",
+						"wrong": [
+							"Queen Yharnam",
+							"The Doll",
+							"Vicar Amelia"
+						]
+					},
+					{
+						"correct": "Stabs herself through the chest",
+						"difficulty": "Easy",
+						"explanation": "She attempts to commit suicide to avoid fighting, but the Hunter's presence forces her into action.",
+						"question": "What does Maria do to herself at the very start of the fight after the cutscene?",
+						"wrong": [
+							"Drinks a potion",
+							"Transforms into a beast",
+							"Teleports behind the player"
+						]
+					},
+					{
+						"correct": "Fire",
+						"difficulty": "Medium",
+						"explanation": "Her final phase ignites the blood trails, creating massive explosive arcs with every swing.",
+						"question": "In her third phase, what element is added to her blood-coated attacks?",
+						"wrong": [
+							"Poison",
+							"Lightning",
+							"Frost"
+						]
+					},
+					{
+						"correct": "Down a well",
+						"difficulty": "Medium",
+						"explanation": "Overcome with guilt for the massacre at the Fishing Hamlet, she discarded her weapon in a well filled with shark-giants.",
+						"question": "Where did Maria throw her weapon, the Rakuyo, when she could no longer bear the guilt of her actions?",
+						"wrong": [
+							"Into the sea",
+							"In the clocktower rafters",
+							"In a coffin"
+						]
+					},
+					{
+						"correct": "The Old Hunters",
+						"difficulty": "Medium",
+						"explanation": "She was one of the original hunters who served Gehrman during the early days of the hunt.",
+						"question": "What is the name of the secret organization of hunters Maria belonged to under Gehrman?",
+						"wrong": [
+							"The Powder Kegs",
+							"The Executioners",
+							"The Choir"
+						]
+					},
+					{
+						"correct": "The massacre of the Fishing Hamlet",
+						"difficulty": "Medium",
+						"explanation": "She guards the way to the Hamlet to hide the terrible sins committed by the hunters against the villagers and Kos.",
+						"question": "What is the 'secret' Maria is protecting at the Astral Clocktower?",
+						"wrong": [
+							"The identity of the Moon Presence",
+							"The birth of the Doll",
+							"The location of Cainhurst"
+						]
+					},
+					{
+						"correct": "She hugs the player",
+						"difficulty": "Medium",
+						"explanation": "Her visceral attack looks like a tragic embrace, reflecting her weary and sorrowful nature.",
+						"question": "What is unique about Maria's parry/visceral attack animation?",
+						"wrong": [
+							"She kicks the player",
+							"She laughs",
+							"She decapitates the player"
+						]
+					},
+					{
+						"correct": "Old Hunter Yamamura",
+						"difficulty": "Hard",
+						"explanation": "Yamamura, a hunter from the East, can be summoned nearby if you complete his short questline.",
+						"question": "Which NPC hunter can be summoned to help with fights leading up to Maria?",
+						"wrong": [
+							"Alfred",
+							"Eileen",
+							"Father Gascoigne"
+						]
+					},
+					{
+						"correct": "Opening the path behind the clock",
+						"difficulty": "Hard",
+						"explanation": "Holding the Celestial Dial near the clock face causes the hands to move, revealing the path to the Fishing Hamlet.",
+						"question": "What is the 'Celestial Dial' used for in Maria's arena?",
+						"wrong": [
+							"Fast traveling to the Dream",
+							"Changing the time of day",
+							"Upgrading the Rakuyo"
+						]
+					},
+					{
+						"correct": "It did not feed on blood",
+						"difficulty": "Hard",
+						"explanation": "Maria disliked the Vileblood tradition of using blood-fueled weapons, though she eventually uses blood in her boss fight.",
+						"question": "Why did Maria prefer the Rakuyo over the Chikage used by her kin?",
+						"wrong": [
+							"It was faster",
+							"It was a gift from Gehrman",
+							"It was made of silver"
+						]
+					},
+					{
+						"correct": "A bottomless curse, a bottomless sea",
+						"difficulty": "Hard",
+						"explanation": "This line highlights the eternal suffering the residents of the Hamlet and the hunters are trapped in.",
+						"question": "What phrase does the narrator say when you enter the Fishing Hamlet after defeating Maria?",
+						"wrong": [
+							"The hunt continues",
+							"Fear the old blood",
+							"Nightmare slain"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Hard",
+						"explanation": "Her hat features a distinct green gemstone, a sharp contrast to the red associated with Vilebloods.",
+						"question": "What is the primary color of the brooch on Lady Maria's hat?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Gold"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_lady_maria",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Lady Maria",
+				"lore_desc": "A student of Gehrman and a distant relative of the Undead Queen, she guarded the secrets of the Fishing Hamlet.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Hunter",
+					"Vileblood"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Accursed",
+						"difficulty": "Easy",
+						"explanation": "In his first phase, he is known as Ludwig, the Accursed, reflecting his loss of humanity.",
+						"question": "What is the unique, horse-like appearance of Ludwig often called?",
+						"wrong": [
+							"The Ravager",
+							"The Stallion",
+							"The Abomination"
+						]
+					},
+					{
+						"correct": "Holy Moonlight Sword",
+						"difficulty": "Easy",
+						"explanation": "Seeing his 'guiding moonlight' allows him to stand tall and fight as a true knight once more.",
+						"question": "What weapon does Ludwig regain his sanity through during the second phase?",
+						"wrong": [
+							"Ludwig's Holy Blade",
+							"Kirkhammer",
+							"Threaded Cane"
+						]
+					},
+					{
+						"correct": "The Hunter's Nightmare",
+						"difficulty": "Easy",
+						"explanation": "Ludwig is the first boss of the Old Hunters DLC, found in the blood-soaked valley of the Nightmare.",
+						"question": "In which DLC area do you fight Ludwig?",
+						"wrong": [
+							"Research Hall",
+							"Fishing Hamlet",
+							"Nightmare Frontier"
+						]
+					},
+					{
+						"correct": "Healing Church Hunters",
+						"difficulty": "Easy",
+						"explanation": "Ludwig moved the hunt from the shadows into the public eye, recruiting Yharnam citizens into the Church Hunters.",
+						"question": "What organization did Ludwig found and lead?",
+						"wrong": [
+							"The Vilebloods",
+							"The League",
+							"The Choir"
+						]
+					},
+					{
+						"correct": "It stays alive on the ground",
+						"difficulty": "Easy",
+						"explanation": "His severed head remains in the arena, allowing you to have a final conversation with him.",
+						"question": "What happens to Ludwig's head after you defeat him?",
+						"wrong": [
+							"It explodes",
+							"It turns into a sword",
+							"It disappears"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Medium",
+						"explanation": "Ludwig stands on his hind legs and wields the Moonlight Sword with two of his many limbs.",
+						"question": "In his 'Holy Blade' phase, Ludwig wields his sword with how many hands?",
+						"wrong": [
+							"One",
+							"Three",
+							"He uses his mouth"
+						]
+					},
+					{
+						"correct": "Church Garb",
+						"difficulty": "Medium",
+						"explanation": "If you wear a Healing Church chest piece, he recognizes you as a fellow hunter and asks if his soldiers were honorable.",
+						"question": "What must you be wearing for Ludwig's head to talk to you peacefully?",
+						"wrong": [
+							"Vileblood Garb",
+							"Hunter's Set",
+							"No clothes"
+						]
+					},
+					{
+						"correct": "A thread of light",
+						"difficulty": "Medium",
+						"explanation": "Ludwig closed his eyes and saw a 'thread of light,' which he associated with the Holy Moonlight Sword.",
+						"question": "What 'guidance' did Ludwig claim to see in the dark, helping him forget his fears?",
+						"wrong": [
+							"The Moon Presence",
+							"A holy angel",
+							"The blood of Christ"
+						]
+					},
+					{
+						"correct": "Ludwig's Holy Blade",
+						"difficulty": "Medium",
+						"explanation": "Ludwig's Holy Blade is a workshop imitation of the actual Moonlight Sword he carried.",
+						"question": "What is the name of the 'normal' weapon version of Ludwig's sword used by players in the base game?",
+						"wrong": [
+							"The Silver Sword",
+							"Church Greatsword",
+							"Hunter's Longsword"
+						]
+					},
+					{
+						"correct": "Valtr",
+						"difficulty": "Medium",
+						"explanation": "Valtr, Master of the League, is one of the most powerful summons for this difficult boss fight.",
+						"question": "Which NPC can be summoned to help you fight Ludwig and is also a member of the League?",
+						"wrong": [
+							"Alfred",
+							"Henriette",
+							"Madman Wallar"
+						]
+					},
+					{
+						"correct": "Ludwig, the Holy Blade",
+						"difficulty": "Hard",
+						"explanation": "The music shifts from chaotic and beastly to a grand, orchestral waltz as Ludwig regains his dignity.",
+						"question": "What is the name of the track that plays during the second half of Ludwig's fight?",
+						"wrong": [
+							"The First Hunter",
+							"Moonlit Melody",
+							"The Night Unfurls"
+						]
+					},
+					{
+						"correct": "On his neck/shoulder",
+						"difficulty": "Hard",
+						"explanation": "He has a smaller, vestigial head that screams and spits white fluid during the first phase.",
+						"question": "Ludwig's beast form has a second, smaller head located where?",
+						"wrong": [
+							"On his tail",
+							"Inside his mouth",
+							"Under his belly"
+						]
+					},
+					{
+						"correct": "He starts howling in despair",
+						"difficulty": "Hard",
+						"explanation": "Telling him 'No' crushes his spirit, causing him to weep and howl until he dies.",
+						"question": "What happens if you tell Ludwig 'No' when he asks if his Church Hunters were honorable?",
+						"wrong": [
+							"He attacks you",
+							"He laughs",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "Eye of a Blood-Drunk Hunter",
+						"difficulty": "Hard",
+						"explanation": "The Eye of a Blood-Drunk Hunter is the key that allows the Amygdala to transport you to the DLC.",
+						"question": "What specific item is required to access the area where Ludwig is found?",
+						"wrong": [
+							"Cainhurst Summons",
+							"Old Hunter Bell",
+							"Tonsil Stone"
+						]
+					},
+					{
+						"correct": "Artorias",
+						"difficulty": "Hard",
+						"explanation": "Like Artorias, Ludwig was a legendary hero who fell to the very corruption he fought against.",
+						"question": "Ludwig is often compared to which boss from Dark Souls due to his sword and knightly theme?",
+						"wrong": [
+							"Sif",
+							"Ornstein",
+							"Gwyn"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_ludwig",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Ludwig",
+				"lore_desc": "The first hunter of the Healing Church who eventually transformed into a hideous, horse-like beast.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Beast",
+					"Church"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Transforming (Trick) states",
+						"difficulty": "Easy",
+						"explanation": "Trick weapons can shift between two different forms to suit different combat situations.",
+						"question": "What is the unique mechanic of the Saw Cleaver and other workshop weapons?",
+						"wrong": [
+							"Elemental damage",
+							"Infinite durability",
+							"Shield bash"
+						]
+					},
+					{
+						"correct": "Beasts",
+						"difficulty": "Easy",
+						"explanation": "The 'serrated' edge of the cleaver provides a 20% damage bonus against beast-type enemies.",
+						"question": "The Saw Cleaver deals bonus damage against which type of enemy?",
+						"wrong": [
+							"Kin of the Cosmos",
+							"Great Ones",
+							"Vilebloods"
+						]
+					},
+					{
+						"correct": "A short-range saw",
+						"difficulty": "Easy",
+						"explanation": "In its closed form, it is used for fast, jagged slashes at close range.",
+						"question": "In its untransformed state, what kind of weapon is the Saw Cleaver?",
+						"wrong": [
+							"A long-reach spear",
+							"A heavy hammer",
+							"A whip"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "Players can choose between the Saw Cleaver, the Hunter Axe, and the Threaded Cane.",
+						"question": "The Saw Cleaver is one of how many starting weapons you can choose in the Dream?",
+						"wrong": [
+							"Two",
+							"Four",
+							"Five"
+						]
+					},
+					{
+						"correct": "Saw Spear",
+						"difficulty": "Easy",
+						"explanation": "The Saw Spear is very similar but offers more thrusting attacks and serration in both forms.",
+						"question": "What is the name of the 'sister' weapon to the Cleaver that has a pointed tip?",
+						"wrong": [
+							"Saw Blade",
+							"Jagged Dagger",
+							"Church Pike"
+						]
+					},
+					{
+						"correct": "The Hunter (Box Art)",
+						"difficulty": "Medium",
+						"explanation": "The Saw Cleaver and Hunter Pistol are the 'face' of the game, appearing on the cover and in most trailers.",
+						"question": "Which of these characters is famously depicted using the Saw Cleaver in promotional art?",
+						"wrong": [
+							"Gehrman",
+							"Lady Maria",
+							"Father Gascoigne"
+						]
+					},
+					{
+						"correct": "Strength",
+						"difficulty": "Medium",
+						"explanation": "While it has some Skill scaling, it primarily benefits from the Strength stat.",
+						"question": "What is the primary damage stat for scaling the Saw Cleaver?",
+						"wrong": [
+							"Bloodtinge",
+							"Arcane",
+							"Skill"
+						]
+					},
+					{
+						"correct": "Serration bonus",
+						"difficulty": "Medium",
+						"explanation": "Unlike the Saw Spear, the Cleaver's transformed state is not considered serrated, meaning it loses the beast-damage bonus.",
+						"question": "When transformed, the Saw Cleaver becomes longer but loses what property?",
+						"wrong": [
+							"Ability to parry",
+							"Speed",
+							"Durability"
+						]
+					},
+					{
+						"correct": "Blood-stained bandages",
+						"difficulty": "Medium",
+						"explanation": "The rough, bandaged handle reflects the utilitarian and grim nature of the Hunter's Workshop.",
+						"question": "What material is wrapped around the handle of the Saw Cleaver?",
+						"wrong": [
+							"Leather straps",
+							"Silk ribbon",
+							"Gold wire"
+						]
+					},
+					{
+						"correct": "Saw Hunter Badge",
+						"difficulty": "Medium",
+						"explanation": "The Saw Hunter Badge is found in the sewer area of Central Yharnam near a giant pig.",
+						"question": "Which badge do you need to purchase the Saw Cleaver from the Messengers?",
+						"wrong": [
+							"Sword Hunter Badge",
+							"Powder Keg Badge",
+							"Radiant Sword Hunter Badge"
+						]
+					},
+					{
+						"correct": "L1 Transformation attack",
+						"difficulty": "Hard",
+						"explanation": "The L1 attack, which switches the weapon's form mid-combo, is incredibly effective at building up Beasthood.",
+						"question": "Which specific attack with the Saw Cleaver is famous for its high stagger and damage potential?",
+						"wrong": [
+							"R2 Charged poke",
+							"Jump attack",
+							"Backstep slash"
+						]
+					},
+					{
+						"correct": "To symbolize the cruelty of the hunt",
+						"difficulty": "Hard",
+						"explanation": "The serrated edge is designed to be as painful and messy as possible, mirroring the descent of the hunters into savagery.",
+						"question": "What is the lore reason for the serrated edge of the Cleaver?",
+						"wrong": [
+							"It was cheaper to make",
+							"It was meant for cutting wood",
+							"It mimics the teeth of beasts"
+						]
+					},
+					{
+						"correct": "Uncanny and Lost",
+						"difficulty": "Hard",
+						"explanation": "Uncanny and Lost versions of weapons allow for different Blood Gem shapes to optimize damage.",
+						"question": "Which version of the Saw Cleaver can be found in the Chalice Dungeons with different gem slots?",
+						"wrong": [
+							"Masterwork",
+							"Abyssal",
+							"Cursed"
+						]
+					},
+					{
+						"correct": "The Gehrman Workshop",
+						"difficulty": "Hard",
+						"explanation": "It is one of the oldest designs, predating the more complex 'powder keg' or 'church' weapons.",
+						"question": "The Saw Cleaver is said to be a product of which specific workshop?",
+						"wrong": [
+							"The Powder Kegs",
+							"The Healing Church",
+							"The Vilebloods"
+						]
+					},
+					{
+						"correct": "Saw",
+						"difficulty": "Hard",
+						"explanation": "As the first weapon designed for the game, its internal name was simply 'Saw'.",
+						"question": "In the game's code, what was the internal development name for the Saw Cleaver?",
+						"wrong": [
+							"Weapon_01",
+							"Cleave_Hunter",
+							"Blood_Blade"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_saw_cleaver",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Saw Cleaver",
+				"lore_desc": "The iconic trick weapon of Yharnam hunters, designed to shred the tough hides of beasts.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Workshop",
+					"Trick"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blade of Mercy",
+						"difficulty": "Easy",
+						"explanation": "The Blade of Mercy is forged from Siderite and splits into two daggers for rapid attacks.",
+						"question": "What is the name of Eileen's dual-blade trick weapon?",
+						"wrong": [
+							"Rakuyo",
+							"Beast Claw",
+							"Threaded Cane"
+						]
+					},
+					{
+						"correct": "Hunter of Hunters",
+						"difficulty": "Easy",
+						"explanation": "Her job is to execute hunters who have become 'drunk with blood' and turned into beasts.",
+						"question": "What is Eileen's unique role within the hunter hierarchy?",
+						"wrong": [
+							"Vicar of the Church",
+							"Queen's Guard",
+							"Messenger of the Moon"
+						]
+					},
+					{
+						"correct": "Crow",
+						"difficulty": "Easy",
+						"explanation": "She wears the Crowfeather Set, which includes a wooden beak mask meant to symbolize a sky burial.",
+						"question": "What is the distinctive animal theme of Eileen's armor set?",
+						"wrong": [
+							"Raven",
+							"Owl",
+							"Wolf"
+						]
+					},
+					{
+						"correct": "Central Yharnam (Sewers rafters)",
+						"difficulty": "Easy",
+						"explanation": "She is tucked away on a balcony overlooking the sewers, near some breakable barrels.",
+						"question": "Where is the first location you can find Eileen to start her quest?",
+						"wrong": [
+							"Hunter's Dream",
+							"Cathedral Ward",
+							"Byrgenwerth"
+						]
+					},
+					{
+						"correct": "A hunter must hunt",
+						"difficulty": "Easy",
+						"explanation": "Her line 'A hunter must hunt' (often pronounced with a thick accent) is one of the most famous in the game.",
+						"question": "What is Eileen's signature catchphrase about the nature of hunting?",
+						"wrong": [
+							"Fear the old blood",
+							"Leave the hoonting to me",
+							"May the good blood guide you"
+						]
+					},
+					{
+						"correct": "Grand Cathedral",
+						"difficulty": "Medium",
+						"explanation": "If the player progresses too far without helping her, she goes mad and attacks the player where Vicar Amelia was fought.",
+						"question": "If you fail Eileen's quest, she becomes a hostile boss in which location?",
+						"wrong": [
+							"Oedon Tomb",
+							"Forbidden Woods",
+							"Cainhurst Castle"
+						]
+					},
+					{
+						"correct": "Henryk",
+						"difficulty": "Medium",
+						"explanation": "She attempts to kill Henryk, Father Gascoigne's old partner, but usually needs the player's help to survive.",
+						"question": "Who is the powerful hunter Eileen is found fighting in the Tomb of Oedon?",
+						"wrong": [
+							"Gascoigne",
+							"Alfred",
+							"Djura"
+						]
+					},
+					{
+						"correct": "The Bloody Crow of Cainhurst",
+						"difficulty": "Medium",
+						"explanation": "The Bloody Crow is one of the most difficult NPC encounters in the game, wielding a Chikage and Repeating Pistol.",
+						"question": "What is the name of the 'final boss' of Eileen's questline, found in the Grand Cathedral?",
+						"wrong": [
+							"The Lost Hunter",
+							"Vileblood Valtr",
+							"The Raven Knight"
+						]
+					},
+					{
+						"correct": "An outsider",
+						"difficulty": "Medium",
+						"explanation": "Like the player, Eileen is not a native of Yharnam, though she has lived there for a long time.",
+						"question": "Eileen's home land is hinted to be 'outside' Yharnam. What does she call herself?",
+						"wrong": [
+							"A Vileblood",
+							"A Pthumerian",
+							"A Dreamer"
+						]
+					},
+					{
+						"correct": "Crow Hunter Badge",
+						"difficulty": "Medium",
+						"explanation": "The Crow Hunter Badge allows the player to purchase the Blade of Mercy and the Crowfeather Set.",
+						"question": "What is the name of the badge you receive from Eileen to unlock her gear?",
+						"wrong": [
+							"Assassin's Badge",
+							"Mercy Badge",
+							"Siderite Badge"
+						]
+					},
+					{
+						"correct": "It contains incense to mask the scent of blood",
+						"difficulty": "Hard",
+						"explanation": "Like real plague doctors, hunters wore masks stuffed with herbs to block the nauseating stench of the beastly scourge.",
+						"question": "Why does Eileen wear a mask that looks like a bird's beak?",
+						"wrong": [
+							"To help her see in the dark",
+							"To scare children",
+							"To honor the Great Ones"
+						]
+					},
+					{
+						"correct": "She was once a Hunter of the Dream like the player",
+						"difficulty": "Hard",
+						"explanation": "This dialogue confirms that other NPCs were once 'linked' to the Hunter's Dream but have since lost that connection.",
+						"question": "Eileen mentions that she 'no longer dreams.' What does this imply?",
+						"wrong": [
+							"She has insomnia",
+							"She is a ghost",
+							"She is immune to the Nightmare"
+						]
+					},
+					{
+						"correct": "Hunter Covenant Rune",
+						"difficulty": "Hard",
+						"explanation": "She gives you the 'Hunter' rune, which allows you to join the Hunter of Hunters covenant.",
+						"question": "What does Eileen give you if you complete her questline successfully?",
+						"wrong": [
+							"A Third of Umbilical Cord",
+							"Blood Rock",
+							"Lady Maria's Hat"
+						]
+					},
+					{
+						"correct": "It ends immediately",
+						"difficulty": "Hard",
+						"explanation": "Eileen can permanently die during the fight with Henryk, causing the player to lose out on her rewards unless they kill her for the badge.",
+						"question": "If Eileen is killed by Henryk, what happens to her questline?",
+						"wrong": [
+							"She respawns in the Dream",
+							"The player becomes the Crow",
+							"Henryk becomes a vendor"
+						]
+					},
+					{
+						"correct": "Blood Vials",
+						"difficulty": "Hard",
+						"explanation": "Eileen will use standard Blood Vials, but she only has a limited number, making her vulnerable if the fight lasts too long.",
+						"question": "Which specific item does Eileen use to heal herself during the fight with Henryk?",
+						"wrong": [
+							"Blue Elixir",
+							"Iosefka's Blood Vial",
+							"She doesn't heal"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_eileen_the_crow",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Eileen the Crow",
+				"lore_desc": "An aging hunter wearing a beak mask who is tasked with 'hunting the hunters' who have succumbed to blood-drunkenness.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hunter",
+					"NPC",
+					"Assassin"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Night of the Hunt",
+						"difficulty": "Easy",
+						"explanation": "The city is locked down for the Hunt, where citizens take to the streets to purge beasts.",
+						"question": "What massive event is taking place in Central Yharnam when the player arrives?",
+						"wrong": [
+							"A Royal Wedding",
+							"A Carnival",
+							"The Coronation"
+						]
+					},
+					{
+						"correct": "Great Bridge",
+						"difficulty": "Easy",
+						"explanation": "The Great Bridge is a dead-end path that was originally the main entrance to Cathedral Ward.",
+						"question": "What is the name of the bridge where you fight the Cleric Beast?",
+						"wrong": [
+							"Oedon Bridge",
+							"Tower Bridge",
+							"The Crossing"
+						]
+					},
+					{
+						"correct": "Yharnamites",
+						"difficulty": "Easy",
+						"explanation": "These are the citizens of Yharnam who have partially succumbed to the beast blood but still retain a mob mentality.",
+						"question": "What are the common enemies in this area who carry torches and pitchforks?",
+						"wrong": [
+							"Pthumerians",
+							"Vilebloods",
+							"Hollows"
+						]
+					},
+					{
+						"correct": "Iosefka",
+						"difficulty": "Easy",
+						"explanation": "Iosefka offers the player her blood and warns them to stay away for their own safety.",
+						"question": "Who is the doctor you meet through the clinic window at the start of the area?",
+						"wrong": [
+							"Amelia",
+							"Adella",
+							"Annalise"
+						]
+					},
+					{
+						"correct": "A burning beast",
+						"difficulty": "Easy",
+						"explanation": "A giant, crucified beast is being burned in the street, illustrating the brutality of the hunt.",
+						"question": "What large, bonfire-lit object are the Yharnamites gathered around in the center of the street?",
+						"wrong": [
+							"A statue of a god",
+							"A food stall",
+							"A pile of weapons"
+						]
+					},
+					{
+						"correct": "The Skeptical Man",
+						"difficulty": "Medium",
+						"explanation": "He is a grumpy survivor who will always believe the opposite of whatever the player tells him.",
+						"question": "Which NPC lives in a house near the dog cages and laughs maniacally when spoken to?",
+						"wrong": [
+							"Gilbert",
+							"Arianna",
+							"The Beggar"
+						]
+					},
+					{
+						"correct": "Gilbert",
+						"difficulty": "Medium",
+						"explanation": "Gilbert is an outsider who came to Yharnam for a cure but eventually turns into a beast himself.",
+						"question": "What is the name of the sick man who gives you the Flamesprayer and speaks to you through a window?",
+						"wrong": [
+							"Alfred",
+							"Gehrman",
+							"Patches"
+						]
+					},
+					{
+						"correct": "A dark house with two floors",
+						"difficulty": "Medium",
+						"explanation": "The 'Dark House' is a key shortcut that players must clear to reach the Cleric Beast faster.",
+						"question": "What shortcut connects the Central Yharnam lamp to the area near the Great Bridge?",
+						"wrong": [
+							"An underground tunnel",
+							"An elevator",
+							"A teleportation portal"
+						]
+					},
+					{
+						"correct": "A Giant Pig",
+						"difficulty": "Medium",
+						"explanation": "The Maneater Boar is a recurring mini-boss enemy found in the tunnels beneath the city.",
+						"question": "What giant animal enemy is found hiding in the sewers of Central Yharnam?",
+						"wrong": [
+							"A Great Serpent",
+							"A Large Crocodile",
+							"A Behemoth"
+						]
+					},
+					{
+						"correct": "Tomb of Oedon",
+						"difficulty": "Medium",
+						"explanation": "Oedon is a formless Great One, and the graveyard is named in his honor.",
+						"question": "What is the name of the graveyard where Father Gascoigne is fought?",
+						"wrong": [
+							"Hemwick Cemetery",
+							"Forbidden Grave",
+							"The Black Church"
+						]
+					},
+					{
+						"correct": "Hunter Garb Set",
+						"difficulty": "Hard",
+						"explanation": "A version of the Hunter Garb (without the cape) can be found near the crows in the sewer area nearby.",
+						"question": "Which item can be found on the fountain plaza guarded by a Brick Troll?",
+						"wrong": [
+							"Saw Cleaver",
+							"Monocular",
+							"Blood Stone Shard"
+						]
+					},
+					{
+						"correct": "It wards off the scent of beasts",
+						"difficulty": "Hard",
+						"explanation": "Incense is used by the citizens to keep the beasts away from their homes during the hunt.",
+						"question": "What is the flavor text for the 'Incense' found outside the windows of safe houses?",
+						"wrong": [
+							"It attracts the Great Ones",
+							"It is used for cooking",
+							"It makes the hunters sleep"
+						]
+					},
+					{
+						"correct": "Viola",
+						"difficulty": "Hard",
+						"explanation": "Viola is the wife of Father Gascoigne, found dead on a rooftop in the Tomb of Oedon area.",
+						"question": "In the sewers, you can find a girl's mother's body. What was the mother's name?",
+						"wrong": [
+							"Elena",
+							"Maria",
+							"Adella"
+						]
+					},
+					{
+						"correct": "The Great Bridge",
+						"difficulty": "Hard",
+						"explanation": "While it's the first boss arena, it's lore-wise a gate that the Church locked to prevent the spread of the scourge.",
+						"question": "What is the name of the bridge that leads to the Cathedral Ward but is closed during the hunt?",
+						"wrong": [
+							"The Healing Bridge",
+							"The Skywalk",
+							"The Merchant's Path"
+						]
+					},
+					{
+						"correct": "Iosefka's Clinic (Back Entrance)",
+						"difficulty": "Hard",
+						"explanation": "By breaking some crates, players can find a path through the poison swamp to the back of the clinic.",
+						"question": "There is a hidden path in the dog cage area. Where does it lead?",
+						"wrong": [
+							"The Hunter's Dream",
+							"Cathedral Ward",
+							"The Forbidden Woods"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_central_yharnam",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Central Yharnam",
+				"lore_desc": "The primary setting of the game's early hours, a sprawling city of gothic spires and blood-soaked streets.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Gothic",
+					"Victorian"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ludwig",
+						"difficulty": "Easy",
+						"explanation": "The sword is dropped by Ludwig, the Holy Blade, after his defeat in the DLC.",
+						"question": "Who is the primary owner and boss you get this sword from?",
+						"wrong": [
+							"Gehrman",
+							"Lady Maria",
+							"Logarius"
+						]
+					},
+					{
+						"correct": "Glowing Blue/Green",
+						"difficulty": "Easy",
+						"explanation": "The blade glows with a celestial moonlight, shifting from a physical claymore to a magical energy blade.",
+						"question": "What color is the blade when it is in its transformed state?",
+						"wrong": [
+							"Bright Red",
+							"Deep Purple",
+							"Pure Gold"
+						]
+					},
+					{
+						"correct": "Arcane",
+						"difficulty": "Easy",
+						"explanation": "The magical properties and projectiles of the sword scale heavily with the Arcane stat.",
+						"question": "What stat is most important for increasing the damage of the Moonlight Sword's beams?",
+						"wrong": [
+							"Strength",
+							"Bloodtinge",
+							"Skill"
+						]
+					},
+					{
+						"correct": "A one-handed greatsword",
+						"difficulty": "Easy",
+						"explanation": "Without the moonlight buff, it is a sturdy, one-handed silver sword.",
+						"question": "In its untransformed state, the Holy Moonlight Sword behaves like which type of weapon?",
+						"wrong": [
+							"A short dagger",
+							"A heavy hammer",
+							"A curved scimitar"
+						]
+					},
+					{
+						"correct": "My guiding moonlight",
+						"difficulty": "Easy",
+						"explanation": "His famous line is: 'Ah, you were at my side, all along. My true mentor... My guiding moonlight...'",
+						"question": "What does Ludwig call the sword during his mid-fight cutscene?",
+						"wrong": [
+							"My holy protector",
+							"The light of God",
+							"My true mentor"
+						]
+					},
+					{
+						"correct": "Quicksilver Bullets",
+						"difficulty": "Medium",
+						"explanation": "Like many arcane tools, the Moonlight Sword's projectiles cost bullets to fire.",
+						"question": "What resource is consumed when you fire light beams from the transformed sword?",
+						"wrong": [
+							"Blood Echoes",
+							"Stamina Only",
+							"Durability"
+						]
+					},
+					{
+						"correct": "Patches",
+						"difficulty": "Medium",
+						"explanation": "While Patches doesn't use it, the 'Moonlight Sword' itself is a tradition in FromSoftware games (though Patches usually hates Clerics who might use it).",
+						"question": "Which recurring FromSoftware character is most associated with this sword across multiple games?",
+						"wrong": [
+							"Solaire",
+							"Siegmeyer",
+							"Artorias"
+						]
+					},
+					{
+						"correct": "Ludwig's Holy Blade",
+						"difficulty": "Medium",
+						"explanation": "Ludwig's Holy Blade was mass-produced by the Church Workshop to mimic the legendary original.",
+						"question": "What is the name of the 'fake' version of this sword found in the base game?",
+						"wrong": [
+							"Silver Greatsword",
+							"Kirkhammer",
+							"Hallowed Blade"
+						]
+					},
+					{
+						"correct": "It was discovered by Ludwig",
+						"difficulty": "Medium",
+						"explanation": "Ludwig found the sword, and it provided him with guidance that eventually led to his transformation.",
+						"question": "According to the lore, where did the Moonlight Sword originate?",
+						"wrong": [
+							"It was forged by Gehrman",
+							"It fell from the moon",
+							"It was a gift from Cainhurst"
+						]
+					},
+					{
+						"correct": "Arcane",
+						"difficulty": "Medium",
+						"explanation": "The sword is one of the few weapons in the game that deals split physical and arcane damage.",
+						"question": "What type of damage does the sword deal in addition to physical?",
+						"wrong": [
+							"Fire",
+							"Bolt",
+							"Poison"
+						]
+					},
+					{
+						"correct": "A horizontal light wave",
+						"difficulty": "Hard",
+						"explanation": "The R2 fires a projectile wave of moonlight that can hit enemies at a distance.",
+						"question": "What is the unique R2 attack while the sword is transformed?",
+						"wrong": [
+							"A vertical slam",
+							"A shield bash",
+							"A whirlwind spin"
+						]
+					},
+					{
+						"correct": "A powerful thrust with an explosion",
+						"difficulty": "Hard",
+						"explanation": "The L2 is a slow, powerful thrust that releases a burst of arcane energy upon impact.",
+						"question": "What is the L2 attack for the Holy Moonlight Sword?",
+						"wrong": [
+							"A defensive parry",
+							"A healing light",
+							"A teleport jump"
+						]
+					},
+					{
+						"correct": "Holy Moonlight Sword",
+						"difficulty": "Hard",
+						"explanation": "The description reveals that Ludwig's 'guidance' was actually an attunement to the cosmic Void.",
+						"question": "Which item description mentions that 'the light' of the sword is actually 'the cosmos'?",
+						"wrong": [
+							"Ludwig's Garb",
+							"Great One's Wisdom",
+							"Empty Phantasm Shell"
+						]
+					},
+					{
+						"correct": "1994 (King's Field)",
+						"difficulty": "Hard",
+						"explanation": "The sword is the studio's longest-running Easter egg, debuting in their very first game, King's Field.",
+						"question": "In what year of FromSoftware's history did the first version of the Moonlight Sword appear?",
+						"wrong": [
+							"2011 (Dark Souls)",
+							"2009 (Demon's Souls)",
+							"1997 (Armored Core)"
+						]
+					},
+					{
+						"correct": "Kill the head",
+						"difficulty": "Hard",
+						"explanation": "If you don't meet the requirements for dialogue or simply want the weapon immediately, you can strike the severed head to obtain it.",
+						"question": "How do you obtain the sword if you choose NOT to talk to Ludwig's head?",
+						"wrong": [
+							"Wait for it to die",
+							"It appears in the shop",
+							"You cannot get it"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_holy_moonlight_sword",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Holy Moonlight Sword",
+				"lore_desc": "The legendary blade discovered by Ludwig, shining with the light of the cosmos.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Arcane",
+					"Church"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Wheelchair",
+						"difficulty": "Easy",
+						"explanation": "Despite his age and use of a wheelchair, Gehrman is a formidable warrior when he stands to fight.",
+						"question": "What mobility device does Gehrman use while residing in the Hunter's Dream?",
+						"wrong": [
+							"Crutches",
+							"Stretcher",
+							"Cane"
+						]
+					},
+					{
+						"correct": "The First Hunter",
+						"difficulty": "Easy",
+						"explanation": "Gehrman founded the workshop and defined the style of the hunt before the Healing Church took over.",
+						"question": "What is Gehrman's official title among the hunters of Yharnam?",
+						"wrong": [
+							"The Last Hunter",
+							"The Great Mentor",
+							"The Blood Minister"
+						]
+					},
+					{
+						"correct": "Burial Blade",
+						"difficulty": "Easy",
+						"explanation": "The Burial Blade is a curved greatsword that transforms into a massive scythe.",
+						"question": "Which specific weapon does Gehrman wield during his boss fight?",
+						"wrong": [
+							"Saw Cleaver",
+							"Holy Moonlight Sword",
+							"Beast Cutter"
+						]
+					},
+					{
+						"correct": "Great Tree",
+						"difficulty": "Easy",
+						"explanation": "The battle occurs in a field of white flowers beneath a massive, ancient tree.",
+						"question": "In which specific sub-location of the Hunter's Dream does Gehrman's boss fight take place?",
+						"wrong": [
+							"Workshop",
+							"Altar of Despair",
+							"Lecture Building"
+						]
+					},
+					{
+						"correct": "Siderite",
+						"difficulty": "Easy",
+						"explanation": "Siderite is a rare mineral said to have fallen from the heavens.",
+						"question": "What is the primary material used to forge Gehrman's signature scythe?",
+						"wrong": [
+							"Coldblood",
+							"Quicksilver",
+							"Darkbeast Bone"
+						]
+					},
+					{
+						"correct": "Master Willem",
+						"difficulty": "Medium",
+						"explanation": "Gehrman was associated with Byrgenwerth before the split that led to the Healing Church.",
+						"question": "According to lore, Gehrman was the apprentice of which legendary figure?",
+						"wrong": [
+							"Laurence",
+							"Ludwig",
+							"Logarius"
+						]
+					},
+					{
+						"correct": "Behead them",
+						"difficulty": "Medium",
+						"explanation": "By executing the player in the dream, he allows them to wake up in the real world's sunrise.",
+						"question": "What does Gehrman offer to do for the player to end their dream?",
+						"wrong": [
+							"Poison them",
+							"Burn them",
+							"Shoot them"
+						]
+					},
+					{
+						"correct": "Lady Maria",
+						"difficulty": "Medium",
+						"explanation": "Lady Maria of the Astral Clocktower studied under Gehrman and inspired the creation of the Doll.",
+						"question": "Which female hunter was famously the student and protege of Gehrman?",
+						"wrong": [
+							"Eileen the Crow",
+							"Annalise",
+							"Adella"
+						]
+					},
+					{
+						"correct": "Old Hunter Badge",
+						"difficulty": "Medium",
+						"explanation": "This badge allows the purchase of the Burial Blade and the Blade of Mercy.",
+						"question": "What is the name of the badge Gehrman gives you if you defeat him?",
+						"wrong": [
+							"Saw Hunter Badge",
+							"Wheel Hunter Badge",
+							"Crow Hunter Badge"
+						]
+					},
+					{
+						"correct": "Unshackle me",
+						"difficulty": "Medium",
+						"explanation": "Gehrman is essentially a prisoner of the Moon Presence, yearning for liberation.",
+						"question": "What phrase does Gehrman mutter in his sleep regarding his desire to leave the Dream?",
+						"wrong": [
+							"Wake me up",
+							"Kill me now",
+							"End this hunt"
+						]
+					},
+					{
+						"correct": "Accursed Brew",
+						"difficulty": "Hard",
+						"explanation": "The hunters' sins at the Fishing Hamlet are the core of the Old Hunters' nightmare.",
+						"question": "Which item's description mentions that Gehrman 'obscured his intentions' while at the fishing hamlet?",
+						"wrong": [
+							"Kos Parasite",
+							"Old Hunter Bone",
+							"Blacksky Eye"
+						]
+					},
+					{
+						"correct": "Old Hunter Bone",
+						"difficulty": "Hard",
+						"explanation": "The bone allows hunters to use the art of Quickening, a technique pioneered by Gehrman.",
+						"question": "What unique 'quick-step' item is said to belong to one of Gehrman's students?",
+						"wrong": [
+							"Empty Phantasm Shell",
+							"Beast Roar",
+							"Messenger's Gift"
+						]
+					},
+					{
+						"correct": "The Guide",
+						"difficulty": "Hard",
+						"explanation": "The player is seen in the wheelchair, taking Gehrman's place as the mentor for the next hunter.",
+						"question": "In the 'Honoring Wishes' ending, what role does the player take over from Gehrman?",
+						"wrong": [
+							"The King",
+							"The Great One",
+							"The Beast"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Hard",
+						"explanation": "The white lilies, or Coldblood Flowers, symbolize the purity and tragedy of the dream's end.",
+						"question": "What color are the flowers in the field where Gehrman fights the player?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Skill",
+						"difficulty": "Hard",
+						"explanation": "As a weapon of the 'Old Hunters,' it relies on finesse and speed rather than brute force.",
+						"question": "What specific stat does the Burial Blade scale most effectively with at maximum reinforcement?",
+						"wrong": [
+							"Strength",
+							"Bloodtinge",
+							"Arcane"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_gehrman",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Gehrman",
+				"lore_desc": "The very first hunter who resides in the Hunter's Dream to guide newcomers.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hunter",
+					"Boss",
+					"Mentor"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Wolf",
+						"difficulty": "Easy",
+						"explanation": "She becomes a massive, white-furred beast with lupine features and elk-like antlers.",
+						"question": "What animal does Vicar Amelia most closely resemble after her transformation?",
+						"wrong": [
+							"Crow",
+							"Spider",
+							"Snake"
+						]
+					},
+					{
+						"correct": "Gold Pendant",
+						"difficulty": "Easy",
+						"explanation": "The pendant is a keepsake of the Healing Church's high-ranking members.",
+						"question": "What item is Amelia clutching tightly while she prays before her transformation?",
+						"wrong": [
+							"Silver Sword",
+							"Wooden Shield",
+							"Old Bell"
+						]
+					},
+					{
+						"correct": "Grand Cathedral",
+						"difficulty": "Easy",
+						"explanation": "She is found at the very top of Cathedral Ward, guarding the secrets of the Church.",
+						"question": "In which grand building does the fight against Vicar Amelia take place?",
+						"wrong": [
+							"Oedon Chapel",
+							"Astral Clocktower",
+							"Iosefka's Clinic"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "Her white fur distinguishes her from the common dark-furred beasts of Yharnam.",
+						"question": "What is the color of the long fur covering Vicar Amelia's beast form?",
+						"wrong": [
+							"Black",
+							"Brown",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Pray",
+						"difficulty": "Easy",
+						"explanation": "She kneels and glows with a golden light to restore her vitality.",
+						"question": "What does Amelia do during the fight to recover her health?",
+						"wrong": [
+							"Eat",
+							"Drink Blood",
+							"Howl"
+						]
+					},
+					{
+						"correct": "Numbing Mist",
+						"difficulty": "Medium",
+						"explanation": "Numbing Mist prevents any form of HP recovery for a short duration.",
+						"question": "Which item can players use to prevent Vicar Amelia from healing herself?",
+						"wrong": [
+							"Fire Paper",
+							"Bolt Paper",
+							"Molotov Cocktail"
+						]
+					},
+					{
+						"correct": "The Altar Skull",
+						"difficulty": "Medium",
+						"explanation": "Touching the beast-skull on the altar triggers a flashback that provides a crucial password.",
+						"question": "Upon defeating Amelia, what does the player interact with to see a memory of Laurence and Willem?",
+						"wrong": [
+							"A Painting",
+							"The Pendant",
+							"A Statue"
+						]
+					},
+					{
+						"correct": "Fear the Old Blood",
+						"difficulty": "Medium",
+						"explanation": "This password allows entry into the Forbidden Woods.",
+						"question": "What is the password learned from the memory after Amelia's death?",
+						"wrong": [
+							"Seek the Paleblood",
+							"Ascend to Oedon",
+							"The Hunt is Long"
+						]
+					},
+					{
+						"correct": "Fire",
+						"difficulty": "Medium",
+						"explanation": "Like most furry beasts in Yharnam, Amelia is highly flammable.",
+						"question": "What type of damage is Vicar Amelia most weak to?",
+						"wrong": [
+							"Bolt",
+							"Arcane",
+							"Blood"
+						]
+					},
+					{
+						"correct": "Gold Blood Gem",
+						"difficulty": "Medium",
+						"explanation": "It provides a gem that increases damage against beasts.",
+						"question": "What does the 'Gold Pendant' turn into if the player decides to use it as a consumable?",
+						"wrong": [
+							"Blood Stone Shard",
+							"Great One's Wisdom",
+							"Lead Elixir"
+						]
+					},
+					{
+						"correct": "Vicar",
+						"difficulty": "Hard",
+						"explanation": "A 'Vicar' acts as a representative or deputy, in this case for the departed founders.",
+						"question": "What is the name of the rank Amelia holds within the Healing Church?",
+						"wrong": [
+							"Bishop",
+							"Cardinal",
+							"Deacon"
+						]
+					},
+					{
+						"correct": "High-pitched Screaming",
+						"difficulty": "Hard",
+						"explanation": "Her constant, harrowing shrieks are iconic to the encounter.",
+						"question": "What specific sound characterizes Amelia's presence throughout the entire fight?",
+						"wrong": [
+							"Low Growling",
+							"Laughter",
+							"Deep Breathing"
+						]
+					},
+					{
+						"correct": "Old Blood",
+						"difficulty": "Hard",
+						"explanation": "The Healing Church's reliance on blood ministration eventually turns its leaders into the most hideous beasts.",
+						"question": "Amelia's transformation is a result of her consuming too much of what substance?",
+						"wrong": [
+							"Beast Blood Pellets",
+							"Lead Elixir",
+							"Sedatives"
+						]
+					},
+					{
+						"correct": "Henriett",
+						"difficulty": "Hard",
+						"explanation": "Old Hunter Henriett is available just outside the Grand Cathedral.",
+						"question": "Which NPC can be summoned to help with the Amelia fight if the player has the Old Hunter Bell?",
+						"wrong": [
+							"Alfred",
+							"Gascoigne",
+							"Valtr"
+						]
+					},
+					{
+						"correct": "She clutches her pendant",
+						"difficulty": "Hard",
+						"explanation": "Even in her monstrous form, her left hand remains clenched around her precious gold pendant.",
+						"question": "What detail on Amelia's beast form suggests she still retains a shred of her human faith?",
+						"wrong": [
+							"She wears a hat",
+							"She speaks Latin",
+							"She uses a sword"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_vicar_amelia",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Vicar Amelia",
+				"lore_desc": "The high-ranking leader of the Healing Church who transforms into a white-furred beast.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Beast",
+					"Church"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Vacuous Spider",
+						"difficulty": "Easy",
+						"explanation": "Her 'vacuous' nature suggests an empty or hollow mind, despite her cosmic power.",
+						"question": "What title is given to Rom in the game?",
+						"wrong": [
+							"The Silent Weaver",
+							"The Great Larva",
+							"The Hidden Queen"
+						]
+					},
+					{
+						"correct": "Moonside Lake",
+						"difficulty": "Easy",
+						"explanation": "The battle occurs on a surreal, infinite plane of water reflecting the moon.",
+						"question": "Where does the fight with Rom take place?",
+						"wrong": [
+							"Nightmare Frontier",
+							"Cathedral Ward",
+							"Forbidden Woods"
+						]
+					},
+					{
+						"correct": "Small Spiders",
+						"difficulty": "Easy",
+						"explanation": "Rom is surrounded by a small army of spiders with hard, rocky heads.",
+						"question": "What smaller creatures does Rom summon to protect her?",
+						"wrong": [
+							"Crows",
+							"Snakes",
+							"Wolves"
+						]
+					},
+					{
+						"correct": "It turns purple",
+						"difficulty": "Easy",
+						"explanation": "Her death breaks the illusion, revealing the Blood Moon (the Blood-Red sky).",
+						"question": "What happens to the sky in Yharnam after Rom is defeated?",
+						"wrong": [
+							"It turns green",
+							"It turns pitch black",
+							"It turns bright gold"
+						]
+					},
+					{
+						"correct": "Head",
+						"difficulty": "Easy",
+						"explanation": "Her head is like stone; players must attack her soft, fleshy sides and rear.",
+						"question": "Which part of Rom's body is heavily armored and takes very little damage?",
+						"wrong": [
+							"Tail",
+							"Belly",
+							"Legs"
+						]
+					},
+					{
+						"correct": "Master Willem",
+						"difficulty": "Medium",
+						"explanation": "Master Willem of Byrgenwerth points toward the water, guiding you to find Rom.",
+						"question": "Who is the elderly NPC sitting on a rocking chair overlooking the lake where Rom is found?",
+						"wrong": [
+							"Gehrman",
+							"Laurence",
+							"Micolash"
+						]
+					},
+					{
+						"correct": "Bolt",
+						"difficulty": "Medium",
+						"explanation": "The blue sparks of Bolt damage are highly effective against this aquatic Great One.",
+						"question": "What elemental damage is Rom most vulnerable to?",
+						"wrong": [
+							"Fire",
+							"Arcane",
+							"Poison"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "She teleports twice, creating three distinct stages of the encounter.",
+						"question": "How many phases does the Rom fight typically have based on her teleportation?",
+						"wrong": [
+							"One",
+							"Two",
+							"Four"
+						]
+					},
+					{
+						"correct": "Queen Yharnam",
+						"difficulty": "Medium",
+						"explanation": "The Pthumerian Queen appears, weeping as the Blood Moon descends.",
+						"question": "Which character appears as a spectral white figure after Rom's death?",
+						"wrong": [
+							"The Doll",
+							"Lady Maria",
+							"Annalise"
+						]
+					},
+					{
+						"correct": "The Mensis Ritual",
+						"difficulty": "Medium",
+						"explanation": "Rom acts as a seal, masking the horrific reality of the ritual taking place in Yahar'gul.",
+						"question": "According to lore, what is Rom specifically hiding from the world?",
+						"wrong": [
+							"The Healing Church",
+							"The Old Blood",
+							"The Hunter's Dream"
+						]
+					},
+					{
+						"correct": "Lower Pthumeru",
+						"difficulty": "Hard",
+						"explanation": "She appears in the Lower Pthumeru Chalice, in a much smaller room than the lake.",
+						"question": "Which Chalice Dungeon contains a version of Rom as a boss?",
+						"wrong": [
+							"Hintertomb",
+							"Aailing Loran",
+							"Great Isz"
+						]
+					},
+					{
+						"correct": "Call from Beyond",
+						"difficulty": "Hard",
+						"explanation": "Technically a variation of 'A Call Beyond,' she rains down projectiles from the cosmos.",
+						"question": "What is the name of the spell Rom uses that drops blue crystals from the sky?",
+						"wrong": [
+							"Meteor Rain",
+							"Starfall",
+							"Arcane Hail"
+						]
+					},
+					{
+						"correct": "Eyes",
+						"difficulty": "Hard",
+						"explanation": "Micolash prays to be granted eyes, 'as you once did for the vacuous Rom'.",
+						"question": "Micolash mentions Rom in his dialogue, saying she was 'granted' what?",
+						"wrong": [
+							"Wings",
+							"Blood",
+							"Wisdom"
+						]
+					},
+					{
+						"correct": "Kin Coldblood",
+						"difficulty": "Hard",
+						"explanation": "She drops a high-tier Coldblood item suitable for her status as a 'Kin' of the Great Ones.",
+						"question": "What unique item is dropped by Rom upon her defeat?",
+						"wrong": [
+							"Great One's Wisdom",
+							"Blood Rock",
+							"Living String"
+						]
+					},
+					{
+						"correct": "A human scholar",
+						"difficulty": "Hard",
+						"explanation": "It is implied she was a student of Byrgenwerth elevated to her state by Kos or Willem.",
+						"question": "What was Rom before she became a Great One, according to popular lore theories?",
+						"wrong": [
+							"A literal spider",
+							"A statue",
+							"A piece of blood"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_rom",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Rom",
+				"lore_desc": "A 'vacuous' spider who hides the true ritual of Mensis behind a magical veil.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Great One",
+					"Lake"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mensis Cage",
+						"difficulty": "Easy",
+						"explanation": "He wears a literal birdcage on his head to act as an antenna for the Great Ones.",
+						"question": "What is the distinctive piece of headwear worn by Micolash?",
+						"wrong": [
+							"Crown of Illusions",
+							"Gold Ardeo",
+							"Top Hat"
+						]
+					},
+					{
+						"correct": "Host of the Nightmare",
+						"difficulty": "Easy",
+						"explanation": "As the Host, his consciousness maintains the Nightmare of Mensis.",
+						"question": "What is Micolash's title in the game?",
+						"wrong": [
+							"King of the Dream",
+							"Lord of the Woods",
+							"Scholar of the Deep"
+						]
+					},
+					{
+						"correct": "Runs away",
+						"difficulty": "Easy",
+						"explanation": "Micolash is famous for leading the player on a chase through a foggy maze.",
+						"question": "What does Micolash do for the majority of the first half of his boss fight?",
+						"wrong": [
+							"Throws rocks",
+							"Summons dogs",
+							"Heals himself"
+						]
+					},
+					{
+						"correct": "Kos",
+						"difficulty": "Easy",
+						"explanation": "He famously shouts, 'Ah, Kos, or some say Kosm... do you hear our prayers?'",
+						"question": "Which entity does Micolash repeatedly call out to during the fight, asking for 'eyes'?",
+						"wrong": [
+							"Oedon",
+							"Amelia",
+							"Flora"
+						]
+					},
+					{
+						"correct": "A Call Beyond",
+						"difficulty": "Easy",
+						"explanation": "This spell fires a flurry of star-like projectiles that can often one-shot the player.",
+						"question": "What explosive Arcane spell does Micolash use in his second phase?",
+						"wrong": [
+							"Augur of Ebrietas",
+							"Executioner's Gloves",
+							"Tiny Tonitrus"
+						]
+					},
+					{
+						"correct": "Now I'm waking up",
+						"difficulty": "Medium",
+						"explanation": "He laments that he will forget everything from the nightmare upon waking.",
+						"question": "What does Micolash say when he finally dies?",
+						"wrong": [
+							"The dream continues",
+							"I see the light",
+							"Curse you hunter"
+						]
+					},
+					{
+						"correct": "School of Mensis",
+						"difficulty": "Medium",
+						"explanation": "The School of Mensis was a rogue branch of the Healing Church obsessed with contacting Great Ones.",
+						"question": "Which organization does Micolash lead?",
+						"wrong": [
+							"Healing Church",
+							"Byrgenwerth Scholars",
+							"The Vilebloods"
+						]
+					},
+					{
+						"correct": "Augur of Ebrietas",
+						"difficulty": "Medium",
+						"explanation": "The Augur of Ebrietas summons the tentacles of a Great One from the palm of his hand.",
+						"question": "What weapon does Micolash use to attack you with tentacles?",
+						"wrong": [
+							"Kos Parasite",
+							"Beast Hunter Saif",
+							"Threaded Cane"
+						]
+					},
+					{
+						"correct": "His mummified corpse",
+						"difficulty": "Medium",
+						"explanation": "His physical body is a dried-out husk sitting in a chair in the Advent Plaza.",
+						"question": "What do you find in the real world (Yahar'gul) that confirms Micolash is long dead?",
+						"wrong": [
+							"His gravestone",
+							"His ghost",
+							"His bloodstain"
+						]
+					},
+					{
+						"correct": "Nightmare of Mensis",
+						"difficulty": "Medium",
+						"explanation": "This late-game area is characterized by the giant brain that causes frenzy.",
+						"question": "What is the name of the area where you fight Micolash?",
+						"wrong": [
+							"Nightmare Frontier",
+							"Hunter's Nightmare",
+							"Lecture Building"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "He is accompanied by two marionette-like enemies in the first phase room.",
+						"question": "How many skeletons/puppets does Micolash summon in the first room he hides in?",
+						"wrong": [
+							"One",
+							"Three",
+							"Four"
+						]
+					},
+					{
+						"correct": "Advent Plaza",
+						"difficulty": "Hard",
+						"explanation": "He is surrounded by other scholars who all died during the ritual.",
+						"question": "What is the name of the bridge-like structure where you find Micolash's body in the waking world?",
+						"wrong": [
+							"Grand Cathedral",
+							"Upper Cathedral Ward",
+							"Hypogean Gaol"
+						]
+					},
+					{
+						"correct": "Our secret ritual",
+						"difficulty": "Hard",
+						"explanation": "He refers to the way Rom used her power at the lake to hide their horrific work.",
+						"question": "Micolash claims that 'the lake mud' was used to hide something. What was it?",
+						"wrong": [
+							"The Great One",
+							"The Queen",
+							"The Forbidden Woods"
+						]
+					},
+					{
+						"correct": "The thread of the hunt",
+						"difficulty": "Hard",
+						"explanation": "He speaks of the eternal cycle of the hunt within the nightmare.",
+						"question": "Micolash mentions that they are 'cursed' to do what 'all night long'?",
+						"wrong": [
+							"Drink the blood",
+							"Sing the song",
+							"Pray to the moon"
+						]
+					},
+					{
+						"correct": "Iron",
+						"difficulty": "Hard",
+						"explanation": "The iron cage acts as a cage for the mind and an antenna for the cosmos.",
+						"question": "What is the 'Mensis Cage' said to be made of, according to its item description?",
+						"wrong": [
+							"Silver",
+							"Gold",
+							"Bone"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_micolash",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Micolash",
+				"lore_desc": "The eccentric and talkative leader of the School of Mensis who rules the Nightmare.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Mensis",
+					"Scholar"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fishing Hamlet",
+						"difficulty": "Easy",
+						"explanation": "He emerges from the corpse of his mother, Kos, on the beach of the Fishing Hamlet.",
+						"question": "Where is the Orphan of Kos found?",
+						"wrong": [
+							"Research Hall",
+							"Hunter's Dream",
+							"Forbidden Woods"
+						]
+					},
+					{
+						"correct": "A placenta",
+						"difficulty": "Easy",
+						"explanation": "He wields a massive, fleshy bladed weapon that is his own placenta.",
+						"question": "What is the Orphan of Kos's weapon shaped like?",
+						"wrong": [
+							"A sword",
+							"A scythe",
+							"An anchor"
+						]
+					},
+					{
+						"correct": "Cries at the moon",
+						"difficulty": "Easy",
+						"explanation": "The Orphan is born sobbing and staring up at the moon in a heart-wrenching scene.",
+						"question": "What does the Orphan do immediately after being born in the cinematic?",
+						"wrong": [
+							"Attacks a villager",
+							"Laughs",
+							"Eats his mother"
+						]
+					},
+					{
+						"correct": "Lightning",
+						"difficulty": "Easy",
+						"explanation": "He calls down massive waves of lightning that travel across the water from his mother's corpse.",
+						"question": "What element does the Orphan summon in his second phase?",
+						"wrong": [
+							"Fire",
+							"Poison",
+							"Ice"
+						]
+					},
+					{
+						"correct": "The Old Hunters",
+						"difficulty": "Easy",
+						"explanation": "He is widely considered the ultimate challenge of the DLC expansion.",
+						"question": "What expansion pack is the Orphan of Kos the final boss of?",
+						"wrong": [
+							"The Blood Moon",
+							"Cainhurst Chronicles",
+							"The Lost Chalice"
+						]
+					},
+					{
+						"correct": "Kos",
+						"difficulty": "Medium",
+						"explanation": "The corpse of Kos (or Kosm) washed up on the shore, leading to the curse of the hunters.",
+						"question": "What is the name of the dead Great One found on the shore near the Orphan?",
+						"wrong": [
+							"Oedon",
+							"Ebrietas",
+							"Amygdala"
+						]
+					},
+					{
+						"correct": "Grows wings",
+						"difficulty": "Medium",
+						"explanation": "He sprouts shadowy, translucent wings and begins leaping high into the air.",
+						"question": "What form does the Orphan take in his second phase to become more mobile?",
+						"wrong": [
+							"Becomes a wolf",
+							"Turns into fog",
+							"Splits in two"
+						]
+					},
+					{
+						"correct": "A black spirit",
+						"difficulty": "Medium",
+						"explanation": "A small black shadow lingers over Kos; hitting it triggers the final 'Nightmare Slain' message.",
+						"question": "After defeating the Orphan's physical body, what must the player hit to truly end the nightmare?",
+						"wrong": [
+							"The mother's head",
+							"A floating eye",
+							"The moon"
+						]
+					},
+					{
+						"correct": "Kos Parasite",
+						"difficulty": "Medium",
+						"explanation": "The Parasite is a weird weapon that only works properly with the Milkweed rune.",
+						"question": "What weapon does the player receive for defeating the Orphan of Kos?",
+						"wrong": [
+							"Rakuyo",
+							"Bloodletter",
+							"Simon's Bowblade"
+						]
+					},
+					{
+						"correct": "The Fishman Priest",
+						"difficulty": "Medium",
+						"explanation": "He mutters about the curse laid upon the hunters by the mother Kos.",
+						"question": "What is the name of the narrator who speaks at the beginning of the Fishing Hamlet?",
+						"wrong": [
+							"Gehrman",
+							"Willem",
+							"Ludwig"
+						]
+					},
+					{
+						"correct": "A human baby",
+						"difficulty": "Hard",
+						"explanation": "His unsettling shrieks were created by processing the cries of an infant.",
+						"question": "The Orphan's scream is actually a modified sound file of what?",
+						"wrong": [
+							"A hawk",
+							"A lion",
+							"A woman"
+						]
+					},
+					{
+						"correct": "Arcane",
+						"difficulty": "Hard",
+						"explanation": "As a true Great One, he is naturally highly resistant to Arcane powers.",
+						"question": "What specific stat is the Orphan of Kos most resistant to?",
+						"wrong": [
+							"Fire",
+							"Bolt",
+							"Physical"
+						]
+					},
+					{
+						"correct": "A Great One",
+						"difficulty": "Hard",
+						"explanation": "His existence within the nightmare is the anchor for the hunters' eternal torment.",
+						"question": "The 'nightmare' is said to be hosted by the Orphan because he is a 'child' of what?",
+						"wrong": [
+							"The Hunter",
+							"The Moon",
+							"The Sun"
+						]
+					},
+					{
+						"correct": "Explosive blood",
+						"difficulty": "Hard",
+						"explanation": "He throws clumps of his own flesh/blood that explode upon impact.",
+						"question": "What unique attack does the Orphan use that involves throwing red projectiles?",
+						"wrong": [
+							"Bone dust",
+							"Acid",
+							"Oil"
+						]
+					},
+					{
+						"correct": "Milkweed",
+						"difficulty": "Hard",
+						"explanation": "Milkweed turns the player's head into a cauliflower-like shape, enabling the Kos Parasite's moveset.",
+						"question": "Which rune allows the player to transform into a 'Kin' and use the Orphan's weapon effectively?",
+						"wrong": [
+							"Beast's Embrace",
+							"Corruption",
+							"Radiance"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_orphan_of_kos",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Orphan of Kos",
+				"lore_desc": "The weeping, newborn Great One found at the end of the Hunter's Nightmare.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Great One",
+					"DLC"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Six",
+						"difficulty": "Easy",
+						"explanation": "These spindly Great Ones are characterized by their many long, thin limbs.",
+						"question": "How many arms does a typical Amygdala have?",
+						"wrong": [
+							"Two",
+							"Four",
+							"Eight"
+						]
+					},
+					{
+						"correct": "Insight",
+						"difficulty": "Easy",
+						"explanation": "At 40 Insight, these hidden monsters become visible to the player.",
+						"question": "What do you need to see the Amygdalas hanging on the buildings in Cathedral Ward?",
+						"wrong": [
+							"A Torch",
+							"Blood Echoes",
+							"A Monocle"
+						]
+					},
+					{
+						"correct": "Nightmare Frontier",
+						"difficulty": "Easy",
+						"explanation": "The player fights an Amygdala at the very end of the rocky Nightmare Frontier.",
+						"question": "Which location serves as the primary boss arena for an Amygdala?",
+						"wrong": [
+							"Old Yharnam",
+							"Cainhurst Castle",
+							"Byrgenwerth"
+						]
+					},
+					{
+						"correct": "Rips them off",
+						"difficulty": "Easy",
+						"explanation": "In a desperate move, it tears off its rear arms to use them as extra-long clubs.",
+						"question": "What does an Amygdala do with its own arms during the final phase of its boss fight?",
+						"wrong": [
+							"Eats them",
+							"Sets them on fire",
+							"Turns them into snakes"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "The Arcane lasers create explosions along the ground in a straight line.",
+						"question": "What color are the lasers that Amygdala shoots from its eyes/head?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Tonsil Stone",
+						"difficulty": "Medium",
+						"explanation": "Patches the Spider gives you this stone, which causes the Amygdala to grab you safely.",
+						"question": "Which item allows an Amygdala to transport you to the Lecture Building?",
+						"wrong": [
+							"Cainhurst Summons",
+							"Eye of a Blood-Drunk Hunter",
+							"Old Hunter Bell"
+						]
+					},
+					{
+						"correct": "Cathedral Ward",
+						"difficulty": "Medium",
+						"explanation": "The Amygdala outside Oedon Chapel grabs you if you have the Eye of a Blood-Drunk Hunter.",
+						"question": "Where is the Amygdala located that transports you to the DLC area?",
+						"wrong": [
+							"Yahar'gul",
+							"Central Yharnam",
+							"Hemwick Charnel Lane"
+						]
+					},
+					{
+						"correct": "Head",
+						"difficulty": "Medium",
+						"explanation": "Like many giants, its head is soft and takes massive damage compared to its armored legs.",
+						"question": "What is the weak point of an Amygdala?",
+						"wrong": [
+							"Tail",
+							"Back",
+							"Legs"
+						]
+					},
+					{
+						"correct": "Defiled Chalice",
+						"difficulty": "Medium",
+						"explanation": "The Defiled Amygdala is one of the most difficult challenges in the game due to the health penalty.",
+						"question": "What is the name of the special chalice dungeon where you fight an Amygdala with half health?",
+						"wrong": [
+							"Pthumeru Ihyll",
+							"Lower Loran",
+							"Great Isz"
+						]
+					},
+					{
+						"correct": "Ailing Loran Chalice",
+						"difficulty": "Medium",
+						"explanation": "Defeating it grants access to the desert-themed Loran dungeons.",
+						"question": "What does the Amygdala drop when defeated in the Nightmare Frontier?",
+						"wrong": [
+							"Pthumeru Chalice",
+							"Great Isz Chalice",
+							"Hintertomb Chalice"
+						]
+					},
+					{
+						"correct": "Fear",
+						"difficulty": "Hard",
+						"explanation": "It's a clever nod to the creature's role in a horror-themed game.",
+						"question": "The name 'Amygdala' is shared with a part of the human brain responsible for what?",
+						"wrong": [
+							"Memory",
+							"Balance",
+							"Speech"
+						]
+					},
+					{
+						"correct": "A club",
+						"difficulty": "Hard",
+						"explanation": "It is a heavy, bone-like club that extends into a flickering tentacle-arm.",
+						"question": "What does the 'Amygdalan Arm' weapon look like in its untransformed state?",
+						"wrong": [
+							"A scythe",
+							"A whip",
+							"A sword"
+						]
+					},
+					{
+						"correct": "Dozens",
+						"difficulty": "Hard",
+						"explanation": "Its head is covered in small, crater-like pits that function as eyes.",
+						"question": "How many eyes are visible on the 'cage' head of an Amygdala?",
+						"wrong": [
+							"Two",
+							"One",
+							"Zero"
+						]
+					},
+					{
+						"correct": "Laser beams",
+						"difficulty": "Hard",
+						"explanation": "They fire high-damage lasers at you while you try to navigate the streets.",
+						"question": "In Yahar'gul, what attack do the Amygdalas on the walls use against the player?",
+						"wrong": [
+							"Fireballs",
+							"Acid spit",
+							"Summoning hunters"
+						]
+					},
+					{
+						"correct": "Lesser Great Ones",
+						"difficulty": "Hard",
+						"explanation": "Because there are so many of them, they are often viewed as a lower or more common form of Great One.",
+						"question": "According to lore, what is the 'Amygdala' often considered to be in the hierarchy of Great Ones?",
+						"wrong": [
+							"The Supreme Gods",
+							"Human Hallucinations",
+							"Mechanical Guards"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_amygdala",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Amygdala",
+				"lore_desc": "Multi-armed Great Ones that cling to the walls of Yharnam, visible only to those with high Insight.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Great One",
+					"Nightmare"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gold Ardeo",
+						"difficulty": "Easy",
+						"explanation": "The Gold Ardeo is a tall, pointed golden cone that represents the Executioners.",
+						"question": "What distinctive headwear is associated with Alfred's faction?",
+						"wrong": [
+							"Top Hat",
+							"Mensis Cage",
+							"Iron Yahar'gul Helm"
+						]
+					},
+					{
+						"correct": "Martyr Logarius",
+						"difficulty": "Easy",
+						"explanation": "Alfred is a devout follower of Logarius, who led the assault on Cainhurst.",
+						"question": "Who was the master and mentor of Alfred?",
+						"wrong": [
+							"Gehrman",
+							"Master Willem",
+							"Father Gascoigne"
+						]
+					},
+					{
+						"correct": "Cainhurst Castle",
+						"difficulty": "Easy",
+						"explanation": "He seeks to finish his master's work by eradicating the last of the Vilebloods.",
+						"question": "Which location does Alfred want to find the entrance to?",
+						"wrong": [
+							"Byrgenwerth",
+							"The Hunter's Dream",
+							"Old Yharnam"
+						]
+					},
+					{
+						"correct": "Logarius Wheel",
+						"difficulty": "Easy",
+						"explanation": "The wheel is a brutal, heavy weapon used by Executioners to 'grind' their enemies.",
+						"question": "What weapon is Alfred famously known for using in battle?",
+						"wrong": [
+							"Saw Cleaver",
+							"Ludwig's Holy Blade",
+							"Tonitrus"
+						]
+					},
+					{
+						"correct": "Smashes her into pulp",
+						"difficulty": "Easy",
+						"explanation": "In a fit of fanatical rage, he pulverizes the Queen into a pile of flesh.",
+						"question": "What does Alfred do to Queen Annalise when he finally finds her?",
+						"wrong": [
+							"Marries her",
+							"Beheads her",
+							"Apprisons her"
+						]
+					},
+					{
+						"correct": "Cathedral Ward",
+						"difficulty": "Medium",
+						"explanation": "He is found praying at an altar on the path to Old Yharnam.",
+						"question": "Where is the first place the player meets Alfred?",
+						"wrong": [
+							"Central Yharnam",
+							"Forbidden Woods",
+							"Hemwick Charnel Lane"
+						]
+					},
+					{
+						"correct": "Unopened Summons",
+						"difficulty": "Medium",
+						"explanation": "The Unopened Summons allows him to bypass the illusions protecting the castle.",
+						"question": "What item must you give Alfred to allow him to reach Cainhurst?",
+						"wrong": [
+							"Cainhurst Badge",
+							"Queen's Flesh",
+							"Old Hunter Bell"
+						]
+					},
+					{
+						"correct": "Destroying Vilebloods",
+						"difficulty": "Medium",
+						"explanation": "The Executioners were a militant arm of the Church dedicated to wiping out the Cainhurst nobility.",
+						"question": "What is the primary goal of the Executioners faction?",
+						"wrong": [
+							"Protecting beasts",
+							"Finding Great Ones",
+							"Healing the sick"
+						]
+					},
+					{
+						"correct": "He commits suicide",
+						"difficulty": "Medium",
+						"explanation": "After achieving his 'purpose,' he returns to his first meeting spot and dies by his own hand.",
+						"question": "What happens to Alfred at the very end of his questline?",
+						"wrong": [
+							"He becomes a boss",
+							"He leaves Yharnam",
+							"He turns into a beast"
+						]
+					},
+					{
+						"correct": "Radiance",
+						"difficulty": "Medium",
+						"explanation": "Radiance increases the HP recovered from blood vials.",
+						"question": "What rune does Alfred give you for joining his covenant?",
+						"wrong": [
+							"Corruption",
+							"Hunter",
+							"Beast"
+						]
+					},
+					{
+						"correct": "Undead",
+						"difficulty": "Hard",
+						"explanation": "The Vilebloods are seen as an immortal, undead perversion of life.",
+						"question": "Alfred refers to the Vilebloods as 'foul' and what other common term?",
+						"wrong": [
+							"Demons",
+							"Leeches",
+							"Traitors"
+						]
+					},
+					{
+						"correct": "Queenly Flesh",
+						"difficulty": "Hard",
+						"explanation": "Taking her remains to the Altar of Despair can bring her back to life.",
+						"question": "Which item can the player use to resurrect the Queen after Alfred smashes her?",
+						"wrong": [
+							"Blood Rock",
+							"Great One's Wisdom",
+							"Third Cord"
+						]
+					},
+					{
+						"correct": "Altar of the Church",
+						"difficulty": "Hard",
+						"explanation": "He is found praying for the soul of his master, Logarius.",
+						"question": "What is the name of the altar where Alfred is first found praying?",
+						"wrong": [
+							"Altar of Despair",
+							"Altar of Ebrietas",
+							"The Blood Altar"
+						]
+					},
+					{
+						"correct": "Look at this rotten mess",
+						"difficulty": "Hard",
+						"explanation": "His dialogue during this scene is famously manic and disturbing.",
+						"question": "What is the specific dialogue Alfred screams while standing over the pulverized Queen?",
+						"wrong": [
+							"The hunt is over",
+							"I am the King",
+							"Praise the Sun"
+						]
+					},
+					{
+						"correct": "Pray",
+						"difficulty": "Hard",
+						"explanation": "He teaches you 'Pray' after you agree to cooperate with him.",
+						"question": "What gesture do you learn from Alfred upon your first meeting?",
+						"wrong": [
+							"Roar",
+							"Hunter's Salutation",
+							"Make Contact"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_alfred",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Alfred",
+				"lore_desc": "A polite but fanatical hunter of the Executioners who seeks to destroy the Vilebloods.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Hunter",
+					"Vileblood"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gatling Gun",
+						"difficulty": "Easy",
+						"explanation": "Djura rains down bullets from a fixed gatling gun atop a high tower.",
+						"question": "What weapon does Djura use to fire at the player from his tower?",
+						"wrong": [
+							"Cannon",
+							"Sniper Rifle",
+							"Flame Thrower"
+						]
+					},
+					{
+						"correct": "Old Yharnam",
+						"difficulty": "Easy",
+						"explanation": "He has vowed to protect the residents of the burned-out Old Yharnam.",
+						"question": "In which city district does Djura reside?",
+						"wrong": [
+							"Central Yharnam",
+							"Upper Cathedral Ward",
+							"Yahar'gul"
+						]
+					},
+					{
+						"correct": "They are still people",
+						"difficulty": "Easy",
+						"explanation": "He believes the beasts are former humans and should be left in peace.",
+						"question": "What is Djura's stance on the beasts of Old Yharnam?",
+						"wrong": [
+							"They must be purged",
+							"They are gods",
+							"They are his pets"
+						]
+					},
+					{
+						"correct": "Shoots at you",
+						"difficulty": "Easy",
+						"explanation": "He warns you to turn back, and then opens fire if you proceed.",
+						"question": "What does Djura do if you enter Old Yharnam through the front gate?",
+						"wrong": [
+							"Welcomes you",
+							"Hides",
+							"Gives you a key"
+						]
+					},
+					{
+						"correct": "Grey Wolf Cap",
+						"difficulty": "Easy",
+						"explanation": "His attire is the Ashen Hunter Set, topped with a wolf-pelt cap.",
+						"question": "What distinctive hat does Djura wear?",
+						"wrong": [
+							"Top Hat",
+							"Gascoigne's Cap",
+							"Hunter's Hat"
+						]
+					},
+					{
+						"correct": "Darkbeast Paarl",
+						"difficulty": "Medium",
+						"explanation": "Approaching from Paarl's arena allows you to reach him without him seeing you, making him open to talk.",
+						"question": "To make Djura friendly, which boss must you approach him from after defeating?",
+						"wrong": [
+							"Vicar Amelia",
+							"Blood-starved Beast",
+							"Father Gascoigne"
+						]
+					},
+					{
+						"correct": "Powder Kegs",
+						"difficulty": "Medium",
+						"explanation": "The Powder Kegs were known for their love of 'big bangs' and complex machinery.",
+						"question": "What is the name of the hunter group Djura formerly belonged to?",
+						"wrong": [
+							"Executioners",
+							"Vilebloods",
+							"Healing Church"
+						]
+					},
+					{
+						"correct": "Powder Keg Hunter Badge",
+						"difficulty": "Medium",
+						"explanation": "This badge unlocks the Stake Driver and the Rifle Spear.",
+						"question": "What badge do you receive for either killing Djura or befriending him?",
+						"wrong": [
+							"Saw Hunter Badge",
+							"Spark Hunter Badge",
+							"Wheel Hunter Badge"
+						]
+					},
+					{
+						"correct": "He becomes hostile",
+						"difficulty": "Medium",
+						"explanation": "His friendship is conditional on you not harming the 'people' of Old Yharnam.",
+						"question": "What does Djura do if you attack a beast while he is friendly to you?",
+						"wrong": [
+							"He laughs",
+							"He dies",
+							"He disappears"
+						]
+					},
+					{
+						"correct": "Stake Driver",
+						"difficulty": "Medium",
+						"explanation": "The Stake Driver is a classic Powder Keg weapon capable of a massive primed explosion.",
+						"question": "What is the name of the specific 'trick weapon' Djura carries on his person?",
+						"wrong": [
+							"Whirligig Saw",
+							"Boom Hammer",
+							"Threaded Cane"
+						]
+					},
+					{
+						"correct": "Grey",
+						"difficulty": "Hard",
+						"explanation": "The 'Ashen' nature of the city is reflected in the hunter's gear and the environment.",
+						"question": "What color is the smoke/haze that fills the air of Old Yharnam?",
+						"wrong": [
+							"Green",
+							"Purple",
+							"Red"
+						]
+					},
+					{
+						"correct": "Warning",
+						"difficulty": "Hard",
+						"explanation": "He refers to the warning posted on the door entering the district.",
+						"question": "Djura says: 'You there, hunter. Did you not see the ____?'",
+						"wrong": [
+							"Sign",
+							"Beasts",
+							"Fire"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Hard",
+						"explanation": "There is one other hunter on the ground level who fights you while Djura shoots from above.",
+						"question": "How many other hunters are in Old Yharnam assisting or living near Djura?",
+						"wrong": [
+							"Zero",
+							"Two",
+							"Three"
+						]
+					},
+					{
+						"correct": "Brush Off Dust",
+						"difficulty": "Hard",
+						"explanation": "He brushes dust off his shoulder, showing a somewhat dismissive or confident attitude.",
+						"question": "What is Djura's unique gesture called?",
+						"wrong": [
+							"Shake Off Fear",
+							"Respectful Bow",
+							"Hunter's Rally"
+						]
+					},
+					{
+						"correct": "From the burning of the city",
+						"difficulty": "Hard",
+						"explanation": "It commemorates the day the Healing Church burned Old Yharnam to the ground.",
+						"question": "According to his set, why is Djura's gear covered in ash?",
+						"wrong": [
+							"He is a blacksmith",
+							"He lives in a volcano",
+							"It is magical dust"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_djura",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Djura",
+				"lore_desc": "A retired hunter who protects the beasts of Old Yharnam with a mounted gatling gun.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Hunter",
+					"Gunner"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "The Healing Church burned the entire district to stop the spread of the Ashen Blood sickness.",
+						"question": "What was used to 'contain' the beast plague in Old Yharnam?",
+						"wrong": [
+							"Water",
+							"Magic",
+							"A Wall"
+						]
+					},
+					{
+						"correct": "Blood-starved Beast",
+						"difficulty": "Easy",
+						"explanation": "The flayed, poison-dripping beast waits at the end of the valley.",
+						"question": "Which boss is found at the very bottom of Old Yharnam in a ruined church?",
+						"wrong": [
+							"Vicar Amelia",
+							"Darkbeast Paarl",
+							"Father Gascoigne"
+						]
+					},
+					{
+						"correct": "Poison",
+						"difficulty": "Easy",
+						"explanation": "Many enemies, especially the boss, inflict Slow Poison.",
+						"question": "What status effect is common among the enemies in Old Yharnam?",
+						"wrong": [
+							"Frenzy",
+							"Rapid Bleed",
+							"Frostbite"
+						]
+					},
+					{
+						"correct": "Turn back",
+						"difficulty": "Easy",
+						"explanation": "The note warns that the city is abandoned and the beasts within are of no threat to those above.",
+						"question": "What warning is pinned to the door leading into Old Yharnam?",
+						"wrong": [
+							"Enter freely",
+							"Fear the blood",
+							"No vacancy"
+						]
+					},
+					{
+						"correct": "Beasts Patients",
+						"difficulty": "Easy",
+						"explanation": "They are humans who have reached a late stage of the beast transformation.",
+						"question": "What are the hooded, screeching enemies in Old Yharnam called?",
+						"wrong": [
+							"Shadows",
+							"Snatchers",
+							"Ghouls"
+						]
+					},
+					{
+						"correct": "Ashen Blood",
+						"difficulty": "Medium",
+						"explanation": "Ashen Blood was a horrific medical condition that the Church 'treated' with blood, causing the beast plague.",
+						"question": "What is the name of the disease that originally devastated Old Yharnam?",
+						"wrong": [
+							"The Paleblood",
+							"Red Moon Flu",
+							"Scourge of Wolves"
+						]
+					},
+					{
+						"correct": "A chandelier",
+						"difficulty": "Medium",
+						"explanation": "Cutting the ropes of the burning chandelier creates a massive fire trap.",
+						"question": "What giant, hanging object can you drop in the first large church to kill enemies below?",
+						"wrong": [
+							"A bell",
+							"A statue",
+							"A coffin"
+						]
+					},
+					{
+						"correct": "Djura",
+						"difficulty": "Medium",
+						"explanation": "Djura perches on a high tower, firing at any hunter who enters.",
+						"question": "Who is the 'gatling gun' hunter who guards this district?",
+						"wrong": [
+							"Alfred",
+							"Eileen",
+							"Henryk"
+						]
+					},
+					{
+						"correct": "Fire Paper",
+						"difficulty": "Medium",
+						"explanation": "Fire is a recurring theme here due to its effectiveness against the beasts and the city's history.",
+						"question": "What type of 'paper' consumable is found frequently in this area?",
+						"wrong": [
+							"Bolt Paper",
+							"Empty Phantasm Shell",
+							"Lead Elixir"
+						]
+					},
+					{
+						"correct": "Healing Church",
+						"difficulty": "Medium",
+						"explanation": "The Church chose to burn the town rather than admit their blood ministration caused the outbreak.",
+						"question": "Which faction is responsible for the burning of Old Yharnam?",
+						"wrong": [
+							"The Vilebloods",
+							"The School of Mensis",
+							"The Powder Kegs"
+						]
+					},
+					{
+						"correct": "A hidden drop-off",
+						"difficulty": "Hard",
+						"explanation": "Near the end of the level, you can drop down through a series of buildings to reach Paarl.",
+						"question": "Which secret path leads from Old Yharnam to the 'Graveyard of the Darkbeast'?",
+						"wrong": [
+							"An elevator",
+							"A ladder",
+							"A teleporter"
+						]
+					},
+					{
+						"correct": "Rifle Spear",
+						"difficulty": "Hard",
+						"explanation": "The Rifle Spear is a hidden gem for Bloodtinge/Skill builds in this area.",
+						"question": "What is the name of the weapon found on a corpse in the building where you drop the chandelier?",
+						"wrong": [
+							"Threaded Cane",
+							"Saw Spear",
+							"Kirkhammer"
+						]
+					},
+					{
+						"correct": "White sheets",
+						"difficulty": "Hard",
+						"explanation": "The beasts are ritualistically draped in cloth, suggesting a religious or mocking element to their deaths.",
+						"question": "There are large, crucified beasts throughout the level. What are they covered in?",
+						"wrong": [
+							"Golden chains",
+							"Thorns",
+							"Flowers"
+						]
+					},
+					{
+						"correct": "Pthumeru Chalice",
+						"difficulty": "Hard",
+						"explanation": "This is the first chalice players receive, allowing them to enter the dungeons.",
+						"question": "What specific item is found behind the Blood-starved Beast's altar?",
+						"wrong": [
+							"Short Ritual Root Chalice",
+							"Ailing Loran Chalice",
+							"Great Isz Chalice"
+						]
+					},
+					{
+						"correct": "Cathedral Ward",
+						"difficulty": "Hard",
+						"explanation": "The district was physically sealed off from the 'modern' parts of the city above.",
+						"question": "Old Yharnam is located in a deep valley. What area sits directly above it geographically?",
+						"wrong": [
+							"Central Yharnam",
+							"Hemwick Charnel Lane",
+							"Forbidden Woods"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_old_yharnam",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Old Yharnam",
+				"lore_desc": "A valley district of Yharnam that was burned to the ground to contain a plague of beasts.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Fire",
+					"Beast"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Master Willem",
+						"difficulty": "Easy",
+						"explanation": "Master Willem sought to evolve humanity through 'eyes' rather than blood.",
+						"question": "Who was the Provost and leader of Byrgenwerth?",
+						"wrong": [
+							"Laurence",
+							"Micolash",
+							"Gehrman"
+						]
+					},
+					{
+						"correct": "Grant us eyes",
+						"difficulty": "Easy",
+						"explanation": "They believed that lining one's brain with eyes would allow them to see the truth of the Great Ones.",
+						"question": "What is the central philosophy of the Byrgenwerth scholars regarding evolution?",
+						"wrong": [
+							"Drink the blood",
+							"Fear the sun",
+							"Seek the fire"
+						]
+					},
+					{
+						"correct": "Rom",
+						"difficulty": "Easy",
+						"explanation": "Rom, the Vacuous Spider, resides within the Moonside Lake.",
+						"question": "What major boss is hidden in the lake next to Byrgenwerth?",
+						"wrong": [
+							"Ebrietas",
+							"The One Reborn",
+							"Vicar Amelia"
+						]
+					},
+					{
+						"correct": "Moonside Lake",
+						"difficulty": "Easy",
+						"explanation": "It is a vast, magical body of water that acts as a gateway to Rom.",
+						"question": "What is the name of the lake adjacent to the college?",
+						"wrong": [
+							"Lake of Mud",
+							"Great Sea",
+							"Nightmare Lake"
+						]
+					},
+					{
+						"correct": "Yurie",
+						"difficulty": "Easy",
+						"explanation": "Yurie, the Last Scholar, uses a Threaded Cane and A Call Beyond.",
+						"question": "Which hostile NPC hunter guards the top floor of the Byrgenwerth mansion?",
+						"wrong": [
+							"Djura",
+							"Eileen",
+							"Alfred"
+						]
+					},
+					{
+						"correct": "Garden of Eyes",
+						"difficulty": "Medium",
+						"explanation": "These creatures represent the horrific results of the scholars' attempts to gain more eyes.",
+						"question": "What type of enemies, resembling giant fly-men, roam the grounds of Byrgenwerth?",
+						"wrong": [
+							"Shadows of Yharnam",
+							"Snatchers",
+							"Winter Lanterns"
+						]
+					},
+					{
+						"correct": "Opening the path to the lake",
+						"difficulty": "Medium",
+						"explanation": "The player must use the Lunarium Key to open the door to the balcony.",
+						"question": "What is the 'Lunar Clock' used for in the Byrgenwerth building?",
+						"wrong": [
+							"Telling time",
+							"Changing the weather",
+							"Summoning a boss"
+						]
+					},
+					{
+						"correct": "Using the Old Blood",
+						"difficulty": "Medium",
+						"explanation": "Laurence wanted to use the blood for healing, while Willem feared its corrupting nature.",
+						"question": "What did Laurence and Willem argue about, leading to the split of Byrgenwerth?",
+						"wrong": [
+							"The color of the sky",
+							"Who would be King",
+							"Building a bigger school"
+						]
+					},
+					{
+						"correct": "Forbidden Woods",
+						"difficulty": "Medium",
+						"explanation": "The path to the woods (and thus Byrgenwerth) is sealed by the Healing Church.",
+						"question": "Which location is accessible only by a secret password learned from Byrgenwerth's history?",
+						"wrong": [
+							"Cainhurst Castle",
+							"Yahar'gul",
+							"Old Yharnam"
+						]
+					},
+					{
+						"correct": "Fluorescent Flower",
+						"difficulty": "Medium",
+						"explanation": "These strange creatures shoot arcane fireballs and have human-like faces.",
+						"question": "What is the name of the centipede-like boss that appears inside Byrgenwerth-style Chalice Dungeons?",
+						"wrong": [
+							"Amygdala",
+							"Rom",
+							"Ebrietas"
+						]
+					},
+					{
+						"correct": "Points at the lake",
+						"difficulty": "Hard",
+						"explanation": "He is non-hostile and simply points the way toward the secret of the lake.",
+						"question": "What does Master Willem do when you approach him on the balcony?",
+						"wrong": [
+							"Attacks you",
+							"Gives you a sword",
+							"Disappears"
+						]
+					},
+					{
+						"correct": "The Labyrinth",
+						"difficulty": "Hard",
+						"explanation": "The college was established to explore the ancient Pthumerian tombs found beneath it.",
+						"question": "According to lore, Byrgenwerth was built atop what?",
+						"wrong": [
+							"A volcano",
+							"A graveyard",
+							"The sea"
+						]
+					},
+					{
+						"correct": "Old Hunter Bell",
+						"difficulty": "Hard",
+						"explanation": "It's found on the porch near the first floor lamp.",
+						"question": "Which item is found in a chest inside Byrgenwerth that is used to summon Old Hunters?",
+						"wrong": [
+							"Beckoning Bell",
+							"Small Resonant Bell",
+							"Sinister Bell"
+						]
+					},
+					{
+						"correct": "Applying Arcane to weapons",
+						"difficulty": "Hard",
+						"explanation": "It's a Byrgenwerth tool that mimics the power of a Great One's slime.",
+						"question": "What is the 'Empty Phantasm Shell' used for?",
+						"wrong": [
+							"Poisoning enemies",
+							"Increasing defense",
+							"Summoning spiders"
+						]
+					},
+					{
+						"correct": "Master Willem",
+						"difficulty": "Hard",
+						"explanation": "This adage was the core warning Willem gave to his students.",
+						"question": "Which character famously said 'We are born of the blood, made men by the blood, undone by the blood'?",
+						"wrong": [
+							"Gehrman",
+							"Laurence",
+							"Micolash"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_byrgenwerth",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Byrgenwerth",
+				"lore_desc": "An ancient place of learning where the discovery of the Old Blood first occurred.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Scholar",
+					"Lake"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Snow",
+						"difficulty": "Easy",
+						"explanation": "The castle is perpetually frozen and covered in deep snow.",
+						"question": "What is the primary weather condition at Cainhurst Castle?",
+						"wrong": [
+							"Rain",
+							"Sunshine",
+							"Fog"
+						]
+					},
+					{
+						"correct": "Annalise",
+						"difficulty": "Easy",
+						"explanation": "Queen Annalise is the immortal ruler of the Vileblood line.",
+						"question": "Who is the leader of the Vilebloods found in the throne room?",
+						"wrong": [
+							"Maria",
+							"Amelia",
+							"Eileen"
+						]
+					},
+					{
+						"correct": "Martyr Logarius",
+						"difficulty": "Easy",
+						"explanation": "The undead leader of the Executioners stays there to ensure no one reaches the Queen.",
+						"question": "What boss guards the rooftop of Cainhurst Castle?",
+						"wrong": [
+							"Vicar Amelia",
+							"Darkbeast Paarl",
+							"The One Reborn"
+						]
+					},
+					{
+						"correct": "A ghost carriage",
+						"difficulty": "Easy",
+						"explanation": "After finding the summons, a spectral carriage picks you up in Hemwick Charnel Lane.",
+						"question": "How does the player get to Cainhurst Castle?",
+						"wrong": [
+							"A boat",
+							"An elevator",
+							"Walking through a tunnel"
+						]
+					},
+					{
+						"correct": "Foul or Vile",
+						"difficulty": "Easy",
+						"explanation": "They are called Vilebloods because their blood was 'corrupted' by a scholar from Byrgenwerth.",
+						"question": "What color is the blood of the Vilebloods, as the name suggests?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Bright White"
+						]
+					},
+					{
+						"correct": "Cainhurst Summons",
+						"difficulty": "Medium",
+						"explanation": "The summons is addressed to the player and found in Iosefka's Clinic.",
+						"question": "What item is required to enter Cainhurst Castle?",
+						"wrong": [
+							"Old Hunter Bell",
+							"Crown of Illusions",
+							"Tonsil Stone"
+						]
+					},
+					{
+						"correct": "Bloodlickers",
+						"difficulty": "Medium",
+						"explanation": "They are drawn to the scent of blood and haunt areas of great slaughter.",
+						"question": "What are the spider-like creatures with large, blood-filled bellies found in the courtyard?",
+						"wrong": [
+							"Garden of Eyes",
+							"Snatchers",
+							"Hounds"
+						]
+					},
+					{
+						"correct": "Reiterpallasch",
+						"difficulty": "Medium",
+						"explanation": "It's a unique weapon that combines a sword with a built-in pistol.",
+						"question": "What is the name of the rapier-like weapon used by the Cainhurst knights?",
+						"wrong": [
+							"Threaded Cane",
+							"Saw Cleaver",
+							"Rifle Spear"
+						]
+					},
+					{
+						"correct": "Crown of Illusions",
+						"difficulty": "Medium",
+						"explanation": "Logarius's crown breaks the magic hiding the royal chambers.",
+						"question": "What must you wear to reveal the hidden path to the Queen's throne room?",
+						"wrong": [
+							"Gold Ardeo",
+							"Mensis Cage",
+							"Top Hat"
+						]
+					},
+					{
+						"correct": "The Executioners",
+						"difficulty": "Medium",
+						"explanation": "The Executioners led a crusade to wipe out the Vilebloods entirely.",
+						"question": "Which faction is the sworn enemy of the Vilebloods?",
+						"wrong": [
+							"The Powder Kegs",
+							"The Healing Church",
+							"The School of Mensis"
+						]
+					},
+					{
+						"correct": "Chikage",
+						"difficulty": "Hard",
+						"explanation": "The Chikage consumes the wielder's health to deal massive blood damage.",
+						"question": "What is the name of the katana-style weapon found in Cainhurst?",
+						"wrong": [
+							"Rakuyo",
+							"Burial Blade",
+							"Beast Hunter Saif"
+						]
+					},
+					{
+						"correct": "A Byrgenwerth scholar",
+						"difficulty": "Hard",
+						"explanation": "A nameless scholar stole forbidden blood from Byrgenwerth and brought it to the castle.",
+						"question": "Who was the 'traitor' who brought the forbidden blood to Cainhurst?",
+						"wrong": [
+							"Gehrman",
+							"Laurence",
+							"Ludwig"
+						]
+					},
+					{
+						"correct": "Rapiers",
+						"difficulty": "Hard",
+						"explanation": "The Forsaken Castle Spirits haunt the library, often appearing as weeping women.",
+						"question": "What do the ghosts in the castle library carry that can scream and freeze the player?",
+						"wrong": [
+							"Books",
+							"Lanterns",
+							"Skulls"
+						]
+					},
+					{
+						"correct": "To find Blood Dregs",
+						"difficulty": "Hard",
+						"explanation": "They seek Blood Dregs from other hunters to help the Queen conceive a 'Child of Blood'.",
+						"question": "What is the goal of Queen Annalise for her Vileblood hunters?",
+						"wrong": [
+							"To kill beasts",
+							"To find eyes",
+							"To burn the castle"
+						]
+					},
+					{
+						"correct": "Nothing, she is immortal",
+						"difficulty": "Hard",
+						"explanation": "She cannot be killed by normal means, though Alfred eventually 'pulps' her.",
+						"question": "What happens if you try to attack Queen Annalise?",
+						"wrong": [
+							"She kills you instantly",
+							"She turns into a beast",
+							"She teleports away"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_cainhurst_castle",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Cainhurst Castle",
+				"lore_desc": "A frozen, gothic castle that serves as the home of the aristocratic Vilebloods.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Vileblood",
+					"Snow"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pizza Cutter",
+						"difficulty": "Easy",
+						"explanation": "Its circular, rotating blade looks exactly like a large pizza cutting tool.",
+						"question": "What popular nickname do fans give to the Whirligig Saw?",
+						"wrong": [
+							"The Blender",
+							"The Lawnmower",
+							"The Ferris Wheel"
+						]
+					},
+					{
+						"correct": "The Old Hunters",
+						"difficulty": "Easy",
+						"explanation": "It is one of the many iconic weapons added in the DLC.",
+						"question": "In which expansion pack was the Whirligig Saw introduced?",
+						"wrong": [
+							"The Beast Plague",
+							"Yharnam Unbound",
+							"Cainhurst Shadows"
+						]
+					},
+					{
+						"correct": "Strength",
+						"difficulty": "Easy",
+						"explanation": "It is widely considered one of the best Strength weapons in the entire game.",
+						"question": "Which stat does the Whirligig Saw scale most effectively with?",
+						"wrong": [
+							"Skill",
+							"Bloodtinge",
+							"Arcane"
+						]
+					},
+					{
+						"correct": "The saw spins continuously",
+						"difficulty": "Easy",
+						"explanation": "The 'shredding' attack allows players to walk forward while the saw continuously grinds enemies.",
+						"question": "What does the weapon do when you hold down the L2 button in its transformed state?",
+						"wrong": [
+							"It shoots fire",
+							"It blocks damage",
+							"It heals the player"
+						]
+					},
+					{
+						"correct": "Serrated",
+						"difficulty": "Easy",
+						"explanation": "Serrated weapons deal 20% more damage to beast-type enemies.",
+						"question": "What type of damage bonus does the Whirligig Saw have because of its jagged edges?",
+						"wrong": [
+							"Righteous",
+							"Blunt",
+							"Thrust"
+						]
+					},
+					{
+						"correct": "The Nightmare Church",
+						"difficulty": "Medium",
+						"explanation": "It is found on a corpse in a small rocky area near the Nightmare Church lamp.",
+						"question": "Where in the Hunter's Nightmare can you find the Whirligig Saw?",
+						"wrong": [
+							"Astral Clocktower",
+							"Fishing Hamlet",
+							"Research Hall"
+						]
+					},
+					{
+						"correct": "A simple mace",
+						"difficulty": "Medium",
+						"explanation": "In its basic form, it is a long-handled mace; the saw blades are attached when transformed.",
+						"question": "What does the 'untransformed' version of the Whirligig Saw look like?",
+						"wrong": [
+							"A short sword",
+							"A pistol",
+							"A shield"
+						]
+					},
+					{
+						"correct": "Valtr",
+						"difficulty": "Medium",
+						"explanation": "Valtr, the Master of the League, wields this weapon during boss fights.",
+						"question": "Which NPC hunter is most commonly associated with the Whirligig Saw?",
+						"wrong": [
+							"Alfred",
+							"Djura",
+							"Gehrman"
+						]
+					},
+					{
+						"correct": "The Powder Kegs",
+						"difficulty": "Medium",
+						"explanation": "Its mechanical complexity and sheer brutality are hallmarks of the Powder Kegs.",
+						"question": "According to the lore, which workshop was responsible for creating this weapon?",
+						"wrong": [
+							"Healing Church",
+							"Byrgenwerth",
+							"Cainhurst"
+						]
+					},
+					{
+						"correct": "Stagger potential",
+						"difficulty": "Medium",
+						"explanation": "The continuous L2 attack can quickly break the limbs of giant bosses like Amelia or Ludwig.",
+						"question": "What makes the Whirligig Saw particularly effective against large, slow bosses?",
+						"wrong": [
+							"Its range",
+							"Its speed",
+							"Its weight"
+						]
+					},
+					{
+						"correct": "The League",
+						"difficulty": "Hard",
+						"explanation": "The League is a group of hunters dedicated to crushing 'vermin'.",
+						"question": "What is the specific name of the group Valtr leads that uses this weapon?",
+						"wrong": [
+							"The Executioners",
+							"The Vilebloods",
+							"The Choir"
+						]
+					},
+					{
+						"correct": "Iron",
+						"difficulty": "Hard",
+						"explanation": "The description notes its simple, sturdy iron construction.",
+						"question": "What metal is the Whirligig Saw's mace handle made of?",
+						"wrong": [
+							"Steel",
+							"Silver",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Mechanical monstrosity",
+						"difficulty": "Hard",
+						"explanation": "It is described as a 'mechanical monstrosity' that was never intended for 'delicate' work.",
+						"question": "What does the item description call the weapon's design, referring to its lack of elegance?",
+						"wrong": [
+							"Perfect tool",
+							"Holy instrument",
+							"Beast-killer"
+						]
+					},
+					{
+						"correct": "The One Reborn",
+						"difficulty": "Hard",
+						"explanation": "The One Reborn's massive, stationary body is easily shredded by the saw.",
+						"question": "Which specific boss is famously weak to the L2 shredding attack of the Whirligig Saw?",
+						"wrong": [
+							"Rom",
+							"Orphan of Kos",
+							"Gehrman"
+						]
+					},
+					{
+						"correct": "Mechanical whirring",
+						"difficulty": "Hard",
+						"explanation": "It sounds like a heavy engine revving up as the saw blades start to rotate.",
+						"question": "What sound does the Whirligig Saw make when you transform it?",
+						"wrong": [
+							"A bell ringing",
+							"A wolf howl",
+							"Steam escaping"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_whirligig_saw",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Whirligig Saw",
+				"lore_desc": "A terrifying mechanical weapon that features a rotating, serrated circular saw.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Workshop",
+					"Saw"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Scythe",
+						"difficulty": "Easy",
+						"explanation": "The Burial Blade is one of the only true scythes in the game.",
+						"question": "What type of weapon is the Burial Blade when fully transformed?",
+						"wrong": [
+							"Hammer",
+							"Sword",
+							"Axe"
+						]
+					},
+					{
+						"correct": "Gehrman",
+						"difficulty": "Easy",
+						"explanation": "Gehrman created it to provide a 'merciful' death to hunters who have seen too much.",
+						"question": "Who is the original owner and creator of the Burial Blade?",
+						"wrong": [
+							"Ludwig",
+							"Maria",
+							"Gascoigne"
+						]
+					},
+					{
+						"correct": "Siderite",
+						"difficulty": "Easy",
+						"explanation": "Siderite is a rare meteorite material said to have fallen from the heavens.",
+						"question": "What mineral was used to forge the Burial Blade?",
+						"wrong": [
+							"Coldblood",
+							"Quicksilver",
+							"Darkbeast Bone"
+						]
+					},
+					{
+						"correct": "Defeating Gehrman",
+						"difficulty": "Easy",
+						"explanation": "You must defeat Gehrman and obtain the Old Hunter Badge to buy it from the messengers.",
+						"question": "How is the Burial Blade primarily obtained by the player?",
+						"wrong": [
+							"Finding a chest",
+							"Starting the game",
+							"Buying it from Eileen"
+						]
+					},
+					{
+						"correct": "A curved sword",
+						"difficulty": "Easy",
+						"explanation": "It functions as a large, curved saber before being attached to its handle.",
+						"question": "What is the Burial Blade's 'untransformed' state?",
+						"wrong": [
+							"A cane",
+							"A dagger",
+							"A spear"
+						]
+					},
+					{
+						"correct": "Skill",
+						"difficulty": "Medium",
+						"explanation": "It rewards high Dexterity/Skill with its fast, sweeping attacks.",
+						"question": "What is the primary scaling stat for the Burial Blade?",
+						"wrong": [
+							"Strength",
+							"Bloodtinge",
+							"Arcane"
+						]
+					},
+					{
+						"correct": "Arcane",
+						"difficulty": "Medium",
+						"explanation": "Because it is forged from a celestial mineral, it has inherent Arcane properties.",
+						"question": "Which attribute gives the Burial Blade a small secondary scaling bonus?",
+						"wrong": [
+							"Strength",
+							"Bloodtinge",
+							"Endurance"
+						]
+					},
+					{
+						"correct": "A merciful burial",
+						"difficulty": "Medium",
+						"explanation": "It was intended to lay hunters to rest, ending their nightmare as a final kindness.",
+						"question": "What does the Burial Blade represent in the context of the game's lore?",
+						"wrong": [
+							"A bloody execution",
+							"A scholar's tool",
+							"A royal gift"
+						]
+					},
+					{
+						"correct": "Blade of Mercy",
+						"difficulty": "Medium",
+						"explanation": "Both are made of Siderite and used by 'Old Hunters' for similar purposes.",
+						"question": "Which weapon is considered the 'successor' or sister weapon to the Burial Blade?",
+						"wrong": [
+							"Saw Cleaver",
+							"Chikage",
+							"Rakuyo"
+						]
+					},
+					{
+						"correct": "Dark Grey",
+						"difficulty": "Medium",
+						"explanation": "Its dark, almost black appearance is characteristic of the siderite mineral.",
+						"question": "What color is the blade of the Burial Blade?",
+						"wrong": [
+							"Bright Silver",
+							"Blood Red",
+							"Glowing Blue"
+						]
+					},
+					{
+						"correct": "Very long",
+						"difficulty": "Hard",
+						"explanation": "In its scythe form, it has some of the best horizontal and vertical reach in the game.",
+						"question": "What is the Burial Blade's reach compared to other trick weapons?",
+						"wrong": [
+							"Very short",
+							"Average",
+							"Non-existent"
+						]
+					},
+					{
+						"correct": "A massive overhead swing",
+						"difficulty": "Hard",
+						"explanation": "The L2 is a high-damage, vertical strike that can easily hit the heads of tall enemies.",
+						"question": "What does the L2 attack do when the Burial Blade is in its scythe form?",
+						"wrong": [
+							"A quick poke",
+							"A shield bash",
+							"A ground slam"
+						]
+					},
+					{
+						"correct": "To represent a reaper",
+						"difficulty": "Hard",
+						"explanation": "The reaper imagery ties into his role as the one who ends the hunters' dreams.",
+						"question": "Why did Gehrman choose a scythe for the first hunt weapon?",
+						"wrong": [
+							"It was the only tool available",
+							"To cut grass",
+							"To mimic a beast"
+						]
+					},
+					{
+						"correct": "A high-pitched chime",
+						"difficulty": "Hard",
+						"explanation": "The siderite metal makes a distinct metallic ringing sound upon impact.",
+						"question": "What is unique about the Burial Blade's sound when it hits a target?",
+						"wrong": [
+							"A heavy thud",
+							"A wet splash",
+							"A mechanical click"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Hard",
+						"explanation": "Because it has innate Arcane damage, it cannot be traditionally buffed with consumables.",
+						"question": "Can the Burial Blade be buffed with Fire or Bolt paper?",
+						"wrong": [
+							"Yes",
+							"Only in scythe form",
+							"Only with low health"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_burial_blade",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Burial Blade",
+				"lore_desc": "The first trick weapon ever made, designed by Gehrman for the very first hunts.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Hunter",
+					"Scythe"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "An eye",
+						"difficulty": "Easy",
+						"explanation": "Insight is literally your 'eyes on the inside' of your brain.",
+						"question": "What icon represents Insight in the player's HUD?",
+						"wrong": [
+							"A drop of blood",
+							"A moon",
+							"A brain"
+						]
+					},
+					{
+						"correct": "Special items and gear",
+						"difficulty": "Easy",
+						"explanation": "The Insight Bath Messengers sell unique armor and upgrade materials.",
+						"question": "What do you spend Insight on in the Hunter's Dream?",
+						"wrong": [
+							"Leveling up",
+							"Buying blood vials",
+							"Repairing weapons"
+						]
+					},
+					{
+						"correct": "You see the Amygdalas",
+						"difficulty": "Easy",
+						"explanation": "Higher Insight allows you to see the true reality of the world, including the hidden Great Ones.",
+						"question": "What happens if you have 40 or more Insight in Cathedral Ward?",
+						"wrong": [
+							"You die instantly",
+							"The enemies disappear",
+							"It starts raining"
+						]
+					},
+					{
+						"correct": "Seeing a boss",
+						"difficulty": "Easy",
+						"explanation": "Simply witnessing a boss or entering their arena for the first time grants Insight.",
+						"question": "How do you gain Insight for the first time in most playthroughs?",
+						"wrong": [
+							"Finding a lamp",
+							"Killing a dog",
+							"Talking to the Doll"
+						]
+					},
+					{
+						"correct": "Madman's Knowledge",
+						"difficulty": "Easy",
+						"explanation": "Crushing a skull of a madman grants you their forbidden knowledge.",
+						"question": "What consumable item gives the player 1 point of Insight?",
+						"wrong": [
+							"Great One's Wisdom",
+							"Blood Stone Shard",
+							"Coldblood Dew"
+						]
+					},
+					{
+						"correct": "Frenzy",
+						"difficulty": "Medium",
+						"explanation": "The more you know about the cosmos, the more vulnerable your mind is to going mad.",
+						"question": "What status effect becomes easier to catch (and more deadly) as your Insight increases?",
+						"wrong": [
+							"Poison",
+							"Rapid Bleed",
+							"Fire Damage"
+						]
+					},
+					{
+						"correct": "99",
+						"difficulty": "Medium",
+						"explanation": "Like most items and stats in the game, it caps at double digits.",
+						"question": "What is the maximum amount of Insight a player can carry at once?",
+						"wrong": [
+							"10",
+							"100",
+							"999"
+						]
+					},
+					{
+						"correct": "Brainsucker",
+						"difficulty": "Medium",
+						"explanation": "Brainsuckers literally feed on your accumulated knowledge, stealing 2 Insight per grab.",
+						"question": "Which enemy is notorious for grabbing the player and 'sucking' away their Insight?",
+						"wrong": [
+							"Snatcher",
+							"Winter Lantern",
+							"Maneater Boar"
+						]
+					},
+					{
+						"correct": "1",
+						"difficulty": "Medium",
+						"explanation": "You need at least 1 Insight to interact with her and level up.",
+						"question": "At what Insight level does the Doll in the Hunter's Dream first come to life?",
+						"wrong": [
+							"0",
+							"10",
+							"50"
+						]
+					},
+					{
+						"correct": "Great One's Wisdom",
+						"difficulty": "Medium",
+						"explanation": "This represents the direct knowledge of a celestial being.",
+						"question": "Which consumable item gives the player 2 or 3 points of Insight?",
+						"wrong": [
+							"Madman's Knowledge",
+							"One Third of Umbilical Cord",
+							"Lead Elixir"
+						]
+					},
+					{
+						"correct": "A baby's cry can be heard",
+						"difficulty": "Hard",
+						"explanation": "You can hear the crying of Mergo, the invisible infant Great One.",
+						"question": "What environmental change happens in the Hunter's Dream at 60 Insight?",
+						"wrong": [
+							"The workshop burns",
+							"The sky turns red",
+							"The Doll dies"
+						]
+					},
+					{
+						"correct": "It lowers it",
+						"difficulty": "Hard",
+						"explanation": "Knowledge and animalistic instinct are opposites; high Insight makes it harder to use Beast Blood Pellets.",
+						"question": "How does high Insight affect the Beasthood stat?",
+						"wrong": [
+							"It raises it",
+							"It has no effect",
+							"It makes it double"
+						]
+					},
+					{
+						"correct": "They don't summon minions",
+						"difficulty": "Hard",
+						"explanation": "The Mad Ones only spawn if the player has at least 1 Insight during the fight.",
+						"question": "What weapon's boss (Witches of Hemwick) becomes easier if you have 0 Insight?",
+						"wrong": [
+							"They have half health",
+							"They can't teleport",
+							"They are invisible"
+						]
+					},
+					{
+						"correct": "Great One's Wisdom",
+						"difficulty": "Hard",
+						"explanation": "This refers to Master Willem's obsession with lining the brain with eyes.",
+						"question": "Which item description says Insight is 'often referred to as eyes on the inside'?",
+						"wrong": [
+							"Madman's Knowledge",
+							"Third Cord",
+							"Small Resonant Bell"
+						]
+					},
+					{
+						"correct": "The Doll",
+						"difficulty": "Hard",
+						"explanation": "She sometimes bows or prays in different locations as your perception of the dream changes.",
+						"question": "Which NPC's appearance changes or provides different dialogue if you have high Insight?",
+						"wrong": [
+							"Eileen",
+							"Alfred",
+							"Gilbert"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_insight",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Insight",
+				"lore_desc": "A stat representing a hunter's inhuman knowledge and proximity to the Great Ones.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Resource",
+					"Lore",
+					"Mental"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Leveling up",
+						"difficulty": "Easy",
+						"explanation": "Hunters trade their echoes to the Doll to increase their physical and mental attributes.",
+						"question": "What is the primary use for Blood Echoes in the Hunter's Dream?",
+						"wrong": [
+							"Changing hair color",
+							"Fast travel",
+							"Feeding the doll"
+						]
+					},
+					{
+						"correct": "They drop where you died",
+						"difficulty": "Easy",
+						"explanation": "You have one chance to retrieve them before they are gone for good.",
+						"question": "What happens to your current Blood Echoes when you die?",
+						"wrong": [
+							"They disappear forever",
+							"They go to the bank",
+							"Nothing"
+						]
+					},
+					{
+						"correct": "Their eyes glow purple",
+						"difficulty": "Easy",
+						"explanation": "Killing the enemy with glowing eyes will return your lost currency.",
+						"question": "What indicates that an enemy has picked up your dropped Blood Echoes?",
+						"wrong": [
+							"They are bigger",
+							"They are on fire",
+							"They are invisible"
+						]
+					},
+					{
+						"correct": "Bath Messengers",
+						"difficulty": "Easy",
+						"explanation": "The small grey creatures in the stone basin serve as the dream's merchants.",
+						"question": "Who do you give Blood Echoes to in order to buy items like Vials or Bullets?",
+						"wrong": [
+							"The Doll",
+							"Gehrman",
+							"Patches"
+						]
+					},
+					{
+						"correct": "Coldblood",
+						"difficulty": "Easy",
+						"explanation": "Coldblood comes in many tiers, from 'Dew' to 'Great One'.",
+						"question": "What is the name of the consumable items that give you Blood Echoes when crushed?",
+						"wrong": [
+							"Madman's Knowledge",
+							"Blood Stones",
+							"Insight"
+						]
+					},
+					{
+						"correct": "Talk to the Doll",
+						"difficulty": "Medium",
+						"explanation": "The 'Channel Blood Echoes' menu shows the required amount for each point.",
+						"question": "How can you tell how many Blood Echoes you need for your next level up?",
+						"wrong": [
+							"Check the lamp",
+							"Read a book",
+							"It is shown on the wall"
+						]
+					},
+					{
+						"correct": "None",
+						"difficulty": "Medium",
+						"explanation": "Blood Echo gain is fixed per enemy, though Runes can increase the amount.",
+						"question": "Which stat governs how many Blood Echoes you earn from killing enemies?",
+						"wrong": [
+							"Arcane",
+							"Skill",
+							"Bloodtinge"
+						]
+					},
+					{
+						"correct": "Increases echoes from kills",
+						"difficulty": "Medium",
+						"explanation": "The Moon rune is essential for players looking to 'farm' or level up quickly.",
+						"question": "What is the 'Moon' rune used for regarding Blood Echoes?",
+						"wrong": [
+							"Decreases the cost of levels",
+							"Prevents losing them on death",
+							"Lets you see them through walls"
+						]
+					},
+					{
+						"correct": "They are lost forever",
+						"difficulty": "Medium",
+						"explanation": "This is the core 'risk vs reward' mechanic of the game's economy.",
+						"question": "What happens if you die a second time before retrieving your lost Blood Echoes?",
+						"wrong": [
+							"They stay there",
+							"They double in size",
+							"They go to the shop"
+						]
+					},
+					{
+						"correct": "Will and memories",
+						"difficulty": "Medium",
+						"explanation": "Echoes are the lingering consciousness found within the blood of those who lived.",
+						"question": "In the game's lore, what are Blood Echoes actually described as?",
+						"wrong": [
+							"Liquid gold",
+							"Magic dust",
+							"Dead souls"
+						]
+					},
+					{
+						"correct": "Blood Rock",
+						"difficulty": "Hard",
+						"explanation": "Once unlocked, Blood Rocks cost 60 Insight, but in terms of Echoes, the Burial Blade and similar are the priciest.",
+						"question": "What is the most expensive single item sold by the messengers in the base game?",
+						"wrong": [
+							"Hunter Chief Emblem",
+							"Ludwig's Holy Blade",
+							"Sinister Bell"
+						]
+					},
+					{
+						"correct": "Bold Hunter's Mark",
+						"difficulty": "Hard",
+						"explanation": "The 'Bold' version preserves your echoes, while the standard one consumes them.",
+						"question": "What 'Hunter Tool' allows you to return to a lamp without losing your Blood Echoes?",
+						"wrong": [
+							"Hunter's Mark",
+							"Small Resonant Bell",
+							"Silencing Blank"
+						]
+					},
+					{
+						"correct": "The price increases",
+						"difficulty": "Hard",
+						"explanation": "Prices for basic supplies like Blood Vials go up as you defeat certain major bosses.",
+						"question": "What happens to the cost of items in the Messenger shop as the game progresses?",
+						"wrong": [
+							"The price decreases",
+							"The price stays the same",
+							"The items become free"
+						]
+					},
+					{
+						"correct": "Great One Coldblood",
+						"difficulty": "Hard",
+						"explanation": "Found in the Nightmare of Mensis, it provides a massive 40,000 echoes.",
+						"question": "What is the highest tier of Coldblood found in the main game (non-Chalice)?",
+						"wrong": [
+							"Old Hunter Coldblood",
+							"Kin Coldblood",
+							"Frenzied Coldblood"
+						]
+					},
+					{
+						"correct": "Ludwig",
+						"difficulty": "Hard",
+						"explanation": "As a major boss, Ludwig provides a huge influx of currency for the mid-to-late game.",
+						"question": "Which NPC hunter can you kill to receive a massive 40,000 Blood Echoes early in the DLC?",
+						"wrong": [
+							"Simon",
+							"Brador",
+							"Lady Maria"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_blood_echoes",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Blood Echoes",
+				"lore_desc": "The primary currency of Yharnam, representing the memories and life-force found in blood.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Resource",
+					"Currency",
+					"Power"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Flora",
+						"difficulty": "Easy",
+						"explanation": "The Doll is occasionally heard praying to 'Flora' for the hunter's safety.",
+						"question": "What is the Moon Presence's true name, as hinted at by the Doll's dialogue?",
+						"wrong": [
+							"Kos",
+							"Oedon",
+							"Mergo"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "The Blood Moon is the sign of the Moon Presence's arrival.",
+						"question": "What color is the moon when the Moon Presence descends in the final ending?",
+						"wrong": [
+							"Blue",
+							"Yellow",
+							"Green"
+						]
+					},
+					{
+						"correct": "Gehrman",
+						"difficulty": "Easy",
+						"explanation": "She appears after Gehrman is defeated if the proper conditions are met.",
+						"question": "Which boss must be defeated immediately before fighting the Moon Presence?",
+						"wrong": [
+							"Micolash",
+							"Lady Maria",
+							"Rom"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "Consuming three cords gives the player the 'insight' needed to resist her influence.",
+						"question": "How many 'One Third of Umbilical Cord' items must be consumed to fight her?",
+						"wrong": [
+							"One",
+							"Two",
+							"Four"
+						]
+					},
+					{
+						"correct": "Embraces them",
+						"difficulty": "Easy",
+						"explanation": "In the 'Honoring Wishes' ending, she hugs the player and turns them into the new host of the dream.",
+						"question": "What does the Moon Presence do to the player if they haven't eaten the cords?",
+						"wrong": [
+							"Kills them",
+							"Turns them into a beast",
+							"Exiles them"
+						]
+					},
+					{
+						"correct": "A white flash",
+						"difficulty": "Medium",
+						"explanation": "This move is terrifying but usually followed by a window where the player can 'rally' their health back.",
+						"question": "What terrifying attack does the Moon Presence use that drops the player's HP to 1?",
+						"wrong": [
+							"A grab",
+							"A bite",
+							"A scream"
+						]
+					},
+					{
+						"correct": "Numbing Mist",
+						"difficulty": "Medium",
+						"explanation": "It creates a rain of blood that prevents the use of Blood Vials for a short time.",
+						"question": "What status effect can the Moon Presence inflict with its cloud attack to prevent healing?",
+						"wrong": [
+							"Poison",
+							"Frenzy",
+							"Bleed"
+						]
+					},
+					{
+						"correct": "An infant Great One",
+						"difficulty": "Medium",
+						"explanation": "The player evolves into a small, slug-like creature to lead humanity into a new childhood.",
+						"question": "What does the player transform into after defeating the Moon Presence?",
+						"wrong": [
+							"A wolf",
+							"A statue",
+							"A cloud of smoke"
+						]
+					},
+					{
+						"correct": "Paleblood",
+						"difficulty": "Medium",
+						"explanation": "The phrase 'Seek Paleblood to transcend the hunt' refers to this entity.",
+						"question": "The Moon Presence is often associated with which color of blood?",
+						"wrong": [
+							"Vileblood",
+							"Ashen Blood",
+							"Dark Blood"
+						]
+					},
+					{
+						"correct": "A nursery or trap",
+						"difficulty": "Medium",
+						"explanation": "It uses the dream to find and employ hunters to kill other Great Ones.",
+						"question": "What does the Moon Presence use the Hunter's Dream for, according to lore?",
+						"wrong": [
+							"A library",
+							"A graveyard",
+							"A hospital"
+						]
+					},
+					{
+						"correct": "Skeletal with tentacles",
+						"difficulty": "Hard",
+						"explanation": "She has a very thin, rib-exposed frame with a face of long, fleshy tentacles.",
+						"question": "What is the appearance of the Moon Presence?",
+						"wrong": [
+							"A giant spider",
+							"A beautiful woman",
+							"A flaming wolf"
+						]
+					},
+					{
+						"correct": "Third Cord",
+						"difficulty": "Hard",
+						"explanation": "This lore snippet confirms that Laurence was responsible for the existence of the Dream.",
+						"question": "Which item's description mentions 'The nameless moon presence beckoned by Laurence'?",
+						"wrong": [
+							"Old Hunter Bone",
+							"Great One's Wisdom",
+							"Small Resonant Bell"
+						]
+					},
+					{
+						"correct": "A high-pitched chime",
+						"difficulty": "Hard",
+						"explanation": "The surreal, celestial chime underscores her alien nature.",
+						"question": "What sound effect plays when the Moon Presence first appears in the cutscene?",
+						"wrong": [
+							"A deep roar",
+							"A baby's cry",
+							"Total silence"
+						]
+					},
+					{
+						"correct": "Becomes more aggressive",
+						"difficulty": "Hard",
+						"explanation": "She begins leaping and slashing wildly, abandoning her more magical attacks.",
+						"question": "In her fight, what does she do when her health is very low?",
+						"wrong": [
+							"Stops attacking",
+							"Heals herself",
+							"Speaks to the player"
+						]
+					},
+					{
+						"correct": "Childhood's Beginning",
+						"difficulty": "Hard",
+						"explanation": "It refers to the final transformation of the player character.",
+						"question": "What is the name of the trophy/achievement for defeating the Moon Presence?",
+						"wrong": [
+							"Nightmare Slain",
+							"The First Hunter",
+							"True Great One"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_moon_presence",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Moon Presence",
+				"lore_desc": "The pale, skeletal Great One that created the Hunter's Dream and serves as its secret master.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Great One",
+					"Dream"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A stone basin",
+						"difficulty": "Easy",
+						"explanation": "They reside in various birdbath-like stone basins around the workshop.",
+						"question": "Where are the Messengers primarily found in the Hunter's Dream?",
+						"wrong": [
+							"On the roof",
+							"In the basement",
+							"In a cage"
+						]
+					},
+					{
+						"correct": "Hold them up",
+						"difficulty": "Easy",
+						"explanation": "When you read a note, you see a small messenger holding the parchment.",
+						"question": "What do the Messengers do with the notes left by other players?",
+						"wrong": [
+							"Eat them",
+							"Burn them",
+							"Hide them"
+						]
+					},
+					{
+						"correct": "Hats and ribbons",
+						"difficulty": "Easy",
+						"explanation": "Players can find 'Messenger Gifts' like the Top Hat or Red Ribbon to dress them up.",
+						"question": "What can you give to the Messengers to change their appearance?",
+						"wrong": [
+							"Blood Echoes",
+							"Swords",
+							"Food"
+						]
+					},
+					{
+						"correct": "Selling rare gear",
+						"difficulty": "Easy",
+						"explanation": "They sell unique items, such as boss armor sets and the Small Resonant Bell.",
+						"question": "What service do the 'Insight' Messengers provide?",
+						"wrong": [
+							"Upgrading weapons",
+							"Repairing armor",
+							"Telling the future"
+						]
+					},
+					{
+						"correct": "Small, grey, and wrinkled",
+						"difficulty": "Easy",
+						"explanation": "They are small, childlike humanoids with pale, wrinkled skin.",
+						"question": "What is the general appearance of a Messenger?",
+						"wrong": [
+							"Large, red, and furry",
+							"Tall, blue, and thin",
+							"Golden and glowing"
+						]
+					},
+					{
+						"correct": "Messenger's Gift",
+						"difficulty": "Medium",
+						"explanation": "This hunter tool is used for stealth in PvP and against certain enemies.",
+						"question": "Which item allows you to transform into a cluster of Messengers to hide?",
+						"wrong": [
+							"Monocular",
+							"Hand Lantern",
+							"Old Hunter Bone"
+						]
+					},
+					{
+						"correct": "Ring a bell with you",
+						"difficulty": "Medium",
+						"explanation": "They emerge from the ground to assist in the summoning process.",
+						"question": "What do the Messengers do when you use the 'Beckoning Bell'?",
+						"wrong": [
+							"Sing a song",
+							"Disappear",
+							"Attack the boss"
+						]
+					},
+					{
+						"correct": "They surround the base",
+						"difficulty": "Medium",
+						"explanation": "The little ones gather around the lamp, reaching out toward the light.",
+						"question": "Where do the Messengers go when the player approaches a 'Lamp'?",
+						"wrong": [
+							"They fly away",
+							"They hide inside",
+							"They point at the player"
+						]
+					},
+					{
+						"correct": "They worship them",
+						"difficulty": "Medium",
+						"explanation": "They are described as 'inhabitants of the dream who find hunters to be fascinating'.",
+						"question": "According to the lore, what do the Messengers think of the Hunters?",
+						"wrong": [
+							"They hate them",
+							"They fear them",
+							"They ignore them"
+						]
+					},
+					{
+						"correct": "Red Ribbon",
+						"difficulty": "Medium",
+						"explanation": "The Red Jeweled Ribbon can be given to the Messengers after a tragic questline.",
+						"question": "Which specific item, given to the messengers, belonged to Gascoigne's daughter?",
+						"wrong": [
+							"Music Box",
+							"Gold Pendant",
+							"Small Hair Ornament"
+						]
+					},
+					{
+						"correct": "Changing accessories",
+						"difficulty": "Hard",
+						"explanation": "The messenger in the stump allows you to equip the various hats you've found.",
+						"question": "What is the 'Stump Messenger' used for in the Hunter's Dream?",
+						"wrong": [
+							"Buying weapons",
+							"Selling blood",
+							"Leveling up"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "There are three distinct little ones visible in the higher basin near the workshop window.",
+						"question": "How many Messengers are visible in the 'Insight' shop basin?",
+						"wrong": [
+							"One",
+							"Two",
+							"Many"
+						]
+					},
+					{
+						"correct": "Bloody Messenger Headwrap",
+						"difficulty": "Hard",
+						"explanation": "It's one of the more macabre cosmetic items found in the Hunter's Nightmare.",
+						"question": "Which DLC item allows you to dress your messengers in blood-stained bandages?",
+						"wrong": [
+							"Beast Headwrap",
+							"Old Hunter Cap",
+							"Madman's Mask"
+						]
+					},
+					{
+						"correct": "They don't react",
+						"difficulty": "Hard",
+						"explanation": "While they are responsive to many things, they do not react to player gestures in the base game.",
+						"question": "What is the Messengers' reaction when the player performs the 'Make Contact' gesture?",
+						"wrong": [
+							"They copy the gesture",
+							"They run away",
+							"They cheer"
+						]
+					},
+					{
+						"correct": "Adornment",
+						"difficulty": "Hard",
+						"explanation": "The item descriptions for their hats mention they love to be dressed up and pampered.",
+						"question": "The messengers are said to 'yearn for' what specific thing from the hunters?",
+						"wrong": [
+							"Blood",
+							"Eyes",
+							"Freedom"
+						]
+					}
+				]
+			},
+			"id": "bloodborne_messengers",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Messengers",
+				"lore_desc": "Small, pale inhabitants of the Dream that worship and assist the hunters.",
+				"theme_origin": "bloodborne",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Dream",
+					"Support"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -47093,12 +51955,125 @@
 					"name": "The Serpent's Kin"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Godfrey, First Elden Lord",
 						"The Erdtree"
 					],
 					"name": "The First Lord's Reign"
+				}
+			]
+		},
+		{
+			"id": "bloodborne",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Gehrman",
+						"The Doll",
+						"Moon Presence"
+					],
+					"name": "The Hunter's Dream"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Lady Maria",
+						"Orphan of Kos",
+						"Gehrman"
+					],
+					"name": "Sins of the Past"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Ludwig",
+						"Holy Moonlight Sword",
+						"Vicar Amelia"
+					],
+					"name": "The Healing Church"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Byrgenwerth",
+						"Rom",
+						"Insight"
+					],
+					"name": "Eyes on the Inside"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Lady Maria",
+						"The Doll"
+					],
+					"name": "Curious Mania"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Eileen the Crow",
+						"Father Gascoigne"
+					],
+					"name": "A Hunter Must Hunt"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ludwig",
+						"Holy Moonlight Sword"
+					],
+					"name": "The Guiding Moonlight"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Doll",
+						"Blood Echoes"
+					],
+					"name": "Harvesting the Night"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Alfred",
+						"Cainhurst Castle"
+					],
+					"name": "The Martyr's Successor"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Djura",
+						"Old Yharnam"
+					],
+					"name": "Ashes of the Powder Kegs"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Father Gascoigne",
+						"Central Yharnam"
+					],
+					"name": "Beasts All Over the Shop"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gehrman",
+						"Burial Blade"
+					],
+					"name": "Masterpiece of the Workshop"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Micolash",
+						"Rom"
+					],
+					"name": "Grant Us Eyes!"
 				}
 			]
 		}
