@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773183096,
+	"last_updated": 1773271451,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -1965,6 +1965,49 @@
 				"the_witcher_3_wild_hunt_leshen",
 				"the_witcher_3_wild_hunt_the_skellige_isles",
 				"the_witcher_3_wild_hunt_igni"
+			]
+		},
+		"2026-03-12": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Elden Ring: Let Me Solo This Trivia",
+			"share_text": "Foul tarnished !",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"elden_ring_malenia,_blade_of_miquella",
+				"elden_ring_ranni_the_witch",
+				"elden_ring_melina"
+			],
+			"starters": [
+				"elden_ring_malenia,_blade_of_miquella",
+				"elden_ring_starscourge_radahn",
+				"elden_ring_ranni_the_witch",
+				"elden_ring_the_erdtree",
+				"elden_ring_torrent",
+				"elden_ring_iron_fist_alexander",
+				"elden_ring_margit_the_fell_omen",
+				"elden_ring_godrick_the_grafted",
+				"elden_ring_melina",
+				"elden_ring_blaidd_the_half-wolf",
+				"elden_ring_dark_moon_greatsword",
+				"elden_ring_morgott_the_omen_king",
+				"elden_ring_rykard,_lord_of_blasphemy",
+				"elden_ring_maliketh,_the_black_blade",
+				"elden_ring_rennala,_queen_of_the_full_moon",
+				"elden_ring_godfrey,_first_elden_lord"
 			]
 		}
 	}
