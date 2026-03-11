@@ -42409,6 +42409,2998 @@
 					"Weapon"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Waterfowl Dance",
+						"difficulty": "Easy",
+						"explanation": "The Waterfowl Dance is Malenia's most feared move, requiring precise dodging or a sturdy shield to survive.",
+						"question": "What is the name of the devastating multi-hit flurry attack Malenia is famous for?",
+						"wrong": [
+							"Scarlet Aeonia",
+							"Bloodboon Ritual",
+							"Dynasty's Finesse"
+						]
+					},
+					{
+						"correct": "Miquella",
+						"difficulty": "Easy",
+						"explanation": "Malenia is fiercely protective of her twin brother, Miquella, who was cursed with eternal childhood.",
+						"question": "Malenia is known as the 'Blade of' which other character?",
+						"wrong": [
+							"Marika",
+							"Radagon",
+							"Godwyn"
+						]
+					},
+					{
+						"correct": "Scarlet Rot",
+						"difficulty": "Easy",
+						"explanation": "The Scarlet Rot is an outer god's curse that consumes Malenia's body and destroyed the Caelid wilds.",
+						"question": "Which specific status effect does Malenia inflict upon players and the land of Caelid?",
+						"wrong": [
+							"Death Blight",
+							"Frostbite",
+							"Poison"
+						]
+					},
+					{
+						"correct": "Unalloyed Gold",
+						"difficulty": "Easy",
+						"explanation": "Unalloyed gold was developed by Miquella to ward off the influence of Outer Gods and the Scarlet Rot.",
+						"question": "What prosthetic material is Malenia's famous sword and arm made from?",
+						"wrong": [
+							"Meteoric Ore",
+							"Glintstone",
+							"Cold Steel"
+						]
+					},
+					{
+						"correct": "Rot",
+						"difficulty": "Easy",
+						"explanation": "After blooming for the second time, she ascends to become the Goddess of Rot.",
+						"question": "In her second phase, Malenia transforms into the Goddess of what?",
+						"wrong": [
+							"Blooms",
+							"Plagues",
+							"Butterflies"
+						]
+					},
+					{
+						"correct": "The Blue Swordsman",
+						"difficulty": "Medium",
+						"explanation": "The blind swordsman who sealed away the God of Rot in the Lake of Rot was the one who taught Malenia her flowing combat style.",
+						"question": "Who was the legendary blind swordsman that served as Malenia's mentor?",
+						"wrong": [
+							"Okina",
+							"Yura",
+							"Bernahl"
+						]
+					},
+					{
+						"correct": "Miquella's Haligtree",
+						"difficulty": "Medium",
+						"explanation": "The Haligtree was grown using Miquella's blood to create a sanctuary for those shunned by the Erdtree.",
+						"question": "Which region is Malenia's hidden home, where she awaits Miquella's return?",
+						"wrong": [
+							"Elphael",
+							"Leyndell",
+							"Raya Lucaria"
+						]
+					},
+					{
+						"correct": "Life Steal",
+						"difficulty": "Medium",
+						"explanation": "Malenia heals a portion of her health every time her blade connects, even if the player blocks the hit.",
+						"question": "What is the unique mechanic of Malenia's boss fight that triggers whenever she hits the player?",
+						"wrong": [
+							"Mana Drain",
+							"Stamina Burn",
+							"Equip Burden Increase"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "Prophecy states that when Malenia blooms three times, she will fully ascend; the player witnesses the third bloom.",
+						"question": "How many times must Malenia 'bloom' to truly become a goddess, according to lore?",
+						"wrong": [
+							"Two",
+							"Five",
+							"One"
+						]
+					},
+					{
+						"correct": "Gowry",
+						"difficulty": "Medium",
+						"explanation": "Gowry is a sage in Caelid who seeks to assist the 'daughters' of Malenia in their blooming.",
+						"question": "Which character gives the player the 'Unalloyed Gold Needle' required to reach Malenia's location?",
+						"wrong": [
+							"Millicent",
+							"Iji",
+							"Seluvis"
+						]
+					},
+					{
+						"correct": "Scarlet Aeonia",
+						"difficulty": "Hard",
+						"explanation": "The Scarlet Aeonia is the blooming of the rot, leaving behind a massive, deadly flower.",
+						"question": "What is the name of the flower Malenia turns into at the end of her boss fight?",
+						"wrong": [
+							"Miquella's Lily",
+							"Trina's Lily",
+							"Grave Glovewort"
+						]
+					},
+					{
+						"correct": "Millicent",
+						"difficulty": "Hard",
+						"explanation": "Millicent and her sisters were born from the rot left behind after Malenia's battle with Radahn.",
+						"question": "Which of these characters is considered one of Malenia's 'daughters' or offshoots?",
+						"wrong": [
+							"Rya",
+							"Nepheli Loux",
+							"Latenna"
+						]
+					},
+					{
+						"correct": "Butterfly",
+						"difficulty": "Hard",
+						"explanation": "The Aeonian Butterflies found in the world are said to be the wings of the Goddess of Rot.",
+						"question": "Malenia's armor is designed to resemble what type of winged creature?",
+						"wrong": [
+							"Dragonfly",
+							"Moth",
+							"Raven"
+						]
+					},
+					{
+						"correct": "A Stalemate",
+						"difficulty": "Hard",
+						"explanation": "Despite the devastation of Caelid, neither could claim victory, leaving Malenia in a coma and Radahn insane.",
+						"question": "What was the result of the duel between Malenia and General Radahn?",
+						"wrong": [
+							"Malenia won",
+							"Radahn won",
+							"Both died"
+						]
+					},
+					{
+						"correct": "Deep Red",
+						"difficulty": "Hard",
+						"explanation": "Her iconic red cloak is tattered and worn from years of combat and the corruption of the rot.",
+						"question": "What color is the cloak Malenia wears over her prosthetic shoulder?",
+						"wrong": [
+							"Gold",
+							"Silver",
+							"Brown"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_malenia,_blade_of_miquella",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Malenia, Blade of Miquella",
+				"lore_desc": "The undefeated swordswoman who fought Radahn to a standstill and carries the curse of Scarlet Rot.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Demigod",
+					"Boss",
+					"Empyrean"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Leonard",
+						"difficulty": "Easy",
+						"explanation": "Radahn loved his horse so much that he learned gravity magic specifically so he could continue to ride him despite his massive size.",
+						"question": "What is the name of General Radahn's surprisingly small horse?",
+						"wrong": [
+							"Torrent",
+							"Storm",
+							"Lulu"
+						]
+					},
+					{
+						"correct": "Gravity Magic",
+						"difficulty": "Easy",
+						"explanation": "Radahn is the master of gravity, allowing him to pull meteorites from the sky and hover despite his bulk.",
+						"question": "What type of magic did Radahn study in Sellia to prevent the stars from falling?",
+						"wrong": [
+							"Glintstone Sorcery",
+							"Pyromancy",
+							"Magma Sorcery"
+						]
+					},
+					{
+						"correct": "Caelid",
+						"difficulty": "Easy",
+						"explanation": "The festival is held at Redmane Castle, located on the edge of the rot-infested Caelid.",
+						"question": "In which region of the Lands Between does the Radahn Festival take place?",
+						"wrong": [
+							"Limgrave",
+							"Liurnia",
+							"Mt. Gelmir"
+						]
+					},
+					{
+						"correct": "Colossal Swords",
+						"difficulty": "Easy",
+						"explanation": "He wields two massive Starscourge Greatswords etched with gravity crests.",
+						"question": "What weapon type does Radahn dual-wield in battle?",
+						"wrong": [
+							"Great Axes",
+							"Warhammers",
+							"Twinblades"
+						]
+					},
+					{
+						"correct": "Radagon",
+						"difficulty": "Easy",
+						"explanation": "Radahn inherited his father Radagon's flaming red hair and immense physical power.",
+						"question": "Radahn is the son of Queen Rennala and which Golden Order hero?",
+						"wrong": [
+							"Godfrey",
+							"Morgott",
+							"Godwyn"
+						]
+					},
+					{
+						"correct": "A Meteor",
+						"difficulty": "Medium",
+						"explanation": "Radahn launches himself into the atmosphere and crashes back down with the force of a falling star.",
+						"question": "At the start of the second phase, Radahn disappears and returns to the arena as what?",
+						"wrong": [
+							"A Lightning Bolt",
+							"A Ghost",
+							"A Giant Crow"
+						]
+					},
+					{
+						"correct": "Witch-Hunter Jerren",
+						"difficulty": "Medium",
+						"explanation": "Jerren was a close comrade of Radahn who promised to hold the festival to end Radahn's rot-induced suffering.",
+						"question": "Which character organizes the 'Radahn Festival' to give the General an honorable death?",
+						"wrong": [
+							"Blaidd",
+							"Alexander",
+							"Gideon Ofnir"
+						]
+					},
+					{
+						"correct": "The Scarlet Rot",
+						"difficulty": "Medium",
+						"explanation": "The rot ate away at his mind and body, leaving him a mindless beast eating corpses on the battlefield.",
+						"question": "What prevented Radahn from dying naturally after his fight with Malenia?",
+						"wrong": [
+							"The Elden Ring",
+							"A Curse of Immortality",
+							"Destined Death"
+						]
+					},
+					{
+						"correct": "Red Hair",
+						"difficulty": "Medium",
+						"explanation": "While his father Radagon hated his own red hair (calling it a curse of the giants), Radahn wore it as a symbol of his power.",
+						"question": "What physical feature did Radahn inherit from his father that he was allegedly proud of?",
+						"wrong": [
+							"Golden Eyes",
+							"Giant Stature",
+							"Horned Skin"
+						]
+					},
+					{
+						"correct": "Godfrey",
+						"difficulty": "Medium",
+						"explanation": "Radahn greatly admired the first Elden Lord, Godfrey, and styled his armor after the lion-regent Serosh.",
+						"question": "Who was Radahn's idol, whose image he adorned his armor with?",
+						"wrong": [
+							"Marika",
+							"Maliketh",
+							"Placidusax"
+						]
+					},
+					{
+						"correct": "Redmane Castle",
+						"difficulty": "Hard",
+						"explanation": "Redmane Castle serves as the headquarters for Radahn's loyal soldiers.",
+						"question": "What is the name of the castle where the Radahn Festival is held?",
+						"wrong": [
+							"Castle Sol",
+							"Castle Morne",
+							"Stormveil Castle"
+						]
+					},
+					{
+						"correct": "The Stars",
+						"difficulty": "Hard",
+						"explanation": "By halting the stars, Radahn effectively froze the fate of the Carian Royal Family.",
+						"question": "Which cosmic entity was Radahn holding in place with his magic?",
+						"wrong": [
+							"The Moon",
+							"The Sun",
+							"The Void"
+						]
+					},
+					{
+						"correct": "A star falls",
+						"difficulty": "Hard",
+						"explanation": "With his death, gravity's hold is released, and a star crashes into the Mistwood, opening the way to Nokron.",
+						"question": "What happens to the sky immediately after Radahn is defeated?",
+						"wrong": [
+							"It turns gold",
+							"It turns red",
+							"The moon disappears"
+						]
+					},
+					{
+						"correct": "Redmane Soldiers",
+						"difficulty": "Hard",
+						"explanation": "The Redmane soldiers use fire to contain the Scarlet Rot that claimed their master's mind.",
+						"question": "What was the title of the soldiers who stayed in Caelid to burn the rot after Radahn's madness?",
+						"wrong": [
+							"Cleanrot Knights",
+							"Banished Knights",
+							"Godrick Soldiers"
+						]
+					},
+					{
+						"correct": "Sellia",
+						"difficulty": "Hard",
+						"explanation": "Radahn studied gravity magic in the Town of Sorcery, Sellia, and later saved it from a falling star.",
+						"question": "Which sorcery town did Radahn protect during his youth?",
+						"wrong": [
+							"Ordina",
+							"Raya Lucaria",
+							"Nokstella"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_starscourge_radahn",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Starscourge Radahn",
+				"lore_desc": "The massive General of the Caelid wilds who mastered gravity magic to keep the stars themselves in place.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Demigod",
+					"Boss",
+					"Gravity"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Four",
+						"difficulty": "Easy",
+						"explanation": "Ranni inhabits a four-armed puppet modeled after her secret mentor, the Snowy Crone.",
+						"question": "How many arms does Ranni's doll body possess?",
+						"wrong": [
+							"Two",
+							"Six",
+							"Eight"
+						]
+					},
+					{
+						"correct": "Dark Moon Greatsword",
+						"difficulty": "Easy",
+						"explanation": "The Dark Moon Greatsword is a traditional gift given by Carian queens to their chosen consorts.",
+						"question": "What is the name of the massive blade Ranni gives the player at the end of her questline?",
+						"wrong": [
+							"Moonveil",
+							"Golden Order Totem",
+							"Carian Scepter"
+						]
+					},
+					{
+						"correct": "Patches",
+						"difficulty": "Easy",
+						"explanation": "Blaidd the wolf, Iji the blacksmith, and Seluvis the sorcerer comprise Ranni's inner circle.",
+						"question": "Which of these NPCs is NOT one of Ranni's three loyal servants?",
+						"wrong": [
+							"Blaidd",
+							"Iji",
+							"Seluvis"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "A faint blue spirit face is visible next to her doll's head, representing her true soul.",
+						"question": "What is the color of Ranni's spectral ghost face that appears beside her doll's head?",
+						"wrong": [
+							"Green",
+							"Gold",
+							"White"
+						]
+					},
+					{
+						"correct": "Spirit Calling Bell",
+						"difficulty": "Easy",
+						"explanation": "Ranni meets the player at the Church of Elleh under the alias 'Renna' to deliver the bell.",
+						"question": "What does Ranni give the player at the start of the game to allow them to summon spirits?",
+						"wrong": [
+							"Spectral Steed Whistle",
+							"Lantern",
+							"Telescope"
+						]
+					},
+					{
+						"correct": "Night of the Black Knives",
+						"difficulty": "Medium",
+						"explanation": "Ranni stole a fragment of the Rune of Death to kill her own body and Godwyn's soul simultaneously.",
+						"question": "Ranni was the mastermind behind which historical tragedy involving the Black Knife Assassins?",
+						"wrong": [
+							"The Shattering",
+							"The Liurnian Wars",
+							"The Burning of the Erdtree"
+						]
+					},
+					{
+						"correct": "The Snowy Crone",
+						"difficulty": "Medium",
+						"explanation": "Ranni's doll body was crafted in the likeness of an old crone who lived in the woods and taught her ice sorcery.",
+						"question": "Who was Ranni's secret mentor who taught her about the dark moon?",
+						"wrong": [
+							"Queen Rennala",
+							"Sellen",
+							"Lusat"
+						]
+					},
+					{
+						"correct": "Talk to her three times",
+						"difficulty": "Medium",
+						"explanation": "If you persistent in talking to the Miniature Ranni at a Site of Grace, she eventually loses her patience and speaks.",
+						"question": "What must the player give Ranni in her miniature form to progress her quest in the Ainsel River?",
+						"wrong": [
+							"A Dewdrop",
+							"A Great Rune",
+							"A Ring"
+						]
+					},
+					{
+						"correct": "Half-Wolf",
+						"difficulty": "Medium",
+						"explanation": "Blaidd was gifted to Ranni by the Two Fingers as her loyal shadow and companion.",
+						"question": "What kind of creature is Ranni's shadow-bound beast, Blaidd?",
+						"wrong": [
+							"Lion",
+							"Bear",
+							"Dragon"
+						]
+					},
+					{
+						"correct": "Divine Tower of Liurnia",
+						"difficulty": "Medium",
+						"explanation": "Her physical body lies atop the tower, bearing the Cursemark of Death.",
+						"question": "Where can Ranni's original, burnt physical body be found?",
+						"wrong": [
+							"Ranni's Rise",
+							"Caria Manor",
+							"Lake of Rot"
+						]
+					},
+					{
+						"correct": "Age of Stars",
+						"difficulty": "Hard",
+						"explanation": "In this ending, Ranni replaces the Erdtree with the Moon and takes the player as her consort.",
+						"question": "What is the name of the ending achieved by completing Ranni's questline?",
+						"wrong": [
+							"Age of Fracture",
+							"Age of Order",
+							"Lord of Frenzied Flame"
+						]
+					},
+					{
+						"correct": "Fingerslayer Blade",
+						"difficulty": "Hard",
+						"explanation": "The Fingerslayer Blade is a weapon capable of harming the Greater Will's envoys.",
+						"question": "Which item does Ranni require the player to retrieve from the city of Nokron?",
+						"wrong": [
+							"Black Knife",
+							"Golden Needle",
+							"Celestial Dew"
+						]
+					},
+					{
+						"correct": "Brother",
+						"difficulty": "Hard",
+						"explanation": "Radahn, Rykard, and Ranni are the three children of Radagon and Rennala.",
+						"question": "What is Ranni's relationship to the demigod Rykard?",
+						"wrong": [
+							"Father",
+							"Uncle",
+							"Son"
+						]
+					},
+					{
+						"correct": "Dark Moon Ring",
+						"difficulty": "Hard",
+						"explanation": "Also known as the 'Discarded Palace Key' ring, it is required to bypass the seal in the Grand Cloister.",
+						"question": "What is the name of the ring the player uses to wed Ranni?",
+						"wrong": [
+							"Goldmask Ring",
+							"Ruler's Ring",
+							"Amber Ring"
+						]
+					},
+					{
+						"correct": "They die",
+						"difficulty": "Hard",
+						"explanation": "Iji and Blaidd both meet tragic ends, while Seluvis is found dead as a puppet.",
+						"question": "What happens to Ranni's servants after her questline reaches its climax?",
+						"wrong": [
+							"They become gods",
+							"They join the player",
+							"They vanish"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_ranni_the_witch",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Ranni the Witch",
+				"lore_desc": "The daughter of Rennala who shed her flesh to escape the Greater Will and usher in the Age of Stars.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Empyrean",
+					"Lunar"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gold",
+						"difficulty": "Easy",
+						"explanation": "The Erdtree is the physical manifestation of the Golden Order and glows with divine golden light.",
+						"question": "What color is the primary light emitted by the Erdtree?",
+						"wrong": [
+							"Blue",
+							"Silver",
+							"Red"
+						]
+					},
+					{
+						"correct": "Leyndell",
+						"difficulty": "Easy",
+						"explanation": "Leyndell, the Royal Capital, was built around the base of the Erdtree to protect it.",
+						"question": "In which city is the base of the Erdtree located?",
+						"wrong": [
+							"Limgrave",
+							"Sellia",
+							"Nokron"
+						]
+					},
+					{
+						"correct": "Minor Erdtrees",
+						"difficulty": "Easy",
+						"explanation": "Minor Erdtrees grew from seeds scattered after the Shattering and are often guarded by Erdtree Avatars.",
+						"question": "What are the smaller versions of the Erdtree scattered across the world called?",
+						"wrong": [
+							"Tree Sentinels",
+							"Golden Saplings",
+							"Haligtrees"
+						]
+					},
+					{
+						"correct": "Golden Seed",
+						"difficulty": "Easy",
+						"explanation": "Golden Seeds allow the player to increase the total number of flasks they carry.",
+						"question": "What material is used to upgrade the player's Flask of Crimson Tears, found at the base of smaller trees?",
+						"wrong": [
+							"Sacred Tear",
+							"Smithing Stone",
+							"Glintstone"
+						]
+					},
+					{
+						"correct": "Queen Marika",
+						"difficulty": "Easy",
+						"explanation": "Queen Marika the Eternal was imprisoned within the tree by the Greater Will after she shattered the Elden Ring.",
+						"question": "Who is the god that is said to be imprisoned inside the Erdtree?",
+						"wrong": [
+							"Godfrey",
+							"Ranni",
+							"Miquella"
+						]
+					},
+					{
+						"correct": "Burn it",
+						"difficulty": "Medium",
+						"explanation": "The player must use the Flame of Ruin from the Mountaintops of the Giants to burn the impenetrable thorns.",
+						"question": "What must the player do to gain entry into the Erdtree after being blocked by thorns?",
+						"wrong": [
+							"Pray to it",
+							"Chop it",
+							"Paint it"
+						]
+					},
+					{
+						"correct": "The Crucible",
+						"difficulty": "Medium",
+						"explanation": "The Crucible was the primordial form of the Erdtree where all life was once blended together.",
+						"question": "What was the era or force that existed before the Erdtree, known for its primordial red-gold color?",
+						"wrong": [
+							"The Void",
+							"The Gloam",
+							"The Frenzy"
+						]
+					},
+					{
+						"correct": "Morgott",
+						"difficulty": "Medium",
+						"explanation": "Morgott, the Omen King, stands as the final sentinel protecting the tree from any who would become Elden Lord.",
+						"question": "Which boss guards the entrance to the Erdtree's interior in the capital?",
+						"wrong": [
+							"Godrick",
+							"Radahn",
+							"Rykard"
+						]
+					},
+					{
+						"correct": "Erdtree Avatars",
+						"difficulty": "Medium",
+						"explanation": "Erdtree Avatars are headless, wood-like entities that wield large hammers and use holy magic.",
+						"question": "What is the name of the plant-like guardians that protect the Minor Erdtrees?",
+						"wrong": [
+							"Tree Sentinels",
+							"Guardian Golems",
+							"Cleanrot Knights"
+						]
+					},
+					{
+						"correct": "Radagon's Thorns",
+						"difficulty": "Medium",
+						"explanation": "The thorns are etched with the lattice-like rune of Radagon, signifying his refusal to let anyone in.",
+						"question": "What is the specific name of the 'impenetrable' barrier that blocks the player from entering the Erdtree?",
+						"wrong": [
+							"Marika's Seal",
+							"Golden Fog",
+							"Elden Wall"
+						]
+					},
+					{
+						"correct": "Sappy Dew",
+						"difficulty": "Hard",
+						"explanation": "In the early days of the Erdtree, its sap was abundant and provided physical healing and blessings.",
+						"question": "What substance is said to drip from the Erdtree in ancient times, granting blessings?",
+						"wrong": [
+							"Blood",
+							"Mercury",
+							"Liquid Gold"
+						]
+					},
+					{
+						"correct": "None it is visible naturally",
+						"difficulty": "Hard",
+						"explanation": "The Guidance of Grace is a natural phenomenon visible to Tarnished who still possess the sight of grace.",
+						"question": "Which item allows a player to see the 'Guidance of Grace' pointing toward the Erdtree?",
+						"wrong": [
+							"Grace Mimic",
+							"Finger Imposter",
+							"Golden Compass"
+						]
+					},
+					{
+						"correct": "It stopped producing seeds",
+						"difficulty": "Hard",
+						"explanation": "The removal of the Rune of Death from the Elden Ring meant the Erdtree became the cycle of eternal rebirth, and its seeds stopped falling.",
+						"question": "What happened to the Erdtree after the Rune of Death was stolen?",
+						"wrong": [
+							"It turned black",
+							"It grew taller",
+							"It died"
+						]
+					},
+					{
+						"correct": "Gransax",
+						"difficulty": "Hard",
+						"explanation": "The massive stone dragon carcass found in Leyndell is Gransax, who breached the capital's walls.",
+						"question": "What is the name of the legendary dragon that once attacked the Erdtree and Leyndell?",
+						"wrong": [
+							"Fortissax",
+							"Lansseax",
+							"Placidusax"
+						]
+					},
+					{
+						"correct": "Sickly Yellow",
+						"difficulty": "Hard",
+						"explanation": "The tree is consumed by the chaotic yellow flame of the Three Fingers, melting the world into one.",
+						"question": "What color does the Erdtree turn if the player chooses the 'Lord of Frenzied Flame' ending?",
+						"wrong": [
+							"Black",
+							"White",
+							"Bright Red"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_the_erdtree",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "The Erdtree",
+				"lore_desc": "The colossal, glowing tree that serves as the heart of the Golden Order and the Lands Between.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Landmark",
+					"Holy",
+					"Gold"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Spectral Steed Whistle",
+						"difficulty": "Easy",
+						"explanation": "The whistle was given to you by Melina and is used to call Torrent from the spirit world.",
+						"question": "What type of whistle is used to summon Torrent?",
+						"wrong": [
+							"Golden Whistle",
+							"Bone Whistle",
+							"Silver Ring"
+						]
+					},
+					{
+						"correct": "Goat",
+						"difficulty": "Easy",
+						"explanation": "Torrent has curved horns similar to a goat or a ram.",
+						"question": "Torrent has the physical features of a horse and which other animal?",
+						"wrong": [
+							"Deer",
+							"Bull",
+							"Ram"
+						]
+					},
+					{
+						"correct": "Melina",
+						"difficulty": "Easy",
+						"explanation": "Melina provides the whistle at a Site of Grace after the player reaches a certain point in Limgrave.",
+						"question": "Which character gives the player the ability to summon Torrent?",
+						"wrong": [
+							"Ranni",
+							"Roderika",
+							"Varre"
+						]
+					},
+					{
+						"correct": "Double Jump",
+						"difficulty": "Easy",
+						"explanation": "Torrent can perform a second jump mid-air, allowing for better traversal and platforming.",
+						"question": "What is the special jumping ability Torrent possesses that the player does not?",
+						"wrong": [
+							"Teleportation",
+							"Hovering",
+							"Wall Run"
+						]
+					},
+					{
+						"correct": "Rowa Raisins",
+						"difficulty": "Easy",
+						"explanation": "Rowa Raisins are crafted from Rowa Fruit found throughout the Lands Between.",
+						"question": "What item can the player feed Torrent to heal his health?",
+						"wrong": [
+							"Sweet Grapes",
+							"Golden Seeds",
+							"Meat Dumplings"
+						]
+					},
+					{
+						"correct": "Spectral Steed",
+						"difficulty": "Medium",
+						"explanation": "As a spectral steed, he can be summoned and dismissed at will using a ring-like whistle.",
+						"question": "Torrent is technically classified as what kind of entity?",
+						"wrong": [
+							"Ghost Horse",
+							"Spirit Ash",
+							"Living Jar"
+						]
+					},
+					{
+						"correct": "Player is knocked off and prone",
+						"difficulty": "Medium",
+						"explanation": "If Torrent's HP hits zero, the player is thrown to the ground and is vulnerable for several seconds.",
+						"question": "What happens to the player if Torrent dies during combat?",
+						"wrong": [
+							"Player dies instantly",
+							"Player teleports away",
+							"Player loses all runes"
+						]
+					},
+					{
+						"correct": "Use a Flask of Crimson Tears",
+						"difficulty": "Medium",
+						"explanation": "Reviving him in the field requires consuming one charge of your healing flask.",
+						"question": "How do you revive Torrent if he dies without resting at a Site of Grace?",
+						"wrong": [
+							"Use a Golden Seed",
+							"Use a Rowa Raisin",
+							"He cannot be revived"
+						]
+					},
+					{
+						"correct": "Legacy Dungeons",
+						"difficulty": "Medium",
+						"explanation": "Torrent cannot be summoned in major dungeons like Stormveil or Raya Lucaria.",
+						"question": "Which of these areas strictly forbids the use of Torrent?",
+						"wrong": [
+							"Caelid",
+							"Liurnia",
+							"The Weeping Peninsula"
+						]
+					},
+					{
+						"correct": "Spiritsprings",
+						"difficulty": "Medium",
+						"explanation": "Spiritsprings allow Torrent to leap safely to high cliffs or land from great heights without taking damage.",
+						"question": "What are the circular wind currents called that allow Torrent to jump great heights?",
+						"wrong": [
+							"Wind Vents",
+							"Storm Gusts",
+							"Air Tunnels"
+						]
+					},
+					{
+						"correct": "Unknown",
+						"difficulty": "Hard",
+						"explanation": "Ranni mentions that Torrent once belonged to a former master, but the game never explicitly names them (though fans speculate it was Miquella).",
+						"question": "Who was the 'former master' of Torrent, according to Ranni the Witch?",
+						"wrong": [
+							"Melina",
+							"Godwyn",
+							"Vyke"
+						]
+					},
+					{
+						"correct": "The one with Miquella",
+						"difficulty": "Hard",
+						"explanation": "The teaser image shows a figure widely believed to be Miquella riding Torrent through a field of wheat.",
+						"question": "Which promotional artwork for the DLC 'Shadow of the Erdtree' features Torrent?",
+						"wrong": [
+							"The one with Messmer",
+							"The one with the Erdtree",
+							"The one with the Tarnished"
+						]
+					},
+					{
+						"correct": "Madness",
+						"difficulty": "Hard",
+						"explanation": "In certain areas, Torrent can be seen suffering from the effects of Frenzied Flame/Madness.",
+						"question": "What is the only status effect that can be visible on Torrent himself?",
+						"wrong": [
+							"Poison",
+							"Scarlet Rot",
+							"Frostbite"
+						]
+					},
+					{
+						"correct": "Faint blue magic circles",
+						"difficulty": "Hard",
+						"explanation": "Small spectral sigils appear momentarily as he pushes off the air.",
+						"question": "When Torrent double jumps, what appears under his hooves?",
+						"wrong": [
+							"Golden sparks",
+							"Dust clouds",
+							"Water ripples"
+						]
+					},
+					{
+						"correct": "Poise-increasing items",
+						"difficulty": "Hard",
+						"explanation": "Increasing your poise through armor or items helps prevent 'dismount' stuns from enemy hits.",
+						"question": "What item, when used, prevents the player from being knocked off Torrent easily?",
+						"wrong": [
+							"Ironjar Aromatic",
+							"Boiled Crab",
+							"Starlight Shards"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_torrent",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Torrent",
+				"lore_desc": "The faithful Spectral Steed who chooses the Tarnished to be his new rider.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Mount",
+					"Spectral"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A Living Jar",
+						"difficulty": "Easy",
+						"explanation": "Alexander is a sentient ceramic jar with arms and legs, a race known as Warrior Jars.",
+						"question": "What is Alexander's physical form?",
+						"wrong": [
+							"A Stone Golem",
+							"A Skeleton",
+							"A Dragon"
+						]
+					},
+					{
+						"correct": "Limgrave",
+						"difficulty": "Easy",
+						"explanation": "He is found early in the game in Northern Limgrave, asking for a 'good smack' to get free.",
+						"question": "Where does the player first find Alexander stuck in a hole?",
+						"wrong": [
+							"Caelid",
+							"Liurnia",
+							"Mountaintops"
+						]
+					},
+					{
+						"correct": "Remains of warriors",
+						"difficulty": "Easy",
+						"explanation": "Living Jars are filled with the corpses of heroes, which they believe grants them their strength.",
+						"question": "What does Alexander use to fill his body to become stronger?",
+						"wrong": [
+							"Glintstone",
+							"Magma",
+							"Holy Water"
+						]
+					},
+					{
+						"correct": "Iron Fist",
+						"difficulty": "Easy",
+						"explanation": "He introduces himself as 'Iron Fist Alexander,' emphasizing his warrior spirit.",
+						"question": "What is Alexander's combat title?",
+						"wrong": [
+							"The Great",
+							"The Unbreakable",
+							"The Golden"
+						]
+					},
+					{
+						"correct": "Starscourge Radahn",
+						"difficulty": "Easy",
+						"explanation": "Alexander joins the festival to test his mettle against the strongest demigod.",
+						"question": "Which major boss battle can Alexander be summoned for at the Radahn Festival?",
+						"wrong": [
+							"Godrick",
+							"Rennala",
+							"Morgott"
+						]
+					},
+					{
+						"correct": "Mt. Gelmir",
+						"difficulty": "Medium",
+						"explanation": "He is found sitting in the lava of Mt. Gelmir to harden his ceramic skin.",
+						"question": "Where does Alexander go to 'forge' his body after the battle with Radahn?",
+						"wrong": [
+							"Lake of Rot",
+							"Stormveil",
+							"Haligtree"
+						]
+					},
+					{
+						"correct": "Oil Pot",
+						"difficulty": "Medium",
+						"explanation": "He is stuck again, and you must make him slippery with oil to get him out.",
+						"question": "What item do you use to help Alexander out of the hole the second time you find him in Liurnia?",
+						"wrong": [
+							"Soap",
+							"Water Pot",
+							"Fire Pot"
+						]
+					},
+					{
+						"correct": "Jarburg",
+						"difficulty": "Medium",
+						"explanation": "Jarburg is a hidden, peaceful location where small and large jars live together.",
+						"question": "What is the name of the village inhabited by peaceful Living Jars?",
+						"wrong": [
+							"Sellia",
+							"Albinauric Village",
+							"Windmill Village"
+						]
+					},
+					{
+						"correct": "Jar-Bairn",
+						"difficulty": "Medium",
+						"explanation": "Jar-Bairn refers to Alexander as 'Uncle' and wishes to follow in his footsteps.",
+						"question": "Who is the small jar in Jarburg who looks up to Alexander?",
+						"wrong": [
+							"Alexander Jr.",
+							"Little Pot",
+							"Koz"
+						]
+					},
+					{
+						"correct": "Shard of Alexander",
+						"difficulty": "Medium",
+						"explanation": "The Shard of Alexander is a powerful talisman that greatly boosts the attack power of skills.",
+						"question": "What does Alexander gift the player after his final duel?",
+						"wrong": [
+							"Alexander's Lid",
+							"Jar Cannon",
+							"Warrior Jar Shard"
+						]
+					},
+					{
+						"correct": "Crumbling Farum Azula",
+						"difficulty": "Hard",
+						"explanation": "He waits at the floating city, wanting one last fight against a true champion.",
+						"question": "In which final location does Alexander challenge the player to a duel?",
+						"wrong": [
+							"Leyndell",
+							"Consecrated Snowfield",
+							"Ashen Capital"
+						]
+					},
+					{
+						"correct": "He cracked after one hit",
+						"difficulty": "Hard",
+						"explanation": "Alexander is devastated that he cracked easily and had to 'stuff' himself with more meat to repair the damage.",
+						"question": "What did Alexander do during the battle with Radahn that made him feel ashamed?",
+						"wrong": [
+							"He ran away",
+							"He hid in the sand",
+							"He attacked a teammate"
+						]
+					},
+					{
+						"correct": "Red Seals",
+						"difficulty": "Hard",
+						"explanation": "The red seals on his lid keep the 'contents' of his body secure.",
+						"question": "What is the name of the red hair-like substance that overflows from Alexander's lid?",
+						"wrong": [
+							"Warrior Hair",
+							"Blood Wax",
+							"Flesh of Heroes"
+						]
+					},
+					{
+						"correct": "Completing Jar-Bairn's quest",
+						"difficulty": "Hard",
+						"explanation": "Giving the innards to Jar-Bairn inspires the little jar to set out on his own journey.",
+						"question": "What is the item 'Alexander's Innards' used for in the game?",
+						"wrong": [
+							"Healing the player",
+							"Upgrading weapons",
+							"Crafting a pot"
+						]
+					},
+					{
+						"correct": "Spinning Uppercut",
+						"difficulty": "Hard",
+						"explanation": "Alexander uses his massive arms to perform high-damage spinning and slamming attacks.",
+						"question": "Which of these attacks does Alexander use during his boss fight?",
+						"wrong": [
+							"Gravity Pull",
+							"Scarlet Rot Breath",
+							"Moonlight Wave"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_iron_fist_alexander",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Iron Fist Alexander",
+				"lore_desc": "A noble and courageous Living Jar who dreams of becoming a legendary champion.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Warrior",
+					"Jar"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Castleward Tunnel",
+						"difficulty": "Easy",
+						"explanation": "He guards the path leading directly into Stormveil Castle.",
+						"question": "Where is Margit the Fell Omen first encountered?",
+						"wrong": [
+							"The First Step",
+							"Roundtable Hold",
+							"Liurnia Lake"
+						]
+					},
+					{
+						"correct": "Giant Hammer",
+						"difficulty": "Easy",
+						"explanation": "Margit often surprises players by summoning a glowing holy hammer to crush them.",
+						"question": "What glowing weapon does Margit conjure out of thin air?",
+						"wrong": [
+							"Greatsword",
+							"Twinblades",
+							"Spear"
+						]
+					},
+					{
+						"correct": "Morgott",
+						"difficulty": "Easy",
+						"explanation": "Margit is an alias used by Morgott, the Omen King, to hunt Tarnished outside the capital.",
+						"question": "What is Margit's real name?",
+						"wrong": [
+							"Mohg",
+							"Godrick",
+							"Godfrey"
+						]
+					},
+					{
+						"correct": "Horns",
+						"difficulty": "Easy",
+						"explanation": "Omens are born with tangled horns and are usually shunned or mutilated by the Golden Order.",
+						"question": "What physical trait defines Margit as an 'Omen'?",
+						"wrong": [
+							"Wings",
+							"Extra Eyes",
+							"Scale Skin"
+						]
+					},
+					{
+						"correct": "Margit's Shackle",
+						"difficulty": "Easy",
+						"explanation": "Purchased from Patches, this item can stun Margit twice during his first phase.",
+						"question": "What is the name of the item that can be used to momentarily bind Margit to the ground?",
+						"wrong": [
+							"Omen Binders",
+							"Golden Chains",
+							"Fell Restraint"
+						]
+					},
+					{
+						"correct": "It must be extinguished",
+						"difficulty": "Medium",
+						"explanation": "His iconic line is: 'Put these withered ambitions to rest,' as he tries to stop the Tarnished.",
+						"question": "What does Margit say happens to the 'flame of ambition' in the player?",
+						"wrong": [
+							"It must be fueled",
+							"It is a lie",
+							"It will burn the world"
+						]
+					},
+					{
+						"correct": "Mohg",
+						"difficulty": "Medium",
+						"explanation": "Morgott and Mohg are the twin Omen sons of Marika and Godfrey.",
+						"question": "Who is Margit's twin brother, who also shares the Omen curse?",
+						"wrong": [
+							"Godwyn",
+							"Miquella",
+							"Radahn"
+						]
+					},
+					{
+						"correct": "A Sword",
+						"difficulty": "Medium",
+						"explanation": "The cane is actually a sheath for a curved Greatsword made of his own cursed blood.",
+						"question": "What type of weapon does Margit hide inside his wooden cane?",
+						"wrong": [
+							"A Spear",
+							"A Whip",
+							"A Catalyst"
+						]
+					},
+					{
+						"correct": "Outside Leyndell",
+						"difficulty": "Medium",
+						"explanation": "A common soldier transforms into a projection of Margit to ambush the player on the road to the Capital.",
+						"question": "Aside from Stormveil, where else does Margit appear as a projection to fight the player?",
+						"wrong": [
+							"Caelid Wilds",
+							"Raya Lucaria",
+							"Mount Gelmir"
+						]
+					},
+					{
+						"correct": "Out of love for the Golden Order",
+						"difficulty": "Medium",
+						"explanation": "Morgott was the only demigod who remained loyal to the Erdtree during the Shattering.",
+						"question": "Why did Margit/Morgott stay to protect the Erdtree despite being shunned as an Omen?",
+						"wrong": [
+							"He was forced to",
+							"To gain more power",
+							"He was the only one left"
+						]
+					},
+					{
+						"correct": "Accursed Blood",
+						"difficulty": "Hard",
+						"explanation": "Omen blood is seen as defiled, though it is actually a connection to the primordial Crucible.",
+						"question": "What is the name of the 'curse' that Omens like Margit are born with?",
+						"wrong": [
+							"Scarlet Rot",
+							"Death Blight",
+							"The Frenzy"
+						]
+					},
+					{
+						"correct": "Holy Light",
+						"difficulty": "Hard",
+						"explanation": "He quickly conjures and throws daggers of light to catch players who try to heal at a distance.",
+						"question": "During his fight, Margit throws daggers made of what?",
+						"wrong": [
+							"Steel",
+							"Bone",
+							"Glintstone"
+						]
+					},
+					{
+						"correct": "Radahn",
+						"difficulty": "Hard",
+						"explanation": "The cinematic shows Morgott pinning Radahn down during the defense of Leyndell.",
+						"question": "In the intro cinematic, which character is shown being defeated by Margit/Morgott?",
+						"wrong": [
+							"Godrick",
+							"Malenia",
+							"Rykard"
+						]
+					},
+					{
+						"correct": "He turns into a small shriveled corpse",
+						"difficulty": "Hard",
+						"explanation": "In his final moments, Morgott loses his Omen horns and becomes a frail, tiny human-like figure.",
+						"question": "What happens to Margit's body after he is finally defeated in his true form?",
+						"wrong": [
+							"He explodes in gold",
+							"He turns into a tree",
+							"He vanishes"
+						]
+					},
+					{
+						"correct": "Tarnished",
+						"difficulty": "Hard",
+						"explanation": "He mockingly refers to the player as 'Foul Tarnished' throughout the encounter.",
+						"question": "What title does Margit give the player if they lose to him?",
+						"wrong": [
+							"Foul Warrior",
+							"Weakling",
+							"Cursed One"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_margit_the_fell_omen",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Margit the Fell Omen",
+				"lore_desc": "The first major roadblock for Tarnished, guarding the gates of Stormveil Castle.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Omen",
+					"Limgrave"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Stormveil Castle",
+						"difficulty": "Easy",
+						"explanation": "Stormveil is the massive fortification overlooking the cliffs of Limgrave.",
+						"question": "What is the name of Godrick's castle in Limgrave?",
+						"wrong": [
+							"Castle Morne",
+							"Redmane Castle",
+							"Caria Manor"
+						]
+					},
+					{
+						"correct": "A Dragon Head",
+						"difficulty": "Easy",
+						"explanation": "He chops off his own hand and grafts a dead dragon's head onto the stump, using it as a flamethrower.",
+						"question": "What does Godrick attach to his left arm during his second phase transition?",
+						"wrong": [
+							"A Giant's Hand",
+							"A Iron Shield",
+							"A Golden Axe"
+						]
+					},
+					{
+						"correct": "Grafting",
+						"difficulty": "Easy",
+						"explanation": "Grafting is a grotesque practice where Godrick attaches the arms and legs of Tarnished to his own body.",
+						"question": "What is the name of the process Godrick uses to gain power by taking limbs?",
+						"wrong": [
+							"Sewing",
+							"Linking",
+							"Fusion"
+						]
+					},
+					{
+						"correct": "Godfrey",
+						"difficulty": "Easy",
+						"explanation": "He is part of the Golden Lineage, though he is considered a weak and distant relation to Godfrey.",
+						"question": "Which legendary first Elden Lord is Godrick a distant descendant of?",
+						"wrong": [
+							"Radagon",
+							"Placidusax",
+							"Gwyn"
+						]
+					},
+					{
+						"correct": "Lion",
+						"difficulty": "Easy",
+						"explanation": "The lion represents the strength of Godfrey and the regent-beast Serosh.",
+						"question": "What animal is the symbol of Godrick and the Golden Lineage?",
+						"wrong": [
+							"Wolf",
+							"Eagle",
+							"Serpent"
+						]
+					},
+					{
+						"correct": "Nepheli Loux",
+						"difficulty": "Medium",
+						"explanation": "Nepheli Loux is a warrior who despises Godrick's cowardice and grafting.",
+						"question": "What is the name of the NPC who can be summoned to help you fight Godrick?",
+						"wrong": [
+							"Blaidd",
+							"Melina",
+							"Millicent"
+						]
+					},
+					{
+						"correct": "Leyndell",
+						"difficulty": "Medium",
+						"explanation": "Lore states he fled the capital among the women to escape the wrath of Radahn.",
+						"question": "Before fleeing to Stormveil, which city did Godrick hide in while disguised as a woman?",
+						"wrong": [
+							"Sellia",
+							"Raya Lucaria",
+							"Nokron"
+						]
+					},
+					{
+						"correct": "Bear witness",
+						"difficulty": "Medium",
+						"explanation": "His famous line 'Bear witness!' is shouted as he commands the dragon head to breathe fire.",
+						"question": "What does Godrick shout as he transitions into his second phase?",
+						"wrong": [
+							"I am the Lord",
+							"Kneel before me",
+							"Feel the fire"
+						]
+					},
+					{
+						"correct": "Grafted Scion",
+						"difficulty": "Medium",
+						"explanation": "The Grafted Scion is a smaller, multi-armed enemy that serves as the tutorial boss.",
+						"question": "What is the name of the boss that the player fights at the very beginning of the game, who uses grafting?",
+						"wrong": [
+							"Godrick the Grafted",
+							"Royal Revenant",
+							"Ulcerated Tree Spirit"
+						]
+					},
+					{
+						"correct": "Gold",
+						"difficulty": "Medium",
+						"explanation": "Like all standard graces, it glows with the golden light of the Erdtree.",
+						"question": "What is the color of the site of grace found in Godrick's throne room?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Malenia",
+						"difficulty": "Hard",
+						"explanation": "Godrick insulted Malenia, but after being soundly defeated, he groveled at her feet to save his life.",
+						"question": "Which demigod supposedly defeated Godrick and made him beg for mercy?",
+						"wrong": [
+							"Radahn",
+							"Morgott",
+							"Rykard"
+						]
+					},
+					{
+						"correct": "Axe of Godrick",
+						"difficulty": "Hard",
+						"explanation": "It is a massive golden axe etched with the symbol of the lion.",
+						"question": "What is the specific name of Godrick's signature Greataxe?",
+						"wrong": [
+							"Stormhawk Axe",
+							"Golden Halberd",
+							"Grafted Greatsword"
+						]
+					},
+					{
+						"correct": "Gostoc",
+						"difficulty": "Hard",
+						"explanation": "Gatekeeper Gostoc takes out his frustration on Godrick's remains after the battle.",
+						"question": "Who is the NPC found stomping on Godrick's head after he is defeated?",
+						"wrong": [
+							"Patches",
+							"Kenneth Haight",
+							"Varre"
+						]
+					},
+					{
+						"correct": "Godrick's Great Rune",
+						"difficulty": "Hard",
+						"explanation": "His rune is the first one most players find, and it raises all attributes when activated.",
+						"question": "What is the name of the Great Rune dropped by Godrick?",
+						"wrong": [
+							"The Rune of Storms",
+							"The Anchor Rune",
+							"The Golden Rune"
+						]
+					},
+					{
+						"correct": "A Giant Troll",
+						"difficulty": "Hard",
+						"explanation": "The cinematic shows him finishing a graft from a massive troll corpse.",
+						"question": "In his arena, what kind of creature is Godrick grafting limbs from when you first walk in?",
+						"wrong": [
+							"A Dragon",
+							"A Tarnished",
+							"A Lion"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_godrick_the_grafted",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Godrick the Grafted",
+				"lore_desc": "The ruler of Stormveil who grafts the limbs of others onto himself to compensate for his weak lineage.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Demigod",
+					"Limgrave"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "An accord",
+						"difficulty": "Easy",
+						"explanation": "Her famous line is 'I offer you an accord,' acting as your guide since you are maidenless.",
+						"question": "What does Melina offer the player at the start of the game in exchange for taking her to the Erdtree?",
+						"wrong": [
+							"A sword",
+							"A map",
+							"A blessing"
+						]
+					},
+					{
+						"correct": "Left Eye",
+						"difficulty": "Easy",
+						"explanation": "Her left eye remains shut, bearing a distinct three-toed bird claw mark.",
+						"question": "Which of Melina's eyes is permanently closed and marked with a claw-like tattoo?",
+						"wrong": [
+							"Right Eye",
+							"Both Eyes",
+							"Neither"
+						]
+					},
+					{
+						"correct": "Turning runes into strength",
+						"difficulty": "Easy",
+						"explanation": "She performs the service of a Finger Maiden, allowing the player to level up at Sites of Grace.",
+						"question": "What is Melina's primary role for the player character?",
+						"wrong": [
+							"Blacksmithing",
+							"Selling items",
+							"Teaching sorcery"
+						]
+					},
+					{
+						"correct": "The foot of the Erdtree",
+						"difficulty": "Easy",
+						"explanation": "She was born at the foot of the Erdtree and was given her purpose by her mother inside.",
+						"question": "Where does Melina come from, according to her own words?",
+						"wrong": [
+							"Caelid",
+							"The Badlands",
+							"Raya Lucaria"
+						]
+					},
+					{
+						"correct": "Kindling",
+						"difficulty": "Easy",
+						"explanation": "As the 'Kindling Maiden,' she sacrifices her life to set the Erdtree ablaze.",
+						"question": "What does Melina use herself as to burn the thorns blocking the Erdtree?",
+						"wrong": [
+							"A key",
+							"A weapon",
+							"A shield"
+						]
+					},
+					{
+						"correct": "Spectral Steed Whistle",
+						"difficulty": "Medium",
+						"explanation": "She gives you the whistle, stating that Torrent has chosen you.",
+						"question": "Which item does Melina give the player to summon Torrent?",
+						"wrong": [
+							"Spirit Calling Bell",
+							"Golden Ring",
+							"Silver Horn"
+						]
+					},
+					{
+						"correct": "She leaves and vows to kill you",
+						"difficulty": "Medium",
+						"explanation": "Melina despises the Frenzied Flame and will abandon the player, promising to deliver Destined Death to them.",
+						"question": "What happens to Melina if the player inherits the Flame of Frenzy?",
+						"wrong": [
+							"She dies",
+							"She stays with you",
+							"She turns into a dragon"
+						]
+					},
+					{
+						"correct": "Blade of Calling",
+						"difficulty": "Medium",
+						"explanation": "The Blade of Calling's description hints at her identity as a daughter of Marika.",
+						"question": "What is the name of the dagger Melina uses if she is summoned for the Morgott fight?",
+						"wrong": [
+							"Black Knife",
+							"Reduvia",
+							"Cinquedea"
+						]
+					},
+					{
+						"correct": "Gold",
+						"difficulty": "Medium",
+						"explanation": "She can summon small golden Erdtree projections that heal allies.",
+						"question": "What color are the spectral trees Melina conjures during combat?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"White"
+						]
+					},
+					{
+						"correct": "Queen Marika",
+						"difficulty": "Medium",
+						"explanation": "The game files and lore hints (like her naming convention) strongly suggest she is Marika's daughter.",
+						"question": "Melina is often theorized by fans to be the 'secret' daughter of which character?",
+						"wrong": [
+							"Rennala",
+							"Ranni",
+							"Malenia"
+						]
+					},
+					{
+						"correct": "Bodiless and spectral",
+						"difficulty": "Hard",
+						"explanation": "She says she is 'burnt and bodiless,' existing only as a spirit tied to the player.",
+						"question": "What is Melina's physical state throughout most of the game?",
+						"wrong": [
+							"A puppet",
+							"A ghost",
+							"A prisoner"
+						]
+					},
+					{
+						"correct": "Forge of the Giants",
+						"difficulty": "Hard",
+						"explanation": "At the massive forge, she uses the Giants' Flame to burn the Erdtree.",
+						"question": "At which location does Melina finally leave the player to perform her sacrifice?",
+						"wrong": [
+							"Mountaintop of the Giants",
+							"Leyndell",
+							"Farum Azula"
+						]
+					},
+					{
+						"correct": "Spoken echoes of Marika",
+						"difficulty": "Hard",
+						"explanation": "She shares the words of Queen Marika from various historical points.",
+						"question": "What does Melina recite to the player at various Sites of Grace?",
+						"wrong": [
+							"Ancient poems",
+							"The laws of the land",
+							"Songs of the fingers"
+						]
+					},
+					{
+						"correct": "Pinkish-Gold",
+						"difficulty": "Hard",
+						"explanation": "Her hair is a unique strawberry blonde/pink hue, distinct from the pure gold of the other demigods.",
+						"question": "What is the color of Melina's hair?",
+						"wrong": [
+							"Red",
+							"Blonde",
+							"Black"
+						]
+					},
+					{
+						"correct": "Dull Violet",
+						"difficulty": "Hard",
+						"explanation": "Her eye opens to reveal a cloudy violet color, often associated with the Gloam-Eyed Queen.",
+						"question": "In the Lord of Frenzied Flame ending, Melina's closed eye opens. What color is it?",
+						"wrong": [
+							"Bright Yellow",
+							"Deep Red",
+							"Electric Blue"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_melina",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Melina",
+				"lore_desc": "The mysterious 'Finger Maiden' who guides the Tarnished and seeks to burn the Erdtree.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Maiden",
+					"Fire"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Royal Greatsword",
+						"difficulty": "Easy",
+						"explanation": "His weapon is the Royal Greatsword, which deals physical and magic damage.",
+						"question": "What is the name of the massive sword Blaidd wields?",
+						"wrong": [
+							"Godslayer Greatsword",
+							"Starscourge Greatsword",
+							"Moonlight Greatsword"
+						]
+					},
+					{
+						"correct": "Mistwood Ruins",
+						"difficulty": "Easy",
+						"explanation": "He is perched atop the ruins in the Mistwood in East Limgrave.",
+						"question": "Where do you first encounter Blaidd after hearing a wolf howl?",
+						"wrong": [
+							"Stormveil Castle",
+							"Caria Manor",
+							"Radahn Festival"
+						]
+					},
+					{
+						"correct": "Finger Snap",
+						"difficulty": "Easy",
+						"explanation": "Merchant Kalé tells you to use the Finger Snap emote to get his attention.",
+						"question": "Which emote must you use to get Blaidd to jump down from his perch?",
+						"wrong": [
+							"Wave",
+							"Point Down",
+							"Bow"
+						]
+					},
+					{
+						"correct": "Ranni",
+						"difficulty": "Easy",
+						"explanation": "Shadows are wolf-like guardians given by the Two Fingers to protect and watch over Empyreans.",
+						"question": "Blaidd is the 'Shadow' of which Empyrean?",
+						"wrong": [
+							"Malenia",
+							"Miquella",
+							"Marika"
+						]
+					},
+					{
+						"correct": "Frost",
+						"difficulty": "Easy",
+						"explanation": "The 'Wolf's Assault' skill causes a cold explosion of frost magic.",
+						"question": "What type of magic does Blaidd's sword use during its special skill?",
+						"wrong": [
+							"Fire",
+							"Lightning",
+							"Holy"
+						]
+					},
+					{
+						"correct": "Iji",
+						"difficulty": "Medium",
+						"explanation": "War Counselor Iji is a giant who serves Ranni alongside Blaidd.",
+						"question": "Who is Blaidd's 'war council' colleague, the giant blacksmith?",
+						"wrong": [
+							"Hewg",
+							"Andre",
+							"Bernahl"
+						]
+					},
+					{
+						"correct": "The Two Fingers' influence",
+						"difficulty": "Medium",
+						"explanation": "As a Shadow, he is programmed to go mad if his Empyrean (Ranni) defies the Greater Will.",
+						"question": "Why does Blaidd eventually go insane at the end of Ranni's questline?",
+						"wrong": [
+							"Scarlet Rot",
+							"The Frenzied Flame",
+							"Old age"
+						]
+					},
+					{
+						"correct": "Starscourge Radahn",
+						"difficulty": "Medium",
+						"explanation": "Blaidd is a summonable ally during the Radahn Festival.",
+						"question": "Which boss does Blaidd help the player fight in Caelid?",
+						"wrong": [
+							"Godrick",
+							"Rennala",
+							"Morgott"
+						]
+					},
+					{
+						"correct": "Evergaol",
+						"difficulty": "Medium",
+						"explanation": "Iji traps him in the Forlorn Hound Evergaol, fearing his inevitable descent into madness.",
+						"question": "What is the name of the cell where Iji imprisons Blaidd to protect Ranni?",
+						"wrong": [
+							"The Sewers",
+							"The Dungeon",
+							"The Pit"
+						]
+					},
+					{
+						"correct": "Childhood friends",
+						"difficulty": "Medium",
+						"explanation": "Despite being her Shadow, they grew up together like siblings.",
+						"question": "What is the relationship between Ranni and Blaidd?",
+						"wrong": [
+							"Master and slave",
+							"Brother and sister",
+							"Husband and wife"
+						]
+					},
+					{
+						"correct": "Blaidd's Set",
+						"difficulty": "Hard",
+						"explanation": "The armor is unique to him, featuring a heavy fur cape that helps ward off the cold.",
+						"question": "What is the name of the armor Blaidd wears?",
+						"wrong": [
+							"Wolf Knight Set",
+							"Shadow Set",
+							"Carian Knight Set"
+						]
+					},
+					{
+						"correct": "Seluvis's Rise",
+						"difficulty": "Hard",
+						"explanation": "The mask is found on a wall behind Seluvis's tower, allowing players to mimic Blaidd's appearance.",
+						"question": "Where can you find the 'Black Wolf Mask' which looks like Blaidd's head?",
+						"wrong": [
+							"Mistwood",
+							"Nokron",
+							"Jarburg"
+						]
+					},
+					{
+						"correct": "Darriwil",
+						"difficulty": "Hard",
+						"explanation": "He asks for the player's help in defeating Bloodhound Knight Darriwil.",
+						"question": "Which character was Blaidd hunting in an Evergaol at the start of the game?",
+						"wrong": [
+							"Vyke",
+							"Alberich",
+							"Okina"
+						]
+					},
+					{
+						"correct": "I will not betray her",
+						"difficulty": "Hard",
+						"explanation": "Even as he loses his mind, he fights the influence of the Fingers, refusing to harm Ranni.",
+						"question": "What is Blaidd's final line before he attacks the player at Ranni's Rise?",
+						"wrong": [
+							"For the Greater Will",
+							"I am the Shadow",
+							"Forgive me Ranni"
+						]
+					},
+					{
+						"correct": "Dark Gray",
+						"difficulty": "Hard",
+						"explanation": "His fur is a distinctive slate gray, matching his tattered cloak.",
+						"question": "What color is the fur on Blaidd's body?",
+						"wrong": [
+							"Pure White",
+							"Jet Black",
+							"Brown"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_blaidd_the_half-wolf",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Blaidd the Half-Wolf",
+				"lore_desc": "The loyal half-wolf shadow of Ranni the Witch, known for his massive sword and cool demeanor.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Warrior",
+					"Shadow"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "The blade glows with a chilly blue moonlight when charged.",
+						"question": "What color is the glow of the Dark Moon Greatsword when its skill is active?",
+						"wrong": [
+							"Gold",
+							"Red",
+							"Green"
+						]
+					},
+					{
+						"correct": "Ranni",
+						"difficulty": "Easy",
+						"explanation": "Ranni presents the blade to the player at the end of her questline as her chosen consort.",
+						"question": "Which character gives the Dark Moon Greatsword to the player?",
+						"wrong": [
+							"Rennala",
+							"Melina",
+							"Iji"
+						]
+					},
+					{
+						"correct": "Frostbite",
+						"difficulty": "Easy",
+						"explanation": "Befitting the cold moon, the weapon deals significant frost damage.",
+						"question": "What status effect does this sword naturally build up on enemies?",
+						"wrong": [
+							"Poison",
+							"Bleed",
+							"Sleep"
+						]
+					},
+					{
+						"correct": "Dark Souls",
+						"difficulty": "Easy",
+						"explanation": "The Moonlight Greatsword is a staple weapon in almost every FromSoftware game.",
+						"question": "The Dark Moon Greatsword is the Elden Ring version of a weapon that appears in which other game series?",
+						"wrong": [
+							"Final Fantasy",
+							"The Legend of Zelda",
+							"Elder Scrolls"
+						]
+					},
+					{
+						"correct": "Moonlight Greatsword",
+						"difficulty": "Easy",
+						"explanation": "The skill shares the name of the classic weapon, allowing for ranged moon-light beams.",
+						"question": "What is the name of the unique skill on this weapon?",
+						"wrong": [
+							"Carian Grandeur",
+							"Night-and-Flame",
+							"Transient Moonlight"
+						]
+					},
+					{
+						"correct": "Intelligence",
+						"difficulty": "Medium",
+						"explanation": "As a Carian sorcery weapon, it scales heavily with the Intelligence stat.",
+						"question": "What is the primary stat required to wield the Dark Moon Greatsword effectively?",
+						"wrong": [
+							"Faith",
+							"Dexterity",
+							"Arcane"
+						]
+					},
+					{
+						"correct": "The Queen's Consort",
+						"difficulty": "Medium",
+						"explanation": "It is a ceremonial blade given by Carian queens to their husbands.",
+						"question": "In Carian tradition, who is this sword given to?",
+						"wrong": [
+							"The first-born son",
+							"The head knight",
+							"The court wizard"
+						]
+					},
+					{
+						"correct": "Killing Radagon",
+						"difficulty": "Medium",
+						"explanation": "The sword is obtained long before the final boss, at the conclusion of Ranni's personal quest.",
+						"question": "Which of these is NOT a requirement for the player to get the sword?",
+						"wrong": [
+							"Retrieving the Fingerslayer Blade",
+							"Defeating Astel",
+							"Placing the ring on Ranni's finger"
+						]
+					},
+					{
+						"correct": "The Dark Moon",
+						"difficulty": "Medium",
+						"explanation": "While Rennala represents the Full Moon, Ranni represents the hidden Dark Moon.",
+						"question": "What is the name of the moon that this sword represents?",
+						"wrong": [
+							"The Full Moon",
+							"The Blood Moon",
+							"The Golden Moon"
+						]
+					},
+					{
+						"correct": "Translucent blue glass",
+						"difficulty": "Medium",
+						"explanation": "The blade looks like frozen moonlight or cold, translucent crystal.",
+						"question": "What is the physical appearance of the blade when it is NOT infused with magic?",
+						"wrong": [
+							"Solid steel",
+							"Golden light",
+							"Rusty iron"
+						]
+					},
+					{
+						"correct": "Guyra",
+						"difficulty": "Hard",
+						"explanation": "While Ludwig is famous for it in Bloodborne, the sword originated in King's Field.",
+						"question": "Which legendary hero from FromSoftware's 'Kings Field' series first wielded a version of this sword?",
+						"wrong": [
+							"Seath",
+							"Ludwig",
+							"Artorias"
+						]
+					},
+					{
+						"correct": "Nine",
+						"difficulty": "Hard",
+						"explanation": "It is one of the 9 legendary weapons found throughout the Lands Between.",
+						"question": "The Dark Moon Greatsword is one of how many 'Legendary Armaments' required for the achievement?",
+						"wrong": [
+							"Seven",
+							"Twelve",
+							"Five"
+						]
+					},
+					{
+						"correct": "Charged Heavy Attack after using the skill",
+						"difficulty": "Hard",
+						"explanation": "The skill buffs the weapon, and then your heavy attacks fire the moonlight waves.",
+						"question": "How do you perform the ranged beam attack with the Dark Moon Greatsword?",
+						"wrong": [
+							"Just use the skill",
+							"Light attack while jumping",
+							"Backstep and attack"
+						]
+					},
+					{
+						"correct": "Cathedral of Manus Celes",
+						"difficulty": "Hard",
+						"explanation": "The sword is found in the deep hole beneath the altar of the Cathedral.",
+						"question": "What is the name of the location where you find the sword?",
+						"wrong": [
+							"Grand Cloister",
+							"Ranni's Rise",
+							"Raya Lucaria"
+						]
+					},
+					{
+						"correct": "A dark cold moon",
+						"difficulty": "Hard",
+						"explanation": "The sword's magic is drawn directly from the cold light of the Dark Moon.",
+						"question": "The description says the sword is 'bathed in the rays of' what?",
+						"wrong": [
+							"The stars",
+							"The sun",
+							"The Erdtree"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_dark_moon_greatsword",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Dark Moon Greatsword",
+				"lore_desc": "The iconic weapon of the Carian Royals, gifted to those who become their consort.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Legendary",
+					"Lunar"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Margit the Fell Omen",
+						"difficulty": "Easy",
+						"explanation": "Morgott used the alias Margit to keep Tarnished away from the Capital.",
+						"question": "Morgott is the true identity of which early-game boss?",
+						"wrong": [
+							"Godrick",
+							"Radahn",
+							"Moghwyn"
+						]
+					},
+					{
+						"correct": "Leyndell, Royal Capital",
+						"difficulty": "Easy",
+						"explanation": "He guards the Elden Throne at the very base of the Erdtree.",
+						"question": "Where do you fight Morgott in his true form?",
+						"wrong": [
+							"Stormveil Castle",
+							"The Sewers",
+							"Farum Azula"
+						]
+					},
+					{
+						"correct": "The Veiled Monarch",
+						"difficulty": "Easy",
+						"explanation": "Because he is an Omen, he ruled from the shadows, known only as the Veiled Monarch.",
+						"question": "What is the title Morgott gives himself as the protector of the capital?",
+						"wrong": [
+							"The Golden Lord",
+							"The Erdtree King",
+							"The Horned God"
+						]
+					},
+					{
+						"correct": "Willful Traitors",
+						"difficulty": "Easy",
+						"explanation": "He despises his siblings for abandoning the Erdtree to fight for power during the Shattering.",
+						"question": "What does Morgott call the other demigods in his opening cutscene?",
+						"wrong": [
+							"Fallen Brothers",
+							"Golden Heroes",
+							"Weaklings"
+						]
+					},
+					{
+						"correct": "Cursed Blood",
+						"difficulty": "Easy",
+						"explanation": "He unleashes his cursed Omen blood, which burns with a dark, explosive power.",
+						"question": "What kind of liquid does Morgott cause to erupt from the ground in his second phase?",
+						"wrong": [
+							"Lava",
+							"Holy Water",
+							"Golden Sap"
+						]
+					},
+					{
+						"correct": "Godfrey",
+						"difficulty": "Medium",
+						"explanation": "Morgott is the son of the first Elden Lord, Godfrey.",
+						"question": "Who is Morgott's father, whose ghost he summons during the fight?",
+						"wrong": [
+							"Radagon",
+							"Marika",
+							"Godwyn"
+						]
+					},
+					{
+						"correct": "A wooden cane",
+						"difficulty": "Medium",
+						"explanation": "He fights with his cane until it shatters, revealing the cursed sword inside.",
+						"question": "Morgott's 'Great Sword' is actually disguised as what during the first half of the fight?",
+						"wrong": [
+							"A spear",
+							"A heavy club",
+							"A shield"
+						]
+					},
+					{
+						"correct": "The Night's Cavalry",
+						"difficulty": "Medium",
+						"explanation": "The black-armored knights on horseback roam the world at night under his orders.",
+						"question": "Which specific group of knights does Morgott command to hunt down Tarnished?",
+						"wrong": [
+							"The Cleanrot Knights",
+							"The Crucible Knights",
+							"The Banished Knights"
+						]
+					},
+					{
+						"correct": "Margit's Shackle",
+						"difficulty": "Medium",
+						"explanation": "Even though he is Morgott, the 'Margit's Shackle' still works on him.",
+						"question": "What is the unique 'shackle' item used to bind him during the boss fight?",
+						"wrong": [
+							"Morgott's Shackle",
+							"The Omen Chain",
+							"Golden Restraint"
+						]
+					},
+					{
+						"correct": "He tells you the Erdtree will not let you in",
+						"difficulty": "Medium",
+						"explanation": "He dies knowing that the thorns will still block the player from becoming Lord.",
+						"question": "What is Morgott's reaction when the player defeats him?",
+						"wrong": [
+							"He begs for mercy",
+							"He laughs",
+							"He turns into a tree"
+						]
+					},
+					{
+						"correct": "Subterranean Shunning-Grounds",
+						"difficulty": "Hard",
+						"explanation": "As Omen babies, they were cast into the sewers beneath the Capital.",
+						"question": "Morgott and his brother Mohg were imprisoned where during their youth?",
+						"wrong": [
+							"The Haligtree",
+							"Castle Sol",
+							"The Void"
+						]
+					},
+					{
+						"correct": "Morgott's Cursed Sword",
+						"difficulty": "Hard",
+						"explanation": "It is a curved Greatsword that causes hemorrhaging/bleed.",
+						"question": "What is the name of Morgott's cursed sword after you trade his Remembrance?",
+						"wrong": [
+							"The Fell Blade",
+							"Bloodflame Blade",
+							"Omenking Edge"
+						]
+					},
+					{
+						"correct": "The smallest one",
+						"difficulty": "Hard",
+						"explanation": "Despite being the king, his throne is noticeably smaller and less grand than those of his 'pure' siblings.",
+						"question": "Which throne in the Elden Throne room belongs to Morgott?",
+						"wrong": [
+							"The largest one",
+							"The one in the center",
+							"He doesn't have one"
+						]
+					},
+					{
+						"correct": "Radahn and Godrick",
+						"difficulty": "Hard",
+						"explanation": "Historical descriptions confirm Morgott personally repelled the armies of both Radahn and Godrick.",
+						"question": "Morgott is the only demigod to have ever successfully defended the capital against which two invaders?",
+						"wrong": [
+							"Rykard and Ranni",
+							"Malenia and Miquella",
+							"Godfrey and Maliketh"
+						]
+					},
+					{
+						"correct": "A tiny, shriveled human",
+						"difficulty": "Hard",
+						"explanation": "When his life ends, the Omen curse leaves his body, revealing the frail man beneath.",
+						"question": "What does Morgott turn into when he finally dies in the player's arms?",
+						"wrong": [
+							"A pile of ash",
+							"A golden spirit",
+							"A bunch of horns"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_morgott_the_omen_king",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Morgott the Omen King",
+				"lore_desc": "The self-proclaimed 'Last of All Kings' who defends the Erdtree with fanatical loyalty despite his cursed blood.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Demigod",
+					"Leyndell"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A Serpent",
+						"difficulty": "Easy",
+						"explanation": "Rykard allowed the God-Devouring Serpent to eat him so they could become one.",
+						"question": "What giant animal did Rykard fuse with to become the Lord of Blasphemy?",
+						"wrong": [
+							"A Dragon",
+							"A Wolf",
+							"A Bear"
+						]
+					},
+					{
+						"correct": "Volcano Manor",
+						"difficulty": "Easy",
+						"explanation": "Volcano Manor is the headquarters for the Recusants who hunt their own kind.",
+						"question": "What is the name of Rykard's home, located in the heart of a volcano?",
+						"wrong": [
+							"Redmane Castle",
+							"Stormveil Castle",
+							"Leyndell"
+						]
+					},
+					{
+						"correct": "Serpent-Hunter",
+						"difficulty": "Easy",
+						"explanation": "The Serpent-Hunter greatspear creates massive blades of light when used against Rykard.",
+						"question": "What is the special weapon found in his arena specifically designed to kill him?",
+						"wrong": [
+							"Moonlight Greatsword",
+							"Godslayer Sword",
+							"Rivers of Blood"
+						]
+					},
+					{
+						"correct": "TOGETHAAA",
+						"difficulty": "Easy",
+						"explanation": "His line 'We shall devour the gods together!' is delivered with a very distinct, gravelly 'Togethaaa!'",
+						"question": "What is Rykard's famous catchphrase spoken during his second phase?",
+						"wrong": [
+							"Join me",
+							"Feed the snake",
+							"Die Tarnished"
+						]
+					},
+					{
+						"correct": "Radahn",
+						"difficulty": "Easy",
+						"explanation": "Radahn, Rykard, and Ranni are the children of Radagon and Rennala.",
+						"question": "Rykard is the brother of Ranni and which other demigod?",
+						"wrong": [
+							"Godrick",
+							"Morgott",
+							"Malenia"
+						]
+					},
+					{
+						"correct": "Magma Sorcery",
+						"difficulty": "Medium",
+						"explanation": "Rykard developed magma-based spells after discovering ancient hexes in Mt. Gelmir.",
+						"question": "What kind of magic does Rykard primarily use in his fight?",
+						"wrong": [
+							"Glintstone Sorcery",
+							"Holy Incantations",
+							"Gravity Magic"
+						]
+					},
+					{
+						"correct": "Blasphemous Blade",
+						"difficulty": "Medium",
+						"explanation": "The Blasphemous Blade heals the player every time an enemy is killed.",
+						"question": "What is the name of Rykard's sword, which is covered in writhing arms?",
+						"wrong": [
+							"Serpent-God's Curved Sword",
+							"Magma Blade",
+							"Godslayer's Greatsword"
+						]
+					},
+					{
+						"correct": "Tanith",
+						"difficulty": "Medium",
+						"explanation": "Lady Tanith is Rykard's consort and the head of the manor.",
+						"question": "Who is the leader of Volcano Manor who invites the player to join the Recusants?",
+						"wrong": [
+							"Rya",
+							"Patches",
+							"Bernahl"
+						]
+					},
+					{
+						"correct": "To devour the very gods",
+						"difficulty": "Medium",
+						"explanation": "He seeks to consume all heroes and gods to become an unstoppable, eternal being.",
+						"question": "What is Rykard's goal as the Lord of Blasphemy?",
+						"wrong": [
+							"To become Elden Lord",
+							"To protect the Erdtree",
+							"To rule Liurnia"
+						]
+					},
+					{
+						"correct": "Rya",
+						"difficulty": "Medium",
+						"explanation": "Rya (or Zorayas) is a man-serpent who initially appears in human form.",
+						"question": "What is the name of the snake-like daughter of Tanith and Rykard found in the manor?",
+						"wrong": [
+							"Millicent",
+							"Nepheli",
+							"Latenna"
+						]
+					},
+					{
+						"correct": "Praetor",
+						"difficulty": "Hard",
+						"explanation": "He was Praetor Rykard, a high-ranking official of the Golden Order's judicial system.",
+						"question": "What was Rykard's official title before he was eaten by the serpent?",
+						"wrong": [
+							"General",
+							"King",
+							"Justice"
+						]
+					},
+					{
+						"correct": "The Elder Serpent",
+						"difficulty": "Hard",
+						"explanation": "The God-Devouring Serpent is an ancient, immortal entity found in the volcano.",
+						"question": "What is the name of the 'God' the serpent Rykard fused with belongs to?",
+						"wrong": [
+							"The Outer God",
+							"The Formless Mother",
+							"The Great Serpent"
+						]
+					},
+					{
+						"correct": "Eating them",
+						"difficulty": "Hard",
+						"explanation": "She believes that by consuming him, he will live on inside her and eventually be reborn.",
+						"question": "What is Tanith doing to Rykard's remains after he is defeated?",
+						"wrong": [
+							"Burying them",
+							"Burning them",
+							"Praying to them"
+						]
+					},
+					{
+						"correct": "Godskin Noble",
+						"difficulty": "Hard",
+						"explanation": "A Godskin Noble is found in the Temple of Eiglay within the Volcano Manor.",
+						"question": "What is the name of the boss that guards the path to Rykard's true chamber?",
+						"wrong": [
+							"Godskin Apostle",
+							"Magma Wyrm",
+							"Abductor Virgin"
+						]
+					},
+					{
+						"correct": "He found their laws hypocritical",
+						"difficulty": "Hard",
+						"explanation": "His pursuit of justice led him to believe the Erdtree's system was corrupt, leading to his blasphemy.",
+						"question": "Why did Rykard turn against the Golden Order?",
+						"wrong": [
+							"He wanted more money",
+							"He was possessed",
+							"He was bored"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_rykard,_lord_of_blasphemy",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Rykard, Lord of Blasphemy",
+				"lore_desc": "The praetor who allowed himself to be devoured by a Great Serpent to gain immortality and wage war on the gods.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Demigod",
+					"Serpent"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Rune of Death",
+						"difficulty": "Easy",
+						"explanation": "He was entrusted by Marika to guard Destined Death so that no one could ever truly die.",
+						"question": "What does Maliketh guard that every living thing in the Lands Between fears?",
+						"wrong": [
+							"The Elden Ring",
+							"The Erdtree",
+							"The Haligtree"
+						]
+					},
+					{
+						"correct": "Gurranq, Beast Clergyman",
+						"difficulty": "Easy",
+						"explanation": "He disguises himself as Gurranq in the Bestial Sanctum, where he hungers for Deathroot.",
+						"question": "What is Maliketh's secret identity when the player first meets him?",
+						"wrong": [
+							"Blaidd",
+							"Iji",
+							"Gideon"
+						]
+					},
+					{
+						"correct": "Her Shadow",
+						"difficulty": "Easy",
+						"explanation": "Like Blaidd is to Ranni, Maliketh is the half-beast 'Shadow' given to Marika by the Two Fingers.",
+						"question": "What is Maliketh's relationship to Queen Marika?",
+						"wrong": [
+							"Her Husband",
+							"Her Son",
+							"Her Father"
+						]
+					},
+					{
+						"correct": "Black and Red",
+						"difficulty": "Easy",
+						"explanation": "The flames of Destined Death are a swirling mix of black and crimson.",
+						"question": "What color is the flame emitted by Maliketh's Black Blade?",
+						"wrong": [
+							"Blue and Silver",
+							"Gold and White",
+							"Green and Yellow"
+						]
+					},
+					{
+						"correct": "Crumbling Farum Azula",
+						"difficulty": "Easy",
+						"explanation": "Farum Azula is a city beyond time where the ancient dragons once ruled.",
+						"question": "In which floating, crumbling city does the battle with Maliketh take place?",
+						"wrong": [
+							"Nokron",
+							"Leyndell",
+							"Sellia"
+						]
+					},
+					{
+						"correct": "Reduced Max HP",
+						"difficulty": "Medium",
+						"explanation": "His blade drains the player's maximum health and causes continuous damage over time.",
+						"question": "What is the primary status effect Maliketh's attacks inflict on the player's health bar?",
+						"wrong": [
+							"Scarlet Rot",
+							"Frostbite",
+							"Sleep"
+						]
+					},
+					{
+						"correct": "Blasphemous Claw",
+						"difficulty": "Medium",
+						"explanation": "The Blasphemous Claw, given by Bernahl, is specifically designed to parry the power of the Black Blade.",
+						"question": "What item can the player use to parry Maliketh's golden-glowing attacks?",
+						"wrong": [
+							"Buckler Shield",
+							"Margit's Shackle",
+							"Golden Parry"
+						]
+					},
+					{
+						"correct": "Bound it into his own flesh",
+						"difficulty": "Medium",
+						"explanation": "After the Night of the Black Knives, he sealed the blade inside his body to ensure it would never be stolen again.",
+						"question": "What did Maliketh do to the Rune of Death after a fragment was stolen?",
+						"wrong": [
+							"Hid it in a box",
+							"Threw it in the ocean",
+							"Gave it to Godfrey"
+						]
+					},
+					{
+						"correct": "Deathroot",
+						"difficulty": "Medium",
+						"explanation": "Gurranq eats Deathroot to quell his insatiable hunger for the Rune of Death.",
+						"question": "What type of food must the player bring to Maliketh's alter-ego, Gurranq?",
+						"wrong": [
+							"Rowa Fruit",
+							"Golden Seeds",
+							"Human Bone Shards"
+						]
+					},
+					{
+						"correct": "He recognizes the player and has unique dialogue",
+						"difficulty": "Medium",
+						"explanation": "If you finish his quest, he sounds heartbroken to have to fight his 'disciple.'",
+						"question": "What is Maliketh's reaction if the player has given Gurranq all 9 Deathroots before the boss fight?",
+						"wrong": [
+							"He skips the first phase",
+							"He refuses to fight",
+							"He gives the player a weapon"
+						]
+					},
+					{
+						"correct": "Ranni the Witch",
+						"difficulty": "Hard",
+						"explanation": "Ranni stole the fragment to forge the Black Knives and kill Godwyn the Golden.",
+						"question": "Who stole a fragment of the Rune of Death from Maliketh?",
+						"wrong": [
+							"Radahn",
+							"Morgott",
+							"Malenia"
+						]
+					},
+					{
+						"correct": "Beast Clergyman",
+						"difficulty": "Hard",
+						"explanation": "He fights as the Beast Clergyman until he draws the Black Blade from his hand in the second phase.",
+						"question": "What is Maliketh's title in his first phase?",
+						"wrong": [
+							"The Black Blade",
+							"Shadow of the Tree",
+							"Godslayer"
+						]
+					},
+					{
+						"correct": "Beastmen",
+						"difficulty": "Hard",
+						"explanation": "Maliketh is a high-ranking member of the Beastmen who served the ancient dragons and later the Golden Order.",
+						"question": "Which ancient beast-race does Maliketh belong to?",
+						"wrong": [
+							"Demihumans",
+							"Misbegotten",
+							"Omens"
+						]
+					},
+					{
+						"correct": "Maliketh's Set",
+						"difficulty": "Hard",
+						"explanation": "His armor is made of black gold and is said to be able to withstand the power of death.",
+						"question": "What is the name of the armor Maliketh wears?",
+						"wrong": [
+							"Black Blade Set",
+							"Night's Cavalry Set",
+							"Destined Death Set"
+						]
+					},
+					{
+						"correct": "Destined Death is released",
+						"difficulty": "Hard",
+						"explanation": "Defeating him unleashes death back into the world, allowing the Erdtree to finally be burned and the gods to die.",
+						"question": "What happens to the Lands Between as soon as Maliketh is defeated?",
+						"wrong": [
+							"The Erdtree burns",
+							"The stars fall",
+							"The moon turns red"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_maliketh,_the_black_blade",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Maliketh, the Black Blade",
+				"lore_desc": "The terrifying Shadow of Queen Marika who guards the Rune of Death within the crumbling city of Farum Azula.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Shadow",
+					"Farum Azula"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Academy of Raya Lucaria",
+						"difficulty": "Easy",
+						"explanation": "She is the final boss of the magical academy in Liurnia of the Lakes.",
+						"question": "In which location is Rennala fought?",
+						"wrong": [
+							"Stormveil Castle",
+							"Leyndell",
+							"Volcano Manor"
+						]
+					},
+					{
+						"correct": "Respec stats",
+						"difficulty": "Easy",
+						"explanation": "She offers 'Rebirth,' allowing players to reallocate their attribute points using a Larval Tear.",
+						"question": "What does Rennala allow the player to do after she is defeated?",
+						"wrong": [
+							"Upgrade weapons",
+							"Level up",
+							"Buy spells"
+						]
+					},
+					{
+						"correct": "An Amber Egg",
+						"difficulty": "Easy",
+						"explanation": "The egg was a parting gift from Radagon and contains the Great Rune of the Unborn.",
+						"question": "What object does Rennala clutch to her chest during the fight?",
+						"wrong": [
+							"A Staff",
+							"A Spellbook",
+							"A Crown"
+						]
+					},
+					{
+						"correct": "Ranni",
+						"difficulty": "Easy",
+						"explanation": "Ranni creates an illusion of Rennala at the peak of her power to protect her mother.",
+						"question": "What is the name of Rennala's daughter who intervenes in the second phase?",
+						"wrong": [
+							"Malenia",
+							"Melina",
+							"Millicent"
+						]
+					},
+					{
+						"correct": "The Full Moon",
+						"difficulty": "Easy",
+						"explanation": "She is the master of Lunar sorceries, specifically the Full Moon.",
+						"question": "Which celestial body does Rennala draw her power from?",
+						"wrong": [
+							"The Sun",
+							"The Stars",
+							"The Void"
+						]
+					},
+					{
+						"correct": "Books",
+						"difficulty": "Medium",
+						"explanation": "The 'Sweetlings' throw books and furniture while singing an eerie song.",
+						"question": "During her first phase, what are the crawling students throwing at the player?",
+						"wrong": [
+							"Fireballs",
+							"Knives",
+							"Potions"
+						]
+					},
+					{
+						"correct": "Larval Tear",
+						"difficulty": "Medium",
+						"explanation": "Larval Tears are rare items found throughout the world, often dropped by disguised enemies.",
+						"question": "What item is required to access Rennala's 'Rebirth' service?",
+						"wrong": [
+							"Celestial Dew",
+							"Golden Seed",
+							"Sacred Tear"
+						]
+					},
+					{
+						"correct": "Bloodhound Knight",
+						"difficulty": "Medium",
+						"explanation": "She can summon spirits like a Bloodhound Knight, a Troll, or even a Dragon.",
+						"question": "Which boss can Rennala summon during her second phase to fight for her?",
+						"wrong": [
+							"Margit",
+							"Godrick",
+							"Radahn"
+						]
+					},
+					{
+						"correct": "Great Rune of the Unborn",
+						"difficulty": "Medium",
+						"explanation": "Unlike other Great Runes, this one does not need to be activated at a Divine Tower; it is used for Respec.",
+						"question": "What is the name of the Great Rune held by Rennala?",
+						"wrong": [
+							"Carian Great Rune",
+							"Lunar Great Rune",
+							"Unborn Great Rune"
+						]
+					},
+					{
+						"correct": "Radagon",
+						"difficulty": "Medium",
+						"explanation": "Radagon led a golden army against Liurnia but eventually married Rennala to end the war.",
+						"question": "Who was Rennala's husband before he left to become Elden Lord in the Capital?",
+						"wrong": [
+							"Godfrey",
+							"Morgott",
+							"Gideon"
+						]
+					},
+					{
+						"correct": "Carian Regal Scepter",
+						"difficulty": "Hard",
+						"explanation": "It is considered the finest glintstone staff, reserved for the head of the Carian house.",
+						"question": "What is the name of the scepter Rennala wields?",
+						"wrong": [
+							"Lusat's Staff",
+							"Azur's Staff",
+							"Meteorite Staff"
+						]
+					},
+					{
+						"correct": "Rennala's Full Moon",
+						"difficulty": "Hard",
+						"explanation": "The spell launches a moon that dispels all sorceries it touches.",
+						"question": "What is the 'Full Moon' spell Rennala uses called?",
+						"wrong": [
+							"Ranni's Dark Moon",
+							"Carian Moon",
+							"Lunar Strike"
+						]
+					},
+					{
+						"correct": "The second phase was just an illusion",
+						"difficulty": "Hard",
+						"explanation": "Ranni's magic creates a projection of her mother; the real Rennala remains in the library, broken and harmless.",
+						"question": "Why is Rennala not actually killed at the end of the boss fight?",
+						"wrong": [
+							"She is immortal",
+							"The player chooses to spare her",
+							"She teleports away"
+						]
+					},
+					{
+						"correct": "Carian Knights",
+						"difficulty": "Hard",
+						"explanation": "There were only twenty Carian Knights, but they were so powerful they held back the entire Golden Order.",
+						"question": "What is the name of the knights that serve the Carian Royal Family?",
+						"wrong": [
+							"Raya Lucaria Soldiers",
+							"Cleanrot Knights",
+							"Silver Knights"
+						]
+					},
+					{
+						"correct": "Glintstone",
+						"difficulty": "Hard",
+						"explanation": "The Queen's Crescent Crown increases the wearer's Intelligence.",
+						"question": "What material is Rennala's iconic crown made of?",
+						"wrong": [
+							"Gold",
+							"Silver",
+							"Wood"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_rennala,_queen_of_the_full_moon",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Rennala, Queen of the Full Moon",
+				"lore_desc": "The head of the Carian Royal Family and the Academy of Raya Lucaria, who lost her mind after her husband Radagon left her.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Demigod",
+					"Liurnia"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Serosh",
+						"difficulty": "Easy",
+						"explanation": "Serosh is the Beast Regent who suppresses Godfrey's endless bloodlust.",
+						"question": "What is the name of the spectral lion Godfrey carries on his back?",
+						"wrong": [
+							"Blaidd",
+							"Maliketh",
+							"Lulu"
+						]
+					},
+					{
+						"correct": "Hoarah Loux",
+						"difficulty": "Easy",
+						"explanation": "He casts aside his title and armor to fight as 'Hoarah Loux, Warrior!'",
+						"question": "What is Godfrey's true warrior name, which he reveals in his second phase?",
+						"wrong": [
+							"Nepheli Loux",
+							"Gideon Ofnir",
+							"Radagon"
+						]
+					},
+					{
+						"correct": "A Giant Axe",
+						"difficulty": "Easy",
+						"explanation": "He wields a massive, broken battleaxe that symbolizes his long years of war.",
+						"question": "What weapon does Godfrey use during his first phase?",
+						"wrong": [
+							"A Sword",
+							"A Hammer",
+							"A Spear"
+						]
+					},
+					{
+						"correct": "Elden Lord",
+						"difficulty": "Easy",
+						"explanation": "He was Queen Marika's first husband and the first Elden Lord.",
+						"question": "Godfrey was the first person to ever hold what title?",
+						"wrong": [
+							"Demigod",
+							"Sorcerer",
+							"Empyrean"
+						]
+					},
+					{
+						"correct": "He lost the guidance of grace",
+						"difficulty": "Easy",
+						"explanation": "After his last foe was defeated, the light left his eyes, and Marika exiled him and his kin.",
+						"question": "Why did Godfrey become the first 'Tarnished'?",
+						"wrong": [
+							"He betrayed Marika",
+							"He died",
+							"He was too strong"
+						]
+					},
+					{
+						"correct": "He kills him",
+						"difficulty": "Medium",
+						"explanation": "To unleash his full warrior strength, he brutally slays Serosh to stop the beast from holding him back.",
+						"question": "What does Godfrey do to the lion Serosh at the start of the second phase?",
+						"wrong": [
+							"He lets him go",
+							"He merges with him",
+							"He summons him"
+						]
+					},
+					{
+						"correct": "Nepheli Loux",
+						"difficulty": "Medium",
+						"explanation": "Nepheli shares the name 'Loux' and is part of Godfrey's warrior lineage.",
+						"question": "Which character in the game is Godfrey's daughter/descendant?",
+						"wrong": [
+							"Rya",
+							"Millicent",
+							"Fia"
+						]
+					},
+					{
+						"correct": "Godfrey, First Elden Lord (Shade)",
+						"difficulty": "Medium",
+						"explanation": "Players fight a golden spirit projection of him in the Capital before facing the man himself.",
+						"question": "Godfrey's first phase features a 'golden' version of him earlier in the game. What is it?",
+						"wrong": [
+							"Mimic Tear",
+							"Loretta",
+							"Margit"
+						]
+					},
+					{
+						"correct": "Grappling and Unarmed",
+						"difficulty": "Medium",
+						"explanation": "He ditches his axe to perform devastating slams, kicks, and powerbombs.",
+						"question": "What is the primary fighting style of Hoarah Loux in the second phase?",
+						"wrong": [
+							"Magic and Sorcery",
+							"Dual Swords",
+							"Shield Bashing"
+						]
+					},
+					{
+						"correct": "The Giants",
+						"difficulty": "Medium",
+						"explanation": "He famously defeated the Fire Giants at the behest of Queen Marika.",
+						"question": "Godfrey led the war against which race to secure the Lands Between?",
+						"wrong": [
+							"The Dragons",
+							"The Carians",
+							"The Albinaurics"
+						]
+					},
+					{
+						"correct": "The Age of the Erdtree",
+						"difficulty": "Hard",
+						"explanation": "This was the peak of the Golden Order's power and expansion.",
+						"question": "What is the name of the era when Godfrey was lord?",
+						"wrong": [
+							"The Age of Stars",
+							"The Age of Plenty",
+							"The Age of Ancients"
+						]
+					},
+					{
+						"correct": "Elden Lord Set",
+						"difficulty": "Hard",
+						"explanation": "The armor is adorned with the symbols of the Erdtree and the lion Serosh.",
+						"question": "What is the name of the armor set worn by Godfrey?",
+						"wrong": [
+							"Goldmask Set",
+							"Champion Set",
+							"Royal Knight Set"
+						]
+					},
+					{
+						"correct": "The Badlands",
+						"difficulty": "Hard",
+						"explanation": "He and his warriors were sent to the Badlands to fight and die, only to be called back by grace later.",
+						"question": "Where was Godfrey exiled to after he became Tarnished?",
+						"wrong": [
+							"The Land of Shadow",
+							"The Void",
+							"Caelid"
+						]
+					},
+					{
+						"correct": "Spears",
+						"difficulty": "Hard",
+						"explanation": "The cinematic shows him dead and pinned by spears in the Badlands before his revival.",
+						"question": "In the game's intro, Godfrey is shown being pierced by several what?",
+						"wrong": [
+							"Arrows",
+							"Swords",
+							"Thorns"
+						]
+					},
+					{
+						"correct": "Earthshaker",
+						"difficulty": "Hard",
+						"explanation": "He stomps the ground so hard it causes massive cracks and shockwaves across the arena.",
+						"question": "What is the name of the earth-shaking shockwave attack Godfrey uses frequently?",
+						"wrong": [
+							"Quake",
+							"Storm Stomp",
+							"Gravity Slam"
+						]
+					}
+				]
+			},
+			"id": "elden_ring_godfrey,_first_elden_lord",
+			"meta": {
+				"date_added": "2026-03-11",
+				"entity_category": "Theme Item",
+				"full_title": "Godfrey, First Elden Lord",
+				"lore_desc": "The legendary warrior who led the conquest of the Lands Between and became the first Tarnished.",
+				"theme_origin": "elden ring",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Hero",
+					"Tarnished"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -43996,12 +46988,117 @@
 					"name": "The Anomaly"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Geralt of Rivia",
 						"Triss Merigold"
 					],
 					"name": "Team Triss"
+				}
+			]
+		},
+		{
+			"id": "elden ring",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Starscourge Radahn",
+						"Iron Fist Alexander",
+						"Blaidd the Half-Wolf"
+					],
+					"name": "The Radahn Festival"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Godfrey, First Elden Lord",
+						"Morgott the Omen King",
+						"Godrick the Grafted"
+					],
+					"name": "The Golden Lineage"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Rennala, Queen of the Full Moon",
+						"Ranni the Witch",
+						"Starscourge Radahn"
+					],
+					"name": "Children of Rennala"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Blaidd the Half-Wolf",
+						"Ranni the Witch",
+						"Dark Moon Greatsword"
+					],
+					"name": "Age of the Stars"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Malenia, Blade of Miquella",
+						"Starscourge Radahn"
+					],
+					"name": "The Battle of Aeonia"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Margit the Fell Omen",
+						"Morgott the Omen King"
+					],
+					"name": "The Veiled Monarch"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Malenia, Blade of Miquella",
+						"Torrent"
+					],
+					"name": "An Accord"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Blaidd the Half-Wolf",
+						"Maliketh, the Black Blade"
+					],
+					"name": "Shadowbound Beasts"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Melina",
+						"The Erdtree"
+					],
+					"name": "Journey's End"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Godrick the Grafted",
+						"Margit the Fell Omen"
+					],
+					"name": "Defenders of Stormveil"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Rykard, Lord of Blasphemy",
+						"Ranni the Witch"
+					],
+					"name": "The Serpent's Kin"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Godfrey, First Elden Lord",
+						"The Erdtree"
+					],
+					"name": "The First Lord's Reign"
 				}
 			]
 		}
