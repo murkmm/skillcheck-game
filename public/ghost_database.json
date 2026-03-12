@@ -23,53 +23,102 @@
 		"mushroom_kingdom": { "name": "Mushroom Kingdom", "bg": "#5c94fc", "panel": "#ffffff", "border": "#000000", "text_main": "#000000", "text_dim": "#555555", "accent": "#e52521", "success": "#43b047", "danger": "#e52521", "warning": "#fbd000" },
 		"rapture_deco": { "name": "Rapture Deco", "bg": "#0a1118", "panel": "#121e2b", "border": "#d4af37", "text_main": "#f0e6d2", "text_dim": "#8c9dae", "accent": "#00ffcc", "success": "#33ff33", "danger": "#ff3333", "warning": "#ffaa00" }
 	},
+	"titles": {
+		"player_one": { "text": "Player One", "color": "#aaaaaa", "icon": "res://icons/user-bold.png" },
+		"dedicated": { "text": "Dedicated", "color": "#00ff00", "icon": "res://icons/fire-bold.png" },
+		"unstoppable": { "text": "Unstoppable", "color": "#ffaa00", "icon": "res://icons/lightning-bold.png" },
+		"daily_legend": { "text": "Daily Legend", "color": "#ff00ff", "icon": "res://icons/crown-bold.png" },
+		"collector": { "text": "Collector", "color": "#00ffff", "icon": "res://icons/book-open-bold.png" },
+		"archivist": { "text": "Archivist", "color": "#4da6ff", "icon": "res://icons/book-open-bold.png" },
+		"completionist": { "text": "Completionist", "color": "#ffd700", "icon": "res://icons/medal-bold.png" },
+		"flawless": { "text": "Flawless", "color": "#00ffcc", "icon": "res://icons/star-bold.png" },
+		"high_scorer": { "text": "High Scorer", "color": "#ff0000", "icon": "res://icons/shooting-star-bold.png" },
+		"godlike": { "text": "Godlike", "color": "#ff00ff", "icon": "res://icons/lightning-bold.png" },
+		"veteran": { "text": "Veteran", "color": "#aaaaaa", "icon": "res://icons/shield-bold.png" },
+		"time_traveler": { "text": "Time Traveler", "color": "#00ffff", "icon": "res://icons/globe-bold.png" },
+		"supporter": { "text": "Supporter", "color": "#ffd700", "icon": "res://icons/crown-bold.png" },
+
+		"would_you_kindly": { "text": "Would You Kindly?", "color": "#00ffcc", "icon": "res://icons/anchor-bold.png" },
+		"test_subject": { "text": "Test Subject", "color": "#ff4d4d", "icon": "res://icons/flask-bold.png" },
+		"chosen_undead": { "text": "Chosen Undead", "color": "#ffaa00", "icon": "res://icons/fire-bold.png" },
+		"spartan": { "text": "Spartan-117", "color": "#228b22", "icon": "res://icons/shield-bold.png" },
+		"cyber_merc": { "text": "Cyber Merc", "color": "#00ffff", "icon": "res://icons/crosshair-bold.png" },
+		"survivor": { "text": "Survivor", "color": "#ff3333", "icon": "res://icons/flask-bold.png" },
+		"trickster": { "text": "Trickster", "color": "#ff0000", "icon": "res://icons/star-bold.png" },
+		"doom_slayer": { "text": "Doom Slayer", "color": "#ff0000", "icon": "res://icons/crosshair-bold.png" },
+		"soldier": { "text": "SOLDIER 1st Class", "color": "#00ffaa", "icon": "res://icons/sword-bold.png" },
+		"jumpman": { "text": "Jumpman", "color": "#e52521", "icon": "res://icons/star-bold.png" },
+		"lone_wanderer": { "text": "Lone Wanderer", "color": "#ffaa00", "icon": "res://icons/globe-bold.png" },
+		"blue_blur": { "text": "Blue Blur", "color": "#0088ff", "icon": "res://icons/lightning-bold.png" },
+		"smasher": { "text": "Smasher", "color": "#ffcc00", "icon": "res://icons/medal-bold.png" },
+		"snake": { "text": "Tactical Espionage", "color": "#4444ff", "icon": "res://icons/shield-bold.png" },
+		"bounty_hunter": { "text": "Bounty Hunter", "color": "#ff6600", "icon": "res://icons/crosshair-bold.png" }
+	},
 	"challenges":[
-		{ "id": "streak_3", "name": "Bonfire Lit", "desc": "Achieve a 3-Day Daily Streak", "type": "streak", "target": 3.0, "reward_text": "Title: Chosen Undead", "unlocks_title": "chosen_undead", "unlocks_theme": "" },
-		{ "id": "streak_7", "name": "A Link to the Past", "desc": "Achieve a 7-Day Daily Streak", "type": "streak", "target": 7.0, "reward_text": "Title: Hero of Time", "unlocks_title": "hero_of_time", "unlocks_theme": "" },
-		{ "id": "streak_30", "name": "The Cake is a Lie", "desc": "Achieve a 30-Day Daily Streak", "type": "streak", "target": 30.0, "reward_text": "Title: Test Subject & Theme: Virtual Boy", "unlocks_title": "test_subject", "unlocks_theme": "virtual_boy" },
-		{ "id": "mastery_10", "name": "Pokédex Registered", "desc": "Perfect 10 Database Cartridges", "type": "mastery_total", "target": 10.0, "reward_text": "Title: Pokémon Trainer", "unlocks_title": "pokemon_trainer", "unlocks_theme": "" },
-		{ "id": "mastery_50", "name": "Gotta Catch 'Em All", "desc": "Perfect 50 Database Cartridges", "type": "mastery_total", "target": 50.0, "reward_text": "Title: Pokémon Master & Theme: Terminal Hacker", "unlocks_title": "pokemon_master", "unlocks_theme": "terminal" },
-		{ "id": "mastery_150", "name": "100% Synchronization", "desc": "Perfect 150 Database Cartridges", "type": "mastery_total", "target": 150.0, "reward_text": "Title: Completionist", "unlocks_title": "completionist", "unlocks_theme": "" },
-		{ "id": "perfect_run", "name": "Flawless Victory", "desc": "Complete a Perfect Run (No Mistakes)", "type": "perfect_run", "target": 1.0, "reward_text": "Title: World Warrior", "unlocks_title": "world_warrior", "unlocks_theme": "" },
-		{ "id": "score_20k", "name": "It's Over 9000!", "desc": "Score 20,000+ points in a single run", "type": "score", "target": 20000.0, "reward_text": "Title: Super Saiyan", "unlocks_title": "super_saiyan", "unlocks_theme": "" },
-		{ "id": "score_50k", "name": "Smokin' Sexy Style!!", "desc": "Score 50,000+ points in a single run", "type": "score", "target": 50000.0, "reward_text": "Title: Devil Hunter", "unlocks_title": "devil_hunter", "unlocks_theme": "" },
-		{ "id": "runs_10", "name": "Wake Up, Mr. Freeman", "desc": "Play 10 Total Runs", "type": "runs_total", "target": 10.0, "reward_text": "Title: The One Free Man & Theme: Dot Matrix", "unlocks_title": "free_man", "unlocks_theme": "gameboy" },
-		{ "id": "runs_100", "name": "Would You Kindly?", "desc": "Play 100 Total Runs", "type": "runs_total", "target": 100.0, "reward_text": "Title: Big Daddy", "unlocks_title": "big_daddy", "unlocks_theme": "" },
-		{ "id": "archive_5", "name": "Retro Collector", "desc": "Play 5 Archive Runs", "type": "archive_total", "target": 5.0, "reward_text": "Title: Vault Hunter", "unlocks_title": "vault_hunter", "unlocks_theme": "" },
-		{ "id": "archive_10", "name": "Wasteland Explorer", "desc": "Play 10 Archive Runs", "type": "archive_total", "target": 10.0, "reward_text": "Theme: Wasteland Tech", "unlocks_title": "", "unlocks_theme": "pip_boy" },
+		{ "id": "streak_3", "name": "Heating Up", "desc": "Achieve a 3-Day Daily Streak", "type": "streak", "target": 3.0, "reward_text": "Title: Dedicated", "unlocks_title": "dedicated", "unlocks_theme": "" },
+		{ "id": "streak_7", "name": "On Fire", "desc": "Achieve a 7-Day Daily Streak", "type": "streak", "target": 7.0, "reward_text": "Title: Unstoppable", "unlocks_title": "unstoppable", "unlocks_theme": "" },
+		{ "id": "streak_30", "name": "Monthly Master", "desc": "Achieve a 30-Day Daily Streak", "type": "streak", "target": 30.0, "reward_text": "Title: Daily Legend & Theme: Virtual Boy", "unlocks_title": "daily_legend", "unlocks_theme": "virtual_boy" },
+		
+		{ "id": "mastery_10", "name": "Getting Started", "desc": "Perfect 10 Database Cartridges", "type": "mastery_total", "target": 10.0, "reward_text": "Title: Collector", "unlocks_title": "collector", "unlocks_theme": "" },
+		{ "id": "mastery_50", "name": "Library Builder", "desc": "Perfect 50 Database Cartridges", "type": "mastery_total", "target": 50.0, "reward_text": "Title: Archivist & Theme: Classic Light", "unlocks_title": "archivist", "unlocks_theme": "light_mode" },
+		{ "id": "mastery_150", "name": "100% Synchronization", "desc": "Perfect 150 Database Cartridges", "type": "mastery_total", "target": 150.0, "reward_text": "Title: Completionist & Theme: Terminal Hacker", "unlocks_title": "completionist", "unlocks_theme": "terminal" },
+		
+		{ "id": "perfect_run", "name": "Flawless Victory", "desc": "Complete a Perfect Run (No Mistakes)", "type": "perfect_run", "target": 1.0, "reward_text": "Title: Flawless", "unlocks_title": "flawless", "unlocks_theme": "" },
+		{ "id": "score_20k", "name": "High Score", "desc": "Score 20,000+ points in a single run", "type": "score", "target": 20000.0, "reward_text": "Title: High Scorer", "unlocks_title": "high_scorer", "unlocks_theme": "" },
+		{ "id": "score_50k", "name": "Smokin' Sexy Style!!", "desc": "Score 50,000+ points in a single run", "type": "score", "target": 50000.0, "reward_text": "Title: Godlike", "unlocks_title": "godlike", "unlocks_theme": "" },
+		
+		{ "id": "runs_100", "name": "A True Fan", "desc": "Play 100 Total Runs", "type": "runs_total", "target": 100.0, "reward_text": "Title: Veteran & Theme: Dot Matrix", "unlocks_title": "veteran", "unlocks_theme": "gameboy" },
+		{ "id": "archive_10", "name": "Historian", "desc": "Play 10 Archive Runs", "type": "archive_total", "target": 10.0, "reward_text": "Title: Time Traveler", "unlocks_title": "time_traveler", "unlocks_theme": "" },
+		
 		{ "id": "supporter", "name": "Expansion Pack", "desc": "Unlock the Archive & Remove Ads", "type": "premium", "target": 1.0, "reward_text": "Title: Supporter", "unlocks_title": "supporter", "unlocks_theme": "" },
-		{ "id": "fran_bioshock_title", "name": "Welcome to Rapture", "desc": "Perfect 3 BioShock Cartridges", "type": "mastery_franchise", "target_key": "bioshock", "target": 3.0, "reward_text": "Title: Would You Kindly?", "unlocks_title": "would_you_kindly", "unlocks_theme": "" },
-		{ "id": "fran_bioshock_theme", "name": "City at the Bottom of the Sea", "desc": "Perfect 10 BioShock Cartridges", "type": "mastery_franchise", "target_key": "bioshock", "target": 10.0, "reward_text": "Theme: Rapture Deco", "unlocks_title": "", "unlocks_theme": "rapture_deco" },
-		{ "id": "fran_portal_title", "name": "Thinking With Portals", "desc": "Perfect 3 Portal Cartridges", "type": "mastery_franchise", "target_key": "portal", "target": 3.0, "reward_text": "Title: Test Associate", "unlocks_title": "companion", "unlocks_theme": "" },
-		{ "id": "fran_portal_theme", "name": "The Cake is a Lie", "desc": "Perfect 10 Portal Cartridges", "type": "mastery_franchise", "target_key": "portal", "target": 10.0, "reward_text": "Theme: Test Chamber", "unlocks_title": "", "unlocks_theme": "aperture" },
-		{ "id": "fran_souls_title", "name": "Prepare to Die", "desc": "Perfect 3 Dark Souls Cartridges", "type": "mastery_franchise", "target_key": "souls", "target": 3.0, "reward_text": "Title: Ashen One", "unlocks_title": "ashen_one", "unlocks_theme": "" },
-		{ "id": "fran_souls_theme", "name": "Link the Fire", "desc": "Perfect 10 Dark Souls Cartridges", "type": "mastery_franchise", "target_key": "souls", "target": 10.0, "reward_text": "Theme: Abyssal Dark", "unlocks_title": "", "unlocks_theme": "bonfire" },
-		{ "id": "fran_halo_title", "name": "Combat Evolved", "desc": "Perfect 3 Halo Cartridges", "type": "mastery_franchise", "target_key": "halo", "target": 3.0, "reward_text": "Title: Spartan-117", "unlocks_title": "spartan", "unlocks_theme": "" },
-		{ "id": "fran_halo_theme", "name": "Finish the Fight", "desc": "Perfect 10 Halo Cartridges", "type": "mastery_franchise", "target_key": "halo", "target": 10.0, "reward_text": "Theme: Covenant Tech", "unlocks_title": "", "unlocks_theme": "covenant" },
-		{ "id": "fran_cyber_title", "name": "Edge Runner", "desc": "Perfect 3 Cyberpunk Cartridges", "type": "mastery_franchise", "target_key": "cyberpunk", "target": 3.0, "reward_text": "Title: Cyber Merc", "unlocks_title": "cyber_merc", "unlocks_theme": "" },
-		{ "id": "fran_cyber_theme", "name": "Wake Up, Samurai", "desc": "Perfect 10 Cyberpunk Cartridges", "type": "mastery_franchise", "target_key": "cyberpunk", "target": 10.0, "reward_text": "Theme: Night City", "unlocks_title": "", "unlocks_theme": "night_city" },
-		{ "id": "fran_re_title", "name": "Enter the Survival Horror", "desc": "Perfect 3 Resident Evil Cartridges", "type": "mastery_franchise", "target_key": "resident", "target": 3.0, "reward_text": "Title: Survivor", "unlocks_title": "survivor", "unlocks_theme": "" },
-		{ "id": "fran_re_theme", "name": "Master of Unlocking", "desc": "Perfect 10 Resident Evil Cartridges", "type": "mastery_franchise", "target_key": "resident", "target": 10.0, "reward_text": "Theme: Biohazard", "unlocks_title": "", "unlocks_theme": "umbrella" },
-		{ "id": "fran_persona_title", "name": "I am Thou", "desc": "Perfect 3 Persona Cartridges", "type": "mastery_franchise", "target_key": "persona", "target": 3.0, "reward_text": "Title: Trickster", "unlocks_title": "trickster", "unlocks_theme": "" },
-		{ "id": "fran_persona_theme", "name": "Take Your Heart", "desc": "Perfect 10 Persona Cartridges", "type": "mastery_franchise", "target_key": "persona", "target": 10.0, "reward_text": "Theme: Phantom Thief", "unlocks_title": "", "unlocks_theme": "phantom_thief" },
-		{ "id": "fran_fallout_title", "name": "War Never Changes", "desc": "Perfect 3 Fallout Cartridges", "type": "mastery_franchise", "target_key": "fallout", "target": 3.0, "reward_text": "Title: Lone Wanderer", "unlocks_title": "lone_wanderer", "unlocks_theme": "" },
-		{ "id": "fran_fallout_theme", "name": "Please Stand By", "desc": "Perfect 10 Fallout Cartridges", "type": "mastery_franchise", "target_key": "fallout", "target": 10.0, "reward_text": "Theme: New Vegas Terminal", "unlocks_title": "", "unlocks_theme": "fallout_vegas" },
-		{ "id": "fran_doom_title", "name": "Rip and Tear", "desc": "Perfect 3 Doom Cartridges", "type": "mastery_franchise", "target_key": "doom", "target": 3.0, "reward_text": "Title: Doom Slayer", "unlocks_title": "doom_slayer", "unlocks_theme": "" },
-		{ "id": "fran_doom_theme", "name": "Knee Deep in the Dead", "desc": "Perfect 10 Doom Cartridges", "type": "mastery_franchise", "target_key": "doom", "target": 10.0, "reward_text": "Theme: Blood & Rust", "unlocks_title": "", "unlocks_theme": "blood_rust" },
-		{ "id": "fran_ff_title", "name": "Limit Break", "desc": "Perfect 3 Final Fantasy Cartridges", "type": "mastery_franchise", "target_key": "fantasy", "target": 3.0, "reward_text": "Title: SOLDIER 1st Class", "unlocks_title": "soldier", "unlocks_theme": "" },
-		{ "id": "fran_ff_theme", "name": "Mako Infusion", "desc": "Perfect 10 Final Fantasy Cartridges", "type": "mastery_franchise", "target_key": "fantasy", "target": 10.0, "reward_text": "Theme: Mako Reactor", "unlocks_title": "", "unlocks_theme": "mako_reactor" },
-		{ "id": "fran_mario_title", "name": "Let's-a Go!", "desc": "Perfect 3 Mario Cartridges", "type": "mastery_franchise", "target_key": "mario", "target": 3.0, "reward_text": "Title: Jumpman", "unlocks_title": "jumpman", "unlocks_theme": "" },
-		{ "id": "fran_mario_theme", "name": "Power Up", "desc": "Perfect 10 Mario Cartridges", "type": "mastery_franchise", "target_key": "mario", "target": 10.0, "reward_text": "Theme: Mushroom Kingdom", "unlocks_title": "", "unlocks_theme": "mushroom_kingdom" },
-		{ "id": "fran_mass_title", "name": "I'm Commander Shepard", "desc": "Perfect 3 Mass Effect Cartridges", "type": "mastery_franchise", "target_key": "mass", "target": 3.0, "reward_text": "Title: N7 Commander", "unlocks_title": "n7_elite", "unlocks_theme": "" },
-		{ "id": "fran_mass_theme", "name": "Spectre Status", "desc": "Perfect 10 Mass Effect Cartridges", "type": "mastery_franchise", "target_key": "mass", "target": 10.0, "reward_text": "Theme: Xbox Classic", "unlocks_title": "", "unlocks_theme": "xbox_classic" },
-		{ "id": "fran_sega_title", "name": "Gotta Go Fast", "desc": "Perfect 3 Sonic/Sega Cartridges", "type": "mastery_franchise", "target_key": "sonic", "target": 3.0, "reward_text": "Title: Blue Blur", "unlocks_title": "blue_blur", "unlocks_theme": "" },
-		{ "id": "fran_sega_theme", "name": "Welcome to the Next Level", "desc": "Perfect 10 Sonic/Sega Cartridges", "type": "mastery_franchise", "target_key": "sonic", "target": 10.0, "reward_text": "Theme: Sega Genesis", "unlocks_title": "", "unlocks_theme": "blast_processing" },
-		{ "id": "fran_sony_title", "name": "Kept You Waiting, Huh?", "desc": "Perfect 3 PlayStation Cartridges", "type": "mastery_franchise", "target_key": "playstation", "target": 3.0, "reward_text": "Title: Tactical Espionage", "unlocks_title": "snake", "unlocks_theme": "" },
-		{ "id": "fran_sony_theme", "name": "Live in Your World", "desc": "Perfect 10 PlayStation Cartridges", "type": "mastery_franchise", "target_key": "playstation", "target": 10.0, "reward_text": "Theme: PS2 Classic", "unlocks_title": "", "unlocks_theme": "ps2_classic" },
-		{ "id": "fran_nintendo_title", "name": "Do a Barrel Roll!", "desc": "Perfect 3 Nintendo Cartridges", "type": "mastery_franchise", "target_key": "nintendo", "target": 3.0, "reward_text": "Title: Bounty Hunter", "unlocks_title": "bounty_hunter", "unlocks_theme": "" },
-		{ "id": "fran_nintendo_theme", "name": "Now You're Playing With Power", "desc": "Perfect 10 Nintendo Cartridges", "type": "mastery_franchise", "target_key": "nintendo", "target": 10.0, "reward_text": "Theme: Famicom Classic", "unlocks_title": "", "unlocks_theme": "famicom" },
-		{ "id": "fran_smash_title", "name": "Melee!", "desc": "Perfect 3 Smash Bros Cartridges", "type": "mastery_franchise", "target_key": "smash", "target": 3.0, "reward_text": "Title: Smasher", "unlocks_title": "smasher", "unlocks_theme": "" },
-		{ "id": "fran_smash_theme", "name": "Final Destination", "desc": "Perfect 10 Smash Bros Cartridges", "type": "mastery_franchise", "target_key": "smash", "target": 10.0, "reward_text": "Theme: GameCube Indigo", "unlocks_title": "", "unlocks_theme": "indigo_cube" }
+
+		{ "id": "fran_bioshock_title", "name": "Welcome to Rapture", "desc": "Perfect 10 BioShock Cartridges", "type": "mastery_franchise", "target_key": "bioshock", "target": 10.0, "reward_text": "Title: Would You Kindly?", "unlocks_title": "would_you_kindly", "unlocks_theme": "" },
+		{ "id": "fran_bioshock_theme", "name": "City at the Bottom of the Sea", "desc": "Perfect 15 BioShock Cartridges", "type": "mastery_franchise", "target_key": "bioshock", "target": 15.0, "reward_text": "Theme: Rapture Deco", "unlocks_title": "", "unlocks_theme": "rapture_deco" },
+		
+		{ "id": "fran_portal_title", "name": "Thinking With Portals", "desc": "Perfect 10 Portal Cartridges", "type": "mastery_franchise", "target_key": "portal", "target": 10.0, "reward_text": "Title: Test Subject", "unlocks_title": "test_subject", "unlocks_theme": "" },
+		{ "id": "fran_portal_theme", "name": "The Cake is a Lie", "desc": "Perfect 15 Portal Cartridges", "type": "mastery_franchise", "target_key": "portal", "target": 15.0, "reward_text": "Theme: Test Chamber", "unlocks_title": "", "unlocks_theme": "aperture" },
+		
+		{ "id": "fran_souls_title", "name": "Prepare to Die", "desc": "Perfect 10 Dark Souls Cartridges", "type": "mastery_franchise", "target_key": "souls", "target": 10.0, "reward_text": "Title: Chosen Undead", "unlocks_title": "chosen_undead", "unlocks_theme": "" },
+		{ "id": "fran_souls_theme", "name": "Link the Fire", "desc": "Perfect 15 Dark Souls Cartridges", "type": "mastery_franchise", "target_key": "souls", "target": 15.0, "reward_text": "Theme: Abyssal Dark", "unlocks_title": "", "unlocks_theme": "bonfire" },
+		
+		{ "id": "fran_halo_title", "name": "Combat Evolved", "desc": "Perfect 10 Halo Cartridges", "type": "mastery_franchise", "target_key": "halo", "target": 10.0, "reward_text": "Title: Spartan-117", "unlocks_title": "spartan", "unlocks_theme": "" },
+		{ "id": "fran_halo_theme", "name": "Finish the Fight", "desc": "Perfect 15 Halo Cartridges", "type": "mastery_franchise", "target_key": "halo", "target": 15.0, "reward_text": "Theme: Covenant Tech", "unlocks_title": "", "unlocks_theme": "covenant" },
+		
+		{ "id": "fran_cyber_title", "name": "Edge Runner", "desc": "Perfect 10 Cyberpunk Cartridges", "type": "mastery_franchise", "target_key": "cyberpunk", "target": 10.0, "reward_text": "Title: Cyber Merc", "unlocks_title": "cyber_merc", "unlocks_theme": "" },
+		{ "id": "fran_cyber_theme", "name": "Wake Up, Samurai", "desc": "Perfect 15 Cyberpunk Cartridges", "type": "mastery_franchise", "target_key": "cyberpunk", "target": 15.0, "reward_text": "Theme: Night City", "unlocks_title": "", "unlocks_theme": "night_city" },
+		
+		{ "id": "fran_re_title", "name": "Enter the Survival Horror", "desc": "Perfect 10 Resident Evil Cartridges", "type": "mastery_franchise", "target_key": "resident", "target": 10.0, "reward_text": "Title: Survivor", "unlocks_title": "survivor", "unlocks_theme": "" },
+		{ "id": "fran_re_theme", "name": "Master of Unlocking", "desc": "Perfect 15 Resident Evil Cartridges", "type": "mastery_franchise", "target_key": "resident", "target": 15.0, "reward_text": "Theme: Biohazard", "unlocks_title": "", "unlocks_theme": "umbrella" },
+		
+		{ "id": "fran_persona_title", "name": "I am Thou", "desc": "Perfect 10 Persona Cartridges", "type": "mastery_franchise", "target_key": "persona", "target": 10.0, "reward_text": "Title: Trickster", "unlocks_title": "trickster", "unlocks_theme": "" },
+		{ "id": "fran_persona_theme", "name": "Take Your Heart", "desc": "Perfect 15 Persona Cartridges", "type": "mastery_franchise", "target_key": "persona", "target": 15.0, "reward_text": "Theme: Phantom Thief", "unlocks_title": "", "unlocks_theme": "phantom_thief" },
+		
+		{ "id": "fran_fallout_title", "name": "War Never Changes", "desc": "Perfect 10 Fallout Cartridges", "type": "mastery_franchise", "target_key": "fallout", "target": 10.0, "reward_text": "Title: Lone Wanderer", "unlocks_title": "lone_wanderer", "unlocks_theme": "" },
+		{ "id": "fran_fallout_theme", "name": "Please Stand By", "desc": "Perfect 15 Fallout Cartridges", "type": "mastery_franchise", "target_key": "fallout", "target": 15.0, "reward_text": "Theme: New Vegas Terminal", "unlocks_title": "", "unlocks_theme": "fallout_vegas" },
+
+		{ "id": "fran_doom_title", "name": "Rip and Tear", "desc": "Perfect 10 Doom Cartridges", "type": "mastery_franchise", "target_key": "doom", "target": 10.0, "reward_text": "Title: Doom Slayer", "unlocks_title": "doom_slayer", "unlocks_theme": "" },
+		{ "id": "fran_doom_theme", "name": "Knee Deep in the Dead", "desc": "Perfect 15 Doom Cartridges", "type": "mastery_franchise", "target_key": "doom", "target": 15.0, "reward_text": "Theme: Blood & Rust", "unlocks_title": "", "unlocks_theme": "blood_rust" },
+
+		{ "id": "fran_ff_title", "name": "Limit Break", "desc": "Perfect 10 Final Fantasy Cartridges", "type": "mastery_franchise", "target_key": "fantasy", "target": 10.0, "reward_text": "Title: SOLDIER 1st Class", "unlocks_title": "soldier", "unlocks_theme": "" },
+		{ "id": "fran_ff_theme", "name": "Mako Infusion", "desc": "Perfect 15 Final Fantasy Cartridges", "type": "mastery_franchise", "target_key": "fantasy", "target": 15.0, "reward_text": "Theme: Mako Reactor", "unlocks_title": "", "unlocks_theme": "mako_reactor" },
+
+		{ "id": "fran_mario_title", "name": "Let's-a Go!", "desc": "Perfect 10 Mario Cartridges", "type": "mastery_franchise", "target_key": "mario", "target": 10.0, "reward_text": "Title: Jumpman", "unlocks_title": "jumpman", "unlocks_theme": "" },
+		{ "id": "fran_mario_theme", "name": "Power Up", "desc": "Perfect 15 Mario Cartridges", "type": "mastery_franchise", "target_key": "mario", "target": 15.0, "reward_text": "Theme: Mushroom Kingdom", "unlocks_title": "", "unlocks_theme": "mushroom_kingdom" },
+
+		{ "id": "fran_mass_title", "name": "I'm Commander Shepard", "desc": "Perfect 10 Mass Effect Cartridges", "type": "mastery_franchise", "target_key": "mass", "target": 10.0, "reward_text": "Title: N7 Commander", "unlocks_title": "n7_elite", "unlocks_theme": "" },
+		{ "id": "fran_mass_theme", "name": "Spectre Status", "desc": "Perfect 15 Mass Effect Cartridges", "type": "mastery_franchise", "target_key": "mass", "target": 15.0, "reward_text": "Theme: Xbox Classic", "unlocks_title": "", "unlocks_theme": "xbox_classic" },
+
+		{ "id": "fran_sega_title", "name": "Gotta Go Fast", "desc": "Perfect 10 Sonic/Sega Cartridges", "type": "mastery_franchise", "target_key": "sonic", "target": 10.0, "reward_text": "Title: Blue Blur", "unlocks_title": "blue_blur", "unlocks_theme": "" },
+		{ "id": "fran_sega_theme", "name": "Welcome to the Next Level", "desc": "Perfect 15 Sonic/Sega Cartridges", "type": "mastery_franchise", "target_key": "sonic", "target": 15.0, "reward_text": "Theme: Sega Genesis", "unlocks_title": "", "unlocks_theme": "blast_processing" },
+
+		{ "id": "fran_sony_title", "name": "Kept You Waiting, Huh?", "desc": "Perfect 10 PlayStation Cartridges", "type": "mastery_franchise", "target_key": "playstation", "target": 10.0, "reward_text": "Title: Tactical Espionage", "unlocks_title": "snake", "unlocks_theme": "" },
+		{ "id": "fran_sony_theme", "name": "Live in Your World", "desc": "Perfect 15 PlayStation Cartridges", "type": "mastery_franchise", "target_key": "playstation", "target": 15.0, "reward_text": "Theme: PS2 Classic", "unlocks_title": "", "unlocks_theme": "ps2_classic" },
+
+		{ "id": "fran_nintendo_title", "name": "Do a Barrel Roll!", "desc": "Perfect 10 Nintendo Cartridges", "type": "mastery_franchise", "target_key": "nintendo", "target": 10.0, "reward_text": "Title: Bounty Hunter", "unlocks_title": "bounty_hunter", "unlocks_theme": "" },
+		{ "id": "fran_nintendo_theme", "name": "Now You're Playing With Power", "desc": "Perfect 15 Nintendo Cartridges", "type": "mastery_franchise", "target_key": "nintendo", "target": 15.0, "reward_text": "Theme: Famicom Classic", "unlocks_title": "", "unlocks_theme": "famicom" },
+
+		{ "id": "fran_smash_title", "name": "Melee!", "desc": "Perfect 10 Smash Bros Cartridges", "type": "mastery_franchise", "target_key": "smash", "target": 10.0, "reward_text": "Title: Smasher", "unlocks_title": "smasher", "unlocks_theme": "" },
+		{ "id": "fran_smash_theme", "name": "Final Destination", "desc": "Perfect 15 Smash Bros Cartridges", "type": "mastery_franchise", "target_key": "smash", "target": 15.0, "reward_text": "Theme: GameCube Indigo", "unlocks_title": "", "unlocks_theme": "indigo_cube" }
 	],
 	"games": [
 		{
@@ -52123,36 +52172,4 @@
 			]
 		}
 	],
-	"titles": {
-		"player_one": { "text": "Player One", "color": "#aaaaaa", "icon": "res://icons/user-bold.png" },
-		"chosen_undead": { "text": "Chosen Undead", "color": "#ffaa00", "icon": "res://icons/fire-bold.png" },
-		"hero_of_time": { "text": "Hero of Time", "color": "#4da6ff", "icon": "res://icons/sword-bold.png" },
-		"test_subject": { "text": "Test Subject", "color": "#ff4d4d", "icon": "res://icons/flask-bold.png" },
-		"pokemon_trainer": { "text": "Pokémon Trainer", "color": "#ff4d4d", "icon": "res://icons/crosshair-bold.png" },
-		"pokemon_master": { "text": "Pokémon Master", "color": "#ffd700", "icon": "res://icons/globe-bold.png" },
-		"completionist": { "text": "Completionist", "color": "#00ffff", "icon": "res://icons/medal-bold.png" },
-		"world_warrior": { "text": "World Warrior", "color": "#ffcc00", "icon": "res://icons/lightning-bold.png" },
-		"super_saiyan": { "text": "Super Saiyan", "color": "#ffcc00", "icon": "res://icons/shooting-star-bold.png" },
-		"devil_hunter": { "text": "Devil Hunter", "color": "#ff3333", "icon": "res://icons/star-bold.png" },
-		"free_man": { "text": "The One Free Man", "color": "#ff9933", "icon": "res://icons/hand-bold.png" },
-		"big_daddy": { "text": "Big Daddy", "color": "#33cc33", "icon": "res://icons/anchor-bold.png" },
-		"spartan": { "text": "Spartan-117", "color": "#228b22", "icon": "res://icons/shield-bold.png" },
-		"vault_hunter": { "text": "Vault Hunter", "color": "#ffaa00", "icon": "res://icons/star-bold.png" },
-		"n7_elite": { "text": "N7 Commander", "color": "#ff3333", "icon": "res://icons/sword-bold.png" },
-		"supporter": { "text": "Supporter", "color": "#ffd700", "icon": "res://icons/crown-bold.png" },
-		"would_you_kindly": { "text": "Would You Kindly?", "color": "#00ffcc", "icon": "res://icons/anchor-bold.png" },
-		"cyber_merc": { "text": "Cyber Merc", "color": "#00ffff", "icon": "res://icons/crosshair-bold.png" },
-		"survivor": { "text": "Survivor", "color": "#ff3333", "icon": "res://icons/flask-bold.png" },
-		"trickster": { "text": "Trickster", "color": "#ff0000", "icon": "res://icons/star-bold.png" },
-		"doom_slayer": { "text": "Doom Slayer", "color": "#ff0000", "icon": "res://icons/crosshair-bold.png" },
-		"soldier": { "text": "SOLDIER 1st Class", "color": "#00ffaa", "icon": "res://icons/sword-bold.png" },
-		"jumpman": { "text": "Jumpman", "color": "#e52521", "icon": "res://icons/star-bold.png" },
-		"ashen_one": { "text": "Ashen One", "color": "#ff6600", "icon": "res://icons/fire-bold.png" },
-		"companion": { "text": "Test Associate", "color": "#00a2ff", "icon": "res://icons/flask-bold.png" },
-		"lone_wanderer": { "text": "Lone Wanderer", "color": "#ffaa00", "icon": "res://icons/globe-bold.png" },
-		"blue_blur": { "text": "Blue Blur", "color": "#0088ff", "icon": "res://icons/lightning-bold.png" },
-		"smasher": { "text": "Smasher", "color": "#ffcc00", "icon": "res://icons/medal-bold.png" },
-		"snake": { "text": "Tactical Espionage", "color": "#4444ff", "icon": "res://icons/shield-bold.png" },
-		"bounty_hunter": { "text": "Bounty Hunter", "color": "#ff6600", "icon": "res://icons/crosshair-bold.png" }
-	}
 }
