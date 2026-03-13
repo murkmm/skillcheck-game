@@ -749,6 +749,28 @@
 			"type": "mastery_franchise",
 			"unlocks_theme": "indigo_cube",
 			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 N64 Era Cartridges",
+			"id": "fran_n64_title",
+			"name": "Get N or Get Out",
+			"reward_text": "Title: 64-Bit Legend",
+			"target": 10.0,
+			"target_key": "n64 classics",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "64_Bit_Legend"
+		},
+		{
+			"desc": "Perfect 15 N64 Era Cartridges",
+			"id": "fran_n64_theme",
+			"name": "Expansion Pak Installed",
+			"reward_text": "Theme: Project Reality",
+			"target": 15,
+			"target_key": "n64 classics",
+			"type": "mastery_franchise",
+			"unlocks_theme": "Project_Reality",
+			"unlocks_title": ""
 		}
 	],
 	"games": [
