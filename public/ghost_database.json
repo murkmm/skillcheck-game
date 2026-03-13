@@ -1,124 +1,777 @@
 {
 	"app_themes": {
-		"oled_dark": { "name": "OLED Dark", "bg": "#0a0a0c", "panel": "#151518", "border": "#2a2a35", "text_main": "#ffffff", "text_dim": "#888888", "accent": "#00ffff", "success": "#00ff00", "danger": "#ff0000", "warning": "#ffcc00" },
-		"light_mode": { "name": "Classic Light", "bg": "#e4e4e9", "panel": "#ffffff", "border": "#cccccc", "text_main": "#111111", "text_dim": "#666666", "accent": "#0066cc", "success": "#008800", "danger": "#cc0000", "warning": "#cc8800" },
-		"gameboy": { "name": "Dot Matrix", "bg": "#8bac0f", "panel": "#9bbc0f", "border": "#306230", "text_main": "#0f380f", "text_dim": "#306230", "accent": "#0f380f", "success": "#0f380f", "danger": "#0f380f", "warning": "#0f380f" },
-		"virtual_boy": { "name": "Red Menace", "bg": "#000000", "panel": "#110000", "border": "#ff0000", "text_main": "#ff0000", "text_dim": "#aa0000", "accent": "#ff0000", "success": "#ff0000", "danger": "#ff0000", "warning": "#ff0000" },
-		"terminal": { "name": "Terminal Hacker", "bg": "#000000", "panel": "#001100", "border": "#00ff00", "text_main": "#00ff00", "text_dim": "#00aa00", "accent": "#00ff00", "success": "#00ff00", "danger": "#00ff00", "warning": "#00ff00" },
-		"famicom": { "name": "Famicom Classic", "bg": "#fcf5e5", "panel": "#ffffff", "border": "#8b0000", "text_main": "#000000", "text_dim": "#666666", "accent": "#b8860b", "success": "#008800", "danger": "#8b0000", "warning": "#b8860b" },
-		"blast_processing": { "name": "Sega Genesis", "bg": "#000000", "panel": "#1a1a1a", "border": "#333333", "text_main": "#ffffff", "text_dim": "#888888", "accent": "#0088ff", "success": "#00ff88", "danger": "#ff0044", "warning": "#ffcc00" },
-		"ps2_classic": { "name": "PS2 Classic", "bg": "#000000", "panel": "#0a0a1a", "border": "#4444ff", "text_main": "#ffffff", "text_dim": "#7777aa", "accent": "#4444ff", "success": "#00ff88", "danger": "#ff4444", "warning": "#ff88ff" },
-		"xbox_classic": { "name": "Xbox Classic", "bg": "#0a0a0a", "panel": "#141414", "border": "#107C10", "text_main": "#ffffff", "text_dim": "#888888", "accent": "#107C10", "success": "#107C10", "danger": "#ff0000", "warning": "#ffaa00" },
-		"indigo_cube": { "name": "GameCube Indigo", "bg": "#2b2b4a", "panel": "#3d3d6b", "border": "#59599a", "text_main": "#ffffff", "text_dim": "#a0a0c0", "accent": "#ffcc00", "success": "#00ff66", "danger": "#ff3366", "warning": "#ffaa00" },
-		"pip_boy": { "name": "Wasteland Tech", "bg": "#051105", "panel": "#0a220a", "border": "#1aeb53", "text_main": "#1aeb53", "text_dim": "#0f8c31", "accent": "#1aeb53", "success": "#1aeb53", "danger": "#1aeb53", "warning": "#1aeb53" },
-		"mako_reactor": { "name": "Mako Reactor", "bg": "#000f1a", "panel": "#001a33", "border": "#003366", "text_main": "#ccffcc", "text_dim": "#669999", "accent": "#00ffaa", "success": "#00ffaa", "danger": "#ff3333", "warning": "#ffcc00" },
-		"phantom_thief": { "name": "Phantom Thief", "bg": "#b30000", "panel": "#050505", "border": "#ffffff", "text_main": "#ffffff", "text_dim": "#888888", "accent": "#ffe600", "success": "#00ffff", "danger": "#ff0000", "warning": "#ffe600" },
-		"night_city": { "name": "Night City", "bg": "#111111", "panel": "#222222", "border": "#fcee0a", "text_main": "#ffffff", "text_dim": "#aaaaaa", "accent": "#00ffff", "success": "#00ff00", "danger": "#ff003c", "warning": "#fcee0a" },
-		"fallout_vegas": { "name": "New Vegas Terminal", "bg": "#110900", "panel": "#221100", "border": "#ffaa00", "text_main": "#ffaa00", "text_dim": "#aa6600", "accent": "#ffaa00", "success": "#ffaa00", "danger": "#ffaa00", "warning": "#ffaa00" },
-		"blood_rust": { "name": "Blood & Rust", "bg": "#050000", "panel": "#1a0f0f", "border": "#660000", "text_main": "#ffcccc", "text_dim": "#884444", "accent": "#ff0000", "success": "#ff6600", "danger": "#ff0000", "warning": "#ffcc00" },
-		"aperture": { "name": "Test Chamber", "bg": "#e2e2e2", "panel": "#ffffff", "border": "#cccccc", "text_main": "#333333", "text_dim": "#888888", "accent": "#ff8c00", "success": "#00a2ff", "danger": "#ff3333", "warning": "#ffcc00" },
-		"bonfire": { "name": "Abyssal Dark", "bg": "#050505", "panel": "#1a1614", "border": "#d4af37", "text_main": "#e6d5b8", "text_dim": "#8a7b66", "accent": "#ff6600", "success": "#cca300", "danger": "#b30000", "warning": "#ff9900" },
-		"covenant": { "name": "Covenant Tech", "bg": "#1f0b3b", "panel": "#311459", "border": "#00ffcc", "text_main": "#e6e6ff", "text_dim": "#8c73b3", "accent": "#ff00ff", "success": "#00ffcc", "danger": "#ff3300", "warning": "#ffcc00" },
-		"umbrella": { "name": "Biohazard", "bg": "#050505", "panel": "#181818", "border": "#cc0000", "text_main": "#ffffff", "text_dim": "#777777", "accent": "#cc0000", "success": "#00cc44", "danger": "#ff0000", "warning": "#0088ff" },
-		"mushroom_kingdom": { "name": "Mushroom Kingdom", "bg": "#5c94fc", "panel": "#ffffff", "border": "#000000", "text_main": "#000000", "text_dim": "#555555", "accent": "#e52521", "success": "#43b047", "danger": "#e52521", "warning": "#fbd000" },
-		"rapture_deco": { "name": "Rapture Deco", "bg": "#0a1118", "panel": "#121e2b", "border": "#d4af37", "text_main": "#f0e6d2", "text_dim": "#8c9dae", "accent": "#00ffcc", "success": "#33ff33", "danger": "#ff3333", "warning": "#ffaa00" }
+		"Project_Reality": {
+			"accent": "#0033ff",
+			"bg": "#111111",
+			"border": "#888888",
+			"danger": "#ff0000",
+			"name": "Project Reality",
+			"panel": "#222222",
+			"success": "#00cc00",
+			"text_dim": "#aaaaaa",
+			"text_main": "#ffffff",
+			"warning": "#ffcc00"
+		},
+		"aperture": {
+			"accent": "#ff8c00",
+			"bg": "#e2e2e2",
+			"border": "#cccccc",
+			"danger": "#ff3333",
+			"name": "Test Chamber",
+			"panel": "#ffffff",
+			"success": "#00a2ff",
+			"text_dim": "#888888",
+			"text_main": "#333333",
+			"warning": "#ffcc00"
+		},
+		"blast_processing": {
+			"accent": "#0088ff",
+			"bg": "#000000",
+			"border": "#333333",
+			"danger": "#ff0044",
+			"name": "Sega Genesis",
+			"panel": "#1a1a1a",
+			"success": "#00ff88",
+			"text_dim": "#888888",
+			"text_main": "#ffffff",
+			"warning": "#ffcc00"
+		},
+		"blood_rust": {
+			"accent": "#ff0000",
+			"bg": "#050000",
+			"border": "#660000",
+			"danger": "#ff0000",
+			"name": "Blood & Rust",
+			"panel": "#1a0f0f",
+			"success": "#ff6600",
+			"text_dim": "#884444",
+			"text_main": "#ffcccc",
+			"warning": "#ffcc00"
+		},
+		"bonfire": {
+			"accent": "#ff6600",
+			"bg": "#050505",
+			"border": "#d4af37",
+			"danger": "#b30000",
+			"name": "Abyssal Dark",
+			"panel": "#1a1614",
+			"success": "#cca300",
+			"text_dim": "#8a7b66",
+			"text_main": "#e6d5b8",
+			"warning": "#ff9900"
+		},
+		"covenant": {
+			"accent": "#ff00ff",
+			"bg": "#1f0b3b",
+			"border": "#00ffcc",
+			"danger": "#ff3300",
+			"name": "Covenant Tech",
+			"panel": "#311459",
+			"success": "#00ffcc",
+			"text_dim": "#8c73b3",
+			"text_main": "#e6e6ff",
+			"warning": "#ffcc00"
+		},
+		"fallout_vegas": {
+			"accent": "#ffaa00",
+			"bg": "#110900",
+			"border": "#ffaa00",
+			"danger": "#ffaa00",
+			"name": "New Vegas Terminal",
+			"panel": "#221100",
+			"success": "#ffaa00",
+			"text_dim": "#aa6600",
+			"text_main": "#ffaa00",
+			"warning": "#ffaa00"
+		},
+		"famicom": {
+			"accent": "#b8860b",
+			"bg": "#fcf5e5",
+			"border": "#8b0000",
+			"danger": "#8b0000",
+			"name": "Famicom Classic",
+			"panel": "#ffffff",
+			"success": "#008800",
+			"text_dim": "#666666",
+			"text_main": "#000000",
+			"warning": "#b8860b"
+		},
+		"gameboy": {
+			"accent": "#0f380f",
+			"bg": "#8bac0f",
+			"border": "#306230",
+			"danger": "#0f380f",
+			"name": "Dot Matrix",
+			"panel": "#9bbc0f",
+			"success": "#0f380f",
+			"text_dim": "#306230",
+			"text_main": "#0f380f",
+			"warning": "#0f380f"
+		},
+		"indigo_cube": {
+			"accent": "#ffcc00",
+			"bg": "#2b2b4a",
+			"border": "#59599a",
+			"danger": "#ff3366",
+			"name": "GameCube Indigo",
+			"panel": "#3d3d6b",
+			"success": "#00ff66",
+			"text_dim": "#a0a0c0",
+			"text_main": "#ffffff",
+			"warning": "#ffaa00"
+		},
+		"light_mode": {
+			"accent": "#0066cc",
+			"bg": "#e4e4e9",
+			"border": "#cccccc",
+			"danger": "#cc0000",
+			"name": "Classic Light",
+			"panel": "#ffffff",
+			"success": "#008800",
+			"text_dim": "#666666",
+			"text_main": "#111111",
+			"warning": "#cc8800"
+		},
+		"mako_reactor": {
+			"accent": "#00ffaa",
+			"bg": "#000f1a",
+			"border": "#003366",
+			"danger": "#ff3333",
+			"name": "Mako Reactor",
+			"panel": "#001a33",
+			"success": "#00ffaa",
+			"text_dim": "#669999",
+			"text_main": "#ccffcc",
+			"warning": "#ffcc00"
+		},
+		"mushroom_kingdom": {
+			"accent": "#e52521",
+			"bg": "#5c94fc",
+			"border": "#000000",
+			"danger": "#e52521",
+			"name": "Mushroom Kingdom",
+			"panel": "#ffffff",
+			"success": "#43b047",
+			"text_dim": "#555555",
+			"text_main": "#000000",
+			"warning": "#fbd000"
+		},
+		"night_city": {
+			"accent": "#00ffff",
+			"bg": "#111111",
+			"border": "#fcee0a",
+			"danger": "#ff003c",
+			"name": "Night City",
+			"panel": "#222222",
+			"success": "#00ff00",
+			"text_dim": "#aaaaaa",
+			"text_main": "#ffffff",
+			"warning": "#fcee0a"
+		},
+		"oled_dark": {
+			"accent": "#00ffff",
+			"bg": "#0a0a0c",
+			"border": "#2a2a35",
+			"danger": "#ff0000",
+			"name": "OLED Dark",
+			"panel": "#151518",
+			"success": "#00ff00",
+			"text_dim": "#888888",
+			"text_main": "#ffffff",
+			"warning": "#ffcc00"
+		},
+		"phantom_thief": {
+			"accent": "#ffe600",
+			"bg": "#b30000",
+			"border": "#ffffff",
+			"danger": "#ff0000",
+			"name": "Phantom Thief",
+			"panel": "#050505",
+			"success": "#00ffff",
+			"text_dim": "#888888",
+			"text_main": "#ffffff",
+			"warning": "#ffe600"
+		},
+		"pip_boy": {
+			"accent": "#1aeb53",
+			"bg": "#051105",
+			"border": "#1aeb53",
+			"danger": "#1aeb53",
+			"name": "Wasteland Tech",
+			"panel": "#0a220a",
+			"success": "#1aeb53",
+			"text_dim": "#0f8c31",
+			"text_main": "#1aeb53",
+			"warning": "#1aeb53"
+		},
+		"ps2_classic": {
+			"accent": "#4444ff",
+			"bg": "#000000",
+			"border": "#4444ff",
+			"danger": "#ff4444",
+			"name": "PS2 Classic",
+			"panel": "#0a0a1a",
+			"success": "#00ff88",
+			"text_dim": "#7777aa",
+			"text_main": "#ffffff",
+			"warning": "#ff88ff"
+		},
+		"rapture_deco": {
+			"accent": "#00ffcc",
+			"bg": "#0a1118",
+			"border": "#d4af37",
+			"danger": "#ff3333",
+			"name": "Rapture Deco",
+			"panel": "#121e2b",
+			"success": "#33ff33",
+			"text_dim": "#8c9dae",
+			"text_main": "#f0e6d2",
+			"warning": "#ffaa00"
+		},
+		"terminal": {
+			"accent": "#00ff00",
+			"bg": "#000000",
+			"border": "#00ff00",
+			"danger": "#00ff00",
+			"name": "Terminal Hacker",
+			"panel": "#001100",
+			"success": "#00ff00",
+			"text_dim": "#00aa00",
+			"text_main": "#00ff00",
+			"warning": "#00ff00"
+		},
+		"umbrella": {
+			"accent": "#cc0000",
+			"bg": "#050505",
+			"border": "#cc0000",
+			"danger": "#ff0000",
+			"name": "Biohazard",
+			"panel": "#181818",
+			"success": "#00cc44",
+			"text_dim": "#777777",
+			"text_main": "#ffffff",
+			"warning": "#0088ff"
+		},
+		"virtual_boy": {
+			"accent": "#ff0000",
+			"bg": "#000000",
+			"border": "#ff0000",
+			"danger": "#ff0000",
+			"name": "Red Menace",
+			"panel": "#110000",
+			"success": "#ff0000",
+			"text_dim": "#aa0000",
+			"text_main": "#ff0000",
+			"warning": "#ff0000"
+		},
+		"xbox_classic": {
+			"accent": "#107C10",
+			"bg": "#0a0a0a",
+			"border": "#107C10",
+			"danger": "#ff0000",
+			"name": "Xbox Classic",
+			"panel": "#141414",
+			"success": "#107C10",
+			"text_dim": "#888888",
+			"text_main": "#ffffff",
+			"warning": "#ffaa00"
+		}
 	},
-	"titles": {
-		"player_one": { "text": "Player One", "color": "#aaaaaa", "icon": "res://icons/user-bold.png" },
-		"dedicated": { "text": "Dedicated", "color": "#00ff00", "icon": "res://icons/fire-bold.png" },
-		"unstoppable": { "text": "Unstoppable", "color": "#ffaa00", "icon": "res://icons/lightning-bold.png" },
-		"daily_legend": { "text": "Daily Legend", "color": "#ff00ff", "icon": "res://icons/crown-bold.png" },
-		"collector": { "text": "Collector", "color": "#00ffff", "icon": "res://icons/book-open-bold.png" },
-		"archivist": { "text": "Archivist", "color": "#4da6ff", "icon": "res://icons/book-open-bold.png" },
-		"completionist": { "text": "Completionist", "color": "#ffd700", "icon": "res://icons/medal-bold.png" },
-		"flawless": { "text": "Flawless", "color": "#00ffcc", "icon": "res://icons/star-bold.png" },
-		"high_scorer": { "text": "High Scorer", "color": "#ff0000", "icon": "res://icons/shooting-star-bold.png" },
-		"godlike": { "text": "Godlike", "color": "#ff00ff", "icon": "res://icons/lightning-bold.png" },
-		"veteran": { "text": "Veteran", "color": "#aaaaaa", "icon": "res://icons/shield-bold.png" },
-		"time_traveler": { "text": "Time Traveler", "color": "#00ffff", "icon": "res://icons/globe-bold.png" },
-		"supporter": { "text": "Supporter", "color": "#ffd700", "icon": "res://icons/crown-bold.png" },
-
-		"would_you_kindly": { "text": "Would You Kindly?", "color": "#00ffcc", "icon": "res://icons/anchor-bold.png" },
-		"test_subject": { "text": "Test Subject", "color": "#ff4d4d", "icon": "res://icons/flask-bold.png" },
-		"chosen_undead": { "text": "Chosen Undead", "color": "#ffaa00", "icon": "res://icons/fire-bold.png" },
-		"spartan": { "text": "Spartan-117", "color": "#228b22", "icon": "res://icons/shield-bold.png" },
-		"cyber_merc": { "text": "Cyber Merc", "color": "#00ffff", "icon": "res://icons/crosshair-bold.png" },
-		"survivor": { "text": "Survivor", "color": "#ff3333", "icon": "res://icons/flask-bold.png" },
-		"trickster": { "text": "Trickster", "color": "#ff0000", "icon": "res://icons/star-bold.png" },
-		"doom_slayer": { "text": "Doom Slayer", "color": "#ff0000", "icon": "res://icons/crosshair-bold.png" },
-		"soldier": { "text": "SOLDIER 1st Class", "color": "#00ffaa", "icon": "res://icons/sword-bold.png" },
-		"jumpman": { "text": "Jumpman", "color": "#e52521", "icon": "res://icons/star-bold.png" },
-		"lone_wanderer": { "text": "Lone Wanderer", "color": "#ffaa00", "icon": "res://icons/globe-bold.png" },
-		"blue_blur": { "text": "Blue Blur", "color": "#0088ff", "icon": "res://icons/lightning-bold.png" },
-		"smasher": { "text": "Smasher", "color": "#ffcc00", "icon": "res://icons/medal-bold.png" },
-		"snake": { "text": "Tactical Espionage", "color": "#4444ff", "icon": "res://icons/shield-bold.png" },
-		"bounty_hunter": { "text": "Bounty Hunter", "color": "#ff6600", "icon": "res://icons/crosshair-bold.png" }
-	},
-	"challenges":[
-		{ "id": "streak_3", "name": "Heating Up", "desc": "Achieve a 3-Day Daily Streak", "type": "streak", "target": 3.0, "reward_text": "Title: Dedicated", "unlocks_title": "dedicated", "unlocks_theme": "" },
-		{ "id": "streak_7", "name": "On Fire", "desc": "Achieve a 7-Day Daily Streak", "type": "streak", "target": 7.0, "reward_text": "Title: Unstoppable", "unlocks_title": "unstoppable", "unlocks_theme": "" },
-		{ "id": "streak_30", "name": "Monthly Master", "desc": "Achieve a 30-Day Daily Streak", "type": "streak", "target": 30.0, "reward_text": "Title: Daily Legend & Theme: Virtual Boy", "unlocks_title": "daily_legend", "unlocks_theme": "virtual_boy" },
-		
-		{ "id": "mastery_10", "name": "Getting Started", "desc": "Perfect 10 Database Cartridges", "type": "mastery_total", "target": 10.0, "reward_text": "Title: Collector", "unlocks_title": "collector", "unlocks_theme": "" },
-		{ "id": "mastery_50", "name": "Library Builder", "desc": "Perfect 50 Database Cartridges", "type": "mastery_total", "target": 50.0, "reward_text": "Title: Archivist & Theme: Classic Light", "unlocks_title": "archivist", "unlocks_theme": "light_mode" },
-		{ "id": "mastery_150", "name": "100% Synchronization", "desc": "Perfect 150 Database Cartridges", "type": "mastery_total", "target": 150.0, "reward_text": "Title: Completionist & Theme: Terminal Hacker", "unlocks_title": "completionist", "unlocks_theme": "terminal" },
-		
-		{ "id": "perfect_run", "name": "Flawless Victory", "desc": "Complete a Perfect Run (No Mistakes)", "type": "perfect_run", "target": 1.0, "reward_text": "Title: Flawless", "unlocks_title": "flawless", "unlocks_theme": "" },
-		{ "id": "score_20k", "name": "High Score", "desc": "Score 20,000+ points in a single run", "type": "score", "target": 20000.0, "reward_text": "Title: High Scorer", "unlocks_title": "high_scorer", "unlocks_theme": "" },
-		{ "id": "score_50k", "name": "Smokin' Sexy Style!!", "desc": "Score 50,000+ points in a single run", "type": "score", "target": 50000.0, "reward_text": "Title: Godlike", "unlocks_title": "godlike", "unlocks_theme": "" },
-		
-		{ "id": "runs_100", "name": "A True Fan", "desc": "Play 100 Total Runs", "type": "runs_total", "target": 100.0, "reward_text": "Title: Veteran & Theme: Dot Matrix", "unlocks_title": "veteran", "unlocks_theme": "gameboy" },
-		{ "id": "archive_10", "name": "Historian", "desc": "Play 10 Archive Runs", "type": "archive_total", "target": 10.0, "reward_text": "Title: Time Traveler", "unlocks_title": "time_traveler", "unlocks_theme": "" },
-		
-		{ "id": "supporter", "name": "Expansion Pack", "desc": "Unlock the Archive & Remove Ads", "type": "premium", "target": 1.0, "reward_text": "Title: Supporter", "unlocks_title": "supporter", "unlocks_theme": "" },
-
-		{ "id": "fran_bioshock_title", "name": "Welcome to Rapture", "desc": "Perfect 10 BioShock Cartridges", "type": "mastery_franchise", "target_key": "bioshock", "target": 10.0, "reward_text": "Title: Would You Kindly?", "unlocks_title": "would_you_kindly", "unlocks_theme": "" },
-		{ "id": "fran_bioshock_theme", "name": "City at the Bottom of the Sea", "desc": "Perfect 15 BioShock Cartridges", "type": "mastery_franchise", "target_key": "bioshock", "target": 15.0, "reward_text": "Theme: Rapture Deco", "unlocks_title": "", "unlocks_theme": "rapture_deco" },
-		
-		{ "id": "fran_portal_title", "name": "Thinking With Portals", "desc": "Perfect 10 Portal Cartridges", "type": "mastery_franchise", "target_key": "portal", "target": 10.0, "reward_text": "Title: Test Subject", "unlocks_title": "test_subject", "unlocks_theme": "" },
-		{ "id": "fran_portal_theme", "name": "The Cake is a Lie", "desc": "Perfect 15 Portal Cartridges", "type": "mastery_franchise", "target_key": "portal", "target": 15.0, "reward_text": "Theme: Test Chamber", "unlocks_title": "", "unlocks_theme": "aperture" },
-		
-		{ "id": "fran_souls_title", "name": "Prepare to Die", "desc": "Perfect 10 Dark Souls Cartridges", "type": "mastery_franchise", "target_key": "souls", "target": 10.0, "reward_text": "Title: Chosen Undead", "unlocks_title": "chosen_undead", "unlocks_theme": "" },
-		{ "id": "fran_souls_theme", "name": "Link the Fire", "desc": "Perfect 15 Dark Souls Cartridges", "type": "mastery_franchise", "target_key": "souls", "target": 15.0, "reward_text": "Theme: Abyssal Dark", "unlocks_title": "", "unlocks_theme": "bonfire" },
-		
-		{ "id": "fran_halo_title", "name": "Combat Evolved", "desc": "Perfect 10 Halo Cartridges", "type": "mastery_franchise", "target_key": "halo", "target": 10.0, "reward_text": "Title: Spartan-117", "unlocks_title": "spartan", "unlocks_theme": "" },
-		{ "id": "fran_halo_theme", "name": "Finish the Fight", "desc": "Perfect 15 Halo Cartridges", "type": "mastery_franchise", "target_key": "halo", "target": 15.0, "reward_text": "Theme: Covenant Tech", "unlocks_title": "", "unlocks_theme": "covenant" },
-		
-		{ "id": "fran_cyber_title", "name": "Edge Runner", "desc": "Perfect 10 Cyberpunk Cartridges", "type": "mastery_franchise", "target_key": "cyberpunk", "target": 10.0, "reward_text": "Title: Cyber Merc", "unlocks_title": "cyber_merc", "unlocks_theme": "" },
-		{ "id": "fran_cyber_theme", "name": "Wake Up, Samurai", "desc": "Perfect 15 Cyberpunk Cartridges", "type": "mastery_franchise", "target_key": "cyberpunk", "target": 15.0, "reward_text": "Theme: Night City", "unlocks_title": "", "unlocks_theme": "night_city" },
-		
-		{ "id": "fran_re_title", "name": "Enter the Survival Horror", "desc": "Perfect 10 Resident Evil Cartridges", "type": "mastery_franchise", "target_key": "resident", "target": 10.0, "reward_text": "Title: Survivor", "unlocks_title": "survivor", "unlocks_theme": "" },
-		{ "id": "fran_re_theme", "name": "Master of Unlocking", "desc": "Perfect 15 Resident Evil Cartridges", "type": "mastery_franchise", "target_key": "resident", "target": 15.0, "reward_text": "Theme: Biohazard", "unlocks_title": "", "unlocks_theme": "umbrella" },
-		
-		{ "id": "fran_persona_title", "name": "I am Thou", "desc": "Perfect 10 Persona Cartridges", "type": "mastery_franchise", "target_key": "persona", "target": 10.0, "reward_text": "Title: Trickster", "unlocks_title": "trickster", "unlocks_theme": "" },
-		{ "id": "fran_persona_theme", "name": "Take Your Heart", "desc": "Perfect 15 Persona Cartridges", "type": "mastery_franchise", "target_key": "persona", "target": 15.0, "reward_text": "Theme: Phantom Thief", "unlocks_title": "", "unlocks_theme": "phantom_thief" },
-		
-		{ "id": "fran_fallout_title", "name": "War Never Changes", "desc": "Perfect 10 Fallout Cartridges", "type": "mastery_franchise", "target_key": "fallout", "target": 10.0, "reward_text": "Title: Lone Wanderer", "unlocks_title": "lone_wanderer", "unlocks_theme": "" },
-		{ "id": "fran_fallout_theme", "name": "Please Stand By", "desc": "Perfect 15 Fallout Cartridges", "type": "mastery_franchise", "target_key": "fallout", "target": 15.0, "reward_text": "Theme: New Vegas Terminal", "unlocks_title": "", "unlocks_theme": "fallout_vegas" },
-
-		{ "id": "fran_doom_title", "name": "Rip and Tear", "desc": "Perfect 10 Doom Cartridges", "type": "mastery_franchise", "target_key": "doom", "target": 10.0, "reward_text": "Title: Doom Slayer", "unlocks_title": "doom_slayer", "unlocks_theme": "" },
-		{ "id": "fran_doom_theme", "name": "Knee Deep in the Dead", "desc": "Perfect 15 Doom Cartridges", "type": "mastery_franchise", "target_key": "doom", "target": 15.0, "reward_text": "Theme: Blood & Rust", "unlocks_title": "", "unlocks_theme": "blood_rust" },
-
-		{ "id": "fran_ff_title", "name": "Limit Break", "desc": "Perfect 10 Final Fantasy Cartridges", "type": "mastery_franchise", "target_key": "fantasy", "target": 10.0, "reward_text": "Title: SOLDIER 1st Class", "unlocks_title": "soldier", "unlocks_theme": "" },
-		{ "id": "fran_ff_theme", "name": "Mako Infusion", "desc": "Perfect 15 Final Fantasy Cartridges", "type": "mastery_franchise", "target_key": "fantasy", "target": 15.0, "reward_text": "Theme: Mako Reactor", "unlocks_title": "", "unlocks_theme": "mako_reactor" },
-
-		{ "id": "fran_mario_title", "name": "Let's-a Go!", "desc": "Perfect 10 Mario Cartridges", "type": "mastery_franchise", "target_key": "mario", "target": 10.0, "reward_text": "Title: Jumpman", "unlocks_title": "jumpman", "unlocks_theme": "" },
-		{ "id": "fran_mario_theme", "name": "Power Up", "desc": "Perfect 15 Mario Cartridges", "type": "mastery_franchise", "target_key": "mario", "target": 15.0, "reward_text": "Theme: Mushroom Kingdom", "unlocks_title": "", "unlocks_theme": "mushroom_kingdom" },
-
-		{ "id": "fran_mass_title", "name": "I'm Commander Shepard", "desc": "Perfect 10 Mass Effect Cartridges", "type": "mastery_franchise", "target_key": "mass", "target": 10.0, "reward_text": "Title: N7 Commander", "unlocks_title": "n7_elite", "unlocks_theme": "" },
-		{ "id": "fran_mass_theme", "name": "Spectre Status", "desc": "Perfect 15 Mass Effect Cartridges", "type": "mastery_franchise", "target_key": "mass", "target": 15.0, "reward_text": "Theme: Xbox Classic", "unlocks_title": "", "unlocks_theme": "xbox_classic" },
-
-		{ "id": "fran_sega_title", "name": "Gotta Go Fast", "desc": "Perfect 10 Sonic/Sega Cartridges", "type": "mastery_franchise", "target_key": "sonic", "target": 10.0, "reward_text": "Title: Blue Blur", "unlocks_title": "blue_blur", "unlocks_theme": "" },
-		{ "id": "fran_sega_theme", "name": "Welcome to the Next Level", "desc": "Perfect 15 Sonic/Sega Cartridges", "type": "mastery_franchise", "target_key": "sonic", "target": 15.0, "reward_text": "Theme: Sega Genesis", "unlocks_title": "", "unlocks_theme": "blast_processing" },
-
-		{ "id": "fran_sony_title", "name": "Kept You Waiting, Huh?", "desc": "Perfect 10 PlayStation Cartridges", "type": "mastery_franchise", "target_key": "playstation", "target": 10.0, "reward_text": "Title: Tactical Espionage", "unlocks_title": "snake", "unlocks_theme": "" },
-		{ "id": "fran_sony_theme", "name": "Live in Your World", "desc": "Perfect 15 PlayStation Cartridges", "type": "mastery_franchise", "target_key": "playstation", "target": 15.0, "reward_text": "Theme: PS2 Classic", "unlocks_title": "", "unlocks_theme": "ps2_classic" },
-
-		{ "id": "fran_nintendo_title", "name": "Do a Barrel Roll!", "desc": "Perfect 10 Nintendo Cartridges", "type": "mastery_franchise", "target_key": "nintendo", "target": 10.0, "reward_text": "Title: Bounty Hunter", "unlocks_title": "bounty_hunter", "unlocks_theme": "" },
-		{ "id": "fran_nintendo_theme", "name": "Now You're Playing With Power", "desc": "Perfect 15 Nintendo Cartridges", "type": "mastery_franchise", "target_key": "nintendo", "target": 15.0, "reward_text": "Theme: Famicom Classic", "unlocks_title": "", "unlocks_theme": "famicom" },
-
-		{ "id": "fran_smash_title", "name": "Melee!", "desc": "Perfect 10 Smash Bros Cartridges", "type": "mastery_franchise", "target_key": "smash", "target": 10.0, "reward_text": "Title: Smasher", "unlocks_title": "smasher", "unlocks_theme": "" },
-		{ "id": "fran_smash_theme", "name": "Final Destination", "desc": "Perfect 15 Smash Bros Cartridges", "type": "mastery_franchise", "target_key": "smash", "target": 15.0, "reward_text": "Theme: GameCube Indigo", "unlocks_title": "", "unlocks_theme": "indigo_cube" }
+	"challenges": [
+		{
+			"desc": "Achieve a 3-Day Daily Streak",
+			"id": "streak_3",
+			"name": "Heating Up",
+			"reward_text": "Title: Dedicated",
+			"target": 3.0,
+			"type": "streak",
+			"unlocks_theme": "",
+			"unlocks_title": "dedicated"
+		},
+		{
+			"desc": "Achieve a 7-Day Daily Streak",
+			"id": "streak_7",
+			"name": "On Fire",
+			"reward_text": "Title: Unstoppable",
+			"target": 7.0,
+			"type": "streak",
+			"unlocks_theme": "",
+			"unlocks_title": "unstoppable"
+		},
+		{
+			"desc": "Achieve a 30-Day Daily Streak",
+			"id": "streak_30",
+			"name": "Monthly Master",
+			"reward_text": "Title: Daily Legend & Theme: Virtual Boy",
+			"target": 30.0,
+			"type": "streak",
+			"unlocks_theme": "virtual_boy",
+			"unlocks_title": "daily_legend"
+		},
+		{
+			"desc": "Perfect 10 Database Cartridges",
+			"id": "mastery_10",
+			"name": "Getting Started",
+			"reward_text": "Title: Collector",
+			"target": 10.0,
+			"type": "mastery_total",
+			"unlocks_theme": "",
+			"unlocks_title": "collector"
+		},
+		{
+			"desc": "Perfect 50 Database Cartridges",
+			"id": "mastery_50",
+			"name": "Library Builder",
+			"reward_text": "Title: Archivist & Theme: Classic Light",
+			"target": 50.0,
+			"type": "mastery_total",
+			"unlocks_theme": "light_mode",
+			"unlocks_title": "archivist"
+		},
+		{
+			"desc": "Perfect 150 Database Cartridges",
+			"id": "mastery_150",
+			"name": "100% Synchronization",
+			"reward_text": "Title: Completionist & Theme: Terminal Hacker",
+			"target": 150.0,
+			"type": "mastery_total",
+			"unlocks_theme": "terminal",
+			"unlocks_title": "completionist"
+		},
+		{
+			"desc": "Complete a Perfect Run (No Mistakes)",
+			"id": "perfect_run",
+			"name": "Flawless Victory",
+			"reward_text": "Title: Flawless",
+			"target": 1.0,
+			"type": "perfect_run",
+			"unlocks_theme": "",
+			"unlocks_title": "flawless"
+		},
+		{
+			"desc": "Score 20,000+ points in a single run",
+			"id": "score_20k",
+			"name": "High Score",
+			"reward_text": "Title: High Scorer",
+			"target": 20000.0,
+			"type": "score",
+			"unlocks_theme": "",
+			"unlocks_title": "high_scorer"
+		},
+		{
+			"desc": "Score 50,000+ points in a single run",
+			"id": "score_50k",
+			"name": "Smokin' Sexy Style!!",
+			"reward_text": "Title: Godlike",
+			"target": 50000.0,
+			"type": "score",
+			"unlocks_theme": "",
+			"unlocks_title": "godlike"
+		},
+		{
+			"desc": "Play 100 Total Runs",
+			"id": "runs_100",
+			"name": "A True Fan",
+			"reward_text": "Title: Veteran & Theme: Dot Matrix",
+			"target": 100.0,
+			"type": "runs_total",
+			"unlocks_theme": "gameboy",
+			"unlocks_title": "veteran"
+		},
+		{
+			"desc": "Play 10 Archive Runs",
+			"id": "archive_10",
+			"name": "Historian",
+			"reward_text": "Title: Time Traveler",
+			"target": 10.0,
+			"type": "archive_total",
+			"unlocks_theme": "",
+			"unlocks_title": "time_traveler"
+		},
+		{
+			"desc": "Unlock the Archive & Remove Ads",
+			"id": "supporter",
+			"name": "Expansion Pack",
+			"reward_text": "Title: Supporter",
+			"target": 1.0,
+			"type": "premium",
+			"unlocks_theme": "",
+			"unlocks_title": "supporter"
+		},
+		{
+			"desc": "Perfect 10 BioShock Cartridges",
+			"id": "fran_bioshock_title",
+			"name": "Welcome to Rapture",
+			"reward_text": "Title: Would You Kindly?",
+			"target": 10.0,
+			"target_key": "bioshock",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "would_you_kindly"
+		},
+		{
+			"desc": "Perfect 15 BioShock Cartridges",
+			"id": "fran_bioshock_theme",
+			"name": "City at the Bottom of the Sea",
+			"reward_text": "Theme: Rapture Deco",
+			"target": 15.0,
+			"target_key": "bioshock",
+			"type": "mastery_franchise",
+			"unlocks_theme": "rapture_deco",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Portal Cartridges",
+			"id": "fran_portal_title",
+			"name": "Thinking With Portals",
+			"reward_text": "Title: Test Associate",
+			"target": 10.0,
+			"target_key": "portal",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "companion"
+		},
+		{
+			"desc": "Perfect 15 Portal Cartridges",
+			"id": "fran_portal_theme",
+			"name": "The Cake is a Lie",
+			"reward_text": "Theme: Test Chamber",
+			"target": 15.0,
+			"target_key": "portal",
+			"type": "mastery_franchise",
+			"unlocks_theme": "aperture",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Dark Souls Cartridges",
+			"id": "fran_souls_title",
+			"name": "Prepare to Die",
+			"reward_text": "Title: Ashen One",
+			"target": 10.0,
+			"target_key": "souls",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "ashen_one"
+		},
+		{
+			"desc": "Perfect 15 Dark Souls Cartridges",
+			"id": "fran_souls_theme",
+			"name": "Link the Fire",
+			"reward_text": "Theme: Abyssal Dark",
+			"target": 15.0,
+			"target_key": "souls",
+			"type": "mastery_franchise",
+			"unlocks_theme": "bonfire",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Halo Cartridges",
+			"id": "fran_halo_title",
+			"name": "Combat Evolved",
+			"reward_text": "Title: Spartan-117",
+			"target": 10.0,
+			"target_key": "halo",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "spartan"
+		},
+		{
+			"desc": "Perfect 15 Halo Cartridges",
+			"id": "fran_halo_theme",
+			"name": "Finish the Fight",
+			"reward_text": "Theme: Covenant Tech",
+			"target": 15.0,
+			"target_key": "halo",
+			"type": "mastery_franchise",
+			"unlocks_theme": "covenant",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Cyberpunk Cartridges",
+			"id": "fran_cyber_title",
+			"name": "Edge Runner",
+			"reward_text": "Title: Cyber Merc",
+			"target": 10.0,
+			"target_key": "cyberpunk",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "cyber_merc"
+		},
+		{
+			"desc": "Perfect 15 Cyberpunk Cartridges",
+			"id": "fran_cyber_theme",
+			"name": "Wake Up, Samurai",
+			"reward_text": "Theme: Night City",
+			"target": 15.0,
+			"target_key": "cyberpunk",
+			"type": "mastery_franchise",
+			"unlocks_theme": "night_city",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Resident Evil Cartridges",
+			"id": "fran_re_title",
+			"name": "Enter the Survival Horror",
+			"reward_text": "Title: Survivor",
+			"target": 10.0,
+			"target_key": "resident",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "survivor"
+		},
+		{
+			"desc": "Perfect 15 Resident Evil Cartridges",
+			"id": "fran_re_theme",
+			"name": "Master of Unlocking",
+			"reward_text": "Theme: Biohazard",
+			"target": 15.0,
+			"target_key": "resident",
+			"type": "mastery_franchise",
+			"unlocks_theme": "umbrella",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Persona Cartridges",
+			"id": "fran_persona_title",
+			"name": "I am Thou",
+			"reward_text": "Title: Trickster",
+			"target": 10.0,
+			"target_key": "persona",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "trickster"
+		},
+		{
+			"desc": "Perfect 15 Persona Cartridges",
+			"id": "fran_persona_theme",
+			"name": "Take Your Heart",
+			"reward_text": "Theme: Phantom Thief",
+			"target": 15.0,
+			"target_key": "persona",
+			"type": "mastery_franchise",
+			"unlocks_theme": "phantom_thief",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Fallout Cartridges",
+			"id": "fran_fallout_title",
+			"name": "War Never Changes",
+			"reward_text": "Title: Lone Wanderer",
+			"target": 10.0,
+			"target_key": "fallout",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "lone_wanderer"
+		},
+		{
+			"desc": "Perfect 15 Fallout Cartridges",
+			"id": "fran_fallout_theme",
+			"name": "Please Stand By",
+			"reward_text": "Theme: New Vegas Terminal",
+			"target": 15.0,
+			"target_key": "fallout",
+			"type": "mastery_franchise",
+			"unlocks_theme": "fallout_vegas",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Doom Cartridges",
+			"id": "fran_doom_title",
+			"name": "Rip and Tear",
+			"reward_text": "Title: Doom Slayer",
+			"target": 10.0,
+			"target_key": "doom",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "doom_slayer"
+		},
+		{
+			"desc": "Perfect 15 Doom Cartridges",
+			"id": "fran_doom_theme",
+			"name": "Knee Deep in the Dead",
+			"reward_text": "Theme: Blood & Rust",
+			"target": 15.0,
+			"target_key": "doom",
+			"type": "mastery_franchise",
+			"unlocks_theme": "blood_rust",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Final Fantasy Cartridges",
+			"id": "fran_ff_title",
+			"name": "Limit Break",
+			"reward_text": "Title: SOLDIER 1st Class",
+			"target": 10.0,
+			"target_key": "fantasy",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "soldier"
+		},
+		{
+			"desc": "Perfect 15 Final Fantasy Cartridges",
+			"id": "fran_ff_theme",
+			"name": "Mako Infusion",
+			"reward_text": "Theme: Mako Reactor",
+			"target": 15.0,
+			"target_key": "fantasy",
+			"type": "mastery_franchise",
+			"unlocks_theme": "mako_reactor",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Mario Cartridges",
+			"id": "fran_mario_title",
+			"name": "Let's-a Go!",
+			"reward_text": "Title: Jumpman",
+			"target": 10.0,
+			"target_key": "mario",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "jumpman"
+		},
+		{
+			"desc": "Perfect 15 Mario Cartridges",
+			"id": "fran_mario_theme",
+			"name": "Power Up",
+			"reward_text": "Theme: Mushroom Kingdom",
+			"target": 15.0,
+			"target_key": "mario",
+			"type": "mastery_franchise",
+			"unlocks_theme": "mushroom_kingdom",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Mass Effect Cartridges",
+			"id": "fran_mass_title",
+			"name": "I'm Commander Shepard",
+			"reward_text": "Title: N7 Commander",
+			"target": 10.0,
+			"target_key": "mass",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "n7_elite"
+		},
+		{
+			"desc": "Perfect 15 Mass Effect Cartridges",
+			"id": "fran_mass_theme",
+			"name": "Spectre Status",
+			"reward_text": "Theme: Xbox Classic",
+			"target": 15.0,
+			"target_key": "mass",
+			"type": "mastery_franchise",
+			"unlocks_theme": "xbox_classic",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Sonic Cartridges",
+			"id": "fran_sega_title",
+			"name": "Gotta Go Fast",
+			"reward_text": "Title: Blue Blur",
+			"target": 10.0,
+			"target_key": "sonic",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "blue_blur"
+		},
+		{
+			"desc": "Perfect 15 Sonic Cartridges",
+			"id": "fran_sega_theme",
+			"name": "Welcome to the Next Level",
+			"reward_text": "Theme: Sega Genesis",
+			"target": 15.0,
+			"target_key": "sonic",
+			"type": "mastery_franchise",
+			"unlocks_theme": "blast_processing",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 PlayStation Cartridges",
+			"id": "fran_sony_title",
+			"name": "Kept You Waiting, Huh?",
+			"reward_text": "Title: Tactical Espionage",
+			"target": 10.0,
+			"target_key": "playstation",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "snake"
+		},
+		{
+			"desc": "Perfect 15 PlayStation Cartridges",
+			"id": "fran_sony_theme",
+			"name": "Live in Your World",
+			"reward_text": "Theme: PS2 Classic",
+			"target": 15.0,
+			"target_key": "playstation",
+			"type": "mastery_franchise",
+			"unlocks_theme": "ps2_classic",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Nintendo Cartridges",
+			"id": "fran_nintendo_title",
+			"name": "Do a Barrel Roll!",
+			"reward_text": "Title: Bounty Hunter",
+			"target": 10.0,
+			"target_key": "nintendo",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "bounty_hunter"
+		},
+		{
+			"desc": "Perfect 15 Nintendo Cartridges",
+			"id": "fran_nintendo_theme",
+			"name": "Now You're Playing With Power",
+			"reward_text": "Theme: Famicom Classic",
+			"target": 15.0,
+			"target_key": "nintendo",
+			"type": "mastery_franchise",
+			"unlocks_theme": "famicom",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Smash Bros Cartridges",
+			"id": "fran_smash_title",
+			"name": "Melee!",
+			"reward_text": "Title: Smasher",
+			"target": 10.0,
+			"target_key": "smash",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "smasher"
+		},
+		{
+			"desc": "Perfect 15 Smash Bros Cartridges",
+			"id": "fran_smash_theme",
+			"name": "Final Destination",
+			"reward_text": "Theme: GameCube Indigo",
+			"target": 15.0,
+			"target_key": "smash",
+			"type": "mastery_franchise",
+			"unlocks_theme": "indigo_cube",
+			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 N64 Era Cartridges",
+			"id": "fran_n64_title",
+			"name": "Get N or Get Out",
+			"reward_text": "Title: 64-Bit Legend",
+			"target": 10.0,
+			"target_key": "n64 classics",
+			"type": "mastery_franchise",
+			"unlocks_theme": "",
+			"unlocks_title": "64_Bit_Legend"
+		},
+		{
+			"desc": "Perfect 15 N64 Era Cartridges",
+			"id": "fran_n64_theme",
+			"name": "Expansion Pak Installed",
+			"reward_text": "Theme: Project Reality",
+			"target": 15,
+			"target_key": "n64 classics",
+			"type": "mastery_franchise",
+			"unlocks_theme": "Project_Reality",
+			"unlocks_title": ""
+		}
 	],
 	"games": [
 		{
@@ -32244,886 +32897,6 @@
 			"content": {
 				"questions": [
 					{
-						"correct": "Tail",
-						"difficulty": "Easy",
-						"explanation": "Gender differences were introduced in later generations, giving the female of this species a distinct heart-shaped notch at the end of its tail.",
-						"question": "Which specific body part of a female Pikachu is shaped like a heart, distinguishing it from the flat-edged tail of a male?",
-						"wrong": [
-							"Ears",
-							"Cheek Pouches",
-							"Paws"
-						]
-					},
-					{
-						"correct": "It prefers being outside",
-						"difficulty": "Medium",
-						"explanation": "Ash's Pikachu is famous for its stubborn personality and its preference to travel on Ash's shoulder rather than inside a capsule.",
-						"question": "In the animated series, what reason does Pikachu give for refusing to enter its Poké Ball in the very first episode?",
-						"wrong": [
-							"It is afraid of the dark",
-							"The ball is too small",
-							"It wants to stay wild"
-						]
-					},
-					{
-						"correct": "Thunder Stone",
-						"difficulty": "Hard",
-						"explanation": "While it can stay in its base form indefinitely, exposure to a Thunder Stone triggers its evolution into Raichu.",
-						"question": "Which rare item is required to evolve this yellow mascot into its Alolan or Kantonian psychic-powered successor?",
-						"wrong": [
-							"Light Ball",
-							"Sun Stone",
-							"Moon Stone"
-						]
-					}
-				]
-			},
-			"id": "pokopia_pikachu",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Pikachu",
-				"lore_desc": "The yellow Mouse Pokémon that serves as the globally recognized face of the entire franchise.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Hero",
-					"Electric",
-					"Mascot"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "White",
-						"difficulty": "Easy",
-						"explanation": "The classic design features a red upper shell and a white lower shell separated by a black band.",
-						"question": "Which color traditionally makes up the bottom half of a standard, basic Poké Ball?",
-						"wrong": [
-							"Red",
-							"Silver",
-							"Yellow"
-						]
-					},
-					{
-						"correct": "Apricorns",
-						"difficulty": "Medium",
-						"explanation": "Apricorns come in various colors like Red, Blue, and Yellow, and can be turned into specialized balls like the Level Ball or Lure Ball.",
-						"question": "In the Johto region, a specialist named Kurt crafts custom balls out of which natural forest items?",
-						"wrong": [
-							"Berries",
-							"Acorns",
-							"Tree Bark"
-						]
-					},
-					{
-						"correct": "Quick Ball",
-						"difficulty": "Hard",
-						"explanation": "The Quick Ball has a much higher catch rate if thrown on the first turn of a battle.",
-						"question": "Which specific Poké Ball variant is designed to be more effective the earlier it is used in a wild encounter?",
-						"wrong": [
-							"Timer Ball",
-							"Fast Ball",
-							"Repeat Ball"
-						]
-					}
-				]
-			},
-			"id": "pokopia_poké_ball",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Poké Ball",
-				"lore_desc": "The essential red-and-white spherical device used by trainers to capture and store creatures.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Tool",
-					"Icon",
-					"Gear"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Dragon",
-						"difficulty": "Easy",
-						"explanation": "Charizard is a Fire and Flying type; it only gains the Dragon type through specific Mega Evolutions.",
-						"question": "Which element is famously NOT part of Charizard's primary typing, despite its very dragon-like appearance?",
-						"wrong": [
-							"Fire",
-							"Flying",
-							"Air"
-						]
-					},
-					{
-						"correct": "It would die",
-						"difficulty": "Medium",
-						"explanation": "The flame on its tail represents its life force and burns most brightly when it is in peak health.",
-						"question": "If the flame on the tip of this creature's tail were to be completely extinguished, what is said to happen to it?",
-						"wrong": [
-							"It would lose its memory",
-							"It would turn into an Ice type",
-							"It would fall into a deep sleep"
-						]
-					},
-					{
-						"correct": "Fly",
-						"difficulty": "Hard",
-						"explanation": "It wasn't until the Yellow version that Charizard was finally able to learn the Hidden Machine move Fly.",
-						"question": "In the original 1996 Red and Blue games, what was the surprising move that Charizard could not learn despite having wings?",
-						"wrong": [
-							"Flamethrower",
-							"Slash",
-							"Wing Attack"
-						]
-					}
-				]
-			},
-			"id": "pokopia_charizard",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Charizard",
-				"lore_desc": "A draconic powerhouse that evolves from Charmander, known for its fierce loyalty and melting flames.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Fire",
-					"Flying",
-					"Icon"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Cinnabar Island",
-						"difficulty": "Easy",
-						"explanation": "Diaries found in the burnt-out Pokémon Mansion on Cinnabar Island detail the experiments that led to Mewtwo's birth.",
-						"question": "In which specific location was Mewtwo famously created by scientists before it escaped and destroyed the laboratory?",
-						"wrong": [
-							"Lavender Town",
-							"Cerulean Cave",
-							"Victory Road"
-						]
-					},
-					{
-						"correct": "Dr Fuji",
-						"difficulty": "Medium",
-						"explanation": "Dr. Fuji led the cloning project with the goal of resurrecting his deceased daughter, Amber, alongside Mewtwo.",
-						"question": "What is the name of the scientist often credited in the anime and movies as the primary creator of Mewtwo?",
-						"wrong": [
-							"Professor Oak",
-							"Bill",
-							"Professor Elm"
-						]
-					},
-					{
-						"correct": "Psystrike",
-						"difficulty": "Hard",
-						"explanation": "Psystrike is a unique move that deals physical damage based on the user's Special Attack stat.",
-						"question": "Mewtwo's signature move involves a massive burst of psychic energy. What is the name of this move?",
-						"wrong": [
-							"Psychic",
-							"Psycho Boost",
-							"Aura Sphere"
-						]
-					}
-				]
-			},
-			"id": "pokopia_mewtwo",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Mewtwo",
-				"lore_desc": "A genetically engineered psychic clone created from the DNA of an ancient, elusive ancestor.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Psychic",
-					"Villain",
-					"Legend"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Samuel",
-						"difficulty": "Easy",
-						"explanation": "Though everyone calls him Professor Oak, his first name is Samuel, as revealed in various media and the fourth movie.",
-						"question": "What is the first name of the famous Professor Oak who resides in Pallet Town?",
-						"wrong": [
-							"Arthur",
-							"Gary",
-							"Rowan"
-						]
-					},
-					{
-						"correct": "Competitive Trainer",
-						"difficulty": "Medium",
-						"explanation": "Oak was once a high-level competitive trainer and a rival to Agatha of the Elite Four.",
-						"question": "Before becoming a world-renowned professor, what was Oak's primary occupation in his youth?",
-						"wrong": [
-							"Gym Leader",
-							"Chef",
-							"Ship Captain"
-						]
-					},
-					{
-						"correct": "None",
-						"difficulty": "Hard",
-						"explanation": "Trick question for some: he refers to the creatures themselves as 'Pokémon' and doesn't compare them to real-world animals in his introduction.",
-						"question": "In the original games, what specific animal does Professor Oak famously compare the world of Pokémon to in his opening speech?",
-						"wrong": [
-							"Birds",
-							"Dogs",
-							"Insects"
-						]
-					}
-				]
-			},
-			"id": "pokopia_professor_oak",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Professor Oak",
-				"lore_desc": "The leading authority on creature research who gives new trainers their very first partner.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Human",
-					"Mentor",
-					"Ally"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Meowth",
-						"difficulty": "Easy",
-						"explanation": "Meowth taught himself to speak human language and walk upright to impress a female Meowth named Meowzie.",
-						"question": "Which talking creature is famously part of the Team Rocket trio alongside Jessie and James?",
-						"wrong": [
-							"Persian",
-							"Wobbuffet",
-							"Ekans"
-						]
-					},
-					{
-						"correct": "Giovanni",
-						"difficulty": "Medium",
-						"explanation": "Giovanni serves as both the boss of Team Rocket and the final Gym Leader of the Kanto region.",
-						"question": "What is the one-word motto or name of the secret leader who runs Team Rocket from the shadows?",
-						"wrong": [
-							"Cyrus",
-							"Ghetsis",
-							"Lysandre"
-						]
-					},
-					{
-						"correct": "Rocket",
-						"difficulty": "Hard",
-						"explanation": "The 'R' is simply the emblem for the organization's name, symbolizing their 'blast off' nature and high ambitions.",
-						"question": "What does the large red letter 'R' on the uniforms of Team Rocket members actually stand for?",
-						"wrong": [
-							"Raid",
-							"Ruler",
-							"Revenge"
-						]
-					}
-				]
-			},
-			"id": "pokopia_team_rocket",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Team Rocket",
-				"lore_desc": "A nefarious criminal organization dedicated to stealing rare creatures for profit and world domination.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Villain",
-					"Group",
-					"Human"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Poké Flute",
-						"difficulty": "Easy",
-						"explanation": "The Poké Flute plays a melody that is the only thing capable of rousing this deep sleeper.",
-						"question": "Which musical instrument is required to wake a Snorlax that is blocking a road?",
-						"wrong": [
-							"Harp",
-							"Drum",
-							"Trumpet"
-						]
-					},
-					{
-						"correct": "Munchlax",
-						"difficulty": "Medium",
-						"explanation": "Munchlax was introduced in the fourth generation as a 'baby' Pokémon that eventually evolves into Snorlax.",
-						"question": "What is Snorlax's pre-evolved form, a smaller creature that is also known for its constant eating?",
-						"wrong": [
-							"Slakoth",
-							"Gulpin",
-							"Teddiursa"
-						]
-					},
-					{
-						"correct": "Feet",
-						"difficulty": "Hard",
-						"explanation": "According to several Pokédex entries, Snorlax doesn't mind if children use its stomach as a place to play, but its feet are sensitive.",
-						"question": "Which part of Snorlax's body is said to be the only place where it feels truly ticklish?",
-						"wrong": [
-							"Belly",
-							"Ears",
-							"Chin"
-						]
-					}
-				]
-			},
-			"id": "pokopia_snorlax",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Snorlax",
-				"lore_desc": "A massive, sleepy giant known for blocking paths and having an insatiable appetite.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Normal",
-					"Obstacle",
-					"Icon"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Eight",
-						"difficulty": "Easy",
-						"explanation": "Eevee can evolve into Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, or Sylveon.",
-						"question": "How many different 'Eeveelutions' currently exist in the franchise as of the latest generation?",
-						"wrong": [
-							"Seven",
-							"Nine",
-							"Six"
-						]
-					},
-					{
-						"correct": "Umbreon",
-						"difficulty": "Medium",
-						"explanation": "Espeon and Umbreon were the first to use the day/night cycle mechanic for evolution in the Johto region.",
-						"question": "Which Eeveelution is achieved by leveling up Eevee with high friendship during the nighttime?",
-						"wrong": [
-							"Espeon",
-							"Sylveon",
-							"Glaceon"
-						]
-					},
-					{
-						"correct": "Fairy",
-						"difficulty": "Hard",
-						"explanation": "In addition to high affection or friendship, Eevee must know a Fairy-type move like Baby-Doll Eyes to become Sylveon.",
-						"question": "To evolve Eevee into the Fairy-type Sylveon, a trainer must ensure Eevee knows a move of which specific type?",
-						"wrong": [
-							"Normal",
-							"Psychic",
-							"Love"
-						]
-					}
-				]
-			},
-			"id": "pokopia_eevee",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Eevee",
-				"lore_desc": "The Evolution Pokémon, unique for its unstable genetic makeup that allows it to transform into many different types.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Normal",
-					"Evolution",
-					"Icon"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Purple",
-						"difficulty": "Easy",
-						"explanation": "The distinctive purple and pink design signifies its status as the rarest and most powerful capture device.",
-						"question": "What color is the top half of a Master Ball, typically featuring two pink circular bumps and a large 'M'?",
-						"wrong": [
-							"Blue",
-							"Gold",
-							"Black"
-						]
-					},
-					{
-						"correct": "Silph Co",
-						"difficulty": "Medium",
-						"explanation": "The President of Silph Co. gives the player the Master Ball after they rescue the company from Team Rocket in Saffron City.",
-						"question": "Which company is lore-heavy credited with the invention and manufacturing of the Master Ball prototype?",
-						"wrong": [
-							"Devon Corp",
-							"Aether Foundation",
-							"Macro Cosmos"
-						]
-					},
-					{
-						"correct": "Tossing it from the Bag",
-						"difficulty": "Hard",
-						"explanation": "While it never misses a catch, a player could accidentally discard it from their inventory menu.",
-						"question": "In the very first generation of games, which of these was a legitimate way to lose your only Master Ball without catching anything?",
-						"wrong": [
-							"Missing a throw",
-							"A Pokémon dodging it",
-							"A Pokémon breaking out"
-						]
-					}
-				]
-			},
-			"id": "pokopia_master_ball",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Master Ball",
-				"lore_desc": "The ultimate Poké Ball that guarantees a 100% success rate when capturing any wild creature.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Tool",
-					"Rare",
-					"Icon"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "001",
-						"difficulty": "Easy",
-						"explanation": "Bulbasaur holds the prestigious first spot in the Kanto and National Pokédex.",
-						"question": "What is the official Pokédex number assigned to Bulbasaur?",
-						"wrong": [
-							"000",
-							"151",
-							"025"
-						]
-					},
-					{
-						"correct": "It blooms into a flower",
-						"difficulty": "Medium",
-						"explanation": "The lifecycle of the plant on its back mirrors the evolution of the creature, ending in a massive tropical bloom.",
-						"question": "What happens to the bulb on Bulbasaur's back as it evolves into Ivysaur and eventually Venusaur?",
-						"wrong": [
-							"It falls off",
-							"It turns into a tree",
-							"It becomes a hard shell"
-						]
-					},
-					{
-						"correct": "Photosynthesis",
-						"difficulty": "Hard",
-						"explanation": "The bulb on its back stores energy from sunlight, allowing it to go for days without eating physical food.",
-						"question": "According to the Pokédex, how does Bulbasaur mainly obtain its energy during a long day of travel?",
-						"wrong": [
-							"Eating Berries",
-							"Drinking fresh water",
-							"Sleeping in dirt"
-						]
-					}
-				]
-			},
-			"id": "pokopia_bulbasaur",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Bulbasaur",
-				"lore_desc": "The very first entry in the national Pokédex, this creature carries a plant bulb on its back from birth.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Grass",
-					"Poison",
-					"Starter"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Trading",
-						"difficulty": "Easy",
-						"explanation": "Gengar is one of the original four Pokémon that require a trade between players to trigger evolution.",
-						"question": "What is the only way to evolve a Haunter into a Gengar in the traditional video games?",
-						"wrong": [
-							"Leveling up",
-							"Using a Dusk Stone",
-							"Maxing out friendship"
-						]
-					},
-					{
-						"correct": "Clefable",
-						"difficulty": "Medium",
-						"explanation": "Fans point to their similar body shapes and the fact that Gengar is the 'Shadow Pokémon' as evidence.",
-						"question": "A popular fan theory suggests that Gengar is actually the 'shadow' or corrupted version of which other pink Pokémon?",
-						"wrong": [
-							"Jigglypuff",
-							"Chansey",
-							"Slowpoke"
-						]
-					},
-					{
-						"correct": "It drops significantly",
-						"difficulty": "Hard",
-						"explanation": "Pokédex entries state that Gengar absorbs the heat of its surroundings, causing a sudden chill.",
-						"question": "What happens to the ambient temperature of a room when a Gengar is hiding nearby?",
-						"wrong": [
-							"It rises",
-							"It fluctuates wildly",
-							"Nothing"
-						]
-					}
-				]
-			},
-			"id": "pokopia_gengar",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Gengar",
-				"lore_desc": "The Shadow Pokémon that hides in the darkness, known for its mischievous grin and glowing red eyes.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Ghost",
-					"Poison",
-					"Icon"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "A Truck",
-						"difficulty": "Easy",
-						"explanation": "The 'Mew under the truck' in Vermilion City is one of the most famous urban legends in gaming history.",
-						"question": "Under which famous object was Mew rumored to be hiding in a popular, but false, schoolyard myth?",
-						"wrong": [
-							"A Bridge",
-							"A Waterfall",
-							"A Large Rock"
-						]
-					},
-					{
-						"correct": "Every Move",
-						"difficulty": "Medium",
-						"explanation": "Because it contains the DNA of all Pokémon, Mew is capable of learning every single move taught by TMs and HMs.",
-						"question": "Which move is Mew famously able to learn that almost no other creature can learn through Technical Machines?",
-						"wrong": [
-							"Metronome",
-							"Fly",
-							"Transform"
-						]
-					},
-					{
-						"correct": "Shigeki Morimoto",
-						"difficulty": "Hard",
-						"explanation": "Morimoto added Mew as a prank after removing debugging tools, not intending for players to ever find it.",
-						"question": "Who was the programmer that secretly added Mew to the original game's code right before it was finalized?",
-						"wrong": [
-							"Satoshi Tajiri",
-							"Ken Sugimori",
-							"Junichi Masuda"
-						]
-					}
-				]
-			},
-			"id": "pokopia_mew",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Mew",
-				"lore_desc": "The mysterious ancestor of all creatures, said to contain the genetic code of every single species.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Psychic",
-					"Legend",
-					"Mythical"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Falling asleep",
-						"difficulty": "Easy",
-						"explanation": "Jigglypuff sings a lullaby that vibrates at a frequency guaranteed to put anyone who hears it to sleep.",
-						"question": "What is the primary side effect of listening to a Jigglypuff's song?",
-						"wrong": [
-							"Confusion",
-							"Paralysis",
-							"Happiness"
-						]
-					},
-					{
-						"correct": "Draws on them with a marker",
-						"difficulty": "Medium",
-						"explanation": "Upset that no one stays awake to hear its full song, it uses its microphone (which is also a marker) to doodle on the audience.",
-						"question": "In the animated series, what does Jigglypuff famously do to the faces of those who fall asleep during its performance?",
-						"wrong": [
-							"Slaps them",
-							"Paints them blue",
-							"Tickles them"
-						]
-					},
-					{
-						"correct": "Igglybuff",
-						"difficulty": "Hard",
-						"explanation": "Igglybuff is the baby form that evolves into Jigglypuff when it reaches a high level of friendship.",
-						"question": "What is the name of the pre-evolved form of Jigglypuff that was introduced in the second generation?",
-						"wrong": [
-							"Puffly",
-							"Jiggle",
-							"Wigglybuff"
-						]
-					}
-				]
-			},
-			"id": "pokopia_jigglypuff",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Jigglypuff",
-				"lore_desc": "A pink, balloon-like creature that uses its large eyes and soothing voice to mesmerize opponents.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Normal",
-					"Fairy",
-					"Icon"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Two",
-						"difficulty": "Easy",
-						"explanation": "The tiny town consists only of the player's house, their rival's house, and Professor Oak's lab.",
-						"question": "How many houses are located in the original Pallet Town in the first generation of games?",
-						"wrong": [
-							"Three",
-							"Four",
-							"One"
-						]
-					},
-					{
-						"correct": "Shades of Your Journey Await",
-						"difficulty": "Medium",
-						"explanation": "The sign reads 'Pallet Town: Shades of your journey await!', referencing the 'color' theme of the original games.",
-						"question": "What is the slogan of Pallet Town as seen on the town's welcome sign?",
-						"wrong": [
-							"The Town of Beginnings",
-							"A Pure White Start",
-							"Where Dreams Take Flight"
-						]
-					},
-					{
-						"correct": "Check your PC",
-						"difficulty": "Hard",
-						"explanation": "Checking the PC in your room allows you to withdraw a free Potion, which is helpful for your first battle.",
-						"question": "In the games, what does your mother tell you to do before leaving the house for the very first time?",
-						"wrong": [
-							"Change your clothes",
-							"Eat breakfast",
-							"Say goodbye to the neighbor"
-						]
-					}
-				]
-			},
-			"id": "pokopia_pallet_town",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Pallet Town",
-				"lore_desc": "The quiet, rural starting point for the journey of a lifetime in the Kanto region.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Home",
-					"Icon",
-					"Town"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Pewter City",
-						"difficulty": "Easy",
-						"explanation": "Brock is the leader of the Pewter Gym, awarding the Boulder Badge to those who defeat him.",
-						"question": "What is the name of the city where Brock serves as the Gym Leader?",
-						"wrong": [
-							"Cerulean City",
-							"Viridian City",
-							"Fuchsia City"
-						]
-					},
-					{
-						"correct": "Pokémon Breeder",
-						"difficulty": "Medium",
-						"explanation": "While he is a strong trainer, Brock's true passion is caring for and raising healthy Pokémon as a Breeder (and later a Doctor).",
-						"question": "What is Brock's primary career goal in the animated series, which differs from his role as a Gym Leader?",
-						"wrong": [
-							"Chef",
-							"Doctor",
-							"Archaeologist"
-						]
-					},
-					{
-						"correct": "Onix",
-						"difficulty": "Hard",
-						"explanation": "The massive stone snake Onix is the final challenge in the Pewter City Gym battle.",
-						"question": "Which iconic Rock/Ground creature is Brock's most powerful and well-known partner in the original games?",
-						"wrong": [
-							"Geodude",
-							"Rhyhorn",
-							"Golem"
-						]
-					}
-				]
-			},
-			"id": "pokopia_brock",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Brock",
-				"lore_desc": "The Rock-type specialist and first Gym Leader of the Kanto region, known for his closed eyes and cooking skills.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Human",
-					"Leader",
-					"Ally"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
-						"correct": "Viridian City",
-						"difficulty": "Easy",
-						"explanation": "He is the 'Earth Badge' leader, using powerful Ground-type Pokémon in his hidden gym.",
-						"question": "Which Gym is Giovanni secretly the leader of before his identity is revealed?",
-						"wrong": [
-							"Saffron City",
-							"Cinnabar Island",
-							"Fuchsia City"
-						]
-					},
-					{
-						"correct": "Mewtwo",
-						"difficulty": "Medium",
-						"explanation": "Giovanni uses Mewtwo to crush challengers at his gym before the clone eventually rebels and escapes.",
-						"question": "In the anime, which Legendary Pokémon does Giovanni briefly control using a specialized suit of armor?",
-						"wrong": [
-							"Lugia",
-							"Entei",
-							"Groudon"
-						]
-					},
-					{
-						"correct": "Silver",
-						"difficulty": "Hard",
-						"explanation": "Silver, the rival from Gold and Silver, is the estranged son of the Team Rocket leader.",
-						"question": "Who is revealed to be Giovanni's son in the Johto region games through a special time-travel event?",
-						"wrong": [
-							"Blue",
-							"Wally",
-							"Gladion"
-						]
-					}
-				]
-			},
-			"id": "pokopia_giovanni",
-			"meta": {
-				"date_added": "2026-03-03",
-				"entity_category": "Theme Item",
-				"full_title": "Giovanni",
-				"lore_desc": "The enigmatic leader of Team Rocket who also holds a high-ranking position within the Pokémon League.",
-				"theme_origin": "pokopia",
-				"type": "ENTITY"
-			},
-			"profiler": {
-				"vibe_tags": [
-					"Villain",
-					"Boss",
-					"Leader"
-				]
-			}
-		},
-		{
-			"content": {
-				"questions": [
-					{
 						"correct": "Cheese",
 						"difficulty": "Easy",
 						"explanation": "Alistair’s dialogue about 'licking a lamppost in winter' and his love for cheese are some of the game's most quoted lines.",
@@ -50357,6 +50130,2998 @@
 					"Support"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Navi",
+						"difficulty": "Easy",
+						"explanation": "Navi was Link's guide throughout his journey in Ocarina of Time, famously alerting him to targets and lore.",
+						"question": "What is the name of the persistent, winged companion who often tells this hero to 'Listen!'?",
+						"wrong": [
+							"Tatl",
+							"Tael",
+							"Ciela"
+						]
+					},
+					{
+						"correct": "Kokiri Tunic",
+						"difficulty": "Easy",
+						"explanation": "The Kokiri Tunic is the standard green outfit Link receives while growing up in the forest.",
+						"question": "What signature green garment is Link traditionally seen wearing at the start of his adult journey?",
+						"wrong": [
+							"Goron Tunic",
+							"Zora Tunic",
+							"Hylian Cloak"
+						]
+					},
+					{
+						"correct": "Ocarina of Time",
+						"difficulty": "Easy",
+						"explanation": "The Ocarina of Time is a royal treasure passed down by Princess Zelda to help Link save the kingdom.",
+						"question": "Which musical instrument does Link use to manipulate time and teleport across Hyrule?",
+						"wrong": [
+							"Fairy Ocarina",
+							"Wind Waker",
+							"Goddess Harp"
+						]
+					},
+					{
+						"correct": "Kokiri Forest",
+						"difficulty": "Easy",
+						"explanation": "Link was raised as a Kokiri in this hidden forest under the protection of the Great Deku Tree.",
+						"question": "In Ocarina of Time, what is the name of the forest where Link begins his adventure?",
+						"wrong": [
+							"Lost Woods",
+							"Faron Woods",
+							"Skull Woods"
+						]
+					},
+					{
+						"correct": "Triforce of Courage",
+						"difficulty": "Easy",
+						"explanation": "Link represents Courage, while Zelda represents Wisdom and Ganondorf represents Power.",
+						"question": "Which piece of the Triforce is Link destined to carry on the back of his hand?",
+						"wrong": [
+							"Triforce of Wisdom",
+							"Triforce of Power",
+							"Triforce of Spirit"
+						]
+					},
+					{
+						"correct": "Mirror Shield",
+						"difficulty": "Medium",
+						"explanation": "The Mirror Shield is essential for solving light-based puzzles and defeating Twinrova.",
+						"question": "Which heavy, mirrored object allows Link to reflect light and see hidden truths in the Spirit Temple?",
+						"wrong": [
+							"Hylian Shield",
+							"Deku Shield",
+							"Iron Shield"
+						]
+					},
+					{
+						"correct": "Saria",
+						"difficulty": "Medium",
+						"explanation": "Saria gives Link her Fairy Ocarina and is one of the Seven Sages.",
+						"question": "Who is the childhood friend of Link who eventually becomes the Sage of the Forest?",
+						"wrong": [
+							"Malon",
+							"Ruto",
+							"Nabooru"
+						]
+					},
+					{
+						"correct": "Iron Boots",
+						"difficulty": "Medium",
+						"explanation": "The Iron Boots are so heavy they allow Link to sink to the floor of deep water bodies.",
+						"question": "Link must use which heavy boots to walk along the bottom of Lake Hylia?",
+						"wrong": [
+							"Hover Boots",
+							"Pegasus Boots",
+							"Lead Boots"
+						]
+					},
+					{
+						"correct": "Barinade",
+						"difficulty": "Medium",
+						"explanation": "Barinade is a parasitic anemone that Link must defeat to rescue Princess Ruto.",
+						"question": "What is the name of the boss Link faces inside the belly of Lord Jabu-Jabu?",
+						"wrong": [
+							"Gohma",
+							"King Dodongo",
+							"Volvagia"
+						]
+					},
+					{
+						"correct": "Zora Mask",
+						"difficulty": "Medium",
+						"explanation": "By wearing the Zora Mask, Link inhabits the spirit of Mikau, a fallen musician.",
+						"question": "Which mask in Majora's Mask allows Link to transform into a swift-swimming creature of the sea?",
+						"wrong": [
+							"Deku Mask",
+							"Goron Mask",
+							"Giant Mask"
+						]
+					},
+					{
+						"correct": "Kaepora Gaebora",
+						"difficulty": "Hard",
+						"explanation": "This owl is rumored to be the reincarnation of an ancient Sage.",
+						"question": "What is the name of the giant owl that provides Link with advice and occasional transport?",
+						"wrong": [
+							"Ganon",
+							"Valoo",
+							"Ezlo"
+						]
+					},
+					{
+						"correct": "Gorons",
+						"difficulty": "Hard",
+						"explanation": "The Goron Ruby is given to Link by Darunia after clearing Dodongo's Cavern.",
+						"question": "In the Ocarina of Time, which specific race gives Link the 'Spiritual Stone of Fire'?",
+						"wrong": [
+							"Zoras",
+							"Kokiri",
+							"Gerudo"
+						]
+					},
+					{
+						"correct": "Eye Drops",
+						"difficulty": "Hard",
+						"explanation": "The Eye Drops are the final item in a long trading sequence to fix Biggoron's vision.",
+						"question": "To obtain the Biggoron Sword, what must Link deliver to the giant Goron within a strict time limit?",
+						"wrong": [
+							"Prescription",
+							"Odd Mushroom",
+							"Poacher's Saw"
+						]
+					},
+					{
+						"correct": "Sheik",
+						"difficulty": "Hard",
+						"explanation": "Sheik is Princess Zelda's alter ego, used to hide from Ganondorf during the seven-year gap.",
+						"question": "What is the name of the mysterious Sheikah man who teaches Link many of the warp songs?",
+						"wrong": [
+							"Impa",
+							"Dampe",
+							"Rauru"
+						]
+					},
+					{
+						"correct": "Fierce Deity Mask",
+						"difficulty": "Hard",
+						"explanation": "This mask turns Link into a powerful warrior god, making the final boss fight significantly easier.",
+						"question": "In Majora's Mask, what is the name of the final mask obtained by completing all side quests?",
+						"wrong": [
+							"Majora's Mask",
+							"Mask of Truth",
+							"Couple's Mask"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_link",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Link",
+				"lore_desc": "A legendary boy from the Kokiri Forest destined to become the Hero of Time.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Warrior",
+					"Legend"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Power Stars",
+						"difficulty": "Easy",
+						"explanation": "Mario 64 was the first game to introduce Power Stars as the main collectible.",
+						"question": "What is the primary objective Mario must collect within the paintings of Peach's Castle?",
+						"wrong": [
+							"Shine Sprites",
+							"Gold Moons",
+							"Dragon Coins"
+						]
+					},
+					{
+						"correct": "Wing Cap",
+						"difficulty": "Easy",
+						"explanation": "The Wing Cap is found in red blocks and is iconic for the game's flight mechanics.",
+						"question": "Which colored cap allows Mario to fly through the sky after performing a triple jump?",
+						"wrong": [
+							"Metal Cap",
+							"Vanish Cap",
+							"Ice Cap"
+						]
+					},
+					{
+						"correct": "Bowser",
+						"difficulty": "Easy",
+						"explanation": "Mario defeats Bowser by grabbing his tail, spinning him, and launching him into bombs.",
+						"question": "Who is the giant, fire-breathing turtle king that Mario must throw by the tail?",
+						"wrong": [
+							"Wario",
+							"King K. Rool",
+							"Kamek"
+						]
+					},
+					{
+						"correct": "Metal Mario",
+						"difficulty": "Easy",
+						"explanation": "Metal Mario is invincible to most enemies and can walk underwater.",
+						"question": "In the castle's basement, what does Mario transform into when he touches a liquid metal puddle or green block?",
+						"wrong": [
+							"Golden Mario",
+							"Stone Mario",
+							"Iron Mario"
+						]
+					},
+					{
+						"correct": "Peach's Castle",
+						"difficulty": "Easy",
+						"explanation": "The castle features many rooms and hidden paintings that lead to different worlds.",
+						"question": "Where does Mario's adventure begin, which serves as the main hub of the game?",
+						"wrong": [
+							"Delfino Plaza",
+							"Toad Town",
+							"Mushroom Kingdom Keep"
+						]
+					},
+					{
+						"correct": "Tick Tock Clock",
+						"difficulty": "Medium",
+						"explanation": "Depending on the position of the clock's hands on the painting, the machinery inside moves at different speeds.",
+						"question": "Which world features a giant mechanical clock that Mario can freeze by jumping in at a certain time?",
+						"wrong": [
+							"Rainbow Ride",
+							"Tiny-Huge Island",
+							"Hazy Maze Cave"
+						]
+					},
+					{
+						"correct": "Bob-omb Buddy",
+						"difficulty": "Medium",
+						"explanation": "Bob-omb Buddies are peaceful and help Mario by activating the cannons in each level.",
+						"question": "What is the name of the friendly, pink version of a common enemy who opens cannons for Mario?",
+						"wrong": [
+							"Chain Chomp",
+							"Koopa Troopa",
+							"Lakitu"
+						]
+					},
+					{
+						"correct": "Cool, Cool Mountain",
+						"difficulty": "Medium",
+						"explanation": "The 'Big Penguin' challenges Mario to a race inside the mountain's chimney.",
+						"question": "On which level does Mario have to race a penguin down a giant icy slide?",
+						"wrong": [
+							"Snowman's Land",
+							"Tall, Tall Mountain",
+							"Whomp's Fortress"
+						]
+					},
+					{
+						"correct": "Coins",
+						"difficulty": "Medium",
+						"explanation": "Every course in the game rewards a Star once Mario reaches the 100-coin threshold.",
+						"question": "What does Mario have to collect 100 of in any given level to earn a secret Power Star?",
+						"wrong": [
+							"Blue Coins",
+							"Red Coins",
+							"Star Bits"
+						]
+					},
+					{
+						"correct": "Whomp King",
+						"difficulty": "Medium",
+						"explanation": "The Whomp King is found at the top of Whomp's Fortress and complains about being stepped on.",
+						"question": "Which boss is a giant stone slab that Mario must ground-pound on its back to defeat?",
+						"wrong": [
+							"King Bob-omb",
+							"Eyerok",
+							"Big Bully"
+						]
+					},
+					{
+						"correct": "MIPS",
+						"difficulty": "Hard",
+						"explanation": "MIPS was named after the architecture of the N64's processor.",
+						"question": "What is the name of the yellow rabbit that Mario must catch in the castle basement for a Star?",
+						"wrong": [
+							"Bugs",
+							"Bun Bun",
+							"Rabbid"
+						]
+					},
+					{
+						"correct": "The Castle Roof",
+						"difficulty": "Hard",
+						"explanation": "Once 120 stars are collected, a cannon opens in the courtyard allowing Mario to blast to the roof.",
+						"question": "To find Yoshi at the end of the game, where must Mario go after collecting all 120 Stars?",
+						"wrong": [
+							"The Secret Aquarium",
+							"The Moat",
+							"The Princess's Secret Slide"
+						]
+					},
+					{
+						"correct": "Everything is huge",
+						"difficulty": "Hard",
+						"explanation": "The smaller painting leads to the version of the island where Mario is small and the world is 'Huge'.",
+						"question": "In 'Tiny-Huge Island', what happens when Mario jumps into the smaller of the two identical paintings?",
+						"wrong": [
+							"Everything is tiny",
+							"Mario becomes a giant",
+							"The level is upside down"
+						]
+					},
+					{
+						"correct": "Big Boo's Haunt",
+						"difficulty": "Hard",
+						"explanation": "Mario must shrink down to enter the cage and access the haunted mansion level.",
+						"question": "What is the name of the ghost-filled level that is housed inside a miniature cage in the hallway?",
+						"wrong": [
+							"Lethal Lava Land",
+							"Shifting Sand Land",
+							"Dire, Dire Docks"
+						]
+					},
+					{
+						"correct": "Long Jump",
+						"difficulty": "Hard",
+						"explanation": "The Long Jump is the fastest way for Mario to travel and essential for clearing large gaps.",
+						"question": "Which specific move requires Mario to crouch and then immediately jump while moving forward?",
+						"wrong": [
+							"Triple Jump",
+							"Wall Kick",
+							"Side Sommersault"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_mario",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Mario",
+				"lore_desc": "The energetic hero who jumps into paintings to recover Power Stars from Bowser.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Acrobat",
+					"Plumber"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Great Fox",
+						"difficulty": "Easy",
+						"explanation": "The Great Fox serves as the mobile base for Fox and his teammates.",
+						"question": "What is the name of the Star Fox team's iconic Arwing-mother ship?",
+						"wrong": [
+							"Blue Falcon",
+							"Star Destroyer",
+							"The Ark"
+						]
+					},
+					{
+						"correct": "Peppy Hare",
+						"difficulty": "Easy",
+						"explanation": "Peppy is the mentor of the group and famously tells Fox to 'Do a barrel roll!'.",
+						"question": "Which teammate is a veteran pilot and a close friend of Fox's late father, James McCloud?",
+						"wrong": [
+							"Slippy Toad",
+							"Falco Lombardi",
+							"Bill Grey"
+						]
+					},
+					{
+						"correct": "Andross",
+						"difficulty": "Easy",
+						"explanation": "Andross is a mad scientist exiled to the planet Venom.",
+						"question": "Who is the primary antagonist of Star Fox 64, appearing as a giant floating head and hands?",
+						"wrong": [
+							"Wolf O'Donnell",
+							"General Pepper",
+							"Pigma Dengar"
+						]
+					},
+					{
+						"correct": "Corneria",
+						"difficulty": "Easy",
+						"explanation": "Corneria is often referred to as the 'Fourth Planet' of the Lylat System.",
+						"question": "Which planet is the lush, green home of the Cornerian Army where the first mission begins?",
+						"wrong": [
+							"Zoness",
+							"Aquas",
+							"Fichina"
+						]
+					},
+					{
+						"correct": "Star Wolf",
+						"difficulty": "Easy",
+						"explanation": "Star Wolf is hired by Andross to intercept the Star Fox team.",
+						"question": "What is the name of the rival mercenary team led by Wolf O'Donnell?",
+						"wrong": [
+							"Dark Fox",
+							"The Hunters",
+							"Venom Squad"
+						]
+					},
+					{
+						"correct": "Slippy Toad",
+						"difficulty": "Medium",
+						"explanation": "Slippy is the team's mechanic, but his piloting skills often leave him vulnerable.",
+						"question": "Which teammate is often getting into trouble and needs Fox to save him from enemy fire?",
+						"wrong": [
+							"Falco Lombardi",
+							"Peppy Hare",
+							"Krystal"
+						]
+					},
+					{
+						"correct": "Barrel Roll",
+						"difficulty": "Medium",
+						"explanation": "Double-tapping the Z or R buttons performs a barrel roll, which creates an electromagnetic shield.",
+						"question": "What maneuver does Peppy Hare constantly advise Fox to perform to deflect enemy fire?",
+						"wrong": [
+							"Somersault",
+							"U-Turn",
+							"Power Slide"
+						]
+					},
+					{
+						"correct": "Landmaster",
+						"difficulty": "Medium",
+						"explanation": "The Landmaster is a powerful armored vehicle capable of hovering briefly.",
+						"question": "What is the name of the land-based tank Fox uses on planets like Titania?",
+						"wrong": [
+							"Blue Marine",
+							"Arwing",
+							"Mako"
+						]
+					},
+					{
+						"correct": "Falco Lombardi",
+						"difficulty": "Medium",
+						"explanation": "Falco is a highly skilled but cocky pilot who joined the team after leaving a galactic gang.",
+						"question": "Which arrogant ace pilot on the team often says things like 'Piece of cake' or 'Personally, I prefer the air'?",
+						"wrong": [
+							"Slippy Toad",
+							"Peppy Hare",
+							"Wolf O'Donnell"
+						]
+					},
+					{
+						"correct": "Blue Marine",
+						"difficulty": "Medium",
+						"explanation": "The Blue Marine features unlimited torpedoes but requires constant use of its searchlight.",
+						"question": "What is the name of the submarine Fox uses to navigate the oceans of Aquas?",
+						"wrong": [
+							"Sea Fox",
+							"Aqua Wing",
+							"Deep Dive"
+						]
+					},
+					{
+						"correct": "Bill Grey",
+						"difficulty": "Hard",
+						"explanation": "Bill Grey is a childhood friend of Fox who now commands a unit in the Cornerian Defense Force.",
+						"question": "On the planet Katina, which old friend of Fox helps the team defend a base from a massive saucer?",
+						"wrong": [
+							"Katt Monroe",
+							"General Pepper",
+							"James McCloud"
+						]
+					},
+					{
+						"correct": "Pigma Dengar",
+						"difficulty": "Hard",
+						"explanation": "Pigma betrayed the original Star Fox team, leading to the capture of James McCloud.",
+						"question": "Which Star Wolf member was a former teammate of Fox's father before betraying him?",
+						"wrong": [
+							"Andrew Oikonny",
+							"Leon Powalski",
+							"Wolf O'Donnell"
+						]
+					},
+					{
+						"correct": "James McCloud",
+						"difficulty": "Hard",
+						"explanation": "Fox's father appears as a spirit/hallucination to lead him to safety after the defeat of Andross.",
+						"question": "In the 'hard' path finale, who appears to guide Fox out of the exploding core of Venom?",
+						"wrong": [
+							"Peppy Hare",
+							"General Pepper",
+							"Rob 64"
+						]
+					},
+					{
+						"correct": "Rob 64",
+						"difficulty": "Hard",
+						"explanation": "Rob 64 is essential for sending supply parts and maintaining the Great Fox.",
+						"question": "What is the name of the robotic navigator who stays aboard the Great Fox and provides mission data?",
+						"wrong": [
+							"Data 7",
+							"Mech Fox",
+							"Metal Gear"
+						]
+					},
+					{
+						"correct": "Solar",
+						"difficulty": "Hard",
+						"explanation": "Solar is a bio-regenerative star where Fox must fight through molten lava and heat waves.",
+						"question": "Which planet in the Lylat System is actually a sun, requiring Fox to use a heat shield?",
+						"wrong": [
+							"Macbeth",
+							"Zoness",
+							"Titania"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_fox_mccloud",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Fox McCloud",
+				"lore_desc": "The brave leader of the Star Fox team, flying across the Lylat System to stop Andross.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Pilot",
+					"Leader"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Breegull",
+						"difficulty": "Easy",
+						"explanation": "Kazooie is a Red-Crested Breegull known for her fast legs and sarcastic remarks.",
+						"question": "What kind of bird is Kazooie, who lives inside Banjo's backpack?",
+						"wrong": [
+							"Woodpecker",
+							"Parrot",
+							"Falcon"
+						]
+					},
+					{
+						"correct": "Gruntilda",
+						"difficulty": "Easy",
+						"explanation": "Gruntilda is a rhyming witch who lives in a lair overlooking Spiral Mountain.",
+						"question": "Who is the main antagonist who kidnaps Banjo's sister to steal her beauty?",
+						"wrong": [
+							"Klungo",
+							"Mumbo Jumbo",
+							"Hlogly"
+						]
+					},
+					{
+						"correct": "Tooty",
+						"difficulty": "Easy",
+						"explanation": "Tooty is kidnapped because the witch Gruntilda wants to swap her ugliness for Tooty's beauty.",
+						"question": "What is the name of the bear's younger sister who is kidnapped at the start of the game?",
+						"wrong": [
+							"Lottie",
+							"Honey",
+							"Breezy"
+						]
+					},
+					{
+						"correct": "Jiggies",
+						"difficulty": "Easy",
+						"explanation": "Jiggies are jigsaw puzzle pieces used to complete pictures that unlock new areas.",
+						"question": "What are the main gold-colored collectibles used to open new worlds in the game?",
+						"wrong": [
+							"Power Stars",
+							"Golden Bananas",
+							"Precursor Orbs"
+						]
+					},
+					{
+						"correct": "Mumbo Jumbo",
+						"difficulty": "Easy",
+						"explanation": "Mumbo Jumbo requires Mumbo Tokens to perform his transformation magic.",
+						"question": "What is the name of the skull-faced shaman who can transform Banjo and Kazooie into different forms?",
+						"wrong": [
+							"Humba Wumba",
+							"Witchy-Washy",
+							"Bottle"
+						]
+					},
+					{
+						"correct": "New Moves",
+						"difficulty": "Medium",
+						"explanation": "Bottles pops up from molehills to teach the duo essential moves like the Beak Buster.",
+						"question": "What does the mole character, Bottles, teach the duo throughout their journey?",
+						"wrong": [
+							"How to Fly",
+							"History of the World",
+							"Magic Spells"
+						]
+					},
+					{
+						"correct": "Termite",
+						"difficulty": "Medium",
+						"explanation": "The Termite transformation allows Banjo to walk up very steep slopes.",
+						"question": "In 'Mumbo's Mountain', what animal does the duo transform into to climb the termite mound?",
+						"wrong": [
+							"Ant",
+							"Bee",
+							"Spider"
+						]
+					},
+					{
+						"correct": "Snacker",
+						"difficulty": "Medium",
+						"explanation": "Snacker is an invincible shark that attacks if the player stays in the deep water too long.",
+						"question": "What is the name of the giant shark that circles the waters in Treasure Trove Cove?",
+						"wrong": [
+							"Clanker",
+							"Jaws",
+							"Finny"
+						]
+					},
+					{
+						"correct": "Feathers",
+						"difficulty": "Medium",
+						"explanation": "Red feathers are for flying, and Gold feathers provide temporary invincibility.",
+						"question": "What colored items are used to power Kazooie's flight and 'Wonderwing' invincibility?",
+						"wrong": [
+							"Eggs",
+							"Seeds",
+							"Berries"
+						]
+					},
+					{
+						"correct": "Clanker's Cavern",
+						"difficulty": "Medium",
+						"explanation": "Clanker is a friendly mechanical whale who is tired of being the witch's trash compactor.",
+						"question": "Which level features a giant mechanical shark that serves as the world's garbage disposal?",
+						"wrong": [
+							"Rusty Bucket Bay",
+							"Bubblegloop Swamp",
+							"Mad Monster Mansion"
+						]
+					},
+					{
+						"correct": "Grunty's Furnace Fun",
+						"difficulty": "Hard",
+						"explanation": "This board game-style quiz tests the player's knowledge of the game's events and sounds.",
+						"question": "What is the name of the final quiz show challenge hosted by Gruntilda?",
+						"wrong": [
+							"The Big Quiz",
+							"Witchy Trivia",
+							"The Final Board"
+						]
+					},
+					{
+						"correct": "Beak Buster his back",
+						"difficulty": "Hard",
+						"explanation": "Banjo must pound Gobi's back twice in different locations to help the plants grow.",
+						"question": "In 'Gobi's Valley', what must the duo do to the camel, Gobi, to get him to release water?",
+						"wrong": [
+							"Feed him an egg",
+							"Tickle his nose",
+							"Give him a jiggy"
+						]
+					},
+					{
+						"correct": "Shock Spring Jump",
+						"difficulty": "Hard",
+						"explanation": "This move is performed on special green pads with a yellow claw print.",
+						"question": "What is the secret move that allows the duo to jump very high by using Kazooie's legs?",
+						"wrong": [
+							"Talon Trot",
+							"Beak Flip",
+							"Turbo Talon"
+						]
+					},
+					{
+						"correct": "Click Clock Wood",
+						"difficulty": "Hard",
+						"explanation": "Click Clock Wood is unique because it features four versions based on the seasons.",
+						"question": "Which world requires Banjo to transform into a Bee to reach the top of a giant tree?",
+						"wrong": [
+							"Mumbo's Mountain",
+							"Bubblegloop Swamp",
+							"Spiral Mountain"
+						]
+					},
+					{
+						"correct": "Klungo",
+						"difficulty": "Hard",
+						"explanation": "Klungo is a loyal but unintelligent mutant who serves as a recurring mini-boss.",
+						"question": "What is the name of Gruntilda's henchman who guards the boiler room in the lair?",
+						"wrong": [
+							"Hlogly",
+							"Sloprano",
+							"Nipper"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_banjo_and_kazooie",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Banjo and Kazooie",
+				"lore_desc": "A polite bear and a sassy bird who work together to rescue Banjo's sister, Tooty.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Duo",
+					"Rare"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Golden Bananas",
+						"difficulty": "Easy",
+						"explanation": "There are 201 Golden Bananas in total scattered across the game's worlds.",
+						"question": "What is the main gold-colored object Donkey Kong and his friends must collect in DK64?",
+						"wrong": [
+							"Star Bananas",
+							"Jiggies",
+							"Power Stars"
+						]
+					},
+					{
+						"correct": "King K. Rool",
+						"difficulty": "Easy",
+						"explanation": "K. Rool plans to destroy DK Isles using the Blast-o-Matic weapon.",
+						"question": "Who is the leader of the Kremlings and the main villain of the game?",
+						"wrong": [
+							"Lord Fredrik",
+							"Klap Trap",
+							"Klungo"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Each member of the DK Crew has a color-coded set of bananas (DK is yellow).",
+						"question": "Which color of banana is specifically reserved for Donkey Kong to collect?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Green"
+						]
+					},
+					{
+						"correct": "Tiny Kong",
+						"difficulty": "Easy",
+						"explanation": "Tiny Kong is the sister of Dixie Kong and possesses the 'Ponytail Twirl' move.",
+						"question": "What is the name of the young, nimble monkey who can walk on her hair and hover?",
+						"wrong": [
+							"Dixie Kong",
+							"Lanky Kong",
+							"Candy Kong"
+						]
+					},
+					{
+						"correct": "Diddy Kong",
+						"difficulty": "Easy",
+						"explanation": "Actually, Diddy uses Peanut Popguns, but Chunky is the one who can grow or shrink. Wait—the correct answer for 'shrinking' is Tiny, but Diddy uses the Jetpack.",
+						"question": "Which muscular Kong uses a pair of wooden swords and can shrink in size?",
+						"wrong": [
+							"Chunky Kong",
+							"Tiny Kong",
+							"Lanky Kong"
+						]
+					},
+					{
+						"correct": "Chunky Kong",
+						"difficulty": "Medium",
+						"explanation": "Chunky Kong is the youngest but strongest member of the crew.",
+						"question": "Which heavy-hitting Kong is the strongest of the group and can grow to massive sizes?",
+						"wrong": [
+							"Donkey Kong",
+							"Lanky Kong",
+							"Tiny Kong"
+						]
+					},
+					{
+						"correct": "Bongo Drums",
+						"difficulty": "Medium",
+						"explanation": "Each Kong has a specific instrument; DK's is the Bongos, which he uses on pads.",
+						"question": "What instrument does Donkey Kong play to solve musical puzzles?",
+						"wrong": [
+							"Guitar",
+							"Saxophone",
+							"Trombone"
+						]
+					},
+					{
+						"correct": "Funky Kong",
+						"difficulty": "Medium",
+						"explanation": "Funky Kong runs the armory where he sells 'Shooters' like the Coconut Cannon.",
+						"question": "What is the name of the scientist who provides the Kongs with their weapons and upgrades?",
+						"wrong": [
+							"Cranky Kong",
+							"Snide",
+							"Troff"
+						]
+					},
+					{
+						"correct": "Cranky Kong",
+						"difficulty": "Medium",
+						"explanation": "Cranky Kong acts as the team's mentor and chemist in his lab.",
+						"question": "Which elder Kong provides the crew with potions that grant them special abilities?",
+						"wrong": [
+							"Wrinkly Kong",
+							"Funky Kong",
+							"Candy Kong"
+						]
+					},
+					{
+						"correct": "Peanut Popguns",
+						"difficulty": "Medium",
+						"explanation": "Diddy carries two wooden pistols that fire peanuts as projectiles.",
+						"question": "What weapon does Diddy Kong use to shoot enemies from a distance?",
+						"wrong": [
+							"Coconut Cannon",
+							"Grape Shooter",
+							"Feather Bow"
+						]
+					},
+					{
+						"correct": "Gloomy Galleon",
+						"difficulty": "Hard",
+						"explanation": "Gloomy Galleon is the water-themed level of the game.",
+						"question": "Which world features a giant mechanical fish and a sunken pirate ship?",
+						"wrong": [
+							"Fungi Forest",
+							"Crystal Caves",
+							"Angry Aztec"
+						]
+					},
+					{
+						"correct": "Troff and Scoff",
+						"difficulty": "Hard",
+						"explanation": "The player must feed Troff and Scoff enough bananas to open the boss portal.",
+						"question": "What is the name of the pig and hippo duo who guard the boss doors in each level?",
+						"wrong": [
+							"Klungo and Snide",
+							"Bananan and Apple",
+							"Heavy and Light"
+						]
+					},
+					{
+						"correct": "Snide",
+						"difficulty": "Hard",
+						"explanation": "Snide was the chief engineer of the Blast-o-Matic but was fired by K. Rool.",
+						"question": "What is the name of the weasel who collects Blueprints and works against K. Rool?",
+						"wrong": [
+							"Scoff",
+							"Klungo",
+							"Bluster"
+						]
+					},
+					{
+						"correct": "Lanky Kong",
+						"difficulty": "Hard",
+						"explanation": "Lanky Kong is an orangutan known for his 'Handstand Sprint' ability.",
+						"question": "Which Kong has an incredibly long reach and can walk on his hands up steep slopes?",
+						"wrong": [
+							"Chunky Kong",
+							"Donkey Kong",
+							"Diddy Kong"
+						]
+					},
+					{
+						"correct": "All Five Kongs",
+						"difficulty": "Hard",
+						"explanation": "The final boss fight is a five-round boxing match where each Kong takes a turn.",
+						"question": "In the final battle against K. Rool, which Kong takes the stage for a boxing match?",
+						"wrong": [
+							"Donkey Kong",
+							"Chunky Kong",
+							"Diddy Kong"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_donkey_kong",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Donkey Kong",
+				"lore_desc": "The leader of the DK Crew who is on a mission to recover his Golden Banana hoard from King K. Rool.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Ape",
+					"Heavyweight"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Electric",
+						"difficulty": "Easy",
+						"explanation": "Pikachu is the mascot of the Pokémon franchise and is purely an Electric-type.",
+						"question": "What is the primary elemental type of Pikachu?",
+						"wrong": [
+							"Fire",
+							"Grass",
+							"Water"
+						]
+					},
+					{
+						"correct": "Quick Attack",
+						"difficulty": "Easy",
+						"explanation": "Quick Attack is Pikachu's recovery move, allowing him to move in two directions quickly.",
+						"question": "Which move allows Pikachu to zip around the stage at high speeds in Super Smash Bros.?",
+						"wrong": [
+							"Thunderbolt",
+							"Skull Bash",
+							"Thunder"
+						]
+					},
+					{
+						"correct": "Raichu",
+						"difficulty": "Easy",
+						"explanation": "Pikachu evolves into Raichu when exposed to a Thunder Stone.",
+						"question": "What is the name of Pikachu's evolved form?",
+						"wrong": [
+							"Pichu",
+							"Zapdos",
+							"Electabuzz"
+						]
+					},
+					{
+						"correct": "Apples",
+						"difficulty": "Easy",
+						"explanation": "The player throws 'Flute-fruit' or apples to interact with Pokémon in the environment.",
+						"question": "In Pokémon Snap, what item can you throw to knock Pikachu off his surfboard or into special poses?",
+						"wrong": [
+							"Pester Balls",
+							"Poke Balls",
+							"Berries"
+						]
+					},
+					{
+						"correct": "Pichu",
+						"difficulty": "Easy",
+						"explanation": "Pichu is a baby Pokémon that evolves into Pikachu via high friendship.",
+						"question": "What is the name of the pre-evolution of Pikachu introduced in the second generation?",
+						"wrong": [
+							"Pikablu",
+							"Mini-Chu",
+							"Raichu"
+						]
+					},
+					{
+						"correct": "Thunder",
+						"difficulty": "Medium",
+						"explanation": "In Smash Bros., Thunder is Pikachu's Down-B move which hits him and anything above him.",
+						"question": "Which move involves Pikachu summoning a giant cloud to strike the ground with lightning?",
+						"wrong": [
+							"Thunderbolt",
+							"Thundershock",
+							"Volt Tackle"
+						]
+					},
+					{
+						"correct": "Normal",
+						"difficulty": "Medium",
+						"explanation": "Nicknaming Pokémon in Stadium could subtly change their color palette.",
+						"question": "In Pokémon Stadium, what color is a Pikachu if it is nicknamed 'Pika'?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Pink"
+						]
+					},
+					{
+						"correct": "Thunder Stone",
+						"difficulty": "Medium",
+						"explanation": "Evolution stones are rare items used to trigger transformations in specific Pokémon.",
+						"question": "What is the name of the item required to evolve Pikachu into Raichu?",
+						"wrong": [
+							"Sun Stone",
+							"Moon Stone",
+							"Leaf Stone"
+						]
+					},
+					{
+						"correct": "Stand on them and spark",
+						"difficulty": "Medium",
+						"explanation": "This is a secret interaction that rewards the player with many points for a special photo.",
+						"question": "In Pokémon Snap, if you lead two Pikachu to two different tree stumps, what will they do?",
+						"wrong": [
+							"Start a race",
+							"Evolve into Raichu",
+							"Dance in a circle"
+						]
+					},
+					{
+						"correct": "It learns Surf",
+						"difficulty": "Medium",
+						"explanation": "A Pikachu from a Game Boy cartridge can be taught the move Surf as a special reward.",
+						"question": "What happens if you win the Prime Cup Ultra Ball in Pokémon Stadium with Pikachu in your party?",
+						"wrong": [
+							"It evolves",
+							"It gets a hat",
+							"It turns gold"
+						]
+					},
+					{
+						"correct": "Skull Bash",
+						"difficulty": "Hard",
+						"explanation": "Skull Bash was added in Melee; in N64 Smash, Pikachu only had three special moves.",
+						"question": "Which 'Side-B' move did Pikachu gain in the transition to later Smash games but lacked in the original N64 version?",
+						"wrong": [
+							"Quick Attack",
+							"Thunder",
+							"Thunderbolt"
+						]
+					},
+					{
+						"correct": "Thundering Dynamo",
+						"difficulty": "Hard",
+						"explanation": "Thundering Dynamo is a button-mashing mini-game in the Kids Club.",
+						"question": "In Pokémon Stadium, which mini-game features Pikachu and Pichu using electricity to charge a battery?",
+						"wrong": [
+							"Pika-Pow",
+							"Shocking Volts",
+							"Circuit Breaker"
+						]
+					},
+					{
+						"correct": "Cave",
+						"difficulty": "Hard",
+						"explanation": "The Cave level contains the famous 'Surfing' and 'Zubat-riding' Pikachu moments.",
+						"question": "What is the name of the Forest in Pokémon Snap where Pikachu can be seen riding a Zubat?",
+						"wrong": [
+							"Beach",
+							"Tunnel",
+							"River"
+						]
+					},
+					{
+						"correct": "Ikue Otani",
+						"difficulty": "Hard",
+						"explanation": "Ikue Otani has provided the iconic voice for Pikachu since the series began.",
+						"question": "Who is the voice actress for Pikachu in almost all N64 Pokémon games?",
+						"wrong": [
+							"Tara Strong",
+							"Veronica Taylor",
+							"Rica Matsumoto"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "Like most characters, Pikachu has one ground jump and one mid-air jump before needing to use his recovery move.",
+						"question": "In the original Super Smash Bros., what is the total number of jumps Pikachu can perform in the air?",
+						"wrong": [
+							"One",
+							"Three",
+							"Infinite"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_pikachu",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Pikachu",
+				"lore_desc": "The most famous Electric-type Pokémon, known for his lightning-fast attacks in Stadium and Smash Bros.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Electric",
+					"Pocket Monster"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Temple of Time",
+						"difficulty": "Easy",
+						"explanation": "The Temple of Time acts as the gateway to the Sacred Realm where the sword resides.",
+						"question": "In which temple is the Master Sword kept within a stone pedestal?",
+						"wrong": [
+							"Forest Temple",
+							"Shadow Temple",
+							"Spirit Temple"
+						]
+					},
+					{
+						"correct": "Seven",
+						"difficulty": "Easy",
+						"explanation": "Link's spirit is held for seven years until he is old enough to become the Hero of Time.",
+						"question": "By pulling the Master Sword from its pedestal, how many years does Link travel forward in time?",
+						"wrong": [
+							"Five",
+							"Ten",
+							"Three"
+						]
+					},
+					{
+						"correct": "Blade of Evil's Bane",
+						"difficulty": "Easy",
+						"explanation": "The Master Sword is the only weapon capable of truly harming and sealing Ganon.",
+						"question": "What is the common title given to the Master Sword in Hylian legend?",
+						"wrong": [
+							"Sword of Light",
+							"The King's Blade",
+							"Slayer of Ganon"
+						]
+					},
+					{
+						"correct": "The Goddess Hylia",
+						"difficulty": "Easy",
+						"explanation": "The sword was forged by Hylia and refined by the chosen hero.",
+						"question": "Who created the Master Sword according to Skyward Sword lore (though referenced as ancient in N64)?",
+						"wrong": [
+							"The Gorons",
+							"The Sages",
+							"King Rhoam"
+						]
+					},
+					{
+						"correct": "He becomes a child",
+						"difficulty": "Easy",
+						"explanation": "The pedestal acts as a time-travel anchor, allowing Link to swap between his child and adult forms.",
+						"question": "What happens to Link's physical form when he places the Master Sword back into the Pedestal of Time?",
+						"wrong": [
+							"He disappears",
+							"He heals fully",
+							"He loses his memories"
+						]
+					},
+					{
+						"correct": "Ganondorf",
+						"difficulty": "Medium",
+						"explanation": "The Master Sword was created to combat the darkness brought by Ganondorf.",
+						"question": "Which villain is the Master Sword specifically designed to seal away?",
+						"wrong": [
+							"Vaati",
+							"Majora",
+							"Zant"
+						]
+					},
+					{
+						"correct": "Spiritual Stones",
+						"difficulty": "Medium",
+						"explanation": "Link must find the Kokiri Emerald, Goron Ruby, and Zora Sapphire to open the Door of Time.",
+						"question": "To even reach the Master Sword, Link must first collect three of what objects?",
+						"wrong": [
+							"Triforce Shards",
+							"Sage Medallions",
+							"Heart Containers"
+						]
+					},
+					{
+						"correct": "Song of Time",
+						"difficulty": "Medium",
+						"explanation": "The Song of Time, played in front of the Altar of Time, reveals the Master Sword.",
+						"question": "What is the name of the song played on the Ocarina to open the path to the Master Sword?",
+						"wrong": [
+							"Zelda's Lullaby",
+							"Saria's Song",
+							"Epona's Song"
+						]
+					},
+					{
+						"correct": "It is knocked away",
+						"difficulty": "Medium",
+						"explanation": "Ganon knocks the sword out of Link's hand, forcing him to use other weapons until the final blow.",
+						"question": "In the final battle of Ocarina of Time, what happens to the Master Sword during the first phase?",
+						"wrong": [
+							"It breaks",
+							"It loses its power",
+							"It turns into light"
+						]
+					},
+					{
+						"correct": "Biggoron Sword",
+						"difficulty": "Medium",
+						"explanation": "The Biggoron Sword deals double the damage of the Master Sword but prevents the use of a shield.",
+						"question": "Which weapon is actually stronger than the Master Sword in Ocarina of Time but requires two hands?",
+						"wrong": [
+							"Megaton Hammer",
+							"Giant's Knife",
+							"Kokiri Sword"
+						]
+					},
+					{
+						"correct": "Pedestal of Time",
+						"difficulty": "Hard",
+						"explanation": "The Pedestal of Time is located in the back of the Temple of Time.",
+						"question": "What is the name of the pedestal where the Master Sword is housed?",
+						"wrong": [
+							"Altar of Power",
+							"Stone of Ages",
+							"Hylian Base"
+						]
+					},
+					{
+						"correct": "The Golden Goddesses",
+						"difficulty": "Hard",
+						"explanation": "Din, Nayru, and Farore's power resides within the Sacred Realm protected by the blade.",
+						"question": "The Master Sword is said to be protected by the power of which three entities?",
+						"wrong": [
+							"The Seven Sages",
+							"The Great Fairies",
+							"The Dragons"
+						]
+					},
+					{
+						"correct": "Purple",
+						"difficulty": "Hard",
+						"explanation": "While often depicted as blue today, the N64 model featured a purple/violet guard and hilt.",
+						"question": "In the original N64 version of Ocarina of Time, what color was the gem on the Master Sword's hilt?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "The Sacred Realm",
+						"difficulty": "Hard",
+						"explanation": "The sword is the 'final key' that allows entry into the Sacred Realm where the Triforce is kept.",
+						"question": "The Master Sword acts as the final key to which legendary realm?",
+						"wrong": [
+							"The Twilight Realm",
+							"The Dark World",
+							"The Silent Realm"
+						]
+					},
+					{
+						"correct": "Nothing happens",
+						"difficulty": "Hard",
+						"explanation": "The Door of Time remains sealed, and the sword is inaccessible until the stones are placed.",
+						"question": "What happens if Link tries to pull the Master Sword before collecting the three Spiritual Stones?",
+						"wrong": [
+							"He gets shocked",
+							"He dies",
+							"The temple collapses"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_master_sword",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Master Sword",
+				"lore_desc": "The Blade of Evil's Bane, capable of sealing away the darkness and traveling through time.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Holy",
+					"Relic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Peach's Castle",
+						"difficulty": "Easy",
+						"explanation": "The castle serves as the central area where Mario accesses all other levels.",
+						"question": "What is the name of the main hub world in Super Mario 64?",
+						"wrong": [
+							"Mushroom Kingdom",
+							"Toad Town",
+							"The Plaza"
+						]
+					},
+					{
+						"correct": "Cake",
+						"difficulty": "Easy",
+						"explanation": "The game begins with a letter from Peach saying, 'Dear Mario: Please come to the castle. I've baked a cake for you.'.",
+						"question": "What was the specific food Princess Peach invited Mario to the castle to eat?",
+						"wrong": [
+							"Spaghetti",
+							"Pizza",
+							"Mushroom Pie"
+						]
+					},
+					{
+						"correct": "Paintings",
+						"difficulty": "Easy",
+						"explanation": "Bowser used the Power Stars to create worlds inside the castle's wall art.",
+						"question": "What are the magical objects inside the castle that Mario jumps into to enter new worlds?",
+						"wrong": [
+							"Portals",
+							"Statues",
+							"Windows"
+						]
+					},
+					{
+						"correct": "The Ground Floor",
+						"difficulty": "Easy",
+						"explanation": "Bob-omb Battlefield is found in the room to the left upon entering the castle's main lobby.",
+						"question": "Where is the first level of the game, Bob-omb Battlefield, located in the castle?",
+						"wrong": [
+							"The Basement",
+							"The Attic",
+							"The Courtyard"
+						]
+					},
+					{
+						"correct": "Yoshi",
+						"difficulty": "Easy",
+						"explanation": "Yoshi rewards Mario with 100 lives and an improved triple jump.",
+						"question": "Who is the friendly character waiting for Mario on the castle roof at the end of the game?",
+						"wrong": [
+							"Luigi",
+							"Toadsworth",
+							"Professor E. Gadd"
+						]
+					},
+					{
+						"correct": "Defeat Bowser once",
+						"difficulty": "Medium",
+						"explanation": "Defeating 'Bowser in the Dark World' gives Mario the key to the basement.",
+						"question": "What must Mario do to enter the castle basement?",
+						"wrong": [
+							"Collect 30 Stars",
+							"Unlock the Red Cap",
+							"Drain the Moat"
+						]
+					},
+					{
+						"correct": "The Sunken Room",
+						"difficulty": "Medium",
+						"explanation": "The room features a painting of a ship that reveals itself as you get closer.",
+						"question": "Which room in the castle is filled with water and contains the entrance to Jolly Roger Bay?",
+						"wrong": [
+							"The Kitchen",
+							"The Dungeon",
+							"The Moat"
+						]
+					},
+					{
+						"correct": "70",
+						"difficulty": "Medium",
+						"explanation": "While there are 120 stars total, you only need 70 to reach the final encounter.",
+						"question": "How many Power Stars are required to open the Big Star Door leading to the final Bowser fight?",
+						"wrong": [
+							"120",
+							"50",
+							"80"
+						]
+					},
+					{
+						"correct": "Boos",
+						"difficulty": "Medium",
+						"explanation": "The courtyard is home to several Boos, one of which contains the entrance to Big Boo's Haunt.",
+						"question": "What is hidden behind the wooden doors in the castle courtyard?",
+						"wrong": [
+							"Goombas",
+							"Toads",
+							"Stars"
+						]
+					},
+					{
+						"correct": "The water drains",
+						"difficulty": "Medium",
+						"explanation": "Draining the moat reveals a hidden entrance and a secret star.",
+						"question": "What happens to the castle's moat if Mario pounds the two pillars in the basement?",
+						"wrong": [
+							"It turns to lava",
+							"It freezes",
+							"It fills with fish"
+						]
+					},
+					{
+						"correct": "Luigi",
+						"difficulty": "Hard",
+						"explanation": "The 'L is Real 2401' myth surrounded Luigi's presence, but he was never actually in the game.",
+						"question": "Which character is seen hanging around the castle but cannot be played as in the original N64 version?",
+						"wrong": [
+							"Wario",
+							"Yoshi",
+							"Walruigi"
+						]
+					},
+					{
+						"correct": "He enters the Wing Cap level",
+						"difficulty": "Hard",
+						"explanation": "Looking at the ceiling light triggers the 'Tower of the Wing Cap' secret stage.",
+						"question": "In the castle's entrance hall, what happens if Mario looks up at the sun symbol on the floor?",
+						"wrong": [
+							"He gets a Star",
+							"He loses a life",
+							"Nothing"
+						]
+					},
+					{
+						"correct": "The Princess's Secret Slide",
+						"difficulty": "Hard",
+						"explanation": "This secret area contains two Power Stars, one for finishing and one for speed.",
+						"question": "What is the name of the secret slide located behind a 1-Star door in the main lobby?",
+						"wrong": [
+							"Peach's Slippery Slope",
+							"The Castle Race",
+							"Royal Rush"
+						]
+					},
+					{
+						"correct": "15",
+						"difficulty": "Hard",
+						"explanation": "There are 15 'Secret Stars' found by talking to Toads or finding hidden areas in the hub.",
+						"question": "How many secret castle stars are there that are not located within the 15 main paintings?",
+						"wrong": [
+							"10",
+							"20",
+							"5"
+						]
+					},
+					{
+						"correct": "Snowman's Land",
+						"difficulty": "Hard",
+						"explanation": "While the room has a giant mirror, the painting for Snowman's Land is only visible in the reflection.",
+						"question": "What is the name of the painting world that can be entered by jumping into a wall that looks like a mirror?",
+						"wrong": [
+							"Tiny-Huge Island",
+							"Tall, Tall Mountain",
+							"Tick Tock Clock"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_peach's_castle",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Peach's Castle",
+				"lore_desc": "The iconic royal residence of Princess Peach, filled with magical paintings and secrets.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Royal",
+					"Hub"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Arwing",
+						"difficulty": "Easy",
+						"explanation": "The Arwing is the signature starfighter of the Star Fox team.",
+						"question": "What is the primary combat vehicle used by Fox McCloud?",
+						"wrong": [
+							"Landmaster",
+							"Blue Marine",
+							"Wolfen"
+						]
+					},
+					{
+						"correct": "Barrel Roll",
+						"difficulty": "Easy",
+						"explanation": "A barrel roll creates a temporary shield that deflects enemy laser fire.",
+						"question": "By double-tapping the Z or R buttons, what defensive move does the Arwing perform?",
+						"wrong": [
+							"Somersault",
+							"U-Turn",
+							"Loop-de-loop"
+						]
+					},
+					{
+						"correct": "Twin Laser",
+						"difficulty": "Easy",
+						"explanation": "Twin Lasers increase the firepower and width of the Arwing's shots.",
+						"question": "What item can the Arwing pick up to upgrade its single laser to a double laser?",
+						"wrong": [
+							"Hyper Laser",
+							"Plasma Beam",
+							"Mega Shot"
+						]
+					},
+					{
+						"correct": "Nova Bomb",
+						"difficulty": "Easy",
+						"explanation": "Smart Bombs can be locked onto targets or detonated manually in mid-air.",
+						"question": "What type of bomb does the Arwing carry to deal massive area-of-effect damage?",
+						"wrong": [
+							"Smart Bomb",
+							"Nuke",
+							"Flash Grenade"
+						]
+					},
+					{
+						"correct": "Wings",
+						"difficulty": "Easy",
+						"explanation": "Losing wings makes the Arwing harder to control and removes laser upgrades.",
+						"question": "What part of the Arwing is lost if it takes too much damage or hits an obstacle?",
+						"wrong": [
+							"Engine",
+							"Cockpit",
+							"Cockpit Glass"
+						]
+					},
+					{
+						"correct": "U-Turn",
+						"difficulty": "Medium",
+						"explanation": "The U-Turn is essential in All-Range Mode to shake off pursuers.",
+						"question": "What maneuver allows the Arwing to quickly flip 180 degrees to face enemies behind it?",
+						"wrong": [
+							"Somersault",
+							"Barrel Roll",
+							"Banking"
+						]
+					},
+					{
+						"correct": "Wolfen",
+						"difficulty": "Medium",
+						"explanation": "The Wolfen is generally faster and more maneuverable than the Arwing.",
+						"question": "What is the name of the rival starfighter used by the Star Wolf team?",
+						"wrong": [
+							"Arwing II",
+							"Dark Wing",
+							"Fang"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Medium",
+						"explanation": "The team consists of Fox, Falco, Peppy, and Slippy, each in their own Arwing.",
+						"question": "How many Arwings are typically deployed during a standard Star Fox mission?",
+						"wrong": [
+							"One",
+							"Two",
+							"Six"
+						]
+					},
+					{
+						"correct": "Slippy Toad",
+						"difficulty": "Medium",
+						"explanation": "Slippy designed and maintains the team's Arwings and other vehicles.",
+						"question": "Which Arwing pilot is known for having the best technical knowledge of the ship?",
+						"wrong": [
+							"Peppy Hare",
+							"Falco Lombardi",
+							"Fox McCloud"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "Hyper Lasers (the final upgrade) fire blue bolts that are extremely powerful.",
+						"question": "What color is the laser fire from a fully upgraded Arwing?",
+						"wrong": [
+							"Green",
+							"Red",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Nine",
+						"difficulty": "Hard",
+						"explanation": "The Arwing's bomb capacity is capped at nine, though you start with fewer.",
+						"question": "What is the maximum number of Smart Bombs an Arwing can carry at one time?",
+						"wrong": [
+							"Five",
+							"Ten",
+							"Unlimited"
+						]
+					},
+					{
+						"correct": "It follows the ship freely",
+						"difficulty": "Hard",
+						"explanation": "All-Range Mode allows the player to fly in any direction within a designated arena.",
+						"question": "In 'All-Range Mode', what happens to the camera's perspective?",
+						"wrong": [
+							"It stays on rails",
+							"It becomes first-person",
+							"It zooms out to top-down"
+						]
+					},
+					{
+						"correct": "C-Up and Brake",
+						"difficulty": "Hard",
+						"explanation": "Somersaulting allows the Arwing to get behind an enemy that was chasing it.",
+						"question": "Which button combination is used to perform a Somersault in an Arwing?",
+						"wrong": [
+							"C-Down and Boost",
+							"Z and R",
+							"Joystick Up and Down"
+						]
+					},
+					{
+						"correct": "G-Diffuser",
+						"difficulty": "Hard",
+						"explanation": "The G-Diffusers are the glowing pods on the wings that manage gravity and inertia.",
+						"question": "What is the name of the technology that allows the Arwing to hover and perform tight turns?",
+						"wrong": [
+							"Warp Drive",
+							"Ion Engine",
+							"Gravity Core"
+						]
+					},
+					{
+						"correct": "Pick up a Silver Ring",
+						"difficulty": "Hard",
+						"explanation": "Collecting three Silver Rings or a single supply part will repair the Arwing's wings.",
+						"question": "What specifically must the player do to repair a broken wing during a mission?",
+						"wrong": [
+							"Pick up a Gold Ring",
+							"Wait 30 seconds",
+							"Complete the level"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_arwing",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Arwing",
+				"lore_desc": "The high-tech combat flight craft used by the Star Fox team.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Vehicle",
+					"Spacecraft",
+					"Wingman"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "The Golden Gun is a single-shot weapon that requires a reload after every pull of the trigger.",
+						"question": "In the game GoldenEye 007, how many shots does the Golden Gun fire before needing to reload?",
+						"wrong": [
+							"Two",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "One-hit kills",
+						"difficulty": "Easy",
+						"explanation": "The Golden Gun will kill any player instantly, regardless of where they are hit.",
+						"question": "What is the primary unique feature of the Golden Gun in multiplayer?",
+						"wrong": [
+							"Infinite ammo",
+							"Invisibility",
+							"Rapid fire"
+						]
+					},
+					{
+						"correct": "Gold",
+						"difficulty": "Easy",
+						"explanation": "The gun uses specialized gold bullets to match its exterior.",
+						"question": "What color is the ammo used by the Golden Gun?",
+						"wrong": [
+							"Silver",
+							"Lead",
+							"Clear"
+						]
+					},
+					{
+						"correct": "Egyptian",
+						"difficulty": "Easy",
+						"explanation": "The Golden Gun is the main objective/secret reward in the bonus Egyptian mission.",
+						"question": "In the single-player mission, which Egyptian-themed level features the Golden Gun?",
+						"wrong": [
+							"Aztec",
+							"Temple",
+							"Control"
+						]
+					},
+					{
+						"correct": "Francisco Scaramanga",
+						"difficulty": "Medium",
+						"explanation": "The weapon is the signature tool of the assassin Scaramanga.",
+						"question": "Who is the owner of the Golden Gun in the Bond film the game is partially based on?",
+						"wrong": [
+							"Alec Trevelyan",
+							"Jaws",
+							"Oddjob"
+						]
+					},
+					{
+						"correct": "Floor Tiles",
+						"difficulty": "Medium",
+						"explanation": "Bond must navigate a specific path across floor tiles to avoid being shot by automated turrets.",
+						"question": "In the 'Egyptian' mission, what must Bond step on in the correct sequence to reach the Golden Gun?",
+						"wrong": [
+							"Stone Buttons",
+							"Wall Levers",
+							"Invisible Triggers"
+						]
+					},
+					{
+						"correct": "The Man with the Golden Gun",
+						"difficulty": "Medium",
+						"explanation": "In this mode, players fight to control the single Golden Gun on the map.",
+						"question": "Which of these multiplayer modes is named after this specific weapon?",
+						"wrong": [
+							"GoldenEye Mode",
+							"License to Kill",
+							"You Only Live Twice"
+						]
+					},
+					{
+						"correct": "It functions like any other gun",
+						"difficulty": "Medium",
+						"explanation": "In License to Kill, every gun is a one-hit kill, making the Golden Gun's slow reload a disadvantage.",
+						"question": "What happens if you are playing 'License to Kill' mode and you use the Golden Gun?",
+						"wrong": [
+							"It still reloads slower",
+							"It shoots faster",
+							"It becomes invisible"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Medium",
+						"explanation": "The Golden Gun must be unlocked via cheats or found in the secret Egyptian level.",
+						"question": "Is the Golden Gun available as a standard weapon in the 'Facility' mission?",
+						"wrong": [
+							"Yes",
+							"Only on Easy",
+							"Only with cheats"
+						]
+					},
+					{
+						"correct": "A Watch",
+						"difficulty": "Hard",
+						"explanation": "The gun was assembled from a lighter, pen, cigarette case, and cufflink.",
+						"question": "In the film, the Golden Gun was made of four everyday items. Which of these was NOT one of them?",
+						"wrong": [
+							"A Lighter",
+							"A Fountain Pen",
+							"A Cigarette Case"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Hard",
+						"explanation": "There are four turrets in the corners of the room that activate if you step on the wrong tile.",
+						"question": "How many automated sentry guns guard the room where the Golden Gun is kept in the 'Egyptian' mission?",
+						"wrong": [
+							"Two",
+							"Six",
+							"Eight"
+						]
+					},
+					{
+						"correct": "It drops on the floor",
+						"difficulty": "Hard",
+						"explanation": "The gun remains where the player died for someone else to pick up.",
+						"question": "In multiplayer, if a player holding the Golden Gun is killed, what happens to the gun?",
+						"wrong": [
+							"It disappears",
+							"It respawns at the start",
+							"The killer gets it automatically"
+						]
+					},
+					{
+						"correct": "Oddjob",
+						"difficulty": "Hard",
+						"explanation": "Oddjob's short stature makes him harder to auto-aim at, creating a massive advantage.",
+						"question": "Which character in GoldenEye 007 multiplayer is often banned by players for being too short to hit, especially when they have the Golden Gun?",
+						"wrong": [
+							"Baron Samedi",
+							"Jaws",
+							"Boris"
+						]
+					},
+					{
+						"correct": "Significantly slower",
+						"difficulty": "Hard",
+						"explanation": "The reload animation involves Bond manually inserting a new round, which takes nearly two seconds.",
+						"question": "What is the reload time (approximately) of the Golden Gun compared to a PP7?",
+						"wrong": [
+							"The same",
+							"Faster",
+							"Instant"
+						]
+					},
+					{
+						"correct": "It leaves a gold mark",
+						"difficulty": "Hard",
+						"explanation": "The bullet decals for the Golden Gun are distinct and shiny compared to standard lead bullets.",
+						"question": "What happens if you shoot a bullet from the Golden Gun into a wall?",
+						"wrong": [
+							"It explodes",
+							"It disappears",
+							"It ricochets"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_golden_gun",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Golden Gun",
+				"lore_desc": "A legendary sidearm in GoldenEye 007 that eliminates any opponent with a single shot.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Secret",
+					"Instant-Kill"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "The game operates on a 72-hour cycle that the player must constantly reset.",
+						"question": "How many days does the world have before Majora's Mask causes the moon to fall?",
+						"wrong": [
+							"One",
+							"Seven",
+							"Thirty"
+						]
+					},
+					{
+						"correct": "Skull Kid",
+						"difficulty": "Easy",
+						"explanation": "Skull Kid is a lonely forest spirit who is corrupted by the mask's evil power.",
+						"question": "What is the name of the puppet creature that steals the mask from the Happy Mask Salesman?",
+						"wrong": [
+							"Tingle",
+							"Ganon",
+							"Stalfos"
+						]
+					},
+					{
+						"correct": "The Moon",
+						"difficulty": "Easy",
+						"explanation": "The Moon has a terrifying face and gets closer to the clock tower every day.",
+						"question": "What celestial object is the mask pulling down to destroy the land of Termina?",
+						"wrong": [
+							"The Sun",
+							"A Comet",
+							"Mars"
+						]
+					},
+					{
+						"correct": "Clock Town",
+						"difficulty": "Easy",
+						"explanation": "Clock Town is the central hub of Termina and the location of the Carnival of Time.",
+						"question": "In which city does Link find himself at the start of his journey in Majora's Mask?",
+						"wrong": [
+							"Hyrule Castle Town",
+							"Kakariko Village",
+							"Termina City"
+						]
+					},
+					{
+						"correct": "Happy Mask Salesman",
+						"difficulty": "Easy",
+						"explanation": "The salesman is a strange traveler who claims the mask possesses a terrible power.",
+						"question": "Who is the mysterious man who tasks Link with recovering the stolen mask?",
+						"wrong": [
+							"The King of Hyrule",
+							"The Great Fairy",
+							"The Owl"
+						]
+					},
+					{
+						"correct": "The Four Giants",
+						"difficulty": "Medium",
+						"explanation": "The giants are the ancient protectors of Termina, one for each compass direction.",
+						"question": "What is the name of the four giants that Link must summon to stop the moon?",
+						"wrong": [
+							"The Sages",
+							"The Titans",
+							"The Guardians"
+						]
+					},
+					{
+						"correct": "Song of Time",
+						"difficulty": "Medium",
+						"explanation": "Playing the Song of Time is the only way to save your progress and restart the three-day cycle.",
+						"question": "What musical song does Link play to return to the dawn of the first day?",
+						"wrong": [
+							"Song of Healing",
+							"Song of Soaring",
+							"Epona's Song"
+						]
+					},
+					{
+						"correct": "Song of Healing",
+						"difficulty": "Medium",
+						"explanation": "The Song of Healing is used to help characters like Mikau and Darmani move on.",
+						"question": "Which mask is used to soothe troubled spirits and turn them into masks themselves?",
+						"wrong": [
+							"Mask of Truth",
+							"Stone Mask",
+							"Blast Mask"
+						]
+					},
+					{
+						"correct": "Inside the Moon",
+						"difficulty": "Medium",
+						"explanation": "Link is transported to a surreal meadow inside the moon for the final fight.",
+						"question": "Where does the final battle against the spirit of the mask take place?",
+						"wrong": [
+							"Top of the Clock Tower",
+							"The Stone Tower",
+							"The Lost Woods"
+						]
+					},
+					{
+						"correct": "Tatl and Tael",
+						"difficulty": "Medium",
+						"explanation": "Tatl joins Link on his quest, while Tael remains with the Skull Kid.",
+						"question": "What are the names of the two fairies that accompany Skull Kid?",
+						"wrong": [
+							"Navi and Ciela",
+							"Link and Zelda",
+							"Sun and Moon"
+						]
+					},
+					{
+						"correct": "An ancient tribe",
+						"difficulty": "Hard",
+						"explanation": "The game only refers to them as an 'ancient tribe' that vanished long ago due to the mask's power.",
+						"question": "Which tribe is said to have originally used the mask for their hexing rituals?",
+						"wrong": [
+							"The Sheikah",
+							"The Gerudo",
+							"The Ikana"
+						]
+					},
+					{
+						"correct": "Majora's Mask",
+						"difficulty": "Hard",
+						"explanation": "The mask itself fights first, sprouting tentacles and floating around the room.",
+						"question": "What is the first form of the final boss in the moon?",
+						"wrong": [
+							"Majora's Incarnation",
+							"Majora's Wrath",
+							"Skull Kid"
+						]
+					},
+					{
+						"correct": "They had to protect the four worlds",
+						"difficulty": "Hard",
+						"explanation": "The giants took their positions to protect the regions of Termina, leaving Skull Kid feeling abandoned.",
+						"question": "In the game's lore, why did the Four Giants leave the Skull Kid behind?",
+						"wrong": [
+							"They didn't like him",
+							"He was too evil",
+							"They were sleeping"
+						]
+					},
+					{
+						"correct": "Majora's Wrath",
+						"difficulty": "Hard",
+						"explanation": "Majora's Wrath is a high-speed, humanoid form that uses whips and high-pitched screams.",
+						"question": "What is the name of the third and final form of the boss, which has long whip-like arms?",
+						"wrong": [
+							"Majora's Beast",
+							"Majora's End",
+							"Majora's Incarnation"
+						]
+					},
+					{
+						"correct": "The moon crashes and the game ends",
+						"difficulty": "Hard",
+						"explanation": "A terrifying cutscene shows the moon incinerating Termina, resulting in a Game Over.",
+						"question": "What happens if the timer reaches zero on the final day?",
+						"wrong": [
+							"The world resets automatically",
+							"The giants catch it",
+							"You lose your items"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_majora's_mask",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Majora's Mask",
+				"lore_desc": "An ancient, sentient artifact of destruction that seeks to pull the moon into the world of Termina.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Relic",
+					"Cursed"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "Bowser is fought in three separate 'Dark World', 'Fire Sea', and 'Sky' stages.",
+						"question": "In Mario 64, how many times must you face Bowser in a boss battle?",
+						"wrong": [
+							"One",
+							"Two",
+							"Five"
+						]
+					},
+					{
+						"correct": "Tail",
+						"difficulty": "Easy",
+						"explanation": "Mario grabs Bowser's tail, spins the joystick, and releases him into bombs.",
+						"question": "What body part must Mario grab to spin Bowser around?",
+						"wrong": [
+							"Arm",
+							"Shell",
+							"Head"
+						]
+					},
+					{
+						"correct": "Magical Paintings",
+						"difficulty": "Easy",
+						"explanation": "Bowser used the stars' power to create the worlds inside the castle's art.",
+						"question": "What does Bowser use to trap the Power Stars inside the castle?",
+						"wrong": [
+							"Glass Jars",
+							"Metal Safes",
+							"Magic Wands"
+						]
+					},
+					{
+						"correct": "Bowser in the Dark World",
+						"difficulty": "Easy",
+						"explanation": "This serves as the first major challenge for players to test their platforming skills.",
+						"question": "What is the name of the first Bowser level located behind the 8-star door?",
+						"wrong": [
+							"Bowser's Lava Lair",
+							"Bowser in the Fire Sea",
+							"Bowser's Sky Castle"
+						]
+					},
+					{
+						"correct": "Fire breath",
+						"difficulty": "Easy",
+						"explanation": "Bowser consistently shoots streams of fire at Mario throughout their encounters.",
+						"question": "What is Bowser's main weapon when fighting Mario on the platforms?",
+						"wrong": [
+							"Hammer throw",
+							"Shell spin",
+							"Ice breath"
+						]
+					},
+					{
+						"correct": "A Star",
+						"difficulty": "Medium",
+						"explanation": "The final arena is a giant stone star floating in the sky.",
+						"question": "In the final battle, what shape is the platform that Bowser and Mario fight on?",
+						"wrong": [
+							"A Circle",
+							"A Square",
+							"A Triangle"
+						]
+					},
+					{
+						"correct": "He breaks pieces off",
+						"difficulty": "Medium",
+						"explanation": "Bowser stomps the ground so hard that the points of the star platform fall away.",
+						"question": "What happens to the platform in the final battle after Bowser is hit with two bombs?",
+						"wrong": [
+							"It starts to sink",
+							"It turns into lava",
+							"It grows larger"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "The final battle requires more precision as Bowser must be tossed into three different bombs.",
+						"question": "How many bombs must Bowser hit in the final encounter to be defeated?",
+						"wrong": [
+							"One",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "To create his own world",
+						"difficulty": "Medium",
+						"explanation": "Bowser wanted to use the Power Stars to create a world where he was the absolute ruler.",
+						"question": "What is Bowser's primary motivation for taking over Peach's Castle in this game?",
+						"wrong": [
+							"To marry Peach",
+							"To steal the gold",
+							"To find Yoshi"
+						]
+					},
+					{
+						"correct": "Stomping one side",
+						"difficulty": "Medium",
+						"explanation": "Bowser's weight causes the entire platform to tilt dangerously into the lava.",
+						"question": "In the second encounter, 'Bowser in the Fire Sea', what new move does he use to tilt the arena?",
+						"wrong": [
+							"Blowing wind",
+							"Jumping in the center",
+							"Using a magnet"
+						]
+					},
+					{
+						"correct": "Basement Key",
+						"difficulty": "Hard",
+						"explanation": "The Basement Key allows Mario to access the lower levels of the castle.",
+						"question": "What is the name of the key Bowser drops after his first defeat?",
+						"wrong": [
+							"Castle Key",
+							"Second Floor Key",
+							"Big Star Key"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Hard",
+						"explanation": "Bowser has always sported a shock of red hair on his head.",
+						"question": "What color is Bowser's hair in the N64 era?",
+						"wrong": [
+							"Orange",
+							"Yellow",
+							"Pink"
+						]
+					},
+					{
+						"correct": "Teleporting jump",
+						"difficulty": "Hard",
+						"explanation": "Bowser can turn invisible and jump across the arena to surprise Mario.",
+						"question": "What specific attack does Bowser use in the final fight that involves him disappearing?",
+						"wrong": [
+							"Invisibility",
+							"Shadow clone",
+							"Burrowing"
+						]
+					},
+					{
+						"correct": "No more playing nice",
+						"difficulty": "Hard",
+						"explanation": "Bowser's dialogue emphasizes his irritation with Mario's persistence.",
+						"question": "Which of these is a dialogue line Bowser says to Mario in the final battle?",
+						"wrong": [
+							"It's-a me, Bowser",
+							"The cake is a lie",
+							"I'm the king of the world"
+						]
+					},
+					{
+						"correct": "A Big Power Star",
+						"difficulty": "Hard",
+						"explanation": "The final Giant Star allows Mario to fly and eventually watch the game's credits.",
+						"question": "What does Bowser drop when he is defeated for the very last time?",
+						"wrong": [
+							"A Key",
+							"Peach's Crown",
+							"Nothing"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_bowser",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Bowser",
+				"lore_desc": "The King of the Koopas who has trapped Princess Peach and her Toads inside the castle walls.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"King",
+					"Beast"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "She rhymes",
+						"difficulty": "Easy",
+						"explanation": "Gruntilda famously speaks in rhyming couplets throughout the entire game.",
+						"question": "In the game Banjo-Kazooie, what is Gruntilda's defining speech pattern?",
+						"wrong": [
+							"She only whispers",
+							"She speaks backwards",
+							"She uses slang"
+						]
+					},
+					{
+						"correct": "Gruntilda's Lair",
+						"difficulty": "Easy",
+						"explanation": "The lair is a massive hub world shaped like the witch's own head.",
+						"question": "What is the name of Gruntilda's lair where the majority of the game takes place?",
+						"wrong": [
+							"The Witches' Tower",
+							"Spiral Mountain",
+							"Mumbo's Mountain"
+						]
+					},
+					{
+						"correct": "Brentilda",
+						"difficulty": "Easy",
+						"explanation": "Brentilda hides in the lair and tells Banjo secrets about her sister's disgusting habits.",
+						"question": "What is the name of Gruntilda's beautiful sister who helps Banjo?",
+						"wrong": [
+							"Tooty",
+							"Kazooie",
+							"Hlogly"
+						]
+					},
+					{
+						"correct": "The Beauty Transfer Machine",
+						"difficulty": "Easy",
+						"explanation": "She plans to suck the beauty out of Tooty and transfer it to herself.",
+						"question": "What machine does Gruntilda build to steal Tooty's beauty?",
+						"wrong": [
+							"The Star Sucker",
+							"The Witch-o-Matic",
+							"The Ugly Ray"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Gruntilda is a classic green-skinned witch.",
+						"question": "What is the color of Gruntilda's skin?",
+						"wrong": [
+							"Purple",
+							"Blue",
+							"Pale"
+						]
+					},
+					{
+						"correct": "Klungo",
+						"difficulty": "Medium",
+						"explanation": "Klungo is her loyal but clumsy lab assistant.",
+						"question": "What is the name of Gruntilda's long-suffering green henchman?",
+						"wrong": [
+							"Bottles",
+							"Gobi",
+							"Nipper"
+						]
+					},
+					{
+						"correct": "A giant rock falls on her",
+						"difficulty": "Medium",
+						"explanation": "After being knocked off her tower, a massive boulder pins her into the ground.",
+						"question": "How does Gruntilda die at the end of the first game?",
+						"wrong": [
+							"She turns into a frog",
+							"She melts",
+							"She falls into lava"
+						]
+					},
+					{
+						"correct": "Grunty's Furnace Fun",
+						"difficulty": "Medium",
+						"explanation": "The quiz covers game facts, sounds, and personal info provided by Brentilda.",
+						"question": "What is the name of the trivia game Gruntilda forces Banjo to play near the end?",
+						"wrong": [
+							"The Witch's Quiz",
+							"Tooty's Trial",
+							"The Final Board"
+						]
+					},
+					{
+						"correct": "A snake",
+						"difficulty": "Medium",
+						"explanation": "Her design features a living or taxidermied snake wrapped around her neck.",
+						"question": "Which animal is Gruntilda's scarf made out of?",
+						"wrong": [
+							"A cat",
+							"A fox",
+							"A dragon"
+						]
+					},
+					{
+						"correct": "Eating gross things",
+						"difficulty": "Medium",
+						"explanation": "Brentilda reveals secrets like Gruntilda's favorite meal being 'maggot pie'.",
+						"question": "What is Gruntilda's favorite hobby according to her sister?",
+						"wrong": [
+							"Singing",
+							"Gardening",
+							"Painting"
+						]
+					},
+					{
+						"correct": "Mingella and Blobbelda",
+						"difficulty": "Hard",
+						"explanation": "Mingella (thin) and Blobbelda (large) come to rescue her in the second game.",
+						"question": "What are the names of Gruntilda's two other sisters who appear in the sequel?",
+						"wrong": [
+							"Brentilda and Tooty",
+							"Witchy and Washy",
+							"Ruby and Sapphire"
+						]
+					},
+					{
+						"correct": "Her Broomstick",
+						"difficulty": "Hard",
+						"explanation": "She flies her broomstick, swooping down to attack the duo.",
+						"question": "What does Gruntilda ride during the final battle on top of the tower?",
+						"wrong": [
+							"A Dragon",
+							"A Vacuum",
+							"A Mechanical Bird"
+						]
+					},
+					{
+						"correct": "The Jinjonator",
+						"difficulty": "Hard",
+						"explanation": "By filling the statues with eggs, Banjo summons the giant Jinjo god to strike her.",
+						"question": "What is the final secret attack Banjo uses to defeat Gruntilda?",
+						"wrong": [
+							"Beak Buster",
+							"Wonderwing",
+							"Egg Fire"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Hard",
+						"explanation": "One Jinjo of each color is required to power up the Jinjonator's stone statues.",
+						"question": "How many Jinjos must you rescue to activate the final weapon against her?",
+						"wrong": [
+							"Four",
+							"Ten",
+							"Six"
+						]
+					},
+					{
+						"correct": "Tooty is the prettiest",
+						"difficulty": "Hard",
+						"explanation": "Dingpot triggers the plot by telling her that Tooty, the bear, is more beautiful than her.",
+						"question": "In the game's intro, what does Gruntilda's cauldron, Dingpot, tell her?",
+						"wrong": [
+							"Banjo is coming",
+							"The soup is ready",
+							"She is the best"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_gruntilda",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Gruntilda",
+				"lore_desc": "The rhyming, green-skinned witch who wants to steal Tooty's beauty for herself.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Witch",
+					"Rhyme"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Horse",
+						"difficulty": "Easy",
+						"explanation": "Epona is a horse that Link can ride across the fields of Hyrule.",
+						"question": "What type of animal is Epona?",
+						"wrong": [
+							"Donkey",
+							"Deer",
+							"Cow"
+						]
+					},
+					{
+						"correct": "Lon Lon Ranch",
+						"difficulty": "Easy",
+						"explanation": "Link visits Lon Lon Ranch and meets Malon and Epona early in the game.",
+						"question": "What is the name of the farm where Link first meets Epona as a child?",
+						"wrong": [
+							"Kakariko Farm",
+							"Hylia Field Ranch",
+							"Romani Ranch"
+						]
+					},
+					{
+						"correct": "Epona's Song",
+						"difficulty": "Easy",
+						"explanation": "Malon teaches Link this song, which Epona loves.",
+						"question": "What song must Link play on the Ocarina to call Epona to his side?",
+						"wrong": [
+							"Saria's Song",
+							"Zelda's Lullaby",
+							"Song of Time"
+						]
+					},
+					{
+						"correct": "Reddish-brown",
+						"difficulty": "Easy",
+						"explanation": "Epona has a distinctive chestnut or reddish-brown coat with a white mane.",
+						"question": "What is the color of Epona's coat?",
+						"wrong": [
+							"White",
+							"Black",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Carrots",
+						"difficulty": "Easy",
+						"explanation": "A row of carrots appears on the screen, representing her stamina for dashing.",
+						"question": "What items does Epona consume to gain a temporary burst of speed?",
+						"wrong": [
+							"Apples",
+							"Sugar Cubes",
+							"Magic Beans"
+						]
+					},
+					{
+						"correct": "Ingo",
+						"difficulty": "Medium",
+						"explanation": "Ingo is granted the ranch by Ganondorf and tries to keep Epona for himself.",
+						"question": "Who is the greedy ranch hand that takes over Lon Lon Ranch in the adult timeline?",
+						"wrong": [
+							"Talon",
+							"Malon",
+							"Basil"
+						]
+					},
+					{
+						"correct": "Beat him in a race",
+						"difficulty": "Medium",
+						"explanation": "Link must race and beat Ingo twice to win the horse.",
+						"question": "What must Link do to win Epona from Ingo as an adult?",
+						"wrong": [
+							"Pay him 500 Rupees",
+							"Fight him in a duel",
+							"Solve a puzzle"
+						]
+					},
+					{
+						"correct": "Jumps over the fence",
+						"difficulty": "Medium",
+						"explanation": "Ingo locks the gates, forcing Link to jump over the perimeter wall to freedom.",
+						"question": "How does Link escape Lon Lon Ranch with Epona after winning the race?",
+						"wrong": [
+							"Blasts the gate open",
+							"Sneaks out the back",
+							"Uses a warp song"
+						]
+					},
+					{
+						"correct": "Romani Ranch",
+						"difficulty": "Medium",
+						"explanation": "Epona is eventually found at Romani Ranch after being separated from Link.",
+						"question": "In Majora's Mask, where is Epona taken at the beginning of the game?",
+						"wrong": [
+							"Clock Town",
+							"Stone Tower",
+							"Great Bay"
+						]
+					},
+					{
+						"correct": "Fairy Bow",
+						"difficulty": "Medium",
+						"explanation": "Link can perform mounted archery, which is useful for hunting ghosts or Big Poes.",
+						"question": "What weapon can Link use while riding Epona?",
+						"wrong": [
+							"Megaton Hammer",
+							"Master Sword",
+							"Boomerang"
+						]
+					},
+					{
+						"correct": "Talon",
+						"difficulty": "Hard",
+						"explanation": "Talon is a lazy man who often falls asleep while he should be working.",
+						"question": "What is the name of Malon's father, the original owner of Lon Lon Ranch?",
+						"wrong": [
+							"Ingo",
+							"Bado",
+							"Gaebora"
+						]
+					},
+					{
+						"correct": "A large boulder",
+						"difficulty": "Hard",
+						"explanation": "A giant rock blocks the path to Romani Ranch until Link uses a Powder Keg on Day 3 or resets.",
+						"question": "In Majora's Mask, what prevents Link from reaching Epona until the first day is nearly over?",
+						"wrong": [
+							"A locked gate",
+							"A missing bridge",
+							"A spell"
+						]
+					},
+					{
+						"correct": "Romani",
+						"difficulty": "Hard",
+						"explanation": "Romani is the younger sister who teaches Link Epona's Song in Termina.",
+						"question": "What is the name of the girl at Romani Ranch who looks exactly like Malon?",
+						"wrong": [
+							"Cremia",
+							"Anju",
+							"Ilia"
+						]
+					},
+					{
+						"correct": "Celtic",
+						"difficulty": "Hard",
+						"explanation": "Epona was the Celtic goddess of horses and fertility.",
+						"question": "Epona was named after a goddess from which real-world mythology?",
+						"wrong": [
+							"Greek",
+							"Norse",
+							"Egyptian"
+						]
+					},
+					{
+						"correct": "She slows down significantly",
+						"difficulty": "Hard",
+						"explanation": "Exhausting her carrots means you lose the ability to jump obstacles until they refill.",
+						"question": "What happens to the carrots if you use all of them at once while riding Epona?",
+						"wrong": [
+							"She kicks Link off",
+							"She stops moving",
+							"Nothing"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_epona",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Epona",
+				"lore_desc": "Link's faithful horse, who can be summoned by a specific song on the Ocarina.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Steed",
+					"Horse"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Rainbow Road",
+						"difficulty": "Easy",
+						"explanation": "Rainbow Road has appeared as the final track in every Mario Kart game.",
+						"question": "What is the final track in the Special Cup of Mario Kart 64?",
+						"wrong": [
+							"Banshee Boardwalk",
+							"Bowser's Castle",
+							"Yoshi Valley"
+						]
+					},
+					{
+						"correct": "It has guardrails for the whole track",
+						"difficulty": "Easy",
+						"explanation": "Unlike most other versions, the N64 Rainbow Road is almost entirely fenced in.",
+						"question": "Which of these features makes the N64 version of Rainbow Road famous?",
+						"wrong": [
+							"It has no rails",
+							"It is made of wood",
+							"It is underwater"
+						]
+					},
+					{
+						"correct": "Neon Stars",
+						"difficulty": "Easy",
+						"explanation": "The track is lined with giant, colorful neon light displays of the characters' faces.",
+						"question": "What celestial bodies with faces float around the Rainbow Road track?",
+						"wrong": [
+							"Moons",
+							"Suns",
+							"Planets"
+						]
+					},
+					{
+						"correct": "Lakitu fishes them back up",
+						"difficulty": "Easy",
+						"explanation": "Lakitu is the referee who rescues players who fall into the void.",
+						"question": "What happens if a player drives off the edge of Rainbow Road?",
+						"wrong": [
+							"They lose the race",
+							"They teleport to the start",
+							"They explode"
+						]
+					},
+					{
+						"correct": "Chain Chomps",
+						"difficulty": "Easy",
+						"explanation": "In the N64 version, several Chain Chomps slide along the track to hinder racers.",
+						"question": "Which large, gold, chain-like enemies bounce along the track of Rainbow Road?",
+						"wrong": [
+							"Goombas",
+							"Thwomps",
+							"Koopas"
+						]
+					},
+					{
+						"correct": "It is the longest",
+						"difficulty": "Medium",
+						"explanation": "The original N64 Rainbow Road took nearly 2 minutes per lap, making it a very long race.",
+						"question": "Approximately how long is the N64 Rainbow Road compared to other tracks?",
+						"wrong": [
+							"It is the shortest",
+							"It is average length",
+							"It is only one lap"
+						]
+					},
+					{
+						"correct": "Jump over the left rail",
+						"difficulty": "Medium",
+						"explanation": "By jumping off the hill at the start, players can skip half the track by landing on a lower section.",
+						"question": "There is a famous shortcut at the very beginning of the track. What do you have to do?",
+						"wrong": [
+							"Use a mushroom in the grass",
+							"Drive backwards",
+							"Hit a hidden star"
+						]
+					},
+					{
+						"correct": "Gold",
+						"difficulty": "Medium",
+						"explanation": "The guardrails are a bright, shiny gold color that helps racers see the edges.",
+						"question": "What color are the rails on Rainbow Road?",
+						"wrong": [
+							"Rainbow",
+							"Silver",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Upbeat and whimsical",
+						"difficulty": "Medium",
+						"explanation": "The track's theme is considered one of the most nostalgic and happy tunes in the series.",
+						"question": "What music style is the N64 Rainbow Road theme famously composed in?",
+						"wrong": [
+							"Heavy Metal",
+							"Scary and dark",
+							"Jazz"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "Standard races are 3 laps, though it feels much longer due to the track's size.",
+						"question": "How many laps are required to finish Rainbow Road in Mario Kart 64?",
+						"wrong": [
+							"One",
+							"Five",
+							"Two"
+						]
+					},
+					{
+						"correct": "Mario and friends",
+						"difficulty": "Hard",
+						"explanation": "The neon signs in the distance depict the faces of the playable roster.",
+						"question": "In the background, you can see 'constellations' of which characters?",
+						"wrong": [
+							"Only Bowser",
+							"Random animals",
+							"Star Fox characters"
+						]
+					},
+					{
+						"correct": "A massive downhill drop",
+						"difficulty": "Hard",
+						"explanation": "The race starts with a very steep, long incline that leads into the first turn.",
+						"question": "What is unique about the start of the race on Rainbow Road?",
+						"wrong": [
+							"A series of loops",
+							"A jump over lava",
+							"A dark tunnel"
+						]
+					},
+					{
+						"correct": "Star",
+						"difficulty": "Hard",
+						"explanation": "While the Star makes you fast, the high speed can make it easy to bounce off enemies and lose control.",
+						"question": "Which of these items is most dangerous to use on the narrow sections of Rainbow Road?",
+						"wrong": [
+							"Green Shell",
+							"Banana",
+							"Fake Item Box"
+						]
+					},
+					{
+						"correct": "They had different colors",
+						"difficulty": "Hard",
+						"explanation": "Some color palettes and specific sign placements varied slightly between regions.",
+						"question": "In the Japanese version of the game, what was different about the neon signs?",
+						"wrong": [
+							"They were moving",
+							"They were of Zelda characters",
+							"There were no signs"
+						]
+					},
+					{
+						"correct": "2000 meters",
+						"difficulty": "Hard",
+						"explanation": "It is the only track in Mario Kart 64 that exceeds the 2km mark.",
+						"question": "What is the total length of the track in meters (according to game files)?",
+						"wrong": [
+							"500 meters",
+							"1000 meters",
+							"5000 meters"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_rainbow_road",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Rainbow Road",
+				"lore_desc": "The longest and most vibrant racetrack in Mario Kart 64, suspended in space.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Track",
+					"Dangerous"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Right Hand",
+						"difficulty": "Easy",
+						"explanation": "Master Hand is always the right hand; his counterpart, Crazy Hand, wasn't introduced until the sequel.",
+						"question": "In the original Super Smash Bros., which hand is the final boss?",
+						"wrong": [
+							"The Left Hand",
+							"Both Hands",
+							"A Giant Foot"
+						]
+					},
+					{
+						"correct": "Final Destination",
+						"difficulty": "Easy",
+						"explanation": "Final Destination is a flat stage with no platforms, designed for a fair one-on-one fight.",
+						"question": "What is the name of the final stage where you fight Master Hand?",
+						"wrong": [
+							"Battlefield",
+							"Metal Cave",
+							"The Void"
+						]
+					},
+					{
+						"correct": "Cracks his knuckles",
+						"difficulty": "Easy",
+						"explanation": "The iconic knuckle-cracking animation starts every encounter with the hand.",
+						"question": "What does Master Hand do at the beginning of the fight to indicate he is ready?",
+						"wrong": [
+							"Points at you",
+							"Claps",
+							"Waves"
+						]
+					},
+					{
+						"correct": "HP Bar",
+						"difficulty": "Easy",
+						"explanation": "Master Hand was the first character in the series to use a traditional numerical HP bar.",
+						"question": "Instead of a damage percentage, what does Master Hand have to indicate his health?",
+						"wrong": [
+							"Stamina",
+							"Stock",
+							"Time Limit"
+						]
+					},
+					{
+						"correct": "A child playing with toys",
+						"difficulty": "Easy",
+						"explanation": "The intro implies the characters are toys brought to life by the imagination of a child (represented by the hand).",
+						"question": "What is Master Hand's role in the game's opening cutscene?",
+						"wrong": [
+							"A god creating planets",
+							"A magician",
+							"A giant statue"
+						]
+					},
+					{
+						"correct": "Rocket Punch",
+						"difficulty": "Medium",
+						"explanation": "Master Hand retreats into the 'Z-axis' before launching a powerful punch at the player.",
+						"question": "Which attack involves Master Hand flying into the background and then flying forward to punch?",
+						"wrong": [
+							"Finger Gun",
+							"Slap",
+							"The Drill"
+						]
+					},
+					{
+						"correct": "300",
+						"difficulty": "Medium",
+						"explanation": "The HP of the boss scales with the chosen difficulty level.",
+						"question": "How many HP does Master Hand have on the 'Normal' difficulty setting in the N64 version?",
+						"wrong": [
+							"100",
+							"200",
+							"500"
+						]
+					},
+					{
+						"correct": "Finger Gun",
+						"difficulty": "Medium",
+						"explanation": "He can fire two or three shots from his fingertips that track the player.",
+						"question": "What move does Master Hand use where he points his fingers like a pistol and fires energy?",
+						"wrong": [
+							"Laser Pointer",
+							"Spark Shot",
+							"Bullet Finger"
+						]
+					},
+					{
+						"correct": "The Slap",
+						"difficulty": "Medium",
+						"explanation": "Commonly referred to as the 'Slap' or 'Crush', it deals massive damage and knockback.",
+						"question": "When Master Hand flies high into the air and comes crashing down flat, what is the move called?",
+						"wrong": [
+							"The Crush",
+							"The Flatten",
+							"The Pancake"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Medium",
+						"explanation": "Master Hand is strictly a non-playable boss in the N64 original.",
+						"question": "Can you play as Master Hand in the original N64 Super Smash Bros. without cheats?",
+						"wrong": [
+							"Yes",
+							"Only in Training",
+							"Only after 100 wins"
+						]
+					},
+					{
+						"correct": "The Drill",
+						"difficulty": "Hard",
+						"explanation": "The Drill is one of his most dangerous moves, hitting multiple times.",
+						"question": "What attack involves Master Hand closing his fist and spinning rapidly like a top?",
+						"wrong": [
+							"The Cyclone",
+							"Spinning Top",
+							"Fist Tornado"
+						]
+					},
+					{
+						"correct": "Creation",
+						"difficulty": "Hard",
+						"explanation": "Master Hand represents the creative spark, while his later-introduced twin, Crazy Hand, represents destruction.",
+						"question": "In the game's lore, what is Master Hand said to represent?",
+						"wrong": [
+							"Destruction",
+							"Order",
+							"Chaos"
+						]
+					},
+					{
+						"correct": "Nothing",
+						"difficulty": "Hard",
+						"explanation": "Unlike later games where he might interact with items, the N64 Master Hand relies entirely on his own physical attacks.",
+						"question": "Which specific item from the game can Master Hand sometimes 'throw' at you during the fight?",
+						"wrong": [
+							"Bob-ombs",
+							"Pokeballs",
+							"Hammers"
+						]
+					},
+					{
+						"correct": "He dissolves into light",
+						"difficulty": "Hard",
+						"explanation": "Upon defeat, the hand turns white and fades away as the screen transitions to the ending.",
+						"question": "What happens to Master Hand's body when he reaches 0 HP?",
+						"wrong": [
+							"He falls off the stage",
+							"He explodes",
+							"He turns into a trophy"
+						]
+					},
+					{
+						"correct": "Boss_Laugh",
+						"difficulty": "Hard",
+						"explanation": "Master Hand has a very distinct, deep, booming laugh that triggers during certain attacks.",
+						"question": "What is the name of the sound file used for Master Hand's laugh?",
+						"wrong": [
+							"Hand_Giggle",
+							"Evil_Chuckle",
+							"Master_Voice"
+						]
+					}
+				]
+			},
+			"id": "n64_classics_master_hand",
+			"meta": {
+				"date_added": "2026-03-13",
+				"entity_category": "Theme Item",
+				"full_title": "Master Hand",
+				"lore_desc": "The mysterious, disembodied right hand that serves as the final arbiter of the Smash Bros. tournament.",
+				"theme_origin": "n64 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Entity",
+					"Creator"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -51553,19 +54318,6 @@
 			]
 		},
 		{
-			"id": "pokopia",
-			"synergies": [
-				{
-					"bonus": 2000.0,
-					"items": [
-						"Mew",
-						"Mewtwo"
-					],
-					"name": "Clone"
-				}
-			]
-		},
-		{
 			"id": "dragon age origins",
 			"synergies": [
 				{
@@ -51747,6 +54499,74 @@
 						"Villager"
 					],
 					"name": "F.L.U.D.D. & Hose"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mario",
+						"Bowser",
+						"Peach's Castle"
+					],
+					"name": "Super Mario 64"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Link",
+						"Master Sword",
+						"Epona"
+					],
+					"name": "Ocarina of Time"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Link",
+						"Master Sword"
+					],
+					"name": "Hero Of Time"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mario",
+						"Pikachu",
+						"Master Hand"
+					],
+					"name": "Super Smash Bros"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mario",
+						"Donkey Kong",
+						"Rainbow Road"
+					],
+					"name": "Mario Kart 64"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Fox McCloud",
+						"Arwing"
+					],
+					"name": "Do a Barrel Roll!"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Link",
+						"Majora's Mask"
+					],
+					"name": "A Terrible Fate"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mario",
+						"Donkey Kong"
+					],
+					"name": "Original Arcade Rivals"
 				}
 			]
 		},
@@ -52170,6 +54990,174 @@
 					"name": "Grant Us Eyes!"
 				}
 			]
+		},
+		{
+			"id": "n64 classics",
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Banjo and Kazooie",
+						"Gruntilda"
+					],
+					"name": "Spiral Mountain Rivalry"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Golden Gun",
+						"Fox McCloud"
+					],
+					"name": "License to Kill"
+				}
+			]
 		}
 	],
+	"titles": {
+		"64_Bit_Legend": {
+			"color": "#ffcc00",
+			"icon": "res://icons/game-controller-bold.png",
+			"text": "64-Bit Legend"
+		},
+		"archivist": {
+			"color": "#4da6ff",
+			"icon": "res://icons/book-open-bold.png",
+			"text": "Archivist"
+		},
+		"blue_blur": {
+			"color": "#0088ff",
+			"icon": "res://icons/lightning-bold.png",
+			"text": "Blue Blur"
+		},
+		"bounty_hunter": {
+			"color": "#ff6600",
+			"icon": "res://icons/crosshair-bold.png",
+			"text": "Bounty Hunter"
+		},
+		"chosen_undead": {
+			"color": "#ffaa00",
+			"icon": "res://icons/fire-bold.png",
+			"text": "Chosen Undead"
+		},
+		"collector": {
+			"color": "#00ffff",
+			"icon": "res://icons/book-open-bold.png",
+			"text": "Collector"
+		},
+		"completionist": {
+			"color": "#ffd700",
+			"icon": "res://icons/medal-bold.png",
+			"text": "Completionist"
+		},
+		"cyber_merc": {
+			"color": "#00ffff",
+			"icon": "res://icons/crosshair-bold.png",
+			"text": "Cyber Merc"
+		},
+		"daily_legend": {
+			"color": "#ff00ff",
+			"icon": "res://icons/crown-bold.png",
+			"text": "Daily Legend"
+		},
+		"dedicated": {
+			"color": "#00ff00",
+			"icon": "res://icons/fire-bold.png",
+			"text": "Dedicated"
+		},
+		"doom_slayer": {
+			"color": "#ff0000",
+			"icon": "res://icons/crosshair-bold.png",
+			"text": "Doom Slayer"
+		},
+		"flawless": {
+			"color": "#00ffcc",
+			"icon": "res://icons/star-bold.png",
+			"text": "Flawless"
+		},
+		"godlike": {
+			"color": "#ff00ff",
+			"icon": "res://icons/lightning-bold.png",
+			"text": "Godlike"
+		},
+		"high_scorer": {
+			"color": "#ff0000",
+			"icon": "res://icons/shooting-star-bold.png",
+			"text": "High Scorer"
+		},
+		"jumpman": {
+			"color": "#e52521",
+			"icon": "res://icons/star-bold.png",
+			"text": "Jumpman"
+		},
+		"lone_wanderer": {
+			"color": "#ffaa00",
+			"icon": "res://icons/globe-bold.png",
+			"text": "Lone Wanderer"
+		},
+		"player_one": {
+			"color": "#aaaaaa",
+			"icon": "res://icons/user-bold.png",
+			"text": "Player One"
+		},
+		"smasher": {
+			"color": "#ffcc00",
+			"icon": "res://icons/medal-bold.png",
+			"text": "Smasher"
+		},
+		"snake": {
+			"color": "#4444ff",
+			"icon": "res://icons/shield-bold.png",
+			"text": "Tactical Espionage"
+		},
+		"soldier": {
+			"color": "#00ffaa",
+			"icon": "res://icons/sword-bold.png",
+			"text": "SOLDIER 1st Class"
+		},
+		"spartan": {
+			"color": "#228b22",
+			"icon": "res://icons/shield-bold.png",
+			"text": "Spartan-117"
+		},
+		"supporter": {
+			"color": "#ffd700",
+			"icon": "res://icons/crown-bold.png",
+			"text": "Supporter"
+		},
+		"survivor": {
+			"color": "#ff3333",
+			"icon": "res://icons/flask-bold.png",
+			"text": "Survivor"
+		},
+		"test_subject": {
+			"color": "#ff4d4d",
+			"icon": "res://icons/flask-bold.png",
+			"text": "Test Subject"
+		},
+		"time_traveler": {
+			"color": "#00ffff",
+			"icon": "res://icons/globe-bold.png",
+			"text": "Time Traveler"
+		},
+		"trickster": {
+			"color": "#ff0000",
+			"icon": "res://icons/star-bold.png",
+			"text": "Trickster"
+		},
+		"unstoppable": {
+			"color": "#ffaa00",
+			"icon": "res://icons/lightning-bold.png",
+			"text": "Unstoppable"
+		},
+		"veteran": {
+			"color": "#aaaaaa",
+			"icon": "res://icons/shield-bold.png",
+			"text": "Veteran"
+		},
+		"would_you_kindly": {
+			"color": "#00ffcc",
+			"icon": "res://icons/anchor-bold.png",
+			"text": "Would You Kindly?"
+		}
+	}
 }
