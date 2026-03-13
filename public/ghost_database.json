@@ -1,5 +1,17 @@
 {
 	"app_themes": {
+		"Project_Reality": {
+			"accent": "#0033ff",
+			"bg": "#111111",
+			"border": "#888888",
+			"danger": "#ff0000",
+			"name": "Project Reality",
+			"panel": "#222222",
+			"success": "#00cc00",
+			"text_dim": "#aaaaaa",
+			"text_main": "#ffffff",
+			"warning": "#ffcc00"
+		},
 		"aperture": {
 			"accent": "#ff8c00",
 			"bg": "#e2e2e2",
@@ -54969,7 +54981,7 @@
 					"name": "Spiral Mountain Rivalry"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Golden Gun",
 						"Fox McCloud"
@@ -54980,6 +54992,11 @@
 		}
 	],
 	"titles": {
+		"64_Bit_Legend": {
+			"color": "#ffcc00",
+			"icon": "res://icons/game-controller-bold.png",
+			"text": "64-Bit Legend"
+		},
 		"archivist": {
 			"color": "#4da6ff",
 			"icon": "res://icons/book-open-bold.png",
