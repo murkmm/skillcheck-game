@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773271675,
+	"last_updated": 1773442355,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2061,6 +2061,49 @@
 				"bloodborne_blood_echoes",
 				"bloodborne_moon_presence",
 				"bloodborne_messengers"
+			]
+		},
+		"2026-03-14": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "N64 Classics",
+			"share_text": "Blew on the cartridge, installed the Expansion Pak, and didn't drop a single polygon!",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"n64_classics_mario",
+				"n64_classics_link",
+				"n64_classics_banjo_and_kazooie"
+			],
+			"starters": [
+				"n64_classics_link",
+				"n64_classics_mario",
+				"n64_classics_fox_mccloud",
+				"n64_classics_banjo_and_kazooie",
+				"n64_classics_donkey_kong",
+				"n64_classics_pikachu",
+				"n64_classics_master_sword",
+				"n64_classics_peach's_castle",
+				"n64_classics_arwing",
+				"n64_classics_golden_gun",
+				"n64_classics_majora's_mask",
+				"n64_classics_bowser",
+				"n64_classics_gruntilda",
+				"n64_classics_epona",
+				"n64_classics_rainbow_road",
+				"n64_classics_master_hand"
 			]
 		}
 	}
