@@ -1,9 +1,0 @@
-# Ignore Godot Game Files
-public/play/
-public/lemon.js
-/public/
-
-# Ignore Build Artifacts
-dist/
-node_modules/
-.astro/
