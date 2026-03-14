@@ -1,11 +1,5 @@
 /*
-  Cross-Origin-Embedder-Policy: credentialless
-  Cross-Origin-Opener-Policy: same-origin
   Content-Security-Policy: frame-src 'self' https: http://localhost:4321;
-
-/play/*
-  Cross-Origin-Embedder-Policy: credentialless
-  Cross-Origin-Opener-Policy: same-origin
 
 /play/*.wasm
   Content-Encoding: gzip
