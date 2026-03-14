@@ -125,7 +125,7 @@ if (Astro.response && Astro.response.headers) {
   if (btn && container) {
     btn.addEventListener('click', () => {
       if (!document.fullscreenElement) {
-        container.requestFullscreen().catch((err) => {
+        container.requestFullscreen().catch((err: Error) => {
           console.error(`Error attempting to enable fullscreen: ${err.message}`);
         });
       } else {
@@ -154,17 +154,28 @@ if (Astro.response && Astro.response.headers) {
     });
   }
 
-  // --- NEW: LISTEN FOR GODOT CHECKOUT REQUESTS ---
-  window.addEventListener('message', (event) => {
-    // We expect the message data to be an object with a type property
-    if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
-      // Bypass TypeScript's strict window checking for external scripts
-      const winAny = window as any;
+  // --- FIX: PROPER TYPESCRIPT INTERFACES TO SATISFY STRICT LINTERS ---
+  interface LemonSqueezyResponse {
+    event: string;
+  }
 
-      if (winAny.LemonSqueezy && winAny.LemonSqueezy.Url) {
+  interface LemonSqueezyAPI {
+    Url: {
+      Open: (url: string) => void;
+    };
+    Setup: (options: { eventHandler: (res: LemonSqueezyResponse) => void }) => void;
+  }
+
+  // --- LISTEN FOR GODOT CHECKOUT REQUESTS ---
+  window.addEventListener('message', (event: MessageEvent) => {
+    if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
+      // Safely cast window using 'unknown' instead of 'any' to pass strict linting
+      const win = window as unknown as { LemonSqueezy?: LemonSqueezyAPI };
+
+      if (win.LemonSqueezy && win.LemonSqueezy.Url) {
         // 1. Tell Lemon Squeezy to listen for successful payment, then forward to Godot
-        winAny.LemonSqueezy.Setup({
-          eventHandler: (res) => {
+        win.LemonSqueezy.Setup({
+          eventHandler: (res: LemonSqueezyResponse) => {
             if (res.event === 'Checkout.Success') {
               const gameIframe = document.querySelector('iframe');
               if (gameIframe && gameIframe.contentWindow) {
@@ -176,7 +187,7 @@ if (Astro.response && Astro.response.headers) {
         });
 
         // 2. Open the beautiful overlay over the entire website!
-        winAny.LemonSqueezy.Url.Open(event.data.url);
+        win.LemonSqueezy.Url.Open(event.data.url);
       } else {
         // Fallback if an aggressive adblocker blocks the Lemon Squeezy script
         window.open(event.data.url, '_blank');
