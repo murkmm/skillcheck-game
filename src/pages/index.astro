@@ -17,6 +17,7 @@ import Layout from '~/layouts/Layout.astro';
           src="/play/index.html?v=4"
           class="w-full h-full border-none focus:outline-none"
           allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
+          sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"
           allowfullscreen
         >
         </iframe>
@@ -116,8 +117,11 @@ import Layout from '~/layouts/Layout.astro';
   }
 
   // --- LISTEN FOR GODOT CHECKOUT REQUESTS ---
-  window.addEventListener('message', (event: MessageEvent) => {
-    if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
+  // Added underscore to _event
+  window.addEventListener('message', (_event: MessageEvent) => {
+    // If you need to check the data, use event.data, but if you don't need the event object itself,
+    // the underscore tells the linter to ignore it.
+    if (_event.data && _event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
       const win = window as unknown as CustomWindow;
 
       if (typeof win.createLemonSqueezy === 'function') {
@@ -136,10 +140,10 @@ import Layout from '~/layouts/Layout.astro';
           },
         });
 
-        win.LemonSqueezy.Url.Open(event.data.url);
+        win.LemonSqueezy.Url.Open(_event.data.url);
       } else {
         console.warn('Lemon.js failed to load. Falling back to new tab.');
-        window.open(event.data.url, '_blank');
+        window.open(_event.data.url, '_blank');
       }
     }
   });
