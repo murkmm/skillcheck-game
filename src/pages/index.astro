@@ -77,28 +77,24 @@ import Layout from '~/layouts/Layout.astro';
 </Layout>
 
 <script>
-  // Handle Service Worker
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.getRegistrations().then((registrations) => {
-      for (const registration of registrations) {
-        registration.unregister();
-      }
-    });
-  }
+  // This listener waits for the Godot iframe to say "Hey, open payment!"
+  window.addEventListener('message', (event) => {
+    if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
+      const win = window as any; // Allow access to LemonSqueezy global
 
-  // Fullscreen logic
-  const btn = document.getElementById('fullscreen-btn');
-  const container = document.getElementById('game-container');
-  if (btn && container) {
-    btn.addEventListener('click', () => {
-      if (!document.fullscreenElement) {
-        container.requestFullscreen();
+      // Ensure the script is initialized
+      if (typeof win.createLemonSqueezy === 'function') {
+        win.createLemonSqueezy();
+      }
+
+      if (win.LemonSqueezy && win.LemonSqueezy.Url) {
+        // This opens the NATIVE overlay over your website, NOT inside the iframe.
+        // Because it's on the parent window, CORP/COEP does not block it.
+        win.LemonSqueezy.Url.Open(event.data.url);
       } else {
-        document.exitFullscreen();
+        console.warn('Lemon.js not ready, falling back to tab.');
+        window.open(event.data.url, '_blank');
       }
-    });
-  }
-
-  // Note: We no longer need the LemonSqueezy listener here
-  // because Godot is forcing the top window to navigate directly.
+    }
+  });
 </script>
