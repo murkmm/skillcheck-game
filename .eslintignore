@@ -1,5 +1,7 @@
 # Ignore Godot Game Files
 public/play/
+public/lemon.js
+/public/
 
 # Ignore Build Artifacts
 dist/

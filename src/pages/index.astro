@@ -3,15 +3,13 @@ import Layout from '~/layouts/Layout.astro';
 ---
 
 <Layout metadata={{ title: 'Skill Check - Play Now' }}>
-  <!-- 1. FIX: Official Lemon Squeezy App Script -->
-  <script is:inline src="https://app.lemonsqueezy.com/js/lemon.js" defer></script>
+  <!-- 1. Hosted locally to bypass COEP/CORP issues -->
+  <script is:inline src="/lemon.js" defer></script>
 
   <main
     class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#050508] md:relative md:min-h-screen md:z-auto md:py-8 overflow-hidden md:overflow-auto"
   >
-    <!-- THE GAME -->
     <div id="game-container" class="relative w-full h-full md:h-[85vh] md:max-w-[450px] mx-auto shrink-0">
-      <!-- INNER WRAPPER -->
       <div
         class="w-full h-full bg-[#0a0a0c] md:rounded-2xl overflow-hidden shadow-[0_0_40px_rgba(0,0,0,0.8)] border border-transparent md:border-[#2a2a35]"
       >
@@ -24,7 +22,6 @@ import Layout from '~/layouts/Layout.astro';
         </iframe>
       </div>
 
-      <!-- FULLSCREEN BUTTON -->
       <button
         id="fullscreen-btn"
         class="absolute -right-40 bottom-0 z-50 px-4 py-3 bg-[#151518] hover:bg-cyan-600 text-white rounded-xl transition-all duration-300 hidden md:flex items-center gap-2 border border-[#2a2a35] shadow-lg"
@@ -65,7 +62,6 @@ import Layout from '~/layouts/Layout.astro';
       </button>
     </div>
 
-    <!-- FOOTER LINKS -->
     <div class="hidden md:flex md:static md:flex-wrap justify-center gap-6 text-sm text-slate-500 mt-6 shrink-0">
       <a href="/terms" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-400 transition">Terms of Use</a>
       <a href="/privacy" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-400 transition"
@@ -76,63 +72,33 @@ import Layout from '~/layouts/Layout.astro';
       >
       <a href="mailto:support@ki10games.com" class="hover:text-cyan-400 transition">Contact Support</a>
     </div>
-
-    <!-- SEO / ABOUT -->
-    <section class="hidden md:block max-w-4xl mx-auto text-slate-400 mt-12 px-6 pb-24 text-left shrink-0">
-      <h1 class="text-3xl font-bold text-white mb-4">About Skill Check</h1>
-      <p class="mb-6 leading-relaxed">
-        Skill Check is a daily retro-themed trivia and deckbuilding game. Test your video game knowledge, discover
-        secret cartridge synergies, and compete on the global daily leaderboards.
-      </p>
-    </section>
   </main>
 </Layout>
 
 <script>
+  // Handle Service Worker
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.getRegistrations().then(function (registrations) {
+    navigator.serviceWorker.getRegistrations().then((registrations) => {
       for (const registration of registrations) {
         registration.unregister();
-        console.log('Assassinated old Service Worker!');
       }
     });
   }
 
+  // Fullscreen logic
   const btn = document.getElementById('fullscreen-btn');
   const container = document.getElementById('game-container');
-  const iconMax = document.getElementById('icon-max');
-  const iconMin = document.getElementById('icon-min');
-  const textSpan = document.getElementById('fullscreen-text');
-
   if (btn && container) {
     btn.addEventListener('click', () => {
       if (!document.fullscreenElement) {
-        container.requestFullscreen().catch((err: Error) => {
-          console.error(`Error attempting to enable fullscreen: ${err.message}`);
-        });
+        container.requestFullscreen();
       } else {
         document.exitFullscreen();
       }
     });
-
-    document.addEventListener('fullscreenchange', () => {
-      if (document.fullscreenElement) {
-        iconMax?.classList.add('hidden');
-        iconMin?.classList.remove('hidden');
-        btn.classList.remove('-right-40', 'bottom-0', 'bg-[#151518]');
-        btn.classList.add('right-6', 'bottom-6', 'bg-black/50');
-        if (textSpan) textSpan.innerText = 'EXIT';
-      } else {
-        iconMax?.classList.remove('hidden');
-        iconMin?.classList.add('hidden');
-        btn.classList.remove('right-6', 'bottom-6', 'bg-black/50');
-        btn.classList.add('-right-40', 'bottom-0', 'bg-[#151518]');
-        if (textSpan) textSpan.innerText = 'FULLSCREEN';
-      }
-    });
   }
 
-  // --- FIX: STRICT TYPESCRIPT INTERFACES ---
+  // --- Payment Interop ---
   interface LemonSqueezyResponse {
     event: string;
   }
@@ -152,28 +118,24 @@ import Layout from '~/layouts/Layout.astro';
   // --- LISTEN FOR GODOT CHECKOUT REQUESTS ---
   window.addEventListener('message', (event: MessageEvent) => {
     if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
-      // Safely cast window using our custom interface
       const win = window as unknown as CustomWindow;
 
-      // CRITICAL FIX: You MUST initialize the library before opening it natively
       if (typeof win.createLemonSqueezy === 'function') {
         win.createLemonSqueezy();
       }
 
       if (win.LemonSqueezy && win.LemonSqueezy.Url) {
-        // Listen for the successful payment event
         win.LemonSqueezy.Setup({
           eventHandler: (res: LemonSqueezyResponse) => {
             if (res.event === 'Checkout.Success') {
               const gameIframe = document.querySelector('iframe');
-              if (gameIframe && gameIframe.contentWindow) {
+              if (gameIframe?.contentWindow) {
                 gameIframe.contentWindow.postMessage('payment_success', '*');
               }
             }
           },
         });
 
-        // Open the overlay securely!
         win.LemonSqueezy.Url.Open(event.data.url);
       } else {
         console.warn('Lemon.js failed to load. Falling back to new tab.');
