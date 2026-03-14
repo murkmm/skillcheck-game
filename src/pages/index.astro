@@ -100,8 +100,9 @@ import Layout from '~/layouts/Layout.astro';
   }
 
   // --- LISTEN FOR GODOT CHECKOUT REQUESTS ---
-  window.addEventListener('message', (event: MessageEvent) => {
-    if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
+  window.addEventListener('message', (_event: MessageEvent) => {
+    // Check if the data is what we expect
+    if (_event.data && _event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const win = window as any;
 
@@ -110,8 +111,8 @@ import Layout from '~/layouts/Layout.astro';
       }
 
       if (win.LemonSqueezy && win.LemonSqueezy.Url) {
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         win.LemonSqueezy.Setup({
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
           eventHandler: (res: any) => {
             if (res.event === 'Checkout.Success') {
               const gameIframe = document.querySelector('iframe');
@@ -122,9 +123,14 @@ import Layout from '~/layouts/Layout.astro';
           },
         });
 
-        win.LemonSqueezy.Url.Open(event.data.url);
+        win.LemonSqueezy.Url.Open(_event.data.url);
       } else {
-        window.open(event.data.url, '_blank');
+        // Fallback: Force a top-level redirect if the overlay/script fails
+        if (window.top) {
+          window.top.location.href = _event.data.url;
+        } else {
+          window.location.href = _event.data.url;
+        }
       }
     }
   });
