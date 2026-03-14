@@ -10,7 +10,7 @@ if (Astro.response && Astro.response.headers) {
 
 <Layout metadata={{ title: 'Skill Check - Play Now' }}>
   <!-- LEMON SQUEEZY SCRIPT (is:inline prevents Astro from bundling it) -->
-  <script is:inline src="https://assets.lemonsqueezy.com/lemon.js" defer></script>
+  <script is:inline src="https://assets.lemonsqueezy.com/lemon.js" crossorigin="anonymous" defer></script>
 
   <main
     class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#050508] md:relative md:min-h-screen md:z-auto md:py-8 overflow-hidden md:overflow-auto"
