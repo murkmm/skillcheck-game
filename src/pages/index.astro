@@ -116,6 +116,18 @@ if (Astro.response && Astro.response.headers) {
 </Layout>
 
 <script>
+  // --- FIX: SERVICE WORKER ASSASSIN (ESLint Safe) ---
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(function (registrations) {
+      // Changed "let" to "const" to make the linter happy!
+      for (const registration of registrations) {
+        registration.unregister();
+        console.log('Assassinated old Service Worker!');
+      }
+    });
+  }
+
+  // --- EXISTING FULLSCREEN CODE ---
   const btn = document.getElementById('fullscreen-btn');
   const container = document.getElementById('game-container');
   const iconMax = document.getElementById('icon-max');
