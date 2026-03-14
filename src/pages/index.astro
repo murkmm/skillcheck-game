@@ -4,7 +4,6 @@ import Layout from '~/layouts/Layout.astro';
 
 <Layout metadata={{ title: 'Skill Check - Play Now' }}>
   <!-- Hosted locally to bypass COEP/CORP issues -->
-  <script is:inline src="/lemon.js" defer></script>
 
   <main
     class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#050508] md:relative md:min-h-screen md:z-auto md:py-8 overflow-hidden md:overflow-auto"
@@ -51,34 +50,20 @@ import Layout from '~/layouts/Layout.astro';
 </Layout>
 
 <script>
-  // 1. RELAY: Listen for checkout trigger from Godot Iframe
   window.addEventListener('message', (event) => {
+    // 1. RELAY: Godot asked us to open the checkout
     if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
-      const win = window as any;
+      console.log('[ASTRO] Opening Lemon Squeezy in a new tab...');
 
-      if (typeof win.createLemonSqueezy === 'function') {
-        win.createLemonSqueezy();
-      }
-
-      if (win.LemonSqueezy && win.LemonSqueezy.Url) {
-        win.LemonSqueezy.Setup({
-          eventHandler: (res: any) => {
-            if (res.event === 'Checkout.Success') {
-              const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement;
-              if (gameIframe?.contentWindow) {
-                gameIframe.contentWindow.postMessage('payment_success', '*');
-              }
-            }
-          },
-        });
-        win.LemonSqueezy.Url.Open(event.data.url);
-      } else {
-        window.open(event.data.url, '_blank');
-      }
+      // Force a native new tab. No overlay!
+      window.open(event.data.url, '_blank');
     }
 
-    // 2. RELAY: Listen for success message from your success.html page
+    // 2. RELAY: The success.html page in the new tab just pinged us!
     if (event.data === 'payment_success') {
+      console.log('[ASTRO] Payment success received from new tab! Telling Godot...');
+
+      // Pass the message down into the Godot iframe
       const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement;
       if (gameIframe?.contentWindow) {
         gameIframe.contentWindow.postMessage('payment_success', '*');
