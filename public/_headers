@@ -1,6 +1,7 @@
 /*
   Cross-Origin-Embedder-Policy: unsafe-none
   Cross-Origin-Opener-Policy: unsafe-none
+  Content-Security-Policy: frame-src 'self' https://app.lemonsqueezy.com https://assets.lemonsqueezy.com;
 
 /play/*
   Cross-Origin-Embedder-Policy: unsafe-none

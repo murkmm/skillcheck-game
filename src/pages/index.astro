@@ -10,24 +10,27 @@ if (Astro.response && Astro.response.headers) {
 
 <Layout metadata={{ title: 'Skill Check - Play Now' }}>
   <main
-    class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#0e0e11] md:relative md:min-h-screen md:z-auto md:py-8 overflow-hidden md:overflow-auto"
+    class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#050508] md:relative md:min-h-screen md:z-auto md:py-8 overflow-hidden md:overflow-auto"
   >
     <!-- THE GAME -->
-    <div
-      id="game-container"
-      class="game-wrapper relative group w-full h-full md:h-auto md:aspect-video md:max-h-[85vh] md:max-w-[calc(85vh*1.778)] bg-[#0e0e11] mx-auto shrink-0"
-    >
-      <iframe
-        src="/play/index.html?v=3"
-        class="w-full h-full border-none focus:outline-none"
-        allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
-        allowfullscreen
+    <div id="game-container" class="relative w-full h-full md:h-[85vh] md:max-w-[450px] mx-auto shrink-0">
+      <!-- INNER WRAPPER (Handles the border, shadow, and clipping) -->
+      <div
+        class="w-full h-full bg-[#0a0a0c] md:rounded-2xl overflow-hidden shadow-[0_0_40px_rgba(0,0,0,0.8)] border border-transparent md:border-[#2a2a35]"
       >
-      </iframe>
+        <iframe
+          src="/play/index.html?v=4"
+          class="w-full h-full border-none focus:outline-none"
+          allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
+          allowfullscreen
+        >
+        </iframe>
+      </div>
 
+      <!-- FULLSCREEN BUTTON (Floats outside on the right!) -->
       <button
         id="fullscreen-btn"
-        class="absolute bottom-4 right-4 z-50 p-2 bg-black/50 hover:bg-blue-600 text-white rounded-lg backdrop-blur-sm transition-all duration-300 opacity-50 hover:opacity-100 hidden md:flex items-center gap-2 border border-white/10"
+        class="absolute -right-40 bottom-0 z-50 px-4 py-3 bg-[#151518] hover:bg-cyan-600 text-white rounded-xl transition-all duration-300 hidden md:flex items-center gap-2 border border-[#2a2a35] shadow-lg"
         title="Toggle Fullscreen"
       >
         <svg
@@ -61,17 +64,20 @@ if (Astro.response && Astro.response.headers) {
           <path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"
           ></path>
         </svg>
-        <span class="text-sm font-semibold pr-1">FULLSCREEN</span>
+        <span id="fullscreen-text" class="text-sm font-bold tracking-wider">FULLSCREEN</span>
       </button>
     </div>
 
     <!-- FOOTER LINKS (Hidden on Mobile) -->
-    <div class="hidden md:flex md:static md:flex-wrap justify-center gap-6 text-sm text-slate-500 mt-8 shrink-0">
-      <a href="/terms" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Terms of Use</a>
-      <a href="/privacy" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Privacy Policy</a
+    <div class="hidden md:flex md:static md:flex-wrap justify-center gap-6 text-sm text-slate-500 mt-6 shrink-0">
+      <a href="/terms" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-400 transition">Terms of Use</a>
+      <a href="/privacy" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-400 transition"
+        >Privacy Policy</a
       >
-      <a href="/refunds" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">Refund Policy</a>
-      <a href="mailto:support@ki10games.com" class="hover:text-white transition">Contact Support</a>
+      <a href="/refunds" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-400 transition"
+        >Refund Policy</a
+      >
+      <a href="mailto:support@ki10games.com" class="hover:text-cyan-400 transition">Contact Support</a>
     </div>
 
     <!-- SEO / ADSENSE APPROVAL TEXT (Hidden on Mobile, Visible on Desktop) -->
@@ -111,6 +117,7 @@ if (Astro.response && Astro.response.headers) {
   const container = document.getElementById('game-container');
   const iconMax = document.getElementById('icon-max');
   const iconMin = document.getElementById('icon-min');
+  const textSpan = document.getElementById('fullscreen-text');
 
   if (btn && container) {
     btn.addEventListener('click', () => {
@@ -127,11 +134,19 @@ if (Astro.response && Astro.response.headers) {
       if (document.fullscreenElement) {
         iconMax?.classList.add('hidden');
         iconMin?.classList.remove('hidden');
-        btn.classList.add('bg-black/0');
+
+        // Fullscreen Mode: Move button INSIDE the screen to the bottom right
+        btn.classList.remove('-right-40', 'bottom-0', 'bg-[#151518]');
+        btn.classList.add('right-6', 'bottom-6', 'bg-black/50');
+        if (textSpan) textSpan.innerText = 'EXIT';
       } else {
         iconMax?.classList.remove('hidden');
         iconMin?.classList.add('hidden');
-        btn.classList.remove('bg-black/0');
+
+        // Windowed Mode: Move button OUTSIDE the screen, floating on the right
+        btn.classList.remove('right-6', 'bottom-6', 'bg-black/50');
+        btn.classList.add('-right-40', 'bottom-0', 'bg-[#151518]');
+        if (textSpan) textSpan.innerText = 'FULLSCREEN';
       }
     });
   }
