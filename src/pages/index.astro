@@ -99,38 +99,20 @@ import Layout from '~/layouts/Layout.astro';
     });
   }
 
-  // --- Payment Interop ---
-  interface LemonSqueezyResponse {
-    event: string;
-  }
-
-  interface LemonSqueezyAPI {
-    Url: {
-      Open: (url: string) => void;
-    };
-    Setup: (options: { eventHandler: (res: LemonSqueezyResponse) => void }) => void;
-  }
-
-  interface CustomWindow extends Window {
-    createLemonSqueezy?: () => void;
-    LemonSqueezy?: LemonSqueezyAPI;
-  }
-
   // --- LISTEN FOR GODOT CHECKOUT REQUESTS ---
-  // Added underscore to _event
-  window.addEventListener('message', (_event: MessageEvent) => {
-    // If you need to check the data, use event.data, but if you don't need the event object itself,
-    // the underscore tells the linter to ignore it.
-    if (_event.data && _event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
-      const win = window as unknown as CustomWindow;
+  window.addEventListener('message', (event: MessageEvent) => {
+    if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const win = window as any;
 
       if (typeof win.createLemonSqueezy === 'function') {
         win.createLemonSqueezy();
       }
 
       if (win.LemonSqueezy && win.LemonSqueezy.Url) {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         win.LemonSqueezy.Setup({
-          eventHandler: (res: LemonSqueezyResponse) => {
+          eventHandler: (res: any) => {
             if (res.event === 'Checkout.Success') {
               const gameIframe = document.querySelector('iframe');
               if (gameIframe?.contentWindow) {
@@ -140,10 +122,9 @@ import Layout from '~/layouts/Layout.astro';
           },
         });
 
-        win.LemonSqueezy.Url.Open(_event.data.url);
+        win.LemonSqueezy.Url.Open(event.data.url);
       } else {
-        console.warn('Lemon.js failed to load. Falling back to new tab.');
-        window.open(_event.data.url, '_blank');
+        window.open(event.data.url, '_blank');
       }
     }
   });
