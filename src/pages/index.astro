@@ -3,7 +3,7 @@ import Layout from '~/layouts/Layout.astro';
 ---
 
 <Layout metadata={{ title: 'Skill Check - Play Now' }}>
-  <!-- 1. Hosted locally to bypass COEP/CORP issues -->
+  <!-- Hosted locally to bypass COEP/CORP issues -->
   <script is:inline src="/lemon.js" defer></script>
 
   <main
@@ -14,6 +14,7 @@ import Layout from '~/layouts/Layout.astro';
         class="w-full h-full bg-[#0a0a0c] md:rounded-2xl overflow-hidden shadow-[0_0_40px_rgba(0,0,0,0.8)] border border-transparent md:border-[#2a2a35]"
       >
         <iframe
+          id="game-iframe"
           src="/play/index.html?v=4"
           class="w-full h-full border-none focus:outline-none"
           allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
@@ -43,57 +44,44 @@ import Layout from '~/layouts/Layout.astro';
           <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"
           ></path>
         </svg>
-        <svg
-          id="icon-min"
-          class="hidden"
-          xmlns="http://www.w3.org/2000/svg"
-          width="20"
-          height="20"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        >
-          <path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"
-          ></path>
-        </svg>
         <span id="fullscreen-text" class="text-sm font-bold tracking-wider">FULLSCREEN</span>
       </button>
-    </div>
-
-    <div class="hidden md:flex md:static md:flex-wrap justify-center gap-6 text-sm text-slate-500 mt-6 shrink-0">
-      <a href="/terms" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-400 transition">Terms of Use</a>
-      <a href="/privacy" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-400 transition"
-        >Privacy Policy</a
-      >
-      <a href="/refunds" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-400 transition"
-        >Refund Policy</a
-      >
-      <a href="mailto:support@ki10games.com" class="hover:text-cyan-400 transition">Contact Support</a>
     </div>
   </main>
 </Layout>
 
 <script>
-  // This listener waits for the Godot iframe to say "Hey, open payment!"
+  // 1. RELAY: Listen for checkout trigger from Godot Iframe
   window.addEventListener('message', (event) => {
     if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
-      const win = window as any; // Allow access to LemonSqueezy global
+      const win = window as any;
 
-      // Ensure the script is initialized
       if (typeof win.createLemonSqueezy === 'function') {
         win.createLemonSqueezy();
       }
 
       if (win.LemonSqueezy && win.LemonSqueezy.Url) {
-        // This opens the NATIVE overlay over your website, NOT inside the iframe.
-        // Because it's on the parent window, CORP/COEP does not block it.
+        win.LemonSqueezy.Setup({
+          eventHandler: (res: any) => {
+            if (res.event === 'Checkout.Success') {
+              const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement;
+              if (gameIframe?.contentWindow) {
+                gameIframe.contentWindow.postMessage('payment_success', '*');
+              }
+            }
+          },
+        });
         win.LemonSqueezy.Url.Open(event.data.url);
       } else {
-        console.warn('Lemon.js not ready, falling back to tab.');
         window.open(event.data.url, '_blank');
+      }
+    }
+
+    // 2. RELAY: Listen for success message from your success.html page
+    if (event.data === 'payment_success') {
+      const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement;
+      if (gameIframe?.contentWindow) {
+        gameIframe.contentWindow.postMessage('payment_success', '*');
       }
     }
   });
