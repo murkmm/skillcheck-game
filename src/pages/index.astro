@@ -1,10 +1,10 @@
 ---
 import Layout from '~/layouts/Layout.astro';
 
-// FORCE RELAXED HEADERS
+// --- FIX: USE CREDENTIALLESS TO ALLOW EXTERNAL IFRAMES ---
 if (Astro.response && Astro.response.headers) {
-  Astro.response.headers.set('Cross-Origin-Embedder-Policy', 'unsafe-none');
-  Astro.response.headers.set('Cross-Origin-Opener-Policy', 'unsafe-none');
+  Astro.response.headers.set('Cross-Origin-Embedder-Policy', 'credentialless');
+  Astro.response.headers.set('Cross-Origin-Opener-Policy', 'same-origin');
 }
 ---
 
