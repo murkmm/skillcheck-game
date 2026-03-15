@@ -56114,6 +56114,3642 @@
 					"Artifact"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cardboard Box",
+						"difficulty": "Easy",
+						"explanation": "The cardboard box is Snake's signature tool, allowing him to bypass security by blending in with cargo.",
+						"image_url": "https://skillcheckgame.com/assets/images/solid_snake.webp",
+						"question": "Which of these everyday storage items does this operative famously use to hide from guards?",
+						"wrong": [
+							"Wooden Crate",
+							"Steel Barrel",
+							"Locker"
+						]
+					},
+					{
+						"correct": "Solid Snake",
+						"difficulty": "Easy",
+						"explanation": "Solid Snake was given his code name during his time with the special forces unit FOXHOUND.",
+						"image_url": "",
+						"question": "What is the primary code name of this legendary soldier who infiltrated Shadow Moses?",
+						"wrong": [
+							"Liquid Snake",
+							"Solidus Snake",
+							"Venom Snake"
+						]
+					},
+					{
+						"correct": "Cigarettes",
+						"difficulty": "Easy",
+						"explanation": "While they slowly drain health, Snake's cigarettes are useful for spotting invisible security lasers.",
+						"image_url": "",
+						"question": "Which addictive item does Snake carry that can reveal infrared laser beams with its smoke?",
+						"wrong": [
+							"Cigar",
+							"Pipe",
+							"Incense"
+						]
+					},
+					{
+						"correct": "Codec",
+						"difficulty": "Easy",
+						"explanation": "The Codec uses bone conduction to transmit sound directly to the user's inner ear.",
+						"image_url": "",
+						"question": "What communication device does Snake use to receive orders and advice from his support team?",
+						"wrong": [
+							"Radio",
+							"Walkie Talkie",
+							"Commlink"
+						]
+					},
+					{
+						"correct": "Metal Gear REX",
+						"difficulty": "Easy",
+						"explanation": "Metal Gear REX was the ultimate weapon developed on Shadow Moses Island.",
+						"image_url": "",
+						"question": "What is the name of the high-tech, bipedal nuclear tank Snake is sent to destroy?",
+						"wrong": [
+							"Metal Gear RAY",
+							"Shagohod",
+							"Peace Walker"
+						]
+					},
+					{
+						"correct": "Hal Emmerich",
+						"difficulty": "Medium",
+						"explanation": "Better known as Otacon, he becomes Snake's closest ally and moral compass.",
+						"image_url": "https://skillcheckgame.com/assets/images/solid_snake.webp",
+						"question": "Which recurring character provides Snake with technological support and is a fan of 'Japanese animation'?",
+						"wrong": [
+							"Revolver Ocelot",
+							"Roy Campbell",
+							"Donald Anderson"
+						]
+					},
+					{
+						"correct": "Nanomachines",
+						"difficulty": "Medium",
+						"explanation": "Nanomachines allow the support crew to track Snake's health and even suppress certain biological functions.",
+						"image_url": "",
+						"question": "What technology is injected into Snake's body to monitor his vitals and provide mission data?",
+						"wrong": [
+							"Microchips",
+							"Bio-Sensors",
+							"Neural Links"
+						]
+					},
+					{
+						"correct": "Liquid Snake",
+						"difficulty": "Medium",
+						"explanation": "Liquid Snake shares the same genetic material as Solid Snake, both being clones of Big Boss.",
+						"image_url": "",
+						"question": "Who is revealed to be Snake's twin brother and the leader of the terrorist uprising?",
+						"wrong": [
+							"Master Miller",
+							"Gray Fox",
+							"Vulcan Raven"
+						]
+					},
+					{
+						"correct": "David",
+						"difficulty": "Medium",
+						"explanation": "Snake reveals his real name is David at the end of the Shadow Moses incident.",
+						"image_url": "",
+						"question": "What is the real first name of Solid Snake, as revealed during a quiet moment with Meryl?",
+						"wrong": [
+							"Jack",
+							"John",
+							"Eli"
+						]
+					},
+					{
+						"correct": "Psycho Mantis",
+						"difficulty": "Medium",
+						"explanation": "Psycho Mantis broke the fourth wall by commenting on other games saved on the player's PlayStation memory card.",
+						"image_url": "",
+						"question": "Which boss uses telepathic powers to 'read' the player's memory card and move their controller?",
+						"wrong": [
+							"Decoy Octopus",
+							"Sniper Wolf",
+							"The Sorrow"
+						]
+					},
+					{
+						"correct": "Les Enfants Terribles",
+						"difficulty": "Hard",
+						"explanation": "This secret project aimed to create the perfect soldier using DNA from Big Boss.",
+						"image_url": "https://skillcheckgame.com/assets/images/solid_snake.webp",
+						"question": "What is the name of the genetic project that created Snake and his brothers?",
+						"wrong": [
+							"The Genome Project",
+							"Operation Snake Eater",
+							"The Patriots"
+						]
+					},
+					{
+						"correct": "FoxDie",
+						"difficulty": "Hard",
+						"explanation": "FoxDie was a programmed virus designed to cause heart failure in individuals with specific DNA.",
+						"image_url": "",
+						"question": "What was the name of the targeted virus Snake was unknowingly carrying to kill the members of FOXHOUND?",
+						"wrong": [
+							"FoxHound Virus",
+							"T-Virus",
+							"Shadow Moses Strain"
+						]
+					},
+					{
+						"correct": "Zanzibar Land",
+						"difficulty": "Hard",
+						"explanation": "The Zanzibar Land disturbance took place in 1999, prior to the events of the PlayStation classic.",
+						"image_url": "",
+						"question": "In the original lore, which country did Snake previously infiltrate to destroy Metal Gear D?",
+						"wrong": [
+							"Outer Heaven",
+							"Tselinoyarsk",
+							"San Hieronymo"
+						]
+					},
+					{
+						"correct": "140.15",
+						"difficulty": "Hard",
+						"explanation": "This was a famous anti-piracy and puzzle measure that forced players to check their real-world game box.",
+						"image_url": "",
+						"question": "What is the specific frequency used to contact Meryl Silverburgh, which was hidden on the back of the game's physical case?",
+						"wrong": [
+							"141.12",
+							"140.85",
+							"140.48"
+						]
+					},
+					{
+						"correct": "Revolver Ocelot",
+						"difficulty": "Hard",
+						"explanation": "Ocelot was the only member of the rogue FOXHOUND unit to survive the events of the first game.",
+						"image_url": "",
+						"question": "Which FOXHOUND member survived the Shadow Moses incident and went on to become a major series antagonist?",
+						"wrong": [
+							"Sniper Wolf",
+							"Vulcan Raven",
+							"Decoy Octopus"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_solid_snake",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Solid Snake",
+				"lore_desc": "A legendary mercenary and former member of FOXHOUND, known for his expertise in infiltration and high-stakes sabotage.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Spy",
+					"Soldier"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Buster Sword",
+						"difficulty": "Easy",
+						"explanation": "The Buster Sword was passed down to Cloud and has become his most recognizable trademark.",
+						"image_url": "https://skillcheckgame.com/assets/images/cloud_strife.webp",
+						"question": "What is the name of this massive, iconic sword that Cloud carries on his back?",
+						"wrong": [
+							"Masamune",
+							"Fusion Sword",
+							"Hardedge"
+						]
+					},
+					{
+						"correct": "SOLDIER",
+						"difficulty": "Easy",
+						"explanation": "Cloud identifies as a 'SOLDIER 1st Class,' though his true history is more complicated.",
+						"image_url": "",
+						"question": "Cloud claims to have been a member of which elite military unit within the Shinra Electric Power Company?",
+						"wrong": [
+							"The Turks",
+							"AVALANCHE",
+							"Deepground"
+						]
+					},
+					{
+						"correct": "Glowing Blue",
+						"difficulty": "Easy",
+						"explanation": "The 'Mako eyes' are a telltale sign of anyone who has undergone SOLDIER enhancement.",
+						"image_url": "",
+						"question": "What color are Cloud's eyes, a physical trait shared by all who have been exposed to high levels of Mako?",
+						"wrong": [
+							"Bright Green",
+							"Golden Yellow",
+							"Deep Red"
+						]
+					},
+					{
+						"correct": "Tifa Lockhart",
+						"difficulty": "Easy",
+						"explanation": "Tifa grew up with Cloud in Nibelheim and runs the 7th Heaven bar in Midgar.",
+						"image_url": "",
+						"question": "Which childhood friend and martial artist convinces Cloud to join the rebel group AVALANCHE?",
+						"wrong": [
+							"Aerith Gainsborough",
+							"Yuffie Kisaragi",
+							"Lucrecia Crescent"
+						]
+					},
+					{
+						"correct": "AVALANCHE",
+						"difficulty": "Easy",
+						"explanation": "AVALANCHE fights to stop Shinra from draining the planet's life force, known as Lifestream.",
+						"image_url": "",
+						"question": "What is the name of the eco-terrorist group Cloud is hired by at the start of the game?",
+						"wrong": [
+							"Shinra",
+							"Wutai",
+							"The Resistance"
+						]
+					},
+					{
+						"correct": "Omnislash",
+						"difficulty": "Medium",
+						"explanation": "Omnislash is Cloud's Level 4 Limit Break, famously used in the final confrontation with Sephiroth.",
+						"image_url": "https://skillcheckgame.com/assets/images/cloud_strife.webp",
+						"question": "Cloud's most powerful Limit Break involves a flurry of 15 consecutive sword strikes. What is it called?",
+						"wrong": [
+							"Meteorain",
+							"Blade Beam",
+							"Cross-slash"
+						]
+					},
+					{
+						"correct": "Nibelheim",
+						"difficulty": "Medium",
+						"explanation": "Nibelheim was the site of the traumatic incident that changed Cloud's life forever.",
+						"image_url": "",
+						"question": "What is the name of the mountain village where Cloud and Tifa grew up?",
+						"wrong": [
+							"Kalm",
+							"Rocket Town",
+							"Gongaga"
+						]
+					},
+					{
+						"correct": "Summon Materia",
+						"difficulty": "Medium",
+						"explanation": "Summon Materia allows the party to call forth massive entities to perform devastating attacks.",
+						"image_url": "",
+						"question": "Which powerful Materia does Cloud and his team use to call upon magical beings like Ifrit or Shiva?",
+						"wrong": [
+							"Command Materia",
+							"Magic Materia",
+							"Support Materia"
+						]
+					},
+					{
+						"correct": "Chocobo",
+						"difficulty": "Medium",
+						"explanation": "Chocobos are the primary mounts in the world and can be bred into different colors with unique abilities.",
+						"image_url": "",
+						"question": "What type of bird does Cloud help raise and race at the Gold Saucer to earn rare items?",
+						"wrong": [
+							"Moogle",
+							"Cactuar",
+							"Pampa"
+						]
+					},
+					{
+						"correct": "Zack Fair",
+						"difficulty": "Medium",
+						"explanation": "Zack Fair gave the Buster Sword to Cloud as his 'living legacy' before he died.",
+						"image_url": "",
+						"question": "Who was the previous owner of the Buster Sword and Cloud's best friend in the military?",
+						"wrong": [
+							"Angeal Hewley",
+							"Genesis Rhapsodos",
+							"Tseng"
+						]
+					},
+					{
+						"correct": "A Silk Dress",
+						"difficulty": "Hard",
+						"explanation": "In one of the game's most memorable segments, Cloud cross-dresses to rescue Tifa from the Don.",
+						"image_url": "https://skillcheckgame.com/assets/images/cloud_strife.webp",
+						"question": "During an infiltration mission in Midgar, what must Cloud wear to get inside Don Corneo's mansion?",
+						"wrong": [
+							"A Shinra Uniform",
+							"A Waiter Outfit",
+							"A Cat Suit"
+						]
+					},
+					{
+						"correct": "Infantryman",
+						"difficulty": "Hard",
+						"explanation": "Cloud was never actually a SOLDIER; he was a regular grunt who failed the entry requirements.",
+						"image_url": "",
+						"question": "What is the actual rank Cloud held while he was in the Shinra military before his memories were altered?",
+						"wrong": [
+							"3rd Class SOLDIER",
+							"Commander",
+							"Special Agent"
+						]
+					},
+					{
+						"correct": "Jenova",
+						"difficulty": "Hard",
+						"explanation": "Jenova was a 'calamity from the skies' found in geological strata and mistaken for an Ancient.",
+						"image_url": "",
+						"question": "What is the name of the alien entity whose cells were injected into Cloud and the members of SOLDIER?",
+						"wrong": [
+							"Minerva",
+							"Omega",
+							"Chaos"
+						]
+					},
+					{
+						"correct": "Mako Poisoning",
+						"difficulty": "Hard",
+						"explanation": "His heavy exposure to Mako and Jenova cells caused severe mental instability and identity confusion.",
+						"image_url": "",
+						"question": "Cloud often suffers from headaches and mental breakdowns due to what condition?",
+						"wrong": [
+							"Geostigma",
+							"Memory Loss",
+							"Post-Traumatic Stress"
+						]
+					},
+					{
+						"correct": "Sector 1 Reactor",
+						"difficulty": "Hard",
+						"explanation": "The bombing of the Sector 1 Mako Reactor is the very first mission in the game.",
+						"image_url": "",
+						"question": "In the game's opening mission, which Mako Reactor does Cloud help AVALANCHE blow up?",
+						"wrong": [
+							"Sector 5 Reactor",
+							"Sector 7 Reactor",
+							"Core Reactor"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_cloud_strife",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Cloud Strife",
+				"lore_desc": "An aloof mercenary and former member of Shinra's elite SOLDIER unit who joins the rebel group AVALANCHE to fight a corrupt mega-corporation.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Mercenary",
+					"Swordsman"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Spin Attack",
+						"difficulty": "Easy",
+						"explanation": "Crash's iconic 'Tornado Spin' allows him to defeat enemies and shatter Wumpa crates.",
+						"image_url": "https://skillcheckgame.com/assets/images/crash_bandicoot.webp",
+						"question": "What is Crash's primary method of attacking enemies and breaking crates?",
+						"wrong": [
+							"Belly Flop",
+							"Slide Kick",
+							"Double Jump"
+						]
+					},
+					{
+						"correct": "Aku Aku",
+						"difficulty": "Easy",
+						"explanation": "Aku Aku is an ancient witch doctor spirit who protects Crash from harm.",
+						"image_url": "",
+						"question": "Which levitating mask acts as Crash's guardian and protector, granting him extra hits?",
+						"wrong": [
+							"Uka Uka",
+							"Lani-Loli",
+							"Akano"
+						]
+					},
+					{
+						"correct": "Wumpa Fruit",
+						"difficulty": "Easy",
+						"explanation": "Collecting 100 Wumpa Fruits rewards Crash with an additional life.",
+						"image_url": "",
+						"question": "What is the fruit that Crash collects throughout his journey to earn extra lives?",
+						"wrong": [
+							"Apples",
+							"Mangoes",
+							"Power Berries"
+						]
+					},
+					{
+						"correct": "Dr. Neo Cortex",
+						"difficulty": "Easy",
+						"explanation": "Dr. Cortex experimented on Crash with the Evolvo-Ray to make him the general of his army.",
+						"image_url": "",
+						"question": "Who is the mad scientist responsible for creating Crash and serves as his main arch-nemesis?",
+						"wrong": [
+							"Dr. N. Gin",
+							"Dr. Nitrus Brio",
+							"Dr. Nefarious Tropy"
+						]
+					},
+					{
+						"correct": "Coco Bandicoot",
+						"difficulty": "Easy",
+						"explanation": "Coco first appeared in the sequel, helping Crash retrieve crystals from her laptop.",
+						"image_url": "",
+						"question": "What is the name of Crash's highly intelligent younger sister who often helps him with technology?",
+						"wrong": [
+							"Tawna Bandicoot",
+							"Nina Cortex",
+							"Pasadena O'Possum"
+						]
+					},
+					{
+						"correct": "TNT Crates",
+						"difficulty": "Medium",
+						"explanation": "TNT crates have a 3-second countdown if jumped on, but explode instantly if spun into.",
+						"image_url": "https://skillcheckgame.com/assets/images/crash_bandicoot.webp",
+						"question": "What kind of crates will instantly explode if Crash touches them, often requiring a careful jump?",
+						"wrong": [
+							"Nitro Crates",
+							"Iron Crates",
+							"Checkpoint Crates"
+						]
+					},
+					{
+						"correct": "Wumpa Islands",
+						"difficulty": "Medium",
+						"explanation": "The Wumpa Islands are a fictional archipelago located south of Australia.",
+						"image_url": "",
+						"question": "What is the name of the island chain where Crash's adventures primarily take place?",
+						"wrong": [
+							"N. Sanity Island",
+							"Cortex Island",
+							"Donkey Kong Island"
+						]
+					},
+					{
+						"correct": "Power Crystals",
+						"difficulty": "Medium",
+						"explanation": "Cortex tricks Crash into gathering 25 Power Crystals to 'save the planet' from solar energy.",
+						"image_url": "",
+						"question": "In the second game, what does Crash need to collect instead of just gems to progress through the Warp Room?",
+						"wrong": [
+							"Relics",
+							"Trophies",
+							"Stars"
+						]
+					},
+					{
+						"correct": "Ripper Roo",
+						"difficulty": "Medium",
+						"explanation": "Ripper Roo is known for his insane laughter and for hopping around on TNT tiles.",
+						"image_url": "",
+						"question": "Which boss is a crazed, explosive-obsessed kangaroo who is the first boss of the first game?",
+						"wrong": [
+							"Koala Kong",
+							"Pinstripe Potoroo",
+							"Tiny Tiger"
+						]
+					},
+					{
+						"correct": "Invincibility",
+						"difficulty": "Medium",
+						"explanation": "Collecting a third mask grants temporary invincibility and allows Crash to defeat enemies by just touching them.",
+						"image_url": "",
+						"question": "What happens when Crash collects three Aku Aku masks in a row without taking damage?",
+						"wrong": [
+							"Flying",
+							"Super Speed",
+							"Invisibility"
+						]
+					},
+					{
+						"correct": "The Evolvo-Ray",
+						"difficulty": "Hard",
+						"explanation": "The Evolvo-Ray was developed by Nitrus Brio to give animals human-like intelligence and strength.",
+						"image_url": "https://skillcheckgame.com/assets/images/crash_bandicoot.webp",
+						"question": "What is the name of the device Dr. Cortex uses to evolve animals into humanoid henchmen?",
+						"wrong": [
+							"The Cortex Vortex",
+							"The Psycho-Beam",
+							"The Mutator"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Hard",
+						"explanation": "Green Nitro crates are much more dangerous than TNT because they explode the moment they are touched.",
+						"image_url": "",
+						"question": "What is the color of the most dangerous crates that explode on contact and were introduced in 'Crash 2'?",
+						"wrong": [
+							"Red",
+							"Yellow",
+							"Black"
+						]
+					},
+					{
+						"correct": "Fake Crash",
+						"difficulty": "Hard",
+						"explanation": "Fake Crash is characterized by his huge eyebrows and large, goofy teeth.",
+						"image_url": "",
+						"question": "Which secret character, an evil copy of Crash, can be seen in the background of certain levels or as a boss?",
+						"wrong": [
+							"Evil Crash",
+							"Carbon Fiber Crash",
+							"Trash Bandicoot"
+						]
+					},
+					{
+						"correct": "Break every crate without dying",
+						"difficulty": "Hard",
+						"explanation": "In the original PS1 game, you had to break all crates and reach the end without losing a single life.",
+						"image_url": "",
+						"question": "In the first game, what must you do to earn a Gem in a level?",
+						"wrong": [
+							"Beat the time trial",
+							"Find the hidden area",
+							"Collect 100 Wumpa fruit"
+						]
+					},
+					{
+						"correct": "Sonic's Ass Game",
+						"difficulty": "Hard",
+						"explanation": "The developers called it 'Sonic's Ass Game' because the camera was always behind the character's back.",
+						"image_url": "",
+						"question": "What was the original working title for Crash Bandicoot during his development by Naughty Dog?",
+						"wrong": [
+							"Willy the Wombat",
+							"Marsupial Madness",
+							"Jumping Jack"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_crash_bandicoot",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Crash Bandicoot",
+				"lore_desc": "A genetically enhanced eastern barred bandicoot who was escaped from Dr. Neo Cortex's laboratory to save his girlfriend Tawna and the world.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Animal",
+					"Mutant"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "Spyro is a master of fire breath, which he uses to defeat enemies and light torches.",
+						"image_url": "https://skillcheckgame.com/assets/images/spyro_the_dragon.webp",
+						"question": "What is Spyro's primary elemental attack that he breathes from his mouth?",
+						"wrong": [
+							"Ice",
+							"Electricity",
+							"Bubbles"
+						]
+					},
+					{
+						"correct": "Sparx",
+						"difficulty": "Easy",
+						"explanation": "Sparx changes color based on Spyro's health and can be replenished by eating butterflies.",
+						"image_url": "",
+						"question": "What is the name of the golden dragonfly that follows Spyro and acts as his health meter?",
+						"wrong": [
+							"Flash",
+							"Glimmer",
+							"Buzz"
+						]
+					},
+					{
+						"correct": "Turned into crystal",
+						"difficulty": "Easy",
+						"explanation": "Gnasty Gnorm cast a spell that encased every dragon in the realms in green crystal.",
+						"image_url": "",
+						"question": "In the first game, what has happened to all the elder dragons that Spyro must save?",
+						"wrong": [
+							"Turned into stone",
+							"Shrunk down",
+							"Locked in cages"
+						]
+					},
+					{
+						"correct": "Gnasty Gnorm",
+						"difficulty": "Easy",
+						"explanation": "Gnasty Gnorm was insulted by the dragons on TV and retaliated by freezing them all.",
+						"image_url": "",
+						"question": "Who is the main villain of the first game, an orc-like creature who hates dragons?",
+						"wrong": [
+							"Ripto",
+							"The Sorceress",
+							"Malefor"
+						]
+					},
+					{
+						"correct": "Charging",
+						"difficulty": "Easy",
+						"explanation": "Charging allows Spyro to run fast and smash through armored enemies or metal chests.",
+						"image_url": "",
+						"question": "What does Spyro use his horns for when he builds up speed?",
+						"wrong": [
+							"Digging",
+							"Gliding",
+							"Climbing"
+						]
+					},
+					{
+						"correct": "Purple",
+						"difficulty": "Medium",
+						"explanation": "Red gems are 1, Green are 2, Blue are 5, Yellow are 10, and Purple are 25.",
+						"image_url": "https://skillcheckgame.com/assets/images/spyro_the_dragon.webp",
+						"question": "What color gems are worth the most in the Spyro universe, typically valued at 25?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Moneybags",
+						"difficulty": "Medium",
+						"explanation": "Moneybags is a recurring character known for his love of gems and his high prices.",
+						"image_url": "",
+						"question": "What is the name of the greedy bear who charges Spyro gems to open paths or learn skills?",
+						"wrong": [
+							"Bentley",
+							"Hunter",
+							"Elora"
+						]
+					},
+					{
+						"correct": "Gliding",
+						"difficulty": "Medium",
+						"explanation": "Spyro isn't quite big enough for sustained flight yet, so he relies on his wings to glide.",
+						"image_url": "",
+						"question": "Which ability does Spyro use to travel long distances through the air from high ledges?",
+						"wrong": [
+							"Flying",
+							"Hovering",
+							"Leaping"
+						]
+					},
+					{
+						"correct": "Egg Thieves",
+						"difficulty": "Medium",
+						"explanation": "Egg Thieves run very fast and laugh at Spyro, forcing the player to chase them down.",
+						"image_url": "",
+						"question": "What are the thief-like creatures that wear blue robes and taunt Spyro while carrying eggs?",
+						"wrong": [
+							"Gnorcs",
+							"Rhynocs",
+							"Scythe-wielders"
+						]
+					},
+					{
+						"correct": "Avalar",
+						"difficulty": "Medium",
+						"explanation": "Spyro was trying to go to Dragon Shores for a vacation but ended up in Avalar instead.",
+						"image_url": "",
+						"question": "In 'Spyro 2: Ripto's Rage!', what is the name of the world Spyro is summoned to?",
+						"wrong": [
+							"The Dragon Realms",
+							"The Forgotten Realms",
+							"Skyland"
+						]
+					},
+					{
+						"correct": "Hunter",
+						"difficulty": "Hard",
+						"explanation": "Hunter the Cheetah is a major character starting in the second game, known for his bow skills.",
+						"image_url": "https://skillcheckgame.com/assets/images/spyro_the_dragon.webp",
+						"question": "What is the name of the cheetah who acts as Spyro's friend and rival in challenges?",
+						"wrong": [
+							"Pounce",
+							"Dash",
+							"Spot"
+						]
+					},
+					{
+						"correct": "Dragon Eggs",
+						"difficulty": "Hard",
+						"explanation": "The Sorceress sent her army to steal 150 dragon eggs to harness their wings for a spell.",
+						"image_url": "",
+						"question": "In 'Spyro: Year of the Dragon', what must Spyro recover after they are stolen from the Dragon Realms?",
+						"wrong": [
+							"Dragon Runes",
+							"Magic Orbs",
+							"Talismans"
+						]
+					},
+					{
+						"correct": "Artisans",
+						"difficulty": "Hard",
+						"explanation": "The Artisans realm is the lush, green home of the dragon artists and scholars.",
+						"image_url": "",
+						"question": "What is the name of the first 'Home World' Spyro starts in during the original game?",
+						"wrong": [
+							"Peace Keepers",
+							"Magic Crafters",
+							"Beast Makers"
+						]
+					},
+					{
+						"correct": "Elora the Faun",
+						"difficulty": "Hard",
+						"explanation": "Elora is a guide in the second and third games but is never a playable character.",
+						"image_url": "",
+						"question": "Which of these is NOT a playable friend character introduced in the third Spyro game?",
+						"wrong": [
+							"Sheila the Kangaroo",
+							"Sgt. Byrd",
+							"Agent 9"
+						]
+					},
+					{
+						"correct": "Orbs",
+						"difficulty": "Hard",
+						"explanation": "While Talismans progress you through the worlds, Orbs are required to unlock the final fight with Ripto.",
+						"image_url": "",
+						"question": "What specific item must Spyro collect in the second game to power the portal to the final boss?",
+						"wrong": [
+							"Stars",
+							"Power Seeds",
+							"Talismans"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_spyro_the_dragon",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Spyro the Dragon",
+				"lore_desc": "A small but brave purple dragon tasked with rescuing his fellow dragons from crystal prisons and reclaiming stolen treasure.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Dragon",
+					"Creature"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dual Pistols",
+						"difficulty": "Easy",
+						"explanation": "Lara's twin 9mm pistols are her most iconic tools for exploring dangerous tombs.",
+						"image_url": "https://skillcheckgame.com/assets/images/lara_croft.webp",
+						"question": "What is Lara's signature weapon choice, typically used with infinite ammo?",
+						"wrong": [
+							"Shotgun",
+							"Bow and Arrow",
+							"Magnum"
+						]
+					},
+					{
+						"correct": "Countess",
+						"difficulty": "Easy",
+						"explanation": "Lara is the Eleventh Countess of Abbingdon, though she prefers adventuring to her duties.",
+						"image_url": "",
+						"question": "Lara Croft holds what aristocratic title in her home country of England?",
+						"wrong": [
+							"Duchess",
+							"Baroness",
+							"Princess"
+						]
+					},
+					{
+						"correct": "Croft Manor",
+						"difficulty": "Easy",
+						"explanation": "Croft Manor often features an obstacle course and a long-suffering butler named Winston.",
+						"image_url": "",
+						"question": "What is the name of Lara's family estate where players can practice their skills in a tutorial level?",
+						"wrong": [
+							"Abbingdon Hall",
+							"Lara's Villa",
+							"The Croft Estate"
+						]
+					},
+					{
+						"correct": "The Scion",
+						"difficulty": "Easy",
+						"explanation": "The Scion of Atlantis is the primary objective of the first Tomb Raider game.",
+						"image_url": "",
+						"question": "In the first game, Lara is hired to find three pieces of which ancient Atlantean artifact?",
+						"wrong": [
+							"The Dagger of Xian",
+							"The Infada Stone",
+							"The Holy Grail"
+						]
+					},
+					{
+						"correct": "Tyrannosaurus Rex",
+						"difficulty": "Easy",
+						"explanation": "The T-Rex encounter in the 'Lost Valley' level is one of the most famous moments in PS1 history.",
+						"image_url": "",
+						"question": "What famously oversized animal does Lara encounter and have to fight in the Peruvian caves of the first game?",
+						"wrong": [
+							"Giant Spider",
+							"Great White Shark",
+							"King Kong"
+						]
+					},
+					{
+						"correct": "Winston",
+						"difficulty": "Medium",
+						"explanation": "Many players found humor in locking Winston inside the walk-in freezer at Croft Manor.",
+						"image_url": "https://skillcheckgame.com/assets/images/lara_croft.webp",
+						"question": "What is the name of Lara's loyal but often-trapped butler who follows her around the manor?",
+						"wrong": [
+							"Alfred",
+							"Geoffrey",
+							"Barnaby"
+						]
+					},
+					{
+						"correct": "The Dagger of Xian",
+						"difficulty": "Medium",
+						"explanation": "The Dagger of Xian is said to turn whoever plunges it into their heart into a dragon.",
+						"image_url": "",
+						"question": "In 'Tomb Raider II', Lara travels to Venice and China in search of which powerful artifact?",
+						"wrong": [
+							"The Iris",
+							"The Nightmare Stone",
+							"The Golden Mask"
+						]
+					},
+					{
+						"correct": "Ledge Grab",
+						"difficulty": "Medium",
+						"explanation": "Precision jumping and grabbing ledges is the core mechanic of the early Tomb Raider games.",
+						"image_url": "",
+						"question": "Which primary move allows Lara to grab onto ledges after a jump to prevent falling?",
+						"wrong": [
+							"Wall Run",
+							"Grapple",
+							"Zip Line"
+						]
+					},
+					{
+						"correct": "Teal",
+						"difficulty": "Medium",
+						"explanation": "Lara's classic outfit consists of a teal tank top, brown shorts, and tall boots.",
+						"image_url": "",
+						"question": "What color is Lara's classic adventuring tank top in the original series?",
+						"wrong": [
+							"Brown",
+							"Green",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Motorboat",
+						"difficulty": "Medium",
+						"explanation": "The motorboat levels in Venice are iconic for their music and high-speed exploration.",
+						"image_url": "",
+						"question": "Which vehicle does Lara famously ride through the streets of Venice in the second game?",
+						"wrong": [
+							"Motorcycle",
+							"Snowmobile",
+							"Quad Bike"
+						]
+					},
+					{
+						"correct": "Jacqueline Natla",
+						"difficulty": "Hard",
+						"explanation": "Natla was one of the three rulers of Atlantis before being frozen for her crimes.",
+						"image_url": "https://skillcheckgame.com/assets/images/lara_croft.webp",
+						"question": "Who is the main antagonist of the first game, a businesswoman who turns out to be an Atlantean queen?",
+						"wrong": [
+							"Marco Bartoli",
+							"Dr. Willard",
+							"Sophia Leigh"
+						]
+					},
+					{
+						"correct": "Meteorite",
+						"difficulty": "Hard",
+						"explanation": "The artifacts were carved from a meteorite that crashed into Antarctica millions of years ago.",
+						"image_url": "",
+						"question": "In 'Tomb Raider III', Lara is searching for four artifacts made from what space-born material?",
+						"wrong": [
+							"Moonstone",
+							"Alien Alloy",
+							"Stardust"
+						]
+					},
+					{
+						"correct": "Eidos Interactive",
+						"difficulty": "Hard",
+						"explanation": "Eidos published the series, while Core Design was the original developer.",
+						"image_url": "",
+						"question": "Lara's backpack is surprisingly small for everything she carries. What was the name of the company that published the original games?",
+						"wrong": [
+							"Core Design",
+							"Crystal Dynamics",
+							"Square Enix"
+						]
+					},
+					{
+						"correct": "Palace Midas",
+						"difficulty": "Hard",
+						"explanation": "If Lara stands on the hand of Midas, she is famously turned into a solid gold statue.",
+						"image_url": "",
+						"question": "In which level of the first game does Lara explore a massive underground Greek ruin containing Midas' hand?",
+						"wrong": [
+							"St. Francis Folly",
+							"The Cistern",
+							"Tomb of Tihocan"
+						]
+					},
+					{
+						"correct": "Barkhang Monks",
+						"difficulty": "Hard",
+						"explanation": "The Barkhang Monks will help Lara fight enemies if she doesn't accidentally shoot them first.",
+						"image_url": "",
+						"question": "What is the name of the monk who helps Lara in the Tibetan levels of 'Tomb Raider II'?",
+						"wrong": [
+							"Shaolin Monks",
+							"Seraph Monks",
+							"Highland Monks"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_lara_croft",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Lara Croft",
+				"lore_desc": "A British archaeologist and adventurer who travels the globe searching for lost artifacts and ancient secrets.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Explorer",
+					"Survivor"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "S.T.A.R.S.",
+						"difficulty": "Easy",
+						"explanation": "S.T.A.R.S. stands for Special Tactics and Rescue Service.",
+						"image_url": "https://skillcheckgame.com/assets/images/jill_valentine.webp",
+						"question": "What is the name of the elite Raccoon City police unit that Jill belongs to?",
+						"wrong": [
+							"S.W.A.T.",
+							"U.B.C.S.",
+							"B.S.A.A."
+						]
+					},
+					{
+						"correct": "Spencer Mansion",
+						"difficulty": "Easy",
+						"explanation": "The Spencer Mansion was a front for Umbrella's secret underground laboratory.",
+						"image_url": "",
+						"question": "What is the name of the creepy estate where the first game takes place?",
+						"wrong": [
+							"Baker House",
+							"Salazar Castle",
+							"Raccoon Police Station"
+						]
+					},
+					{
+						"correct": "Unlocking",
+						"difficulty": "Easy",
+						"explanation": "Barry gives her a lockpick, calling her the 'Master of Unlocking' in one of the series' most famous lines.",
+						"image_url": "",
+						"question": "Jill is famously known as the 'Master of' what skill by her partner Barry Burton?",
+						"wrong": [
+							"Stealth",
+							"Explosives",
+							"Survival"
+						]
+					},
+					{
+						"correct": "Nemesis",
+						"difficulty": "Easy",
+						"explanation": "Nemesis is a T-103 Tyrant modified with a parasite to hunt down S.T.A.R.S. members.",
+						"image_url": "",
+						"question": "What is the name of the bio-weapon monster that relentlessly stalks Jill in 'Resident Evil 3'?",
+						"wrong": [
+							"Tyrant",
+							"Mr. X",
+							"Licker"
+						]
+					},
+					{
+						"correct": "Umbrella Corporation",
+						"difficulty": "Easy",
+						"explanation": "Umbrella used Raccoon City as a testing ground for its biological weapons.",
+						"image_url": "",
+						"question": "What is the name of the company responsible for the T-Virus outbreak in Raccoon City?",
+						"wrong": [
+							"Tricell",
+							"Neo-Umbrella",
+							"Aperture Science"
+						]
+					},
+					{
+						"correct": "Chris Redfield",
+						"difficulty": "Medium",
+						"explanation": "Chris and Jill are the two main protagonists of the original Resident Evil.",
+						"image_url": "https://skillcheckgame.com/assets/images/jill_valentine.webp",
+						"question": "Which recurring S.T.A.R.S. member is Jill's most frequent partner and friend?",
+						"wrong": [
+							"Leon S. Kennedy",
+							"Albert Wesker",
+							"Barry Burton"
+						]
+					},
+					{
+						"correct": "Green Herb",
+						"difficulty": "Medium",
+						"explanation": "Green herbs restore health, and can be mixed with Red for full health or Blue for curing poison.",
+						"image_url": "",
+						"question": "What item must Jill combine with various colors of herbs to heal herself?",
+						"wrong": [
+							"Health Spray",
+							"First Aid Kit",
+							"Blue Herb"
+						]
+					},
+					{
+						"correct": "Albert Wesker",
+						"difficulty": "Medium",
+						"explanation": "Wesker lured the S.T.A.R.S. team to the mansion to collect combat data against bio-weapons.",
+						"image_url": "",
+						"question": "Which S.T.A.R.S. team leader is revealed to be a double agent working for Umbrella?",
+						"wrong": [
+							"Enrico Marini",
+							"Forest Speyer",
+							"Brad Vickers"
+						]
+					},
+					{
+						"correct": "Raccoon City",
+						"difficulty": "Medium",
+						"explanation": "The US government nuked Raccoon City to contain the T-Virus outbreak.",
+						"image_url": "",
+						"question": "What is the name of the city Jill must escape from in the third game before it is nuked?",
+						"wrong": [
+							"Silent Hill",
+							"Dulvey",
+							"Rockfort Island"
+						]
+					},
+					{
+						"correct": "Brad Vickers",
+						"difficulty": "Medium",
+						"explanation": "Brad, nicknamed 'Chickenheart,' eventually overcomes his fear to save the survivors.",
+						"image_url": "",
+						"question": "What is the name of the S.T.A.R.S. pilot who leaves the team behind initially but returns to rescue them?",
+						"wrong": [
+							"Kevin Dooley",
+							"Edward Dewey",
+							"Joseph Frost"
+						]
+					},
+					{
+						"correct": "A Jill Sandwich",
+						"difficulty": "Hard",
+						"explanation": "This cheesy line of dialogue became one of the most famous memes in gaming history.",
+						"image_url": "https://skillcheckgame.com/assets/images/jill_valentine.webp",
+						"question": "Jill and Barry are nearly crushed in a room with a falling ceiling. What 'sandwich' does Barry say she almost became?",
+						"wrong": [
+							"A S.T.A.R.S. Sandwich",
+							"A Redfield Roll",
+							"A Mansion Muffin"
+						]
+					},
+					{
+						"correct": "Alpha Team",
+						"difficulty": "Hard",
+						"explanation": "Alpha Team went in to search for Bravo Team after their helicopter crashed in the Arklay Mountains.",
+						"image_url": "",
+						"question": "What is the name of the elite S.T.A.R.S. sub-team that Chris and Jill belong to?",
+						"wrong": [
+							"Bravo Team",
+							"Charlie Team",
+							"Delta Team"
+						]
+					},
+					{
+						"correct": "Carlos Oliveira",
+						"difficulty": "Hard",
+						"explanation": "Carlos is a South American mercenary working for Umbrella's private military wing.",
+						"image_url": "",
+						"question": "In 'Resident Evil 3', what is the name of the U.B.C.S. mercenary who helps Jill escape?",
+						"wrong": [
+							"Mikhail Victor",
+							"Nicholai Ginovaef",
+							"HUNK"
+						]
+					},
+					{
+						"correct": "Yawn",
+						"difficulty": "Hard",
+						"explanation": "The snake is called Yawn because it looks like it's yawning before it strikes.",
+						"image_url": "",
+						"question": "What is the name of the giant snake boss encountered in the mansion's attic or library?",
+						"wrong": [
+							"Neptune",
+							"Plant 42",
+							"Black Tiger"
+						]
+					},
+					{
+						"correct": "Moonlight Sonata",
+						"difficulty": "Hard",
+						"explanation": "Jill can play the piece herself, while Chris needs help from Rebecca Chambers.",
+						"image_url": "",
+						"question": "What is the specific musical piece that must be played on the piano to open a secret door in the mansion?",
+						"wrong": [
+							"Clair de Lune",
+							"Fur Elise",
+							"Symphony No. 5"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_jill_valentine",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Jill Valentine",
+				"lore_desc": "A founding member of S.T.A.R.S. and a survivor of the Spencer Mansion incident, known for her expertise in lockpicking.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Survivor",
+					"Police"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Masamune",
+						"difficulty": "Easy",
+						"explanation": "The Masamune is Sephiroth's iconic weapon, often depicted as over six feet long.",
+						"image_url": "https://skillcheckgame.com/assets/images/sephiroth.webp",
+						"question": "What is the name of Sephiroth's impossibly long, single-edged sword?",
+						"wrong": [
+							"Muramasa",
+							"Buster Sword",
+							"Heaven's Cloud"
+						]
+					},
+					{
+						"correct": "Wing",
+						"difficulty": "Easy",
+						"explanation": "His 'One-Winged Angel' form is his most famous transformation.",
+						"image_url": "",
+						"question": "Sephiroth is famously associated with having only one of which physical feature on his back?",
+						"wrong": [
+							"Horn",
+							"Cape",
+							"Scar"
+						]
+					},
+					{
+						"correct": "Meteor",
+						"difficulty": "Easy",
+						"explanation": "Sephiroth uses the Black Materia to summon Meteor, intending to absorb the planet's energy as it heals.",
+						"image_url": "",
+						"question": "Sephiroth's ultimate goal is to summon a giant celestial body to wound the planet. What is it?",
+						"wrong": [
+							"Black Hole",
+							"The Moon",
+							"Comet"
+						]
+					},
+					{
+						"correct": "Jenova",
+						"difficulty": "Easy",
+						"explanation": "While Lucrecia Crescent is his biological mother, he was injected with Jenova cells in the womb.",
+						"image_url": "",
+						"question": "What is the name of the biological entity Sephiroth believes is his mother?",
+						"wrong": [
+							"Lucrecia",
+							"Minerva",
+							"Aerith"
+						]
+					},
+					{
+						"correct": "Silver",
+						"difficulty": "Easy",
+						"explanation": "His long silver hair and black coat are his most recognizable design elements.",
+						"image_url": "",
+						"question": "What color is Sephiroth's distinctive long hair?",
+						"wrong": [
+							"Blonde",
+							"Black",
+							"White"
+						]
+					},
+					{
+						"correct": "Shinra Mansion",
+						"difficulty": "Medium",
+						"explanation": "Sephiroth spent days in the basement library of the Shinra Mansion before losing his mind.",
+						"image_url": "https://skillcheckgame.com/assets/images/sephiroth.webp",
+						"question": "During the Nibelheim incident, Sephiroth snaps and burns the village down after reading records in which location?",
+						"wrong": [
+							"The Mako Reactor",
+							"Mount Nibel",
+							"The Town Hall"
+						]
+					},
+					{
+						"correct": "One-Winged Angel",
+						"difficulty": "Medium",
+						"explanation": "One-Winged Angel was one of the first RPG tracks to feature a full choir.",
+						"image_url": "",
+						"question": "What is the title of the iconic boss theme that plays during the final battle with Sephiroth?",
+						"wrong": [
+							"Those Chosen by the Planet",
+							"Birth of a God",
+							"Dancing Mad"
+						]
+					},
+					{
+						"correct": "Aerith Gainsborough",
+						"difficulty": "Medium",
+						"explanation": "The death of Aerith is considered one of the most emotional and shocking moments in gaming history.",
+						"image_url": "",
+						"question": "Which major character does Sephiroth shockingly kill at the end of the first disc?",
+						"wrong": [
+							"Tifa Lockhart",
+							"Barret Wallace",
+							"Cid Highwind"
+						]
+					},
+					{
+						"correct": "SOLDIER",
+						"difficulty": "Medium",
+						"explanation": "Sephiroth was the poster boy for Shinra's SOLDIER program and a legend to the public.",
+						"image_url": "",
+						"question": "Sephiroth was the greatest hero of which elite military force before his defection?",
+						"wrong": [
+							"The Turks",
+							"AVALANCHE",
+							"The Deepground"
+						]
+					},
+					{
+						"correct": "Safer Sephiroth",
+						"difficulty": "Medium",
+						"explanation": "Safer Sephiroth is his angelic final form, with multiple wings and a halo.",
+						"image_url": "",
+						"question": "What is the name of Sephiroth's final, god-like form encountered at the center of the planet?",
+						"wrong": [
+							"Bizarro Sephiroth",
+							"Seraph Sephiroth",
+							"Omega Sephiroth"
+						]
+					},
+					{
+						"correct": "Professor Hojo",
+						"difficulty": "Hard",
+						"explanation": "Hojo is Sephiroth's biological father and the primary architect of the Jenova Project.",
+						"image_url": "https://skillcheckgame.com/assets/images/sephiroth.webp",
+						"question": "What is the name of the scientist who headed the project that created Sephiroth?",
+						"wrong": [
+							"Professor Gast",
+							"Dr. Hollander",
+							"Professor Lazard"
+						]
+					},
+					{
+						"correct": "The Solar System",
+						"difficulty": "Hard",
+						"explanation": "The animation shows a comet flying through the solar system, destroying several planets before hitting the sun.",
+						"image_url": "",
+						"question": "Sephiroth's signature attack 'Super Nova' famously lasts nearly two minutes and depicts the destruction of what?",
+						"wrong": [
+							"The Planet Gaia",
+							"Midgar",
+							"The Galaxy"
+						]
+					},
+					{
+						"correct": "Black Materia",
+						"difficulty": "Hard",
+						"explanation": "The Black Materia is the key to summoning Meteor and is a major plot point.",
+						"image_url": "",
+						"question": "What is the name of the specific materia Sephiroth uses to control Cloud's mind and actions?",
+						"wrong": [
+							"Ultimate Materia",
+							"Dark Materia",
+							"Void Materia"
+						]
+					},
+					{
+						"correct": "The Northern Crater",
+						"difficulty": "Hard",
+						"explanation": "Sephiroth's true body is at the Northern Cave, while he project's images of himself through Jenova's cells.",
+						"image_url": "",
+						"question": "In the original PS1 game, where is Sephiroth's physical body crystallized during the majority of the story?",
+						"wrong": [
+							"The Mako Reactor",
+							"Mount Nibel",
+							"The Promised Land"
+						]
+					},
+					{
+						"correct": "Kabbalah",
+						"difficulty": "Hard",
+						"explanation": "The Sefirot are the ten attributes/emanations in Kabbalah, reflecting his theme of divine ascension.",
+						"image_url": "",
+						"question": "Sephiroth's name is derived from the 'Sefirot,' a concept from which mystical tradition?",
+						"wrong": [
+							"Buddhism",
+							"Shinto",
+							"Alchemy"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_sephiroth",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Sephiroth",
+				"lore_desc": "A former war hero and legendary SOLDIER 1st Class who went insane after discovering the truth of his origins.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Soldier",
+					"Antagonist"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mako",
+						"difficulty": "Easy",
+						"explanation": "Mako energy is the lifeblood of Midgar but is actually the planet's spiritual essence.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgar.webp",
+						"question": "What is the name of the energy source that powers the city of Midgar and is drained from the planet?",
+						"wrong": [
+							"Lifestream",
+							"Plasma",
+							"Mana"
+						]
+					},
+					{
+						"correct": "Eight",
+						"difficulty": "Easy",
+						"explanation": "Midgar is divided into eight sectors, each with its own Mako reactor.",
+						"image_url": "",
+						"question": "How many numbered sectors is the circular city of Midgar divided into?",
+						"wrong": [
+							"Seven",
+							"Nine",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Shinra Headquarters",
+						"difficulty": "Easy",
+						"explanation": "The Shinra Building is the seat of power for the company that controls the city.",
+						"image_url": "",
+						"question": "What is the name of the massive skyscraper that sits at the center of the city?",
+						"wrong": [
+							"The Citadel",
+							"Midgar Tower",
+							"President's Palace"
+						]
+					},
+					{
+						"correct": "Sector 5",
+						"difficulty": "Easy",
+						"explanation": "Aerith lives in the Sector 5 slums, where she grows flowers in an old church.",
+						"image_url": "",
+						"question": "In which sector do Cloud and Aerith first meet in the slums?",
+						"wrong": [
+							"Sector 7",
+							"Sector 1",
+							"Sector 6"
+						]
+					},
+					{
+						"correct": "Sector 7",
+						"difficulty": "Easy",
+						"explanation": "Shinra dropped the Sector 7 plate onto the slums below to crush the rebel group.",
+						"image_url": "",
+						"question": "Which sector is the home base of AVALANCHE and is later destroyed by Shinra?",
+						"wrong": [
+							"Sector 4",
+							"Sector 8",
+							"Sector 3"
+						]
+					},
+					{
+						"correct": "Wall Market",
+						"difficulty": "Medium",
+						"explanation": "Wall Market is a lawless area where the player must find items for Cloud's disguise.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgar.webp",
+						"question": "What is the name of the red-light district located in Sector 6, known for its nightlife and Don Corneo?",
+						"wrong": [
+							"The Slums",
+							"Night City",
+							"The Underbelly"
+						]
+					},
+					{
+						"correct": "Train Graveyard",
+						"difficulty": "Medium",
+						"explanation": "The Train Graveyard is a spooky area filled with ghosts and abandoned railway cars.",
+						"image_url": "",
+						"question": "What is the name of the train graveyard that the party must navigate to return to Sector 7?",
+						"wrong": [
+							"The Junkyard",
+							"Sector 0",
+							"The Iron Path"
+						]
+					},
+					{
+						"correct": "President Shinra",
+						"difficulty": "Medium",
+						"explanation": "President Shinra is the ruthless founder of the company who is later killed by Sephiroth.",
+						"image_url": "",
+						"question": "Who is the President of the Shinra Company at the start of the game?",
+						"wrong": [
+							"Rufus Shinra",
+							"Heidegger",
+							"Reeve"
+						]
+					},
+					{
+						"correct": "7th Heaven",
+						"difficulty": "Medium",
+						"explanation": "7th Heaven serves as a secret hideout for the AVALANCHE members.",
+						"image_url": "",
+						"question": "What is the name of the bar owned by Tifa in the Sector 7 slums?",
+						"wrong": [
+							"The Rusty Needle",
+							"AVALANCHE Bar",
+							"The Sector Pub"
+						]
+					},
+					{
+						"correct": "Mako",
+						"difficulty": "Medium",
+						"explanation": "The city's existence is entirely dependent on the extraction and refinement of Mako.",
+						"image_url": "",
+						"question": "Midgar is often called 'The City of' what by its inhabitants?",
+						"wrong": [
+							"Steel",
+							"Lights",
+							"Hope"
+						]
+					},
+					{
+						"correct": "Midgar Expressway",
+						"difficulty": "Hard",
+						"explanation": "The escape on the Midgar Expressway features a famous motorcycle minigame.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgar.webp",
+						"question": "What is the name of the highway the party uses to escape Midgar at the end of the first act?",
+						"wrong": [
+							"The Shinra Pass",
+							"The Outer Rim",
+							"Sector 8 Highway"
+						]
+					},
+					{
+						"correct": "Honeybee Inn",
+						"difficulty": "Hard",
+						"explanation": "The Honeybee Inn is a club where Cloud can receive a makeover to look like a woman.",
+						"image_url": "",
+						"question": "What is the name of the honey-themed establishment in Wall Market that Cloud must visit?",
+						"wrong": [
+							"The Bumblebee",
+							"The Queen's Room",
+							"The Flower Pot"
+						]
+					},
+					{
+						"correct": "Reeve Tuesti",
+						"difficulty": "Hard",
+						"explanation": "Reeve is the only Shinra executive with a conscience, trying to help the city from the inside.",
+						"image_url": "",
+						"question": "Which Shinra executive is in charge of Urban Development and secretly operates the robot Cait Sith?",
+						"wrong": [
+							"Palmer",
+							"Scarlet",
+							"Hojo"
+						]
+					},
+					{
+						"correct": "Green Park",
+						"difficulty": "Hard",
+						"explanation": "The 'Green Park' features a slide shaped like a pipe where the two rest briefly.",
+						"image_url": "",
+						"question": "What is the name of the park in Sector 6 where Aerith and Cloud share a conversation about SOLDIER?",
+						"wrong": [
+							"Sector 6 Playground",
+							"Evergreen Plaza",
+							"The Slum Park"
+						]
+					},
+					{
+						"correct": "Approximately 40 miles",
+						"difficulty": "Hard",
+						"explanation": "The massive scale of Midgar makes it one of the largest single-structure cities in gaming.",
+						"image_url": "",
+						"question": "What is the diameter of the Midgar plate, as mentioned in lore documents?",
+						"wrong": [
+							"10 miles",
+							"100 miles",
+							"5 miles"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_midgar",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Midgar",
+				"lore_desc": "A massive, industrial circular city divided between a wealthy upper plate and impoverished slums below, powered by Mako energy.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Cyberpunk",
+					"Dystopia"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ice Cream Truck",
+						"difficulty": "Easy",
+						"explanation": "The pink and white ice cream truck is the most iconic vehicle in the Twisted Metal series.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_tooth.webp",
+						"question": "What type of vehicle does Sweet Tooth famously drive in the Twisted Metal tournament?",
+						"wrong": [
+							"Police Car",
+							"Ambulance",
+							"Hearse"
+						]
+					},
+					{
+						"correct": "Marcus Kane",
+						"difficulty": "Easy",
+						"explanation": "Marcus 'Needles' Kane was a family man before he succumbed to his darker personality.",
+						"image_url": "",
+						"question": "What is Sweet Tooth's real name in the lore of the series?",
+						"wrong": [
+							"Needles Nelson",
+							"Pennywise",
+							"Sweetie Pie"
+						]
+					},
+					{
+						"correct": "It is on fire",
+						"difficulty": "Easy",
+						"explanation": "Sweet Tooth is famously depicted with hair that is perpetually engulfed in flames.",
+						"image_url": "",
+						"question": "What is physically unusual about the top of Sweet Tooth's head?",
+						"wrong": [
+							"It is bald",
+							"It has a propeller",
+							"It is missing"
+						]
+					},
+					{
+						"correct": "Calypso",
+						"difficulty": "Easy",
+						"explanation": "Calypso grants one wish to the winner of the tournament, though it usually has a dark twist.",
+						"image_url": "",
+						"question": "What is the name of the mysterious organizer of the Twisted Metal tournament?",
+						"wrong": [
+							"Minion",
+							"The Clown",
+							"Mephisto"
+						]
+					},
+					{
+						"correct": "Clown Head",
+						"difficulty": "Easy",
+						"explanation": "The large clown head on the truck can often be launched as a special weapon.",
+						"image_url": "",
+						"question": "What is the name of the mascot head that sits on top of Sweet Tooth's truck?",
+						"wrong": [
+							"Smiling Face",
+							"Winky",
+							"Happy Mac"
+						]
+					},
+					{
+						"correct": "Los Angeles",
+						"difficulty": "Medium",
+						"explanation": "Twisted Metal 2: World Tour starts in the ruins of Los Angeles.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_tooth.webp",
+						"question": "In Twisted Metal 2, what city is the site of the tournament's first level?",
+						"wrong": [
+							"Paris",
+							"New York",
+							"Moscow"
+						]
+					},
+					{
+						"correct": "A Paper Bag",
+						"difficulty": "Medium",
+						"explanation": "In a dark joke, he wishes for his 'best friend' back, which Calypso reveals is just a paper bag.",
+						"image_url": "",
+						"question": "What does Sweet Tooth wish for at the end of the first Twisted Metal game?",
+						"wrong": [
+							"His Family",
+							"To be the King",
+							"Unlimited Candy"
+						]
+					},
+					{
+						"correct": "Darkside",
+						"difficulty": "Medium",
+						"explanation": "While Minion is the mid-boss, Darkside is a recurring heavy hitter in the series.",
+						"image_url": "",
+						"question": "What is the name of the massive, demonic tank that acts as the final boss of the second game?",
+						"wrong": [
+							"Minion",
+							"Warhawk",
+							"Mega-Truck"
+						]
+					},
+					{
+						"correct": "Yellow Jacket",
+						"difficulty": "Medium",
+						"explanation": "Yellow Jacket is driven by Charlie Kane, Marcus's father or brother depending on the game's continuity.",
+						"image_url": "",
+						"question": "Which character is Sweet Tooth's brother, who drives a massive monster truck?",
+						"wrong": [
+							"Axel",
+							"Hammerhead",
+							"Roadkill"
+						]
+					},
+					{
+						"correct": "Napalm Cone",
+						"difficulty": "Medium",
+						"explanation": "Sweet Tooth launches flaming ice cream cones (napalm) at his enemies.",
+						"image_url": "",
+						"question": "What is the 'Special Weapon' of Sweet Tooth's truck in most PS1 entries?",
+						"wrong": [
+							"Freeze Ray",
+							"Saw Blade",
+							"Guided Missile"
+						]
+					},
+					{
+						"correct": "Earth",
+						"difficulty": "Hard",
+						"explanation": "The tournament is held in various real-world locations across the globe.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_tooth.webp",
+						"question": "In the Twisted Metal universe, where does Calypso host his tournament?",
+						"wrong": [
+							"Hell",
+							"The Moon",
+							"The Dream World"
+						]
+					},
+					{
+						"correct": "Ice Cream Man",
+						"difficulty": "Hard",
+						"explanation": "He was a simple ice cream man whose split personality took over.",
+						"image_url": "",
+						"question": "What was the occupation of Marcus Kane before he became the killer clown Sweet Tooth?",
+						"wrong": [
+							"Tax Driver",
+							"Butcher",
+							"Construction Worker"
+						]
+					},
+					{
+						"correct": "Minion",
+						"difficulty": "Hard",
+						"explanation": "Minion is a demon who drives a powerful black tank-like version of the ice cream truck.",
+						"image_url": "",
+						"question": "What is the name of the hidden boss character in Twisted Metal 2 who is a palette swap of Sweet Tooth's truck?",
+						"wrong": [
+							"Darkside",
+							"The Reaper",
+							"Shadow"
+						]
+					},
+					{
+						"correct": "Axel",
+						"difficulty": "Hard",
+						"explanation": "Axel is one of the most unique characters, literally strapped into his own vehicle.",
+						"image_url": "",
+						"question": "Which character drives a vehicle made of two giant wheels with their body suspended in the middle?",
+						"wrong": [
+							"Mr. Grimm",
+							"Spectre",
+							"Warthog"
+						]
+					},
+					{
+						"correct": "Paris",
+						"difficulty": "Hard",
+						"explanation": "Players can blow up the Eiffel Tower to create a bridge to the rooftops in the Paris level.",
+						"image_url": "",
+						"question": "In which city does Sweet Tooth destroy the Eiffel Tower in Twisted Metal 2?",
+						"wrong": [
+							"London",
+							"Rome",
+							"Berlin"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_sweet_tooth",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Sweet Tooth",
+				"lore_desc": "A psychotic clown whose real name is Marcus 'Needles' Kane, driving a terrifying ice cream truck in a deadly demolition derby.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Driver",
+					"Killer"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dracula",
+						"difficulty": "Easy",
+						"explanation": "Alucard is the son of Dracula and a human woman named Lisa.",
+						"image_url": "https://skillcheckgame.com/assets/images/alucard.webp",
+						"question": "What is the name of Alucard's father, the primary antagonist of the Castlevania series?",
+						"wrong": [
+							"Soma Cruz",
+							"Simon Belmont",
+							"Death"
+						]
+					},
+					{
+						"correct": "Dracula",
+						"difficulty": "Easy",
+						"explanation": "Alucard chose this name to show that he stands for the opposite of everything his father represents.",
+						"image_url": "",
+						"question": "What does Alucard's name spell when written backward?",
+						"wrong": [
+							"Vampire",
+							"Lucifer",
+							"Belmont"
+						]
+					},
+					{
+						"correct": "Snake",
+						"difficulty": "Easy",
+						"explanation": "Alucard's primary shapes are the Wolf, the Bat, and the Mist.",
+						"image_url": "",
+						"question": "Which of these creatures can Alucard NOT transform into in 'Symphony of the Night'?",
+						"wrong": [
+							"Wolf",
+							"Bat",
+							"Mist"
+						]
+					},
+					{
+						"correct": "Castlevania",
+						"difficulty": "Easy",
+						"explanation": "Castlevania is the demon castle that reappears throughout history.",
+						"image_url": "",
+						"question": "What is the name of the castle that Alucard explores in 'Symphony of the Night'?",
+						"wrong": [
+							"Shadow Moses",
+							"The Citadel",
+							"Spencer Estate"
+						]
+					},
+					{
+						"correct": "Sword",
+						"difficulty": "Easy",
+						"explanation": "Alucard is a master swordsman and uses a variety of blades throughout the game.",
+						"image_url": "",
+						"question": "What type of weapon does Alucard primarily use, differing from the Belmonts' whips?",
+						"wrong": [
+							"Axe",
+							"Cross",
+							"Dagger"
+						]
+					},
+					{
+						"correct": "Richter Belmont",
+						"difficulty": "Medium",
+						"explanation": "Richter Belmont is the hero of the previous game who mysteriously became the castle lord.",
+						"image_url": "https://skillcheckgame.com/assets/images/alucard.webp",
+						"question": "What is the name of the Belmont who went missing, leading Alucard to enter the castle?",
+						"wrong": [
+							"Simon Belmont",
+							"Trevor Belmont",
+							"Juste Belmont"
+						]
+					},
+					{
+						"correct": "Wear the Holy Glasses",
+						"difficulty": "Medium",
+						"explanation": "The Holy Glasses allow Alucard to see the orb controlling Richter, revealing the true villain.",
+						"image_url": "",
+						"question": "What must Alucard do to unlock the second half of the game after defeating Richter?",
+						"wrong": [
+							"Defeat Death",
+							"Collect the 5 Orbs",
+							"Kill Maria"
+						]
+					},
+					{
+						"correct": "It flips upside down",
+						"difficulty": "Medium",
+						"explanation": "The Inverted Castle is a complete mirror of the first castle and contains the game's true ending.",
+						"image_url": "",
+						"question": "What happens to the castle layout once the 'true' path is discovered?",
+						"wrong": [
+							"It turns to ice",
+							"It becomes a ruin",
+							"It teleports to hell"
+						]
+					},
+					{
+						"correct": "Death",
+						"difficulty": "Medium",
+						"explanation": "Death greets Alucard at the entrance and strips him of his gear to 'prevent his interference.'",
+						"image_url": "",
+						"question": "Which boss steals Alucard's powerful starting equipment at the beginning of the game?",
+						"wrong": [
+							"Shaft",
+							"Slogra",
+							"Gaibon"
+						]
+					},
+					{
+						"correct": "Maria Renard",
+						"difficulty": "Medium",
+						"explanation": "Maria is looking for her brother-in-law, Richter, and provides Alucard with items.",
+						"image_url": "",
+						"question": "Who is the young woman and vampire hunter who helps Alucard during his journey?",
+						"wrong": [
+							"Sypha Belnades",
+							"Shanoa",
+							"Sonia Belmont"
+						]
+					},
+					{
+						"correct": "Lisa",
+						"difficulty": "Hard",
+						"explanation": "Lisa's execution by humans drove Dracula to declare war on humanity.",
+						"image_url": "https://skillcheckgame.com/assets/images/alucard.webp",
+						"question": "What is the name of Alucard's human mother, whose final words were 'Do not hate humans'?",
+						"wrong": [
+							"Mina",
+							"Carmilla",
+							"Elena"
+						]
+					},
+					{
+						"correct": "Crissaegrim",
+						"difficulty": "Hard",
+						"explanation": "The Crissaegrim is considered the most powerful weapon in the game due to its speed.",
+						"image_url": "",
+						"question": "Which extremely rare sword can Alucard obtain that allows him to attack while moving?",
+						"wrong": [
+							"Shield Rod",
+							"Masamune",
+							"Mourneblade"
+						]
+					},
+					{
+						"correct": "Shaft",
+						"difficulty": "Hard",
+						"explanation": "Shaft is a servant of Dracula who brainwashed Richter Belmont to rule the castle.",
+						"image_url": "",
+						"question": "What is the name of the dark priest who is the true mastermind behind the castle's reappearance?",
+						"wrong": [
+							"Graham Jones",
+							"Brauner",
+							"Zead"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Hard",
+						"explanation": "The Eye, Heart, Rib, Ring, and Tooth of Vlad are required to open the final path.",
+						"image_url": "",
+						"question": "How many 'Relics of Vlad' must Alucard collect in the Inverted Castle to face Dracula?",
+						"wrong": [
+							"Three",
+							"Six",
+							"Seven"
+						]
+					},
+					{
+						"correct": "What is a man?",
+						"difficulty": "Hard",
+						"explanation": "The line 'What is a man? A miserable little pile of secrets!' is legendary for its hammy voice acting.",
+						"image_url": "",
+						"question": "What is the first line spoken by Dracula in the game's iconic opening prologue?",
+						"wrong": [
+							"Die, monster!",
+							"Welcome home, son.",
+							"It has been too long."
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_alucard",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Alucard",
+				"lore_desc": "The dhampir son of Dracula who awakens from a long slumber to destroy his father's castle and end his bloodline's curse.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Vampire",
+					"Prince"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Temporary Invincibility",
+						"difficulty": "Easy",
+						"explanation": "When Crash gains invincibility, the mask grows and fits onto Crash's face while tribal music plays.",
+						"image_url": "https://skillcheckgame.com/assets/images/aku_aku.webp",
+						"question": "What does Aku Aku grant Crash if the player collects three of his masks without taking damage?",
+						"wrong": [
+							"Infinite Lives",
+							"The ability to fly",
+							"A secret level"
+						]
+					},
+					{
+						"correct": "Uka Uka",
+						"difficulty": "Easy",
+						"explanation": "Uka Uka was imprisoned by Aku Aku centuries ago and is the true mastermind behind Cortex.",
+						"image_url": "",
+						"question": "What is the name of Aku Aku's evil twin brother who serves as the mask for Dr. Neo Cortex?",
+						"wrong": [
+							"Ika Ika",
+							"Kupuna-Wa",
+							"Lani-Loli"
+						]
+					},
+					{
+						"correct": "Ooga Booga",
+						"difficulty": "Easy",
+						"explanation": "The iconic 'Ooga Booga' (or 'Burdiga') sound is synonymous with finding safety in the game.",
+						"image_url": "",
+						"question": "What sound does Aku Aku famously make when Crash breaks a crate containing him?",
+						"wrong": [
+							"Huzzah",
+							"Crash!",
+							"Wumpa!"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "The mask disappears after taking one hit, but saves Crash from losing a life.",
+						"image_url": "",
+						"question": "In the first game, how many hits from an enemy can a single Aku Aku mask protect Crash from?",
+						"wrong": [
+							"Two",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "A wooden mask with feathers",
+						"difficulty": "Easy",
+						"explanation": "Aku Aku is a colorful wooden mask adorned with large, vibrant feathers.",
+						"image_url": "",
+						"question": "What is the physical appearance of Aku Aku?",
+						"wrong": [
+							"A golden shield",
+							"A floating ghost",
+							"A talking tiki torch"
+						]
+					},
+					{
+						"correct": "Guardian Spirit",
+						"difficulty": "Medium",
+						"explanation": "Aku Aku was once a human witch doctor who now protects the islands from evil spirits.",
+						"image_url": "https://skillcheckgame.com/assets/images/aku_aku.webp",
+						"question": "What is the primary role of Aku Aku in the 'Crash Bandicoot' series?",
+						"wrong": [
+							"Main Villain",
+							"Crash's Creator",
+							"A generic power-up"
+						]
+					},
+					{
+						"correct": "Falling into pits",
+						"difficulty": "Medium",
+						"explanation": "No matter how many masks you have, falling into a bottomless pit results in an instant loss of life.",
+						"image_url": "",
+						"question": "Which of these hazards can Aku Aku NOT protect Crash from?",
+						"wrong": [
+							"TNT Crates",
+							"Enemy attacks",
+							"Fire"
+						]
+					},
+					{
+						"correct": "They fight each other",
+						"difficulty": "Medium",
+						"explanation": "During the final boss fight, the two masks engage in their own magical duel in the center of the arena.",
+						"image_url": "",
+						"question": "In 'Crash Bandicoot 3: Warped', what happens when Aku Aku and Uka Uka meet during a boss fight?",
+						"wrong": [
+							"They merge together",
+							"They disappear",
+							"They grant the player gems"
+						]
+					},
+					{
+						"correct": "You speed up and become invincible",
+						"difficulty": "Medium",
+						"explanation": "Aku Aku acts as a powerful speed and protection buff for the 'good' characters.",
+						"image_url": "",
+						"question": "In the racing game 'Crash Team Racing', what happens when you use the Aku Aku power-up?",
+						"wrong": [
+							"You get a shield",
+							"You fire a missile",
+							"You teleport"
+						]
+					},
+					{
+						"correct": "Red, Yellow, Green, and Blue",
+						"difficulty": "Medium",
+						"explanation": "Aku Aku has four distinct multi-colored feathers that fan out from the top of the mask.",
+						"image_url": "",
+						"question": "What color are the feathers on Aku Aku's head?",
+						"wrong": [
+							"Solid Red",
+							"Purple and Gold",
+							"Black and White"
+						]
+					},
+					{
+						"correct": "Cortex's space station crashing",
+						"difficulty": "Hard",
+						"explanation": "When the Cortex Vortex space station crashed into Earth, it smashed into Uka Uka's ancient temple prison.",
+						"image_url": "https://skillcheckgame.com/assets/images/aku_aku.webp",
+						"question": "Who released Uka Uka from his underground prison at the beginning of 'Crash 3'?",
+						"wrong": [
+							"Crash by mistake",
+							"Dr. N. Tropy",
+							"Dingodile"
+						]
+					},
+					{
+						"correct": "Two-hit protection",
+						"difficulty": "Hard",
+						"explanation": "A second mask allows the player to take two hits before losing protection.",
+						"image_url": "",
+						"question": "What is the second level of protection Aku Aku offers, visually signified by the mask glowing gold?",
+						"wrong": [
+							"Speed boost",
+							"Infinite Spin",
+							"Health regeneration"
+						]
+					},
+					{
+						"correct": "The islands themselves",
+						"difficulty": "Hard",
+						"explanation": "He is the spirit of the Wumpa Islands, sensing the evil of Cortex and deciding to help Crash.",
+						"image_url": "",
+						"question": "According to the instruction manual of the first game, where did Aku Aku's spirit originally reside?",
+						"wrong": [
+							"Inside a crystal",
+							"In the moon",
+							"In a laboratory"
+						]
+					},
+					{
+						"correct": "Aku Aku Invincibility",
+						"difficulty": "Hard",
+						"explanation": "The high-tempo tribal drums are one of the most recognizable sounds in 90s gaming.",
+						"image_url": "",
+						"question": "What is the name of the special invincibility music that plays when you have 3 masks?",
+						"wrong": [
+							"Tribal Dance",
+							"The Mask Theme",
+							"Jungle Jive"
+						]
+					},
+					{
+						"correct": "Gives advice and tips",
+						"difficulty": "Hard",
+						"explanation": "In the Japanese releases, Aku Aku frequently provides text boxes of hints and world-building.",
+						"image_url": "",
+						"question": "In the Japanese version of the games, what does Aku Aku do that he doesn't do in the original US version?",
+						"wrong": [
+							"Fights enemies",
+							"Collects gems",
+							"Sings"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_aku_aku",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Aku Aku",
+				"lore_desc": "An ancient witch doctor spirit residing in a wooden mask who protects Crash and Coco Bandicoot from evil.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Spirit",
+					"Protector"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "T-Virus",
+						"difficulty": "Easy",
+						"explanation": "The Tyrant Virus, or T-Virus, was responsible for turning the population into zombies.",
+						"image_url": "https://skillcheckgame.com/assets/images/raccoon_city.webp",
+						"question": "What is the name of the virus that caused the outbreak in this city?",
+						"wrong": [
+							"G-Virus",
+							"Las Plagas",
+							"Progenitor Virus"
+						]
+					},
+					{
+						"correct": "Destroyed by a nuclear missile",
+						"difficulty": "Easy",
+						"explanation": "The US government launched a missile to 'sanitize' the city and stop the virus from spreading.",
+						"image_url": "",
+						"question": "What is the fate of Raccoon City at the end of 'Resident Evil 3'?",
+						"wrong": [
+							"Quarantined forever",
+							"Sunk into the ocean",
+							"Burned to the ground"
+						]
+					},
+					{
+						"correct": "Art Museum",
+						"difficulty": "Easy",
+						"explanation": "The R.P.D. station was originally an art museum, which explains its many puzzles and statues.",
+						"image_url": "",
+						"question": "The Raccoon City Police Department (R.P.D.) was famously housed in what kind of former building?",
+						"wrong": [
+							"Hospital",
+							"Library",
+							"Bank"
+						]
+					},
+					{
+						"correct": "Umbrella Corporation",
+						"difficulty": "Easy",
+						"explanation": "Umbrella funded the city's infrastructure to hide its illegal bio-weapon research.",
+						"image_url": "",
+						"question": "What is the name of the pharmaceutical giant that was the main employer in Raccoon City?",
+						"wrong": [
+							"PharmaCorp",
+							"Tricell",
+							"Abstergo"
+						]
+					},
+					{
+						"correct": "S.T.A.R.S.",
+						"difficulty": "Easy",
+						"explanation": "The Special Tactics and Rescue Service (S.T.A.R.S.) were the city's elite responders.",
+						"image_url": "",
+						"question": "Which elite police unit was based in Raccoon City and sent into the Arklay Mountains?",
+						"wrong": [
+							"U.S.S.",
+							"B.S.A.A.",
+							"Wolfpack"
+						]
+					},
+					{
+						"correct": "Leon S. Kennedy",
+						"difficulty": "Medium",
+						"explanation": "Leon's first day on the job turned out to be the worst day of his life.",
+						"image_url": "https://skillcheckgame.com/assets/images/raccoon_city.webp",
+						"question": "Who is the rookie police officer who arrives for his first day of work during the middle of the outbreak?",
+						"wrong": [
+							"Chris Redfield",
+							"Claire Redfield",
+							"Jill Valentine"
+						]
+					},
+					{
+						"correct": "Arklay Mountains",
+						"difficulty": "Medium",
+						"explanation": "The Arklay Mountains housed the Spencer Mansion, where the initial leak occurred.",
+						"image_url": "",
+						"question": "What is the name of the mountain range that surrounds Raccoon City?",
+						"wrong": [
+							"Spencer Peaks",
+							"Midwest Ridge",
+							"Blue Ridge Mountains"
+						]
+					},
+					{
+						"correct": "Michael Warren",
+						"difficulty": "Medium",
+						"explanation": "Mayor Warren fled the city, leaving the police chief in charge of the chaos.",
+						"image_url": "",
+						"question": "What is the name of the mayor of Raccoon City during the incident, who is later seen in 'Resident Evil 2'?",
+						"wrong": [
+							"Brian Irons",
+							"Albert Wesker",
+							"William Birkin"
+						]
+					},
+					{
+						"correct": "Brian Irons",
+						"difficulty": "Medium",
+						"explanation": "Chief Irons was on Umbrella's payroll and was also a serial killer.",
+						"image_url": "",
+						"question": "What is the name of the corrupt Police Chief who actively sabotaged the S.T.A.R.S. investigation?",
+						"wrong": [
+							"Marvin Branagh",
+							"Kevin Ryman",
+							"Ben Bertolucci"
+						]
+					},
+					{
+						"correct": "Claire Redfield",
+						"difficulty": "Medium",
+						"explanation": "Claire Redfield arrived in the city looking for Chris, who had already left for Europe.",
+						"image_url": "",
+						"question": "Which character enters Raccoon City on a motorcycle looking for her brother, Chris?",
+						"wrong": [
+							"Ada Wong",
+							"Sherry Birkin",
+							"Rebecca Chambers"
+						]
+					},
+					{
+						"correct": "NEST",
+						"difficulty": "Hard",
+						"explanation": "NEST was the primary research facility for the T and G viruses in Raccoon City.",
+						"image_url": "https://skillcheckgame.com/assets/images/raccoon_city.webp",
+						"question": "What is the specific name of the underground laboratory located beneath the R.P.D. station?",
+						"wrong": [
+							"The Hive",
+							"The Hole",
+							"Deepground"
+						]
+					},
+					{
+						"correct": "Ben Bertolucci",
+						"difficulty": "Hard",
+						"explanation": "Ben had evidence of the Chief's corruption but was murdered by a Tyrant before he could use it.",
+						"image_url": "",
+						"question": "In 'Resident Evil 2', what is the name of the newspaper reporter who gets locked in a cell in the police station?",
+						"wrong": [
+							"Alyssa Ashcroft",
+							"Robert Kendo",
+							"Richard Aiken"
+						]
+					},
+					{
+						"correct": "William Birkin",
+						"difficulty": "Hard",
+						"explanation": "Birkin injected himself with the G-Virus as he was dying, becoming a horrific monster.",
+						"image_url": "",
+						"question": "Who was the lead researcher of the G-Virus who was gunned down by Umbrella's own special forces?",
+						"wrong": [
+							"James Marcus",
+							"Alexander Ashford",
+							"Ozwell E. Spencer"
+						]
+					},
+					{
+						"correct": "Robert Kendo",
+						"difficulty": "Hard",
+						"explanation": "Kendo's Gun Shop is the first interior location Leon or Claire visits in the game.",
+						"image_url": "",
+						"question": "What is the name of the gun shop owner who meets a tragic end at the beginning of 'Resident Evil 2'?",
+						"wrong": [
+							"Jack Gunner",
+							"Billy Coen",
+							"Mikhail Victor"
+						]
+					},
+					{
+						"correct": "100,000",
+						"difficulty": "Hard",
+						"explanation": "The city was a significant industrial hub with roughly 100,000 residents.",
+						"image_url": "",
+						"question": "What is the population of Raccoon City at the time of the outbreak, according to the intro cinematics?",
+						"wrong": [
+							"50,000",
+							"250,000",
+							"500,000"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_raccoon_city",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Raccoon City",
+				"lore_desc": "A Midwestern American town that became ground zero for the global biological catastrophe caused by the Umbrella Corporation.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Zombies",
+					"Horror"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "I gotta believe!",
+						"difficulty": "Easy",
+						"explanation": "Parappa's 'I gotta believe!' is his mantra for overcoming any challenge.",
+						"image_url": "https://skillcheckgame.com/assets/images/parappa_the_rapper.webp",
+						"question": "What is Parappa's iconic catchphrase that he says when he gains confidence?",
+						"wrong": [
+							"I can do it!",
+							"Keep on rapping!",
+							"Believe in yourself!"
+						]
+					},
+					{
+						"correct": "Dog",
+						"difficulty": "Easy",
+						"explanation": "Parappa is a yellow-furred dog who wears an orange beanie.",
+						"image_url": "",
+						"question": "What type of animal is Parappa?",
+						"wrong": [
+							"Cat",
+							"Rabbit",
+							"Hamster"
+						]
+					},
+					{
+						"correct": "Sunny Funny",
+						"difficulty": "Easy",
+						"explanation": "Sunny Funny is Parappa's crush and the primary motivation for his adventures.",
+						"image_url": "",
+						"question": "Who is the flower-like girl that Parappa is trying to impress throughout the game?",
+						"wrong": [
+							"Katy Kat",
+							"Paula Fox",
+							"Lara Croft"
+						]
+					},
+					{
+						"correct": "Chop Chop Master Onion",
+						"difficulty": "Easy",
+						"explanation": "Master Onion teaches Parappa karate in the first level: 'Kick, punch, it's all in the mind!'",
+						"image_url": "",
+						"question": "Who is the first teacher Parappa meets, an onion-headed martial arts master?",
+						"wrong": [
+							"Instructor Mooselini",
+							"Prince Fleaswallow",
+							"Cheap Cheap the Chicken"
+						]
+					},
+					{
+						"correct": "Paper-thin 2D",
+						"difficulty": "Easy",
+						"explanation": "The characters are flat 2D sprites in a 3D world, looking like paper cutouts.",
+						"image_url": "",
+						"question": "What is the visual style of the characters in the Parappa universe?",
+						"wrong": [
+							"Fully 3D",
+							"Pixel Art",
+							"Claymation"
+						]
+					},
+					{
+						"correct": "Instructor Mooselini",
+						"difficulty": "Medium",
+						"explanation": "Mooselini is a moose who teaches Parappa how to drive in Level 2.",
+						"image_url": "https://skillcheckgame.com/assets/images/parappa_the_rapper.webp",
+						"question": "Which teacher forces Parappa to rap while he's trying to pass a driving test?",
+						"wrong": [
+							"Prince Fleaswallow",
+							"Master Onion",
+							"Colonel Noodle"
+						]
+					},
+					{
+						"correct": "Katy Kat",
+						"difficulty": "Medium",
+						"explanation": "Katy Kat is a member of Parappa's friend group and provides support during his journey.",
+						"image_url": "",
+						"question": "What is the name of Parappa's cat friend who plays the bass guitar?",
+						"wrong": [
+							"Paula Fox",
+							"Sunny Funny",
+							"Kitty Rap"
+						]
+					},
+					{
+						"correct": "Cool",
+						"difficulty": "Medium",
+						"explanation": "If you improvise your inputs effectively, you move from 'Good' to 'Cool' and the teacher leaves the stage.",
+						"image_url": "",
+						"question": "What is the highest performance rating you can achieve in a level?",
+						"wrong": [
+							"Good",
+							"Great",
+							"Awesome"
+						]
+					},
+					{
+						"correct": "Prince Fleaswallow",
+						"difficulty": "Medium",
+						"explanation": "Prince Fleaswallow's level features a relaxed, Caribbean-influenced beat.",
+						"image_url": "",
+						"question": "Which teacher is a frog who runs a flea market and raps in a reggae style?",
+						"wrong": [
+							"Master Onion",
+							"Cheap Cheap",
+							"Guru Ant"
+						]
+					},
+					{
+						"correct": "Rap at a concert",
+						"difficulty": "Medium",
+						"explanation": "The final level takes place on a large stage where all the teachers return for a grand finale.",
+						"image_url": "",
+						"question": "What must Parappa do in the final stage to prove he's truly become a star?",
+						"wrong": [
+							"Win a race",
+							"Save Sunny Funny",
+							"Defeat a giant boss"
+						]
+					},
+					{
+						"correct": "Joe Chin",
+						"difficulty": "Hard",
+						"explanation": "Joe Chin is a muscular, narcissistic dog who always tries to one-up Parappa with expensive gestures.",
+						"image_url": "https://skillcheckgame.com/assets/images/parappa_the_rapper.webp",
+						"question": "What is the name of Parappa's wealthy rival who also wants to win Sunny Funny's heart?",
+						"wrong": [
+							"Matt Major",
+							"Boxy Boy",
+							"Colonel Noodle"
+						]
+					},
+					{
+						"correct": "Cheap Cheap the Cooking Chicken",
+						"difficulty": "Hard",
+						"explanation": "Cheap Cheap is a chicken who hosts a TV cooking show.",
+						"image_url": "",
+						"question": "In Level 4, Parappa has to bake a cake for Sunny. Who is the cooking teacher?",
+						"wrong": [
+							"Colonel Noodle",
+							"Guru Ant",
+							"Baking Bat"
+						]
+					},
+					{
+						"correct": "It becomes distorted and slow",
+						"difficulty": "Hard",
+						"explanation": "The music reflects your skill, sounding increasingly chaotic if you miss notes.",
+						"image_url": "",
+						"question": "What happens to the music if your performance rating drops to 'Awful'?",
+						"wrong": [
+							"It stops playing",
+							"The lyrics change",
+							"The game ends instantly"
+						]
+					},
+					{
+						"correct": "He ate bad food and has an emergency",
+						"difficulty": "Hard",
+						"explanation": "Stage 4 features Parappa desperately trying to beat all his teachers to the single available toilet.",
+						"image_url": "",
+						"question": "In the fourth stage, why is Parappa in such a hurry to finish rapping in the bathroom line?",
+						"wrong": [
+							"He is late for a date",
+							"He forgot his keys",
+							"He wants to see a movie"
+						]
+					},
+					{
+						"correct": "Boxy Boy",
+						"difficulty": "Hard",
+						"explanation": "Boxy Boy explains the rules and shows the button prompts during the levels.",
+						"image_url": "",
+						"question": "What is the name of the portable stereo character who acts as the game's narrator and menu?",
+						"wrong": [
+							"Stereo Sam",
+							"Boombox Ben",
+							"Radio Rick"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_parappa_the_rapper",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Parappa the Rapper",
+				"lore_desc": "A paper-thin rapping dog who learns life lessons through music to impress his crush, Sunny Funny.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Musician",
+					"Animal"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cloud Strife",
+						"difficulty": "Easy",
+						"explanation": "Cloud Strife is the protagonist of Final Fantasy VII and uses the Buster Sword throughout the early game.",
+						"image_url": "https://skillcheckgame.com/assets/images/buster_sword.webp",
+						"question": "Who is the most famous wielder of the Buster Sword on the PlayStation 1?",
+						"wrong": [
+							"Sephiroth",
+							"Zack Fair",
+							"Barret Wallace"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "The Buster Sword has two linked materia slots, allowing for early-game magic combinations.",
+						"image_url": "",
+						"question": "How many materia slots does the Buster Sword have in its initial state?",
+						"wrong": [
+							"One",
+							"Three",
+							"Four"
+						]
+					},
+					{
+						"correct": "Only one edge",
+						"difficulty": "Easy",
+						"explanation": "Despite its massive size, it is a single-edged weapon with a flat back.",
+						"image_url": "",
+						"question": "The Buster Sword is described as a 'broadsword.' Which side of the blade is sharp?",
+						"wrong": [
+							"Both edges",
+							"The tip only",
+							"It is blunt"
+						]
+					},
+					{
+						"correct": "Enormous",
+						"difficulty": "Easy",
+						"explanation": "It is roughly 5-6 feet long and at least a foot wide, requiring immense strength to wield.",
+						"image_url": "",
+						"question": "Which of these words best describes the size of the Buster Sword compared to a normal sword?",
+						"wrong": [
+							"Pocket-sized",
+							"Invisible",
+							"Standard"
+						]
+					},
+					{
+						"correct": "Brown and Gold",
+						"difficulty": "Easy",
+						"explanation": "The classic design features a leather-wrapped brown grip and a golden handguard.",
+						"image_url": "",
+						"question": "What color is the hilt and handle of the original Buster Sword?",
+						"wrong": [
+							"Red and Black",
+							"Silver and Blue",
+							"Green and Grey"
+						]
+					},
+					{
+						"correct": "Zack Fair",
+						"difficulty": "Medium",
+						"explanation": "Zack Fair was Cloud's best friend who died protecting him, passing on the sword as a legacy.",
+						"image_url": "https://skillcheckgame.com/assets/images/buster_sword.webp",
+						"question": "Who was the man who gave the Buster Sword to Cloud before the events of the game?",
+						"wrong": [
+							"Angeal Hewley",
+							"Sephiroth",
+							"Biggs"
+						]
+					},
+					{
+						"correct": "It is the starting weapon",
+						"difficulty": "Medium",
+						"explanation": "Though iconic, it is Cloud's weakest weapon in terms of stats and is usually replaced early on.",
+						"image_url": "",
+						"question": "In Final Fantasy VII, what is the status of the Buster Sword's attack power compared to other weapons?",
+						"wrong": [
+							"It is the strongest sword",
+							"It is mid-tier",
+							"It cannot be unequipped"
+						]
+					},
+					{
+						"correct": "Steel",
+						"difficulty": "Medium",
+						"explanation": "It is a heavy, industrial steel blade with no magical properties of its own.",
+						"image_url": "",
+						"question": "What material is the Buster Sword primarily made of, giving it its heavy weight?",
+						"wrong": [
+							"Mithril",
+							"Adamantite",
+							"Mako Glass"
+						]
+					},
+					{
+						"correct": "Angeal's Father",
+						"difficulty": "Medium",
+						"explanation": "Lore added in later titles explains it was commissioned by Angeal Hewley's family.",
+						"image_url": "",
+						"question": "What is the name of the man who originally forged the sword for his son's entry into the military?",
+						"wrong": [
+							"Professor Hojo",
+							"Zangan",
+							"The Weapon Seller"
+						]
+					},
+					{
+						"correct": "Equipping Materia",
+						"difficulty": "Medium",
+						"explanation": "Those holes are the physical slots where Materia orbs are placed.",
+						"image_url": "",
+						"question": "The two holes near the hilt of the sword are intended for what purpose?",
+						"wrong": [
+							"Lightening the weight",
+							"Mounting on a wall",
+							"Attaching a strap"
+						]
+					},
+					{
+						"correct": "Cross-slash",
+						"difficulty": "Hard",
+						"explanation": "Cross-slash features Cloud carving a glowing Kanji-like symbol that resembles an 'X' or 'B'.",
+						"image_url": "https://skillcheckgame.com/assets/images/buster_sword.webp",
+						"question": "Which of Cloud's Limit Breaks shows him slashing the 'B' and 'S' (for Buster Sword) into the air?",
+						"wrong": [
+							"Braver",
+							"Blade Beam",
+							"Meteorain"
+						]
+					},
+					{
+						"correct": "He didn't want it to get damaged",
+						"difficulty": "Hard",
+						"explanation": "Angeal valued 'dreams and honor' and saw the sword as a symbol, not just a tool, fearing wear and tear.",
+						"image_url": "",
+						"question": "Why did the original owner, Angeal, rarely use the Buster Sword in combat?",
+						"wrong": [
+							"It was too heavy",
+							"It was cursed",
+							"He preferred magic"
+						]
+					},
+					{
+						"correct": "Over 100 lbs",
+						"difficulty": "Hard",
+						"explanation": "Calculations based on its dimensions and the density of steel put it at well over 100 pounds.",
+						"image_url": "",
+						"question": "What is the approximate total weight of the Buster Sword according to fan calculations of its volume?",
+						"wrong": [
+							"20 lbs",
+							"50 lbs",
+							"200 lbs"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Hard",
+						"explanation": "The Buster Sword is a unique item that cannot be sold, though it can be discarded in some versions.",
+						"image_url": "",
+						"question": "In the PS1 original, can the Buster Sword be sold to a shop?",
+						"wrong": [
+							"Yes",
+							"Only in Midgar",
+							"Only at Gold Saucer"
+						]
+					},
+					{
+						"correct": "Braver",
+						"difficulty": "Hard",
+						"explanation": "Braver is a single, powerful downward leap and strike with the Buster Sword.",
+						"image_url": "",
+						"question": "What is the name of the first Limit Break Cloud uses with the Buster Sword?",
+						"wrong": [
+							"Slashing Blow",
+							"Overdrive",
+							"Sonic Break"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_buster_sword",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Buster Sword",
+				"lore_desc": "A massive, broad-bladed sword that serves as a symbol of dreams and honor, passed from mentor to student.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Relic",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Kain",
+						"difficulty": "Easy",
+						"explanation": "Kain cast Raziel into the Lake of the Dead after Raziel grew wings before he did.",
+						"image_url": "https://skillcheckgame.com/assets/images/raziel.webp",
+						"question": "Who is the vampire lord who executed Raziel and serves as his main target for revenge?",
+						"wrong": [
+							"Vorador",
+							"Janos Audron",
+							"Mobius"
+						]
+					},
+					{
+						"correct": "Souls",
+						"difficulty": "Easy",
+						"explanation": "As a wraith, Raziel must devour the souls of his enemies to maintain his physical form.",
+						"image_url": "",
+						"question": "Instead of drinking blood like a traditional vampire, what does Raziel consume to sustain himself?",
+						"wrong": [
+							"Water",
+							"Brains",
+							"Energy"
+						]
+					},
+					{
+						"correct": "Wings",
+						"difficulty": "Easy",
+						"explanation": "Raziel evolved wings before his master, which Kain saw as a sign of transgression.",
+						"image_url": "",
+						"question": "What physical feature did Raziel develop that caused Kain to grow jealous and order his execution?",
+						"wrong": [
+							"Claws",
+							"Fangs",
+							"Telepathy"
+						]
+					},
+					{
+						"correct": "The Soul Reaver",
+						"difficulty": "Easy",
+						"explanation": "The Soul Reaver is a powerful blade that becomes bonded to Raziel's spirit.",
+						"image_url": "",
+						"question": "What is the name of the legendary sword that Raziel eventually carries as a spectral weapon?",
+						"wrong": [
+							"Blood Drinker",
+							"The Wraith Blade",
+							"Kain's Edge"
+						]
+					},
+					{
+						"correct": "His missing lower jaw",
+						"difficulty": "Easy",
+						"explanation": "Raziel's lower jaw was destroyed during his centuries of burning in the Lake of the Dead.",
+						"image_url": "",
+						"question": "Raziel often hides his lower face with a scarf. What is he hiding underneath?",
+						"wrong": [
+							"Vampire fangs",
+							"A burned face",
+							"Tattoos"
+						]
+					},
+					{
+						"correct": "Nosgoth",
+						"difficulty": "Medium",
+						"explanation": "Nosgoth is a dark fantasy world that has fallen into ruin due to the corruption of the Pillars.",
+						"image_url": "https://skillcheckgame.com/assets/images/raziel.webp",
+						"question": "What is the name of the decaying world where the 'Soul Reaver' story takes place?",
+						"wrong": [
+							"Azeroth",
+							"Lordaeron",
+							"Hyrule"
+						]
+					},
+					{
+						"correct": "The Elder God",
+						"difficulty": "Medium",
+						"explanation": "The Elder God claims to be the wheel of fate and encourages Raziel to kill Kain.",
+						"image_url": "",
+						"question": "Who is the mysterious entity that resurrects Raziel as a wraith at the start of the game?",
+						"wrong": [
+							"Mobius",
+							"Mortanius",
+							"Ariel"
+						]
+					},
+					{
+						"correct": "Shifting Planes",
+						"difficulty": "Medium",
+						"explanation": "Raziel can shift between the Material and Spectral planes to bypass obstacles.",
+						"image_url": "",
+						"question": "What core gameplay mechanic allows Raziel to solve puzzles by moving between two versions of the world?",
+						"wrong": [
+							"Time Travel",
+							"Dimension Hopping",
+							"Soul Walking"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Medium",
+						"explanation": "Raziel was the first of Kain's six lieutenants; his five brothers became his targets.",
+						"image_url": "",
+						"question": "How many vampire brothers did Raziel have, all of whom he must hunt down and kill?",
+						"wrong": [
+							"Three",
+							"Four",
+							"Six"
+						]
+					},
+					{
+						"correct": "Water",
+						"difficulty": "Medium",
+						"explanation": "In Nosgoth, water acts like acid to vampires, which is why Raziel's execution in the lake was so painful.",
+						"image_url": "",
+						"question": "What is the primary elemental weakness of the vampires in 'Soul Reaver'?",
+						"wrong": [
+							"Silver",
+							"Garlic",
+							"Crosses"
+						]
+					},
+					{
+						"correct": "First-born Lieutenant",
+						"difficulty": "Hard",
+						"explanation": "Being the first-born, he was the most powerful and loyal of Kain's servants.",
+						"image_url": "https://skillcheckgame.com/assets/images/raziel.webp",
+						"question": "What was Raziel's rank among the vampires before his fall?",
+						"wrong": [
+							"Second-in-command",
+							"General",
+							"Prince"
+						]
+					},
+					{
+						"correct": "One thousand years",
+						"difficulty": "Hard",
+						"explanation": "The passage of time in the lake turned Raziel from a vampire into a spectral wraith.",
+						"image_url": "",
+						"question": "In the intro, for how many years was Raziel burning in the Lake of the Dead before he was resurrected?",
+						"wrong": [
+							"One hundred years",
+							"Five hundred years",
+							"An eternity"
+						]
+					},
+					{
+						"correct": "Melchiah",
+						"difficulty": "Hard",
+						"explanation": "Melchiah was the weakest and his body was literally falling apart, forcing him to sew on new skin.",
+						"image_url": "",
+						"question": "What is the name of the first brother Raziel encounters, who has devolved into a multi-limbed spider-like creature?",
+						"wrong": [
+							"Zephon",
+							"Rahab",
+							"Dumah"
+						]
+					},
+					{
+						"correct": "Wall Climbing",
+						"difficulty": "Hard",
+						"explanation": "Each brother's soul grants Raziel a new traversal or combat ability.",
+						"image_url": "",
+						"question": "What ability does Raziel gain after consuming the soul of his brother Zephon?",
+						"wrong": [
+							"Swimming",
+							"Force Projection",
+							"Teleportation"
+						]
+					},
+					{
+						"correct": "The Pillars of Balance",
+						"difficulty": "Hard",
+						"explanation": "The corruption of these nine pillars is the central conflict of the entire 'Legacy of Kain' series.",
+						"image_url": "",
+						"question": "What are the 'Pillars of Nosgoth' that represent the spiritual health of the world?",
+						"wrong": [
+							"The Towers of Truth",
+							"The Columns of Life",
+							"The Spires of Fate"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_raziel",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Raziel",
+				"lore_desc": "A former vampire lieutenant executed by his master Kain, who returns as a soul-devouring wraith to seek revenge.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Wraith",
+					"Vampire"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Alaska",
+						"difficulty": "Easy",
+						"explanation": "Shadow Moses is a fictional island in Alaska's Fox Islands chain.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadow_moses_island.webp",
+						"question": "In which US state is Shadow Moses Island located?",
+						"wrong": [
+							"Washington",
+							"Maine",
+							"Hawaii"
+						]
+					},
+					{
+						"correct": "Snowing and freezing",
+						"difficulty": "Easy",
+						"explanation": "The arctic setting provides the perfect backdrop for Snake's stealth mission.",
+						"image_url": "",
+						"question": "What is the weather like on Shadow Moses throughout Snake's mission?",
+						"wrong": [
+							"Rainy and dark",
+							"Sunny and hot",
+							"Foggy and damp"
+						]
+					},
+					{
+						"correct": "Nuclear Weapons Disposal",
+						"difficulty": "Easy",
+						"explanation": "It was publicly known as a site for decommissioning old nuclear warheads.",
+						"image_url": "",
+						"question": "What was the official purpose of the Shadow Moses facility before the terrorist takeover?",
+						"wrong": [
+							"Biological Research",
+							"Prison Camp",
+							"Oil Refinery"
+						]
+					},
+					{
+						"correct": "One-man Submersible",
+						"difficulty": "Easy",
+						"explanation": "Snake is launched from a submarine in a 'SDV' (Swimmer Delivery Vehicle).",
+						"image_url": "",
+						"question": "Snake arrives at the island via what type of transport at the start of the game?",
+						"wrong": [
+							"Parachute",
+							"Inflatable Boat",
+							"Helicopter"
+						]
+					},
+					{
+						"correct": "FOXHOUND",
+						"difficulty": "Easy",
+						"explanation": "FOXHOUND, Snake's former unit, led the revolt demanding the remains of Big Boss.",
+						"image_url": "",
+						"question": "Which rogue military unit took control of Shadow Moses and its nuclear arsenal?",
+						"wrong": [
+							"Dead Cell",
+							"The Cobras",
+							"Gurlukovich Mercenaries"
+						]
+					},
+					{
+						"correct": "Underground Base",
+						"difficulty": "Medium",
+						"explanation": "The hangar is deep beneath the surface and is the site of the game's final battle.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadow_moses_island.webp",
+						"question": "What is the name of the massive underground hangar that houses Metal Gear REX?",
+						"wrong": [
+							"The Silo",
+							"Sector 7",
+							"The Vault"
+						]
+					},
+					{
+						"correct": "Genome Soldiers",
+						"difficulty": "Medium",
+						"explanation": "Genome Soldiers were enhanced with the DNA of the 'Greatest Warrior' (Big Boss).",
+						"image_url": "",
+						"question": "What kind of soldiers make up the majority of the enemy forces on the island?",
+						"wrong": [
+							"Cyborgs",
+							"Zombies",
+							"Robots"
+						]
+					},
+					{
+						"correct": "Vulcan Raven",
+						"difficulty": "Medium",
+						"explanation": "Vulcan Raven uses a giant Gatling gun and commands ravens to attack Snake.",
+						"image_url": "",
+						"question": "Which boss fight takes place in a frozen warehouse filled with shipping containers and ravens?",
+						"wrong": [
+							"Psycho Mantis",
+							"Sniper Wolf",
+							"Revolver Ocelot"
+						]
+					},
+					{
+						"correct": "The environment (Heat and Cold)",
+						"difficulty": "Medium",
+						"explanation": "Snake must take the cards to extremely hot or cold areas of the base to change their shape.",
+						"image_url": "",
+						"question": "What must Snake use to change the temperature-sensitive PAL key cards?",
+						"wrong": [
+							"A computer terminal",
+							"A chemical bath",
+							"The DNA of the President"
+						]
+					},
+					{
+						"correct": "The Communications Tower",
+						"difficulty": "Medium",
+						"explanation": "Snake and Wolf engage in a long-distance sniper duel across a snowy field.",
+						"image_url": "",
+						"question": "Where does Snake have his first legendary showdown with Sniper Wolf?",
+						"wrong": [
+							"The Helipad",
+							"The Tank Hangar",
+							"The Blast Furnace"
+						]
+					},
+					{
+						"correct": "The Cargo Elevator",
+						"difficulty": "Hard",
+						"explanation": "The cargo elevator sequence is a famous ambush point where Snake must fight off hidden soldiers.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadow_moses_island.webp",
+						"question": "What is the name of the elevator-like transport that Snake uses to travel between the base levels?",
+						"wrong": [
+							"The Lift",
+							"The Gantry",
+							"The Shaker"
+						]
+					},
+					{
+						"correct": "Donald Anderson",
+						"difficulty": "Hard",
+						"explanation": "It is later revealed that the man Snake met was actually Decoy Octopus in disguise.",
+						"image_url": "",
+						"question": "What is the name of the DARPA Chief who dies in his cell shortly after Snake finds him?",
+						"wrong": [
+							"Kenneth Baker",
+							"Jim Houseman",
+							"Richard Ames"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Hard",
+						"explanation": "They threatened to launch a single, stealth-enabled nuclear strike if their demands weren't met.",
+						"image_url": "",
+						"question": "How many nuclear warheads were FOXHOUND threatening to launch from Shadow Moses?",
+						"wrong": [
+							"Two",
+							"Ten",
+							"An entire arsenal"
+						]
+					},
+					{
+						"correct": "Sneaking Suit",
+						"difficulty": "Hard",
+						"explanation": "The sneaking suits insulate body heat and provide light armor for the arctic environment.",
+						"image_url": "",
+						"question": "What is the specific name of the stealth material the Genome Soldiers wear?",
+						"wrong": [
+							"Optic Camo",
+							"Kevlar",
+							"Genome Plate"
+						]
+					},
+					{
+						"correct": "Naomi Hunter",
+						"difficulty": "Hard",
+						"explanation": "Naomi injected Snake with FoxDie to seek revenge for her brother, Frank Jaeger.",
+						"image_url": "",
+						"question": "Which member of the support team is revealed to be a mole working for the US government?",
+						"wrong": [
+							"Mei Ling",
+							"Nastasha Romanenko",
+							"Master Miller"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_shadow_moses_island",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Shadow Moses Island",
+				"lore_desc": "A remote nuclear weapons disposal facility in Alaska that was seized by the rogue unit FOXHOUND.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Base",
+					"Military",
+					"Snow"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pink and White",
+						"difficulty": "Easy",
+						"explanation": "The truck maintains its traditional ice cream vendor colors to hide its deadly nature.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_tooth_truck.webp",
+						"question": "What is the primary color of the Sweet Tooth ice cream truck?",
+						"wrong": [
+							"Red and Black",
+							"Blue and Silver",
+							"Green and Yellow"
+						]
+					},
+					{
+						"correct": "A Giant Clown Head",
+						"difficulty": "Easy",
+						"explanation": "The smiling clown head is the most recognizable feature of the vehicle.",
+						"image_url": "",
+						"question": "What sits on the roof of the truck, often acting as a projectile?",
+						"wrong": [
+							"A Large Ice Cream Cone",
+							"A Rotating Siren",
+							"A Machine Gun Turret"
+						]
+					},
+					{
+						"correct": "Flaming Ice Cream Cones",
+						"difficulty": "Easy",
+						"explanation": "Sweet Tooth fires flaming cones that track enemies and deal high damage.",
+						"image_url": "",
+						"question": "The truck's special weapon 'Napalm' is visually represented by what item?",
+						"wrong": [
+							"Burning Tires",
+							"Molotov Cocktails",
+							"Rocket Bullets"
+						]
+					},
+					{
+						"correct": "A Giant Robot",
+						"difficulty": "Easy",
+						"explanation": "In later PS1 entries, the truck became much more technologically advanced.",
+						"image_url": "",
+						"question": "In Twisted Metal 4, Sweet Tooth's truck can transform into what?",
+						"wrong": [
+							"A Flying Saucer",
+							"A Monster Truck",
+							"A Tank"
+						]
+					},
+					{
+						"correct": "Average",
+						"difficulty": "Easy",
+						"explanation": "The truck is a balanced vehicle, offering moderate speed and decent armor.",
+						"image_url": "",
+						"question": "What is the speed rating of the Sweet Tooth truck compared to other vehicles?",
+						"wrong": [
+							"The Fastest",
+							"The Slowest",
+							"Instantaneous"
+						]
+					},
+					{
+						"correct": "Paris",
+						"difficulty": "Medium",
+						"explanation": "The cover features Sweet Tooth in front of a burning Eiffel Tower.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_tooth_truck.webp",
+						"question": "In Twisted Metal 2, which city's level features the truck prominently on the cover art?",
+						"wrong": [
+							"New York",
+							"Hong Kong",
+							"Antarctica"
+						]
+					},
+					{
+						"correct": "It detaches and flies at enemies",
+						"difficulty": "Medium",
+						"explanation": "The head becomes a homing projectile in many versions of the game.",
+						"image_url": "",
+						"question": "What happens to the Clown Head when Sweet Tooth uses his special weapon in the later games?",
+						"wrong": [
+							"It laughs and stuns people",
+							"It spins around",
+							"It heals the truck"
+						]
+					},
+					{
+						"correct": "Input a cheat code",
+						"difficulty": "Medium",
+						"explanation": "Sweet Tooth was a hidden character in the second game, requiring a specific code on the character select screen.",
+						"image_url": "",
+						"question": "How do you unlock Sweet Tooth as a playable character in Twisted Metal 2?",
+						"wrong": [
+							"Beat the game once",
+							"Find his truck in a level",
+							"Win a race"
+						]
+					},
+					{
+						"correct": "Chevrolet Step Van",
+						"difficulty": "Medium",
+						"explanation": "The boxy design of the Chevy Step Van is the standard for American ice cream trucks.",
+						"image_url": "",
+						"question": "The truck is based on which real-life vehicle model?",
+						"wrong": [
+							"Ford F-150",
+							"Volkswagen Beetle",
+							"Mercedes Sprinter"
+						]
+					},
+					{
+						"correct": "Sweet Tooth (Still Marcus Kane)",
+						"difficulty": "Medium",
+						"explanation": "While the driver is the same, the games' developers changed between 2 and 3.",
+						"image_url": "",
+						"question": "What is the name of the driver who stole the Sweet Tooth truck in Twisted Metal 3?",
+						"wrong": [
+							"Calypso",
+							"Minion",
+							"Needles Kane"
+						]
+					},
+					{
+						"correct": "The Front Bumper",
+						"difficulty": "Hard",
+						"explanation": "The truck is built for demolition, featuring heavy armor on the front for ramming.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_tooth_truck.webp",
+						"question": "Which part of the truck is reinforced to allow it to ram other cars effectively?",
+						"wrong": [
+							"The Sides",
+							"The Roof",
+							"The Tires"
+						]
+					},
+					{
+						"correct": "Napalm",
+						"difficulty": "Hard",
+						"explanation": "Though it looked like ice cream, the game mechanics classified it as Napalm.",
+						"image_url": "",
+						"question": "In the original 1995 game, what was the name of the special weapon used by Sweet Tooth?",
+						"wrong": [
+							"Flamethrower",
+							"Clown Fire",
+							"Sugar Rush"
+						]
+					},
+					{
+						"correct": "SUITTOOTH",
+						"difficulty": "Hard",
+						"explanation": "The vanity plate is a play on the character's name.",
+						"image_url": "",
+						"question": "What is the license plate number seen on the truck in some promotional art and cinematic scenes?",
+						"wrong": [
+							"KILLA-CLOWN",
+							"ICE-CREAM",
+							"TWISTED"
+						]
+					},
+					{
+						"correct": "The Los Angeles secret area",
+						"difficulty": "Hard",
+						"explanation": "By blowing up specific landmarks, players can enter secret arenas to fight mini-bosses.",
+						"image_url": "",
+						"question": "In Twisted Metal 2, which hidden area contains a fight against multiple Sweet Tooth trucks?",
+						"wrong": [
+							"The Paris Catacombs",
+							"The Antarctic Base",
+							"The Holland Windmills"
+						]
+					},
+					{
+						"correct": "Ice cream truck jingle",
+						"difficulty": "Hard",
+						"explanation": "The juxtaposition of the cheerful jingle and the carnage is a series staple.",
+						"image_url": "",
+						"question": "What sound does the truck's horn make, designed to taunt other players?",
+						"wrong": [
+							"Evil Laughter",
+							"Standard Beep",
+							"Siren"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_sweet_tooth_truck",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "Sweet Tooth Truck",
+				"lore_desc": "A modified Chevrolet Step Van designed for maximum destruction and psychological terror.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Vehicle",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cloud Strife",
+						"difficulty": "Easy",
+						"explanation": "Cloud Strife is the protagonist of Final Fantasy VII and uses the Buster Sword throughout the early game.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_buster_sword.webp",
+						"question": "Who is the most famous wielder of the Buster Sword on the PlayStation 1?",
+						"wrong": [
+							"Sephiroth",
+							"Zack Fair",
+							"Barret Wallace"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "The Buster Sword has two linked materia slots, allowing for early-game magic combinations.",
+						"image_url": "",
+						"question": "How many materia slots does the Buster Sword have in its initial state?",
+						"wrong": [
+							"One",
+							"Three",
+							"Four"
+						]
+					},
+					{
+						"correct": "Only one edge",
+						"difficulty": "Easy",
+						"explanation": "Despite its massive size, it is a single-edged weapon with a flat back.",
+						"image_url": "",
+						"question": "The Buster Sword is described as a 'broadsword.' Which side of the blade is sharp?",
+						"wrong": [
+							"Both edges",
+							"The tip only",
+							"It is blunt"
+						]
+					},
+					{
+						"correct": "Enormous",
+						"difficulty": "Easy",
+						"explanation": "It is roughly 5-6 feet long and at least a foot wide, requiring immense strength to wield.",
+						"image_url": "",
+						"question": "Which of these words best describes the size of the Buster Sword compared to a normal sword?",
+						"wrong": [
+							"Pocket-sized",
+							"Invisible",
+							"Standard"
+						]
+					},
+					{
+						"correct": "Brown and Gold",
+						"difficulty": "Easy",
+						"explanation": "The classic design features a leather-wrapped brown grip and a golden handguard.",
+						"image_url": "",
+						"question": "What color is the hilt and handle of the original Buster Sword?",
+						"wrong": [
+							"Red and Black",
+							"Silver and Blue",
+							"Green and Grey"
+						]
+					},
+					{
+						"correct": "Zack Fair",
+						"difficulty": "Medium",
+						"explanation": "Zack Fair was Cloud's best friend who died protecting him, passing on the sword as a legacy.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_buster_sword.webp",
+						"question": "Who was the man who gave the Buster Sword to Cloud before the events of the game?",
+						"wrong": [
+							"Angeal Hewley",
+							"Sephiroth",
+							"Biggs"
+						]
+					},
+					{
+						"correct": "It is the starting weapon",
+						"difficulty": "Medium",
+						"explanation": "Though iconic, it is Cloud's weakest weapon in terms of stats and is usually replaced early on.",
+						"image_url": "",
+						"question": "In Final Fantasy VII, what is the status of the Buster Sword's attack power compared to other weapons?",
+						"wrong": [
+							"It is the strongest sword",
+							"It is mid-tier",
+							"It cannot be unequipped"
+						]
+					},
+					{
+						"correct": "Steel",
+						"difficulty": "Medium",
+						"explanation": "It is a heavy, industrial steel blade with no magical properties of its own.",
+						"image_url": "",
+						"question": "What material is the Buster Sword primarily made of, giving it its heavy weight?",
+						"wrong": [
+							"Mithril",
+							"Adamantite",
+							"Mako Glass"
+						]
+					},
+					{
+						"correct": "Angeal's Father",
+						"difficulty": "Medium",
+						"explanation": "Lore added in later titles explains it was commissioned by Angeal Hewley's family.",
+						"image_url": "",
+						"question": "What is the name of the man who originally forged the sword for his son's entry into the military?",
+						"wrong": [
+							"Professor Hojo",
+							"Zangan",
+							"The Weapon Seller"
+						]
+					},
+					{
+						"correct": "Equipping Materia",
+						"difficulty": "Medium",
+						"explanation": "Those holes are the physical slots where Materia orbs are placed.",
+						"image_url": "",
+						"question": "The two holes near the hilt of the sword are intended for what purpose?",
+						"wrong": [
+							"Lightening the weight",
+							"Mounting on a wall",
+							"Attaching a strap"
+						]
+					},
+					{
+						"correct": "Cross-slash",
+						"difficulty": "Hard",
+						"explanation": "Cross-slash features Cloud carving a glowing Kanji-like symbol that resembles an 'X' or 'B'.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_buster_sword.webp",
+						"question": "Which of Cloud's Limit Breaks shows him slashing the 'B' and 'S' (for Buster Sword) into the air?",
+						"wrong": [
+							"Braver",
+							"Blade Beam",
+							"Meteorain"
+						]
+					},
+					{
+						"correct": "He didn't want it to get damaged",
+						"difficulty": "Hard",
+						"explanation": "Angeal valued 'dreams and honor' and saw the sword as a symbol, not just a tool, fearing wear and tear.",
+						"image_url": "",
+						"question": "Why did the original owner, Angeal, rarely use the Buster Sword in combat?",
+						"wrong": [
+							"It was too heavy",
+							"It was cursed",
+							"He preferred magic"
+						]
+					},
+					{
+						"correct": "Over 100 lbs",
+						"difficulty": "Hard",
+						"explanation": "Calculations based on its dimensions and the density of steel put it at well over 100 pounds.",
+						"image_url": "",
+						"question": "What is the approximate total weight of the Buster Sword according to fan calculations of its volume?",
+						"wrong": [
+							"20 lbs",
+							"50 lbs",
+							"200 lbs"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Hard",
+						"explanation": "The Buster Sword is a unique item that cannot be sold, though it can be discarded in some versions.",
+						"image_url": "",
+						"question": "In the PS1 original, can the Buster Sword be sold to a shop?",
+						"wrong": [
+							"Yes",
+							"Only in Midgar",
+							"Only at Gold Saucer"
+						]
+					},
+					{
+						"correct": "Braver",
+						"difficulty": "Hard",
+						"explanation": "Braver is a single, powerful downward leap and strike with the Buster Sword.",
+						"image_url": "",
+						"question": "What is the name of the first Limit Break Cloud uses with the Buster Sword?",
+						"wrong": [
+							"Slashing Blow",
+							"Overdrive",
+							"Sonic Break"
+						]
+					}
+				]
+			},
+			"id": "ps1_classics_the_buster_sword",
+			"meta": {
+				"date_added": "2026-03-15",
+				"entity_category": "Theme Item",
+				"full_title": "The Buster Sword",
+				"lore_desc": "A massive, broad-bladed sword that serves as a symbol of dreams and honor, passed from mentor to student.",
+				"theme_origin": "ps1 classics",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Relic",
+					"Iconic"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -57306,6 +60942,22 @@
 						"Nemesis"
 					],
 					"name": "You Want S.T.A.R.S.?"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jill Valentine",
+						"Raccoon City"
+					],
+					"name": "S.T.A.R.S. Survivor"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jill Valentine",
+						"Lara Croft"
+					],
+					"name": "Leading Ladies"
 				}
 			]
 		},
@@ -58125,12 +61777,126 @@
 					"name": "Brotherhood Assassin"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Alduin",
 						"Paarthurnax"
 					],
 					"name": "Shattered Time"
+				}
+			]
+		},
+		{
+			"id": "ps1 classics",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Cloud Strife",
+						"Sephiroth",
+						"Midgar"
+					],
+					"name": "The Reunion"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Crash Bandicoot",
+						"Spyro the Dragon",
+						"Parappa the Rapper"
+					],
+					"name": "Saturday Morning Mascots"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Crash Bandicoot",
+						"Lara Croft",
+						"Solid Snake"
+					],
+					"name": "Polygonal Pioneers"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Sephiroth",
+						"Raziel",
+						"Alucard"
+					],
+					"name": "Creatures of the Night"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Midgar",
+						"Raccoon City",
+						"Shadow Moses Island"
+					],
+					"name": "Corporate Disasters"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Solid Snake",
+						"Shadow Moses Island"
+					],
+					"name": "Tactical Espionage"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Crash Bandicoot",
+						"Aku Aku"
+					],
+					"name": "Oodabigah!"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Cloud Strife",
+						"Buster Sword"
+					],
+					"name": "Heavy Burden"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sweet Tooth",
+						"Sweet Tooth Truck"
+					],
+					"name": "Twisted Carnage"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Alucard",
+						"Raziel"
+					],
+					"name": "Symphony of Souls"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Cloud Strife",
+						"Sephiroth"
+					],
+					"name": "Fated Rivals"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Solid Snake",
+						"Lara Croft"
+					],
+					"name": "Infiltrators"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Spyro the Dragon",
+						"Parappa the Rapper"
+					],
+					"name": "Rhythm & Reptiles"
 				}
 			]
 		}
