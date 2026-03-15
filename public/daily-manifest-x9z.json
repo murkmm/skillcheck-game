@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773530241,
+	"last_updated": 1773606840,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2147,6 +2147,50 @@
 				"skyrim_solitude",
 				"skyrim_cicero",
 				"skyrim_azura's_star"
+			]
+		},
+		"2026-03-16": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "PS1: The 32-Bit Revolution",
+			"share_text": "I survived Midgar, Shadow Moses, and today's Skillcheck!",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"ps1_classics_crash_bandicoot",
+				"ps1_classics_lara_croft",
+				"ps1_classics_cloud_strife"
+			],
+			"starters": [
+				"ps1_classics_solid_snake",
+				"ps1_classics_cloud_strife",
+				"ps1_classics_crash_bandicoot",
+				"ps1_classics_spyro_the_dragon",
+				"ps1_classics_lara_croft",
+				"ps1_classics_jill_valentine",
+				"ps1_classics_sephiroth",
+				"ps1_classics_midgar",
+				"ps1_classics_sweet_tooth",
+				"ps1_classics_alucard",
+				"ps1_classics_aku_aku",
+				"ps1_classics_raccoon_city",
+				"ps1_classics_parappa_the_rapper",
+				"ps1_classics_buster_sword",
+				"ps1_classics_raziel",
+				"ps1_classics_shadow_moses_island",
+				"ps1_classics_sweet_tooth_truck"
 			]
 		}
 	}
