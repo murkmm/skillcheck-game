@@ -50,22 +50,48 @@ import Layout from '~/layouts/Layout.astro';
 </Layout>
 
 <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const fsBtn = document.getElementById('fullscreen-btn');
+    const container = document.getElementById('game-container');
+    const fsText = document.getElementById('fullscreen-text');
+    const iconMax = document.getElementById('icon-max');
+
+    if (fsBtn && container) {
+      fsBtn.addEventListener('click', () => {
+        if (!document.fullscreenElement) {
+          container.requestFullscreen().catch((err) => {
+            console.error(`Error attempting to enable full-screen mode: ${err.message}`);
+          });
+        } else {
+          document.exitFullscreen();
+        }
+      });
+
+      document.addEventListener('fullscreenchange', () => {
+        if (fsText && iconMax) {
+          if (document.fullscreenElement) {
+            fsText.textContent = 'EXIT FULLSCREEN';
+            iconMax.innerHTML =
+              '<path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>';
+          } else {
+            fsText.textContent = 'FULLSCREEN';
+            iconMax.innerHTML =
+              '<path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>';
+          }
+        }
+      });
+    }
+  });
+
   window.addEventListener('message', (event) => {
-    // 1. RELAY: Godot asked us to open the checkout
     if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
       console.log('[ASTRO] Opening Lemon Squeezy in a new tab...');
-
-      // Force a native new tab. No overlay!
       window.open(event.data.url, '_blank');
     }
-
-    // 2. RELAY: The success.html page in the new tab just pinged us!
     if (event.data === 'payment_success') {
       console.log('[ASTRO] Payment success received from new tab! Telling Godot...');
-
-      // Pass the message down into the Godot iframe
       const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement;
-      if (gameIframe?.contentWindow) {
+      if (gameIframe && gameIframe.contentWindow) {
         gameIframe.contentWindow.postMessage('payment_success', '*');
       }
     }
