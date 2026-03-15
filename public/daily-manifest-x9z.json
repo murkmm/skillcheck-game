@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773442355,
+	"last_updated": 1773530241,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2104,6 +2104,49 @@
 				"n64_classics_epona",
 				"n64_classics_rainbow_road",
 				"n64_classics_master_hand"
+			]
+		},
+		"2026-03-15": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Skyrim: The Trivia Scrolls",
+			"share_text": "I used to be an adventurer like you, then I played today's Skillcheck.",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"skyrim_dovahkiin",
+				"skyrim_alduin",
+				"skyrim_ulfric_stormcloak"
+			],
+			"starters": [
+				"skyrim_dovahkiin",
+				"skyrim_alduin",
+				"skyrim_whiterun",
+				"skyrim_lydia",
+				"skyrim_sweetroll",
+				"skyrim_paarthurnax",
+				"skyrim_fus_ro_dah",
+				"skyrim_the_dark_brotherhood",
+				"skyrim_blackreach",
+				"skyrim_m'aiq_the_liar",
+				"skyrim_mehrunes'_razor",
+				"skyrim_skooma",
+				"skyrim_ulfric_stormcloak",
+				"skyrim_solitude",
+				"skyrim_cicero",
+				"skyrim_azura's_star"
 			]
 		}
 	}

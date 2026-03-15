@@ -766,7 +766,7 @@
 			"id": "fran_n64_theme",
 			"name": "Expansion Pak Installed",
 			"reward_text": "Theme: Project Reality",
-			"target": 15,
+			"target": 15.0,
 			"target_key": "n64 classics",
 			"type": "mastery_franchise",
 			"unlocks_theme": "Project_Reality",
@@ -53122,6 +53122,2998 @@
 					"Creator"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dragonborn",
+						"difficulty": "Easy",
+						"explanation": "It refers to an individual born with the soul of a dragon but the body of a mortal.",
+						"question": "What is the literal translation of 'Dovahkiin' from the dragon language?",
+						"wrong": [
+							"Dragon Hunter",
+							"Dragon Slayer",
+							"Dragon King"
+						]
+					},
+					{
+						"correct": "Akatosh",
+						"difficulty": "Easy",
+						"explanation": "Akatosh is the Dragon God of Time and the primary deity associated with the Dragonborn lineage.",
+						"question": "Which deity is said to have blessed the Dragonborn with their blood?",
+						"wrong": [
+							"Talos",
+							"Arkay",
+							"Stendarr"
+						]
+					},
+					{
+						"correct": "Dragon Souls",
+						"difficulty": "Easy",
+						"explanation": "Absorbing the soul of a slain dragon allows the Dovahkiin to master the Thu'um instantly.",
+						"question": "What must the Dragonborn consume to unlock the full potential of a Shout?",
+						"wrong": [
+							"Grand Soul Gems",
+							"Daedra Hearts",
+							"Dragon Scales"
+						]
+					},
+					{
+						"correct": "The Greybeards",
+						"difficulty": "Easy",
+						"explanation": "The Greybeards are masters of the Way of the Voice and guide the player in their journey.",
+						"question": "Which ancient group of monks summons the Dragonborn to High Hrothgar?",
+						"wrong": [
+							"The Blades",
+							"The Psijic Order",
+							"The Vigilants of Stendarr"
+						]
+					},
+					{
+						"correct": "Alduin's Wall",
+						"difficulty": "Easy",
+						"explanation": "Located in Sky Haven Temple, the wall depicts the history and future of the Dragonborn.",
+						"question": "The prophecy of the Dragonborn's return is inscribed on which historical object?",
+						"wrong": [
+							"The Elder Scrolls",
+							"The Oghma Infinium",
+							"The Eye of Magnus"
+						]
+					},
+					{
+						"correct": "Miraak",
+						"difficulty": "Medium",
+						"explanation": "Miraak served the dragons as a Priest before turning against them to seek his own power.",
+						"question": "Who was the very first Dragonborn known in history, who later became the ruler of Solstheim?",
+						"wrong": [
+							"Tiber Septim",
+							"Reman Cyrodiil",
+							"Vahlok the Jailer"
+						]
+					},
+					{
+						"correct": "Born or Child",
+						"difficulty": "Medium",
+						"explanation": "It signifies the Dovahkiin is a child of the dragons in spirit, if not in form.",
+						"question": "In the dragon language, the word 'Dovah' means Dragon. What does 'Kiin' specifically mean?",
+						"wrong": [
+							"Soul",
+							"Hunter",
+							"King"
+						]
+					},
+					{
+						"correct": "The Greeting",
+						"difficulty": "Medium",
+						"explanation": "They shout at the player in unison, a power that would kill a non-Dragonborn.",
+						"question": "Which ritual do the Greybeards perform to officially recognize you as 'Dovahkiin'?",
+						"wrong": [
+							"The Naming",
+							"The Shouting",
+							"The Awakening"
+						]
+					},
+					{
+						"correct": "Tiber Septim",
+						"difficulty": "Medium",
+						"explanation": "Tiber Septim, also known as Talos, was a Dragonborn who conquered all of Tamriel.",
+						"question": "Which legendary hero and Dragonborn founded the Septim Empire?",
+						"wrong": [
+							"Uriel Septim",
+							"Martin Septim",
+							"Pelagius Septim"
+						]
+					},
+					{
+						"correct": "Preventing resurrection",
+						"difficulty": "Medium",
+						"explanation": "By absorbing the soul, the Dragonborn ensures the dragon cannot be brought back by Alduin.",
+						"question": "What unique ability does the Dragonborn have regarding the permanence of a dragon's death?",
+						"wrong": [
+							"Banishment to Oblivion",
+							"Turning them to stone",
+							"Controlling their mind"
+						]
+					},
+					{
+						"correct": "Delphine",
+						"difficulty": "Hard",
+						"explanation": "Delphine, the last of the Blades, leaves a note to test the Dragonborn's identity.",
+						"question": "During the quest 'The Horn of Jurgen Windcaller', who steals the artifact before you arrive?",
+						"wrong": [
+							"Ulfric Stormcloak",
+							"Cicero",
+							"Mercer Frey"
+						]
+					},
+					{
+						"correct": "Elder Scroll Dragon",
+						"difficulty": "Hard",
+						"explanation": "The player must use this scroll at the Time-Wound on the Throat of the World.",
+						"question": "Which specific Elder Scroll is required to learn the Dragonrend shout in the main questline?",
+						"wrong": [
+							"Elder Scroll Blood",
+							"Elder Scroll Sun",
+							"Elder Scroll Time"
+						]
+					},
+					{
+						"correct": "Akatosh",
+						"difficulty": "Hard",
+						"explanation": "Since both dragons and the Dragonborn are shards of Akatosh, they are spiritual siblings.",
+						"question": "The Dovahkiin is technically related to the dragons as a 'sibling' through which figure?",
+						"wrong": [
+							"Alduin",
+							"Paarthurnax",
+							"Kyne"
+						]
+					},
+					{
+						"correct": "Sovngarde",
+						"difficulty": "Hard",
+						"explanation": "Sovngarde is the Nord afterlife where the spirits of heroes feast in the Hall of Valor.",
+						"question": "What is the name of the Dragonborn's ultimate destination where they face Alduin?",
+						"wrong": [
+							"Aetherius",
+							"Coldharbour",
+							"The Void"
+						]
+					},
+					{
+						"correct": "Ro",
+						"difficulty": "Hard",
+						"explanation": "After 'Fus' is learned at Bleak Falls Barrow, the Greybeards grant 'Ro' as their first gift.",
+						"question": "Which shout is taught to the player by the Greybeards to prove they can master the Voice?",
+						"wrong": [
+							"Dah",
+							"Yol",
+							"Feim"
+						]
+					}
+				]
+			},
+			"id": "skyrim_dovahkiin",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Dovahkiin",
+				"lore_desc": "The legendary hero born with the blood and soul of a dragon, destined to save the world from Alduin.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Dragon",
+					"Prophecy"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The World Eater",
+						"difficulty": "Easy",
+						"explanation": "He is prophesied to consume the world at the end of the current kalpa (cycle).",
+						"question": "Alduin is known by what terrifying title in Nord legend?",
+						"wrong": [
+							"The Life Taker",
+							"The Sky King",
+							"The Soul Stealer"
+						]
+					},
+					{
+						"correct": "Helgen",
+						"difficulty": "Easy",
+						"explanation": "His unexpected arrival allows the player and Ulfric Stormcloak to escape.",
+						"question": "At the start of the game, Alduin interrupts the execution of the player in which town?",
+						"wrong": [
+							"Riverwood",
+							"Falkreath",
+							"Windhelm"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Easy",
+						"explanation": "Alduin is uniquely pitch-black, distinguishing him from all other dragons.",
+						"question": "What color is Alduin's scales and hide?",
+						"wrong": [
+							"Red",
+							"Gold",
+							"White"
+						]
+					},
+					{
+						"correct": "Paarthurnax",
+						"difficulty": "Easy",
+						"explanation": "Paarthurnax betrayed Alduin to teach the Thu'um to mankind.",
+						"question": "Who is Alduin's younger brother who helped humans rebel against him?",
+						"wrong": [
+							"Odahviing",
+							"Durnehviir",
+							"Sahloknir"
+						]
+					},
+					{
+						"correct": "Sovngarde",
+						"difficulty": "Easy",
+						"explanation": "He uses a portal in Skuldafn to reach the Nord afterlife.",
+						"question": "Where does Alduin travel to feast on the souls of the dead?",
+						"wrong": [
+							"Blackreach",
+							"Oblivion",
+							"The Soul Cairn"
+						]
+					},
+					{
+						"correct": "Akatosh",
+						"difficulty": "Medium",
+						"explanation": "Though he is Akatosh's son, he strayed from his purpose of ending the world to ruling it.",
+						"question": "Alduin is the first-born son of which deity?",
+						"wrong": [
+							"Lorkhan",
+							"Molag Bal",
+							"Talos"
+						]
+					},
+					{
+						"correct": "Dragonrend",
+						"difficulty": "Medium",
+						"explanation": "Dragonrend forces a dragon to experience the concept of mortality, which they cannot comprehend.",
+						"question": "What shout was specifically created by ancient humans to force Alduin to land?",
+						"wrong": [
+							"Unrelenting Force",
+							"Storm Call",
+							"Bend Will"
+						]
+					},
+					{
+						"correct": "Hakon, Felldir, and Gormlaith",
+						"difficulty": "Medium",
+						"explanation": "They couldn't kill him, so they cast him forward in time using the Scroll.",
+						"question": "Which three ancient Nord heroes originally used an Elder Scroll to banish Alduin?",
+						"wrong": [
+							"Jurgen, Olaf, and Wulfharth",
+							"Ysgramor, Ahzidal, and Shalidor",
+							"Ulfric, Galmar, and Rikke"
+						]
+					},
+					{
+						"correct": "Destroyer Devour Master",
+						"difficulty": "Medium",
+						"explanation": "His name Al-Du-In breaks down into these three concepts of destruction.",
+						"question": "What is Alduin's name in the Dragon Language translated to English?",
+						"wrong": [
+							"Fire Wing King",
+							"Eternal Death God",
+							"World Eater Lord"
+						]
+					},
+					{
+						"correct": "Kynesgrove",
+						"difficulty": "Medium",
+						"explanation": "The player witnesses this resurrection while traveling with Delphine.",
+						"question": "In what location does Alduin resurrect the dragon Sahloknir from a burial mound?",
+						"wrong": [
+							"Rorikstead",
+							"Ivarstead",
+							"Dragon Bridge"
+						]
+					},
+					{
+						"correct": "The Prophecy of the Dragonborn",
+						"difficulty": "Hard",
+						"explanation": "His return was predicted to happen after the staff of Chaos was reunited and the Brass Tower walked.",
+						"question": "Why is Alduin's return considered a sign of the end of the world?",
+						"wrong": [
+							"The Oblivion Crisis",
+							"The Red Year",
+							"The Great War"
+						]
+					},
+					{
+						"correct": "Meteors",
+						"difficulty": "Hard",
+						"explanation": "His 'Fire Storm' or meteor shout is a unique and devastating power.",
+						"question": "Unlike other dragons, Alduin does not use fire or frost breath primarily in Sovngarde; what does he rain down?",
+						"wrong": [
+							"Lightning",
+							"Acid",
+							"Ice Spikes"
+						]
+					},
+					{
+						"correct": "Skuldafn",
+						"difficulty": "Hard",
+						"explanation": "It is an ancient dragon cult temple accessible only by flight.",
+						"question": "Which temple serves as the gateway Alduin uses to enter the afterlife?",
+						"wrong": [
+							"High Hrothgar",
+							"Sky Haven Temple",
+							"Forelhost"
+						]
+					},
+					{
+						"correct": "Akatosh",
+						"difficulty": "Hard",
+						"explanation": "The book discusses how the Nords view Alduin as a separate entity from the Imperial Dragon God.",
+						"question": "According to 'The Alduin/Akatosh Dichotomy', many scholars mistakenly confuse Alduin with which god?",
+						"wrong": [
+							"Arkay",
+							"Auriel",
+							"Peryite"
+						]
+					},
+					{
+						"correct": "The Whalebone Bridge",
+						"difficulty": "Hard",
+						"explanation": "The bridge leading to the Hall of Valor is made from the bones of a giant whale.",
+						"question": "What is the name of the bridge Alduin circles while you are in Sovngarde?",
+						"wrong": [
+							"The Serpent Path",
+							"The Rainbow Road",
+							"The Spirit Crossing"
+						]
+					}
+				]
+			},
+			"id": "skyrim_alduin",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Alduin",
+				"lore_desc": "The First-Born of Akatosh and the 'World Eater' who seeks to consume the realm of mortals.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Dragon",
+					"God"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dragonsreach",
+						"difficulty": "Easy",
+						"explanation": "It was built to house a captured dragon in ancient times.",
+						"question": "What is the name of the massive castle that overlooks the city of Whiterun?",
+						"wrong": [
+							"Blue Palace",
+							"Mistveil Keep",
+							"Understone Keep"
+						]
+					},
+					{
+						"correct": "Balgruuf the Greater",
+						"difficulty": "Easy",
+						"explanation": "Jarl Balgruuf is known for trying to remain neutral in the Civil War initially.",
+						"question": "Who is the Jarl of Whiterun at the start of the game?",
+						"wrong": [
+							"Ulfric Stormcloak",
+							"Siddgeir",
+							"Elisif the Fair"
+						]
+					},
+					{
+						"correct": "The Cloud District",
+						"difficulty": "Easy",
+						"explanation": "Nazeem famously asks if you 'get to the Cloud District very often'.",
+						"question": "Whiterun is divided into three districts: the Plains, the Wind, and which elite district?",
+						"wrong": [
+							"The Sky District",
+							"The High District",
+							"The Noble District"
+						]
+					},
+					{
+						"correct": "The Skyforge",
+						"difficulty": "Easy",
+						"explanation": "It is said to be older than the city itself and produces superior steel.",
+						"question": "What is the name of the legendary forge located next to Jorrvaskr?",
+						"wrong": [
+							"The Earthforge",
+							"The Dragonforge",
+							"The Lunar Forge"
+						]
+					},
+					{
+						"correct": "The Companions",
+						"difficulty": "Easy",
+						"explanation": "Jorrvaskr is the oldest building in Whiterun, built from the hull of a ship.",
+						"question": "Which group of warriors makes their headquarters in the mead hall Jorrvaskr?",
+						"wrong": [
+							"The Fighters Guild",
+							"The Silver Hand",
+							"The Dawnguard"
+						]
+					},
+					{
+						"correct": "The Gildergreen",
+						"difficulty": "Medium",
+						"explanation": "It is a seedling of the ancient Eldergleam tree.",
+						"question": "What is the name of the dying tree in the center of the Wind District?",
+						"wrong": [
+							"The Eldergleam",
+							"The White Tree",
+							"The Kynareth Oak"
+						]
+					},
+					{
+						"correct": "Gray-Mane",
+						"difficulty": "Medium",
+						"explanation": "The Gray-Manes support the Stormcloaks, while the Battle-Borns support the Empire.",
+						"question": "Which family in Whiterun is in a bitter feud with the Battle-Borns?",
+						"wrong": [
+							"Black-Briar",
+							"Silver-Blood",
+							"Stormcloak"
+						]
+					},
+					{
+						"correct": "Proventus Avenicci",
+						"difficulty": "Medium",
+						"explanation": "He is the father of Adrianne Avenicci, the local blacksmith.",
+						"question": "Who is the steward of Whiterun, often seen standing next to Jarl Balgruuf?",
+						"wrong": [
+							"Irileth",
+							"Brill",
+							"Falk Firebeard"
+						]
+					},
+					{
+						"correct": "The Bannered Mare",
+						"difficulty": "Medium",
+						"explanation": "It's the social heart of the city where players often find rumors and bounties.",
+						"question": "What is the name of the local tavern in Whiterun, run by Hulda?",
+						"wrong": [
+							"The Sleeping Giant",
+							"The Winking Skeever",
+							"The Silver-Blood Inn"
+						]
+					},
+					{
+						"correct": "Talos",
+						"difficulty": "Medium",
+						"explanation": "Heimskr's preaching is a point of contention due to the White-Gold Concordat.",
+						"question": "Which god is worshipped in the large shrine where Heimskr constantly shouts?",
+						"wrong": [
+							"Zenithar",
+							"Stendarr",
+							"Mara"
+						]
+					},
+					{
+						"correct": "Numinex",
+						"difficulty": "Hard",
+						"explanation": "King Olaf One-Eye captured the dragon and imprisoned it in the castle's Great Porch.",
+						"question": "What was the name of the dragon that was famously trapped in Dragonsreach long ago?",
+						"wrong": [
+							"Olaf",
+							"Odahviing",
+							"Viinturuth"
+						]
+					},
+					{
+						"correct": "None",
+						"difficulty": "Hard",
+						"explanation": "Wait, this is a trick—actually, there is no guard in the Brotherhood, but the quest 'With Friends Like These' can target various NPCs.",
+						"question": "Which member of the Whiterun guard is actually a secret member of the Dark Brotherhood?",
+						"wrong": [
+							"Sinmir",
+							"Caius",
+							"Irileth"
+						]
+					},
+					{
+						"correct": "Hall of the Dead",
+						"difficulty": "Hard",
+						"explanation": "It is tended by Brother Andurs, who often loses his Amulet of Arkay.",
+						"question": "What is the name of the catacombs beneath the city where the dead are interred?",
+						"wrong": [
+							"Whiterun Crypts",
+							"The Catacombs",
+							"Arkay's Rest"
+						]
+					},
+					{
+						"correct": "The Empire",
+						"difficulty": "Hard",
+						"explanation": "If the player joins the Legion, they defend the city; if they join Stormcloaks, they attack it.",
+						"question": "During the Civil War, which faction is Whiterun forced to side with to defend against a siege?",
+						"wrong": [
+							"The Stormcloaks",
+							"The Thalmor",
+							"The Forsworn"
+						]
+					},
+					{
+						"correct": "Belethor's General Goods",
+						"difficulty": "Hard",
+						"explanation": "Belethor is known for his phrase 'Everything's for sale, my friend. Everything!'",
+						"question": "What is the specific name of the merchant stall run by Belethor?",
+						"wrong": [
+							"The Drunken Huntsman",
+							"Whiterun Market",
+							"The Golden Goods"
+						]
+					}
+				]
+			},
+			"id": "skyrim_whiterun",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Whiterun",
+				"lore_desc": "The central hub of Skyrim, known for its tundra plains and the Great Porch of Dragonsreach.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Trade",
+					"Center"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Housecarl",
+						"difficulty": "Easy",
+						"explanation": "A Housecarl is a dedicated protector assigned to a Thane of a hold.",
+						"question": "What is Lydia's official title when she is assigned to serve you?",
+						"wrong": [
+							"Thane",
+							"Squire",
+							"Shield-Maiden"
+						]
+					},
+					{
+						"correct": "I am sworn to carry your burdens",
+						"difficulty": "Easy",
+						"explanation": "The delivery of this line became a massive internet meme among players.",
+						"question": "What is the iconic line Lydia says when you ask her to trade items?",
+						"wrong": [
+							"I will take what you give",
+							"What do you need me to hold?",
+							"My life for yours"
+						]
+					},
+					{
+						"correct": "Whiterun",
+						"difficulty": "Easy",
+						"explanation": "She is awarded to you after you kill the dragon Mirmulnir and are named Thane.",
+						"question": "In which city does Lydia first join the player?",
+						"wrong": [
+							"Solitude",
+							"Riften",
+							"Windhelm"
+						]
+					},
+					{
+						"correct": "Heavy Armor",
+						"difficulty": "Easy",
+						"explanation": "She starts with a full set of Steel armor.",
+						"question": "Lydia is skilled in which type of armor?",
+						"wrong": [
+							"Light Armor",
+							"Robes",
+							"Leather"
+						]
+					},
+					{
+						"correct": "Jarl Balgruuf",
+						"difficulty": "Easy",
+						"explanation": "Balgruuf rewards your service to Whiterun by assigning her as your protector.",
+						"question": "Which Jarl assigns Lydia to the Dragonborn?",
+						"wrong": [
+							"Jarl Ulfric",
+							"Jarl Elisif",
+							"Jarl Idgrod"
+						]
+					},
+					{
+						"correct": "Breezehome",
+						"difficulty": "Medium",
+						"explanation": "She has her own small bedroom in the player's Whiterun residence.",
+						"question": "If the player purchases a home in Whiterun, where does Lydia usually hang out?",
+						"wrong": [
+							"Hjerim",
+							"Proudspire Manor",
+							"Honeyside"
+						]
+					},
+					{
+						"correct": "Nord",
+						"difficulty": "Medium",
+						"explanation": "As a native of Skyrim, she is a Nord warrior.",
+						"question": "Lydia is a member of which race?",
+						"wrong": [
+							"Imperial",
+							"Breton",
+							"Redguard"
+						]
+					},
+					{
+						"correct": "One-Handed",
+						"difficulty": "Medium",
+						"explanation": "She typically fights with a sword and shield.",
+						"question": "Which weapon type is Lydia most proficient with by default?",
+						"wrong": [
+							"Two-Handed",
+							"Archery",
+							"Destruction Magic"
+						]
+					},
+					{
+						"correct": "Hall of the Dead",
+						"difficulty": "Medium",
+						"explanation": "NPCs who die in cities are often moved to the local catacombs.",
+						"question": "If Lydia dies in combat, where can her body and belongings sometimes be found if not recovered?",
+						"wrong": [
+							"The Skyforge",
+							"Dragonsreach",
+							"The Bannered Mare"
+						]
+					},
+					{
+						"correct": "Dragon Rising",
+						"difficulty": "Medium",
+						"explanation": "This quest involves killing the first dragon at the Western Watchtower.",
+						"question": "What is the name of the quest that must be completed to unlock Lydia as a follower?",
+						"wrong": [
+							"Bleak Falls Barrow",
+							"The Way of the Voice",
+							"Before the Storm"
+						]
+					},
+					{
+						"correct": "The Blades",
+						"difficulty": "Hard",
+						"explanation": "You can recruit her to help Delphine rebuild the Blades.",
+						"question": "Lydia is one of many potential candidates for which recurring faction of dragon hunters?",
+						"wrong": [
+							"The Companions",
+							"The Dawnguard",
+							"The Nightingales"
+						]
+					},
+					{
+						"correct": "50",
+						"difficulty": "Hard",
+						"explanation": "In the original release, she stopped scaling at level 50.",
+						"question": "What is the level cap for Lydia in the base game without any patches or mods?",
+						"wrong": [
+							"30",
+							"81",
+							"Unlimited"
+						]
+					},
+					{
+						"correct": "Hunting Bow",
+						"difficulty": "Hard",
+						"explanation": "Followers have a 'hidden' bow they default to if they run out of ammo for others.",
+						"question": "What is Lydia's default bow, which she uses even if you give her a better one (unless arrows are provided)?",
+						"wrong": [
+							"Long Bow",
+							"Steel Bow",
+							"Imperial Bow"
+						]
+					},
+					{
+						"correct": "A General Store",
+						"difficulty": "Hard",
+						"explanation": "Like most spouses, she earns money 'from the shop' every day.",
+						"question": "If you marry Lydia, what kind of shop does she open to provide you with gold?",
+						"wrong": [
+							"An Alchemy Shop",
+							"A Weaponsmith",
+							"An Inn"
+						]
+					},
+					{
+						"correct": "April Stewart",
+						"difficulty": "Hard",
+						"explanation": "April Stewart provides the 'FemaleEvenToned' voice type used for Lydia.",
+						"question": "Which voice actress provides the voice for Lydia (and many other female Nords)?",
+						"wrong": [
+							"Lynda Carter",
+							"Claudia Christian",
+							"Laura Bailey"
+						]
+					}
+				]
+			},
+			"id": "skyrim_lydia",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Lydia",
+				"lore_desc": "The first Housecarl assigned to the Dragonborn, famous for her heavy armor and sarcastic obedience.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Warrior",
+					"Meme"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Your sweetroll",
+						"difficulty": "Easy",
+						"explanation": "This line is a long-running joke in the Elder Scrolls series.",
+						"question": "What do Skyrim guards frequently ask if someone has 'stolen' from you?",
+						"wrong": [
+							"Your horse",
+							"Your gold",
+							"Your pride"
+						]
+					},
+					{
+						"correct": "A small bundt cake",
+						"difficulty": "Easy",
+						"explanation": "It has a circular shape with a hole in the middle and white icing on top.",
+						"question": "What shape is a standard Skyrim sweetroll?",
+						"wrong": [
+							"A flat cookie",
+							"A long loaf",
+							"A square brownie"
+						]
+					},
+					{
+						"correct": "Milk",
+						"difficulty": "Easy",
+						"explanation": "The recipe includes salt, sugar, flour, butter, eggs, and milk.",
+						"question": "In the 'Hearthfire' expansion, which ingredient is required to bake a sweetroll?",
+						"wrong": [
+							"Honey",
+							"Snowberries",
+							"Lavender"
+						]
+					},
+					{
+						"correct": "Sheogorath",
+						"difficulty": "Easy",
+						"explanation": "The Wabbajack has a random chance to turn an enemy into a sweetroll.",
+						"question": "Which Daedric Prince can transform people into sweetrolls using a special staff?",
+						"wrong": [
+							"Sanguine",
+							"Mehrunes Dagon",
+							"Clavicus Vile"
+						]
+					},
+					{
+						"correct": "Icing",
+						"difficulty": "Easy",
+						"explanation": "It is a glazed pastry known for its sugary topping.",
+						"question": "What is the white substance usually found on top of a sweetroll?",
+						"wrong": [
+							"Salt",
+							"Sugar",
+							"Snow"
+						]
+					},
+					{
+						"correct": "Morrowind",
+						"difficulty": "Medium",
+						"explanation": "It appeared as a question in the class-selection quiz in earlier games.",
+						"question": "The joke about 'stolen sweetrolls' actually originated in which previous Elder Scrolls game's character creation?",
+						"wrong": [
+							"Oblivion",
+							"Daggerfall",
+							"Arena"
+						]
+					},
+					{
+						"correct": "Cicero",
+						"difficulty": "Medium",
+						"explanation": "Cicero mentions sweetrolls in his erratic, high-pitched ramblings.",
+						"question": "In the 'Dark Brotherhood' questline, which character is known to have a specific fondness for sweetrolls and even mentions them in dialogue?",
+						"wrong": [
+							"Astrid",
+							"Babette",
+							"Festus Krex"
+						]
+					},
+					{
+						"correct": "Whiterun",
+						"difficulty": "Medium",
+						"explanation": "The book 'Common Taste' discusses various culinary delights found in the region.",
+						"question": "Which Skyrim city is the home of the 'Salonia Carvain's' recipe for sweetrolls in lore books?",
+						"wrong": [
+							"Solitude",
+							"Riften",
+							"Markarth"
+						]
+					},
+					{
+						"correct": "Nothing special",
+						"difficulty": "Medium",
+						"explanation": "Despite their dialogue, guards don't actually interact with dropped pastries.",
+						"question": "If you drop a sweetroll in front of a guard, what are they likely to do?",
+						"wrong": [
+							"Fine you",
+							"Eat it",
+							"Arrest you"
+						]
+					},
+					{
+						"correct": "0.5",
+						"difficulty": "Medium",
+						"explanation": "They are relatively light, allowing players to hoard dozens of them.",
+						"question": "What is the weight of a single sweetroll in the game's inventory system?",
+						"wrong": [
+							"0.1",
+							"1.0",
+							"2.0"
+						]
+					},
+					{
+						"correct": "Benkongerike",
+						"difficulty": "Hard",
+						"explanation": "A Rieklings' hoard in Benkongerike contains a surprisingly large number of them.",
+						"question": "There is a giant 'Sweetroll' found in a specific location in the 'Dragonborn' DLC; where is it?",
+						"wrong": [
+							"Raven Rock",
+							"Tel Mithryn",
+							"Apocrypha"
+						]
+					},
+					{
+						"correct": "Moon Sugar",
+						"difficulty": "Hard",
+						"explanation": "While 'sugar' is an item, Moon Sugar is often used in high-end Khajiit sweets.",
+						"question": "Which ingredient gives the sweetroll its distinct sweetness in the game's cooking mechanics?",
+						"wrong": [
+							"Sugar",
+							"Honey",
+							"Jazbay Grapes"
+						]
+					},
+					{
+						"correct": "A human skull",
+						"difficulty": "Hard",
+						"explanation": "There are no fake sweetrolls there, but the layout of his 'ritual' is often surrounded by food items.",
+						"question": "In the 'Innocence Lost' quest, what item can be found near Aretino that looks like a sweetroll but isn't edible?",
+						"wrong": [
+							"A doll",
+							"A rock",
+							"A bowl"
+						]
+					},
+					{
+						"correct": "2",
+						"difficulty": "Hard",
+						"explanation": "They are very cheap, making the guard's concern about 'theft' even more humorous.",
+						"question": "What is the base gold value of a standard sweetroll?",
+						"wrong": [
+							"1",
+							"5",
+							"10"
+						]
+					},
+					{
+						"correct": "Vex",
+						"difficulty": "Hard",
+						"explanation": "Actually, most Thieves Guild members have food in their pockets, but Vex is a frequent target for 'reverse pickpocketing' memes.",
+						"question": "Which NPC in Riften is frequently seen eating or carrying sweetrolls, despite being a thief?",
+						"wrong": [
+							"Brynjolf",
+							"Mercer Frey",
+							"Delvin Mallory"
+						]
+					}
+				]
+			},
+			"id": "skyrim_sweetroll",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Sweetroll",
+				"lore_desc": "A common pastry in Skyrim, famous for being the subject of guard mockery and petty theft.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Food",
+					"Meme",
+					"Crime"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Throat of the World",
+						"difficulty": "Easy",
+						"explanation": "He lives at the very summit of Skyrim's highest mountain.",
+						"question": "Where does Paarthurnax live?",
+						"wrong": [
+							"High Hrothgar",
+							"Sky Haven Temple",
+							"Sovngarde"
+						]
+					},
+					{
+						"correct": "They are brothers",
+						"difficulty": "Easy",
+						"explanation": "Paarthurnax is the younger brother of Alduin.",
+						"question": "What is Paarthurnax's relationship to the villain Alduin?",
+						"wrong": [
+							"He is Alduin's father",
+							"He is Alduin's son",
+							"He is Alduin's rival from another world"
+						]
+					},
+					{
+						"correct": "The Greybeards",
+						"difficulty": "Easy",
+						"explanation": "He is the master of the order, though he rarely speaks to anyone but the Dragonborn.",
+						"question": "Which group of monks does Paarthurnax lead?",
+						"wrong": [
+							"The Blades",
+							"The Psijic Order",
+							"The Vigilants of Stendarr"
+						]
+					},
+					{
+						"correct": "Words of Power",
+						"difficulty": "Easy",
+						"explanation": "He can grant bonuses to specific shouts like 'Fus' or 'Yol'.",
+						"question": "What does Paarthurnax help the player meditate on to improve their Shouts?",
+						"wrong": [
+							"Soul Gems",
+							"Dragon Bones",
+							"Elder Scrolls"
+						]
+					},
+					{
+						"correct": "The Blades",
+						"difficulty": "Easy",
+						"explanation": "Delphine and Esbern refuse to work with you unless you execute him.",
+						"question": "Which faction wants the player to kill Paarthurnax because of his past war crimes?",
+						"wrong": [
+							"The Greybeards",
+							"The Companions",
+							"The Thalmor"
+						]
+					},
+					{
+						"correct": "Ambition Overlord Cruelty",
+						"difficulty": "Medium",
+						"explanation": "His name reflects his nature before he turned to the 'Way of the Voice'.",
+						"question": "In the Dragon Language, what does his name 'Paar-Thurn-Ax' mean?",
+						"wrong": [
+							"Peace Through Fire",
+							"Wise Old Dragon",
+							"Brother of Death"
+						]
+					},
+					{
+						"correct": "Kyne",
+						"difficulty": "Medium",
+						"explanation": "Kyne (the Nord version of Kynareth) is said to have intervened to help humanity.",
+						"question": "Which goddess does Paarthurnax claim taught him and humans the Way of the Voice?",
+						"wrong": [
+							"Azura",
+							"Mara",
+							"Dibella"
+						]
+					},
+					{
+						"correct": "What is better - to be born good or to overcome your evil nature through great effort?",
+						"difficulty": "Medium",
+						"explanation": "This is one of the most famous quotes in the game regarding his redemption.",
+						"question": "What is the philosophical question Paarthurnax asks about being born good vs. overcoming evil?",
+						"wrong": [
+							"Is power better used for peace or for war?",
+							"Can a dragon ever truly be a man?",
+							"Does the soul outlast the scale?"
+						]
+					},
+					{
+						"correct": "Jurgen Windcaller",
+						"difficulty": "Medium",
+						"explanation": "Jurgen Windcaller went on to found the Greybeards after the Battle of Red Mountain.",
+						"question": "Who was the human hero that Paarthurnax specifically taught the Thu'um to first?",
+						"wrong": [
+							"Ulfric Stormcloak",
+							"Tiber Septim",
+							"Ysgramor"
+						]
+					},
+					{
+						"correct": "Clear Skies",
+						"difficulty": "Medium",
+						"explanation": "The path is blocked by a magical blizzard that only 'Lok Vah Koor' can disperse.",
+						"question": "What shout is required just to reach the summit where Paarthurnax lives?",
+						"wrong": [
+							"Unrelenting Force",
+							"Fire Breath",
+							"Whirlwind Sprint"
+						]
+					},
+					{
+						"correct": "Odahviing",
+						"difficulty": "Hard",
+						"explanation": "After Alduin's defeat, Odahviing acknowledges Paarthurnax's 'Way of the Voice'.",
+						"question": "Which dragon serves as a lieutenant to Paarthurnax and helps you fly to Skuldafn?",
+						"wrong": [
+							"Sahloknir",
+							"Durnehviir",
+							"Vulthuryol"
+						]
+					},
+					{
+						"correct": "The Dragon War",
+						"difficulty": "Hard",
+						"explanation": "During the Merethic Era, he committed many atrocities before betraying his brother.",
+						"question": "Paarthurnax was once the chief lieutenant of Alduin during which historical period?",
+						"wrong": [
+							"The Oblivion Crisis",
+							"The Great War",
+							"The Era of Myth"
+						]
+					},
+					{
+						"correct": "Force without Effort",
+						"difficulty": "Hard",
+						"explanation": "It reduces the stagger you receive and increases the stagger you deal.",
+						"question": "What specific 'Word of Power' bonus does Paarthurnax give if you meditate on 'Fus'?",
+						"wrong": [
+							"Eternal Spirit",
+							"The Fire Within",
+							"Dragonborn Frost"
+						]
+					},
+					{
+						"correct": "Grey-Green",
+						"difficulty": "Hard",
+						"explanation": "His scales appear worn and mossy, reflecting his immense age and sedentary lifestyle.",
+						"question": "What is the color of Paarthurnax's skin, which looks aged and tattered compared to other dragons?",
+						"wrong": [
+							"Bronze",
+							"Pure White",
+							"Obsidian"
+						]
+					},
+					{
+						"correct": "Exile you from High Hrothgar",
+						"difficulty": "Hard",
+						"explanation": "They will no longer help you find Words of Power and are deeply saddened.",
+						"question": "If you choose to kill Paarthurnax, what do the Greybeards do?",
+						"wrong": [
+							"Attack you immediately",
+							"Forgive you",
+							"Dissolve their order"
+						]
+					}
+				]
+			},
+			"id": "skyrim_paarthurnax",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Paarthurnax",
+				"lore_desc": "The wise leader of the Greybeards who resides at the peak of the Throat of the World.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Dragon",
+					"Teacher",
+					"Ancient"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Unrelenting Force",
+						"difficulty": "Easy",
+						"explanation": "It is the most famous shout in the game, used to push enemies away.",
+						"question": "What is the English name for the shout 'Fus Ro Dah'?",
+						"wrong": [
+							"Storm Call",
+							"Dragon Breath",
+							"Whirlwind Sprint"
+						]
+					},
+					{
+						"correct": "Fus",
+						"difficulty": "Easy",
+						"explanation": "Fus translates to 'Force'.",
+						"question": "What is the first word of the Unrelenting Force shout?",
+						"wrong": [
+							"Ro",
+							"Dah",
+							"Yol"
+						]
+					},
+					{
+						"correct": "Bleak Falls Barrow",
+						"difficulty": "Easy",
+						"explanation": "It is found at the end of the first major dungeon in the main quest.",
+						"question": "Where does the player find the first Word Wall for this shout?",
+						"wrong": [
+							"High Hrothgar",
+							"Western Watchtower",
+							"Ustengrav"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "Every shout consists of three distinct 'Words of Power'.",
+						"question": "How many words are in a full Dragon Shout?",
+						"wrong": [
+							"One",
+							"Two",
+							"Four"
+						]
+					},
+					{
+						"correct": "The Greybeards",
+						"difficulty": "Easy",
+						"explanation": "They grant you the final word after you return the Horn of Jurgen Windcaller.",
+						"question": "Who teaches the player the final word, 'Dah'?",
+						"wrong": [
+							"Paarthurnax",
+							"Delphine",
+							"Alduin"
+						]
+					},
+					{
+						"correct": "Ragdoll / Knockdown",
+						"difficulty": "Medium",
+						"explanation": "It sends enemies flying backward, often off cliffs to their death.",
+						"question": "What physical effect does the full three-word shout have on most enemies?",
+						"wrong": [
+							"Freezing",
+							"Disarming",
+							"Paralyzing"
+						]
+					},
+					{
+						"correct": "Balance",
+						"difficulty": "Medium",
+						"explanation": "The full shout translates to 'Force Balance Push'.",
+						"question": "What is the translation of the second word, 'Ro'?",
+						"wrong": [
+							"Push",
+							"Wind",
+							"Sound"
+						]
+					},
+					{
+						"correct": "Unrelenting Force",
+						"difficulty": "Medium",
+						"explanation": "Being hit by 'Fus Ro Dah' by an enemy can be one of the most frustrating ways to die.",
+						"question": "Which shout is often used by high-level Draugr Death Lords against the player?",
+						"wrong": [
+							"Fire Breath",
+							"Ice Form",
+							"Disarm"
+						]
+					},
+					{
+						"correct": "Dragonborn Force",
+						"difficulty": "Medium",
+						"explanation": "One of the Black Book powers gives the shout a chance to vaporize foes.",
+						"question": "In the 'Dragonborn' DLC, what can the player add to Unrelenting Force to make enemies disintegrate?",
+						"wrong": [
+							"Mora's Grasp",
+							"Cyclone",
+							"Force Without Effort"
+						]
+					},
+					{
+						"correct": "Slightly staggers the enemy",
+						"difficulty": "Medium",
+						"explanation": "A single word is only enough to interrupt an attack.",
+						"question": "What does the first word 'Fus' do on its own when shouted?",
+						"wrong": [
+							"Knocks the enemy down",
+							"Does nothing",
+							"Blinds the enemy"
+						]
+					},
+					{
+						"correct": "45 seconds",
+						"difficulty": "Hard",
+						"explanation": "It has a moderate cooldown compared to powerful shouts like Storm Call.",
+						"question": "What is the recharge time (cooldown) for the full three-word 'Fus Ro Dah' shout?",
+						"wrong": [
+							"30 seconds",
+							"60 seconds",
+							"15 seconds"
+						]
+					},
+					{
+						"correct": "Amulet of Talos",
+						"difficulty": "Hard",
+						"explanation": "The Amulet of Talos reduces shout cooldown by 20%.",
+						"question": "Which necklace item can be worn to reduce the time between using shouts?",
+						"wrong": [
+							"Amulet of Akatosh",
+							"Amulet of Kynareth",
+							"Gauldur Amulet"
+						]
+					},
+					{
+						"correct": "Spirit targets",
+						"difficulty": "Hard",
+						"explanation": "They project phantoms into the courtyard for you to hit with 'Fus'.",
+						"question": "During the Greybeards' training, what do they summon for you to practice your shout on?",
+						"wrong": [
+							"Frost Trolls",
+							"Ice Wraiths",
+							"Stone Statues"
+						]
+					},
+					{
+						"correct": "Push",
+						"difficulty": "Hard",
+						"explanation": "It is the final release of energy that physically moves objects.",
+						"question": "What is the translation of the third word, 'Dah'?",
+						"wrong": [
+							"End",
+							"Strike",
+							"Destroy"
+						]
+					},
+					{
+						"correct": "Vulthuryol",
+						"difficulty": "Hard",
+						"explanation": "Shouting at the 'sun' of Blackreach triggers a secret dragon fight.",
+						"question": "Which hidden boss in Blackreach can be summoned by using Unrelenting Force on a giant glowing orb?",
+						"wrong": [
+							"Naaslaarum",
+							"Voslaarum",
+							"Viinturuth"
+						]
+					}
+				]
+			},
+			"id": "skyrim_fus_ro_dah",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Fus Ro Dah",
+				"lore_desc": "The Unrelenting Force shout, capable of blowing away enemies and objects with a blast of pure sound.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Shout",
+					"Combat",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Night Mother",
+						"difficulty": "Easy",
+						"explanation": "She is the bride of Sithis and speaks only to the chosen Listener.",
+						"question": "What is the name of the 'corpse' that leads the Dark Brotherhood and provides contracts?",
+						"wrong": [
+							"The Dread Queen",
+							"The Pale Lady",
+							"The Listener"
+						]
+					},
+					{
+						"correct": "A black handprint",
+						"difficulty": "Easy",
+						"explanation": "The note simply says 'We Know' underneath a handprint.",
+						"question": "What image is on the mysterious note you receive after killing Grelod the Kind?",
+						"wrong": [
+							"A skull",
+							"A dagger",
+							"A drop of blood"
+						]
+					},
+					{
+						"correct": "Astrid",
+						"difficulty": "Easy",
+						"explanation": "She leads the last remaining cell of the Brotherhood from a cave near Falkreath.",
+						"question": "Who is the leader of the Dark Brotherhood sanctuary in Skyrim when you first join?",
+						"wrong": [
+							"Cicero",
+							"Nazir",
+							"Babette"
+						]
+					},
+					{
+						"correct": "Sithis",
+						"difficulty": "Easy",
+						"explanation": "Sithis represents the Void and is the 'Dread Father' of the guild.",
+						"question": "What do you call the deity that the Dark Brotherhood worships?",
+						"wrong": [
+							"Mephala",
+							"Molag Bal",
+							"Lorkhan"
+						]
+					},
+					{
+						"correct": "Windhelm",
+						"difficulty": "Easy",
+						"explanation": "Young Aventus Aretino is performing the Black Sacrament there.",
+						"question": "Which city contains the 'Aretino Residence' where the quest to join begins?",
+						"wrong": [
+							"Riften",
+							"Whiterun",
+							"Solitude"
+						]
+					},
+					{
+						"correct": "The Black Sacrament",
+						"difficulty": "Medium",
+						"explanation": "It involves a humanoid effigy made of real body parts and a ritual dagger.",
+						"question": "What ritual must a person perform to summon the Dark Brotherhood?",
+						"wrong": [
+							"The Dark Ritual",
+							"The Blood Offering",
+							"The Night Calling"
+						]
+					},
+					{
+						"correct": "The Player",
+						"difficulty": "Medium",
+						"explanation": "The player eventually takes over this role, much to Cicero's initial jealousy.",
+						"question": "Who is the specialized 'Listener' who can hear the Night Mother's voice?",
+						"wrong": [
+							"Cicero",
+							"Astrid",
+							"Lucien Lachance"
+						]
+					},
+					{
+						"correct": "Babette",
+						"difficulty": "Medium",
+						"explanation": "She is the guild's master alchemist and a deadly predator.",
+						"question": "Which member of the Brotherhood is actually a 300-year-old vampire in a child's body?",
+						"wrong": [
+							"Gabriella",
+							"Astrid",
+							"Muiri"
+						]
+					},
+					{
+						"correct": "Shadowmere",
+						"difficulty": "Medium",
+						"explanation": "Shadowmere emerges from a black pool and has incredibly high health regeneration.",
+						"question": "What is the name of the spectral horse given to the player by the Dark Brotherhood?",
+						"wrong": [
+							"Arvak",
+							"Frost",
+							"Nightfall"
+						]
+					},
+					{
+						"correct": "A set of rules for the guild",
+						"difficulty": "Medium",
+						"explanation": "Astrid's sanctuary had abandoned the Tenets, which led to their near-destruction.",
+						"question": "What are the 'Five Tenets' that the Dark Brotherhood is supposed to follow?",
+						"wrong": [
+							"The names of the leaders",
+							"The stages of a kill",
+							"A type of poison"
+						]
+					},
+					{
+						"correct": "The Emperor",
+						"difficulty": "Hard",
+						"explanation": "The player must poison the Emperor's meal while pretending to be the legendary chef.",
+						"question": "The 'Gourmet' is a famous chef you must impersonate to kill whom?",
+						"wrong": [
+							"Jarl Balgruuf",
+							"General Tullius",
+							"Victoria Vicci"
+						]
+					},
+					{
+						"correct": "Lucien Lachance",
+						"difficulty": "Hard",
+						"explanation": "Lucien was a high-ranking member in the previous game, Oblivion.",
+						"question": "What is the name of the spectral assassin you can summon after completing a specific quest?",
+						"wrong": [
+							"Vicente Valtieri",
+							"Grey Fox",
+							"Terence"
+						]
+					},
+					{
+						"correct": "Jarrin Root",
+						"difficulty": "Hard",
+						"explanation": "Astrid gives you this unique, extremely lethal root for the task.",
+						"question": "Which ingredient does the player use to poison the Emperor's Potage le Magnifique?",
+						"wrong": [
+							"Deathbell",
+							"Nightshade",
+							"River Betty"
+						]
+					},
+					{
+						"correct": "Dawnstar",
+						"difficulty": "Hard",
+						"explanation": "It is an ancient sanctuary that requires a password from the Night Mother to enter.",
+						"question": "Where is the second Dark Brotherhood sanctuary located, which you move to after the first is destroyed?",
+						"wrong": [
+							"Markarth",
+							"Winterhold",
+							"Morthal"
+						]
+					},
+					{
+						"correct": "Silence, my brother",
+						"difficulty": "Hard",
+						"explanation": "The Black Door asks 'What is the music of life?' and the answer is 'Silence, my brother'.",
+						"question": "What is the password to enter the Falkreath Sanctuary?",
+						"wrong": [
+							"Death is coming",
+							"Hail Sithis",
+							"The Void beckons"
+						]
+					}
+				]
+			},
+			"id": "skyrim_the_dark_brotherhood",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "The Dark Brotherhood",
+				"lore_desc": "A secretive guild of assassins that worships Sithis and follows the guidance of the Night Mother.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Guild",
+					"Assassins",
+					"Secret"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mushrooms",
+						"difficulty": "Easy",
+						"explanation": "Giant blue bioluminescent mushrooms light the entire cavern.",
+						"question": "Blackreach is famous for its massive, glowing versions of what organism?",
+						"wrong": [
+							"Flowers",
+							"Trees",
+							"Crystals"
+						]
+					},
+					{
+						"correct": "The Dwemer",
+						"difficulty": "Easy",
+						"explanation": "The Dwarves (Dwemer) built the Silent City as a major hub of their civilization.",
+						"question": "Which ancient, extinct race built the massive city found within Blackreach?",
+						"wrong": [
+							"The Falmer",
+							"The Snow Elves",
+							"The Ayleids"
+						]
+					},
+					{
+						"correct": "Crimson Nirnroot",
+						"difficulty": "Easy",
+						"explanation": "Unlike normal Nirnroot, this variety only grows in the depths of Blackreach.",
+						"question": "What is the name of the unique, red plant you are tasked with collecting in Blackreach?",
+						"wrong": [
+							"Red Mountain Flower",
+							"Nightshade",
+							"Bloodgrass"
+						]
+					},
+					{
+						"correct": "The Falmer",
+						"difficulty": "Easy",
+						"explanation": "The former Snow Elves were enslaved and blinded by the Dwemer, turning into the Falmer.",
+						"question": "Which blind, devolved race now inhabits the ruins of Blackreach?",
+						"wrong": [
+							"The Ghouls",
+							"The Forsworn",
+							"The Draugr"
+						]
+					},
+					{
+						"correct": "A massive bronze orb",
+						"difficulty": "Easy",
+						"explanation": "It is a Dwemer construction that provides light to the cavern.",
+						"question": "What is the giant, yellow artificial sun hanging from the ceiling of Blackreach actually?",
+						"wrong": [
+							"A captured star",
+							"A magical lantern",
+							"A dragon's soul"
+						]
+					},
+					{
+						"correct": "Elder Knowledge",
+						"difficulty": "Medium",
+						"explanation": "The player must use a Dwemer mechanism to transcribe the scroll's data.",
+						"question": "Which quest requires the player to travel to Blackreach to retrieve an Elder Scroll?",
+						"wrong": [
+							"The Way of the Voice",
+							"Diplomatic Immunity",
+							"The Fallen"
+						]
+					},
+					{
+						"correct": "Sinderion",
+						"difficulty": "Medium",
+						"explanation": "Sinderion was an expert on Nirnroot who died while researching the Crimson variety.",
+						"question": "What is the name of the alchemist whose field laboratory can be found in Blackreach?",
+						"wrong": [
+							"Septimus Signus",
+							"Farengar",
+							"Calcelmo"
+						]
+					},
+					{
+						"correct": "Attunement Sphere",
+						"difficulty": "Medium",
+						"explanation": "The sphere activates the mechanical stairs in Dwemer ruins like Alftand.",
+						"question": "To enter Blackreach, you typically need which item given to you by Septimus Signus?",
+						"wrong": [
+							"Lexicon",
+							"Dragonstone",
+							"Skeleton Key"
+						]
+					},
+					{
+						"correct": "Chaurus",
+						"difficulty": "Medium",
+						"explanation": "Falmer use Chaurus for their chitinous armor and poison.",
+						"question": "Which type of large, non-aggressive insect can be found harvested by Falmer in Blackreach?",
+						"wrong": [
+							"Spiders",
+							"Mudcrabs",
+							"Butterflies"
+						]
+					},
+					{
+						"correct": "30",
+						"difficulty": "Medium",
+						"explanation": "Collecting 30 of them allows the player to complete Sinderion's unfinished work.",
+						"question": "How many Crimson Nirnroot must you collect for the quest 'A Return to Your Roots'?",
+						"wrong": [
+							"10",
+							"20",
+							"50"
+						]
+					},
+					{
+						"correct": "A dragon attacks",
+						"difficulty": "Hard",
+						"explanation": "Doing so summons the hidden dragon Vulthuryol.",
+						"question": "What happens if you use the Unrelenting Force shout on the giant orb in the center of Blackreach?",
+						"wrong": [
+							"The orb explodes",
+							"The cavern collapses",
+							"A secret door opens"
+						]
+					},
+					{
+						"correct": "Oculory",
+						"difficulty": "Hard",
+						"explanation": "The Oculory uses lenses and light to unlock the scroll's container.",
+						"question": "What is the name of the Dwemer mechanism used to reach the Elder Scroll?",
+						"wrong": [
+							"Orrery",
+							"Centurion",
+							"Great Lift"
+						]
+					},
+					{
+						"correct": "Raldbthar",
+						"difficulty": "Hard",
+						"explanation": "These three 'Great Lifts' allow access from different parts of the Skyrim surface.",
+						"question": "Blackreach connects three major Dwemer ruins: Alftand, Mzinchaleft, and which other?",
+						"wrong": [
+							"Bthalft",
+							"Kagrenzel",
+							"Irkngthand"
+						]
+					},
+					{
+						"correct": "A captive Giant",
+						"difficulty": "Hard",
+						"explanation": "There is a single Giant in Blackreach, likely enslaved or trapped by the Falmer.",
+						"question": "Which unique giant-type enemy can be found wandering the roads of the Silent City?",
+						"wrong": [
+							"A Frost Giant",
+							"A Dwemer Colossus",
+							"A Karstaag Phantom"
+						]
+					},
+					{
+						"correct": "Tower of Mzark",
+						"difficulty": "Hard",
+						"explanation": "The Tower of Mzark houses the massive machine that holds the Elder Scroll (Dragon).",
+						"question": "What is the name of the sub-location within Blackreach where the Elder Scroll is actually held?",
+						"wrong": [
+							"Silent Ruin",
+							"Reaching Casements",
+							"Debate Hall"
+						]
+					}
+				]
+			},
+			"id": "skyrim_blackreach",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Blackreach",
+				"lore_desc": "A massive, bioluminescent cavern beneath Skyrim containing the ruins of a great Dwemer city.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Underground",
+					"Dwemer",
+					"Magic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Khajiit",
+						"difficulty": "Easy",
+						"explanation": "He is a golden-furred Khajiit found wandering the roads of Skyrim.",
+						"question": "M'aiq the Liar belongs to which feline race?",
+						"wrong": [
+							"Argonian",
+							"Bosmer",
+							"Breton"
+						]
+					},
+					{
+						"correct": "Lies or meta-jokes",
+						"difficulty": "Easy",
+						"explanation": "His name literally includes 'the Liar,' and his dialogue mocks game design choices.",
+						"question": "M'aiq is known for making statements that are mostly what?",
+						"wrong": [
+							"Strictly true",
+							"Prophetic",
+							"Threatening"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Easy",
+						"explanation": "He has been in Morrowind, Oblivion, Skyrim, and Elder Scrolls Online.",
+						"question": "M'aiq has appeared in how many main Elder Scrolls games starting from Morrowind?",
+						"wrong": [
+							"One",
+							"Two",
+							"Five"
+						]
+					},
+					{
+						"correct": "Walking along the road",
+						"difficulty": "Easy",
+						"explanation": "He is a random encounter that spawns on various roads throughout Skyrim.",
+						"question": "What is M'aiq usually doing when the player encounters him?",
+						"wrong": [
+							"Fighting dragons",
+							"Selling skooma",
+							"Sleeping in an inn"
+						]
+					},
+					{
+						"correct": "Tan and White",
+						"difficulty": "Easy",
+						"explanation": "He wears simple hooded traveler's robes.",
+						"question": "What color is the robe M'aiq wears in Skyrim?",
+						"wrong": [
+							"Pure Black",
+							"Bright Red",
+							"Blue and Gold"
+						]
+					},
+					{
+						"correct": "The Thu'um",
+						"difficulty": "Medium",
+						"explanation": "He often mocks the core mechanics of the specific game he is in.",
+						"question": "M'aiq famously comments on the lack of what feature in Skyrim, saying 'M'aiq does not understand what is so special about shouting'?",
+						"wrong": [
+							"Levitation",
+							"Horses",
+							"Multiplayer"
+						]
+					},
+					{
+						"correct": "His father was also a liar",
+						"difficulty": "Medium",
+						"explanation": "This is how Bethesda explains his appearance across hundreds of years of lore.",
+						"question": "What does M'aiq say about his father, also named M'aiq?",
+						"wrong": [
+							"His father was a king",
+							"He never knew his father",
+							"His father was a dragon"
+						]
+					},
+					{
+						"correct": "Throwing stars",
+						"difficulty": "Medium",
+						"explanation": "Morrowind had throwing weapons, but subsequent games removed them.",
+						"question": "Which weapon does M'aiq claim is 'too much work,' referring to a missing weapon type from previous games?",
+						"wrong": [
+							"Crossbows",
+							"Spears",
+							"Flails"
+						]
+					},
+					{
+						"correct": "Dual-wielding",
+						"difficulty": "Medium",
+						"explanation": "He comments on the addition of dual-wielding in Skyrim.",
+						"question": "What is M'aiq's response to people who want to fight with two sticks?",
+						"wrong": [
+							"Staff fighting",
+							"Clubbing",
+							"Fencing"
+						]
+					},
+					{
+						"correct": "They were invisible",
+						"difficulty": "Medium",
+						"explanation": "This refers to dragons not being present in Oblivion or Morrowind.",
+						"question": "What does M'aiq say about 'seeing dragons' before everyone else did?",
+						"wrong": [
+							"They were just big birds",
+							"He was dreaming",
+							"They were hiding in the sea"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "After three unique lines, he refuses to speak further to the player.",
+						"question": "How many times can you talk to M'aiq before he says 'M'aiq is done talking'?",
+						"wrong": [
+							"One",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Capes",
+						"difficulty": "Hard",
+						"explanation": "This is a nod to the fact that capes aren't in the base game's physics engine.",
+						"question": "M'aiq comments on the lack of which clothing item, saying 'It is better to walk without'?",
+						"wrong": [
+							"Boots",
+							"Gloves",
+							"Hats"
+						]
+					},
+					{
+						"correct": "A mudcrab with gold",
+						"difficulty": "Hard",
+						"explanation": "This refers to the Easter Egg merchant 'Mudcrab Merchant' from Morrowind.",
+						"question": "Which specific animal does M'aiq claim he is looking for, which was a mythical 'creeper' in previous games?",
+						"wrong": [
+							"A talking dog",
+							"A flying cow",
+							"A purple dragon"
+						]
+					},
+					{
+						"correct": "It happens all the time",
+						"difficulty": "Hard",
+						"explanation": "He downplays the World Eater's threat with his characteristic nonchalance.",
+						"question": "What is M'aiq's opinion on the 'destruction' of the world?",
+						"wrong": [
+							"It is very sad",
+							"He will stop it",
+							"He doesn't believe in it"
+						]
+					},
+					{
+						"correct": "Invulnerable",
+						"difficulty": "Hard",
+						"explanation": "You cannot kill M'aiq; he is purely there for flavor and jokes.",
+						"question": "In the game files, M'aiq is set to which unique 'essential' status?",
+						"wrong": [
+							"Protected",
+							"Ghost",
+							"Aggressive"
+						]
+					}
+				]
+			},
+			"id": "skyrim_m'aiq_the_liar",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "M'aiq the Liar",
+				"lore_desc": "A recurring Khajiit traveler who offers cryptic, meta-commentary on the game's mechanics and development.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Khajiit",
+					"Easter Egg",
+					"Meta"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mehrunes Dagon",
+						"difficulty": "Easy",
+						"explanation": "Mehrunes Dagon is the Prince of Destruction and Ambition.",
+						"question": "Which Daedric Prince owns the Razor?",
+						"wrong": [
+							"Molag Bal",
+							"Sheogorath",
+							"Azura"
+						]
+					},
+					{
+						"correct": "A small chance to instantly kill",
+						"difficulty": "Easy",
+						"explanation": "It has about a 1% chance to kill any enemy in a single hit, regardless of health.",
+						"question": "What is the unique enchantment on Mehrunes' Razor?",
+						"wrong": [
+							"Fire damage",
+							"Absorb health",
+							"Paralysis"
+						]
+					},
+					{
+						"correct": "Dagger",
+						"difficulty": "Easy",
+						"explanation": "It is one of the fastest and most powerful daggers in the game.",
+						"question": "What type of weapon is Mehrunes' Razor?",
+						"wrong": [
+							"Sword",
+							"War Axe",
+							"Mace"
+						]
+					},
+					{
+						"correct": "Silas Vesuius",
+						"difficulty": "Easy",
+						"explanation": "Silas is a descendant of the Mythic Dawn cult and runs a museum.",
+						"question": "Which NPC in Dawnstar asks you to help him reform the Razor?",
+						"wrong": [
+							"Rustleif",
+							"Thoring",
+							"Skald"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "You must find the Pommel, the Shards, and the Hilt.",
+						"question": "How many pieces must you collect to repair the Razor?",
+						"wrong": [
+							"Two",
+							"Four",
+							"Five"
+						]
+					},
+					{
+						"correct": "Dawnstar",
+						"difficulty": "Medium",
+						"explanation": "A courier delivers an invitation to Silas's museum in Dawnstar.",
+						"question": "In which city does the quest 'Pieces of the Past' begin?",
+						"wrong": [
+							"Morthal",
+							"Winterhold",
+							"Falkreath"
+						]
+					},
+					{
+						"correct": "Silas Vesuius",
+						"difficulty": "Medium",
+						"explanation": "Dagon demands Silas's life as a sacrifice before he will fix the blade.",
+						"question": "Who must you kill at the end of the quest to receive the Razor?",
+						"wrong": [
+							"Mehrunes Dagon",
+							"A Dremora Lord",
+							"The Mythic Dawn"
+						]
+					},
+					{
+						"correct": "Near The Pale",
+						"difficulty": "Medium",
+						"explanation": "It is located high in the mountains south of Dawnstar.",
+						"question": "Where is the shrine of Mehrunes Dagon located?",
+						"wrong": [
+							"Near Markarth",
+							"Near Riften",
+							"In Blackreach"
+						]
+					},
+					{
+						"correct": "Oblivion",
+						"difficulty": "Medium",
+						"explanation": "It was available as a DLC quest in The Elder Scrolls IV: Oblivion.",
+						"question": "The Razor was a central plot item in which previous Elder Scrolls game?",
+						"wrong": [
+							"Morrowind",
+							"Daggerfall",
+							"Arena"
+						]
+					},
+					{
+						"correct": "He takes the pieces back to his museum",
+						"difficulty": "Medium",
+						"explanation": "If you spare him, the Razor remains in its broken state in a display case.",
+						"question": "What happens if you choose to spare Silas instead of killing him?",
+						"wrong": [
+							"Dagon kills you",
+							"The Razor breaks",
+							"You get a different weapon"
+						]
+					},
+					{
+						"correct": "Dremora",
+						"difficulty": "Hard",
+						"explanation": "Two Dremora Kynval appear to 'test' you after Dagon speaks.",
+						"question": "Which enemy type spawns at the shrine after you claim the Razor?",
+						"wrong": [
+							"Daedroth",
+							"Scamps",
+							"Flame Atronachs"
+						]
+					},
+					{
+						"correct": "Cracked Tuske Vault",
+						"difficulty": "Hard",
+						"explanation": "Gunzul holds the shards of the blade in his vault.",
+						"question": "One piece of the Razor is held by Gunzul in which orc-occupied fort?",
+						"wrong": [
+							"Burguk's Longhouse",
+							"Dushnikh Yal",
+							"Mor Khazgur"
+						]
+					},
+					{
+						"correct": "Morthal",
+						"difficulty": "Hard",
+						"explanation": "Jorgen is a simple woodcutter who inherited the hilt from his ancestors.",
+						"question": "The hilt of the Razor is kept by Jorgen in which town?",
+						"wrong": [
+							"Riverwood",
+							"Ivarstead",
+							"Rorikstead"
+						]
+					},
+					{
+						"correct": "Dead Crone Rock",
+						"difficulty": "Hard",
+						"explanation": "The camp is located high above Hag Rock Redoubt near Markarth.",
+						"question": "Drascua, a Hagraven, holds the Pommel Stone in which Forsworn camp?",
+						"wrong": [
+							"Hag's End",
+							"Lost Valley Redoubt",
+							"Serpent's Bluff"
+						]
+					},
+					{
+						"correct": "The Commentaries on the Mysterium Xarxes",
+						"difficulty": "Hard",
+						"explanation": "These books were written by Mankar Camoran, the villain of Oblivion.",
+						"question": "What is the specific name of the book Silas gives you that details the Mythic Dawn's history?",
+						"wrong": [
+							"The Book of Daedra",
+							"Dread Father's Truth",
+							"The Razor's Edge"
+						]
+					}
+				]
+			},
+			"id": "skyrim_mehrunes'_razor",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Mehrunes' Razor",
+				"lore_desc": "The legendary dagger of the Daedric Prince of Destruction, capable of killing any foe instantly.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Daedric",
+					"Dagger"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Moon Sugar",
+						"difficulty": "Easy",
+						"explanation": "Moon sugar is a grainy substance harvested in Elsweyr.",
+						"question": "Skooma is primarily made from which ingredient?",
+						"wrong": [
+							"Nightshade",
+							"Sleeping Tree Sap",
+							"Deathbell"
+						]
+					},
+					{
+						"correct": "Khajiit",
+						"difficulty": "Easy",
+						"explanation": "In Khajiit culture, moon sugar is a sacred substance, but skooma is its dangerous refined form.",
+						"question": "Which race is most commonly associated with the production and consumption of Skooma?",
+						"wrong": [
+							"Argonians",
+							"Bosmer",
+							"Orcs"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "Most honest merchants will not buy stolen goods or illegal narcotics.",
+						"question": "Is Skooma legal to sell to standard merchants in Skyrim?",
+						"wrong": [
+							"Yes",
+							"Only in Riften",
+							"Only in Windhelm"
+						]
+					},
+					{
+						"correct": "A rounded purple bottle",
+						"difficulty": "Easy",
+						"explanation": "It has a very distinct, curved bottle shape in Skyrim.",
+						"question": "What kind of bottle does Skooma usually come in?",
+						"wrong": [
+							"A tall green flask",
+							"A square clear jar",
+							"A small red vial"
+						]
+					},
+					{
+						"correct": "Restores Stamina",
+						"difficulty": "Easy",
+						"explanation": "In Skyrim, it restores 25 points of stamina, though its lore effects are much more addictive.",
+						"question": "What is the primary effect of Skooma on the player's attributes in Skyrim?",
+						"wrong": [
+							"Restores Health",
+							"Increases Speed",
+							"Restores Magicka"
+						]
+					},
+					{
+						"correct": "Riften",
+						"difficulty": "Medium",
+						"explanation": "The Jarl of Riften tasks the player with uncovering a skooma smuggling ring.",
+						"question": "Which city in Skyrim is known for having a major Skooma problem in its fisheries and sewers?",
+						"wrong": [
+							"Solitude",
+							"Markarth",
+							"Whiterun"
+						]
+					},
+					{
+						"correct": "Redwater Den",
+						"difficulty": "Medium",
+						"explanation": "It poses as an honest skooma dealer but is actually run by vampires.",
+						"question": "What is the name of the drug den hidden under a lighthouse in the 'Dawnguard' DLC?",
+						"wrong": [
+							"Blind Cliff Bastion",
+							"Liars' Retreat",
+							"The Ratway"
+						]
+					},
+					{
+						"correct": "A more potent version",
+						"difficulty": "Medium",
+						"explanation": "It is a rare, stronger version of the drug found in specific locations.",
+						"question": "What is 'Double-Distilled Skooma'?",
+						"wrong": [
+							"A non-addictive version",
+							"A cooking ingredient",
+							"A quest item for a cat"
+						]
+					},
+					{
+						"correct": "Laila Law-Giver",
+						"difficulty": "Medium",
+						"explanation": "Laila is the Jarl, though Maven Black-Briar holds the real power.",
+						"question": "Who is the Jarl of Riften that asks you to stop the Skooma trade?",
+						"wrong": [
+							"Maven Black-Briar",
+							"Elisif the Fair",
+							"Idgrod Ravencrone"
+						]
+					},
+					{
+						"correct": "Wujeeta",
+						"difficulty": "Medium",
+						"explanation": "She works at the Riften Fishery and needs a healing potion to recover.",
+						"question": "What is the name of the Argonian in Riften whose addiction starts the Skooma questline?",
+						"wrong": [
+							"Madesi",
+							"Talen-Jei",
+							"Keerava"
+						]
+					},
+					{
+						"correct": "None",
+						"difficulty": "Hard",
+						"explanation": "This was a trick; Dervenin is looking for his master, but he isn't a skooma addict.",
+						"question": "In the quest 'The Mind of Madness', what is the name of the Skooma-addicted NPC you meet in the Pelagius Wing?",
+						"wrong": [
+							"Dervenin",
+							"Pelagius",
+							"Sheogorath"
+						]
+					},
+					{
+						"correct": "25",
+						"difficulty": "Hard",
+						"explanation": "Despite being illegal, it is relatively cheap to buy on the black market.",
+						"question": "What is the value of a standard bottle of Skooma in gold?",
+						"wrong": [
+							"10",
+							"50",
+							"100"
+						]
+					},
+					{
+						"correct": "Redwater Skooma",
+						"difficulty": "Hard",
+						"explanation": "It is laced with Redwater Spring water, which has a narcotic effect on mortals.",
+						"question": "Which specific brand of Skooma is served in Redwater Den that causes the player to black out?",
+						"wrong": [
+							"Blood Skooma",
+							"Vampire's Brew",
+							"Sleeping Tree Skooma"
+						]
+					},
+					{
+						"correct": "Bravil",
+						"difficulty": "Hard",
+						"explanation": "Bravil is historically the 'slum' city of Cyrodiil with a high skooma usage rate.",
+						"question": "In the lore book 'Confessions of a Dunmer Skooma Eater', which city in Cyrodiil is the setting?",
+						"wrong": [
+							"Cheydinhal",
+							"Leyawiin",
+							"Imperial City"
+						]
+					},
+					{
+						"correct": "Ri'saad",
+						"difficulty": "Hard",
+						"explanation": "Ri'saad is the main trader for the caravans traveling between Whiterun and Markarth.",
+						"question": "Which Khajiit caravan leader can you sell skooma and moon sugar to?",
+						"wrong": [
+							"Kharjo",
+							"Ahkari",
+							"Ma'dran"
+						]
+					}
+				]
+			},
+			"id": "skyrim_skooma",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Skooma",
+				"lore_desc": "A potent and illegal narcotic made from refined moon sugar, popular among Khajiit and criminals.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Drug",
+					"Alchemy",
+					"Crime"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Windhelm",
+						"difficulty": "Easy",
+						"explanation": "Windhelm serves as the capital for the Stormcloak rebellion.",
+						"question": "Ulfric is the Jarl of which city?",
+						"wrong": [
+							"Riften",
+							"Winterhold",
+							"Dawnstar"
+						]
+					},
+					{
+						"correct": "Torygg",
+						"difficulty": "Easy",
+						"explanation": "Ulfric challenged Torygg to a duel and used the Thu'um to defeat him.",
+						"question": "What is the name of the High King that Ulfric killed to start the rebellion?",
+						"wrong": [
+							"Olaf",
+							"Logrolf",
+							"Madonach"
+						]
+					},
+					{
+						"correct": "The Voice / Thu'um",
+						"difficulty": "Easy",
+						"explanation": "Ulfric learned the Unrelenting Force shout from the Greybeards.",
+						"question": "Which specific ability did Ulfric use to strike down the High King?",
+						"wrong": [
+							"A poisoned dagger",
+							"Magic",
+							"A heavy warhammer"
+						]
+					},
+					{
+						"correct": "The Stormcloaks",
+						"difficulty": "Easy",
+						"explanation": "The movement is named after his family name, Stormcloak.",
+						"question": "What is the name of the rebellion Ulfric leads?",
+						"wrong": [
+							"The Companions",
+							"The Thalmor",
+							"The Forsworn"
+						]
+					},
+					{
+						"correct": "Galmar Stone-Fist",
+						"difficulty": "Easy",
+						"explanation": "Galmar is a fierce warrior who shares Ulfric's vision for a free Skyrim.",
+						"question": "Who is Ulfric's right-hand man and chief lieutenant?",
+						"wrong": [
+							"General Tullius",
+							"Legate Rikke",
+							"Brunwulf Free-Winter"
+						]
+					},
+					{
+						"correct": "The Thalmor",
+						"difficulty": "Medium",
+						"explanation": "A Thalmor dossier reveals they manipulated him during and after his imprisonment.",
+						"question": "Ulfric was a prisoner of which faction during the Great War?",
+						"wrong": [
+							"The Empire",
+							"The Orcs",
+							"The Daedra"
+						]
+					},
+					{
+						"correct": "Religious freedom and independence",
+						"difficulty": "Medium",
+						"explanation": "He wants to restore the worship of Talos and remove Imperial control.",
+						"question": "What is Ulfric's primary motivation for the rebellion?",
+						"wrong": [
+							"To become Emperor",
+							"To destroy the dragons",
+							"To kill all elves"
+						]
+					},
+					{
+						"correct": "The Great War",
+						"difficulty": "Medium",
+						"explanation": "He fought against the Aldmeri Dominion before feeling betrayed by the White-Gold Concordat.",
+						"question": "In which war did Ulfric fight alongside the Empire before his rebellion?",
+						"wrong": [
+							"The Oblivion Crisis",
+							"The Dragon War",
+							"The War of the Red Diamond"
+						]
+					},
+					{
+						"correct": "Palace of the Kings",
+						"difficulty": "Medium",
+						"explanation": "It is one of the oldest human-built structures in Skyrim.",
+						"question": "What is the name of the castle in Windhelm where Ulfric resides?",
+						"wrong": [
+							"Dragonsreach",
+							"Blue Palace",
+							"Mistveil Keep"
+						]
+					},
+					{
+						"correct": "The Greybeards",
+						"difficulty": "Medium",
+						"explanation": "He was chosen to become a Greybeard but left to fight in the Great War.",
+						"question": "Which group of monks did Ulfric study with in his youth?",
+						"wrong": [
+							"The Psijic Order",
+							"The Vigilants",
+							"The Blades"
+						]
+					},
+					{
+						"correct": "Dormant Asset",
+						"difficulty": "Hard",
+						"explanation": "The Thalmor believe his rebellion benefits them by weakening the Empire.",
+						"question": "According to the Thalmor Dossier, what status is Ulfric assigned?",
+						"wrong": [
+							"High Priority Target",
+							"Trusted Ally",
+							"Deadly Enemy"
+						]
+					},
+					{
+						"correct": "Retaking Markarth from the Forsworn",
+						"difficulty": "Hard",
+						"explanation": "Ulfric drove the Forsworn out of Markarth in exchange for free Talos worship.",
+						"question": "What was the 'Markarth Incident' that Ulfric was involved in?",
+						"wrong": [
+							"An assassination attempt",
+							"A major fire",
+							"A trade dispute"
+						]
+					},
+					{
+						"correct": "He is executed",
+						"difficulty": "Hard",
+						"explanation": "General Tullius and the player corner him in his palace for a final showdown.",
+						"question": "If the player joins the Imperial Legion and wins, what happens to Ulfric?",
+						"wrong": [
+							"He is imprisoned",
+							"He flees to Hammerfell",
+							"He becomes a Greybeard"
+						]
+					},
+					{
+						"correct": "Talos",
+						"difficulty": "Hard",
+						"explanation": "His entire rebellion is centered on the right to worship Talos, the ascended man.",
+						"question": "Which of the eight/nine divines is Ulfric most devoted to?",
+						"wrong": [
+							"Akatosh",
+							"Stendarr",
+							"Arkay"
+						]
+					},
+					{
+						"correct": "The Nords of Skyrim",
+						"difficulty": "Hard",
+						"explanation": "He maintains his conviction that he is acting in the best interest of his people.",
+						"question": "What does Ulfric say he is fighting for just before his potential death?",
+						"wrong": [
+							"His own glory",
+							"The High King's crown",
+							"The end of the Empire"
+						]
+					}
+				]
+			},
+			"id": "skyrim_ulfric_stormcloak",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Ulfric Stormcloak",
+				"lore_desc": "The Jarl of Windhelm and leader of the Stormcloak Rebellion, who killed the High King with the power of his Voice.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Leader",
+					"Rebel",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Haafingar",
+						"difficulty": "Easy",
+						"explanation": "Solitude is the seat of power for the High King/Queen.",
+						"question": "Solitude is the capital of which hold in Skyrim?",
+						"wrong": [
+							"The Reach",
+							"Hjaalmarch",
+							"The Pale"
+						]
+					},
+					{
+						"correct": "The Blue Palace",
+						"difficulty": "Easy",
+						"explanation": "It is named for its distinct blue-tiled roof.",
+						"question": "What is the name of the palace in Solitude?",
+						"wrong": [
+							"Dragonsreach",
+							"Mistveil Keep",
+							"Understone Keep"
+						]
+					},
+					{
+						"correct": "Elisif the Fair",
+						"difficulty": "Easy",
+						"explanation": "She is the widow of the murdered High King Torygg.",
+						"question": "Who is the acting Jarl of Solitude at the beginning of the game?",
+						"wrong": [
+							"Laila Law-Giver",
+							"Idgrod Ravencrone",
+							"Siddgeir"
+						]
+					},
+					{
+						"correct": "The Sea of Ghosts",
+						"difficulty": "Easy",
+						"explanation": "The city sits on a giant stone arch over the Karth River estuary.",
+						"question": "Solitude is built upon a massive natural bridge overlooking which body of water?",
+						"wrong": [
+							"The White River",
+							"Lake Ilinalta",
+							"The Treva River"
+						]
+					},
+					{
+						"correct": "The Imperial Legion",
+						"difficulty": "Easy",
+						"explanation": "Castle Dour in Solitude serves as General Tullius's command center.",
+						"question": "Which faction has its Skyrim headquarters in Solitude?",
+						"wrong": [
+							"The Stormcloaks",
+							"The Companions",
+							"The Thieves Guild"
+						]
+					},
+					{
+						"correct": "Roggvir",
+						"difficulty": "Medium",
+						"explanation": "Roggvir is executed for allowing Ulfric Stormcloak to escape after the duel.",
+						"question": "What execution do you witness upon your first entry into Solitude?",
+						"wrong": [
+							"Ulfric",
+							"A Dark Brotherhood assassin",
+							"A Thalmor spy"
+						]
+					},
+					{
+						"correct": "The Bards College",
+						"difficulty": "Medium",
+						"explanation": "The college teaches poetry, song, and history to aspiring bards.",
+						"question": "Which musical organization is headquartered in Solitude?",
+						"wrong": [
+							"The Mages Guild",
+							"The Synod",
+							"The College of Winterhold"
+						]
+					},
+					{
+						"correct": "The Burning of King Olaf",
+						"difficulty": "Medium",
+						"explanation": "It involves burning an effigy of the ancient King Olaf One-Eye.",
+						"question": "What is the name of the festival the Bards College wants to reinstate?",
+						"wrong": [
+							"The Festival of Lights",
+							"The Dragon Feast",
+							"The Solstice Dance"
+						]
+					},
+					{
+						"correct": "Sheogorath",
+						"difficulty": "Medium",
+						"explanation": "The quest 'The Mind of Madness' leads you into the Pelagius Wing.",
+						"question": "Which Daedric Prince has a quest that takes place in an abandoned wing of the Blue Palace?",
+						"wrong": [
+							"Sanguine",
+							"Molag Bal",
+							"Meridia"
+						]
+					},
+					{
+						"correct": "General Tullius",
+						"difficulty": "Medium",
+						"explanation": "Tullius was sent by the Emperor specifically to squash the rebellion.",
+						"question": "Who is the Imperial General in charge of the war effort from Solitude?",
+						"wrong": [
+							"Legate Rikke",
+							"General Falx Carius",
+							"General Julianos"
+						]
+					},
+					{
+						"correct": "Radiant Raiment",
+						"difficulty": "Hard",
+						"explanation": "It is run by two sisters, Taarie and Endarie, who are famously snobbish.",
+						"question": "What is the name of the high-end clothing store in Solitude?",
+						"wrong": [
+							"The Bits and Bobs",
+							"Solitude Stitches",
+							"The Gilded Garb"
+						]
+					},
+					{
+						"correct": "The Eight Divines",
+						"difficulty": "Hard",
+						"explanation": "Due to the White-Gold Concordat, it is officially the Temple of the Eight, omitting Talos.",
+						"question": "Solitude is home to the largest temple in Skyrim, dedicated to which group?",
+						"wrong": [
+							"The Nine Divines",
+							"The Daedric Princes",
+							"The Tribunal"
+						]
+					},
+					{
+						"correct": "Potema",
+						"difficulty": "Hard",
+						"explanation": "Potema's ghost is a major threat in a Solitude questline.",
+						"question": "Which former Queen of Solitude was known as the 'Wolf Queen'?",
+						"wrong": [
+							"Hemma",
+							"Elisif",
+							"Freydis"
+						]
+					},
+					{
+						"correct": "Solitude Lighthouse",
+						"difficulty": "Hard",
+						"explanation": "It is involved in the quest 'Lights Out!' where you are asked to put out the fire.",
+						"question": "What is the name of the lighthouse just outside of Solitude?",
+						"wrong": [
+							"Frostflow Lighthouse",
+							"Windstad Light",
+							"The Beacon"
+						]
+					},
+					{
+						"correct": "Orthjolf",
+						"difficulty": "Hard",
+						"explanation": "Actually, Vittoria Vicci is the head, but Orthjolf is involved in the 'Rise in the East' quest.",
+						"question": "Which East Empire Company official in Solitude tasks you with raiding a bandit group?",
+						"wrong": [
+							"Adelaisa Vendicci",
+							"Vittoria Vicci",
+							"Erikur"
+						]
+					}
+				]
+			},
+			"id": "skyrim_solitude",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Solitude",
+				"lore_desc": "The cosmopolitan capital of Skyrim and the headquarters of the Imperial Legion.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Capital",
+					"Empire"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A Jester's suit",
+						"difficulty": "Easy",
+						"explanation": "He wears a bright red and blue motley suit.",
+						"question": "What is Cicero's unique outfit?",
+						"wrong": [
+							"Black robes",
+							"Steel plate armor",
+							"A chef's uniform"
+						]
+					},
+					{
+						"correct": "The Night Mother",
+						"difficulty": "Easy",
+						"explanation": "He is the Keeper, responsible for tending to her corpse.",
+						"question": "Who is Cicero protecting in his large wooden coffin?",
+						"wrong": [
+							"Sithis",
+							"Astrid",
+							"The Lucky Old Lady"
+						]
+					},
+					{
+						"correct": "The Keeper",
+						"difficulty": "Easy",
+						"explanation": "The Keeper's duty is to care for the Night Mother's remains.",
+						"question": "What is Cicero's official title within the Dark Brotherhood?",
+						"wrong": [
+							"The Listener",
+							"The Speaker",
+							"The Silencer"
+						]
+					},
+					{
+						"correct": "Manic and Insane",
+						"difficulty": "Easy",
+						"explanation": "He constantly dances, sings, and talks to himself or the Night Mother.",
+						"question": "What is Cicero's personality best described as?",
+						"wrong": [
+							"Stoic and Quiet",
+							"Kind and Helpful",
+							"Strict and Professional"
+						]
+					},
+					{
+						"correct": "Loreius Farm",
+						"difficulty": "Easy",
+						"explanation": "He is stuck with a broken wagon wheel and needs help.",
+						"question": "Where does the player first encounter Cicero on the road?",
+						"wrong": [
+							"Whiterun Stables",
+							"Dragon Bridge",
+							"Rorikstead"
+						]
+					},
+					{
+						"correct": "Dagger",
+						"difficulty": "Medium",
+						"explanation": "He fights with an Ebony Dagger (in his inventory) and moves very fast.",
+						"question": "What weapon does Cicero primarily use?",
+						"wrong": [
+							"Warhammer",
+							"Bow",
+							"Staff"
+						]
+					},
+					{
+						"correct": "Astrid",
+						"difficulty": "Medium",
+						"explanation": "He attacks her because she disrespects the Night Mother and the Old Ways.",
+						"question": "Who does Cicero attempt to kill in the Dark Brotherhood sanctuary?",
+						"wrong": [
+							"The Player",
+							"Nazir",
+							"Babette"
+						]
+					},
+					{
+						"correct": "Cicero's Journal",
+						"difficulty": "Medium",
+						"explanation": "There are five volumes detailing his life as an assassin before he became the Keeper.",
+						"question": "What is the name of the journals you find that explain Cicero's descent into madness?",
+						"wrong": [
+							"The Jester's Tale",
+							"The Keeper's Log",
+							"Diary of a Madman"
+						]
+					},
+					{
+						"correct": "Assassin",
+						"difficulty": "Medium",
+						"explanation": "He was a highly skilled, normal assassin for the Cheydinhal Sanctuary.",
+						"question": "Before he went insane, what was Cicero's profession?",
+						"wrong": [
+							"Actual Jester",
+							"Baker",
+							"Imperial Soldier"
+						]
+					},
+					{
+						"correct": "A Jester",
+						"difficulty": "Medium",
+						"explanation": "His last contract was a jester; he became obsessed and took on the man's persona.",
+						"question": "Cicero's madness was triggered by a contract to kill whom?",
+						"wrong": [
+							"A King",
+							"A Priest",
+							"A Child"
+						]
+					},
+					{
+						"correct": "A Follower",
+						"difficulty": "Hard",
+						"explanation": "He is one of the best followers in the game due to his high level cap and stealth skills.",
+						"question": "If you spare Cicero, what can he eventually become for you?",
+						"wrong": [
+							"A Merchant",
+							"A Jarl",
+							"A Target again"
+						]
+					},
+					{
+						"correct": "Cheydinhal",
+						"difficulty": "Hard",
+						"explanation": "The Cheydinhal sanctuary in Cyrodiil was the last to fall before he fled.",
+						"question": "Which city's sanctuary did Cicero travel from to reach Skyrim?",
+						"wrong": [
+							"Bravil",
+							"Imperial City",
+							"Kvatch"
+						]
+					},
+					{
+						"correct": "He doesn't have one",
+						"difficulty": "Hard",
+						"explanation": "In his road encounter, he is actually pulling the wagon himself or it is horse-less.",
+						"question": "What is the name of the horse Cicero is using to pull the Night Mother's coffin?",
+						"wrong": [
+							"Shadowmere",
+							"Frost",
+							"Barnabas"
+						]
+					},
+					{
+						"correct": "The Hero of Kvatch / Listener",
+						"difficulty": "Hard",
+						"explanation": "He refers to the high standing of the Brotherhood during the Oblivion era.",
+						"question": "In his journals, who does Cicero mention as the 'Champion' he admired?",
+						"wrong": [
+							"Uriel Septim",
+							"Lucien Lachance",
+							"Tiber Septim"
+						]
+					},
+					{
+						"correct": "She doesn't give one",
+						"difficulty": "Hard",
+						"explanation": "The Night Mother never tells you to kill him; that was Astrid's order.",
+						"question": "What is the specific command the Night Mother gives you regarding Cicero's fate?",
+						"wrong": [
+							"Kill him",
+							"Spare him",
+							"Listen to him"
+						]
+					}
+				]
+			},
+			"id": "skyrim_cicero",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Cicero",
+				"lore_desc": "The eccentric 'Keeper' of the Night Mother, known for his jester outfit and high-pitched, manic voice.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Assassin",
+					"Jester",
+					"Madman"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "It is not destroyed after use",
+						"difficulty": "Easy",
+						"explanation": "It is a permanent soul gem that can be emptied and refilled infinitely.",
+						"question": "What makes Azura's Star different from a regular soul gem?",
+						"wrong": [
+							"It only holds human souls",
+							"It glows in the dark",
+							"It can capture dragon souls"
+						]
+					},
+					{
+						"correct": "Azura",
+						"difficulty": "Easy",
+						"explanation": "Azura is the Prince of Dusk and Dawn.",
+						"question": "Which Daedric Prince is the creator of the Star?",
+						"wrong": [
+							"Meridia",
+							"Boethiah",
+							"Mephala"
+						]
+					},
+					{
+						"correct": "On a mountain south of Winterhold",
+						"difficulty": "Easy",
+						"explanation": "The massive statue is visible from a great distance.",
+						"question": "Where is the Shrine of Azura located in Skyrim?",
+						"wrong": [
+							"In the Ratway",
+							"In Blackreach",
+							"Near Markarth"
+						]
+					},
+					{
+						"correct": "The Black Star",
+						"difficulty": "Easy",
+						"explanation": "The Black Star can hold 'Black' (human/elven) souls.",
+						"question": "What can you turn Azura's Star into if you choose to help Nelacar?",
+						"wrong": [
+							"The White Star",
+							"The Corrupted Star",
+							"The Void Gem"
+						]
+					},
+					{
+						"correct": "Aranea Ienith",
+						"difficulty": "Easy",
+						"explanation": "She is a Dunmer who claims to have visions from Azura.",
+						"question": "Who is the priestess at the shrine who gives you the quest to find the Star?",
+						"wrong": [
+							"Karliah",
+							"Irileth",
+							"Jenassa"
+						]
+					},
+					{
+						"correct": "Only animal/creature souls",
+						"difficulty": "Medium",
+						"explanation": "Standard soul gems (and the White Star) cannot hold the souls of sentient races.",
+						"question": "What kind of souls can the original (White) Azura's Star hold?",
+						"wrong": [
+							"Only human souls",
+							"Any soul",
+							"Only Daedric souls"
+						]
+					},
+					{
+						"correct": "Malyn Varen",
+						"difficulty": "Medium",
+						"explanation": "He was a teacher at the College of Winterhold who went mad.",
+						"question": "What is the name of the mage who attempted to make himself immortal inside the Star?",
+						"wrong": [
+							"Neloth",
+							"Savos Aren",
+							"Ancano"
+						]
+					},
+					{
+						"correct": "Ilinalta's Deep",
+						"difficulty": "Medium",
+						"explanation": "It's a sunken fort in the middle of Lake Ilinalta.",
+						"question": "Where must you go to find the broken Star?",
+						"wrong": [
+							"Hob's Fall Cave",
+							"Ansilvund",
+							"Saarthal"
+						]
+					},
+					{
+						"correct": "Malyn Varen and Dremora",
+						"difficulty": "Medium",
+						"explanation": "You must purge the star of Malyn's soul and his summoned Daedra.",
+						"question": "In the quest, you are physically transported inside the Star. What enemies do you face there?",
+						"wrong": [
+							"Ghosts",
+							"Dragons",
+							"Ice Wraiths"
+						]
+					},
+					{
+						"correct": "Dunmer",
+						"difficulty": "Medium",
+						"explanation": "Many Dunmer worship Azura as one of their 'Good Daedra'.",
+						"question": "Which race is the priestess Aranea Ienith?",
+						"wrong": [
+							"Altmer",
+							"Bosmer",
+							"Imperial"
+						]
+					},
+					{
+						"correct": "Easier to find Grand souls",
+						"difficulty": "Hard",
+						"explanation": "Human/Elf souls are always Grand-sized, making the Black Star more efficient for enchanting.",
+						"question": "What is the gameplay benefit of choosing the Black Star over the original Azura's Star?",
+						"wrong": [
+							"It has more capacity",
+							"It recharges faster",
+							"It deals damage"
+						]
+					},
+					{
+						"correct": "Aranea as a follower",
+						"difficulty": "Hard",
+						"explanation": "Aranea will offer to join you, and she is a powerful mage.",
+						"question": "If you return the Star to Azura, what reward (other than the star) do you get?",
+						"wrong": [
+							"A unique spell",
+							"Azura's Blessing",
+							"Gold"
+						]
+					},
+					{
+						"correct": "By consuming souls sent into it",
+						"difficulty": "Hard",
+						"explanation": "He was effectively 'eating' the souls his disciples trapped for him.",
+						"question": "According to Nelacar, how did Malyn Varen stay alive inside the Star?",
+						"wrong": [
+							"Through a pact with Hermaeus Mora",
+							"By freezing time",
+							"He became a lich"
+						]
+					},
+					{
+						"correct": "Morrowind",
+						"difficulty": "Hard",
+						"explanation": "While it appears in many games, its mechanics for acquisition vary greatly.",
+						"question": "The Star is a recurring artifact. In which game did it require the soul of a 'Grand' level creature to be summoned?",
+						"wrong": [
+							"Oblivion",
+							"Skyrim",
+							"Daggerfall"
+						]
+					},
+					{
+						"correct": "The Frozen Hearth",
+						"difficulty": "Hard",
+						"explanation": "Nelacar is an elf living in the inn because he was kicked out of the College.",
+						"question": "What is the name of the inn in Winterhold where you find Nelacar?",
+						"wrong": [
+							"The Winking Skeever",
+							"The Vile Myrmidon",
+							"The Silver-Blood Inn"
+						]
+					}
+				]
+			},
+			"id": "skyrim_azura's_star",
+			"meta": {
+				"date_added": "2026-03-14",
+				"entity_category": "Theme Item",
+				"full_title": "Azura's Star",
+				"lore_desc": "A legendary reusable soul gem created by the Daedric Prince Azura.",
+				"theme_origin": "skyrim",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Daedric",
+					"Soul Gem",
+					"Artifact"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -55009,6 +58001,136 @@
 						"Fox McCloud"
 					],
 					"name": "License to Kill"
+				}
+			]
+		},
+		{
+			"id": "skyrim",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Dovahkiin",
+						"Paarthurnax",
+						"Fus Ro Dah"
+					],
+					"name": "The Way of the Voice"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Dovahkiin",
+						"Whiterun",
+						"Lydia"
+					],
+					"name": "Thane of Whiterun"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Dark Brotherhood",
+						"Cicero",
+						"Solitude"
+					],
+					"name": "Hail Sithis!"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Ulfric Stormcloak",
+						"Solitude",
+						"Whiterun"
+					],
+					"name": "The Civil War"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Alduin",
+						"Paarthurnax",
+						"Dovahkiin"
+					],
+					"name": "Children of Akatosh"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ulfric Stormcloak",
+						"Fus Ro Dah"
+					],
+					"name": "High King's Fall"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Dovahkiin",
+						"Lydia"
+					],
+					"name": "Sworn to Carry"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"M'aiq the Liar",
+						"Skooma"
+					],
+					"name": "Khajiit Has Wares"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mehrunes' Razor",
+						"Azura's Star"
+					],
+					"name": "Daedric Artifacts"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Cicero",
+						"The Dark Brotherhood"
+					],
+					"name": "The Keeper"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sweetroll",
+						"Skooma"
+					],
+					"name": "Contraband & Confections"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Blackreach",
+						"Azura's Star"
+					],
+					"name": "Glowing Depths"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Whiterun",
+						"Sweetroll"
+					],
+					"name": "Let Me Guess..."
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Dark Brotherhood",
+						"Mehrunes' Razor"
+					],
+					"name": "Brotherhood Assassin"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Alduin",
+						"Paarthurnax"
+					],
+					"name": "Shattered Time"
 				}
 			]
 		}
