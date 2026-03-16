@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773606840,
+	"last_updated": 1773698521,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2191,6 +2191,48 @@
 				"ps1_classics_raziel",
 				"ps1_classics_shadow_moses_island",
 				"ps1_classics_sweet_tooth_truck"
+			]
+		},
+		"2026-03-17": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Whos That Poekmon?",
+			"share_text": "IS THIS BROKEN",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"ps1_classics_crash_bandicoot",
+				"ps1_classics_lara_croft",
+				"ps1_classics_cloud_strife"
+			],
+			"starters": [
+				"pokemon_umbreon",
+				"pokemon_mimikyu",
+				"pokemon_garchomp",
+				"pokemon_greninja",
+				"pokemon_scyther",
+				"pokemon_meowth",
+				"pokemon_psyduck",
+				"pokemon_mew",
+				"pokemon_arcanine",
+				"pokemon_hitmonlee",
+				"pokemon_alakazam",
+				"pokemon_machamp",
+				"pokemon_dragonite",
+				"pokemon_gardevoir",
+				"pokemon_lucario"
 			]
 		}
 	}
