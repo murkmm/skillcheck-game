@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773698521,
+	"last_updated": 1773701112,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2196,7 +2196,7 @@
 		"2026-03-17": {
 			"difficulty": "Easy",
 			"mode": "STANDARD",
-			"motd": "Whos That Poekmon?",
+			"motd": "Whos That Pokemon?",
 			"share_text": "IS THIS BROKEN",
 			"shops": [
 				{
@@ -2218,21 +2218,21 @@
 				"ps1_classics_cloud_strife"
 			],
 			"starters": [
-				"pokemon_umbreon",
-				"pokemon_mimikyu",
-				"pokemon_garchomp",
-				"pokemon_greninja",
-				"pokemon_scyther",
-				"pokemon_meowth",
-				"pokemon_psyduck",
-				"pokemon_mew",
-				"pokemon_arcanine",
-				"pokemon_hitmonlee",
 				"pokemon_alakazam",
-				"pokemon_machamp",
+				"pokemon_arcanine",
 				"pokemon_dragonite",
+				"pokemon_garchomp",
 				"pokemon_gardevoir",
-				"pokemon_lucario"
+				"pokemon_greninja",
+				"pokemon_hitmonlee",
+				"pokemon_lucario",
+				"pokemon_machamp",
+				"pokemon_meowth",
+				"pokemon_mew",
+				"pokemon_mimikyu",
+				"pokemon_psyduck",
+				"pokemon_scyther",
+				"pokemon_umbreon"
 			]
 		}
 	}
