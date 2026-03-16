@@ -59750,6 +59750,3036 @@
 					"Iconic"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Steel",
+						"difficulty": "Easy",
+						"explanation": "Despite its psychic-like aura abilities, this Pokémon is actually a dual Steel and Fighting type.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "Which of these is one of this Pokémon's primary types?",
+						"wrong": [
+							"Psychic",
+							"Dark",
+							"Electric"
+						]
+					},
+					{
+						"correct": "Aura",
+						"difficulty": "Easy",
+						"explanation": "This Pokémon can sense the Aura of all living things, allowing it to 'see' even with its eyes closed.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "What energy can this Pokémon sense to read the minds of its opponents?",
+						"wrong": [
+							"Mana",
+							"Psy-waves",
+							"Chakra"
+						]
+					},
+					{
+						"correct": "Aura Sphere",
+						"difficulty": "Easy",
+						"explanation": "Aura Sphere is a move that never misses, fueled by the user's inner energy.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "What is the name of this creature's signature blue energy ball attack?",
+						"wrong": [
+							"Focus Blast",
+							"Hydro Pump",
+							"Shadow Ball"
+						]
+					},
+					{
+						"correct": "Super Smash Bros",
+						"difficulty": "Easy",
+						"explanation": "It joined the roster in Brawl and has been a staple ever since, using its damage-scaling Aura mechanic.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "In which game series does this character appear as a playable fighter alongside Mario?",
+						"wrong": [
+							"Mario Kart",
+							"Tekken",
+							"Street Fighter"
+						]
+					},
+					{
+						"correct": "Riolu",
+						"difficulty": "Easy",
+						"explanation": "It evolves from Riolu when it has high friendship during the daytime.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "What is the name of this Pokémon's unevolved form?",
+						"wrong": [
+							"Lucar",
+							"Auru",
+							"Puppy"
+						]
+					},
+					{
+						"correct": "Sinnoh",
+						"difficulty": "Medium",
+						"explanation": "It was introduced in Generation IV, making its debut in the Sinnoh region.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "Which region was this Pokémon first discovered in?",
+						"wrong": [
+							"Kanto",
+							"Hoenn",
+							"Johto"
+						]
+					},
+					{
+						"correct": "Lucarionite",
+						"difficulty": "Medium",
+						"explanation": "Mega Evolution requires a specific Mega Stone, which transforms its appearance and boosts its stats.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "What special item is required for this Pokémon to reach its 'Mega' form?",
+						"wrong": [
+							"Steel Stone",
+							"Aura Orb",
+							"Fighting Spirit"
+						]
+					},
+					{
+						"correct": "Adaptability",
+						"difficulty": "Medium",
+						"explanation": "Adaptability increases the power of moves that match the Pokémon's type.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "What Ability does this Pokémon gain upon Mega Evolving?",
+						"wrong": [
+							"Inner Focus",
+							"Justified",
+							"Steadfast"
+						]
+					},
+					{
+						"correct": "Half a mile",
+						"difficulty": "Medium",
+						"explanation": "Its aura-sensing range is impressive, allowing it to detect emotional shifts from over half a mile away.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "According to the Pokédex, how many miles away can this creature sense a person's emotions?",
+						"wrong": [
+							"10 miles",
+							"50 feet",
+							"100 miles"
+						]
+					},
+					{
+						"correct": "Mew",
+						"difficulty": "Medium",
+						"explanation": "The movie 'Lucario and the Mystery of Mew' introduced this Pokémon to fans before its game release.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "Which legendary Pokémon did this creature star alongside in its debut movie?",
+						"wrong": [
+							"Arceus",
+							"Lugia",
+							"Rayquaza"
+						]
+					},
+					{
+						"correct": "Friendship at Daytime",
+						"difficulty": "Hard",
+						"explanation": "Unlike many others, it requires a strong bond with its trainer and the presence of the sun.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "What is the unique requirement for its pre-evolution to evolve?",
+						"wrong": [
+							"Level 30",
+							"Use a Sun Stone",
+							"Trade with an item"
+						]
+					},
+					{
+						"correct": "Steel",
+						"difficulty": "Hard",
+						"explanation": "These spikes are part of its skeletal structure and reflect its Steel typing.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "What material are the spikes on the back of its hands and chest made of?",
+						"wrong": [
+							"Bone",
+							"Ice",
+							"Diamond"
+						]
+					},
+					{
+						"correct": "Korrina",
+						"difficulty": "Hard",
+						"explanation": "The Shalour City Gym Leader, Korrina, gifts the player one that is capable of Mega Evolution.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "Which Gym Leader in the Kalos region gives the player their first one of these creatures?",
+						"wrong": [
+							"Wulfric",
+							"Clemont",
+							"Viola"
+						]
+					},
+					{
+						"correct": "The Aura Pokémon",
+						"difficulty": "Hard",
+						"explanation": "While it looks like a canine, its official classification is the Aura Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "In the Pokédex, this Pokémon is classified as which of the following?",
+						"wrong": [
+							"The Iron Dog Pokémon",
+							"The Fighting Spirit Pokémon",
+							"The Blue Fox Pokémon"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Hard",
+						"explanation": "It features a distinctive black 'mask' and black fur on its torso and paws.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucario.webp",
+						"question": "What is the secondary color found on its chest and the 'mask' around its eyes?",
+						"wrong": [
+							"White",
+							"Red",
+							"Yellow"
+						]
+					}
+				]
+			},
+			"id": "pokemon_lucario",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Lucario",
+				"lore_desc": "A bipedal, canine-like Pokémon known for its ability to sense and manipulate Aura, allowing it to read the thoughts and movements of others.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Fighting",
+					"Steel",
+					"Sinnoh"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Psychic",
+						"difficulty": "Easy",
+						"explanation": "It was purely Psychic-type until the Fairy type was introduced in Gen VI.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "What was this Pokémon's only type before Generation VI?",
+						"wrong": [
+							"Ghost",
+							"Normal",
+							"Grass"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Its flowing head-dress is a vibrant green, though its Shiny form is blue.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "What color is this Pokémon's 'hair' or head piece normally?",
+						"wrong": [
+							"Blue",
+							"Pink",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Ralts",
+						"difficulty": "Easy",
+						"explanation": "The line begins with Ralts, which evolves into Kirlia, and then into this form.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "This Pokémon is the final evolution of which small, green-haired creature?",
+						"wrong": [
+							"Oddish",
+							"Budew",
+							"Roselia"
+						]
+					},
+					{
+						"correct": "A gown",
+						"difficulty": "Easy",
+						"explanation": "Its body is shaped to resemble a long, elegant white dress or gown.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "What does this Pokémon look like it is wearing?",
+						"wrong": [
+							"Armor",
+							"A cape",
+							"A swimsuit"
+						]
+					},
+					{
+						"correct": "Gallade",
+						"difficulty": "Easy",
+						"explanation": "Male Kirlia can use a Dawn Stone to become the blade-wielding Gallade instead.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "What is the name of its male-only alternate evolution?",
+						"wrong": [
+							"Garde-male",
+							"Kirli-king",
+							"Bladevoir"
+						]
+					},
+					{
+						"correct": "A small black hole",
+						"difficulty": "Medium",
+						"explanation": "Pokédex entries state it can expend all its psychic power to create a small black hole.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "According to lore, what can this Pokémon create to protect its trainer?",
+						"wrong": [
+							"A brick wall",
+							"A tidal wave",
+							"A forest"
+						]
+					},
+					{
+						"correct": "Diantha",
+						"difficulty": "Medium",
+						"explanation": "Grand Duchess Diantha uses a Gardevoir that she Mega Evolves in battle.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "Which Champion in the Kalos region uses this Pokémon as her signature 'Ace'?",
+						"wrong": [
+							"Cynthia",
+							"Iris",
+							"Steven"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Medium",
+						"explanation": "Shiny Mega Gardevoir is famous for its striking black mourning-dress appearance.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "When it Mega Evolves, what color does its 'gown' become in its Shiny form?",
+						"wrong": [
+							"White",
+							"Gold",
+							"Pink"
+						]
+					},
+					{
+						"correct": "Sensing emotions",
+						"difficulty": "Medium",
+						"explanation": "These structures are said to be a physical manifestation of its heart and allow it to sense feelings.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "What is the red, horn-like structure on its chest and back used for?",
+						"wrong": [
+							"Storing food",
+							"Breathing",
+							"Attacking"
+						]
+					},
+					{
+						"correct": "Hoenn",
+						"difficulty": "Medium",
+						"explanation": "It made its debut in Generation III, the Ruby, Sapphire, and Emerald games.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "In which region was this Pokémon first introduced?",
+						"wrong": [
+							"Kanto",
+							"Johto",
+							"Unova"
+						]
+					},
+					{
+						"correct": "50% Male / 50% Female",
+						"difficulty": "Hard",
+						"explanation": "Despite its very feminine appearance, the species is evenly split between males and females.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "What is the gender ratio of this species?",
+						"wrong": [
+							"100% Female",
+							"75% Female",
+							"10% Male"
+						]
+					},
+					{
+						"correct": "Imprison",
+						"difficulty": "Hard",
+						"explanation": "Imprison prevents the opponent from using any moves that the user also knows.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "What unique move did this Pokémon's line gain in Gen III that targets the opponent's stats?",
+						"wrong": [
+							"Psychic",
+							"Moonblast",
+							"Calm Mind"
+						]
+					},
+					{
+						"correct": "125",
+						"difficulty": "Hard",
+						"explanation": "It is a heavy hitter in the Special Attack department, boasting a base stat of 125.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "What is the base Special Attack stat of a regular, non-Mega Gardevoir?",
+						"wrong": [
+							"100",
+							"150",
+							"90"
+						]
+					},
+					{
+						"correct": "Amorphous",
+						"difficulty": "Hard",
+						"explanation": "Surprisingly, it is in the Amorphous egg group along with ghosts and slugs, not the Human-like group.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "Which egg group does this Pokémon belong to?",
+						"wrong": [
+							"Human-like",
+							"Monster",
+							"Fairy"
+						]
+					},
+					{
+						"correct": "A spirit guide",
+						"difficulty": "Hard",
+						"explanation": "She acts as a guide to the player, revealing the truth about their transformation into a Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/gardevoir.webp",
+						"question": "In the 'Mystery Dungeon' series, what is the role of the Gardevoir that appears in the player's dreams?",
+						"wrong": [
+							"The villain",
+							"A shopkeeper",
+							"The player's rival"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gardevoir",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Gardevoir",
+				"lore_desc": "A humanoid Pokémon with the power to see the future. It is fiercely loyal and will protect its trainer even at the cost of its own life.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Psychic",
+					"Fairy",
+					"Hoenn"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "Despite evolving from the blue Dratini and Dragonair, this Pokémon is a bright orange.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "What color is this Pokémon primarily?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Red"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "The line starts with Dratini, evolves into Dragonair, and finishes with this dragon.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "How many evolutions are in this Pokémon's family line?",
+						"wrong": [
+							"Two",
+							"One",
+							"Four"
+						]
+					},
+					{
+						"correct": "Dragon and Flying",
+						"difficulty": "Easy",
+						"explanation": "It is the original Dragon/Flying powerhouse from the Kanto region.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "Which of these is its primary typing?",
+						"wrong": [
+							"Dragon and Fire",
+							"Dragon and Water",
+							"Dragon and Electric"
+						]
+					},
+					{
+						"correct": "Only fully evolved Dragon-type",
+						"difficulty": "Easy",
+						"explanation": "In Gen 1, its line was the only one that carried the Dragon typing.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "What was special about this Pokémon in the first generation of games?",
+						"wrong": [
+							"It was a Legendary",
+							"It could talk",
+							"It had no weaknesses"
+						]
+					},
+					{
+						"correct": "Lance",
+						"difficulty": "Easy",
+						"explanation": "Lance, the master of Dragons, uses multiple of these in his Kanto and Johto teams.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "Which Kanto Elite Four member (and later Champion) is famous for using three of these?",
+						"wrong": [
+							"Bruno",
+							"Agatha",
+							"Lorelei"
+						]
+					},
+					{
+						"correct": "16 hours",
+						"difficulty": "Medium",
+						"explanation": "It is stated to be able to circle the entire globe in just 16 hours.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "According to the Pokédex, how fast can this Pokémon fly around the globe?",
+						"wrong": [
+							"1 hour",
+							"80 days",
+							"24 hours"
+						]
+					},
+					{
+						"correct": "Multiscale",
+						"difficulty": "Medium",
+						"explanation": "Multiscale is highly prized in competitive play for making this dragon incredibly bulky.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "What is its hidden ability that reduces damage taken when at full health?",
+						"wrong": [
+							"Inner Focus",
+							"Marvel Scale",
+							"Intimidate"
+						]
+					},
+					{
+						"correct": "Bill's Lighthouse",
+						"difficulty": "Medium",
+						"explanation": "A massive silhouette of this creature appeared at Bill's lighthouse early in the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "In the anime, where does a giant, mysterious version of this Pokémon appear?",
+						"wrong": [
+							"Mt. Moon",
+							"Cinnabar Island",
+							"Indigo Plateau"
+						]
+					},
+					{
+						"correct": "Hyper Beam",
+						"difficulty": "Medium",
+						"explanation": "Lance's version is particularly famous for using Hyper Beam in the games and anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "Which of these moves is a common 'Hyper' beam-like attack this Pokémon uses?",
+						"wrong": [
+							"Dragon Pulse",
+							"Outrage",
+							"Hurricane"
+						]
+					},
+					{
+						"correct": "None (Level up)",
+						"difficulty": "Medium",
+						"explanation": "It evolves simply by reaching Level 55, one of the highest evolution levels in Gen 1.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "Which item must a Dratini hold to evolve into this Pokémon?",
+						"wrong": [
+							"Dragon Scale",
+							"Sun Stone",
+							"King's Rock"
+						]
+					},
+					{
+						"correct": "A messenger",
+						"difficulty": "Hard",
+						"explanation": "It wears a mailbag and delivers Mewtwo's invitations to trainers.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "In the movie 'Mewtwo Strikes Back', what role does this Pokémon serve?",
+						"wrong": [
+							"A guard",
+							"The main villain",
+							"Ash's ride"
+						]
+					},
+					{
+						"correct": "Cream / Pale Yellow",
+						"difficulty": "Hard",
+						"explanation": "While its back is orange, its belly has a light cream-colored underside with horizontal stripes.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "What color is this Pokémon's belly?",
+						"wrong": [
+							"White",
+							"Orange",
+							"Green"
+						]
+					},
+					{
+						"correct": "600",
+						"difficulty": "Hard",
+						"explanation": "As a Pseudo-Legendary Pokémon, it has a base stat total of exactly 600.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "What is its base stat total?",
+						"wrong": [
+							"580",
+							"680",
+							"500"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "Despite its large size, it flies with just one pair of relatively small, teal-colored wings.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "How many wings does this Pokémon have?",
+						"wrong": [
+							"Four",
+							"Zero",
+							"Six"
+						]
+					},
+					{
+						"correct": "Dragonite Island",
+						"difficulty": "Hard",
+						"explanation": "In the anime, a secret paradise called Dragonite Island is home to many of these rare dragons.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonite.webp",
+						"question": "What is the name of the island where these Pokémon are said to live in a secret colony?",
+						"wrong": [
+							"Dratini Den",
+							"Dragon's Den",
+							"Orange Island"
+						]
+					}
+				]
+			},
+			"id": "pokemon_dragonite",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Dragonite",
+				"lore_desc": "A large, orange bipedal dragon known for its intelligence and kind heart. It is said to rescue people from drowning at sea.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Dragon",
+					"Flying",
+					"Kanto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Two Spoons",
+						"difficulty": "Easy",
+						"explanation": "It uses its psychic energy to amplify its powers through these silver spoons.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "What object is this Pokémon always seen holding in its hands?",
+						"wrong": [
+							"A Staff",
+							"A Crystal Ball",
+							"A Wand"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "Kadabra holds only one spoon, while its evolved form holds two.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "How many spoons does its pre-evolution, Kadabra, hold?",
+						"wrong": [
+							"Two",
+							"Zero",
+							"Three"
+						]
+					},
+					{
+						"correct": "Trading",
+						"difficulty": "Easy",
+						"explanation": "This was one of the original four Pokémon that required a trade to reach its final form.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "What is the only way to evolve Kadabra into this Pokémon?",
+						"wrong": [
+							"Level 36",
+							"Sun Stone",
+							"Friendship"
+						]
+					},
+					{
+						"correct": "Psychic",
+						"difficulty": "Easy",
+						"explanation": "It is the quintessential Psychic-type from the Kanto region.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "What is this Pokémon's primary type?",
+						"wrong": [
+							"Ghost",
+							"Dark",
+							"Fairy"
+						]
+					},
+					{
+						"correct": "Sabrina",
+						"difficulty": "Easy",
+						"explanation": "The Saffron City Gym Leader, Sabrina, is a master of Psychic Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "Which Kanto Gym Leader uses this line as their primary team?",
+						"wrong": [
+							"Erika",
+							"Blaine",
+							"Giovanni"
+						]
+					},
+					{
+						"correct": "5000",
+						"difficulty": "Medium",
+						"explanation": "Its brain is said to function better than a supercomputer, with an IQ of 5,000.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "According to its Pokédex entry, what is this Pokémon's IQ?",
+						"wrong": [
+							"200",
+							"1000",
+							"Infinite"
+						]
+					},
+					{
+						"correct": "Its head grows larger",
+						"difficulty": "Medium",
+						"explanation": "Its brain cells multiply continually, causing its head to grow heavy and large.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "What physical change happens to its head as it gets older and more intelligent?",
+						"wrong": [
+							"It turns white",
+							"It grows horns",
+							"It loses its eyes"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Medium",
+						"explanation": "Mega Alakazam sits in a meditative pose and telepathically levitates five spoons.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "When it Mega Evolves, how many spoons does it control?",
+						"wrong": [
+							"Two",
+							"Ten",
+							"Three"
+						]
+					},
+					{
+						"correct": "Uri Geller",
+						"difficulty": "Medium",
+						"explanation": "Magician Uri Geller sued Nintendo over the spoon-bending Pokémon, leading to its absence in the TCG for years.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "What was the name of the lawsuit-involved entertainer who claimed Kadabra was based on him?",
+						"wrong": [
+							"David Copperfield",
+							"Houdini",
+							"Criss Angel"
+						]
+					},
+					{
+						"correct": "Kinesis",
+						"difficulty": "Medium",
+						"explanation": "Kinesis is a move that lowers accuracy by bending a spoon to distract the foe.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "Which of these is a signature move associated with this line's spoon-bending?",
+						"wrong": [
+							"Psychic",
+							"Teleport",
+							"Confusion"
+						]
+					},
+					{
+						"correct": "Female has shorter whiskers",
+						"difficulty": "Hard",
+						"explanation": "The mustache-like whiskers on the female are noticeably shorter than those on the male.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "What is the primary difference in appearance between a male and female of this species?",
+						"wrong": [
+							"Female has more spoons",
+							"Male is blue",
+							"Female has no mustache"
+						]
+					},
+					{
+						"correct": "Magic Guard",
+						"difficulty": "Hard",
+						"explanation": "Magic Guard is a powerful ability that prevents all indirect damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "What Ability allows this Pokémon to avoid damage from status effects like Burn or Poison?",
+						"wrong": [
+							"Synchronize",
+							"Inner Focus",
+							"Trace"
+						]
+					},
+					{
+						"correct": "Bug-type moves",
+						"difficulty": "Hard",
+						"explanation": "In Gen 1, Psychic was immune to Ghost, and Dark didn't exist yet, leaving only Bug as a weakness.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "In the Gen 1 games, what was the only way to hit this Pokémon for super-effective damage?",
+						"wrong": [
+							"Ghost-type moves",
+							"Dark-type moves",
+							"Physical moves"
+						]
+					},
+					{
+						"correct": "120",
+						"difficulty": "Hard",
+						"explanation": "It is surprisingly fast, with a base speed of 120, allowing it to act as a glass cannon.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "What is the base Speed stat of this Pokémon?",
+						"wrong": [
+							"100",
+							"110",
+							"130"
+						]
+					},
+					{
+						"correct": "Hypno",
+						"difficulty": "Hard",
+						"explanation": "Hypno is the evolution of Drowzee, a completely separate Psychic-type line.",
+						"image_url": "https://skillcheckgame.com/assets/images/alakazam.webp",
+						"question": "Which of these is NOT in the same evolutionary line as this Pokémon?",
+						"wrong": [
+							"Abra",
+							"Kadabra",
+							"Alakazam"
+						]
+					}
+				]
+			},
+			"id": "pokemon_alakazam",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Alakazam",
+				"lore_desc": "A Pokémon with a brain that never stops growing, giving it an IQ exceeding 5,000. It uses its psychic powers to hold silver spoons.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Psychic",
+					"Kanto",
+					"Intelligence"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Four",
+						"difficulty": "Easy",
+						"explanation": "Its most defining feature is its two extra sets of muscular arms.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "How many arms does this Pokémon have?",
+						"wrong": [
+							"Two",
+							"Six",
+							"Eight"
+						]
+					},
+					{
+						"correct": "Fighting",
+						"difficulty": "Easy",
+						"explanation": "It is one of the most iconic pure Fighting-type Pokémon in the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What is this Pokémon's primary type?",
+						"wrong": [
+							"Rock",
+							"Ground",
+							"Normal"
+						]
+					},
+					{
+						"correct": "Machop",
+						"difficulty": "Easy",
+						"explanation": "The line starts with Machop, then Machoke, then this four-armed form.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What is the first form in this Pokémon's evolutionary line?",
+						"wrong": [
+							"Machoke",
+							"Tyrogue",
+							"Mankey"
+						]
+					},
+					{
+						"correct": "Trade it",
+						"difficulty": "Easy",
+						"explanation": "Like Alakazam and Gengar, it requires a trade to reach its final evolution.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What must you do to evolve Machoke into this Pokémon?",
+						"wrong": [
+							"Reach Level 40",
+							"Use a Black Belt",
+							"Winning 10 battles"
+						]
+					},
+					{
+						"correct": "A championship belt",
+						"difficulty": "Easy",
+						"explanation": "It wears a power-save belt that helps it control its overwhelming strength.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What does this Pokémon appear to be wearing around its waist?",
+						"wrong": [
+							"A black belt",
+							"A towel",
+							"Armor"
+						]
+					},
+					{
+						"correct": "500",
+						"difficulty": "Medium",
+						"explanation": "It uses its four arms to launch a flurry of 500 punches in a single second.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "According to its Pokédex entry, how many punches can it throw in one second?",
+						"wrong": [
+							"100",
+							"1000",
+							"50"
+						]
+					},
+					{
+						"correct": "Bruno",
+						"difficulty": "Medium",
+						"explanation": "Bruno, the master of Fighting and Rock types, always has one on his team.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "Which Kanto Elite Four member uses this Pokémon as his ace?",
+						"wrong": [
+							"Lance",
+							"Koga",
+							"Giovanni"
+						]
+					},
+					{
+						"correct": "G-Max Chi Strike",
+						"difficulty": "Medium",
+						"explanation": "This move increases the critical hit ratio of the user and its allies.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What is the name of this Pokémon's unique Gigantamax form move?",
+						"wrong": [
+							"G-Max Punch",
+							"G-Max Muscle",
+							"G-Max Smite"
+						]
+					},
+					{
+						"correct": "No Guard",
+						"difficulty": "Medium",
+						"explanation": "No Guard ensures that all moves used by or against the Pokémon will land.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What Ability allows this Pokémon's moves to always hit, even if the opponent uses Fly or Dig?",
+						"wrong": [
+							"Guts",
+							"Steadfast",
+							"Iron Fist"
+						]
+					},
+					{
+						"correct": "A mountain",
+						"difficulty": "Medium",
+						"explanation": "The Pokédex claims it can move a mountain with only a single arm.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "This Pokémon is said to be able to push what massive object with just one arm?",
+						"wrong": [
+							"A truck",
+							"A building",
+							"A cruise ship"
+						]
+					},
+					{
+						"correct": "Black and Red",
+						"difficulty": "Hard",
+						"explanation": "Its 'shorts' are actually patterns on its skin, typically colored with black and red accents.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What is the color of the markings on its skin that look like shorts?",
+						"wrong": [
+							"Blue and Yellow",
+							"Green",
+							"White"
+						]
+					},
+					{
+						"correct": "Dynamic Punch",
+						"difficulty": "Hard",
+						"explanation": "Dynamic Punch has low accuracy but high damage and guaranteed confusion; No Guard fixes the accuracy issue.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "Which move, often paired with the 'No Guard' ability, is this Pokémon's staple for confusing enemies?",
+						"wrong": [
+							"Cross Chop",
+							"Submission",
+							"Focus Blast"
+						]
+					},
+					{
+						"correct": "Power",
+						"difficulty": "Hard",
+						"explanation": "It is the archetypal heavy hitter in the 'Power' category of the fighting game.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "In 'Pokkén Tournament', what category of fighter is this Pokémon?",
+						"wrong": [
+							"Speed",
+							"Technical",
+							"Standard"
+						]
+					},
+					{
+						"correct": "180",
+						"difficulty": "Hard",
+						"explanation": "Machop is relatively easy to catch, with a rate of 180 out of 255.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What is this Pokémon's catch rate in the wild (as a Machop)?",
+						"wrong": [
+							"45",
+							"255",
+							"3"
+						]
+					},
+					{
+						"correct": "Three ridges",
+						"difficulty": "Hard",
+						"explanation": "It has three flesh-colored ridges on the top of its head, resembling a comb.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "What distinctive feature is on this Pokémon's head?",
+						"wrong": [
+							"A single horn",
+							"Floppy ears",
+							"A bald spot"
+						]
+					}
+				]
+			},
+			"id": "pokemon_machamp",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Machamp",
+				"lore_desc": "A muscular, four-armed Pokémon that can throw 500 punches in a single second. It is the ultimate master of all martial arts.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Fighting",
+					"Kanto",
+					"Strength"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Kicking",
+						"difficulty": "Easy",
+						"explanation": "It is known as the Kicking Fiend because it rarely uses its arms to attack.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What is this Pokémon's primary method of attacking?",
+						"wrong": [
+							"Punching",
+							"Biting",
+							"Psychic beams"
+						]
+					},
+					{
+						"correct": "Bruce Lee",
+						"difficulty": "Easy",
+						"explanation": "Its name is a direct tribute to the legendary Bruce Lee.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "Which real-life martial artist is this Pokémon's English name based on?",
+						"wrong": [
+							"Jackie Chan",
+							"Jet Li",
+							"Chuck Norris"
+						]
+					},
+					{
+						"correct": "Fighting",
+						"difficulty": "Easy",
+						"explanation": "Like its counterpart Hitmonchan, it is a pure Fighting-type.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What is this Pokémon's primary type?",
+						"wrong": [
+							"Normal",
+							"Rock",
+							"Ground"
+						]
+					},
+					{
+						"correct": "Saffron City",
+						"difficulty": "Easy",
+						"explanation": "The master of the Saffron Fighting Dojo offers you a choice between this Pokémon and Hitmonchan.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "Which Kanto city features a 'Fighting Dojo' where you can win this Pokémon?",
+						"wrong": [
+							"Celadon City",
+							"Viridian City",
+							"Pewter City"
+						]
+					},
+					{
+						"correct": "They stretch like springs",
+						"difficulty": "Easy",
+						"explanation": "Its legs can double in length to catch opponents off guard.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What special property do this Pokémon's legs have?",
+						"wrong": [
+							"They are made of iron",
+							"They can disappear",
+							"They glow in the dark"
+						]
+					},
+					{
+						"correct": "Tyrogue",
+						"difficulty": "Medium",
+						"explanation": "Tyrogue can evolve into Lee, Chan, or Top depending on its stats.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What is the name of the baby Pokémon that evolves into this creature?",
+						"wrong": [
+							"Hitmonkid",
+							"Lee-baby",
+							"Macho"
+						]
+					},
+					{
+						"correct": "Attack higher than Defense",
+						"difficulty": "Medium",
+						"explanation": "If Attack is higher than Defense at level 20, Tyrogue becomes the kicking specialist.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "To get this specific evolution, what must Tyrogue's Attack stat be compared to its Defense?",
+						"wrong": [
+							"Defense higher than Attack",
+							"Stats must be equal",
+							"Both must be zero"
+						]
+					},
+					{
+						"correct": "Rolling Kick",
+						"difficulty": "Medium",
+						"explanation": "Rolling Kick was its signature move in early generations.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What unique move involving a spin is often learned by this Pokémon?",
+						"wrong": [
+							"Rapid Spin",
+							"Hurricane",
+							"Fire Spin"
+						]
+					},
+					{
+						"correct": "None (Reckless/Limber)",
+						"difficulty": "Medium",
+						"explanation": "Trick question: Hitmonchan has Iron Fist for punches, but no 'Iron Foot' exists for Lee; it uses Reckless instead.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "Which Ability increases the power of this Pokémon's kicking moves?",
+						"wrong": [
+							"Iron Fist",
+							"Strong Jaw",
+							"Mega Launcher"
+						]
+					},
+					{
+						"correct": "A mouth",
+						"difficulty": "Medium",
+						"explanation": "It has no visible mouth; its face consists only of its eyes.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What part of a face is this Pokémon notably missing?",
+						"wrong": [
+							"Eyes",
+							"Nose",
+							"Ears"
+						]
+					},
+					{
+						"correct": "They contract",
+						"difficulty": "Hard",
+						"explanation": "After stretching to strike, its leg muscles instantly contract to return to their original state.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "According to the Pokédex, what happens to its leg muscles after a kick?",
+						"wrong": [
+							"They turn into stone",
+							"They fall off",
+							"They glow red"
+						]
+					},
+					{
+						"correct": "120",
+						"difficulty": "Hard",
+						"explanation": "It packs a punch (or a kick) with a solid base Attack of 120.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What is this Pokémon's base Attack stat?",
+						"wrong": [
+							"100",
+							"130",
+							"105"
+						]
+					},
+					{
+						"correct": "Sawamular",
+						"difficulty": "Hard",
+						"explanation": "It is named after Japanese kickboxer Tadashi Sawamura.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What is its Japanese name?",
+						"wrong": [
+							"Ebiwalar",
+							"Kapoerer",
+							"Lee-San"
+						]
+					},
+					{
+						"correct": "Low Kick",
+						"difficulty": "Hard",
+						"explanation": "It starts with Low Kick, fitting its theme perfectly.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "Which of these moves does it learn upon reaching Level 1?",
+						"wrong": [
+							"High Jump Kick",
+							"Mega Kick",
+							"Close Combat"
+						]
+					},
+					{
+						"correct": "Brown (flesh-colored)",
+						"difficulty": "Hard",
+						"explanation": "The 'bandages' are actually segmented skin that is the same tan color as its body.",
+						"image_url": "https://skillcheckgame.com/assets/images/hitmonlee.webp",
+						"question": "What color are the bands wrapped around its legs and arms?",
+						"wrong": [
+							"White",
+							"Black",
+							"Blue"
+						]
+					}
+				]
+			},
+			"id": "pokemon_hitmonlee",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Hitmonlee",
+				"lore_desc": "A Fighting-type Pokémon with legs that can freely stretch and contract. It is known as the 'Kicking Fiend'.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Fighting",
+					"Kanto",
+					"Martial Arts"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "It is one of the most powerful and iconic Fire-types from the first generation.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What is this Pokémon's primary type?",
+						"wrong": [
+							"Electric",
+							"Ground",
+							"Normal"
+						]
+					},
+					{
+						"correct": "Fire Stone",
+						"difficulty": "Easy",
+						"explanation": "A Fire Stone is needed to trigger the evolution from the smaller Growlithe.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What item is required to evolve Growlithe into this Pokémon?",
+						"wrong": [
+							"Sun Stone",
+							"Level 36",
+							"King's Rock"
+						]
+					},
+					{
+						"correct": "A dog or tiger",
+						"difficulty": "Easy",
+						"explanation": "It has the features of a large dog with tiger-like stripes.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What animal does this Pokémon most closely resemble?",
+						"wrong": [
+							"A bird",
+							"A lizard",
+							"A horse"
+						]
+					},
+					{
+						"correct": "The Legendary Pokémon",
+						"difficulty": "Easy",
+						"explanation": "Strangely, despite not being a 'Legendary' in gameplay terms, its species is listed as 'Legendary'.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What is the 'Species' classification of this Pokémon in the Pokédex?",
+						"wrong": [
+							"The Fire Dog Pokémon",
+							"The Royal Pokémon",
+							"The Tiger Pokémon"
+						]
+					},
+					{
+						"correct": "Blaine",
+						"difficulty": "Easy",
+						"explanation": "Blaine, the Cinnabar Island Gym Leader, uses one in his fiery team.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "Which Kanto Gym Leader uses this Pokémon as their final challenge?",
+						"wrong": [
+							"Brock",
+							"Erika",
+							"Blue"
+						]
+					},
+					{
+						"correct": "6,200 miles",
+						"difficulty": "Medium",
+						"explanation": "It is known for its incredible stamina, covering over 6,000 miles in 24 hours.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "According to the Pokédex, how many miles can it run in a single day and night?",
+						"wrong": [
+							"100 miles",
+							"1,000 miles",
+							"500 miles"
+						]
+					},
+					{
+						"correct": "Extreme Speed",
+						"difficulty": "Medium",
+						"explanation": "It was the original user of Extreme Speed, a move that always goes first.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What is its signature high-speed Fire-type move?",
+						"wrong": [
+							"Flare Blitz",
+							"Quick Attack",
+							"Flame Charge"
+						]
+					},
+					{
+						"correct": "Intimidate",
+						"difficulty": "Medium",
+						"explanation": "Intimidate is a very common ability for this Pokémon, making it a great tank.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "Which of these Abilities can this Pokémon have to lower the opponent's Attack?",
+						"wrong": [
+							"Flash Fire",
+							"Justified",
+							"Pressure"
+						]
+					},
+					{
+						"correct": "Drake",
+						"difficulty": "Medium",
+						"explanation": "Drake, the Orange Crew Supreme Champion, used one against Ash.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "In the anime, who is the famous trainer of the Orange Islands who uses this Pokémon?",
+						"wrong": [
+							"Gary",
+							"Paul",
+							"Ritchie"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Medium",
+						"explanation": "It has distinct black stripes over its orange fur.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What color are the stripes on this Pokémon's body?",
+						"wrong": [
+							"Red",
+							"Brown",
+							"White"
+						]
+					},
+					{
+						"correct": "Fire and Rock",
+						"difficulty": "Hard",
+						"explanation": "Hisuian Arcanine is a dual Fire and Rock type with a stony, grey mane.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What new regional form did this Pokémon receive in the Hisui region?",
+						"wrong": [
+							"Fire and Ice",
+							"Fire and Ground",
+							"Fire and Ghost"
+						]
+					},
+					{
+						"correct": "Articuno",
+						"difficulty": "Hard",
+						"explanation": "It is seen running in the original intro next to Articuno, hinting at its 'Legendary' status.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "In the very first anime intro, this Pokémon is seen running alongside which legendary bird?",
+						"wrong": [
+							"Moltres",
+							"Zapdos",
+							"Ho-Oh"
+						]
+					},
+					{
+						"correct": "555",
+						"difficulty": "Hard",
+						"explanation": "It has an unusually high base stat total of 555, making it stronger than most non-legendaries.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What is the base stat total of this Pokémon?",
+						"wrong": [
+							"500",
+							"600",
+							"540"
+						]
+					},
+					{
+						"correct": "Flare Blitz",
+						"difficulty": "Hard",
+						"explanation": "In older games, you had to delay evolving Growlithe to learn powerful moves like Flare Blitz.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "Which of these moves does this Pokémon learn via level-up only as a Growlithe?",
+						"wrong": [
+							"Extreme Speed",
+							"Flamethrower",
+							"Thunder Fang"
+						]
+					},
+					{
+						"correct": "A flame with 5,400 degrees",
+						"difficulty": "Hard",
+						"explanation": "Its internal temperature is said to be incredibly high, fueling its fire attacks.",
+						"image_url": "https://skillcheckgame.com/assets/images/arcanine.webp",
+						"question": "What is the name of the 'source of its power' that burns inside its body?",
+						"wrong": [
+							"A heart of coal",
+							"Magma",
+							"Volcanic gas"
+						]
+					}
+				]
+			},
+			"id": "pokemon_arcanine",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Arcanine",
+				"lore_desc": "A brave and loyal Pokémon that has been admired since ancient times for its beauty and speed. It is often depicted in scrolls.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Fire",
+					"Kanto",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pink",
+						"difficulty": "Easy",
+						"explanation": "It is famous for its light pink skin and long, thin tail.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "What color is this small, mythical Pokémon?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"White"
+						]
+					},
+					{
+						"correct": "Psychic",
+						"difficulty": "Easy",
+						"explanation": "It is a pure Psychic-type, despite being able to learn almost any move.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "What is this Pokémon's primary type?",
+						"wrong": [
+							"Fairy",
+							"Normal",
+							"Ghost"
+						]
+					},
+					{
+						"correct": "Mewtwo",
+						"difficulty": "Easy",
+						"explanation": "Scientists used its DNA to create the ultimate combat Pokémon, Mewtwo.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Which famous 'clone' was created using this Pokémon's DNA?",
+						"wrong": [
+							"Ditto",
+							"Genesect",
+							"Lucario"
+						]
+					},
+					{
+						"correct": "It can learn every TM and HM",
+						"difficulty": "Easy",
+						"explanation": "Because it contains the DNA of all Pokémon, it can master every technical machine.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "What is unique about this Pokémon's ability to learn moves?",
+						"wrong": [
+							"It only knows one move",
+							"It can't learn any moves",
+							"It learns moves by eating"
+						]
+					},
+					{
+						"correct": "Under a truck",
+						"difficulty": "Easy",
+						"explanation": "The 'Mew under the truck' at the S.S. Anne dock is one of gaming's most famous urban legends.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "In the original games, what was the popular (but fake) rumor about where to find this creature?",
+						"wrong": [
+							"In a trash can",
+							"On the moon",
+							"At the top of a tower"
+						]
+					},
+					{
+						"correct": "Synchronize",
+						"difficulty": "Medium",
+						"explanation": "Synchronize passes status conditions like Poison or Burn back to the opponent.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "What is the name of this Pokémon's only Ability?",
+						"wrong": [
+							"Levitate",
+							"Magic Guard",
+							"Trace"
+						]
+					},
+					{
+						"correct": "Guyana",
+						"difficulty": "Medium",
+						"explanation": "According to the Cinnabar Island journals, the specimen was discovered in Guyana, South America.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Where was the fossilized hair found that led to the creation of its clone?",
+						"wrong": [
+							"Kanto",
+							"Sinnoh",
+							"The Moon"
+						]
+					},
+					{
+						"correct": "100",
+						"difficulty": "Medium",
+						"explanation": "It is perfectly balanced, with a base 100 in every single stat.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "What is the base value of all of this Pokémon's stats?",
+						"wrong": [
+							"80",
+							"120",
+							"150"
+						]
+					},
+					{
+						"correct": "Transform",
+						"difficulty": "Medium",
+						"explanation": "Besides Ditto, this is the only Pokémon that naturally learns the move Transform.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Which of these moves allows this Pokémon to transform into its opponent?",
+						"wrong": [
+							"Mimic",
+							"Mirror Move",
+							"Substitute"
+						]
+					},
+					{
+						"correct": "Throwing Pester Balls",
+						"difficulty": "Medium",
+						"explanation": "You have to repeatedly hit its protective bubble with Pester Balls to break it for a photo.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "In 'Pokémon Snap', how do you get this Pokémon to come out of its bubble?",
+						"wrong": [
+							"Playing a flute",
+							"Feeding it apples",
+							"Taking a photo"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Hard",
+						"explanation": "Its rare Shiny version is a light, sky blue color.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "What color is this Pokémon's Shiny form?",
+						"wrong": [
+							"Pinker",
+							"White",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Old Sea Map",
+						"difficulty": "Hard",
+						"explanation": "The Old Sea Map was a Japanese-exclusive event item used to travel to Faraway Island.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Which of these items is associated with calling this Pokémon in 'Pokémon Emerald'?",
+						"wrong": [
+							"Mystic Ticket",
+							"Eon Ticket",
+							"Aurora Ticket"
+						]
+					},
+					{
+						"correct": "8.8 lbs",
+						"difficulty": "Hard",
+						"explanation": "It is extremely light, weighing exactly 4.0 kg or 8.8 lbs.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "What is its weight according to the Pokédex?",
+						"wrong": [
+							"1 lb",
+							"20 lbs",
+							"5 lbs"
+						]
+					},
+					{
+						"correct": "Genesis Supernova",
+						"difficulty": "Hard",
+						"explanation": "Using the Mewnium Z, it can unleash the Genesis Supernova, which also creates Psychic Terrain.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "What is the Z-Move exclusive to this Pokémon in Gen VII?",
+						"wrong": [
+							"Psychic Overload",
+							"Starlight Blast",
+							"Mew Miracle"
+						]
+					},
+					{
+						"correct": "Shigeki Morimoto",
+						"difficulty": "Hard",
+						"explanation": "Morimoto added it as a prank/secret after debugging tools were removed, leaving just enough space.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Who was the programmer responsible for secretly adding this Pokémon into the original games at the last minute?",
+						"wrong": [
+							"Satoshi Tajiri",
+							"Shigeru Miyamoto",
+							"Junichi Masuda"
+						]
+					}
+				]
+			},
+			"id": "pokemon_mew",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Mew",
+				"lore_desc": "A Mythical Pokémon said to contain the genetic codes of all Pokémon. It is capable of making itself invisible at will.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Psychic",
+					"Kanto",
+					"Mythical"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "It is a bright yellow duck, often seen clutching its head.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "What color is this Pokémon?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Pink"
+						]
+					},
+					{
+						"correct": "Headaches",
+						"difficulty": "Easy",
+						"explanation": "It is constantly plagued by headaches, which are the source of its latent psychic power.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "What ailment is this Pokémon famously known for suffering from?",
+						"wrong": [
+							"Amnesia",
+							"A cold",
+							"Dizziness"
+						]
+					},
+					{
+						"correct": "Water",
+						"difficulty": "Easy",
+						"explanation": "Despite its psychic abilities, it is purely a Water-type Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "What is this Pokémon's primary type?",
+						"wrong": [
+							"Psychic",
+							"Flying",
+							"Normal"
+						]
+					},
+					{
+						"correct": "Misty",
+						"difficulty": "Easy",
+						"explanation": "Misty's Psyduck was a recurring comic relief character that often popped out of its Poké Ball uninvited.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "Which major anime character is famous for having a clumsy version of this Pokémon?",
+						"wrong": [
+							"Brock",
+							"Ash",
+							"May"
+						]
+					},
+					{
+						"correct": "Golduck",
+						"difficulty": "Easy",
+						"explanation": "It evolves into the much more agile and blue Golduck at level 33.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "What does this Pokémon evolve into?",
+						"wrong": [
+							"Ducklett",
+							"Quacklin",
+							"Slowduck"
+						]
+					},
+					{
+						"correct": "Psychic powers",
+						"difficulty": "Medium",
+						"explanation": "The pain triggers its brain cells to emit mysterious psychic waves.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "When its headache gets worse, what kind of power does it suddenly use?",
+						"wrong": [
+							"Super strength",
+							"Fire breathing",
+							"Invisibility"
+						]
+					},
+					{
+						"correct": "Cloud Nine",
+						"difficulty": "Medium",
+						"explanation": "Cloud Nine eliminates all effects of weather while the Pokémon is on the field.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "What Ability does this Pokémon have that ignores weather effects like Rain or Sun?",
+						"wrong": [
+							"Drizzle",
+							"Hydration",
+							"Damp"
+						]
+					},
+					{
+						"correct": "Secret Medicine",
+						"difficulty": "Medium",
+						"explanation": "Cynthia gives the player Secret Medicine to cure their headaches and clear the road.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "In 'Pokémon Diamond and Pearl', a group of these blocks the player's path. What do you use to move them?",
+						"wrong": [
+							"A flute",
+							"A Water Stone",
+							"A Poké Ball"
+						]
+					},
+					{
+						"correct": "Damp",
+						"difficulty": "Medium",
+						"explanation": "Damp prevents any Pokémon on the field from using Self-Destruct or Explosion.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "What is the name of its other common Ability that prevents self-destruction moves?",
+						"wrong": [
+							"Wetness",
+							"Water Veil",
+							"Static"
+						]
+					},
+					{
+						"correct": "White with tiny black pupils",
+						"difficulty": "Medium",
+						"explanation": "Its vacant, wide-eyed stare is a key part of its confused design.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "What color are this Pokémon's eyes usually depicted as?",
+						"wrong": [
+							"Bright blue",
+							"Solid black",
+							"Red"
+						]
+					},
+					{
+						"correct": "It forgets it used them",
+						"difficulty": "Hard",
+						"explanation": "Because it enters a trance-like state, it has no memory of the incredible powers it displays.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "According to the Pokédex, what happens to its memories after it uses its psychic powers?",
+						"wrong": [
+							"It remembers everything",
+							"It loses its childhood memories",
+							"It gains the opponent's memories"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "It has three distinct black hairs sticking up from the center of its head.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "How many hairs are on the top of this Pokémon's head?",
+						"wrong": [
+							"One",
+							"Five",
+							"None"
+						]
+					},
+					{
+						"correct": "It will explode",
+						"difficulty": "Hard",
+						"explanation": "Its stress levels cause it to unleash a massive psychic explosion if not kept calm.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "In the 'Detective Pikachu' movie, what happens if the protagonist's Psyduck doesn't get a foot rub or listen to music?",
+						"wrong": [
+							"It will run away",
+							"It will fall asleep",
+							"It will turn blue"
+						]
+					},
+					{
+						"correct": "It is light blue",
+						"difficulty": "Hard",
+						"explanation": "The Shiny form changes from yellow to a very pale blue.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "What is the primary difference in the Shiny version of this Pokémon?",
+						"wrong": [
+							"It is red",
+							"It is gold",
+							"It is pink"
+						]
+					},
+					{
+						"correct": "Scratch",
+						"difficulty": "Hard",
+						"explanation": "While it eventually gets Water moves, it starts with the basic Scratch.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "Which move does this Pokémon learn at Level 1 that matches its constant confusion?",
+						"wrong": [
+							"Water Gun",
+							"Confusion",
+							"Tail Whip"
+						]
+					}
+				]
+			},
+			"id": "pokemon_psyduck",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Psyduck",
+				"lore_desc": "A yellow, duck-like Pokémon that suffers from a constant headache. When the headache becomes severe, it unleashes mysterious powers.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Kanto",
+					"Psychic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A gold coin",
+						"difficulty": "Easy",
+						"explanation": "It has a 'Koban' coin on its head, inspired by the Japanese lucky cat (Maneki-neko).",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What object is found on this Pokémon's forehead?",
+						"wrong": [
+							"A diamond",
+							"A horn",
+							"A third eye"
+						]
+					},
+					{
+						"correct": "Normal",
+						"difficulty": "Easy",
+						"explanation": "The Kanto version is a pure Normal-type Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What is this Pokémon's primary type in its original form?",
+						"wrong": [
+							"Dark",
+							"Steel",
+							"Psychic"
+						]
+					},
+					{
+						"correct": "He can speak human language",
+						"difficulty": "Easy",
+						"explanation": "Through hard work to impress a female Meowth, he taught himself to walk and speak like a human.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What is unique about the specific Meowth in the Team Rocket trio in the anime?",
+						"wrong": [
+							"He is giant",
+							"He is pink",
+							"He can fly"
+						]
+					},
+					{
+						"correct": "Pay Day",
+						"difficulty": "Easy",
+						"explanation": "Pay Day is its iconic move that literally generates money for the trainer.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What move is this Pokémon's signature, which scatters coins after a battle?",
+						"wrong": [
+							"Fury Swipes",
+							"Bite",
+							"Slash"
+						]
+					},
+					{
+						"correct": "Persian",
+						"difficulty": "Easy",
+						"explanation": "It evolves into the elegant and sleek Persian at level 28.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What does this Pokémon evolve into?",
+						"wrong": [
+							"Purugly",
+							"Liepard",
+							"Delcatty"
+						]
+					},
+					{
+						"correct": "Steel",
+						"difficulty": "Medium",
+						"explanation": "It has an Alolan (Dark) form and a Galarian (Steel) form.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "This Pokémon has two regional forms. One is Dark-type, what is the other?",
+						"wrong": [
+							"Fire",
+							"Ghost",
+							"Ice"
+						]
+					},
+					{
+						"correct": "Perrserker",
+						"difficulty": "Medium",
+						"explanation": "In Galar, it evolves into the bearded, Viking-inspired Perrserker instead of Persian.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What is the name of the Galarian evolution of this Pokémon?",
+						"wrong": [
+							"Galarian Persian",
+							"Meowth-zerker",
+							"Viking Cat"
+						]
+					},
+					{
+						"correct": "Coins",
+						"difficulty": "Medium",
+						"explanation": "It is obsessed with round, shiny objects, especially loose change.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What shiny things does this Pokémon specifically like to collect?",
+						"wrong": [
+							"Bottle caps",
+							"Spoons",
+							"Glasses"
+						]
+					},
+					{
+						"correct": "G-Max Gold Rush",
+						"difficulty": "Medium",
+						"explanation": "G-Max Gold Rush confuses enemies and earns the player a massive amount of money.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What is the name of this Pokémon's Gigantamax form special move?",
+						"wrong": [
+							"G-Max Pay Day",
+							"G-Max Coin Toss",
+							"G-Max Meow"
+						]
+					},
+					{
+						"correct": "Technician",
+						"difficulty": "Medium",
+						"explanation": "Technician is a great ability for Meowth to boost its weaker, faster moves.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "Which of these Abilities increases its damage when it uses moves with 60 base power or less?",
+						"wrong": [
+							"Pickup",
+							"Unnerve",
+							"Limber"
+						]
+					},
+					{
+						"correct": "He used his 'slots' for language",
+						"difficulty": "Hard",
+						"explanation": "It is explained in the show that his brain used up all its capacity learning to speak, leaving no room for moves like Pay Day.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "Why did the anime Meowth lose the ability to learn new moves?",
+						"wrong": [
+							"He got too old",
+							"Team Rocket forgot to train him",
+							"He was cursed"
+						]
+					},
+					{
+						"correct": "Meowzie",
+						"difficulty": "Hard",
+						"explanation": "Meowzie was a pampered Meowth who rejected him because he was poor.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What is the name of the female Meowth that motivated the anime Meowth to learn to speak?",
+						"wrong": [
+							"Meowth-ette",
+							"Cassidy",
+							"Mew"
+						]
+					},
+					{
+						"correct": "Feral lifestyle near the palace",
+						"difficulty": "Hard",
+						"explanation": "Being bred by the Alolan royal family led to it becoming prideful and cunning, changing its type.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "In the Alolan region, why did this Pokémon's type change to Dark?",
+						"wrong": [
+							"Living in caves",
+							"Exposure to the moon",
+							"Pollution"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Hard",
+						"explanation": "It has four long whiskers, two on each side of its head.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "How many whiskers does this Pokémon typically have?",
+						"wrong": [
+							"Two",
+							"Six",
+							"Eight"
+						]
+					},
+					{
+						"correct": "90",
+						"difficulty": "Hard",
+						"explanation": "It is quite fast for a first-stage Pokémon, with a base speed of 90.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "What is its base speed stat?",
+						"wrong": [
+							"70",
+							"110",
+							"50"
+						]
+					}
+				]
+			},
+			"id": "pokemon_meowth",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Meowth",
+				"lore_desc": "A feline Pokémon that loves shiny objects, especially coins. It wanders the streets looking for dropped change.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Normal",
+					"Kanto",
+					"Team Rocket"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Scythes",
+						"difficulty": "Easy",
+						"explanation": "It has two incredibly sharp, blade-like scythes instead of hands.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What are this Pokémon's arms shaped like?",
+						"wrong": [
+							"Claws",
+							"Shields",
+							"Spikes"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Its body is mostly green, helping it camouflage in tall grass.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What is this Pokémon's primary color?",
+						"wrong": [
+							"Red",
+							"Yellow",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Bug and Flying",
+						"difficulty": "Easy",
+						"explanation": "Despite its sharp blades, it is a Bug/Flying type in its original form.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What is this Pokémon's dual typing?",
+						"wrong": [
+							"Bug and Steel",
+							"Bug and Grass",
+							"Bug and Fighting"
+						]
+					},
+					{
+						"correct": "Scizor",
+						"difficulty": "Easy",
+						"explanation": "Trading it with a Metal Coat turns it into the red, Steel-type Scizor.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What does this Pokémon evolve into when traded holding a Metal Coat?",
+						"wrong": [
+							"Kleavor",
+							"Scylox",
+							"Pinsir"
+						]
+					},
+					{
+						"correct": "Praying Mantis",
+						"difficulty": "Easy",
+						"explanation": "It is clearly inspired by the predatory Praying Mantis.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "Which of these insects is this Pokémon primarily based on?",
+						"wrong": [
+							"Dragonfly",
+							"Grasshopper",
+							"Beetle"
+						]
+					},
+					{
+						"correct": "It stays the same",
+						"difficulty": "Medium",
+						"explanation": "Both Pokémon have a base stat total of 500; the stats are simply redistributed.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What is unique about its evolution into Scizor regarding its Base Stat Total?",
+						"wrong": [
+							"It doubles",
+							"It goes down",
+							"It gains 100 points"
+						]
+					},
+					{
+						"correct": "Kleavor",
+						"difficulty": "Medium",
+						"explanation": "Kleavor is its ancient Bug/Rock evolution found in Hisui.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "In the Hisui region, what does this Pokémon evolve into when exposed to Black Augurite?",
+						"wrong": [
+							"Scizor",
+							"Scythlord",
+							"Stone-Mantis"
+						]
+					},
+					{
+						"correct": "Safari Zone",
+						"difficulty": "Medium",
+						"explanation": "It is a rare encounter in the Kanto Safari Zone and also available at the Game Corner.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What is the name of the rare Kanto location where this Pokémon can be caught?",
+						"wrong": [
+							"Viridian Forest",
+							"Victory Road",
+							"Cerulean Cave"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Medium",
+						"explanation": "It has two pairs of wings that beat at high speeds to maintain flight.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "How many wings does this Pokémon have?",
+						"wrong": [
+							"Two",
+							"Zero",
+							"Six"
+						]
+					},
+					{
+						"correct": "It leaves blurred images",
+						"difficulty": "Medium",
+						"explanation": "It moves so fast that it creates several afterimages of itself.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "According to the Pokédex, what happens when it moves through high grass?",
+						"wrong": [
+							"It turns invisible",
+							"The grass turns brown",
+							"It makes a loud buzzing"
+						]
+					},
+					{
+						"correct": "105",
+						"difficulty": "Hard",
+						"explanation": "It is very fast with a base speed of 105, which is actually higher than its evolution, Scizor.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What is its base Speed stat?",
+						"wrong": [
+							"130",
+							"90",
+							"115"
+						]
+					},
+					{
+						"correct": "Swarm (Technician/Steadfast)",
+						"difficulty": "Hard",
+						"explanation": "Technician is its most famous ability, but its Hidden Ability is actually Steadfast.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "Which Ability allows it to boost the power of moves that are 'not very effective'?",
+						"wrong": [
+							"Iron Fist",
+							"No Guard",
+							"Intimidate"
+						]
+					},
+					{
+						"correct": "A slightly darker green with pink joints",
+						"difficulty": "Hard",
+						"explanation": "The differences are subtle, with a darker green body and pinkish coloration on its limbs' joints.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What color is the Shiny form of this Pokémon?",
+						"wrong": [
+							"Red",
+							"Gold",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Quick Attack",
+						"difficulty": "Hard",
+						"explanation": "It starts with Quick Attack to emphasize its agility.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "Which move, learned at level 1, represents its ninja-like speed?",
+						"wrong": [
+							"Slash",
+							"Extreme Speed",
+							"Aerial Ace"
+						]
+					},
+					{
+						"correct": "Other Pokémon",
+						"difficulty": "Hard",
+						"explanation": "It is described as a pure predator that uses its scythes to hunt prey.",
+						"image_url": "https://skillcheckgame.com/assets/images/scyther.webp",
+						"question": "What is the primary food source for this Pokémon according to various media?",
+						"wrong": [
+							"Leaves",
+							"Berries",
+							"Nectar"
+						]
+					}
+				]
+			},
+			"id": "pokemon_scyther",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Scyther",
+				"lore_desc": "A predatory Bug Pokémon with sharp scythes for arms. It is incredibly fast and difficult to see with the naked eye.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Bug",
+					"Flying",
+					"Kanto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cynthia",
+						"difficulty": "Easy",
+						"explanation": "Cynthia's Garchomp is one of the most feared Pokémon in the history of the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "Which Sinnoh Champion is famous for having this Pokémon as her strongest partner?",
+						"wrong": [
+							"Iris",
+							"Lance",
+							"Diantha"
+						]
+					},
+					{
+						"correct": "Dragon and Ground",
+						"difficulty": "Easy",
+						"explanation": "It is a rare Dragon/Ground combination, giving it an immunity to Electric attacks.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "What is this Pokémon's dual typing?",
+						"wrong": [
+							"Dragon and Flying",
+							"Dragon and Water",
+							"Dragon and Steel"
+						]
+					},
+					{
+						"correct": "A shark",
+						"difficulty": "Easy",
+						"explanation": "It is a 'Land Shark', featuring fins and a sleek, aquatic-inspired design.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "What does this Pokémon look like it is combined with?",
+						"wrong": [
+							"An eagle",
+							"A lion",
+							"A snake"
+						]
+					},
+					{
+						"correct": "Gible",
+						"difficulty": "Easy",
+						"explanation": "The line begins with the small, round Gible.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "What is the first form of this Pokémon's evolutionary line?",
+						"wrong": [
+							"Gabite",
+							"Gibleen",
+							"Sharky"
+						]
+					},
+					{
+						"correct": "The speed of sound",
+						"difficulty": "Easy",
+						"explanation": "It is known as the Mach Pokémon because it can reach sonic speeds.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "According to the Pokédex, how fast can this Pokémon fly?",
+						"wrong": [
+							"100 mph",
+							"Speed of light",
+							"The speed of a jet"
+						]
+					},
+					{
+						"correct": "Rough Skin",
+						"difficulty": "Medium",
+						"explanation": "Rough Skin causes the attacker to take 1/8th of their max HP in damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "What is the name of this Pokémon's Ability that damages opponents who hit it with physical moves?",
+						"wrong": [
+							"Iron Barbs",
+							"Sand Veil",
+							"Intimidate"
+						]
+					},
+					{
+						"correct": "Sandstorm",
+						"difficulty": "Medium",
+						"explanation": "In a Sandstorm, this Pokémon's evasiveness is increased.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "What weather condition does its 'Sand Veil' ability take advantage of?",
+						"wrong": [
+							"Rain",
+							"Hail",
+							"Sun"
+						]
+					},
+					{
+						"correct": "They turn into scythes",
+						"difficulty": "Medium",
+						"explanation": "Mega Garchomp's fins transform into large, red-colored scythes.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "When it Mega Evolves, what happens to its arms?",
+						"wrong": [
+							"They disappear",
+							"They grow hands",
+							"They turn blue"
+						]
+					},
+					{
+						"correct": "A notch in the dorsal fin",
+						"difficulty": "Medium",
+						"explanation": "Male Garchomp have a small cut or notch in their back fin.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "How can you tell a male Garchomp from a female one?",
+						"wrong": [
+							"The color of the belly",
+							"The length of the tail",
+							"The number of teeth"
+						]
+					},
+					{
+						"correct": "600",
+						"difficulty": "Medium",
+						"explanation": "Like Dragonite and Tyranitar, it has a base stat total of exactly 600.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "Which of these is a 'Pseudo-Legendary' stat total shared by this Pokémon?",
+						"wrong": [
+							"580",
+							"680",
+							"550"
+						]
+					},
+					{
+						"correct": "Slightly desaturated / greyish",
+						"difficulty": "Hard",
+						"explanation": "Garchomp's Shiny is famously disappointing, as it only looks a slightly different shade of blue-grey.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "What color is a Shiny Garchomp compared to its regular form?",
+						"wrong": [
+							"Bright pink",
+							"Vibrant green",
+							"Jet black"
+						]
+					},
+					{
+						"correct": "Its Speed decreases",
+						"difficulty": "Hard",
+						"explanation": "Strangely, Mega Garchomp is slower (92 base) than regular Garchomp (102 base).",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "What is the unique base stat change when Garchomp Mega Evolves regarding its speed?",
+						"wrong": [
+							"Its Speed increases",
+							"It stays the same",
+							"It triples"
+						]
+					},
+					{
+						"correct": "Wayward Cave",
+						"difficulty": "Hard",
+						"explanation": "Gible can be found in a hidden basement of the Wayward Cave.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "What is the name of its signature cave home in the Sinnoh region?",
+						"wrong": [
+							"Mt. Coronet",
+							"Oreburgh Mine",
+							"Victory Road"
+						]
+					},
+					{
+						"correct": "Dig",
+						"difficulty": "Hard",
+						"explanation": "It uses Dig to pop up and surprise enemies in the fighting game.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "In 'Pokkén Tournament', Garchomp has a move that allows it to travel through the ground. What is it?",
+						"wrong": [
+							"Sand Tomb",
+							"Earthquake",
+							"Bulldoze"
+						]
+					},
+					{
+						"correct": "Swallows them whole",
+						"difficulty": "Hard",
+						"explanation": "It is a ruthless hunter that often snaps up bird Pokémon mid-flight.",
+						"image_url": "https://skillcheckgame.com/assets/images/garchomp.webp",
+						"question": "According to lore, what does this Pokémon do to prey it catches while flying?",
+						"wrong": [
+							"Drops them",
+							"Slices them with fins",
+							"Freezes them"
+						]
+					}
+				]
+			},
+			"id": "pokemon_garchomp",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Garchomp",
+				"lore_desc": "A terrifying Dragon/Ground type that can fly at the speed of sound. It is often seen as the ace of champions.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Dragon",
+					"Ground",
+					"Sinnoh"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dark Blue",
+						"difficulty": "Easy",
+						"explanation": "It has a sleek, dark blue body that helps it blend into the shadows.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What is this Pokémon's primary color?",
+						"wrong": [
+							"Green",
+							"Black",
+							"Red"
+						]
+					},
+					{
+						"correct": "Its tongue",
+						"difficulty": "Easy",
+						"explanation": "Its incredibly long tongue serves as a scarf in its design.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What part of its body does this Pokémon wrap around its neck like a scarf?",
+						"wrong": [
+							"Its tail",
+							"A piece of cloth",
+							"Bubbles"
+						]
+					},
+					{
+						"correct": "Water and Dark",
+						"difficulty": "Easy",
+						"explanation": "It combines its aquatic nature with the stealth of the Dark type.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What is this Pokémon's dual typing?",
+						"wrong": [
+							"Water and Fighting",
+							"Water and Ghost",
+							"Water and Psychic"
+						]
+					},
+					{
+						"correct": "Water Shuriken",
+						"difficulty": "Easy",
+						"explanation": "Water Shuriken is a multi-hit move that always goes first.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What is the name of its signature throwing star move?",
+						"wrong": [
+							"Aqua Jet",
+							"Hydro Star",
+							"Ninja Strike"
+						]
+					},
+					{
+						"correct": "Kalos",
+						"difficulty": "Easy",
+						"explanation": "It is the final evolution of the Water-type starter from Generation VI.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "Which region was this Pokémon first introduced in?",
+						"wrong": [
+							"Alola",
+							"Galar",
+							"Unova"
+						]
+					},
+					{
+						"correct": "Ash-Greninja",
+						"difficulty": "Medium",
+						"explanation": "The 'Battle Bond' ability allows it to take on a form that resembles its trainer.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What is the name of the special transformation this Pokémon achieves with Ash in the anime?",
+						"wrong": [
+							"Mega Greninja",
+							"Bond Ninja",
+							"Synchro Frog"
+						]
+					},
+					{
+						"correct": "Protean",
+						"difficulty": "Medium",
+						"explanation": "Protean is a powerful hidden ability that makes it a master of versatility.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What Ability allows this Pokémon to change its type to match the move it's about to use?",
+						"wrong": [
+							"Torrent",
+							"Battle Bond",
+							"Infiltrator"
+						]
+					},
+					{
+						"correct": "Froakie",
+						"difficulty": "Medium",
+						"explanation": "The line goes Froakie, Frogadier, and then this ninja form.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What is the name of the small frog that eventually evolves into this Pokémon?",
+						"wrong": [
+							"Frogadier",
+							"Pollywog",
+							"Tympole"
+						]
+					},
+					{
+						"correct": "Secret Ninja Attack",
+						"difficulty": "Medium",
+						"explanation": "It uses a moon-lit platform to launch a flurry of ninja strikes.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "In 'Super Smash Bros. Ultimate', what is this Pokémon's Final Smash?",
+						"wrong": [
+							"Water Shuriken Storm",
+							"Hydro Pump",
+							"Shadow Sneak"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Medium",
+						"explanation": "Its Shiny form is a popular jet-black color, fitting its ninja theme.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What is the color of the Shiny form of this Pokémon?",
+						"wrong": [
+							"White",
+							"Green",
+							"Pink"
+						]
+					},
+					{
+						"correct": "It spins them so fast they cut metal",
+						"difficulty": "Hard",
+						"explanation": "The water is compressed and spun with such force it can slice through solid steel.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "According to the Pokédex, how does it use its Water Shuriken?",
+						"wrong": [
+							"It freezes them",
+							"It drinks them for health",
+							"It uses them as shields"
+						]
+					},
+					{
+						"correct": "122",
+						"difficulty": "Hard",
+						"explanation": "It is one of the fastest starters ever, with a blistering base speed of 122.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What is the base Speed stat of this Pokémon?",
+						"wrong": [
+							"110",
+							"130",
+							"115"
+						]
+					},
+					{
+						"correct": "Mat Block",
+						"difficulty": "Hard",
+						"explanation": "Mat Block is its signature defensive move that protects its entire team for one turn.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "Which Kalos move allows this Pokémon to avoid damage for one turn by hiding in the shadows?",
+						"wrong": [
+							"Protect",
+							"Shadow Sneak",
+							"Substitute"
+						]
+					},
+					{
+						"correct": "On its back",
+						"difficulty": "Hard",
+						"explanation": "Ash-Greninja carries a giant shuriken of water on its back like a weapon.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "In the 'Battle Bond' form, where is the massive Water Shuriken located?",
+						"wrong": [
+							"In its hand",
+							"On its head",
+							"In its mouth"
+						]
+					},
+					{
+						"correct": "1st Place",
+						"difficulty": "Hard",
+						"explanation": "It was officially voted the most popular Pokémon in the world in the Google/Pokemon poll.",
+						"image_url": "https://skillcheckgame.com/assets/images/greninja.webp",
+						"question": "What was the result of the 'Pokémon of the Year' vote in 2020 for this creature?",
+						"wrong": [
+							"3rd Place",
+							"Top 10",
+							"2nd Place"
+						]
+					}
+				]
+			},
+			"id": "pokemon_greninja",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Greninja",
+				"lore_desc": "A ninja-like Pokémon that compresses water into sharp throwing stars. Its movements are so fast they confuse the eye.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Dark",
+					"Kalos"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pikachu",
+						"difficulty": "Easy",
+						"explanation": "It crafted its disguise to look like Pikachu 20 years ago when Pikachu merchandise became popular.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What popular Pokémon is this creature's disguise made to look like?",
+						"wrong": [
+							"Raichu",
+							"Eevee",
+							"Meowth"
+						]
+					},
+					{
+						"correct": "Ghost and Fairy",
+						"difficulty": "Easy",
+						"explanation": "It is the only Pokémon with the unique Ghost/Fairy type combination.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What is this Pokémon's dual typing?",
+						"wrong": [
+							"Ghost and Dark",
+							"Ghost and Normal",
+							"Psychic and Fairy"
+						]
+					},
+					{
+						"correct": "On its chest",
+						"difficulty": "Easy",
+						"explanation": "The eyes on the 'head' are drawn on; the real eyes peer out from two slits in the torso.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Where are the real eyes of this creature located?",
+						"wrong": [
+							"Where the Pikachu eyes are",
+							"On its tail",
+							"It has no eyes"
+						]
+					},
+					{
+						"correct": "Disguise",
+						"difficulty": "Easy",
+						"explanation": "Disguise allows it to take no damage from the first attack, after which its 'head' sags.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What is the name of its unique Ability that protects it from the first hit in battle?",
+						"wrong": [
+							"Sturdy",
+							"Shadow Shield",
+							"Magic Guard"
+						]
+					},
+					{
+						"correct": "Alola",
+						"difficulty": "Easy",
+						"explanation": "It was a breakout star of the Gen VII games, Sun and Moon.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Which region was this Pokémon first introduced in?",
+						"wrong": [
+							"Galar",
+							"Kalos",
+							"Sinnoh"
+						]
+					},
+					{
+						"correct": "They die of shock or illness",
+						"difficulty": "Medium",
+						"explanation": "A scholar who looked underneath was said to have died from the sheer terror of what he saw.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "According to the Pokédex, what happens to anyone who looks under its rag?",
+						"wrong": [
+							"They turn into a Pokémon",
+							"They go blind",
+							"They fall in love with it"
+						]
+					},
+					{
+						"correct": "It snaps or droops",
+						"difficulty": "Medium",
+						"explanation": "Once the Disguise is 'Busted', the Pikachu head flops over sadly.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What happens to the disguise's 'neck' after its Ability is triggered?",
+						"wrong": [
+							"It falls off",
+							"It turns red",
+							"It glows"
+						]
+					},
+					{
+						"correct": "A piece of wood",
+						"difficulty": "Medium",
+						"explanation": "It uses a lightning-bolt-shaped piece of wood to complete its Pikachu look.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What does this Pokémon use for its 'tail'?",
+						"wrong": [
+							"A bone",
+							"An actual tail",
+							"A spoon"
+						]
+					},
+					{
+						"correct": "Jessie",
+						"difficulty": "Medium",
+						"explanation": "Jessie's Mimikyu had an intense, personal hatred for Ash's Pikachu.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "In the anime, which Team Rocket member is followed by a particularly aggressive version of this Pokémon?",
+						"wrong": [
+							"James",
+							"Meowth",
+							"Giovanni"
+						]
+					},
+					{
+						"correct": "Let's Snuggle Forever",
+						"difficulty": "Medium",
+						"explanation": "Despite the cute name, it traps the opponent inside its rag and pummels them.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What is the name of this Pokémon's unique Z-Move in 'Ultra Sun and Ultra Moon'?",
+						"wrong": [
+							"Shadow Strike",
+							"Pikachu Surprise",
+							"Ghostly Embrace"
+						]
+					},
+					{
+						"correct": "It hates sunlight",
+						"difficulty": "Hard",
+						"explanation": "It prefers dark places and sunlight is said to be detrimental to its health.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Why does this Pokémon hide from the sun?",
+						"wrong": [
+							"It will melt",
+							"It turns into a human",
+							"The sun reveals its true face"
+						]
+					},
+					{
+						"correct": "Grey and Black (monochrome)",
+						"difficulty": "Hard",
+						"explanation": "Its Shiny form looks like an old, faded black-and-white photograph.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What color is the Shiny form of this Pokémon?",
+						"wrong": [
+							"Pink",
+							"Gold",
+							"Blue"
+						]
+					},
+					{
+						"correct": "90",
+						"difficulty": "Hard",
+						"explanation": "It has a respectable base Attack of 90, making it a threat after a Swords Dance.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What is the base stat of this Pokémon's Attack?",
+						"wrong": [
+							"70",
+							"110",
+							"120"
+						]
+					},
+					{
+						"correct": "Acerola",
+						"difficulty": "Hard",
+						"explanation": "Acerola, the Ghost-type specialist, oversees the spooky trial where it is the Totem Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Which Alola Trial Captain is associated with the 'Abandoned Thrifty Megamart' where this Pokémon is found?",
+						"wrong": [
+							"Lana",
+							"Mallow",
+							"Kiawe"
+						]
+					},
+					{
+						"correct": "It now takes 1/8th damage when broken",
+						"difficulty": "Hard",
+						"explanation": "To balance its strength, breaking the disguise now deals a tiny amount of damage to the user.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "What did the nerf to its 'Disguise' ability in Gen VIII change?",
+						"wrong": [
+							"It only works half the time",
+							"It slows the Pokémon down",
+							"It can be broken by Status"
+						]
+					}
+				]
+			},
+			"id": "pokemon_mimikyu",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Mimikyu",
+				"lore_desc": "A lonely Pokémon that conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Ghost",
+					"Fairy",
+					"Alola"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dark",
+						"difficulty": "Easy",
+						"explanation": "It was one of the two original Pokémon introduced to showcase the new Dark-type in Gen II.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What is this Pokémon's primary type?",
+						"wrong": [
+							"Ghost",
+							"Psychic",
+							"Normal"
+						]
+					},
+					{
+						"correct": "Eevee",
+						"difficulty": "Easy",
+						"explanation": "It is one of the many possible evolutions for the versatile Eevee.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "Which of these is the 'base' Pokémon that evolves into this creature?",
+						"wrong": [
+							"Meowth",
+							"Vulpix",
+							"Zorua"
+						]
+					},
+					{
+						"correct": "Night",
+						"difficulty": "Easy",
+						"explanation": "It requires high friendship and specifically the nighttime period.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What time of day must it be for Eevee to evolve into this Pokémon?",
+						"wrong": [
+							"Day",
+							"Morning",
+							"Midnight exactly"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Its black fur is accented by yellow rings that glow when it is excited or attacking.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What color are the glowing rings on this Pokémon's body normally?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"White"
+						]
+					},
+					{
+						"correct": "Johto",
+						"difficulty": "Easy",
+						"explanation": "It debuted in Gold and Silver along with the day-time counterpart, Espeon.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "In which region was this Pokémon first introduced?",
+						"wrong": [
+							"Kanto",
+							"Hoenn",
+							"Sinnoh"
+						]
+					},
+					{
+						"correct": "They glow",
+						"difficulty": "Medium",
+						"explanation": "Moonlight causes its rings to fill with energy and emit a faint glow.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What happens to its rings when it is exposed to moonlight?",
+						"wrong": [
+							"They change color",
+							"They disappear",
+							"They spin"
+						]
+					},
+					{
+						"correct": "Special Defense",
+						"difficulty": "Medium",
+						"explanation": "It is famous for being incredibly bulky, with a base 130 in Special Defense.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What is this Pokémon's highest base stat?",
+						"wrong": [
+							"Attack",
+							"Speed",
+							"Special Attack"
+						]
+					},
+					{
+						"correct": "Espeon",
+						"difficulty": "Medium",
+						"explanation": "Espeon and Umbreon represent the sun and the moon, respectively.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "Which of these is its counterpart that evolves during the day?",
+						"wrong": [
+							"Sylveon",
+							"Flareon",
+							"Glaceon"
+						]
+					},
+					{
+						"correct": "Secretes poisonous sweat",
+						"difficulty": "Medium",
+						"explanation": "It protects itself by spraying a poisonous sweat from its pores when threatened.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "According to the Pokédex, what does it do when it gets angry?",
+						"wrong": [
+							"Bites its own tail",
+							"Turns invisible",
+							"Howls at the sun"
+						]
+					},
+					{
+						"correct": "Espeon",
+						"difficulty": "Medium",
+						"explanation": "The protagonist of 'Colosseum' starts with both Johto evolutions.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "In 'Pokémon Colosseum', you start the game with this Pokémon and which other?",
+						"wrong": [
+							"Pikachu",
+							"Eevee",
+							"Lucario"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Hard",
+						"explanation": "Shiny Umbreon is widely considered one of the best shinies, featuring glowing blue rings.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What color are the rings in this Pokémon's Shiny form?",
+						"wrong": [
+							"Green",
+							"Gold",
+							"Pink"
+						]
+					},
+					{
+						"correct": "Tamao",
+						"difficulty": "Hard",
+						"explanation": "Naming an Eevee 'Tamao' will guarantee its evolution into Umbreon once.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What is the specific evolution method in 'Pokémon GO' using a nickname?",
+						"wrong": [
+							"Sakura",
+							"Sparky",
+							"Luna"
+						]
+					},
+					{
+						"correct": "Mean Look",
+						"difficulty": "Hard",
+						"explanation": "Mean Look is a staple move for Umbreon to trap opponents in battle.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What is the name of the 'Eye' move it often uses to prevent opponents from switching?",
+						"wrong": [
+							"Evil Eye",
+							"Dark Pulse",
+							"Glare"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Hard",
+						"explanation": "It has striking red eyes that stand out against its black fur.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "What is the primary color of this Pokémon's eyes?",
+						"wrong": [
+							"Yellow",
+							"Black",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Poison",
+						"difficulty": "Hard",
+						"explanation": "Early designs suggested it was going to be a Poison-type, explaining its Pokédex entry about poisonous sweat.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "In the 'Gold and Silver' beta, this Pokémon was originally intended to be which type?",
+						"wrong": [
+							"Ghost",
+							"Normal",
+							"Dark"
+						]
+					}
+				]
+			},
+			"id": "pokemon_umbreon",
+			"meta": {
+				"date_added": "2026-03-16",
+				"entity_category": "Theme Item",
+				"full_title": "Umbreon",
+				"lore_desc": "An evolution of Eevee that occurred due to exposure to the moon's waves. It hides in the darkness and waits for its prey.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"profiler": {
+				"vibe_tags": [
+					"Dark",
+					"Johto",
+					"Eeveelution"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -61891,7 +64921,7 @@
 					"name": "Infiltrators"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Spyro the Dragon",
 						"Parappa the Rapper"
