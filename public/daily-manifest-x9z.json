@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773701112,
+	"last_updated": 1773703557,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2213,9 +2213,9 @@
 				}
 			],
 			"showcase": [
-				"ps1_classics_crash_bandicoot",
-				"ps1_classics_lara_croft",
-				"ps1_classics_cloud_strife"
+				"pokemon_eevee",
+				"pokemon_pikachu",
+				"pokemon_mewtwo"
 			],
 			"starters": [
 				"pokemon_alakazam",
@@ -2224,15 +2224,16 @@
 				"pokemon_garchomp",
 				"pokemon_gardevoir",
 				"pokemon_greninja",
-				"pokemon_hitmonlee",
+				"pokemon_gengar",
 				"pokemon_lucario",
-				"pokemon_machamp",
-				"pokemon_meowth",
-				"pokemon_mew",
-				"pokemon_mimikyu",
-				"pokemon_psyduck",
-				"pokemon_scyther",
-				"pokemon_umbreon"
+				"pokemon_pikachu",
+				"pokemon_charizard",
+				"pokemon_mewtwo",
+				"pokemon_snorlax",
+				"pokemon_blastoise",
+				"pokemon_venusaur",
+				"pokemon_eevee",
+				"pokemon_rayquaza"
 			]
 		}
 	}
