@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773741760,
+	"last_updated": 1773758308,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2194,6 +2194,7 @@
 			]
 		},
 		"2026-03-17": {
+			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
 			"motd": "Whos That Pokemon?",
@@ -2234,7 +2235,8 @@
 				"pokemon_venusaur",
 				"pokemon_eevee",
 				"pokemon_rayquaza"
-			]
+			],
+			"submitted_by": "Mcmanusmark93 outlook"
 		},
 		"2026-03-18": {
 			"daily_type": "mystery",
