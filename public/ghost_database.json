@@ -62561,7 +62561,7 @@
 					"name": "Fairy's Menace"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Bulbasaur",
 						"Decidueye"
@@ -62696,6 +62696,11 @@
 			"color": "#00ffff",
 			"icon": "res://icons/globe-bold.png",
 			"text": "Time Traveler"
+		},
+		"trend_setter": {
+			"color": "#ffcc00",
+			"icon": "res://icons/shooting-star-bold.png",
+			"text": "Trendsetter"
 		},
 		"trickster": {
 			"color": "#ff0000",
