@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773703557,
+	"last_updated": 1773741760,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2234,6 +2234,60 @@
 				"pokemon_venusaur",
 				"pokemon_eevee",
 				"pokemon_rayquaza"
+			]
+		},
+		"2026-03-18": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Who's that pokemon FIXED",
+			"share_text": "I fixed it !",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"pokemon_sylveon",
+				"pokemon_zapdos",
+				"pokemon_salamence"
+			],
+			"starters": [
+				"pokemon_jigglypuff",
+				"pokemon_lugia",
+				"pokemon_mudkip",
+				"pokemon_ho_oh",
+				"pokemon_blaziken",
+				"pokemon_metagross",
+				"pokemon_darkrai",
+				"pokemon_tinkaton",
+				"pokemon_scizor",
+				"pokemon_gyarados",
+				"pokemon_dialga",
+				"pokemon_incineroar",
+				"pokemon_palkia",
+				"pokemon_bulbasaur",
+				"pokemon_squirtle",
+				"pokemon_zapdos",
+				"pokemon_articuno",
+				"pokemon_dragonair",
+				"pokemon_moltres",
+				"pokemon_tyranitar",
+				"pokemon_salamence",
+				"pokemon_groudon",
+				"pokemon_kyogre",
+				"pokemon_decidueye",
+				"pokemon_sylveon",
+				"pokemon_lapras"
 			]
 		}
 	}

@@ -57739,6 +57739,2662 @@
 					"Hoenn"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mew",
+						"difficulty": "Easy",
+						"explanation": "Mew is capable of learning every single move taught by TMs and Move Tutors because it contains the DNA of all Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machamp",
+							"Onix",
+							"Steelix"
+						]
+					},
+					{
+						"correct": "Mew",
+						"difficulty": "Easy",
+						"explanation": "In the lore, Mew is so rare that it was long thought to be extinct until it was discovered in South America.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Blastoise",
+							"Gyarados"
+						]
+					},
+					{
+						"correct": "Mew",
+						"difficulty": "Medium",
+						"explanation": "Mew was the very first Mythical Pokémon and was famously hidden in the code of the original Red and Blue games.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Celebi",
+							"Jirachi",
+							"Victini"
+						]
+					},
+					{
+						"correct": "Mew",
+						"difficulty": "Medium",
+						"explanation": "Its pink, feline appearance and long tail ending in a bulb make its silhouette one of the most recognizable in the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Manaphy",
+							"Shaymin",
+							"Cosmog"
+						]
+					},
+					{
+						"correct": "Mew",
+						"difficulty": "Hard",
+						"explanation": "While Mewtwo is its clone, Mew's silhouette is much smaller and lacks the distinct 'tube' on the back of its neck.",
+						"image_url": "https://skillcheckgame.com/assets/images/mew.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mewtwo",
+							"Ditto",
+							"Marshadow"
+						]
+					}
+				]
+			},
+			"id": "pokemon_mew",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Mew",
+				"lore_desc": "A Mythical Pokémon said to contain the genetic codes of all other Pokémon in its body.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ancient Mythical",
+			"profiler": {
+				"vibe_tags": [
+					"Psychic",
+					"Mythical",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Jigglypuff",
+						"difficulty": "Easy",
+						"explanation": "Jigglypuff's round shape allows it to float like a balloon and puff itself up when it gets angry.",
+						"image_url": "https://skillcheckgame.com/assets/images/jigglypuff.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charizard",
+							"Machoke",
+							"Lapras"
+						]
+					},
+					{
+						"correct": "Jigglypuff",
+						"difficulty": "Easy",
+						"explanation": "Known for its recurring role in the anime, it often doodles on the faces of those who fall asleep during its song.",
+						"image_url": "https://skillcheckgame.com/assets/images/jigglypuff.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Hitmonlee",
+							"Kangaskhan",
+							"Dragonite"
+						]
+					},
+					{
+						"correct": "Jigglypuff",
+						"difficulty": "Medium",
+						"explanation": "While similar to Clefairy, Jigglypuff's silhouette features a distinct tuft of hair on its forehead and pointed ears.",
+						"image_url": "https://skillcheckgame.com/assets/images/jigglypuff.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Marill",
+							"Clefairy",
+							"Azumarill"
+						]
+					},
+					{
+						"correct": "Jigglypuff",
+						"difficulty": "Medium",
+						"explanation": "Its body is almost a perfect sphere, which it uses to roll toward opponents and deliver a powerful slap.",
+						"image_url": "https://skillcheckgame.com/assets/images/jigglypuff.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Chansey",
+							"Togepi",
+							"Whismur"
+						]
+					},
+					{
+						"correct": "Jigglypuff",
+						"difficulty": "Hard",
+						"explanation": "Jigglypuff is the middle stage of its evolution line, sitting between the smaller Igglybuff and the larger Wigglytuff.",
+						"image_url": "https://skillcheckgame.com/assets/images/jigglypuff.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Igglybuff",
+							"Wigglytuff",
+							"Voltorb"
+						]
+					}
+				]
+			},
+			"id": "pokemon_jigglypuff",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Jigglypuff",
+				"lore_desc": "A spherical Pokémon that uses its large eyes to mesmerize its opponents before singing a lullaby.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Balloon Pokemon",
+			"profiler": {
+				"vibe_tags": [
+					"Normal",
+					"Fairy",
+					"Classic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Lugia",
+						"difficulty": "Easy",
+						"explanation": "Lugia's wings are shaped like giant hands, which it uses to create powerful gusts of wind.",
+						"image_url": "https://skillcheckgame.com/assets/images/lugia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Squirtle",
+							"Bulbasaur"
+						]
+					},
+					{
+						"correct": "Lugia",
+						"difficulty": "Easy",
+						"explanation": "Lugia was the mascot of Pokémon Silver and is the leader of the Legendary Birds: Articuno, Zapdos, and Moltres.",
+						"image_url": "https://skillcheckgame.com/assets/images/lugia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Onix",
+							"Machamp",
+							"Snorlax"
+						]
+					},
+					{
+						"correct": "Lugia",
+						"difficulty": "Medium",
+						"explanation": "Unlike the Phoenix-like Ho-Oh, Lugia has a long neck and plates along its back that it can flatten to dive faster.",
+						"image_url": "https://skillcheckgame.com/assets/images/lugia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ho-Oh",
+							"Articuno",
+							"Kyogre"
+						]
+					},
+					{
+						"correct": "Lugia",
+						"difficulty": "Medium",
+						"explanation": "Lugia is often associated with the Whirl Islands, where it hides in an underwater cavern.",
+						"image_url": "https://skillcheckgame.com/assets/images/lugia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Rayquaza",
+							"Yveltal",
+							"Zekrom"
+						]
+					},
+					{
+						"correct": "Lugia",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is unique among bird-like Pokémon due to its massive arm-like wings and the tail fins used for swimming.",
+						"image_url": "https://skillcheckgame.com/assets/images/lugia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Reshiram",
+							"Latios",
+							"Palkia"
+						]
+					}
+				]
+			},
+			"id": "pokemon_lugia",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Lugia",
+				"lore_desc": "The guardian of the seas, Lugia is said to spend its time at the bottom of the ocean to avoid causing storms with its power.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Diving Legendary",
+			"profiler": {
+				"vibe_tags": [
+					"Psychic",
+					"Flying",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ho-Oh",
+						"difficulty": "Easy",
+						"explanation": "Ho-Oh was the first Generation 2 Pokémon ever seen by the public, appearing in the very first episode of the anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/ho_oh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Rattata",
+							"Metapod",
+							"Diglett"
+						]
+					},
+					{
+						"correct": "Ho-Oh",
+						"difficulty": "Easy",
+						"explanation": "It is the guardian of the skies and lives at the top of the Bell Tower in the Johto region.",
+						"image_url": "https://skillcheckgame.com/assets/images/ho_oh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blastoise",
+							"Charizard",
+							"Venusaur"
+						]
+					},
+					{
+						"correct": "Ho-Oh",
+						"difficulty": "Medium",
+						"explanation": "Ho-Oh's silhouette is distinguished from Moltres by its large, peacock-like tail and its prominent head crest.",
+						"image_url": "https://skillcheckgame.com/assets/images/ho_oh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Moltres",
+							"Fearow",
+							"Lugia"
+						]
+					},
+					{
+						"correct": "Ho-Oh",
+						"difficulty": "Medium",
+						"explanation": "According to legend, Ho-Oh used its power to resurrect the three Legendary Beasts: Raikou, Entei, and Suicune.",
+						"image_url": "https://skillcheckgame.com/assets/images/ho_oh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Articuno",
+							"Zapdos",
+							"Talonflame"
+						]
+					},
+					{
+						"correct": "Ho-Oh",
+						"difficulty": "Hard",
+						"explanation": "The silhouette of Ho-Oh features very wide, fan-like tail feathers that are much larger than most other avian Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/ho_oh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Yveltal",
+							"Braviary",
+							"Pidgeot"
+						]
+					}
+				]
+			},
+			"id": "pokemon_ho_oh",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Ho_Oh",
+				"lore_desc": "A majestic bird that leaves a rainbow trail behind it and is said to grant eternal happiness to those who see it.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Rainbow Legendary",
+			"profiler": {
+				"vibe_tags": [
+					"Fire",
+					"Flying",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mudkip",
+						"difficulty": "Easy",
+						"explanation": "Mudkip uses the fin on its head as a radar to detect changes in air and water currents.",
+						"image_url": "https://skillcheckgame.com/assets/images/mudkip.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Steelix",
+							"Machamp",
+							"Snorlax"
+						]
+					},
+					{
+						"correct": "Mudkip",
+						"difficulty": "Easy",
+						"explanation": "Mudkip became an internet sensation in the mid-2000s due to the viral 'So I herd u liek Mudkips' meme.",
+						"image_url": "https://skillcheckgame.com/assets/images/mudkip.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charizard",
+							"Gengar",
+							"Alakazam"
+						]
+					},
+					{
+						"correct": "Mudkip",
+						"difficulty": "Medium",
+						"explanation": "Despite being a Water-type, Mudkip's evolutions eventually gain the Ground typing, making them immune to Electricity.",
+						"image_url": "https://skillcheckgame.com/assets/images/mudkip.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Wooper",
+							"Quagsire",
+							"Totodile"
+						]
+					},
+					{
+						"correct": "Mudkip",
+						"difficulty": "Medium",
+						"explanation": "Mudkip is remarkably strong for its size, capable of crushing boulders much larger than itself.",
+						"image_url": "https://skillcheckgame.com/assets/images/mudkip.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Marshtomp",
+							"Sobble",
+							"Piplup"
+						]
+					},
+					{
+						"correct": "Mudkip",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is characterized by the star-shaped gill structures on its cheeks and a single upright dorsal fin.",
+						"image_url": "https://skillcheckgame.com/assets/images/mudkip.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lotad",
+							"Tympole",
+							"Bunnelby"
+						]
+					}
+				]
+			},
+			"id": "pokemon_mudkip",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Mudkip",
+				"lore_desc": "The Water-type starter from the Hoenn region, known for its large head fin and orange gills.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Water Mud Fish",
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Starter",
+					"Hoenn"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blaziken",
+						"difficulty": "Easy",
+						"explanation": "Blaziken is the final evolution of Torchic, the Fire-type starter from the Hoenn region.",
+						"image_url": "https://skillcheckgame.com/assets/images/blaziken.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Diglett",
+							"Caterpie",
+							"Oddish"
+						]
+					},
+					{
+						"correct": "Blaziken",
+						"difficulty": "Easy",
+						"explanation": "It attacks with punches that set its opponents on fire, and its legs are strong enough to jump over skyscrapers.",
+						"image_url": "https://skillcheckgame.com/assets/images/blaziken.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blastoise",
+							"Snorlax",
+							"Lapras"
+						]
+					},
+					{
+						"correct": "Blaziken",
+						"difficulty": "Medium",
+						"explanation": "Blaziken was the first Fire/Fighting starter evolution, a trend that would continue for the next two generations.",
+						"image_url": "https://skillcheckgame.com/assets/images/blaziken.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Infernape",
+							"Emboar",
+							"Lucario"
+						]
+					},
+					{
+						"correct": "Blaziken",
+						"difficulty": "Medium",
+						"explanation": "When its battle spirit is high, Blaziken's wrists emit intense flames, which it uses to incinerate foes.",
+						"image_url": "https://skillcheckgame.com/assets/images/blaziken.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mewtwo",
+							"Zoroark",
+							"Gardevoir"
+						]
+					},
+					{
+						"correct": "Blaziken",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is defined by its long, flowing 'hair' feathers and V-shaped head crest.",
+						"image_url": "https://skillcheckgame.com/assets/images/blaziken.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Golduck",
+							"Decidueye",
+							"Incineroar"
+						]
+					}
+				]
+			},
+			"id": "pokemon_blaziken",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Blaziken",
+				"lore_desc": "A powerful martial arts master Pokémon that can clear 30-story buildings in a single bound.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Blazing Chicken",
+			"profiler": {
+				"vibe_tags": [
+					"Fire",
+					"Fighting",
+					"Hoenn"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Metagross",
+						"difficulty": "Easy",
+						"explanation": "Metagross is a massive, four-legged Pokémon that is famously the signature partner of Hoenn Champion Steven Stone.",
+						"image_url": "https://skillcheckgame.com/assets/images/metagross.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Eevee",
+							"Squirtle"
+						]
+					},
+					{
+						"correct": "Metagross",
+						"difficulty": "Easy",
+						"explanation": "It is smarter than a supercomputer, using its four brains to calculate complex battle strategies in seconds.",
+						"image_url": "https://skillcheckgame.com/assets/images/metagross.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charmander",
+							"Bulbasaur",
+							"Meowth"
+						]
+					},
+					{
+						"correct": "Metagross",
+						"difficulty": "Medium",
+						"explanation": "Metagross is a 'Pseudo-Legendary' Pokémon, meaning it is exceptionally powerful despite not being a true Legendary.",
+						"image_url": "https://skillcheckgame.com/assets/images/metagross.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Registeel",
+							"Aggron",
+							"Bastiodon"
+						]
+					},
+					{
+						"correct": "Metagross",
+						"difficulty": "Medium",
+						"explanation": "The X shape on its face is actually made of heavy, metallic ridges that protect its core.",
+						"image_url": "https://skillcheckgame.com/assets/images/metagross.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Garchomp",
+							"Tyranitar",
+							"Hydreigon"
+						]
+					},
+					{
+						"correct": "Metagross",
+						"difficulty": "Hard",
+						"explanation": "Metagross's silhouette is distinct due to its four crab-like legs and disc-shaped body.",
+						"image_url": "https://skillcheckgame.com/assets/images/metagross.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Starmie",
+							"Bronzong",
+							"Avalugg"
+						]
+					}
+				]
+			},
+			"id": "pokemon_metagross",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Metagross",
+				"lore_desc": "A robotic Pokémon formed by the fusion of two Metang, possessing four brains linked by a neural network.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Iron Leg Tank",
+			"profiler": {
+				"vibe_tags": [
+					"Steel",
+					"Psychic",
+					"Pseudo-Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Darkrai",
+						"difficulty": "Easy",
+						"explanation": "Darkrai is known as the 'Pitch-Black Pokémon' and is the counterpart to the dream-giving Cresselia.",
+						"image_url": "https://skillcheckgame.com/assets/images/darkrai.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Blastoise",
+							"Wailord"
+						]
+					},
+					{
+						"correct": "Darkrai",
+						"difficulty": "Easy",
+						"explanation": "It is capable of inducing unending nightmares, though it often does so as a self-defense mechanism.",
+						"image_url": "https://skillcheckgame.com/assets/images/darkrai.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Eevee",
+							"Ditto"
+						]
+					},
+					{
+						"correct": "Darkrai",
+						"difficulty": "Medium",
+						"explanation": "Darkrai was the focus of the tenth Pokémon movie, where it fought against Dialga and Palkia.",
+						"image_url": "https://skillcheckgame.com/assets/images/darkrai.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Gengar",
+							"Banette",
+							"Sableye"
+						]
+					},
+					{
+						"correct": "Darkrai",
+						"difficulty": "Medium",
+						"explanation": "Its signature move, Dark Void, is one of the most feared moves in competitive Pokémon history for its ability to put multiple foes to sleep.",
+						"image_url": "https://skillcheckgame.com/assets/images/darkrai.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Spiritomb",
+							"Yveltal",
+							"Necrozma"
+						]
+					},
+					{
+						"correct": "Darkrai",
+						"difficulty": "Hard",
+						"explanation": "Darkrai's silhouette is recognizable by its wispy, smoke-like torso and the jagged red collar around its neck.",
+						"image_url": "https://skillcheckgame.com/assets/images/darkrai.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Deoxys",
+							"Genesect",
+							"Zoroark"
+						]
+					}
+				]
+			},
+			"id": "pokemon_darkrai",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Darkrai",
+				"lore_desc": "A shadowy Pokémon that inhabits dreams and causes nightmares to protect its territory.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Nightmare Mythical",
+			"profiler": {
+				"vibe_tags": [
+					"Dark",
+					"Mythical",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mimikyu",
+						"difficulty": "Easy",
+						"explanation": "Mimikyu's actual appearance is so terrifying that a scholar who once saw it died from the shock.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Onix",
+							"Steelix",
+							"Snorlax"
+						]
+					},
+					{
+						"correct": "Mimikyu",
+						"difficulty": "Easy",
+						"explanation": "It wears a homemade Pikachu costume to avoid being hated by humans, hoping it will make them think it is popular.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charizard",
+							"Blastoise",
+							"Machoke"
+						]
+					},
+					{
+						"correct": "Mimikyu",
+						"difficulty": "Medium",
+						"explanation": "Despite its silhouette resembling Pikachu, the 'head' is actually just stuffed with neck-filler, and Mimikyu looks through holes in the torso.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Raichu",
+							"Pichu"
+						]
+					},
+					{
+						"correct": "Mimikyu",
+						"difficulty": "Medium",
+						"explanation": "Its Disguise ability allows it to take one hit without taking damage, causing the 'head' of its costume to snap.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Banette",
+							"Phantump",
+							"Shuppet"
+						]
+					},
+					{
+						"correct": "Mimikyu",
+						"difficulty": "Hard",
+						"explanation": "The silhouette is purposefully drawn to look like a poorly-sketched Pikachu, with a jagged stick for a tail.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimikyu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dedenne",
+							"Morpeko",
+							"Plusle"
+						]
+					}
+				]
+			},
+			"id": "pokemon_mimikyu",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Mimikyu",
+				"lore_desc": "A lonely Pokémon that hides under a rag designed to look like Pikachu in order to make friends.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Disguised Ghost",
+			"profiler": {
+				"vibe_tags": [
+					"Ghost",
+					"Fairy",
+					"Alola"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Tinkaton",
+						"difficulty": "Easy",
+						"explanation": "Tinkaton is famous for its massive hammer, which it uses to knock rocks into the sky.",
+						"image_url": "https://skillcheckgame.com/assets/images/tinkaton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Onix",
+							"Steelix",
+							"Golem"
+						]
+					},
+					{
+						"correct": "Tinkaton",
+						"difficulty": "Easy",
+						"explanation": "It creates its hammer using metal stolen from Bisharp and Corviknight.",
+						"image_url": "https://skillcheckgame.com/assets/images/tinkaton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Machamp",
+							"Dragonite"
+						]
+					},
+					{
+						"correct": "Tinkaton",
+						"difficulty": "Medium",
+						"explanation": "Its signature move, Gigaton Hammer, is so powerful that Tinkaton cannot use it twice in a row.",
+						"image_url": "https://skillcheckgame.com/assets/images/tinkaton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Gardevoir",
+							"Mawile",
+							"Hatterene"
+						]
+					},
+					{
+						"correct": "Tinkaton",
+						"difficulty": "Medium",
+						"explanation": "Despite its small body, Tinkaton has high physical defense and can easily swing its 200lb hammer.",
+						"image_url": "https://skillcheckgame.com/assets/images/tinkaton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Grimmsnarl",
+							"Clefable",
+							"Sylveon"
+						]
+					},
+					{
+						"correct": "Tinkaton",
+						"difficulty": "Hard",
+						"explanation": "The silhouette is unique because the weapon it carries is several times larger than the Pokémon itself.",
+						"image_url": "https://skillcheckgame.com/assets/images/tinkaton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Gholdengo",
+							"Kingambit",
+							"Klefki"
+						]
+					}
+				]
+			},
+			"id": "pokemon_tinkaton",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Tinkaton",
+				"lore_desc": "A small, mischievous Pokémon that carries a massive hammer made from the scrap metal of its rivals.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Hammer Maiden",
+			"profiler": {
+				"vibe_tags": [
+					"Fairy",
+					"Steel",
+					"Paldea"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Scizor",
+						"difficulty": "Easy",
+						"explanation": "Scizor's pincers contain eye-like markings that it uses to intimidate and confuse its prey.",
+						"image_url": "https://skillcheckgame.com/assets/images/scizor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Diglett",
+							"Caterpie",
+							"Metapod"
+						]
+					},
+					{
+						"correct": "Scizor",
+						"difficulty": "Easy",
+						"explanation": "Despite its heavy wings, it cannot fly very well; instead, it uses them to regulate its body temperature.",
+						"image_url": "https://skillcheckgame.com/assets/images/scizor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Lapras",
+							"Blastoise"
+						]
+					},
+					{
+						"correct": "Scizor",
+						"difficulty": "Medium",
+						"explanation": "Scizor is one of the few Pokémon whose base stat total doesn't increase when it evolves from Scyther—it just gets redistributed.",
+						"image_url": "https://skillcheckgame.com/assets/images/scizor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Scyther",
+							"Heracross",
+							"Pinsir"
+						]
+					},
+					{
+						"correct": "Scizor",
+						"difficulty": "Medium",
+						"explanation": "It is a Bug/Steel type, a combination that leaves it with only one weakness: Fire.",
+						"image_url": "https://skillcheckgame.com/assets/images/scizor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Genesect",
+							"Kabutops",
+							"Escavalier"
+						]
+					},
+					{
+						"correct": "Scizor",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is defined by its massive, round pincers and the triple-pronged crest on its head.",
+						"image_url": "https://skillcheckgame.com/assets/images/scizor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Leavanny",
+							"Vikavolt",
+							"Golisopod"
+						]
+					}
+				]
+			},
+			"id": "pokemon_scizor",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Scizor",
+				"lore_desc": "An evolution of Scyther that has swapped speed for a metallic body as hard as diamond.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Pincer Bug",
+			"profiler": {
+				"vibe_tags": [
+					"Bug",
+					"Steel",
+					"Johto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gyarados",
+						"difficulty": "Easy",
+						"explanation": "Gyarados evolves from the famously weak Magikarp once it reaches level 20.",
+						"image_url": "https://skillcheckgame.com/assets/images/gyarados.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Squirtle",
+							"Bulbasaur"
+						]
+					},
+					{
+						"correct": "Gyarados",
+						"difficulty": "Easy",
+						"explanation": "It is said to be able to destroy entire cities in a fit of rage, leaving nothing but ashes and ruins.",
+						"image_url": "https://skillcheckgame.com/assets/images/gyarados.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Onix",
+							"Machamp",
+							"Snorlax"
+						]
+					},
+					{
+						"correct": "Gyarados",
+						"difficulty": "Medium",
+						"explanation": "Although it looks like a dragon and is a Flying-type, Gyarados is not actually a Dragon-type Pokémon.",
+						"image_url": "https://skillcheckgame.com/assets/images/gyarados.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Milotic",
+							"Dragonair",
+							"Steelix"
+						]
+					},
+					{
+						"correct": "Gyarados",
+						"difficulty": "Medium",
+						"explanation": "Gyarados is based on a Chinese legend of a carp jumping over the Dragon Gate to become a dragon.",
+						"image_url": "https://skillcheckgame.com/assets/images/gyarados.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Rayquaza",
+							"Kyogre",
+							"Lapras"
+						]
+					},
+					{
+						"correct": "Gyarados",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is identified by its long, segmented body and the three-pointed dorsal fins along its back.",
+						"image_url": "https://skillcheckgame.com/assets/images/gyarados.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Drednaw",
+							"Eelektross",
+							"Huntail"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gyarados",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Gyarados",
+				"lore_desc": "A legendary sea serpent known for its uncontrollable rage and destructive power.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Atrocious Serpent",
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Flying",
+					"Classic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Umbreon",
+						"difficulty": "Easy",
+						"explanation": "Umbreon's rings glow when it is excited or when it is bathed in the light of a full moon.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machamp",
+							"Steelix",
+							"Golem"
+						]
+					},
+					{
+						"correct": "Umbreon",
+						"difficulty": "Easy",
+						"explanation": "It was introduced in Generation 2 as one of the two new evolutions for Eevee, alongside Espeon.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charizard",
+							"Blastoise",
+							"Dragonite"
+						]
+					},
+					{
+						"correct": "Umbreon",
+						"difficulty": "Medium",
+						"explanation": "Umbreon evolves when Eevee has high friendship and levels up during the nighttime.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Espeon",
+							"Flareon",
+							"Vaporeon"
+						]
+					},
+					{
+						"correct": "Umbreon",
+						"difficulty": "Medium",
+						"explanation": "In competitive play, Umbreon is known for its high defensive stats and its ability to stall opponents.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Absol",
+							"Zoroark",
+							"Mightyena"
+						]
+					},
+					{
+						"correct": "Umbreon",
+						"difficulty": "Hard",
+						"explanation": "The silhouette shows its sleek fox-like frame and the distinct long, upright ears with ring-like protrusions.",
+						"image_url": "https://skillcheckgame.com/assets/images/umbreon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Sylveon",
+							"Glaceon",
+							"Jolteon"
+						]
+					}
+				]
+			},
+			"id": "pokemon_umbreon",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Umbreon",
+				"lore_desc": "The Moonlight Pokémon, which evolved from Eevee due to exposure to the moon's energy.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Moonlight Fox",
+			"profiler": {
+				"vibe_tags": [
+					"Dark",
+					"Eeveelution",
+					"Johto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dialga",
+						"difficulty": "Easy",
+						"explanation": "Dialga is the mascot of Pokémon Diamond and is the protector of time in the Sinnoh region.",
+						"image_url": "https://skillcheckgame.com/assets/images/dialga.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Eevee",
+							"Meowth"
+						]
+					},
+					{
+						"correct": "Dialga",
+						"difficulty": "Easy",
+						"explanation": "Its signature move is Roar of Time, a devastating blast that requires Dialga to rest for one turn after use.",
+						"image_url": "https://skillcheckgame.com/assets/images/dialga.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Blastoise",
+							"Onix"
+						]
+					},
+					{
+						"correct": "Dialga",
+						"difficulty": "Medium",
+						"explanation": "Dialga is a member of the Creation Trio, alongside Palkia (Space) and Giratina (Anti-matter).",
+						"image_url": "https://skillcheckgame.com/assets/images/dialga.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Palkia",
+							"Giratina",
+							"Arceus"
+						]
+					},
+					{
+						"correct": "Dialga",
+						"difficulty": "Medium",
+						"explanation": "Dialga is the only Steel/Dragon type legendary, making it immune to many standard dragon-killing moves.",
+						"image_url": "https://skillcheckgame.com/assets/images/dialga.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Aggron",
+							"Bastiodon",
+							"Tyranitar"
+						]
+					},
+					{
+						"correct": "Dialga",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is easily identified by the metallic 'fin' on its back and the chest plate containing a diamond-like core.",
+						"image_url": "https://skillcheckgame.com/assets/images/dialga.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Zekrom",
+							"Solgaleo",
+							"Kyurem"
+						]
+					}
+				]
+			},
+			"id": "pokemon_dialga",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Dialga",
+				"lore_desc": "A legendary Pokémon said to have the power to control time, whose heartbeat marks its flow.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Time Lord",
+			"profiler": {
+				"vibe_tags": [
+					"Steel",
+					"Dragon",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Palkia",
+						"difficulty": "Easy",
+						"explanation": "Palkia is the mascot of Pokémon Pearl and is the deity of space in Sinnoh mythology.",
+						"image_url": "https://skillcheckgame.com/assets/images/palkia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Diglett",
+							"Caterpie",
+							"Oddish"
+						]
+					},
+					{
+						"correct": "Palkia",
+						"difficulty": "Easy",
+						"explanation": "It is said that space becomes more stable with every breath that Palkia takes.",
+						"image_url": "https://skillcheckgame.com/assets/images/palkia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Machoke",
+							"Charizard"
+						]
+					},
+					{
+						"correct": "Palkia",
+						"difficulty": "Medium",
+						"explanation": "Palkia uses its signature move, Spacial Rend, to tear through the fabric of the universe and damage foes.",
+						"image_url": "https://skillcheckgame.com/assets/images/palkia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dialga",
+							"Giratina",
+							"Rayquaza"
+						]
+					},
+					{
+						"correct": "Palkia",
+						"difficulty": "Medium",
+						"explanation": "Unlike its quadruped rival Dialga, Palkia stands on two legs and has powerful wings on its shoulders.",
+						"image_url": "https://skillcheckgame.com/assets/images/palkia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Reshiram",
+							"Lugia",
+							"Kyogre"
+						]
+					},
+					{
+						"correct": "Palkia",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is characterized by the large round pearls on its shoulders and its long, slender neck.",
+						"image_url": "https://skillcheckgame.com/assets/images/palkia.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Nidoking",
+							"Rhydon",
+							"Haxorus"
+						]
+					}
+				]
+			},
+			"id": "pokemon_palkia",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Palkia",
+				"lore_desc": "A legendary Pokémon that lives in a spatial rift and has the ability to distort space itself.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Spatial Lord",
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Dragon",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Incineroar",
+						"difficulty": "Easy",
+						"explanation": "Incineroar is the final evolution of Litten, the Fire-type starter from the Alola region.",
+						"image_url": "https://skillcheckgame.com/assets/images/incineroar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Squirtle",
+							"Bulbasaur"
+						]
+					},
+					{
+						"correct": "Incineroar",
+						"difficulty": "Easy",
+						"explanation": "Known as the 'Heel Pokémon,' it often ignores its trainer's commands to taunt the crowd.",
+						"image_url": "https://skillcheckgame.com/assets/images/incineroar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Blastoise",
+							"Venusaur"
+						]
+					},
+					{
+						"correct": "Incineroar",
+						"difficulty": "Medium",
+						"explanation": "Despite its wrestling theme, it is a Fire/Dark type, not Fire/Fighting.",
+						"image_url": "https://skillcheckgame.com/assets/images/incineroar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blaziken",
+							"Emboar",
+							"Infernape"
+						]
+					},
+					{
+						"correct": "Incineroar",
+						"difficulty": "Medium",
+						"explanation": "Incineroar's popularity grew even further after it was added to the roster of Super Smash Bros. Ultimate.",
+						"image_url": "https://skillcheckgame.com/assets/images/incineroar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Decidueye",
+							"Primarina",
+							"Machamp"
+						]
+					},
+					{
+						"correct": "Incineroar",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is defined by its bulky upper body, flaming belt, and its signature 'wrestling' pose.",
+						"image_url": "https://skillcheckgame.com/assets/images/incineroar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Zoroark",
+							"Pangoro",
+							"Ursaluna"
+						]
+					}
+				]
+			},
+			"id": "pokemon_incineroar",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Incineroar",
+				"lore_desc": "A bipedal, muscular feline Pokémon that acts like a 'heel' professional wrestler.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Heel Wrestler",
+			"profiler": {
+				"vibe_tags": [
+					"Fire",
+					"Dark",
+					"Alola"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Bulbasaur",
+						"difficulty": "Easy",
+						"explanation": "Bulbasaur is the very first entry in the National Pokedex and is unique for being a dual-type Grass/Poison starter.",
+						"image_url": "https://skillcheckgame.com/assets/images/bulbasaur.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machamp",
+							"Kyogre",
+							"Rayquaza"
+						]
+					},
+					{
+						"correct": "Bulbasaur",
+						"difficulty": "Easy",
+						"explanation": "The bulb on its back functions as a nutrient store, allowing it to go for days without eating by utilizing photosynthesis.",
+						"image_url": "https://skillcheckgame.com/assets/images/bulbasaur.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Onix",
+							"Mewtwo"
+						]
+					},
+					{
+						"correct": "Bulbasaur",
+						"difficulty": "Medium",
+						"explanation": "In the anime, Ash's Bulbasaur was a natural leader among the Pokemon at the Hidden Village before joining his team.",
+						"image_url": "https://skillcheckgame.com/assets/images/bulbasaur.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Oddish",
+							"Paras",
+							"Tangela"
+						]
+					},
+					{
+						"correct": "Bulbasaur",
+						"difficulty": "Medium",
+						"explanation": "Bulbasaur's name is a portmanteau of 'bulb' and 'dinosaur', referencing its reptilian appearance and the plant on its back.",
+						"image_url": "https://skillcheckgame.com/assets/images/bulbasaur.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Turtwig",
+							"Squirtle",
+							"Charmander"
+						]
+					},
+					{
+						"correct": "Bulbasaur",
+						"difficulty": "Hard",
+						"explanation": "While it looks like a toad or a dinosaur, its silhouette is defined by the rounded bulb that hasn't yet bloomed into a flower.",
+						"image_url": "https://skillcheckgame.com/assets/images/bulbasaur.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ivysaur",
+							"Venusaur",
+							"Chikorita"
+						]
+					}
+				]
+			},
+			"id": "pokemon_bulbasaur",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Bulbasaur",
+				"lore_desc": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Seed Starter",
+			"profiler": {
+				"vibe_tags": [
+					"Grass",
+					"Starter",
+					"Kanto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Squirtle",
+						"difficulty": "Easy",
+						"explanation": "Squirtle is the Water-type starter from the Kanto region, famous for its curly tail and rounded shell.",
+						"image_url": "https://skillcheckgame.com/assets/images/squirtle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Onix",
+							"Gyarados",
+							"Steelix"
+						]
+					},
+					{
+						"correct": "Squirtle",
+						"difficulty": "Easy",
+						"explanation": "The 'Squirtle Squad' was a group of rogue Squirtle in the anime that wore sunglasses and eventually became firefighters.",
+						"image_url": "https://skillcheckgame.com/assets/images/squirtle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machamp",
+							"Dragonite",
+							"Alakazam"
+						]
+					},
+					{
+						"correct": "Squirtle",
+						"difficulty": "Medium",
+						"explanation": "Squirtle's shell is not just for protection; its grooved shape helps minimize resistance in water so it can swim at high speeds.",
+						"image_url": "https://skillcheckgame.com/assets/images/squirtle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Wartortle",
+							"Torkoal",
+							"Piplup"
+						]
+					},
+					{
+						"correct": "Squirtle",
+						"difficulty": "Medium",
+						"explanation": "When it retracts its long neck into its shell, it squirts out water with vigorous force through any opening.",
+						"image_url": "https://skillcheckgame.com/assets/images/squirtle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mudkip",
+							"Froakie",
+							"Totodile"
+						]
+					},
+					{
+						"correct": "Squirtle",
+						"difficulty": "Hard",
+						"explanation": "Squirtle's silhouette is distinguished from Totodile by its lack of back spikes and its distinctively curled tail.",
+						"image_url": "https://skillcheckgame.com/assets/images/squirtle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Wartortle",
+							"Chewtle",
+							"Totodile"
+						]
+					}
+				]
+			},
+			"id": "pokemon_squirtle",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Squirtle",
+				"lore_desc": "After birth, its back swells and hardens into a shell. It powerfully sprays foam from its mouth.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Tiny Turtle",
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Starter",
+					"Kanto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Meowth",
+						"difficulty": "Easy",
+						"explanation": "Meowth is the only Pokemon in the anime capable of fluent human speech, which it learned to impress a female Meowth named Meowzie.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Gyarados",
+							"Snorlax",
+							"Blastoise"
+						]
+					},
+					{
+						"correct": "Meowth",
+						"difficulty": "Easy",
+						"explanation": "The gold coin on its head is called an Amulet Coin, and it is the signature user of the move Pay Day.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machamp",
+							"Venusaur",
+							"Lugia"
+						]
+					},
+					{
+						"correct": "Meowth",
+						"difficulty": "Medium",
+						"explanation": "Meowth is nocturnal by nature and is known to be the arch-rival of Pikachu in the long-running animated series.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Persian",
+							"Skitty",
+							"Purrloin"
+						]
+					},
+					{
+						"correct": "Meowth",
+						"difficulty": "Medium",
+						"explanation": "Meowth has different regional forms in Alola and Galar, reflecting its adaptability to different environments.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Glameow",
+							"Espurr",
+							"Litten"
+						]
+					},
+					{
+						"correct": "Meowth",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette features distinct four whiskers and a curled tail, helping players differentiate it from other feline Pokemon.",
+						"image_url": "https://skillcheckgame.com/assets/images/meowth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Galarian Meowth",
+							"Skitty",
+							"Espurr"
+						]
+					}
+				]
+			},
+			"id": "pokemon_meowth",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Meowth",
+				"lore_desc": "It loves shiny things. It often wanders cities looking for loose change to add to its collection.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Scratch Cat",
+			"profiler": {
+				"vibe_tags": [
+					"Normal",
+					"Cat",
+					"Kanto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Psyduck",
+						"difficulty": "Easy",
+						"explanation": "Psyduck is a pure Water-type, though it is often confused for a Psychic-type due to its signature headache-induced powers.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Steelix",
+							"Onix",
+							"Rayquaza"
+						]
+					},
+					{
+						"correct": "Psyduck",
+						"difficulty": "Easy",
+						"explanation": "Misty's Psyduck in the anime was famous for popping out of its Poke Ball at the most inconvenient times.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machamp",
+							"Snorlax",
+							"Gyarados"
+						]
+					},
+					{
+						"correct": "Psyduck",
+						"difficulty": "Medium",
+						"explanation": "When Psyduck uses its mysterious power, it has no recollection of doing so, which is why it always looks confused.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Golduck",
+							"Quaxly",
+							"Ludicolo"
+						]
+					},
+					{
+						"correct": "Psyduck",
+						"difficulty": "Medium",
+						"explanation": "Despite its vacant expression, it can generate brain waves that are normally only seen in sleepers.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slowpoke",
+							"Ducklett",
+							"Magby"
+						]
+					},
+					{
+						"correct": "Psyduck",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is unique because of the three stray hairs on its head and its perpetual 'hands-on-head' migraine pose.",
+						"image_url": "https://skillcheckgame.com/assets/images/psyduck.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Golduck",
+							"Ducklett",
+							"Magby"
+						]
+					}
+				]
+			},
+			"id": "pokemon_psyduck",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Psyduck",
+				"lore_desc": "It is constantly beset by headaches. When the headache becomes intense, it begins using mysterious powers.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Migraine Mallard",
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Duck",
+					"Kanto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Lapras",
+						"difficulty": "Easy",
+						"explanation": "Lapras was the iconic surfing sprite in the early Pokemon games, representing the move Surf before unique sprites were added.",
+						"image_url": "https://skillcheckgame.com/assets/images/lapras.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Scizor",
+							"Alakazam"
+						]
+					},
+					{
+						"correct": "Lapras",
+						"difficulty": "Easy",
+						"explanation": "Lapras is known to sing beautiful songs to communicate with others of its kind across vast ocean distances.",
+						"image_url": "https://skillcheckgame.com/assets/images/lapras.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machoke",
+							"Gengar",
+							"Lucario"
+						]
+					},
+					{
+						"correct": "Lapras",
+						"difficulty": "Medium",
+						"explanation": "Due to overhunting by humans, Lapras was once considered near extinction, but its numbers have recently rebounded.",
+						"image_url": "https://skillcheckgame.com/assets/images/lapras.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mantine",
+							"Torkoal",
+							"Cloyster"
+						]
+					},
+					{
+						"correct": "Lapras",
+						"difficulty": "Medium",
+						"explanation": "In Pokemon Gold and Silver, Lapras could only be found in Union Cave on Fridays, making it a rare encounter.",
+						"image_url": "https://skillcheckgame.com/assets/images/lapras.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dewgong",
+							"Avalugg",
+							"Walrein"
+						]
+					},
+					{
+						"correct": "Lapras",
+						"difficulty": "Hard",
+						"explanation": "The silhouette is defined by its long neck and the large, bumpy shell on its back which humans sit upon to traverse oceans.",
+						"image_url": "https://skillcheckgame.com/assets/images/lapras.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lugia",
+							"Avalugg",
+							"Carracosta"
+						]
+					}
+				]
+			},
+			"id": "pokemon_lapras",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Lapras",
+				"lore_desc": "A gentle soul that can read the minds of humans. It can ferry people across the sea on its back.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Transport Ferry",
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Ice",
+					"Kanto"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Machamp",
+						"difficulty": "Easy",
+						"explanation": "Machamp can only be obtained by trading a Machoke, a mechanic introduced in the first generation of games.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Voltorb",
+							"Diglett",
+							"Gastly"
+						]
+					},
+					{
+						"correct": "Machamp",
+						"difficulty": "Easy",
+						"explanation": "Each of its four arms has a mind of its own, allowing it to perform multiple complex tasks simultaneously.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Eevee",
+							"Jigglypuff"
+						]
+					},
+					{
+						"correct": "Machamp",
+						"difficulty": "Medium",
+						"explanation": "Machamp wears a belt that looks like a championship wrestling belt; this actually helps regulate its immense power.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Hariyama",
+							"Nidoking",
+							"Aggron"
+						]
+					},
+					{
+						"correct": "Machamp",
+						"difficulty": "Medium",
+						"explanation": "It is said that Machamp can move a mountain with just one of its four extremely muscular arms.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Conkeldurr",
+							"Poliwrath",
+							"Primeape"
+						]
+					},
+					{
+						"correct": "Machamp",
+						"difficulty": "Hard",
+						"explanation": "The key to identifying Machamp's silhouette is the distinct four-arm layout and the fins on top of its head.",
+						"image_url": "https://skillcheckgame.com/assets/images/machamp.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machoke",
+							"Grapploct",
+							"Gurdurr"
+						]
+					}
+				]
+			},
+			"id": "pokemon_machamp",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Machamp",
+				"lore_desc": "Its four rugged arms can launch a flurry of 1,000 punches in just two seconds.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Superpower Fighter",
+			"profiler": {
+				"vibe_tags": [
+					"Fighting",
+					"Kanto",
+					"Multi-Arm"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Articuno",
+						"difficulty": "Easy",
+						"explanation": "Articuno is the first of the three Legendary Birds of Kanto, with a name derived from 'Arctic' and the Spanish word for one, 'uno'.",
+						"image_url": "https://skillcheckgame.com/assets/images/articuno.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Diglett",
+							"Geodude",
+							"Chansey"
+						]
+					},
+					{
+						"correct": "Articuno",
+						"difficulty": "Easy",
+						"explanation": "It is said to appear to doomed people who are lost in icy mountains to guide them to safety.",
+						"image_url": "https://skillcheckgame.com/assets/images/articuno.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Squirtle",
+							"Bulbasaur",
+							"Meowth"
+						]
+					},
+					{
+						"correct": "Articuno",
+						"difficulty": "Medium",
+						"explanation": "Articuno has a Galarian form that is Psychic/Flying type, where it uses its eyes to fire beams of psychic energy.",
+						"image_url": "https://skillcheckgame.com/assets/images/articuno.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Zapdos",
+							"Moltres",
+							"Fearow"
+						]
+					},
+					{
+						"correct": "Articuno",
+						"difficulty": "Medium",
+						"explanation": "When Articuno flaps its wings, it chills the moisture in the air, causing snow to fall even in clear weather.",
+						"image_url": "https://skillcheckgame.com/assets/images/articuno.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pidgeot",
+							"Skarmory",
+							"Altaria"
+						]
+					},
+					{
+						"correct": "Articuno",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is distinguished by the three-feathered crest on its head and its exceptionally long, ribbon-like tail.",
+						"image_url": "https://skillcheckgame.com/assets/images/articuno.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Moltres",
+							"Pidgeot",
+							"Swanna"
+						]
+					}
+				]
+			},
+			"id": "pokemon_articuno",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Articuno",
+				"lore_desc": "One of the legendary bird Pokémon. It freezes water contained in winter air to make it snow.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Freeze Legend",
+			"profiler": {
+				"vibe_tags": [
+					"Ice",
+					"Flying",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Zapdos",
+						"difficulty": "Easy",
+						"explanation": "Zapdos is the Electric-type member of the Kanto Legendary Birds, often found in the Power Plant.",
+						"image_url": "https://skillcheckgame.com/assets/images/zapdos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Snorlax",
+							"Onix",
+							"Blastoise"
+						]
+					},
+					{
+						"correct": "Zapdos",
+						"difficulty": "Easy",
+						"explanation": "Its name comes from the sound of electricity ('Zap') and the Spanish word for two, 'dos'.",
+						"image_url": "https://skillcheckgame.com/assets/images/zapdos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machamp",
+							"Gengar",
+							"Alakazam"
+						]
+					},
+					{
+						"correct": "Zapdos",
+						"difficulty": "Medium",
+						"explanation": "Zapdos is the only member of the original legendary bird trio that has a type advantage over both its counterparts.",
+						"image_url": "https://skillcheckgame.com/assets/images/zapdos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Articuno",
+							"Moltres",
+							"Skarmory"
+						]
+					},
+					{
+						"correct": "Zapdos",
+						"difficulty": "Medium",
+						"explanation": "In its Galarian form, Zapdos loses its ability to fly well but gains incredible running speed and the Fighting type.",
+						"image_url": "https://skillcheckgame.com/assets/images/zapdos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Fearow",
+							"Corviknight",
+							"Braviary"
+						]
+					},
+					{
+						"correct": "Zapdos",
+						"difficulty": "Hard",
+						"explanation": "The silhouette is easily identified by its sharp, angular, and jagged wing edges that mimic the shape of lightning bolts.",
+						"image_url": "https://skillcheckgame.com/assets/images/zapdos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Moltres",
+							"Fearow",
+							"Corviknight"
+						]
+					}
+				]
+			},
+			"id": "pokemon_zapdos",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Zapdos",
+				"lore_desc": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Storm Bird",
+			"profiler": {
+				"vibe_tags": [
+					"Electric",
+					"Flying",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Moltres",
+						"difficulty": "Easy",
+						"explanation": "Moltres is the Fire-type Legendary Bird of Kanto, with a name ending in 'tres', the Spanish word for three.",
+						"image_url": "https://skillcheckgame.com/assets/images/moltres.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Psyduck",
+							"Meowth",
+							"Machamp"
+						]
+					},
+					{
+						"correct": "Moltres",
+						"difficulty": "Easy",
+						"explanation": "It is said that the arrival of Moltres signals the coming of spring to cold, winter regions.",
+						"image_url": "https://skillcheckgame.com/assets/images/moltres.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bulbasaur",
+							"Squirtle",
+							"Snorlax"
+						]
+					},
+					{
+						"correct": "Moltres",
+						"difficulty": "Medium",
+						"explanation": "Moltres can heal itself by dipping its body into the molten magma of an active volcano.",
+						"image_url": "https://skillcheckgame.com/assets/images/moltres.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Articuno",
+							"Zapdos",
+							"Talonflame"
+						]
+					},
+					{
+						"correct": "Moltres",
+						"difficulty": "Medium",
+						"explanation": "Galarian Moltres is Dark/Flying type and radiates an aura that saps the energy of its opponents.",
+						"image_url": "https://skillcheckgame.com/assets/images/moltres.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Fearow",
+							"Ho-Oh",
+							"Pidgeot"
+						]
+					},
+					{
+						"correct": "Moltres",
+						"difficulty": "Hard",
+						"explanation": "Its silhouette is characterized by its thin, elegant neck and the 'flowy' nature of its wings and tail, which represent fire.",
+						"image_url": "https://skillcheckgame.com/assets/images/moltres.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Zapdos",
+							"Ho-Oh",
+							"Fearow"
+						]
+					}
+				]
+			},
+			"id": "pokemon_moltres",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Moltres",
+				"lore_desc": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flare of flames.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Phoenix Flame",
+			"profiler": {
+				"vibe_tags": [
+					"Fire",
+					"Flying",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dragonair",
+						"difficulty": "Easy",
+						"explanation": "Dragonair is the middle evolution of the Dratini line and was one of the few Dragon-types in the first generation.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonair.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Golem",
+							"Machamp",
+							"Blastoise"
+						]
+					},
+					{
+						"correct": "Dragonair",
+						"difficulty": "Easy",
+						"explanation": "Dragonair stores an enormous amount of energy inside its body, which it can release through the crystal beads on its neck and tail.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonair.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Eevee",
+							"Meowth"
+						]
+					},
+					{
+						"correct": "Dragonair",
+						"difficulty": "Medium",
+						"explanation": "Despite not having wings, Dragonair has been seen flying through the air as if floating in water.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonair.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dratini",
+							"Milotic",
+							"Gyarados"
+						]
+					},
+					{
+						"correct": "Dragonair",
+						"difficulty": "Medium",
+						"explanation": "It is often called the 'divine Pokémon' by people living on the coast who rely on it for favorable weather.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonair.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Serperior",
+							"Arbok",
+							"Dragonite"
+						]
+					},
+					{
+						"correct": "Dragonair",
+						"difficulty": "Hard",
+						"explanation": "Dragonair's silhouette is sleek and serpentine, featuring small wings on its head and a horn on its forehead.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragonair.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dratini",
+							"Serperior",
+							"Milotic"
+						]
+					}
+				]
+			},
+			"id": "pokemon_dragonair",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Dragonair",
+				"lore_desc": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Sea Serpent",
+			"profiler": {
+				"vibe_tags": [
+					"Dragon",
+					"Kanto",
+					"Serpent"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Tyranitar",
+						"difficulty": "Easy",
+						"explanation": "Tyranitar is a Pseudo-Legendary Pokémon from the Johto region, known for its massive Attack and Defense stats.",
+						"image_url": "https://skillcheckgame.com/assets/images/tyranitar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Oddish",
+							"Jigglypuff"
+						]
+					},
+					{
+						"correct": "Tyranitar",
+						"difficulty": "Easy",
+						"explanation": "Tyranitar's appearance is often compared to Godzilla, the king of movie monsters.",
+						"image_url": "https://skillcheckgame.com/assets/images/tyranitar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Squirtle",
+							"Bulbasaur",
+							"Meowth"
+						]
+					},
+					{
+						"correct": "Tyranitar",
+						"difficulty": "Medium",
+						"explanation": "Upon entering battle, Tyranitar's Sand Stream ability creates a sandstorm that buffers its Rock-type Special Defense.",
+						"image_url": "https://skillcheckgame.com/assets/images/tyranitar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Aggron",
+							"Rhyperior",
+							"Nidoking"
+						]
+					},
+					{
+						"correct": "Tyranitar",
+						"difficulty": "Medium",
+						"explanation": "Its body is so tough that it is said no attack can even leave a scratch on it.",
+						"image_url": "https://skillcheckgame.com/assets/images/tyranitar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Garchomp",
+							"Baxcalibur",
+							"Metagross"
+						]
+					},
+					{
+						"correct": "Tyranitar",
+						"difficulty": "Hard",
+						"explanation": "Tyranitar's silhouette is distinct due to its bulky bipedal stance, triangular back spikes, and thick, powerful tail.",
+						"image_url": "https://skillcheckgame.com/assets/images/tyranitar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Aggron",
+							"Feraligatr",
+							"Baxcalibur"
+						]
+					}
+				]
+			},
+			"id": "pokemon_tyranitar",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Tyranitar",
+				"lore_desc": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Armor Kaiju",
+			"profiler": {
+				"vibe_tags": [
+					"Rock",
+					"Dark",
+					"Pseudo-Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Salamence",
+						"difficulty": "Easy",
+						"explanation": "Salamence is a powerful Dragon/Flying type Pokémon introduced in the Hoenn region.",
+						"image_url": "https://skillcheckgame.com/assets/images/salamence.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Meowth",
+							"Squirtle",
+							"Bulbasaur"
+						]
+					},
+					{
+						"correct": "Salamence",
+						"difficulty": "Easy",
+						"explanation": "In Pokémon Omega Ruby and Alpha Sapphire, Salamence gained a Mega Evolution that turned its wings into a crescent-moon shape.",
+						"image_url": "https://skillcheckgame.com/assets/images/salamence.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Snorlax",
+							"Eevee"
+						]
+					},
+					{
+						"correct": "Salamence",
+						"difficulty": "Medium",
+						"explanation": "Salamence is known for its short temper and will rampage if it becomes enraged.",
+						"image_url": "https://skillcheckgame.com/assets/images/salamence.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dragonite",
+							"Noivern",
+							"Druddigon"
+						]
+					},
+					{
+						"correct": "Salamence",
+						"difficulty": "Medium",
+						"explanation": "It expresses its joy at having wings by flying all over the sky and breathing fire.",
+						"image_url": "https://skillcheckgame.com/assets/images/salamence.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Flygon",
+							"Garchomp",
+							"Rayquaza"
+						]
+					},
+					{
+						"correct": "Salamence",
+						"difficulty": "Hard",
+						"explanation": "Salamence's silhouette is best recognized by its large, red crescent-shaped wings and its sturdy quadrupedal body.",
+						"image_url": "https://skillcheckgame.com/assets/images/salamence.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dragonite",
+							"Flygon",
+							"Hydreigon"
+						]
+					}
+				]
+			},
+			"id": "pokemon_salamence",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Salamence",
+				"lore_desc": "It evolved from a Bagon that spent its life dreaming of flight. Its cells mutated into wings.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Winged Dreamer",
+			"profiler": {
+				"vibe_tags": [
+					"Dragon",
+					"Flying",
+					"Pseudo-Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Kyogre",
+						"difficulty": "Easy",
+						"explanation": "Kyogre is the mascot of Pokémon Sapphire and is the arch-rival of Groudon.",
+						"image_url": "https://skillcheckgame.com/assets/images/kyogre.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Meowth",
+							"Eevee"
+						]
+					},
+					{
+						"correct": "Kyogre",
+						"difficulty": "Easy",
+						"explanation": "Kyogre can undergo Primal Reversion to become Primal Kyogre, regaining its true strength through the Blue Orb.",
+						"image_url": "https://skillcheckgame.com/assets/images/kyogre.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Machamp",
+							"Alakazam",
+							"Lucario"
+						]
+					},
+					{
+						"correct": "Kyogre",
+						"difficulty": "Medium",
+						"explanation": "It is said to live in a deep-sea trench where it sleeps until it is summoned by the Blue Orb.",
+						"image_url": "https://skillcheckgame.com/assets/images/kyogre.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Groudon",
+							"Wailord",
+							"Sharpedo"
+						]
+					},
+					{
+						"correct": "Kyogre",
+						"difficulty": "Medium",
+						"explanation": "Kyogre's Drizzle ability automatically causes rain to fall as soon as it enters the battlefield.",
+						"image_url": "https://skillcheckgame.com/assets/images/kyogre.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lugia",
+							"Palkia",
+							"Manaphy"
+						]
+					},
+					{
+						"correct": "Kyogre",
+						"difficulty": "Hard",
+						"explanation": "Kyogre's silhouette is whale-like but has massive, hand-shaped pectoral fins with four distinct 'finger' tips.",
+						"image_url": "https://skillcheckgame.com/assets/images/kyogre.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Wailord",
+							"Dondozo",
+							"Mantine"
+						]
+					}
+				]
+			},
+			"id": "pokemon_kyogre",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Kyogre",
+				"lore_desc": "A legendary Pokémon said to have expanded the seas by covering the world with torrential rains.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ocean Lord",
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Hoenn",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Groudon",
+						"difficulty": "Easy",
+						"explanation": "Groudon is the mascot of Pokémon Ruby and is known for its mastery over the earth.",
+						"image_url": "https://skillcheckgame.com/assets/images/groudon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Jigglypuff",
+							"Diglett",
+							"Meowth"
+						]
+					},
+					{
+						"correct": "Groudon",
+						"difficulty": "Easy",
+						"explanation": "When Groudon undergoes Primal Reversion, it gains the Fire type and becomes immune to Water attacks via its Desolate Land ability.",
+						"image_url": "https://skillcheckgame.com/assets/images/groudon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Squirtle",
+							"Psyduck",
+							"Pikachu"
+						]
+					},
+					{
+						"correct": "Groudon",
+						"difficulty": "Medium",
+						"explanation": "Groudon was said to have battled Kyogre in ancient times to create the land and the sea.",
+						"image_url": "https://skillcheckgame.com/assets/images/groudon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kyogre",
+							"Rhyperior",
+							"Aggron"
+						]
+					},
+					{
+						"correct": "Groudon",
+						"difficulty": "Medium",
+						"explanation": "It sleeps deep underground in magma chambers, and its movement is said to cause volcanic eruptions.",
+						"image_url": "https://skillcheckgame.com/assets/images/groudon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Nidoking",
+							"Tyranitar",
+							"Dialga"
+						]
+					},
+					{
+						"correct": "Groudon",
+						"difficulty": "Hard",
+						"explanation": "Groudon's silhouette is distinguished by its heavy armor plates, massive claws, and the row of spikes running down its tail.",
+						"image_url": "https://skillcheckgame.com/assets/images/groudon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Rhydon",
+							"Aggron",
+							"Nidoking"
+						]
+					}
+				]
+			},
+			"id": "pokemon_groudon",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Groudon",
+				"lore_desc": "Said to have expanded the continents by evaporating water with intense heat.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Land Maker",
+			"profiler": {
+				"vibe_tags": [
+					"Ground",
+					"Hoenn",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Decidueye",
+						"difficulty": "Easy",
+						"explanation": "Decidueye is the final evolution of Rowlet, the Grass-type starter from the Alola region.",
+						"image_url": "https://skillcheckgame.com/assets/images/decidueye.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Voltorb",
+							"Exeggcute",
+							"Ditto"
+						]
+					},
+					{
+						"correct": "Decidueye",
+						"difficulty": "Easy",
+						"explanation": "Its signature move, Spirit Shackle, prevents the opponent from fleeing or switching out of battle.",
+						"image_url": "https://skillcheckgame.com/assets/images/decidueye.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Snorlax",
+							"Machamp"
+						]
+					},
+					{
+						"correct": "Decidueye",
+						"difficulty": "Medium",
+						"explanation": "Decidueye's design is inspired by the extinct stilt-owl and the legendary archer Robin Hood.",
+						"image_url": "https://skillcheckgame.com/assets/images/decidueye.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Noctowl",
+							"Xatu",
+							"Corviknight"
+						]
+					},
+					{
+						"correct": "Decidueye",
+						"difficulty": "Medium",
+						"explanation": "It uses its wing quills like arrows and its wing strings like a bow to strike with pinpoint accuracy.",
+						"image_url": "https://skillcheckgame.com/assets/images/decidueye.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dartrix",
+							"Sirfetch'd",
+							"Greninja"
+						]
+					},
+					{
+						"correct": "Decidueye",
+						"difficulty": "Hard",
+						"explanation": "Decidueye's silhouette features a 'hood' formed by its feathers and a distinct leaf-shaped 'mask' over its eyes.",
+						"image_url": "https://skillcheckgame.com/assets/images/decidueye.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Hisuian Decidueye",
+							"Dartrix",
+							"Rowlet"
+						]
+					}
+				]
+			},
+			"id": "pokemon_decidueye",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Decidueye",
+				"lore_desc": "It nocks wing quills and shoots them at foes. It can nock and fire an arrow in a tenth of a second.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ghostly Archer",
+			"profiler": {
+				"vibe_tags": [
+					"Grass",
+					"Ghost",
+					"Alola"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sylveon",
+						"difficulty": "Easy",
+						"explanation": "Sylveon was the first Pokémon introduced to showcase the new Fairy type in the Kalos region.",
+						"image_url": "https://skillcheckgame.com/assets/images/sylveon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Steelix",
+							"Onix",
+							"Machamp"
+						]
+					},
+					{
+						"correct": "Sylveon",
+						"difficulty": "Easy",
+						"explanation": "To evolve Eevee into Sylveon, a Trainer must have a high bond of friendship and teach it a Fairy-type move.",
+						"image_url": "https://skillcheckgame.com/assets/images/sylveon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Gyarados",
+							"Dragonite",
+							"Alakazam"
+						]
+					},
+					{
+						"correct": "Sylveon",
+						"difficulty": "Medium",
+						"explanation": "Its feelers emit a soothing aura that can neutralize hostility and calm even the most violent battles.",
+						"image_url": "https://skillcheckgame.com/assets/images/sylveon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Umbreon",
+							"Espeon",
+							"Flareon"
+						]
+					},
+					{
+						"correct": "Sylveon",
+						"difficulty": "Medium",
+						"explanation": "Sylveon is the only Eeveelution that requires the Affection mechanic (or high Friendship) to evolve.",
+						"image_url": "https://skillcheckgame.com/assets/images/sylveon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Glaceon",
+							"Leafeon",
+							"Jolteon"
+						]
+					},
+					{
+						"correct": "Sylveon",
+						"difficulty": "Hard",
+						"explanation": "The silhouette of Sylveon is best identified by the long, flowing ribbons that extend from the bows on its neck and ear.",
+						"image_url": "https://skillcheckgame.com/assets/images/sylveon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Vaporeon",
+							"Flareon",
+							"Leafeon"
+						]
+					}
+				]
+			},
+			"id": "pokemon_sylveon",
+			"meta": {
+				"date_added": "2026-03-17",
+				"entity_category": "Theme Item",
+				"full_title": "Sylveon",
+				"lore_desc": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with them.",
+				"theme_origin": "pokemon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ribbon Dancer",
+			"profiler": {
+				"vibe_tags": [
+					"Fairy",
+					"Kalos",
+					"Eeveelution"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -59803,7 +62459,116 @@
 		},
 		{
 			"id": "pokemon",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Articuno",
+						"Zapdos",
+						"Moltres"
+					],
+					"name": "The Elemental Avatars"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Tyranitar",
+						"Salamence",
+						"Metagross"
+					],
+					"name": "Apex Potential"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Dialga",
+						"Palkia",
+						"Darkrai"
+					],
+					"name": "Fabric of the Universe"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Bulbasaur",
+						"Squirtle",
+						"Mudkip"
+					],
+					"name": "The First Companions"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Groudon",
+						"Kyogre"
+					],
+					"name": "Primal Cataclysm"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ho_Oh",
+						"Lugia"
+					],
+					"name": "Towers of Old"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Darkrai",
+						"Jigglypuff"
+					],
+					"name": "Deep Slumber"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Scizor",
+						"Tinkaton"
+					],
+					"name": "Forged in Iron"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Palkia",
+						"Dialga"
+					],
+					"name": "Ties of Time and Space"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Blaziken",
+						"Incineroar"
+					],
+					"name": "Fighter's Spirit"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Dragonair",
+						"Gyarados"
+					],
+					"name": "Serpent's Wrath"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sylveon",
+						"Tinkaton"
+					],
+					"name": "Fairy's Menace"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Bulbasaur",
+						"Decidueye"
+					],
+					"name": "Forest Shadows"
+				}
+			]
 		}
 	],
 	"titles": {
