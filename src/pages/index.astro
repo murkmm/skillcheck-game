@@ -54,8 +54,17 @@ import Layout from '~/layouts/Layout.astro';
 
     /* Mobile: game is fullscreen, hide everything else */
     @media (max-width: 767px) {
+      body,
+      html,
+      main,
+      .hero-section > * {
+        margin: 0 !important;
+        padding: 0 !important;
+      }
       .hero-section {
-        padding: 0;
+        padding: 0 !important;
+        margin: 0 !important;
+        /* ... rest of existing rules ... */
         min-height: 100dvh;
         justify-content: stretch;
         position: fixed;
@@ -66,18 +75,21 @@ import Layout from '~/layouts/Layout.astro';
         display: none !important;
       }
       .game-wrapper {
-        width: 100vw;
-        height: 100dvh;
-        max-width: none;
-        max-height: none;
-        aspect-ratio: auto;
+        width: 100vw !important;
+        height: 100dvh !important;
+        max-width: 100vw !important;
+        max-height: 100dvh !important;
+        aspect-ratio: unset !important;
         border-radius: 0 !important;
         border: none !important;
         box-shadow: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
       }
       .game-wrapper .game-frame-container {
         border-radius: 0 !important;
         border: none !important;
+        box-shadow: none !important;
       }
       .below-fold {
         display: none !important;
