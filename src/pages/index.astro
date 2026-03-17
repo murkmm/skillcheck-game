@@ -2,37 +2,467 @@
 import Layout from '~/layouts/Layout.astro';
 ---
 
-<Layout metadata={{ title: 'Skill Check - Play Now' }}>
-  <!-- Hosted locally to bypass COEP/CORP issues -->
+<Layout
+  metadata={{
+    title: 'Skill Check - Daily Trivia Card Game',
+    description:
+      'A daily trivia card game. Collect cartridges, discover synergies, and test your knowledge across gaming universes. New challenge every day.',
+  }}
+>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap');
 
-  <main
-    class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#050508] md:relative md:min-h-screen md:z-auto md:py-8 overflow-hidden md:overflow-auto"
-  >
-    <div id="game-container" class="relative w-full h-full md:h-[85vh] md:max-w-[450px] mx-auto shrink-0">
-      <div
-        class="w-full h-full bg-[#0a0a0c] md:rounded-2xl overflow-hidden shadow-[0_0_40px_rgba(0,0,0,0.8)] border border-transparent md:border-[#2a2a35]"
-      >
+    :root {
+      --bg-deep: #050508;
+      --bg-surface: #0a0a0c;
+      --bg-card: #151518;
+      --border: #2a2a35;
+      --text-main: #ffffff;
+      --text-dim: #888899;
+      --accent: #00e5ff;
+      --accent-glow: rgba(0, 229, 255, 0.15);
+      --warning: #ffcc00;
+      --success: #00ff88;
+      --danger: #ff4466;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Outfit', sans-serif;
+      background: var(--bg-deep);
+      color: var(--text-main);
+      margin: 0;
+      overflow-x: hidden;
+    }
+
+    /* ===== HERO / GAME SECTION ===== */
+    .hero-section {
+      position: relative;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1rem;
+      background:
+        radial-gradient(ellipse at 50% 0%, rgba(0, 229, 255, 0.06) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 80%, rgba(255, 204, 0, 0.04) 0%, transparent 50%), var(--bg-deep);
+    }
+
+    /* Mobile: game is fullscreen, hide everything else */
+    @media (max-width: 767px) {
+      .hero-section {
+        padding: 0;
+        min-height: 100dvh;
+        justify-content: stretch;
+      }
+      .hero-content {
+        display: none !important;
+      }
+      .game-wrapper {
+        width: 100%;
+        height: 100dvh;
+        max-width: none;
+        border-radius: 0 !important;
+        border: none !important;
+        box-shadow: none !important;
+      }
+      .game-wrapper .game-frame-container {
+        border-radius: 0 !important;
+        border: none !important;
+      }
+      .below-fold {
+        display: none !important;
+      }
+      .site-footer {
+        display: none !important;
+      }
+    }
+
+    .hero-content {
+      text-align: center;
+      margin-bottom: 2rem;
+      animation: fadeUp 0.8s ease-out;
+    }
+
+    .hero-logo {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 3.5rem;
+      font-weight: 900;
+      letter-spacing: -0.02em;
+      background: linear-gradient(135deg, var(--accent), var(--warning));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin: 0 0 0.5rem 0;
+    }
+
+    .hero-tagline {
+      font-size: 1.15rem;
+      color: var(--text-dim);
+      font-weight: 300;
+      letter-spacing: 0.04em;
+    }
+
+    /* Game iframe container */
+    .game-wrapper {
+      position: relative;
+      width: 100%;
+      max-width: 450px;
+      aspect-ratio: 9 / 16;
+      max-height: 85vh;
+    }
+
+    .game-frame-container {
+      width: 100%;
+      height: 100%;
+      background: var(--bg-surface);
+      border-radius: 1rem;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      box-shadow:
+        0 0 80px rgba(0, 0, 0, 0.8),
+        0 0 40px rgba(0, 229, 255, 0.05);
+    }
+
+    .game-frame-container iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      outline: none;
+    }
+
+    .fullscreen-btn {
+      position: absolute;
+      right: -11rem;
+      bottom: 0;
+      display: none;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.25rem;
+      background: var(--bg-card);
+      color: var(--text-main);
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+      cursor: pointer;
+      font-family: 'Outfit', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      transition: all 0.3s ease;
+    }
+
+    .fullscreen-btn:hover {
+      background: var(--accent);
+      color: var(--bg-deep);
+      border-color: var(--accent);
+    }
+
+    /* When in fullscreen, pin the button inside the container */
+    :fullscreen .fullscreen-btn,
+    :-webkit-full-screen .fullscreen-btn {
+      right: 1rem;
+      bottom: 1rem;
+      position: fixed;
+      z-index: 9999;
+      background: rgba(21, 21, 24, 0.9);
+      backdrop-filter: blur(8px);
+    }
+
+    @media (min-width: 768px) {
+      .fullscreen-btn {
+        display: flex;
+      }
+    }
+
+    /* ===== BELOW THE FOLD ===== */
+    .below-fold {
+      background: var(--bg-deep);
+      padding: 0 1.5rem 4rem;
+    }
+
+    .content-column {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    /* Section divider */
+    .section-divider {
+      width: 100%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--border), transparent);
+      margin: 3rem 0;
+    }
+
+    /* What is Skill Check */
+    .intro-section {
+      text-align: center;
+      padding: 2rem 0;
+    }
+
+    .intro-section h2 {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1.8rem;
+      font-weight: 800;
+      color: var(--warning);
+      margin: 0 0 1rem;
+    }
+
+    .intro-section p {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: var(--text-dim);
+      max-width: 560px;
+      margin: 0 auto;
+    }
+
+    /* Feature cards */
+    .features-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+
+    @media (max-width: 500px) {
+      .features-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .feature-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 1rem;
+      padding: 1.5rem;
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .feature-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent), transparent);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .feature-card:hover::before {
+      opacity: 1;
+    }
+    .feature-card:hover {
+      border-color: rgba(0, 229, 255, 0.3);
+      transform: translateY(-2px);
+    }
+
+    .feature-icon {
+      font-size: 1.8rem;
+      margin-bottom: 0.75rem;
+      display: block;
+    }
+
+    .feature-card h3 {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin: 0 0 0.5rem;
+      letter-spacing: 0.02em;
+    }
+
+    .feature-card p {
+      font-size: 0.88rem;
+      line-height: 1.6;
+      color: var(--text-dim);
+      margin: 0;
+    }
+
+    /* How to play */
+    .howto-section h2 {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--accent);
+      text-align: center;
+      margin: 0 0 2rem;
+    }
+
+    .howto-steps {
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+
+    .howto-step {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: 1.25rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+    }
+
+    .step-number {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1.5rem;
+      font-weight: 900;
+      color: var(--accent);
+      min-width: 2.5rem;
+      text-align: center;
+      line-height: 1;
+      padding-top: 0.15rem;
+    }
+
+    .step-text h4 {
+      font-weight: 700;
+      font-size: 1rem;
+      margin: 0 0 0.25rem;
+      color: var(--text-main);
+    }
+
+    .step-text p {
+      font-size: 0.88rem;
+      color: var(--text-dim);
+      margin: 0;
+      line-height: 1.5;
+    }
+
+    /* Stats bar */
+    .stats-bar {
+      display: flex;
+      justify-content: center;
+      gap: 2.5rem;
+      padding: 2rem 0;
+      text-align: center;
+    }
+
+    .stat-item .stat-value {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: var(--warning);
+      display: block;
+    }
+
+    .stat-item .stat-label {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    /* CTA */
+    .cta-section {
+      text-align: center;
+      padding: 2rem 0;
+    }
+
+    .cta-section p {
+      color: var(--text-dim);
+      font-size: 1rem;
+      margin: 0 0 1.5rem;
+    }
+
+    .cta-btn {
+      display: inline-block;
+      padding: 1rem 2.5rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      font-size: 1rem;
+      letter-spacing: 0.05em;
+      color: var(--bg-deep);
+      background: var(--accent);
+      border: none;
+      border-radius: 0.75rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+    }
+
+    .cta-btn:hover {
+      background: var(--warning);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 30px rgba(255, 204, 0, 0.2);
+    }
+
+    /* Footer */
+    .site-footer {
+      background: var(--bg-surface);
+      border-top: 1px solid var(--border);
+      padding: 2rem 1.5rem;
+      text-align: center;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      color: var(--text-dim);
+      text-decoration: none;
+      font-size: 0.85rem;
+      transition: color 0.2s;
+    }
+
+    .footer-links a:hover {
+      color: var(--accent);
+    }
+
+    .footer-copy {
+      color: var(--text-dim);
+      font-size: 0.78rem;
+      opacity: 0.6;
+    }
+
+    /* Animations */
+    @keyframes fadeUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+
+  <!-- HERO: Game lives here -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <h1 class="hero-logo">SKILL CHECK</h1>
+      <p class="hero-tagline">A daily trivia card game for gaming enthusiasts</p>
+    </div>
+
+    <div id="game-container" class="game-wrapper">
+      <div class="game-frame-container">
         <iframe
           id="game-iframe"
           src="/play/index.html?v=4"
-          class="w-full h-full border-none focus:outline-none"
           allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
           sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"
-          allowfullscreen
-        >
-        </iframe>
+          allowfullscreen></iframe>
       </div>
 
-      <button
-        id="fullscreen-btn"
-        class="absolute -right-40 bottom-0 z-50 px-4 py-3 bg-[#151518] hover:bg-cyan-600 text-white rounded-xl transition-all duration-300 hidden md:flex items-center gap-2 border border-[#2a2a35] shadow-lg"
-        title="Toggle Fullscreen"
-      >
+      <button id="fullscreen-btn" class="fullscreen-btn" title="Toggle Fullscreen">
         <svg
           id="icon-max"
           xmlns="http://www.w3.org/2000/svg"
-          width="20"
-          height="20"
+          width="18"
+          height="18"
           viewBox="0 0 24 24"
           fill="none"
           stroke="currentColor"
@@ -43,10 +473,133 @@ import Layout from '~/layouts/Layout.astro';
           <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"
           ></path>
         </svg>
-        <span id="fullscreen-text" class="text-sm font-bold tracking-wider">FULLSCREEN</span>
+        <span id="fullscreen-text">FULLSCREEN</span>
       </button>
     </div>
-  </main>
+  </section>
+
+  <!-- BELOW THE FOLD: Only visible on desktop -->
+  <div class="below-fold">
+    <div class="content-column">
+      <div class="section-divider"></div>
+
+      <!-- INTRO -->
+      <section class="intro-section">
+        <h2>WHAT IS SKILL CHECK?</h2>
+        <p>
+          Every day brings a new themed challenge drawn from the worlds of gaming. Collect cartridges, slot them into
+          your console, and answer trivia to score points. Combine cards to discover hidden synergies, climb the
+          leaderboard, and build your collection.
+        </p>
+      </section>
+
+      <!-- FEATURES -->
+      <div class="features-grid">
+        <div class="feature-card">
+          <span class="feature-icon">🎴</span>
+          <h3>COLLECT CARTRIDGES</h3>
+          <p>Hundreds of cards spanning iconic gaming franchises. Master them all to complete your collection.</p>
+        </div>
+        <div class="feature-card">
+          <span class="feature-icon">🔗</span>
+          <h3>DISCOVER SYNERGIES</h3>
+          <p>Combine cards from the same universe or theme to unlock powerful score multipliers.</p>
+        </div>
+        <div class="feature-card">
+          <span class="feature-icon">📅</span>
+          <h3>DAILY CHALLENGES</h3>
+          <p>A brand new themed run every day. Build your streak and compete on the global leaderboard.</p>
+        </div>
+        <div class="feature-card">
+          <span class="feature-icon">🏆</span>
+          <h3>CLIMB THE RANKS</h3>
+          <p>Compare scores with players worldwide. Unlock titles, themes, and cosmetics as you progress.</p>
+        </div>
+      </div>
+
+      <div class="section-divider"></div>
+
+      <!-- HOW TO PLAY -->
+      <section class="howto-section">
+        <h2>HOW TO PLAY</h2>
+        <div class="howto-steps">
+          <div class="howto-step">
+            <span class="step-number">01</span>
+            <div class="step-text">
+              <h4>Drag cartridges into the console</h4>
+              <p>Pick from your hand of cards and slot them into the console to begin a trivia round.</p>
+            </div>
+          </div>
+          <div class="howto-step">
+            <span class="step-number">02</span>
+            <div class="step-text">
+              <h4>Combine cards for synergies</h4>
+              <p>Cards from the same franchise or theme unlock bonus multipliers. Experiment to find them all.</p>
+            </div>
+          </div>
+          <div class="howto-step">
+            <span class="step-number">03</span>
+            <div class="step-text">
+              <h4>Answer trivia to score points</h4>
+              <p>Each card generates questions. Answer correctly and quickly for the highest scores.</p>
+            </div>
+          </div>
+          <div class="howto-step">
+            <span class="step-number">04</span>
+            <div class="step-text">
+              <h4>Hit the target to advance</h4>
+              <p>Reach the stage target to progress. Each stage gets harder. Survive as long as you can.</p>
+            </div>
+          </div>
+          <div class="howto-step">
+            <span class="step-number">05</span>
+            <div class="step-text">
+              <h4>Build your collection</h4>
+              <p>Every card you answer correctly gets added to your museum. Master them all to complete the set.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="section-divider"></div>
+
+      <!-- STATS -->
+      <div class="stats-bar">
+        <div class="stat-item">
+          <span class="stat-value">470+</span>
+          <span class="stat-label">Cards to Collect</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value">20+</span>
+          <span class="stat-label">Gaming Universes</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value">DAILY</span>
+          <span class="stat-label">New Challenge</span>
+        </div>
+      </div>
+
+      <div class="section-divider"></div>
+
+      <!-- CTA -->
+      <section class="cta-section">
+        <p>New daily challenge drops at midnight UTC. Don't break your streak.</p>
+        <a href="#game-container" class="cta-btn">PLAY NOW</a>
+      </section>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <nav class="footer-links">
+      <a href="/terms">Terms</a>
+      <a href="/privacy">Privacy</a>
+      <a href="/refunds">Refunds</a>
+      <a href="/about">About</a>
+      <a href="mailto:support@ki10games.com">Support</a>
+    </nav>
+    <p class="footer-copy">&copy; 2026 Ki10 Games. All rights reserved.</p>
+  </footer>
 </Layout>
 
 <script>
@@ -83,13 +636,21 @@ import Layout from '~/layouts/Layout.astro';
     }
   });
 
+  // Handle messages from the game iframe
   window.addEventListener('message', (event) => {
+    // Lemon Squeezy checkout
     if (event.data && event.data.type === 'LEMON_SQUEEZY_CHECKOUT') {
       console.log('[ASTRO] Opening Lemon Squeezy in a new tab...');
       window.open(event.data.url, '_blank');
     }
+    // Generic link opening (privacy, terms, etc.)
+    if (event.data && event.data.type === 'OPEN_LINK') {
+      console.log('[ASTRO] Opening link in new tab:', event.data.url);
+      window.open(event.data.url, '_blank');
+    }
+    // Payment success relay
     if (event.data === 'payment_success') {
-      console.log('[ASTRO] Payment success received from new tab! Telling Godot...');
+      console.log('[ASTRO] Payment success received! Telling Godot...');
       const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement;
       if (gameIframe && gameIframe.contentWindow) {
         gameIframe.contentWindow.postMessage('payment_success', '*');
