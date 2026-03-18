@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773758308,
+	"last_updated": 1773874350,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2291,6 +2291,54 @@
 				"pokemon_sylveon",
 				"pokemon_lapras"
 			]
+		},
+		"2026-03-19": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Final Fantasy 10 Daily",
+			"share_text": "HA HA HA HA HA HA HA",
+			"shops": [
+				{
+					"p1": "strategy_guide",
+					"p2": "save_state"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "piggy_bank"
+				}
+			],
+			"showcase": [
+				"final_fantasy_10_tidus",
+				"final_fantasy_10_yuna",
+				"final_fantasy_10_wakka"
+			],
+			"starters": [
+				"final_fantasy_10_tidus",
+				"final_fantasy_10_yuna",
+				"final_fantasy_10_auron",
+				"final_fantasy_10_sin",
+				"final_fantasy_10_rikku",
+				"final_fantasy_10_lulu",
+				"final_fantasy_10_wakka",
+				"final_fantasy_10_zanarkand",
+				"final_fantasy_10_blitzball",
+				"final_fantasy_10_seymour_guado",
+				"final_fantasy_10_jecht",
+				"final_fantasy_10_the_calm_lands",
+				"final_fantasy_10_bahamut",
+				"final_fantasy_10_besaid_island",
+				"final_fantasy_10_kimahri",
+				"final_fantasy_10_valefor",
+				"final_fantasy_10_anima",
+				"final_fantasy_10_bevelle",
+				"final_fantasy_10_shiva"
+			],
+			"submitted_by": "Bradley"
 		}
 	}
 }

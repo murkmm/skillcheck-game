@@ -602,8 +602,11 @@
 			"name": "Limit Break",
 			"reward_text": "Title: SOLDIER 1st Class",
 			"target": 10.0,
-			"target_key": "fantasy",
+			"target_key": "final fantasy 10",
 			"type": "mastery_franchise",
+			"unlocks_cart": "",
+			"unlocks_color": "",
+			"unlocks_console": "",
 			"unlocks_theme": "",
 			"unlocks_title": "soldier"
 		},
@@ -612,9 +615,12 @@
 			"id": "fran_ff_theme",
 			"name": "Mako Infusion",
 			"reward_text": "Theme: Mako Reactor",
-			"target": 15.0,
-			"target_key": "fantasy",
+			"target": 15,
+			"target_key": "final fantasy 10",
 			"type": "mastery_franchise",
+			"unlocks_cart": "",
+			"unlocks_color": "",
+			"unlocks_console": "",
 			"unlocks_theme": "mako_reactor",
 			"unlocks_title": ""
 		},
@@ -60395,6 +60401,3863 @@
 					"Eeveelution"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Brotherhood",
+						"difficulty": "Easy",
+						"explanation": "Brotherhood was a gift from Wakka, originally belonging to his brother Chappu.",
+						"image_url": "https://skillcheckgame.com/assets/images/tidus.webp",
+						"question": "What weapon is this character holding in the image?",
+						"wrong": [
+							"Caladbolg",
+							"Longsword",
+							"World Champion"
+						]
+					},
+					{
+						"correct": "Blitzball",
+						"difficulty": "Easy",
+						"explanation": "Tidus was the star player for the Zanarkand Abes before being swept away by Sin.",
+						"image_url": "https://skillcheckgame.com/assets/images/tidus.webp",
+						"question": "What sport does this character play professionally in Zanarkand?",
+						"wrong": [
+							"Sphere Break",
+							"Triple Triad",
+							"Chocobo Racing"
+						]
+					},
+					{
+						"correct": "A silver chain with a hook",
+						"difficulty": "Medium",
+						"explanation": "Tidus's outfit is a modified Blitzball uniform, complete with various straps and chains.",
+						"image_url": "https://skillcheckgame.com/assets/images/tidus.webp",
+						"question": "Based on the image, which accessory is hanging from this character's belt?",
+						"wrong": [
+							"A potion bottle",
+							"A leather pouch",
+							"A white feather"
+						]
+					},
+					{
+						"correct": "Jecht",
+						"difficulty": "Easy",
+						"explanation": "Jecht was a superstar in Zanarkand before disappearing ten years before the game begins.",
+						"image_url": "",
+						"question": "Who is Tidus's famous father, also a Blitzball legend?",
+						"wrong": [
+							"Auron",
+							"Cid",
+							"Braska"
+						]
+					},
+					{
+						"correct": "Caladbolg",
+						"difficulty": "Medium",
+						"explanation": "To fully power up Caladbolg, Tidus must win the Catcher Chocobo race with a time of 0.0 seconds.",
+						"image_url": "",
+						"question": "What is the name of Tidus's ultimate Celestial Weapon?",
+						"wrong": [
+							"Excalibur",
+							"Masamune",
+							"Nirvana"
+						]
+					},
+					{
+						"correct": "Slow",
+						"difficulty": "Medium",
+						"explanation": "Tidus's 'Time' themed abilities often involve Speed and Delaying enemy turns.",
+						"image_url": "",
+						"question": "Which status effect is Tidus naturally proficient at inflicting with his basic weapons?",
+						"wrong": [
+							"Poison",
+							"Petrify",
+							"Silence"
+						]
+					},
+					{
+						"correct": "He is a dream of the Fayth",
+						"difficulty": "Medium",
+						"explanation": "Tidus and his Zanarkand are a massive summoning maintained by the Fayth of Mt. Gagazet.",
+						"image_url": "",
+						"question": "What does Tidus discover about his own existence near the end of the journey?",
+						"wrong": [
+							"He is an Al Bhed",
+							"He is a Summon",
+							"He is an Unsent"
+						]
+					},
+					{
+						"correct": "Spiral Cut",
+						"difficulty": "Easy",
+						"explanation": "Spiral Cut is a single-target physical attack available from the start of the game.",
+						"image_url": "",
+						"question": "What is the name of Tidus's first Overdrive?",
+						"wrong": [
+							"Slice & Dice",
+							"Energy Rain",
+							"Blitz Ace"
+						]
+					},
+					{
+						"correct": "80",
+						"difficulty": "Hard",
+						"explanation": "Blitz Ace is unlocked after performing 80 successful Overdrives.",
+						"image_url": "",
+						"question": "To unlock Tidus's final Overdrive, how many times must he successfully use his Overdrives in battle?",
+						"wrong": [
+							"50",
+							"100",
+							"20"
+						]
+					},
+					{
+						"correct": "Sun Crest",
+						"difficulty": "Medium",
+						"explanation": "The Sun Crest is found in a treasure chest in the area where you fought Yunalesca.",
+						"image_url": "",
+						"question": "Which crest is required to upgrade Tidus's Celestial Weapon?",
+						"wrong": [
+							"Moon Crest",
+							"Mars Crest",
+							"Saturn Crest"
+						]
+					},
+					{
+						"correct": "Salvage Ship",
+						"difficulty": "Hard",
+						"explanation": "He was picked up by Rikku and a crew of Al Bhed divers while starving in the ruins.",
+						"image_url": "",
+						"question": "What was the name of the ship Tidus was rescued by after leaving Zanarkand?",
+						"wrong": [
+							"S.S. Winno",
+							"S.S. Liki",
+							"Celsius"
+						]
+					},
+					{
+						"correct": "Besaid Aurochs",
+						"difficulty": "Easy",
+						"explanation": "Tidus joins Wakka's team to help them finally win a match before Wakka retires.",
+						"image_url": "",
+						"question": "Which team does Tidus play for during the tournament in Luca?",
+						"wrong": [
+							"Luca Goers",
+							"Al Bhed Psyches",
+							"Guado Glories"
+						]
+					},
+					{
+						"correct": "Luca",
+						"difficulty": "Medium",
+						"explanation": "The scene takes place on a balcony overlooking Luca as Tidus tries to cheer Yuna up.",
+						"image_url": "",
+						"question": "In the famous laughing scene, where are Tidus and Yuna standing?",
+						"wrong": [
+							"Besaid",
+							"Kilika",
+							"Bevelle"
+						]
+					},
+					{
+						"correct": "Coconut",
+						"difficulty": "Hard",
+						"explanation": "When he first arrives in Besaid, he tries some local juice and finds it surprisingly tart.",
+						"image_url": "",
+						"question": "What kind of juice does Tidus find 'sour' early in the game?",
+						"wrong": [
+							"Orange",
+							"Berry",
+							"Papaya"
+						]
+					},
+					{
+						"correct": "Sublimely Magnificent Jecht Shot Mark III",
+						"difficulty": "Medium",
+						"explanation": "Jecht called it Mark III just to make people think there were a Mark I and II, which there aren't.",
+						"image_url": "",
+						"question": "What is the name of the legendary shot Tidus learned from his father?",
+						"wrong": [
+							"Sphere Shot",
+							"Invisible Shot",
+							"The Jecht Cannon"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_tidus",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Tidus",
+				"lore_desc": "A star Blitzball player for the Zanarkand Abes who finds himself transported to the world of Spira.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Blitzball",
+					"Dreamer"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Staff",
+						"difficulty": "Easy",
+						"explanation": "Yuna uses staves to channel her white magic and summoning abilities.",
+						"image_url": "https://skillcheckgame.com/assets/images/yuna.webp",
+						"question": "In this image, what type of weapon is the character wielding?",
+						"wrong": [
+							"Rod",
+							"Wand",
+							"Mace"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "Yuna has heterochromia; her right eye is blue and her left eye is green, reflecting her mixed heritage.",
+						"image_url": "https://skillcheckgame.com/assets/images/yuna.webp",
+						"question": "Based on the image, what color is this character's right eye?",
+						"wrong": [
+							"Green",
+							"Brown",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Hibiscus",
+						"difficulty": "Medium",
+						"explanation": "The pink hibiscus is a recurring motif in her design, fitting her tropical origins in Besaid.",
+						"image_url": "https://skillcheckgame.com/assets/images/yuna.webp",
+						"question": "Looking at the image, what floral pattern is featured on the character's kimono-style skirt?",
+						"wrong": [
+							"Rose",
+							"Cherry Blossom",
+							"Lotus"
+						]
+					},
+					{
+						"correct": "Braska",
+						"difficulty": "Easy",
+						"explanation": "High Summoner Braska defeated Sin ten years ago with the help of Jecht and Auron.",
+						"image_url": "",
+						"question": "Who was Yuna's father, the man who previously defeated Sin?",
+						"wrong": [
+							"Jecht",
+							"Auron",
+							"Ohalland"
+						]
+					},
+					{
+						"correct": "The Sending",
+						"difficulty": "Easy",
+						"explanation": "Without a Sending, the spirits of the dead can become envious of the living and turn into fiends.",
+						"image_url": "",
+						"question": "What is the name of the ritual Yuna performs to guide souls to the Farplane?",
+						"wrong": [
+							"The Summoning",
+							"The Blessing",
+							"The Passing"
+						]
+					},
+					{
+						"correct": "Al Bhed",
+						"difficulty": "Medium",
+						"explanation": "Her mother was the sister of Cid, making Rikku Yuna's cousin.",
+						"image_url": "",
+						"question": "What race was Yuna's mother?",
+						"wrong": [
+							"Guado",
+							"Ronso",
+							"Hypello"
+						]
+					},
+					{
+						"correct": "Nirvana",
+						"difficulty": "Medium",
+						"explanation": "Nirvana allows Yuna's Aeon, Valefor, to break the 9,999 damage limit.",
+						"image_url": "",
+						"question": "What is the name of Yuna's ultimate Celestial Weapon?",
+						"wrong": [
+							"Spirit Lance",
+							"Godhand",
+							"Onion Knight"
+						]
+					},
+					{
+						"correct": "Ixion",
+						"difficulty": "Medium",
+						"explanation": "Ixion is the lightning-elemental Aeon resembling a unicorn.",
+						"image_url": "",
+						"question": "Which Aeon does Yuna obtain in the Temple of Djose?",
+						"wrong": [
+							"Ifrit",
+							"Shiva",
+							"Bahamut"
+						]
+					},
+					{
+						"correct": "3",
+						"difficulty": "Hard",
+						"explanation": "She begins with Lulu, Wakka, and Kimahri. Tidus joins shortly after.",
+						"image_url": "",
+						"question": "How many guardians does Yuna officially start her pilgrimage with?",
+						"wrong": [
+							"2",
+							"4",
+							"5"
+						]
+					},
+					{
+						"correct": "The Aeon starts with a full Overdrive bar",
+						"difficulty": "Easy",
+						"explanation": "Grand Summon is vital for dealing massive damage quickly with an Aeon's ultimate move.",
+						"image_url": "",
+						"question": "What special ability does Yuna's Overdrive, 'Grand Summon', provide?",
+						"wrong": [
+							"The Aeon deals double damage",
+							"The Aeon cannot be killed",
+							"The Aeon acts twice per turn"
+						]
+					},
+					{
+						"correct": "Moon Crest",
+						"difficulty": "Medium",
+						"explanation": "The Moon Crest is found in a treasure chest on the beach of Besaid Island.",
+						"image_url": "",
+						"question": "Which crest is needed to power up the Nirvana staff?",
+						"wrong": [
+							"Sun Crest",
+							"Star Crest",
+							"Water Crest"
+						]
+					},
+					{
+						"correct": "Bevelle",
+						"difficulty": "Easy",
+						"explanation": "The dramatic wedding escape features the party sliding down cables to save her.",
+						"image_url": "",
+						"question": "In what city was Yuna forced into a wedding ceremony with Seymour?",
+						"wrong": [
+							"Luca",
+							"Guadosalam",
+							"Zanarkand"
+						]
+					},
+					{
+						"correct": "High Summoner",
+						"difficulty": "Easy",
+						"explanation": "There have only been a handful of High Summoners in Spira's history.",
+						"image_url": "",
+						"question": "What is the title given to a summoner who successfully defeats Sin?",
+						"wrong": [
+							"Grand Summoner",
+							"Holy Summoner",
+							"Master Summoner"
+						]
+					},
+					{
+						"correct": "Valefor",
+						"difficulty": "Easy",
+						"explanation": "Valefor is a bird-like creature and is the only Aeon whose name can be customized.",
+						"image_url": "",
+						"question": "Who was Yuna's first Aeon, obtained in Besaid?",
+						"wrong": [
+							"Ifrit",
+							"Shiva",
+							"Anima"
+						]
+					},
+					{
+						"correct": "It kills the summoner",
+						"difficulty": "Medium",
+						"explanation": "The bond between summoner and guardian is used to create the Final Aeon, which then kills the summoner.",
+						"image_url": "",
+						"question": "What is the hidden truth about the 'Final Summoning' that Yuna discovers?",
+						"wrong": [
+							"It turns the summoner into a fiend",
+							"It makes the summoner immortal",
+							"It creates a new world"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_yuna",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Yuna",
+				"lore_desc": "The daughter of High Summoner Braska, she embarks on a pilgrimage to defeat Sin and bring the Calm to Spira.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Summoner",
+					"Heroine",
+					"Magic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Alcohol",
+						"difficulty": "Medium",
+						"explanation": "Auron often drinks from his jug, which contains a strong traditional spirit used in his Bushido techniques.",
+						"image_url": "https://skillcheckgame.com/assets/images/auron.webp",
+						"question": "What item is this character carrying in the small jug on his belt in the image?",
+						"wrong": [
+							"Holy Water",
+							"Potions",
+							"Oil"
+						]
+					},
+					{
+						"correct": "Right",
+						"difficulty": "Easy",
+						"explanation": "Auron's right eye was injured during his original pilgrimage with Braska.",
+						"image_url": "https://skillcheckgame.com/assets/images/auron.webp",
+						"question": "Which eye does this character keep closed in the image?",
+						"wrong": [
+							"Left",
+							"Both",
+							"Neither"
+						]
+					},
+					{
+						"correct": "Katana",
+						"difficulty": "Easy",
+						"explanation": "Auron uses heavy, two-handed katanas to break through enemy armor.",
+						"image_url": "https://skillcheckgame.com/assets/images/auron.webp",
+						"question": "What type of massive sword is this character wielding in the image?",
+						"wrong": [
+							"Claymore",
+							"Scimitar",
+							"Broadsword"
+						]
+					},
+					{
+						"correct": "He is an Unsent",
+						"difficulty": "Medium",
+						"explanation": "Auron died at the hands of Yunalesca but refused to pass on so he could fulfill his promise to Jecht.",
+						"image_url": "",
+						"question": "What is the secret nature of Auron's existence throughout the game?",
+						"wrong": [
+							"He is a Fiend",
+							"He is a Dream",
+							"He is a Fayth"
+						]
+					},
+					{
+						"correct": "Yunalesca",
+						"difficulty": "Medium",
+						"explanation": "Auron attacked Yunalesca in a rage after Braska and Jecht died, and she struck him down.",
+						"image_url": "",
+						"question": "Who killed Auron at the end of Braska's pilgrimage?",
+						"wrong": [
+							"Sin",
+							"Seymour",
+							"Jecht"
+						]
+					},
+					{
+						"correct": "Masamune",
+						"difficulty": "Easy",
+						"explanation": "The Masamune is more powerful when Auron's HP is lower.",
+						"image_url": "",
+						"question": "What is the name of Auron's ultimate Celestial Weapon?",
+						"wrong": [
+							"Muramasa",
+							"Buster Sword",
+							"Slasher"
+						]
+					},
+					{
+						"correct": "Armor Break",
+						"difficulty": "Easy",
+						"explanation": "Auron's 'Break' abilities are essential for dealing with high-defense armored foes.",
+						"image_url": "",
+						"question": "Which sphere grid ability is Auron's specialty for weakening enemies?",
+						"wrong": [
+							"Power Break",
+							"Magic Break",
+							"Mental Break"
+						]
+					},
+					{
+						"correct": "Bushido",
+						"difficulty": "Medium",
+						"explanation": "Auron's Bushido requires the player to input button sequences correctly for maximum effect.",
+						"image_url": "",
+						"question": "What is the name of Auron's Overdrive category?",
+						"wrong": [
+							"Ronin",
+							"Swordplay",
+							"Samurai"
+						]
+					},
+					{
+						"correct": "By collecting Jecht Spheres",
+						"difficulty": "Medium",
+						"explanation": "Jecht Spheres contain memories of the previous pilgrimage and teach Auron new techniques.",
+						"image_url": "",
+						"question": "How do you unlock more of Auron's Overdrives?",
+						"wrong": [
+							"By killing fiends",
+							"By buying them",
+							"By leveling up"
+						]
+					},
+					{
+						"correct": "Warrior Monks",
+						"difficulty": "Hard",
+						"explanation": "He was a disgraced warrior monk of Bevelle before joining Braska.",
+						"image_url": "",
+						"question": "Auron was once a high-ranking member of which organization?",
+						"wrong": [
+							"Yevon Guard",
+							"Crimson Squad",
+							"Al Bhed"
+						]
+					},
+					{
+						"correct": "Tornado",
+						"difficulty": "Hard",
+						"explanation": "Tornado hits all enemies twice and is learned after finding all 10 Jecht Spheres.",
+						"image_url": "",
+						"question": "What is the name of Auron's final Overdrive?",
+						"wrong": [
+							"Dragon Fang",
+							"Banishing Blade",
+							"Shooting Star"
+						]
+					},
+					{
+						"correct": "Jecht",
+						"difficulty": "Easy",
+						"explanation": "Jecht asked Auron to find a way to the 'dream' Zanarkand and watch over his son.",
+						"image_url": "",
+						"question": "Who did Auron promise to look after Tidus?",
+						"wrong": [
+							"Braska",
+							"Yuna",
+							"Lulu"
+						]
+					},
+					{
+						"correct": "Mars Crest",
+						"difficulty": "Medium",
+						"explanation": "The Mars Crest is found at the end of the Old Mi'ihen Highroad.",
+						"image_url": "",
+						"question": "Which crest is needed to upgrade the Masamune?",
+						"wrong": [
+							"Saturn Crest",
+							"Jupiter Crest",
+							"Venus Crest"
+						]
+					},
+					{
+						"correct": "A sword",
+						"difficulty": "Easy",
+						"explanation": "He hands Tidus a longsword, telling him it's a gift from Jecht.",
+						"image_url": "",
+						"question": "In the game's intro, what does Auron offer Tidus before Sin attacks Zanarkand?",
+						"wrong": [
+							"A map",
+							"A potion",
+							"A blitzball"
+						]
+					},
+					{
+						"correct": "The Sin Core",
+						"difficulty": "Hard",
+						"explanation": "After Yu Yevon is defeated, Auron finally allows himself to be sent by Yuna.",
+						"image_url": "",
+						"question": "Where does Auron's body eventually fade away during the ending?",
+						"wrong": [
+							"Zanarkand Ruins",
+							"The Farplane",
+							"Bevelle"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_auron",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Auron",
+				"lore_desc": "A legendary guardian who protected High Summoner Braska and now guides Tidus and Yuna.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Guardian",
+					"Warrior",
+					"Legend"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Zanarkand",
+						"difficulty": "Easy",
+						"explanation": "The game begins with Sin attacking the high-tech city of Zanarkand.",
+						"image_url": "https://skillcheckgame.com/assets/images/sin.webp",
+						"question": "Which city is being destroyed in this image by the massive creature?",
+						"wrong": [
+							"Bevelle",
+							"Luca",
+							"Kilika"
+						]
+					},
+					{
+						"correct": "Sinscale",
+						"difficulty": "Medium",
+						"explanation": "Sinscales are small parts of Sin that break off to attack intruders.",
+						"image_url": "https://skillcheckgame.com/assets/images/sin.webp",
+						"question": "What tiny creatures are falling off this massive beast's body in the image?",
+						"wrong": [
+							"Pyreflies",
+							"Flan",
+							"Sahagin"
+						]
+					},
+					{
+						"correct": "The Fin",
+						"difficulty": "Easy",
+						"explanation": "Sin's massive fins can create tidal waves and destroy coastal villages like Kilika.",
+						"image_url": "https://skillcheckgame.com/assets/images/sin.webp",
+						"question": "What part of this creature's body is shown hovering over the ocean in the image?",
+						"wrong": [
+							"The Tail",
+							"The Head",
+							"The Blowhole"
+						]
+					},
+					{
+						"correct": "Humanity's use of machina",
+						"difficulty": "Easy",
+						"explanation": "Yevon teaches that Sin is a punishment for the hubris of the ancient wars.",
+						"image_url": "",
+						"question": "According to the teachings of Yevon, what is the cause of Sin's appearance?",
+						"wrong": [
+							"A natural disaster",
+							"An alien invasion",
+							"The Al Bhed"
+						]
+					},
+					{
+						"correct": "Jecht",
+						"difficulty": "Medium",
+						"explanation": "Jecht became the Final Aeon for Braska, which subsequently became the new shell for Sin.",
+						"image_url": "",
+						"question": "Who is currently 'inside' Sin, acting as its core?",
+						"wrong": [
+							"Braska",
+							"Auron",
+							"Yu Yevon"
+						]
+					},
+					{
+						"correct": "The Hymn of the Fayth",
+						"difficulty": "Medium",
+						"explanation": "By singing the Hymn, the party calms Jecht's spirit enough to approach and board the beast.",
+						"image_url": "",
+						"question": "What is the name of the 'Call' that allows the party to enter Sin's body?",
+						"wrong": [
+							"The Song of Summoning",
+							"The Call of the Wild",
+							"The Prayer"
+						]
+					},
+					{
+						"correct": "A few years",
+						"difficulty": "Medium",
+						"explanation": "The Calm is temporary, ending when Sin is inevitably reborn.",
+						"image_url": "",
+						"question": "How long does the period of peace known as 'The Calm' typically last?",
+						"wrong": [
+							"100 years",
+							"A decade",
+							"Indefinitely"
+						]
+					},
+					{
+						"correct": "Yu Yevon",
+						"difficulty": "Hard",
+						"explanation": "Yu Yevon is a mindless summoner who uses the Final Aeon to construct a new Sin shell.",
+						"image_url": "",
+						"question": "What is the true identity of the entity that creates Sin's armor?",
+						"wrong": [
+							"Shuyin",
+							"Yunalesca",
+							"The Fayth"
+						]
+					},
+					{
+						"correct": "Kilika",
+						"difficulty": "Easy",
+						"explanation": "Yuna performs her first on-screen Sending in the ruins of Kilika after Sin's attack.",
+						"image_url": "",
+						"question": "Which coastal village is completely leveled by Sin early in Yuna's pilgrimage?",
+						"wrong": [
+							"Besaid",
+							"Luca",
+							"Bevelle"
+						]
+					},
+					{
+						"correct": "Operation Mi'ihen",
+						"difficulty": "Easy",
+						"explanation": "Operation Mi'ihen was a disastrous failure that resulted in the near-extinction of the Crusaders.",
+						"image_url": "",
+						"question": "What is the name of the operation led by the Crusaders to destroy Sin using machina?",
+						"wrong": [
+							"The Al Bhed Strike",
+							"Project Sin",
+							"The Bevelle Offensive"
+						]
+					},
+					{
+						"correct": "Bevelle",
+						"difficulty": "Medium",
+						"explanation": "Sin was created by the leader of Zanarkand to destroy Bevelle's machina armies.",
+						"image_url": "",
+						"question": "Sin was originally created during the war between Zanarkand and which other city?",
+						"wrong": [
+							"Luca",
+							"Guadosalam",
+							"Kilika"
+						]
+					},
+					{
+						"correct": "Their life and a guardian",
+						"difficulty": "Medium",
+						"explanation": "The Final Summoning consumes the lives of both the summoner and the guardian chosen to be the Fayth.",
+						"image_url": "",
+						"question": "What must a summoner sacrifice to temporarily defeat Sin?",
+						"wrong": [
+							"Their magic",
+							"All of Spira's machina",
+							"Their memories"
+						]
+					},
+					{
+						"correct": "Sin's Left Fin",
+						"difficulty": "Medium",
+						"explanation": "The party fights both fins and the head from the deck of the airship Celsius.",
+						"image_url": "",
+						"question": "What is the name of the boss fought on the exterior of Sin near the end of the game?",
+						"wrong": [
+							"Sinscale Horde",
+							"Sin's Eye",
+							"Sin's Heart"
+						]
+					},
+					{
+						"correct": "Water",
+						"difficulty": "Hard",
+						"explanation": "Victims of Sin's proximity often suffer from memory loss, attributed to 'Sin's toxin'.",
+						"image_url": "",
+						"question": "What strange liquid is often associated with Sin's presence and 'Sin Poison'?",
+						"wrong": [
+							"Bile",
+							"Ink",
+							"Oil"
+						]
+					},
+					{
+						"correct": "Destroying Yu Yevon",
+						"difficulty": "Hard",
+						"explanation": "By killing Yu Yevon, the summoning process is stopped, and the Fayth are finally allowed to rest.",
+						"image_url": "",
+						"question": "What is the only way to permanently stop the cycle of Sin's rebirth?",
+						"wrong": [
+							"Killing the Fayth",
+							"Destroying all Machina",
+							"Sacrificing Tidus"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_sin",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Sin",
+				"lore_desc": "A gargantuan, whale-like beast that terrorizes the world of Spira as punishment for humanity's reliance on machina.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Monster",
+					"Calamity"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Green",
+						"difficulty": "Medium",
+						"explanation": "All Al Bhed have distinctive green eyes with a spiral pattern in the pupil.",
+						"image_url": "https://skillcheckgame.com/assets/images/rikku.webp",
+						"question": "What color are this character's unique spiral-shaped pupils in the image?",
+						"wrong": [
+							"Blue",
+							"Yellow",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Al Bhed Goggles",
+						"difficulty": "Easy",
+						"explanation": "The goggles are a signature part of Rikku's look, often worn around her neck or on her forehead.",
+						"image_url": "https://skillcheckgame.com/assets/images/rikku.webp",
+						"question": "What mechanical goggles is this character wearing on her head in the image?",
+						"wrong": [
+							"Aviator Glasses",
+							"Scuba Mask",
+							"Night Vision"
+						]
+					},
+					{
+						"correct": "Claw",
+						"difficulty": "Easy",
+						"explanation": "Rikku uses various 'Claw' or 'Targe' weapons that allow her to strike quickly.",
+						"image_url": "https://skillcheckgame.com/assets/images/rikku.webp",
+						"question": "What mechanical tool is this character using as a weapon in the image?",
+						"wrong": [
+							"Wrench",
+							"Hammer",
+							"Dagger"
+						]
+					},
+					{
+						"correct": "Cousin",
+						"difficulty": "Easy",
+						"explanation": "Rikku's father Cid is the brother of Yuna's mother.",
+						"image_url": "",
+						"question": "What is Rikku's relationship to Yuna?",
+						"wrong": [
+							"Sister",
+							"Aunt",
+							"Best Friend"
+						]
+					},
+					{
+						"correct": "Al Bhed",
+						"difficulty": "Easy",
+						"explanation": "The Al Bhed are often outcasts in Spira because they defy the teachings of Yevon.",
+						"image_url": "",
+						"question": "Rikku is a member of which race known for their use of machina?",
+						"wrong": [
+							"Guado",
+							"Hypello",
+							"Ronso"
+						]
+					},
+					{
+						"correct": "Mix",
+						"difficulty": "Easy",
+						"explanation": "The Mix ability is one of the most powerful in the game, creating unique buffs and attacks.",
+						"image_url": "",
+						"question": "What is the name of Rikku's Overdrive that allows her to combine items?",
+						"wrong": [
+							"Alchemy",
+							"Synthesis",
+							"Tinker"
+						]
+					},
+					{
+						"correct": "Thunder and Lightning",
+						"difficulty": "Medium",
+						"explanation": "Her fear comes from a childhood accident where a Brother's spell went wrong.",
+						"image_url": "",
+						"question": "What is Rikku's extreme phobia?",
+						"wrong": [
+							"Water",
+							"Spiders",
+							"Heights"
+						]
+					},
+					{
+						"correct": "Godhand",
+						"difficulty": "Medium",
+						"explanation": "The Godhand provides the 'Gillionaire' ability, doubling the money earned after battle.",
+						"image_url": "",
+						"question": "What is the name of Rikku's ultimate Celestial Weapon?",
+						"wrong": [
+							"Kaiser Knuckles",
+							"Vajra",
+							"Omega Claw"
+						]
+					},
+					{
+						"correct": "Mercury Crest",
+						"difficulty": "Hard",
+						"explanation": "The Mercury Crest is hidden in a chest in the Sanubia Desert.",
+						"image_url": "",
+						"question": "Which crest is needed to upgrade Rikku's Celestial Weapon?",
+						"wrong": [
+							"Venus Crest",
+							"Jupiter Crest",
+							"Mars Crest"
+						]
+					},
+					{
+						"correct": "Dismantle",
+						"difficulty": "Medium",
+						"explanation": "Most machina enemies are defeated instantly when Rikku steals their components.",
+						"image_url": "",
+						"question": "What unique 'Steal' variant can Rikku use on mechanical enemies to instantly destroy them?",
+						"wrong": [
+							"Mug",
+							"Break",
+							"Scrap"
+						]
+					},
+					{
+						"correct": "The Cactuar Sidequest",
+						"difficulty": "Medium",
+						"explanation": "You must find ten Cactuars in Bikanel Island to unlock the Mercury Sigil.",
+						"image_url": "",
+						"question": "How do you obtain the sigil for Rikku's Celestial Weapon?",
+						"wrong": [
+							"Butterfly Catching",
+							"Lightning Dodging",
+							"Chocobo Racing"
+						]
+					},
+					{
+						"correct": "Brother",
+						"difficulty": "Easy",
+						"explanation": "Brother is his literal name, and he is the lead pilot for the Al Bhed.",
+						"image_url": "",
+						"question": "Who is Rikku's brother, who also pilots the airship?",
+						"wrong": [
+							"Cid",
+							"Paine",
+							"Gipper"
+						]
+					},
+					{
+						"correct": "Heluo",
+						"difficulty": "Hard",
+						"explanation": "The Al Bhed language is a simple letter-substitution cipher of English.",
+						"image_url": "",
+						"question": "What is the Al Bhed word for 'Hello'?",
+						"wrong": [
+							"Huun",
+							"Parn",
+							"Fry"
+						]
+					},
+					{
+						"correct": "She was scavenging ruins",
+						"difficulty": "Medium",
+						"explanation": "Rikku and her crew were searching for underwater machina when they found Tidus.",
+						"image_url": "",
+						"question": "Why did Rikku first attack Tidus's boat at the start of the game?",
+						"wrong": [
+							"She was a pirate",
+							"She wanted to kill him",
+							"She was working for Sin"
+						]
+					},
+					{
+						"correct": "Special Sphere",
+						"difficulty": "Hard",
+						"explanation": "While Rikku starts with it, others need to move to her area on the Sphere Grid or use a Special Sphere.",
+						"image_url": "",
+						"question": "Which special item allows Rikku to learn the 'Use' command for everyone?",
+						"wrong": [
+							"Skill Sphere",
+							"Warp Sphere",
+							"White Magic Sphere"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_rikku",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Rikku",
+				"lore_desc": "A cheerful Al Bhed girl who uses her technical skills and knowledge of machina to help the party.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Thief",
+					"Al Bhed",
+					"Technician"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Moogle",
+						"difficulty": "Easy",
+						"explanation": "Lulu uses animated dolls, such as Moogles and Onion Knights, to channel her magic.",
+						"image_url": "https://skillcheckgame.com/assets/images/lulu.webp",
+						"question": "What toy is this character holding to use as a focus in the image?",
+						"wrong": [
+							"Cactuar",
+							"Pupu",
+							"Chocobo"
+						]
+					},
+					{
+						"correct": "Dozens of belts",
+						"difficulty": "Easy",
+						"explanation": "Lulu's dress is famous for its intricate design featuring many interlocking belts.",
+						"image_url": "https://skillcheckgame.com/assets/images/lulu.webp",
+						"question": "Looking at the image, what defines the front of this character's dress?",
+						"wrong": [
+							"A large zipper",
+							"Floral lace",
+							"Metal armor plates"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Easy",
+						"explanation": "Her dark hair and gothic attire reflect her serious and stoic personality.",
+						"image_url": "https://skillcheckgame.com/assets/images/lulu.webp",
+						"question": "What color is this character's hair, typically styled in an ornate bun?",
+						"wrong": [
+							"Dark Blue",
+							"Dark Purple",
+							"Silver"
+						]
+					},
+					{
+						"correct": "2",
+						"difficulty": "Medium",
+						"explanation": "She guarded Ginnem, who died, and Zuke, who quit his pilgrimage.",
+						"image_url": "",
+						"question": "Before Yuna, how many summoners did Lulu previously guard?",
+						"wrong": [
+							"1",
+							"3",
+							"0"
+						]
+					},
+					{
+						"correct": "Fury",
+						"difficulty": "Easy",
+						"explanation": "Fury allows the player to cast multiple spells by rotating the right analog stick.",
+						"image_url": "",
+						"question": "What is the name of Lulu's Overdrive?",
+						"wrong": [
+							"Flare",
+							"Ultima",
+							"Storm"
+						]
+					},
+					{
+						"correct": "Wakka",
+						"difficulty": "Medium",
+						"explanation": "By the start of FFX-2, Wakka and Lulu have a child together.",
+						"image_url": "",
+						"question": "Lulu eventually marries which other party member after the events of the game?",
+						"wrong": [
+							"Auron",
+							"Kimahri",
+							"Seymour"
+						]
+					},
+					{
+						"correct": "Onion Knight",
+						"difficulty": "Medium",
+						"explanation": "The Onion Knight doll is a reference to the job class from Final Fantasy III.",
+						"image_url": "",
+						"question": "What is the name of Lulu's ultimate Celestial Weapon?",
+						"wrong": [
+							"Moogle Queen",
+							"Nirvana",
+							"Stardust Rod"
+						]
+					},
+					{
+						"correct": "Dodge 200 lightning strikes",
+						"difficulty": "Hard",
+						"explanation": "You must dodge 200 consecutive lightning strikes in the Thunder Plains without saving or leaving.",
+						"image_url": "",
+						"question": "Which tedious task must be completed to unlock Lulu's Celestial Sigil?",
+						"wrong": [
+							"Win 100 Blitzball games",
+							"Catch 50 butterflies",
+							"Race a Chocobo"
+						]
+					},
+					{
+						"correct": "Venus Crest",
+						"difficulty": "Hard",
+						"explanation": "The Venus Crest is found in a chest in the far north of Guadosalam.",
+						"image_url": "",
+						"question": "Which crest is needed to upgrade Lulu's Celestial Weapon?",
+						"wrong": [
+							"Mars Crest",
+							"Moon Crest",
+							"Jupiter Crest"
+						]
+					},
+					{
+						"correct": "Flare",
+						"difficulty": "Medium",
+						"explanation": "While she can learn Ultima, Flare is the natural end-point of her specific path.",
+						"image_url": "",
+						"question": "What spell does Lulu's sphere grid path eventually lead to as her ultimate offensive magic?",
+						"wrong": [
+							"Ultima",
+							"Holy",
+							"Meteor"
+						]
+					},
+					{
+						"correct": "-ga spells",
+						"difficulty": "Medium",
+						"explanation": "Firaga, Blizzaga, Thundaga, and Waterga are core to her late-game kit.",
+						"image_url": "",
+						"question": "Which elemental magic tier is Lulu the only one to naturally learn on the Grid?",
+						"wrong": [
+							"-ra spells",
+							"Ancient Magic",
+							"Blue Magic"
+						]
+					},
+					{
+						"correct": "Lady Ginnem",
+						"difficulty": "Hard",
+						"explanation": "Ginnem's unsent spirit is fought as a boss named Yojimbo's summoner.",
+						"image_url": "",
+						"question": "Who was the summoner Lulu guarded who died in the Cavern of the Stolen Fayth?",
+						"wrong": [
+							"Lord Zuke",
+							"Lady Dona",
+							"Lord Ohalland"
+						]
+					},
+					{
+						"correct": "Cactuar",
+						"difficulty": "Hard",
+						"explanation": "The 'Cactuar King' is one of her highest-tier non-celestial weapons.",
+						"image_url": "",
+						"question": "What kind of doll is used as Lulu's second-most powerful weapon (behind the Onion Knight)?",
+						"wrong": [
+							"Moomba",
+							"Pupu",
+							"Chocobo"
+						]
+					},
+					{
+						"correct": "Besaid Island",
+						"difficulty": "Easy",
+						"explanation": "She grew up in Besaid alongside Wakka.",
+						"image_url": "",
+						"question": "Lulu is a native of which island?",
+						"wrong": [
+							"Kilika Island",
+							"Bikanel Island",
+							"Mt. Gagazet"
+						]
+					},
+					{
+						"correct": "Evasion",
+						"difficulty": "Medium",
+						"explanation": "Lulu actually has surprisingly high Evasion growth, making her hard to hit physically.",
+						"image_url": "",
+						"question": "What is the primary stat Lulu's Grid path focuses on besides Magic?",
+						"wrong": [
+							"Strength",
+							"Agility",
+							"Luck"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_lulu",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Lulu",
+				"lore_desc": "A stern and experienced Black Mage who serves as one of Yuna's guardians.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Mage",
+					"Guardian",
+					"Black Magic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "Wakka has bright orange hair styled in a tall pompadour.",
+						"image_url": "https://skillcheckgame.com/assets/images/wakka.webp",
+						"question": "What is the primary color of this character's hair in the image?",
+						"wrong": [
+							"Yellow",
+							"Red",
+							"Brown"
+						]
+					},
+					{
+						"correct": "Blitzball",
+						"difficulty": "Easy",
+						"explanation": "Wakka uses spiked and enchanted blitzballs to attack enemies from a distance.",
+						"image_url": "https://skillcheckgame.com/assets/images/wakka.webp",
+						"question": "What sports equipment is this character using as a weapon in the image?",
+						"wrong": [
+							"Volleyball",
+							"Soccer ball",
+							"Bowling ball"
+						]
+					},
+					{
+						"correct": "Besaid Aurochs",
+						"difficulty": "Medium",
+						"explanation": "The Besaid Aurochs logo features a stylized bull head.",
+						"image_url": "https://skillcheckgame.com/assets/images/wakka.webp",
+						"question": "What team logo is displayed on this character's shoulder in the image?",
+						"wrong": [
+							"Luca Goers",
+							"Al Bhed Psyches",
+							"Guado Glories"
+						]
+					},
+					{
+						"correct": "Chappu",
+						"difficulty": "Easy",
+						"explanation": "Chappu died because he used a machina weapon instead of a sword, fueling Wakka's hatred of machina.",
+						"image_url": "",
+						"question": "What was the name of Wakka's younger brother who died fighting Sin?",
+						"wrong": [
+							"Luzzu",
+							"Gatta",
+							"Jassu"
+						]
+					},
+					{
+						"correct": "World Champion",
+						"difficulty": "Medium",
+						"explanation": "To obtain it, you must talk to the bartender in Luca after winning several Blitzball matches.",
+						"image_url": "",
+						"question": "What is the name of Wakka's ultimate Celestial Weapon?",
+						"wrong": [
+							"Grand Slam",
+							"Over the Top",
+							"Victory Ball"
+						]
+					},
+					{
+						"correct": "Slot Machine",
+						"difficulty": "Easy",
+						"explanation": "The player must time the reels to match symbols for different elemental or status attacks.",
+						"image_url": "",
+						"question": "Wakka's Overdrive, Slots, is based on what type of game?",
+						"wrong": [
+							"Roulette",
+							"Poker",
+							"Blackjack"
+						]
+					},
+					{
+						"correct": "Aurochs Reels",
+						"difficulty": "Medium",
+						"explanation": "Aurochs Reels incorporates the Besaid Aurochs team into the attack.",
+						"image_url": "",
+						"question": "Which powerful Overdrive is learned by winning a Blitzball League?",
+						"wrong": [
+							"Attack Reels",
+							"Status Reels",
+							"Elemental Reels"
+						]
+					},
+					{
+						"correct": "Winning a Blitzball League",
+						"difficulty": "Hard",
+						"explanation": "The Jupiter Sigil appears as a prize in the Blitzball League after obtaining all his Overdrives.",
+						"image_url": "",
+						"question": "How do you obtain the Jupiter Sigil for Wakka's Celestial Weapon?",
+						"wrong": [
+							"Winning a Blitzball Tournament",
+							"Capturing every monster",
+							"Dodging lightning"
+						]
+					},
+					{
+						"correct": "Al Bhed",
+						"difficulty": "Easy",
+						"explanation": "He blames the Al Bhed and their machina for the world's problems and his brother's death.",
+						"image_url": "",
+						"question": "Wakka has a deep-seated prejudice against which group of people?",
+						"wrong": [
+							"Guado",
+							"Ronso",
+							"Crusaders"
+						]
+					},
+					{
+						"correct": "Aurochs Spirit",
+						"difficulty": "Hard",
+						"explanation": "Aurochs Spirit adds the SH (Shoot) stats of all Aurochs teammates to Wakka's shot.",
+						"image_url": "",
+						"question": "What is the name of the final Blitzball move Wakka tries to perform before retiring?",
+						"wrong": [
+							"Sublimely Magnificent Shot",
+							"Sphere Shot",
+							"Venom Shot"
+						]
+					},
+					{
+						"correct": "Jupiter Crest",
+						"difficulty": "Hard",
+						"explanation": "The Jupiter Crest is found in a locker in the Aurochs' locker room in Luca.",
+						"image_url": "",
+						"question": "Which crest is needed to upgrade the World Champion?",
+						"wrong": [
+							"Saturn Crest",
+							"Mercury Crest",
+							"Mars Crest"
+						]
+					},
+					{
+						"correct": "The Prayer",
+						"difficulty": "Medium",
+						"explanation": "It involves a specific hand motion toward the forehead while saying 'Praise be to Yevon'.",
+						"image_url": "",
+						"question": "What is the name of the 'ritual' greeting Wakka frequently uses?",
+						"wrong": [
+							"The Sending",
+							"The Salute",
+							"The Bow"
+						]
+					},
+					{
+						"correct": "Blind",
+						"difficulty": "Medium",
+						"explanation": "Wakka's 'Dark Attack' and 'Dark Buster' are vital for neutralizing physical bosses.",
+						"image_url": "",
+						"question": "Which status effect is Wakka's sphere grid path best at inflicting?",
+						"wrong": [
+							"Slow",
+							"Poison",
+							"Petrify"
+						]
+					},
+					{
+						"correct": "10 years",
+						"difficulty": "Medium",
+						"explanation": "The Aurochs are known as the laughingstock of the Blitzball world until Tidus joins.",
+						"image_url": "",
+						"question": "How many years has it been since the Besaid Aurochs won a match when the game starts?",
+						"wrong": [
+							"5 years",
+							"20 years",
+							"Never"
+						]
+					},
+					{
+						"correct": "Elder / Council member",
+						"difficulty": "Hard",
+						"explanation": "By the end of the series, he becomes a prominent leader in the newly restructured Besaid.",
+						"image_url": "",
+						"question": "What role does Wakka take on in the village of Besaid?",
+						"wrong": [
+							"Mayor",
+							"Shopkeeper",
+							"Fisherman"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_wakka",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Wakka",
+				"lore_desc": "The captain of the Besaid Aurochs and a devout follower of the teachings of Yevon.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Guardian",
+					"Blitzball",
+					"Devout"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pyreflies",
+						"difficulty": "Easy",
+						"explanation": "Pyreflies are the life energy of Spira that can create illusions and power magic.",
+						"image_url": "https://skillcheckgame.com/assets/images/zanarkand.webp",
+						"question": "What glowing lights are rising from the ruins in this image?",
+						"wrong": [
+							"Fireflies",
+							"Wisps",
+							"Sparks"
+						]
+					},
+					{
+						"correct": "Blitzball Stadium",
+						"difficulty": "Easy",
+						"explanation": "The Zanarkand Abes play in a massive stadium in the heart of the city.",
+						"image_url": "https://skillcheckgame.com/assets/images/zanarkand.webp",
+						"question": "What structure is visible in the background of the image during the game's intro?",
+						"wrong": [
+							"Bevelle Temple",
+							"The Farplane",
+							"The Airship"
+						]
+					},
+					{
+						"correct": "Ruins",
+						"difficulty": "Easy",
+						"explanation": "While Tidus remembers a thriving city, the real Zanarkand has been a ruin for 1,000 years.",
+						"image_url": "https://skillcheckgame.com/assets/images/zanarkand.webp",
+						"question": "Looking at the image, what state is the city in during the majority of the game?",
+						"wrong": [
+							"Prosperous",
+							"Underwater",
+							"Floating"
+						]
+					},
+					{
+						"correct": "Yu Yevon",
+						"difficulty": "Medium",
+						"explanation": "Yu Yevon was the leader of Zanarkand and the one who created the first Sin.",
+						"image_url": "",
+						"question": "Who was the ruler of Zanarkand during the ancient war with Bevelle?",
+						"wrong": [
+							"Yunalesca",
+							"Braska",
+							"Seymour"
+						]
+					},
+					{
+						"correct": "The Dome",
+						"difficulty": "Medium",
+						"explanation": "The Dome houses the remains of the Fayth and the chamber of Yunalesca.",
+						"image_url": "",
+						"question": "What is the name of the final trial area in the Zanarkand ruins?",
+						"wrong": [
+							"The Palace",
+							"The Vault",
+							"The Spire"
+						]
+					},
+					{
+						"correct": "Spectral Keeper",
+						"difficulty": "Hard",
+						"explanation": "The Spectral Keeper is a mechanical guardian that uses mines and positioning.",
+						"image_url": "",
+						"question": "Which boss is fought on the bridge leading into the ruins of Zanarkand?",
+						"wrong": [
+							"Seymour Natus",
+							"Evrae",
+							"Efreet"
+						]
+					},
+					{
+						"correct": "Rest before the final ruins",
+						"difficulty": "Easy",
+						"explanation": "The game's narrative is a flashback told from this camp outside Zanarkand.",
+						"image_url": "",
+						"question": "What do the party members do around a campfire at the 'beginning' of the game's story?",
+						"wrong": [
+							"Eat a meal",
+							"Plan their escape",
+							"Argue about Sin"
+						]
+					},
+					{
+						"correct": "Yunalesca",
+						"difficulty": "Medium",
+						"explanation": "Yunalesca is an Unsent who remains in the ruins to test summoners.",
+						"image_url": "",
+						"question": "Which character stayed in Zanarkand for 1,000 years to offer the Final Summoning?",
+						"wrong": [
+							"Maechen",
+							"Tidus",
+							"Yevon"
+						]
+					},
+					{
+						"correct": "Mt. Gagazet",
+						"difficulty": "Hard",
+						"explanation": "The Fayth at Mt. Gagazet dream of the city, which is physically located far out at sea.",
+						"image_url": "",
+						"question": "The 'Dream Zanarkand' where Tidus is from is located near which Spira landmark?",
+						"wrong": [
+							"Bevelle",
+							"The Calm Lands",
+							"Besaid"
+						]
+					},
+					{
+						"correct": "They are abandoned by Yevon",
+						"difficulty": "Medium",
+						"explanation": "The pilgrimage ends there, and the truth about the Final Summoning is revealed.",
+						"image_url": "",
+						"question": "What happens to the ruins of Zanarkand after the party defeats Yunalesca?",
+						"wrong": [
+							"They explode",
+							"They are rebuilt",
+							"They sink into the ocean"
+						]
+					},
+					{
+						"correct": "Matching floor symbols",
+						"difficulty": "Medium",
+						"explanation": "The puzzle involves stepping on tiles to match patterns shown on a screen.",
+						"image_url": "",
+						"question": "Which mini-game is played in the Zanarkand Cloister of Trials?",
+						"wrong": [
+							"Pushing blocks",
+							"Shooting targets",
+							"Riding platforms"
+						]
+					},
+					{
+						"correct": "A Fleeting Dream",
+						"difficulty": "Hard",
+						"explanation": "The track 'A Fleeting Dream' (Someday the Dream Will End) plays continuously, even in battle.",
+						"image_url": "",
+						"question": "What is the name of the sad theme music that plays in the ruins?",
+						"wrong": [
+							"To Zanarkand",
+							"Path of Repentance",
+							"Hymn of the Fayth"
+						]
+					},
+					{
+						"correct": "Sleeps",
+						"difficulty": "Easy",
+						"explanation": "This was the slogan of the technological metropolis before its destruction.",
+						"image_url": "",
+						"question": "Zanarkand was known as the 'City that Never ___'?",
+						"wrong": [
+							"Falls",
+							"Dies",
+							"Ends"
+						]
+					},
+					{
+						"correct": "1,000 years",
+						"difficulty": "Easy",
+						"explanation": "The war between Zanarkand and Bevelle took place a millennium before the game.",
+						"image_url": "",
+						"question": "How many years ago was the 'real' Zanarkand destroyed?",
+						"wrong": [
+							"100 years",
+							"500 years",
+							"10,000 years"
+						]
+					},
+					{
+						"correct": "The Sun Crest",
+						"difficulty": "Hard",
+						"explanation": "Players often miss it because it appears after the battle with Yunalesca.",
+						"image_url": "",
+						"question": "What is hidden in the Zanarkand Dome that can only be obtained on a second visit?",
+						"wrong": [
+							"The Moon Crest",
+							"The Mars Crest",
+							"The Saturn Crest"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_zanarkand",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Zanarkand",
+				"lore_desc": "The high-tech city of Tidus's origin, which exists in Spira as a holy site of ruins.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Dream",
+					"Ruins"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sphere",
+						"difficulty": "Easy",
+						"explanation": "Blitzballs are heavy, glowing spheres designed to be thrown and kicked through water.",
+						"image_url": "https://skillcheckgame.com/assets/images/blitzball.webp",
+						"question": "What is the shape of the 'ball' used in this sport in the image?",
+						"wrong": [
+							"Oval",
+							"Disk",
+							"Cube"
+						]
+					},
+					{
+						"correct": "Sphere Pool",
+						"difficulty": "Medium",
+						"explanation": "The water is held in place by ancient machina or magical pyrefly energy.",
+						"image_url": "https://skillcheckgame.com/assets/images/blitzball.webp",
+						"question": "What is the name of the water-filled stadium shown in the image?",
+						"wrong": [
+							"Hydro Arena",
+							"Aqua Dome",
+							"Ocean Field"
+						]
+					},
+					{
+						"correct": "A shot",
+						"difficulty": "Easy",
+						"explanation": "Players kick the ball with incredible force to score in the opponent's goal.",
+						"image_url": "https://skillcheckgame.com/assets/images/blitzball.webp",
+						"question": "Looking at the image, what technique is the player likely performing?",
+						"wrong": [
+							"A tackle",
+							"A pass",
+							"A block"
+						]
+					},
+					{
+						"correct": "Zanarkand Abes",
+						"difficulty": "Easy",
+						"explanation": "The Abes were the most popular team in the dream version of the city.",
+						"image_url": "",
+						"question": "Which team does Tidus play for in Zanarkand?",
+						"wrong": [
+							"Zanarkand Duggles",
+							"Zanarkand Stars",
+							"Zanarkand Blitzers"
+						]
+					},
+					{
+						"correct": "They can hold their breath for a long time",
+						"difficulty": "Medium",
+						"explanation": "Athletes in Spira train to hold their breath for the entire duration of a match half.",
+						"image_url": "",
+						"question": "What happens to the players' breathing during a Blitzball match?",
+						"wrong": [
+							"They use gills",
+							"They use oxygen tanks",
+							"The water is breathable"
+						]
+					},
+					{
+						"correct": "The game has no Bevelle team",
+						"difficulty": "Hard",
+						"explanation": "Despite being the largest city, Bevelle does not have a professional team in the league.",
+						"image_url": "",
+						"question": "What is the name of the Blitzball team from Bevelle?",
+						"wrong": [
+							"Bevelle Bells",
+							"Yevon Saints",
+							"Bevelle Monks"
+						]
+					},
+					{
+						"correct": "AT (Attack)",
+						"difficulty": "Medium",
+						"explanation": "Attack is compared against the opponent's Endurance (EN) to determine if the ball is stolen.",
+						"image_url": "",
+						"question": "Which stat determines how much damage a player does when trying to take the ball?",
+						"wrong": [
+							"EN (Endurance)",
+							"BL (Block)",
+							"SH (Shoot)"
+						]
+					},
+					{
+						"correct": "Wither",
+						"difficulty": "Medium",
+						"explanation": "Wither halves a specific stat, making a star player much less effective.",
+						"image_url": "",
+						"question": "Which status effect in Blitzball lowers a player's stats temporarily?",
+						"wrong": [
+							"Slow",
+							"Poison",
+							"Blind"
+						]
+					},
+					{
+						"correct": "Jecht (and Tidus)",
+						"difficulty": "Easy",
+						"explanation": "Tidus learns it by remembering his father's training on the boat to Luca.",
+						"image_url": "",
+						"question": "Who is the legendary player who is the only one capable of the Jecht Shot?",
+						"wrong": [
+							"Wakka",
+							"Auron",
+							"Bickson"
+						]
+					},
+					{
+						"correct": "The Spira Cup",
+						"difficulty": "Hard",
+						"explanation": "The Luca tournament is an annual event celebrating the sport's history.",
+						"image_url": "",
+						"question": "What is the name of the tournament held in Luca during the story?",
+						"wrong": [
+							"The Braska Memorial",
+							"The Yevon Open",
+							"The High Summoner's Cup"
+						]
+					},
+					{
+						"correct": "Luca Goers",
+						"difficulty": "Easy",
+						"explanation": "The Luca Goers are the arrogant champions who have won many tournaments in a row.",
+						"image_url": "",
+						"question": "Which team is considered the most dominant in Spira when the game starts?",
+						"wrong": [
+							"Al Bhed Psyches",
+							"Guado Glories",
+							"Kilika Beasts"
+						]
+					},
+					{
+						"correct": "6",
+						"difficulty": "Medium",
+						"explanation": "Each team has a Forward, two Midfielders, two Defenders, and a Goalkeeper.",
+						"image_url": "",
+						"question": "How many players are on each team in a standard Blitzball match?",
+						"wrong": [
+							"5",
+							"11",
+							"7"
+						]
+					},
+					{
+						"correct": "Sphere Shot",
+						"difficulty": "Medium",
+						"explanation": "Sphere Shot adds a random amount of Shoot power to the kick.",
+						"image_url": "",
+						"question": "What is the name of the special ability that allows a player to shoot through multiple defenders?",
+						"wrong": [
+							"Invisible Shot",
+							"Nap Shot",
+							"Venom Shot"
+						]
+					},
+					{
+						"correct": "Guado",
+						"difficulty": "Medium",
+						"explanation": "The Guado Glories are incredibly fast but have very low HP and Endurance.",
+						"image_url": "",
+						"question": "Which race is known for their high Speed (SP) in Blitzball?",
+						"wrong": [
+							"Al Bhed",
+							"Ronso",
+							"Human"
+						]
+					},
+					{
+						"correct": "99",
+						"difficulty": "Hard",
+						"explanation": "Players gain experience and levels by performing actions like passing, shooting, and tackling.",
+						"image_url": "",
+						"question": "What is the maximum level a Blitzball player can reach?",
+						"wrong": [
+							"50",
+							"100",
+							"200"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_blitzball",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Blitzball",
+				"lore_desc": "The most popular sport in Spira, played in a massive sphere of water.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Sport",
+					"Mini-game",
+					"Spira"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Large blue antler-like hair",
+						"difficulty": "Easy",
+						"explanation": "Seymour's hair is styled into two massive, sweeping points.",
+						"image_url": "https://skillcheckgame.com/assets/images/seymour_guado.webp",
+						"question": "What unique hairstyle feature does this character have in the image?",
+						"wrong": [
+							"A metal crown",
+							"Long silver braids",
+							"A shaved head"
+						]
+					},
+					{
+						"correct": "Maester's robes",
+						"difficulty": "Easy",
+						"explanation": "As a Maester of Yevon, Seymour wears elaborate and ceremonial clothing.",
+						"image_url": "https://skillcheckgame.com/assets/images/seymour_guado.webp",
+						"question": "In the image, what kind of ornate robes is this character wearing?",
+						"wrong": [
+							"Summoner's kimono",
+							"Blitzball jersey",
+							"Al Bhed jumpsuit"
+						]
+					},
+					{
+						"correct": "Anima",
+						"difficulty": "Medium",
+						"explanation": "Anima is Seymour's personal Aeon, created from the Fayth of his own mother.",
+						"image_url": "https://skillcheckgame.com/assets/images/seymour_guado.webp",
+						"question": "What summon is this character standing next to in some game scenes?",
+						"wrong": [
+							"Bahamut",
+							"Ifrit",
+							"Shiva"
+						]
+					},
+					{
+						"correct": "To kill everyone so they can't suffer",
+						"difficulty": "Medium",
+						"explanation": "Seymour believes that life is pain and that death is the only release from the cycle of Sin.",
+						"image_url": "",
+						"question": "What is Seymour's plan to 'save' the people of Spira?",
+						"wrong": [
+							"To destroy all machina",
+							"To banish Sin forever",
+							"To become a High Summoner"
+						]
+					},
+					{
+						"correct": "4",
+						"difficulty": "Hard",
+						"explanation": "You fight him in Macalania, Bevelle, Mt. Gagazet, and finally inside Sin.",
+						"image_url": "",
+						"question": "How many times do you fight Seymour as a boss in the game?",
+						"wrong": [
+							"1",
+							"3",
+							"5"
+						]
+					},
+					{
+						"correct": "Jyscal Guado",
+						"difficulty": "Medium",
+						"explanation": "Jyscal was the previous leader of the Guado and a Maester of Yevon.",
+						"image_url": "",
+						"question": "Who was Seymour's father, whom he murdered to take power?",
+						"wrong": [
+							"Mika",
+							"Kelk Ronso",
+							"Kinoc"
+						]
+					},
+					{
+						"correct": "He is a hybrid",
+						"difficulty": "Medium",
+						"explanation": "Seymour was treated as an outcast by both races during his childhood.",
+						"image_url": "",
+						"question": "What is Seymour's half-human, half-Guado heritage called in Spira?",
+						"wrong": [
+							"An Al Bhed mix",
+							"A Ronso ward",
+							"A spirit-born"
+						]
+					},
+					{
+						"correct": "Seymour Flux",
+						"difficulty": "Medium",
+						"explanation": "Seymour Flux is notorious for the 'Total Annihilation' and 'Zombie' combo.",
+						"image_url": "",
+						"question": "What is the name of Seymour's boss form encountered on Mt. Gagazet?",
+						"wrong": [
+							"Seymour Natus",
+							"Seymour Omnis",
+							"Seymour Ultima"
+						]
+					},
+					{
+						"correct": "He remains as an Unsent",
+						"difficulty": "Easy",
+						"explanation": "Like Auron, Seymour refuses to be sent and stays in Spira as a powerful spirit.",
+						"image_url": "",
+						"question": "Where does Seymour go after his first 'death' in Macalania Temple?",
+						"wrong": [
+							"To the Farplane",
+							"To Bevelle",
+							"To Zanarkand"
+						]
+					},
+					{
+						"correct": "Anima",
+						"difficulty": "Easy",
+						"explanation": "Anima is first seen in Luca, but the party faces her in battle at Macalania.",
+						"image_url": "",
+						"question": "Which Aeon does Seymour summon during your first battle with him?",
+						"wrong": [
+							"Valefor",
+							"Yojimbo",
+							"Ixion"
+						]
+					},
+					{
+						"correct": "Baaj Island",
+						"difficulty": "Hard",
+						"explanation": "They were sent to the ruins of Baaj to live in isolation.",
+						"image_url": "",
+						"question": "What was the name of the island where Seymour and his mother were exiled?",
+						"wrong": [
+							"Besaid Island",
+							"Bikanel Island",
+							"Kilika Island"
+						]
+					},
+					{
+						"correct": "Seymour Omnis",
+						"difficulty": "Medium",
+						"explanation": "Seymour Omnis uses a large elemental wheel to determine his attacks.",
+						"image_url": "",
+						"question": "What is the final form of Seymour fought inside Sin?",
+						"wrong": [
+							"Seymour Flux",
+							"Seymour Natus",
+							"Seymour Rex"
+						]
+					},
+					{
+						"correct": "Maester Kinoc",
+						"difficulty": "Hard",
+						"explanation": "He killed his 'friend' Kinoc to use his pyreflies to grow stronger.",
+						"image_url": "",
+						"question": "Which Maester of Yevon did Seymour kill during the wedding ceremony?",
+						"wrong": [
+							"Maester Mika",
+							"Maester Kelk",
+							"Maester Jyscal"
+						]
+					},
+					{
+						"correct": "To become her Final Aeon",
+						"difficulty": "Medium",
+						"explanation": "By becoming her Final Aeon, he would eventually become the new Sin.",
+						"image_url": "",
+						"question": "Why does Seymour want to marry Yuna?",
+						"wrong": [
+							"Because he loves her",
+							"To unite the Guado and Humans",
+							"To gain control of Besaid"
+						]
+					},
+					{
+						"correct": "He uses all four basic elements",
+						"difficulty": "Hard",
+						"explanation": "Seymour's AI follows a strict cycle of Fire, Ice, Water, and Thunder.",
+						"image_url": "",
+						"question": "What is the primary element Seymour uses in his first battle?",
+						"wrong": [
+							"Darkness",
+							"Fire",
+							"Ice"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_seymour_guado",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Seymour Guado",
+				"lore_desc": "A Maester of Yevon and leader of the Guado who harbors a nihilistic desire to become Sin.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Maester",
+					"Summoner"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Center of his chest",
+						"difficulty": "Easy",
+						"explanation": "Jecht's tattoo is the symbol of the Zanarkand Abes, which Tidus also wears as a pendant.",
+						"image_url": "https://skillcheckgame.com/assets/images/jecht.webp",
+						"question": "Where is the black tattoo located on this character's chest in the image?",
+						"wrong": [
+							"His right shoulder",
+							"His left arm",
+							"His back"
+						]
+					},
+					{
+						"correct": "Red Bandana",
+						"difficulty": "Easy",
+						"explanation": "The red bandana is a core part of Jecht's rugged, 'bad boy' Blitzball image.",
+						"image_url": "https://skillcheckgame.com/assets/images/jecht.webp",
+						"question": "What type of headgear is this character wearing in the image?",
+						"wrong": [
+							"Metal Helmet",
+							"Crested Hat",
+							"Blue Cap"
+						]
+					},
+					{
+						"correct": "The Jecht Shot",
+						"difficulty": "Easy",
+						"explanation": "Jecht is famous for his signature shot, which he claimed no one else could perform.",
+						"image_url": "https://skillcheckgame.com/assets/images/jecht.webp",
+						"question": "What is this character doing with the blitzball in many of his flashback scenes?",
+						"wrong": [
+							"The Sphere Shot",
+							"The Invisible Shot",
+							"The Venom Shot"
+						]
+					},
+					{
+						"correct": "The Final Aeon",
+						"difficulty": "Medium",
+						"explanation": "Jecht volunteered to be the Fayth for Braska's Final Summoning.",
+						"image_url": "https://skillcheckgame.com/assets/images/jecht.webp",
+						"question": "What did Jecht become at the end of Braska's pilgrimage?",
+						"wrong": [
+							"The High Summoner",
+							"An Unsent",
+							"The King of Zanarkand"
+						]
+					},
+					{
+						"correct": "He touched Sin while training at sea",
+						"difficulty": "Medium",
+						"explanation": "Like Tidus, Jecht was brought from Dream Zanarkand to the 'real' world by Sin.",
+						"image_url": "",
+						"question": "How did Jecht end up in Spira originally?",
+						"wrong": [
+							"He was summoned",
+							"He flew there",
+							"He walked through a portal"
+						]
+					},
+					{
+						"correct": "A drunk but brilliant athlete",
+						"difficulty": "Easy",
+						"explanation": "He was known for his incredible skill and his equally incredible ego and drinking habit.",
+						"image_url": "",
+						"question": "What was Jecht's reputation in Zanarkand?",
+						"wrong": [
+							"A beloved hero",
+							"A hated criminal",
+							"A quiet monk"
+						]
+					},
+					{
+						"correct": "Braska's Final Aeon",
+						"difficulty": "Medium",
+						"explanation": "The party must fight the transformed Jecht inside the core of Sin.",
+						"image_url": "",
+						"question": "What is the name of the boss form of Jecht fought at the end of the game?",
+						"wrong": [
+							"Sin Jecht",
+							"The Ultimate Warrior",
+							"Jecht Reborn"
+						]
+					},
+					{
+						"correct": "Jecht Spheres",
+						"difficulty": "Easy",
+						"explanation": "These spheres were recorded by Jecht during his pilgrimage with Braska and Auron.",
+						"image_url": "",
+						"question": "What kind of objects can you find throughout Spira that contain Jecht's recorded messages?",
+						"wrong": [
+							"Jecht Tapes",
+							"Jecht Stones",
+							"Jecht Shards"
+						]
+					},
+					{
+						"correct": "Auron",
+						"difficulty": "Easy",
+						"explanation": "Jecht and Auron shared a bond of respect, and Jecht entrusted Tidus's safety to him.",
+						"image_url": "",
+						"question": "Who was Jecht's close friend and fellow guardian on the pilgrimage?",
+						"wrong": [
+							"Wakka",
+							"Cid",
+							"Seymour"
+						]
+					},
+					{
+						"correct": "Sublimely Magnificent Jecht Shot Mark III",
+						"difficulty": "Medium",
+						"explanation": "He added 'Mark III' to imply it was a perfected version of previous (non-existent) shots.",
+						"image_url": "",
+						"question": "What was the name of the shot Jecht actually called his 'signature'?",
+						"wrong": [
+							"Jecht Beam",
+							"The Jecht Cannon",
+							"Mark I Shot"
+						]
+					},
+					{
+						"correct": "Crybaby",
+						"difficulty": "Easy",
+						"explanation": "Jecht's rough parenting style involved constantly teasing Tidus about being sensitive.",
+						"image_url": "",
+						"question": "What did Jecht often call Tidus, which Tidus hated?",
+						"wrong": [
+							"Junior",
+							"Shorty",
+							"Runt"
+						]
+					},
+					{
+						"correct": "Yu Pagodas",
+						"difficulty": "Hard",
+						"explanation": "The Yu Pagodas constantly remove status ailments and heal Braska's Final Aeon.",
+						"image_url": "",
+						"question": "In the final battle, what two pillars assist Jecht by healing him?",
+						"wrong": [
+							"Yevon Pillars",
+							"Fayth Statues",
+							"Sin Spires"
+						]
+					},
+					{
+						"correct": "Heavy Metal",
+						"difficulty": "Medium",
+						"explanation": "Otherworld is a high-energy metal track that contrasts with the rest of the game's music.",
+						"image_url": "",
+						"question": "What genre of music is Jecht's boss theme, 'Otherworld'?",
+						"wrong": [
+							"Classical",
+							"J-Pop",
+							"Techno"
+						]
+					},
+					{
+						"correct": "He knew he could never go back home",
+						"difficulty": "Hard",
+						"explanation": "Realizing his home was a dream and he was trapped in Spira, he chose to die for a cause.",
+						"image_url": "",
+						"question": "Why did Jecht decide to become the Final Aeon?",
+						"wrong": [
+							"He wanted to rule Spira",
+							"He hated Sin",
+							"He wanted to become immortal"
+						]
+					},
+					{
+						"correct": "You've grown",
+						"difficulty": "Medium",
+						"explanation": "It's a rare moment of genuine fatherly pride before he loses control to Sin.",
+						"image_url": "",
+						"question": "What does Jecht say to Tidus right before their final battle begins?",
+						"wrong": [
+							"I'm sorry",
+							"Let's finish this",
+							"Don't cry"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_jecht",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Jecht",
+				"lore_desc": "Tidus's father and a Blitzball legend who eventually became the Final Aeon for High Summoner Braska.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Blitzball",
+					"Father",
+					"Sin"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Chocobo",
+						"difficulty": "Easy",
+						"explanation": "The Calm Lands is one of the best places to ride Chocobos due to its vast size.",
+						"image_url": "https://skillcheckgame.com/assets/images/calm_lands.webp",
+						"question": "What animal are the characters frequently seen riding across this plain in the image?",
+						"wrong": [
+							"Shoopuf",
+							"Horse",
+							"Machina Cycle"
+						]
+					},
+					{
+						"correct": "A massive cliff/gorge",
+						"difficulty": "Medium",
+						"explanation": "The 'Scar' in the north was created during a previous battle with Sin.",
+						"image_url": "https://skillcheckgame.com/assets/images/calm_lands.webp",
+						"question": "What defines the horizon of this location in the image?",
+						"wrong": [
+							"A forest",
+							"A city skyline",
+							"A volcano"
+						]
+					},
+					{
+						"correct": "Overcast/Cloudy",
+						"difficulty": "Medium",
+						"explanation": "The Calm Lands often has a somber, cloudy atmosphere, fitting its history as a graveyard for summoners.",
+						"image_url": "https://skillcheckgame.com/assets/images/calm_lands.webp",
+						"question": "What is the weather like in this vast open field in the image?",
+						"wrong": [
+							"Sunny",
+							"Raining",
+							"Snowing"
+						]
+					},
+					{
+						"correct": "The Monster Arena",
+						"difficulty": "Easy",
+						"explanation": "The Monster Arena is located on the eastern edge of the Calm Lands.",
+						"image_url": "",
+						"question": "Which side-activity involves capturing fiends in this location?",
+						"wrong": [
+							"Blitzball",
+							"Sphere Break",
+							"The Hunt"
+						]
+					},
+					{
+						"correct": "The Scar",
+						"difficulty": "Medium",
+						"explanation": "The Scar leads to the Cavern of the Stolen Fayth and the path to Mt. Gagazet.",
+						"image_url": "",
+						"question": "What is the name of the gorge at the northern end of the Calm Lands?",
+						"wrong": [
+							"The Pit",
+							"The Chasm",
+							"The Valley of Death"
+						]
+					},
+					{
+						"correct": "Catcher Chocobo",
+						"difficulty": "Hard",
+						"explanation": "You must beat the trainer with a time of 0.0 seconds by dodging birds and hitting balloons.",
+						"image_url": "",
+						"question": "Which mini-game is required to obtain Tidus's Sun Sigil here?",
+						"wrong": [
+							"Chocobo Racing",
+							"Chocobo Hot and Cold",
+							"Chocobo Breeding"
+						]
+					},
+					{
+						"correct": "Magus Sisters",
+						"difficulty": "Hard",
+						"explanation": "They are located in Remiem Temple, which is hidden in a secret area accessible by Chocobo.",
+						"image_url": "",
+						"question": "Which hidden Aeon can be found in a temple in the Calm Lands?",
+						"wrong": [
+							"Anima",
+							"Yojimbo",
+							"Bahamut"
+						]
+					},
+					{
+						"correct": "Defender X",
+						"difficulty": "Medium",
+						"explanation": "Defender X is a massive golem that blocks the path to Mt. Gagazet.",
+						"image_url": "",
+						"question": "Who do you fight at the end of the Calm Lands before reaching the bridge?",
+						"wrong": [
+							"Seymour",
+							"Sinspawn Gui",
+							"Evrae"
+						]
+					},
+					{
+						"correct": "Rin's Travel Agency",
+						"difficulty": "Easy",
+						"explanation": "Rin operates a mobile shop in the center of the plains.",
+						"image_url": "",
+						"question": "What is the name of the agency that provides travel services in the Calm Lands?",
+						"wrong": [
+							"The Al Bhed Shop",
+							"Yevon Rest",
+							"Crusader Camp"
+						]
+					},
+					{
+						"correct": "Sin",
+						"difficulty": "Easy",
+						"explanation": "It is a wasteland where nothing grows because of the intensity of Sin's previous battles.",
+						"image_url": "",
+						"question": "The Calm Lands were created by the destruction caused by whom?",
+						"wrong": [
+							"The Al Bhed",
+							"Yu Yevon",
+							"Omega Weapon"
+						]
+					},
+					{
+						"correct": "It is a sunken temple",
+						"difficulty": "Medium",
+						"explanation": "Remiem Temple is located in a valley floor and is where you can challenge Belgemine.",
+						"image_url": "",
+						"question": "What is unique about the Remiem Temple located here?",
+						"wrong": [
+							"It is made of gold",
+							"It is floating",
+							"It is inside a cave"
+						]
+					},
+					{
+						"correct": "Defeat them all and send her",
+						"difficulty": "Medium",
+						"explanation": "By defeating all of her Aeons, Yuna can finally send Belgemine to the Farplane.",
+						"image_url": "",
+						"question": "What must you do to Belgemine's Aeons at Remiem Temple?",
+						"wrong": [
+							"Buy them from her",
+							"Capture them",
+							"Heal them"
+						]
+					},
+					{
+						"correct": "Caladbolg",
+						"difficulty": "Hard",
+						"explanation": "It is found in a small alcove that is only accessible after winning the Chocobo race.",
+						"image_url": "",
+						"question": "Which legendary sword can be found in a secret area of the Calm Lands?",
+						"wrong": [
+							"Masamune",
+							"Excalibur",
+							"Ragnarok"
+						]
+					},
+					{
+						"correct": "Grassy plains",
+						"difficulty": "Easy",
+						"explanation": "It is a massive, featureless grassland, making it easy to get lost without a map.",
+						"image_url": "",
+						"question": "What is the primary terrain of the Calm Lands?",
+						"wrong": [
+							"Desert sands",
+							"Snowy mountains",
+							"Dense jungle"
+						]
+					},
+					{
+						"correct": "The battle against Sin",
+						"difficulty": "Easy",
+						"explanation": "Summoners throughout history have chosen this empty space to avoid collateral damage during the Final Summoning.",
+						"image_url": "",
+						"question": "What is the 'Final' battle that traditionally occurs here?",
+						"wrong": [
+							"The battle against Bevelle",
+							"The battle against the Guado",
+							"The battle for the Fayth"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_the_calm_lands",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "The Calm Lands",
+				"lore_desc": "A vast, grassy plain where High Summoners have historically fought and defeated Sin.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Plain",
+					"Battlefield",
+					"Open World"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A large ring",
+						"difficulty": "Easy",
+						"explanation": "Bahamut's unique design in FFX features a mechanical-looking ring that floats behind him.",
+						"image_url": "https://skillcheckgame.com/assets/images/bahamut.webp",
+						"question": "What circular object is floating behind this creature's back in the image?",
+						"wrong": [
+							"A halo",
+							"A cape",
+							"A set of spikes"
+						]
+					},
+					{
+						"correct": "Purple and Black",
+						"difficulty": "Easy",
+						"explanation": "Bahamut has a dark, regal color scheme with purple accents.",
+						"image_url": "https://skillcheckgame.com/assets/images/bahamut.webp",
+						"question": "What color are this dragon's wings in the image?",
+						"wrong": [
+							"Red and Gold",
+							"Green and Silver",
+							"Blue and White"
+						]
+					},
+					{
+						"correct": "Crossed arms",
+						"difficulty": "Medium",
+						"explanation": "Bahamut strikes a confident, arms-crossed pose before unleashing his Mega Flare.",
+						"image_url": "https://skillcheckgame.com/assets/images/bahamut.webp",
+						"question": "What pose is this creature striking during its Overdrive in the image?",
+						"wrong": [
+							"Roaring at the sky",
+							"Curled in a ball",
+							"Spreading wings wide"
+						]
+					},
+					{
+						"correct": "Bevelle",
+						"difficulty": "Easy",
+						"explanation": "Bahamut is found in the high-tech Bevelle Temple.",
+						"image_url": "",
+						"question": "In which city's temple is Bahamut obtained?",
+						"wrong": [
+							"Luca",
+							"Zanarkand",
+							"Macalania"
+						]
+					},
+					{
+						"correct": "Mega Flare",
+						"difficulty": "Easy",
+						"explanation": "Mega Flare is a classic Final Fantasy move that deals non-elemental magic damage.",
+						"image_url": "",
+						"question": "What is the name of Bahamut's signature Overdrive?",
+						"wrong": [
+							"Giga Flare",
+							"Tera Flare",
+							"Zetta Flare"
+						]
+					},
+					{
+						"correct": "He can break the 9,999 damage limit naturally",
+						"difficulty": "Medium",
+						"explanation": "Bahamut is the first Aeon the player gets who can deal more than 9,999 damage without a Celestial Weapon.",
+						"image_url": "",
+						"question": "What is unique about Bahamut's damage compared to earlier Aeons?",
+						"wrong": [
+							"He hits twice",
+							"He uses no MP",
+							"He cannot be hit"
+						]
+					},
+					{
+						"correct": "A young boy in a hooded cloak",
+						"difficulty": "Medium",
+						"explanation": "The Fayth boy is a central figure in the story, communicating the truth of Dream Zanarkand to Tidus.",
+						"image_url": "",
+						"question": "What form does the Fayth for Bahamut take when appearing to Tidus?",
+						"wrong": [
+							"An old man",
+							"A beautiful woman",
+							"A warrior"
+						]
+					},
+					{
+						"correct": "Delay (it doesn't inflict a status, but delays turns)",
+						"difficulty": "Hard",
+						"explanation": "Impulse is a powerful attack that hits all enemies and can set them back on the CTB bar.",
+						"image_url": "",
+						"question": "Which status effect is Bahamut's 'Impulse' attack capable of inflicting on all enemies?",
+						"wrong": [
+							"Poison",
+							"Petrify",
+							"Silence"
+						]
+					},
+					{
+						"correct": "Non-elemental",
+						"difficulty": "Easy",
+						"explanation": "Bahamut's attacks are purely magical and ignore elemental resistances.",
+						"image_url": "",
+						"question": "What is Bahamut's 'elemental' alignment?",
+						"wrong": [
+							"Fire",
+							"Dark",
+							"Holy"
+						]
+					},
+					{
+						"correct": "Zanarkand (Intro)",
+						"difficulty": "Medium",
+						"explanation": "The Fayth boy appears to Tidus in the middle of the Sin attack in Zanarkand.",
+						"image_url": "",
+						"question": "Where do you first see Bahamut in the game?",
+						"wrong": [
+							"Bevelle",
+							"Luca",
+							"Kilika"
+						]
+					},
+					{
+						"correct": "Heavy magical damage",
+						"difficulty": "Easy",
+						"explanation": "Bahamut is the heavy hitter of the mid-game summons.",
+						"image_url": "",
+						"question": "What is Bahamut's primary role in the party's strategy?",
+						"wrong": [
+							"Healing",
+							"Status buffing",
+							"Physical tanking"
+						]
+					},
+					{
+						"correct": "Zanarkand Dome",
+						"difficulty": "Hard",
+						"explanation": "He appears in the same room where you fought Yunalesca after you leave and return.",
+						"image_url": "",
+						"question": "In the 'Dark Aeon' optional content, where is Dark Bahamut found?",
+						"wrong": [
+							"Bevelle Temple",
+							"The Calm Lands",
+							"Mt. Gagazet"
+						]
+					},
+					{
+						"correct": "He stops dreaming and turns to stone",
+						"difficulty": "Medium",
+						"explanation": "With Yu Yevon gone, the Fayth are finally allowed to wake up and stop the summoning.",
+						"image_url": "",
+						"question": "What happens to the Bahamut Fayth at the end of the game?",
+						"wrong": [
+							"He becomes Sin",
+							"He goes to the Farplane",
+							"He dies in battle"
+						]
+					},
+					{
+						"correct": "4",
+						"difficulty": "Hard",
+						"explanation": "He has two large main wings and two smaller auxiliary wings near his lower back.",
+						"image_url": "",
+						"question": "How many 'wings' does Bahamut appear to have in FFX?",
+						"wrong": [
+							"2",
+							"6",
+							"8"
+						]
+					},
+					{
+						"correct": "One MP Cost",
+						"difficulty": "Hard",
+						"explanation": "Bahamut is one of the easiest Aeons to customize with high-end magic abilities.",
+						"image_url": "",
+						"question": "Which ability does Bahamut learn that allows him to cast any black magic for 1 MP?",
+						"wrong": [
+							"Half MP Cost",
+							"Magic Booster",
+							"Turbo Ether"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_bahamut",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Bahamut",
+				"lore_desc": "One of the most powerful Aeons, taking the form of a magnificent winged dragon.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Aeon",
+					"Dragon",
+					"Fayth"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Hibiscus",
+						"difficulty": "Easy",
+						"explanation": "Besaid is known for its lush, tropical flora, particularly its pink hibiscus flowers.",
+						"image_url": "https://skillcheckgame.com/assets/images/besaid_island.webp",
+						"question": "What type of tropical flowers are blooming in this village in the image?",
+						"wrong": [
+							"Sunflowers",
+							"Tulips",
+							"Lilies"
+						]
+					},
+					{
+						"correct": "Thatch-roofed huts",
+						"difficulty": "Easy",
+						"explanation": "The village consists of simple, open-air wooden structures with straw roofs.",
+						"image_url": "https://skillcheckgame.com/assets/images/besaid_island.webp",
+						"question": "What kind of structures are the villagers living in, as seen in the image?",
+						"wrong": [
+							"Brick houses",
+							"Modern apartments",
+							"Stone caves"
+						]
+					},
+					{
+						"correct": "Besaid Falls",
+						"difficulty": "Medium",
+						"explanation": "The waterfall is a prominent landmark that Tidus jumps from early in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/besaid_island.webp",
+						"question": "What is the name of the high waterfall seen in the background of the image?",
+						"wrong": [
+							"Kilika Falls",
+							"The Great Drop",
+							"White Water Falls"
+						]
+					},
+					{
+						"correct": "Valefor",
+						"difficulty": "Easy",
+						"explanation": "Valefor is the first Aeon Yuna obtains at the start of her pilgrimage.",
+						"image_url": "",
+						"question": "Which Aeon is housed in the temple on Besaid Island?",
+						"wrong": [
+							"Ifrit",
+							"Shiva",
+							"Bahamut"
+						]
+					},
+					{
+						"correct": "Wakka",
+						"difficulty": "Easy",
+						"explanation": "Wakka is the captain, coach, and most senior member of the village's team.",
+						"image_url": "",
+						"question": "Who is the leader of the Besaid Aurochs when Tidus first arrives?",
+						"wrong": [
+							"Datto",
+							"Letty",
+							"Jassu"
+						]
+					},
+					{
+						"correct": "Valefor's second Overdrive",
+						"difficulty": "Hard",
+						"explanation": "The dog in Besaid gives you the 'Energy Blast' Overdrive for Valefor.",
+						"image_url": "",
+						"question": "What secret item can Tidus find by talking to a dog in the village?",
+						"wrong": [
+							"A Moon Crest",
+							"A Rusty Sword",
+							"A Potion"
+						]
+					},
+					{
+						"correct": "Wakka, Lulu, and Yuna",
+						"difficulty": "Easy",
+						"explanation": "While Yuna wasn't born there, she spent her childhood in Besaid after her father died.",
+						"image_url": "",
+						"question": "Besaid is the hometown of which three party members?",
+						"wrong": [
+							"Tidus, Wakka, and Auron",
+							"Rikku, Wakka, and Lulu",
+							"Yuna, Kimahri, and Rikku"
+						]
+					},
+					{
+						"correct": "Fishing and Weaving",
+						"difficulty": "Medium",
+						"explanation": "The villagers live a simple life sustained by the sea and local crafts.",
+						"image_url": "",
+						"question": "What is the primary industry of the Besaid villagers?",
+						"wrong": [
+							"Mining",
+							"Machina repair",
+							"Farming"
+						]
+					},
+					{
+						"correct": "Kimahri",
+						"difficulty": "Easy",
+						"explanation": "Kimahri tests Tidus in a one-on-one duel to see if he is worthy of guarding Yuna.",
+						"image_url": "",
+						"question": "Which boss is fought on the road leaving Besaid village?",
+						"wrong": [
+							"Sinspawn",
+							"Garuda",
+							"Ifrit"
+						]
+					},
+					{
+						"correct": "Besaid Beach",
+						"difficulty": "Easy",
+						"explanation": "He is found by the Aurochs while they are practicing their blitzball passes.",
+						"image_url": "",
+						"question": "What is the name of the beach area where Tidus first wakes up on the island?",
+						"wrong": [
+							"Moonflow Beach",
+							"Kilika Sand",
+							"Sanubia Coast"
+						]
+					},
+					{
+						"correct": "All of them",
+						"difficulty": "Medium",
+						"explanation": "The Aurochs are a local team made up entirely of Besaid residents.",
+						"image_url": "",
+						"question": "How many players from the original Besaid Aurochs team are from the village?",
+						"wrong": [
+							"Only Wakka",
+							"Half of them",
+							"None of them"
+						]
+					},
+					{
+						"correct": "Moon Crest",
+						"difficulty": "Medium",
+						"explanation": "It is hidden in an alcove in the water on the right side of the beach.",
+						"image_url": "",
+						"question": "Which crest is found in a treasure chest on Besaid Beach?",
+						"wrong": [
+							"Sun Crest",
+							"Mars Crest",
+							"Jupiter Crest"
+						]
+					},
+					{
+						"correct": "Hawks / Raptors",
+						"difficulty": "Hard",
+						"explanation": "Valefor is modeled after these predatory birds.",
+						"image_url": "",
+						"question": "What type of birds are common on Besaid Island and featured in its temple?",
+						"wrong": [
+							"Parrots",
+							"Chocobos",
+							"Seagulls"
+						]
+					},
+					{
+						"correct": "It is guarded by Dark Valefor",
+						"difficulty": "Hard",
+						"explanation": "Returning to Besaid late in the game triggers a battle with the powerful Dark Valefor.",
+						"image_url": "",
+						"question": "What happens to Besaid Temple in the optional late-game content?",
+						"wrong": [
+							"It is destroyed by Sin",
+							"It is taken over by Al Bhed",
+							"It sinks"
+						]
+					},
+					{
+						"correct": "Lord Ohalland",
+						"difficulty": "Hard",
+						"explanation": "Ohalland was a High Summoner and a famous Blitzball player from Besaid's past.",
+						"image_url": "",
+						"question": "Who is the summoner that Yuna looks up to, who also lived in Besaid?",
+						"wrong": [
+							"Lord Gandof",
+							"Lord Mi'ihen",
+							"Lord Yevon"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_besaid_island",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Besaid Island",
+				"lore_desc": "A peaceful tropical island where Yuna grew up and Tidus's journey in Spira truly begins.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Village",
+					"Island",
+					"Start"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The left one",
+						"difficulty": "Easy",
+						"explanation": "Kimahri's horn was broken during a fight with his rival, Biran Ronso.",
+						"image_url": "https://skillcheckgame.com/assets/images/kimahri.webp",
+						"question": "Which horn on this character's head is broken in the image?",
+						"wrong": [
+							"The right one",
+							"Both",
+							"Neither"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "The Ronso are a race of blue-furred, leonine humanoids from Mt. Gagazet.",
+						"image_url": "https://skillcheckgame.com/assets/images/kimahri.webp",
+						"question": "What color is this character's fur in the image?",
+						"wrong": [
+							"Grey",
+							"White",
+							"Tan"
+						]
+					},
+					{
+						"correct": "Spear / Lance",
+						"difficulty": "Easy",
+						"explanation": "Kimahri uses long spears, which fit his role as a Dragoon-style warrior.",
+						"image_url": "https://skillcheckgame.com/assets/images/kimahri.webp",
+						"question": "What weapon type is this character holding in the image?",
+						"wrong": [
+							"Sword",
+							"Axe",
+							"Staff"
+						]
+					},
+					{
+						"correct": "Ronso Rage",
+						"difficulty": "Medium",
+						"explanation": "Kimahri learns new techniques by using the 'Lancet' ability on enemies.",
+						"image_url": "",
+						"question": "What is the name of Kimahri's Overdrive category?",
+						"wrong": [
+							"Dragon Skill",
+							"Blue Magic",
+							"Lancet"
+						]
+					},
+					{
+						"correct": "He was ashamed of his broken horn",
+						"difficulty": "Medium",
+						"explanation": "Ronso culture places great pride in their horns, and his loss made him an outcast.",
+						"image_url": "",
+						"question": "Why did Kimahri leave his home on Mt. Gagazet?",
+						"wrong": [
+							"He was exiled for a crime",
+							"He wanted to see the world",
+							"He was sent by the elders"
+						]
+					},
+					{
+						"correct": "Auron",
+						"difficulty": "Medium",
+						"explanation": "A dying Auron asked Kimahri to take Yuna from Bevelle to the safety of Besaid.",
+						"image_url": "",
+						"question": "Who told Kimahri to watch over Yuna ten years ago?",
+						"wrong": [
+							"Braska",
+							"Jecht",
+							"Cid"
+						]
+					},
+					{
+						"correct": "He starts in the center",
+						"difficulty": "Medium",
+						"explanation": "Being in the center allows the player to build Kimahri into any role (Mage, Warrior, Thief).",
+						"image_url": "",
+						"question": "What is unique about Kimahri's position on the Sphere Grid?",
+						"wrong": [
+							"He has no path",
+							"He starts with Lulu",
+							"He starts at the end"
+						]
+					},
+					{
+						"correct": "Biran and Yenke",
+						"difficulty": "Hard",
+						"explanation": "This battle is a rite of passage where Kimahri finally earns the respect of his tribe.",
+						"image_url": "",
+						"question": "What are the names of the two Ronso that Kimahri must fight alone on Mt. Gagazet?",
+						"wrong": [
+							"Garik and Zamzi",
+							"Bask and Argai",
+							"Ronso and Enke"
+						]
+					},
+					{
+						"correct": "Spirit Lance",
+						"difficulty": "Medium",
+						"explanation": "The Spirit Lance is unlocked by interacting with three Cactuar stones in the Thunder Plains.",
+						"image_url": "",
+						"question": "What is the name of Kimahri's ultimate Celestial Weapon?",
+						"wrong": [
+							"Kain's Lance",
+							"Dragon Whisker",
+							"Holy Lance"
+						]
+					},
+					{
+						"correct": "Saturn Crest",
+						"difficulty": "Hard",
+						"explanation": "The Saturn Crest is found behind a pillar on Mt. Gagazet.",
+						"image_url": "",
+						"question": "Which crest is needed to upgrade the Spirit Lance?",
+						"wrong": [
+							"Jupiter Crest",
+							"Mars Crest",
+							"Mercury Crest"
+						]
+					},
+					{
+						"correct": "Self-Destruct",
+						"difficulty": "Easy",
+						"explanation": "It deals massive damage but removes Kimahri from the rest of the battle.",
+						"image_url": "",
+						"question": "What is Kimahri's signature 'Kamikaze' style Overdrive?",
+						"wrong": [
+							"Nova",
+							"Mighty Guard",
+							"White Wind"
+						]
+					},
+					{
+						"correct": "Nova",
+						"difficulty": "Hard",
+						"explanation": "Nova is the only Ronso Rage that can break the damage limit without a Celestial Weapon.",
+						"image_url": "",
+						"question": "What is the name of the most powerful 'Ronso Rage' ability, learned from Omega Weapon?",
+						"wrong": [
+							"Supernova",
+							"Flare Star",
+							"Aqua Breath"
+						]
+					},
+					{
+						"correct": "HP and MP",
+						"difficulty": "Easy",
+						"explanation": "Lancet drains both health and mana from the target to heal Kimahri.",
+						"image_url": "",
+						"question": "Which stat does Kimahri's 'Lancet' ability restore?",
+						"wrong": [
+							"HP only",
+							"MP only",
+							"Overdrive"
+						]
+					},
+					{
+						"correct": "Silence / A grunt",
+						"difficulty": "Easy",
+						"explanation": "Kimahri is famous for his stoicism and rarely speaks unless it's absolutely necessary.",
+						"image_url": "",
+						"question": "What is Kimahri's typical response to most questions or conversations?",
+						"wrong": [
+							"A long speech",
+							"A joke",
+							"A prayer"
+						]
+					},
+					{
+						"correct": "Butterfly Catching mini-game",
+						"difficulty": "Hard",
+						"explanation": "You must complete the butterfly catching challenge in the Macalania Woods.",
+						"image_url": "",
+						"question": "How do you obtain the Saturn Sigil for Kimahri?",
+						"wrong": [
+							"Lightning dodging",
+							"Monster Arena",
+							"Blitzball League"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_kimahri",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Kimahri",
+				"lore_desc": "A silent and loyal Ronso warrior who has protected Yuna since she was a child.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Guardian",
+					"Ronso",
+					"Blue Mage"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Wings",
+						"difficulty": "Easy",
+						"explanation": "Valefor flaps its wings to create a shockwave that can delay enemy turns.",
+						"image_url": "https://skillcheckgame.com/assets/images/valefor.webp",
+						"question": "What part of its body does this creature use to attack with its 'Sonic Wings' ability?",
+						"wrong": [
+							"Beak",
+							"Talons",
+							"Tail"
+						]
+					},
+					{
+						"correct": "Tan / Light Brown",
+						"difficulty": "Easy",
+						"explanation": "Valefor has a natural, earthy color palette with reddish-pink accents.",
+						"image_url": "https://skillcheckgame.com/assets/images/valefor.webp",
+						"question": "What is the primary color of this creature's feathers in the image?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Green"
+						]
+					},
+					{
+						"correct": "Feathered / Bird-like",
+						"difficulty": "Medium",
+						"explanation": "Valefor has a sleek, avian design inspired by birds of prey.",
+						"image_url": "https://skillcheckgame.com/assets/images/valefor.webp",
+						"question": "What kind of crest is on the top of this creature's head in the image?",
+						"wrong": [
+							"A metal crown",
+							"A single horn",
+							"A glowing jewel"
+						]
+					},
+					{
+						"correct": "Energy Ray",
+						"difficulty": "Medium",
+						"explanation": "Energy Ray is a beam of concentrated energy fired from Valefor's mouth.",
+						"image_url": "",
+						"question": "What is the name of Valefor's default Overdrive?",
+						"wrong": [
+							"Energy Blast",
+							"Mega Flare",
+							"Sonic Storm"
+						]
+					},
+					{
+						"correct": "2",
+						"difficulty": "Medium",
+						"explanation": "Valefor is the only Aeon that can learn a second Overdrive (Energy Blast).",
+						"image_url": "",
+						"question": "How many Overdrives does Valefor have in total?",
+						"wrong": [
+							"1",
+							"3",
+							"4"
+						]
+					},
+					{
+						"correct": "Besaid Temple",
+						"difficulty": "Easy",
+						"explanation": "Valefor is the first Aeon every player receives at the beginning of the journey.",
+						"image_url": "",
+						"question": "Which temple houses the Fayth for Valefor?",
+						"wrong": [
+							"Kilika Temple",
+							"Djose Temple",
+							"Bevelle Temple"
+						]
+					},
+					{
+						"correct": "None / Non-elemental",
+						"difficulty": "Medium",
+						"explanation": "While it seems wind-based, Valefor's attacks do not have an elemental property.",
+						"image_url": "",
+						"question": "What is Valefor's elemental alignment?",
+						"wrong": [
+							"Wind",
+							"Holy",
+							"Fire"
+						]
+					},
+					{
+						"correct": "It delays the enemy's turn",
+						"difficulty": "Medium",
+						"explanation": "Sonic Wings is highly effective at keeping slow enemies from ever taking a turn.",
+						"image_url": "",
+						"question": "What special property does the Sonic Wings attack have in battle?",
+						"wrong": [
+							"It poisons the enemy",
+							"It reduces defense",
+							"It heals Yuna"
+						]
+					},
+					{
+						"correct": "A young girl",
+						"difficulty": "Hard",
+						"explanation": "The Fayth shown in the Besaid chamber is a small girl in a white dress.",
+						"image_url": "",
+						"question": "The Fayth for Valefor takes the form of which person?",
+						"wrong": [
+							"A warrior",
+							"An old woman",
+							"A priest"
+						]
+					},
+					{
+						"correct": "Nirvana (Yuna)",
+						"difficulty": "Medium",
+						"explanation": "Upgrading Yuna's Nirvana with the Moon Crest allows Valefor to deal over 9,999 damage.",
+						"image_url": "",
+						"question": "Which Celestial Weapon must be upgraded to allow Valefor to break the damage limit?",
+						"wrong": [
+							"Brotherhood (Tidus)",
+							"World Champion (Wakka)",
+							"Onion Knight (Lulu)"
+						]
+					},
+					{
+						"correct": "800,000 HP",
+						"difficulty": "Hard",
+						"explanation": "Dark Valefor is the weakest of the Dark Aeons but still far stronger than her normal version.",
+						"image_url": "",
+						"question": "What is the 'Dark' version of Valefor's health pool in the HD remaster?",
+						"wrong": [
+							"50,000 HP",
+							"2,000,000 HP",
+							"10,000,000 HP"
+						]
+					},
+					{
+						"correct": "A backflip in mid-air",
+						"difficulty": "Hard",
+						"explanation": "Valefor is very agile and frequently backflips to avoid incoming attacks.",
+						"image_url": "",
+						"question": "What is the unique 'dodge' animation Valefor performs?",
+						"wrong": [
+							"Disappearing in smoke",
+							"A barrel roll",
+							"Folding its wings"
+						]
+					},
+					{
+						"correct": "A custom name from the start",
+						"difficulty": "Easy",
+						"explanation": "While all Aeons can be renamed, Valefor is the only one whose naming prompt appears during the main story.",
+						"image_url": "",
+						"question": "Valefor is notably the only Aeon that can be given what?",
+						"wrong": [
+							"A hat",
+							"New wings",
+							"Elemental magic"
+						]
+					},
+					{
+						"correct": "Dismiss",
+						"difficulty": "Easy",
+						"explanation": "Like all Aeons, Valefor can be dismissed by Yuna to bring the party back.",
+						"image_url": "",
+						"question": "Which ability allows Valefor to instantly escape from battle?",
+						"wrong": [
+							"Flee",
+							"Withdraw",
+							"Eject"
+						]
+					},
+					{
+						"correct": "It catches her when she falls",
+						"difficulty": "Hard",
+						"explanation": "As the Aeons fade, Valefor catches Yuna during her escape from the airship.",
+						"image_url": "",
+						"question": "In the game's ending, what does Valefor do as Yuna is being sent to the Farplane?",
+						"wrong": [
+							"It attacks Sin",
+							"It turns into a pyrefly",
+							"It flies away alone"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_valefor",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Valefor",
+				"lore_desc": "Yuna's first Aeon, a swift aerial hunter that she summoned in the village of Besaid.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Aeon",
+					"Bird",
+					"Summon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "It is bound in chains and bandages",
+						"difficulty": "Easy",
+						"explanation": "Anima is a symbol of suffering, depicted as a heavily bound and shackled figure.",
+						"image_url": "https://skillcheckgame.com/assets/images/anima.webp",
+						"question": "What defines the upper half of this creature's body in the image?",
+						"wrong": [
+							"It has four arms",
+							"It is covered in scales",
+							"It is made of fire"
+						]
+					},
+					{
+						"correct": "It has a second, more monstrous face",
+						"difficulty": "Medium",
+						"explanation": "During 'Oblivion', Anima drags the enemy into a dark void where its hidden lower half punches them repeatedly.",
+						"image_url": "https://skillcheckgame.com/assets/images/anima.webp",
+						"question": "What is unique about the 'lower' half of this creature shown in its Overdrive?",
+						"wrong": [
+							"It has a fish tail",
+							"It is a cloud of smoke",
+							"It is a mechanical engine"
+						]
+					},
+					{
+						"correct": "Oblivion",
+						"difficulty": "Easy",
+						"explanation": "Oblivion is one of the most visually striking and longest Overdrive animations in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/anima.webp",
+						"question": "What is the name of this creature's signature Overdrive?",
+						"wrong": [
+							"Eternal Darkness",
+							"Abyssal Strike",
+							"Pain"
+						]
+					},
+					{
+						"correct": "Seymour's mother",
+						"difficulty": "Medium",
+						"explanation": "She sacrificed herself to become Seymour's Fayth so he would have the power to destroy Sin.",
+						"image_url": "",
+						"question": "Who is the Fayth that became Anima?",
+						"wrong": [
+							"Seymour's father",
+							"Lord Jyscal",
+							"Yunalesca"
+						]
+					},
+					{
+						"correct": "Baaj Temple",
+						"difficulty": "Medium",
+						"explanation": "Anima is hidden in the underwater ruins of Baaj Temple.",
+						"image_url": "",
+						"question": "Where can the party obtain Anima as their own Aeon?",
+						"wrong": [
+							"Zanarkand Temple",
+							"Bevelle Temple",
+							"Remiem Temple"
+						]
+					},
+					{
+						"correct": "Find all hidden treasures in the Cloisters of Trials",
+						"difficulty": "Hard",
+						"explanation": "You must use the Destruction Spheres to find the secret treasure in every previous temple.",
+						"image_url": "",
+						"question": "What must the player do to unlock the seal on Anima's chamber?",
+						"wrong": [
+							"Defeat Seymour 3 times",
+							"Win 50 Blitzball games",
+							"Capture every fiend"
+						]
+					},
+					{
+						"correct": "Pain",
+						"difficulty": "Easy",
+						"explanation": "Pain is a magical attack that bypasses magic defense and often kills non-boss enemies instantly.",
+						"image_url": "",
+						"question": "What is the name of Anima's special attack that has a high chance to cause Instant Death?",
+						"wrong": [
+							"Death",
+							"Doom",
+							"Suffering"
+						]
+					},
+					{
+						"correct": "Non-elemental / Dark-themed",
+						"difficulty": "Easy",
+						"explanation": "While it looks dark, its damage is non-elemental, making it effective against all enemies.",
+						"image_url": "",
+						"question": "What is Anima's elemental affinity?",
+						"wrong": [
+							"Fire",
+							"Ice",
+							"Lightning"
+						]
+					},
+					{
+						"correct": "Destroy a horde of fiends",
+						"difficulty": "Medium",
+						"explanation": "Seymour publicly summons Anima to clear the stadium of fiends, gaining the people's trust.",
+						"image_url": "",
+						"question": "In Luca, what does Seymour use Anima to do?",
+						"wrong": [
+							"Attack Tidus",
+							"Win a Blitzball match",
+							"Summon Sin"
+						]
+					},
+					{
+						"correct": "16",
+						"difficulty": "Hard",
+						"explanation": "In the International and HD versions, Oblivion was changed to deal 16 smaller hits rather than one big hit.",
+						"image_url": "",
+						"question": "How many hits does Anima's 'Oblivion' Overdrive land in the HD version?",
+						"wrong": [
+							"1",
+							"8",
+							"12"
+						]
+					},
+					{
+						"correct": "None, she breaks it naturally",
+						"difficulty": "Hard",
+						"explanation": "Like Bahamut, Anima is a 'tier 2' Aeon that ignores the 9,999 cap by default.",
+						"image_url": "",
+						"question": "Which Celestial Weapon is NOT required for Anima to break the damage limit?",
+						"wrong": [
+							"Nirvana",
+							"Godhand",
+							"Masamune"
+						]
+					},
+					{
+						"correct": "Geosgaeno",
+						"difficulty": "Hard",
+						"explanation": "Geosgaeno is the same fish-like beast that nearly ate Tidus at the start of the game.",
+						"image_url": "",
+						"question": "What is the name of the boss you must fight underwater to enter Baaj Temple?",
+						"wrong": [
+							"Evrae Altana",
+							"Sinspawn Geneaux",
+							"Tros"
+						]
+					},
+					{
+						"correct": "A blast of energy from her eye",
+						"difficulty": "Medium",
+						"explanation": "Anima remains stationary and fires a focused beam from her central eye for her basic attack.",
+						"image_url": "",
+						"question": "What does Anima's physical attack involve?",
+						"wrong": [
+							"A punch",
+							"A tail swipe",
+							"A bite"
+						]
+					},
+					{
+						"correct": "Seymour was exiled there",
+						"difficulty": "Medium",
+						"explanation": "Seymour and his mother lived in exile at Baaj, where she eventually became the Fayth.",
+						"image_url": "",
+						"question": "Why is Anima's Fayth statue located at Baaj instead of Guadosalam?",
+						"wrong": [
+							"It was stolen",
+							"Baaj was the original Guado home",
+							"It was too powerful for the city"
+						]
+					},
+					{
+						"correct": "All negative status effects",
+						"difficulty": "Hard",
+						"explanation": "As a late-game Aeon, Anima is immune to almost all status ailments.",
+						"image_url": "",
+						"question": "Which status effect does Anima naturally resist completely?",
+						"wrong": [
+							"Only Poison",
+							"Only Petrify",
+							"None"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_anima",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Anima",
+				"lore_desc": "A bound and suffering Aeon of immense power, first seen as Seymour Guado's personal summon.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Aeon",
+					"Dark",
+					"Summon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Massive stone towers and bridges",
+						"difficulty": "Easy",
+						"explanation": "Bevelle is a sprawling metropolis built over the water with massive, imposing architecture.",
+						"image_url": "https://skillcheckgame.com/assets/images/bevelle.webp",
+						"question": "What defines the architectural style of Bevelle as seen in the image?",
+						"wrong": [
+							"Underwater domes",
+							"Treehouses",
+							"Tent villages"
+						]
+					},
+					{
+						"correct": "Moving walkways / platforms",
+						"difficulty": "Medium",
+						"explanation": "Bevelle utilizes ancient machina for transportation, despite the church's public teachings against it.",
+						"image_url": "https://skillcheckgame.com/assets/images/bevelle.webp",
+						"question": "What are the characters using to travel through the city in the image?",
+						"wrong": [
+							"Cars",
+							"Chocobos",
+							"Teleporters"
+						]
+					},
+					{
+						"correct": "Red and White",
+						"difficulty": "Easy",
+						"explanation": "The Warrior Monks of Bevelle wear distinctive red and white robes and armor.",
+						"image_url": "https://skillcheckgame.com/assets/images/bevelle.webp",
+						"question": "What color is the standard uniform for the Bevelle guards/monks in the image?",
+						"wrong": [
+							"Blue and Gold",
+							"Black and Silver",
+							"Green and Brown"
+						]
+					},
+					{
+						"correct": "Grand Maester Mika",
+						"difficulty": "Medium",
+						"explanation": "Mika has ruled Spira for over 50 years and is revealed to be an Unsent.",
+						"image_url": "",
+						"question": "Who is the leader of the Yevon religion, residing in Bevelle?",
+						"wrong": [
+							"Maester Seymour",
+							"Maester Kinoc",
+							"Maester Kelk"
+						]
+					},
+					{
+						"correct": "Via Purifico",
+						"difficulty": "Medium",
+						"explanation": "Yuna and her guardians are sent to the Via Purifico to be executed after being labeled traitors.",
+						"image_url": "",
+						"question": "What is the name of the high-security prison beneath Bevelle?",
+						"wrong": [
+							"The Dungeon",
+							"The Pit",
+							"The Cloister"
+						]
+					},
+					{
+						"correct": "Bahamut",
+						"difficulty": "Easy",
+						"explanation": "Bahamut's Fayth is located deep within the Bevelle Palace.",
+						"image_url": "",
+						"question": "Which Aeon is obtained in the Bevelle Temple?",
+						"wrong": [
+							"Ixion",
+							"Shiva",
+							"Ifrit"
+						]
+					},
+					{
+						"correct": "They are all Unsent",
+						"difficulty": "Medium",
+						"explanation": "The highest leaders of Yevon have remained in Spira as spirits to maintain control.",
+						"image_url": "",
+						"question": "What secret does the party discover about the city's leadership in Bevelle?",
+						"wrong": [
+							"They are Al Bhed",
+							"They are robots",
+							"They are Sin"
+						]
+					},
+					{
+						"correct": "The Highbridge",
+						"difficulty": "Easy",
+						"explanation": "The wedding ceremony takes place atop a massive bridge outside the palace.",
+						"image_url": "",
+						"question": "Which bridge is the site of the wedding between Yuna and Seymour?",
+						"wrong": [
+							"The Mi'ihen Bridge",
+							"The Bevelle Spire",
+							"The Holy Path"
+						]
+					},
+					{
+						"correct": "It involves riding a moving platform",
+						"difficulty": "Medium",
+						"explanation": "The Bevelle trial is notorious for its complex platforming on rails.",
+						"image_url": "",
+						"question": "What is unique about the Bevelle Cloister of Trials?",
+						"wrong": [
+							"It has no puzzles",
+							"It is underwater",
+							"It uses fire"
+						]
+					},
+					{
+						"correct": "It is restricted by the church",
+						"difficulty": "Hard",
+						"explanation": "Unlike other temples, the Bevelle Temple remains off-limits for the rest of the game.",
+						"image_url": "",
+						"question": "Why can the player never return to the Bevelle Temple later in the game?",
+						"wrong": [
+							"It was destroyed",
+							"It sank into the sea",
+							"Tidus forgot where it was"
+						]
+					},
+					{
+						"correct": "Yu Yevon",
+						"difficulty": "Easy",
+						"explanation": "The religion is named after Yu Yevon, the original summoner of Sin.",
+						"image_url": "",
+						"question": "Who was the founder of the religion that Bevelle governs?",
+						"wrong": [
+							"Lord Braska",
+							"Lady Yunalesca",
+							"Lord Mi'ihen"
+						]
+					},
+					{
+						"correct": "Evrae",
+						"difficulty": "Medium",
+						"explanation": "Evrae is the 'Guardian Dragon' of Bevelle that tries to stop the party's rescue mission.",
+						"image_url": "",
+						"question": "Which boss is fought on the airship right before landing in Bevelle?",
+						"wrong": [
+							"Seymour",
+							"Sinspawn",
+							"Efreet"
+						]
+					},
+					{
+						"correct": "The Warrior Monks",
+						"difficulty": "Easy",
+						"explanation": "The monks are both religious figures and highly trained soldiers.",
+						"image_url": "",
+						"question": "What is the name of the elite guard unit that protects the Maesters in Bevelle?",
+						"wrong": [
+							"The Crusaders",
+							"The Crimson Squad",
+							"The Guardians"
+						]
+					},
+					{
+						"correct": "Zanarkand",
+						"difficulty": "Easy",
+						"explanation": "The war between Bevelle and Zanarkand 1,000 years ago led to the creation of Sin.",
+						"image_url": "",
+						"question": "Bevelle was the rival city of which ancient civilization?",
+						"wrong": [
+							"Luca",
+							"Kilika",
+							"Guadosalam"
+						]
+					},
+					{
+						"correct": "The destruction sphere treasure (Knight Lance)",
+						"difficulty": "Hard",
+						"explanation": "The Bevelle Destruction Sphere chest must be opened during the first visit to unlock Anima later.",
+						"image_url": "",
+						"question": "What is hidden behind the Bevelle Temple that players often miss?",
+						"wrong": [
+							"A Celestial Weapon",
+							"A Jecht Sphere",
+							"An Aeon"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_bevelle",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Bevelle",
+				"lore_desc": "The largest city in Spira and the center of the Yevon religion, hiding many dark secrets.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Holy",
+					"Machina"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pale Blue",
+						"difficulty": "Easy",
+						"explanation": "Shiva's design reflects her elemental affinity for ice and cold.",
+						"image_url": "https://skillcheckgame.com/assets/images/shiva.webp",
+						"question": "What is the primary color of this creature's skin in the image?",
+						"wrong": [
+							"Bright Red",
+							"Pure White",
+							"Dark Purple"
+						]
+					},
+					{
+						"correct": "Snapping her fingers",
+						"difficulty": "Easy",
+						"explanation": "Shiva's signature move involves a graceful finger snap to shatter her enemies in ice.",
+						"image_url": "https://skillcheckgame.com/assets/images/shiva.webp",
+						"question": "What action does this creature perform during its Overdrive in the image?",
+						"wrong": [
+							"Clapping her hands",
+							"Kicking a ball",
+							"Pointing a staff"
+						]
+					},
+					{
+						"correct": "Ornate jewelry and flowing fabric",
+						"difficulty": "Medium",
+						"explanation": "Despite the cold, Shiva is dressed in minimal, decorative attire that emphasizes her elegance.",
+						"image_url": "https://skillcheckgame.com/assets/images/shiva.webp",
+						"question": "What is this creature wearing in the image?",
+						"wrong": [
+							"Heavy plate armor",
+							"A winter coat",
+							"A Blitzball uniform"
+						]
+					},
+					{
+						"correct": "Macalania Temple",
+						"difficulty": "Easy",
+						"explanation": "She is found in the frozen Macalania Temple, fitting her ice element.",
+						"image_url": "",
+						"question": "In which temple is Shiva obtained?",
+						"wrong": [
+							"Djose Temple",
+							"Kilika Temple",
+							"Besaid Temple"
+						]
+					},
+					{
+						"correct": "Diamond Dust",
+						"difficulty": "Easy",
+						"explanation": "Diamond Dust is a classic recurring move in the Final Fantasy series.",
+						"image_url": "",
+						"question": "What is the name of Shiva's signature Overdrive?",
+						"wrong": [
+							"Blizzard Breath",
+							"Ice Age",
+							"Cold Snap"
+						]
+					},
+					{
+						"correct": "Casting ice magic on herself",
+						"difficulty": "Medium",
+						"explanation": "Aeons absorb their own element, so Blizzara or Blizzaga will restore Shiva's HP.",
+						"image_url": "",
+						"question": "What special ability allows Shiva to heal herself in battle?",
+						"wrong": [
+							"Using a potion",
+							"Absorbing water",
+							"Praying"
+						]
+					},
+					{
+						"correct": "Heavenly Strike",
+						"difficulty": "Medium",
+						"explanation": "Heavenly Strike drops a massive block of ice on the enemy and can delay their turn.",
+						"image_url": "",
+						"question": "What is the name of Shiva's unique physical attack?",
+						"wrong": [
+							"Ice Brand",
+							"Frost Bite",
+							"Glacier Drop"
+						]
+					},
+					{
+						"correct": "Sinks into the lake",
+						"difficulty": "Medium",
+						"explanation": "After the party defeats Seymour, the Macalania Temple sinks beneath the frozen lake.",
+						"image_url": "",
+						"question": "The Fayth for Shiva is located in a temple that eventually does what?",
+						"wrong": [
+							"Explodes",
+							"Floats away",
+							"Turns into gold"
+						]
+					},
+					{
+						"correct": "A Macalania Priestess",
+						"difficulty": "Hard",
+						"explanation": "The Fayth is a tall, elegant woman dressed in priestess robes.",
+						"image_url": "",
+						"question": "The Fayth for Shiva takes the form of which person?",
+						"wrong": [
+							"An Al Bhed girl",
+							"A Guado woman",
+							"A Ronso warrior"
+						]
+					},
+					{
+						"correct": "Onion Knight (Lulu)",
+						"difficulty": "Hard",
+						"explanation": "Lulu's Celestial Weapon, the Onion Knight, is tied to Shiva's damage limit.",
+						"image_url": "",
+						"question": "Which Celestial Weapon must be upgraded to let Shiva break the damage limit?",
+						"wrong": [
+							"Nirvana (Yuna)",
+							"Spirit Lance (Kimahri)",
+							"Masamune (Auron)"
+						]
+					},
+					{
+						"correct": "Agility",
+						"difficulty": "Medium",
+						"explanation": "Shiva is the fastest of the early Aeons, often taking multiple turns before the enemy.",
+						"image_url": "",
+						"question": "What is Shiva's strongest base attribute?",
+						"wrong": [
+							"Strength",
+							"Defense",
+							"Luck"
+						]
+					},
+					{
+						"correct": "It deals no damage",
+						"difficulty": "Hard",
+						"explanation": "Diamond Dust is elemental, meaning it can be blocked by frost-resistant barriers.",
+						"image_url": "",
+						"question": "What happens when Shiva uses her Overdrive on an enemy with 'Null-Frost'?",
+						"wrong": [
+							"It still hits",
+							"It heals them",
+							"It shatters the shield"
+						]
+					},
+					{
+						"correct": "Seymour Guado",
+						"difficulty": "Easy",
+						"explanation": "You obtain Shiva immediately after the first battle with Seymour in the temple.",
+						"image_url": "",
+						"question": "What is the name of the boss you fight right before obtaining Shiva?",
+						"wrong": [
+							"Evrae",
+							"Spherimorph",
+							"Crawler"
+						]
+					},
+					{
+						"correct": "A figure skater",
+						"difficulty": "Medium",
+						"explanation": "Her graceful movements and 'snap' are very reminiscent of professional ice skaters.",
+						"image_url": "",
+						"question": "Shiva's appearance in FFX is often described as resembling what?",
+						"wrong": [
+							"A queen",
+							"A soldier",
+							"A dancer"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Hard",
+						"explanation": "Her eyes are a deep, piercing blue that matches her skin and icy nature.",
+						"image_url": "",
+						"question": "What color are Shiva's eyes?",
+						"wrong": [
+							"Red",
+							"Green",
+							"White"
+						]
+					}
+				]
+			},
+			"id": "final_fantasy_10_shiva",
+			"meta": {
+				"date_added": "2026-03-18",
+				"entity_category": "Theme Item",
+				"full_title": "Shiva",
+				"lore_desc": "The elegant and cold Aeon of Ice, known for her grace and devastating frost magic.",
+				"theme_origin": "final fantasy 10",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Aeon",
+					"Ice",
+					"Summon"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -62567,6 +66430,177 @@
 						"Decidueye"
 					],
 					"name": "Forest Shadows"
+				}
+			]
+		},
+		{
+			"id": "final fantasy 10",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Tidus",
+						"Jecht",
+						"Auron"
+					],
+					"name": "The Zanarkand Connection"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Wakka",
+						"Besaid Island",
+						"Blitzball"
+					],
+					"name": "The Besaid Aurochs"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Zanarkand",
+						"Bevelle",
+						"Sin"
+					],
+					"name": "The Machina War"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Seymour Guado",
+						"Bevelle",
+						"Anima"
+					],
+					"name": "Maester's Shadow"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Bahamut",
+						"Valefor",
+						"Shiva"
+					],
+					"name": "The Summoner's Arsenal"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Yuna",
+						"Wakka",
+						"Lulu"
+					],
+					"name": "Guardians of Besaid"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Tidus",
+						"Yuna"
+					],
+					"name": "Suteki Da Ne"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Tidus",
+						"Zanarkand"
+					],
+					"name": "A Fleeting Dream"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Auron",
+						"Seymour Guado"
+					],
+					"name": "The Unsent"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kimahri",
+						"Yuna"
+					],
+					"name": "Silent Devotion"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jecht",
+						"Sin"
+					],
+					"name": "Sins of the Father"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Rikku",
+						"Yuna"
+					],
+					"name": "Al Bhed Bloodline"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Lulu",
+						"Wakka"
+					],
+					"name": "Childhood Friends"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Yuna",
+						"Valefor"
+					],
+					"name": "The First Trial"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Yuna",
+						"Seymour Guado"
+					],
+					"name": "Macabre Betrothal"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sin",
+						"The Calm Lands"
+					],
+					"name": "Scars of the Past"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Tidus",
+						"Rikku"
+					],
+					"name": "Salvage Crew"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Bevelle",
+						"Bahamut"
+					],
+					"name": "Fayth of the Capital"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Tidus",
+						"Blitzball"
+					],
+					"name": "Star Player"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Auron",
+						"Kimahri"
+					],
+					"name": "A Promise Kept"
 				}
 			]
 		}
