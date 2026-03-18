@@ -602,8 +602,11 @@
 			"name": "Limit Break",
 			"reward_text": "Title: SOLDIER 1st Class",
 			"target": 10.0,
-			"target_key": "fantasy",
+			"target_key": "final fantasy 10",
 			"type": "mastery_franchise",
+			"unlocks_cart": "",
+			"unlocks_color": "",
+			"unlocks_console": "",
 			"unlocks_theme": "",
 			"unlocks_title": "soldier"
 		},
@@ -612,9 +615,12 @@
 			"id": "fran_ff_theme",
 			"name": "Mako Infusion",
 			"reward_text": "Theme: Mako Reactor",
-			"target": 15.0,
-			"target_key": "fantasy",
+			"target": 15,
+			"target_key": "final fantasy 10",
 			"type": "mastery_franchise",
+			"unlocks_cart": "",
+			"unlocks_color": "",
+			"unlocks_console": "",
 			"unlocks_theme": "mako_reactor",
 			"unlocks_title": ""
 		},
@@ -66589,7 +66595,7 @@
 					"name": "Star Player"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Auron",
 						"Kimahri"
