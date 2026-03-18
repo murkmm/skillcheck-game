@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773870989,
+	"last_updated": 1773872268,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2300,16 +2300,16 @@
 			"share_text": "HA HA HA HA HA HA HA",
 			"shops": [
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "strategy_guide",
+					"p2": "save_state"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "turbo_button",
+					"p2": "link_cable"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "gold_cartridge",
+					"p2": "piggy_bank"
 				}
 			],
 			"showcase": [
@@ -2338,7 +2338,7 @@
 				"final_fantasy_10_bevelle",
 				"final_fantasy_10_shiva"
 			],
-			"submitted_by": "Bradley"
+			"submitted_by": ""
 		}
 	}
 }
