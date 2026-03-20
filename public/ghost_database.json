@@ -791,18 +791,18 @@
 			"unlocks_title": ""
 		},
 		{
-			"desc": "Perfect 10 Yakuza cards",
+			"desc": "Perfect 15 Yakuza cards",
 			"id": "fran_yakuza",
-			"name": "Become The Dragon of Dojima",
+			"name": "Mad Dog of Shimano",
 			"reward_text": "Unlocks Dragon of Dojima Title ",
-			"target": 10,
+			"target": 15.0,
 			"target_key": "yakuza 0",
 			"type": "mastery_franchise",
 			"unlocks_cart": "",
 			"unlocks_color": "",
 			"unlocks_console": "",
-			"unlocks_theme": "",
-			"unlocks_title": "dragon_of_dojima"
+			"unlocks_theme": "kamurocho_nights",
+			"unlocks_title": ""
 		}
 	],
 	"games": [
@@ -68344,6 +68344,3254 @@
 					"Kamurocho"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Kacheek Seek",
+						"difficulty": "Easy",
+						"explanation": "Kacheek Seek is a classic game where players find their pet in different Neopian worlds to earn small amounts of Neopoints.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "Which popular game features this species hiding in various locations across Neopia?",
+						"wrong": [
+							"Hide and Bash",
+							"Seeker Squad",
+							"Pound Search"
+						]
+					},
+					{
+						"correct": "Top Three",
+						"difficulty": "Easy",
+						"explanation": "Kacheeks have maintained their status as one of the top three most-created Neopets for over two decades.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "This species is consistently ranked in which position regarding popularity among Neopian owners?",
+						"wrong": [
+							"Bottom Ten",
+							"Exactly Middle",
+							"Least Popular"
+						]
+					},
+					{
+						"correct": "Badeek",
+						"difficulty": "Hard",
+						"explanation": "Before being renamed Kacheeks, they were known as Badeeks and had a significantly different, more alien-like appearance.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "What was the original name of this species when it first debuted in Neopia?",
+						"wrong": [
+							"Kachee",
+							"Mynci",
+							"Poogle"
+						]
+					},
+					{
+						"correct": "Kacheek",
+						"difficulty": "Medium",
+						"explanation": "Eliv Thade is a ghost Kacheek who resides in a haunted castle and speaks almost exclusively in puzzles.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "The famous undead character Eliv Thade, known for his obsession with anagrams, belongs to which species?",
+						"wrong": [
+							"Zafara",
+							"Acara",
+							"Gelert"
+						]
+					},
+					{
+						"correct": "Shyness",
+						"difficulty": "Easy",
+						"explanation": "Kacheeks are famously shy and peaceful creatures that prefer playing in meadows over fighting in the Battledome.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "Which of these traits is most commonly associated with a Kacheek's personality in Neopian lore?",
+						"wrong": [
+							"Aggression",
+							"Greed",
+							"Laziness"
+						]
+					},
+					{
+						"correct": "Blue Man Group",
+						"difficulty": "Medium",
+						"explanation": "The Blue Kacheek Group is a popular musical act in Neopia that performs at the Tyrannian Concert Hall.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "The 'Blue Kacheek Group' is a reference to which real-world entertainment act?",
+						"wrong": [
+							"The Beatles",
+							"ABBA",
+							"Destiny's Child"
+						]
+					},
+					{
+						"correct": "Florin",
+						"difficulty": "Hard",
+						"explanation": "Florin is a famous Kacheek athlete who represents Team Meridell in the annual Yooyuball tournament.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "Which Kacheek hero is known for his role in the Altador Cup as a legendary goalkeeper?",
+						"wrong": [
+							"Dasher Soley",
+							"Elon Huutpper",
+							"Tormund"
+						]
+					},
+					{
+						"correct": "Herding Babaas",
+						"difficulty": "Medium",
+						"explanation": "Players control a Kacheek to herd sheep-like Petpets called Babaas into a pen before time runs out.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "In the game 'Kacheek Shepherd', what is the primary objective?",
+						"wrong": [
+							"Feeding Warf",
+							"Rescuing Kacheeks",
+							"Shearing Meowclops"
+						]
+					},
+					{
+						"correct": "Illusen",
+						"difficulty": "Medium",
+						"explanation": "Illusen the Earth Faerie is frequently depicted in the lush greenery of Meridell alongside forest-dwelling Neopets like Kacheeks.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "Which faerie is often seen accompanied by a Kacheek in promotional art for Meridell?",
+						"wrong": [
+							"Jhudora",
+							"Fyora",
+							"Taelia"
+						]
+					},
+					{
+						"correct": "Robot Paint Brush",
+						"difficulty": "Easy",
+						"explanation": "The Robot Paint Brush gives Neopets a metallic casing that can actually be removed to reveal a wire-filled interior.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "Which special paint brush color allows a Kacheek to look like a robot with mechanical parts?",
+						"wrong": [
+							"Iron Paint Brush",
+							"Chrome Paint Brush",
+							"Steel Paint Brush"
+						]
+					},
+					{
+						"correct": "No one",
+						"difficulty": "Hard",
+						"explanation": "Trick question! The Hidden Tower is traditionally guarded by Queen Fyora herself, though Kacheeks are common visitors.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "What is the name of the Kacheek who guards the entrance to the 'Hidden Tower' in some lore depictions?",
+						"wrong": [
+							"Bernie",
+							"The Tower Guard",
+							"Kalyan"
+						]
+					},
+					{
+						"correct": "Kacheek Life Potion",
+						"difficulty": "Hard",
+						"explanation": "The Kacheek Life Potion is a powerful healing item that is exclusive to the Kacheek species.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "Which of these is a unique item that only a Kacheek can use in the Battledome?",
+						"wrong": [
+							"Species Healer",
+							"Kacheek Shield",
+							"Tail Whip"
+						]
+					},
+					{
+						"correct": "Lush meadows",
+						"difficulty": "Easy",
+						"explanation": "Kacheeks are natural ground-dwellers that prefer grassy environments and forests.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "Where would you most likely find a wild Kacheek living in Neopia?",
+						"wrong": [
+							"Molten caves",
+							"Frozen tundras",
+							"Deep space"
+						]
+					},
+					{
+						"correct": "Kass",
+						"difficulty": "Hard",
+						"explanation": "While Lord Kass is an Eyrie, he displaced a council of advisors that originally included diverse species like Kacheeks.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "In the 'Champions of Meridell' plot, which Kacheek was a notable member of the court?",
+						"wrong": [
+							"Skarl",
+							"Hagan",
+							"Jeran"
+						]
+					},
+					{
+						"correct": "A tuft of fur",
+						"difficulty": "Medium",
+						"explanation": "Kacheeks are easily recognized by the small, fluffy tuft of hair or fur that sits right between their ears.",
+						"image_url": "https://skillcheckgame.com/assets/images/kacheek.webp",
+						"question": "What physical feature is distinct to the Kacheek species on the top of their head?",
+						"wrong": [
+							"A single horn",
+							"Antennae",
+							"Scales"
+						]
+					}
+				]
+			},
+			"id": "neopets_kacheek",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Kacheek",
+				"lore_desc": "Known for their gentle nature and love of hide-and-seek, these Neopets are among the most popular residents of Neopia.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Kacheek",
+			"profiler": {
+				"vibe_tags": [
+					"Species",
+					"Neopia Central",
+					"Pet"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Virtupets Space Station",
+						"difficulty": "Easy",
+						"explanation": "The Virtupets Space Station was originally intended to be a weapon of mass destruction aimed at Neopia.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "What is the name of the massive orbital facility built by this villain to conquer Neopia?",
+						"wrong": [
+							"Kreludor Base",
+							"The Sloth Satellite",
+							"Doom Star"
+						]
+					},
+					{
+						"correct": "Grundos",
+						"difficulty": "Easy",
+						"explanation": "Sloth enslaved the Grundo race from their home planet and mutated them into his personal soldiers.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "Which species did this villain attempt to turn into a 'transmogrified' army using mutagenic potions?",
+						"wrong": [
+							"Kacheeks",
+							"Acaras",
+							"Shoyrus"
+						]
+					},
+					{
+						"correct": "The Space Faerie",
+						"difficulty": "Medium",
+						"explanation": "The Space Faerie was the one who famously intercepted Sloth's mutation ray and saved Neopia from his first invasion.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "Which heroic faerie is considered the primary rival of this space-faring villain?",
+						"wrong": [
+							"The Tooth Faerie",
+							"The Soup Faerie",
+							"The Dark Faerie"
+						]
+					},
+					{
+						"correct": "The Resistance",
+						"difficulty": "Medium",
+						"explanation": "The Resistance, often led by characters like Gorix and Cylara, works undercover on the Space Station.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "What is the name of the secret society of Neopians dedicated to stopping this villain's plans?",
+						"wrong": [
+							"The Sloth Slayers",
+							"The Defenders of Neopia",
+							"Order of the Red Eris"
+						]
+					},
+					{
+						"correct": "Sloth Transmogrification Potion",
+						"difficulty": "Medium",
+						"explanation": "A rare random event involves Sloth giving you a Transmogrification Potion, which turns your pet into a Mutant version.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "What item is frequently handed out in a Random Event by this villain, though it is usually a trick?",
+						"wrong": [
+							"Golden Negg",
+							"Space Map",
+							"Sloth's Secret Diary"
+						]
+					},
+					{
+						"correct": "A rolled up newspaper",
+						"difficulty": "Easy",
+						"explanation": "Splat-A-Sloth is a game of speed where you must whack a cardboard cutout of Sloth as it slides down a tube.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "In the game 'Splat-A-Sloth', what are you using to hit the villain?",
+						"wrong": [
+							"A hammer",
+							"A laser gun",
+							"A frying pan"
+						]
+					},
+					{
+						"correct": "The Sloth Clones",
+						"difficulty": "Hard",
+						"explanation": "Sloth has famously used body doubles and clones to avoid capture during various failed invasions.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "What is the name of the cloned versions of this villain that occasionally appear in Neopian plots?",
+						"wrong": [
+							"Meepit Sloths",
+							"Slothlings",
+							"Frankies"
+						]
+					},
+					{
+						"correct": "Kreludor",
+						"difficulty": "Medium",
+						"explanation": "The 'Return of Dr. Sloth' plot involved him mining Kreludite from Neopia's moon, Kreludor.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "This villain once tried to steal all the energy from which celestial body to power his fleet?",
+						"wrong": [
+							"The Sun",
+							"Altador",
+							"The Faerie Star"
+						]
+					},
+					{
+						"correct": "Master",
+						"difficulty": "Easy",
+						"explanation": "His minions and the brainwashed Grundos are forced to refer to him as 'Master' or 'Dr. Sloth'.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "Which title does this villain often demand others address him by?",
+						"wrong": [
+							"Emperor",
+							"God-King",
+							"President"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Sloth is easily identified by his sickly green complexion and his tall, pointed ears.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "What is the specific color of this villain's skin?",
+						"wrong": [
+							"Grey",
+							"Purple",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Sloth Appreciation Day",
+						"difficulty": "Medium",
+						"explanation": "Celebrated on January 14th, this day is 'dedicated' to the villain, mostly out of fear or irony.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "What is the name of the 'Sloth Appreciation Day' celebrated in Neopia?",
+						"wrong": [
+							"The Day of Doom",
+							"Villain Day",
+							"Frank's Birthday"
+						]
+					},
+					{
+						"correct": "Xandra",
+						"difficulty": "Hard",
+						"explanation": "In 'The Faeries' Ruin', it is revealed that Xandra studied under Sloth, using his teachings to petrify the faeries.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "Which of these characters was once an apprentice or minion of Dr. Sloth before betraying him?",
+						"wrong": [
+							"Commander Garoo",
+							"Gorix",
+							"The Tax Beast"
+						]
+					},
+					{
+						"correct": "It turns into a Mutant",
+						"difficulty": "Easy",
+						"explanation": "These potions are the only way to get the 'Mutant' color for many species.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "What happens if you use a 'Sloth Transmogrification Potion' on your Neopet?",
+						"wrong": [
+							"It turns into a Grundo",
+							"It disappears",
+							"It gains max level"
+						]
+					},
+					{
+						"correct": "Virtupets Storage Deck",
+						"difficulty": "Hard",
+						"explanation": "The Virtupets Space Station has a restricted storage deck where many of his discarded schemes are archived.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "Where does Dr. Sloth keep his personal library of evil plans?",
+						"wrong": [
+							"The Haunted Woods",
+							"Hidden Tower",
+							"Faerieland Library"
+						]
+					},
+					{
+						"correct": "He doesn't have one",
+						"difficulty": "Hard",
+						"explanation": "His full name is simply Dr. Frank Sloth; he lacks a middle name in any official records.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_frank_sloth.webp",
+						"question": "What is Dr. Sloth's middle name in Neopian lore?",
+						"wrong": [
+							"Evil",
+							"Bartholomew",
+							"Frank"
+						]
+					}
+				]
+			},
+			"id": "neopets_dr_frank_sloth",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Dr Frank Sloth",
+				"lore_desc": "The self-proclaimed master of the universe and creator of the Virtupets Space Station, this green-skinned villain is Neopia's greatest threat.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Dr Frank Sloth",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Space",
+					"Mastermind"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Haunted Woods",
+						"difficulty": "Easy",
+						"explanation": "During 'The Faeries' Ruin' plot, Faerieland lost its magic and fell from the sky, landing near the Haunted Woods.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Faerieland famously underwent a major change and crashed into which other area of Neopia?",
+						"wrong": [
+							"Lost Desert",
+							"Terror Mountain",
+							"Maraqua"
+						]
+					},
+					{
+						"correct": "Queen Fyora",
+						"difficulty": "Easy",
+						"explanation": "Fyora the Faerie Queen has ruled the land from her palace for thousands of years.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Who is the supreme ruler of Faerieland?",
+						"wrong": [
+							"Queen Nereid",
+							"King Skarl",
+							"The Space Faerie"
+						]
+					},
+					{
+						"correct": "Poogle Racing",
+						"difficulty": "Medium",
+						"explanation": "Poogle Racing is a betting game where players pick a Poogle they hope will win the sprint.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Which game in Faerieland involves small, dog-like creatures racing for prizes?",
+						"wrong": [
+							"Puppy Parley",
+							"Miamouse Marathons",
+							"The Great Race"
+						]
+					},
+					{
+						"correct": "Extremely expensive artifacts",
+						"difficulty": "Easy",
+						"explanation": "The Hidden Tower is a high-end shop selling some of the most powerful and expensive items in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "The 'Hidden Tower' in Faerieland is known for selling what kind of items?",
+						"wrong": [
+							"Common food",
+							"Discarded toys",
+							"Beginner weapons"
+						]
+					},
+					{
+						"correct": "The Marrow",
+						"difficulty": "Medium",
+						"explanation": "The Guess the Weight of the Marrow game is located in the Meridell-themed section of the land.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Which activity in Faerieland allows users to guess the weight of a specific item for a prize?",
+						"wrong": [
+							"Guess the Weight",
+							"The Giant Pumpkin",
+							"Mummy's Curse"
+						]
+					},
+					{
+						"correct": "Faerie Bubbles",
+						"difficulty": "Easy",
+						"explanation": "Faerie Bubbles is a popular match-three style puzzle game set in the clouds.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "What is the name of the Faerieland-based puzzle game involving clearing colored spheres?",
+						"wrong": [
+							"Bubble Pop",
+							"Cloud Blast",
+							"Faerie Pop"
+						]
+					},
+					{
+						"correct": "The Water Faerie",
+						"difficulty": "Medium",
+						"explanation": "Marina the Water Faerie runs the Healing Springs, restoring Neopets' health for free.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Which specific type of faerie is known for managing the 'Healing Springs'?",
+						"wrong": [
+							"The Fire Faerie",
+							"The Air Faerie",
+							"The Dark Faerie"
+						]
+					},
+					{
+						"correct": "Xandra",
+						"difficulty": "Medium",
+						"explanation": "Xandra was a student of magic who felt the faeries were too powerful and used a spell to turn them to stone.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "What was the name of the villainous faerie who caused the fall of Faerieland?",
+						"wrong": [
+							"Jhudora",
+							"Jennumara",
+							"The Darkest Faerie"
+						]
+					},
+					{
+						"correct": "Faerie Quests",
+						"difficulty": "Easy",
+						"explanation": "Faerie Quests are random events where a faerie asks you to find an item in exchange for a stat boost.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Which of these can you visit to help a faerie search for specific items?",
+						"wrong": [
+							"Faerie Shopping",
+							"The Search Room",
+							"The Item Hub"
+						]
+					},
+					{
+						"correct": "The Pant Devil",
+						"difficulty": "Medium",
+						"explanation": "Landing on the Pant Devil space results in him stealing one of your items.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "In the 'Wheel of Excitement', what is the most common negative outcome?",
+						"wrong": [
+							"Losing 500 NP",
+							"A lightning bolt",
+							"Pet gets sick"
+						]
+					},
+					{
+						"correct": "Solidified clouds",
+						"difficulty": "Medium",
+						"explanation": "The entire city was magically suspended on clouds that were solid enough to build upon.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "What material was Faerieland primarily made of before its crash?",
+						"wrong": [
+							"Magic glass",
+							"Floating marble",
+							"Pure light"
+						]
+					},
+					{
+						"correct": "The Library Faerie",
+						"difficulty": "Easy",
+						"explanation": "The Library Faerie manages the Faerieland Bookshop and the Crossword puzzle.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Which faerie runs the library where you can learn about the history of the realm?",
+						"wrong": [
+							"The Knowledge Faerie",
+							"The Book Faerie",
+							"The Wise Faerie"
+						]
+					},
+					{
+						"correct": "Flying",
+						"difficulty": "Hard",
+						"explanation": "Since it floated high in the atmosphere, only pets with wings or those using flying machines could reach it.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Before it fell, what was the only way for most Neopians to reach Faerieland?",
+						"wrong": [
+							"Teleportation",
+							"A giant beanstalk",
+							"A ladder"
+						]
+					},
+					{
+						"correct": "A treasure chest",
+						"difficulty": "Medium",
+						"explanation": "Players choose paths in the dark caverns hoping to find a stash of Neopoints or rare items.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "The 'Faerie Caverns' is a daily activity where you navigate a maze to find what?",
+						"wrong": [
+							"A lost faerie",
+							"A magical spring",
+							"The exit"
+						]
+					},
+					{
+						"correct": "Faerie Weapons",
+						"difficulty": "Hard",
+						"explanation": "While there is a Hidden Tower that sells weapons, there is no generic 'Faerie Weapons' shop in the city.",
+						"image_url": "https://skillcheckgame.com/assets/images/faerieland.webp",
+						"question": "Which of these is NOT a real shop in Faerieland?",
+						"wrong": [
+							"Faerie Foods",
+							"Faerie Furniture",
+							"Faerie Petpets"
+						]
+					}
+				]
+			},
+			"id": "neopets_faerieland",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Faerieland",
+				"lore_desc": "Once a floating cloud city, this magical realm is the home of the Faerie Queen and her subjects.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Faerieland",
+			"profiler": {
+				"vibe_tags": [
+					"Faerie",
+					"Kingdom",
+					"Sky"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Steals an item",
+						"difficulty": "Easy",
+						"explanation": "The Pant Devil is infamous for swooping in and taking one random item from your inventory.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "What is the primary action this character takes when he appears in a Random Event?",
+						"wrong": [
+							"Gives Neopoints",
+							"Sickens your pet",
+							"Changes pet color"
+						]
+					},
+					{
+						"correct": "Wheel of Excitement",
+						"difficulty": "Easy",
+						"explanation": "Landing on his face on the Wheel of Excitement results in him stealing an item from you.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "On which Faerieland game board can you land on a space featuring this character?",
+						"wrong": [
+							"Wheel of Monotony",
+							"Wheel of Knowledge",
+							"Wheel of Slime"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "He is a small, ghostly blue demon with a mischievous grin.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "What is the color of this character's body?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Black"
+						]
+					},
+					{
+						"correct": "The Tax Beast",
+						"difficulty": "Hard",
+						"explanation": "The Tax Beast is one of the few entities that can strike fear into the Pant Devil, as he doesn't like his own loot being taken.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "According to lore, what is the only thing this character is supposedly afraid of?",
+						"wrong": [
+							"Fyora",
+							"The Sun",
+							"His Mother"
+						]
+					},
+					{
+						"correct": "Pant Devil - Evil",
+						"difficulty": "Hard",
+						"explanation": "You can get an avatar if the Pant Devil steals an item worth over a certain amount or a 'Pant Devil Attractor'.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "Which avatar can be earned by having a certain number of specific items in your inventory when he steals one?",
+						"wrong": [
+							"Thief!",
+							"Empty Pockets",
+							"Blue Blur"
+						]
+					},
+					{
+						"correct": "Pant Devil Attractor",
+						"difficulty": "Medium",
+						"explanation": "The Pant Devil Attractor is an item he is programmed to prioritize stealing over more valuable goods.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "What is the name of the item specifically designed to protect your other items from him?",
+						"wrong": [
+							"Devil Shield",
+							"Safety Lock",
+							"Inventory Guard"
+						]
+					},
+					{
+						"correct": "Stealing yours",
+						"difficulty": "Medium",
+						"explanation": "The Pant Devil Challenger in the Battledome is notorious for using items that steal your own equipment.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "In the Battledome, what is the Pant Devil's primary weapon style?",
+						"wrong": [
+							"Fire magic",
+							"Physical claws",
+							"Healing"
+						]
+					},
+					{
+						"correct": "Yes, two brothers",
+						"difficulty": "Hard",
+						"explanation": "He has two brothers, the Beast that Lurks and the Ghost of Coltzan, though they rarely appear together.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "Does this character have any known brothers or family members in Neopia?",
+						"wrong": [
+							"No, he is unique",
+							"Yes, a twin sister",
+							"Only a petpet"
+						]
+					},
+					{
+						"correct": "The Moon",
+						"difficulty": "Medium",
+						"explanation": "He appears as a Random Event anywhere on Neopia, but he is not associated with the moon Kreludor.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "Which of these locations is NOT a place where the Pant Devil is frequently encountered?",
+						"wrong": [
+							"Faerieland",
+							"Neopia Central",
+							"Tyrannia"
+						]
+					},
+					{
+						"correct": "Mission 1",
+						"difficulty": "Medium",
+						"explanation": "The Pant Devil is the first opponent players face in the Defenders of Neopia series.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "What is this character's 'rank' among the Defenders of Neopia villains?",
+						"wrong": [
+							"The Final Boss",
+							"Mission 10",
+							"Mission 5"
+						]
+					},
+					{
+						"correct": "A sack",
+						"difficulty": "Easy",
+						"explanation": "He is typically depicted clutching a large brown sack over his shoulder.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "The Pant Devil is often shown carrying what object to hold his stolen goods?",
+						"wrong": [
+							"A chest",
+							"A backpack",
+							"A hollow log"
+						]
+					},
+					{
+						"correct": "A minor antagonist",
+						"difficulty": "Medium",
+						"explanation": "He appeared as a minor nuisance, stealing artifacts while the heroes tried to save the faeries.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "In 'The Faeries' Ruin' plot, what was the Pant Devil's role?",
+						"wrong": [
+							"A hero",
+							"The mastermind",
+							"A statue"
+						]
+					},
+					{
+						"correct": "He leaves empty-handed",
+						"difficulty": "Easy",
+						"explanation": "If your inventory is empty, the event occurs but nothing is taken, saving you from a loss.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "What happens if you have nothing in your inventory when he appears?",
+						"wrong": [
+							"He steals Neopoints",
+							"He takes your pet",
+							"He bites you"
+						]
+					},
+					{
+						"correct": "The most expensive looking",
+						"difficulty": "Hard",
+						"explanation": "Though it feels like he targets expensive items, the selection is mathematically random from your current inventory.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "Which of these items is the Pant Devil most likely to steal first?",
+						"wrong": [
+							"Always the first slot",
+							"Always the last slot",
+							"It is truly random"
+						]
+					},
+					{
+						"correct": "Devil",
+						"difficulty": "Medium",
+						"explanation": "He is classified as a 'Devil' or 'Demon' entity, distinct from the pet species found in Neopia.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pant_devil.webp",
+						"question": "What is the Pant Devil's species classified as?",
+						"wrong": [
+							"Ghost",
+							"Neopet",
+							"Petpet"
+						]
+					}
+				]
+			},
+			"id": "neopets_the_pant_devil",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "The Pant Devil",
+				"lore_desc": "A mischievous blue creature that appears out of nowhere to steal items from unsuspecting Neopians.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Pant Devil",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Random Event",
+					"Thief"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "King Skarl",
+						"difficulty": "Easy",
+						"explanation": "King Skarl rules Meridell and is famous for being constantly bored and hungry.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "Who is the grumpier of the two royal brothers who rule Meridell and Brightvale?",
+						"wrong": [
+							"King Hagan",
+							"King Altador",
+							"King Jazan"
+						]
+					},
+					{
+						"correct": "Jeran",
+						"difficulty": "Easy",
+						"explanation": "Sir Jeran is a noble warrior who led Meridell's forces in the wars against Darigan Citadel.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "Which famous blue Lupe knight is the champion and protector of Meridell?",
+						"wrong": [
+							"Kass",
+							"Tormund",
+							"Werelupe King"
+						]
+					},
+					{
+						"correct": "Darigan Citadel",
+						"difficulty": "Easy",
+						"explanation": "The Darigan Citadel, led by Lord Darigan and later Lord Kass, is the longtime rival of Meridell.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "What is the name of the floating citadel that twice went to war with Meridell?",
+						"wrong": [
+							"Virtupets",
+							"Faerieland",
+							"Sky City"
+						]
+					},
+					{
+						"correct": "Turmac Roll",
+						"difficulty": "Medium",
+						"explanation": "While Turmac Roll is a game, the betting game is actually 'Round Table Poker' or 'Cheeseroller'. Wait, the hole game is 'Turmaculus' related or 'Double or Nothing'?",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "Which Meridell game involves betting on which numbered hole a Petpet will run into?",
+						"wrong": [
+							"Kiss the Mortog",
+							"Cheeseroller",
+							"Petpet Cannonball"
+						]
+					},
+					{
+						"correct": "60 seconds",
+						"difficulty": "Medium",
+						"explanation": "The goal is to reach the finish line as fast as possible to keep the cheese as a prize.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "In 'Cheeseroller', players attempt to roll a wheel of cheese down a hill in under how many seconds?",
+						"wrong": [
+							"30 seconds",
+							"120 seconds",
+							"10 seconds"
+						]
+					},
+					{
+						"correct": "The Turmaculus",
+						"difficulty": "Medium",
+						"explanation": "The Turmaculus is the King of all Petpets and can be woken up once a day if you're lucky.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "What is the name of the giant, sleeping Petpet that can eat your items or increase your pet's level?",
+						"wrong": [
+							"The Giant Snowager",
+							"The Monocerous",
+							"The Sleepy Skeith"
+						]
+					},
+					{
+						"correct": "Illusen",
+						"difficulty": "Easy",
+						"explanation": "Illusen the Earth Faerie resides in Illusen's Glade, located within the borders of Meridell.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "Which faerie lives in a glade near Meridell and offers quests to kind Neopians?",
+						"wrong": [
+							"Jhudora",
+							"Taelia",
+							"The Soup Faerie"
+						]
+					},
+					{
+						"correct": "The Darigan Orb",
+						"difficulty": "Medium",
+						"explanation": "The theft of the magical Orb, which brought rain and crops to Meridell while Darigan withered, started the war.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "What item did Meridell 'borrow' from the Darigan Citadel to bring prosperity to their land?",
+						"wrong": [
+							"The Golden Egg",
+							"The Crown of Skarl",
+							"The Scepter of Power"
+						]
+					},
+					{
+						"correct": "Grumpy Old King",
+						"difficulty": "Easy",
+						"explanation": "Players visit King Skarl to tell him jokes using pre-set phrases to win Neopoints or items.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "Which Meridell activity involves trying to make the King laugh with a joke?",
+						"wrong": [
+							"Wise Old King",
+							"Jester's Court",
+							"Royal Comedy"
+						]
+					},
+					{
+						"correct": "Cheese",
+						"difficulty": "Easy",
+						"explanation": "Meridell is famous for its cheese-making, with games like Cheeseroller and specialized cheese shops.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "What is the primary food source of Meridell, often seen in its games and shops?",
+						"wrong": [
+							"Neggs",
+							"Fruit",
+							"Omelettes"
+						]
+					},
+					{
+						"correct": "Medieval Petpets",
+						"difficulty": "Easy",
+						"explanation": "The shop sells species like the Alabriss, Crokabek, and Whinny.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "The 'Ye Olde Petpets' shop in Meridell specializes in which kind of creatures?",
+						"wrong": [
+							"Spooky Petpets",
+							"Robot Petpets",
+							"Desert Petpets"
+						]
+					},
+					{
+						"correct": "Zafara",
+						"difficulty": "Hard",
+						"explanation": "Kayla is a red Zafara who creates magical potions and items for the kingdom.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "Which species is the character 'Kayla', who runs the magic shop in Meridell?",
+						"wrong": [
+							"Kacheek",
+							"Ixi",
+							"Draik"
+						]
+					},
+					{
+						"correct": "Kiss the Mortog",
+						"difficulty": "Medium",
+						"explanation": "Players risk their winnings by kissing Mortogs; if the Mortog explodes, the player loses everything.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "Which Meridell game involves poking a creature to see if it turns into a prince or explodes?",
+						"wrong": [
+							"Snot Splat",
+							"Mortog Mash",
+							"Prince Pointer"
+						]
+					},
+					{
+						"correct": "Brightvale",
+						"difficulty": "Medium",
+						"explanation": "Brightvale is the more academic sister-kingdom to the agricultural Meridell.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "The castle of which neighboring kingdom is visible from the hills of Meridell?",
+						"wrong": [
+							"Altador",
+							"Roo Island",
+							"Shenkuu"
+						]
+					},
+					{
+						"correct": "Tormund",
+						"difficulty": "Hard",
+						"explanation": "Tormund (Tor) is a Lupe squire who travels from Meridell to Altador to defeat the Darkest Faerie.",
+						"image_url": "https://skillcheckgame.com/assets/images/meridell.webp",
+						"question": "What was the name of the child hero who saved Meridell in the 'Darkest Faerie' video game?",
+						"wrong": [
+							"Jeran",
+							"Skarl",
+							"Roper"
+						]
+					}
+				]
+			},
+			"id": "neopets_meridell",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Meridell",
+				"lore_desc": "A medieval kingdom of rolling hills and simple farmers, ruled by the gluttonous King Skarl.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Meridell",
+			"profiler": {
+				"vibe_tags": [
+					"Kingdom",
+					"Medieval",
+					"Knight"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pink",
+						"difficulty": "Easy",
+						"explanation": "Fyora is iconic for her pink hair, pink wings, and elaborate pink gown.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "What is the primary color associated with this character's hair and clothing?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Gold"
+						]
+					},
+					{
+						"correct": "The Hidden Tower",
+						"difficulty": "Easy",
+						"explanation": "Fyora is the proprietor of the Hidden Tower, where she sells rare artifacts to fund the kingdom.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "Which shop does this character personally run in Faerieland?",
+						"wrong": [
+							"Faerie Foods",
+							"The Healing Springs",
+							"The Bookshop"
+						]
+					},
+					{
+						"correct": "Fyora's Rod",
+						"difficulty": "Medium",
+						"explanation": "Fyora's Rod is one of the most legendary and expensive items available in the Battledome.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "What powerful magical weapon is most commonly associated with this character?",
+						"wrong": [
+							"The Wand of Wishing",
+							"The Staff of Light",
+							"Faerie Blade"
+						]
+					},
+					{
+						"correct": "The Faeries' Ruin",
+						"difficulty": "Medium",
+						"explanation": "In 'The Faeries' Ruin', the villain Xandra used a ritual to petrify Fyora and all other faeries.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "During which major plot was this character turned to stone alongside the rest of the faeries?",
+						"wrong": [
+							"The Darkest Faerie",
+							"Champions of Meridell",
+							"The Lost Desert Plot"
+						]
+					},
+					{
+						"correct": "Faerie Festival",
+						"difficulty": "Easy",
+						"explanation": "The Faerie Festival is a yearly event where Fyora gives out quests and rewards to Neopians.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "What is the name of the annual festival held in this character's honor every September?",
+						"wrong": [
+							"Fyora Day",
+							"The Royal Ball",
+							"Magic Week"
+						]
+					},
+					{
+						"correct": "The Darkest Faerie",
+						"difficulty": "Medium",
+						"explanation": "The Darkest Faerie was once a member of the protectors of Altador before she betrayed them and Fyora.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "Which ancient villain is known as the 'sister' or dark counterpart to the Faerie Queen in older lore?",
+						"wrong": [
+							"Jhudora",
+							"Jennumara",
+							"Malice"
+						]
+					},
+					{
+						"correct": "There is no Gora",
+						"difficulty": "Hard",
+						"explanation": "Trick question! Fyora is rarely depicted with a specific personal petpet, though she loves all creatures.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "What kind of petpet is 'Gora', which is often seen in art depicting the Queen's chambers?",
+						"wrong": [
+							"A Faerie Kadoatie",
+							"A Meepit",
+							"A Mazzew"
+						]
+					},
+					{
+						"correct": "The High Priestess",
+						"difficulty": "Medium",
+						"explanation": "While she is a leader and guardian, she is never officially referred to as a priestess.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "Which of these titles is NOT used to describe the Faerie Queen?",
+						"wrong": [
+							"The Faerie Queen",
+							"Guardian of Neopia",
+							"Her Majesty"
+						]
+					},
+					{
+						"correct": "No one, you play as the Queen",
+						"difficulty": "Hard",
+						"explanation": "In the classic game 'Castle Escape', you actually play as Fyora trying to navigate her way through a puzzle-filled dungeon.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "In the game 'Castle Escape', who is the player trying to rescue from the dungeons?",
+						"wrong": [
+							"Princess Fernypoo",
+							"King Skarl",
+							"The Tax Beast"
+						]
+					},
+					{
+						"correct": "Queen Fyora Doll",
+						"difficulty": "Easy",
+						"explanation": "The Queen Fyora Doll is a classic Hidden Tower item often used to get the 'Fyora' avatar.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "What is the name of the doll based on her that is a highly coveted Hidden Tower item?",
+						"wrong": [
+							"Royal Plushie",
+							"The Queen's Toy",
+							"Faerie Queen Figurine"
+						]
+					},
+					{
+						"correct": "Faerie City",
+						"difficulty": "Easy",
+						"explanation": "Her palace serves as the center point of Faerie City within Faerieland.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "Where is Fyora's personal palace located?",
+						"wrong": [
+							"The Glade",
+							"Mount Wisdom",
+							"The Sky Castle"
+						]
+					},
+					{
+						"correct": "Level and Stat increases",
+						"difficulty": "Medium",
+						"explanation": "A completed Fyora Quest grants significant increases to a pet's Level, Strength, and Health.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "What magical ability is the Queen most famous for providing to Neopets who complete her rare quests?",
+						"wrong": [
+							"Changing their species",
+							"Infinite hunger",
+							"Free Neopoints"
+						]
+					},
+					{
+						"correct": "All elements",
+						"difficulty": "Hard",
+						"explanation": "As the Faerie Queen, she is the master of all elements, though she is most often associated with Light and Air.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "Which faerie element does Fyora represent?",
+						"wrong": [
+							"Air",
+							"Light",
+							"Dark"
+						]
+					},
+					{
+						"correct": "The Rainbow Fountain",
+						"difficulty": "Medium",
+						"explanation": "While the Fountain Faerie runs it, Fyora is the ultimate authority over the Rainbow Fountain's magic.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "What is the name of the fountain that she guards in Altadorian lore?",
+						"wrong": [
+							"The Fountain of Youth",
+							"The Healing Spring",
+							"The Mana Well"
+						]
+					},
+					{
+						"correct": "Thousands of years",
+						"difficulty": "Medium",
+						"explanation": "Neopian lore establishes that Fyora is ancient and has ruled for many millennia.",
+						"image_url": "https://skillcheckgame.com/assets/images/fyora_the_faerie_queen.webp",
+						"question": "How long has Fyora been the ruler of Faerieland?",
+						"wrong": [
+							"100 years",
+							"Since the site launched",
+							"20 years"
+						]
+					}
+				]
+			},
+			"id": "neopets_fyora_the_faerie_queen",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Fyora the Faerie Queen",
+				"lore_desc": "The benevolent and wise ruler of all faeriekind, who resides in a pink castle in the heart of Faerieland.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Fyora the Faerie Queen",
+			"profiler": {
+				"vibe_tags": [
+					"Faerie",
+					"Leader",
+					"Royal"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Tyrannia",
+						"difficulty": "Easy",
+						"explanation": "The Giant Omelette is found on the Tyrannian Plateau.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "In which prehistoric-themed world is this massive breakfast located?",
+						"wrong": [
+							"Prehistoria",
+							"Meridell",
+							"Mystery Island"
+						]
+					},
+					{
+						"correct": "Once",
+						"difficulty": "Easy",
+						"explanation": "To ensure there is enough for everyone, players are restricted to one slice per day.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "How many times per day can a single Neopian take a slice of this omelette?",
+						"wrong": [
+							"Twice",
+							"Three times",
+							"Unlimited"
+						]
+					},
+					{
+						"correct": "It disappears for a few hours",
+						"difficulty": "Medium",
+						"explanation": "When the omelette is gone, a message appears saying it has been eaten, and it takes a while for a new one to cook.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "What happens to the omelette when it is completely eaten by the community?",
+						"wrong": [
+							"It turns into a rock",
+							"You get a prize",
+							"It explodes"
+						]
+					},
+					{
+						"correct": "Sabre-X",
+						"difficulty": "Medium",
+						"explanation": "Sabre-X, a member of the Tyrannian Strategic War Team, stands guard to prevent people from taking more than their share.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "Which character is the official 'Guardian' of the omelette?",
+						"wrong": [
+							"Mynci Guard",
+							"Grarrl King",
+							"Tyrannian Lupe"
+						]
+					},
+					{
+						"correct": "Lupe",
+						"difficulty": "Easy",
+						"explanation": "Sabre-X is a Lupe with prehistoric Tyrannian features.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "What is the species of the character who guards the omelette?",
+						"wrong": [
+							"Grarrl",
+							"Chia",
+							"Kyrii"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "Most omelettes can be eaten three times (1/3, 2/3, and whole) before the item disappears.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "How many 'bites' or uses does a standard slice of omelette provide for a Neopet?",
+						"wrong": [
+							"One",
+							"Two",
+							"Five"
+						]
+					},
+					{
+						"correct": "Chocolate Omelette",
+						"difficulty": "Medium",
+						"explanation": "While there are strange flavors like Rotten or Marshmallow, Chocolate Omelette is not a standard drop.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "Which of these is NOT a real flavor of omelette you can get from the giant one?",
+						"wrong": [
+							"Bacon and Herb",
+							"Marshmallow",
+							"Strawberry"
+						]
+					},
+					{
+						"correct": "A prehistoric dinosaur",
+						"difficulty": "Easy",
+						"explanation": "It is believed to be the egg of a massive, long-extinct Tyrannian beast.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "According to Tyrannian lore, what creature laid the egg that formed the omelette?",
+						"wrong": [
+							"A giant Pteri",
+							"A massive Lenny",
+							"It fell from space"
+						]
+					},
+					{
+						"correct": "It is sitting in the sun too long",
+						"difficulty": "Hard",
+						"explanation": "The 'Rotten Omelette' is a rare outcome that can actually make your Neopet sick.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "What event causes the omelette to occasionally become 'Rotten'?",
+						"wrong": [
+							"A curse from Sloth",
+							"Too many people touch it",
+							"It is random"
+						]
+					},
+					{
+						"correct": "Omelette Shield",
+						"difficulty": "Hard",
+						"explanation": "The Omelette Shield is a fragile but effective defensive item made from hardened eggs.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "Which of these items is a rare 'Omelette' that can actually be used in the Battledome?",
+						"wrong": [
+							"Egg Hammer",
+							"Frying Pan",
+							"Yolk Gun"
+						]
+					},
+					{
+						"correct": "Sabre-X stops you",
+						"difficulty": "Easy",
+						"explanation": "Sabre-X appears and tells you that you've already had your share for the day.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "What is the message shown when you try to take a second slice of omelette in one day?",
+						"wrong": [
+							"The omelette bites you",
+							"You get banned",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "Invisible Omelette",
+						"difficulty": "Medium",
+						"explanation": "The Invisible Omelette is a real item that can be obtained from the Giant Omelette.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "Which flavor of omelette is considered 'invisible'?",
+						"wrong": [
+							"Ghost Omelette",
+							"Air Omelette",
+							"Glass Omelette"
+						]
+					},
+					{
+						"correct": "The Tyrannian Invasion",
+						"difficulty": "Hard",
+						"explanation": "It was found when the world of Tyrannia was first revealed to the rest of Neopia.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "The Giant Omelette was 'discovered' during which Neopian event?",
+						"wrong": [
+							"The Discovery of Tyrannia",
+							"The Great Egg Hunt",
+							"The Food Wars"
+						]
+					},
+					{
+						"correct": "None, they only feed pets",
+						"difficulty": "Hard",
+						"explanation": "Unlike Neggs or Potions, omelettes are strictly for hunger and have no magical transformation properties.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "Which of these is a 'Magical' omelette flavor that can change your pet's appearance?",
+						"wrong": [
+							"Magical Cheese",
+							"Rainbow Omelette",
+							"Fire Omelette"
+						]
+					},
+					{
+						"correct": "It cooks it",
+						"difficulty": "Easy",
+						"explanation": "The hot Tyrannian sun is what continuously bakes the egg on the hot plateau rocks.",
+						"image_url": "https://skillcheckgame.com/assets/images/giant_omelette.webp",
+						"question": "How does the sun help the Giant Omelette?",
+						"wrong": [
+							"It keeps it fresh",
+							"It makes it glow",
+							"It does nothing"
+						]
+					}
+				]
+			},
+			"id": "neopets_giant_omelette",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Giant Omelette",
+				"lore_desc": "A massive egg-based snack located in the Plateau of Tyrannia that feeds thousands of Neopians daily.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Giant Omelette",
+			"profiler": {
+				"vibe_tags": [
+					"Tyrannia",
+					"Food",
+					"Daily"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Large staring eyes",
+						"difficulty": "Easy",
+						"explanation": "Meepits are known for their unsettling, wide-eyed stare that never seems to blink.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "What is the most famous physical feature of this Petpet?",
+						"wrong": [
+							"Long sharp claws",
+							"Wings",
+							"A bushy tail"
+						]
+					},
+					{
+						"correct": "Juice",
+						"difficulty": "Easy",
+						"explanation": "The goal of the game is to connect pipes to feed different colored juices to the Meepits.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "In the game 'Meepit Juice Break', what are the Meepits drinking?",
+						"wrong": [
+							"Soda",
+							"Milk",
+							"Slushies"
+						]
+					},
+					{
+						"correct": "Haunted Woods",
+						"difficulty": "Medium",
+						"explanation": "Despite their cute appearance, they are sold at the Spooky Petpets shop in the Haunted Woods.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "Which Neopian world are Meepits originally from?",
+						"wrong": [
+							"Faerieland",
+							"Neopia Central",
+							"Krawk Island"
+						]
+					},
+					{
+						"correct": "Feepits",
+						"difficulty": "Medium",
+						"explanation": "The game 'Meepit vs. Feepit' depicts the legendary struggle between these two small Petpet species.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "There is a long-running joke/conspiracy theory in Neopia that Meepits are rivals with which other creature?",
+						"wrong": [
+							"Kacheeks",
+							"Dr. Sloth",
+							"Babaas"
+						]
+					},
+					{
+						"correct": "Pink",
+						"difficulty": "Easy",
+						"explanation": "The standard Meepit is bright pink with darker pink ears.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "What is the default color of a standard Meepit?",
+						"wrong": [
+							"Blue",
+							"Grey",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Robot Meepit",
+						"difficulty": "Hard",
+						"explanation": "The Robot Meepit is a highly sought-after and expensive version of the Petpet.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "Which of these is a rare Meepit variation often used as a 'status symbol' by collectors?",
+						"wrong": [
+							"Gold Meepit",
+							"Shadow Meepit",
+							"Glass Meepit"
+						]
+					},
+					{
+						"correct": "Meep",
+						"difficulty": "Easy",
+						"explanation": "They are named after the high-pitched 'Meep' sound they constantly emit.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "What sound are Meepits said to make, according to their name?",
+						"wrong": [
+							"Mee",
+							"Pit",
+							"Squeak"
+						]
+					},
+					{
+						"correct": "The Meepits are watching",
+						"difficulty": "Medium",
+						"explanation": "The phrase 'The Meepits are watching' is a common meme within the Neopets community.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "Which of these is a popular Neopian saying regarding these creatures?",
+						"wrong": [
+							"Meepits are friends",
+							"Beware the pink ones",
+							"Don't feed the Meepits"
+						]
+					},
+					{
+						"correct": "It gets angry and you lose a life",
+						"difficulty": "Medium",
+						"explanation": "The Meepits have very short tempers and will end your game if their juice demands aren't met.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "In 'Meepit Juice Break', what happens if you fail to feed a Meepit in time?",
+						"wrong": [
+							"It cries",
+							"It explodes",
+							"It turns blue"
+						]
+					},
+					{
+						"correct": "A wearable mustache",
+						"difficulty": "Hard",
+						"explanation": "The Meepit Stache is a customization item that gives your Neopet a mustache styled like Meepit ears.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "What is the 'Meepit Stache' item?",
+						"wrong": [
+							"A stash of juice",
+							"A hidden Meepit",
+							"A secret weapon"
+						]
+					},
+					{
+						"correct": "Halloween",
+						"difficulty": "Medium",
+						"explanation": "Ghost Meepits are often associated with the Spooky Food and Halloween celebrations.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "The 'Meepit Ghost' is a specific item from which event?",
+						"wrong": [
+							"Christmas",
+							"Faerie Festival",
+							"Easter"
+						]
+					},
+					{
+						"correct": "None, they are the predators",
+						"difficulty": "Hard",
+						"explanation": "In Neopian lore, Meepits are often portrayed as the ones at the top of the secret food chain.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "Which of these Petpets is considered the 'natural predator' of the Meepit?",
+						"wrong": [
+							"Lupe",
+							"Bearog",
+							"Crocaloop"
+						]
+					},
+					{
+						"correct": "Meepit Oaks",
+						"difficulty": "Hard",
+						"explanation": "Meepit Oaks Sanatorium is a creepy location featured in the 'Tale of Woe' plot.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "What is the name of the Meepit-themed location in the Haunted Woods?",
+						"wrong": [
+							"Meepit Manor",
+							"Pink Woods",
+							"Staring Glade"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Medium",
+						"explanation": "Skeiths and Grarrls can eat almost any item, including Petpets like Meepits.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "Can a Meepit be eaten by a Skeith or Grarrl?",
+						"wrong": [
+							"No, they are too scary",
+							"No, they are poisonous",
+							"Only if painted"
+						]
+					},
+					{
+						"correct": "The eyes follow your mouse",
+						"difficulty": "Hard",
+						"explanation": "In some versions of the site, the Meepits on the game page would have eyes that tracked the user's cursor.",
+						"image_url": "https://skillcheckgame.com/assets/images/meepit.webp",
+						"question": "What happens when you refresh the Meepit Juice Break page many times?",
+						"wrong": [
+							"The screen turns pink",
+							"The music speeds up",
+							"The Meepits disappear"
+						]
+					}
+				]
+			},
+			"id": "neopets_meepit",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Meepit",
+				"lore_desc": "Small, pink, and bug-eyed, these Petpets are rumored to be part of a secret conspiracy to take over Neopia.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Meepit",
+			"profiler": {
+				"vibe_tags": [
+					"Petpet",
+					"Spooky",
+					"Meme"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Neopia Central",
+						"difficulty": "Easy",
+						"explanation": "The Money Tree is a landmark in the center of Neopia Central.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "In which Neopian world is the Money Tree located?",
+						"wrong": [
+							"Faerieland",
+							"Meridell",
+							"Mystery Island"
+						]
+					},
+					{
+						"correct": "Other users",
+						"difficulty": "Easy",
+						"explanation": "Everything at the Money Tree is donated by Neopian players or dropped by Random Events.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "Where do the items and Neopoints at the Money Tree come from?",
+						"wrong": [
+							"The Faerie Queen",
+							"The site staff",
+							"Magic"
+						]
+					},
+					{
+						"correct": "10",
+						"difficulty": "Medium",
+						"explanation": "To prevent hoarding, each user is restricted to 10 items per day from the tree.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "What is the daily limit for how many items a user can take from the Money Tree?",
+						"wrong": [
+							"1",
+							"5",
+							"Unlimited"
+						]
+					},
+					{
+						"correct": "The Ghost Lupe",
+						"difficulty": "Hard",
+						"explanation": "While the Pant Devil steals from players, the 'Ghosts' are a specific mechanic that occasionally clears the tree's inventory.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "Which ghostly character is often seen stealing from the Money Tree, preventing others from getting items?",
+						"wrong": [
+							"The Pant Devil",
+							"The Tax Beast",
+							"The Meepits"
+						]
+					},
+					{
+						"correct": "A sentient deciduous tree",
+						"difficulty": "Easy",
+						"explanation": "The Money Tree has a face and is a sentient, living entity.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "What type of tree is the Money Tree?",
+						"wrong": [
+							"A pine tree",
+							"A palm tree",
+							"A fruit tree"
+						]
+					},
+					{
+						"correct": "The Brain Tree",
+						"difficulty": "Medium",
+						"explanation": "The Brain Tree is a quest-giving entity in the Haunted Woods that looks like a sinister version of the Money Tree.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "What is the name of the 'evil' version of the Money Tree found in the Haunted Woods?",
+						"wrong": [
+							"The Death Tree",
+							"The Scary Tree",
+							"The Root of Evil"
+						]
+					},
+					{
+						"correct": "Paint Brushes",
+						"difficulty": "Medium",
+						"explanation": "While possible if someone donated it, high-value items like Paint Brushes are almost never seen due to how fast they are grabbed.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "Which of these can NOT be found at the Money Tree?",
+						"wrong": [
+							"Old Shoes",
+							"Rotten Omelettes",
+							"1 NP"
+						]
+					},
+					{
+						"correct": "The Rock Pool",
+						"difficulty": "Hard",
+						"explanation": "The Rock Pool on Mystery Island used to serve as a Petpet donation center, but now the Money Tree handles most donations.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "What is the name of the similar location where players can donate and receive Petpets?",
+						"wrong": [
+							"The Petpet Puddle",
+							"The Creature Catcher",
+							"The Money Tree"
+						]
+					},
+					{
+						"correct": "A message says it is gone",
+						"difficulty": "Easy",
+						"explanation": "The site will notify you that 'Oops! Someone was faster than you' if you miss out on an item.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "What happens if you try to take an item but someone else gets it first?",
+						"wrong": [
+							"You lose Neopoints",
+							"Your pet gets sad",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "Old Rotten Shoe",
+						"difficulty": "Medium",
+						"explanation": "Fishing daily results and general garbage are frequently dumped here.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "Which 'trash' item is the most common sight at the Money Tree?",
+						"wrong": [
+							"Shiny Rock",
+							"Dead Fish",
+							"Rusty Can"
+						]
+					},
+					{
+						"correct": "He smiles",
+						"difficulty": "Hard",
+						"explanation": "The art for the tree shows him looking happy and satisfied when donations are flowing.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "What is the Money Tree's reaction when you donate a large sum of Neopoints?",
+						"wrong": [
+							"He speaks to you",
+							"He gives you an avatar",
+							"He grows larger"
+						]
+					},
+					{
+						"correct": "An activity done once a day",
+						"difficulty": "Easy",
+						"explanation": "Dailies are tasks like visiting the Money Tree or the Giant Omelette that players do every day.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "The Money Tree is considered a 'Daily' by most players. What is a 'Daily'?",
+						"wrong": [
+							"A newspaper",
+							"A type of quest",
+							"A common pet"
+						]
+					},
+					{
+						"correct": "A generous Neopian",
+						"difficulty": "Easy",
+						"explanation": "Generous players often 'dump' large amounts of NP to help newer players.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "Which of these characters is most likely to leave a donation of 10,000 NP at the tree?",
+						"wrong": [
+							"Dr. Sloth",
+							"The Pant Devil",
+							"The Tax Beast"
+						]
+					},
+					{
+						"correct": "Ye Olde Fishing Vortex",
+						"difficulty": "Hard",
+						"explanation": "The Rubbish Dump in Meridell is the specific location that works like the Money Tree for garbage items.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "What is the name of the trash dump nearby that functions similarly to the Money Tree?",
+						"wrong": [
+							"The Rubbish Dump",
+							"The Trash Can",
+							"The Waste Land"
+						]
+					},
+					{
+						"correct": "One of the oldest entities",
+						"difficulty": "Medium",
+						"explanation": "The Money Tree has been a part of Neopia Central since the very beginning of the world.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_money_tree.webp",
+						"question": "How old is the Money Tree in Neopian history?",
+						"wrong": [
+							"10 years",
+							"Created by Fyora",
+							"As old as the moon"
+						]
+					}
+				]
+			},
+			"id": "neopets_the_money_tree",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "The Money Tree",
+				"lore_desc": "A generous spirit residing in Neopia Central that collects donated items and Neopoints to give to those in need.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Money Tree",
+			"profiler": {
+				"vibe_tags": [
+					"Neopia Central",
+					"Charity",
+					"Daily"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Number 1",
+						"difficulty": "Easy",
+						"explanation": "Shoyrus have been the most created Neopet on the site for nearly its entire history.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "This species has consistently held which rank in the 'Most Popular Neopet' list?",
+						"wrong": [
+							"Number 10",
+							"Number 50",
+							"Last Place"
+						]
+					},
+					{
+						"correct": "A single horn",
+						"difficulty": "Easy",
+						"explanation": "Shoyrus are distinguished by the single, small horn on the top of their heads.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "Which of these physical features is unique to the Shoyru compared to other dragon-like pets?",
+						"wrong": [
+							"Two heads",
+							"Scales",
+							"A spiked tail"
+						]
+					},
+					{
+						"correct": "The Shoyru Knight",
+						"difficulty": "Medium",
+						"explanation": "The Shoyru Knight is a well-known hero in Neopian comic lore.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "Which heroic Shoyru is a member of the 'Defenders of Neopia'?",
+						"wrong": [
+							"Sir Jeran",
+							"The Masked Avenger",
+							"Lightning Shoyru"
+						]
+					},
+					{
+						"correct": "Flying",
+						"difficulty": "Easy",
+						"explanation": "Shoyrus are natural flyers and many of their species-specific items relate to aerial combat.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "Shoyrus are particularly known for their skill in which Neopian activity?",
+						"wrong": [
+							"Swimming",
+							"Digging",
+							"Cooking"
+						]
+					},
+					{
+						"correct": "Tavi",
+						"difficulty": "Hard",
+						"explanation": "Tavi is a brave Shoyru captain known for her daring adventures in the clouds.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "What is the name of the famous Shoyru who captains a flying ship in the 'Cybunny Carnival' lore?",
+						"wrong": [
+							"Taelia",
+							"Tomos",
+							"Tobias"
+						]
+					},
+					{
+						"correct": "Magma or Fire",
+						"difficulty": "Medium",
+						"explanation": "While there is no 'Dragon' paint brush, the Fire and Magma colors emphasize their draconic heritage.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "Which special paint brush color makes a Shoyru look like a traditional fire-breathing dragon?",
+						"wrong": [
+							"Dragon Paint Brush",
+							"Scaly Paint Brush",
+							"Lizard Paint Brush"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "Standard Shoyrus have a single pair of large, functional wings.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "How many wings does a standard Shoyru have?",
+						"wrong": [
+							"Four",
+							"None",
+							"Six"
+						]
+					},
+					{
+						"correct": "Targets",
+						"difficulty": "Medium",
+						"explanation": "Shoyru Shot is a target-practice game set in a training field.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "In the game 'Shoyru Shot', what are you trying to hit with fireballs?",
+						"wrong": [
+							"Dr. Sloth",
+							"Meepits",
+							"Other Shoyrus"
+						]
+					},
+					{
+						"correct": "Dash",
+						"difficulty": "Hard",
+						"explanation": "Dash is a key player for the Krawk Island Yooyuball team.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "What is the name of the Shoyru hero who helps players in the Altador Cup for Krawk Island?",
+						"wrong": [
+							"Zack",
+							"Blade",
+							"Swift"
+						]
+					},
+					{
+						"correct": "Shoyru Grappling Hook",
+						"difficulty": "Hard",
+						"explanation": "The Shoyru Grappling Hook is a species-specific item used for theft and damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "Which of these is a Shoyru-only weapon in the Battledome?",
+						"wrong": [
+							"Dragon Sword",
+							"Wing Blade",
+							"Horn Spike"
+						]
+					},
+					{
+						"correct": "Mystery Island",
+						"difficulty": "Medium",
+						"explanation": "Early lore suggests they were first discovered in the tropical regions of Mystery Island.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "Where is the Shoyru species said to have originated?",
+						"wrong": [
+							"Terror Mountain",
+							"Tyrannia",
+							"Space Station"
+						]
+					},
+					{
+						"correct": "Large and black",
+						"difficulty": "Easy",
+						"explanation": "Shoyrus are famous for their large, expressive, solid black eyes.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "What kind of eyes do Shoyrus have in their classic design?",
+						"wrong": [
+							"Slitted like a cat",
+							"Small and red",
+							"Glowing blue"
+						]
+					},
+					{
+						"correct": "Lord Darigan",
+						"difficulty": "Medium",
+						"explanation": "Lord Darigan is a Korbat, while the others listed are famous Shoyrus.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "Which of these is NOT a Shoyru character?",
+						"wrong": [
+							"Kentari",
+							"Yesboyice-guy",
+							"Cog"
+						]
+					},
+					{
+						"correct": "The Shoyru",
+						"difficulty": "Medium",
+						"explanation": "Shoyrus are generally depicted as smaller and more agile than the larger, more sturdy Scorchios.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "The Shoyru is often compared to which other flying species, the Scorchio, but which is smaller?",
+						"wrong": [
+							"The Scorchio",
+							"They are the same size",
+							"The Draik"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Hard",
+						"explanation": "The very first Shoyru registered on the site was blue.",
+						"image_url": "https://skillcheckgame.com/assets/images/shoyru.webp",
+						"question": "What color was the 'First' Shoyru ever created in Neopian history?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Yellow"
+						]
+					}
+				]
+			},
+			"id": "neopets_shoyru",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Shoyru",
+				"lore_desc": "Small, dragon-like creatures with large eyes and a single horn, known as the most popular Neopet species of all time.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Shoyru",
+			"profiler": {
+				"vibe_tags": [
+					"Species",
+					"Flying",
+					"Pet"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mystery Island",
+						"difficulty": "Easy",
+						"explanation": "Tombola is a staple attraction of Mystery Island's main beach.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "On which tropical island is this daily game located?",
+						"wrong": [
+							"Krawk Island",
+							"Roo Island",
+							"Lutari Island"
+						]
+					},
+					{
+						"correct": "The Tiki Tack Man",
+						"difficulty": "Easy",
+						"explanation": "The Tiki Tack Man runs the Tombola and the nearby Tiki Tack Merchandise shop.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "What is the name of the man who runs the Tombola?",
+						"wrong": [
+							"The Island Chief",
+							"Masked Mike",
+							"The Tombola Guy"
+						]
+					},
+					{
+						"correct": "A wooden mask",
+						"difficulty": "Easy",
+						"explanation": "He is always seen wearing a large, hand-carved wooden tiki mask.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "What does the Tombola man wear to hide his face?",
+						"wrong": [
+							"A paper bag",
+							"A faerie veil",
+							"A helmet"
+						]
+					},
+					{
+						"correct": "0, 2, or 5",
+						"difficulty": "Medium",
+						"explanation": "The winning tickets traditionally end in 0, 2, or 5, though the rules can occasionally vary.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "What must the number on your ticket end in to win a prize in Tombola?",
+						"wrong": [
+							"7",
+							"1 or 3",
+							"Any even number"
+						]
+					},
+					{
+						"correct": "A small amount of Neopoints and an item",
+						"difficulty": "Medium",
+						"explanation": "Even losers sometimes get a 'consolation prize' if the Tiki Tack Man is feeling generous.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "If you lose at Tombola, the man sometimes gives you what as a 'booby prize'?",
+						"wrong": [
+							"Nothing",
+							"A kick out of the shop",
+							"A curse"
+						]
+					},
+					{
+						"correct": "Users must donate to reopen it",
+						"difficulty": "Medium",
+						"explanation": "Occasionally, the Tombola closes and asks for donations; once enough Neopoints are raised, it opens again.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "What happens if the Tombola runs out of money?",
+						"wrong": [
+							"It closes forever",
+							"It becomes a paid game",
+							"Dr. Sloth takes it over"
+						]
+					},
+					{
+						"correct": "Bottle of Sand",
+						"difficulty": "Easy",
+						"explanation": "Different colors of sand in bottles are the most frequent booby prizes from the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "Which of these is a common 'worthless' prize from Tombola?",
+						"wrong": [
+							"Gold Negg",
+							"Paint Brush",
+							"Codestone"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Medium",
+						"explanation": "Winning tickets can grant valuable prizes, including various types of Codestones.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "Can you win Codestones from the Tombola?",
+						"wrong": [
+							"No, only sand",
+							"Only during events",
+							"Only if you pay"
+						]
+					},
+					{
+						"correct": "Tiki Tack Merchandise",
+						"difficulty": "Medium",
+						"explanation": "He sells various island-themed goods and souvenirs next to the Tombola stand.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "What is the Tiki Tack Man's shop called?",
+						"wrong": [
+							"The Mask Shop",
+							"Mystery Island Souvenirs",
+							"Tombola Treasures"
+						]
+					},
+					{
+						"correct": "Reach into a barrel",
+						"difficulty": "Easy",
+						"explanation": "The animation shows the user reaching into a large wooden Tombola barrel to pull out a ticket.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "In the game, how do you pick your ticket?",
+						"wrong": [
+							"Click a button",
+							"Buy it from a deck",
+							"Answer a riddle"
+						]
+					},
+					{
+						"correct": "It has never been revealed",
+						"difficulty": "Hard",
+						"explanation": "His identity remains one of the long-standing mysteries of Mystery Island.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "What is the Tiki Tack Man's real name, revealed in rare site lore?",
+						"wrong": [
+							"Bob",
+							"Jhuidah",
+							"Tiki Tim"
+						]
+					},
+					{
+						"correct": "125",
+						"difficulty": "Hard",
+						"explanation": "Tickets like 125, which ends in 5, are classic winning numbers.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "Which of these is a rare 'winning' ticket number often seen in screenshots?",
+						"wrong": [
+							"666",
+							"1000",
+							"777"
+						]
+					},
+					{
+						"correct": "He was a contestant",
+						"difficulty": "Hard",
+						"explanation": "The Tiki Tack Man was one of many site characters who could be 'sacrificed' by user votes.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "During the 'Sacrificers' event, what was the Tiki Tack Man's role?",
+						"wrong": [
+							"He was the judge",
+							"He was the villain",
+							"He sat it out"
+						]
+					},
+					{
+						"correct": "Yellow and Orange",
+						"difficulty": "Easy",
+						"explanation": "The stall is brightly colored with tropical yellow, orange, and red tones.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "What is the primary color of the Tombola stall?",
+						"wrong": [
+							"Pink and Purple",
+							"Blue and Green",
+							"Red and Black"
+						]
+					},
+					{
+						"correct": "Once per day",
+						"difficulty": "Easy",
+						"explanation": "Like most Neopian 'dailies', you are limited to one draw every 24 hours.",
+						"image_url": "https://skillcheckgame.com/assets/images/tombola.webp",
+						"question": "Is there a limit to how many times you can play Tombola per day?",
+						"wrong": [
+							"Once per hour",
+							"Unlimited",
+							"Twice per day"
+						]
+					}
+				]
+			},
+			"id": "neopets_tombola",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Tombola",
+				"lore_desc": "A free lottery game on Mystery Island run by a masked man, offering various prizes to lucky visitors.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Tombola",
+			"profiler": {
+				"vibe_tags": [
+					"Mystery Island",
+					"Daily",
+					"Game"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Krawk Island",
+						"difficulty": "Easy",
+						"explanation": "Dubloons are the legal tender for all transactions on Krawk Island.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "Which pirate-infested island uses this specific currency?",
+						"wrong": [
+							"Mystery Island",
+							"Roo Island",
+							"Lutari Island"
+						]
+					},
+					{
+						"correct": "One Dubloon Coin",
+						"difficulty": "Easy",
+						"explanation": "The One Dubloon Coin is the smallest unit of the currency.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "What is the lowest denomination of this currency?",
+						"wrong": [
+							"Half Dubloon",
+							"Five Dubloon Coin",
+							"Dubloon Cent"
+						]
+					},
+					{
+						"correct": "The Dubloon-O-Matic",
+						"difficulty": "Medium",
+						"explanation": "The Dubloon-O-Matic allows users to combine their smaller coins into higher denominations.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "Where can you go to trade smaller coins for larger ones or vice versa?",
+						"wrong": [
+							"The Bank",
+							"The Pirate Exchange",
+							"The Money Tree"
+						]
+					},
+					{
+						"correct": "The Golden Dubloon",
+						"difficulty": "Medium",
+						"explanation": "The Golden Dubloon is a fancy restaurant where Neopoints are not accepted.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "What is the name of the Krawk Island restaurant where you must pay with this currency?",
+						"wrong": [
+							"Pirate Pete's",
+							"The Salty Sea Dog",
+							"Kelpie's"
+						]
+					},
+					{
+						"correct": "One Thousand Dubloon Coin",
+						"difficulty": "Hard",
+						"explanation": "The 1,000 Dubloon Coin is incredibly rare and extremely valuable.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "What is the highest denomination of Dubloon coin that exists?",
+						"wrong": [
+							"One Hundred Dubloon Coin",
+							"Five Hundred Dubloon Coin",
+							"Ten Thousand Dubloon Coin"
+						]
+					},
+					{
+						"correct": "Swashbuckling Academy",
+						"difficulty": "Easy",
+						"explanation": "Cap'n Threelegs' Swashbuckling Academy only accepts Dubloons as payment for training.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "Which school on Krawk Island requires Dubloons for tuition?",
+						"wrong": [
+							"Mystery Island Training School",
+							"The Ninja Academy",
+							"The Pirate College"
+						]
+					},
+					{
+						"correct": "Cap'n Threelegs",
+						"difficulty": "Medium",
+						"explanation": "Cap'n Threelegs, a white Eyrie with a peg leg, runs the academy.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "Who runs the training academy that accepts these coins?",
+						"wrong": [
+							"The Techo Master",
+							"Admiral Scarblade",
+							"Captain Dread"
+						]
+					},
+					{
+						"correct": "Rare and powerful artifacts",
+						"difficulty": "Medium",
+						"explanation": "Smuggler's Cove sells extremely limited items that can only be purchased with Dubloons.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "In 'Smuggler's Cove', Dubloons are the only way to buy what?",
+						"wrong": [
+							"Common food",
+							"Basic petpets",
+							"Neohome furniture"
+						]
+					},
+					{
+						"correct": "Three Dubloon Coin",
+						"difficulty": "Medium",
+						"explanation": "Dubloons come in 1, 2, 5, 10, 20, 50, 100, 200, 500, and 1,000 denominations.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "Which of these is NOT a real Dubloon denomination?",
+						"wrong": [
+							"Two Dubloon Coin",
+							"Five Dubloon Coin",
+							"Ten Dubloon Coin"
+						]
+					},
+					{
+						"correct": "Coltzan's Shrine or Anchor Management",
+						"difficulty": "Hard",
+						"explanation": "Daily activities like Anchor Management or visiting Coltzan's Shrine occasionally reward Dubloons.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "How can you primarily obtain Dubloons without buying them from other users?",
+						"wrong": [
+							"Playing Games",
+							"The Bank",
+							"The Post Office"
+						]
+					},
+					{
+						"correct": "Round",
+						"difficulty": "Easy",
+						"explanation": "Like most coins, Dubloons are depicted as golden, circular disks.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "What shape are most Dubloon coins?",
+						"wrong": [
+							"Square",
+							"Octagonal",
+							"Star-shaped"
+						]
+					},
+					{
+						"correct": "No, they stay in your inventory",
+						"difficulty": "Medium",
+						"explanation": "Dubloons are treated as items, not as digital currency like Neopoints.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "Can you store Dubloons in your Neopian Bank account?",
+						"wrong": [
+							"Yes",
+							"Only if you have a Pirate account",
+							"Only at the Krawk Island branch"
+						]
+					},
+					{
+						"correct": "Dubloon Disaster",
+						"difficulty": "Medium",
+						"explanation": "In Dubloon Disaster, you play as a Kacheek in a boat collecting coins while avoiding mines.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "What is the name of the game where you can win Dubloons by sinking pirate ships?",
+						"wrong": [
+							"Pirate Peril",
+							"Sink or Swim",
+							"Sea Shoot"
+						]
+					},
+					{
+						"correct": "Captain Scarblade",
+						"difficulty": "Easy",
+						"explanation": "As a pirate lord, Scarblade is heavily associated with pirate treasure.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "Which of these characters is most likely to be found carrying a hoard of Dubloons?",
+						"wrong": [
+							"King Skarl",
+							"The Soup Faerie",
+							"Princess Amira"
+						]
+					},
+					{
+						"correct": "The price spiked due to uncertainty",
+						"difficulty": "Hard",
+						"explanation": "When the island vanished, the scarcity and panic caused item prices, including Dubloons, to fluctuate wildly.",
+						"image_url": "https://skillcheckgame.com/assets/images/dubloon.webp",
+						"question": "What happened to the value of Dubloons during the 'Krawk Island Disappearance' event?",
+						"wrong": [
+							"They became worthless",
+							"They were replaced by shells",
+							"Nothing"
+						]
+					}
+				]
+			},
+			"id": "neopets_dubloon",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Dubloon",
+				"lore_desc": "The official gold currency of Krawk Island, used for training pets, buying pirate goods, and dining at the Golden Dubloon.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Dubloon",
+			"profiler": {
+				"vibe_tags": [
+					"Currency",
+					"Pirate",
+					"Krawk Island"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Terror Mountain",
+						"difficulty": "Easy",
+						"explanation": "The Neggery is located in the Ice Caves of Terror Mountain.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "Where is the Neggery, the place where you can trade in standard Neggs for points, located?",
+						"wrong": [
+							"Neopia Central",
+							"Faerieland",
+							"Lost Desert"
+						]
+					},
+					{
+						"correct": "Kari the Negg Faerie",
+						"difficulty": "Easy",
+						"explanation": "Kari is the primary Negg Faerie, though others help during the Festival of Neggs.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "What is the name of the faerie who runs the Neggery?",
+						"wrong": [
+							"Taelia",
+							"Illusen",
+							"The Soup Faerie"
+						]
+					},
+					{
+						"correct": "Festival of Neggs",
+						"difficulty": "Easy",
+						"explanation": "The Festival of Neggs is a yearly easter-themed scavenger hunt across Neopia.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "What is the name of the annual springtime event centered around these items?",
+						"wrong": [
+							"Negg Hunt",
+							"Egg-stravaganza",
+							"Spring Fling"
+						]
+					},
+					{
+						"correct": "Cool Negg",
+						"difficulty": "Medium",
+						"explanation": "The Cool Negg is one of the most famous and expensive Neggs, granting levels, hit points, and strength.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "Which of these 'Magical' Neggs can increase a Neopet's stats in the Battledome?",
+						"wrong": [
+							"Yellow Negg",
+							"Smiley Negg",
+							"Plastic Negg"
+						]
+					},
+					{
+						"correct": "There is no Negg that does this",
+						"difficulty": "Hard",
+						"explanation": "Trick question! While there is a 'Baby Negg' item, it is food only; the Baby Paint Brush or a Boochi event changes the color.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "Which specific Negg is known for turning a Neopet into a 'Baby' color?",
+						"wrong": [
+							"Baby Negg",
+							"Pink Negg",
+							"Soft Negg"
+						]
+					},
+					{
+						"correct": "A Negg with a fish tail and fins",
+						"difficulty": "Medium",
+						"explanation": "The Fish Negg is a classic rare item that combines a Negg with piscine features.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "The 'Fish Negg' is a highly coveted item. What does it look like?",
+						"wrong": [
+							"A blue Negg",
+							"A Negg inside a bowl",
+							"A Negg made of scales"
+						]
+					},
+					{
+						"correct": "Nothing, he wants answers, not Neggs",
+						"difficulty": "Medium",
+						"explanation": "The Brain Tree only accepts answers to his specific riddles about dead Neopians.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "What happens when you give a Negg to the 'Brain Tree'?",
+						"wrong": [
+							"He gives you points",
+							"He eats it",
+							"He turns it gold"
+						]
+					},
+					{
+						"correct": "NeggSweeper",
+						"difficulty": "Hard",
+						"explanation": "Wait, the grid game is actually 'Mysterious Negg Puzzle'. NeggSweeper is a Minesweeper clone.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "Which puzzle game involves arranging Neggs on a 3x3 grid based on clues?",
+						"wrong": [
+							"Negg Puzzle",
+							"Kari's Challenge",
+							"Sudoku Negg"
+						]
+					},
+					{
+						"correct": "Vortex Negg",
+						"difficulty": "Hard",
+						"explanation": "The Vortex Negg has unpredictable effects and can sometimes lower stats.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "What is the name of the Negg that can actually decrease a pet's stats if eaten?",
+						"wrong": [
+							"Bad Negg",
+							"Poison Negg",
+							"Sloth Negg"
+						]
+					},
+					{
+						"correct": "They are just called Negg Points",
+						"difficulty": "Medium",
+						"explanation": "You trade Neggs for a numerical value of 'Negg Points' to buy more powerful Neggs.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "What color are the points you earn at the Neggery?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Exploding Negg",
+						"difficulty": "Easy",
+						"explanation": "Exploding Neggs are one-use items that deal significant fire damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "Which of these is a Negg that can be used as a weapon in the Battledome?",
+						"wrong": [
+							"Sword Negg",
+							"Shield Negg",
+							"Iron Negg"
+						]
+					},
+					{
+						"correct": "No, they are fruits",
+						"difficulty": "Medium",
+						"explanation": "Despite the name, Neggs are canonically a type of fruit that grows in Neopia.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "Can standard Neopets lay Neggs?",
+						"wrong": [
+							"Yes, only Lennies",
+							"Yes, only Pteris",
+							"Only if they are painted Gold"
+						]
+					},
+					{
+						"correct": "Its high rarity and value",
+						"difficulty": "Easy",
+						"explanation": "The Golden Negg is a classic high-value collectible item.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "What is the 'Golden Negg' famous for?",
+						"wrong": [
+							"Turning pets gold",
+							"Winning the lottery",
+							"Giving max health"
+						]
+					},
+					{
+						"correct": "The Meepit",
+						"difficulty": "Hard",
+						"explanation": "During various Festival of Neggs, Meepits have been portrayed as mischievous thieves of the eggs.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "Which of these characters is most associated with stealing Neggs?",
+						"wrong": [
+							"The Pant Devil",
+							"Dr. Sloth",
+							"The Negg Raider"
+						]
+					},
+					{
+						"correct": "April",
+						"difficulty": "Easy",
+						"explanation": "Easter Neggs coincide with the spring holidays, typically in April.",
+						"image_url": "https://skillcheckgame.com/assets/images/negg.webp",
+						"question": "The 'Easter Negg' is usually released during which real-world month?",
+						"wrong": [
+							"December",
+							"October",
+							"January"
+						]
+					}
+				]
+			},
+			"id": "neopets_negg",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Negg",
+				"lore_desc": "Special egg-like fruits that can be eaten, collected, or traded for points at the Neggery to obtain powerful magical versions.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Negg",
+			"profiler": {
+				"vibe_tags": [
+					"Food",
+					"Collectible",
+					"Magic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Meridell",
+						"difficulty": "Easy",
+						"explanation": "Illusen lives in a glade located within the rolling hills of Meridell.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "In which Neopian kingdom does Illusen make her home?",
+						"wrong": [
+							"Brightvale",
+							"Faerieland",
+							"Shenkuu"
+						]
+					},
+					{
+						"correct": "Green and Brown",
+						"difficulty": "Easy",
+						"explanation": "Illusen has green hair with brown streaks, matching the forest she protects.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "What color is this faerie's hair, reflecting her connection to nature?",
+						"wrong": [
+							"Bright Red",
+							"Solid Purple",
+							"Sky Blue"
+						]
+					},
+					{
+						"correct": "Jhudora",
+						"difficulty": "Easy",
+						"explanation": "Illusen and Jhudora are famous enemies, and you cannot complete quests for both on the same day.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "Who is Illusen's primary rival among the other faeries?",
+						"wrong": [
+							"Fyora",
+							"Taelia",
+							"The Darkest Faerie"
+						]
+					},
+					{
+						"correct": "Illusens Staff",
+						"difficulty": "Hard",
+						"explanation": "Illusens Staff is one of the most powerful and sought-after items in Neopia.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "What is the ultimate prize for completing Illusen's 50th quest?",
+						"wrong": [
+							"Earth Blade",
+							"Nature Bow",
+							"Meridell Shield"
+						]
+					},
+					{
+						"correct": "You restart at Quest 1",
+						"difficulty": "Medium",
+						"explanation": "The difficulty of her quests increases each time, but a single failure sends you back to the beginning.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "What happens if you fail one of Illusen's quests?",
+						"wrong": [
+							"You lose Neopoints",
+							"Your pet gets sick",
+							"Nothing, you just retry"
+						]
+					},
+					{
+						"correct": "Illusens Cream Cookie",
+						"difficulty": "Medium",
+						"explanation": "At Level 1, Illusen often rewards players with her signature cream cookies.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "Which of these items is a common reward for early-level Illusen quests?",
+						"wrong": [
+							"Earth Potion",
+							"Green Apple",
+							"Leaf Shield"
+						]
+					},
+					{
+						"correct": "16 minutes",
+						"difficulty": "Medium",
+						"explanation": "Players have exactly 16 minutes to find and return the requested item.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "What is the time limit given to complete a standard Illusen's Glade quest?",
+						"wrong": [
+							"60 minutes",
+							"5 minutes",
+							"24 hours"
+						]
+					},
+					{
+						"correct": "She chooses to live among Neopets",
+						"difficulty": "Hard",
+						"explanation": "Unlike most powerful faeries who stay in Faerieland, Illusen prefers the simple life in Meridell.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "Why is Illusen considered unique among high-ranking faeries?",
+						"wrong": [
+							"She has no wings",
+							"She is mortal",
+							"She hates magic"
+						]
+					},
+					{
+						"correct": "March 17th",
+						"difficulty": "Medium",
+						"explanation": "Illusen Day falls on March 17th, coinciding with St. Patrick's Day in the real world.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "Which day of the year is celebrated as 'Illusen Day'?",
+						"wrong": [
+							"April 1st",
+							"January 1st",
+							"December 25th"
+						]
+					},
+					{
+						"correct": "Magic weapons and potions",
+						"difficulty": "Hard",
+						"explanation": "She used her earth magic to create equipment that could withstand the Darigan Citadel's influence.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "In the 'Champions of Meridell' plot, what did Illusen provide to help the soldiers?",
+						"wrong": [
+							"Food for the army",
+							"A map of the citadel",
+							"She fought herself"
+						]
+					},
+					{
+						"correct": "There is no Leafy",
+						"difficulty": "Hard",
+						"explanation": "While she loves Petpets, she doesn't have a single iconic Petpet companion like some other characters.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "What species is the Petpet 'Leafy' often seen in art of her glade?",
+						"wrong": [
+							"A Faerie Bearog",
+							"A Mazzew",
+							"A Turmac"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Easy",
+						"explanation": "Unlike the main Faerie Quests, you are allowed to use the Shop Wizard to help Illusen.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "Can you use the Shop Wizard to find items for Illusen's quests?",
+						"wrong": [
+							"No",
+							"Only if you are a Premium member",
+							"Only for the first 10 quests"
+						]
+					},
+					{
+						"correct": "Leaf Shield",
+						"difficulty": "Medium",
+						"explanation": "The Leaf Shield is a legendary mid-tier defensive item in the Battledome.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "What is the name of the shield she gives as a reward for Quest 20?",
+						"wrong": [
+							"Wood Shield",
+							"Glade Guard",
+							"Earth Shell"
+						]
+					},
+					{
+						"correct": "Counter or nullify them",
+						"difficulty": "Hard",
+						"explanation": "Her pure earth magic is the natural counter to Jhudora's dark enchantments.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "Illusen is famously the only faerie who can do what to Jhudora's spells?",
+						"wrong": [
+							"Copy them",
+							"Strengthen them",
+							"Eat them"
+						]
+					},
+					{
+						"correct": "Illusen will be angry and you fail",
+						"difficulty": "Medium",
+						"explanation": "The two faeries are so jealous that they will refuse to work with you if you've recently helped their rival.",
+						"image_url": "https://skillcheckgame.com/assets/images/illusen.webp",
+						"question": "What happens if you visit Jhudora while on a quest for Illusen?",
+						"wrong": [
+							"Nothing",
+							"Jhudora attacks you",
+							"You get a bonus"
+						]
+					}
+				]
+			},
+			"id": "neopets_illusen",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Illusen",
+				"lore_desc": "The Earth Faerie of Meridell, known for her kindness and her long-standing rivalry with the dark faerie Jhudora.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Illusen",
+			"profiler": {
+				"vibe_tags": [
+					"Faerie",
+					"Earth",
+					"Quest"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Purple and Green",
+						"difficulty": "Easy",
+						"explanation": "Jhudora is instantly recognizable by her purple and green hair, wings, and clothing.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "What are the two primary colors associated with Jhudora's appearance?",
+						"wrong": [
+							"Pink and White",
+							"Black and Red",
+							"Blue and Gold"
+						]
+					},
+					{
+						"correct": "Jhudora's Bluff",
+						"difficulty": "Easy",
+						"explanation": "Her home is a secluded cliffside known as Jhudora's Bluff.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "Where does Jhudora live within Faerieland?",
+						"wrong": [
+							"The Dark Dungeon",
+							"The Shadow Spire",
+							"Evil Cloud"
+						]
+					},
+					{
+						"correct": "Wand of the Dark Faerie",
+						"difficulty": "Hard",
+						"explanation": "The Wand of the Dark Faerie is one of the top three weapons in the entire game.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "What is the name of the incredibly powerful weapon awarded at Quest level 50?",
+						"wrong": [
+							"Jhudora's Staff",
+							"Shadow Blade",
+							"Cloud Crusher"
+						]
+					},
+					{
+						"correct": "Illusen",
+						"difficulty": "Easy",
+						"explanation": "Jhudora and Illusen are bitter rivals; helping one makes the other refuse your assistance.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "If you are helping Jhudora, which other faerie will refuse to speak with you?",
+						"wrong": [
+							"Fyora",
+							"Taelia",
+							"The Soup Faerie"
+						]
+					},
+					{
+						"correct": "February 4th",
+						"difficulty": "Medium",
+						"explanation": "Jhudora Day is celebrated on February 4th each year.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "What day is celebrated as 'Jhudora Day' in Neopia?",
+						"wrong": [
+							"October 31st",
+							"January 1st",
+							"June 12th"
+						]
+					},
+					{
+						"correct": "16 minutes",
+						"difficulty": "Medium",
+						"explanation": "Like Illusen, Jhudora gives you exactly 16 minutes to bring her the item she demands.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "What is the time limit to find an item for Jhudora's quests?",
+						"wrong": [
+							"60 minutes",
+							"10 minutes",
+							"5 minutes"
+						]
+					},
+					{
+						"correct": "Jhudoras Brush",
+						"difficulty": "Medium",
+						"explanation": "Early on, she rewards players with vanity items like Jhudoras Brush or Jhudoras Eye.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "Which of these is a common low-level reward from Jhudora?",
+						"wrong": [
+							"Dark Potion",
+							"Purple Negg",
+							"Shadow Petpet"
+						]
+					},
+					{
+						"correct": "It is debated; she is 'naughty' but not always evil",
+						"difficulty": "Medium",
+						"explanation": "While she is malicious and mean, she has occasionally helped Neopia when her own interests were at stake.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "Is Jhudora considered a true villain in Neopian history?",
+						"wrong": [
+							"Yes, she works for Sloth",
+							"No, she is a hero",
+							"Yes, she destroyed Meridell"
+						]
+					},
+					{
+						"correct": "You go back to level 1",
+						"difficulty": "Medium",
+						"explanation": "Failing any level of her quest line resets your progress completely.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "What happens if you fail a quest for Jhudora at level 40?",
+						"wrong": [
+							"You go back to level 39",
+							"You lose your pet",
+							"You are banned from the bluff"
+						]
+					},
+					{
+						"correct": "Everyone",
+						"difficulty": "Easy",
+						"explanation": "Jhudora's personality is built on paranoia and the belief that everyone is trying to trick her.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "Jhudora is famously suspicious of which group of people?",
+						"wrong": [
+							"Pirates",
+							"Knights",
+							"Shopkeepers"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Her bubbling cauldron almost always features a glowing green liquid.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "What color is the potion she is often shown brewing in her cauldron?",
+						"wrong": [
+							"Pink",
+							"Blue",
+							"Clear"
+						]
+					},
+					{
+						"correct": "She was turned to stone",
+						"difficulty": "Hard",
+						"explanation": "Despite her power, even Jhudora was caught by Xandra's spell and turned to stone.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "In the 'Faeries' Ruin' plot, what was Jhudora's fate?",
+						"wrong": [
+							"She joined the villain",
+							"She escaped to the moon",
+							"She led the heroes"
+						]
+					},
+					{
+						"correct": "Bartamus",
+						"difficulty": "Hard",
+						"explanation": "The Bartamus is a grumpy, dark-winged Petpet that is closely associated with Jhudora.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "What is Jhudora's favorite type of Petpet?",
+						"wrong": [
+							"Meepit",
+							"Mazzew",
+							"Harris"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "If you perform a quest for one, you must wait 12-24 hours before the other will accept your help.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "Can you complete a quest for Jhudora and Illusen on the same day?",
+						"wrong": [
+							"Yes",
+							"Only if you pay 1000 NP",
+							"Only on holidays"
+						]
+					},
+					{
+						"correct": "Jhudora Doll",
+						"difficulty": "Easy",
+						"explanation": "The Jhudora Doll is a classic Hidden Tower item used to obtain a specific avatar.",
+						"image_url": "https://skillcheckgame.com/assets/images/jhudora.webp",
+						"question": "What is the name of the doll based on her sold in the Hidden Tower?",
+						"wrong": [
+							"Dark Faerie Plushie",
+							"Villain Doll",
+							"Mean Girl Toy"
+						]
+					}
+				]
+			},
+			"id": "neopets_jhudora",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Jhudora",
+				"lore_desc": "A powerful and manipulative Dark Faerie who resides on a purple cloud in Faerieland, demanding tribute through difficult quests.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Jhudora",
+			"profiler": {
+				"vibe_tags": [
+					"Faerie",
+					"Dark",
+					"Quest"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Terror Mountain",
+						"difficulty": "Easy",
+						"explanation": "Taelia lives at the very summit of Terror Mountain.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "In which frozen Neopian world does Taelia reside?",
+						"wrong": [
+							"Faerieland",
+							"The Ice Caves",
+							"Tyrannia"
+						]
+					},
+					{
+						"correct": "An igloo",
+						"difficulty": "Easy",
+						"explanation": "Taelia's home is a large, magical igloo.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "What kind of house does Taelia live in?",
+						"wrong": [
+							"A crystal palace",
+							"A wooden cabin",
+							"A cave"
+						]
+					},
+					{
+						"correct": "Ice Creams, Snowballs, and Neopoints",
+						"difficulty": "Medium",
+						"explanation": "Taelia's rewards are usually winter-themed food items and weapons.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "What does Taelia typically reward players with for completing her quests?",
+						"wrong": [
+							"Stat increases",
+							"Paint Brushes",
+							"Codestones"
+						]
+					},
+					{
+						"correct": "Nothing, she doesn't have levels",
+						"difficulty": "Medium",
+						"explanation": "Taelia's quests are independent and do not follow a progressive level system.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "Unlike Illusen and Jhudora, what happens to Taelia's quest level if you fail?",
+						"wrong": [
+							"You restart at 1",
+							"You lose a level",
+							"You are banned for a week"
+						]
+					},
+					{
+						"correct": "Between 1 and 2 hours",
+						"difficulty": "Medium",
+						"explanation": "Taelia is more lenient than her sisters, typically giving players over an hour to find her items.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "What is the time limit for a Snow Faerie quest?",
+						"wrong": [
+							"16 minutes",
+							"24 hours",
+							"5 minutes"
+						]
+					},
+					{
+						"correct": "She was frozen in a block of ice",
+						"difficulty": "Hard",
+						"explanation": "Taelia was incapacitated by the Bringer of Night and spent much of the plot frozen.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "During the 'Hannah and the Ice Caves' plot, what was Taelia's role?",
+						"wrong": [
+							"She was the villain",
+							"She led the army",
+							"She provided the map"
+						]
+					},
+					{
+						"correct": "Blue and White",
+						"difficulty": "Easy",
+						"explanation": "Taelia wears a heavy blue winter coat with white fur trim.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "What color is Taelia's signature coat?",
+						"wrong": [
+							"Pink and Green",
+							"Red and Gold",
+							"Solid Black"
+						]
+					},
+					{
+						"correct": "Ice Cream Machine Coupon",
+						"difficulty": "Hard",
+						"explanation": "She occasionally gives out coupons for the Ice Cream Machine game.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "Which of these is a rare prize Taelia can give that is used for a specific avatar?",
+						"wrong": [
+							"Snowager Scale",
+							"Negg Voucher",
+							"Hidden Tower pass"
+						]
+					},
+					{
+						"correct": "The Soup Faerie",
+						"difficulty": "Medium",
+						"explanation": "Lore snippets suggest Taelia and the Soup Faerie share a mutual respect for helping others.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "Taelia is known to be very close friends with which other faerie?",
+						"wrong": [
+							"Jhudora",
+							"The Darkest Faerie",
+							"The Space Faerie"
+						]
+					},
+					{
+						"correct": "Taelias Wand",
+						"difficulty": "Medium",
+						"explanation": "Taelias Wand is a Battledome item that reflects her ice magic.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "What is the name of Taelia's personal wand?",
+						"wrong": [
+							"Ice Wand",
+							"Summit Staff",
+							"Frost Bolt"
+						]
+					},
+					{
+						"correct": "Bruces",
+						"difficulty": "Easy",
+						"explanation": "Bruces are the primary residents of Terror Mountain and are often seen in the background of her area.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "Which of these species is most commonly seen living near Taelia's igloo?",
+						"wrong": [
+							"Kacheeks",
+							"Eyries",
+							"Krawks"
+						]
+					},
+					{
+						"correct": "Brewing a spell to help Neopians",
+						"difficulty": "Medium",
+						"explanation": "She claims her quests are for gathering ingredients for powerful protective spells.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "What does Taelia say she is doing with the items you bring her?",
+						"wrong": [
+							"Eating them",
+							"Selling them",
+							"Decorating her igloo"
+						]
+					},
+					{
+						"correct": "Up to 3",
+						"difficulty": "Medium",
+						"explanation": "She typically asks for a combination of two or three food or magic items.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "How many items does Taelia usually ask for in a single quest?",
+						"wrong": [
+							"Exactly 1",
+							"Exactly 5",
+							"Up to 10"
+						]
+					},
+					{
+						"correct": "Yes, but she rarely does",
+						"difficulty": "Hard",
+						"explanation": "She has wings and can fly, but her heavy coat and preference for the mountain mean she is usually seen walking.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "Is Taelia able to fly like other faeries?",
+						"wrong": [
+							"No, she has no wings",
+							"No, her wings are frozen",
+							"Only during summer"
+						]
+					},
+					{
+						"correct": "Snowbunny",
+						"difficulty": "Medium",
+						"explanation": "Snowbunnies are iconic winter Petpets that fit perfectly in Taelia's snowy realm.",
+						"image_url": "https://skillcheckgame.com/assets/images/taelia_the_snow_faerie.webp",
+						"question": "What is the name of the Petpet that looks like a small snowball and is often associated with her?",
+						"wrong": [
+							"Feepit",
+							"Polarchuck",
+							"Snuffly"
+						]
+					}
+				]
+			},
+			"id": "neopets_taelia_the_snow_faerie",
+			"meta": {
+				"date_added": "2026-03-20",
+				"entity_category": "Theme Item",
+				"full_title": "Taelia the Snow Faerie",
+				"lore_desc": "A kind faerie who lives in an igloo at the top of Terror Mountain, requesting items to help her with magical spells.",
+				"theme_origin": "neopets",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Taelia the Snow Faerie",
+			"profiler": {
+				"vibe_tags": [
+					"Faerie",
+					"Ice",
+					"Quest"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -70848,6 +74096,128 @@
 						"Kamurocho"
 					],
 					"name": "The Kuze Gauntlet"
+				}
+			]
+		},
+		{
+			"id": "neopets",
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Faerieland",
+						"Fyora the Faerie Queen"
+					],
+					"name": "Faerie Royalty"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Illusen",
+						"Jhudora"
+					],
+					"name": "Good vs Evil"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Dr Frank Sloth",
+						"The Pant Devil"
+					],
+					"name": "Villain Duo"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Taelia the Snow Faerie",
+						"Negg"
+					],
+					"name": "Snow Day"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Money Tree",
+						"Dubloon"
+					],
+					"name": "Neopian Economy"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Tombola",
+						"Giant Omelette"
+					],
+					"name": "Daily Grind"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kacheek",
+						"Meepit"
+					],
+					"name": "Cute & Creepy"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kacheek",
+						"Shoyru"
+					],
+					"name": "Popular Pets"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Meridell",
+						"Illusen"
+					],
+					"name": "Medieval Quest"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Jhudora",
+						"Illusen",
+						"Fyora the Faerie Queen"
+					],
+					"name": "Faerie Rivals"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Tombola",
+						"Giant Omelette",
+						"The Money Tree"
+					],
+					"name": "Neopia's Freebies"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Dr Frank Sloth",
+						"Jhudora",
+						"The Pant Devil"
+					],
+					"name": "Forces of Darkness"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Fyora the Faerie Queen",
+						"Illusen",
+						"Taelia the Snow Faerie"
+					],
+					"name": "Faerie Council"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Dubloon",
+						"The Money Tree",
+						"Negg"
+					],
+					"name": "Neopian Treasures"
 				}
 			]
 		}
