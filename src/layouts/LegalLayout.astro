@@ -1,288 +1,45 @@
----
-export interface Props {
-  title: string;
-}
+<script>
+  (function () {
+    const backBtn = document.getElementById('back-to-game');
+    const closeHint = document.getElementById('close-hint');
 
-const { title } = Astro.props;
----
+    const wasOpenedByGame = !!window.opener;
+    const isInIframe = window.parent !== window;
+    const hasHistory = window.history.length > 1;
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title} — Skill Check</title>
-    <meta name="description" content={`${title} for Skill Check, a daily trivia card game.`} />
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&family=JetBrains+Mono:wght@400;700&display=swap"
-      rel="stylesheet"
-    />
-    <style>
-      :root {
-        --bg-deep: #050508;
-        --bg-surface: #0a0a0c;
-        --bg-card: #151518;
-        --border: #2a2a35;
-        --text-main: #e8e8ee;
-        --text-dim: #888899;
-        --accent: #00e5ff;
-        --warning: #ffcc00;
-      }
+    if (backBtn) {
+      backBtn.addEventListener('click', function (e) {
+        e.preventDefault();
 
-      * {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-      }
-
-      body {
-        font-family: 'Outfit', sans-serif;
-        background: var(--bg-deep);
-        color: var(--text-main);
-        min-height: 100vh;
-        display: flex;
-        flex-direction: column;
-      }
-
-      .page-header {
-        border-bottom: 1px solid var(--border);
-        padding: 1.25rem 2rem;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        background: var(--bg-surface);
-      }
-
-      .page-header a {
-        text-decoration: none;
-      }
-
-      .logo-link {
-        font-family: 'JetBrains Mono', monospace;
-        font-weight: 800;
-        font-size: 1.1rem;
-        background: linear-gradient(135deg, var(--accent), var(--warning));
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-        letter-spacing: -0.01em;
-      }
-
-      .back-link {
-        font-size: 0.85rem;
-        color: var(--text-dim);
-        transition: color 0.2s;
-        display: flex;
-        align-items: center;
-        gap: 0.4rem;
-        cursor: pointer;
-        background: none;
-        border: none;
-        font-family: inherit;
-      }
-
-      .back-link:hover {
-        color: var(--accent);
-      }
-
-      #close-hint {
-        font-size: 0.8rem;
-        color: var(--text-dim);
-        display: none;
-      }
-
-      .content-wrapper {
-        flex: 1;
-        width: 100%;
-        max-width: 680px;
-        margin: 0 auto;
-        padding: 3rem 1.5rem 4rem;
-      }
-
-      .page-title {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 2rem;
-        font-weight: 800;
-        color: var(--warning);
-        margin-bottom: 0.5rem;
-      }
-
-      .page-updated {
-        font-size: 0.82rem;
-        color: var(--text-dim);
-        margin-bottom: 2.5rem;
-      }
-
-      .legal-content h2,
-      .legal-content h3 {
-        font-family: 'JetBrains Mono', monospace;
-        color: var(--accent);
-        margin: 2rem 0 0.75rem;
-      }
-
-      .legal-content h2 {
-        font-size: 1.15rem;
-        font-weight: 700;
-      }
-      .legal-content h3 {
-        font-size: 1rem;
-        font-weight: 600;
-      }
-
-      .legal-content p {
-        font-size: 0.95rem;
-        line-height: 1.8;
-        color: var(--text-dim);
-        margin-bottom: 1rem;
-      }
-
-      .legal-content strong {
-        color: var(--text-main);
-        font-weight: 600;
-      }
-
-      .legal-content a {
-        color: var(--accent);
-        text-decoration: none;
-        border-bottom: 1px solid rgba(0, 229, 255, 0.3);
-        transition: border-color 0.2s;
-      }
-
-      .legal-content a:hover {
-        border-bottom-color: var(--accent);
-      }
-
-      .legal-content ul,
-      .legal-content ol {
-        padding-left: 1.5rem;
-        margin-bottom: 1rem;
-      }
-
-      .legal-content li {
-        font-size: 0.95rem;
-        line-height: 1.8;
-        color: var(--text-dim);
-        margin-bottom: 0.35rem;
-      }
-
-      .legal-content li strong {
-        color: var(--text-main);
-      }
-
-      .legal-content hr {
-        border: none;
-        height: 1px;
-        background: linear-gradient(90deg, transparent, var(--border), transparent);
-        margin: 2rem 0;
-      }
-
-      .page-footer {
-        border-top: 1px solid var(--border);
-        padding: 1.5rem;
-        text-align: center;
-        background: var(--bg-surface);
-      }
-
-      .footer-nav {
-        display: flex;
-        justify-content: center;
-        gap: 1.5rem;
-        margin-bottom: 0.75rem;
-        flex-wrap: wrap;
-      }
-
-      .footer-nav a {
-        color: var(--text-dim);
-        text-decoration: none;
-        font-size: 0.82rem;
-        transition: color 0.2s;
-      }
-
-      .footer-nav a:hover {
-        color: var(--accent);
-      }
-
-      .footer-copy {
-        font-size: 0.75rem;
-        color: var(--text-dim);
-        opacity: 0.5;
-      }
-    </style>
-  </head>
-  <body>
-    <header class="page-header">
-      <a href="/" class="logo-link">SKILL CHECK</a>
-      <button class="back-link" id="back-to-game">
-        <svg
-          width="16"
-          height="16"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"></path></svg
-        >
-        Back to Game
-      </button>
-      <span id="close-hint">Close this tab to return to the game</span>
-    </header>
-
-    <main class="content-wrapper">
-      <h1 class="page-title">{title}</h1>
-      <div class="legal-content">
-        <slot />
-      </div>
-    </main>
-
-    <footer class="page-footer">
-      <nav class="footer-nav">
-        <a href="/terms">Terms</a>
-        <a href="/privacy">Privacy</a>
-        <a href="/refunds">Refunds</a>
-        <a href="/about">About</a>
-        <a href="mailto:support@ki10games.com">Support</a>
-      </nav>
-      <p class="footer-copy">&copy; 2026 Ki10 Games. All rights reserved.</p>
-    </footer>
-
-    <script>
-      (function () {
-        const backBtn = document.getElementById('back-to-game');
-        const closeHint = document.getElementById('close-hint');
-
-        const wasOpenedByGame = !!window.opener;
-        const isInIframe = window.parent !== window;
-
-        if (backBtn) {
-          backBtn.addEventListener('click', function (e) {
-            e.preventDefault();
-
-            if (wasOpenedByGame) {
-              window.close();
-              setTimeout(function () {
-                if (closeHint) closeHint.style.display = 'block';
-                backBtn.style.display = 'none';
-              }, 300);
-            } else if (isInIframe) {
-              window.parent.postMessage({ type: 'CLOSE_LEGAL' }, '*');
-            } else {
-              window.location.href = '/';
-            }
-          });
+        if (wasOpenedByGame) {
+          // Opened from the game — close the tab
+          window.close();
+          // If window.close() was blocked by the browser, show hint
+          setTimeout(function () {
+            if (closeHint) closeHint.style.display = 'block';
+            backBtn.textContent = 'Close this tab manually';
+          }, 500);
+        } else if (isInIframe) {
+          window.parent.postMessage({ type: 'CLOSE_LEGAL' }, '*');
+        } else if (hasHistory) {
+          // Came from another page on the site — go back
+          window.history.back();
+        } else {
+          // Direct visit with no history — go to homepage
+          window.location.href = '/';
         }
+      });
+    }
 
-        if (wasOpenedByGame || isInIframe) {
-          const footerLinks = document.querySelectorAll('.footer-nav a');
-          for (let i = 0; i < footerLinks.length; i++) {
-            const anchor = footerLinks[i] as HTMLAnchorElement;
-            if (anchor.href && !anchor.href.startsWith('mailto:')) {
-              anchor.setAttribute('target', '_blank');
-            }
-          }
+    // Keep footer nav links in same tab when opened from game
+    if (wasOpenedByGame || isInIframe) {
+      const footerLinks = document.querySelectorAll('.footer-nav a');
+      for (let i = 0; i < footerLinks.length; i++) {
+        const anchor = footerLinks[i] as HTMLAnchorElement;
+        if (anchor.href && !anchor.href.startsWith('mailto:')) {
+          anchor.setAttribute('target', '_self');
         }
-      })();
-    </script>
-  </body>
-</html>
+      }
+    }
+  })();
+</script>

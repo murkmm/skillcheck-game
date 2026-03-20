@@ -1,5 +1,5 @@
-/*
-  Content-Security-Policy: frame-src 'self' https: http://localhost:4321;
+/play/*
+  Content-Security-Policy: frame-src 'self' https: http://localhost:4321; frame-ancestors 'self' https://skillcheckgame.com
 
 /play/*.wasm
   Content-Encoding: gzip
