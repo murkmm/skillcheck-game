@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773874350,
+	"last_updated": 1773965726,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2339,6 +2339,55 @@
 				"final_fantasy_10_shiva"
 			],
 			"submitted_by": "Bradley"
+		},
+		"2026-03-20": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Yakuza 0: Like a Dragon Quiz",
+			"share_text": "Dame da ne... dame yo, dame na no yo. Can you answer them all?",
+			"shops": [
+				{
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "link_cable",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "memory_card",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"yakuza_0_kazuma_kiryu",
+				"yakuza_0_goro_majima",
+				"yakuza_0_makoto_makimura"
+			],
+			"starters": [
+				"yakuza_0_kazuma_kiryu",
+				"yakuza_0_goro_majima",
+				"yakuza_0_akira_nishikiyama",
+				"yakuza_0_daisaku_kuze",
+				"yakuza_0_makoto_makimura",
+				"yakuza_0_the_empty_lot",
+				"yakuza_0_tetsu_tachibana",
+				"yakuza_0_mr._shakedown",
+				"yakuza_0_hiroki_awano",
+				"yakuza_0_keiji_shibusawa",
+				"yakuza_0_kamurocho",
+				"yakuza_0_sotenbori",
+				"yakuza_0_pocket_circuit_fighter",
+				"yakuza_0_dragon_of_dojima_style",
+				"yakuza_0_mad_dog_of_shimano_style",
+				"yakuza_0_disco",
+				"yakuza_0_cabaret_club_sunshine",
+				"yakuza_0_real_estate_royale",
+				"yakuza_0_bacchus",
+				"yakuza_0_reina"
+			],
+			"submitted_by": ""
 		}
 	}
 }
