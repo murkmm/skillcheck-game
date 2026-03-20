@@ -120,6 +120,18 @@
 			"text_main": "#ffffff",
 			"warning": "#ffaa00"
 		},
+		"kamurocho_nights": {
+			"accent": "#e63946",
+			"bg": "#0a0008",
+			"border": "#3d1f47",
+			"danger": "#ff4757",
+			"name": "Kamurocho Nights",
+			"panel": "#1a0f1e",
+			"success": "#2ecc71",
+			"text_dim": "#7a6b82",
+			"text_main": "#f0e6f6",
+			"warning": "#f1c40f"
+		},
 		"light_mode": {
 			"accent": "#0066cc",
 			"bg": "#e4e4e9",
@@ -777,6 +789,20 @@
 			"type": "mastery_franchise",
 			"unlocks_theme": "Project_Reality",
 			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Yakuza cards",
+			"id": "fran_yakuza",
+			"name": "Become The Dragon of Dojima",
+			"reward_text": "Unlocks Dragon of Dojima Title ",
+			"target": 10,
+			"target_key": "yakuza 0",
+			"type": "mastery_franchise",
+			"unlocks_cart": "",
+			"unlocks_color": "",
+			"unlocks_console": "",
+			"unlocks_theme": "",
+			"unlocks_title": "dragon_of_dojima"
 		}
 	],
 	"games": [
@@ -70815,7 +70841,7 @@
 					"name": "The Kamurocho Trio"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Kazuma Kiryu",
 						"Daisaku Kuze",
@@ -70881,6 +70907,11 @@
 			"color": "#ff0000",
 			"icon": "res://icons/crosshair-bold.png",
 			"text": "Doom Slayer"
+		},
+		"dragon_of_dojima": {
+			"color": "#c0392b",
+			"icon": "res://icons/sword-bold.png",
+			"text": "Dragon of Dojima"
 		},
 		"flawless": {
 			"color": "#00ffcc",
