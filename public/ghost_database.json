@@ -120,6 +120,18 @@
 			"text_main": "#ffffff",
 			"warning": "#ffaa00"
 		},
+		"kamurocho_nights": {
+			"accent": "#e63946",
+			"bg": "#0a0008",
+			"border": "#3d1f47",
+			"danger": "#ff4757",
+			"name": "Kamurocho Nights",
+			"panel": "#1a0f1e",
+			"success": "#2ecc71",
+			"text_dim": "#7a6b82",
+			"text_main": "#f0e6f6",
+			"warning": "#f1c40f"
+		},
 		"light_mode": {
 			"accent": "#0066cc",
 			"bg": "#e4e4e9",
@@ -615,7 +627,7 @@
 			"id": "fran_ff_theme",
 			"name": "Mako Infusion",
 			"reward_text": "Theme: Mako Reactor",
-			"target": 15,
+			"target": 15.0,
 			"target_key": "final fantasy 10",
 			"type": "mastery_franchise",
 			"unlocks_cart": "",
@@ -777,6 +789,20 @@
 			"type": "mastery_franchise",
 			"unlocks_theme": "Project_Reality",
 			"unlocks_title": ""
+		},
+		{
+			"desc": "Perfect 10 Yakuza cards",
+			"id": "fran_yakuza",
+			"name": "Become The Dragon of Dojima",
+			"reward_text": "Unlocks Dragon of Dojima Title ",
+			"target": 10,
+			"target_key": "yakuza 0",
+			"type": "mastery_franchise",
+			"unlocks_cart": "",
+			"unlocks_color": "",
+			"unlocks_console": "",
+			"unlocks_theme": "",
+			"unlocks_title": "dragon_of_dojima"
 		}
 	],
 	"games": [
@@ -64258,6 +64284,4066 @@
 					"Summon"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dragon of Dojima",
+						"difficulty": "Easy",
+						"explanation": "Kiryu earns this title due to the dragon tattoo on his back and his legendary strength.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "What legendary title is this character known by throughout the series?",
+						"wrong": [
+							"Mad Dog",
+							"Tiger of Sasai",
+							"Phoenix of Tokyo"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "In 1988, Kiryu sports a flashy white suit with a red shirt, reflecting the era's bubble economy style.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "What color is this character's iconic suit jacket and pants in this game?",
+						"wrong": [
+							"Black",
+							"Grey",
+							"Red"
+						]
+					},
+					{
+						"correct": "The Tojo Clan",
+						"difficulty": "Easy",
+						"explanation": "Kiryu begins the story as a low-ranking member of the Dojima Family, a subsidiary of the Tojo Clan.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "Which criminal organization is this character a member of at the start of the game?",
+						"wrong": [
+							"The Omi Alliance",
+							"The Yoroizaka Group",
+							"The Snake Flower Triad"
+						]
+					},
+					{
+						"correct": "Kamurocho",
+						"difficulty": "Easy",
+						"explanation": "Kamurocho is the fictional recreation of Tokyo's Kabukicho and is the main setting for Kiryu's journey.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "Which city district serves as the primary home and stomping ground for this man?",
+						"wrong": [
+							"Sotenbori",
+							"Isezaki Ijincho",
+							"Nagasugai"
+						]
+					},
+					{
+						"correct": "Debt Collector",
+						"difficulty": "Easy",
+						"explanation": "The story opens with Kiryu beating up a man in an alleyway to collect money for a loan shark.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "At the very start of the game, what is this character's primary job for the yakuza?",
+						"wrong": [
+							"Bodyguard",
+							"Assassin",
+							"Club Manager"
+						]
+					},
+					{
+						"correct": "Shintaro Kazama",
+						"difficulty": "Medium",
+						"explanation": "Kazama raised Kiryu and Nishikiyama at the Sunflower Orphanage and brought them into the yakuza world.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "Who is the man this character considers to be his foster father and mentor?",
+						"wrong": [
+							"Sohei Dojima",
+							"Daisaku Kuze",
+							"Hiroki Awano"
+						]
+					},
+					{
+						"correct": "Tachibana Real Estate",
+						"difficulty": "Medium",
+						"explanation": "Tetsu Tachibana recruits Kiryu to help him acquire the Empty Lot before the Dojima family can.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "After leaving the yakuza, which company does this character join to protect himself?",
+						"wrong": [
+							"Majima Construction",
+							"Sky Finance",
+							"Yamanote Group"
+						]
+					},
+					{
+						"correct": "Rush",
+						"difficulty": "Medium",
+						"explanation": "Rush style allows Kiryu to weave in and out of combat with high-speed strikes.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "Which fighting style focuses on speed and quick, flashy punches?",
+						"wrong": [
+							"Beast",
+							"Brawler",
+							"Slugger"
+						]
+					},
+					{
+						"correct": "Bacchus",
+						"difficulty": "Medium",
+						"explanation": "Bacchus is a boisterous American who teaches Kiryu the fundamentals of street fighting.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "What is the name of the American man who trains this character in the Brawler style?",
+						"wrong": [
+							"Gary Buster Holmes",
+							"Kamoji",
+							"Sodachi"
+						]
+					},
+					{
+						"correct": "Dragon of Dojima",
+						"difficulty": "Medium",
+						"explanation": "Completing the business minigame unlocks Kiryu's classic, heavy-hitting combat style from other games.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "Which legendary fighting style is unlocked after completing the Real Estate Royale storyline?",
+						"wrong": [
+							"Extreme Heat",
+							"Thug",
+							"Legendary Boxer"
+						]
+					},
+					{
+						"correct": "Sunflower Orphanage",
+						"difficulty": "Hard",
+						"explanation": "Kazama founded and funded the Sunflower Orphanage, where many future yakuza were raised.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "What was the name of the orphanage where this character was raised?",
+						"wrong": [
+							"Morning Glory",
+							"Cherry Blossom",
+							"St. Jude's"
+						]
+					},
+					{
+						"correct": "The Finance Billionaire",
+						"difficulty": "Hard",
+						"explanation": "The Finance Billionaire is the leader of the Five Billionaires and the final hurdle for Kiryu's business empire.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "During the 'Real Estate Royale' minigame, who is the final billionaire Kiryu must defeat?",
+						"wrong": [
+							"The Media Billionaire",
+							"The Gambling Billionaire",
+							"The Pleasure Billionaire"
+						]
+					},
+					{
+						"correct": "Akimoto",
+						"difficulty": "Hard",
+						"explanation": "Though a minor character, Akimoto's death in the Empty Lot sets the entire plot in motion.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "What is the name of the man Kiryu was framed for killing in the Empty Lot?",
+						"wrong": [
+							"Ueda",
+							"Murai",
+							"Sato"
+						]
+					},
+					{
+						"correct": "Hishimon",
+						"difficulty": "Hard",
+						"explanation": "The Hishimon is the diamond-shaped crest of the Tojo Clan, worn as a lapel pin by its members.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "Which specific animal is depicted on the gold pin worn by this character at the start of the game?",
+						"wrong": [
+							"Dragon",
+							"Phoenix",
+							"Tiger"
+						]
+					},
+					{
+						"correct": "Pocket Circuit Fighter",
+						"difficulty": "Hard",
+						"explanation": "The Pocket Circuit Fighter is a long-running NPC who introduces Kiryu to the world of toy car racing.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuma_kiryu.webp",
+						"question": "Who is the primary contact for this character at the Pocket Circuit Stadium?",
+						"wrong": [
+							"Professor Mini",
+							"Track Master",
+							"Speedy Gonzales"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_kazuma_kiryu",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Kazuma Kiryu",
+				"lore_desc": "A rising star in the Dojima Family of the Tojo Clan, currently framed for a murder in a tiny plot of land known as the Empty Lot.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Dragon of Dojima",
+			"profiler": {
+				"vibe_tags": [
+					"Protagonist",
+					"Kamurocho",
+					"Legend"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Left",
+						"difficulty": "Easy",
+						"explanation": "Majima lost his left eye as punishment for defying clan orders years prior to the game's events.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "Which eye is covered by this character's iconic eyepatch?",
+						"wrong": [
+							"Right",
+							"Both",
+							"None"
+						]
+					},
+					{
+						"correct": "Manager of The Grand",
+						"difficulty": "Easy",
+						"explanation": "Majima is the manager of the most popular cabaret club in Sotenbori, earning him the nickname 'Lord of the Night'.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "What is this character's job at the beginning of the game?",
+						"wrong": [
+							"Bartender",
+							"Professional Hitman",
+							"Real Estate Agent"
+						]
+					},
+					{
+						"correct": "Sotenbori",
+						"difficulty": "Easy",
+						"explanation": "Sotenbori is the Osaka district where Majima is essentially kept in 'open prison' by the yakuza.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "In which city district does this character reside and work during the story?",
+						"wrong": [
+							"Kamurocho",
+							"Isezaki Ijincho",
+							"Onomichi"
+						]
+					},
+					{
+						"correct": "Slugger",
+						"difficulty": "Easy",
+						"explanation": "Slugger style allows Majima to use an unbreakable bat to deal heavy damage and block blades.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "What is the name of the fighting style where this character uses a baseball bat?",
+						"wrong": [
+							"Thug",
+							"Breaker",
+							"Mad Dog"
+						]
+					},
+					{
+						"correct": "Wild and unpredictable behavior",
+						"difficulty": "Easy",
+						"explanation": "After the events of the game, Majima decides to live life 'crazier than anyone else' to survive the yakuza world.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "Which of these traits defines this character's 'Mad Dog' persona at the end of the game?",
+						"wrong": [
+							"Stoic silence",
+							"Polite and refined manners",
+							"Extreme cowardice"
+						]
+					},
+					{
+						"correct": "Makoto Makimura",
+						"difficulty": "Medium",
+						"explanation": "Majima is given the chance to rejoin the Tojo Clan if he kills a 'Makoto Makimura,' who turns out to be a blind woman.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "What is the name of the woman this character is ordered to assassinate?",
+						"wrong": [
+							"Reina",
+							"Yumi Sawamura",
+							"Sayama Kaoru"
+						]
+					},
+					{
+						"correct": "Futoshi Shimano",
+						"difficulty": "Medium",
+						"explanation": "Shimano was Majima's former boss and the man responsible for his exile and torture.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "Who is the patriarch of the family that Majima is trying to rejoin?",
+						"wrong": [
+							"Sohei Dojima",
+							"Tsukasa Sagawa",
+							"Homare Nishitani"
+						]
+					},
+					{
+						"correct": "Breaker",
+						"difficulty": "Medium",
+						"explanation": "Breaker style uses spinning kicks and ground-based dance moves to clear groups of thugs.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "Which fighting style involves breakdancing moves to hit multiple enemies?",
+						"wrong": [
+							"Slugger",
+							"Thug",
+							"Legend"
+						]
+					},
+					{
+						"correct": "Tsukasa Sagawa",
+						"difficulty": "Medium",
+						"explanation": "Sagawa is an Omi Alliance officer who acts as Majima's handler and tormentor.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "What is the name of the 'open prison' warden who monitors this character's every move?",
+						"wrong": [
+							"Hiroki Awano",
+							"Daisaku Kuze",
+							"Wen Hai Lee"
+						]
+					},
+					{
+						"correct": "Cabaret Club",
+						"difficulty": "Medium",
+						"explanation": "In the 'Cabaret Club Czar' minigame, Majima runs Club Sunshine to defeat the Five Stars of Sotenbori.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "What type of business does Majima manage to take over the Sotenbori nightlife?",
+						"wrong": [
+							"Pachinko Parlor",
+							"Real Estate Office",
+							"Mahjong Parlor"
+						]
+					},
+					{
+						"correct": "Taiga Saejima",
+						"difficulty": "Hard",
+						"explanation": "Saejima and Majima planned a legendary hit, but Majima was intercepted and couldn't attend, leading to his torture.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "Who was this character's sworn brother who went to prison for a hit on the Ueno Seiwa Clan?",
+						"wrong": [
+							"Akira Nishikiyama",
+							"Shigeki Baba",
+							"Masaru Watase"
+						]
+					},
+					{
+						"correct": "Homare Nishitani",
+						"difficulty": "Hard",
+						"explanation": "Nishitani's unhinged personality and fighting style heavily influence Majima's eventual 'Mad Dog' persona.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "What is the name of the eccentric patriarch who fights with a knife and becomes obsessed with Majima?",
+						"wrong": [
+							"Daisaku Kuze",
+							"Keiji Shibusawa",
+							"Lao Gui"
+						]
+					},
+					{
+						"correct": "Hannya Mask and Snake",
+						"difficulty": "Hard",
+						"explanation": "Majima's irezumi features a Hannya mask and a snake weaving through cherry blossoms.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "Which tattoo is featured on this character's back?",
+						"wrong": [
+							"Dragon",
+							"Tiger",
+							"Koi Fish"
+						]
+					},
+					{
+						"correct": "The Hole",
+						"difficulty": "Hard",
+						"explanation": "The Hole is a secret torture chamber where Majima was kept as punishment for his disobedience.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "Where was this character held and tortured for a year before being sent to Sotenbori?",
+						"wrong": [
+							"The Pit",
+							"The Dungeon",
+							"The Abyss"
+						]
+					},
+					{
+						"correct": "Club Mars",
+						"difficulty": "Hard",
+						"explanation": "Club Mars is the first of the Five Stars that Majima must overtake to prove his business dominance.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_majima.webp",
+						"question": "What is the name of the Cabaret Club manager that Majima competes against first in the Czar storyline?",
+						"wrong": [
+							"Club Mercury",
+							"Club Jupiter",
+							"Club Venus"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_goro_majima",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Goro Majima",
+				"lore_desc": "The disgraced 'Lord of the Night' managing the Grand Cabaret in Sotenbori while looking for a way back into the yakuza.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Mad Dog of Shimano",
+			"profiler": {
+				"vibe_tags": [
+					"Protagonist",
+					"Sotenbori",
+					"Anti-Hero"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sworn Brother",
+						"difficulty": "Easy",
+						"explanation": "Kiryu and Nishiki performed a 'sakazuki' ceremony to become oath brothers.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "What is this character's relationship to Kazuma Kiryu?",
+						"wrong": [
+							"Biological Brother",
+							"Father",
+							"Enemy"
+						]
+					},
+					{
+						"correct": "Nishiki",
+						"difficulty": "Easy",
+						"explanation": "Kiryu almost exclusively refers to him as 'Nishiki' throughout the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "What is the shortened nickname used by Kiryu for this character?",
+						"wrong": [
+							"Aki",
+							"Nishi",
+							"Kiyama"
+						]
+					},
+					{
+						"correct": "Kill him",
+						"difficulty": "Easy",
+						"explanation": "Under orders from the family, a tearful Nishiki takes Kiryu to the woods to execute him but cannot go through with it.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "In the famous scene in the woods, what does this character try to do to Kiryu?",
+						"wrong": [
+							"Hug him",
+							"Arrest him",
+							"Challenge him to a race"
+						]
+					},
+					{
+						"correct": "Flashy patterned shirts and suits",
+						"difficulty": "Easy",
+						"explanation": "Nishiki wears very stylish, colorful suits that contrast with Kiryu's more traditional look.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "Which of these traits describes this character's fashion sense in 1988?",
+						"wrong": [
+							"Traditional Kimono",
+							"Rugged leather jackets",
+							"Plain white t-shirts"
+						]
+					},
+					{
+						"correct": "Yuko",
+						"difficulty": "Medium",
+						"explanation": "Nishiki's primary motivation throughout the early timeline is saving his sister, Yuko.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "What is the name of this character's sister who is suffering from a terminal illness?",
+						"wrong": [
+							"Yumi",
+							"Reina",
+							"Makoto"
+						]
+					},
+					{
+						"correct": "Dojima Family",
+						"difficulty": "Medium",
+						"explanation": "Like Kiryu, Nishiki is a member of the Dojima Family, though he is less respected than Kiryu.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "Which family within the Tojo Clan does this character belong to at the start?",
+						"wrong": [
+							"Shimano Family",
+							"Kazama Family",
+							"Sasai Family"
+						]
+					},
+					{
+						"correct": "A luxury sports car",
+						"difficulty": "Medium",
+						"explanation": "Nishiki enjoys the finer things in life, including expensive cars that showcase his status.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "What kind of car does this character drive when he picks up Kiryu in several scenes?",
+						"wrong": [
+							"A motorcycle",
+							"A taxi",
+							"An armored truck"
+						]
+					},
+					{
+						"correct": "Koi Fish",
+						"difficulty": "Medium",
+						"explanation": "The Koi represents a fish that climbs a waterfall to become a dragon, symbolizing his struggle to match Kiryu.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "What animal is tattooed on this character's back?",
+						"wrong": [
+							"Dragon",
+							"Tiger",
+							"Snake"
+						]
+					},
+					{
+						"correct": "Serena",
+						"difficulty": "Medium",
+						"explanation": "The bar Serena is a sanctuary for the two brothers throughout the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "At which location do Kiryu and this character often hang out and drink together?",
+						"wrong": [
+							"The Grand",
+							"Earth Angel",
+							"Bantam"
+						]
+					},
+					{
+						"correct": "He tries to stop him",
+						"difficulty": "Medium",
+						"explanation": "Nishiki is deeply concerned for Kiryu and knows the danger he's putting himself in.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "What is this character's reaction when Kiryu decides to take the fall for the murder at the Empty Lot?",
+						"wrong": [
+							"He cheers him on",
+							"He reports him to the police",
+							"He ignores him"
+						]
+					},
+					{
+						"correct": "Dr. Hirasaka",
+						"difficulty": "Hard",
+						"explanation": "Dr. Hirasaka exploits Nishiki's desperation, leading to tragic consequences for his sister.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "Who is the doctor treating this character's sister, who later turns out to be a fraud?",
+						"wrong": [
+							"Dr. Minami",
+							"Dr. Emoto",
+							"Dr. Satake"
+						]
+					},
+					{
+						"correct": "200,000 Yen",
+						"difficulty": "Hard",
+						"explanation": "Nishiki brags about his expensive suit early on, showing his desire for wealth and status.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "In the prologue, how much money does this character claim his suit cost?",
+						"wrong": [
+							"50,000 Yen",
+							"1,000,000 Yen",
+							"10,000 Yen"
+						]
+					},
+					{
+						"correct": "The Dojima Family mooks",
+						"difficulty": "Hard",
+						"explanation": "Nishiki arrives to help Kiryu clear the way to the final boss, proving their bond is still strong.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "During the final battle of the game, who does this character help Kiryu fight off?",
+						"wrong": [
+							"Majima",
+							"Shibusawa",
+							"Kuze"
+						]
+					},
+					{
+						"correct": "Judgement Shinpan",
+						"difficulty": "Hard",
+						"explanation": "Judgement -Shinpan- is their iconic duet, where they shout 'Breaking the world!' together.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "Which specific song do Kiryu and this character sing together at Karaoke?",
+						"wrong": [
+							"Baka Mitai",
+							"24-Hour Cinderella",
+							"Machine Gun Kiss"
+						]
+					},
+					{
+						"correct": "The Nishikiyama Family",
+						"difficulty": "Hard",
+						"explanation": "The end of Yakuza 0 shows the formation of his own family, marking his rise in the yakuza ranks.",
+						"image_url": "https://skillcheckgame.com/assets/images/akira_nishikiyama.webp",
+						"question": "In the game's credits, what is the name of the group this character finally forms?",
+						"wrong": [
+							"The New Tojo Clan",
+							"The Koi Association",
+							"The Tokyo Syndicate"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_akira_nishikiyama",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Akira Nishikiyama",
+				"lore_desc": "Kiryu's best friend and sworn brother. Though he shares Kiryu's ambitions, he struggles with the harsh reality of the yakuza hierarchy.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Nishiki",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Kamurocho",
+					"Brother"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Boxing",
+						"difficulty": "Easy",
+						"explanation": "Kuze's fighting style is heavily based on his background as a pro boxer.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "What was this character's professional sport before joining the yakuza?",
+						"wrong": [
+							"Wrestling",
+							"Baseball",
+							"Judo"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Easy",
+						"explanation": "Kuze acts as a recurring wall for Kiryu, appearing for five separate boss battles.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "How many times does Kiryu have to fight this character throughout the main story?",
+						"wrong": [
+							"One",
+							"Three",
+							"Seven"
+						]
+					},
+					{
+						"correct": "Motorcycle",
+						"difficulty": "Easy",
+						"explanation": "Kuze chases Kiryu through the sewers on a motorcycle while wielding a steel pipe.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "In one of his most famous scenes, what vehicle does this character ride into a sewer?",
+						"wrong": [
+							"Bicycle",
+							"Sports Car",
+							"Tank"
+						]
+					},
+					{
+						"correct": "Dojima Family",
+						"difficulty": "Easy",
+						"explanation": "He is the eldest of the three lieutenants serving Sohei Dojima.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "What is the name of the yakuza family this character is a Lieutenant of?",
+						"wrong": [
+							"Shimano Family",
+							"Omi Alliance",
+							"Sasai Family"
+						]
+					},
+					{
+						"correct": "Pinky",
+						"difficulty": "Easy",
+						"explanation": "Yubitsume (finger shortening) is a traditional yakuza way to apologize or show dedication.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "Which finger does this character cut off to show his resolve to his boss?",
+						"wrong": [
+							"Thumb",
+							"Index finger",
+							"Middle finger"
+						]
+					},
+					{
+						"correct": "Enma, King of Hell",
+						"difficulty": "Medium",
+						"explanation": "His tattoo depicts Enma, the judge of the dead, fitting his role as a brutal enforcer.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "What animal is tattooed on this character's back?",
+						"wrong": [
+							"Dragon",
+							"Tiger",
+							"Crane"
+						]
+					},
+					{
+						"correct": "Kenno Clan",
+						"difficulty": "Medium",
+						"explanation": "Kuze is the patriarch of the Kenno Clan.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "What is the name of the direct family Kuze leads under the Dojima umbrella?",
+						"wrong": [
+							"Taihei Association",
+							"Shibusawa Family",
+							"Oda Group"
+						]
+					},
+					{
+						"correct": "Old Kamurocho streets",
+						"difficulty": "Medium",
+						"explanation": "The final duel happens in a rain-slicked, cordoned-off street in Kamurocho.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "In his final fight, where does the battle take place?",
+						"wrong": [
+							"A burning building",
+							"The roof of a skyscraper",
+							"The sewer"
+						]
+					},
+					{
+						"correct": "Pledge of Demon",
+						"difficulty": "Medium",
+						"explanation": "Pledge of Demon is one of the most celebrated tracks in the game's OST.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "What is the theme of this character's iconic boss music?",
+						"wrong": [
+							"Two Dragons",
+							"Firelight",
+							"Reign"
+						]
+					},
+					{
+						"correct": "To prove who is a true yakuza",
+						"difficulty": "Medium",
+						"explanation": "Kuze is obsessed with the ideology of strength and wants to break Kiryu's spirit.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "Why does this character continue to fight Kiryu even after being expelled from the family?",
+						"wrong": [
+							"For money",
+							"To protect Makoto",
+							"To take over the Omi Alliance"
+						]
+					},
+					{
+						"correct": "Hitoshi Ozawa",
+						"difficulty": "Hard",
+						"explanation": "Ozawa is a famous Japanese actor known for his roles in many real-life yakuza films.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "Who is the actor that provided the voice and likeness for this character?",
+						"wrong": [
+							"Riki Takeuchi",
+							"Hideo Nakano",
+							"Shun Oguri"
+						]
+					},
+					{
+						"correct": "Iron Pipe",
+						"difficulty": "Hard",
+						"explanation": "He swings a heavy pipe at Kiryu while circling him in the dark.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "During the sewer fight, what weapon does this character use while on his bike?",
+						"wrong": [
+							"Katana",
+							"Shotgun",
+							"Chainsaw"
+						]
+					},
+					{
+						"correct": "Captain",
+						"difficulty": "Hard",
+						"explanation": "Kuze was the Captain, making him the highest-ranking officer under Sohei Dojima himself.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "What rank did this character hold in the Dojima Family before the events of the game made him a Lieutenant?",
+						"wrong": [
+							"Soldier",
+							"Patriarch",
+							"Chairman"
+						]
+					},
+					{
+						"correct": "The ability to keep getting up",
+						"difficulty": "Hard",
+						"explanation": "His philosophy is that as long as you keep getting back up, you haven't lost.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "What does this character say is the difference between a 'civvy' and a yakuza?",
+						"wrong": [
+							"The amount of money they have",
+							"The quality of their tattoo",
+							"Their loyalty to the police"
+						]
+					},
+					{
+						"correct": "Pledge of Demon",
+						"difficulty": "Hard",
+						"explanation": "While it repeats, it is famously introduced during his first brutal office fight.",
+						"image_url": "https://skillcheckgame.com/assets/images/daisaku_kuze.webp",
+						"question": "What is the name of the first boss track that plays during his first encounter?",
+						"wrong": [
+							"Oath of Enma",
+							"Sewer Surfer",
+							"Dojima's Wrath"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_daisaku_kuze",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Daisaku Kuze",
+				"lore_desc": "One of the three Dojima Lieutenants. A former boxer who believes the yakuza life is about raw strength and never staying down.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Unstoppable Lieutenant",
+			"profiler": {
+				"vibe_tags": [
+					"Antagonist",
+					"Boss",
+					"Dojima Family"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blindness",
+						"difficulty": "Easy",
+						"explanation": "Makoto's blindness is psychosomatic, caused by the trauma of her past.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What physical disability does this character suffer from for most of the game?",
+						"wrong": [
+							"Deafness",
+							"Inability to walk",
+							"Memory loss"
+						]
+					},
+					{
+						"correct": "Hogushi Kaikan Massage Parlor",
+						"difficulty": "Easy",
+						"explanation": "She works as a massage therapist under the protection of Wen Hai Lee.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "Where does this character work when Majima first finds her?",
+						"wrong": [
+							"The Grand Cabaret",
+							"Club Sunshine",
+							"A flower shop"
+						]
+					},
+					{
+						"correct": "She owns the Empty Lot",
+						"difficulty": "Easy",
+						"explanation": "Ownership of the Empty Lot is the key to a billion-dollar redevelopment project.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "Why is this character so important to the yakuza families in Kamurocho?",
+						"wrong": [
+							"She is the daughter of the Chairman",
+							"She has a list of police informants",
+							"She is a legendary assassin"
+						]
+					},
+					{
+						"correct": "Siblings",
+						"difficulty": "Easy",
+						"explanation": "Tachibana spent years searching for his long-lost sister, Makoto.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What is this character's relationship to Tetsu Tachibana?",
+						"wrong": [
+							"Husband and wife",
+							"Father and daughter",
+							"Strangers"
+						]
+					},
+					{
+						"correct": "Takoyaki",
+						"difficulty": "Easy",
+						"explanation": "The hot takoyaki becomes a symbol of their bond and Majima's hidden kindness.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What gift does Majima frequently bring this character to comfort her?",
+						"wrong": [
+							"Flowers",
+							"A music box",
+							"A new dress"
+						]
+					},
+					{
+						"correct": "China",
+						"difficulty": "Medium",
+						"explanation": "They were 'Zanryu-ko' (orphans left in China) who later returned to Japan.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "Which country did this character and her brother move from as children?",
+						"wrong": [
+							"Korea",
+							"USA",
+							"Russia"
+						]
+					},
+					{
+						"correct": "Wen Hai Lee",
+						"difficulty": "Medium",
+						"explanation": "Lee is a former assassin who took Makoto in and acted as her guardian.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What is the name of the man who protects her and hides her from the yakuza in Sotenbori?",
+						"wrong": [
+							"Tsukasa Sagawa",
+							"Homare Nishitani",
+							"Tetsu Tachibana"
+						]
+					},
+					{
+						"correct": "She regains it",
+						"difficulty": "Medium",
+						"explanation": "After a successful surgery and the resolution of the conflict, her vision is restored.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What happens to this character's sight at the end of the game?",
+						"wrong": [
+							"She remains blind",
+							"She loses her hearing too",
+							"She dies"
+						]
+					},
+					{
+						"correct": "No, because she never saw his face",
+						"difficulty": "Medium",
+						"explanation": "Since she was blind during their time together, she doesn't know what he looks like.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "Does this character recognize Majima when they meet at the very end of the game?",
+						"wrong": [
+							"Yes, she remembers his voice",
+							"Yes, they hug",
+							"No, she has amnesia"
+						]
+					},
+					{
+						"correct": "Lao Gui",
+						"difficulty": "Medium",
+						"explanation": "Lao Gui is the Dojima Family's ultimate assassin sent to secure the girl.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What is the name of the hitman sent to find her in Sotenbori near the middle of the game?",
+						"wrong": [
+							"Daisaku Kuze",
+							"Keiji Shibusawa",
+							"The Mole"
+						]
+					},
+					{
+						"correct": "Kyohei Jingu's group",
+						"difficulty": "Hard",
+						"explanation": "She was sold to a human trafficking ring, which caused the trauma that led to her blindness.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What was the name of the group that kidnapped and trafficked her in her youth?",
+						"wrong": [
+							"Snake Flower Triad",
+							"Tojo Clan",
+							"Omi Alliance"
+						]
+					},
+					{
+						"correct": "A music box",
+						"difficulty": "Hard",
+						"explanation": "The music box played a melody that was significant to her and her brother.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What item did Majima find in the park that belonged to her, which helped him track her down?",
+						"wrong": [
+							"A watch",
+							"A cane",
+							"A shoe"
+						]
+					},
+					{
+						"correct": "Kamurocho",
+						"difficulty": "Hard",
+						"explanation": "In the epilogue, Majima sees her in Kamurocho but decides not to speak to her for her own safety.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "Where does the final scene between Majima and Makoto take place?",
+						"wrong": [
+							"Sotenbori",
+							"The Empty Lot",
+							"The Sunflower Orphanage"
+						]
+					},
+					{
+						"correct": "Wen Hai Lee",
+						"difficulty": "Hard",
+						"explanation": "Lee taught her how to survive and hide, though she never became a fighter like the protagonists.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What is the name of the 'Master' who trained her in self-defense (as revealed in later games or side stories)?",
+						"wrong": [
+							"Komaki",
+							"Bacchus",
+							"Sodachi"
+						]
+					},
+					{
+						"correct": "Anma",
+						"difficulty": "Hard",
+						"explanation": "She specializes in traditional Japanese Anma massage.",
+						"image_url": "https://skillcheckgame.com/assets/images/makoto_makimura.webp",
+						"question": "What is the specific type of massage she is known for at her parlor?",
+						"wrong": [
+							"Shiatsu",
+							"Swedish",
+							"Thai"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_makoto_makimura",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Makoto Makimura",
+				"lore_desc": "A blind young woman living in Sotenbori who unknowingly holds the deed to the Empty Lot, making her the target of every major crime syndicate in Japan.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Blind Girl",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Plot Focus",
+					"Sotenbori"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "In the center of Kamurocho",
+						"difficulty": "Easy",
+						"explanation": "It is a tiny hole in the middle of the dense city of Kamurocho.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "Where is this location situated geographically?",
+						"wrong": [
+							"Outside Osaka",
+							"On the waterfront",
+							"In a mountain village"
+						]
+					},
+					{
+						"correct": "It is needed for the Kamurocho Revitalization Project",
+						"difficulty": "Easy",
+						"explanation": "Without this lot, the massive Millennium Tower project cannot proceed.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "Why is this specific piece of land so valuable?",
+						"wrong": [
+							"Gold is buried there",
+							"It contains a secret bunker",
+							"It is the site of a temple"
+						]
+					},
+					{
+						"correct": "The Heir",
+						"difficulty": "Easy",
+						"explanation": "Locating 'The Heir' (Makoto Makimura) is the primary goal of the game's factions.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "What is the nickname for the person who owns this lot?",
+						"wrong": [
+							"The Landlord",
+							"The King",
+							"The Ghost"
+						]
+					},
+					{
+						"correct": "Kazuma Kiryu",
+						"difficulty": "Easy",
+						"explanation": "The game begins with Kiryu collecting a debt there, and the victim is later found dead on the site.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "Which character is framed for a murder that takes place in this lot?",
+						"wrong": [
+							"Goro Majima",
+							"Akira Nishikiyama",
+							"Daisaku Kuze"
+						]
+					},
+					{
+						"correct": "Densely packed buildings and alleyways",
+						"difficulty": "Easy",
+						"explanation": "It's a stark, empty space surrounded by the neon chaos of 1980s Kamurocho.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "What kind of structures surround this lot?",
+						"wrong": [
+							"Open parks",
+							"Luxury mansions",
+							"Government offices"
+						]
+					},
+					{
+						"correct": "The Dojima Family",
+						"difficulty": "Medium",
+						"explanation": "Sohei Dojima wants the lot to secure his position as the next Chairman of the Tojo Clan.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "Which organization is most desperate to acquire the lot to gain favor with the Tojo Clan?",
+						"wrong": [
+							"The Shimano Family",
+							"The Omi Alliance",
+							"The Snake Flower Triad"
+						]
+					},
+					{
+						"correct": "Tachibana Real Estate",
+						"difficulty": "Medium",
+						"explanation": "Tachibana wants the lot to keep it out of the hands of the yakuza.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "Who does Kiryu work for to try and find the owner of the lot first?",
+						"wrong": [
+							"The police",
+							"Majima Construction",
+							"Shimano"
+						]
+					},
+					{
+						"correct": "The Millennium Tower",
+						"difficulty": "Medium",
+						"explanation": "The lot eventually becomes the foundation for the series' most famous skyscraper.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "What major building stands on this site in later Yakuza games?",
+						"wrong": [
+							"Kamurocho Hills",
+							"The Grand",
+							"Serena"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Medium",
+						"explanation": "Standard construction fencing in Japan is often green, marking the site as 'under development'.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "What color is the fencing that typically surrounds the lot during the game?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Only a few square meters",
+						"difficulty": "Medium",
+						"explanation": "It's ironically tiny, which highlights how even a small missing piece can stall a billion-yen project.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "How large is the lot described as being?",
+						"wrong": [
+							"An entire city block",
+							"A football field",
+							"The size of a parking garage"
+						]
+					},
+					{
+						"correct": "Her grandfather",
+						"difficulty": "Hard",
+						"explanation": "The land was a legacy from her family that she was unaware she even possessed.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "Who was the person that originally left the lot to Makoto Makimura?",
+						"wrong": [
+							"Her father",
+							"Tachibana",
+							"Kazama"
+						]
+					},
+					{
+						"correct": "Dojima-backed front companies",
+						"difficulty": "Hard",
+						"explanation": "The Dojima family used various shell companies to try and squeeze out the original owners.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "What is the name of the real estate company that rivaled Tachibana in trying to buy the lot?",
+						"wrong": [
+							"Sky Finance",
+							"Kamurocho Real Estate",
+							"Omi Land Trust"
+						]
+					},
+					{
+						"correct": "Still empty but symbolic of a new era",
+						"difficulty": "Hard",
+						"explanation": "The lot remains empty as the credits roll, signifying that the battle over it is over, for now.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "In the game's final cutscene, what does the lot look like?",
+						"wrong": [
+							"A pile of rubble",
+							"A completed tower",
+							"A flower garden"
+						]
+					},
+					{
+						"correct": "Kamurocho 21st Century Project",
+						"difficulty": "Hard",
+						"explanation": "The project aimed to modernize the district into a world-class business hub.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "What is the official name of the project that requires this lot?",
+						"wrong": [
+							"Tokyo Rebirth",
+							"The Dojima Initiative",
+							"The Millennium Plan"
+						]
+					},
+					{
+						"correct": "Sohei Dojima",
+						"difficulty": "Hard",
+						"explanation": "Dojima's obsession with the lot drove the entire conflict of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_empty_lot.webp",
+						"question": "Which character famously said, 'The Empty Lot is the future of the Tojo Clan'?",
+						"wrong": [
+							"Kazuma Kiryu",
+							"Goro Majima",
+							"Tetsu Tachibana"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_the_empty_lot",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "The Empty Lot",
+				"lore_desc": "A tiny, inconspicuous square of land in the heart of Kamurocho that is worth more than the rest of the city combined.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Ten Billion Yen Spot",
+			"profiler": {
+				"vibe_tags": [
+					"Kamurocho",
+					"Plot Device",
+					"Economy"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Real Estate",
+						"difficulty": "Easy",
+						"explanation": "He runs Tachibana Real Estate, a company that competes with the yakuza for land.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "What is this character's primary business?",
+						"wrong": [
+							"Arms dealing",
+							"Fashion",
+							"Electronics"
+						]
+					},
+					{
+						"correct": "Brother",
+						"difficulty": "Easy",
+						"explanation": "Tachibana is Makoto's older brother, though they were separated for years.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "What is this character's relation to Makoto Makimura?",
+						"wrong": [
+							"Employer",
+							"Husband",
+							"Father"
+						]
+					},
+					{
+						"correct": "Kazuma Kiryu",
+						"difficulty": "Easy",
+						"explanation": "He offers Kiryu a job and protection after Kiryu is forced to leave the Dojima family.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "Which protagonist does this character hire to be his employee and bodyguard?",
+						"wrong": [
+							"Goro Majima",
+							"Akira Nishikiyama",
+							"Taiga Saejima"
+						]
+					},
+					{
+						"correct": "A matching tattoo",
+						"difficulty": "Easy",
+						"explanation": "They both have a small bat tattoo on their arm, identifying them as siblings.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "What is the physical trait this character shares with his sister?",
+						"wrong": [
+							"The same eye color",
+							"A birthmark on the hand",
+							"A scar on the face"
+						]
+					},
+					{
+						"correct": "Right Arm",
+						"difficulty": "Medium",
+						"explanation": "Tachibana has a prosthetic arm, a result of the torture he endured as an orphan in China.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "Which body part did this character lose due to his past in China?",
+						"wrong": [
+							"Left Leg",
+							"An Eye",
+							"Two Fingers"
+						]
+					},
+					{
+						"correct": "Zanryu-ko",
+						"difficulty": "Medium",
+						"explanation": "Zanryu-ko refers to Japanese war orphans who were left in China after WWII.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "What is the term used for people like this character who returned to Japan from China?",
+						"wrong": [
+							"Ronin",
+							"Gaijin",
+							"Yakuza"
+						]
+					},
+					{
+						"correct": "Jun Oda",
+						"difficulty": "Medium",
+						"explanation": "Jun Oda handles much of the dirty work for Tachibana Real Estate.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "Who is this character's right-hand man and loyal subordinate?",
+						"wrong": [
+							"Shinji Tanaka",
+							"Reina",
+							"Bacchus"
+						]
+					},
+					{
+						"correct": "By turning off the lights in Kamurocho",
+						"difficulty": "Medium",
+						"explanation": "He shows his influence by having all the neon lights in the district shut off simultaneously.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "How does this character first demonstrate his power to Kiryu?",
+						"wrong": [
+							"By giving him a billion yen",
+							"By beating up 100 men",
+							"By buying the Tojo Clan HQ"
+						]
+					},
+					{
+						"correct": "He dies from torture",
+						"difficulty": "Medium",
+						"explanation": "Tachibana is tortured to death by Kuze and Shibusawa's men while refusing to give up his sister.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "What is this character's ultimate fate in the story?",
+						"wrong": [
+							"He becomes the Chairman",
+							"He retires to China",
+							"He marries Reina"
+						]
+					},
+					{
+						"correct": "Daisaku Kuze",
+						"difficulty": "Medium",
+						"explanation": "Kuze delivers the fatal blows during an interrogation session.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "Which of the Dojima Lieutenants is primarily responsible for this character's death?",
+						"wrong": [
+							"Hiroki Awano",
+							"Keiji Shibusawa",
+							"Sohei Dojima"
+						]
+					},
+					{
+						"correct": "The Batarians",
+						"difficulty": "Hard",
+						"explanation": "His background as a leader of a group of returnees gave him the grit to survive in Japan's underworld.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "What was the name of the group this character led while in China?",
+						"wrong": [
+							"The Triads",
+							"The Red Lotus",
+							"The Iron Fists"
+						]
+					},
+					{
+						"correct": "It marks him as an orphan returnee",
+						"difficulty": "Hard",
+						"explanation": "The tattoo was used by members of his group to identify one another.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "What is the significance of the bat tattoo on his arm?",
+						"wrong": [
+							"It is a symbol of a yakuza family",
+							"It means 'good luck' in Chinese",
+							"It was a brand from a prison"
+						]
+					},
+					{
+						"correct": "A refugee camp",
+						"difficulty": "Hard",
+						"explanation": "Their early years in Japan were spent in harsh conditions as they tried to assimilate.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "Where was the first place Tachibana and his sister lived when they arrived in Japan?",
+						"wrong": [
+							"Kamurocho",
+							"Sotenbori",
+							"Yokohama"
+						]
+					},
+					{
+						"correct": "Renal Failure",
+						"difficulty": "Hard",
+						"explanation": "His failing health made his quest to find his sister even more urgent.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "What was the specific kidney condition this character suffered from?",
+						"wrong": [
+							"Kidney Stones",
+							"Infection",
+							"Genetic deficiency"
+						]
+					},
+					{
+						"correct": "Arata Iura",
+						"difficulty": "Hard",
+						"explanation": "Iura is a prominent Japanese actor who brought a calm but intense energy to the role.",
+						"image_url": "https://skillcheckgame.com/assets/images/tetsu_tachibana.webp",
+						"question": "Which character provided the likeness and voice for Tetsu Tachibana?",
+						"wrong": [
+							"Hitoshi Ozawa",
+							"Riki Takeuchi",
+							"Ken Yasuda"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_tetsu_tachibana",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Tetsu Tachibana",
+				"lore_desc": "The mysterious and wealthy owner of Tachibana Real Estate. He is a 'Batarian' (returnee from China) who wants to buy the Empty Lot to protect his sister.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Real Estate Mogul",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Kamurocho",
+					"Civilian"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "You lose all your money",
+						"difficulty": "Easy",
+						"explanation": "Losing to Mr. Shakedown empties your wallet completely, regardless of how much you have.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "What is the primary consequence of losing a fight to this character?",
+						"wrong": [
+							"You die instantly",
+							"Your items are deleted",
+							"You lose your experience points"
+						]
+					},
+					{
+						"correct": "They are much larger than regular NPCs",
+						"difficulty": "Easy",
+						"explanation": "They are hulking, giant men who tower over everyone else in the city.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "How do these characters typically appear on the streets?",
+						"wrong": [
+							"They hide in trash cans",
+							"They wear bright pink suits",
+							"They are invisible until they hit you"
+						]
+					},
+					{
+						"correct": "Steal back some money",
+						"difficulty": "Easy",
+						"explanation": "If you are careful, you can slowly steal money from them while they nap.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "What can you do to a sleeping Mr. Shakedown in a park?",
+						"wrong": [
+							"Prank him",
+							"Wake him up for a quest",
+							"Call the police"
+						]
+					},
+					{
+						"correct": "Using Slime Guns or Zap Guns",
+						"difficulty": "Easy",
+						"explanation": "Ranged weapons or weapons with status effects are the safest way to chip away at their massive health pools.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "Which of these is a valid strategy to defeat them more easily?",
+						"wrong": [
+							"Trying to out-wrestle them",
+							"Using only your fists",
+							"Begging for mercy"
+						]
+					},
+					{
+						"correct": "Egashira",
+						"difficulty": "Medium",
+						"explanation": "Egashira is the first of the four different Mr. Shakedowns you can encounter.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "What is the name of the first Mr. Shakedown Kiryu encounters?",
+						"wrong": [
+							"Sato",
+							"Yamada",
+							"Tanaka"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Medium",
+						"explanation": "There are two in Kamurocho and two in Sotenbori, each with different names and slightly different looks.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "How many different individual 'Mr. Shakedowns' are there in the game?",
+						"wrong": [
+							"One",
+							"Two",
+							"Ten"
+						]
+					},
+					{
+						"correct": "You get it all back with interest",
+						"difficulty": "Medium",
+						"explanation": "Defeating him after he robs you allows you to reclaim your money plus an extra percentage.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "What happens to the money Mr. Shakedown took if you defeat him later?",
+						"wrong": [
+							"You get half back",
+							"It is gone forever",
+							"You get a rare item instead"
+						]
+					},
+					{
+						"correct": "Kiryu",
+						"difficulty": "Medium",
+						"explanation": "Kiryu can use CP at the Bob Utsunomiya shrine to increase the money dropped by Shakedowns.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "Which character has a dedicated training 'shrine' to help prepare for Mr. Shakedown?",
+						"wrong": [
+							"Majima",
+							"Nishiki",
+							"Tachibana"
+						]
+					},
+					{
+						"correct": "A massive charging tackle",
+						"difficulty": "Medium",
+						"explanation": "Their charge attack can take out a huge chunk of health if not dodged.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "What is the most dangerous attack Mr. Shakedown uses?",
+						"wrong": [
+							"A spinning kick",
+							"A gun",
+							"Throwing rocks"
+						]
+					},
+					{
+						"correct": "To fund their dreams of going to space or becoming stronger",
+						"difficulty": "Medium",
+						"explanation": "Their backstories often involve ridiculous goals like self-funding a space program.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "What is the main reason these men are so obsessed with money?",
+						"wrong": [
+							"To pay off gambling debts",
+							"To buy luxury cars",
+							"To give to charity"
+						]
+					},
+					{
+						"correct": "Oe",
+						"difficulty": "Hard",
+						"explanation": "Mitsuhiro Oe is the Sotenbori Shakedown with the island-building dream.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "What is the name of the Mr. Shakedown who wants to build his own island?",
+						"wrong": [
+							"Egashira",
+							"Sato",
+							"Mizuno"
+						]
+					},
+					{
+						"correct": "Sato",
+						"difficulty": "Hard",
+						"explanation": "Sato is the silver-haired, older but still incredibly powerful Mr. Shakedown.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "Which of the four Shakedowns is the oldest?",
+						"wrong": [
+							"Egashira",
+							"Oe",
+							"Mizuno"
+						]
+					},
+					{
+						"correct": "Encounter Finder",
+						"difficulty": "Hard",
+						"explanation": "The Encounter Finder is an essential accessory for either hunting or avoiding these giants.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "What specific item can you equip to see Mr. Shakedown's location on the map?",
+						"wrong": [
+							"Shakedown Sensor",
+							"Rich Man's Wallet",
+							"Troubled Map"
+						]
+					},
+					{
+						"correct": "A former street fighter",
+						"difficulty": "Hard",
+						"explanation": "The subplots reveal they are all extreme versions of street brawlers trying to 'shake down' the economy.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "In the game's lore, who is the original 'inspiration' for the Mr. Shakedowns?",
+						"wrong": [
+							"A failed wrestler",
+							"A corrupt cop",
+							"A yakuza legend"
+						]
+					},
+					{
+						"correct": "Mizuno",
+						"difficulty": "Hard",
+						"explanation": "Mizuno is the most 'primal' looking of the four, often found in Sotenbori.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_shakedown.webp",
+						"question": "Which Mr. Shakedown is a fan of training in the mountains and has a wild appearance?",
+						"wrong": [
+							"Egashira",
+							"Sato",
+							"Oe"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_mr._shakedown",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Mr. Shakedown",
+				"lore_desc": "Gigantic men roaming the streets who challenge the protagonists to fights. If you lose, they take every single yen you have.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Money Stealer",
+			"profiler": {
+				"vibe_tags": [
+					"Enemy",
+					"Kamurocho",
+					"Economy"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Hiroki Awano",
+						"difficulty": "Easy",
+						"explanation": "Awano is the flamboyant lieutenant who often wears a purple suit.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "Which of the three Dojima Lieutenants is this character?",
+						"wrong": [
+							"Daisaku Kuze",
+							"Keiji Shibusawa",
+							"Sohei Dojima"
+						]
+					},
+					{
+						"correct": "Dancing and Disco",
+						"difficulty": "Easy",
+						"explanation": "Awano loves the nightlife and is often seen in disco clubs or bars.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What is this character's primary hobby as seen throughout the game?",
+						"wrong": [
+							"Fishing",
+							"Gambling",
+							"Boxing"
+						]
+					},
+					{
+						"correct": "Purple",
+						"difficulty": "Easy",
+						"explanation": "His flashy purple suit matches his 'leisure-focused' personality.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What color is this character's signature suit?",
+						"wrong": [
+							"White",
+							"Green",
+							"Black"
+						]
+					},
+					{
+						"correct": "Taihei Association",
+						"difficulty": "Easy",
+						"explanation": "He is the head of the Taihei Association, the intelligence and information gathering arm of the Dojima Family.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What is the name of the yakuza family division this character patriarchs?",
+						"wrong": [
+							"Kenno Clan",
+							"Shibusawa Family",
+							"Tojo Clan"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "Unlike Kuze, Awano only fights as a boss once, near the very end of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "How many times does this character fight Goro Majima in boss battles?",
+						"wrong": [
+							"Two",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "Brute Force and Heavy Punches",
+						"difficulty": "Medium",
+						"explanation": "Despite his relaxed demeanor, he is immensely strong and relies on devastating single strikes.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What is this character's fighting style primarily based on?",
+						"wrong": [
+							"Swordsmanship",
+							"Speed and agility",
+							"Wrestling"
+						]
+					},
+					{
+						"correct": "Shoots her (with a blank or intended as a threat)",
+						"difficulty": "Medium",
+						"explanation": "He casually shoots a woman to prove that he hasn't lost his edge despite his playboy lifestyle.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What does this character do to a girl in a club to show Majima his cold-blooded nature?",
+						"wrong": [
+							"Gives her a million yen",
+							"Asks her to dance",
+							"Fires her"
+						]
+					},
+					{
+						"correct": "Momotaro",
+						"difficulty": "Medium",
+						"explanation": "His tattoo depicts Momotaro, the 'Peach Boy' from Japanese folklore, fighting demons.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What animal is tattooed on this character's back?",
+						"wrong": [
+							"Dragon",
+							"Tiger",
+							"Demon"
+						]
+					},
+					{
+						"correct": "Riki Takeuchi",
+						"difficulty": "Medium",
+						"explanation": "Riki Takeuchi is a legendary V-Cinema actor famous for playing yakuza roles.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "Who is the actor that provided the likeness and voice for this character?",
+						"wrong": [
+							"Hitoshi Ozawa",
+							"Hideo Nakano",
+							"Beat Takeshi"
+						]
+					},
+					{
+						"correct": "He is killed by Lao Gui",
+						"difficulty": "Medium",
+						"explanation": "Awano dies a 'true yakuza' death, jumping in front of a bullet meant for Majima.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What is this character's fate at the end of the story?",
+						"wrong": [
+							"He goes to prison",
+							"He becomes Chairman",
+							"He retires to Hawaii"
+						]
+					},
+					{
+						"correct": "Because it's easier to enjoy life at the second rank",
+						"difficulty": "Hard",
+						"explanation": "He realized that being the leader is too much work and preferred the 'leisure' of being a lieutenant.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "Why does this character claim he stopped trying to be the top yakuza?",
+						"wrong": [
+							"He was afraid of Kazama",
+							"He didn't have enough money",
+							"He lost a bet"
+						]
+					},
+					{
+						"correct": "Punches a crack into it",
+						"difficulty": "Hard",
+						"explanation": "He punches a solid stone pillar, causing it to shatter, revealing his hidden power.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "During his boss fight, what does he do to a stone pillar to show off his strength?",
+						"wrong": [
+							"Lifts it up",
+							"Throws it at Majima",
+							"Headbutts it"
+						]
+					},
+					{
+						"correct": "With Vengeance",
+						"difficulty": "Hard",
+						"explanation": "The track 'With Vengeance' perfectly captures the intensity of his duel with Majima.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What is the name of the boss track that plays during the fight with this character?",
+						"wrong": [
+							"Pledge of Demon",
+							"Two Dragons",
+							"Firelight"
+						]
+					},
+					{
+						"correct": "Maharaja",
+						"difficulty": "Hard",
+						"explanation": "Majima encounters him at Maharaja, the premier disco spot of the era.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "Which specific club does Majima first meet this character in?",
+						"wrong": [
+							"The Grand",
+							"Sunshine",
+							"Serena"
+						]
+					},
+					{
+						"correct": "That Majima is a 'real' yakuza",
+						"difficulty": "Hard",
+						"explanation": "In his final moments, he acknowledges Majima's spirit and dies with honor.",
+						"image_url": "https://skillcheckgame.com/assets/images/hiroki_awano.webp",
+						"question": "What does this character say to Majima just before he dies?",
+						"wrong": [
+							"Where the money is",
+							"To take care of Makoto",
+							"That he hates him"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_hiroki_awano",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Hiroki Awano",
+				"lore_desc": "One of the three Dojima Lieutenants. He is a man of leisure who prefers the finer things in life, but hides a terrifying strength behind his playboy persona.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Leisure Lieutenant",
+			"profiler": {
+				"vibe_tags": [
+					"Antagonist",
+					"Dojima Family",
+					"Boss"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Final Boss (Kiryu's path)",
+						"difficulty": "Easy",
+						"explanation": "Shibusawa is the final obstacle for Kiryu in the game's climax.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "Which role does this character play in the overall story of Yakuza 0?",
+						"wrong": [
+							"A helpful mentor",
+							"A police officer",
+							"The protagonist's brother"
+						]
+					},
+					{
+						"correct": "Strategy and Finance",
+						"difficulty": "Easy",
+						"explanation": "Shibusawa is the brains of the trio, managing the family's complex operations.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "What is this character's primary 'specialty' within the Dojima Family?",
+						"wrong": [
+							"Raw street fighting",
+							"Cabaret management",
+							"Drug smuggling"
+						]
+					},
+					{
+						"correct": "Dragon",
+						"difficulty": "Easy",
+						"explanation": "Like Kiryu, he has a dragon tattoo, representing his ambition to become the 'Dragon of Dojima'.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "What animal is tattooed on this character's back?",
+						"wrong": [
+							"Tiger",
+							"Snake",
+							"Koi Fish"
+						]
+					},
+					{
+						"correct": "Shibusawa Family",
+						"difficulty": "Easy",
+						"explanation": "He leads the Shibusawa Family, the third branch of the Dojima lieutenants.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "What is the name of the family division led by this character?",
+						"wrong": [
+							"Kenno Clan",
+							"Taihei Association",
+							"Tojo Clan"
+						]
+					},
+					{
+						"correct": "On a boat/ship",
+						"difficulty": "Easy",
+						"explanation": "The battle happens on the deck of a massive ship in the Shibaura wharf.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "Where does the final showdown between Kiryu and this character take place?",
+						"wrong": [
+							"On top of Millennium Tower",
+							"In the Empty Lot",
+							"In a sewer"
+						]
+					},
+					{
+						"correct": "The Dragon",
+						"difficulty": "Medium",
+						"explanation": "He believes only one man can be the 'Dragon' and wants to prove it's him.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "Which title does this character desperately want to steal from Kiryu?",
+						"wrong": [
+							"The Chairman",
+							"The Mad Dog",
+							"The Patriarch"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "He mirrors Kiryu's styles, switching between Rush, Brawler, and Beast-like modes.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "During the final fight, how many different fighting styles does this character use?",
+						"wrong": [
+							"One",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Hideo Nakano",
+						"difficulty": "Medium",
+						"explanation": "Hideo Nakano is another famous Japanese actor known for his stoic and menacing performances.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "Who is the actor that provided the likeness and voice for this character?",
+						"wrong": [
+							"Riki Takeuchi",
+							"Hitoshi Ozawa",
+							"Takeshi Kitano"
+						]
+					},
+					{
+						"correct": "Blue and Green",
+						"difficulty": "Medium",
+						"explanation": "His dragon is primarily cool-colored, whereas Kiryu's is a more classic grey/black.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "What color is this character's dragon tattoo, which contrasts with Kiryu's?",
+						"wrong": [
+							"Red and Black",
+							"Gold",
+							"Pure White"
+						]
+					},
+					{
+						"correct": "Two Dragons",
+						"difficulty": "Medium",
+						"explanation": "'Two Dragons' is the iconic track representing the clash of their two paths.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "What is the name of the music track that plays during the final duel?",
+						"wrong": [
+							"Pledge of Demon",
+							"With Vengeance",
+							"Reign"
+						]
+					},
+					{
+						"correct": "By coordinating the hit on the man in the lot",
+						"difficulty": "Hard",
+						"explanation": "Shibusawa orchestrated the entire event to get Kiryu out of the way and pressure Kazama.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "How did this character manage to frame Kiryu at the start of the game?",
+						"wrong": [
+							"By stealing his gun",
+							"By bribing the police",
+							"By using a double"
+						]
+					},
+					{
+						"correct": "No one (he attempts to kill Makoto)",
+						"difficulty": "Hard",
+						"explanation": "His ultimate goal was to kill Makoto to end the Empty Lot dispute in his favor.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "Which character does Shibusawa kill in front of Kiryu (or claims to have killed) to provoke him?",
+						"wrong": [
+							"Tachibana",
+							"Kazama",
+							"Nishiki"
+						]
+					},
+					{
+						"correct": "Sent to prison",
+						"difficulty": "Hard",
+						"explanation": "After his defeat, he is arrested and sent to prison, ending his bid for power.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "In the game's epilogue, what is this character's status?",
+						"wrong": [
+							"Dead",
+							"The new Chairman",
+							"A homeless man"
+						]
+					},
+					{
+						"correct": "To climb to the absolute top of the pile",
+						"difficulty": "Hard",
+						"explanation": "His ambition is purely about status and being the undisputed number one.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "What does this character say was the reason he joined the yakuza?",
+						"wrong": [
+							"To find his father",
+							"Because he was poor",
+							"To protect the city"
+						]
+					},
+					{
+						"correct": "Jun Oda",
+						"difficulty": "Hard",
+						"explanation": "Oda worked with Shibusawa in the past and eventually betrayed Tachibana to him.",
+						"image_url": "https://skillcheckgame.com/assets/images/keiji_shibusawa.webp",
+						"question": "Which of these characters was a former subordinate of Shibusawa before turning traitor?",
+						"wrong": [
+							"Shinji Tanaka",
+							"Reina",
+							"Bacchus"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_keiji_shibusawa",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Keiji Shibusawa",
+				"lore_desc": "The most calculating of the three Dojima Lieutenants. He handles the family's finances and operations, but his true goal is to claim the title of 'Dragon'.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Strategic Lieutenant",
+			"profiler": {
+				"vibe_tags": [
+					"Antagonist",
+					"Dojima Family",
+					"Final Boss"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Kabukicho",
+						"difficulty": "Easy",
+						"explanation": "Kamurocho is a nearly 1-to-1 recreation of the famous nightlife district in Shinjuku.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "Which real-life Tokyo district is Kamurocho based on?",
+						"wrong": [
+							"Shibuya",
+							"Akihabara",
+							"Roppongi"
+						]
+					},
+					{
+						"correct": "Tenkaichi Street",
+						"difficulty": "Easy",
+						"explanation": "Tenkaichi Street is the iconic entrance to Kamurocho with the red gate.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What is the name of the main street that runs through the heart of the district?",
+						"wrong": [
+							"Sotenbori Footpath",
+							"Isezaki Road",
+							"Pink Street"
+						]
+					},
+					{
+						"correct": "Serena",
+						"difficulty": "Easy",
+						"explanation": "Serena is the most recurring and safe location for Kiryu throughout the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What is the name of the bar located on Tenkaichi Street where Kiryu often hangs out?",
+						"wrong": [
+							"The Grand",
+							"Stardust",
+							"Bacchus"
+						]
+					},
+					{
+						"correct": "The Millennium Tower",
+						"difficulty": "Easy",
+						"explanation": "Since Yakuza 0 is a prequel, the Millennium Tower has not been built yet.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "Which major landmark is *missing* from the center of the map in this 1988 setting?",
+						"wrong": [
+							"Kamurocho Hills",
+							"The Batting Cages",
+							"The Theater Square"
+						]
+					},
+					{
+						"correct": "Club SEGA",
+						"difficulty": "Easy",
+						"explanation": "Club SEGA features real-life classic arcade games like OutRun and Space Harrier.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What kind of arcade is a popular attraction in this district?",
+						"wrong": [
+							"Taito Station",
+							"Namco Land",
+							"Joypolis"
+						]
+					},
+					{
+						"correct": "Theater Square",
+						"difficulty": "Medium",
+						"explanation": "Theater Square is a central hub for meeting NPCs and starting side quests.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What is the name of the large, open plaza where many street performances happen?",
+						"wrong": [
+							"Kamuro Square",
+							"Neon Plaza",
+							"Millennium Park"
+						]
+					},
+					{
+						"correct": "Real Estate Royale",
+						"difficulty": "Medium",
+						"explanation": "Kiryu works as a real estate manager to defeat the Five Billionaires of Kamurocho.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "Which 'business' does Kiryu run to take over Kamurocho in this game?",
+						"wrong": [
+							"Cabaret Club Czar",
+							"Dragon Kart",
+							"Clan Creator"
+						]
+					},
+					{
+						"correct": "West Park",
+						"difficulty": "Medium",
+						"explanation": "West Park is the site of Purgatory and the home of the Florist in later games.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What is the name of the park located in the northeast corner of the map?",
+						"wrong": [
+							"East Park",
+							"Central Park",
+							"The Empty Lot"
+						]
+					},
+					{
+						"correct": "Champion District",
+						"difficulty": "Medium",
+						"explanation": "The Champion District is based on the real-life Golden Gai in Shinjuku.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What is the name of the alleyway area full of small, cramped bars?",
+						"wrong": [
+							"Pink Alley",
+							"Golden Gai",
+							"The Hole"
+						]
+					},
+					{
+						"correct": "M Store and Poppo",
+						"difficulty": "Medium",
+						"explanation": "Poppo and M Store are the primary places to buy healing items.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What are the names of the two main convenience store chains in town?",
+						"wrong": [
+							"7-Eleven and Lawson",
+							"FamilyMart and Poppo",
+							"Smile Burger and Kanrai"
+						]
+					},
+					{
+						"correct": "Purgatory",
+						"difficulty": "Hard",
+						"explanation": "Purgatory houses the Bed of Styx arena and a secret surveillance network.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What is the name of the secret underground area located beneath West Park?",
+						"wrong": [
+							"The Pit",
+							"The Underground",
+							"Bed of Styx"
+						]
+					},
+					{
+						"correct": "Pink Street",
+						"difficulty": "Hard",
+						"explanation": "Pink Street is the heart of the district's adult entertainment industry.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "Which street is known for its concentration of adult shops and DVD parlors?",
+						"wrong": [
+							"Tenkaichi Street",
+							"Park Boulevard",
+							"Shichifuku Street"
+						]
+					},
+					{
+						"correct": "The 'Drained' District",
+						"difficulty": "Hard",
+						"explanation": "In the game's lore, it was an area that avoided the major redevelopment of the surrounding streets.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What was the original name of the area that eventually became the Champion District?",
+						"wrong": [
+							"The Slums",
+							"The Ruins",
+							"The Black Market"
+						]
+					},
+					{
+						"correct": "Smile Burger",
+						"difficulty": "Hard",
+						"explanation": "Smile Burger is the main fast-food restaurant where you can eat to regain health.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "What is the name of the burger chain that is a staple of Kamurocho?",
+						"wrong": [
+							"Wild Jackson",
+							"Mos Burger",
+							"Happy Meal"
+						]
+					},
+					{
+						"correct": "Dojima Family Office",
+						"difficulty": "Hard",
+						"explanation": "The office is located in a high-rise building overlooking Theater Square.",
+						"image_url": "https://skillcheckgame.com/assets/images/kamurocho.webp",
+						"question": "Which building serves as the headquarters for the Dojima Family?",
+						"wrong": [
+							"The Millennium Tower",
+							"Tachibana Real Estate HQ",
+							"Serena"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_kamurocho",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Kamurocho",
+				"lore_desc": "The primary setting of the Yakuza series. A neon-drenched red-light district in Tokyo full of hostesses, criminals, and high-stakes business.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Sleepless Town",
+			"profiler": {
+				"vibe_tags": [
+					"Setting",
+					"Tokyo",
+					"Nightlife"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dotonbori",
+						"difficulty": "Easy",
+						"explanation": "Sotenbori is a fictional version of Dotonbori, complete with the famous canal.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "Which real-life Osaka district is Sotenbori based on?",
+						"wrong": [
+							"Shinsekai",
+							"Umeda",
+							"Namba"
+						]
+					},
+					{
+						"correct": "The Sotenbori Canal",
+						"difficulty": "Easy",
+						"explanation": "The canal runs through the center of the map, with two main bridges connecting the sides.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the central feature that divides Sotenbori into North and South?",
+						"wrong": [
+							"A train line",
+							"A giant wall",
+							"A main highway"
+						]
+					},
+					{
+						"correct": "The Grand",
+						"difficulty": "Easy",
+						"explanation": "The Grand is a converted theater and the most prestigious club in the district.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the massive cabaret club managed by Majima?",
+						"wrong": [
+							"Club Sunshine",
+							"Club Odyssey",
+							"Maharaja"
+						]
+					},
+					{
+						"correct": "Takoyaki",
+						"difficulty": "Easy",
+						"explanation": "Takoyaki (octopus balls) is a staple snack of Osaka and features heavily in the plot.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What food item is Sotenbori most famous for (and a favorite of Majima)?",
+						"wrong": [
+							"Sushi",
+							"Ramen",
+							"Beef Bowl"
+						]
+					},
+					{
+						"correct": "Iwao Bridge",
+						"difficulty": "Easy",
+						"explanation": "Iwao Bridge is the main pedestrian bridge where many key events take place.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "Which bridge is the most iconic meeting spot in Sotenbori?",
+						"wrong": [
+							"Bishamon Bridge",
+							"Tenkaichi Bridge",
+							"Sunrise Bridge"
+						]
+					},
+					{
+						"correct": "Cabaret Club Czar",
+						"difficulty": "Medium",
+						"explanation": "Majima must defeat the Five Stars of Sotenbori to become the Cabaret Club Czar.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the 'business' Majima runs to help Club Sunshine?",
+						"wrong": [
+							"Real Estate Royale",
+							"Hostess Maker",
+							"Sunshine Manager"
+						]
+					},
+					{
+						"correct": "Club Odyssey",
+						"difficulty": "Medium",
+						"explanation": "Club Odyssey is the main rival to The Grand and is managed by Yamagata.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the rival club located directly across the canal from The Grand?",
+						"wrong": [
+							"Club Mars",
+							"Club Venus",
+							"Club Sunshine"
+						]
+					},
+					{
+						"correct": "The top cabaret club owners",
+						"difficulty": "Medium",
+						"explanation": "The Five Stars are the elite club owners who control the district's nightlife.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "Which group of people in Sotenbori are known as the 'Five Stars'?",
+						"wrong": [
+							"The five richest yakuza",
+							"The best street fighters",
+							"The five best chefs"
+						]
+					},
+					{
+						"correct": "Ebisu Pawns",
+						"difficulty": "Medium",
+						"explanation": "Ebisu Pawns has locations in both Kamurocho and Sotenbori.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the pawn shop in Sotenbori where you can sell items?",
+						"wrong": [
+							"Bentens",
+							"Daikoku",
+							"The Sotenbori Trader"
+						]
+					},
+					{
+						"correct": "Tsuruha Drug",
+						"difficulty": "Medium",
+						"explanation": "Tsuruha Drug is a real-life Japanese pharmacy chain featured in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the drug store chain in Sotenbori?",
+						"wrong": [
+							"Kotobuki",
+							"Poppo",
+							"Daikoku Drug"
+						]
+					},
+					{
+						"correct": "The Bed of Styx",
+						"difficulty": "Hard",
+						"explanation": "The Bed of Styx is Majima's equivalent to Kiryu's underground arena.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the hidden 'bed' fight club located on a boat in the canal?",
+						"wrong": [
+							"The Pit",
+							"The Arena",
+							"Purgatory"
+						]
+					},
+					{
+						"correct": "Hogushi Kaikan",
+						"difficulty": "Hard",
+						"explanation": "Hogushi Kaikan is located in a quiet side alley of Sotenbori.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the massage parlor where Makoto Makimura works?",
+						"wrong": [
+							"Massage Joy",
+							"The Healing Touch",
+							"Osaka Spa"
+						]
+					},
+					{
+						"correct": "The Kani Douraku Crab",
+						"difficulty": "Hard",
+						"explanation": "The mechanical crab sign of the Kani Douraku restaurant is a famous landmark in both the game and reality.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "Which iconic giant animated sign is visible on the Sotenbori canal?",
+						"wrong": [
+							"The Glico Man",
+							"The Giant Octopus",
+							"The Neon Dragon"
+						]
+					},
+					{
+						"correct": "Shofukucho",
+						"difficulty": "Hard",
+						"explanation": "Shofukucho is the residential and back-alley district south of the main tourist street.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the street that runs along the southern side of the canal?",
+						"wrong": [
+							"Sotenbori Street",
+							"Bunzaemon Path",
+							"Iwao Road"
+						]
+					},
+					{
+						"correct": "Bar STIJL",
+						"difficulty": "Hard",
+						"explanation": "Bar STIJL is a quiet, upscale bar where Majima is often summoned by his handler.",
+						"image_url": "https://skillcheckgame.com/assets/images/sotenbori.webp",
+						"question": "What is the name of the bar where Majima meets with Sagawa?",
+						"wrong": [
+							"Serena",
+							"The Grand",
+							"Bunraku"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_sotenbori",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Sotenbori",
+				"lore_desc": "The Osaka district where Goro Majima is exiled. It is famous for its bridge, the canal, and its incredible food culture.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Canal District",
+			"profiler": {
+				"vibe_tags": [
+					"Setting",
+					"Osaka",
+					"Majima"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Toy Car Racing",
+						"difficulty": "Easy",
+						"explanation": "Pocket Circuit involves building and racing small 4WD toy cars on a track.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What hobby does this character promote and manage?",
+						"wrong": [
+							"Real Car Racing",
+							"Model Plane Flying",
+							"Robotic Combat"
+						]
+					},
+					{
+						"correct": "A red tracksuit and headset",
+						"difficulty": "Easy",
+						"explanation": "The Fighter is always seen in his bright red tracksuit, ready to announce a race.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What is the signature outfit of this character?",
+						"wrong": [
+							"A business suit",
+							"A yakuza kimono",
+							"A racing jumpsuit"
+						]
+					},
+					{
+						"correct": "Hideki Sasai",
+						"difficulty": "Easy",
+						"explanation": "While he goes by 'Fighter', his real name is eventually revealed to be Hideki.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What is this character's real name (revealed in later games)?",
+						"wrong": [
+							"Kazuki",
+							"Yuya",
+							"Sodachi"
+						]
+					},
+					{
+						"correct": "Shichifuku Street West",
+						"difficulty": "Easy",
+						"explanation": "The Pocket Circuit Stadium is a small storefront on the western side of Shichifuku Street.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "Where is his 'Stadium' located in Kamurocho?",
+						"wrong": [
+							"Theater Square",
+							"Champion District",
+							"Tenkaichi Street"
+						]
+					},
+					{
+						"correct": "Fighter",
+						"difficulty": "Easy",
+						"explanation": "Kiryu adopts the terminology of the stadium and calls him 'Fighter'.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What does Kiryu call him throughout their interactions?",
+						"wrong": [
+							"Manager",
+							"Coach",
+							"Sensei"
+						]
+					},
+					{
+						"correct": "Golem Tiger",
+						"difficulty": "Medium",
+						"explanation": "Golem Tiger is the base model Kiryu starts with before extensive customization.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What is the name of Kiryu's default starting car in Pocket Circuit?",
+						"wrong": [
+							"Dragon Speed",
+							"Cool Striker",
+							"Darkness Bat"
+						]
+					},
+					{
+						"correct": "The Circle / B button (Stabilize)",
+						"difficulty": "Medium",
+						"explanation": "Mashing the stabilize button uses Kiryu's 'spirit' to keep the car on the rails during jumps or turns.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "Which button must the player mash to prevent their car from flying off the track?",
+						"wrong": [
+							"The X / A button (Boost)",
+							"The Triangle / Y button (Brake)",
+							"The Square / X button (Lean)"
+						]
+					},
+					{
+						"correct": "Heat Boost",
+						"difficulty": "Medium",
+						"explanation": "Heat Boost gives the car a temporary speed increase at the cost of stability.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What is the name of the 'Boost' mechanic in Pocket Circuit?",
+						"wrong": [
+							"Nitro",
+							"Turbo",
+							"Dragon Dash"
+						]
+					},
+					{
+						"correct": "Side Stabilizers",
+						"difficulty": "Medium",
+						"explanation": "Stabilizers are key to preventing the car from flying off during high-speed turns.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "Which component is most important for making sure the car stays on the track during corners?",
+						"wrong": [
+							"Ultra High Speed Motor",
+							"Heavy Suspension",
+							"Studded Tires"
+						]
+					},
+					{
+						"correct": "Pocket Circuit Fighter himself",
+						"difficulty": "Medium",
+						"explanation": "The final challenge is a heartfelt race against the Fighter himself to prove Kiryu's mastery.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "Who is the 'rival' character that Kiryu must defeat in the final Pocket Circuit race?",
+						"wrong": [
+							"Professor Mini",
+							"The Racing Prince",
+							"Goro Majima"
+						]
+					},
+					{
+						"correct": "He has no one to take over the stadium",
+						"difficulty": "Hard",
+						"explanation": "As an adult in a children's hobby, he worries about the future of the sport.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What is the 'tragedy' that the Fighter faces regarding his succession?",
+						"wrong": [
+							"He lost his car in a bet",
+							"The stadium is being demolished",
+							"He lost his voice"
+						]
+					},
+					{
+						"correct": "Takuma",
+						"difficulty": "Hard",
+						"explanation": "Takuma is a talented but arrogant racer that Kiryu eventually humbles and befriends.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What is the name of the young boy who is the Fighter's most talented student?",
+						"wrong": [
+							"Hiroki",
+							"Satoshi",
+							"Kenta"
+						]
+					},
+					{
+						"correct": "The car slows down significantly",
+						"difficulty": "Hard",
+						"explanation": "Managing battery life is crucial for long-distance races on complex tracks.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What happens if your car's 'Battery' runs out during a race?",
+						"wrong": [
+							"The car explodes",
+							"You are disqualified",
+							"The race ends immediately"
+						]
+					},
+					{
+						"correct": "The Fighter's Shop (inside the Stadium)",
+						"difficulty": "Hard",
+						"explanation": "While some parts are found elsewhere, the best components are unlocked at the stadium as you win races.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "What is the name of the part shop where you can buy high-end racing components?",
+						"wrong": [
+							"Ebisu Pawns",
+							"Don Quijote",
+							"Beam"
+						]
+					},
+					{
+						"correct": "Godspeed Motor",
+						"difficulty": "Hard",
+						"explanation": "The Godspeed Motor offers the highest raw speed but is extremely difficult to balance.",
+						"image_url": "https://skillcheckgame.com/assets/images/pocket_circuit_fighter.webp",
+						"question": "Which specific motor is considered the 'ultimate' engine for speed?",
+						"wrong": [
+							"Ultra Dash Motor",
+							"Hyper Turbo",
+							"Dragon Engine"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_pocket_circuit_fighter",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Pocket Circuit Fighter",
+				"lore_desc": "An enthusiastic man who runs the Pocket Circuit Stadium in Kamurocho. He is dedicated to the world of toy car racing and becomes a close friend to Kiryu.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The King of the Track",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Minigame",
+					"Kamurocho"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Completing the Real Estate Royale storyline",
+						"difficulty": "Easy",
+						"explanation": "You must defeat all Five Billionaires to unlock Kiryu's legendary style.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "How do you unlock this fighting style for Kiryu?",
+						"wrong": [
+							"Reaching Level 100",
+							"Beating the game once",
+							"Finding all secret masters"
+						]
+					},
+					{
+						"correct": "A golden aura/background",
+						"difficulty": "Easy",
+						"explanation": "The 'Legend' style is represented by a bright gold color in the style wheel.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "What is the visual indicator that Kiryu has switched to this style in the menu?",
+						"wrong": [
+							"A blue fire",
+							"A red dragon icon",
+							"A white suit icon"
+						]
+					},
+					{
+						"correct": "Tiger Drop",
+						"difficulty": "Easy",
+						"explanation": "The Tiger Drop is a legendary counter-attack that deals massive damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "What is the iconic finishing move of this style called?",
+						"wrong": [
+							"Dragon Kick",
+							"Beast Throw",
+							"Rush Combo"
+						]
+					},
+					{
+						"correct": "A white and gold flame",
+						"difficulty": "Easy",
+						"explanation": "The aura is a brilliant white with golden highlights, signifying his 'Legend' status.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "In this style, what does Kiryu's 'Heat' look like?",
+						"wrong": [
+							"Blue electricity",
+							"Red fire",
+							"Purple smoke"
+						]
+					},
+					{
+						"correct": "Brawler",
+						"difficulty": "Easy",
+						"explanation": "It takes the foundation of the Brawler style but makes it faster and more powerful.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "Which of Kiryu's regular styles does this most closely resemble in its basic combos?",
+						"wrong": [
+							"Rush",
+							"Beast",
+							"Slugger"
+						]
+					},
+					{
+						"correct": "Yes, but not as effectively as Beast style",
+						"difficulty": "Medium",
+						"explanation": "It is a versatile style that can use weapons, but it doesn't have the automatic pickup of Beast style.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "Does this style allow Kiryu to pick up and use heavy weapons like bikes?",
+						"wrong": [
+							"No, it's strictly unarmed",
+							"Yes, he is even better than Beast",
+							"Only small weapons"
+						]
+					},
+					{
+						"correct": "It negates all damage while dealing high damage",
+						"difficulty": "Medium",
+						"explanation": "A perfectly timed Tiger Drop makes Kiryu invincible during the animation.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "What is the main advantage of the 'Tiger Drop' in this style?",
+						"wrong": [
+							"It restores health",
+							"It stuns all enemies in the area",
+							"It steals money"
+						]
+					},
+					{
+						"correct": "Yen (Money)",
+						"difficulty": "Medium",
+						"explanation": "Like all styles in Yakuza 0, you 'invest' your cash directly into Kiryu's abilities.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "Which 'stat' must you invest heavily in to upgrade this style once it's unlocked?",
+						"wrong": [
+							"Experience points",
+							"Soul Orbs",
+							"CP (Completion Points)"
+						]
+					},
+					{
+						"correct": "Essence of the Dragon",
+						"difficulty": "Medium",
+						"explanation": "Unlocking the full potential of the style requires 'Limit Breaking' through the business game.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "What is the name of the final skill on the Legend tree that allows for infinite Heat?",
+						"wrong": [
+							"Legendary Spirit",
+							"Limit Breaker",
+							"Infinite Might"
+						]
+					},
+					{
+						"correct": "Sotaro Komaki",
+						"difficulty": "Medium",
+						"explanation": "While Komaki isn't a primary trainer in 0, the style is built on the Komaki techniques he teaches in later games.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "Which master 'inspired' the techniques found in this style according to the lore?",
+						"wrong": [
+							"Bacchus",
+							"Kamoji",
+							"Miss Tatsu"
+						]
+					},
+					{
+						"correct": "The Komaki Evade",
+						"difficulty": "Hard",
+						"explanation": "It allows Kiryu to circle around an opponent instantly after a successful dodge.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "What is the unique 'dodge' mechanic in this style called?",
+						"wrong": [
+							"Quickstep",
+							"Rolling Dodge",
+							"Dragon Pivot"
+						]
+					},
+					{
+						"correct": "Essence of Skull Crushing",
+						"difficulty": "Hard",
+						"explanation": "This is one of the most brutal and classic Heat Actions in Kiryu's arsenal.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "Which specific 'Heat Action' from this style involves Kiryu grabbing an enemy's head and slamming it into his knee?",
+						"wrong": [
+							"Essence of Face Breaking",
+							"Essence of the Dragon King",
+							"Essence of Kneeing"
+						]
+					},
+					{
+						"correct": "Infinite (it loops)",
+						"difficulty": "Hard",
+						"explanation": "Once you pass the initial tree, you can keep pouring money into it for tiny stat increases indefinitely.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "How many 'tiers' of the Legend style can you unlock by continuously investing money?",
+						"wrong": [
+							"One",
+							"Ten",
+							"Ninety-nine"
+						]
+					},
+					{
+						"correct": "Timing a heavy attack just as the enemy strikes",
+						"difficulty": "Hard",
+						"explanation": "It is a high-risk, high-reward move that requires frame-perfect timing.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "What is the requirement for the 'Tiger Drop' to trigger correctly?",
+						"wrong": [
+							"Holding the block button",
+							"Being at low health",
+							"Having a full Heat bar"
+						]
+					},
+					{
+						"correct": "The Finance Billionaire",
+						"difficulty": "Hard",
+						"explanation": "Defeating the leader of the Five Billionaires completes Kiryu's business and personal growth.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_of_dojima_style.webp",
+						"question": "In the 'Real Estate Royale' story, which billionaire's defeat directly triggers the final awakening of this style?",
+						"wrong": [
+							"The Media Billionaire",
+							"The Gambling Billionaire",
+							"The Pleasure Billionaire"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_dragon_of_dojima_style",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Dragon of Dojima Style",
+				"lore_desc": "Kiryu's true, signature fighting style. It combines elements of Brawler, Rush, and Beast into a balanced, legendary form.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Legend Style",
+			"profiler": {
+				"vibe_tags": [
+					"Combat",
+					"Kiryu",
+					"Ability"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A Tanto (Knife)",
+						"difficulty": "Easy",
+						"explanation": "The Mad Dog style is centered around his mastery of the short blade.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "What weapon does Majima use exclusively in this fighting style?",
+						"wrong": [
+							"A Baseball Bat",
+							"Nunchucks",
+							"A Katana"
+						]
+					},
+					{
+						"correct": "Completing the Cabaret Club Czar storyline",
+						"difficulty": "Easy",
+						"explanation": "Managing Club Sunshine and defeating the Five Stars of Sotenbori unlocks this style.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "How do you unlock this fighting style for Majima?",
+						"wrong": [
+							"Beating the main story",
+							"Finding all the hidden cats",
+							"Winning 100 arena fights"
+						]
+					},
+					{
+						"correct": "Purple and Silver",
+						"difficulty": "Easy",
+						"explanation": "The Mad Dog style is represented by a regal but chaotic purple theme.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "What color is the aura for this style in the selection menu?",
+						"wrong": [
+							"Red and Yellow",
+							"Blue and White",
+							"Green and Gold"
+						]
+					},
+					{
+						"correct": "Erratic, spinning dashes",
+						"difficulty": "Easy",
+						"explanation": "Majima moves unpredictably, often spinning or cackling as he zips around the battlefield.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "What is the most notable movement feature of this style?",
+						"wrong": [
+							"Slow, heavy walking",
+							"Teleportation",
+							"Flying"
+						]
+					},
+					{
+						"correct": "A series of rapid stabs while laughing",
+						"difficulty": "Easy",
+						"explanation": "This move showcases the 'Mad Dog' persona's cruelty and speed.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "What does Majima do when he performs the 'Running' Heat Action in this style?",
+						"wrong": [
+							"A giant wrestling slam",
+							"A breakdance spin",
+							"A baseball swing"
+						]
+					},
+					{
+						"correct": "Breaker",
+						"difficulty": "Medium",
+						"explanation": "Mad Dog combines the agility of Breaker with the lethality of his knife skills.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "Which of Majima's other styles inspired the 'whirlwind' attacks in this legendary form?",
+						"wrong": [
+							"Thug",
+							"Slugger",
+							"Brawler"
+						]
+					},
+					{
+						"correct": "Yes, with his knife",
+						"difficulty": "Medium",
+						"explanation": "The tanto is surprisingly effective at parrying even the most dangerous attacks.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "Is Majima able to block bullets or blades in this style?",
+						"wrong": [
+							"No, he can only dodge",
+							"Yes, with his bare hands",
+							"Only if he has Heat"
+						]
+					},
+					{
+						"correct": "Homare Nishitani",
+						"difficulty": "Medium",
+						"explanation": "Majima adopted Nishitani's 'live for the thrill' attitude and erratic movements.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "Which character's unhinged fighting style most directly influenced this form?",
+						"wrong": [
+							"Futoshi Shimano",
+							"Tsukasa Sagawa",
+							"Wen Hai Lee"
+						]
+					},
+					{
+						"correct": "Demon Fire",
+						"difficulty": "Medium",
+						"explanation": "Demon Fire is a brutal counter where Majima stabs the enemy in the gut.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "What is the name of the counter-attack in this style that mirrors Kiryu's Tiger Drop?",
+						"wrong": [
+							"Mad Dog Bite",
+							"Snake Fang",
+							"Hannya Strike"
+						]
+					},
+					{
+						"correct": "A high-pitched cackle or howl",
+						"difficulty": "Medium",
+						"explanation": "His laughter is a trademark of the 'Mad Dog' persona he adopts.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "What sound effect is frequently heard when Majima uses his special moves in this style?",
+						"wrong": [
+							"A deep dragon roar",
+							"A dog barking",
+							"Total silence"
+						]
+					},
+					{
+						"correct": "Infinite spinning slashes",
+						"difficulty": "Hard",
+						"explanation": "He can perform a continuous spinning attack that clears out entire rooms of enemies.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "What is the unique ability Majima has in this style when his Heat is at maximum?",
+						"wrong": [
+							"He becomes invisible",
+							"He regenerates health",
+							"He summons clones"
+						]
+					},
+					{
+						"correct": "The Moon Billionaire (Club Moon)",
+						"difficulty": "Hard",
+						"explanation": "The Moon is the final and most difficult club to overtake in the minigame.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "Which of the Five Stars of Sotenbori must you defeat to unlock the final part of the tree?",
+						"wrong": [
+							"The Venus Billionaire",
+							"The Jupiter Billionaire",
+							"The Mars Billionaire"
+						]
+					},
+					{
+						"correct": "He can chain multiple dodges into a roll",
+						"difficulty": "Hard",
+						"explanation": "His mobility is at its peak in this style, allowing him to dance around opponents.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "How does this style change Majima's 'Quickstep' (dodge)?",
+						"wrong": [
+							"He cannot dodge at all",
+							"His dodge is slower but covers more distance",
+							"He dodges by jumping into the air"
+						]
+					},
+					{
+						"correct": "Essence of Mad Dog: Frenzy",
+						"difficulty": "Hard",
+						"explanation": "It is one of the most violent Heat Actions, demonstrating his loss of restraint.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "What is the name of the Heat Action where Majima pins an enemy and stabs them repeatedly in the shoulder?",
+						"wrong": [
+							"Essence of the Tanto",
+							"Essence of Shimanos Wrath",
+							"Essence of the Ripper"
+						]
+					},
+					{
+						"correct": "A Hannya Mask",
+						"difficulty": "Hard",
+						"explanation": "The Hannya mask is the central theme of Majima's tattoo and his legendary persona.",
+						"image_url": "https://skillcheckgame.com/assets/images/mad_dog_of_shimano_style.webp",
+						"question": "In the 'Legend' menu, what image is shown in the background of the skill tree for this style?",
+						"wrong": [
+							"A Snake",
+							"A Dog",
+							"Shimano's Face"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_mad_dog_of_shimano_style",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Mad Dog of Shimano Style",
+				"lore_desc": "Majima's legendary, wild fighting style. He wields his signature tanto knife and moves with erratic, blinding speed.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Unhinged Style",
+			"profiler": {
+				"vibe_tags": [
+					"Combat",
+					"Majima",
+					"Ability"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Move your cursor to tiles and press buttons on beat",
+						"difficulty": "Easy",
+						"explanation": "The game involves navigating a grid and timing presses to get the highest score.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "Which of these is the primary goal of the Disco minigame?",
+						"wrong": [
+							"Fight the other dancers",
+							"Drink as much as possible",
+							"Recruit hostesses"
+						]
+					},
+					{
+						"correct": "Maharaja",
+						"difficulty": "Easy",
+						"explanation": "Maharaja is the premier disco location for both Kiryu and Majima.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "What is the name of the club in Kamurocho where you can play this minigame?",
+						"wrong": [
+							"The Grand",
+							"Serena",
+							"Club SEGA"
+						]
+					},
+					{
+						"correct": "Fever Time",
+						"difficulty": "Easy",
+						"explanation": "Fever Time triggers a flashy animation and awards bonus points for correct inputs.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "What is the name of the special move that can be triggered after building up a combo?",
+						"wrong": [
+							"Heat Dance",
+							"Disco Dash",
+							"Groove Blast"
+						]
+					},
+					{
+						"correct": "By taking more steps between buttons",
+						"difficulty": "Easy",
+						"explanation": "Taking 'extra steps' before hitting the target tile increases your score significantly.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "How do you earn extra points while moving between tiles?",
+						"wrong": [
+							"By moving as fast as possible",
+							"By standing still",
+							"By pressing the wrong buttons"
+						]
+					},
+					{
+						"correct": "Friday Night",
+						"difficulty": "Easy",
+						"explanation": "'Friday Night' is the high-energy track often played during Kiryu's dance sessions.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "Which of these songs is an iconic track from the Disco minigame?",
+						"wrong": [
+							"Baka Mitai",
+							"24-Hour Cinderella",
+							"Machine Gun Kiss"
+						]
+					},
+					{
+						"correct": "Isobe",
+						"difficulty": "Medium",
+						"explanation": "Isobe is a legendary dancer who becomes a platinum hostess after being defeated.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "Who is the 'rival' dancer that Majima must defeat to progress his side story?",
+						"wrong": [
+							"Miracle Johnson",
+							"Ogita",
+							"Pocket Circuit Fighter"
+						]
+					},
+					{
+						"correct": "Ogita",
+						"difficulty": "Medium",
+						"explanation": "Ogita is Kiryu's primary rival and a notoriously difficult opponent on the dance floor.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "What is the name of the 'Prince of Disco' in Kamurocho who challenges Kiryu?",
+						"wrong": [
+							"Miracle Johnson",
+							"Isobe",
+							"The King"
+						]
+					},
+					{
+						"correct": "Your character trips and loses their combo",
+						"difficulty": "Medium",
+						"explanation": "Missing notes causes your character to stumble, ruining your flow and score multiplier.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "What happens if you miss too many notes in a row?",
+						"wrong": [
+							"The game ends immediately",
+							"The music stops",
+							"You are kicked out of the club"
+						]
+					},
+					{
+						"correct": "Michael Jackson (Miracle Johnson)",
+						"difficulty": "Medium",
+						"explanation": "Miracle Johnson is a clear parody of the King of Pop, complete with bodyguards and a zombie music video.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "Which famous American pop star is parodied in a Disco-related side quest?",
+						"wrong": [
+							"Prince",
+							"Madonna",
+							"David Bowie"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Medium",
+						"explanation": "The grid allows for up to four extra steps before hitting the final note.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "What is the maximum number of steps you can take between notes for a 'Great' score?",
+						"wrong": [
+							"One",
+							"Ten",
+							"Unlimited"
+						]
+					},
+					{
+						"correct": "24-Hour Cinderella",
+						"difficulty": "Hard",
+						"explanation": "While '24-Hour Cinderella' is a Karaoke song, its disco-remix style is synonymous with Majima's 1988 era.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "What is the name of the track Majima dances to, which later became a fan favorite?",
+						"wrong": [
+							"Koi no DISCO QUEEN",
+							"I'm Gonna Make Her Mine",
+							"Friday Night"
+						]
+					},
+					{
+						"correct": "A Black Box or a White Box",
+						"difficulty": "Hard",
+						"explanation": "This choice determines which reward item you receive from the pop legend.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "In the sub-story 'Miracle on Tenkaichi Street,' what are the two items Miracle Johnson asks Kiryu to choose between?",
+						"wrong": [
+							"Money or Fame",
+							"A Gold Statue or a Silver Watch",
+							"A Gun or a Sword"
+						]
+					},
+					{
+						"correct": "AAA",
+						"difficulty": "Hard",
+						"explanation": "Achieving a AAA rank requires near-perfect timing and many extra steps.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "What is the highest rank you can achieve on a song in the Disco minigame?",
+						"wrong": [
+							"S",
+							"Perfect",
+							"Legendary"
+						]
+					},
+					{
+						"correct": "I'm Gonna Make Her Mine",
+						"difficulty": "Hard",
+						"explanation": "The faster tempo of this track makes it one of the most challenging in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "Which of these tracks is categorized as 'Hard' by default?",
+						"wrong": [
+							"Friday Night",
+							"Koi no DISCO QUEEN",
+							"Queen of the Passion"
+						]
+					},
+					{
+						"correct": "Dance moves and magic",
+						"difficulty": "Hard",
+						"explanation": "Miracle literally dances the zombies into submission during the filming of his music video.",
+						"image_url": "https://skillcheckgame.com/assets/images/disco.webp",
+						"question": "What does Miracle Johnson use as a 'weapon' during his sub-story battle against the zombies?",
+						"wrong": [
+							"A machine gun",
+							"A silver glove",
+							"A megaphone"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_disco",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Disco",
+				"lore_desc": "A popular 1980s pastime where the protagonists can show off their dance moves. Players must time their button presses to the beat on a grid.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Dance Battle",
+			"profiler": {
+				"vibe_tags": [
+					"Minigame",
+					"Kamurocho",
+					"Sotenbori"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Goro Majima",
+						"difficulty": "Easy",
+						"explanation": "Majima takes over management of the struggling Club Sunshine to fight the Five Stars.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "Which character is the manager of this club?",
+						"wrong": [
+							"Kazuma Kiryu",
+							"Akira Nishikiyama",
+							"Tsukasa Sagawa"
+						]
+					},
+					{
+						"correct": "To earn more money than the rival club in a single night",
+						"difficulty": "Easy",
+						"explanation": "The 'Cabaret Battle' requires you to outperform your rival's earnings.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What is the primary objective of the Cabaret Club minigame?",
+						"wrong": [
+							"To fight off thugs inside the club",
+							"To serve drinks as a waiter",
+							"To dance on stage"
+						]
+					},
+					{
+						"correct": "Platinum",
+						"difficulty": "Easy",
+						"explanation": "Platinum hostesses have unique backstories, training sessions, and customizable looks.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What is the highest 'rank' a hostess can have in the club?",
+						"wrong": [
+							"Gold",
+							"Diamond",
+							"Legendary"
+						]
+					},
+					{
+						"correct": "Yuki",
+						"difficulty": "Easy",
+						"explanation": "Yuki is the shy but hard-working heart of Club Sunshine.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "Which of these girls is the first Platinum hostess Majima starts with?",
+						"wrong": [
+							"Chika",
+							"Saki",
+							"Hibiki"
+						]
+					},
+					{
+						"correct": "Service requests like 'Refill' or 'Menu'",
+						"difficulty": "Easy",
+						"explanation": "Learning the hand signals allows Majima to respond quickly and boost customer satisfaction.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What do the four hand signals from hostesses represent during a shift?",
+						"wrong": [
+							"Secret combat codes",
+							"The hostess's mood",
+							"The customer's bank balance"
+						]
+					},
+					{
+						"correct": "The Five Stars of Sotenbori",
+						"difficulty": "Medium",
+						"explanation": "The Five Stars are five elite owners who each run a rival club (Mars, Jupiter, etc.).",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What is the name of the group that controls the rival clubs in Sotenbori?",
+						"wrong": [
+							"The Tojo Syndicate",
+							"The Omi Alliance",
+							"The Cabaret Kings"
+						]
+					},
+					{
+						"correct": "Isobe",
+						"difficulty": "Medium",
+						"explanation": "Isobe can be recruited after Majima defeats her in a disco battle.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "Which Platinum hostess is a champion eater and former disco queen?",
+						"wrong": [
+							"Yuki",
+							"Mana",
+							"Ai"
+						]
+					},
+					{
+						"correct": "Change their hair, dress, and accessories",
+						"difficulty": "Medium",
+						"explanation": "Customization is key to balancing their four stats: Sexy, Elegant, Cute, and Funny.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What can the player do to customize the appearance of Platinum hostesses?",
+						"wrong": [
+							"Change their names",
+							"Give them tattoos",
+							"Teach them martial arts"
+						]
+					},
+					{
+						"correct": "Boosting earnings and satisfaction for multiple tables",
+						"difficulty": "Medium",
+						"explanation": "Triggering Fever Mode causes customers to spend significantly more money.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What is the 'Fever' mechanic used for during a club opening?",
+						"wrong": [
+							"Healing the hostesses",
+							"Calling the police",
+							"Kicking out unruly customers"
+						]
+					},
+					{
+						"correct": "Hino",
+						"difficulty": "Medium",
+						"explanation": "Hino is the arrogant owner of Club Mars who underestimates Majima's management skills.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "Who is the owner of Club Mars, the first rival you face?",
+						"wrong": [
+							"Kizuka",
+							"Kaneda",
+							"Tsukiyama"
+						]
+					},
+					{
+						"correct": "Youda",
+						"difficulty": "Hard",
+						"explanation": "Youda is the owner of Club Sunshine and acts as Majima's business partner.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What is the name of the Sotenbori informant who helps Majima with the Cabaret business?",
+						"wrong": [
+							"Sagawa",
+							"Lee",
+							"Nishitani"
+						]
+					},
+					{
+						"correct": "Making an 'L' shape with thumb and index finger",
+						"difficulty": "Hard",
+						"explanation": "The 'L' shape represents the shape of a glass that needs a refill.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What is the 'hand signal' for 'Guest's Glass'?",
+						"wrong": [
+							"Both hands in a circle",
+							"A twisting motion",
+							"A flat palm"
+						]
+					},
+					{
+						"correct": "Tsukiyama (Club Moon)",
+						"difficulty": "Hard",
+						"explanation": "Tsukiyama is the wealthiest and most influential of the Five Stars.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "Which of the Five Stars is the leader of the group and the final rival?",
+						"wrong": [
+							"Hino (Club Mars)",
+							"Kizuka (Club Jupiter)",
+							"Kaneda (Club Mercury)"
+						]
+					},
+					{
+						"correct": "Apologizing / Smooth Talk",
+						"difficulty": "Hard",
+						"explanation": "Majima can intervene personally to calm down a dissatisfied customer.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "What is the name of the special 'Heat' move Majima can use if a customer gets angry?",
+						"wrong": [
+							"Heat Bash",
+							"Bribe",
+							"Security Call"
+						]
+					},
+					{
+						"correct": "Six",
+						"difficulty": "Hard",
+						"explanation": "Each of the six training sessions helps develop the hostess's personality and skills.",
+						"image_url": "https://skillcheckgame.com/assets/images/cabaret_club_sunshine.webp",
+						"question": "How many Special Training sessions are available for each Platinum hostess?",
+						"wrong": [
+							"Three",
+							"Five",
+							"Ten"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_cabaret_club_sunshine",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Cabaret Club Sunshine",
+				"lore_desc": "Majima's base of operations for the Cabaret Club Czar minigame. He manages hostesses and battles against the Five Stars of Sotenbori.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Sotenbori Gem",
+			"profiler": {
+				"vibe_tags": [
+					"Business",
+					"Majima",
+					"Sotenbori"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Kazuma Kiryu",
+						"difficulty": "Easy",
+						"explanation": "Kiryu enters the real estate business to fund his fight against the Dojima family.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "Who is the protagonist that manages this business?",
+						"wrong": [
+							"Goro Majima",
+							"Akira Nishikiyama",
+							"Tetsu Tachibana"
+						]
+					},
+					{
+						"correct": "Buy properties",
+						"difficulty": "Easy",
+						"explanation": "Purchasing arcades, restaurants, and shops increases your influence in the district.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What is the main task you must perform to increase your market share in an area?",
+						"wrong": [
+							"Defeat thugs in that area",
+							"Sing at the local karaoke bar",
+							"Hand out business cards"
+						]
+					},
+					{
+						"correct": "The Five Billionaires",
+						"difficulty": "Easy",
+						"explanation": "The Five Billionaires control different sections of Kamurocho and must be defeated one by one.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What is the collective name for the five main rivals in this minigame?",
+						"wrong": [
+							"The Tojo Five",
+							"The Kamurocho Kings",
+							"The Real Estate Rogues"
+						]
+					},
+					{
+						"correct": "Security Guard",
+						"difficulty": "Easy",
+						"explanation": "Security guards reduce the frequency of enemy attacks on your properties.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What staff member is responsible for protecting your properties from being 'troubled'?",
+						"wrong": [
+							"Manager",
+							"Advisor",
+							"Janitor"
+						]
+					},
+					{
+						"correct": "Manager",
+						"difficulty": "Easy",
+						"explanation": "Managers determine the yield of your properties and influence the collection speed.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What staff member is responsible for managing the day-to-day operations and payouts?",
+						"wrong": [
+							"Advisor",
+							"Security Guard",
+							"CEO"
+						]
+					},
+					{
+						"correct": "The Pleasure Billionaire",
+						"difficulty": "Medium",
+						"explanation": "The Pleasure Billionaire controls the adult entertainment district in the south.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "Which of these Billionaires is the first one Kiryu faces?",
+						"wrong": [
+							"The Media Billionaire",
+							"The Gambling Billionaire",
+							"The Finance Billionaire"
+						]
+					},
+					{
+						"correct": "They level up your properties to increase income",
+						"difficulty": "Medium",
+						"explanation": "Investing through advisors is the only way to reach S-rank for your properties.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What role do 'Advisors' play in the business?",
+						"wrong": [
+							"They fight for you",
+							"They lower the price of new buildings",
+							"They provide secret tips"
+						]
+					},
+					{
+						"correct": "Marina",
+						"difficulty": "Medium",
+						"explanation": "Marina manages the office and provides updates on your business progress.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What is the name of the secretary who assists Kiryu at the office?",
+						"wrong": [
+							"Yuki",
+							"Reina",
+							"Makoto"
+						]
+					},
+					{
+						"correct": "A test of who can spend the most to outbid the other",
+						"difficulty": "Medium",
+						"explanation": "The Finance Billionaire challenges you to a battle of pure financial resources.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What is the 'Money Battle' that occurs during the acquisition of the final area?",
+						"wrong": [
+							"A physical fight in a vault",
+							"A race through the city",
+							"A karaoke contest"
+						]
+					},
+					{
+						"correct": "The Media Billionaire",
+						"difficulty": "Medium",
+						"explanation": "The Media Billionaire is an influential woman who controls the northern part of town.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "Which of the Five Billionaires is actually a woman?",
+						"wrong": [
+							"The Gambling Billionaire",
+							"The Pleasure Billionaire",
+							"None of them"
+						]
+					},
+					{
+						"correct": "Sugita Building",
+						"difficulty": "Hard",
+						"explanation": "The Sugita Building is a small, modest office in the Tenkaichi Alley area.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What is the name of the office building that serves as Kiryu's base?",
+						"wrong": [
+							"Tachibana HQ",
+							"Kamurocho Tower",
+							"Serena"
+						]
+					},
+					{
+						"correct": "One to Five",
+						"difficulty": "Hard",
+						"explanation": "Manager ratings affect the safety and economic growth of an entire area.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "How many 'stars' are on the rating for a manager's performance?",
+						"wrong": [
+							"One to Three",
+							"A to S",
+							"Numerical 1-10"
+						]
+					},
+					{
+						"correct": "The Gambling District (Theater Square area)",
+						"difficulty": "Hard",
+						"explanation": "He controls the central hub around the arcade and theater.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What is the name of the area controlled by the Gambling Billionaire?",
+						"wrong": [
+							"Pink Street",
+							"Champion District",
+							"Hotel District"
+						]
+					},
+					{
+						"correct": "Miracle Johnson",
+						"difficulty": "Hard",
+						"explanation": "After completing his sub-story, Miracle Johnson becomes your most powerful advisor.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "Which advisor has the highest base 'Investment' stat?",
+						"wrong": [
+							"The Fortune Teller",
+							"The Tax Lady",
+							"The Pocket Circuit Fighter"
+						]
+					},
+					{
+						"correct": "The Legend Fighting Style",
+						"difficulty": "Hard",
+						"explanation": "The ultimate reward for conquering the market is the Dragon of Dojima style.",
+						"image_url": "https://skillcheckgame.com/assets/images/real_estate_royale.webp",
+						"question": "What is the reward for reaching 100% market share in all five areas?",
+						"wrong": [
+							"Infinite Money",
+							"A Golden Suit",
+							"A Secret Boss Fight"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_real_estate_royale",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Real Estate Royale",
+				"lore_desc": "Kiryu's primary business minigame where he competes against the Five Billionaires to take over the real estate market of Kamurocho.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Kamurocho Conquest",
+			"profiler": {
+				"vibe_tags": [
+					"Business",
+					"Kiryu",
+					"Kamurocho"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Hey, boy!",
+						"difficulty": "Easy",
+						"explanation": "Bacchus always greets Kiryu with a loud, enthusiastic 'Hey, boy!'.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "What is the signature catchphrase this character says to Kiryu?",
+						"wrong": [
+							"Hello, friend!",
+							"Watch out!",
+							"Fight me!"
+						]
+					},
+					{
+						"correct": "In a small alleyway near Tenkaichi Street",
+						"difficulty": "Easy",
+						"explanation": "He is found sitting on a box in a narrow alley, often surrounded by empty bottles.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "Where does this character usually hang out in Kamurocho?",
+						"wrong": [
+							"In a luxury hotel",
+							"At the arcade",
+							"In the park"
+						]
+					},
+					{
+						"correct": "American",
+						"difficulty": "Easy",
+						"explanation": "Bacchus is a loud and colorful American expat living in Japan.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "What nationality is this character?",
+						"wrong": [
+							"British",
+							"Russian",
+							"Chinese"
+						]
+					},
+					{
+						"correct": "Brawler",
+						"difficulty": "Easy",
+						"explanation": "Bacchus focuses on the fundamentals of street fighting, which form the Brawler style.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "Which of Kiryu's fighting styles does this character help train?",
+						"wrong": [
+							"Rush",
+							"Beast",
+							"Dragon"
+						]
+					},
+					{
+						"correct": "Alcohol / Drink",
+						"difficulty": "Easy",
+						"explanation": "As his name suggests, Bacchus is a lover of drink and often requests specific beverages.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "What does this character often ask Kiryu to provide in exchange for training?",
+						"wrong": [
+							"Money",
+							"Information",
+							"Food"
+						]
+					},
+					{
+						"correct": "A large, bearded man with a vest and hat",
+						"difficulty": "Medium",
+						"explanation": "He has a very distinct 'Western' look that stands out in Kamurocho.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "What is this character's physical appearance like?",
+						"wrong": [
+							"A thin, bald man in a tuxedo",
+							"A young boy in a baseball cap",
+							"A tall woman in leather"
+						]
+					},
+					{
+						"correct": "By watching him fight thugs he points out",
+						"difficulty": "Medium",
+						"explanation": "Bacchus usually directs Kiryu to beat up a group of thugs and gives advice afterward.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "How does this character help Kiryu unlock new skills on his tree?",
+						"wrong": [
+							"By sparring with him personally",
+							"By giving him skill books",
+							"By meditating with him"
+						]
+					},
+					{
+						"correct": "The Bacchus Apprentices",
+						"difficulty": "Medium",
+						"explanation": "Several other brawlers in the city claim to have been taught by him.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "What is the name of the group of students Bacchus has trained before Kiryu?",
+						"wrong": [
+							"The American Brawlers",
+							"The Alleyway Kings",
+							"The Foreign Legion"
+						]
+					},
+					{
+						"correct": "Essence of Wall Crushing",
+						"difficulty": "Medium",
+						"explanation": "His techniques focus on using the environment, like walls, to punish enemies.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "Which of these Heat Actions is taught by Bacchus?",
+						"wrong": [
+							"Essence of Bat Swings",
+							"Essence of the Tiger Drop",
+							"Essence of Bell Ringing"
+						]
+					},
+					{
+						"correct": "To find 'the ultimate fighter'",
+						"difficulty": "Medium",
+						"explanation": "He is on a quest to find and train the strongest fighter in the world.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "Why does Bacchus say he came to Japan?",
+						"wrong": [
+							"To escape the law",
+							"To start a brewery",
+							"To find his long-lost son"
+						]
+					},
+					{
+						"correct": "Champagne",
+						"difficulty": "Hard",
+						"explanation": "He wants to celebrate Kiryu's progress with a high-end bottle of bubbly.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "What is the name of the specific drink Bacchus asks for during his final training session?",
+						"wrong": [
+							"Whiskey",
+							"Sake",
+							"Beer"
+						]
+					},
+					{
+						"correct": "Attack Power and Heat Gauge",
+						"difficulty": "Hard",
+						"explanation": "His training makes Kiryu's Brawler style much more lethal and efficient.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "Which 'stat' does Bacchus increase for Kiryu upon completing his training?",
+						"wrong": [
+							"Movement Speed",
+							"Health Regeneration",
+							"Money Drop Rate"
+						]
+					},
+					{
+						"correct": "That anything can be a weapon if you hit hard enough",
+						"difficulty": "Hard",
+						"explanation": "He encourages Kiryu to use the city itself as his arsenal.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "What is the 'lesson' Bacchus teaches about using weapons from the environment?",
+						"wrong": [
+							"To never use weapons",
+							"To only use knives",
+							"To buy weapons from shops"
+						]
+					},
+					{
+						"correct": "He leaves Japan to find more students",
+						"difficulty": "Hard",
+						"explanation": "His time in Kamurocho was always meant to be temporary.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "In the epilogue or later series lore, what happens to Bacchus?",
+						"wrong": [
+							"He becomes a yakuza",
+							"He dies in a street fight",
+							"He opens a bar"
+						]
+					},
+					{
+						"correct": "The Heat Action prompt (Triangle/Y)",
+						"difficulty": "Hard",
+						"explanation": "He essentially teaches Kiryu how to trigger specific finishers in the Brawler style.",
+						"image_url": "https://skillcheckgame.com/assets/images/bacchus.webp",
+						"question": "Which button prompt is usually associated with Bacchus's 'advice' during combat?",
+						"wrong": [
+							"The Guard button",
+							"The Pause menu",
+							"The Taunt button"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_bacchus",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Bacchus",
+				"lore_desc": "A boisterous American living in the alleyways of Kamurocho. He takes an interest in Kiryu and teaches him the fundamentals of the Brawler fighting style.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The American Master",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Mentor",
+					"Kamurocho"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Serena",
+						"difficulty": "Easy",
+						"explanation": "Serena is her small, quiet bar located in the heart of Kamurocho.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "What is the name of the bar this character owns?",
+						"wrong": [
+							"The Grand",
+							"Stardust",
+							"Bantam"
+						]
+					},
+					{
+						"correct": "Confidante and safe-house provider",
+						"difficulty": "Easy",
+						"explanation": "Reina allows Kiryu and Nishiki to hide out and discuss their plans in her bar.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "Which of these traits best describes this character's role in the story?",
+						"wrong": [
+							"A fierce yakuza fighter",
+							"A corrupt police informant",
+							"A rival real estate agent"
+						]
+					},
+					{
+						"correct": "Akira Nishikiyama",
+						"difficulty": "Easy",
+						"explanation": "Her unrequited love for Nishiki is a major part of her character arc throughout the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "Which character is Reina secretly in love with?",
+						"wrong": [
+							"Kazuma Kiryu",
+							"Shintaro Kazama",
+							"Tetsu Tachibana"
+						]
+					},
+					{
+						"correct": "A traditional Kimono",
+						"difficulty": "Easy",
+						"explanation": "She is always seen in elegant, high-quality kimonos befitting her role as a mama-san.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "What kind of clothing does this character typically wear?",
+						"wrong": [
+							"A business suit",
+							"A punk rock outfit",
+							"A nurse's uniform"
+						]
+					},
+					{
+						"correct": "Close Friends",
+						"difficulty": "Easy",
+						"explanation": "They share a deep mutual respect and have known each other for years.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "What is the relationship between this character and Kazuma Kiryu?",
+						"wrong": [
+							"Ex-husband and wife",
+							"Enemies",
+							"Father and daughter"
+						]
+					},
+					{
+						"correct": "Tenkaichi Street",
+						"difficulty": "Medium",
+						"explanation": "The bar is on the second floor of a building on the main Tenkaichi Street.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "Where is Bar Serena located in Kamurocho?",
+						"wrong": [
+							"Pink Street",
+							"Theater Square",
+							"Champion District"
+						]
+					},
+					{
+						"correct": "She offers him a place to hide",
+						"difficulty": "Medium",
+						"explanation": "She remains loyal to him despite the pressure from the Dojima family.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "How does Reina react when Kiryu is framed for the murder in the Empty Lot?",
+						"wrong": [
+							"She calls the police",
+							"She bans him from the bar",
+							"She tries to kill him"
+						]
+					},
+					{
+						"correct": "Mama-san",
+						"difficulty": "Medium",
+						"explanation": "Mama-san is the traditional title for the female manager of a small Japanese bar.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "What is the common term used for a woman who runs a bar like Serena?",
+						"wrong": [
+							"Mistress",
+							"Manager",
+							"Sensei"
+						]
+					},
+					{
+						"correct": "Akira Nishikiyama",
+						"difficulty": "Medium",
+						"explanation": "Nishiki and Kiryu are the bar's most frequent and famous patrons.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "Which character often visits the bar with Kiryu in the early chapters?",
+						"wrong": [
+							"Daisaku Kuze",
+							"Goro Majima",
+							"Tetsu Tachibana"
+						]
+					},
+					{
+						"correct": "No, she is a non-combatant",
+						"difficulty": "Medium",
+						"explanation": "Reina is a civilian who stays out of the street brawls.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "Does Reina ever participate in the physical combat of the game?",
+						"wrong": [
+							"Yes, she uses a knife",
+							"Yes, she uses a handgun",
+							"Only in one secret mission"
+						]
+					},
+					{
+						"correct": "A hostess at a different club",
+						"difficulty": "Hard",
+						"explanation": "Many bar owners in the district start their careers in the cabaret and hostess industry.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "What was Reina's job before she opened Serena?",
+						"wrong": [
+							"A police officer",
+							"A professional singer",
+							"A yakuza soldier"
+						]
+					},
+					{
+						"correct": "It is quiet and upscale",
+						"difficulty": "Hard",
+						"explanation": "Serena is a 'snack bar' style establishment, focused on conversation and a relaxed atmosphere.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "In the context of the 1988 setting, what makes Serena different from the flashy clubs?",
+						"wrong": [
+							"It has a disco floor",
+							"It is extremely cheap",
+							"It is for foreigners only"
+						]
+					},
+					{
+						"correct": "None (she runs the bar alone in 0)",
+						"difficulty": "Hard",
+						"explanation": "In Yakuza 0, Reina manages the bar entirely by herself.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "What is the name of the girl who works as a hostess under Reina in later games?",
+						"wrong": [
+							"Yuki",
+							"Reimi",
+							"Sayaka"
+						]
+					},
+					{
+						"correct": "She tries to support and reason with him",
+						"difficulty": "Hard",
+						"explanation": "Her loyalty to Nishiki remains steadfast even as he becomes more dangerous.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "What does Reina do when Nishikiyama begins his descent into darkness?",
+						"wrong": [
+							"She betrays him to Kiryu",
+							"She closes the bar",
+							"She marries him"
+						]
+					},
+					{
+						"correct": "The Third Floor",
+						"difficulty": "Hard",
+						"explanation": "Players must climb a narrow set of stairs to the third floor to enter the bar.",
+						"image_url": "https://skillcheckgame.com/assets/images/reina.webp",
+						"question": "Which floor of the building is Serena located on?",
+						"wrong": [
+							"Basement",
+							"The First Floor",
+							"The Roof"
+						]
+					}
+				]
+			},
+			"id": "yakuza_0_reina",
+			"meta": {
+				"date_added": "2026-03-19",
+				"entity_category": "Theme Item",
+				"full_title": "Reina",
+				"lore_desc": "The elegant and composed proprietress of Bar Serena. She is a close confidante of Kiryu and Nishikiyama, providing them with a safe haven.",
+				"theme_origin": "yakuza 0",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Bar Mistress",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Ally",
+					"Kamurocho"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -66603,6 +70689,167 @@
 					"name": "A Promise Kept"
 				}
 			]
+		},
+		{
+			"id": "yakuza 0",
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kazuma Kiryu",
+						"Goro Majima"
+					],
+					"name": "Two Dragons"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kazuma Kiryu",
+						"Akira Nishikiyama"
+					],
+					"name": "Sworn Brothers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kazuma Kiryu",
+						"Tetsu Tachibana"
+					],
+					"name": "The Empty Lot Deal"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Goro Majima",
+						"Makoto Makimura"
+					],
+					"name": "The Blind Girl's Guardian"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Goro Majima",
+						"Mad Dog of Shimano Style"
+					],
+					"name": "Unleashed"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kazuma Kiryu",
+						"Dragon of Dojima Style"
+					],
+					"name": "The Dragon Awakens"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kamurocho",
+						"Sotenbori"
+					],
+					"name": "Two Cities"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Empty Lot",
+						"Makoto Makimura"
+					],
+					"name": "The Rightful Owner"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Cabaret Club Sunshine",
+						"Sotenbori"
+					],
+					"name": "Sotenbori Nightlife"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kamurocho",
+						"Real Estate Royale"
+					],
+					"name": "Kiryu's Property Empire"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Bacchus",
+						"Dragon of Dojima Style"
+					],
+					"name": "The Master's Training"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Disco",
+						"Pocket Circuit Fighter"
+					],
+					"name": "Leisure King"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Goro Majima",
+						"Reina"
+					],
+					"name": "Serena After Hours"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kazuma Kiryu",
+						"Reina"
+					],
+					"name": "Bar Serena"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mr. Shakedown",
+						"Kamurocho"
+					],
+					"name": "Walking ATM"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Daisaku Kuze",
+						"Hiroki Awano",
+						"Keiji Shibusawa"
+					],
+					"name": "Dojima's Three Lieutenants"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Makoto Makimura",
+						"The Empty Lot",
+						"Tetsu Tachibana"
+					],
+					"name": "The Vacant Lot Mystery"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Kazuma Kiryu",
+						"Akira Nishikiyama",
+						"Reina"
+					],
+					"name": "The Kamurocho Trio"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Kazuma Kiryu",
+						"Daisaku Kuze",
+						"Kamurocho"
+					],
+					"name": "The Kuze Gauntlet"
+				}
+			]
 		}
 	],
 	"titles": {
@@ -66660,6 +70907,11 @@
 			"color": "#ff0000",
 			"icon": "res://icons/crosshair-bold.png",
 			"text": "Doom Slayer"
+		},
+		"dragon_of_dojima": {
+			"color": "#c0392b",
+			"icon": "res://icons/sword-bold.png",
+			"text": "Dragon of Dojima"
 		},
 		"flawless": {
 			"color": "#00ffcc",
