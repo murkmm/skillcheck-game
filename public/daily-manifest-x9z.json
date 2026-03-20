@@ -1,5 +1,5 @@
 {
-	"last_updated": 1773965726,
+	"last_updated": 1774047683,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2388,6 +2388,51 @@
 				"yakuza_0_reina"
 			],
 			"submitted_by": ""
+		},
+		"2026-03-21": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Neopets The Quiz",
+			"share_text": "How well do you know Neopia?",
+			"shops": [
+				{
+					"p1": "link_cable",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "save_state",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "turbo_button"
+				}
+			],
+			"showcase": [
+				"neopets_meepit",
+				"neopets_fyora_the_faerie_queen",
+				"neopets_dr_frank_sloth"
+			],
+			"starters": [
+				"neopets_kacheek",
+				"neopets_dr_frank_sloth",
+				"neopets_faerieland",
+				"neopets_the_pant_devil",
+				"neopets_meridell",
+				"neopets_fyora_the_faerie_queen",
+				"neopets_giant_omelette",
+				"neopets_meepit",
+				"neopets_the_money_tree",
+				"neopets_shoyru",
+				"neopets_tombola",
+				"neopets_dubloon",
+				"neopets_negg",
+				"neopets_illusen",
+				"neopets_jhudora",
+				"neopets_taelia_the_snow_faerie"
+			],
+			"submitted_by": "Rosikins"
 		}
 	}
 }
