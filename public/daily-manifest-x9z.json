@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774047683,
+	"last_updated": 1774135570,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2433,6 +2433,55 @@
 				"neopets_taelia_the_snow_faerie"
 			],
 			"submitted_by": "Rosikins"
+		},
+		"2026-03-22": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Super Mario Sunshine: Trivia In Paradise",
+			"share_text": "I cleared my name and cleaned up Isle Delfino in today's Skillcheck!",
+			"shops": [
+				{
+					"p1": "game_shark",
+					"p2": "multitap"
+				},
+				{
+					"p1": "overclock_chip",
+					"p2": "pause_button"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "power_supply"
+				}
+			],
+			"showcase": [
+				"super_mario_sunshine_mario",
+				"super_mario_sunshine_fludd",
+				"super_mario_sunshine_shadow_mario"
+			],
+			"starters": [
+				"super_mario_sunshine_fludd",
+				"super_mario_sunshine_shadow_mario",
+				"super_mario_sunshine_princess_peach",
+				"super_mario_sunshine_petey_piranha",
+				"super_mario_sunshine_isle_delfino",
+				"super_mario_sunshine_bowser_jr.",
+				"super_mario_sunshine_shine_sprite",
+				"super_mario_sunshine_yoshi",
+				"super_mario_sunshine_pianta",
+				"super_mario_sunshine_toadsworth",
+				"super_mario_sunshine_delfino_plaza",
+				"super_mario_sunshine_king_boo",
+				"super_mario_sunshine_blue_coin",
+				"super_mario_sunshine_gooper_blooper",
+				"super_mario_sunshine_noki",
+				"super_mario_sunshine_noki_bay",
+				"super_mario_sunshine_corona_mountain",
+				"super_mario_sunshine_turbo_nozzle",
+				"super_mario_sunshine_bianco_hills",
+				"super_mario_sunshine_mario"
+			],
+			"submitted_by": ""
 		}
 	}
 }
