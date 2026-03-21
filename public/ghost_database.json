@@ -75825,6 +75825,14 @@
 						"Ganondorf"
 					],
 					"name": "Super Heavyweights"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Yoshi",
+						"Mario"
+					],
+					"name": "Reunited"
 				}
 			]
 		},
@@ -76507,6 +76515,14 @@
 						"Toadsworth"
 					],
 					"name": "A Royal Retainer"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Princess Peach",
+						"Mario"
+					],
+					"name": "Saving  the princess.... again!"
 				}
 			]
 		},
@@ -78384,12 +78400,37 @@
 					"name": "Juice Required"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Shadow Mario",
 						"Bowser Jr."
 					],
 					"name": "The Magic Paintbrush"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Noki",
+						"Noki Bay"
+					],
+					"name": "Waterfall Paradise"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Shine Sprite",
+						"Mario"
+					],
+					"name": "Shine Get"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Corona Mountain",
+						"Mario",
+						"FLUDD"
+					],
+					"name": "The final climb"
 				}
 			]
 		}
