@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774135643,
+	"last_updated": 1774207894,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2480,6 +2480,51 @@
 				"super_mario_sunshine_turbo_nozzle",
 				"super_mario_sunshine_bianco_hills",
 				"super_mario_sunshine_mario"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-23": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "God of War 2018: Ghost of Trivia",
+			"share_text": "",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "training_mode",
+					"p2": "gold_cartridge"
+				}
+			],
+			"showcase": [
+				"god_of_war_2018_kratos",
+				"god_of_war_2018_atreus",
+				"god_of_war_2018_baldur"
+			],
+			"starters": [
+				"god_of_war_2018_kratos",
+				"god_of_war_2018_atreus",
+				"god_of_war_2018_baldur",
+				"god_of_war_2018_leviathan_axe",
+				"god_of_war_2018_mimir",
+				"god_of_war_2018_brok",
+				"god_of_war_2018_sindri",
+				"god_of_war_2018_freya",
+				"god_of_war_2018_jormungandr",
+				"god_of_war_2018_valkyries",
+				"god_of_war_2018_midgard",
+				"god_of_war_2018_alfheim",
+				"god_of_war_2018_helheim",
+				"god_of_war_2018_blades_of_chaos",
+				"god_of_war_2018_magni",
+				"god_of_war_2018_modi"
 			],
 			"submitted_by": ""
 		}
