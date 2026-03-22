@@ -75652,6 +75652,3254 @@
 					"Hills"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Boy",
+						"difficulty": "Easy",
+						"explanation": "Kratos's stern delivery of the word 'Boy' became an iconic staple of the 2018 game's dialogue.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "By what short, one-word name does this character primarily address his son throughout the journey?",
+						"wrong": [
+							"Son",
+							"Kid",
+							"Child"
+						]
+					},
+					{
+						"correct": "Ice",
+						"difficulty": "Easy",
+						"explanation": "The Leviathan Axe is imbued with frost magic, a direct contrast to Kratos's previous fire-based weapons.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "In this specific game, what is the primary element of the new weapon this character uses at the start?",
+						"wrong": [
+							"Fire",
+							"Lightning",
+							"Earth"
+						]
+					},
+					{
+						"correct": "Greek",
+						"difficulty": "Easy",
+						"explanation": "Kratos destroyed the Greek pantheon before traveling north to the lands of the Norse gods.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "This character is originally from which ancient mythological pantheon?",
+						"wrong": [
+							"Egyptian",
+							"Norse",
+							"Roman"
+						]
+					},
+					{
+						"correct": "Her ashes",
+						"difficulty": "Easy",
+						"explanation": "The central quest of the game is for Kratos and Atreus to spread Faye's ashes from the highest peak.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "What does this character carry in a small pouch that belonged to his deceased wife, Faye?",
+						"wrong": [
+							"A wedding ring",
+							"Magic seeds",
+							"Ancient runes"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "The red tattoos were chosen by Kratos to honor his brother, Deimos.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "What color are the distinct markings tattooed across this character's body?",
+						"wrong": [
+							"Blue",
+							"Black",
+							"Gold"
+						]
+					},
+					{
+						"correct": "The ashes of his family",
+						"difficulty": "Medium",
+						"explanation": "An oracle cursed Kratos to wear the ashes of his first wife and daughter on his skin forever.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "What is the true source of the pale, ash-white color of this character's skin?",
+						"wrong": [
+							"A curse of winter",
+							"Lack of sunlight",
+							"Magic paint"
+						]
+					},
+					{
+						"correct": "Baldur",
+						"difficulty": "Medium",
+						"explanation": "Baldur arrives at Kratos's house looking for a 'Giant', leading to their first confrontation.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "Early in the game, which Norse god tracks this character to his home, initiating a massive brawl?",
+						"wrong": [
+							"Thor",
+							"Odin",
+							"Heimdall"
+						]
+					},
+					{
+						"correct": "He fights with his bare fists",
+						"difficulty": "Medium",
+						"explanation": "Spartan Rage allows Kratos to unleash raw power, discarding weapons to pummel enemies with his hands.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "When this character enters a state of 'Spartan Rage', what happens to his combat style?",
+						"wrong": [
+							"He grows twice his size",
+							"He uses a massive hammer",
+							"He becomes invisible"
+						]
+					},
+					{
+						"correct": "Zeus",
+						"difficulty": "Medium",
+						"explanation": "Kratos is the son of Zeus, a fact he keeps hidden from Atreus for much of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "Which Greek god was the father of this character, making him a demigod?",
+						"wrong": [
+							"Ares",
+							"Poseidon",
+							"Hades"
+						]
+					},
+					{
+						"correct": "Guardian Shield",
+						"difficulty": "Medium",
+						"explanation": "The Guardian Shield is a retractable shield given to him by his wife, Faye.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "What physical object does this character use to block attacks and parry enemies in the Norse realm?",
+						"wrong": [
+							"Golden Fleece",
+							"Aegis",
+							"Iron Buckler"
+						]
+					},
+					{
+						"correct": "Blades of Chaos",
+						"difficulty": "Hard",
+						"explanation": "Because the Leviathan Axe's ice magic is useless in Helheim, Kratos retrieves his fire-based Blades of Chaos.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "In a moment of desperation to save his son, this character travels to Helheim to retrieve which old weapons?",
+						"wrong": [
+							"Blade of Olympus",
+							"Nemean Cestus",
+							"Claws of Hades"
+						]
+					},
+					{
+						"correct": "The Last Spartan",
+						"difficulty": "Hard",
+						"explanation": "Commonly referred to as the 'Last Spartan', he appeared in God of War II before Kratos moved to Midgard.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "What was the name of the Spartan soldier who was the only one Kratos considered a friend before his exile?",
+						"wrong": [
+							"Nikolaos",
+							"Stentor",
+							"Deimos"
+						]
+					},
+					{
+						"correct": "Deer",
+						"difficulty": "Hard",
+						"explanation": "The hunt for the deer serves as the combat and tracking tutorial for both the player and Atreus.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "Which specific animal does Kratos hunt with Atreus at the very beginning of the game?",
+						"wrong": [
+							"Boar",
+							"Wolf",
+							"Bear"
+						]
+					},
+					{
+						"correct": "Mimir",
+						"difficulty": "Hard",
+						"explanation": "While Atreus eventually learns some of the language, Mimir is the initial translator for the Serpent.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "When meeting the World Serpent for the first time, who translates the Serpent's speech for Kratos?",
+						"wrong": [
+							"Atreus",
+							"Freya",
+							"Brok"
+						]
+					},
+					{
+						"correct": "Farbauti",
+						"difficulty": "Hard",
+						"explanation": "In Norse mythology and the game's mural, Kratos is identified by the name Farbauti, which means 'Cruel Striker'.",
+						"image_url": "https://skillcheckgame.com/assets/images/kratos.webp",
+						"question": "What is the secret name given to Kratos by the Giants, as revealed at the end of the game?",
+						"wrong": [
+							"Laufey",
+							"Bergelmir",
+							"Surtr"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_kratos",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Kratos",
+				"lore_desc": "A former Greek God of War who has settled in the Norse realm of Midgard, seeking a quiet life while raising his son.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Ghost of Sparta",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"God",
+					"Father"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Talon Bow",
+						"difficulty": "Easy",
+						"explanation": "Atreus uses the Talon Bow to distract enemies and deal elemental damage from a distance.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "What is the primary weapon used by this character to support his father in combat?",
+						"wrong": [
+							"Leviathan Sword",
+							"Iron Dagger",
+							"Magic Staff"
+						]
+					},
+					{
+						"correct": "Faye",
+						"difficulty": "Easy",
+						"explanation": "Faye (Laufey the Just) was a Giant who hid her identity from her son and husband.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "What is the name of this character's mother, who passed away before the game begins?",
+						"wrong": [
+							"Freya",
+							"Sif",
+							"Sigrun"
+						]
+					},
+					{
+						"correct": "Translating languages",
+						"difficulty": "Easy",
+						"explanation": "Atreus can read and speak many ancient tongues, including Elder Futhark and the language of the World Serpent.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "This character possesses a unique talent for which skill that helps navigate the Norse realms?",
+						"wrong": [
+							"Blacksmithing",
+							"Flying",
+							"Cooking"
+						]
+					},
+					{
+						"correct": "Loki",
+						"difficulty": "Easy",
+						"explanation": "The revelation that Atreus is Loki is one of the biggest twists in the 2018 game.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "At the end of the journey, what name does this character discover his mother intended to give him?",
+						"wrong": [
+							"Fenrir",
+							"Thor",
+							"Baldur"
+						]
+					},
+					{
+						"correct": "Spirit animals",
+						"difficulty": "Easy",
+						"explanation": "Using Runic Summons, Atreus can conjure spectral wolves, crows, or squirrels.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "What kind of animal 'summons' can this character call upon to aid in battle?",
+						"wrong": [
+							"Real wolves",
+							"Mechanical birds",
+							"Dragons"
+						]
+					},
+					{
+						"correct": "The conflict between his godhood and mortal belief",
+						"difficulty": "Medium",
+						"explanation": "Because Atreus didn't know he was a god, his internal nature was fighting against his own subconscious mind.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "When Atreus falls ill, what does Kratos discover is the cause of his son's sickness?",
+						"wrong": [
+							"A poison arrow",
+							"The Black Breath",
+							"Hel-frost"
+						]
+					},
+					{
+						"correct": "Shock arrows",
+						"difficulty": "Medium",
+						"explanation": "Shock arrows use the tooth of a dragon to chain lightning between enemies.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "Which type of magic arrows does Atreus first receive from Sindri?",
+						"wrong": [
+							"Fire arrows",
+							"Light arrows",
+							"Poison arrows"
+						]
+					},
+					{
+						"correct": "The Light of Alfheim",
+						"difficulty": "Medium",
+						"explanation": "After Kratos enters the Light of Alfheim, he charges Atreus's bow string with its energy.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "What specific item does Atreus use to fire Light Arrows, obtained in Alfheim?",
+						"wrong": [
+							"A Bifrost shard",
+							"An Elven crystal",
+							"A Valkyrie feather"
+						]
+					},
+					{
+						"correct": "Light Crystals",
+						"difficulty": "Medium",
+						"explanation": "Atreus shoots Light Crystals to create solid bridges of light throughout the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "What is the name of the specific material Atreus uses to 'draw' and solve puzzles in the world?",
+						"wrong": [
+							"Mana Dust",
+							"Ether Shards",
+							"Spirit Stones"
+						]
+					},
+					{
+						"correct": "Modi",
+						"difficulty": "Medium",
+						"explanation": "After learning he is a god, Atreus impulsively stabs and kills a weakened Modi against Kratos's wishes.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "Which Norse god does Atreus kill personally, showing a shift in his personality toward arrogance?",
+						"wrong": [
+							"Magni",
+							"Baldur",
+							"Heimdall"
+						]
+					},
+					{
+						"correct": "Sparta",
+						"difficulty": "Hard",
+						"explanation": "Kratos tells Atreus that he was named after a compassionate Spartan commander who died in battle.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "Kratos named Atreus after a fellow soldier from which city-state?",
+						"wrong": [
+							"Athens",
+							"Thebes",
+							"Corinth"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Hard",
+						"explanation": "Like his father, Atreus taps into a red-tinted fury, though it initially causes him to collapse.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "What color is the mist-like effect that surrounds Atreus when he uses his Spartan Rage for the first time?",
+						"wrong": [
+							"Blue",
+							"Yellow",
+							"Green"
+						]
+					},
+					{
+						"correct": "A Giant",
+						"difficulty": "Hard",
+						"explanation": "Faye was a Jötunn (Giant), making Atreus part God, part Giant, and part Mortal.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "Which species is Atreus's mother, Faye, revealed to be in the final murals of Jotunheim?",
+						"wrong": [
+							"An Aesir",
+							"A Vanir",
+							"A Valkyrie"
+						]
+					},
+					{
+						"correct": "Mistletoe",
+						"difficulty": "Hard",
+						"explanation": "Freya warned them to stay away from mistletoe because it was the only thing that could harm her son.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "During the final battle with Baldur, what plant does Atreus have on his quiver that breaks Baldur's curse?",
+						"wrong": [
+							"Holly",
+							"Nightshade",
+							"Yew"
+						]
+					},
+					{
+						"correct": "A simple pouch",
+						"difficulty": "Hard",
+						"explanation": "The ashes are kept in a humble cloth pouch tied to his belt or Kratos's gear.",
+						"image_url": "https://skillcheckgame.com/assets/images/atreus.webp",
+						"question": "What does Atreus carry his mother's ashes in during the climb to the mountain peak?",
+						"wrong": [
+							"A golden urn",
+							"A stone box",
+							"A leather canteen"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_atreus",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Atreus",
+				"lore_desc": "The son of Kratos and Faye, who discovers his divine nature while journeying to the highest peak in the realms.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Loki",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Son",
+					"Archer"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "He is cursed by his mother",
+						"difficulty": "Easy",
+						"explanation": "Freya placed a spell on him to protect him from all harm, but it also robbed him of the ability to feel.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "Why is this character unable to feel any physical or emotional sensation at the start of the game?",
+						"wrong": [
+							"He is made of stone",
+							"He is a ghost",
+							"He is already dead"
+						]
+					},
+					{
+						"correct": "Odin",
+						"difficulty": "Easy",
+						"explanation": "Baldur is a prince of the Aesir and a son of the All-Father, Odin.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "Which god is the father of this antagonist?",
+						"wrong": [
+							"Thor",
+							"Tyr",
+							"Loki"
+						]
+					},
+					{
+						"correct": "Mistletoe",
+						"difficulty": "Easy",
+						"explanation": "A mistletoe arrow tip pierces Baldur's hand during the final fight, breaking the spell.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "What is the only substance that can break the spell of invulnerability on this character?",
+						"wrong": [
+							"Dragon fire",
+							"Giant's blood",
+							"Cold iron"
+						]
+					},
+					{
+						"correct": "The Stranger",
+						"difficulty": "Easy",
+						"explanation": "He is introduced as 'The Stranger' to maintain mystery during the opening hours.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "By what generic name is this character referred to in the game's subtitles and menu before his identity is revealed?",
+						"wrong": [
+							"The Wanderer",
+							"The Aesir",
+							"The Hunter"
+						]
+					},
+					{
+						"correct": "Freya",
+						"difficulty": "Easy",
+						"explanation": "Freya's overprotectiveness led her to curse him with invulnerability, which he viewed as a nightmare.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "Which goddess is this character's mother, whom he deeply resents?",
+						"wrong": [
+							"Frigg",
+							"Sif",
+							"Hel"
+						]
+					},
+					{
+						"correct": "Fire and Ice",
+						"difficulty": "Medium",
+						"explanation": "In the final battle, Baldur absorbs the elements to switch between frost and flame attacks.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "During combat, what two opposing elements does this character eventually use against Kratos?",
+						"wrong": [
+							"Lightning and Poison",
+							"Earth and Air",
+							"Light and Dark"
+						]
+					},
+					{
+						"correct": "A dragon",
+						"difficulty": "Medium",
+						"explanation": "Baldur mounts a dragon (Dagsetr) to attack Kratos and Atreus while they are on the mountain.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "What animal does this character use to fly during the mid-game chase scene?",
+						"wrong": [
+							"A giant eagle",
+							"A winged horse",
+							"A massive crow"
+						]
+					},
+					{
+						"correct": "To find a Giant",
+						"difficulty": "Medium",
+						"explanation": "Odin believed a Giant (Faye) lived there and sent Baldur to track her down for information on Jotunheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "Why did Odin send this character to Kratos's house in the first place?",
+						"wrong": [
+							"To kill Kratos",
+							"To steal the axe",
+							"To reclaim the forest"
+						]
+					},
+					{
+						"correct": "He believes the Giants can cure him",
+						"difficulty": "Medium",
+						"explanation": "Odin convinced him that the Giants had the knowledge to break his curse of feeling nothing.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "What is the primary reason this character wants to reach Jotunheim?",
+						"wrong": [
+							"He wants to rule it",
+							"He wants to kill the last Giant",
+							"He is looking for his father"
+						]
+					},
+					{
+						"correct": "Strangle her",
+						"difficulty": "Medium",
+						"explanation": "Baldur tries to kill Freya as revenge for his lifetime of sensory deprivation.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "After the final battle, what does this character attempt to do to Freya before Kratos intervenes?",
+						"wrong": [
+							"Stab her",
+							"Burn her house",
+							"Turn her to stone"
+						]
+					},
+					{
+						"correct": "Thamur the Giant",
+						"difficulty": "Hard",
+						"explanation": "The battle takes place on and around the frozen body of Thamur, the giant stonemason.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "In the game's final fight, what massive creature's corpse provides the arena for the battle?",
+						"wrong": [
+							"Jörmungandr",
+							"The Hraezlyr Dragon",
+							"Cronos"
+						]
+					},
+					{
+						"correct": "Magni and Modi",
+						"difficulty": "Hard",
+						"explanation": "Magni and Modi are the sons of Thor, making Baldur their uncle.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "Which pair of brothers are this character's nephews, whom he berates for their failures?",
+						"wrong": [
+							"Brok and Sindri",
+							"Fenrir and Hel",
+							"Skoll and Hati"
+						]
+					},
+					{
+						"correct": "Dagsetr",
+						"difficulty": "Hard",
+						"explanation": "Dagsetr is the name of the dragon that falls during the battle between Kratos and Baldur.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "What is the name of the dragon that Baldur rides during the assault on the mountain?",
+						"wrong": [
+							"Fafnir",
+							"Reginn",
+							"Otr"
+						]
+					},
+					{
+						"correct": "To always protect him",
+						"difficulty": "Hard",
+						"explanation": "Her promise of protection resulted in a curse that he found worse than death.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "What was the specific promise Freya made to Baldur that he felt she broke?",
+						"wrong": [
+							"To make him king",
+							"To find him a wife",
+							"To kill his father"
+						]
+					},
+					{
+						"correct": "The cycle ends here",
+						"difficulty": "Hard",
+						"explanation": "Kratos declares 'The cycle ends here. We must be better than this' as he ends Baldur's life to save Freya.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldur.webp",
+						"question": "What does Kratos say to this character just before delivering the final, fatal neck snap?",
+						"wrong": [
+							"You are beaten",
+							"Die with honor",
+							"For my son"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_baldur",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Baldur",
+				"lore_desc": "The son of Odin and Freya, who seeks Kratos in the hopes of finding a way to feel again.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Stranger",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"God",
+					"Aesir"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Brok and Sindri",
+						"difficulty": "Easy",
+						"explanation": "The Huldra brothers created the axe for the Giantess Laufey (Faye).",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "Which duo of blacksmith brothers forged this powerful weapon?",
+						"wrong": [
+							"Hephaestus and Icarus",
+							"Thor and Odin",
+							"The Elven Smiths"
+						]
+					},
+					{
+						"correct": "Frost",
+						"difficulty": "Easy",
+						"explanation": "The Leviathan Axe freezes enemies and objects in place.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "What elemental property is this weapon primarily associated with?",
+						"wrong": [
+							"Fire",
+							"Lightning",
+							"Poison"
+						]
+					},
+					{
+						"correct": "Recalling it to his hand",
+						"difficulty": "Easy",
+						"explanation": "Kratos can recall the axe from any distance, much like Thor's Mjolnir.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "What unique mechanic allows Kratos to retrieve the axe after throwing it?",
+						"wrong": [
+							"Teleporting to it",
+							"Using a chain",
+							"A homing pigeon"
+						]
+					},
+					{
+						"correct": "Faye",
+						"difficulty": "Easy",
+						"explanation": "Laufey the Just, Kratos's wife, was the original owner and wielder of the axe.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "This weapon was originally forged for which character before they passed it to Kratos?",
+						"wrong": [
+							"Atreus",
+							"Tyr",
+							"Mimir"
+						]
+					},
+					{
+						"correct": "Runic Attack Slots",
+						"difficulty": "Easy",
+						"explanation": "Players can equip Light and Heavy Runic Attacks to the axe for various special abilities.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "What is the name of the special sockets on the axe used to perform powerful magic attacks?",
+						"wrong": [
+							"Gemstone Sockets",
+							"Magic Holes",
+							"Engraving Points"
+						]
+					},
+					{
+						"correct": "Mjolnir",
+						"difficulty": "Medium",
+						"explanation": "Brok and Sindri felt guilty for creating Thor's hammer and made the axe to stand against its power.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "The Huldra brothers forged the Leviathan Axe specifically to act as a counterweight to which other legendary weapon?",
+						"wrong": [
+							"Gungnir",
+							"The Blades of Chaos",
+							"Gram"
+						]
+					},
+					{
+						"correct": "Frozen Flame",
+						"difficulty": "Medium",
+						"explanation": "Frozen Flames are rare items typically dropped by bosses that allow the brothers to sharpen the axe's power.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "What is the name of the material required to upgrade the axe to its maximum level?",
+						"wrong": [
+							"Chaos Flame",
+							"Dragon Tear",
+							"Aesir Gold"
+						]
+					},
+					{
+						"correct": "Frostbite",
+						"difficulty": "Medium",
+						"explanation": "Frostbite slows enemies and increases the damage they take from follow-up attacks.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "In combat, what status effect is applied to enemies when they are repeatedly hit by the axe?",
+						"wrong": [
+							"Shatter",
+							"Burn",
+							"Daze"
+						]
+					},
+					{
+						"correct": "Thiazi's Talon",
+						"difficulty": "Medium",
+						"explanation": "Breath of Thamur is the most famous large-scale blizzard attack, while Thiazi's Talon creates an icy vertical strike.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "Which of these is a 'Heavy Runic Attack' for the axe that involves a massive ice beam?",
+						"wrong": [
+							"Ivaldi's Anvil",
+							"Breath of Thamur",
+							"River of Knives"
+						]
+					},
+					{
+						"correct": "The Pommel",
+						"difficulty": "Medium",
+						"explanation": "Pommels are the customizable handles that add perks and attribute bonuses.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "What part of the axe can be swapped out to provide different stat boosts without changing the blade itself?",
+						"wrong": [
+							"The Grip",
+							"The Blade Tip",
+							"The Leather Wrap"
+						]
+					},
+					{
+						"correct": "Freezes them in place",
+						"difficulty": "Hard",
+						"explanation": "This mechanic is used for almost every environmental puzzle involving moving platforms or doors.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "When the axe is thrown into a mechanism, what does its frost magic do to gears?",
+						"wrong": [
+							"Snaps them",
+							"Lubricates them",
+							"Reverses them"
+						]
+					},
+					{
+						"correct": "Laufey",
+						"difficulty": "Hard",
+						"explanation": "The axe is named after the 'Leviathan' of the world, though the game suggests Faye herself had a hand in its legacy.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "Which specific Giant gave the axe its name, according to the blacksmiths?",
+						"wrong": [
+							"Thamur",
+							"Ymir",
+							"Jörmungandr"
+						]
+					},
+					{
+						"correct": "6",
+						"difficulty": "Hard",
+						"explanation": "The axe reaches Level 6 after completing the main story and obtaining the final Frozen Flame.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "How many times can the Leviathan Axe be upgraded in the base game?",
+						"wrong": [
+							"5",
+							"8",
+							"10"
+						]
+					},
+					{
+						"correct": "A spinning whirlwind",
+						"difficulty": "Hard",
+						"explanation": "Njord's Tempest is a light runic attack that makes Kratos spin rapidly, hitting all nearby enemies.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "The Runic Attack 'Njord's Tempest' causes Kratos to perform what movement?",
+						"wrong": [
+							"A leap into the air",
+							"A shield bash",
+							"A ground slam"
+						]
+					},
+					{
+						"correct": "The gold etchings and runes expand",
+						"difficulty": "Hard",
+						"explanation": "As the axe levels up, more intricate golden Norse runes and patterns appear on the metal.",
+						"image_url": "https://skillcheckgame.com/assets/images/leviathan_axe.webp",
+						"question": "What visual detail changes on the axe's blade as it is upgraded by Brok and Sindri?",
+						"wrong": [
+							"The blade turns blue",
+							"It grows a second edge",
+							"The handle gets longer"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_leviathan_axe",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Leviathan Axe",
+				"lore_desc": "A masterfully forged axe imbued with the power of ice, gifted to Kratos by his late wife.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Faye's Legacy",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Relic",
+					"Frost"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "He is just a severed head",
+						"difficulty": "Easy",
+						"explanation": "Kratos cuts off Mimir's head so he can be revived and act as a guide.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "What is the most unusual physical characteristic of this character for most of the game?",
+						"wrong": [
+							"He has three arms",
+							"He is made of wood",
+							"He has no eyes"
+						]
+					},
+					{
+						"correct": "On his belt",
+						"difficulty": "Easy",
+						"explanation": "Mimir hangs from the back of Kratos's belt, allowing him to talk to the pair as they walk.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "Where does Kratos carry this character while they are exploring the world?",
+						"wrong": [
+							"In a backpack",
+							"In his hand",
+							"On his shoulder"
+						]
+					},
+					{
+						"correct": "The Smartest Man Alive",
+						"difficulty": "Easy",
+						"explanation": "Mimir boasts of his intellect and history with the Aesir gods.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "What title does this character frequently use to refer to himself?",
+						"wrong": [
+							"The God of Wisdom",
+							"The All-Knower",
+							"The Grand Sage"
+						]
+					},
+					{
+						"correct": "Freya",
+						"difficulty": "Easy",
+						"explanation": "Freya used Vanir magic to reanimate his head.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "Who revived this character after Kratos decapitated him?",
+						"wrong": [
+							"Brok",
+							"Atreus",
+							"Odin"
+						]
+					},
+					{
+						"correct": "The peak of the mountain in Midgard",
+						"difficulty": "Easy",
+						"explanation": "Mimir was fused into an unbreakable tree at the highest peak in Midgard.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "In what location did Kratos first find this character imprisoned?",
+						"wrong": [
+							"Helheim",
+							"The Lake of Nine",
+							"Alfheim"
+						]
+					},
+					{
+						"correct": "Tells stories and lore",
+						"difficulty": "Medium",
+						"explanation": "Mimir's boat stories provide deep background on Norse mythology and the history of the Aesir.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "What does this character do to entertain the player while they are rowing the boat?",
+						"wrong": [
+							"Sings songs",
+							"Whistles",
+							"Plays a flute"
+						]
+					},
+					{
+						"correct": "Bifrost crystals",
+						"difficulty": "Medium",
+						"explanation": "The Giants gave him Bifrost eyes to help bridge the realms.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "What replaced this character's real eyes, allowing him to see things others cannot?",
+						"wrong": [
+							"Golden gems",
+							"Magic glass",
+							"Nothing, he is blind"
+						]
+					},
+					{
+						"correct": "Odin's advisor",
+						"difficulty": "Medium",
+						"explanation": "Mimir was the All-Father's ambassador and advisor before Odin grew paranoid and tortured him.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "Before being imprisoned by Odin, what was this character's job?",
+						"wrong": [
+							"God of War",
+							"A blacksmith",
+							"The King of Elves"
+						]
+					},
+					{
+						"correct": "None, Odin took it",
+						"difficulty": "Medium",
+						"explanation": "Odin took Mimir's left eye to prevent him from traveling to Jotunheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "What is the name of the goddess who took this character's missing eye?",
+						"wrong": [
+							"Freya",
+							"Sif",
+							"Sigrun"
+						]
+					},
+					{
+						"correct": "Scottish/Celtic folklore",
+						"difficulty": "Medium",
+						"explanation": "Mimir mentions being a 'Puck' from a distant land, implying he is the character from Shakespeare's Midsummer Night's Dream.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "What is this character's actual origin, hinted at by his accent and certain stories?",
+						"wrong": [
+							"Greek mythology",
+							"Egyptian mythology",
+							"Midgardian mortal"
+						]
+					},
+					{
+						"correct": "The World Serpent",
+						"difficulty": "Hard",
+						"explanation": "Jörmungandr had swallowed a statue of Thor that contained Mimir's eye.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "Which specific animal's stomach does Kratos have to enter to retrieve Mimir's missing eye?",
+						"wrong": [
+							"A dragon",
+							"A giant wolf",
+							"The Kraken"
+						]
+					},
+					{
+						"correct": "There is no specific name, just 'the tree'",
+						"difficulty": "Hard",
+						"explanation": "While it is a part of the world's roots, the tree itself isn't given a legendary name like Yggdrasil in the game's dialogue.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "What is the name of the tree Mimir was imprisoned in, which Odin enchanted to be indestructible?",
+						"wrong": [
+							"Yggdrasil",
+							"The World Tree",
+							"The Heart of Midgard"
+						]
+					},
+					{
+						"correct": "Jotunheim",
+						"difficulty": "Hard",
+						"explanation": "He uses his Bifrost eyes and knowledge of the Giants to help Kratos find the final path.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "Mimir is the only character who knows the secret to traveling to which 'hidden' realm?",
+						"wrong": [
+							"Asgard",
+							"Vanaheim",
+							"Muspelheim"
+						]
+					},
+					{
+						"correct": "Brother",
+						"difficulty": "Hard",
+						"explanation": "Mimir affectionately refers to Kratos as 'Brother' throughout their journey.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "What nickname does Mimir often call Kratos?",
+						"wrong": [
+							"Spartan",
+							"Ghost",
+							"General"
+						]
+					},
+					{
+						"correct": "Tyr (though a god, he worked with them)",
+						"difficulty": "Hard",
+						"explanation": "Mimir and Tyr worked closely together to maintain peace between the Giants and the Aesir.",
+						"image_url": "https://skillcheckgame.com/assets/images/mimir.webp",
+						"question": "In the game's lore, who was Mimir's closest friend among the Giants?",
+						"wrong": [
+							"Faye",
+							"Thamur",
+							"Ymir"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_mimir",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Mimir",
+				"lore_desc": "An advisor to Odin who was imprisoned in a tree for 109 years before Kratos freed him by cutting off his head.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Smartest Man Alive",
+			"profiler": {
+				"vibe_tags": [
+					"Guide",
+					"Character",
+					"Knowledge"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Brok's skin turned blue from years of handling silver with his bare hands.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What color is this character's skin?",
+						"wrong": [
+							"Grey",
+							"Green",
+							"Red"
+						]
+					},
+					{
+						"correct": "Blacksmith",
+						"difficulty": "Easy",
+						"explanation": "He is a master smith who upgrades Kratos's armor and weapons.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What is this character's profession?",
+						"wrong": [
+							"Farmer",
+							"Warrior",
+							"King"
+						]
+					},
+					{
+						"correct": "Sindri",
+						"difficulty": "Easy",
+						"explanation": "Brok and Sindri are the 'Huldra Brothers' who worked together before a falling out.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "Which relative of this character is his rival blacksmith and brother?",
+						"wrong": [
+							"Dvalin",
+							"Eitri",
+							"Andvari"
+						]
+					},
+					{
+						"correct": "A beast of burden (Fucking Gratitude)",
+						"difficulty": "Easy",
+						"explanation": "Brok has a strange creature he calls 'Gratitude' (among other colorful names).",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What animal does this character use to pull his mobile smithing shop?",
+						"wrong": [
+							"A horse",
+							"A wolf",
+							"A dragon"
+						]
+					},
+					{
+						"correct": "Dwarf",
+						"difficulty": "Easy",
+						"explanation": "In God of War, Dwarves are master craftsmen living in the Norse realms.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "This character is a member of which mythological race?",
+						"wrong": [
+							"Elf",
+							"Giant",
+							"Troll"
+						]
+					},
+					{
+						"correct": "They argued over who was the better smith",
+						"difficulty": "Medium",
+						"explanation": "The brothers fought over whose contribution to Mjolnir was superior and split their brand in half.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What is the reason Brok and his brother split up their business for most of the game?",
+						"wrong": [
+							"One of them stole money",
+							"They lived in different realms",
+							"A war separated them"
+						]
+					},
+					{
+						"correct": "The Huldra Mark",
+						"difficulty": "Medium",
+						"explanation": "Each brother only had half of the Huldra brand until they reconciled.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What is the name of the brand mark used by the brothers, which they eventually reunite?",
+						"wrong": [
+							"The Serpent Sigil",
+							"The Aesir Seal",
+							"The Blue Star"
+						]
+					},
+					{
+						"correct": "Tyr's Temple",
+						"difficulty": "Medium",
+						"explanation": "Brok sets up shop in the central hub of the Lake of Nine inside Tyr's Temple.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "Where is Brok's main shop located for the majority of the game?",
+						"wrong": [
+							"The Mountain Peak",
+							"The Witch's Woods",
+							"The Foothills"
+						]
+					},
+					{
+						"correct": "Mjolnir",
+						"difficulty": "Medium",
+						"explanation": "Brok and Sindri forged Mjolnir for Thor, only to realize he would use it for genocide.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "Which legendary hammer did Brok help create, which he now deeply regrets?",
+						"wrong": [
+							"Gungnir",
+							"The Blade of Olympus",
+							"Stormbreaker"
+						]
+					},
+					{
+						"correct": "Stepping through the 'Realm Between Realms'",
+						"difficulty": "Medium",
+						"explanation": "Dwarves have the ability to walk in the space between realms, appearing and disappearing at will.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What is unique about the way Dwarves like Brok travel between locations instantly?",
+						"wrong": [
+							"Flying on ravens",
+							"Teleportation spells",
+							"Underground tunnels"
+						]
+					},
+					{
+						"correct": "Andvari's Soul",
+						"difficulty": "Hard",
+						"explanation": "The quest involves a ring containing the soul of the alchemist Andvari.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What does Brok ask Kratos to retrieve from a 'Soul Eater' in one of his side quests?",
+						"wrong": [
+							"A magic hammer",
+							"A blue diamond",
+							"His brother's tools"
+						]
+					},
+					{
+						"correct": "Svartalfheim",
+						"difficulty": "Hard",
+						"explanation": "The Huldra brothers are from Svartalfheim, though it is inaccessible in the 2018 game.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What is the name of the Dwarven realm that Brok and Sindri are originally from?",
+						"wrong": [
+							"Nidavellir",
+							"Helheim",
+							"Alfheim"
+						]
+					},
+					{
+						"correct": "Seed",
+						"difficulty": "Hard",
+						"explanation": "Brok often uses the term 'Seed' when talking to or about Atreus.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What does Brok call Atreus, much to the boy's confusion?",
+						"wrong": [
+							"Sprout",
+							"Loki",
+							"Little Man"
+						]
+					},
+					{
+						"correct": "The 'Direction' part",
+						"difficulty": "Hard",
+						"explanation": "Sindri reveals later that when he revived Brok, he couldn't find all the pieces of his soul.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "According to Sindri, what part of Brok's soul is missing, which explains his personality?",
+						"wrong": [
+							"The 'Kindness' part",
+							"The 'Knowledge' part",
+							"The 'Patience' part"
+						]
+					},
+					{
+						"correct": "Blades of Chaos",
+						"difficulty": "Hard",
+						"explanation": "While he works on both, his mastery is required to reach the final level of the Blades.",
+						"image_url": "https://skillcheckgame.com/assets/images/brok.webp",
+						"question": "What weapon does Brok help Kratos 'perfect' at the very end of the game's upgrade path?",
+						"wrong": [
+							"Leviathan Axe",
+							"Talon Bow",
+							"Guardian Shield"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_brok",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Brok",
+				"lore_desc": "One of the legendary Huldra brothers, a master smith with blue skin and a very foul mouth.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Blue Smith",
+			"profiler": {
+				"vibe_tags": [
+					"Merchant",
+					"Blacksmith",
+					"Dwarf"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "He is a germaphobe",
+						"difficulty": "Easy",
+						"explanation": "Sindri is terrified of dirt and 'tiny monsters' (bacteria) that live on things.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What is this character's most notable personality quirk or phobia?",
+						"wrong": [
+							"He is afraid of the dark",
+							"He hates dogs",
+							"He is scared of heights"
+						]
+					},
+					{
+						"correct": "Mistletoe Arrows",
+						"difficulty": "Easy",
+						"explanation": "Sindri provides the mistletoe arrows as a gift, unknowingly giving them the weapon to defeat Baldur.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What item does this character give Atreus that is supposedly 'harmless' but actually breaks Baldur's curse?",
+						"wrong": [
+							"Light Arrows",
+							"Shock Arrows",
+							"Fire Arrows"
+						]
+					},
+					{
+						"correct": "Brok",
+						"difficulty": "Easy",
+						"explanation": "Sindri and Brok are the legendary Huldra brothers.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "Which other blacksmith is this character's brother?",
+						"wrong": [
+							"Dvalin",
+							"Eitri",
+							"Andvari"
+						]
+					},
+					{
+						"correct": "His tools or gloves",
+						"difficulty": "Easy",
+						"explanation": "He is visibly repulsed when Kratos hands him blood-stained armor or weapons.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What does this character often use to handle dirty items Kratos hands to him?",
+						"wrong": [
+							"Magic tongs",
+							"A robot arm",
+							"A wet rag"
+						]
+					},
+					{
+						"correct": "Gold/Yellow",
+						"difficulty": "Easy",
+						"explanation": "Sindri's outfit is much cleaner and more golden than Brok's, reflecting his personality.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What is the primary color of the armor this character wears?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Little beasties",
+						"difficulty": "Medium",
+						"explanation": "He describes bacteria as 'little beasties' that cover everything in the world.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What does Sindri call the microorganisms he believes cause disease?",
+						"wrong": [
+							"Germs",
+							"Invisible trolls",
+							"Magic dust"
+						]
+					},
+					{
+						"correct": "Ivaldi's Mist",
+						"difficulty": "Medium",
+						"explanation": "Sindri is obsessed with the armor found in Niflheim, created by the craftsman Ivaldi.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "Which material does Sindri help Kratos find to build a suit of armor that resists the elements?",
+						"wrong": [
+							"Dragon Scales",
+							"Tyr's Steel",
+							"Giant's Heart"
+						]
+					},
+					{
+						"correct": "The Foothills",
+						"difficulty": "Medium",
+						"explanation": "They first meet him in the Foothills, where he is struggling with a dragon (Hraezlyr).",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "Where do Kratos and Atreus first encounter Sindri in the game?",
+						"wrong": [
+							"The Lake of Nine",
+							"Alfheim",
+							"The Mountain Peak"
+						]
+					},
+					{
+						"correct": "Stepping into the Realm Between Realms",
+						"difficulty": "Medium",
+						"explanation": "Like Brok, he can navigate the space between realms, which he uses to avoid being touched by anyone.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What special ability allows Sindri to disappear and reappear in different locations?",
+						"wrong": [
+							"Invisible potions",
+							"Odin's ravens",
+							"Ancient Dwarven portals"
+						]
+					},
+					{
+						"correct": "The quality of Mjolnir",
+						"difficulty": "Medium",
+						"explanation": "They disagreed on whether the 'unbalanced' handle of Mjolnir was a flaw or a feature.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What was the cause of the falling out between Sindri and his brother?",
+						"wrong": [
+							"A stolen treasure",
+							"A woman",
+							"A lost bet"
+						]
+					},
+					{
+						"correct": "Hraezlyr",
+						"difficulty": "Hard",
+						"explanation": "Hraezlyr is the lightning dragon that terrorizes the mountain foothills.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What specific dragon is Sindri hiding from when Kratos first meets him?",
+						"wrong": [
+							"Fafnir",
+							"Reginn",
+							"Dagsetr"
+						]
+					},
+					{
+						"correct": "A whetstone",
+						"difficulty": "Hard",
+						"explanation": "He seeks a special whetstone to sharpen his tools and refine his craft.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What does Sindri ask Kratos to retrieve from Fafnir's Storeroom?",
+						"wrong": [
+							"A golden apple",
+							"A magic hammer",
+							"A dragon's tooth"
+						]
+					},
+					{
+						"correct": "Atreus",
+						"difficulty": "Hard",
+						"explanation": "When Atreus falls ill, Sindri helps Kratos identify what is needed from Helheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "Which character does Sindri help 'cure' by providing information on the ingredients for a medicine?",
+						"wrong": [
+							"Mimir",
+							"Freya",
+							"Brok"
+						]
+					},
+					{
+						"correct": "Sindri's Royal Dwarven Armor",
+						"difficulty": "Hard",
+						"explanation": "This set is one of the best in the game, providing high Luck and Cooldown stats.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What is the name of the legendary armor set Sindri can craft if given 'Sovereign Wood' and 'Niflheim Alloy'?",
+						"wrong": [
+							"Golden Dwarf Armor",
+							"Ivaldi's Cursed Plate",
+							"Valkyrie Guard"
+						]
+					},
+					{
+						"correct": "They forge a key to the Giants' realm",
+						"difficulty": "Hard",
+						"explanation": "The brothers reunite their brand to help Kratos reach the final part of his journey.",
+						"image_url": "https://skillcheckgame.com/assets/images/sindri.webp",
+						"question": "What does Sindri do when he eventually reconciles with Brok?",
+						"wrong": [
+							"They build a new temple",
+							"They hug",
+							"They leave Midgard"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_sindri",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Sindri",
+				"lore_desc": "Brok's brother and fellow master smith, who is obsessed with cleanliness and the 'invisible monsters' found on dirty objects.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Timid Smith",
+			"profiler": {
+				"vibe_tags": [
+					"Merchant",
+					"Blacksmith",
+					"Dwarf"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Witch of the Woods",
+						"difficulty": "Easy",
+						"explanation": "She lives in a house built under a giant turtle and hides her name from Kratos initially.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "By what title is this character known before her true identity as a goddess is revealed?",
+						"wrong": [
+							"The Lady of the Lake",
+							"The Forest Spirit",
+							"The Hermit"
+						]
+					},
+					{
+						"correct": "A turtle",
+						"difficulty": "Easy",
+						"explanation": "The 'Chaurli' is a giant turtle whose shell serves as the foundation for Freya's house.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "What massive animal lives on top of this character's home?",
+						"wrong": [
+							"An elephant",
+							"A dragon",
+							"A whale"
+						]
+					},
+					{
+						"correct": "Baldur",
+						"difficulty": "Easy",
+						"explanation": "Her obsession with Baldur's safety led to the curse that fueled his hatred for her.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "Which character is this goddess's son, whom she tried to protect at all costs?",
+						"wrong": [
+							"Thor",
+							"Magni",
+							"Modi"
+						]
+					},
+					{
+						"correct": "Odin",
+						"difficulty": "Easy",
+						"explanation": "She was married to Odin to seal a peace treaty between the Aesir and Vanir gods.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "This character was once married to which major Norse god?",
+						"wrong": [
+							"Tyr",
+							"Thor",
+							"Baldur"
+						]
+					},
+					{
+						"correct": "Vanir Magic (Seidr)",
+						"difficulty": "Easy",
+						"explanation": "Freya is the most powerful practitioner of Seidr magic in the realms.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "What type of magic is this character a master of?",
+						"wrong": [
+							"Frost Magic",
+							"Greek Magic",
+							"Giant Magic"
+						]
+					},
+					{
+						"correct": "She cannot leave Midgard",
+						"difficulty": "Medium",
+						"explanation": "Odin cursed her so she could not harm any living thing or leave the realm of Midgard.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "What physical restriction did Odin place on this character as punishment for leaving him?",
+						"wrong": [
+							"She cannot speak",
+							"She cannot use magic",
+							"She cannot see"
+						]
+					},
+					{
+						"correct": "Queen of the Valkyries",
+						"difficulty": "Medium",
+						"explanation": "Before Sigrun, Freya was the leader of the Valkyries.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "What was this character's former rank among the winged warriors of Valhalla?",
+						"wrong": [
+							"Captain of the Guard",
+							"Soul Reaper",
+							"Odin's Hand"
+						]
+					},
+					{
+						"correct": "Vanir Magic and spit",
+						"difficulty": "Medium",
+						"explanation": "She performs a ritual that involves ancient chants to bring Mimir back to a living state.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "What does this character use to revive Mimir's severed head?",
+						"wrong": [
+							"The Light of Alfheim",
+							"Giant's Blood",
+							"A magic potion"
+						]
+					},
+					{
+						"correct": "Chaurli",
+						"difficulty": "Medium",
+						"explanation": "Atreus eventually learns the turtle's name is Chaurli.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "What is the name of the turtle that Freya lives under?",
+						"wrong": [
+							"Hildisvini",
+							"Thamur",
+							"Fenrir"
+						]
+					},
+					{
+						"correct": "Helheim",
+						"difficulty": "Medium",
+						"explanation": "She needs the heart of the Bridge Keeper in Helheim to save Atreus.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "When Atreus is sick, Freya tells Kratos he must go to which realm to find a cure?",
+						"wrong": [
+							"Alfheim",
+							"Muspelheim",
+							"Niflheim"
+						]
+					},
+					{
+						"correct": "A boar",
+						"difficulty": "Hard",
+						"explanation": "Atreus shoots a boar that turns out to be Freya's friend, Hildisvini, in disguise.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "What animal does Freya transform her friend Hildisvini into during the start of the game?",
+						"wrong": [
+							"A wolf",
+							"A hawk",
+							"A bear"
+						]
+					},
+					{
+						"correct": "Her Valkyrie wings",
+						"difficulty": "Hard",
+						"explanation": "Odin magically removed her wings, preventing her from fighting or returning to her warrior roots.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "Which specific body part did Odin 'steal' from Freya, which stripped her of her warrior spirit?",
+						"wrong": [
+							"Her heart",
+							"Her eyes",
+							"Her voice"
+						]
+					},
+					{
+						"correct": "She is willing to die so her son can live",
+						"difficulty": "Hard",
+						"explanation": "Despite his hatred for her, she loves Baldur so much she would let him murder her.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "Why does Freya stop the fight between Kratos and Baldur at the end of the game?",
+						"wrong": [
+							"She wants to kill Kratos herself",
+							"She wants to save Odin",
+							"She wants to rule Midgard"
+						]
+					},
+					{
+						"correct": "Rain every agony upon him",
+						"difficulty": "Hard",
+						"explanation": "Freya is consumed by grief and rage, promising to take everything from Kratos.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "After Baldur's death, what does Freya vow to do to Kratos?",
+						"wrong": [
+							"Forgive him",
+							"Exile him",
+							"Help him find Jotunheim"
+						]
+					},
+					{
+						"correct": "There is no specific name mentioned, but it is in her garden",
+						"difficulty": "Hard",
+						"explanation": "She sends Kratos and Atreus into her garden to pick herbs, but the specific flowers aren't named lore-items like the frost phantom.",
+						"image_url": "https://skillcheckgame.com/assets/images/freya.webp",
+						"question": "What is the name of the flower Freya uses to heal the boar early in the game?",
+						"wrong": [
+							"Kingsroot",
+							"Nifl-flower",
+							"Yggdrasil Bloom"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_freya",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Freya",
+				"lore_desc": "The former Queen of the Valkyries and a powerful Vanir goddess who lives in seclusion within the Wildwoods.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Witch of the Woods",
+			"profiler": {
+				"vibe_tags": [
+					"Goddess",
+					"Magic",
+					"Vanir"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The World Serpent",
+						"difficulty": "Easy",
+						"explanation": "Jörmungandr is known as the World Serpent because his body is said to wrap around Midgard.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "What is the more common name for this massive creature?",
+						"wrong": [
+							"The Lake Dragon",
+							"The Earth Worm",
+							"The Great Eel"
+						]
+					},
+					{
+						"correct": "The Lake of Nine",
+						"difficulty": "Easy",
+						"explanation": "He sleeps in the Lake of Nine, and his movements cause the water levels to rise and fall.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "In which body of water does this creature reside for most of the game?",
+						"wrong": [
+							"The Sea of Souls",
+							"The River Styx",
+							"The Frozen Void"
+						]
+					},
+					{
+						"correct": "Mimir",
+						"difficulty": "Easy",
+						"explanation": "Mimir knows the ancient tongue of the Giants and acts as a translator.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "Who is the only character capable of speaking directly to the Serpent?",
+						"wrong": [
+							"Kratos",
+							"Baldur",
+							"Brok"
+						]
+					},
+					{
+						"correct": "By moving and lowering the water level",
+						"difficulty": "Easy",
+						"explanation": "When the Serpent moves, the water in the Lake of Nine drops, revealing new shores and secrets.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "How does this creature help Kratos and Atreus reach new areas in Midgard?",
+						"wrong": [
+							"By carrying them on his back",
+							"By blowing them with air",
+							"By swallowing them"
+						]
+					},
+					{
+						"correct": "Thor",
+						"difficulty": "Easy",
+						"explanation": "Thor and Jörmungandr are destined to kill each other during Ragnarok.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "Which god is the sworn enemy of the World Serpent according to prophecy?",
+						"wrong": [
+							"Odin",
+							"Baldur",
+							"Tyr"
+						]
+					},
+					{
+						"correct": "The Serpent is from the future",
+						"difficulty": "Medium",
+						"explanation": "In mythology, Loki (Atreus) is the father of the Serpent. The Serpent was sent back in time during a battle with Thor.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "According to Mimir, why does the Serpent say Atreus looks 'familiar' to him?",
+						"wrong": [
+							"Atreus is a clone",
+							"He met Atreus's grandfather",
+							"They are the same person"
+						]
+					},
+					{
+						"correct": "The Leviathan Axe",
+						"difficulty": "Medium",
+						"explanation": "The Serpent bites the axe and returns it, adding 'Eitri's Imbue' (Venom) to the weapon.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "What object does the Serpent 'imbue' with his venom when he first meets Kratos?",
+						"wrong": [
+							"Kratos's shield",
+							"Atreus's bow",
+							"A magic crystal"
+						]
+					},
+					{
+						"correct": "The Gjallarhorn (or just the Serpent Horn)",
+						"difficulty": "Medium",
+						"explanation": "A massive horn located in the center of the Lake of Nine is used to summon him.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "What is the name of the horn used to call the World Serpent?",
+						"wrong": [
+							"The Horn of Plenty",
+							"The Echo Horn",
+							"The Dragon Whistle"
+						]
+					},
+					{
+						"correct": "A statue of Thor",
+						"difficulty": "Medium",
+						"explanation": "The Serpent swallowed a statue containing Mimir's eye, requiring Kratos to boat into his stomach.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "What does the Serpent swallow late in the game that Kratos must go inside him to retrieve?",
+						"wrong": [
+							"A whole boat",
+							"The Bifrost",
+							"A Giant's heart"
+						]
+					},
+					{
+						"correct": "Extreme hatred",
+						"difficulty": "Medium",
+						"explanation": "The Serpent and Thor have a blood feud that spans across time.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "What is the Serpent's reaction to the Aesir gods, particularly Thor?",
+						"wrong": [
+							"Fear",
+							"Indifference",
+							"Respect"
+						]
+					},
+					{
+						"correct": "His battle with Thor at Ragnarok",
+						"difficulty": "Hard",
+						"explanation": "Thor hit the Serpent so hard during Ragnarok that he splintered the World Tree and was sent back in time.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "According to lore, what event caused the Serpent to appear in the Lake of Nine suddenly?",
+						"wrong": [
+							"He was born there",
+							"A magic spell",
+							"He fell from the sky"
+						]
+					},
+					{
+						"correct": "He attacks the reanimated Giant corpse",
+						"difficulty": "Hard",
+						"explanation": "Atreus calls the Serpent to fight off the reanimated corpse of Thamur the Giant.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "What does the Serpent do during the final battle against Baldur?",
+						"wrong": [
+							"He eats Baldur",
+							"He freezes the lake",
+							"He stays asleep"
+						]
+					},
+					{
+						"correct": "Once",
+						"difficulty": "Hard",
+						"explanation": "Only one long blast is needed to wake the beast and bring him to the temple.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "How many times do you have to blow the horn to talk to the Serpent for the first time?",
+						"wrong": [
+							"Three times",
+							"Twice",
+							"Five times"
+						]
+					},
+					{
+						"correct": "The person who called him while Atreus was sick",
+						"difficulty": "Hard",
+						"explanation": "A mysterious figure blows the horn while Kratos is taking Atreus to Freya, and their identity remains a secret.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "Mimir mentions that the Serpent's language is 'dead'. Who is the only other person likely to know it?",
+						"wrong": [
+							"Odin",
+							"Thor",
+							"Tyr"
+						]
+					},
+					{
+						"correct": "He is knocked out/injured",
+						"difficulty": "Hard",
+						"explanation": "Baldur punches the Serpent repeatedly from inside, eventually knocking the massive creature out.",
+						"image_url": "https://skillcheckgame.com/assets/images/jormungandr.webp",
+						"question": "What happens to the Serpent after the battle with Thamur and Baldur?",
+						"wrong": [
+							"He dies",
+							"He leaves Midgard",
+							"He eats the temple"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_jormungandr",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Jormungandr",
+				"lore_desc": "A Giant so large that he encircles the world, currently resting in the Lake of Nine in Midgard.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The World Serpent",
+			"profiler": {
+				"vibe_tags": [
+					"Creature",
+					"Giant",
+					"Lake"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "To free their spirits",
+						"difficulty": "Easy",
+						"explanation": "Defeating their physical bodies allows their spirits to return to Valhalla.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "What is the primary goal of defeating these optional bosses?",
+						"wrong": [
+							"To steal their gold",
+							"To take their wings",
+							"To become their king"
+						]
+					},
+					{
+						"correct": "Hidden Chambers of Odin",
+						"difficulty": "Easy",
+						"explanation": "They are locked away in secret chambers that require a magic chisel to open.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "Where are most of these characters found throughout the realms?",
+						"wrong": [
+							"In the middle of the woods",
+							"At the top of mountains",
+							"Inside the World Serpent"
+						]
+					},
+					{
+						"correct": "Sigrun",
+						"difficulty": "Easy",
+						"explanation": "Sigrun is the final Valkyrie boss, fought only after the other eight are defeated.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "Who is the 'Queen' of this group and the hardest boss in the 2018 game?",
+						"wrong": [
+							"Freya",
+							"Gunnr",
+							"Eir"
+						]
+					},
+					{
+						"correct": "Their helmet",
+						"difficulty": "Easy",
+						"explanation": "You must place their helmets on the thrones in the Council of Valkyries.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "What distinctive armor part do you collect from each defeated Valkyrie?",
+						"wrong": [
+							"Their boots",
+							"Their breastplate",
+							"Their sword"
+						]
+					},
+					{
+						"correct": "Freya",
+						"difficulty": "Easy",
+						"explanation": "Freya led the Valkyries until Odin stripped her of her wings.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "Who was the original Queen of the Valkyries before she was exiled?",
+						"wrong": [
+							"Sigrun",
+							"Sif",
+							"Hildr"
+						]
+					},
+					{
+						"correct": "Valhalla stomp",
+						"difficulty": "Medium",
+						"explanation": "The 'Valhalla' stomp is a high-damage move where they drop directly onto Kratos's neck.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "Which of these is a notorious 'unblockable' move used by Valkyries that involves them jumping into the air?",
+						"wrong": [
+							"Axe throw",
+							"Shield bash",
+							"Snake bite"
+						]
+					},
+					{
+						"correct": "Odin cursed them into physical forms",
+						"difficulty": "Medium",
+						"explanation": "Odin used a curse to bind them to physical bodies, which eventually drove them mad.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "What happened to the Valkyries that caused them to become hostile?",
+						"wrong": [
+							"They went insane from hunger",
+							"They were poisoned by Hel",
+							"They joined the Giants"
+						]
+					},
+					{
+						"correct": "8",
+						"difficulty": "Medium",
+						"explanation": "There are eight Valkyries hidden across the various realms.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "How many standard Valkyries must be defeated before you can challenge the Queen?",
+						"wrong": [
+							"6",
+							"9",
+							"12"
+						]
+					},
+					{
+						"correct": "Muspelheim",
+						"difficulty": "Medium",
+						"explanation": "Gondul is the boss at the end of the trials in the fire realm, Muspelheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "In which realm can you find the Valkyrie named Gondul?",
+						"wrong": [
+							"Niflheim",
+							"Alfheim",
+							"Helheim"
+						]
+					},
+					{
+						"correct": "To bring honorable dead to Valhalla",
+						"difficulty": "Medium",
+						"explanation": "Their absence is why the realms are filled with Hel-walkers—no one is taking the souls away.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "What is the primary function of the Valkyries in Norse mythology and the game's lore?",
+						"wrong": [
+							"To guard the World Tree",
+							"To hunt Giants",
+							"To forge weapons"
+						]
+					},
+					{
+						"correct": "Hildr",
+						"difficulty": "Hard",
+						"explanation": "Hildr is located at the back of Ivaldi's Workshop in Niflheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "Which Valkyrie is found in the misty maze of Niflheim?",
+						"wrong": [
+							"Rota",
+							"Olrun",
+							"Kara"
+						]
+					},
+					{
+						"correct": "Council of Valkyries",
+						"difficulty": "Hard",
+						"explanation": "The Council is located north of the Lake of Nine.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "What is the name of the area where you must place the helmets to summon the Queen?",
+						"wrong": [
+							"Throne of Souls",
+							"Odin's Judgment",
+							"The Winged Circle"
+						]
+					},
+					{
+						"correct": "All of them",
+						"difficulty": "Hard",
+						"explanation": "Sigrun's difficulty comes from her using almost every move from the previous eight bosses.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "Sigrun, the Queen, uses the abilities of how many other Valkyries?",
+						"wrong": [
+							"Only 3",
+							"Only the ones from Midgard",
+							"None, she has unique moves"
+						]
+					},
+					{
+						"correct": "Silver/Metal",
+						"difficulty": "Hard",
+						"explanation": "Their wings are made of a sharp, metallic material that they fold in front of themselves.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "What color is the 'wing' shield the Valkyries use to block Kratos's attacks?",
+						"wrong": [
+							"Gold",
+							"Feathered white",
+							"Glowing blue"
+						]
+					},
+					{
+						"correct": "Kara",
+						"difficulty": "Hard",
+						"explanation": "Kara is unique because she summons waves of Draugr to assist her during the boss fight.",
+						"image_url": "https://skillcheckgame.com/assets/images/valkyries.webp",
+						"question": "What is the name of the Valkyrie who specializes in summoning other enemies to fight for her?",
+						"wrong": [
+							"Gunnr",
+							"Geirdriful",
+							"Eir"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_valkyries",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Valkyries",
+				"lore_desc": "Winged warriors of Odin who have been imprisoned in physical form and corrupted, waiting for someone to free them.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Corrupted Sisters",
+			"profiler": {
+				"vibe_tags": [
+					"Enemies",
+					"Boss",
+					"Corrupted"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Lake of Nine",
+						"difficulty": "Easy",
+						"explanation": "The Lake of Nine contains the bridge and the travel room to other realms.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What is the name of the massive lake that serves as the central hub of this realm?",
+						"wrong": [
+							"Sea of Fate",
+							"Odin's Basin",
+							"The Serpent's Well"
+						]
+					},
+					{
+						"correct": "Tyr's Temple",
+						"difficulty": "Easy",
+						"explanation": "Tyr's Temple allows Kratos to travel between the nine realms using the Bifrost.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "Which large structure sits in the middle of the Lake of Nine?",
+						"wrong": [
+							"Odin's Palace",
+							"The Giant's Forge",
+							"The World Tree"
+						]
+					},
+					{
+						"correct": "A boat",
+						"difficulty": "Easy",
+						"explanation": "Kratos and Atreus use a small wooden boat to travel between the shores of Midgard.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What is the primary method of transportation used to navigate the Lake of Nine?",
+						"wrong": [
+							"A horse",
+							"Flying",
+							"Swimming"
+						]
+					},
+					{
+						"correct": "The highest peak",
+						"difficulty": "Easy",
+						"explanation": "They believe the highest peak in the realms is located in Midgard (though they eventually learn otherwise).",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What is the ultimate destination in Midgard for Kratos and Atreus?",
+						"wrong": [
+							"The bottom of the lake",
+							"The center of the forest",
+							"The gates of Asgard"
+						]
+					},
+					{
+						"correct": "Tyr",
+						"difficulty": "Easy",
+						"explanation": "Tyr was a peaceful god of war who traveled to many different cultures.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "Who is the legendary Norse god of war that the central temple in Midgard is dedicated to?",
+						"wrong": [
+							"Thor",
+							"Odin",
+							"Baldur"
+						]
+					},
+					{
+						"correct": "The Black Breath",
+						"difficulty": "Medium",
+						"explanation": "The Black Breath is a dark magic barrier that can only be cleared with the Light of Alfheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What is the name of the 'foul breath' that blocks the path up the mountain early in the game?",
+						"wrong": [
+							"The Hel-Mist",
+							"Odin's Veil",
+							"The Shadow Cloud"
+						]
+					},
+					{
+						"correct": "The water level drops",
+						"difficulty": "Medium",
+						"explanation": "As the World Serpent shifts, the water level drops, revealing more of Midgard's secrets.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What happens to the Lake of Nine as the game progresses?",
+						"wrong": [
+							"The water freezes",
+							"The water turns to blood",
+							"The water evaporates"
+						]
+					},
+					{
+						"correct": "Thamur the Giant",
+						"difficulty": "Medium",
+						"explanation": "Thamur was a giant stonemason who was killed by Thor, and his body now rests in Midgard.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "Which creature's frozen corpse forms a massive landmark in the snowy regions of Midgard?",
+						"wrong": [
+							"Ymir",
+							"Cronos",
+							"The Great Wolf"
+						]
+					},
+					{
+						"correct": "The Wildwoods",
+						"difficulty": "Medium",
+						"explanation": "The Wildwoods were protected by a magical barrier created by Faye.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What is the name of the forest where Kratos and Atreus live at the start of the game?",
+						"wrong": [
+							"The Ironwood",
+							"The Dead Grove",
+							"The Witch's Woods"
+						]
+					},
+					{
+						"correct": "Mystic Gateways",
+						"difficulty": "Medium",
+						"explanation": "Mystic Gateways allow travel through the 'Realm Between Realms' to other gates.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What do you call the magical gateways used to fast-travel within Midgard?",
+						"wrong": [
+							"Realm Portals",
+							"Dwarven Doors",
+							"Star Gates"
+						]
+					},
+					{
+						"correct": "Council of Valkyries",
+						"difficulty": "Hard",
+						"explanation": "The Council of Valkyries is a secluded area with nine thrones north of the lake.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What is the name of the hidden area in Midgard where you fight the Valkyrie Queen?",
+						"wrong": [
+							"The Hidden Throne",
+							"Odin's Sanctum",
+							"The Arena of Souls"
+						]
+					},
+					{
+						"correct": "The Cliffs of the Raven",
+						"difficulty": "Hard",
+						"explanation": "The Volunder Mines are a Dwarven excavation site accessed via the lake.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "Which region of Midgard contains the entrance to the 'Volunder Mines'?",
+						"wrong": [
+							"The Foothills",
+							"The Mountain",
+							"The River Pass"
+						]
+					},
+					{
+						"correct": "To connect the realms and promote peace",
+						"difficulty": "Hard",
+						"explanation": "Tyr built the bridge to facilitate travel and understanding between the nine realms.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What was the original purpose of the bridge in the Lake of Nine, according to Mimir?",
+						"wrong": [
+							"To keep the Serpent in the lake",
+							"To serve as a military outpost",
+							"To celebrate Odin's birth"
+						]
+					},
+					{
+						"correct": "The Sanctuary Grove",
+						"difficulty": "Hard",
+						"explanation": "The Sanctuary Grove is the specific name of the area around Freya's turtle house.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "What is the name of the location in Midgard where you find the body of the 'Magical Boar'?",
+						"wrong": [
+							"The Witch's Woods",
+							"The River Pass",
+							"The Wildwoods"
+						]
+					},
+					{
+						"correct": "4",
+						"difficulty": "Hard",
+						"explanation": "Midgard holds 4 chambers, while the other realms (Alfheim, Helheim, Muspelheim) hold the remaining ones.",
+						"image_url": "https://skillcheckgame.com/assets/images/midgard.webp",
+						"question": "How many 'Hidden Chambers of Odin' are there in the realm of Midgard specifically?",
+						"wrong": [
+							"2",
+							"6",
+							"8"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_midgard",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Midgard",
+				"lore_desc": "The central realm of the Norse world, where the majority of the game's story takes place.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Realm of Men",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Realm",
+					"World"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Light Elves and Dark Elves",
+						"difficulty": "Easy",
+						"explanation": "The Light and Dark Elves have fought for control over the Light of Alfheim for generations.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "Which two groups of elves are fighting over this realm?",
+						"wrong": [
+							"High Elves and Wood Elves",
+							"Aesir and Vanir",
+							"Dwarves and Giants"
+						]
+					},
+					{
+						"correct": "The Light of Alfheim",
+						"difficulty": "Easy",
+						"explanation": "The Light is a massive beam of energy that powers the realm and can dispel dark magic.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What is the primary source of power in this realm that Kratos seeks to clear the Black Breath?",
+						"wrong": [
+							"The Sun of the Elves",
+							"The Eternal Spark",
+							"The Star Shard"
+						]
+					},
+					{
+						"correct": "Hive matter / Tendrils",
+						"difficulty": "Easy",
+						"explanation": "The Dark Elves use a fleshy, pulsing hive substance to block paths and cover the Light.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What substance covers much of the environment in the 'Dark' areas of this realm, created by the Dark Elves?",
+						"wrong": [
+							"Spider webs",
+							"Ice",
+							"Lava"
+						]
+					},
+					{
+						"correct": "An Elven boat",
+						"difficulty": "Easy",
+						"explanation": "They use a specialized boat found in the realm to navigate its lakes.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "How do Kratos and Atreus travel across the waters in Alfheim?",
+						"wrong": [
+							"Swimming",
+							"A magic bridge",
+							"Flying"
+						]
+					},
+					{
+						"correct": "Svartaljofurr",
+						"difficulty": "Easy",
+						"explanation": "Svartaljofurr is the leader of the Dark Elves who tries to prevent Kratos from taking the Light.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What is the name of the winged Dark Elf king that serves as the boss of this realm?",
+						"wrong": [
+							"Alva",
+							"Sigrun",
+							"Baldur"
+						]
+					},
+					{
+						"correct": "It is a cycle of nature",
+						"difficulty": "Medium",
+						"explanation": "Mimir explains that the war is a cycle, and the Dark Elves believe the Light should be contained, not used.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "Why does the war between the elves continue regardless of who wins the Light?",
+						"wrong": [
+							"Odin forces them to fight",
+							"They want to destroy the world",
+							"They are looking for gold"
+						]
+					},
+					{
+						"correct": "The darkness fades and the sky brightens",
+						"difficulty": "Medium",
+						"explanation": "The return of the Light restores the realm's brilliance and allows the Light Elves to return.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What happens to the appearance of the realm once Kratos returns the Light to its temple?",
+						"wrong": [
+							"It turns to gold",
+							"It rains",
+							"The flowers bloom"
+						]
+					},
+					{
+						"correct": "Light Arrows and Crystals",
+						"difficulty": "Medium",
+						"explanation": "After charging his bow in the Light, Atreus can shoot crystals to form light bridges.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What unique puzzle mechanic is introduced in Alfheim involving Atreus's bow?",
+						"wrong": [
+							"Fire Arrows",
+							"Exploding Arrows",
+							"Grapple Arrows"
+						]
+					},
+					{
+						"correct": "He steps into the beam",
+						"difficulty": "Medium",
+						"explanation": "Kratos physically enters the Light of Alfheim to recharge the Bifrost, leaving Atreus alone for what felt like seconds but was much longer.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "How does Kratos enter the heart of the Light?",
+						"wrong": [
+							"He drinks a potion",
+							"He uses a portal",
+							"He flies into it"
+						]
+					},
+					{
+						"correct": "Memories of Faye and his past",
+						"difficulty": "Medium",
+						"explanation": "The Light shows him flashes of Faye and his journey, representing his internal struggles.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "While Kratos is inside the Light, what does he see in his visions?",
+						"wrong": [
+							"The future of Ragnarok",
+							"A battle with Odin",
+							"His son's death"
+						]
+					},
+					{
+						"correct": "The Temple of Light",
+						"difficulty": "Hard",
+						"explanation": "The Temple of Light is the primary architectural marvel of the realm.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What is the name of the central structure in Alfheim that houses the Light?",
+						"wrong": [
+							"The Elven Spire",
+							"The Bifrost Tower",
+							"The Hive"
+						]
+					},
+					{
+						"correct": "He tells them they have made a grave mistake",
+						"difficulty": "Hard",
+						"explanation": "He warns that by returning the Light to the Light Elves, they have unwittingly caused more harm.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What is the Dark Elf king's dying message to Kratos?",
+						"wrong": [
+							"He curses Odin",
+							"He asks for mercy",
+							"He reveals Atreus's name"
+						]
+					},
+					{
+						"correct": "Several hours",
+						"difficulty": "Hard",
+						"explanation": "Time moves differently inside the Light; Atreus had to fight off hundreds of elves alone while waiting.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "How long was Kratos inside the Light from Atreus's perspective?",
+						"wrong": [
+							"A few minutes",
+							"A whole day",
+							"Ten minutes"
+						]
+					},
+					{
+						"correct": "Hidden Chamber of Odin",
+						"difficulty": "Hard",
+						"explanation": "Like most Valkyries, Olrun is hidden in an optional chamber within the realm.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What is the name of the area where you fight the Valkyrie Olrun in Alfheim?",
+						"wrong": [
+							"The Lake of Light",
+							"The Shadow Grove",
+							"The Elven Trench"
+						]
+					},
+					{
+						"correct": "Muspelheim Cipher pieces",
+						"difficulty": "Hard",
+						"explanation": "Chest throughout Alfheim and Midgard contain pieces of the language ciphers for Muspelheim and Niflheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/alfheim.webp",
+						"question": "What item do you find in Alfheim that allows you to translate the cipher for the fire realm?",
+						"wrong": [
+							"The Fire Key",
+							"Surtr's Map",
+							"Flame Runes"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_alfheim",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Alfheim",
+				"lore_desc": "The ancestral home of the Light and Dark Elves, currently locked in a brutal eternal war.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Realm of Light",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Realm",
+					"Elves"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Unbearable cold",
+						"difficulty": "Easy",
+						"explanation": "Unlike the fiery Hell of some religions, the Norse Helheim is a realm of absolute ice.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What is the defining climate of Helheim?",
+						"wrong": [
+							"Extreme heat",
+							"Perpetual rain",
+							"Tornadoes"
+						]
+					},
+					{
+						"correct": "Blades of Chaos",
+						"difficulty": "Easy",
+						"explanation": "The fire of the Blades of Chaos is the only thing that can burn through the Hel-frost.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "Which weapon is Kratos forced to use in Helheim because the Leviathan Axe's frost is ineffective?",
+						"wrong": [
+							"Guardian Shield",
+							"Talon Bow",
+							"Blade of Olympus"
+						]
+					},
+					{
+						"correct": "They wander as Hel-walkers",
+						"difficulty": "Easy",
+						"explanation": "Souls not taken to Valhalla end up as mindless, aggressive Hel-walkers.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What happens to the souls sent to Helheim according to the game's lore?",
+						"wrong": [
+							"They are eaten by dragons",
+							"They turn into gold",
+							"They become stars"
+						]
+					},
+					{
+						"correct": "Hræsvelgr",
+						"difficulty": "Easy",
+						"explanation": "Hræsvelgr is a giant eagle that sits at the edge of the world and creates the wind with its wings.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "Who is the giant bird-like creature seen looming in the background of Helheim?",
+						"wrong": [
+							"Fenrir",
+							"Eagle of Souls",
+							"Odin's Raven"
+						]
+					},
+					{
+						"correct": "Gjallarbrú",
+						"difficulty": "Easy",
+						"explanation": "Gjallarbrú is the golden bridge that leads further into the heart of Helheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What is the Bridge of the Damned called in this realm?",
+						"wrong": [
+							"The Bifrost",
+							"The River Pass",
+							"The Frost Bridge"
+						]
+					},
+					{
+						"correct": "Shows them their greatest regrets or shames",
+						"difficulty": "Medium",
+						"explanation": "Helheim creates illusions of a person's past to torment them, as seen with Kratos and Baldur.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What does the realm of Helheim do to those who look into the visions it creates?",
+						"wrong": [
+							"Turns them to stone",
+							"Makes them fall asleep",
+							"Gives them magic powers"
+						]
+					},
+					{
+						"correct": "Máttugr Helson (The Bridge Keeper)",
+						"difficulty": "Medium",
+						"explanation": "The Bridge Keeper guards the path into the depths of Helheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "Who is the boss Kratos must kill to get a heart for Atreus's medicine?",
+						"wrong": [
+							"Hræsvelgr",
+							"The Hel-King",
+							"Surt"
+						]
+					},
+					{
+						"correct": "The Bridge of the Damned",
+						"difficulty": "Medium",
+						"explanation": "Mimir specifically warns Kratos not to cross the Bridge of the Damned, as there is no coming back.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "Mimir warns Kratos 'Never go to...' where in Helheim?",
+						"wrong": [
+							"The Frozen Lake",
+							"The Bird's Nest",
+							"The Palace of Hel"
+						]
+					},
+					{
+						"correct": "Zeus",
+						"difficulty": "Medium",
+						"explanation": "Kratos sees a massive vision of Zeus, reminding him of the cycle of patricide.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What illusion does Kratos see of his father while in Helheim?",
+						"wrong": [
+							"Ares",
+							"Cronos",
+							"Hercules"
+						]
+					},
+					{
+						"correct": "Winds of Hel",
+						"difficulty": "Medium",
+						"explanation": "The Winds of Hel can be carried on the Blades of Chaos to activate special orbs.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What is the name of the winds you must capture to solve puzzles in this realm?",
+						"wrong": [
+							"Frost Breaths",
+							"Soul Mists",
+							"Gale of the Dead"
+						]
+					},
+					{
+						"correct": "The Hel-Traveler's gate",
+						"difficulty": "Hard",
+						"explanation": "They use a massive ship and heat from the Blades to fly out of the depths.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What kind of 'gate' is found in Helheim that Kratos uses to escape with Atreus on a flying boat?",
+						"wrong": [
+							"A Mystic Gateway",
+							"A Bifrost Portal",
+							"Odin's back door"
+						]
+					},
+					{
+						"correct": "Freya",
+						"difficulty": "Hard",
+						"explanation": "Baldur relives a memory of Freya refusing to break his curse.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "Which character's shadow does Baldur see and interact with in Helheim?",
+						"wrong": [
+							"Odin",
+							"Thor",
+							"Kratos"
+						]
+					},
+					{
+						"correct": "A capture Rune on his blade",
+						"difficulty": "Hard",
+						"explanation": "The Huldra brothers modify Kratos's blades to trap and carry the green energy.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What specific item does Kratos need to 'hold' the Winds of Hel?",
+						"wrong": [
+							"A magic bottle",
+							"A specialized glove",
+							"His bare hands"
+						]
+					},
+					{
+						"correct": "Rota",
+						"difficulty": "Hard",
+						"explanation": "Rota is found in the Hidden Chamber of Odin in Helheim.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "What is the name of the Valkyrie hidden in Helheim?",
+						"wrong": [
+							"Gunnr",
+							"Kara",
+							"Eir"
+						]
+					},
+					{
+						"correct": "Hel",
+						"difficulty": "Hard",
+						"explanation": "Hel is the daughter of Loki and the ruler of the realm, but she does not appear in the 2018 title.",
+						"image_url": "https://skillcheckgame.com/assets/images/helheim.webp",
+						"question": "According to Norse myth, who is the ruler of this realm (though she is not seen in the 2018 game)?",
+						"wrong": [
+							"Odin",
+							"Frigg",
+							"Skadi"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_helheim",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Helheim",
+				"lore_desc": "The frozen, sunless wasteland where those who die an inglorious death are sent for eternity.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Realm of the Dead",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Realm",
+					"Dead"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "The Blades of Chaos are imbued with primordial fire from the Greek underworld.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "Which element do these blades produce to burn enemies?",
+						"wrong": [
+							"Ice",
+							"Lightning",
+							"Poison"
+						]
+					},
+					{
+						"correct": "By chains wrapped around his arms",
+						"difficulty": "Easy",
+						"explanation": "The chains were permanently seared into Kratos's skin as a sign of his oath to Ares.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "How are these blades physically attached to Kratos?",
+						"wrong": [
+							"By magic magnets",
+							"By leather straps",
+							"They are glued to his palms"
+						]
+					},
+					{
+						"correct": "Helheim",
+						"difficulty": "Easy",
+						"explanation": "Helheim's frost is so powerful that only the fire of the Blades can burn through it.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "In which realm are these blades essential because the Leviathan Axe cannot function there?",
+						"wrong": [
+							"Alfheim",
+							"Muspelheim",
+							"Niflheim"
+						]
+					},
+					{
+						"correct": "Ares",
+						"difficulty": "Easy",
+						"explanation": "Ares gave Kratos the blades when the Spartan pledged his life to him.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "Who was the Greek god who originally gave Kratos these blades?",
+						"wrong": [
+							"Zeus",
+							"Hades",
+							"Hephaestus"
+						]
+					},
+					{
+						"correct": "Under the floorboards",
+						"difficulty": "Easy",
+						"explanation": "Kratos buried them under the floor of his house, hoping to never use them again.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "Where does Kratos hide these blades at his home before he is forced to retrieve them?",
+						"wrong": [
+							"In a locked chest",
+							"Behind a waterfall",
+							"In the chimney"
+						]
+					},
+					{
+						"correct": "Chaos Flame",
+						"difficulty": "Medium",
+						"explanation": "Chaos Flames are rare drops from major bosses used to level up the Blades.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "What is the name of the resource needed to upgrade these blades?",
+						"wrong": [
+							"Frozen Flame",
+							"Dragon Heart",
+							"God Blood"
+						]
+					},
+					{
+						"correct": "Athena",
+						"difficulty": "Medium",
+						"explanation": "Athena appears to mock Kratos, calling him a 'monster' regardless of his attempts to change.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "Which character appears as a spectral vision to Kratos when he retrieves the blades?",
+						"wrong": [
+							"Zeus",
+							"Ares",
+							"Faye"
+						]
+					},
+					{
+						"correct": "They can capture and carry the winds",
+						"difficulty": "Medium",
+						"explanation": "The Huldra brothers modify the blades to act as a vessel for carrying Hel's energy.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "What special ability do the blades have in Helheim regarding 'The Winds of Hel'?",
+						"wrong": [
+							"They can freeze the winds",
+							"They can blow the winds away",
+							"They turn the winds into gold"
+						]
+					},
+					{
+						"correct": "5",
+						"difficulty": "Medium",
+						"explanation": "Unlike the Axe which reaches Level 6, the Blades reach Level 5 in the first playthrough.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "What is the maximum level the Blades of Chaos can reach in the base game?",
+						"wrong": [
+							"6",
+							"10",
+							"3"
+						]
+					},
+					{
+						"correct": "Tartarus Rage",
+						"difficulty": "Medium",
+						"explanation": "Tartarus Rage is a heavy runic attack that deals high burn damage in an area.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "What Runic Attack for the blades causes Kratos to slam them into the ground for a huge explosion?",
+						"wrong": [
+							"Hyperion Slam",
+							"Nemean Crush",
+							"Fire of Ares"
+						]
+					},
+					{
+						"correct": "Raging Fire of Muspelheim",
+						"difficulty": "Hard",
+						"explanation": "You must defeat the Valkyrie Gondul in Muspelheim to obtain this final upgrade material.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "Which 'Legendary' item is required to get the final upgrade for the Blades of Chaos?",
+						"wrong": [
+							"Essence of Surt",
+							"Heart of the Valkyrie",
+							"Odin's Coal"
+						]
+					},
+					{
+						"correct": "Hyperion Grapple",
+						"difficulty": "Hard",
+						"explanation": "Hyperion Grapple is a classic move that allows for high mobility and closing the gap.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "What is the name of the 'light' runic attack where Kratos throws one blade and pulls himself toward the enemy?",
+						"wrong": [
+							"Spartan Charge",
+							"Ares' Leap",
+							"Chain Pull"
+						]
+					},
+					{
+						"correct": "Chaotic Rampage",
+						"difficulty": "Hard",
+						"explanation": "Chaotic Rampage allows Kratos to unleash a series of rapid stabs and slashes after a brief pause.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "In the game's skill tree, what is the name of the stance-switch combo for the blades?",
+						"wrong": [
+							"Burning Fists",
+							"Whirlwind Slash",
+							"Hades' Embrace"
+						]
+					},
+					{
+						"correct": "Tartarus",
+						"difficulty": "Hard",
+						"explanation": "They were forged in the foulest depths of Tartarus by Ares himself.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "The blades were created in which specific part of the Greek underworld?",
+						"wrong": [
+							"Elysium",
+							"Asphodel",
+							"The Styx"
+						]
+					},
+					{
+						"correct": "He recognizes their origin and power",
+						"difficulty": "Hard",
+						"explanation": "Mimir instantly knows they are 'blades from another land' and comments on their unique fire magic.",
+						"image_url": "https://skillcheckgame.com/assets/images/blades_of_chaos.webp",
+						"question": "What does Mimir say when he first sees Kratos wielding the Blades of Chaos?",
+						"wrong": [
+							"He asks where he can get some",
+							"He calls them 'ugly'",
+							"He warns they will break"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_blades_of_chaos",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Blades of Chaos",
+				"lore_desc": "Two curved blades forged in the depths of Hades, bound to the user by chains seared onto their forearms.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Shackles of the Past",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Fire",
+					"Relic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Thor",
+						"difficulty": "Easy",
+						"explanation": "Magni is the firstborn son of Thor and a champion of the Aesir.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "Which Norse god is the father of this character?",
+						"wrong": [
+							"Odin",
+							"Baldur",
+							"Tyr"
+						]
+					},
+					{
+						"correct": "A massive greatsword",
+						"difficulty": "Easy",
+						"explanation": "He uses a large sword that he infuses with lightning from his father's lineage.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "What is the primary weapon used by this character in the boss fight?",
+						"wrong": [
+							"A hammer",
+							"A shield",
+							"A spear"
+						]
+					},
+					{
+						"correct": "His brother Modi",
+						"difficulty": "Easy",
+						"explanation": "The brothers Magni and Modi fight Kratos and Atreus as a duo.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "Magni is always seen fighting alongside which other character?",
+						"wrong": [
+							"His father Thor",
+							"His uncle Baldur",
+							"A dragon"
+						]
+					},
+					{
+						"correct": "Lightning",
+						"difficulty": "Easy",
+						"explanation": "As a son of the Thunder God, he has innate control over electricity.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "What elemental power does this character utilize in battle?",
+						"wrong": [
+							"Fire",
+							"Ice",
+							"Poison"
+						]
+					},
+					{
+						"correct": "Kratos kills him with the axe",
+						"difficulty": "Easy",
+						"explanation": "Kratos delivers a fatal blow to Magni's head, which shocks Mimir because Aesir are difficult to kill permanently.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "What happens to this character at the end of his boss fight with Kratos?",
+						"wrong": [
+							"He runs away",
+							"Atreus kills him",
+							"He turns into a bird"
+						]
+					},
+					{
+						"correct": "Lift Mjolnir",
+						"difficulty": "Medium",
+						"explanation": "In mythology, Magni and Modi inherit Mjolnir because of their immense strength.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "According to Norse myth, Magni is the only one strong enough to do what after Ragnarok?",
+						"wrong": [
+							"Kill the World Serpent",
+							"Rule Asgard",
+							"Eat the Sun"
+						]
+					},
+					{
+						"correct": "He was destined to survive Ragnarok",
+						"difficulty": "Medium",
+						"explanation": "Prophecy stated he would survive the end of the world, so Kratos killing him proved that prophecy could be changed.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "Why is the death of this character so significant to the other Aesir gods?",
+						"wrong": [
+							"He was Odin's favorite",
+							"He held the key to Asgard",
+							"He was the only one who could forge metal"
+						]
+					},
+					{
+						"correct": "Thamur's Corpse",
+						"difficulty": "Medium",
+						"explanation": "They fight on the frozen grounds near the tip of the giant stonemason's chisel.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "What is the name of the location where the battle with the brothers takes place?",
+						"wrong": [
+							"Tyr's Temple",
+							"The Mountain Peak",
+							"The Wildwoods"
+						]
+					},
+					{
+						"correct": "He is more confident and favored by Thor",
+						"difficulty": "Medium",
+						"explanation": "Magni is the golden child, while Modi is often belittled by their father.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "How does Magni's personality differ from his brother Modi's?",
+						"wrong": [
+							"He is the coward",
+							"He is much smaller",
+							"He hates fighting"
+						]
+					},
+					{
+						"correct": "Creating a blinding fog",
+						"difficulty": "Medium",
+						"explanation": "They create a circle of fog where the player must block incoming attacks from the shadows.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "What move do the brothers use together to disorient Kratos and Atreus?",
+						"wrong": [
+							"Summoning a dragon",
+							"Turning invisible",
+							"Merging into one giant"
+						]
+					},
+					{
+						"correct": "Jarnsaxa",
+						"difficulty": "Hard",
+						"explanation": "Magni's mother was the giantess Jarnsaxa, not Thor's wife Sif.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "What is the name of Magni's mother in Norse mythology?",
+						"wrong": [
+							"Sif",
+							"Freya",
+							"Frigg"
+						]
+					},
+					{
+						"correct": "A piece of the Giant's Chisel",
+						"difficulty": "Hard",
+						"explanation": "They are guarding the frozen chisel of Thamur.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "Which specific item is Kratos trying to retrieve when Magni and Modi ambush him?",
+						"wrong": [
+							"Mimir's Eye",
+							"The Bifrost",
+							"Faye's ashes"
+						]
+					},
+					{
+						"correct": "He flees in terror",
+						"difficulty": "Hard",
+						"explanation": "Modi is devastated and terrified, running away before Kratos can finish him.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "How does Modi react immediately after Kratos kills Magni?",
+						"wrong": [
+							"He kills Atreus",
+							"He surrenders",
+							"He grows twice his size"
+						]
+					},
+					{
+						"correct": "There isn't one specifically named after them, but you get a 'Frozen Flame'",
+						"difficulty": "Hard",
+						"explanation": "The primary reward for the fight is a Frozen Flame to upgrade the Leviathan Axe.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "What is the name of the Runic Attack you receive after defeating Magni and Modi?",
+						"wrong": [
+							"Lightning Strike",
+							"Thor's Legacy",
+							"Brother's Bond"
+						]
+					},
+					{
+						"correct": "Odin's errand boys",
+						"difficulty": "Hard",
+						"explanation": "Mimir has no respect for the brothers, viewing them as simple thugs for the All-Father.",
+						"image_url": "https://skillcheckgame.com/assets/images/magni.webp",
+						"question": "What does Mimir call Magni and Modi to insult them?",
+						"wrong": [
+							"Thor's runts",
+							"Lightning bugs",
+							"Aesir trash"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_magni",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Magni",
+				"lore_desc": "The eldest son of Thor, known for his incredible strength and for wielding a massive greatsword charged with lightning.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Thor's Eldest",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"God",
+					"Aesir"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mace and Shield",
+						"difficulty": "Easy",
+						"explanation": "Unlike his brother's massive sword, Modi uses a lightning-charged mace and a large shield.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "What is the primary weapon set used by this character?",
+						"wrong": [
+							"Greatsword",
+							"Hammer",
+							"Bow and Arrow"
+						]
+					},
+					{
+						"correct": "Atreus",
+						"difficulty": "Easy",
+						"explanation": "Atreus stabs Modi and kicks him into a pit, marking a dark turn in his character arc.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "Who kills this character later in the game?",
+						"wrong": [
+							"Kratos",
+							"Baldur",
+							"Thor"
+						]
+					},
+					{
+						"correct": "He runs away after his brother is killed",
+						"difficulty": "Easy",
+						"explanation": "After Magni's death, a panicked Modi retreats from the fight.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "Why does this character survive the first battle with Kratos?",
+						"wrong": [
+							"Kratos lets him go",
+							"He defeats Kratos",
+							"He turns invisible"
+						]
+					},
+					{
+						"correct": "Lightning",
+						"difficulty": "Easy",
+						"explanation": "Like his brother and father, he commands the power of lightning.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "What elemental power does this character use?",
+						"wrong": [
+							"Fire",
+							"Ice",
+							"Poison"
+						]
+					},
+					{
+						"correct": "Thor",
+						"difficulty": "Easy",
+						"explanation": "He is the younger son of the God of Thunder.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "Who is this character's father?",
+						"wrong": [
+							"Odin",
+							"Loki",
+							"Tyr"
+						]
+					},
+					{
+						"correct": "A burst of lightning",
+						"difficulty": "Medium",
+						"explanation": "He uses his mace to unleash a massive electrical discharge that pins Kratos down.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "When Modi ambushes Kratos in Tyr's Temple, what does he use to incapacitate him?",
+						"wrong": [
+							"A poison gas",
+							"A magic net",
+							"A giant rock"
+						]
+					},
+					{
+						"correct": "He insults his mother, Faye",
+						"difficulty": "Medium",
+						"explanation": "Modi's crude comments about Faye trigger Atreus's repressed divine rage, causing him to collapse.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "What insult does Modi use against Atreus that causes the boy to have a seizure-like 'god' fit?",
+						"wrong": [
+							"He calls him a weakling",
+							"He says he is not a god",
+							"He mocks his bow skills"
+						]
+					},
+					{
+						"correct": "Beaten and weakened",
+						"difficulty": "Medium",
+						"explanation": "Thor beat him nearly to death for leaving Magni behind and failing to kill Kratos.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "What state is Modi in when Kratos and Atreus find him for the final time?",
+						"wrong": [
+							"Stronger than ever",
+							"Dead already",
+							"Leading an army"
+						]
+					},
+					{
+						"correct": "There is no specific name, just lightning-magic",
+						"difficulty": "Medium",
+						"explanation": "He uses electrical stun to force Kratos into a vulnerable position where he mocks him.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "What is the name of the 'fear' based energy Modi uses to trap Kratos in a vision?",
+						"wrong": [
+							"Seidr mist",
+							"The Fog of War",
+							"Odin's Grip"
+						]
+					},
+					{
+						"correct": "Magni is stronger and braver",
+						"difficulty": "Medium",
+						"explanation": "Lore suggests Magni was the pride of Thor, while Modi was seen as a disappointment.",
+						"image_url": "(Select the most lore-accurate): Magni is stronger and braver",
+						"question": "Why does Thor prefer Magni over Modi?",
+						"wrong": [
+							"Modi is not his real son",
+							"Modi is a giant",
+							"Magni is better at drinking"
+						]
+					},
+					{
+						"correct": "He and Magni retreat into a fog wall",
+						"difficulty": "Hard",
+						"explanation": "The brothers enter an 'invulnerable' state where they hide in the mist to ambush the player.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "In the boss fight, what does Modi do when his health bar is lowered to a certain point?",
+						"wrong": [
+							"He calls for help",
+							"He heals himself",
+							"He explodes"
+						]
+					},
+					{
+						"correct": "Angry or Wrath",
+						"difficulty": "Hard",
+						"explanation": "In Old Norse, Modi translates to 'Angry' or 'Brave', though the game portrays him more as spiteful.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "What is the mythological meaning of the name 'Modi'?",
+						"wrong": [
+							"Strong",
+							"Fast",
+							"Fearful"
+						]
+					},
+					{
+						"correct": "Tyr's Secret Vault",
+						"difficulty": "Hard",
+						"explanation": "They find a broken Modi in the elevator area leading down to Tyr's travel room.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "Where specifically is the final encounter where Atreus kills Modi?",
+						"wrong": [
+							"The Lake of Nine",
+							"The Peak of the Mountain",
+							"The Witch's House"
+						]
+					},
+					{
+						"correct": "Why did you do that?",
+						"difficulty": "Hard",
+						"explanation": "Kratos is horrified that Atreus killed a defenseless enemy, as it goes against his rules of survival and necessity.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "What does Kratos say to Atreus right after the boy kills Modi?",
+						"wrong": [
+							"Good job",
+							"He deserved it",
+							"You are ready"
+						]
+					},
+					{
+						"correct": "A shield bash that knocks Kratos back",
+						"difficulty": "Hard",
+						"explanation": "Modi uses his shield defensively to protect Magni while Magni charges heavy attacks.",
+						"image_url": "https://skillcheckgame.com/assets/images/modi.webp",
+						"question": "Which of these is a move Modi uses to shield his brother?",
+						"wrong": [
+							"Creating a bubble",
+							"Throwing his mace",
+							"Building a wall of stone"
+						]
+					}
+				]
+			},
+			"id": "god_of_war_2018_modi",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Modi",
+				"lore_desc": "The younger son of Thor who uses a shield and a mace, living in the shadow of his brother Magni.",
+				"theme_origin": "god of war: 2018",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Thor's Second Son",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"God",
+					"Aesir"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -75827,7 +79075,7 @@
 					"name": "Super Heavyweights"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Yoshi",
 						"Mario"
@@ -78431,6 +81679,144 @@
 						"FLUDD"
 					],
 					"name": "The final climb"
+				}
+			]
+		},
+		{
+			"id": "god of war: 2018",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Kratos",
+						"Atreus",
+						"Mimir"
+					],
+					"name": "The Traveling Trio"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Brok",
+						"Sindri",
+						"Leviathan Axe"
+					],
+					"name": "The Huldra Masterpiece"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Baldur",
+						"Magni",
+						"Modi"
+					],
+					"name": "Odin's Enforcers"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Kratos",
+						"Leviathan Axe",
+						"Blades of Chaos"
+					],
+					"name": "The Ghost's Arsenal"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Freya",
+						"Baldur",
+						"Mimir"
+					],
+					"name": "Victims of the All-Father"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Leviathan Axe",
+						"Jormungandr"
+					],
+					"name": "Eitr Imbued"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Helheim",
+						"Blades of Chaos"
+					],
+					"name": "Fire in the Ice"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Freya",
+						"Baldur"
+					],
+					"name": "Mother's Protection"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Freya",
+						"Valkyries"
+					],
+					"name": "The True Queen"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Midgard",
+						"Jormungandr"
+					],
+					"name": "Lake of Nine"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Brok",
+						"Sindri"
+					],
+					"name": "The Huldra Brothers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Magni",
+						"Modi"
+					],
+					"name": "Sons of Thor"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kratos",
+						"Blades of Chaos"
+					],
+					"name": "A Spartan's Past"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Alfheim",
+						"Freya"
+					],
+					"name": "Light of the Vanir"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kratos",
+						"Atreus"
+					],
+					"name": "Boy"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Kratos",
+						"Leviathan Axe"
+					],
+					"name": "Laufeys gift"
 				}
 			]
 		}
