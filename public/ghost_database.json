@@ -78900,6 +78900,1334 @@
 					"Aesir"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dark Magician",
+						"difficulty": "Easy",
+						"explanation": "This is Yugi Muto's signature monster, first appearing in the very first episode of the anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Kuriboh",
+							"Seto Kaiba"
+						]
+					},
+					{
+						"correct": "Dark Magician",
+						"difficulty": "Easy",
+						"explanation": "With 2500 ATK, he is often summoned using the 'Dark Renewal' or 'Magician's Navigation' spell cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Exodia the Forbidden One",
+							"Joey Wheeler",
+							"Red-Eyes Black Dragon"
+						]
+					},
+					{
+						"correct": "Dark Magician",
+						"difficulty": "Medium",
+						"explanation": "In ancient Egypt, this character was known as Mahad, one of the Pharaoh's loyal high priests.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician Girl",
+							"Buster Blader",
+							"Gaia The Fierce Knight"
+						]
+					},
+					{
+						"correct": "Dark Magician",
+						"difficulty": "Medium",
+						"explanation": "He is a Level 7 DARK Spellcaster and served as the cornerstone for many of the King of Games' victories.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Summoned Skull",
+							"Jinzo",
+							"Elemental HERO Neos"
+						]
+					},
+					{
+						"correct": "Dark Magician",
+						"difficulty": "Hard",
+						"explanation": "While several variations exist, the classic silhouette with the curved hat and staff is unmistakable to fans.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Magician of Black Chaos",
+							"Skilled Dark Magician",
+							"Arkana Dark Magician"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_dark_magician",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Dark Magician",
+				"lore_desc": "Known as the ultimate wizard in terms of attack and defense, he is Yugi Muto's most trusted companion.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Ultimate Wizard",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Spellcaster",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blue-Eyes White Dragon",
+						"difficulty": "Easy",
+						"explanation": "This legendary dragon is the pride and joy of Seto Kaiba, who owns three of the only four copies in existence.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_white_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Yugi Muto",
+							"Pot of Greed"
+						]
+					},
+					{
+						"correct": "Blue-Eyes White Dragon",
+						"difficulty": "Easy",
+						"explanation": "With 3000 ATK, it held the record for the strongest non-fusion monster for a significant time in the early game.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_white_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Joey Wheeler",
+							"Dark Magician",
+							"Exodia the Forbidden One"
+						]
+					},
+					{
+						"correct": "Blue-Eyes White Dragon",
+						"difficulty": "Medium",
+						"explanation": "This monster's signature attack is known as Burst Stream of Destruction, which can wipe out opponents.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_white_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Red-Eyes Black Dragon",
+							"Stardust Dragon",
+							"Cyber Dragon"
+						]
+					},
+					{
+						"correct": "Blue-Eyes White Dragon",
+						"difficulty": "Medium",
+						"explanation": "In the lore, this dragon is the spirit of Kisara, a woman protected by Priest Seto in ancient Egypt.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_white_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"Thunder Dragon",
+							"Meteor Dragon"
+						]
+					},
+					{
+						"correct": "Blue-Eyes White Dragon",
+						"difficulty": "Hard",
+						"explanation": "Though many 'Blue-Eyes' variants exist, the original's sleek neck and wings create a iconic silhouette.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_white_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes Alternative White Dragon",
+							"Azure-Eyes Silver Dragon",
+							"Malefic Blue-Eyes White Dragon"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_blue-eyes_white_dragon",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Blue-Eyes White Dragon",
+				"lore_desc": "A powerful engine of destruction, virtually invincible and very few have faced this awesome creature and lived to tell the tale.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Legendary Dragon",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Dragon",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Exodia the Forbidden One",
+						"difficulty": "Easy",
+						"explanation": "Holding all five pieces of this monster in your hand results in an automatic win.",
+						"image_url": "https://skillcheckgame.com/assets/images/exodia_the_forbidden_one.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Mokuba Kaiba",
+							"Baby Dragon"
+						]
+					},
+					{
+						"correct": "Exodia the Forbidden One",
+						"difficulty": "Easy",
+						"explanation": "In the first episode of the anime, Yugi used this creature to defeat Seto Kaiba's three Blue-Eyes dragons.",
+						"image_url": "https://skillcheckgame.com/assets/images/exodia_the_forbidden_one.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Seto Kaiba",
+							"Blue-Eyes White Dragon",
+							"Dark Magician"
+						]
+					},
+					{
+						"correct": "Exodia the Forbidden One",
+						"difficulty": "Medium",
+						"explanation": "This card's silhouette is bulky because it represents the torso piece of the legendary sealed being.",
+						"image_url": "https://skillcheckgame.com/assets/images/exodia_the_forbidden_one.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Summoned Skull",
+							"Obelisk the Tormentor",
+							"Great Moth"
+						]
+					},
+					{
+						"correct": "Exodia the Forbidden One",
+						"difficulty": "Medium",
+						"explanation": "In the manga, this character was so powerful he had to be split into five separate stone tablets.",
+						"image_url": "https://skillcheckgame.com/assets/images/exodia_the_forbidden_one.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Berserk Dragon",
+							"Zorc Necrophades",
+							"Five-Headed Dragon"
+						]
+					},
+					{
+						"correct": "Exodia the Forbidden One",
+						"difficulty": "Hard",
+						"explanation": "While other 'Exodia' forms exist, the original silhouette features the iconic chains and circular background seal.",
+						"image_url": "https://skillcheckgame.com/assets/images/exodia_the_forbidden_one.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Exodia Necross",
+							"Exodius the Ultimate Forbidden Lord",
+							"The Legendary Exodia Incarnate"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_exodia_the_forbidden_one",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Exodia the Forbidden One",
+				"lore_desc": "An unstoppable force that guarantees victory to any duelist who can gather all five of its pieces.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Forbidden One",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Spellcaster",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Kuriboh",
+						"difficulty": "Easy",
+						"explanation": "Despite its low stats, this hairy monster is one of Yugi's most effective defensive tools.",
+						"image_url": "https://skillcheckgame.com/assets/images/kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Obelisk the Tormentor",
+							"Slifer the Sky Dragon"
+						]
+					},
+					{
+						"correct": "Kuriboh",
+						"difficulty": "Easy",
+						"explanation": "It has only 300 ATK and 200 DEF, but its ability to negate battle damage makes it a staple.",
+						"image_url": "https://skillcheckgame.com/assets/images/kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician",
+							"Joey Wheeler",
+							"Maximillion Pegasus"
+						]
+					},
+					{
+						"correct": "Kuriboh",
+						"difficulty": "Medium",
+						"explanation": "This monster can be combined with 'Multiply' to create a literal wall of fluff to block attacks.",
+						"image_url": "https://skillcheckgame.com/assets/images/kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Winged Kuriboh",
+							"Watapon",
+							"Marshmallon"
+						]
+					},
+					{
+						"correct": "Kuriboh",
+						"difficulty": "Medium",
+						"explanation": "Its name is a play on the Japanese word 'Kuri', meaning chestnut, due to its round, spiky shape.",
+						"image_url": "https://skillcheckgame.com/assets/images/kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Wretched Ghost",
+							"Key Mouse",
+							"Scapegoat Token"
+						]
+					},
+					{
+						"correct": "Kuriboh",
+						"difficulty": "Hard",
+						"explanation": "The original silhouette is distinct from its many cousins by its large green paws and purple hair.",
+						"image_url": "https://skillcheckgame.com/assets/images/kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuribabylon",
+							"Kuribandit",
+							"Sphere Kuriboh"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_kuriboh",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Kuriboh",
+				"lore_desc": "A small, furry creature that can explode to prevent damage to its owner.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Hairy Fiend",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Fiend",
+					"Mascot"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Red-Eyes Black Dragon",
+						"difficulty": "Easy",
+						"explanation": "This is the signature monster of Joey Wheeler, won from Rex Raptor during the Duelist Kingdom arc.",
+						"image_url": "https://skillcheckgame.com/assets/images/red_eyes_black_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician",
+							"Exodia",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Red-Eyes Black Dragon",
+						"difficulty": "Easy",
+						"explanation": "While Blue-Eyes represents 'Power', this dragon is said to represent 'Potential' in the lore.",
+						"image_url": "https://skillcheckgame.com/assets/images/red_eyes_black_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Yugi Muto",
+							"Seto Kaiba"
+						]
+					},
+					{
+						"correct": "Red-Eyes Black Dragon",
+						"difficulty": "Medium",
+						"explanation": "Its signature attack is the 'Inferno Fire Blast', a searing beam of dark energy.",
+						"image_url": "https://skillcheckgame.com/assets/images/red_eyes_black_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Meteor Dragon",
+							"Serpent Night Dragon",
+							"Barrel Dragon"
+						]
+					},
+					{
+						"correct": "Red-Eyes Black Dragon",
+						"difficulty": "Medium",
+						"explanation": "It is a Level 7 DARK Dragon with 2400 ATK, often outclassed in raw power but supported by many fusion forms.",
+						"image_url": "https://skillcheckgame.com/assets/images/red_eyes_black_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Stardust Dragon",
+							"Black Rose Dragon",
+							"Cyber Dragon"
+						]
+					},
+					{
+						"correct": "Red-Eyes Black Dragon",
+						"difficulty": "Hard",
+						"explanation": "The classic silhouette shows its hunched stance and curved wings, distinguishing it from its later evolutions.",
+						"image_url": "https://skillcheckgame.com/assets/images/red_eyes_black_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Red-Eyes Darkness Dragon",
+							"Red-Eyes Zombie Dragon",
+							"Red-Eyes Black Flare Dragon"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_red-eyes_black_dragon",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Red-Eyes Black Dragon",
+				"lore_desc": "A ferocious dragon with a deadly attack, said to bring victory to those with potential.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Dragon of Potential",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Dragon",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Dark Magician Girl",
+						"difficulty": "Easy",
+						"explanation": "She made her debut during the Battle City arc during Yugi's duel against Arkana.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician_girl.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes",
+							"Jinzo",
+							"Seto Kaiba"
+						]
+					},
+					{
+						"correct": "Dark Magician Girl",
+						"difficulty": "Easy",
+						"explanation": "Her effect grants her 300 ATK for every Dark Magician or Magician of Black Chaos in either player's Graveyard.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician_girl.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Tea Gardner",
+							"Mai Valentine",
+							"Ishizu Ishtar"
+						]
+					},
+					{
+						"correct": "Dark Magician Girl",
+						"difficulty": "Medium",
+						"explanation": "In ancient Egypt, her spirit was Mana, a childhood friend of Pharaoh Atem.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician_girl.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Silent Magician",
+							"Magician's Valkyria",
+							"Dark Magician"
+						]
+					},
+					{
+						"correct": "Dark Magician Girl",
+						"difficulty": "Medium",
+						"explanation": "She is a Level 6 DARK Spellcaster, often summoned from the deck via 'Sage's Stone'.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician_girl.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"High Priestess of Prophecy",
+							"Fortune Lady Every",
+							"Witch of the Black Forest"
+						]
+					},
+					{
+						"correct": "Dark Magician Girl",
+						"difficulty": "Hard",
+						"explanation": "Her pointed hat and winged boots create a silhouette that has inspired many spin-off Magician Girls.",
+						"image_url": "https://skillcheckgame.com/assets/images/dark_magician_girl.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Gagaga Girl",
+							"Apple Magician Girl",
+							"Lemon Magician Girl"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_dark_magician_girl",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Dark Magician Girl",
+				"lore_desc": "The apprentice of the Dark Magician, she gains power from her master's presence in the graveyard.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Magical Apprentice",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Spellcaster",
+					"Icon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Slifer the Sky Dragon",
+						"difficulty": "Easy",
+						"explanation": "This Egyptian God card was first used against Yugi by a puppet controlled by Marik Ishtar.",
+						"image_url": "https://skillcheckgame.com/assets/images/slifer_the_sky_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Time Wizard",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Slifer the Sky Dragon",
+						"difficulty": "Easy",
+						"explanation": "Its attack and defense are equal to the number of cards in your hand multiplied by 1000.",
+						"image_url": "https://skillcheckgame.com/assets/images/slifer_the_sky_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Red-Eyes Black Dragon",
+							"Stardust Dragon"
+						]
+					},
+					{
+						"correct": "Slifer the Sky Dragon",
+						"difficulty": "Medium",
+						"explanation": "This card possesses a second mouth that automatically attacks any monster summoned by the opponent.",
+						"image_url": "https://skillcheckgame.com/assets/images/slifer_the_sky_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Obelisk the Tormentor",
+							"The Winged Dragon of Ra",
+							"Blue-Eyes Ultimate Dragon"
+						]
+					},
+					{
+						"correct": "Slifer the Sky Dragon",
+						"difficulty": "Medium",
+						"explanation": "The card's English name is a tribute to Roger Slifer, a producer of the Yu-Gi-Oh! anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/slifer_the_sky_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Leviadragon Daedalus",
+							"Trishula Dragon of the Ice Barrier",
+							"Oshaleon"
+						]
+					},
+					{
+						"correct": "Slifer the Sky Dragon",
+						"difficulty": "Hard",
+						"explanation": "The long, serpentine body and dual-jawed head create an elongated, complex silhouette.",
+						"image_url": "https://skillcheckgame.com/assets/images/slifer_the_sky_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Sky Dragon",
+							"Tiamat",
+							"Slifer alternate art"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_slifer_the_sky_dragon",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Slifer the Sky Dragon",
+				"lore_desc": "One of the three legendary Egyptian Gods, its power is determined by the number of cards in its master's hand.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Saintly Dragon",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Divine-Beast",
+					"Egyptian God"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Obelisk the Tormentor",
+						"difficulty": "Easy",
+						"explanation": "This Egyptian God was initially owned by Seto Kaiba, given to him by Ishizu Ishtar.",
+						"image_url": "https://skillcheckgame.com/assets/images/obelisk_the_tormentor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Pegasus",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Obelisk the Tormentor",
+						"difficulty": "Easy",
+						"explanation": "By sacrificing two monsters, this card can destroy every monster the opponent controls.",
+						"image_url": "https://skillcheckgame.com/assets/images/obelisk_the_tormentor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician",
+							"Blue-Eyes White Dragon",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Obelisk the Tormentor",
+						"difficulty": "Medium",
+						"explanation": "Unlike the other God cards, Obelisk has a fixed ATK and DEF of 4000.",
+						"image_url": "https://skillcheckgame.com/assets/images/obelisk_the_tormentor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"The Winged Dragon of Ra",
+							"Summoned Skull"
+						]
+					},
+					{
+						"correct": "Obelisk the Tormentor",
+						"difficulty": "Medium",
+						"explanation": "Its ultimate ability, 'Soul Energy MAX', raises its attack to infinite in the anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/obelisk_the_tormentor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Berserk Dragon",
+							"Gorz the Emissary of Darkness",
+							"The Wicked Dreadroot"
+						]
+					},
+					{
+						"correct": "Obelisk the Tormentor",
+						"difficulty": "Hard",
+						"explanation": "Its blocky, muscular silhouette and massive shoulder spikes distinguish it from the Sacred Beasts.",
+						"image_url": "https://skillcheckgame.com/assets/images/obelisk_the_tormentor.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Raviel Lord of Phantasms",
+							"Obelisk Movie Art",
+							"Hammon Lord of Striking Thunder"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_obelisk_the_tormentor",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Obelisk the Tormentor",
+				"lore_desc": "A towering titan of the Egyptian Gods, capable of sacrificing allies to crush all opposition.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The God of Destruction",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Divine-Beast",
+					"Egyptian God"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Winged Dragon of Ra",
+						"difficulty": "Easy",
+						"explanation": "This card was the primary antagonist's weapon during the Battle City finals, used by Marik Ishtar.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_winged_dragon_of_ra.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Weevil Underwood",
+							"Mai Valentine"
+						]
+					},
+					{
+						"correct": "The Winged Dragon of Ra",
+						"difficulty": "Easy",
+						"explanation": "It can absorb the Life Points of its user to increase its own ATK and DEF.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_winged_dragon_of_ra.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Red-Eyes Black Dragon",
+							"Time Wizard"
+						]
+					},
+					{
+						"correct": "The Winged Dragon of Ra",
+						"difficulty": "Medium",
+						"explanation": "In the anime, the card's text was written in Hieratic, requiring a specific chant to summon it.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_winged_dragon_of_ra.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"Obelisk the Tormentor",
+							"Great Moth"
+						]
+					},
+					{
+						"correct": "The Winged Dragon of Ra",
+						"difficulty": "Medium",
+						"explanation": "This golden dragon has several forms, including a defensive Sphere Mode and an Immortal Phoenix form.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_winged_dragon_of_ra.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Harpie's Pet Dragon",
+							"Judgment Dragon",
+							"Rainbow Dragon"
+						]
+					},
+					{
+						"correct": "The Winged Dragon of Ra",
+						"difficulty": "Hard",
+						"explanation": "Its mechanical, bird-like silhouette with large golden wings is distinct from the more organic Slifer.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_winged_dragon_of_ra.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ra Sphere Mode",
+							"Ra Immortal Phoenix",
+							"Great Moss"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_the_winged_dragon_of_ra",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Winged Dragon of Ra",
+				"lore_desc": "The most powerful of the Egyptian Gods, wielding the heat of the sun to incinerate foes.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Sun God",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Divine-Beast",
+					"Egyptian God"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Jinzo",
+						"difficulty": "Easy",
+						"explanation": "Joey Wheeler won this card from Espa Roba during the Battle City tournament.",
+						"image_url": "https://skillcheckgame.com/assets/images/jinzo.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician Girl",
+							"Blue-Eyes",
+							"Kuriboh"
+						]
+					},
+					{
+						"correct": "Jinzo",
+						"difficulty": "Easy",
+						"explanation": "As long as this card is face-up on the field, Trap Cards cannot be activated.",
+						"image_url": "https://skillcheckgame.com/assets/images/jinzo.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Seto Kaiba",
+							"Yugi Muto",
+							"Mokuba Kaiba"
+						]
+					},
+					{
+						"correct": "Jinzo",
+						"difficulty": "Medium",
+						"explanation": "In the Japanese version, this monster is known as 'Artificial Human - Psycho Shocker'.",
+						"image_url": "https://skillcheckgame.com/assets/images/jinzo.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Psycho Shocker",
+							"Gearfried the Iron Knight",
+							"Barrel Dragon"
+						]
+					},
+					{
+						"correct": "Jinzo",
+						"difficulty": "Medium",
+						"explanation": "This Level 6 DARK Machine monster changed the competitive game forever by shutting down backrow strategies.",
+						"image_url": "https://skillcheckgame.com/assets/images/jinzo.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Cyber End Dragon",
+							"Machina Fortress",
+							"Ancient Gear Golem"
+						]
+					},
+					{
+						"correct": "Jinzo",
+						"difficulty": "Hard",
+						"explanation": "The tall, slender humanoid frame and distinct metallic head-casing create a unique silhouette.",
+						"image_url": "https://skillcheckgame.com/assets/images/jinzo.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Jinzo Lord",
+							"Jinzo Returner",
+							"Jinzo Jector"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_jinzo",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Jinzo",
+				"lore_desc": "A terrifying machine that emits a frequency that prevents all trap cards from activating.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Trap Destroyer",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Machine",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Summoned Skull",
+						"difficulty": "Easy",
+						"explanation": "One of Yugi's most powerful early-game monsters, requiring only one tribute for 2500 ATK.",
+						"image_url": "https://skillcheckgame.com/assets/images/summoned_skull.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Yugi Muto",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Summoned Skull",
+						"difficulty": "Easy",
+						"explanation": "It often teamed up with Red-Eyes Black Dragon to form the powerful 'B. Skull Dragon' fusion.",
+						"image_url": "https://skillcheckgame.com/assets/images/summoned_skull.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Exodia",
+							"Dark Magician"
+						]
+					},
+					{
+						"correct": "Summoned Skull",
+						"difficulty": "Medium",
+						"explanation": "Though its name doesn't include it, this card is treated as an 'Archfiend' monster by game rules.",
+						"image_url": "https://skillcheckgame.com/assets/images/summoned_skull.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Archfiend of Gilfer",
+							"Beast of Talwar",
+							"Zera the Mant"
+						]
+					},
+					{
+						"correct": "Summoned Skull",
+						"difficulty": "Medium",
+						"explanation": "This monster uses an attack called 'Lightning Strike', which was used to defeat Weevil Underwood's Great Moth.",
+						"image_url": "https://skillcheckgame.com/assets/images/summoned_skull.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lesser Fiend",
+							"Ha Des",
+							"Great Dezard"
+						]
+					},
+					{
+						"correct": "Summoned Skull",
+						"difficulty": "Hard",
+						"explanation": "The skeletal wings and exposed ribcage create a jagged silhouette distinct from other humanoid fiends.",
+						"image_url": "https://skillcheckgame.com/assets/images/summoned_skull.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Skull Archfiend of Lightning",
+							"Red-Eyes Archfiend of Lightning",
+							"Archfiend Awakening"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_summoned_skull",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Summoned Skull",
+				"lore_desc": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Archfiend of Lightning",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Fiend",
+					"Legendary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Elemental HERO Neos",
+						"difficulty": "Easy",
+						"explanation": "This is the signature ace monster of Jaden Yuki, the protagonist of Yu-Gi-Oh! GX.",
+						"image_url": "https://skillcheckgame.com/assets/images/elemental_hero_neos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes",
+							"Kuriboh",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Elemental HERO Neos",
+						"difficulty": "Easy",
+						"explanation": "He is a Level 7 LIGHT Warrior monster with 2500 ATK, matching the stats of the Dark Magician.",
+						"image_url": "https://skillcheckgame.com/assets/images/elemental_hero_neos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Seto Kaiba",
+							"Yugi Muto",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Elemental HERO Neos",
+						"difficulty": "Medium",
+						"explanation": "This character was actually designed by a young Jaden as part of a contest held by KaibaCorp.",
+						"image_url": "https://skillcheckgame.com/assets/images/elemental_hero_neos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Elemental HERO Avian",
+							"Elemental HERO Bladedge",
+							"Elemental HERO Heat"
+						]
+					},
+					{
+						"correct": "Elemental HERO Neos",
+						"difficulty": "Medium",
+						"explanation": "He is famous for 'Contact Fusion,' merging with Neo-Spacians without needing 'Polymerization'.",
+						"image_url": "https://skillcheckgame.com/assets/images/elemental_hero_neos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Masked HERO Dark Law",
+							"Destiny HERO Plasma",
+							"Evil HERO Malicious Edge"
+						]
+					},
+					{
+						"correct": "Elemental HERO Neos",
+						"difficulty": "Hard",
+						"explanation": "His sleek, muscular alien-hero physique and pointed head-fin distinguish him from other HERO cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/elemental_hero_neos.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Elemental HERO Honest Neos",
+							"Elemental HERO Brave Neos",
+							"Elemental HERO Spirit of Neos"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_elemental_hero_neos",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Elemental HERO Neos",
+				"lore_desc": "A new hero has arrived from space! He initiates a Contact Fusion with a Neo-Spacian to show his true power.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Cosmic Hero",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Warrior",
+					"Hero"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Stardust Dragon",
+						"difficulty": "Easy",
+						"explanation": "This is the signature card of Yusei Fudo, the protagonist of Yu-Gi-Oh! 5D's.",
+						"image_url": "https://skillcheckgame.com/assets/images/stardust_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Joey Wheeler",
+							"Dark Magician Girl"
+						]
+					},
+					{
+						"correct": "Stardust Dragon",
+						"difficulty": "Easy",
+						"explanation": "It was the first 'cover monster' for the Synchro summoning era, requiring a Tuner and non-Tuner monster.",
+						"image_url": "https://skillcheckgame.com/assets/images/stardust_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Red-Eyes Black Dragon",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Stardust Dragon",
+						"difficulty": "Medium",
+						"explanation": "This card's ability, 'Victim's Sanctuary,' allows it to negate destruction effects by Tributing itself.",
+						"image_url": "https://skillcheckgame.com/assets/images/stardust_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Black Rose Dragon",
+							"Ancient Fairy Dragon",
+							"Black-Winged Dragon"
+						]
+					},
+					{
+						"correct": "Stardust Dragon",
+						"difficulty": "Medium",
+						"explanation": "In the lore, it is one of the five (later six) legendary Signer Dragons.",
+						"image_url": "https://skillcheckgame.com/assets/images/stardust_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Clear Wing Synchro Dragon",
+							"Galaxy-Eyes Photon Dragon",
+							"Firewall Dragon"
+						]
+					},
+					{
+						"correct": "Stardust Dragon",
+						"difficulty": "Hard",
+						"explanation": "The elegant, feathered wings and slender dragon body create a more graceful silhouette than the Blue-Eyes.",
+						"image_url": "https://skillcheckgame.com/assets/images/stardust_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Shooting Star Dragon",
+							"Stardust Spark Dragon",
+							"Malefic Stardust Dragon"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_stardust_dragon",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Stardust Dragon",
+				"lore_desc": "A legendary dragon that can sacrifice itself to protect others, returning to the field with the light of the stars.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Cosmic Synchro",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Dragon",
+					"Synchro"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Seto Kaiba",
+						"difficulty": "Easy",
+						"explanation": "He is the legendary rival of Yugi Muto and the creator of the Duel Disk technology.",
+						"image_url": "https://skillcheckgame.com/assets/images/seto_kaiba.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Kuriboh",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Seto Kaiba",
+						"difficulty": "Easy",
+						"explanation": "He is famous for his obsession with the Blue-Eyes White Dragon, owning three of them.",
+						"image_url": "https://skillcheckgame.com/assets/images/seto_kaiba.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Joey Wheeler",
+							"Maximillion Pegasus",
+							"Bakura Ryou"
+						]
+					},
+					{
+						"correct": "Seto Kaiba",
+						"difficulty": "Medium",
+						"explanation": "In ancient Egypt, his predecessor was Priest Seto, who wielded the Millennium Rod.",
+						"image_url": "https://skillcheckgame.com/assets/images/seto_kaiba.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Yami Yugi",
+							"Marik Ishtar",
+							"Dartz"
+						]
+					},
+					{
+						"correct": "Seto Kaiba",
+						"difficulty": "Medium",
+						"explanation": "He famously tore up Solomon Muto's fourth Blue-Eyes card to ensure it could never be used against him.",
+						"image_url": "https://skillcheckgame.com/assets/images/seto_kaiba.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Chazz Princeton",
+							"Jack Atlas",
+							"Kaito Tenjo"
+						]
+					},
+					{
+						"correct": "Seto Kaiba",
+						"difficulty": "Hard",
+						"explanation": "His iconic long white trench coat (often defying gravity) creates one of the most recognizable silhouettes in anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/seto_kaiba.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Noah Kaiba",
+							"Kaibaman",
+							"Mokuba Kaiba"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_seto_kaiba",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Seto Kaiba",
+				"lore_desc": "The wealthy CEO of KaibaCorp and the world's greatest duelist, second only to Yugi.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The CEO Rival",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Human",
+					"Rival"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Yugi Muto",
+						"difficulty": "Easy",
+						"explanation": "He is the main protagonist of the original Yu-Gi-Oh! series and the King of Games.",
+						"image_url": "https://skillcheckgame.com/assets/images/yugi_muto.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes",
+							"Slifer",
+							"Dark Magician"
+						]
+					},
+					{
+						"correct": "Yugi Muto",
+						"difficulty": "Easy",
+						"explanation": "He carries the Millennium Puzzle, one of the seven Millennium Items from ancient Egypt.",
+						"image_url": "https://skillcheckgame.com/assets/images/yugi_muto.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Seto Kaiba",
+							"Joey Wheeler",
+							"Tea Gardner"
+						]
+					},
+					{
+						"correct": "Yugi Muto",
+						"difficulty": "Medium",
+						"explanation": "His deck is built around the Dark Magician and the themes of 'Unity' and 'Trust'.",
+						"image_url": "https://skillcheckgame.com/assets/images/yugi_muto.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bakura Ryou",
+							"Marik Ishtar",
+							"Duke Devlin"
+						]
+					},
+					{
+						"correct": "Yugi Muto",
+						"difficulty": "Medium",
+						"explanation": "He won the Duelist Kingdom tournament by defeating Maximillion Pegasus in his own castle.",
+						"image_url": "https://skillcheckgame.com/assets/images/yugi_muto.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Jaden Yuki",
+							"Yusei Fudo",
+							"Yuma Tsukumo"
+						]
+					},
+					{
+						"correct": "Yugi Muto",
+						"difficulty": "Hard",
+						"explanation": "While Atem looks similar, Yugi Muto's silhouette is often slightly shorter and lacks the Pharaoh's cape-like coat.",
+						"image_url": "https://skillcheckgame.com/assets/images/yugi_muto.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Atem",
+							"Solomon Muto",
+							"Yami Bakura"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_yugi_muto",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Yugi Muto",
+				"lore_desc": "A kind-hearted boy who solved the Millennium Puzzle, sharing his body with the spirit of an ancient Pharaoh.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The King of Games",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Human",
+					"Hero"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Maximillion Pegasus",
+						"difficulty": "Easy",
+						"explanation": "He is the creator of the Duel Monsters game and the primary antagonist of the Duelist Kingdom arc.",
+						"image_url": "https://skillcheckgame.com/assets/images/maximillion_pegasus.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Blue-Eyes",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Maximillion Pegasus",
+						"difficulty": "Easy",
+						"explanation": "He possess the Millennium Eye, which allows him to read the minds and hands of his opponents.",
+						"image_url": "https://skillcheckgame.com/assets/images/maximillion_pegasus.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Seto Kaiba",
+							"Yugi Muto",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Maximillion Pegasus",
+						"difficulty": "Medium",
+						"explanation": "His favorite deck uses the 'Toon' archetype, turning powerful monsters into cartoon versions of themselves.",
+						"image_url": "https://skillcheckgame.com/assets/images/maximillion_pegasus.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Marik Ishtar",
+							"Bakura Ryou",
+							"Bandit Keith"
+						]
+					},
+					{
+						"correct": "Maximillion Pegasus",
+						"difficulty": "Medium",
+						"explanation": "He was originally a world-renowned artist before becoming obsessed with Egyptian mythology and magic.",
+						"image_url": "https://skillcheckgame.com/assets/images/maximillion_pegasus.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Alister",
+							"Zigfried von Schroeder",
+							"Dartz"
+						]
+					},
+					{
+						"correct": "Maximillion Pegasus",
+						"difficulty": "Hard",
+						"explanation": "His long flowing hair that covers one eye and his sophisticated red suit create a distinct, elegant silhouette.",
+						"image_url": "https://skillcheckgame.com/assets/images/maximillion_pegasus.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Noah Kaiba",
+							"Go Sabu Kaiba",
+							"Chancellor Sheppard"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_maximillion_pegasus",
+			"meta": {
+				"date_added": "2026-03-22",
+				"entity_category": "Theme Item",
+				"full_title": "Maximillion Pegasus",
+				"lore_desc": "The eccentric American billionaire who created the Duel Monsters card game based on ancient Egyptian tablets.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Creator of Duel Monsters",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Human",
+					"Villain"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -81811,12 +83139,142 @@
 					"name": "Boy"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Kratos",
 						"Leviathan Axe"
 					],
 					"name": "Laufeys gift"
+				}
+			]
+		},
+		{
+			"id": "yu-gi-oh",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Winged Dragon of Ra",
+						"Slifer the Sky Dragon",
+						"Obelisk the Tormentor"
+					],
+					"name": "The Divine Trinit"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Dark Magician",
+						"Elemental HERO Neos",
+						"Stardust Dragon"
+					],
+					"name": "Generations of Destiny"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Seto Kaiba",
+						"Maximillion Pegasus",
+						"Yugi Muto"
+					],
+					"name": "Kings of the Kingdom"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Dark Magician",
+						"Dark Magician Girl",
+						"Kuriboh"
+					],
+					"name": "The Pharaoh's Vanguard"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Blue-Eyes White Dragon",
+						"Obelisk the Tormentor",
+						"Seto Kaiba"
+					],
+					"name": "Absolute Powerforce"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Dark Magician",
+						"Dark Magician Girl"
+					],
+					"name": "Magical Succession"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Blue-Eyes White Dragon",
+						"Red-Eyes Black Dragon"
+					],
+					"name": "Power and Potential"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Yugi Muto",
+						"Exodia the Forbidden One"
+					],
+					"name": "The First Miracle"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Blue-Eyes White Dragon",
+						"Seto Kaiba"
+					],
+					"name": "A Soul's Engine"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Maximillion Pegasus",
+						"Kuriboh"
+					],
+					"name": "The Illusionist's Downfall"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Summoned Skull",
+						"Red-Eyes Black Dragon"
+					],
+					"name": "The Archfiend's Roar"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Red-Eyes Black Dragon",
+						"Jinzo"
+					],
+					"name": "The Underdog's Gamble"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Yugi Muto",
+						"Slifer the Sky Dragon"
+					],
+					"name": "The Crimson Sky"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Elemental HERO Neos",
+						"Stardust Dragon"
+					],
+					"name": "Beyond the Original"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Exodia the Forbidden One",
+						"Seto Kaiba"
+					],
+					"name": "Shattered Limits"
 				}
 			]
 		}
