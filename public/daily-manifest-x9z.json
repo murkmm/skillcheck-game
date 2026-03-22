@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774207894,
+	"last_updated": 1774209692,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2525,6 +2525,51 @@
 				"god_of_war_2018_blades_of_chaos",
 				"god_of_war_2018_magni",
 				"god_of_war_2018_modi"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-24": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Yu Gi Oh: Guess That Character !",
+			"share_text": "YUGI BOY",
+			"shops": [
+				{
+					"p1": "power_supply",
+					"p2": "quick_save"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "turbo_button"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "s_video"
+				}
+			],
+			"showcase": [
+				"god_of_war_2018_kratos",
+				"god_of_war_2018_atreus",
+				"god_of_war_2018_baldur"
+			],
+			"starters": [
+				"yu-gi-oh_dark_magician",
+				"yu-gi-oh_blue-eyes_white_dragon",
+				"yu-gi-oh_exodia_the_forbidden_one",
+				"yu-gi-oh_kuriboh",
+				"yu-gi-oh_red-eyes_black_dragon",
+				"yu-gi-oh_dark_magician_girl",
+				"yu-gi-oh_slifer_the_sky_dragon",
+				"yu-gi-oh_obelisk_the_tormentor",
+				"yu-gi-oh_the_winged_dragon_of_ra",
+				"yu-gi-oh_jinzo",
+				"yu-gi-oh_summoned_skull",
+				"yu-gi-oh_elemental_hero_neos",
+				"yu-gi-oh_stardust_dragon",
+				"yu-gi-oh_seto_kaiba",
+				"yu-gi-oh_yugi_muto",
+				"yu-gi-oh_maximillion_pegasus"
 			],
 			"submitted_by": ""
 		}
