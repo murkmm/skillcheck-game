@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774209782,
+	"last_updated": 1774209817,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2529,7 +2529,7 @@
 			"submitted_by": ""
 		},
 		"2026-03-24": {
-			"daily_type": "normal",
+			"daily_type": "mystery",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
 			"motd": "Yu Gi Oh: Guess That Character !",
