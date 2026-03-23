@@ -80228,6 +80228,1334 @@
 					"Villain"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Joey Wheeler",
+						"difficulty": "Easy",
+						"explanation": "Joey Wheeler is famous for his 'never give up' attitude and his mastery of luck-based cards like Time Wizard.",
+						"image_url": "https://skillcheckgame.com/assets/images/joey_wheeler.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Exodia the Forbidden One",
+							"Obelisk the Tormentor",
+							"Blue-Eyes White Dragon"
+						]
+					},
+					{
+						"correct": "Joey Wheeler",
+						"difficulty": "Easy",
+						"explanation": "Despite starting with a deck of only monsters, Joey became a legend by placing in the top of both Duelist Kingdom and Battle City.",
+						"image_url": "https://skillcheckgame.com/assets/images/joey_wheeler.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"The Winged Dragon of Ra",
+							"Summoned Skull"
+						]
+					},
+					{
+						"correct": "Joey Wheeler",
+						"difficulty": "Medium",
+						"explanation": "Joey's signature card is the Red-Eyes Black Dragon, which he won in a high-stakes duel against Rex Raptor.",
+						"image_url": "https://skillcheckgame.com/assets/images/joey_wheeler.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Seto Kaiba",
+							"Yugi Muto",
+							"Maximillion Pegasus"
+						]
+					},
+					{
+						"correct": "Joey Wheeler",
+						"difficulty": "Medium",
+						"explanation": "Joey is known for his thick Brooklyn accent in the English dub and his fierce loyalty to his friends.",
+						"image_url": "https://skillcheckgame.com/assets/images/joey_wheeler.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bakura Ryou",
+							"Marik Ishtar",
+							"Tea Gardner"
+						]
+					},
+					{
+						"correct": "Joey Wheeler",
+						"difficulty": "Hard",
+						"explanation": "Joey's Japanese name is Katsuya Jonouchi, and he is often called the 'God of Luck' by his opponents.",
+						"image_url": "https://skillcheckgame.com/assets/images/joey_wheeler.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Tristan Taylor",
+							"Rex Raptor",
+							"Duke Devlin"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_joey_wheeler",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Joey Wheeler",
+				"lore_desc": "Yugi Muto's best friend who rose from a novice to a world-class duelist through pure heart and determination.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Brooklyn Duelist",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Human",
+					"Duelist"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Bakura Ryou",
+						"difficulty": "Easy",
+						"explanation": "Bakura is the holder of the Millennium Ring, an ancient artifact that contains a dark, soul-stealing spirit.",
+						"image_url": "https://skillcheckgame.com/assets/images/bakura_ryou.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Jinzo",
+							"Red-Eyes Black Dragon"
+						]
+					},
+					{
+						"correct": "Bakura Ryou",
+						"difficulty": "Easy",
+						"explanation": "Bakura's deck often focuses on occult themes and strategies that deplete the opponent's deck directly.",
+						"image_url": "https://skillcheckgame.com/assets/images/bakura_ryou.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Exodia the Forbidden One",
+							"Dark Magician",
+							"Blue-Eyes Ultimate Dragon"
+						]
+					},
+					{
+						"correct": "Bakura Ryou",
+						"difficulty": "Medium",
+						"explanation": "While Bakura Ryou is kind, the spirit inside him is the Thief King who seeks to destroy the world.",
+						"image_url": "https://skillcheckgame.com/assets/images/bakura_ryou.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Seto Kaiba",
+							"Yugi Muto",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Bakura Ryou",
+						"difficulty": "Medium",
+						"explanation": "Bakura is a master of tabletop role-playing games, which he used to trap Yugi and his friends in a Shadow Game.",
+						"image_url": "https://skillcheckgame.com/assets/images/bakura_ryou.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Marik Ishtar",
+							"Mai Valentine",
+							"Pegasus"
+						]
+					},
+					{
+						"correct": "Bakura Ryou",
+						"difficulty": "Hard",
+						"explanation": "His signature monster in the Battle City arc is the terrifying Dark Necrofear.",
+						"image_url": "https://skillcheckgame.com/assets/images/bakura_ryou.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Duke Devlin",
+							"Tristan Taylor",
+							"Noah Kaiba"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_bakura_ryou",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Bakura Ryou",
+				"lore_desc": "A soft-spoken classmate of Yugi who is possessed by the malevolent spirit of the Millennium Ring.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Spirit of the Ring",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Human",
+					"Spirit"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mai Valentine",
+						"difficulty": "Easy",
+						"explanation": "Mai Valentine is the most prominent female duelist in the original series, reaching the semi-finals of Duelist Kingdom.",
+						"image_url": "https://skillcheckgame.com/assets/images/mai_valentine.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Obelisk the Tormentor",
+							"Blue-Eyes White Dragon",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Mai Valentine",
+						"difficulty": "Easy",
+						"explanation": "Mai uses perfume on her cards to identify them by scent, a trick she called 'Aroma Tactics' to psych out opponents.",
+						"image_url": "https://skillcheckgame.com/assets/images/mai_valentine.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"Summoned Skull",
+							"Jinzo"
+						]
+					},
+					{
+						"correct": "Mai Valentine",
+						"difficulty": "Medium",
+						"explanation": "Mai develops a close, complicated bond with Joey Wheeler throughout the series after he defeats her in Duelist Kingdom.",
+						"image_url": "https://skillcheckgame.com/assets/images/mai_valentine.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Yugi Muto",
+							"Seto Kaiba",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Mai Valentine",
+						"difficulty": "Medium",
+						"explanation": "In Battle City, Mai was able to summon the Winged Dragon of Ra, though she could not control its true power.",
+						"image_url": "https://skillcheckgame.com/assets/images/mai_valentine.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bakura Ryou",
+							"Marik Ishtar",
+							"Pegasus"
+						]
+					},
+					{
+						"correct": "Mai Valentine",
+						"difficulty": "Hard",
+						"explanation": "Mai's Japanese name is Mai Kujaku, and her character arc focuses on her overcoming her fear of being alone.",
+						"image_url": "https://skillcheckgame.com/assets/images/mai_valentine.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Tea Gardner",
+							"Ishizu Ishtar",
+							"Serenity Wheeler"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_mai_valentine",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Mai Valentine",
+				"lore_desc": "A talented and beautiful duelist known for her signature Harpie Lady monsters and her initial 'Aroma Tactics' strategy.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Harpie Duelist",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Human",
+					"Duelist"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Marik Ishtar",
+						"difficulty": "Easy",
+						"explanation": "Marik is the primary antagonist of the Battle City arc and the holder of the Millennium Rod.",
+						"image_url": "https://skillcheckgame.com/assets/images/marik_ishtar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Dark Magician",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Marik Ishtar",
+						"difficulty": "Easy",
+						"explanation": "Marik founded the Rare Hunters, an organization that steals powerful cards from other duelists across the world.",
+						"image_url": "https://skillcheckgame.com/assets/images/marik_ishtar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Red-Eyes Black Dragon",
+							"Summoned Skull"
+						]
+					},
+					{
+						"correct": "Marik Ishtar",
+						"difficulty": "Medium",
+						"explanation": "Marik possesses a dark personality born from the pain of his childhood, which is even more sadistic than his original self.",
+						"image_url": "https://skillcheckgame.com/assets/images/marik_ishtar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Yugi Muto",
+							"Seto Kaiba",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Marik Ishtar",
+						"difficulty": "Medium",
+						"explanation": "He is the original owner of The Winged Dragon of Ra, the most powerful of the three Egyptian God Cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/marik_ishtar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bakura Ryou",
+							"Pegasus",
+							"Mai Valentine"
+						]
+					},
+					{
+						"correct": "Marik Ishtar",
+						"difficulty": "Hard",
+						"explanation": "Marik's Millennium Rod allows him to take control of other people's minds and communicate through them.",
+						"image_url": "https://skillcheckgame.com/assets/images/marik_ishtar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Odion",
+							"Shadi",
+							"Ishizu Ishtar"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_marik_ishtar",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Marik Ishtar",
+				"lore_desc": "The leader of the Rare Hunters and a survivor of the brutal Tomb Guard initiation who seeks the power of the Pharaoh.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Tomb Guardian",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Human",
+					"Spirit"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blue-Eyes Ultimate Dragon",
+						"difficulty": "Easy",
+						"explanation": "This massive dragon has 4500 Attack Points, making it one of the strongest non-effect monsters in history.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_ultimate_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Yugi Muto",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Blue-Eyes Ultimate Dragon",
+						"difficulty": "Easy",
+						"explanation": "Seto Kaiba famously used this card during his duel against Yugi on the rooftop of Pegasus's castle.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_ultimate_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician Girl",
+							"Tea Gardner",
+							"Mokuba Kaiba"
+						]
+					},
+					{
+						"correct": "Blue-Eyes Ultimate Dragon",
+						"difficulty": "Medium",
+						"explanation": "Despite its overwhelming power, Yugi once defeated it by fusing his Mammoth Graveyard into it using Polymerization.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_ultimate_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"The Winged Dragon of Ra",
+							"Obelisk the Tormentor"
+						]
+					},
+					{
+						"correct": "Blue-Eyes Ultimate Dragon",
+						"difficulty": "Medium",
+						"explanation": "It serves as the material for the even more powerful Dragon Master Knight when fused with Black Luster Soldier.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_ultimate_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Red-Eyes Black Dragon",
+							"Stardust Dragon",
+							"Cyber Dragon"
+						]
+					},
+					{
+						"correct": "Blue-Eyes Ultimate Dragon",
+						"difficulty": "Hard",
+						"explanation": "In the Yu-Gi-Oh! Movie: Pyramid of Light, Kaiba sacrificed this dragon to summon the Blue-Eyes Shining Dragon.",
+						"image_url": "https://skillcheckgame.com/assets/images/blue_eyes_ultimate_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Five-Headed Dragon",
+							"Blue-Eyes Shining Dragon"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_blue-eyes_ultimate_dragon",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Blue-Eyes Ultimate Dragon",
+				"lore_desc": "The fusion of three Blue-Eyes White Dragons, representing the absolute pinnacle of power in Seto Kaiba's deck.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Three-Headed Terror",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Dragon",
+					"Fusion"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Black Luster Soldier",
+						"difficulty": "Easy",
+						"explanation": "Yugi first summoned this legendary warrior during his duel against Mai Valentine in Duelist Kingdom.",
+						"image_url": "https://skillcheckgame.com/assets/images/black_luster_soldier.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Exodia",
+							"Blue-Eyes Ultimate Dragon"
+						]
+					},
+					{
+						"correct": "Black Luster Soldier",
+						"difficulty": "Easy",
+						"explanation": "Black Luster Soldier was originally a Ritual Monster, requiring the Black Luster Ritual spell and level 8 tribute.",
+						"image_url": "https://skillcheckgame.com/assets/images/black_luster_soldier.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"Obelisk the Tormentor",
+							"Jinzo"
+						]
+					},
+					{
+						"correct": "Black Luster Soldier",
+						"difficulty": "Medium",
+						"explanation": "A more modern version of this card, the 'Envoy of the Beginning', is famous for being one of the strongest cards in the game's history.",
+						"image_url": "https://skillcheckgame.com/assets/images/black_luster_soldier.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician",
+							"Summoned Skull",
+							"Elemental HERO Neos"
+						]
+					},
+					{
+						"correct": "Black Luster Soldier",
+						"difficulty": "Medium",
+						"explanation": "He is the light-attribute counterpart to the dark Chaos Emperor Dragon - Envoy of the End.",
+						"image_url": "https://skillcheckgame.com/assets/images/black_luster_soldier.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Buster Blader",
+							"Gaia The Fierce Knight",
+							"Flame Swordsman"
+						]
+					},
+					{
+						"correct": "Black Luster Soldier",
+						"difficulty": "Hard",
+						"explanation": "In the original manga, this card was created when Yugi used the 'Chaos Ritual' on his Gaia The Fierce Knight.",
+						"image_url": "https://skillcheckgame.com/assets/images/black_luster_soldier.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Magician of Black Chaos",
+							"Dark Knight Gaia",
+							"Chaos Soldier"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_black_luster_soldier",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Black Luster Soldier",
+				"lore_desc": "A legendary warrior summoned through a chaotic ritual, possessing power equal to the Blue-Eyes White Dragon.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ritual Warrior",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Warrior",
+					"Ritual"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Buster Blader",
+						"difficulty": "Easy",
+						"explanation": "Buster Blader was specifically designed by Yugi to counter Seto Kaiba's deck of powerful dragons.",
+						"image_url": "https://skillcheckgame.com/assets/images/buster_blader.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Exodia",
+							"Kuriboh"
+						]
+					},
+					{
+						"correct": "Buster Blader",
+						"difficulty": "Easy",
+						"explanation": "This warrior gains 500 Attack Points for every Dragon monster on the opponent's field or in their Graveyard.",
+						"image_url": "https://skillcheckgame.com/assets/images/buster_blader.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"Red-Eyes Black Dragon",
+							"Summoned Skull"
+						]
+					},
+					{
+						"correct": "Buster Blader",
+						"difficulty": "Medium",
+						"explanation": "Buster Blader can fuse with the Dark Magician to create the incredibly powerful Dark Paladin.",
+						"image_url": "https://skillcheckgame.com/assets/images/buster_blader.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician",
+							"Elemental HERO Neos",
+							"Stardust Dragon"
+						]
+					},
+					{
+						"correct": "Buster Blader",
+						"difficulty": "Medium",
+						"explanation": "His sword is known as the 'Dragon Slayer' and it is capable of cutting through the toughest dragon scales.",
+						"image_url": "https://skillcheckgame.com/assets/images/buster_blader.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Black Luster Soldier",
+							"Gaia The Fierce Knight",
+							"Flame Swordsman"
+						]
+					},
+					{
+						"correct": "Buster Blader",
+						"difficulty": "Hard",
+						"explanation": "The lore of Buster Blader later expanded to show him adopting a small dragon known as the 'Buster Whelp'.",
+						"image_url": "https://skillcheckgame.com/assets/images/buster_blader.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Buster Blader the Destruction Swordmaster",
+							"The Hunter with 7 Weapons",
+							"Zera the Mant"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_buster_blader",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Buster Blader",
+				"lore_desc": "A master swordsman whose strength increases whenever he faces a dragon on the battlefield.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Dragon Slayer",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Warrior",
+					"Hero"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gaia The Fierce Knight",
+						"difficulty": "Easy",
+						"explanation": "Gaia was one of Yugi's most reliable monsters during the early Duelist Kingdom arc.",
+						"image_url": "https://skillcheckgame.com/assets/images/gaia_the_fierce_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Exodia",
+							"Blue-Eyes Ultimate Dragon",
+							"Obelisk the Tormentor"
+						]
+					},
+					{
+						"correct": "Gaia The Fierce Knight",
+						"difficulty": "Easy",
+						"explanation": "Gaia is often seen riding his signature horse and wielding two giant lances to impale his foes.",
+						"image_url": "https://skillcheckgame.com/assets/images/gaia_the_fierce_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Dark Magician Girl",
+							"Jinzo"
+						]
+					},
+					{
+						"correct": "Gaia The Fierce Knight",
+						"difficulty": "Medium",
+						"explanation": "Gaia can fuse with Curse of Dragon to become the powerful Gaia the Dragon Champion.",
+						"image_url": "https://skillcheckgame.com/assets/images/gaia_the_fierce_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Summoned Skull",
+							"Dark Magician",
+							"Elemental HERO Neos"
+						]
+					},
+					{
+						"correct": "Gaia The Fierce Knight",
+						"difficulty": "Medium",
+						"explanation": "There are many variations of this knight, including 'Swift Gaia' which can be summoned without tribute if it is the only card in your hand.",
+						"image_url": "https://skillcheckgame.com/assets/images/gaia_the_fierce_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Black Luster Soldier",
+							"Buster Blader",
+							"Flame Swordsman"
+						]
+					},
+					{
+						"correct": "Gaia The Fierce Knight",
+						"difficulty": "Hard",
+						"explanation": "Gaia is the only monster in Yugi's deck that has multiple fusion forms and ritual evolutions across different eras.",
+						"image_url": "https://skillcheckgame.com/assets/images/gaia_the_fierce_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Sky Galloping Gaia",
+							"Curse of Dragon",
+							"Soldier of Chaos"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_gaia_the_fierce_knight",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Gaia The Fierce Knight",
+				"lore_desc": "A knight whose horse travels faster than the wind, known for his high-speed charges and spiral lances.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Spiral Knight",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Warrior",
+					"Hero"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Flame Swordsman",
+						"difficulty": "Easy",
+						"explanation": "Flame Swordsman was Joey Wheeler's 'Deck Master' during the Virtual World arc of the anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/flame_swordsman.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Exodia",
+							"Slifer the Sky Dragon"
+						]
+					},
+					{
+						"correct": "Flame Swordsman",
+						"difficulty": "Easy",
+						"explanation": "Despite appearing as a normal monster in the anime, it is actually a Fusion Monster in the real-world card game.",
+						"image_url": "https://skillcheckgame.com/assets/images/flame_swordsman.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Dark Magician Girl",
+							"Mokuba Kaiba"
+						]
+					},
+					{
+						"correct": "Flame Swordsman",
+						"difficulty": "Medium",
+						"explanation": "Flame Swordsman is often paired with the 'Salamandra' equip card to increase its attack power in the early anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/flame_swordsman.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician",
+							"Seto Kaiba",
+							"Yugi Muto"
+						]
+					},
+					{
+						"correct": "Flame Swordsman",
+						"difficulty": "Medium",
+						"explanation": "He requires 'Flame Manipulator' and 'Masaki the Legendary Swordsman' to be summoned via Polymerization.",
+						"image_url": "https://skillcheckgame.com/assets/images/flame_swordsman.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Joey Wheeler",
+							"Gaia The Fierce Knight",
+							"Black Luster Soldier"
+						]
+					},
+					{
+						"correct": "Flame Swordsman",
+						"difficulty": "Hard",
+						"explanation": "In the 'Legendary Heroes' arc, Joey actually physically fused with this monster to fight against the Big Five.",
+						"image_url": "https://skillcheckgame.com/assets/images/flame_swordsman.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue Flame Swordsman",
+							"Giltia the Knight",
+							"Ferocious Flame Swordsman"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_flame_swordsman",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Flame Swordsman",
+				"lore_desc": "A warrior who fights with a flaming sword to burn through anything in his path, famously Joey Wheeler's favorite monster.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Fiery Blade",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Warrior",
+					"Fusion"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Harpie Lady",
+						"difficulty": "Easy",
+						"explanation": "Harpie Lady is the signature monster of Mai Valentine and one of the first archetypes ever created.",
+						"image_url": "https://skillcheckgame.com/assets/images/harpie_lady.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Obelisk the Tormentor",
+							"Blue-Eyes Ultimate Dragon",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Harpie Lady",
+						"difficulty": "Easy",
+						"explanation": "Harpie Lady is famous for using 'Elegant Egotist' to multiply herself into the 'Harpie Lady Sisters'.",
+						"image_url": "https://skillcheckgame.com/assets/images/harpie_lady.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Jinzo",
+							"Summoned Skull"
+						]
+					},
+					{
+						"correct": "Harpie Lady",
+						"difficulty": "Medium",
+						"explanation": "This monster's field spell, 'Harpies' Hunting Ground', allows the player to destroy spells and traps whenever a Harpie is summoned.",
+						"image_url": "https://skillcheckgame.com/assets/images/harpie_lady.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician Girl",
+							"Tea Gardner",
+							"Ishizu Ishtar"
+						]
+					},
+					{
+						"correct": "Harpie Lady",
+						"difficulty": "Medium",
+						"explanation": "In the game, many different cards are legally treated as having the name 'Harpie Lady' to limit deck building.",
+						"image_url": "https://skillcheckgame.com/assets/images/harpie_lady.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Winged Kuriboh",
+							"Mai Valentine",
+							"Jaden Yuki"
+						]
+					},
+					{
+						"correct": "Harpie Lady",
+						"difficulty": "Hard",
+						"explanation": "Harpie Lady was one of the many cards censored in the Western release to cover up her original outfit design.",
+						"image_url": "https://skillcheckgame.com/assets/images/harpie_lady.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Harpie Girl",
+							"Harpie Queen",
+							"Harpie Channeler"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_harpie_lady",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Harpie Lady",
+				"lore_desc": "A bird-human hybrid creature with sharp claws and wings, often appearing in groups to overwhelm the opponent.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Winged Huntress",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Winged Beast",
+					"Villain"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Thousand-Eyes Restrict",
+						"difficulty": "Easy",
+						"explanation": "This monster was Maximillion Pegasus's ultimate weapon during his duel against Yugi in the Duelist Kingdom finale.",
+						"image_url": "https://skillcheckgame.com/assets/images/thousand_eyes_restrict.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Exodia",
+							"Red-Eyes Black Dragon"
+						]
+					},
+					{
+						"correct": "Thousand-Eyes Restrict",
+						"difficulty": "Easy",
+						"explanation": "It has the power to 'absorb' an opponent's monster, taking its Attack and Defense points as its own.",
+						"image_url": "https://skillcheckgame.com/assets/images/thousand_eyes_restrict.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Joey Wheeler",
+							"Seto Kaiba"
+						]
+					},
+					{
+						"correct": "Thousand-Eyes Restrict",
+						"difficulty": "Medium",
+						"explanation": "While this card is on the field, no other monsters can change their battle positions or even attack.",
+						"image_url": "https://skillcheckgame.com/assets/images/thousand_eyes_restrict.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"The Winged Dragon of Ra",
+							"Obelisk the Tormentor"
+						]
+					},
+					{
+						"correct": "Thousand-Eyes Restrict",
+						"difficulty": "Medium",
+						"explanation": "It was so powerful in the real-world card game that it was banned from competitive play for many years.",
+						"image_url": "https://skillcheckgame.com/assets/images/thousand_eyes_restrict.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Relinquished",
+							"Summoned Skull",
+							"Jinzo"
+						]
+					},
+					{
+						"correct": "Thousand-Eyes Restrict",
+						"difficulty": "Hard",
+						"explanation": "In the anime, Yugi defeated this monster by using Kuriboh's 'Multiply' ability to cover every single one of its eyes.",
+						"image_url": "https://skillcheckgame.com/assets/images/thousand_eyes_restrict.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Thousand-Eyes Idol",
+							"Millennium-Eyes Restrict",
+							"Abandon"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_thousand-eyes_restrict",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Thousand-Eyes Restrict",
+				"lore_desc": "A terrifying fusion of Relinquished and Thousand-Eyes Idol that can paralyze all other monsters with its gaze.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "All-Seeing Fusion",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Spellcaster",
+					"Fusion"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Relinquished",
+						"difficulty": "Easy",
+						"explanation": "Relinquished is the signature Ritual Monster of Maximillion Pegasus, the creator of Duel Monsters.",
+						"image_url": "https://skillcheckgame.com/assets/images/relinquished.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Exodia",
+							"Obelisk the Tormentor"
+						]
+					},
+					{
+						"correct": "Relinquished",
+						"difficulty": "Easy",
+						"explanation": "It starts with 0 Attack Points, but it can steal an opponent's monster to gain its power.",
+						"image_url": "https://skillcheckgame.com/assets/images/relinquished.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Yugi Muto",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Relinquished",
+						"difficulty": "Medium",
+						"explanation": "To summon this monster, Pegasus must use the 'Black Illusion Ritual' spell card.",
+						"image_url": "https://skillcheckgame.com/assets/images/relinquished.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Magician",
+							"Summoned Skull",
+							"Jinzo"
+						]
+					},
+					{
+						"correct": "Relinquished",
+						"difficulty": "Medium",
+						"explanation": "If the monster Relinquished has 'stolen' is destroyed, the owner of Relinquished takes the damage instead.",
+						"image_url": "https://skillcheckgame.com/assets/images/relinquished.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Thousand-Eyes Restrict",
+							"Marik Ishtar",
+							"Bakura Ryou"
+						]
+					},
+					{
+						"correct": "Relinquished",
+						"difficulty": "Hard",
+						"explanation": "In the Japanese version of the anime, this monster's name is 'Abandon'.",
+						"image_url": "https://skillcheckgame.com/assets/images/relinquished.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Millennium-Eyes Illusionist",
+							"Thousand-Eyes Idol",
+							"Faceless Mage"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_relinquished",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Relinquished",
+				"lore_desc": "A grotesque ritual monster used by Pegasus that traps the souls of other monsters within its vacuum-like body.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ritual Idol",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Spellcaster",
+					"Ritual"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Winged Kuriboh",
+						"difficulty": "Easy",
+						"explanation": "Winged Kuriboh is the partner spirit of Jaden Yuki, the protagonist of Yu-Gi-Oh! GX.",
+						"image_url": "https://skillcheckgame.com/assets/images/winged_kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Exodia",
+							"Slifer the Sky Dragon"
+						]
+					},
+					{
+						"correct": "Winged Kuriboh",
+						"difficulty": "Easy",
+						"explanation": "Jaden received this card from Yugi Muto while rushing to his entrance exams at Duel Academy.",
+						"image_url": "https://skillcheckgame.com/assets/images/winged_kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Seto Kaiba",
+							"Marik Ishtar",
+							"Pegasus"
+						]
+					},
+					{
+						"correct": "Winged Kuriboh",
+						"difficulty": "Medium",
+						"explanation": "When this card is destroyed, the owner takes no more battle damage for the rest of that turn.",
+						"image_url": "https://skillcheckgame.com/assets/images/winged_kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Dark Magician Girl",
+							"Jinzo"
+						]
+					},
+					{
+						"correct": "Winged Kuriboh",
+						"difficulty": "Medium",
+						"explanation": "Winged Kuriboh can level up into 'Winged Kuriboh LV10' using the 'Transcendent Wings' spell card.",
+						"image_url": "https://skillcheckgame.com/assets/images/winged_kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Jaden Yuki",
+							"Chazz Princeton",
+							"Syrus Truesdale"
+						]
+					},
+					{
+						"correct": "Winged Kuriboh",
+						"difficulty": "Hard",
+						"explanation": "Unlike the original Kuriboh, Winged Kuriboh is a Fairy-type monster rather than a Fiend-type.",
+						"image_url": "https://skillcheckgame.com/assets/images/winged_kuriboh.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuribohrn",
+							"Clear Kuriboh",
+							"Kuribandit"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_winged_kuriboh",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Winged Kuriboh",
+				"lore_desc": "A rare version of Kuriboh with angel wings, given to Jaden Yuki by the King of Games himself.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Sky-Bound Spirit",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Fairy",
+					"Spirit"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cyber Dragon",
+						"difficulty": "Easy",
+						"explanation": "Cyber Dragon is the ace monster of Zane Truesdale, the top duelist at Duel Academy in Yu-Gi-Oh! GX.",
+						"image_url": "https://skillcheckgame.com/assets/images/cyber_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blue-Eyes White Dragon",
+							"Exodia",
+							"Kuriboh"
+						]
+					},
+					{
+						"correct": "Cyber Dragon",
+						"difficulty": "Easy",
+						"explanation": "This card revolutionized the game by making 'Special Summoning' from the hand a common and powerful tactic.",
+						"image_url": "https://skillcheckgame.com/assets/images/cyber_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"Red-Eyes Black Dragon",
+							"Summoned Skull"
+						]
+					},
+					{
+						"correct": "Cyber Dragon",
+						"difficulty": "Medium",
+						"explanation": "Three Cyber Dragons can be fused together to create the devastating Cyber End Dragon with 4000 Attack Points.",
+						"image_url": "https://skillcheckgame.com/assets/images/cyber_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Stardust Dragon",
+							"Elemental HERO Neos",
+							"Dark Magician"
+						]
+					},
+					{
+						"correct": "Cyber Dragon",
+						"difficulty": "Medium",
+						"explanation": "Cyber Dragon is a LIGHT-attribute Machine monster, allowing it to be used for many powerful combo plays.",
+						"image_url": "https://skillcheckgame.com/assets/images/cyber_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Jinzo",
+							"Cyber End Dragon",
+							"Cyber Twin Dragon"
+						]
+					},
+					{
+						"correct": "Cyber Dragon",
+						"difficulty": "Hard",
+						"explanation": "In competitive play history, Cyber Dragon was so dominant that it was once limited to only one copy per deck.",
+						"image_url": "https://skillcheckgame.com/assets/images/cyber_dragon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Cyber Dragon Core",
+							"Cyber Dragon Drei",
+							"Proto-Cyber Dragon"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_cyber_dragon",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Cyber Dragon",
+				"lore_desc": "A mechanical dragon that can be special summoned if its owner has no monsters on the field while the opponent does.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Iron Serpent",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Machine",
+					"Hero"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Jaden Yuki",
+						"difficulty": "Easy",
+						"explanation": "Jaden is the main protagonist of Yu-Gi-Oh! GX and is known for his signature catchphrase, 'Get your game on!'",
+						"image_url": "https://skillcheckgame.com/assets/images/jaden_yuki.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Exodia the Forbidden One",
+							"Obelisk the Tormentor",
+							"Blue-Eyes White Dragon"
+						]
+					},
+					{
+						"correct": "Jaden Yuki",
+						"difficulty": "Easy",
+						"explanation": "Jaden specializes in Elemental HERO monsters, which he constantly fuses into new forms during his duels.",
+						"image_url": "https://skillcheckgame.com/assets/images/jaden_yuki.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Jinzo",
+							"Summoned Skull"
+						]
+					},
+					{
+						"correct": "Jaden Yuki",
+						"difficulty": "Medium",
+						"explanation": "Despite being an incredibly skilled duelist, Jaden stays in the Slifer Red dorm, which is reserved for students with the lowest grades.",
+						"image_url": "https://skillcheckgame.com/assets/images/jaden_yuki.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Yugi Muto",
+							"Seto Kaiba",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Jaden Yuki",
+						"difficulty": "Medium",
+						"explanation": "Jaden has the unique ability to see and communicate with Duel Monster spirits, most notably his Winged Kuriboh.",
+						"image_url": "https://skillcheckgame.com/assets/images/jaden_yuki.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Chazz Princeton",
+							"Zane Truesdale",
+							"Syrus Truesdale"
+						]
+					},
+					{
+						"correct": "Jaden Yuki",
+						"difficulty": "Hard",
+						"explanation": "Jaden's Japanese name is Judai Yuki, and he later fuses his soul with the spirit of Yubel.",
+						"image_url": "https://skillcheckgame.com/assets/images/jaden_yuki.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"The Supreme King",
+							"Aster Phoenix",
+							"Jesse Anderson"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_jaden_yuki",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Jaden Yuki",
+				"lore_desc": "An energetic duelist who loves dueling more than anything and resides in the Slifer Red dormitory at Duel Academy.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Slifer Red Hero",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Human",
+					"Duelist"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Chazz Princeton",
+						"difficulty": "Easy",
+						"explanation": "Chazz is Jaden's primary rival in Yu-Gi-Oh! GX, often shouting 'Chazz it up!' to his fans.",
+						"image_url": "https://skillcheckgame.com/assets/images/chazz_princeton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Slifer the Sky Dragon",
+							"Blue-Eyes Ultimate Dragon",
+							"Exodia"
+						]
+					},
+					{
+						"correct": "Chazz Princeton",
+						"difficulty": "Easy",
+						"explanation": "After being expelled from Obelisk Blue, Chazz went to North Academy and built a deck out of 'discarded' cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/chazz_princeton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kuriboh",
+							"Dark Magician Girl",
+							"Tea Gardner"
+						]
+					},
+					{
+						"correct": "Chazz Princeton",
+						"difficulty": "Medium",
+						"explanation": "Chazz is the only duelist to use three completely different archetypes at once: Ojamas, Armed Dragons, and VWXYZ Machines.",
+						"image_url": "https://skillcheckgame.com/assets/images/chazz_princeton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Yugi Muto",
+							"Seto Kaiba",
+							"Joey Wheeler"
+						]
+					},
+					{
+						"correct": "Chazz Princeton",
+						"difficulty": "Medium",
+						"explanation": "He is constantly followed by the 'Ojama Trio' spirits, who he finds annoying despite them being his signature cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/chazz_princeton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Jaden Yuki",
+							"Zane Truesdale",
+							"Syrus Truesdale"
+						]
+					},
+					{
+						"correct": "Chazz Princeton",
+						"difficulty": "Hard",
+						"explanation": "Chazz's Japanese name is Jun Manjoume, and his black coat was originally given to him by North Academy's principal.",
+						"image_url": "https://skillcheckgame.com/assets/images/chazz_princeton.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Jun Manjoume",
+							"Bastion Misawa",
+							"Alexis Rhodes"
+						]
+					}
+				]
+			},
+			"id": "yu-gi-oh_chazz_princeton",
+			"meta": {
+				"date_added": "2026-03-23",
+				"entity_category": "Theme Item",
+				"full_title": "Chazz Princeton",
+				"lore_desc": "A wealthy and arrogant duelist who eventually finds his own path by mastering the weak but annoying Ojama monsters.",
+				"theme_origin": "yu-gi-oh",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ojama Master",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Human",
+					"Duelist"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -83269,7 +84597,7 @@
 					"name": "Beyond the Original"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Exodia the Forbidden One",
 						"Seto Kaiba"
