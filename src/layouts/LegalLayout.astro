@@ -1,45 +1,83 @@
-<script>
-  (function () {
-    const backBtn = document.getElementById('back-to-game');
-    const closeHint = document.getElementById('close-hint');
+---
+const { title } = Astro.props;
+---
 
-    const wasOpenedByGame = !!window.opener;
-    const isInIframe = window.parent !== window;
-    const hasHistory = window.history.length > 1;
-
-    if (backBtn) {
-      backBtn.addEventListener('click', function (e) {
-        e.preventDefault();
-
-        if (wasOpenedByGame) {
-          // Opened from the game — close the tab
-          window.close();
-          // If window.close() was blocked by the browser, show hint
-          setTimeout(function () {
-            if (closeHint) closeHint.style.display = 'block';
-            backBtn.textContent = 'Close this tab manually';
-          }, 500);
-        } else if (isInIframe) {
-          window.parent.postMessage({ type: 'CLOSE_LEGAL' }, '*');
-        } else if (hasHistory) {
-          // Came from another page on the site — go back
-          window.history.back();
-        } else {
-          // Direct visit with no history — go to homepage
-          window.location.href = '/';
-        }
-      });
-    }
-
-    // Keep footer nav links in same tab when opened from game
-    if (wasOpenedByGame || isInIframe) {
-      const footerLinks = document.querySelectorAll('.footer-nav a');
-      for (let i = 0; i < footerLinks.length; i++) {
-        const anchor = footerLinks[i] as HTMLAnchorElement;
-        if (anchor.href && !anchor.href.startsWith('mailto:')) {
-          anchor.setAttribute('target', '_self');
-        }
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} | Skill Check</title>
+    <style>
+      /* Basic dark theme so the text is visible */
+      body {
+        background-color: #121212;
+        color: #e8e8ee;
+        font-family: sans-serif;
+        padding: 2rem;
+        max-width: 800px;
+        margin: 0 auto;
       }
-    }
-  })();
-</script>
+
+      /* You can add a Back to Game button here if needed */
+      #back-to-game {
+        display: inline-block;
+        margin-bottom: 2rem;
+        color: #00e5ff;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="/" id="back-to-game">← Back to Game</a>
+    <p id="close-hint" style="display: none; color: #ffcc00;">Please close this tab manually.</p>
+
+    <main>
+      <slot />
+    </main>
+
+    <script>
+      (function () {
+        const backBtn = document.getElementById('back-to-game');
+        const closeHint = document.getElementById('close-hint');
+
+        const wasOpenedByGame = !!window.opener;
+        const isInIframe = window.parent !== window;
+        const hasHistory = window.history.length > 1;
+
+        if (backBtn) {
+          backBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+
+            if (wasOpenedByGame) {
+              window.close();
+              setTimeout(function () {
+                if (closeHint) closeHint.style.display = 'block';
+                backBtn.textContent = 'Close this tab manually';
+              }, 500);
+            } else if (isInIframe) {
+              window.parent.postMessage({ type: 'CLOSE_LEGAL' }, '*');
+            } else if (hasHistory) {
+              window.history.back();
+            } else {
+              window.location.href = '/';
+            }
+          });
+        }
+
+        // Keep footer nav links in the same tab when opened from the game
+        if (wasOpenedByGame || isInIframe) {
+          const footerLinks = document.querySelectorAll('.footer-nav a');
+
+          footerLinks.forEach(function (link) {
+            // THIS is the magic line that fixes the VS Code error
+            if (link instanceof HTMLAnchorElement) {
+              if (link.href && !link.href.startsWith('mailto:')) {
+                link.setAttribute('target', '_self');
+              }
+            }
+          });
+        }
+      })();
+    </script>
+  </body>
+</html>
