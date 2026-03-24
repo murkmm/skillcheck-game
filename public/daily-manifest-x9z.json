@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774209817,
+	"last_updated": 1774375190,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2570,6 +2570,51 @@
 				"yu-gi-oh_seto_kaiba",
 				"yu-gi-oh_yugi_muto",
 				"yu-gi-oh_maximillion_pegasus"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-25": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "The Legend of Zelda: The Trivia Waker",
+			"share_text": "Not even Tingle could charge me for this perfect Skillcheck run!",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "quick_save"
+				},
+				{
+					"p1": "link_cable",
+					"p2": "double_adapter"
+				}
+			],
+			"showcase": [
+				"the_legend_of_zelda_wind_waker_link",
+				"the_legend_of_zelda_wind_waker_tetra",
+				"the_legend_of_zelda_wind_waker_the_king_of_red_lions"
+			],
+			"starters": [
+				"the_legend_of_zelda_wind_waker_link",
+				"the_legend_of_zelda_wind_waker_tetra",
+				"the_legend_of_zelda_wind_waker_ganondorf",
+				"the_legend_of_zelda_wind_waker_the_king_of_red_lions",
+				"the_legend_of_zelda_wind_waker_medli",
+				"the_legend_of_zelda_wind_waker_makar",
+				"the_legend_of_zelda_wind_waker_valoo",
+				"the_legend_of_zelda_wind_waker_the_wind_waker",
+				"the_legend_of_zelda_wind_waker_the_master_sword",
+				"the_legend_of_zelda_wind_waker_dragon_roost_island",
+				"the_legend_of_zelda_wind_waker_forest_haven",
+				"the_legend_of_zelda_wind_waker_outset_island",
+				"the_legend_of_zelda_wind_waker_aryll",
+				"the_legend_of_zelda_wind_waker_tingle",
+				"the_legend_of_zelda_wind_waker_beedle",
+				"the_legend_of_zelda_wind_waker_forsaken_fortress"
 			],
 			"submitted_by": ""
 		}
