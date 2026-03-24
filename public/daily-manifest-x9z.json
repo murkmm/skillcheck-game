@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774375190,
+	"last_updated": 1774392594,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2615,6 +2615,51 @@
 				"the_legend_of_zelda_wind_waker_tingle",
 				"the_legend_of_zelda_wind_waker_beedle",
 				"the_legend_of_zelda_wind_waker_forsaken_fortress"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-26": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Super Smash Bros; Melee",
+			"share_text": "No items, Fox only",
+			"shops": [
+				{
+					"p1": "second_chance",
+					"p2": "turbo_button"
+				},
+				{
+					"p1": "double_adapter",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "game_shark"
+				}
+			],
+			"showcase": [
+				"super_smash_bros_melee_falco",
+				"super_smash_bros_melee_fox",
+				"super_smash_bros_melee_master_hand"
+			],
+			"starters": [
+				"super_smash_bros_melee_fox",
+				"super_smash_bros_melee_marth",
+				"super_smash_bros_melee_falco",
+				"super_smash_bros_melee_sheik",
+				"super_smash_bros_melee_jigglypuff",
+				"super_smash_bros_melee_peach",
+				"super_smash_bros_melee_captain_falcon",
+				"super_smash_bros_melee_ganondorf",
+				"super_smash_bros_melee_ice_climbers",
+				"super_smash_bros_melee_mewtwo",
+				"super_smash_bros_melee_mr._game_&_watch",
+				"super_smash_bros_melee_master_hand",
+				"super_smash_bros_melee_final_destination",
+				"super_smash_bros_melee_battlefield",
+				"super_smash_bros_melee_poké_floats",
+				"super_smash_bros_melee_home_run_bat"
 			],
 			"submitted_by": ""
 		}
