@@ -81556,6 +81556,3254 @@
 					"Duelist"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Action-Adventure",
+						"difficulty": "Easy",
+						"explanation": "The Legend of Zelda series is the definitive example of the Action-Adventure genre, mixing combat, exploration, and puzzles.",
+						"image_url": "",
+						"question": "What is the primary genre of the game featuring this young hero in a vast ocean?",
+						"wrong": [
+							"First Person Shooter",
+							"Racing Simulation",
+							"Sports Management"
+						]
+					},
+					{
+						"correct": "GameCube",
+						"difficulty": "Easy",
+						"explanation": "Wind Waker was a flagship title for the Nintendo GameCube, famous for its unique cel-shaded art style.",
+						"image_url": "",
+						"question": "On which Nintendo console did this version of the hero first set sail in 2002?",
+						"wrong": [
+							"Nintendo 64",
+							"Super Nintendo",
+							"Wii U"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "As part of the tradition on Outset Island, boys wear a green tunic when they reach the age of the legendary hero.",
+						"image_url": "",
+						"question": "What is the traditional color of the tunic this hero receives on his birthday?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Aryll",
+						"difficulty": "Easy",
+						"explanation": "Aryll is Link's sister who is kidnapped by the Helmaroc King, sparking the entire adventure.",
+						"image_url": "",
+						"question": "Who is the younger sister that the hero must rescue from a giant bird at the start of his journey?",
+						"wrong": [
+							"Malon",
+							"Saria",
+							"Marin"
+						]
+					},
+					{
+						"correct": "The Wind Waker",
+						"difficulty": "Easy",
+						"explanation": "The Wind Waker is a conductor's baton that allows the user to command the wind and other spirits.",
+						"image_url": "",
+						"question": "What magical baton does this hero use to control the direction of the wind?",
+						"wrong": [
+							"The Ocarina of Time",
+							"The Spirit Flute",
+							"The Goddess Harp"
+						]
+					},
+					{
+						"correct": "Outset Island",
+						"difficulty": "Medium",
+						"explanation": "Outset Island is located in the southern part of the Great Sea and serves as the hero's home.",
+						"image_url": "",
+						"question": "On which specific island does this hero live with his grandmother at the start of the game?",
+						"wrong": [
+							"Windfall Island",
+							"Dragon Roost Island",
+							"Forest Haven"
+						]
+					},
+					{
+						"correct": "Orca",
+						"difficulty": "Medium",
+						"explanation": "Orca is a master swordsman who lives on Outset Island and provides Link with his initial training.",
+						"image_url": "",
+						"question": "Which elder on Outset Island teaches the hero the way of the sword and gives him his first weapon?",
+						"wrong": [
+							"Sturgeon",
+							"Beedle",
+							"Tingle"
+						]
+					},
+					{
+						"correct": "Hero's Shield",
+						"difficulty": "Medium",
+						"explanation": "The Hero's Shield is a family heirloom kept by Link's grandmother until he begins his quest.",
+						"image_url": "",
+						"question": "What item does the hero's grandmother give him to protect him, which was once used by the hero of old?",
+						"wrong": [
+							"Mirror Shield",
+							"Hylian Shield",
+							"Deku Shield"
+						]
+					},
+					{
+						"correct": "Hero of Winds",
+						"difficulty": "Medium",
+						"explanation": "Unlike the Hero of Time from Ocarina, this Link earns the title Hero of Winds after crossing the Great Sea.",
+						"image_url": "",
+						"question": "What title is bestowed upon this specific incarnation of the hero after he proves his worth to the gods?",
+						"wrong": [
+							"Hero of Time",
+							"Hero of Twilight",
+							"Hero of Skies"
+						]
+					},
+					{
+						"correct": "Forsaken Fortress",
+						"difficulty": "Medium",
+						"explanation": "Link first attempts to rescue Aryll at the Forsaken Fortress but is launched out by the Helmaroc King.",
+						"image_url": "",
+						"question": "Which massive fortress does the hero infiltrate early in the game to find his sister, only to be thrown into the sea?",
+						"wrong": [
+							"Ganon's Castle",
+							"Tower of the Gods",
+							"Earth Temple"
+						]
+					},
+					{
+						"correct": "Hurricane Spin",
+						"difficulty": "Hard",
+						"explanation": "The Hurricane Spin is a powerful, dizzying sword attack that consumes magic power.",
+						"image_url": "",
+						"question": "What is the name of the special move Orca teaches the hero if he collects ten Knight's Crests?",
+						"wrong": [
+							"Mortal Draw",
+							"Skyward Strike",
+							"Back Slice"
+						]
+					},
+					{
+						"correct": "Swift Sail",
+						"difficulty": "Hard",
+						"explanation": "The Swift Sail is an exclusive item in the Wii U version that doubles sailing speed and automatically adjusts wind direction.",
+						"image_url": "",
+						"question": "In the HD version of the game, what item can the hero acquire to make his boat travel much faster?",
+						"wrong": [
+							"Iron Boots",
+							"Power Muffler",
+							"Turbo Rudder"
+						]
+					},
+					{
+						"correct": "Power Bracelets",
+						"difficulty": "Hard",
+						"explanation": "The Power Bracelets are needed to lift the heavy stone head covering the entrance to the Savage Labyrinth.",
+						"image_url": "",
+						"question": "What specific item is required for the hero to enter the secret Savage Labyrinth on Outset Island?",
+						"wrong": [
+							"Iron Boots",
+							"Grappling Hook",
+							"Hookshot"
+						]
+					},
+					{
+						"correct": "Eight",
+						"difficulty": "Hard",
+						"explanation": "Link must find eight Triforce Shards scattered across the Great Sea to reform the Triforce of Courage.",
+						"image_url": "",
+						"question": "How many pieces of the Triforce of Courage must the hero dredge up from the ocean floor before the final battle?",
+						"wrong": [
+							"Three",
+							"Five",
+							"Seven"
+						]
+					},
+					{
+						"correct": "Hylian",
+						"difficulty": "Hard",
+						"explanation": "In a New Game Plus playthrough, the Ancient Hylian text is translated into English for the player to read.",
+						"image_url": "",
+						"question": "Which ancient language does the hero surprisingly understand when spoken by characters like the Great Deku Tree in a second playthrough?",
+						"wrong": [
+							"Gerudo",
+							"Zora",
+							"Goron"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_link",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Link",
+				"lore_desc": "A young boy from Outset Island who dons the legendary green tunic to rescue his sister and eventually becomes the Hero of Winds.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Protagonist",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pirates",
+						"difficulty": "Easy",
+						"explanation": "Tetra leads a group of pirates who sail the Great Sea in search of treasure.",
+						"image_url": "",
+						"question": "What is the primary occupation of this character and her rowdy crew?",
+						"wrong": [
+							"Knights",
+							"Shopkeepers",
+							"Farmers"
+						]
+					},
+					{
+						"correct": "Zelda",
+						"difficulty": "Easy",
+						"explanation": "Halfway through the game, Tetra discovers she is actually Princess Zelda, the descendant of the ancient royal line.",
+						"image_url": "",
+						"question": "This character is eventually revealed to be the secret identity of which famous Nintendo princess?",
+						"wrong": [
+							"Peach",
+							"Daisy",
+							"Rosalina"
+						]
+					},
+					{
+						"correct": "Nintendo",
+						"difficulty": "Easy",
+						"explanation": "The Legend of Zelda series is developed and published by Nintendo.",
+						"image_url": "",
+						"question": "Who is the main developer of the game in which this character appears?",
+						"wrong": [
+							"Sega",
+							"Capcom",
+							"Ubisoft"
+						]
+					},
+					{
+						"correct": "The Great Sea",
+						"difficulty": "Easy",
+						"explanation": "Following a great flood, the world of Wind Waker is almost entirely covered by the Great Sea.",
+						"image_url": "",
+						"question": "What is the name of the vast body of water that this character sails across?",
+						"wrong": [
+							"The Pacific Ocean",
+							"The Zora River",
+							"The Sea of Dreams"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Tetra wears a bright red bandana as part of her iconic pirate outfit.",
+						"image_url": "",
+						"question": "What color is the distinctive bandana this character wears on her head?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Black"
+						]
+					},
+					{
+						"correct": "Pirate's Charm",
+						"difficulty": "Medium",
+						"explanation": "The Pirate's Charm is a modified Gossip Stone that allows Tetra to talk to Link through telepathy.",
+						"image_url": "",
+						"question": "What magical item does this character give Link early on so they can communicate from a distance?",
+						"wrong": [
+							"Gossip Stone",
+							"Sheikah Slate",
+							"Link Pearl"
+						]
+					},
+					{
+						"correct": "Forest of Fairies",
+						"difficulty": "Medium",
+						"explanation": "Link first finds Tetra in the Forest of Fairies on Outset Island after her crew's ship is attacked.",
+						"image_url": "",
+						"question": "In which forest is this character first encountered while dangling from a tree branch?",
+						"wrong": [
+							"Forbidden Woods",
+							"Lost Woods",
+							"Faron Woods"
+						]
+					},
+					{
+						"correct": "Triforce of Wisdom",
+						"difficulty": "Medium",
+						"explanation": "The necklace handed down through her family was actually a shard of the Triforce of Wisdom.",
+						"image_url": "",
+						"question": "What specific shard of the Triforce is this character wearing as a necklace before she transforms?",
+						"wrong": [
+							"Triforce of Courage",
+							"Triforce of Power",
+							"The Master Triforce"
+						]
+					},
+					{
+						"correct": "She becomes Princess Zelda",
+						"difficulty": "Medium",
+						"explanation": "The King of Hyrule uses the Triforce of Wisdom to awaken her true form as Princess Zelda.",
+						"image_url": "",
+						"question": "What happens to this character's physical appearance when she is taken to the sunken Hyrule Castle?",
+						"wrong": [
+							"She turns into a ghost",
+							"She grows wings",
+							"She becomes a statue"
+						]
+					},
+					{
+						"correct": "Gonzo",
+						"difficulty": "Medium",
+						"explanation": "Gonzo is Tetra's second-in-command and the most physically imposing member of the pirate crew.",
+						"image_url": "",
+						"question": "Which member of this character's pirate crew is a bulky man who often acts as the ship's muscle?",
+						"wrong": [
+							"Mako",
+							"Zuko",
+							"Senza"
+						]
+					},
+					{
+						"correct": "In her cabin",
+						"difficulty": "Hard",
+						"explanation": "A portrait of Princess Zelda can be found in Tetra's private cabin on the pirate ship.",
+						"image_url": "",
+						"question": "Where does this character hide a portrait of her ancestor, which hints at her royal lineage?",
+						"wrong": [
+							"In the hold",
+							"On the mast",
+							"In a bottle"
+						]
+					},
+					{
+						"correct": "Six",
+						"difficulty": "Hard",
+						"explanation": "The crew consists of Gonzo, Senza, Nudge, Zuko, Mako, and Niko, making six pirates in total.",
+						"image_url": "",
+						"question": "How many pirates are in this character's crew, excluding herself?",
+						"wrong": [
+							"Four",
+							"Five",
+							"Seven"
+						]
+					},
+					{
+						"correct": "Launches him from a catapult",
+						"difficulty": "Hard",
+						"explanation": "Tetra stuffs Link into a barrel and launches him from the ship's catapult into the fortress.",
+						"image_url": "",
+						"question": "What does this character do to Link to help him reach the Forsaken Fortress for the first time?",
+						"wrong": [
+							"Gives him a boat",
+							"Teleports him",
+							"Drops him from a bird"
+						]
+					},
+					{
+						"correct": "Light Arrows",
+						"difficulty": "Hard",
+						"explanation": "Tetra (as Zelda) assists Link by firing Light Arrows to stun Ganondorf.",
+						"image_url": "",
+						"question": "What type of weapon does this character use during the final battle against Ganondorf?",
+						"wrong": [
+							"Cutlass",
+							"Pistol",
+							"Magic Wand"
+						]
+					},
+					{
+						"correct": "Mako",
+						"difficulty": "Hard",
+						"explanation": "Mako is the brainy navigator of the crew, characterized by his sharp features and glasses.",
+						"image_url": "",
+						"question": "What is the name of the navigator on this character's crew who wears glasses and looks like a shark?",
+						"wrong": [
+							"Senza",
+							"Zuko",
+							"Nudge"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_tetra",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Tetra",
+				"lore_desc": "The spunky and confident leader of a band of pirates who is eventually revealed to be the true heir to the Hylian throne.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Pirate",
+					"Leader",
+					"Royal"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Obtaining the Triforce",
+						"difficulty": "Easy",
+						"explanation": "Ganondorf seeks the Triforce to grant his wish of world domination.",
+						"image_url": "",
+						"question": "What is the primary motivation for this villain throughout the series?",
+						"wrong": [
+							"Becoming a pirate",
+							"Saving the ocean",
+							"Learning to fly"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "As a Gerudo, Ganondorf is famously depicted with bright red hair.",
+						"image_url": "",
+						"question": "What color is this character's hair, a trait common to his people?",
+						"wrong": [
+							"Black",
+							"Blonde",
+							"White"
+						]
+					},
+					{
+						"correct": "E for Everyone",
+						"difficulty": "Easy",
+						"explanation": "Despite its dark themes, the game's art style helped it maintain an E rating.",
+						"image_url": "",
+						"question": "What is the age rating for the game in which this villain appears?",
+						"wrong": [
+							"M for Mature",
+							"T for Teen",
+							"AO for Adults Only"
+						]
+					},
+					{
+						"correct": "Forsaken Fortress",
+						"difficulty": "Easy",
+						"explanation": "Ganondorf rules from the Forsaken Fortress, using the Helmaroc King to kidnap girls.",
+						"image_url": "",
+						"question": "In which island fortress does this villain establish his base of operations at the start of the game?",
+						"wrong": [
+							"Dragon Roost",
+							"Outset Island",
+							"Windfall Island"
+						]
+					},
+					{
+						"correct": "Gerudo",
+						"difficulty": "Easy",
+						"explanation": "Ganondorf is the King of the Gerudo, a tribe of desert-dwelling warriors.",
+						"image_url": "",
+						"question": "What race of people does this villain originate from, where only one male is born every 100 years?",
+						"wrong": [
+							"Hylian",
+							"Goron",
+							"Zora"
+						]
+					},
+					{
+						"correct": "Triforce of Power",
+						"difficulty": "Medium",
+						"explanation": "Ganondorf is the bearer of the Triforce of Power, which grants him immense magical strength.",
+						"image_url": "",
+						"question": "What specific piece of the Triforce does this villain naturally possess?",
+						"wrong": [
+							"Triforce of Wisdom",
+							"Triforce of Courage",
+							"Triforce of Love"
+						]
+					},
+					{
+						"correct": "Helmaroc King",
+						"difficulty": "Medium",
+						"explanation": "The Helmaroc King is a giant masked bird that kidnaps Aryll on Ganondorf's orders.",
+						"image_url": "",
+						"question": "What is the name of the massive bird that serves as this villain's personal pet and enforcer?",
+						"wrong": [
+							"Molgera",
+							"Gohma",
+							"Kalle Demos"
+						]
+					},
+					{
+						"correct": "Laruto and Fado",
+						"difficulty": "Medium",
+						"explanation": "Laruto (Zora) and Fado (Kokiri) were the sages of the Earth and Wind Temples slain by Ganondorf's forces.",
+						"image_url": "",
+						"question": "Which two sages did this villain kill to depower the Master Sword before the game began?",
+						"wrong": [
+							"Rauru and Saria",
+							"Darunia and Ruto",
+							"Nabooru and Impa"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Medium",
+						"explanation": "In Wind Waker, Ganondorf fights with a pair of long, curved blades.",
+						"image_url": "",
+						"question": "During the final battle, how many swords does this villain wield simultaneously?",
+						"wrong": [
+							"One",
+							"Three",
+							"Four"
+						]
+					},
+					{
+						"correct": "The wind",
+						"difficulty": "Medium",
+						"explanation": "Ganondorf laments that the wind in his desert brought death, while the wind of Hyrule brought life.",
+						"image_url": "",
+						"question": "What does this villain claim he coveted most about the ancient kingdom of Hyrule in his final monologue?",
+						"wrong": [
+							"The gold",
+							"The water",
+							"The princesses"
+						]
+					},
+					{
+						"correct": "Phantom Ganon",
+						"difficulty": "Hard",
+						"explanation": "Phantom Ganon appears as a spectral version of the villain to test Link's strength.",
+						"image_url": "",
+						"question": "What form does this villain take when he first confronts Link in the Tower of the Gods, though only as an illusion?",
+						"wrong": [
+							"Dark Link",
+							"Ganon Beast",
+							"A giant bat"
+						]
+					},
+					{
+						"correct": "Turned to stone",
+						"difficulty": "Hard",
+						"explanation": "After Link plunges the Master Sword into his forehead, Ganondorf turns into a stone statue at the bottom of the ocean.",
+						"image_url": "",
+						"question": "What is the final fate of this villain at the end of the game?",
+						"wrong": [
+							"Burned to ash",
+							"Banished to the Void",
+							"Imprisoned in a jar"
+						]
+					},
+					{
+						"correct": "Puppet Ganon",
+						"difficulty": "Hard",
+						"explanation": "Link must face the three forms of Puppet Ganon before ascending to the roof for the final duel.",
+						"image_url": "",
+						"question": "Which boss must Link fight immediately before the final encounter with this villain?",
+						"wrong": [
+							"Kalle Demos",
+							"Molgera",
+							"Jalhalla"
+						]
+					},
+					{
+						"correct": "He does not have a ship",
+						"difficulty": "Hard",
+						"explanation": "Unlike most characters, Ganondorf does not sail; he uses magic and his giant bird for transportation.",
+						"image_url": "",
+						"question": "What is the name of the ship that this villain uses to travel through the Great Sea?",
+						"wrong": [
+							"The Black Pearl",
+							"The Gerudo Galley",
+							"The Forsaken Vessel"
+						]
+					},
+					{
+						"correct": "The Hero of Time did not appear",
+						"difficulty": "Hard",
+						"explanation": "The prologue explains that the Hero of Time did not return to stop Ganon, leading the gods to flood the world.",
+						"image_url": "",
+						"question": "In the game's introductory legend, why was this villain able to return and conquer Hyrule?",
+						"wrong": [
+							"The Master Sword broke",
+							"Zelda betrayed the King",
+							"The flood failed"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_ganondorf",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Ganondorf",
+				"lore_desc": "The powerful leader of the Gerudo who survived the flood of Hyrule and seeks to reclaim the world for himself.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"King",
+					"Warlock"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A talking boat",
+						"difficulty": "Easy",
+						"explanation": "The King of Red Lions is Link's primary mode of transport and a sentient sailboat.",
+						"image_url": "",
+						"question": "What type of object is this character during the majority of the game?",
+						"wrong": [
+							"A flying carpet",
+							"A magic horse",
+							"A giant bird"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "As the name suggests, the boat is painted a bright, royal red.",
+						"image_url": "",
+						"question": "What is the primary color of this character's hull?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Nintendo",
+						"difficulty": "Easy",
+						"explanation": "This character is a major figure in the Nintendo-developed Zelda franchise.",
+						"image_url": "",
+						"question": "Which company developed the game that this character appears in?",
+						"wrong": [
+							"Sony",
+							"Microsoft",
+							"Sega"
+						]
+					},
+					{
+						"correct": "King of Hyrule",
+						"difficulty": "Easy",
+						"explanation": "The boat is actually the vessel for the spirit of King Daphnes Nohansen Hyrule.",
+						"image_url": "",
+						"question": "What is the human identity of this character?",
+						"wrong": [
+							"Link's Father",
+							"Ganon's Brother",
+							"A famous pirate"
+						]
+					},
+					{
+						"correct": "Windfall Island",
+						"difficulty": "Easy",
+						"explanation": "Link washes up on Windfall Island and is rescued by the talking boat.",
+						"image_url": "",
+						"question": "Where does Link first meet this character after being thrown out of the Forsaken Fortress?",
+						"wrong": [
+							"Outset Island",
+							"Dragon Roost Island",
+							"Forest Haven"
+						]
+					},
+					{
+						"correct": "Daphnes Nohansen Hyrule",
+						"difficulty": "Medium",
+						"explanation": "He was the last king of the ancient kingdom before it was flooded.",
+						"image_url": "",
+						"question": "What is the full, formal human name of this character?",
+						"wrong": [
+							"Rhoam Bosphoramus Hyrule",
+							"Gustaf Hylia",
+							"Gaepora Hylia"
+						]
+					},
+					{
+						"correct": "A Sail",
+						"difficulty": "Medium",
+						"explanation": "Link has to purchase or find a sail on Windfall Island before the King of Red Lions can travel.",
+						"image_url": "",
+						"question": "What item must Link find to allow this character to sail across the sea?",
+						"wrong": [
+							"An Oar",
+							"A Motor",
+							"A Propeller"
+						]
+					},
+					{
+						"correct": "Pirate's Charm",
+						"difficulty": "Medium",
+						"explanation": "The King speaks to Link through the Pirate's Charm that Tetra originally gave him.",
+						"image_url": "",
+						"question": "What does this character use to communicate with Link when the boy is away from the boat?",
+						"wrong": [
+							"Telepathy",
+							"A megaphone",
+							"A carrier pigeon"
+						]
+					},
+					{
+						"correct": "The destruction of Hyrule",
+						"difficulty": "Medium",
+						"explanation": "He wishes for Hyrule to be washed away forever to give Link and Zelda a future without the past's burdens.",
+						"image_url": "",
+						"question": "In the final scene of the game, what does this character wish for on the Triforce?",
+						"wrong": [
+							"Eternal life",
+							"The return of his kingdom",
+							"The death of Link"
+						]
+					},
+					{
+						"correct": "Forsaken Fortress",
+						"difficulty": "Medium",
+						"explanation": "He forbids Link from returning to the Forsaken Fortress until he has the Master Sword.",
+						"image_url": "",
+						"question": "Which island is the only location where this character refuses to let Link sail until a certain point in the story?",
+						"wrong": [
+							"Tingle Island",
+							"Star Island",
+							"Six-Eye Reef"
+						]
+					},
+					{
+						"correct": "He stays behind to drown",
+						"difficulty": "Hard",
+						"explanation": "The King chooses to remain with his kingdom as it is permanently submerged.",
+						"image_url": "",
+						"question": "What happens to this character after his final wish is granted?",
+						"wrong": [
+							"He turns back into a boat",
+							"He becomes a ghost",
+							"He sails to a new land"
+						]
+					},
+					{
+						"correct": "Kenyu Horiuchi",
+						"difficulty": "Hard",
+						"explanation": "Kenyu Horiuchi provided the voice for the King of Hyrule.",
+						"image_url": "",
+						"question": "Who is the human voice actor for this character in the Japanese version of the game?",
+						"wrong": [
+							"Akira Sasanuma",
+							"Nobuyuki Hiyama",
+							"Koji Totani"
+						]
+					},
+					{
+						"correct": "Tower of the Gods",
+						"difficulty": "Hard",
+						"explanation": "The King leads Link to the coordinates where the Tower of the Gods rises from the sea.",
+						"image_url": "",
+						"question": "What is the specific name of the island where this character brings Link to undergo the trial of the gods?",
+						"wrong": [
+							"Temple of Time",
+							"Trial Island",
+							"Gate of Heaven"
+						]
+					},
+					{
+						"correct": "A dragon's head",
+						"difficulty": "Hard",
+						"explanation": "Despite being called the King of Red Lions, the figurehead is designed to look like a red dragon.",
+						"image_url": "",
+						"question": "What is the unique feature on the front of this character's hull?",
+						"wrong": [
+							"A lion's head",
+							"A maiden's figure",
+							"A sun symbol"
+						]
+					},
+					{
+						"correct": "He makes a barking sound",
+						"difficulty": "Hard",
+						"explanation": "The boat makes a distinct vocal sound to grab the player's attention.",
+						"image_url": "",
+						"question": "When Link is sailing, what indicates that this character has something important to say?",
+						"wrong": [
+							"He flashes red",
+							"He stops moving",
+							"He starts spinning"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_the_king_of_red_lions",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "The King of Red Lions",
+				"lore_desc": "A sentient red sailboat that guides Link across the Great Sea and provides counsel on his quest.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ship",
+					"Mentor",
+					"Royal"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Rito",
+						"difficulty": "Easy",
+						"explanation": "Medli is a member of the Rito, a race of evolved bird people.",
+						"image_url": "",
+						"question": "To which bird-like race does this character belong?",
+						"wrong": [
+							"Zora",
+							"Goron",
+							"Kokiri"
+						]
+					},
+					{
+						"correct": "Dragon Roost Island",
+						"difficulty": "Easy",
+						"explanation": "Dragon Roost Island is the mountainous home of the Rito.",
+						"image_url": "",
+						"question": "On which volcanic island does this character live?",
+						"wrong": [
+							"Outset Island",
+							"Windfall Island",
+							"Forest Haven"
+						]
+					},
+					{
+						"correct": "Harp",
+						"difficulty": "Easy",
+						"explanation": "Medli carries a small harp, which she uses to play sacred melodies.",
+						"image_url": "",
+						"question": "What musical instrument does this character play?",
+						"wrong": [
+							"Flute",
+							"Cello",
+							"Drums"
+						]
+					},
+					{
+						"correct": "Cel-shaded",
+						"difficulty": "Easy",
+						"explanation": "Wind Waker is famous for its bright, expressive cel-shaded graphics.",
+						"image_url": "",
+						"question": "What is the visual art style used for this character's design?",
+						"wrong": [
+							"Hyper-realistic",
+							"Pixel art",
+							"Claymation"
+						]
+					},
+					{
+						"correct": "Valoo",
+						"difficulty": "Easy",
+						"explanation": "Medli serves as the translator and attendant for the great sky dragon Valoo.",
+						"image_url": "",
+						"question": "Which ancient dragon is this character an attendant for?",
+						"wrong": [
+							"Volvagia",
+							"Farosh",
+							"Dinraal"
+						]
+					},
+					{
+						"correct": "Earth Temple",
+						"difficulty": "Medium",
+						"explanation": "Medli is the Sage of the Earth Temple, and she uses her harp to help Link solve puzzles.",
+						"image_url": "",
+						"question": "Which temple does this character accompany Link into to restore the Master Sword?",
+						"wrong": [
+							"Wind Temple",
+							"Fire Temple",
+							"Water Temple"
+						]
+					},
+					{
+						"correct": "Laruto",
+						"difficulty": "Medium",
+						"explanation": "Laruto was the previous Earth Sage who was killed by Ganondorf's forces.",
+						"image_url": "",
+						"question": "Who is the ancient Zora sage that is revealed to be this character's ancestor?",
+						"wrong": [
+							"Ruto",
+							"Makar",
+							"Fado"
+						]
+					},
+					{
+						"correct": "Flying",
+						"difficulty": "Medium",
+						"explanation": "Link can pick up Medli and use her wings to glide over pits.",
+						"image_url": "",
+						"question": "What special ability does this character have that helps Link cross large gaps in dungeons?",
+						"wrong": [
+							"Swimming",
+							"Digging",
+							"Invisibility"
+						]
+					},
+					{
+						"correct": "Command Melody",
+						"difficulty": "Medium",
+						"explanation": "The Command Melody allows the player to take direct control of Medli to solve puzzles.",
+						"image_url": "",
+						"question": "What does Link use to control this character's movements when they are in a dungeon together?",
+						"wrong": [
+							"Wind's Requiem",
+							"Song of Passing",
+							"Ballad of Gales"
+						]
+					},
+					{
+						"correct": "Grappling Hook",
+						"difficulty": "Medium",
+						"explanation": "Medli provides Link with the Grappling Hook, which is essential for navigating the mountain.",
+						"image_url": "",
+						"question": "What specific item does this character give Link to help him reach the top of Dragon Roost?",
+						"wrong": [
+							"Hookshot",
+							"Deku Leaf",
+							"Power Bracelets"
+						]
+					},
+					{
+						"correct": "Komali",
+						"difficulty": "Hard",
+						"explanation": "Komali is the Prince of the Rito who gains his courage through Link and Medli's actions.",
+						"image_url": "",
+						"question": "What is the name of the Rito prince that this character is particularly close with?",
+						"wrong": [
+							"Revali",
+							"Kass",
+							"Teba"
+						]
+					},
+					{
+						"correct": "Reflecting light",
+						"difficulty": "Hard",
+						"explanation": "The harp has a polished surface that Medli uses to reflect beams of light onto switches.",
+						"image_url": "",
+						"question": "What does this character use her harp for besides playing music in the Earth Temple?",
+						"wrong": [
+							"Breaking walls",
+							"Freezing water",
+							"Lighting torches"
+						]
+					},
+					{
+						"correct": "She stays to pray",
+						"difficulty": "Hard",
+						"explanation": "Once her sagehood is awakened, she remains in the temple to pray for the Master Sword.",
+						"image_url": "",
+						"question": "Where does this character go at the end of the Earth Temple after the boss is defeated?",
+						"wrong": [
+							"She flies home",
+							"She joins Link's boat",
+							"She disappears"
+						]
+					},
+					{
+						"correct": "Jalhalla",
+						"difficulty": "Hard",
+						"explanation": "Jalhalla is a massive Poe made of many smaller Poes that haunts the Earth Temple.",
+						"image_url": "",
+						"question": "What is the name of the boss Link and this character face at the end of the Earth Temple?",
+						"wrong": [
+							"Molgera",
+							"Gohma",
+							"Puppet Ganon"
+						]
+					},
+					{
+						"correct": "A notebook",
+						"difficulty": "Hard",
+						"explanation": "When Link first meets her, Medli is busy taking notes for her duties as an attendant.",
+						"image_url": "",
+						"question": "Which specific item is Medli carrying when she is first encountered in the Rito roost?",
+						"wrong": [
+							"A lantern",
+							"A letter",
+							"A bag of seeds"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_medli",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Medli",
+				"lore_desc": "A young Rito girl training to be an attendant to the dragon Valoo, later revealed as the Earth Sage.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Rito",
+					"Musician",
+					"Sage"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Korok",
+						"difficulty": "Easy",
+						"explanation": "Makar is a Korok, the evolved forms of the Kokiri from Ocarina of Time.",
+						"image_url": "",
+						"question": "To which race of forest spirits does this character belong?",
+						"wrong": [
+							"Kokiri",
+							"Goron",
+							"Zora"
+						]
+					},
+					{
+						"correct": "A leaf",
+						"difficulty": "Easy",
+						"explanation": "All Koroks wear unique leaf masks to cover their faces.",
+						"image_url": "",
+						"question": "What type of mask does this character wear on his face?",
+						"wrong": [
+							"A wooden shield",
+							"An iron helmet",
+							"A cloth wrap"
+						]
+					},
+					{
+						"correct": "Cello",
+						"difficulty": "Easy",
+						"explanation": "Makar plays a small, leafy cello (often described as a fiddle) to perform his songs.",
+						"image_url": "",
+						"question": "What musical instrument does this character play with a bow?",
+						"wrong": [
+							"Violin",
+							"Guitar",
+							"Harp"
+						]
+					},
+					{
+						"correct": "Great Deku Tree",
+						"difficulty": "Easy",
+						"explanation": "The Great Deku Tree is the father figure and protector of all Koroks.",
+						"image_url": "",
+						"question": "What is the name of the giant tree that acts as the guardian for this character's race?",
+						"wrong": [
+							"Maku Tree",
+							"Yggdrasil",
+							"The Sacred Oak"
+						]
+					},
+					{
+						"correct": "Wii U",
+						"difficulty": "Easy",
+						"explanation": "Wind Waker HD was a major title for the Wii U, featuring updated lighting and gameplay.",
+						"image_url": "",
+						"question": "What platform was the HD version of the game featuring this character released on?",
+						"wrong": [
+							"Switch",
+							"Wii",
+							"3DS"
+						]
+					},
+					{
+						"correct": "Forbidden Woods",
+						"difficulty": "Medium",
+						"explanation": "Makar falls into the Forbidden Woods during the annual ceremony and needs saving.",
+						"image_url": "",
+						"question": "Which dungeon must Link rescue this character from early in the game?",
+						"wrong": [
+							"Dragon Roost Cavern",
+							"Earth Temple",
+							"Tower of the Gods"
+						]
+					},
+					{
+						"correct": "Wind Sage",
+						"difficulty": "Medium",
+						"explanation": "Makar is revealed to be the successor to the Wind Sage, Fado.",
+						"image_url": "",
+						"question": "What role does this character eventually take on to help restore the Master Sword?",
+						"wrong": [
+							"Earth Sage",
+							"Fire Sage",
+							"Water Sage"
+						]
+					},
+					{
+						"correct": "Fado",
+						"difficulty": "Medium",
+						"explanation": "Fado was the Kokiri Wind Sage who was killed by Ganondorf's forces.",
+						"image_url": "",
+						"question": "Which ancient Kokiri sage is revealed to be this character's ancestor?",
+						"wrong": [
+							"Saria",
+							"Laruto",
+							"Mido"
+						]
+					},
+					{
+						"correct": "A jingle or rattle",
+						"difficulty": "Medium",
+						"explanation": "Makar has a very distinctive rattling sound every time he takes a step.",
+						"image_url": "",
+						"question": "What sound does this character make when he walks around in the game?",
+						"wrong": [
+							"A heavy thud",
+							"A splashing sound",
+							"A whistling sound"
+						]
+					},
+					{
+						"correct": "Seeds for trees",
+						"difficulty": "Medium",
+						"explanation": "Makar can plant seeds that grow into trees, which Link can then use as Hookshot targets.",
+						"image_url": "",
+						"question": "In the Wind Temple, what can this character plant in special patches of dirt?",
+						"wrong": [
+							"Bombs",
+							"Flowers",
+							"Ladders"
+						]
+					},
+					{
+						"correct": "Korok Ceremony",
+						"difficulty": "Hard",
+						"explanation": "The Koroks perform a ceremony every year to spread the forest's seeds across the ocean.",
+						"image_url": "",
+						"question": "What is the name of the annual ceremony this character participates in at Forest Haven?",
+						"wrong": [
+							"Forest Festival",
+							"Deku Dance",
+							"Green Gala"
+						]
+					},
+					{
+						"correct": "Molgera",
+						"difficulty": "Hard",
+						"explanation": "Molgera is the boss of the Wind Temple, famous for its iconic music theme.",
+						"image_url": "",
+						"question": "What is the name of the giant sand-worm boss Link and this character fight in the Wind Temple?",
+						"wrong": [
+							"Morpha",
+							"Moldorm",
+							"Twinmold"
+						]
+					},
+					{
+						"correct": "Inside a cage",
+						"difficulty": "Hard",
+						"explanation": "Makar is captured and held in a cage at the start of the Wind Temple until Link frees him.",
+						"image_url": "",
+						"question": "Where does this character hide during the boss fight in the Wind Temple?",
+						"wrong": [
+							"Under the sand",
+							"Behind a pillar",
+							"In Link's pocket"
+						]
+					},
+					{
+						"correct": "Spinning his leaf-cravat",
+						"difficulty": "Hard",
+						"explanation": "Makar can spin the little leaf on his neck like a propeller to fly.",
+						"image_url": "",
+						"question": "What unique physical trait allows this character to fly around the forest?",
+						"wrong": [
+							"Using a Deku Leaf",
+							"Magical wings",
+							"Floating on bubbles"
+						]
+					},
+					{
+						"correct": "Eight",
+						"difficulty": "Hard",
+						"explanation": "Aside from Makar, there are eight Koroks who set out to plant trees on various islands.",
+						"image_url": "",
+						"question": "How many Koroks travel the Great Sea to plant seeds during the game?",
+						"wrong": [
+							"Five",
+							"Ten",
+							"Twelve"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_makar",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Makar",
+				"lore_desc": "A small, leaf-masked Korok from Forest Haven who is the successor to the Wind Sage.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Korok",
+					"Musician",
+					"Sage"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A Dragon",
+						"difficulty": "Easy",
+						"explanation": "Valoo is a massive red dragon who sits atop the volcano of Dragon Roost Island.",
+						"image_url": "",
+						"question": "What kind of mythical creature is this character?",
+						"wrong": [
+							"A Phoenix",
+							"A Giant",
+							"A Griffin"
+						]
+					},
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "Valoo breathes fire and lives on a volcanic mountain.",
+						"image_url": "",
+						"question": "What element is this character most closely associated with?",
+						"wrong": [
+							"Water",
+							"Ice",
+							"Electricity"
+						]
+					},
+					{
+						"correct": "Dragon Roost Island",
+						"difficulty": "Easy",
+						"explanation": "The island is named after the dragon who makes his home there.",
+						"image_url": "",
+						"question": "What is the name of the island that this character protects?",
+						"wrong": [
+							"Outset Island",
+							"Windfall Island",
+							"Forest Haven"
+						]
+					},
+					{
+						"correct": "Sailing",
+						"difficulty": "Easy",
+						"explanation": "The vast majority of travel in Wind Waker is done by sailing the King of Red Lions.",
+						"image_url": "",
+						"question": "What is the primary way players navigate the sea in this game?",
+						"wrong": [
+							"Walking",
+							"Teleporting",
+							"Flying"
+						]
+					},
+					{
+						"correct": "Angry and violent",
+						"difficulty": "Easy",
+						"explanation": "Valoo is in a rage because his tail is being tormented by a monster inside the volcano.",
+						"image_url": "",
+						"question": "What is the general mood of this character when Link first arrives at the island?",
+						"wrong": [
+							"Asleep",
+							"Sad",
+							"Playful"
+						]
+					},
+					{
+						"correct": "A Scale",
+						"difficulty": "Medium",
+						"explanation": "Rito children must climb the mountain to receive a scale from Valoo before they can fly.",
+						"image_url": "",
+						"question": "What do the young Rito need from this character in order to grow their wings?",
+						"wrong": [
+							"A Feather",
+							"A Tooth",
+							"A Breath of Fire"
+						]
+					},
+					{
+						"correct": "Ancient Hylian",
+						"difficulty": "Medium",
+						"explanation": "Valoo speaks the ancient language of the gods, which appears as symbols to the player initially.",
+						"image_url": "",
+						"question": "What language does this character speak, which only the King and certain others can understand?",
+						"wrong": [
+							"Dragonic",
+							"Gerudo",
+							"Zora"
+						]
+					},
+					{
+						"correct": "Medli",
+						"difficulty": "Medium",
+						"explanation": "Medli is the designated attendant to Valoo and understands his speech.",
+						"image_url": "",
+						"question": "Who serves as the primary translator and attendant for this character?",
+						"wrong": [
+							"Tetra",
+							"Aryll",
+							"Komali"
+						]
+					},
+					{
+						"correct": "Gohma",
+						"difficulty": "Medium",
+						"explanation": "Gohma is the boss of Dragon Roost Cavern and the cause of Valoo's distress.",
+						"image_url": "",
+						"question": "Which boss monster is found pulling on this character's tail at the bottom of the cavern?",
+						"wrong": [
+							"King Dodongo",
+							"Volvagia",
+							"Molgera"
+						]
+					},
+					{
+						"correct": "Sets it on fire",
+						"difficulty": "Medium",
+						"explanation": "Valoo flies to the fortress and breathes fire on it to provide a distraction for Link's escape.",
+						"image_url": "",
+						"question": "What does this character do to the Forsaken Fortress late in the game to help Link and Zelda?",
+						"wrong": [
+							"Blows it away",
+							"Sinks it",
+							"Turns it to ice"
+						]
+					},
+					{
+						"correct": "Swings from it with a Grappling Hook",
+						"difficulty": "Hard",
+						"explanation": "Link uses the Grappling Hook to swing from Valoo's tail, dropping a piece of the ceiling on Gohma.",
+						"image_url": "",
+						"question": "How does Link interact with this character's tail to defeat the first boss?",
+						"wrong": [
+							"Pulls it by hand",
+							"Cuts it off",
+							"Hits it with a hammer"
+						]
+					},
+					{
+						"correct": "Volvagia",
+						"difficulty": "Hard",
+						"explanation": "While not explicitly stated as the same being, Valoo is considered the successor to the fire spirits like Volvagia.",
+						"image_url": "",
+						"question": "What is the name of the spirit who was the predecessor to this character in ancient Hyrule?",
+						"wrong": [
+							"Farosh",
+							"Din",
+							"Valoo has no predecessor"
+						]
+					},
+					{
+						"correct": "Use the wind",
+						"difficulty": "Hard",
+						"explanation": "He provides cryptic advice about commanding the wind to reach him.",
+						"image_url": "",
+						"question": "What does Valoo say to Link in the second playthrough when translated from Ancient Hylian?",
+						"wrong": [
+							"You are the hero",
+							"Find the sword",
+							"Save the princess"
+						]
+					},
+					{
+						"correct": "Din",
+						"difficulty": "Hard",
+						"explanation": "As the fire-associated spirit, Valoo is linked to the Goddess of Power, Din.",
+						"image_url": "",
+						"question": "Which deity is Valoo specifically a servant or representative of?",
+						"wrong": [
+							"Nayru",
+							"Farore",
+							"Hylia"
+						]
+					},
+					{
+						"correct": "He watches from the sky",
+						"difficulty": "Hard",
+						"explanation": "Valoo arrives shortly after the battle to scorch the remains of the fortress.",
+						"image_url": "",
+						"question": "What does Valoo do when the Helmaroc King is finally defeated?",
+						"wrong": [
+							"He eats it",
+							"He roars with joy",
+							"He sets it on fire"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_valoo",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Valoo",
+				"lore_desc": "The powerful Sky Spirit and Great Dragon who guards Dragon Roost Island and the Rito people.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Dragon",
+					"Spirit",
+					"Guardian"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A conductor's baton",
+						"difficulty": "Easy",
+						"explanation": "The Wind Waker is used like a baton to conduct melodies that affect the world.",
+						"image_url": "",
+						"question": "What real-world musical tool is this item modeled after?",
+						"wrong": [
+							"A magic wand",
+							"A drumstick",
+							"A flute"
+						]
+					},
+					{
+						"correct": "Controlling the wind",
+						"difficulty": "Easy",
+						"explanation": "Its most important function is allowing Link to change the direction the wind blows.",
+						"image_url": "",
+						"question": "What is the primary power of this item as described in the game's title?",
+						"wrong": [
+							"Time travel",
+							"Changing gravity",
+							"Summoning fire"
+						]
+					},
+					{
+						"correct": "The King of Red Lions",
+						"difficulty": "Easy",
+						"explanation": "The boat reveals that he possesses the item and entrusts it to Link.",
+						"image_url": "",
+						"question": "Who gives Link this legendary item shortly after he arrives on Windfall Island?",
+						"wrong": [
+							"Tetra",
+							"Tingle",
+							"His Grandmother"
+						]
+					},
+					{
+						"correct": "GameCube",
+						"difficulty": "Easy",
+						"explanation": "The Wind Waker debuted on the GameCube in the early 2000s.",
+						"image_url": "",
+						"question": "What platform was the original game featuring this item released on?",
+						"wrong": [
+							"Wii",
+							"Nintendo 64",
+							"Super Nintendo"
+						]
+					},
+					{
+						"correct": "The background music stops",
+						"difficulty": "Easy",
+						"explanation": "The game shifts focus to the baton's rhythm, muting other music.",
+						"image_url": "",
+						"question": "What happens to the gameplay music when you use this item to play a song?",
+						"wrong": [
+							"It gets louder",
+							"It changes to rock",
+							"It stays the same"
+						]
+					},
+					{
+						"correct": "Wind's Requiem",
+						"difficulty": "Medium",
+						"explanation": "The Wind's Requiem is the fundamental song used to change wind direction.",
+						"image_url": "",
+						"question": "What is the first song Link learns to play with this baton?",
+						"wrong": [
+							"Song of Storms",
+							"Epona's Song",
+							"Zelda's Lullaby"
+						]
+					},
+					{
+						"correct": "Ballad of Gales",
+						"difficulty": "Medium",
+						"explanation": "The Ballad of Gales is taught by Cyclos after Link shoots him with arrows.",
+						"image_url": "",
+						"question": "Which song allows Link to fast-travel to different quadrants of the map?",
+						"wrong": [
+							"Song of Soaring",
+							"Requiem of Spirit",
+							"Nocturne of Shadow"
+						]
+					},
+					{
+						"correct": "Command Melody",
+						"difficulty": "Medium",
+						"explanation": "The Command Melody is essential for working with Medli and Makar in dungeons.",
+						"image_url": "",
+						"question": "Which melody is used to take control of other characters or statues?",
+						"wrong": [
+							"Control Chorus",
+							"Puppet Song",
+							"Spirit Sonata"
+						]
+					},
+					{
+						"correct": "Song of Passing",
+						"difficulty": "Medium",
+						"explanation": "Taught by Tott on Windfall Island, the Song of Passing skips time forward.",
+						"image_url": "",
+						"question": "What is the name of the song that instantly changes day to night or vice-versa?",
+						"wrong": [
+							"Sun's Song",
+							"Moon's Melody",
+							"Time Tune"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "Songs are played in 3/4, 4/4, or 6/8 time signatures.",
+						"image_url": "",
+						"question": "How many different musical meters (time signatures) can be used when playing the baton?",
+						"wrong": [
+							"One",
+							"Two",
+							"Four"
+						]
+					},
+					{
+						"correct": "Zephos",
+						"difficulty": "Hard",
+						"explanation": "Zephos is the god of the winds who appears on a stone monument.",
+						"image_url": "",
+						"question": "Who is the wind god that Link meets at Dragon Roost Island who first teaches him a song?",
+						"wrong": [
+							"Cyclos",
+							"Valoo",
+							"Hylia"
+						]
+					},
+					{
+						"correct": "Earth God's Lyric",
+						"difficulty": "Hard",
+						"explanation": "Link must play the Earth God's Lyric with Medli to enter and progress in the temple.",
+						"image_url": "",
+						"question": "What is the name of the song used to open the Earth Temple?",
+						"wrong": [
+							"Mountain Melody",
+							"Soil Sonata",
+							"Stone Song"
+						]
+					},
+					{
+						"correct": "Wind God's Aria",
+						"difficulty": "Hard",
+						"explanation": "Link plays the Wind God's Aria with Makar to unlock the temple's secrets.",
+						"image_url": "",
+						"question": "What is the name of the song used to open the Wind Temple?",
+						"wrong": [
+							"Sky Song",
+							"Breeze Ballad",
+							"Cloud Chorus"
+						]
+					},
+					{
+						"correct": "Diagonal",
+						"difficulty": "Hard",
+						"explanation": "The game only registers the four cardinal directions (Up, Down, Left, Right) and neutral.",
+						"image_url": "",
+						"question": "Which of the following is NOT a direction you flick the stick to play a note?",
+						"wrong": [
+							"Up",
+							"Down",
+							"Left"
+						]
+					},
+					{
+						"correct": "Six beats",
+						"difficulty": "Hard",
+						"explanation": "The most difficult songs, like the Sage songs, utilize the 6/8 time signature.",
+						"image_url": "",
+						"question": "What is the specific rhythmic count for the most complex songs in the game?",
+						"wrong": [
+							"Three beats",
+							"Four beats",
+							"Eight beats"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_the_wind_waker",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "The Wind Waker",
+				"lore_desc": "A legendary baton once used by the King of Hyrule to conduct the spirits and command the wind itself.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Magic",
+					"Instrument"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blade of Evil's Bane",
+						"difficulty": "Easy",
+						"explanation": "The Master Sword is eternally known as the Blade of Evil's Bane for its power against darkness.",
+						"image_url": "",
+						"question": "What is the most famous nickname for this legendary blade?",
+						"wrong": [
+							"Sword of Destiny",
+							"The God Killer",
+							"Hero's Edge"
+						]
+					},
+					{
+						"correct": "Hyrule Castle",
+						"difficulty": "Easy",
+						"explanation": "The sword is found in a hidden chamber beneath Hyrule Castle, which is submerged under the ocean.",
+						"image_url": "",
+						"question": "Where is the sword physically located when Link first finds it?",
+						"wrong": [
+							"The bottom of the sea",
+							"Forsaken Fortress",
+							"Outset Island"
+						]
+					},
+					{
+						"correct": "Nintendo",
+						"difficulty": "Easy",
+						"explanation": "The Master Sword is the most iconic weapon in Nintendo's Zelda series.",
+						"image_url": "",
+						"question": "Which company created the game that features this iconic purple-hilted sword?",
+						"wrong": [
+							"Square Enix",
+							"Microsoft",
+							"Sony"
+						]
+					},
+					{
+						"correct": "They come back to life",
+						"difficulty": "Easy",
+						"explanation": "Pulling the sword unfreezes time in the castle, causing the slumbering monsters to wake up.",
+						"image_url": "",
+						"question": "What happens to the enemies in Hyrule Castle when Link first pulls the sword from its pedestal?",
+						"wrong": [
+							"They disappear",
+							"They turn into gold",
+							"They all die"
+						]
+					},
+					{
+						"correct": "It has lost its power",
+						"difficulty": "Easy",
+						"explanation": "Because the sages were murdered, the Master Sword is dull and lacks the power to repel evil.",
+						"image_url": "",
+						"question": "What state is the sword in when Link first acquires it in this game?",
+						"wrong": [
+							"It is broken in half",
+							"It is cursed",
+							"It is missing its hilt"
+						]
+					},
+					{
+						"correct": "Earth and Wind Temples",
+						"difficulty": "Medium",
+						"explanation": "The sages of the Earth and Wind temples pray to restore the sword's holy power.",
+						"image_url": "",
+						"question": "Which two temples must be cleared to fully restore the sword's power?",
+						"wrong": [
+							"Fire and Ice Temples",
+							"Light and Dark Temples",
+							"Water and Forest Temples"
+						]
+					},
+					{
+						"correct": "The crossguard opens up",
+						"difficulty": "Medium",
+						"explanation": "The 'wings' on the hilt of the Master Sword extend once it is fully powered.",
+						"image_url": "",
+						"question": "What visual change occurs to the sword's hilt as its power is restored?",
+						"wrong": [
+							"It turns from silver to gold",
+							"It grows longer",
+							"It starts glowing red"
+						]
+					},
+					{
+						"correct": "The Hero of Time",
+						"difficulty": "Medium",
+						"explanation": "The King refers to the hero from Ocarina of Time who originally used this blade.",
+						"image_url": "",
+						"question": "Who is the legendary hero from a previous game that the King of Hyrule mentions when Link finds the sword?",
+						"wrong": [
+							"The Hero of Winds",
+							"The Hero of Twilight",
+							"The Skyward Hero"
+						]
+					},
+					{
+						"correct": "Stab him in the head",
+						"difficulty": "Medium",
+						"explanation": "In a famous finishing move, Link jumps and plunges the sword into Ganondorf's forehead.",
+						"image_url": "",
+						"question": "What must Link do to Ganondorf at the end of the game using the Master Sword?",
+						"wrong": [
+							"Cut off his hand",
+							"Stab him in the heart",
+							"Throw it at him"
+						]
+					},
+					{
+						"correct": "Triforce of Courage",
+						"difficulty": "Medium",
+						"explanation": "With the sword's power back, Link is recognized as the hero and can seek the Triforce of Courage.",
+						"image_url": "",
+						"question": "Which shard of the Triforce does the Master Sword help Link locate once it is restored?",
+						"wrong": [
+							"Triforce of Power",
+							"Triforce of Wisdom",
+							"The Complete Triforce"
+						]
+					},
+					{
+						"correct": "The basement shrine",
+						"difficulty": "Hard",
+						"explanation": "Link must go to a hidden lower level of the castle to reach the pedestal.",
+						"image_url": "",
+						"question": "What is the name of the chamber where the Master Sword is kept within Hyrule Castle?",
+						"wrong": [
+							"The Throne Room",
+							"The Attic",
+							"The Courtyard"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "He must visit the Earth Sage and the Wind Sage once each to complete the restoration.",
+						"image_url": "",
+						"question": "How many times does Link have to visit the sages to fully restore the Master Sword?",
+						"wrong": [
+							"One",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "Grappling Hook",
+						"difficulty": "Hard",
+						"explanation": "Accessing Hyrule Castle requires the King of Red Lions and the baton, but the internal castle path is mostly walking and a block puzzle.",
+						"image_url": "",
+						"question": "Which specific item is NOT needed to reach the Master Sword's pedestal?",
+						"wrong": [
+							"A boat",
+							"Puzzle solving skills",
+							"The Wind Waker"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Hard",
+						"explanation": "The small gem in the center of the crossguard glows yellow in its true form.",
+						"image_url": "",
+						"question": "What color does the jewel in the Master Sword's hilt glow when fully powered?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Green"
+						]
+					},
+					{
+						"correct": "It has no power to repel evil",
+						"difficulty": "Hard",
+						"explanation": "Without the sages' prayers, the sword is just a normal piece of metal that cannot harm Ganondorf.",
+						"image_url": "",
+						"question": "Why can't Link use the Master Sword to defeat Ganondorf the first time they meet in Ganon's Tower?",
+						"wrong": [
+							"It is too heavy",
+							"Ganondorf steals it",
+							"It breaks during the fight"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_the_master_sword",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "The Master Sword",
+				"lore_desc": "The legendary blade of evil's bane, found resting in a frozen-in-time Hyrule Castle deep beneath the waves.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Relic",
+					"Artifact"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Rito",
+						"difficulty": "Easy",
+						"explanation": "The Rito, a race of bird-men, make their nests and homes on the cliffs of this island.",
+						"image_url": "",
+						"question": "Which race of creatures lives primarily on this island?",
+						"wrong": [
+							"Goron",
+							"Zora",
+							"Hylian"
+						]
+					},
+					{
+						"correct": "Valoo",
+						"difficulty": "Easy",
+						"explanation": "Valoo is the guardian deity of the Rito and the island's namesake.",
+						"image_url": "",
+						"question": "What is the name of the great dragon who lives on the peak of this island?",
+						"wrong": [
+							"Volvagia",
+							"Farosh",
+							"Dinraal"
+						]
+					},
+					{
+						"correct": "A volcano",
+						"difficulty": "Easy",
+						"explanation": "Dragon Roost is a massive volcanic mountain rising out of the sea.",
+						"image_url": "",
+						"question": "What is the primary geographical feature of this island?",
+						"wrong": [
+							"A tropical jungle",
+							"A sandy desert",
+							"A frozen tundra"
+						]
+					},
+					{
+						"correct": "The Legend of Zelda Wind Waker",
+						"difficulty": "Easy",
+						"explanation": "Dragon Roost Island is one of the major quest hubs in Wind Waker.",
+						"image_url": "",
+						"question": "What is the title of the game this island is featured in?",
+						"wrong": [
+							"Ocarina of Time",
+							"Skyward Sword",
+							"Breath of the Wild"
+						]
+					},
+					{
+						"correct": "Dragon Roost Cavern",
+						"difficulty": "Easy",
+						"explanation": "The cavern is the first traditional dungeon Link explores in the game.",
+						"image_url": "",
+						"question": "What is the name of the first major dungeon located inside this island?",
+						"wrong": [
+							"Earth Temple",
+							"Forbidden Woods",
+							"Fire Temple"
+						]
+					},
+					{
+						"correct": "Mail sorting and delivery",
+						"difficulty": "Medium",
+						"explanation": "The Rito run the postal service for the Great Sea due to their ability to fly.",
+						"image_url": "",
+						"question": "What job do many Rito perform on this island, delivering information across the sea?",
+						"wrong": [
+							"Fishing",
+							"Mining",
+							"Piracy"
+						]
+					},
+					{
+						"correct": "Grappling Hook",
+						"difficulty": "Medium",
+						"explanation": "Medli gives Link the Grappling Hook, which is the main treasure of the island's dungeon.",
+						"image_url": "",
+						"question": "What item does Link receive on this island that allows him to swing over gaps?",
+						"wrong": [
+							"Hookshot",
+							"Longshot",
+							"Whip"
+						]
+					},
+					{
+						"correct": "The Rito Chieftain",
+						"difficulty": "Medium",
+						"explanation": "The Chieftain (Komali's father) manages the island's affairs.",
+						"image_url": "",
+						"question": "Who is the leader of the Rito tribe when Link first arrives?",
+						"wrong": [
+							"Prince Komali",
+							"Medli",
+							"The Great Deku Tree"
+						]
+					},
+					{
+						"correct": "Water jars",
+						"difficulty": "Medium",
+						"explanation": "Breaking water jars over lava creates temporary steam platforms for Link to stand on.",
+						"image_url": "",
+						"question": "What must Link throw into the small lava pits to create platforms on this island?",
+						"wrong": [
+							"Ice arrows",
+							"Rocks",
+							"Bombs"
+						]
+					},
+					{
+						"correct": "Zephos",
+						"difficulty": "Medium",
+						"explanation": "Zephos teaches Link the Wind's Requiem at his shrine on the island's shore.",
+						"image_url": "",
+						"question": "Which wind deity's shrine is located on the back side of this island?",
+						"wrong": [
+							"Cyclos",
+							"Valoo",
+							"Hylia"
+						]
+					},
+					{
+						"correct": "25 or more",
+						"difficulty": "Hard",
+						"explanation": "The mail sorting minigame requires speed and accuracy to reach the 25-letter threshold.",
+						"image_url": "",
+						"question": "How many letters must Link sort in the minigame to earn a Piece of Heart?",
+						"wrong": [
+							"10",
+							"15",
+							"50"
+						]
+					},
+					{
+						"correct": "Kargoroc",
+						"difficulty": "Hard",
+						"explanation": "Kargorocs are large birds that Link often has to fight or use for transportation.",
+						"image_url": "",
+						"question": "What is the name of the gold-colored bird-like enemy found frequently on this island?",
+						"wrong": [
+							"Keese",
+							"Octorok",
+							"Peahat"
+						]
+					},
+					{
+						"correct": "Quill",
+						"difficulty": "Hard",
+						"explanation": "Quill is the first Rito Link meets and serves as an ally throughout the story.",
+						"image_url": "",
+						"question": "Who is the Rito mailman who helps Link gain access to the Chieftain's room?",
+						"wrong": [
+							"Bari",
+							"Pashli",
+							"Skari"
+						]
+					},
+					{
+						"correct": "Boko Bulb",
+						"difficulty": "Hard",
+						"explanation": "Boko Bulbs (often used by Boko Babas) act like springboards for Link.",
+						"image_url": "",
+						"question": "Which specific flower is found on the island and used by Link to launch himself into the air?",
+						"wrong": [
+							"Deku Flower",
+							"Bomb Flower",
+							"Silent Princess"
+						]
+					},
+					{
+						"correct": "Zoras",
+						"difficulty": "Hard",
+						"explanation": "It is heavily implied and later confirmed that the Rito evolved from the Zora after the world flooded.",
+						"image_url": "",
+						"question": "In the game's lore, what did the Rito evolve from to inhabit this island?",
+						"wrong": [
+							"Kokiris",
+							"Hylians",
+							"Gorons"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_dragon_roost_island",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Dragon Roost Island",
+				"lore_desc": "A craggy, volcanic island that serves as the home of the Rito tribe and the roost of the dragon Valoo.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Volcano",
+					"Home",
+					"Mountain"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Koroks",
+						"difficulty": "Easy",
+						"explanation": "The Koroks moved to Forest Haven after the flood and are guarded by the Deku Tree.",
+						"image_url": "",
+						"question": "Which race of leaf-masked spirits lives on this island?",
+						"wrong": [
+							"Rito",
+							"Zora",
+							"Gorons"
+						]
+					},
+					{
+						"correct": "The Great Deku Tree",
+						"difficulty": "Easy",
+						"explanation": "The Great Deku Tree is a recurring guardian spirit in the Zelda series.",
+						"image_url": "",
+						"question": "Who is the massive, ancient tree that lives at the center of this island?",
+						"wrong": [
+							"The Maku Tree",
+							"The Whispering Willow",
+							"The Mana Tree"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Forest Haven is a vibrant, green jungle paradise.",
+						"image_url": "",
+						"question": "What color is the predominant foliage on this island?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"White"
+						]
+					},
+					{
+						"correct": "Action-Adventure",
+						"difficulty": "Easy",
+						"explanation": "The game focuses on exploring islands and dungeons in an adventure format.",
+						"image_url": "",
+						"question": "What is the primary genre of the game featuring Forest Haven?",
+						"wrong": [
+							"Platformer",
+							"Puzzle",
+							"RPG"
+						]
+					},
+					{
+						"correct": "Deku Leaf",
+						"difficulty": "Easy",
+						"explanation": "The Deku Leaf is used to glide and blow gusts of wind.",
+						"image_url": "",
+						"question": "What item does the Great Deku Tree give Link to help him glide through the air?",
+						"wrong": [
+							"Paraglider",
+							"Roc's Feather",
+							"Hover Boots"
+						]
+					},
+					{
+						"correct": "Forbidden Woods",
+						"difficulty": "Medium",
+						"explanation": "Link must enter the Forbidden Woods to rescue Makar.",
+						"image_url": "",
+						"question": "What is the name of the dungeon located just outside the main haven?",
+						"wrong": [
+							"Dragon Roost Cavern",
+							"Tower of the Gods",
+							"Earth Temple"
+						]
+					},
+					{
+						"correct": "Forest Fireflies",
+						"difficulty": "Medium",
+						"explanation": "Link must bottle a Forest Firefly to help the photographer Lenzo.",
+						"image_url": "",
+						"question": "What are the small, glowing insects found here that Link needs for a quest on Windfall Island?",
+						"wrong": [
+							"Glow Bugs",
+							"Light Slugs",
+							"Spark Flies"
+						]
+					},
+					{
+						"correct": "Cello",
+						"difficulty": "Medium",
+						"explanation": "Makar leads the ceremony with his leafy cello.",
+						"image_url": "",
+						"question": "Which musical instrument does Makar play during the ceremony at the haven?",
+						"wrong": [
+							"Harp",
+							"Flute",
+							"Drum"
+						]
+					},
+					{
+						"correct": "Hollo",
+						"difficulty": "Medium",
+						"explanation": "Hollo uses Boko Baba seeds to create blue potions for Link.",
+						"image_url": "",
+						"question": "What is the name of the Korok who runs a potion shop in Forest Haven?",
+						"wrong": [
+							"Luvia",
+							"Makar",
+							"Fado"
+						]
+					},
+					{
+						"correct": "ChuChus",
+						"difficulty": "Medium",
+						"explanation": "Red and Green ChuChus are crawling all over the Deku Tree's face.",
+						"image_url": "",
+						"question": "What covers the Great Deku Tree when Link first meets him, which he must spin-attack away?",
+						"wrong": [
+							"Spiders",
+							"Vines",
+							"Dust"
+						]
+					},
+					{
+						"correct": "Kalle Demos",
+						"difficulty": "Hard",
+						"explanation": "Kalle Demos is a giant plant monster that swallowed Makar.",
+						"image_url": "",
+						"question": "What is the name of the boss of the Forbidden Woods nearby?",
+						"wrong": [
+							"Gohma",
+							"Molgera",
+							"Jalhalla"
+						]
+					},
+					{
+						"correct": "Forest Water",
+						"difficulty": "Hard",
+						"explanation": "Forest Water has magical properties but only lasts for 20 minutes outside the haven.",
+						"image_url": "",
+						"question": "What unique water can only be found here and is used to water withered trees across the sea?",
+						"wrong": [
+							"Holy Water",
+							"Spring Water",
+							"Magic Mist"
+						]
+					},
+					{
+						"correct": "To various islands across the sea",
+						"difficulty": "Hard",
+						"explanation": "They fly to different quadrants to plant new trees and expand the forest.",
+						"image_url": "",
+						"question": "Where do the Koroks go after their annual ceremony in Forest Haven?",
+						"wrong": [
+							"To Hyrule Castle",
+							"Into the Deku Tree",
+							"To Windfall Island"
+						]
+					},
+					{
+						"correct": "Makar",
+						"difficulty": "Hard",
+						"explanation": "Makar is the one who goes missing, prompting Link's second major quest.",
+						"image_url": "",
+						"question": "What is the name of the Korok who accidentally fell into the Forbidden Woods?",
+						"wrong": [
+							"Rown",
+							"Duma",
+							"Elma"
+						]
+					},
+					{
+						"correct": "Using Baba Buds to launch upwards",
+						"difficulty": "Hard",
+						"explanation": "Link must time his jumps into Baba Buds to be spit out to higher platforms.",
+						"image_url": "",
+						"question": "How do you reach the higher levels of Forest Haven's interior?",
+						"wrong": [
+							"Climbing vines",
+							"Walking up a spiral ramp",
+							"Using the Hookshot"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_forest_haven",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Forest Haven",
+				"lore_desc": "A lush, jungle-like island that serves as the home of the Koroks and the Great Deku Tree.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Forest",
+					"Home",
+					"Sacred"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Link",
+						"difficulty": "Easy",
+						"explanation": "Link lives on Outset Island at the very beginning of the game.",
+						"image_url": "",
+						"question": "This island is the home of which main character?",
+						"wrong": [
+							"Tetra",
+							"Ganondorf",
+							"Beedle"
+						]
+					},
+					{
+						"correct": "His Grandmother",
+						"difficulty": "Easy",
+						"explanation": "Link's Grandma presents him with the Hero's Clothes as a birthday tradition.",
+						"image_url": "",
+						"question": "Which family member gives Link his green clothes on this island?",
+						"wrong": [
+							"His Mother",
+							"His Sister",
+							"His Uncle"
+						]
+					},
+					{
+						"correct": "Pigs",
+						"difficulty": "Easy",
+						"explanation": "Catching the runaway pigs is a classic early-game task on Outset.",
+						"image_url": "",
+						"question": "What animal does Link have to catch as a mini-game on this island?",
+						"wrong": [
+							"Cuccos",
+							"Dogs",
+							"Cats"
+						]
+					},
+					{
+						"correct": "She is kidnapped by a bird",
+						"difficulty": "Easy",
+						"explanation": "Aryll is snatched by the Helmaroc King, which forces Link to leave the island.",
+						"image_url": "",
+						"question": "What major event happens to Link's sister on this island at the start of the game?",
+						"wrong": [
+							"She falls into the sea",
+							"She turns into a pirate",
+							"She goes missing in a cave"
+						]
+					},
+					{
+						"correct": "GameCube",
+						"difficulty": "Easy",
+						"explanation": "The island was the first location players saw in the 2002 GameCube release.",
+						"image_url": "",
+						"question": "Which Nintendo console was this island first seen on?",
+						"wrong": [
+							"Wii",
+							"N64",
+							"Super Nintendo"
+						]
+					},
+					{
+						"correct": "Orca",
+						"difficulty": "Medium",
+						"explanation": "Orca is the island's resident warrior and Link's mentor.",
+						"image_url": "",
+						"question": "What is the name of the old man who lives on the island and teaches Link sword skills?",
+						"wrong": [
+							"Sturgeon",
+							"Beedle",
+							"Tingle"
+						]
+					},
+					{
+						"correct": "The Hero's Shield",
+						"difficulty": "Medium",
+						"explanation": "The Hero's Shield is a family heirloom displayed in their home.",
+						"image_url": "",
+						"question": "What item is kept on the wall in Link's house that he eventually takes with him?",
+						"wrong": [
+							"The Master Sword",
+							"A Bow",
+							"A map"
+						]
+					},
+					{
+						"correct": "Sturgeon",
+						"difficulty": "Medium",
+						"explanation": "Sturgeon is the scholarly brother who provides tutorials via pots in his house.",
+						"image_url": "",
+						"question": "What is the name of Orca's brother, who lives in the house next door?",
+						"wrong": [
+							"Mako",
+							"Senza",
+							"Gonzo"
+						]
+					},
+					{
+						"correct": "It collapses",
+						"difficulty": "Medium",
+						"explanation": "The wooden bridge breaks after Link crosses it to find Tetra, cutting off the path.",
+						"image_url": "",
+						"question": "What happens to the bridge leading to the forest at the top of the island?",
+						"wrong": [
+							"It is burned down",
+							"It is stolen",
+							"It is blocked by rocks"
+						]
+					},
+					{
+						"correct": "Elixir Soup",
+						"difficulty": "Medium",
+						"explanation": "The Elixir Soup is a powerful two-serving item that restores health and magic.",
+						"image_url": "",
+						"question": "What does Link's grandmother give him later in the game to help him on his journey?",
+						"wrong": [
+							"A Blue Potion",
+							"A Fairy",
+							"A Piece of Heart"
+						]
+					},
+					{
+						"correct": "Savage Labyrinth",
+						"difficulty": "Hard",
+						"explanation": "The Savage Labyrinth is a 50-floor dungeon filled with enemies.",
+						"image_url": "",
+						"question": "What secret, multi-floor combat challenge is hidden under a large stone on this island?",
+						"wrong": [
+							"Cave of Ordeals",
+							"Pit of 100 Trials",
+							"The Gauntlet"
+						]
+					},
+					{
+						"correct": "Forest of Fairies",
+						"difficulty": "Hard",
+						"explanation": "The Forest of Fairies is where Link rescues Tetra and meets the first Great Fairy.",
+						"image_url": "",
+						"question": "What is the name of the forest located at the highest point of the island?",
+						"wrong": [
+							"Forbidden Woods",
+							"Lost Woods",
+							"Kokiri Forest"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "There are three pigs Link can catch for the woman on the island.",
+						"image_url": "",
+						"question": "How many pigs are roaming around Outset Island at the start of the game?",
+						"wrong": [
+							"Two",
+							"Four",
+							"Five"
+						]
+					},
+					{
+						"correct": "Zill",
+						"difficulty": "Hard",
+						"explanation": "Zill is a small boy known for his distinctively messy nose.",
+						"image_url": "",
+						"question": "What is the name of the child on the island who constantly follows Link around and has a runny nose?",
+						"wrong": [
+							"Joel",
+							"Abe",
+							"Rose"
+						]
+					},
+					{
+						"correct": "100 Rupees",
+						"difficulty": "Hard",
+						"explanation": "By crawling under the porch or swimming to the small island, Link can find a silver rupee worth 100.",
+						"image_url": "",
+						"question": "What item can Link find in a chest on the small islet just off the shore of Outset?",
+						"wrong": [
+							"Piece of Heart",
+							"Treasure Chart",
+							"Empty Bottle"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_outset_island",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Outset Island",
+				"lore_desc": "The peaceful starting island where Link lives with his grandmother and sister, Aryll.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Home",
+					"Island",
+					"Village"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "She is his sister",
+						"difficulty": "Easy",
+						"explanation": "Aryll is Link's younger sister, and they live together on Outset Island.",
+						"image_url": "",
+						"question": "What is the relationship between this character and the hero, Link?",
+						"wrong": [
+							"She is his mother",
+							"She is his daughter",
+							"She is his friend"
+						]
+					},
+					{
+						"correct": "A Telescope",
+						"difficulty": "Easy",
+						"explanation": "Aryll lets Link borrow her favorite telescope as a special birthday treat.",
+						"image_url": "",
+						"question": "What does this character give Link to use on his birthday at the start of the game?",
+						"wrong": [
+							"A Sword",
+							"A Shield",
+							"A Map"
+						]
+					},
+					{
+						"correct": "Helmaroc King",
+						"difficulty": "Easy",
+						"explanation": "The Helmaroc King snatches Aryll from the bridge of Outset Island.",
+						"image_url": "",
+						"question": "What is the name of the giant bird that kidnaps this character?",
+						"wrong": [
+							"Valoo",
+							"Molgera",
+							"Kalle Demos"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Aryll is most famous for her light blue dress decorated with seagulls.",
+						"image_url": "",
+						"question": "What color is the dress this character typically wears?",
+						"wrong": [
+							"Pink",
+							"Green",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Forsaken Fortress",
+						"difficulty": "Easy",
+						"explanation": "She is held captive in a prison cell at the Forsaken Fortress.",
+						"image_url": "",
+						"question": "Where is this character taken after she is kidnapped?",
+						"wrong": [
+							"Hyrule Castle",
+							"Ganon's Tower",
+							"Dragon Roost"
+						]
+					},
+					{
+						"correct": "Seagulls",
+						"difficulty": "Medium",
+						"explanation": "Aryll loves seagulls, and they are printed all over her dress.",
+						"image_url": "",
+						"question": "What animal is prominently featured as a pattern on this character's clothing?",
+						"wrong": [
+							"Fish",
+							"Crabs",
+							"Dragons"
+						]
+					},
+					{
+						"correct": "Maggie and Mila",
+						"difficulty": "Medium",
+						"explanation": "Maggie and Mila are two girls from Windfall Island who were also kidnapped.",
+						"image_url": "",
+						"question": "Who are the other girls held captive alongside this character in the fortress?",
+						"wrong": [
+							"Zelda and Impa",
+							"Malon and Saria",
+							"Ruto and Nabooru"
+						]
+					},
+					{
+						"correct": "His room",
+						"difficulty": "Medium",
+						"explanation": "Link tells her she can use his room while he's gone, as part of their birthday exchange.",
+						"image_url": "",
+						"question": "What does Link give to this character to look after while he is away on his quest?",
+						"wrong": [
+							"His sword",
+							"His shield",
+							"His pig"
+						]
+					},
+					{
+						"correct": "Waving from the pirate ship",
+						"difficulty": "Medium",
+						"explanation": "Aryll is seen happily sailing with Tetra's pirate crew during the credits.",
+						"image_url": "",
+						"question": "What is this character doing during the game's ending credits?",
+						"wrong": [
+							"Sleeping in her bed",
+							"Eating soup",
+							"Swimming in the ocean"
+						]
+					},
+					{
+						"correct": "Telescope",
+						"difficulty": "Medium",
+						"explanation": "Link uses Aryll's own telescope to watch the bird carry her toward the horizon.",
+						"image_url": "",
+						"question": "Which item does Link use to see this character being taken away at the very start?",
+						"wrong": [
+							"Lens of Truth",
+							"Binoculars",
+							"Pirate's Charm"
+						]
+					},
+					{
+						"correct": "It stays the same",
+						"difficulty": "Hard",
+						"explanation": "Unlike Link, whose outfit is a major plot point, Aryll keeps her seagull dress throughout the game.",
+						"image_url": "",
+						"question": "What happens to this character's dress after she is rescued from the fortress?",
+						"wrong": [
+							"It turns green",
+							"It turns pink",
+							"It becomes a pirate outfit"
+						]
+					},
+					{
+						"correct": "The Pirates",
+						"difficulty": "Hard",
+						"explanation": "After being rescued, Aryll stays safe on Tetra's pirate ship for a portion of the game.",
+						"image_url": "",
+						"question": "Who specifically takes care of this character after she is rescued while Link continues his journey?",
+						"wrong": [
+							"Grandma",
+							"The Rito",
+							"The Koroks"
+						]
+					},
+					{
+						"correct": "Maggie's Father",
+						"difficulty": "Hard",
+						"explanation": "Maggie's Father is a poor man whose daughter was taken by the same bird as Aryll.",
+						"image_url": "",
+						"question": "What is the name of the first person Link meets on Windfall Island who is looking for his own daughter, similar to Link's search for Aryll?",
+						"wrong": [
+							"Tingle",
+							"Beedle",
+							"Zunari"
+						]
+					},
+					{
+						"correct": "Borrowing it for one day",
+						"difficulty": "Hard",
+						"explanation": "Aryll specifically mentions that Link can borrow it for just that one day.",
+						"image_url": "",
+						"question": "In the game's opening, what is the 'birthday tradition' that involves Aryll giving her brother the telescope?",
+						"wrong": [
+							"Giving it as a permanent gift",
+							"Trading it for a sword",
+							"Hiding it for him to find"
+						]
+					},
+					{
+						"correct": "She doesn't",
+						"difficulty": "Hard",
+						"explanation": "Link cannot talk to Aryll until he physically reaches her cell; she does not have a communication item.",
+						"image_url": "",
+						"question": "How does Aryll communicate with Link while she is imprisoned?",
+						"wrong": [
+							"Through the Pirate's Charm",
+							"By sending a letter",
+							"Through a dream"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_aryll",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Aryll",
+				"lore_desc": "Link's younger sister on Outset Island, whose kidnapping by a giant bird sets the game's events in motion.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Sister",
+					"Family",
+					"Innocent"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fairy-related things",
+						"difficulty": "Easy",
+						"explanation": "Tingle believes he is a forest fairy and dresses in green to match.",
+						"image_url": "",
+						"question": "What is this character's primary obsession and hobby?",
+						"wrong": [
+							"Fishing",
+							"Ancient pottery",
+							"Cooking"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "He wears a green suit, mimicking the hero's tunic from his perspective.",
+						"image_url": "",
+						"question": "What color is this character's signature tight-fitting jumpsuit?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Windfall Island",
+						"difficulty": "Easy",
+						"explanation": "Tingle is locked up in the jail on Windfall Island for unknown reasons.",
+						"image_url": "",
+						"question": "Where does Link first find and rescue this character from a jail cell?",
+						"wrong": [
+							"Outset Island",
+							"Dragon Roost Island",
+							"Forsaken Fortress"
+						]
+					},
+					{
+						"correct": "Nintendo",
+						"difficulty": "Easy",
+						"explanation": "Tingle is a recurring character in many Nintendo-developed Zelda titles.",
+						"image_url": "",
+						"question": "What is the name of the company that created this character?",
+						"wrong": [
+							"Sony",
+							"Sega",
+							"Rare"
+						]
+					},
+					{
+						"correct": "Kooloo-Limpah",
+						"difficulty": "Easy",
+						"explanation": "He famously says 'Kooloo-Limpah!' while throwing confetti.",
+						"image_url": "",
+						"question": "What famous catchphrase does this character say when he performs magic?",
+						"wrong": [
+							"Abracadabra",
+							"Hylia Help Me",
+							"Hey Listen"
+						]
+					},
+					{
+						"correct": "Tingle Tuner",
+						"difficulty": "Medium",
+						"explanation": "The Tingle Tuner was a unique GameCube-to-GBA connectivity feature.",
+						"image_url": "",
+						"question": "What item does this character provide that allows a second player to help using a Game Boy Advance?",
+						"wrong": [
+							"Tingle Tablet",
+							"Tingle Radio",
+							"Tingle Phone"
+						]
+					},
+					{
+						"correct": "Deciphering Triforce Charts",
+						"difficulty": "Medium",
+						"explanation": "Tingle is the only one who can read the ancient charts needed to find the Triforce shards.",
+						"image_url": "",
+						"question": "What service does this character charge Link a large amount of rupees for late in the game?",
+						"wrong": [
+							"Repairing the boat",
+							"Upgrading the sword",
+							"Selling magic beans"
+						]
+					},
+					{
+						"correct": "Tingle Island",
+						"difficulty": "Medium",
+						"explanation": "Tingle Island is located near the center of the Great Sea map.",
+						"image_url": "",
+						"question": "What is the name of this character's personal island, where he is seen spinning a tower?",
+						"wrong": [
+							"Fairy Island",
+							"Green Island",
+							"Map Isle"
+						]
+					},
+					{
+						"correct": "Ankle",
+						"difficulty": "Medium",
+						"explanation": "Tingle's brothers are named Ankle and Knuckle; they help him spin his tower.",
+						"image_url": "",
+						"question": "Which of these is the name of one of this character's brothers found on his island?",
+						"wrong": [
+							"Knee",
+							"Elbow",
+							"Wrist"
+						]
+					},
+					{
+						"correct": "The Tingle Chart",
+						"difficulty": "Medium",
+						"explanation": "The Tingle Chart shows the location of Tingle and his brothers on the Great Sea.",
+						"image_url": "",
+						"question": "What does this character give Link immediately after being freed from jail?",
+						"wrong": [
+							"A Piece of Heart",
+							"A Compass",
+							"The Swift Sail"
+						]
+					},
+					{
+						"correct": "398",
+						"difficulty": "Hard",
+						"explanation": "Tingle's pricing is notoriously high, requiring exactly 398 rupees per chart.",
+						"image_url": "",
+						"question": "How many rupees does this character charge to translate a single Triforce Chart?",
+						"wrong": [
+							"100",
+							"500",
+							"250"
+						]
+					},
+					{
+						"correct": "David Jr.",
+						"difficulty": "Hard",
+						"explanation": "David Jr. is a man who washed up on Tingle Island and was forced into service.",
+						"image_url": "",
+						"question": "What is the name of the white-clad character who works for Tingle but is not his brother?",
+						"wrong": [
+							"Steve",
+							"Paul",
+							"Gary"
+						]
+					},
+					{
+						"correct": "The Picto Box",
+						"difficulty": "Hard",
+						"explanation": "Link must crawl through a maze behind Tingle's cell to find the Picto Box.",
+						"image_url": "",
+						"question": "What item is hidden behind the crates in this character's jail cell on Windfall Island?",
+						"wrong": [
+							"The Grappling Hook",
+							"An Empty Bottle",
+							"A Treasure Chart"
+						]
+					},
+					{
+						"correct": "Tingle Bottle",
+						"difficulty": "Hard",
+						"explanation": "The Tingle Bottle allowed players to send Miiverse messages in the Wii U version.",
+						"image_url": "",
+						"question": "In the HD version of the game, what item replaces the Tingle Tuner?",
+						"wrong": [
+							"Tingle Tablet",
+							"Tingle Slate",
+							"Tingle Wand"
+						]
+					},
+					{
+						"correct": "Mr. Fairy",
+						"difficulty": "Hard",
+						"explanation": "Because Link wears green, Tingle assumes he is also a fairy and calls him 'Mr. Fairy'.",
+						"image_url": "",
+						"question": "What does Tingle call Link throughout the game after they meet?",
+						"wrong": [
+							"Green Boy",
+							"Little Hero",
+							"Shorty"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_tingle",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Tingle",
+				"lore_desc": "A middle-aged man obsessed with forest fairies who provides map services and assistance for a steep price.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Cartographer",
+					"Eccentric",
+					"Helper"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Merchant",
+						"difficulty": "Easy",
+						"explanation": "Beedle is the most prominent shopkeeper found throughout the Great Sea.",
+						"image_url": "",
+						"question": "What is this character's primary job in the game?",
+						"wrong": [
+							"Soldier",
+							"Farmer",
+							"Musician"
+						]
+					},
+					{
+						"correct": "A boat",
+						"difficulty": "Easy",
+						"explanation": "Beedle sails his own small shop-boat to various islands.",
+						"image_url": "",
+						"question": "What is this character's shop physically located on?",
+						"wrong": [
+							"A cart",
+							"A hot air balloon",
+							"A giant turtle"
+						]
+					},
+					{
+						"correct": "THAAANK YOU",
+						"difficulty": "Easy",
+						"explanation": "Beedle is well-known for his enthusiastic and high-pitched 'THAAANK YOU!'.",
+						"image_url": "",
+						"question": "What famous exclamation does this character make when Link buys an item?",
+						"wrong": [
+							"COME AGAIN",
+							"BYE BYE",
+							"HELLO THERE"
+						]
+					},
+					{
+						"correct": "GameCube",
+						"difficulty": "Easy",
+						"explanation": "Beedle made his franchise debut in the GameCube version of Wind Waker.",
+						"image_url": "",
+						"question": "What platform was the original Wind Waker released on, featuring Beedle's first 3D appearance?",
+						"wrong": [
+							"Nintendo 64",
+							"Wii",
+							"Switch"
+						]
+					},
+					{
+						"correct": "A bowl cut",
+						"difficulty": "Easy",
+						"explanation": "Beedle has a very distinct, simple bowl-shaped haircut.",
+						"image_url": "",
+						"question": "What is the shape of the hair on this character's head?",
+						"wrong": [
+							"A mohawk",
+							"Bald",
+							"Long ponytail"
+						]
+					},
+					{
+						"correct": "Point Card",
+						"difficulty": "Medium",
+						"explanation": "Link earns points for every purchase, which eventually earn him rewards and discounts.",
+						"image_url": "",
+						"question": "What system does this character use to reward loyal customers who buy many items?",
+						"wrong": [
+							"Stamp Book",
+							"Credit Line",
+							"Gold Membership"
+						]
+					},
+					{
+						"correct": "Special Shop Ship",
+						"difficulty": "Medium",
+						"explanation": "At Rock Spire Isle, Beedle wears a helmet and sells rarer items for higher prices.",
+						"image_url": "",
+						"question": "What is the name of the 'special' shop Beedle runs at Rock Spire Isle while wearing a helmet?",
+						"wrong": [
+							"Mystery Boat",
+							"Secret Sale Ship",
+							"Helmet Shop"
+						]
+					},
+					{
+						"correct": "Piece of Heart",
+						"difficulty": "Medium",
+						"explanation": "The Piece of Heart is one of the most expensive items in Beedle's inventory.",
+						"image_url": "",
+						"question": "What expensive and rare item can Link buy from Beedle's special shop for 950 rupees?",
+						"wrong": [
+							"Master Sword",
+							"Fire Arrows",
+							"Magic Armor"
+						]
+					},
+					{
+						"correct": "Brown and tan",
+						"difficulty": "Medium",
+						"explanation": "Beedle's shop is a simple, wooden merchant vessel with a canopy.",
+						"image_url": "",
+						"question": "What color is the boat that this character sails?",
+						"wrong": [
+							"Bright red",
+							"Dark blue",
+							"Solid gold"
+						]
+					},
+					{
+						"correct": "He sounds disappointed",
+						"difficulty": "Medium",
+						"explanation": "Beedle gives a long, sad sigh or a disappointed sound if no purchase is made.",
+						"image_url": "",
+						"question": "How does this character react if Link enters his shop and leaves without buying anything?",
+						"wrong": [
+							"He attacks Link",
+							"He bans Link",
+							"He laughs"
+						]
+					},
+					{
+						"correct": "30",
+						"difficulty": "Hard",
+						"explanation": "The Silver Membership requires 30 points, while the Gold requires 60.",
+						"image_url": "",
+						"question": "How many points does Link need to reach the 'Silver' membership level in Beedle's shop?",
+						"wrong": [
+							"10",
+							"50",
+							"100"
+						]
+					},
+					{
+						"correct": "Outset Island",
+						"difficulty": "Hard",
+						"explanation": "Beedle circles many inhabited islands, including Link's home, Outset Island.",
+						"image_url": "",
+						"question": "Which of these islands is a guaranteed location to find one of Beedle's shops?",
+						"wrong": [
+							"Forsaken Fortress",
+							"Tower of the Gods",
+							"Ganon's Tower"
+						]
+					},
+					{
+						"correct": "All-Purpose Bait",
+						"difficulty": "Hard",
+						"explanation": "All-Purpose Bait is used to talk to Fishmen and map out the Great Sea.",
+						"image_url": "",
+						"question": "What item can Link buy from Beedle to help lure fish to the surface to fill his map?",
+						"wrong": [
+							"Magic Beans",
+							"Fish Food",
+							"Golden Apples"
+						]
+					},
+					{
+						"correct": "Complimentary Card",
+						"difficulty": "Hard",
+						"explanation": "The Complimentary Card makes Beedle compliment Link until he's red in the face.",
+						"image_url": "",
+						"question": "What is the specific name of the reward Link receives for reaching 60 points?",
+						"wrong": [
+							"Discount Card",
+							"Free Pass",
+							"Gold Trophy"
+						]
+					},
+					{
+						"correct": "A small ship icon",
+						"difficulty": "Hard",
+						"explanation": "A small, moving ship icon indicates where Beedle is currently located in each quadrant.",
+						"image_url": "",
+						"question": "What does Beedle use to represent his shop on the sea map?",
+						"wrong": [
+							"His own face",
+							"A rupee symbol",
+							"A beetle insect"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_beedle",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Beedle",
+				"lore_desc": "A wandering merchant who travels the Great Sea in his shop-boat, selling various adventuring supplies.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Merchant",
+					"Sailor",
+					"Salesman"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ganondorf",
+						"difficulty": "Easy",
+						"explanation": "Ganondorf rules the Great Sea from the shadows within the Forsaken Fortress.",
+						"image_url": "",
+						"question": "Which major villain uses this fortress as his base of operations?",
+						"wrong": [
+							"Tetra",
+							"Tingle",
+							"Zunari"
+						]
+					},
+					{
+						"correct": "He loses it",
+						"difficulty": "Easy",
+						"explanation": "Link is separated from his sword immediately, forcing him to use stealth to navigate.",
+						"image_url": "",
+						"question": "What happens to Link's sword when he first enters this location at the start of the game?",
+						"wrong": [
+							"It breaks",
+							"It turns into gold",
+							"It becomes the Master Sword"
+						]
+					},
+					{
+						"correct": "Searchlights",
+						"difficulty": "Easy",
+						"explanation": "Giant searchlights patrol the fortress; if Link is caught, he is thrown into jail.",
+						"image_url": "",
+						"question": "What objects must Link avoid being seen by while sneaking through the fortress?",
+						"wrong": [
+							"Laser beams",
+							"Hidden cameras",
+							"Magic eyes"
+						]
+					},
+					{
+						"correct": "Hiding under a barrel",
+						"difficulty": "Easy",
+						"explanation": "Link can duck under large barrels to move past guards without being detected.",
+						"image_url": "",
+						"question": "What is the primary way Link hides from enemies in this fortress during his first visit?",
+						"wrong": [
+							"Wearing a cloak",
+							"Turning invisible",
+							"Digging underground"
+						]
+					},
+					{
+						"correct": "The Helmaroc King",
+						"difficulty": "Easy",
+						"explanation": "The Helmaroc King guards the fortress and is the one who kidnapped Link's sister.",
+						"image_url": "",
+						"question": "What giant bird is the boss of this location?",
+						"wrong": [
+							"Valoo",
+							"Gohma",
+							"Molgera"
+						]
+					},
+					{
+						"correct": "Skull Hammer",
+						"difficulty": "Medium",
+						"explanation": "The Skull Hammer is used to crack the Helmaroc King's mask.",
+						"image_url": "",
+						"question": "Which item does Link obtain during his second visit here that helps him defeat the bird boss?",
+						"wrong": [
+							"Megaton Hammer",
+							"Iron Boots",
+							"Fire Arrows"
+						]
+					},
+					{
+						"correct": "Bokoblins",
+						"difficulty": "Medium",
+						"explanation": "Bokoblins are the standard foot soldiers found patrolling the fortress.",
+						"image_url": "",
+						"question": "Who are the pig-like enemies that act as guards throughout the fortress?",
+						"wrong": [
+							"Moblins",
+							"Lizalfos",
+							"Darknuts"
+						]
+					},
+					{
+						"correct": "Phantom Ganon",
+						"difficulty": "Medium",
+						"explanation": "Phantom Ganon appears as a mid-boss during Link's second visit to the fortress.",
+						"image_url": "",
+						"question": "What spectral villain does Link encounter for the first time in this fortress?",
+						"wrong": [
+							"Dark Link",
+							"Ghirahim",
+							"Shadow Link"
+						]
+					},
+					{
+						"correct": "Defeat the Bokoblins in the towers",
+						"difficulty": "Medium",
+						"explanation": "Defeating the Bokoblins operating the lights makes the first visit much easier.",
+						"image_url": "",
+						"question": "What must Link do to the searchlight operators to stop the lights from moving?",
+						"wrong": [
+							"Break the bulbs",
+							"Cut the power",
+							"Throw water on them"
+						]
+					},
+					{
+						"correct": "The jail cell",
+						"difficulty": "Medium",
+						"explanation": "Link is taken to a jail cell at the top of the fortress, which he must escape from.",
+						"image_url": "",
+						"question": "Where is Link thrown if he is caught by a searchlight or a guard during the first visit?",
+						"wrong": [
+							"Into the sea",
+							"Back to his boat",
+							"To Windfall Island"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "There are three towers with searchlights that Link can disable.",
+						"image_url": "",
+						"question": "How many searchlights are positioned around the fortress during the stealth mission?",
+						"wrong": [
+							"Two",
+							"Four",
+							"Five"
+						]
+					},
+					{
+						"correct": "Maggie",
+						"difficulty": "Hard",
+						"explanation": "Maggie's family comes into wealth after she returns with Skull Necklaces from the fortress.",
+						"image_url": "",
+						"question": "What is the name of the girl who becomes rich after being rescued from this fortress?",
+						"wrong": [
+							"Mila",
+							"Linda",
+							"Sue-Belle"
+						]
+					},
+					{
+						"correct": "The Master Sword",
+						"difficulty": "Hard",
+						"explanation": "The Master Sword is found in Hyrule Castle, never at the Forsaken Fortress.",
+						"image_url": "",
+						"question": "Which item is NOT found in a chest within the Forsaken Fortress?",
+						"wrong": [
+							"Treasure Chart",
+							"Heart Container",
+							"The Skull Hammer"
+						]
+					},
+					{
+						"correct": "The top of the fortress",
+						"difficulty": "Hard",
+						"explanation": "The confrontation takes place on an open balcony at the very peak of the fortress.",
+						"image_url": "",
+						"question": "What is the name of the room where Link finally confronts Ganondorf for the first time face-to-face?",
+						"wrong": [
+							"The Throne Room",
+							"The Dungeon",
+							"The Kitchen"
+						]
+					},
+					{
+						"correct": "Long Spears",
+						"difficulty": "Hard",
+						"explanation": "Moblins carry large spears that Link can use to poke enemies or throw.",
+						"image_url": "",
+						"question": "Which weapon do the Moblins in the fortress carry, which Link can temporarily pick up and use?",
+						"wrong": [
+							"Greatswords",
+							"Crossbows",
+							"Battle Axes"
+						]
+					}
+				]
+			},
+			"id": "the_legend_of_zelda_wind_waker_forsaken_fortress",
+			"meta": {
+				"date_added": "2026-03-24",
+				"entity_category": "Theme Item",
+				"full_title": "Forsaken Fortress",
+				"lore_desc": "A dark and imposing stronghold that serves as Ganondorf's headquarters on the Great Sea.",
+				"theme_origin": "the legend of zelda wind waker",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Fortress",
+					"Base",
+					"Dark"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -82978,6 +86226,72 @@
 						"Shadow Mario"
 					],
 					"name": "The Imposter"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Link",
+						"Tetra",
+						"Ganondorf"
+					],
+					"name": "Wielders of the Triforce"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Link",
+						"Aryll",
+						"Forsaken Fortress"
+					],
+					"name": "The Rescue Mission"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Link",
+						"Aryll"
+					],
+					"name": "Outset Islanders"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ganondorf",
+						"Forsaken Fortress"
+					],
+					"name": "The Ocean's Curse"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Link",
+						"The Wind Waker"
+					],
+					"name": "The Maestro"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Link",
+						"Tetra"
+					],
+					"name": "New Hyrule Founders"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Link",
+						"Ganondorf"
+					],
+					"name": "The Final Showdown"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Link",
+						"The King of Red Lions"
+					],
+					"name": "The Hero's Vessel"
 				}
 			]
 		},
@@ -84603,6 +87917,101 @@
 						"Seto Kaiba"
 					],
 					"name": "Shattered Limits"
+				}
+			]
+		},
+		{
+			"id": "the legend of zelda wind waker",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Valoo",
+						"Medli",
+						"Dragon Roost Island"
+					],
+					"name": "Dragon Roost's Pride"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The King of Red Lions",
+						"The Master Sword",
+						"Ganondorf"
+					],
+					"name": "Echoes of Old Hyrule"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Medli",
+						"Makar"
+					],
+					"name": "Sages of Earth and Wind"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Tingle",
+						"Beedle"
+					],
+					"name": "Rupee Extortion"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Makar",
+						"Forest Haven"
+					],
+					"name": "Korok's Sanctuary"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Tetra",
+						"The Master Sword"
+					],
+					"name": "Hidden Royalty"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Tetra",
+						"The King of Red Lions"
+					],
+					"name": "Captains of the Sea"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Outset Island",
+						"Aryll"
+					],
+					"name": "Humble Beginnings"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Valoo",
+						"Dragon Roost Island"
+					],
+					"name": "Sky Spirit"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Master Sword",
+						"The Wind Waker"
+					],
+					"name": "The Hero's Arsenal"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Tetra",
+						"The King of Red Lions"
+					],
+					"name": "The Royal Lineage"
 				}
 			]
 		}
