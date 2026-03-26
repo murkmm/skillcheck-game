@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774392594,
+	"last_updated": 1774562581,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2660,6 +2660,51 @@
 				"super_smash_bros_melee_battlefield",
 				"super_smash_bros_melee_poké_floats",
 				"super_smash_bros_melee_home_run_bat"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-27": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Fallout New Vegas ",
+			"share_text": "War never changes",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "overclock_chip",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "gold_cartridge"
+				}
+			],
+			"showcase": [
+				"fallout_new_vegas_mr_house",
+				"fallout_new_vegas_benny",
+				"fallout_new_vegas_caesar"
+			],
+			"starters": [
+				"fallout_new_vegas_mr_house",
+				"fallout_new_vegas_benny",
+				"fallout_new_vegas_the_platinum_chip",
+				"fallout_new_vegas_yes_man",
+				"fallout_new_vegas_hoover_dam",
+				"fallout_new_vegas_the_strip",
+				"fallout_new_vegas_ncr_ranger",
+				"fallout_new_vegas_caesar",
+				"fallout_new_vegas_rex",
+				"fallout_new_vegas_ed-e",
+				"fallout_new_vegas_pip_boy",
+				"fallout_new_vegas_vault_21",
+				"fallout_new_vegas_goodsprings",
+				"fallout_new_vegas_legate_lanius",
+				"fallout_new_vegas_victor",
+				"fallout_new_vegas_craig_boone"
 			],
 			"submitted_by": ""
 		}
