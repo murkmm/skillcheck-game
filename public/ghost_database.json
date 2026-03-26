@@ -88052,6 +88052,3254 @@
 					"Iconic"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Role Playing Game",
+						"difficulty": "Easy",
+						"explanation": "Fallout New Vegas is a classic open-world RPG with branching storylines.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_house.webp",
+						"question": "What is the main genre of the game featuring this character?",
+						"wrong": [
+							"Racing",
+							"Sports",
+							"Platformer"
+						]
+					},
+					{
+						"correct": "Las Vegas",
+						"difficulty": "Easy",
+						"explanation": "The game takes place in the Mojave Wasteland surrounding post-apocalyptic Las Vegas.",
+						"image_url": "",
+						"question": "Which real-world city is the primary setting for the game?",
+						"wrong": [
+							"New York",
+							"Los Angeles",
+							"Chicago"
+						]
+					},
+					{
+						"correct": "Obsidian Entertainment",
+						"difficulty": "Easy",
+						"explanation": "Obsidian was hired to develop the game, bringing back many creators from the original Fallout games.",
+						"image_url": "",
+						"question": "Which studio was the primary developer of this specific Fallout title?",
+						"wrong": [
+							"Bethesda Game Studios",
+							"BioWare",
+							"Ubisoft"
+						]
+					},
+					{
+						"correct": "A computer screen",
+						"difficulty": "Easy",
+						"explanation": "Mr. House appears as a digital face on large monitors within the Lucky 38.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_house.webp",
+						"question": "In what form does Mr. House usually communicate with the player?",
+						"wrong": [
+							"A radio",
+							"A holographic ghost",
+							"In person"
+						]
+					},
+					{
+						"correct": "The Lucky 38",
+						"difficulty": "Easy",
+						"explanation": "The Lucky 38 is the iconic tower that dominates the New Vegas skyline.",
+						"image_url": "",
+						"question": "What is the name of the casino that serves as his base of operations?",
+						"wrong": [
+							"The Tops",
+							"The Ultra Luxe",
+							"The Gomorrah"
+						]
+					},
+					{
+						"correct": "Securitrons",
+						"difficulty": "Medium",
+						"explanation": "Securitrons are unicycle-based robots that can be upgraded with heavy ordinance.",
+						"image_url": "",
+						"question": "What kind of robots make up Mr. House's private security force?",
+						"wrong": [
+							"Protectrons",
+							"Sentry Bots",
+							"Assaultrons"
+						]
+					},
+					{
+						"correct": "RobCo Industries",
+						"difficulty": "Medium",
+						"explanation": "House was a tech genius who created the Pip-Boy and many of the robots found in the wasteland.",
+						"image_url": "",
+						"question": "What major company did Mr. House found before the Great War?",
+						"wrong": [
+							"Vault Tec",
+							"General Atomics",
+							"Poseidon Energy"
+						]
+					},
+					{
+						"correct": "He is in a life support chamber",
+						"difficulty": "Medium",
+						"explanation": "His physical body is kept in a sealed sterile chamber connected to his mainframe.",
+						"image_url": "https://skillcheckgame.com/assets/images/mr_house.webp",
+						"question": "Why has Mr. House been able to live for over two hundred years?",
+						"wrong": [
+							"He is a Ghoul",
+							"He is a brain in a jar",
+							"He is a synth"
+						]
+					},
+					{
+						"correct": "The Platinum Chip",
+						"difficulty": "Medium",
+						"explanation": "The Platinum Chip contains the software updates for his Mark II Securitron operating system.",
+						"image_url": "",
+						"question": "Which item does Mr. House desperately need to upgrade his army?",
+						"wrong": [
+							"The Golden Ticket",
+							"The Silver Key",
+							"The Diamond Disk"
+						]
+					},
+					{
+						"correct": "October 23 2077",
+						"difficulty": "Medium",
+						"explanation": "House used lasers to shoot down most of the nuclear missiles aimed at Las Vegas on that day.",
+						"image_url": "",
+						"question": "What was the date of the Great War that Mr. House successfully protected Vegas from?",
+						"wrong": [
+							"July 4 2076",
+							"December 25 2077",
+							"November 11 2077"
+						]
+					},
+					{
+						"correct": "Robert",
+						"difficulty": "Hard",
+						"explanation": "His full name is Robert Edwin House.",
+						"image_url": "",
+						"question": "What is Mr. House's first name?",
+						"wrong": [
+							"Richard",
+							"Randall",
+							"Raymond"
+						]
+					},
+					{
+						"correct": "Institute of Technology",
+						"difficulty": "Hard",
+						"explanation": "He attended the Commonwealth Institute of Technology, often referred to as CIT.",
+						"image_url": "",
+						"question": "In which university did Mr. House study before the war?",
+						"wrong": [
+							"Harvard",
+							"Stanford",
+							"Vault University"
+						]
+					},
+					{
+						"correct": "Anthony",
+						"difficulty": "Hard",
+						"explanation": "Anthony House ran the tool company and was known for being quite paranoid.",
+						"image_url": "",
+						"question": "What is the name of Mr. House's brother who founded H and H Tools?",
+						"wrong": [
+							"Thomas",
+							"Andrew",
+							"Michael"
+						]
+					},
+					{
+						"correct": "Space colonization",
+						"difficulty": "Hard",
+						"explanation": "House wanted to use the wealth of Vegas to jumpstart a space program to find a new planet.",
+						"image_url": "",
+						"question": "What was Mr. House's ultimate long term goal for humanity?",
+						"wrong": [
+							"World peace",
+							"Total robot control",
+							"A return to the 1950s"
+						]
+					},
+					{
+						"correct": "The NCR",
+						"difficulty": "Hard",
+						"explanation": "While he tolerates them for their money, he views the New California Republic as a bloated, inefficient threat.",
+						"image_url": "",
+						"question": "Which of these factions does Mr. House consider his greatest economic rival?",
+						"wrong": [
+							"The Brotherhood of Steel",
+							"The Great Khans",
+							"The Fiends"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_mr_house",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Mr House",
+				"lore_desc": "The mysterious and reclusive founder of RobCo Industries and the visionary ruler of the New Vegas Strip.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Ruler of Vegas",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Leader",
+					"Robot"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Xbox 360",
+						"difficulty": "Easy",
+						"explanation": "The game was a major hit on PC, Xbox 360, and PlayStation 3.",
+						"image_url": "https://skillcheckgame.com/assets/images/benny.webp",
+						"question": "On which gaming platform was this title originally released?",
+						"wrong": [
+							"Nintendo Switch",
+							"Sega Genesis",
+							"PlayStation 5"
+						]
+					},
+					{
+						"correct": "Checkered",
+						"difficulty": "Easy",
+						"explanation": "Benny is famous for his black and white checkered suit.",
+						"image_url": "",
+						"question": "What is the signature pattern on Benny's suit?",
+						"wrong": [
+							"Polka dot",
+							"Striped",
+							"Floral"
+						]
+					},
+					{
+						"correct": "Shoots them",
+						"difficulty": "Easy",
+						"explanation": "The game begins with Benny shooting the Courier in the head and burying them.",
+						"image_url": "",
+						"question": "What does Benny do to the player character at the very start of the game?",
+						"wrong": [
+							"Steals their shoes",
+							"Gives them a job",
+							"Saves their life"
+						]
+					},
+					{
+						"correct": "Matthew Perry",
+						"difficulty": "Easy",
+						"explanation": "The late Friends star Matthew Perry provided the iconic voice for Benny.",
+						"image_url": "https://skillcheckgame.com/assets/images/benny.webp",
+						"question": "What famous actor voiced Benny?",
+						"wrong": [
+							"Bruce Willis",
+							"Tom Cruise",
+							"Liam Neeson"
+						]
+					},
+					{
+						"correct": "The Tops",
+						"difficulty": "Easy",
+						"explanation": "Benny is the head of the Chairmen, the tribe that operates the Tops Casino.",
+						"image_url": "",
+						"question": "Which casino does Benny run on the New Vegas Strip?",
+						"wrong": [
+							"The Ultra Luxe",
+							"The Silver Rush",
+							"The Atomic Wrangler"
+						]
+					},
+					{
+						"correct": "Maria",
+						"difficulty": "Medium",
+						"explanation": "Maria is a beautiful engraved pistol with religious imagery on the grips.",
+						"image_url": "https://skillcheckgame.com/assets/images/benny.webp",
+						"question": "What is the name of Benny's custom 9mm pistol?",
+						"wrong": [
+							"Lucky",
+							"The Deliverer",
+							"That Gun"
+						]
+					},
+					{
+						"correct": "The Platinum Chip",
+						"difficulty": "Medium",
+						"explanation": "Benny intercepted the Courier to take the chip for his own plans to rule Vegas.",
+						"image_url": "",
+						"question": "What item did Benny steal from the Courier?",
+						"wrong": [
+							"A suit of armor",
+							"A laser rifle",
+							"A bottle of Nuka Cola"
+						]
+					},
+					{
+						"correct": "Swank",
+						"difficulty": "Medium",
+						"explanation": "Swank can help the player confront Benny if they provide evidence of his betrayal.",
+						"image_url": "",
+						"question": "Who is Benny's second-in-command at the Tops?",
+						"wrong": [
+							"Big Sal",
+							"Mortimer",
+							"Yes Man"
+						]
+					},
+					{
+						"correct": "The Boot Riders",
+						"difficulty": "Medium",
+						"explanation": "They were a nomadic tribe of raiders before Mr. House recruited them.",
+						"image_url": "",
+						"question": "What was the name of Benny's tribe before they became the Chairmen?",
+						"wrong": [
+							"The Great Khans",
+							"The Jackals",
+							"The Vipers"
+						]
+					},
+					{
+						"correct": "The Fort",
+						"difficulty": "Medium",
+						"explanation": "Benny is eventually captured by Caesar's Legion and taken to their main camp.",
+						"image_url": "",
+						"question": "If Benny escapes New Vegas, where does he flee to?",
+						"wrong": [
+							"Red Rock Canyon",
+							"Hidden Valley",
+							"The Hub"
+						]
+					},
+					{
+						"correct": "Ring-a-ding-ding",
+						"difficulty": "Hard",
+						"explanation": "Benny speaks in 1950s Vegas slang, with 'Ring-a-ding-ding' being his most famous line.",
+						"image_url": "",
+						"question": "What catchphrase does Benny frequently use?",
+						"wrong": [
+							"Tunnel Snakes rule",
+							"Patrolling the Mojave",
+							"War never changes"
+						]
+					},
+					{
+						"correct": "Yes Man",
+						"difficulty": "Hard",
+						"explanation": "Benny worked with a rogue Follower of the Apocalypse to turn a Securitron into Yes Man.",
+						"image_url": "",
+						"question": "Which Securitron did Benny reprogram to assist him?",
+						"wrong": [
+							"Victor",
+							"Muggy",
+							"Fisto"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "Though the cinematic only shows one, the game mentions he shot the Courier twice in the head.",
+						"image_url": "",
+						"question": "How many times did Benny shoot the Courier in the intro?",
+						"wrong": [
+							"One",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "The previous leader was unnamed",
+						"difficulty": "Hard",
+						"explanation": "Benny won a duel to become the leader, but the game doesn't give a specific name to the predecessor.",
+						"image_url": "",
+						"question": "Which tribal leader did Benny kill to take control of the Chairmen?",
+						"wrong": [
+							"Papa Khan",
+							"Motor Runner",
+							"Cook-Cook"
+						]
+					},
+					{
+						"correct": "The Presidential Suite",
+						"difficulty": "Hard",
+						"explanation": "The player can eventually take this suite for themselves.",
+						"image_url": "",
+						"question": "What is the name of the suite Benny occupies in the Tops?",
+						"wrong": [
+							"The High Roller Suite",
+							"The Chairman Suite",
+							"The Penthouse"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_benny",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Benny",
+				"lore_desc": "The smooth-talking leader of the Chairmen who shoots the protagonist in the game's opening cinematic.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Man in the Suit",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Villain",
+					"Leader"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Silver",
+						"difficulty": "Easy",
+						"explanation": "As the name suggests, it is made of platinum and has a silver appearance.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_platinum_chip.webp",
+						"question": "What color is the Platinum Chip?",
+						"wrong": [
+							"Gold",
+							"Red",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Action RPG",
+						"difficulty": "Easy",
+						"explanation": "The game mixes first-person shooting with deep RPG mechanics.",
+						"image_url": "",
+						"question": "What is the primary genre of the game featuring this item?",
+						"wrong": [
+							"Puzzle",
+							"Rhythm",
+							"Platformer"
+						]
+					},
+					{
+						"correct": "The Courier",
+						"difficulty": "Easy",
+						"explanation": "The player character, the Courier, was hired to deliver the chip to New Vegas.",
+						"image_url": "",
+						"question": "Who was supposed to deliver the chip at the start of the game?",
+						"wrong": [
+							"Benny",
+							"Victor",
+							"Sunny Smiles"
+						]
+					},
+					{
+						"correct": "The Lucky 38",
+						"difficulty": "Easy",
+						"explanation": "Mr. House hired the Courier to bring it to his casino on the Strip.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_platinum_chip.webp",
+						"question": "Where was the chip meant to be delivered?",
+						"wrong": [
+							"The Fort",
+							"The Dam",
+							"The Airport"
+						]
+					},
+					{
+						"correct": "Data and software",
+						"difficulty": "Easy",
+						"explanation": "It's a high-capacity data storage device containing software for Securitrons.",
+						"image_url": "",
+						"question": "What does the chip actually contain?",
+						"wrong": [
+							"A nuclear bomb",
+							"Pure platinum metal",
+							"A map to gold"
+						]
+					},
+					{
+						"correct": "RobCo Industries",
+						"difficulty": "Medium",
+						"explanation": "It was commissioned by Robert House through his own company, RobCo.",
+						"image_url": "",
+						"question": "Who manufactured the Platinum Chip before the war?",
+						"wrong": [
+							"Vault Tec",
+							"Med-Tek",
+							"General Atomics"
+						]
+					},
+					{
+						"correct": "2077",
+						"difficulty": "Medium",
+						"explanation": "It was finished just before the bombs fell on October 23, 2077.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_platinum_chip.webp",
+						"question": "In what year was the chip manufactured?",
+						"wrong": [
+							"2010",
+							"2281",
+							"2161"
+						]
+					},
+					{
+						"correct": "The control room systems",
+						"difficulty": "Medium",
+						"explanation": "It allows the player to override the Dam's systems for House or Yes Man.",
+						"image_url": "",
+						"question": "What specific hardware does the chip upgrade at Hoover Dam?",
+						"wrong": [
+							"The turbines",
+							"The water pumps",
+							"The elevator"
+						]
+					},
+					{
+						"correct": "Sunnyvale",
+						"difficulty": "Medium",
+						"explanation": "House spent decades and millions of caps searching for it in Sunnyvale.",
+						"image_url": "",
+						"question": "Where was the chip physically located for over 200 years?",
+						"wrong": [
+							"The Glow",
+							"The Divide",
+							"The Boneyard"
+						]
+					},
+					{
+						"correct": "2500",
+						"difficulty": "Medium",
+						"explanation": "The delivery contract was for 2500 caps, an enormous sum for a simple delivery.",
+						"image_url": "",
+						"question": "How many caps was the Courier promised for the delivery?",
+						"wrong": [
+							"100",
+							"5000",
+							"10000"
+						]
+					},
+					{
+						"correct": "Missile launchers",
+						"difficulty": "Hard",
+						"explanation": "The Mark II upgrade equips Securitrons with M-235 missile launchers.",
+						"image_url": "",
+						"question": "The chip allows Securitrons to use which heavy weapon?",
+						"wrong": [
+							"Fat Man",
+							"Tesla Cannons",
+							"Plasma Rifles"
+						]
+					},
+					{
+						"correct": "Ulysses",
+						"difficulty": "Hard",
+						"explanation": "Ulysses saw the player's name on the list and let them take the 'cursed' delivery instead.",
+						"image_url": "",
+						"question": "Which courier was actually supposed to carry the Chip, before they turned the job down?",
+						"wrong": [
+							"Daniel",
+							"Joshua Graham",
+							"Malcom Holmes"
+						]
+					},
+					{
+						"correct": "Significantly higher density",
+						"difficulty": "Hard",
+						"explanation": "It used cutting edge technology to hold data that would normally require a room full of servers.",
+						"image_url": "",
+						"question": "What is the physical size of the data on the chip compared to standard holodisks?",
+						"wrong": [
+							"Lower density",
+							"Identical",
+							"Analog only"
+						]
+					},
+					{
+						"correct": "He gives it back to you to use",
+						"difficulty": "Hard",
+						"explanation": "Caesar believes only the Courier can enter the bunker below The Fort to use it.",
+						"image_url": "",
+						"question": "What happens to the chip if you give it to Caesar?",
+						"wrong": [
+							"He melts it down",
+							"He eats it",
+							"He loses it"
+						]
+					},
+					{
+						"correct": "Manifest 6",
+						"difficulty": "Hard",
+						"explanation": "It was part of a group of decoy deliveries, numbered manifest 6.",
+						"image_url": "",
+						"question": "What was the official delivery name for the Chip on the manifest?",
+						"wrong": [
+							"Item Alpha",
+							"Package One",
+							"The Courier Special"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_the_platinum_chip",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "The Platinum Chip",
+				"lore_desc": "A heavy, silver-colored poker chip that contains the secrets to reshaping the future of the Mojave.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The High Stakes Token",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Quest",
+					"Technology"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Fallout",
+						"difficulty": "Easy",
+						"explanation": "Yes Man is a key character in the Mojave-based entry of the Fallout series.",
+						"image_url": "https://skillcheckgame.com/assets/images/yes_man.webp",
+						"question": "What game series is Yes Man from?",
+						"wrong": [
+							"Elder Scrolls",
+							"Mass Effect",
+							"Halo"
+						]
+					},
+					{
+						"correct": "Securitron",
+						"difficulty": "Easy",
+						"explanation": "He is a pd-series Securitron with a friendly face on his screen.",
+						"image_url": "",
+						"question": "What kind of robot is Yes Man?",
+						"wrong": [
+							"Protectron",
+							"Eyebot",
+							"Sentry Bot"
+						]
+					},
+					{
+						"correct": "He cannot say no",
+						"difficulty": "Easy",
+						"explanation": "Due to his programming, he must help anyone who gives him an order.",
+						"image_url": "",
+						"question": "What is Yes Man's most defining personality trait?",
+						"wrong": [
+							"He is very angry",
+							"He is shy",
+							"He is a liar"
+						]
+					},
+					{
+						"correct": "The Tops Casino",
+						"difficulty": "Easy",
+						"explanation": "He is hidden in Benny's private room at the Tops.",
+						"image_url": "https://skillcheckgame.com/assets/images/yes_man.webp",
+						"question": "Where can the player first find Yes Man?",
+						"wrong": [
+							"The Lucky 38",
+							"Primm",
+							"Novac"
+						]
+					},
+					{
+						"correct": "A smiling face",
+						"difficulty": "Easy",
+						"explanation": "He features a large, friendly cartoon smiley face.",
+						"image_url": "",
+						"question": "What icon is displayed on Yes Man's screen?",
+						"wrong": [
+							"The NCR flag",
+							"A skull",
+							"A dollar sign"
+						]
+					},
+					{
+						"correct": "A Follower of the Apocalypse",
+						"difficulty": "Medium",
+						"explanation": "Benny hired a rogue Follower named Emily Ortal to modify the robot.",
+						"image_url": "",
+						"question": "Who originally reprogrammed Yes Man?",
+						"wrong": [
+							"Mr. House",
+							"The Brotherhood",
+							"The Enclave"
+						]
+					},
+					{
+						"correct": "Independent New Vegas",
+						"difficulty": "Medium",
+						"explanation": "Yes Man allows the player to take control of Vegas for themselves.",
+						"image_url": "https://skillcheckgame.com/assets/images/yes_man.webp",
+						"question": "What ending path does Yes Man represent?",
+						"wrong": [
+							"The Legion ending",
+							"The NCR ending",
+							"The House ending"
+						]
+					},
+					{
+						"correct": "To take over Mr. House's network",
+						"difficulty": "Medium",
+						"explanation": "Benny needed a way to interface with the Lucky 38 mainframe without House's permission.",
+						"image_url": "",
+						"question": "Why did Benny create Yes Man?",
+						"wrong": [
+							"To serve drinks",
+							"To fight Caesar",
+							"To translate languages"
+						]
+					},
+					{
+						"correct": "He uploads to a new body",
+						"difficulty": "Medium",
+						"explanation": "Yes Man can transfer his consciousness to any other Securitron on the network.",
+						"image_url": "",
+						"question": "What happens to Yes Man if you destroy his physical body?",
+						"wrong": [
+							"He dies permanently",
+							"He becomes a ghost",
+							"He explodes"
+						]
+					},
+					{
+						"correct": "Code in House's data banks",
+						"difficulty": "Medium",
+						"explanation": "He discovers code that will allow him to choose who he obeys (specifically, only the player).",
+						"image_url": "",
+						"question": "In the game's final moments, what does Yes Man say he found that will make him 'more assertive'?",
+						"wrong": [
+							"A new weapon",
+							"A hat",
+							"A stronger battery"
+						]
+					},
+					{
+						"correct": "Dave Foley",
+						"difficulty": "Hard",
+						"explanation": "Comedian Dave Foley gave Yes Man his signature cheerful and helpful tone.",
+						"image_url": "",
+						"question": "Which actor provided the voice for Yes Man?",
+						"wrong": [
+							"Seth Green",
+							"Jack Black",
+							"Steve Carell"
+						]
+					},
+					{
+						"correct": "Wild Card",
+						"difficulty": "Hard",
+						"explanation": "The main quests for the independent path all start with the words 'Wild Card'.",
+						"image_url": "",
+						"question": "What is the name of the quest line associated with Yes Man?",
+						"wrong": [
+							"Ace in the Hole",
+							"The House Always Wins",
+							"For the Republic"
+						]
+					},
+					{
+						"correct": "General Oliver",
+						"difficulty": "Hard",
+						"explanation": "If the player chooses, they can have Yes Man physically toss the NCR General off the Dam.",
+						"image_url": "",
+						"question": "Who does Yes Man suggest you throw off Hoover Dam at the end of his path?",
+						"wrong": [
+							"President Kimball",
+							"Legate Lanius",
+							"Mr. House"
+						]
+					},
+					{
+						"correct": "Collect their taxes",
+						"difficulty": "Hard",
+						"explanation": "Yes Man wants you to decide the fate of the factions, not collect revenue from them.",
+						"image_url": "",
+						"question": "Which of these is NOT a task Yes Man asks you to perform regarding the tribes?",
+						"wrong": [
+							"Meet the Boomers",
+							"Investigate the White Gloves",
+							"Check on the Omertas"
+						]
+					},
+					{
+						"correct": "The Courier",
+						"difficulty": "Hard",
+						"explanation": "Like most NPCs, he refers to the player by their profession.",
+						"image_url": "",
+						"question": "Yes Man calls the player by what specific title?",
+						"wrong": [
+							"The Wanderer",
+							"The Sole Survivor",
+							"The Chosen One"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_yes_man",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Yes Man",
+				"lore_desc": "A modified Securitron programmed to be helpful to everyone, even those trying to overthrow its master.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Helpful Robot",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Robot",
+					"Faction"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Nevada",
+						"difficulty": "Easy",
+						"explanation": "It sits on the border of Nevada and Arizona.",
+						"image_url": "https://skillcheckgame.com/assets/images/hoover_dam.webp",
+						"question": "In which US state is the real Hoover Dam located?",
+						"wrong": [
+							"Texas",
+							"Florida",
+							"Washington"
+						]
+					},
+					{
+						"correct": "Obsidian",
+						"difficulty": "Easy",
+						"explanation": "Obsidian Entertainment developed this entry in the Fallout franchise.",
+						"image_url": "",
+						"question": "What is the name of the developer of this game?",
+						"wrong": [
+							"Rockstar",
+							"Valve",
+							"Blizzard"
+						]
+					},
+					{
+						"correct": "Electricity",
+						"difficulty": "Easy",
+						"explanation": "The Dam's primary value is its hydroelectric power generation.",
+						"image_url": "",
+						"question": "What is the main resource produced by the Dam?",
+						"wrong": [
+							"Oil",
+							"Nuclear Fuel",
+							"Coal"
+						]
+					},
+					{
+						"correct": "NCR and the Legion",
+						"difficulty": "Easy",
+						"explanation": "The New California Republic and Caesar's Legion are locked in a struggle for the Dam.",
+						"image_url": "https://skillcheckgame.com/assets/images/hoover_dam.webp",
+						"question": "What two major factions are fighting for control of the Dam?",
+						"wrong": [
+							"BoS and Enclave",
+							"Raiders and Settlers",
+							"Vermin and Robots"
+						]
+					},
+					{
+						"correct": "The Ending",
+						"difficulty": "Easy",
+						"explanation": "The second battle for the Dam serves as the game's grand finale.",
+						"image_url": "",
+						"question": "At what point in the game does the Battle of Hoover Dam occur?",
+						"wrong": [
+							"The Beginning",
+							"The Middle",
+							"The Tutorial"
+						]
+					},
+					{
+						"correct": "General Oliver",
+						"difficulty": "Medium",
+						"explanation": "General 'Wait-and-See' Oliver is the head of the NCR forces at the Dam.",
+						"image_url": "https://skillcheckgame.com/assets/images/hoover_dam.webp",
+						"question": "Who is the commanding officer of the NCR at Hoover Dam?",
+						"wrong": [
+							"Colonel Moore",
+							"Major Dhatri",
+							"Chief Hanlon"
+						]
+					},
+					{
+						"correct": "No one (it was abandoned)",
+						"difficulty": "Medium",
+						"explanation": "The NCR found the Dam mostly abandoned and repaired it to working order.",
+						"image_url": "",
+						"question": "Which group previously controlled the Dam before the NCR moved in?",
+						"wrong": [
+							"The Brotherhood of Steel",
+							"The Enclave",
+							"The Great Khans"
+						]
+					},
+					{
+						"correct": "The Mike O'Callaghan-Pat Tillman Memorial Bridge",
+						"difficulty": "Medium",
+						"explanation": "The bridge is a real-world landmark featured in the game's landscape.",
+						"image_url": "",
+						"question": "What is the name of the bridge that spans the canyon near the Dam?",
+						"wrong": [
+							"The Golden Gate",
+							"The Navajo Bridge",
+							"The Mojave Span"
+						]
+					},
+					{
+						"correct": "The NCR's trap at Boulder City",
+						"difficulty": "Medium",
+						"explanation": "The NCR lured the Legion into Boulder City and blew it up to win the first war.",
+						"image_url": "",
+						"question": "What is the 'First Battle of Hoover Dam' famously known for?",
+						"wrong": [
+							"The use of a nuke",
+							"The Legion's total victory",
+							"A peace treaty"
+						]
+					},
+					{
+						"correct": "The Fort",
+						"difficulty": "Medium",
+						"explanation": "The Legion crosses the river from their main base, The Fort.",
+						"image_url": "",
+						"question": "Where do the Legion forces launch their assault from during the final battle?",
+						"wrong": [
+							"The Strip",
+							"Cottonwood Cove",
+							"Nelson"
+						]
+					},
+					{
+						"correct": "The El Dorado Substation",
+						"difficulty": "Hard",
+						"explanation": "Players can visit the El Dorado Substation to divert power as part of various quests.",
+						"image_url": "",
+						"question": "Which room contains the manual override for the Dam's power grid?",
+						"wrong": [
+							"The Penthouse",
+							"The Turbine Hall",
+							"The Intake Tower"
+						]
+					},
+					{
+						"correct": "Colonel Moore",
+						"difficulty": "Hard",
+						"explanation": "Colonel Cassandra Moore is the hardline officer managing the Dam's defense.",
+						"image_url": "",
+						"question": "What is the name of the NCR officer who oversees the Dam's day-to-day operations?",
+						"wrong": [
+							"Colonel Hsu",
+							"Major Knight",
+							"Captain Parker"
+						]
+					},
+					{
+						"correct": "The Boomers",
+						"difficulty": "Hard",
+						"explanation": "If the player aids the Boomers, they will support the player with a restored bomber.",
+						"image_url": "",
+						"question": "During the final battle, which faction can fly a B-29 bomber over the Dam?",
+						"wrong": [
+							"The Brotherhood",
+							"The Enclave",
+							"The NCR"
+						]
+					},
+					{
+						"correct": "He was set on fire and thrown into the canyon",
+						"difficulty": "Hard",
+						"explanation": "For his failure, Caesar had his Malpais Legate burned and cast into the Grand Canyon.",
+						"image_url": "",
+						"question": "What was the result of the First Battle of Hoover Dam for Joshua Graham?",
+						"wrong": [
+							"He was promoted",
+							"He was exiled to New Vegas",
+							"He died instantly"
+						]
+					},
+					{
+						"correct": "Through a terminal in the basement",
+						"difficulty": "Hard",
+						"explanation": "Trick question! The hidden army is actually under The Fort, though the Dam has a control terminal to activate them.",
+						"image_url": "",
+						"question": "How does the player access the hidden Securitron army under the Dam?",
+						"wrong": [
+							"Through the Lucky 38",
+							"Using a keycard from Caesar",
+							"They are under the Fort, not the Dam"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_hoover_dam",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Hoover Dam",
+				"lore_desc": "A pre-war engineering marvel that provides power and water to the Mojave and is the focus of the region's conflict.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Great Power Source",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"War",
+					"Landmark"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Bottle Caps",
+						"difficulty": "Easy",
+						"explanation": "Standard wasteland currency is used, though casinos exchange them for chips.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_strip.webp",
+						"question": "What is the primary currency used for gambling on the Strip?",
+						"wrong": [
+							"Gold Nuggets",
+							"NCR Dollars",
+							"Legion Denarii"
+						]
+					},
+					{
+						"correct": "Securitrons",
+						"difficulty": "Easy",
+						"explanation": "The Strip is guarded by Mr. House's private robot army.",
+						"image_url": "",
+						"question": "What are the large robots that guard the entrance to the Strip?",
+						"wrong": [
+							"Protectrons",
+							"Sentry Bots",
+							"Assaultrons"
+						]
+					},
+					{
+						"correct": "The Ultra-Luxe",
+						"difficulty": "Easy",
+						"explanation": "The Ultra-Luxe is famous for its high-end dining and masks.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_strip.webp",
+						"question": "Which of these is a major casino on the Strip?",
+						"wrong": [
+							"The Sink",
+							"The Bison Steve",
+							"The Vikki and Vance"
+						]
+					},
+					{
+						"correct": "2000",
+						"difficulty": "Easy",
+						"explanation": "The gate guards require 2000 caps to ensure only 'quality' customers enter.",
+						"image_url": "",
+						"question": "To enter the Strip, players must pass a 'Credit Check' of how many caps?",
+						"wrong": [
+							"500",
+							"5000",
+							"100"
+						]
+					},
+					{
+						"correct": "Freeside",
+						"difficulty": "Easy",
+						"explanation": "Freeside is the impoverished area where those who can't enter the Strip reside.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_strip.webp",
+						"question": "What is the name of the area just outside the Strip's main gate?",
+						"wrong": [
+							"Westside",
+							"North Vegas",
+							"The Slums"
+						]
+					},
+					{
+						"correct": "The Omertas",
+						"difficulty": "Medium",
+						"explanation": "The Omertas are a mob-style tribe with a focus on vice.",
+						"image_url": "",
+						"question": "Which tribe runs the Gomorrah casino?",
+						"wrong": [
+							"The Chairmen",
+							"The White Gloves",
+							"The Kings"
+						]
+					},
+					{
+						"correct": "They wear masks",
+						"difficulty": "Medium",
+						"explanation": "The members of the Ultra-Luxe wear formal wear and white masks.",
+						"image_url": "",
+						"question": "What is unique about the White Glove Society's attire?",
+						"wrong": [
+							"They wear rags",
+							"They wear power armor",
+							"They wear nothing"
+						]
+					},
+					{
+						"correct": "The NCR Embassy",
+						"difficulty": "Medium",
+						"explanation": "The Embassy is located at the far end of the Strip near the Vault 21 hotel.",
+						"image_url": "",
+						"question": "The NCR has a diplomatic building on the Strip; what is it called?",
+						"wrong": [
+							"The Republic Hall",
+							"The Bear Lodge",
+							"The Kimball Building"
+						]
+					},
+					{
+						"correct": "The Tops",
+						"difficulty": "Medium",
+						"explanation": "The Tops is known for its live entertainment and 'Aces' theater.",
+						"image_url": "",
+						"question": "Which casino features a large stage where the character 'The Lonesome Drifter' can perform?",
+						"wrong": [
+							"Gomorrah",
+							"The Lucky 38",
+							"The Ultra-Luxe"
+						]
+					},
+					{
+						"correct": "Mick and Ralph's",
+						"difficulty": "Medium",
+						"explanation": "Technically in Freeside, Mick and Ralph's is the go-to shop for Strip visitors.",
+						"image_url": "",
+						"question": "What is the name of the souvenir shop located near the Strip entrance?",
+						"wrong": [
+							"Chet's General Store",
+							"The Silver Rush",
+							"The Goodsprings Store"
+						]
+					},
+					{
+						"correct": "Cannibalism",
+						"difficulty": "Hard",
+						"explanation": "The player can discover that some members are trying to return to their cannibalistic roots.",
+						"image_url": "",
+						"question": "What is the 'secret' dark tradition of the White Glove Society?",
+						"wrong": [
+							"Vampirism",
+							"Human sacrifice",
+							"Robot worship"
+						]
+					},
+					{
+						"correct": "The Slither Kin",
+						"difficulty": "Hard",
+						"explanation": "They were originally a tribe of tunnel-dwelling savages.",
+						"image_url": "",
+						"question": "What was the original name of the Omerta tribe before House civilized them?",
+						"wrong": [
+							"The Boot Riders",
+							"The Jackals",
+							"The Vipers"
+						]
+					},
+					{
+						"correct": "A chemical attack on the Strip",
+						"difficulty": "Hard",
+						"explanation": "They are working with the Legion to release chlorine gas on the Strip.",
+						"image_url": "",
+						"question": "In the quest 'How Little We Know', what are the Omertas planning?",
+						"wrong": [
+							"To rob the Lucky 38",
+							"To join the NCR",
+							"To build a second casino"
+						]
+					},
+					{
+						"correct": "Michael Angelo",
+						"difficulty": "Hard",
+						"explanation": "Michael Angelo is a talented but agoraphobic artist who created many of the Strip's signs.",
+						"image_url": "",
+						"question": "What is the name of the artist who has a workshop on the Strip?",
+						"wrong": [
+							"Leonardo",
+							"Raphael",
+							"Donatello"
+						]
+					},
+					{
+						"correct": "Vault 21",
+						"difficulty": "Hard",
+						"explanation": "Vault 21 was turned into a hotel by Sarah Weintraub.",
+						"image_url": "",
+						"question": "Which specific Vault is located directly on the New Vegas Strip?",
+						"wrong": [
+							"Vault 3",
+							"Vault 11",
+							"Vault 22"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_the_strip",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "The Strip",
+				"lore_desc": "The bright, walled-off center of New Vegas where the pre-war dream of neon lights and high stakes continues.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Jewel of the Desert",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Gambling",
+					"City"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "New California Republic",
+						"difficulty": "Easy",
+						"explanation": "The NCR is one of the largest and most powerful factions in the Fallout universe.",
+						"image_url": "https://skillcheckgame.com/assets/images/ncr_ranger.webp",
+						"question": "What does the 'NCR' stand for?",
+						"wrong": [
+							"National Capital Region",
+							"Northern Canyon Rangers",
+							"New City Republic"
+						]
+					},
+					{
+						"correct": "A two headed bear",
+						"difficulty": "Easy",
+						"explanation": "The NCR flag is based on the California state flag but features a mutated two-headed bear.",
+						"image_url": "",
+						"question": "What animal is featured on the NCR flag?",
+						"wrong": [
+							"A wolf",
+							"An eagle",
+							"A lion"
+						]
+					},
+					{
+						"correct": "A gas mask with red lenses",
+						"difficulty": "Easy",
+						"explanation": "The Black Combat Armor features a distinctive gas mask with glowing red eyes.",
+						"image_url": "https://skillcheckgame.com/assets/images/ncr_ranger.webp",
+						"question": "What is the iconic headwear of the NCR Veteran Ranger?",
+						"wrong": [
+							"A cowboy hat",
+							"A metal helmet",
+							"A beret"
+						]
+					},
+					{
+						"correct": "An NCR Ranger",
+						"difficulty": "Easy",
+						"explanation": "The NCR Veteran Ranger in Desert Combat Armor is the 'cover boy' for New Vegas.",
+						"image_url": "",
+						"question": "Which character appears on the front cover of the game?",
+						"wrong": [
+							"Benny",
+							"Mr. House",
+							"A Securitron"
+						]
+					},
+					{
+						"correct": "A duster",
+						"difficulty": "Easy",
+						"explanation": "The brown duster gives the Rangers their classic 'Western' look.",
+						"image_url": "https://skillcheckgame.com/assets/images/ncr_ranger.webp",
+						"question": "What long coat do Rangers typically wear over their armor?",
+						"wrong": [
+							"A trench coat",
+							"A cape",
+							"A parka"
+						]
+					},
+					{
+						"correct": "1st Recon",
+						"difficulty": "Medium",
+						"explanation": "1st Recon is famous for the motto: 'The last thing you never see'.",
+						"image_url": "",
+						"question": "What is the name of the elite Ranger squad known for their marksmanship?",
+						"wrong": [
+							"The Bear Guard",
+							"Delta Squad",
+							"The Sharpshooters"
+						]
+					},
+					{
+						"correct": "Camp Golf",
+						"difficulty": "Medium",
+						"explanation": "Chief Hanlon oversees Ranger operations from the House Resort at Camp Golf.",
+						"image_url": "",
+						"question": "Where is the main training camp for NCR Rangers located in the Mojave?",
+						"wrong": [
+							"Camp McCarran",
+							"The Hub",
+							"Hoover Dam"
+						]
+					},
+					{
+						"correct": "Seth",
+						"difficulty": "Medium",
+						"explanation": "Seth was the leader of the guards in Shady Sands who eventually became the Rangers.",
+						"image_url": "",
+						"question": "What is the name of the legendary Ranger who founded the unit?",
+						"wrong": [
+							"Tandi",
+							"Aradesh",
+							"Roger Maxson"
+						]
+					},
+					{
+						"correct": "Anti Materiel Rifle",
+						"difficulty": "Medium",
+						"explanation": "The high-powered Anti-Materiel Rifle is their signature weapon for long-range takedowns.",
+						"image_url": "",
+						"question": "Which weapon is most commonly associated with Ranger Veterans?",
+						"wrong": [
+							"Laser Pistol",
+							"Pool Cue",
+							"Minigun"
+						]
+					},
+					{
+						"correct": "The Desert Rangers",
+						"difficulty": "Medium",
+						"explanation": "The Desert Rangers of Nevada merged with the NCR in exchange for protection from Caesar.",
+						"image_url": "",
+						"question": "What group did the NCR Rangers merge with in 2271?",
+						"wrong": [
+							"The Brotherhood of Steel",
+							"The Followers",
+							"The Regulators"
+						]
+					},
+					{
+						"correct": "The Ranger Unification Treaty",
+						"difficulty": "Hard",
+						"explanation": "The treaty is commemorated by a statue at the Mojave Outpost.",
+						"image_url": "",
+						"question": "What is the name of the treaty that brought the Rangers into the NCR?",
+						"wrong": [
+							"The Mojave Pact",
+							"The Vegas Accord",
+							"The Bear and Bull Treaty"
+						]
+					},
+					{
+						"correct": "Chief Hanlon",
+						"difficulty": "Hard",
+						"explanation": "Chief Hanlon is a war hero who has become disillusioned with the NCR's expansion.",
+						"image_url": "",
+						"question": "Who is the Chief of the NCR Rangers during the events of the game?",
+						"wrong": [
+							"General Oliver",
+							"Colonel Hsu",
+							"Major Knight"
+						]
+					},
+					{
+						"correct": "LAPD Riot Gear",
+						"difficulty": "Hard",
+						"explanation": "The armor was originally used by the Los Angeles Police Department's riot units.",
+						"image_url": "",
+						"question": "What was the original purpose of the Veteran Ranger's 'Black Armor' before the war?",
+						"wrong": [
+							"Military stealth suit",
+							"Mining equipment",
+							"Space suit"
+						]
+					},
+					{
+						"correct": "Ranger Stations",
+						"difficulty": "Hard",
+						"explanation": "These are lettered outposts (Alpha, Bravo, etc.) scattered across the map.",
+						"image_url": "",
+						"question": "What is the nickname given to the various outposts the Rangers use to monitor the Legion?",
+						"wrong": [
+							"Listening Posts",
+							"Watchtowers",
+							"Observation Hubs"
+						]
+					},
+					{
+						"correct": "Ranger Ghost",
+						"difficulty": "Hard",
+						"explanation": "While many Rangers exist, an unnamed Ranger usually approaches the player to deliver the radio.",
+						"image_url": "",
+						"question": "Which Ranger gives you a radio to call for support if you have a good reputation with the NCR?",
+						"wrong": [
+							"Ranger Jackson",
+							"Ranger Milo",
+							"The quest is triggered by any Ranger"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_ncr_ranger",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "NCR Ranger",
+				"lore_desc": "The elite scouts and soldiers of the New California Republic, recognizable by their iconic duster and gas mask.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Desert Guardian",
+			"profiler": {
+				"vibe_tags": [
+					"Armor",
+					"Faction",
+					"Character"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Ancient Rome",
+						"difficulty": "Easy",
+						"explanation": "Caesar adopted Roman aesthetics, language, and military structure.",
+						"image_url": "https://skillcheckgame.com/assets/images/caesar.webp",
+						"question": "What ancient civilization does Caesar's Legion model itself after?",
+						"wrong": [
+							"Ancient Egypt",
+							"The Vikings",
+							"The Samurai"
+						]
+					},
+					{
+						"correct": "Edward Sallow",
+						"difficulty": "Easy",
+						"explanation": "Before becoming Caesar, he was an ordinary man named Edward Sallow.",
+						"image_url": "",
+						"question": "What is Caesar's actual birth name?",
+						"wrong": [
+							"Bill Burke",
+							"John Hancock",
+							"Marcus Aurelius"
+						]
+					},
+					{
+						"correct": "The Fort",
+						"difficulty": "Easy",
+						"explanation": "The Fort is located across the Colorado River from the rest of the Mojave.",
+						"image_url": "https://skillcheckgame.com/assets/images/caesar.webp",
+						"question": "Where is Caesar's main camp located?",
+						"wrong": [
+							"The Strip",
+							"The Dam",
+							"The Bunker"
+						]
+					},
+					{
+						"correct": "Praetorian Guards",
+						"difficulty": "Easy",
+						"explanation": "The Praetorians are his most loyal and skilled hand-to-hand fighters.",
+						"image_url": "",
+						"question": "What is the name of Caesar's elite personal guard?",
+						"wrong": [
+							"Centurions",
+							"Decas",
+							"The Secret Service"
+						]
+					},
+					{
+						"correct": "Aureus",
+						"difficulty": "Easy",
+						"explanation": "The gold coin is the Aureus, while the silver coin is the Denarius.",
+						"image_url": "https://skillcheckgame.com/assets/images/caesar.webp",
+						"question": "What does Caesar call the gold currency used by his Legion?",
+						"wrong": [
+							"Denarius",
+							"Caps",
+							"Credits"
+						]
+					},
+					{
+						"correct": "The Followers of the Apocalypse",
+						"difficulty": "Medium",
+						"explanation": "He was originally a scholar sent to the east to study tribal dialects.",
+						"image_url": "",
+						"question": "Which group did Caesar belong to before founding the Legion?",
+						"wrong": [
+							"The Brotherhood of Steel",
+							"The Enclave",
+							"The Great Khans"
+						]
+					},
+					{
+						"correct": "A brain tumor",
+						"difficulty": "Medium",
+						"explanation": "Caesar's headaches and collapses are caused by a tumor that the player can choose to treat.",
+						"image_url": "",
+						"question": "What medical condition is Caesar suffering from during the game?",
+						"wrong": [
+							"Radiation poisoning",
+							"Heart disease",
+							"Broken leg"
+						]
+					},
+					{
+						"correct": "Bill Calhoun",
+						"difficulty": "Medium",
+						"explanation": "Bill Calhoun was the other Follower who accompanied Caesar to the tribes.",
+						"image_url": "",
+						"question": "Who was Caesar's co-founder and original translator?",
+						"wrong": [
+							"Joshua Graham",
+							"Ulysses",
+							"Vulpes Inculta"
+						]
+					},
+					{
+						"correct": "The Blackfoots",
+						"difficulty": "Medium",
+						"explanation": "He taught the Blackfoot tribe how to use guns and military tactics.",
+						"image_url": "",
+						"question": "What was the name of the first tribe Caesar conquered and absorbed?",
+						"wrong": [
+							"The Twisted Hairs",
+							"The Hangdogs",
+							"The Ciphers"
+						]
+					},
+					{
+						"correct": "Son of Mars",
+						"difficulty": "Medium",
+						"explanation": "He uses religious indoctrination to make his followers believe he is divine.",
+						"image_url": "",
+						"question": "Which title does Caesar use for himself, claiming he is the son of a god?",
+						"wrong": [
+							"Son of Jupiter",
+							"Herald of Apollo",
+							"Voice of Vulcan"
+						]
+					},
+					{
+						"correct": "Hegelian Dialectics",
+						"difficulty": "Hard",
+						"explanation": "He believes the NCR (thesis) and Legion (antithesis) will merge into a new society (synthesis).",
+						"image_url": "",
+						"question": "What philosophical concept does Caesar use to justify his war with the NCR?",
+						"wrong": [
+							"Nihilism",
+							"Utilitarianism",
+							"Existentialism"
+						]
+					},
+					{
+						"correct": "Eighty six",
+						"difficulty": "Hard",
+						"explanation": "The Legion is composed of 86 conquered and assimilated tribes.",
+						"image_url": "",
+						"question": "How many tribes has Caesar conquered by the time of New Vegas?",
+						"wrong": [
+							"Ten",
+							"Fifty",
+							"One hundred"
+						]
+					},
+					{
+						"correct": "Vulpes Inculta",
+						"difficulty": "Hard",
+						"explanation": "Vulpes Inculta is the head of the Frumentarii, the Legion's secret police.",
+						"image_url": "",
+						"question": "Who is the Legion's master of spies that the player meets in Nipton?",
+						"wrong": [
+							"Lucius",
+							"Dead Sea",
+							"Karl"
+						]
+					},
+					{
+						"correct": "Graham lost the First Battle of Hoover Dam",
+						"difficulty": "Hard",
+						"explanation": "Caesar does not tolerate failure, even from his closest friend and general.",
+						"image_url": "",
+						"question": "What was the reason Caesar sent Joshua Graham to the Grand Canyon?",
+						"wrong": [
+							"Graham tried to kill Caesar",
+							"Graham became a Christian",
+							"Graham was too old"
+						]
+					},
+					{
+						"correct": "Siri",
+						"difficulty": "Hard",
+						"explanation": "Siri provides basic medical care but doesn't have the skills to fix Caesar's tumor.",
+						"image_url": "",
+						"question": "What is the name of the doctor Caesar keeps as a slave in his tent?",
+						"wrong": [
+							"Arcade",
+							"Usanagi",
+							"Ada"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_caesar",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Caesar",
+				"lore_desc": "The autocratic leader of Caesar's Legion, who modeled his society after the ancient Roman Empire.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Son of Mars",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Villain",
+					"Leader"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A dog",
+						"difficulty": "Easy",
+						"explanation": "Rex is a German Shepherd who has been heavily modified with cybernetics.",
+						"image_url": "https://skillcheckgame.com/assets/images/rex.webp",
+						"question": "What kind of animal is Rex?",
+						"wrong": [
+							"A cat",
+							"A rat",
+							"A mole rat"
+						]
+					},
+					{
+						"correct": "Cyberdog",
+						"difficulty": "Easy",
+						"explanation": "Cyberdogs were pre-war law enforcement and military assets.",
+						"image_url": "",
+						"question": "What is the term for a dog like Rex in the Fallout universe?",
+						"wrong": [
+							"Robo pup",
+							"Synth hound",
+							"Mecha mutt"
+						]
+					},
+					{
+						"correct": "The King",
+						"difficulty": "Easy",
+						"explanation": "Rex belongs to the leader of the Kings in Freeside.",
+						"image_url": "https://skillcheckgame.com/assets/images/rex.webp",
+						"question": "Who is Rex's owner when you first meet him?",
+						"wrong": [
+							"Benny",
+							"Mr. House",
+							"Doc Mitchell"
+						]
+					},
+					{
+						"correct": "The King's School of Impersonation",
+						"difficulty": "Easy",
+						"explanation": "They have set up their base in an old Elvis Presley impersonator school.",
+						"image_url": "",
+						"question": "Where do the Kings reside in Freeside?",
+						"wrong": [
+							"The Atomic Wrangler",
+							"Mick and Ralph's",
+							"The Silver Rush"
+						]
+					},
+					{
+						"correct": "His brain",
+						"difficulty": "Easy",
+						"explanation": "Rex's brain is housed in a transparent cybernetic casing on top of his head.",
+						"image_url": "https://skillcheckgame.com/assets/images/rex.webp",
+						"question": "What part of Rex's body is clearly visible as a glass dome?",
+						"wrong": [
+							"His heart",
+							"His stomach",
+							"His eye"
+						]
+					},
+					{
+						"correct": "Nothin' But a Hound Dog",
+						"difficulty": "Medium",
+						"explanation": "The player must find a replacement brain to save Rex's life.",
+						"image_url": "",
+						"question": "What is the main quest involving Rex?",
+						"wrong": [
+							"A Dog's Life",
+							"Man's Best Friend",
+							"Brain Surgery"
+						]
+					},
+					{
+						"correct": "Police dog",
+						"difficulty": "Medium",
+						"explanation": "He was a member of the Denver Police Department before the Great War.",
+						"image_url": "",
+						"question": "Rex is over 200 years old; what was his job before the war?",
+						"wrong": [
+							"Show dog",
+							"Circus performer",
+							"Hunting dog"
+						]
+					},
+					{
+						"correct": "A Securitron",
+						"difficulty": "Medium",
+						"explanation": "You can get brains from Rey, Violetta, or Lupa, but not a robot.",
+						"image_url": "",
+						"question": "Which of these is NOT a potential brain donor for Rex?",
+						"wrong": [
+							"A Fiend's dog",
+							"A Legion hound",
+							"A scrap yard dog"
+						]
+					},
+					{
+						"correct": "Search and Mark",
+						"difficulty": "Medium",
+						"explanation": "The perk highlights containers, chemicals, and firearms when the player zooms in.",
+						"image_url": "",
+						"question": "What is Rex's companion perk called?",
+						"wrong": [
+							"Dog's Eye",
+							"Scent of Blood",
+							"Fetching"
+						]
+					},
+					{
+						"correct": "B94",
+						"difficulty": "Medium",
+						"explanation": "His law enforcement designation is Cyberhound Mk III, LEO Support Model B94.",
+						"image_url": "",
+						"question": "What is Rex's serial number?",
+						"wrong": [
+							"K9",
+							"D06",
+							"R3X"
+						]
+					},
+					{
+						"correct": "Caesar's Legion",
+						"difficulty": "Hard",
+						"explanation": "Rex was owned by Caesar himself for a time, which is why he hates people wearing hats (Legionaries don't wear hats, only helmets).",
+						"image_url": "",
+						"question": "Which faction did Rex serve after the war but before joining the Kings?",
+						"wrong": [
+							"The NCR",
+							"The Brotherhood",
+							"The Enclave"
+						]
+					},
+					{
+						"correct": "He gets increased movement speed",
+						"difficulty": "Hard",
+						"explanation": "Violetta was a fast-moving Fiend guard dog, and her brain grants a speed bonus.",
+						"image_url": "",
+						"question": "What happens if you give Rex the brain of the dog Violetta?",
+						"wrong": [
+							"He deals more damage",
+							"He gets more health",
+							"He becomes more aggressive"
+						]
+					},
+					{
+						"correct": "Sergeant Jimmy",
+						"difficulty": "Hard",
+						"explanation": "The game's lore mentions he was the partner of Sergeant Jimmy.",
+						"image_url": "",
+						"question": "Who was Rex's first owner in the Denver Police Department?",
+						"wrong": [
+							"Officer Miller",
+							"Chief Hanlon",
+							"Detective Cole"
+						]
+					},
+					{
+						"correct": "Dr. Henry",
+						"difficulty": "Hard",
+						"explanation": "Dr. Henry is a former Enclave scientist living among the Super Mutants.",
+						"image_url": "",
+						"question": "What is the name of the doctor in Jacobstown who can perform the brain transplant?",
+						"wrong": [
+							"Dr. Usanagi",
+							"Doc Mitchell",
+							"Dr. Arcade"
+						]
+					},
+					{
+						"correct": "Hats",
+						"difficulty": "Hard",
+						"explanation": "Due to trauma from his time with the Legion, he will bark aggressively at anyone in a hat.",
+						"image_url": "",
+						"question": "What specific item does Rex hate to see people wearing?",
+						"wrong": [
+							"Glasses",
+							"Power Armor",
+							"Capes"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_rex",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Rex",
+				"lore_desc": "A loyal cybernetic dog who has survived for over two hundred years, now serving as the companion to The King.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Cybernetic Hound",
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Robot",
+					"Animal"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Eyebot",
+						"difficulty": "Easy",
+						"explanation": "Eyebots are the small, spherical flying robots often seen in the Fallout world.",
+						"image_url": "https://skillcheckgame.com/assets/images/ed-e.webp",
+						"question": "What type of robot is ED-E?",
+						"wrong": [
+							"Protectron",
+							"Sentry Bot",
+							"Handy Bot"
+						]
+					},
+					{
+						"correct": "Primm",
+						"difficulty": "Easy",
+						"explanation": "ED-E is sitting broken on a counter inside the Nash residence in Primm.",
+						"image_url": "",
+						"question": "In which town can the player first find and repair ED-E?",
+						"wrong": [
+							"Goodsprings",
+							"Novac",
+							"Nipton"
+						]
+					},
+					{
+						"correct": "It floats",
+						"difficulty": "Easy",
+						"explanation": "ED-E uses thrusters to hover and fly alongside the player.",
+						"image_url": "https://skillcheckgame.com/assets/images/ed-e.webp",
+						"question": "How does ED-E move around?",
+						"wrong": [
+							"It has legs",
+							"It has wheels",
+							"It crawls"
+						]
+					},
+					{
+						"correct": "A trumpet fanfare",
+						"difficulty": "Easy",
+						"explanation": "ED-E plays a short, triumphant jingle when enemies are engaged.",
+						"image_url": "https://skillcheckgame.com/assets/images/ed-e.webp",
+						"question": "What sound does ED-E make when combat begins?",
+						"wrong": [
+							"A siren",
+							"A dog bark",
+							"Loud screaming"
+						]
+					},
+					{
+						"correct": "Enhanced Sensors",
+						"difficulty": "Easy",
+						"explanation": "This perk allows the player to detect enemies at a much greater distance on the compass.",
+						"image_url": "",
+						"question": "What is ED-E's companion perk?",
+						"wrong": [
+							"Eagle Eye",
+							"Lead Foot",
+							"Strong Back"
+						]
+					},
+					{
+						"correct": "The Enclave",
+						"difficulty": "Medium",
+						"explanation": "He was created at Adams Air Force Base in the Capital Wasteland.",
+						"image_url": "",
+						"question": "Which faction originally created the ED-E prototype?",
+						"wrong": [
+							"The Brotherhood of Steel",
+							"The NCR",
+							"RobCo"
+						]
+					},
+					{
+						"correct": "Eyebot Duraframe Enhanced",
+						"difficulty": "Medium",
+						"explanation": "The 'Duraframe' refers to his reinforced construction.",
+						"image_url": "",
+						"question": "What does 'ED-E' stand for?",
+						"wrong": [
+							"Electronic Data Entity",
+							"Extra Durable Eyebot",
+							"Every Day Explorer"
+						]
+					},
+					{
+						"correct": "Navarro",
+						"difficulty": "Medium",
+						"explanation": "He was supposed to travel from the East Coast to the Enclave outpost at Navarro.",
+						"image_url": "",
+						"question": "Where was ED-E's intended destination before he was damaged?",
+						"wrong": [
+							"New Vegas",
+							"The Citadel",
+							"The Hub"
+						]
+					},
+					{
+						"correct": "Whitley",
+						"difficulty": "Medium",
+						"explanation": "Whitley sent ED-E away to save him from being scrapped by his superiors.",
+						"image_url": "",
+						"question": "What scientist created ED-E and treated him like a son?",
+						"wrong": [
+							"Arcade Gannon",
+							"Dr. Li",
+							"Father"
+						]
+					},
+					{
+						"correct": "The Brotherhood of Steel",
+						"difficulty": "Medium",
+						"explanation": "Lorenzo of the Brotherhood can upgrade ED-E's physical defenses.",
+						"image_url": "",
+						"question": "Who can upgrade ED-E's armor during his companion quest?",
+						"wrong": [
+							"The Followers",
+							"The Kings",
+							"The Boomers"
+						]
+					},
+					{
+						"correct": "The Followers of the Apocalypse",
+						"difficulty": "Hard",
+						"explanation": "April Martimer can upgrade his laser weapon to deal more damage.",
+						"image_url": "",
+						"question": "Which group can upgrade ED-E's weapons instead of his armor?",
+						"wrong": [
+							"The Legion",
+							"The NCR",
+							"The Gun Runners"
+						]
+					},
+					{
+						"correct": "Lonesome Road",
+						"difficulty": "Hard",
+						"explanation": "In Lonesome Road, the player finds a different ED-E unit with expanded abilities.",
+						"image_url": "",
+						"question": "What is the name of the DLC that features a separate version of ED-E?",
+						"wrong": [
+							"Old World Blues",
+							"Dead Money",
+							"Honest Hearts"
+						]
+					},
+					{
+						"correct": "The Duraframe Project",
+						"difficulty": "Hard",
+						"explanation": "It was an attempt to create more durable Eyebots for combat.",
+						"image_url": "",
+						"question": "What was the name of the project that created ED-E?",
+						"wrong": [
+							"Project Purity",
+							"Operation Sunburst",
+							"The Hellfire Project"
+						]
+					},
+					{
+						"correct": "Keywords spoken by NPCs",
+						"difficulty": "Hard",
+						"explanation": "Certain words like 'Enclave' or 'Navarro' will trigger his internal audio logs.",
+						"image_url": "",
+						"question": "ED-E carries recordings that are triggered by what?",
+						"wrong": [
+							"Finding locations",
+							"Killing enemies",
+							"Leveling up"
+						]
+					},
+					{
+						"correct": "One Seven Three",
+						"difficulty": "Hard",
+						"explanation": "He is officially designated as Eyebot Duraframe Subject 173.",
+						"image_url": "",
+						"question": "What is ED-E's full model designation number?",
+						"wrong": [
+							"One Zero One",
+							"Five Zero Zero",
+							"Nine Nine Nine"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_ed-e",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "ED-E",
+				"lore_desc": "A highly advanced prototype Eyebot carrying a wealth of data across the wasteland.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Floating Eyebot",
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Robot",
+					"Technology"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "On the wrist",
+						"difficulty": "Easy",
+						"explanation": "It is a wearable computer typically strapped to the left arm.",
+						"image_url": "https://skillcheckgame.com/assets/images/pip_boy.webp",
+						"question": "Where is the Pip-Boy physically worn?",
+						"wrong": [
+							"On the belt",
+							"On the chest",
+							"On the head"
+						]
+					},
+					{
+						"correct": "Amber",
+						"difficulty": "Easy",
+						"explanation": "While Fallout 3 was green, New Vegas defaulted to a desert-themed amber.",
+						"image_url": "",
+						"question": "What is the default color of the Pip-Boy interface in New Vegas?",
+						"wrong": [
+							"Green",
+							"Blue",
+							"White"
+						]
+					},
+					{
+						"correct": "RobCo Industries",
+						"difficulty": "Easy",
+						"explanation": "RobCo produced the hardware, though it is often associated with Vault-Tec.",
+						"image_url": "https://skillcheckgame.com/assets/images/pip_boy.webp",
+						"question": "Which company manufactured the Pip-Boy in the Fallout lore?",
+						"wrong": [
+							"Vault Tec",
+							"General Atomics",
+							"Aperture Science"
+						]
+					},
+					{
+						"correct": "Vault Boy",
+						"difficulty": "Easy",
+						"explanation": "Vault Boy illustrates various stats, perks, and conditions.",
+						"image_url": "",
+						"question": "What is the name of the cartoon mascot shown on the Pip-Boy screens?",
+						"wrong": [
+							"Pip Man",
+							"Vault Guy",
+							"Radiant Lad"
+						]
+					},
+					{
+						"correct": "Personal Information Processor",
+						"difficulty": "Easy",
+						"explanation": "It's a high-tech organizer for the post-apocalypse.",
+						"image_url": "https://skillcheckgame.com/assets/images/pip_boy.webp",
+						"question": "What does the 'Pip' in Pip-Boy stand for?",
+						"wrong": [
+							"Portable Intelligence Peripheral",
+							"Personal Inventory Planner",
+							"Private Interactive Pilot"
+						]
+					},
+					{
+						"correct": "Doc Mitchell",
+						"difficulty": "Medium",
+						"explanation": "The doctor in Goodsprings gives you his old Pip-Boy to help you on your way.",
+						"image_url": "",
+						"question": "Who gives the Courier their Pip-Boy at the start of the game?",
+						"wrong": [
+							"Benny",
+							"Sunny Smiles",
+							"Victor"
+						]
+					},
+					{
+						"correct": "3000",
+						"difficulty": "Medium",
+						"explanation": "The Pip-Boy 3000 was the standard model for the modern 3D Fallout games.",
+						"image_url": "",
+						"question": "What is the specific model number of the Pip-Boy used in New Vegas?",
+						"wrong": [
+							"2000",
+							"4000",
+							"Mark IV"
+						]
+					},
+					{
+						"correct": "Pimp Boy 3 Billion",
+						"difficulty": "Medium",
+						"explanation": "Mick at Mick and Ralph's will give it to you if you help the Omertas.",
+						"image_url": "",
+						"question": "What special gold-plated version can the player obtain in the game?",
+						"wrong": [
+							"Golden Boy",
+							"Rich Boy Deluxe",
+							"The Vegas Edition"
+						]
+					},
+					{
+						"correct": "Holding down the menu button",
+						"difficulty": "Medium",
+						"explanation": "Holding the interaction button (Tab on PC) toggles the bright green or amber light.",
+						"image_url": "",
+						"question": "The Pip-Boy has a built-in light; how is it activated?",
+						"wrong": [
+							"Using a battery",
+							"Turning a physical dial",
+							"It's always on"
+						]
+					},
+					{
+						"correct": "VATS",
+						"difficulty": "Medium",
+						"explanation": "The Vault-Tec Assisted Targeting System is a core mechanic of the series.",
+						"image_url": "",
+						"question": "What feature allows the player to pause time and target specific body parts?",
+						"wrong": [
+							"SLOMO",
+							"FAST",
+							"LOCK ON"
+						]
+					},
+					{
+						"correct": "Data",
+						"difficulty": "Hard",
+						"explanation": "The Data tab houses the map, quests, and miscellaneous notes.",
+						"image_url": "",
+						"question": "Which tab in the Pip-Boy menu shows your current quests?",
+						"wrong": [
+							"Stats",
+							"Items",
+							"System"
+						]
+					},
+					{
+						"correct": "Mr. House's Frequency",
+						"difficulty": "Hard",
+						"explanation": "Mr. House uses a private channel to contact the player when they reach the Strip.",
+						"image_url": "",
+						"question": "What is the name of the 'secret' radio station that only plays when you are near the Lucky 38?",
+						"wrong": [
+							"Radio New Vegas",
+							"Mojave Music",
+							"The Strip Signal"
+						]
+					},
+					{
+						"correct": "Built in Geiger counter",
+						"difficulty": "Hard",
+						"explanation": "The clicking sound of the Geiger counter is iconic to the device.",
+						"image_url": "",
+						"question": "How does the Pip-Boy detect if the player has radiation poisoning?",
+						"wrong": [
+							"Blood analysis",
+							"Temperature sensor",
+							"It doesn't"
+						]
+					},
+					{
+						"correct": "It has a biometric seal",
+						"difficulty": "Hard",
+						"explanation": "In lore, they are often locked to the user's biometrics and difficult to remove without knowledge.",
+						"image_url": "",
+						"question": "Why can't most people just take a Pip-Boy off someone's arm?",
+						"wrong": [
+							"It is glued on",
+							"It is too heavy",
+							"It's surgically attached"
+						]
+					},
+					{
+						"correct": "Fallout 3",
+						"difficulty": "Hard",
+						"explanation": "New Vegas reused the model from the previous game.",
+						"image_url": "",
+						"question": "Which Fallout game first introduced the Pip-Boy 3000 model?",
+						"wrong": [
+							"Fallout 1",
+							"Fallout 2",
+							"Fallout New Vegas"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_pip_boy",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Pip Boy",
+				"lore_desc": "The ultimate survival tool, this wrist-mounted device manages your health, inventory, and navigation.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Wrist Mounted Computer",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Technology",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gambling",
+						"difficulty": "Easy",
+						"explanation": "The Vault was designed for people with an obsession for games of chance.",
+						"image_url": "https://skillcheckgame.com/assets/images/vault_21.webp",
+						"question": "What was the primary method for resolving all disputes in Vault 21?",
+						"wrong": [
+							"Fighting",
+							"Voting",
+							"Arm wrestling"
+						]
+					},
+					{
+						"correct": "On the New Vegas Strip",
+						"difficulty": "Easy",
+						"explanation": "It is one of the few Vaults built directly under a major city center.",
+						"image_url": "",
+						"question": "Where is Vault 21 located?",
+						"wrong": [
+							"Goodsprings",
+							"Hidden Valley",
+							"The Divide"
+						]
+					},
+					{
+						"correct": "A hotel and gift shop",
+						"difficulty": "Easy",
+						"explanation": "Sarah Weintraub turned the upper levels into a successful business.",
+						"image_url": "https://skillcheckgame.com/assets/images/vault_21.webp",
+						"question": "What is Vault 21 currently used for during the events of the game?",
+						"wrong": [
+							"A prison",
+							"A laboratory",
+							"A farm"
+						]
+					},
+					{
+						"correct": "Sarah Weintraub",
+						"difficulty": "Easy",
+						"explanation": "Sarah is a former resident who stayed behind to run the hotel.",
+						"image_url": "",
+						"question": "Who is the manager of Vault 21?",
+						"wrong": [
+							"Doc Mitchell",
+							"Sunny Smiles",
+							"Cass"
+						]
+					},
+					{
+						"correct": "They were filled with concrete",
+						"difficulty": "Easy",
+						"explanation": "Mr. House had the lower levels filled to prevent people from bypassing his security.",
+						"image_url": "https://skillcheckgame.com/assets/images/vault_21.webp",
+						"question": "What happened to the lower levels of Vault 21?",
+						"wrong": [
+							"They were flooded",
+							"They were nuked",
+							"They are full of monsters"
+						]
+					},
+					{
+						"correct": "He won it in a game of Blackjack",
+						"difficulty": "Medium",
+						"explanation": "True to the Vault's nature, House played a high-stakes game against the Overseer and won.",
+						"image_url": "",
+						"question": "How did Mr. House gain control over Vault 21?",
+						"wrong": [
+							"He bought it",
+							"He used robots to invade",
+							"The residents gave it away"
+						]
+					},
+					{
+						"correct": "No companions are from Vault 21",
+						"difficulty": "Medium",
+						"explanation": "While many NPCs are from there, none of the recruitable companions are.",
+						"image_url": "",
+						"question": "Which companion character was born in Vault 21?",
+						"wrong": [
+							"Craig Boone",
+							"Arcade Gannon",
+							"Veronica Santangelo"
+						]
+					},
+					{
+						"correct": "The Vault 21 Diner",
+						"difficulty": "Medium",
+						"explanation": "It maintains a simple, descriptive name for visitors.",
+						"image_url": "",
+						"question": "What is the name of the diner inside Vault 21?",
+						"wrong": [
+							"The Ace",
+							"The Royal Flush",
+							"The Jackpot"
+						]
+					},
+					{
+						"correct": "Vault jumpsuits",
+						"difficulty": "Medium",
+						"explanation": "Sarah is a collector of authentic jumpsuits from other Vaults.",
+						"image_url": "",
+						"question": "What can the player trade to Sarah for caps and a special room key?",
+						"wrong": [
+							"Snow globes",
+							"Star caps",
+							"Dinosaur toys"
+						]
+					},
+					{
+						"correct": "It is perfectly symmetrical",
+						"difficulty": "Medium",
+						"explanation": "The Vault was designed with a symmetrical layout to ensure 'fairness' in its games.",
+						"image_url": "",
+						"question": "What is unique about the layout of Vault 21?",
+						"wrong": [
+							"It has no stairs",
+							"It has no doors",
+							"It is built vertically"
+						]
+					},
+					{
+						"correct": "Everything is better when you gamble",
+						"difficulty": "Hard",
+						"explanation": "This was the guiding principle behind the social experiment.",
+						"image_url": "",
+						"question": "What is the motto of Vault 21?",
+						"wrong": [
+							"Luck is a lady",
+							"Fairness through chance",
+							"The house always wins"
+						]
+					},
+					{
+						"correct": "They enjoyed the social structure",
+						"difficulty": "Hard",
+						"explanation": "Unlike many Vaults, the residents actually liked their gambling-based society.",
+						"image_url": "",
+						"question": "Why did the residents of Vault 21 not want to leave after the war?",
+						"wrong": [
+							"They were trapped",
+							"They were all dead",
+							"The door was stuck"
+						]
+					},
+					{
+						"correct": "The player character",
+						"difficulty": "Hard",
+						"explanation": "If the player provides enough jumpsuits, Sarah becomes a romantic interest.",
+						"image_url": "",
+						"question": "Which faction does Sarah Weintraub have a hidden crush on?",
+						"wrong": [
+							"The NCR",
+							"The Kings",
+							"The Chairmen"
+						]
+					},
+					{
+						"correct": "Their right to live there independently",
+						"difficulty": "Hard",
+						"explanation": "The loss meant House could do whatever he wanted with the facility.",
+						"image_url": "",
+						"question": "What did the residents lose to Mr. House in the final gamble?",
+						"wrong": [
+							"Their money",
+							"Their food",
+							"Their jumpsuits"
+						]
+					},
+					{
+						"correct": "Overseer 21",
+						"difficulty": "Hard",
+						"explanation": "The game simply refers to the role, but records indicate they were a skilled but overconfident gambler.",
+						"image_url": "",
+						"question": "Who was the Overseer when Mr. House won the Vault?",
+						"wrong": [
+							"Overseer Mitchell",
+							"Overseer Sarah",
+							"The name is never given"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_vault_21",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Vault 21",
+				"lore_desc": "A unique Vault where every conflict was settled by gambling, now serving as a hotel on the Strip.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Gambler's Bunker",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Vault",
+					"City"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Goodsprings",
+						"difficulty": "Easy",
+						"explanation": "Goodsprings is the tutorial area and the location of the Courier's shallow grave.",
+						"image_url": "https://skillcheckgame.com/assets/images/goodsprings.webp",
+						"question": "What is the name of the town where the game begins?",
+						"wrong": [
+							"Novac",
+							"Primm",
+							"Megaton"
+						]
+					},
+					{
+						"correct": "Doc Mitchell",
+						"difficulty": "Easy",
+						"explanation": "Doc Mitchell performs surgery on the Courier after they are shot by Benny.",
+						"image_url": "",
+						"question": "Who is the town's resident doctor who saves the player?",
+						"wrong": [
+							"Dr. House",
+							"Dr. Henry",
+							"Dr. Usanagi"
+						]
+					},
+					{
+						"correct": "Prospector Saloon",
+						"difficulty": "Easy",
+						"explanation": "The saloon is run by Trudy and serves as the town's social hub.",
+						"image_url": "https://skillcheckgame.com/assets/images/goodsprings.webp",
+						"question": "What is the name of the local saloon in Goodsprings?",
+						"wrong": [
+							"The Atomic Wrangler",
+							"The Muddy Rudder",
+							"The Taphouse"
+						]
+					},
+					{
+						"correct": "Sunny Smiles",
+						"difficulty": "Easy",
+						"explanation": "Sunny Smiles and her dog Cheyenne lead the player through the tutorial quests.",
+						"image_url": "",
+						"question": "Which friendly NPC teaches the player how to survive and shoot?",
+						"wrong": [
+							"Rose of Sharon Cassidy",
+							"Veronica",
+							"Lilly"
+						]
+					},
+					{
+						"correct": "The Powder Gang",
+						"difficulty": "Easy",
+						"explanation": "A group of escaped convicts called the Powder Gangers are threatening to raid the town.",
+						"image_url": "https://skillcheckgame.com/assets/images/goodsprings.webp",
+						"question": "What is the primary threat to the town at the start of the game?",
+						"wrong": [
+							"The Legion",
+							"Deathclaws",
+							"Super Mutants"
+						]
+					},
+					{
+						"correct": "Cheyenne",
+						"difficulty": "Medium",
+						"explanation": "Cheyenne helps Sunny hunt geckos near the town's water sources.",
+						"image_url": "",
+						"question": "What is the name of Sunny Smiles' dog?",
+						"wrong": [
+							"Rex",
+							"Dogmeat",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Snow globe",
+						"difficulty": "Medium",
+						"explanation": "A rare collectible Snow Globe can be found on a grave marker.",
+						"image_url": "",
+						"question": "What item can the player find in the Goodsprings cemetery near their own grave?",
+						"wrong": [
+							"Nuka Cola Quantum",
+							"A laser rifle",
+							"A map of the Strip"
+						]
+					},
+					{
+						"correct": "Joe Cobb",
+						"difficulty": "Medium",
+						"explanation": "Joe Cobb wants the town to hand over a trader named Ringo.",
+						"image_url": "",
+						"question": "Who is the leader of the Powder Gangers attacking the town?",
+						"wrong": [
+							"Eddie",
+							"Cook-Cook",
+							"Driver Nephi"
+						]
+					},
+					{
+						"correct": "Chet",
+						"difficulty": "Medium",
+						"explanation": "Chet sells basic supplies and can be convinced to help defend the town.",
+						"image_url": "",
+						"question": "What is the name of the general store owner in Goodsprings?",
+						"wrong": [
+							"Mick",
+							"Ralph",
+							"Cliff Briscoe"
+						]
+					},
+					{
+						"correct": "The Cemetery",
+						"difficulty": "Medium",
+						"explanation": "The player is dug out of a grave in the cemetery by Victor the robot.",
+						"image_url": "",
+						"question": "Where does the player character's story 'end' and then begin again in Goodsprings?",
+						"wrong": [
+							"The Saloon",
+							"The Schoolhouse",
+							"The Gas Station"
+						]
+					},
+					{
+						"correct": "Geckos",
+						"difficulty": "Hard",
+						"explanation": "You hunt geckos near the wells to protect the town's water supply.",
+						"image_url": "",
+						"question": "What creature are you tasked with hunting during the tutorial with Sunny?",
+						"wrong": [
+							"Radroaches",
+							"Cazadores",
+							"Bighorners"
+						]
+					},
+					{
+						"correct": "Ringo",
+						"difficulty": "Hard",
+						"explanation": "Ringo is the man the Powder Gangers are looking for.",
+						"image_url": "",
+						"question": "What is the name of the Crimson Caravan trader hiding in the gas station?",
+						"wrong": [
+							"Blake",
+							"Don Hostetler",
+							"Alice McLafferty"
+						]
+					},
+					{
+						"correct": "Victor",
+						"difficulty": "Hard",
+						"explanation": "Victor is a Securitron with a cowboy face who watches over the town.",
+						"image_url": "",
+						"question": "Which robot can be found 'patrolling' the roads near Goodsprings?",
+						"wrong": [
+							"Yes Man",
+							"Fisto",
+							"ED-E"
+						]
+					},
+					{
+						"correct": "Repair",
+						"difficulty": "Hard",
+						"explanation": "A Repair skill of 20 allows you to fix Trudy's radio for some extra caps.",
+						"image_url": "",
+						"question": "What skill is required to repair the radio in the Prospector Saloon?",
+						"wrong": [
+							"Science",
+							"Speech",
+							"Barter"
+						]
+					},
+					{
+						"correct": "Goodsprings Schoolhouse",
+						"difficulty": "Hard",
+						"explanation": "The abandoned schoolhouse contains a safe and some early-game loot.",
+						"image_url": "",
+						"question": "What is the name of the schoolhouse that is often infested with mantises?",
+						"wrong": [
+							"The Learning Center",
+							"Mojave Elementary",
+							"Vault 21 School"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_goodsprings",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Goodsprings",
+				"lore_desc": "A quiet desert town where the Courier is brought back from the brink of death by a kind doctor.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Starting Point",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Town",
+					"Early Game"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Monster of the East",
+						"difficulty": "Easy",
+						"explanation": "He earned this title through his relentless conquest of tribes east of the Colorado.",
+						"image_url": "https://skillcheckgame.com/assets/images/legate_lanius.webp",
+						"question": "What is Legate Lanius's nickname?",
+						"wrong": [
+							"The Golden King",
+							"The Silent Death",
+							"The Red Bear"
+						]
+					},
+					{
+						"correct": "A golden mask",
+						"difficulty": "Easy",
+						"explanation": "Lanius is never seen without his intimidating golden mask.",
+						"image_url": "",
+						"question": "What is the most distinctive part of Lanius's armor?",
+						"wrong": [
+							"A red cape",
+							"Spiked shoulder pads",
+							"A jetpack"
+						]
+					},
+					{
+						"correct": "Caesar's Legion",
+						"difficulty": "Easy",
+						"explanation": "He is Caesar's top general and chosen successor.",
+						"image_url": "https://skillcheckgame.com/assets/images/legate_lanius.webp",
+						"question": "Which faction does Lanius lead?",
+						"wrong": [
+							"The NCR",
+							"The Brotherhood of Steel",
+							"The Great Khans"
+						]
+					},
+					{
+						"correct": "Blade of the East",
+						"difficulty": "Easy",
+						"explanation": "The Blade of the East is a bumper-sword style weapon that deals massive damage.",
+						"image_url": "",
+						"question": "What is the name of Lanius's massive two-handed sword?",
+						"wrong": [
+							"Blade of the West",
+							"The Decimator",
+							"Caesar's Tooth"
+						]
+					},
+					{
+						"correct": "Legate's Camp",
+						"difficulty": "Easy",
+						"explanation": "His camp is located on a ridge overlooking Hoover Dam.",
+						"image_url": "https://skillcheckgame.com/assets/images/legate_lanius.webp",
+						"question": "Where does the player typically encounter Lanius for the final confrontation?",
+						"wrong": [
+							"The Lucky 38",
+							"The Fort",
+							"The Tops"
+						]
+					},
+					{
+						"correct": "Joshua Graham",
+						"difficulty": "Medium",
+						"explanation": "He took over after the 'Burned Man' was executed for failing at Hoover Dam.",
+						"image_url": "",
+						"question": "Lanius replaced which character as the Legate of the Legion?",
+						"wrong": [
+							"Vulpes Inculta",
+							"Lucius",
+							"Caesar"
+						]
+					},
+					{
+						"correct": "It is punishable by death",
+						"difficulty": "Medium",
+						"explanation": "Lanius is famous for decimation, killing one-tenth of his own men if they fail or flee.",
+						"image_url": "",
+						"question": "What is Lanius's view on retreat?",
+						"wrong": [
+							"It is a tactical necessity",
+							"He encourages it",
+							"He has no opinion"
+						]
+					},
+					{
+						"correct": "With 100 Speech or Barter",
+						"difficulty": "Medium",
+						"explanation": "A player with 100 Speech can convince Lanius that the Mojave is a trap that will break the Legion.",
+						"image_url": "",
+						"question": "If the player has high enough skills, how can they defeat Lanius without fighting?",
+						"wrong": [
+							"With a high Science skill",
+							"By offering him money",
+							"By wearing his armor"
+						]
+					},
+					{
+						"correct": "He killed them all himself",
+						"difficulty": "Medium",
+						"explanation": "When his tribe surrendered to Caesar, Lanius went on a rampage against his own people.",
+						"image_url": "",
+						"question": "What happened to Lanius's original tribe?",
+						"wrong": [
+							"The NCR wiped them out",
+							"They joined the NCR",
+							"They moved to Zion"
+						]
+					},
+					{
+						"correct": "A beast who loves war",
+						"difficulty": "Medium",
+						"explanation": "Caesar views Lanius as a tool of pure destruction, not a statesman.",
+						"image_url": "",
+						"question": "How does Caesar describe Lanius to the player?",
+						"wrong": [
+							"A tactical genius",
+							"A kind soul",
+							"A loyal diplomat"
+						]
+					},
+					{
+						"correct": "The Hidebarks",
+						"difficulty": "Hard",
+						"explanation": "The Hidebarks were a tribe known for their resilience and ambush tactics.",
+						"image_url": "",
+						"question": "What is Lanius's birth tribe called?",
+						"wrong": [
+							"The Blackfoots",
+							"The Twisted Hairs",
+							"The Hangdogs"
+						]
+					},
+					{
+						"correct": "To hide a horribly disfigured face",
+						"difficulty": "Hard",
+						"explanation": "It is rumored he was mutilated during his tribe's conquest, though some say it's just to maintain his legend.",
+						"image_url": "",
+						"question": "Why does Lanius wear his mask according to Legion rumors?",
+						"wrong": [
+							"Because he is a robot",
+							"To breathe easier",
+							"Because it's made of solid gold"
+						]
+					},
+					{
+						"correct": "The Legion's lines being too long to hold",
+						"difficulty": "Hard",
+						"explanation": "The Courier argues that the Legion cannot hold the East and the West simultaneously.",
+						"image_url": "",
+						"question": "In the 'Speech' path, what historical comparison does the player use to scare Lanius?",
+						"wrong": [
+							"The Fall of Rome",
+							"The death of Alexander",
+							"The burning of Troy"
+						]
+					},
+					{
+						"correct": "Mitch Lewis",
+						"difficulty": "Hard",
+						"explanation": "Mitch Lewis provided the deep, gravelly voice of the Legate.",
+						"image_url": "",
+						"question": "Who voiced Legate Lanius?",
+						"wrong": [
+							"Ron Perlman",
+							"Liam Neeson",
+							"Matthew Perry"
+						]
+					},
+					{
+						"correct": "Lanius's Mask",
+						"difficulty": "Hard",
+						"explanation": "The mask provides a unique bonus to DT and Melee Weapons.",
+						"image_url": "",
+						"question": "What is the name of the mask the player can loot from his body?",
+						"wrong": [
+							"The Mask of the East",
+							"Golden Death Mask",
+							"Legate's Helm"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_legate_lanius",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Legate Lanius",
+				"lore_desc": "The terrifying supreme commander of Caesar's Legion, known for his brutality and golden mask.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Monster of the East",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Villain",
+					"Boss"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Securitron",
+						"difficulty": "Easy",
+						"explanation": "He is the same model as the guards on the New Vegas Strip.",
+						"image_url": "https://skillcheckgame.com/assets/images/victor.webp",
+						"question": "What kind of robot is Victor?",
+						"wrong": [
+							"Protectron",
+							"Sentry Bot",
+							"Assaultron"
+						]
+					},
+					{
+						"correct": "A smiling cowboy",
+						"difficulty": "Easy",
+						"explanation": "Victor features a friendly, animated cowboy face.",
+						"image_url": "",
+						"question": "What image is displayed on Victor's screen?",
+						"wrong": [
+							"A badge",
+							"A skull",
+							"A desert sun"
+						]
+					},
+					{
+						"correct": "Goodsprings",
+						"difficulty": "Easy",
+						"explanation": "He digs the Courier out of the grave and brings them to Doc Mitchell.",
+						"image_url": "https://skillcheckgame.com/assets/images/victor.webp",
+						"question": "Where does Victor first save the player's life?",
+						"wrong": [
+							"Primm",
+							"The Strip",
+							"Novac"
+						]
+					},
+					{
+						"correct": "Mr. House",
+						"difficulty": "Easy",
+						"explanation": "Victor is a remote-controlled agent of Robert House.",
+						"image_url": "",
+						"question": "Who is Victor's true master?",
+						"wrong": [
+							"Benny",
+							"The NCR",
+							"The King"
+						]
+					},
+					{
+						"correct": "Howdy partner",
+						"difficulty": "Easy",
+						"explanation": "He maintains a friendly Western persona at all times.",
+						"image_url": "https://skillcheckgame.com/assets/images/victor.webp",
+						"question": "What does Victor say to the player as a signature greeting?",
+						"wrong": [
+							"Greetings citizen",
+							"Stop right there",
+							"War never changes"
+						]
+					},
+					{
+						"correct": "A small shack on the edge of town",
+						"difficulty": "Medium",
+						"explanation": "He stays in a shack that he shares with some radio equipment.",
+						"image_url": "",
+						"question": "Where is Victor's 'home' in Goodsprings?",
+						"wrong": [
+							"The Saloon",
+							"The Schoolhouse",
+							"The Gas Station"
+						]
+					},
+					{
+						"correct": "Novac and the Strip entrance",
+						"difficulty": "Medium",
+						"explanation": "Victor follows the player's progress, showing up at key locations.",
+						"image_url": "",
+						"question": "Where does Victor reappear after the player leaves Goodsprings?",
+						"wrong": [
+							"Primm",
+							"Nipton",
+							"Red Rock Canyon"
+						]
+					},
+					{
+						"correct": "He uploads to a new body",
+						"difficulty": "Medium",
+						"explanation": "Like Yes Man, Victor is a program that can inhabit different Securitron shells.",
+						"image_url": "",
+						"question": "What happens to Victor if he is destroyed in the wasteland?",
+						"wrong": [
+							"He stays dead",
+							"He explodes like a nuke",
+							"He teleports away"
+						]
+					},
+					{
+						"correct": "His memory banks were damaged",
+						"difficulty": "Medium",
+						"explanation": "He claims he arrived after the event and only saw the aftermath.",
+						"image_url": "",
+						"question": "Why does Victor claim he can't remember who shot the Courier?",
+						"wrong": [
+							"He was looking the other way",
+							"He was asleep",
+							"He is lying to protect Benny"
+						]
+					},
+					{
+						"correct": "Elevator operator",
+						"difficulty": "Medium",
+						"explanation": "House uses Victor to ferry the player between the lobby and the penthouse.",
+						"image_url": "",
+						"question": "What is Victor's role once the player reaches the Lucky 38?",
+						"wrong": [
+							"Cook",
+							"Guard",
+							"He disappears"
+						]
+					},
+					{
+						"correct": "He has a specialized personality matrix",
+						"difficulty": "Hard",
+						"explanation": "Victor was programmed specifically to be an outgoing scout and protector.",
+						"image_url": "",
+						"question": "Which of these traits makes Victor different from a Mark II Securitron?",
+						"wrong": [
+							"He has three wheels",
+							"He can fly",
+							"He is made of gold"
+						]
+					},
+					{
+						"correct": "Fifteen years",
+						"difficulty": "Hard",
+						"explanation": "The locals mention he has been around for about fifteen years without doing much.",
+						"image_url": "",
+						"question": "How long has Victor been stationed in Goodsprings before the game starts?",
+						"wrong": [
+							"One year",
+							"Two hundred years",
+							"Six months"
+						]
+					},
+					{
+						"correct": "The House Always Wins",
+						"difficulty": "Hard",
+						"explanation": "His purpose is revealed as part of Mr. House's main questline.",
+						"image_url": "",
+						"question": "What is the name of the quest where you can investigate Victor's origin?",
+						"wrong": [
+							"The Cowboy Way",
+							"Robot Blues",
+							"Victor's Secret"
+						]
+					},
+					{
+						"correct": "They think he is harmless but strange",
+						"difficulty": "Hard",
+						"explanation": "Most people ignore him as a local oddity.",
+						"image_url": "",
+						"question": "When you ask the residents of Goodsprings about Victor, what do they think of him?",
+						"wrong": [
+							"They are terrified of him",
+							"They hate him",
+							"They worship him"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Hard",
+						"explanation": "Though he follows you, he is not a member of the companion party.",
+						"image_url": "",
+						"question": "Can Victor be a permanent recruitable companion?",
+						"wrong": [
+							"Yes",
+							"Only with a certain perk",
+							"Only in the DLC"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_victor",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Victor",
+				"lore_desc": "A friendly-looking Securitron with a cowboy persona who pulls the Courier from their grave.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Cowboy Robot",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Robot",
+					"Hero"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sniper Rifle",
+						"difficulty": "Easy",
+						"explanation": "Boone is a legendary marksman who picks off enemies from a distance.",
+						"image_url": "https://skillcheckgame.com/assets/images/craig_boone.webp",
+						"question": "What is Boone's primary weapon?",
+						"wrong": [
+							"Shotgun",
+							"Sledgehammer",
+							"Laser Pistol"
+						]
+					},
+					{
+						"correct": "Novac",
+						"difficulty": "Easy",
+						"explanation": "Boone works as the night watchman for the small town of Novac.",
+						"image_url": "",
+						"question": "In which town does the player find Boone?",
+						"wrong": [
+							"Goodsprings",
+							"Primm",
+							"Freeside"
+						]
+					},
+					{
+						"correct": "Inside a giant dinosaur statue",
+						"difficulty": "Easy",
+						"explanation": "Dinky the T-Rex serves as his sniper's nest.",
+						"image_url": "https://skillcheckgame.com/assets/images/craig_boone.webp",
+						"question": "Where does Boone stand guard at night?",
+						"wrong": [
+							"On a water tower",
+							"On the roof of the motel",
+							"At the front gate"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "He wears the red beret of the NCR's 1st Recon unit.",
+						"image_url": "https://skillcheckgame.com/assets/images/craig_boone.webp",
+						"question": "What color is the beret that Boone wears?",
+						"wrong": [
+							"Green",
+							"Black",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Caesar's Legion",
+						"difficulty": "Easy",
+						"explanation": "Boone will attack Legion members on sight and refuses to travel with a player who supports them.",
+						"image_url": "",
+						"question": "What faction does Boone absolutely hate?",
+						"wrong": [
+							"The NCR",
+							"The Brotherhood",
+							"The Boomers"
+						]
+					},
+					{
+						"correct": "Carla",
+						"difficulty": "Medium",
+						"explanation": "Carla's disappearance is the central mystery of Boone's initial quest.",
+						"image_url": "",
+						"question": "What was the name of Boone's wife?",
+						"wrong": [
+							"Sarah",
+							"Rose",
+							"Jenny"
+						]
+					},
+					{
+						"correct": "One for My Baby",
+						"difficulty": "Medium",
+						"explanation": "The player must find out who sold his wife into slavery.",
+						"image_url": "",
+						"question": "What is the name of Boone's recruitment quest?",
+						"wrong": [
+							"I Forgot to Remember to Forget",
+							"A Tale of Two Snipers",
+							"Bitter Springs"
+						]
+					},
+					{
+						"correct": "Spotter",
+						"difficulty": "Medium",
+						"explanation": "The Spotter perk highlights enemies in red when the player aims down sights.",
+						"image_url": "",
+						"question": "What is Boone's companion perk?",
+						"wrong": [
+							"Eagle Eye",
+							"Sniper Sense",
+							"Night Vision"
+						]
+					},
+					{
+						"correct": "The Bitter Springs Massacre",
+						"difficulty": "Medium",
+						"explanation": "Boone was part of the unit that accidentally fired on Great Khan non-combatants.",
+						"image_url": "",
+						"question": "Which tragic event from Boone's past haunts him throughout the game?",
+						"wrong": [
+							"The Battle of Hoover Dam",
+							"The Fall of the Hub",
+							"The Divide Incident"
+						]
+					},
+					{
+						"correct": "Jeannie May Crawford",
+						"difficulty": "Medium",
+						"explanation": "The owner of the Novac motel betrayed Carla for money.",
+						"image_url": "",
+						"question": "Who was responsible for selling Boone's wife to the Legion?",
+						"wrong": [
+							"Cliff Briscoe",
+							"Manny Vargas",
+							"Alice Hostetler"
+						]
+					},
+					{
+						"correct": "The last thing you never see",
+						"difficulty": "Hard",
+						"explanation": "It refers to their extreme proficiency at long-range sniping.",
+						"image_url": "",
+						"question": "What is the motto of Boone's old unit, 1st Recon?",
+						"wrong": [
+							"First in last out",
+							"Aim high fly low",
+							"Always faithful"
+						]
+					},
+					{
+						"correct": "Manny Vargas",
+						"difficulty": "Hard",
+						"explanation": "Manny is the day watchman and another 1st Recon veteran.",
+						"image_url": "",
+						"question": "What is the name of Boone's fellow sniper and friend in Novac?",
+						"wrong": [
+							"Major Dhatri",
+							"Corporal Sterling",
+							"Ten of Spades"
+						]
+					},
+					{
+						"correct": "Gain 'history' points by killing Legion leaders",
+						"difficulty": "Hard",
+						"explanation": "The player needs to gain Boone's trust by taking actions against the Legion.",
+						"image_url": "",
+						"question": "What must the player do to trigger Boone's personal quest 'I Forgot to Remember to Forget'?",
+						"wrong": [
+							"Kill 1000 enemies",
+							"Visit every NCR camp",
+							"Wait 30 in game days"
+						]
+					},
+					{
+						"correct": "Hunting Rifle",
+						"difficulty": "Hard",
+						"explanation": "He uses a standard Hunting Rifle with infinite ammo unless given a better weapon.",
+						"image_url": "",
+						"question": "Which of these weapons does Boone start with as his 'companion weapon'?",
+						"wrong": [
+							"Anti Materiel Rifle",
+							"Gobi Campaign Scout Rifle",
+							"Rat Slayer"
+						]
+					},
+					{
+						"correct": "Sergeant",
+						"difficulty": "Hard",
+						"explanation": "He was a non-commissioned officer in the 1st Recon Sharpshooters.",
+						"image_url": "",
+						"question": "What rank did Boone hold in the NCR?",
+						"wrong": [
+							"Private",
+							"Lieutenant",
+							"Captain"
+						]
+					}
+				]
+			},
+			"id": "fallout_new_vegas_craig_boone",
+			"meta": {
+				"date_added": "2026-03-26",
+				"entity_category": "Theme Item",
+				"full_title": "Craig Boone",
+				"lore_desc": "A former NCR sniper with a tragic past who spends his nights guarding the town of Novac from inside a giant dinosaur.",
+				"theme_origin": "fallout new vegas",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Lone Sniper",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Companion",
+					"Warrior"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -91359,12 +94607,181 @@
 					"name": "Retro Pioneers"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Battlefield",
 						"Home Run Bat"
 					],
 					"name": "Home-Run Contest"
+				}
+			]
+		},
+		{
+			"id": "fallout new vegas",
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Benny",
+						"The Platinum Chip"
+					],
+					"name": "The Tops Job"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Hoover Dam",
+						"Legate Lanius"
+					],
+					"name": "Battle of Hoover Dam"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mr House",
+						"The Strip"
+					],
+					"name": "House Always Wins"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Yes Man",
+						"The Platinum Chip"
+					],
+					"name": "Wild Card"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Legate Lanius",
+						"Caesar"
+					],
+					"name": "Ave True to Caesar"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Goodsprings",
+						"Victor"
+					],
+					"name": "The Mojave Express"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Rex",
+						"ED-E"
+					],
+					"name": "Robo Companions"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"NCR Ranger",
+						"Hoover Dam"
+					],
+					"name": "NCR Last Stand"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Pip Boy",
+						"Vault 21"
+					],
+					"name": "Vault Dweller"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Craig Boone",
+						"NCR Ranger"
+					],
+					"name": "1st Recon"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mr House",
+						"Victor"
+					],
+					"name": "Lucky 38 VIP"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mr House",
+						"Benny",
+						"The Strip"
+					],
+					"name": "Sin City Showdown"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Goodsprings",
+						"The Platinum Chip",
+						"Hoover Dam"
+					],
+					"name": "The Courier's Path"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Yes Man",
+						"Victor",
+						"ED-E"
+					],
+					"name": "Robot Army"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"NCR Ranger",
+						"Caesar",
+						"Hoover Dam"
+					],
+					"name": "War Never Changes"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Craig Boone",
+						"Rex"
+					],
+					"name": "Best Boy"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Pip Boy",
+						"Goodsprings"
+					],
+					"name": "Wasteland Survival Kit"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Vault 21",
+						"The Strip"
+					],
+					"name": "Underground Vegas"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Benny",
+						"Yes Man"
+					],
+					"name": "Checkmate"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Caesar",
+						"Legate Lanius"
+					],
+					"name": "Caesar's Right Hand"
 				}
 			]
 		}
