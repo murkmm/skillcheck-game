@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774562581,
+	"last_updated": 1774651093,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2705,6 +2705,51 @@
 				"fallout_new_vegas_legate_lanius",
 				"fallout_new_vegas_victor",
 				"fallout_new_vegas_craig_boone"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-28": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Slay the Spire ",
+			"share_text": "I survived the The Spire !",
+			"shops": [
+				{
+					"p1": "piggy_bank",
+					"p2": "pause_button"
+				},
+				{
+					"p1": "game_shark",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "double_adapter",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"slay_the_spire_the_ironclad",
+				"slay_the_spire_the_silent",
+				"slay_the_spire_the_defect"
+			],
+			"starters": [
+				"slay_the_spire_the_ironclad",
+				"slay_the_spire_the_silent",
+				"slay_the_spire_the_defect",
+				"slay_the_spire_the_watcher",
+				"slay_the_spire_the_spire",
+				"slay_the_spire_the_merchant",
+				"slay_the_spire_neow",
+				"slay_the_spire_the_corrupt_heart",
+				"slay_the_spire_the_time_eater",
+				"slay_the_spire_the_cultist",
+				"slay_the_spire_donu_and_deca",
+				"slay_the_spire_snecko",
+				"slay_the_spire_gremlin_nob",
+				"slay_the_spire_the_boot",
+				"slay_the_spire_awakened_one",
+				"slay_the_spire_lagavulin"
 			],
 			"submitted_by": ""
 		}
