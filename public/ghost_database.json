@@ -91300,6 +91300,3236 @@
 					"Warrior"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Roguelike Deckbuilder",
+						"difficulty": "Easy",
+						"explanation": "Slay the Spire is credited with popularizing the roguelike deckbuilding genre.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_ironclad.webp",
+						"question": "What genre of game is this character featured in?",
+						"wrong": [
+							"First Person Shooter",
+							"Racing Simulator",
+							"Sports Game"
+						]
+					},
+					{
+						"correct": "Mega Crit",
+						"difficulty": "Easy",
+						"explanation": "Mega Crit is the independent studio behind the massive success of Slay the Spire.",
+						"image_url": "",
+						"question": "Which company developed the game featuring the Ironclad?",
+						"wrong": [
+							"Nintendo",
+							"Ubisoft",
+							"Electronic Arts"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Each hero in the game is color-coded; the Ironclad uses red cards representing strength and fire.",
+						"image_url": "",
+						"question": "What is the primary color of the cards used by the Ironclad?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Burning Blood",
+						"difficulty": "Easy",
+						"explanation": "Burning Blood allows the Ironclad to recover some health at the end of every fight.",
+						"image_url": "",
+						"question": "What is the name of the Ironclad's starting relic that heals him after combat?",
+						"wrong": [
+							"Vampire Fangs",
+							"Life Stone",
+							"Healing Salve"
+						]
+					},
+					{
+						"correct": "Strength",
+						"difficulty": "Easy",
+						"explanation": "Strength increases the damage of every attack card the Ironclad plays.",
+						"image_url": "",
+						"question": "Which of these is a signature status effect the Ironclad can gain to increase his damage?",
+						"wrong": [
+							"Dexterity",
+							"Intelligence",
+							"Agility"
+						]
+					},
+					{
+						"correct": "Block",
+						"difficulty": "Medium",
+						"explanation": "Normally Block is lost at the start of your turn, but Barricade allows it to stack indefinitely.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_ironclad.webp",
+						"question": "The Ironclad's 'Barricade' card prevents which resource from disappearing at the end of a turn?",
+						"wrong": [
+							"Energy",
+							"Health",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Feed",
+						"difficulty": "Medium",
+						"explanation": "Feed is a powerful card that rewards players with more health for finishing off enemies with it.",
+						"image_url": "",
+						"question": "Which Ironclad card allows him to gain permanent Max HP if it deals the killing blow?",
+						"wrong": [
+							"Eat",
+							"Devour",
+							"Consume"
+						]
+					},
+					{
+						"correct": "Exhaust",
+						"difficulty": "Medium",
+						"explanation": "Many Ironclad cards utilize the Exhaust mechanic to thin the deck during a fight.",
+						"image_url": "",
+						"question": "What mechanic involves removing a card from combat for the rest of the battle?",
+						"wrong": [
+							"Discard",
+							"Banish",
+							"Delete"
+						]
+					},
+					{
+						"correct": "Demon Form",
+						"difficulty": "Medium",
+						"explanation": "Demon Form is a high-cost card that makes the player significantly stronger the longer the fight lasts.",
+						"image_url": "",
+						"question": "Which 'Form' card grants the Ironclad Strength at the start of every turn?",
+						"wrong": [
+							"God Form",
+							"Devil Form",
+							"Titan Form"
+						]
+					},
+					{
+						"correct": "Greatsword",
+						"difficulty": "Medium",
+						"explanation": "The Ironclad is almost always shown wielding a massive, jagged sword.",
+						"image_url": "",
+						"question": "What type of weapon is most commonly depicted in the Ironclad's card art?",
+						"wrong": [
+							"Bow",
+							"Staff",
+							"Shield"
+						]
+					},
+					{
+						"correct": "Corruption",
+						"difficulty": "Hard",
+						"explanation": "Corruption is considered one of the most powerful cards in the game when paired with specific relics.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_ironclad.webp",
+						"question": "Which Ironclad card costs zero Energy but exhausts all non-attack cards in your hand?",
+						"wrong": [
+							"Havoc",
+							"Fiery Prowess",
+							"Dark Embrace"
+						]
+					},
+					{
+						"correct": "Dead Branch",
+						"difficulty": "Hard",
+						"explanation": "The Dead Branch and Corruption combo is a legendary 'win condition' for Ironclad players.",
+						"image_url": "",
+						"question": "What is the name of the Ironclad's rare relic that adds a random card to your hand whenever you Exhaust one?",
+						"wrong": [
+							"Twisted Twig",
+							"Ancient Log",
+							"Withered Root"
+						]
+					},
+					{
+						"correct": "He sold their souls to a demon",
+						"difficulty": "Hard",
+						"explanation": "The flavor text suggests he made a pact that resulted in the extinction of his tribe.",
+						"image_url": "",
+						"question": "In the lore, why is the Ironclad the only one left of his kind?",
+						"wrong": [
+							"They were killed by a dragon",
+							"A plague wiped them out",
+							"They were lost in the sea"
+						]
+					},
+					{
+						"correct": "Twin Strike",
+						"difficulty": "Hard",
+						"explanation": "Twin Strike is a common card that becomes devastating if the player has high Strength.",
+						"image_url": "",
+						"question": "Which attack card hits twice and scales heavily with Strength?",
+						"wrong": [
+							"Double Hit",
+							"Dual Slash",
+							"Two Fold Strike"
+						]
+					},
+					{
+						"correct": "Deals damage when you draw status or curse cards",
+						"difficulty": "Hard",
+						"explanation": "It turned a weakness into a strength by punishing enemies that clutter your deck with junk cards.",
+						"image_url": "",
+						"question": "What does the 'Fire Breathing' card do after it was reworked in later updates?",
+						"wrong": [
+							"Deals damage every turn",
+							"Increases fire damage",
+							"Heals the player"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_ironclad",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Ironclad",
+				"lore_desc": "The last of the Ironclads, a soldier who sold his soul to harness demonic power for combat.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Warrior",
+					"Demon"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Slay the Spire",
+						"difficulty": "Easy",
+						"explanation": "The game's title is the literal objective of the four protagonists.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_silent.webp",
+						"question": "What is the main objective of the heroes in this game?",
+						"wrong": [
+							"Rescue a princess",
+							"Build a city",
+							"Win a race"
+						]
+					},
+					{
+						"correct": "PlayStation 5",
+						"difficulty": "Easy",
+						"explanation": "The game debuted on PC via Steam early access before moving to consoles later.",
+						"image_url": "",
+						"question": "Which platform was Slay the Spire NOT originally released on during early access?",
+						"wrong": [
+							"PC",
+							"Linux",
+							"Mac"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "The Silent uses green cards, which focus on poison, agility, and multiple small attacks.",
+						"image_url": "",
+						"question": "What color are the cards used by The Silent?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Black"
+						]
+					},
+					{
+						"correct": "Great Serpent",
+						"difficulty": "Easy",
+						"explanation": "Her design features the skull of a giant snake she supposedly hunted.",
+						"image_url": "",
+						"question": "What animal skull does The Silent wear as a mask?",
+						"wrong": [
+							"Wolf",
+							"Deer",
+							"Bird"
+						]
+					},
+					{
+						"correct": "Shivs",
+						"difficulty": "Easy",
+						"explanation": "Shivs are temporary cards that are generated by other cards and disappear after use.",
+						"image_url": "",
+						"question": "Which mechanic allows The Silent to play cards that deal small damage and cost zero Energy?",
+						"wrong": [
+							"Arrows",
+							"Daggers",
+							"Needles"
+						]
+					},
+					{
+						"correct": "Deals damage at the start of their turn",
+						"difficulty": "Medium",
+						"explanation": "Poison damage bypasses Block, making it very effective against high-defense enemies.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_silent.webp",
+						"question": "What does the 'Poison' status effect do to enemies in the game?",
+						"wrong": [
+							"Lowers their attack",
+							"Skips their turn",
+							"Heals the player"
+						]
+					},
+					{
+						"correct": "Ring of the Snake",
+						"difficulty": "Medium",
+						"explanation": "The Ring of the Snake provides an early-turn advantage by giving the player more options.",
+						"image_url": "",
+						"question": "Which starter relic does The Silent begin with to draw extra cards at the start of combat?",
+						"wrong": [
+							"Snake Eye",
+							"Poison Vial",
+							"Dagger Belt"
+						]
+					},
+					{
+						"correct": "Intangible",
+						"difficulty": "Medium",
+						"explanation": "Intangible reduces all incoming damage to 1 for a limited number of turns.",
+						"image_url": "",
+						"question": "The Silent's 'Wraith Form' card gives her which powerful defensive buff?",
+						"wrong": [
+							"Invincible",
+							"Invisible",
+							"Immortal"
+						]
+					},
+					{
+						"correct": "Adrenaline",
+						"difficulty": "Medium",
+						"explanation": "Adrenaline is a zero-cost card that effectively gives the player a free boost during their turn.",
+						"image_url": "",
+						"question": "Which card allows The Silent to gain Energy and draw cards by discarding others?",
+						"wrong": [
+							"Sprint",
+							"Focus",
+							"Reflex"
+						]
+					},
+					{
+						"correct": "Gremlin Nob",
+						"difficulty": "Medium",
+						"explanation": "Gremlin Nob gains Strength whenever a Skill card is played, punishing The Silent's defensive nature.",
+						"image_url": "",
+						"question": "Which elite enemy in Act 1 is particularly dangerous for The Silent's 'Skill' heavy decks?",
+						"wrong": [
+							"Lagavulin",
+							"Sentries",
+							"The Guardian"
+						]
+					},
+					{
+						"correct": "Catalyst",
+						"difficulty": "Hard",
+						"explanation": "Catalyst is the key to achieving thousands of poison damage in a single turn.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_silent.webp",
+						"question": "What is the name of the rare Silent card that doubles an enemy's Poison count?",
+						"wrong": [
+							"Bane",
+							"Noxious Fumes",
+							"Envenom"
+						]
+					},
+					{
+						"correct": "Infinite Blades",
+						"difficulty": "Hard",
+						"explanation": "While Blade Dance gives Shivs immediately, Infinite Blades provides one at the start of each turn.",
+						"image_url": "",
+						"question": "Which card gives The Silent a Shiv every time she plays another card during that turn?",
+						"wrong": [
+							"Blade Dance",
+							"Cloak and Dagger",
+							"A Thousand Cuts"
+						]
+					},
+					{
+						"correct": "It decreases by 1",
+						"difficulty": "Hard",
+						"explanation": "Poison naturally wears off slowly over time, unless the player has the 'Snecko Skull' or 'Specimen'.",
+						"image_url": "",
+						"question": "What happens to the Poison count on an enemy after it deals damage at the start of their turn?",
+						"wrong": [
+							"It resets to zero",
+							"It doubles",
+							"It stays the same"
+						]
+					},
+					{
+						"correct": "Runic Dome",
+						"difficulty": "Hard",
+						"explanation": "Actually, Runic Dome is a general boss relic, but many Silent players use it. A more specific boss relic for her is the Hovering Kite.",
+						"image_url": "",
+						"question": "Which relic, specific to The Silent, gives her additional Energy but prevents her from seeing enemy intents?",
+						"wrong": [
+							"Coffee Dripper",
+							"Ectoplasm",
+							"Velvet Choker"
+						]
+					},
+					{
+						"correct": "Slaying a Great Serpent",
+						"difficulty": "Hard",
+						"explanation": "Her clothes and mask are trophies from this ritualistic hunt.",
+						"image_url": "",
+						"question": "In her background story, what was the trial The Silent had to pass to become a hunter?",
+						"wrong": [
+							"Surviving a year in the fog",
+							"Killing a fellow trainee",
+							"Climbing the Spire"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_silent",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Silent",
+				"lore_desc": "A deadly huntress from the Foglands who favors poison and a thousand small cuts.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Rogue",
+					"Hunter"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Playing cards",
+						"difficulty": "Easy",
+						"explanation": "Everything from attacking to defending is handled through a deck of cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_defect.webp",
+						"question": "What is the primary way players interact with this game?",
+						"wrong": [
+							"Directly controlling a character's movement",
+							"Solving Match 3 puzzles",
+							"Typing words"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "As a roguelike, once your health reaches zero, the run is over and you must start from the beginning.",
+						"image_url": "",
+						"question": "True or False: Slay the Spire features permanent death (permadeath).",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Orbs",
+						"difficulty": "Easy",
+						"explanation": "The Defect channels elemental Orbs that hover around it and trigger effects each turn.",
+						"image_url": "",
+						"question": "What unique mechanic does The Defect use to deal passive damage or gain defense?",
+						"wrong": [
+							"Spells",
+							"Turrets",
+							"Minions"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "The Defect uses blue cards, themed around technology, electricity, and frost.",
+						"image_url": "",
+						"question": "Which color are the cards used by The Defect?",
+						"wrong": [
+							"Yellow",
+							"Orange",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "While there is a Plasma orb, Fire is not an orb type available to the Defect.",
+						"image_url": "",
+						"question": "Which of these is NOT a standard orb type for the Defect?",
+						"wrong": [
+							"Lightning",
+							"Frost",
+							"Dark"
+						]
+					},
+					{
+						"correct": "Cracked Core",
+						"difficulty": "Medium",
+						"explanation": "Cracked Core gives the Defect an immediate offensive presence in every fight.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_defect.webp",
+						"question": "What is the name of the starter relic for The Defect that channels a Lightning orb at the start of combat?",
+						"wrong": [
+							"Battery Pack",
+							"Ancient Circuit",
+							"Power Cell"
+						]
+					},
+					{
+						"correct": "Focus",
+						"difficulty": "Medium",
+						"explanation": "Focus increases both the passive and 'Evoke' effects of most orbs.",
+						"image_url": "",
+						"question": "Which status effect increases the effectiveness of the Defect's orbs?",
+						"wrong": [
+							"Intensity",
+							"Power",
+							"Voltage"
+						]
+					},
+					{
+						"correct": "The oldest orb is Evoked",
+						"difficulty": "Medium",
+						"explanation": "Evoking an orb triggers a more powerful version of its effect immediately.",
+						"image_url": "",
+						"question": "What happens when the Defect fills all orb slots and channels a new one?",
+						"wrong": [
+							"The new orb is discarded",
+							"The newest orb is destroyed",
+							"All orbs explode"
+						]
+					},
+					{
+						"correct": "Claw",
+						"difficulty": "Medium",
+						"explanation": "Claw is the center of many fan-favorite 'Claw is Law' meme decks.",
+						"image_url": "",
+						"question": "Which zero-cost attack card deals more damage for every other copy of that card played in the combat?",
+						"wrong": [
+							"Byte",
+							"Slice",
+							"Beam"
+						]
+					},
+					{
+						"correct": "Played twice",
+						"difficulty": "Medium",
+						"explanation": "Echo Form is one of the most powerful scaling cards in the game.",
+						"image_url": "",
+						"question": "The card 'Echo Form' allows the first card played each turn to be what?",
+						"wrong": [
+							"Cost zero",
+							"Heal the player",
+							"Drawn again"
+						]
+					},
+					{
+						"correct": "Dark",
+						"difficulty": "Hard",
+						"explanation": "Dark orbs build up damage over time and are usually triggered by 'Multi-Cast' or 'Recursion'.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_defect.webp",
+						"question": "What is the name of the orb that deals damage based on how many turns it has been held?",
+						"wrong": [
+							"Void",
+							"Shadow",
+							"Doom"
+						]
+					},
+					{
+						"correct": "Reckless Charge",
+						"difficulty": "Hard",
+						"explanation": "It offers high efficiency at the cost of future turn deck-clogging.",
+						"image_url": "",
+						"question": "Which Defect card adds a 'Dazed' status card to your draw pile in exchange for high damage?",
+						"wrong": [
+							"Overclock",
+							"Wild Strike",
+							"Turbo"
+						]
+					},
+					{
+						"correct": "Adds a random Power card to your hand",
+						"difficulty": "Hard",
+						"explanation": "It allows the Defect to eventually have dozens of active powers.",
+						"image_url": "",
+						"question": "What does the 'Creative AI' card do at the start of every turn?",
+						"wrong": [
+							"Adds a random Skill",
+							"Upgrades a card",
+							"Channels an orb"
+						]
+					},
+					{
+						"correct": "An extra orb slot",
+						"difficulty": "Hard",
+						"explanation": "Inserter is key for long boss fights where having many orbs is advantageous.",
+						"image_url": "",
+						"question": "The 'Inserter' boss relic gives the Defect what benefit every two turns?",
+						"wrong": [
+							"An extra Energy",
+							"A random orb",
+							"Focus"
+						]
+					},
+					{
+						"correct": "It gained a soul or self-awareness",
+						"difficulty": "Hard",
+						"explanation": "It broke its programming and stopped following the Spire's logic.",
+						"image_url": "",
+						"question": "What is the lore reason the Defect is 'defective' compared to other automata?",
+						"wrong": [
+							"Its battery leaked",
+							"Its hardware was outdated",
+							"It was struck by lightning"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_defect",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Defect",
+				"lore_desc": "A combat unit that became self-aware and now harnesses the power of elemental orbs.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Robot",
+					"Ancient"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Randomized levels and permanent death",
+						"difficulty": "Easy",
+						"explanation": "Roguelikes feature procedural generation so no two runs are the same.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_watcher.webp",
+						"question": "Slay the Spire is often categorized as a 'Roguelike'. What does the 'like' usually imply?",
+						"wrong": [
+							"It has 3D graphics",
+							"It is multiplayer",
+							"It is open world"
+						]
+					},
+					{
+						"correct": "A turn or 'Rest' action",
+						"difficulty": "Easy",
+						"explanation": "At a Rest Site, you must choose between healing (Resting) or Upgrading a card.",
+						"image_url": "",
+						"question": "In this game, what do you spend at a rest site to recover Health?",
+						"wrong": [
+							"Gold",
+							"Experience Points",
+							"Mana"
+						]
+					},
+					{
+						"correct": "Stances",
+						"difficulty": "Easy",
+						"explanation": "The Watcher switches between Calm, Wrath, and Divinity to alter her combat capabilities.",
+						"image_url": "",
+						"question": "What is the signature mechanic of The Watcher that involves switching between different states?",
+						"wrong": [
+							"Styles",
+							"Elements",
+							"Moods"
+						]
+					},
+					{
+						"correct": "Purple",
+						"difficulty": "Easy",
+						"explanation": "Purple cards represent the spiritual and disciplined nature of the Watcher.",
+						"image_url": "",
+						"question": "What color are The Watcher's cards?",
+						"wrong": [
+							"White",
+							"Gold",
+							"Pink"
+						]
+					},
+					{
+						"correct": "Double damage",
+						"difficulty": "Easy",
+						"explanation": "Wrath is a high-risk, high-reward state where all damage is doubled for both the player and the enemy.",
+						"image_url": "",
+						"question": "While in the 'Wrath' stance, how much damage does The Watcher deal and take?",
+						"wrong": [
+							"Half damage",
+							"Triple damage",
+							"No damage"
+						]
+					},
+					{
+						"correct": "Gain 2 Energy",
+						"difficulty": "Medium",
+						"explanation": "Managing the transition from Calm to Wrath is essential for gaining enough Energy to finish fights.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_watcher.webp",
+						"question": "What is the benefit of exiting the 'Calm' stance?",
+						"wrong": [
+							"Heal 5 HP",
+							"Draw 3 cards",
+							"Gain 10 Block"
+						]
+					},
+					{
+						"correct": "Scry",
+						"difficulty": "Medium",
+						"explanation": "Scry helps the player filter out bad draws and find their key cards faster.",
+						"image_url": "",
+						"question": "Which Watcher mechanic allows the player to look at the top cards of their draw pile and discard them?",
+						"wrong": [
+							"Insight",
+							"Foresight",
+							"Vision"
+						]
+					},
+					{
+						"correct": "Divinity",
+						"difficulty": "Medium",
+						"explanation": "Divinity is usually reached by accumulating 'Mantra' points.",
+						"image_url": "",
+						"question": "What rare stance triples the damage dealt by The Watcher and ends at the start of the next turn?",
+						"wrong": [
+							"Avatar",
+							"Zen",
+							"Overdrive"
+						]
+					},
+					{
+						"correct": "Retain",
+						"difficulty": "Medium",
+						"explanation": "The Watcher has many cards with Retain, allowing her to save powerful moves for the perfect moment.",
+						"image_url": "",
+						"question": "Which keyword prevents a card from being discarded at the end of the turn?",
+						"wrong": [
+							"Hold",
+							"Keep",
+							"Stow"
+						]
+					},
+					{
+						"correct": "Miracle",
+						"difficulty": "Medium",
+						"explanation": "Miracle is a zero-cost card that provides 1 Energy when played.",
+						"image_url": "",
+						"question": "The starter relic for The Watcher, Pure Water, adds which card to your hand at the start of combat?",
+						"wrong": [
+							"Insight",
+							"Smite",
+							"Safety"
+						]
+					},
+					{
+						"correct": "Body Slam",
+						"difficulty": "Hard",
+						"explanation": "Body Slam is actually an Ironclad card. For the Watcher, the similar high-defense-scaling card is 'Wallop', which gains block based on damage dealt.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_watcher.webp",
+						"question": "Which card deals damage to all enemies equal to the amount of Block the Watcher has?",
+						"wrong": [
+							"Wallop",
+							"Judgement",
+							"The Ending"
+						]
+					},
+					{
+						"correct": "Sets HP to zero if it is below a certain threshold",
+						"difficulty": "Hard",
+						"explanation": "If an enemy has 30 HP or less (40 if upgraded), Judgement kills them instantly.",
+						"image_url": "",
+						"question": "What does the card 'Judgement' do to an enemy?",
+						"wrong": [
+							"Stuns them",
+							"Removes all buffs",
+							"Doubles their damage taken"
+						]
+					},
+					{
+						"correct": "Battle Hymn",
+						"difficulty": "Hard",
+						"explanation": "Battle Hymn is a Power card that provides consistent offensive pressure.",
+						"image_url": "",
+						"question": "Which Watcher card creates a 'Smite' card in your hand every turn?",
+						"wrong": [
+							"Deus Ex Machina",
+							"Carve Reality",
+							"Establishment"
+						]
+					},
+					{
+						"correct": "Teardrop Locket",
+						"difficulty": "Hard",
+						"explanation": "Teardrop Locket is an Uncommon relic, not a boss relic, that facilitates faster stance dancing.",
+						"image_url": "",
+						"question": "What is the name of the boss relic that allows the Watcher to start every combat in the Calm stance?",
+						"wrong": [
+							"Holy Water",
+							"Yang",
+							"Violet Lotus"
+						]
+					},
+					{
+						"correct": "Report on the Spire's inhabitants",
+						"difficulty": "Hard",
+						"explanation": "She is an observer who records the events within the Spire.",
+						"image_url": "",
+						"question": "According to the game's lore, the Watcher was sent by a 'Master' to do what?",
+						"wrong": [
+							"Destroy the Spire",
+							"Save the Ironclad",
+							"Collect all relics"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_watcher",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Watcher",
+				"lore_desc": "A blind ascetic who came to the Spire to evaluate the balance of its inhabitants.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Monk",
+					"Divine"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "The standard game loop consists of Act 1 (The Exordium), Act 2 (The City), and Act 3 (The Beyond).",
+						"image_url": "https://skillcheckgame.com/assets/images/the_spire.webp",
+						"question": "How many main Acts must a player complete to reach the initial credits?",
+						"wrong": [
+							"One",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Shop",
+						"difficulty": "Easy",
+						"explanation": "Shops appear on the map as a blue rug icon.",
+						"image_url": "",
+						"question": "What is the name of the map nodes where players can buy relics and remove cards?",
+						"wrong": [
+							"Treasury",
+							"Inn",
+							"Forge"
+						]
+					},
+					{
+						"correct": "Act 4",
+						"difficulty": "Easy",
+						"explanation": "Act 4, or 'The Ending', contains the final boss of the game.",
+						"image_url": "",
+						"question": "What is the name of the final secret area unlocked by collecting three keys?",
+						"wrong": [
+							"The Basement",
+							"The Roof",
+							"The Void"
+						]
+					},
+					{
+						"correct": "A monster with horns (Elite)",
+						"difficulty": "Easy",
+						"explanation": "Elite combats are much harder than normal ones but are the primary source of Relics.",
+						"image_url": "",
+						"question": "Which of these icons on the map represents a difficult combat that rewards a Relic?",
+						"wrong": [
+							"A question mark",
+							"A treasure chest",
+							"A campfire"
+						]
+					},
+					{
+						"correct": "The Exordium",
+						"difficulty": "Easy",
+						"explanation": "The Exordium is the bottom-most part of the Spire where every run begins.",
+						"image_url": "",
+						"question": "What is the name of the first Act of the Spire?",
+						"wrong": [
+							"The Beginning",
+							"The Bottom",
+							"The Roots"
+						]
+					},
+					{
+						"correct": "Ruby, Sapphire, Emerald",
+						"difficulty": "Medium",
+						"explanation": "You get them from a Rest Site, a Chest, and a burning Elite combat.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_spire.webp",
+						"question": "What are the names of the three keys required to reach the Heart?",
+						"wrong": [
+							"Red, Blue, Green",
+							"Sun, Moon, Star",
+							"Gold, Silver, Bronze"
+						]
+					},
+					{
+						"correct": "The Slime Boss",
+						"difficulty": "Medium",
+						"explanation": "The Slime Boss is actually the Act 1 boss that features this splitting mechanic.",
+						"image_url": "",
+						"question": "Which Act 2 boss is known for splitting into two smaller versions when its HP drops?",
+						"wrong": [
+							"The Collector",
+							"Bronze Automaton",
+							"The Champ"
+						]
+					},
+					{
+						"correct": "Ascension",
+						"difficulty": "Medium",
+						"explanation": "Each Ascension level adds a new penalty, such as stronger enemies or less healing.",
+						"image_url": "",
+						"question": "What is the term for the difficulty modifiers that can be unlocked up to level 20?",
+						"wrong": [
+							"Hardcore",
+							"Prestige",
+							"Descent"
+						]
+					},
+					{
+						"correct": "An Elite that drops the Emerald Key",
+						"difficulty": "Medium",
+						"explanation": "Burning Elites have extra buffs like increased HP or Strength.",
+						"image_url": "",
+						"question": "What does a 'Burning Elite' on the map represent?",
+						"wrong": [
+							"An Elite that deals fire damage",
+							"An Elite that is already at half HP",
+							"A shop that is on fire"
+						]
+					},
+					{
+						"correct": "Donu and Deca",
+						"difficulty": "Medium",
+						"explanation": "Donu and Deca are iconic geometric bosses found at the top of The Beyond.",
+						"image_url": "",
+						"question": "What is the name of the Act 3 boss that looks like two geometric shapes?",
+						"wrong": [
+							"Square and Circle",
+							"The Twins",
+							"The Shapes"
+						]
+					},
+					{
+						"correct": "Act 2",
+						"difficulty": "Hard",
+						"explanation": "This event offers the player Apparition cards in exchange for half of their Max HP.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_spire.webp",
+						"question": "Which Act contains the event 'The Council of Ghosts'?",
+						"wrong": [
+							"Act 1",
+							"Act 3",
+							"Act 4"
+						]
+					},
+					{
+						"correct": "The Spire is alive/Living rock",
+						"difficulty": "Hard",
+						"explanation": "The Spire is a biological entity that regenerates and changes its internal layout.",
+						"image_url": "",
+						"question": "What is the lore-consistent name of the substance the Spire is made of?",
+						"wrong": [
+							"Obsidian",
+							"Pure Gold",
+							"Ancient Wood"
+						]
+					},
+					{
+						"correct": "It teleports you directly to the Boss",
+						"difficulty": "Hard",
+						"explanation": "The Secret Portal is a rare event that lets you skip the rest of Act 3.",
+						"image_url": "",
+						"question": "Which boss is found in the 'Secret Portal' event in Act 3?",
+						"wrong": [
+							"The Merchant",
+							"Neow",
+							"The Heart"
+						]
+					},
+					{
+						"correct": "The Time Eater",
+						"difficulty": "Hard",
+						"explanation": "The Time Eater says 'Never liked you...' implying a past connection to the Watcher's order.",
+						"image_url": "",
+						"question": "What is the name of the special Act 3 boss who claims to have killed the player before?",
+						"wrong": [
+							"The Awakened One",
+							"The Collector",
+							"The Nemesis"
+						]
+					},
+					{
+						"correct": "Seven",
+						"difficulty": "Hard",
+						"explanation": "The map width is consistently 7 nodes wide, offering various pathing choices.",
+						"image_url": "",
+						"question": "How many total nodes are usually in a single floor of the Spire map?",
+						"wrong": [
+							"Three",
+							"Five",
+							"Nine"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_spire",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Spire",
+				"lore_desc": "An ancient, ever-shifting structure that lures adventurers with promises of power, only to consume them.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Mysterious",
+					"Living"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gold",
+						"difficulty": "Easy",
+						"explanation": "Gold is earned from combats and events and spent primarily at the shop.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_merchant.webp",
+						"question": "What is the currency used to buy items from the Merchant?",
+						"wrong": [
+							"Gems",
+							"Souls",
+							"Credits"
+						]
+					},
+					{
+						"correct": "A rug",
+						"difficulty": "Easy",
+						"explanation": "The Merchant is always seen sitting or standing on a blue rug.",
+						"image_url": "",
+						"question": "What is the Merchant's signature blue item that he stands on?",
+						"wrong": [
+							"A carpet",
+							"A cloud",
+							"A pedestal"
+						]
+					},
+					{
+						"correct": "Remove it",
+						"difficulty": "Easy",
+						"explanation": "Removing cards is a key strategy to make your deck more consistent.",
+						"image_url": "",
+						"question": "What can you pay the Merchant to do to a card in your deck?",
+						"wrong": [
+							"Copy it",
+							"Destroy it",
+							"Burn it"
+						]
+					},
+					{
+						"correct": "Money",
+						"difficulty": "Easy",
+						"explanation": "The Merchant is quite fond of the player's gold.",
+						"image_url": "",
+						"question": "The Merchant is known for saying 'I like your...' what?",
+						"wrong": [
+							"Face",
+							"Style",
+							"Sword"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "He wears a distinct white mask with simple features.",
+						"image_url": "",
+						"question": "What color is the mask worn by the Merchant?",
+						"wrong": [
+							"Gold",
+							"Red",
+							"Blue"
+						]
+					},
+					{
+						"correct": "The Courier",
+						"difficulty": "Medium",
+						"explanation": "The Courier also allows the shop to restock items after you buy them.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_merchant.webp",
+						"question": "Which relic makes shop prices lower by 25 percent?",
+						"wrong": [
+							"Membership Card",
+							"Smiling Mask",
+							"Old Coin"
+						]
+					},
+					{
+						"correct": "Rare Relics",
+						"difficulty": "Medium",
+						"explanation": "Relics provide permanent buffs and are priced according to their rarity.",
+						"image_url": "",
+						"question": "What is the most expensive type of item usually sold in the shop?",
+						"wrong": [
+							"Common Cards",
+							"Potions",
+							"Card Removal"
+						]
+					},
+					{
+						"correct": "Smiling Mask",
+						"difficulty": "Medium",
+						"explanation": "The Smiling Mask makes card removal cost a flat 50 gold forever.",
+						"image_url": "",
+						"question": "Which of these is a relic specifically tied to the Merchant's face?",
+						"wrong": [
+							"Frowning Mask",
+							"Merchant's Eye",
+							"Golden Mask"
+						]
+					},
+					{
+						"correct": "Old Coin",
+						"difficulty": "Medium",
+						"explanation": "Old Coin is a huge boost to your purchasing power for the next shop visit.",
+						"image_url": "",
+						"question": "Which relic gives you 300 gold immediately upon pickup?",
+						"wrong": [
+							"Pocketwatch",
+							"Golden Idol",
+							"Matryoshka"
+						]
+					},
+					{
+						"correct": "You can't; he is not a combatant",
+						"difficulty": "Medium",
+						"explanation": "Unlike some other roguelikes, the Merchant in Slay the Spire cannot be fought.",
+						"image_url": "",
+						"question": "If you attack the Merchant, what happens?",
+						"wrong": [
+							"He kills you instantly",
+							"He gives you a discount",
+							"The shop closes"
+						]
+					},
+					{
+						"correct": "Membership Card",
+						"difficulty": "Hard",
+						"explanation": "The Membership Card is one of the most powerful economic relics in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_merchant.webp",
+						"question": "What is the name of the relic that gives a 50 percent discount at all shops?",
+						"wrong": [
+							"VIP Pass",
+							"Gold Card",
+							"Coupon Bolt"
+						]
+					},
+					{
+						"correct": "Colorless",
+						"difficulty": "Hard",
+						"explanation": "Colorless cards like 'Hand of Greed' or 'Apotheosis' are unique shop offerings.",
+						"image_url": "",
+						"question": "What rare color of card can only be found in the Merchant's shop or through specific events?",
+						"wrong": [
+							"Black",
+							"Prismatic",
+							"Rainbow"
+						]
+					},
+					{
+						"correct": "Ambrosia",
+						"difficulty": "Hard",
+						"explanation": "Ambrosia is actually the Watcher's potion for Divinity. The card-choice potion is 'Discovery Potion'.",
+						"image_url": "",
+						"question": "Which potion, sold by the Merchant, allows you to choose 1 of 3 rare cards to add to your hand?",
+						"wrong": [
+							"Liquid Memories",
+							"Cultist Potion",
+							"Distilled Chaos"
+						]
+					},
+					{
+						"correct": "Gives them a 50 percent chance to go to discard instead",
+						"difficulty": "Hard",
+						"explanation": "This allows players to potentially reuse powerful one-time-use cards.",
+						"image_url": "",
+						"question": "What does the 'Strange Spoon' relic, sold in shops, do to cards that Exhaust?",
+						"wrong": [
+							"Heals you when they exhaust",
+							"Doubles their effect",
+							"Adds them to your draw pile"
+						]
+					},
+					{
+						"correct": "Merchant",
+						"difficulty": "Hard",
+						"explanation": "While fans have nicknames, he is simply the Merchant in the game's files.",
+						"image_url": "",
+						"question": "What is the Merchant's name in the game's code?",
+						"wrong": [
+							"Shopkeep",
+							"Derp",
+							"The Purveyor"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_merchant",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Merchant",
+				"lore_desc": "A masked figure who appeared in the Spire to sell wares to desperate climbers.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Shop",
+					"Mysterious"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The very beginning of a run",
+						"difficulty": "Easy",
+						"explanation": "Neow greets every player at the start of Act 1.",
+						"image_url": "https://skillcheckgame.com/assets/images/neow.webp",
+						"question": "Where do you encounter Neow in the Spire?",
+						"wrong": [
+							"After the first boss",
+							"At the top of the Spire",
+							"In the shop"
+						]
+					},
+					{
+						"correct": "Whale",
+						"difficulty": "Easy",
+						"explanation": "Neow is a giant, multi-eyed whale.",
+						"image_url": "",
+						"question": "What animal species is Neow?",
+						"wrong": [
+							"Dragon",
+							"Elephant",
+							"Turtle"
+						]
+					},
+					{
+						"correct": "The first boss",
+						"difficulty": "Easy",
+						"explanation": "If you die before the first boss, Neow only offers basic options in the next run.",
+						"image_url": "",
+						"question": "Neow's blessings are only available if you reached which point in your previous run?",
+						"wrong": [
+							"The second Act",
+							"The campfire",
+							"The Heart"
+						]
+					},
+					{
+						"correct": "Resurrects them",
+						"difficulty": "Easy",
+						"explanation": "Neow is an Ancient of Resurrection who brings the heroes back to life to fight again.",
+						"image_url": "",
+						"question": "What does Neow do to the player at the start of every run?",
+						"wrong": [
+							"Curses them",
+							"Eats them",
+							"Shrinks them"
+						]
+					},
+					{
+						"correct": "Six",
+						"difficulty": "Easy",
+						"explanation": "Neow has three eyes on each side of her head.",
+						"image_url": "",
+						"question": "How many eyes does Neow have visible in her character art?",
+						"wrong": [
+							"Two",
+							"Four",
+							"Eight"
+						]
+					},
+					{
+						"correct": "1 HP",
+						"difficulty": "Medium",
+						"explanation": "This blessing allows players to snipe an Elite enemy if they path correctly.",
+						"image_url": "https://skillcheckgame.com/assets/images/neow.webp",
+						"question": "Which 'Neow's Lament' blessing makes the first 3 combats of a run have enemies with how much HP?",
+						"wrong": [
+							"10 HP",
+							"Half HP",
+							"Zero HP"
+						]
+					},
+					{
+						"correct": "Losing Max HP or gaining a Curse",
+						"difficulty": "Medium",
+						"explanation": "Stronger rewards like boss relics or rare cards often require a sacrifice.",
+						"image_url": "",
+						"question": "What is the penalty usually associated with Neow's most powerful blessings?",
+						"wrong": [
+							"Losing the run immediately",
+							"Starting at half health",
+							"Losing all gold"
+						]
+					},
+					{
+						"correct": "The Ancients",
+						"difficulty": "Medium",
+						"explanation": "She was exiled to the bottom of the Spire by her fellow Ancients.",
+						"image_url": "",
+						"question": "Neow is an exiled member of which group?",
+						"wrong": [
+							"The Spire Architects",
+							"The Whale Council",
+							"The Gods"
+						]
+					},
+					{
+						"correct": "To destroy the Heart of the Spire",
+						"difficulty": "Medium",
+						"explanation": "She uses the heroes as pawns to strike at the Heart of the Spire.",
+						"image_url": "",
+						"question": "What is Neow's ultimate goal in the game's lore?",
+						"wrong": [
+							"To eat the player",
+							"To escape the Spire",
+							"To collect gold"
+						]
+					},
+					{
+						"correct": "Transform 2 cards",
+						"difficulty": "Medium",
+						"explanation": "Transforming basic cards into random ones can drastically change a run's early game.",
+						"image_url": "",
+						"question": "Which of these is a possible starting gift from Neow?",
+						"wrong": [
+							"Unlock all achievements",
+							"Skip Act 1",
+							"Infinite Energy"
+						]
+					},
+					{
+						"correct": "Max HP or Neow's Lament",
+						"difficulty": "Hard",
+						"explanation": "This mechanic prevents players from restarting repeatedly just to get the perfect starting gift.",
+						"image_url": "https://skillcheckgame.com/assets/images/neow.webp",
+						"question": "If you fail to reach the first boss, what is the 'consolation' blessing Neow offers?",
+						"wrong": [
+							"A random relic",
+							"Gold",
+							"A rare card"
+						]
+					},
+					{
+						"correct": "The End?",
+						"difficulty": "Hard",
+						"explanation": "The achievement hints that the cycle may not truly be over.",
+						"image_url": "",
+						"question": "What is the name of the achievement for defeating the Heart with all four characters?",
+						"wrong": [
+							"Neow's Revenge",
+							"Spire Slayer",
+							"Complete Victory"
+						]
+					},
+					{
+						"correct": "Welcome back...",
+						"difficulty": "Hard",
+						"explanation": "Neow acknowledges the player's return after a long absence.",
+						"image_url": "",
+						"question": "Which dialogue line does Neow say if you haven't played the game in a long time?",
+						"wrong": [
+							"Who are you?",
+							"The Spire has missed you",
+							"Your soul is weary"
+						]
+					},
+					{
+						"correct": "Blue/White",
+						"difficulty": "Hard",
+						"explanation": "She emanates a ghostly blue light from the bottom of the pit.",
+						"image_url": "",
+						"question": "What is the specific color of the aura surrounding Neow?",
+						"wrong": [
+							"Purple",
+							"Green",
+							"Red"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Hard",
+						"explanation": "The options always scale in risk and reward from top to bottom.",
+						"image_url": "",
+						"question": "How many total blessing options does Neow present to a player who reached the first boss?",
+						"wrong": [
+							"Two",
+							"Three",
+							"Five"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_neow",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "Neow",
+				"lore_desc": "The ancient whale of resurrection who grants blessings to the heroes at the start of each run.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ancient",
+					"Whale",
+					"Guide"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "You don't; you just deal score damage",
+						"difficulty": "Easy",
+						"explanation": "In a standard run, the character attacks the Heart during a cutscene but does not actually fight it.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_corrupt_heart.webp",
+						"question": "How do you 'kill' the Heart at the end of a standard 3-Act run?",
+						"wrong": [
+							"A normal boss fight",
+							"Playing a 'Kill' card",
+							"Sacrificing your character"
+						]
+					},
+					{
+						"correct": "Act 4",
+						"difficulty": "Easy",
+						"explanation": "The Heart is the final encounter of the secret fourth act.",
+						"image_url": "",
+						"question": "Where is the Corrupt Heart located?",
+						"wrong": [
+							"Act 1",
+							"Act 3",
+							"The Shop"
+						]
+					},
+					{
+						"correct": "Beat of Death",
+						"difficulty": "Easy",
+						"explanation": "Beat of Death deals 1 or 2 damage to the player every time they play a card.",
+						"image_url": "",
+						"question": "What is the name of the status effect the Heart uses to punish you for every card played?",
+						"wrong": [
+							"Heartbeat",
+							"Blood Price",
+							"Spire's Revenge"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "The 'Invincible' buff limits how much damage the Heart can take per turn to prevent one-shot combos.",
+						"image_url": "",
+						"question": "True or False: The Heart has a damage cap that prevents it from taking too much damage in one turn.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Deep Red",
+						"difficulty": "Easy",
+						"explanation": "The room is filled with pulsing red veins and blood-like energy.",
+						"image_url": "",
+						"question": "What is the primary color of the Heart and the room it is in?",
+						"wrong": [
+							"Bright Blue",
+							"Toxic Green",
+							"Shadowy Purple"
+						]
+					},
+					{
+						"correct": "The Heart's Debuff attack",
+						"difficulty": "Medium",
+						"explanation": "On turn 1, the Heart fills your deck with Dazed, Slimed, Wound, Burn, and Void cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_corrupt_heart.webp",
+						"question": "Which of these is a unique debuff the Heart applies that adds five different 'Status' cards to your deck?",
+						"wrong": [
+							"The Curse",
+							"Spire's Burden",
+							"Void Call"
+						]
+					},
+					{
+						"correct": "200",
+						"difficulty": "Medium",
+						"explanation": "The 'Invincible' threshold drops as Ascension increases, making the fight last longer.",
+						"image_url": "",
+						"question": "What is the maximum amount of damage the Heart can take in a single turn on Ascension 20?",
+						"wrong": [
+							"100",
+							"300",
+							"500"
+						]
+					},
+					{
+						"correct": "Shield and Spear",
+						"difficulty": "Medium",
+						"explanation": "The Spire Shield and Spire Spear are the gatekeepers of the Heart fight.",
+						"image_url": "",
+						"question": "What is the name of the two mini-bosses you must fight immediately before the Heart?",
+						"wrong": [
+							"Donu and Deca",
+							"The Twins",
+							"The Guardians"
+						]
+					},
+					{
+						"correct": "Blood Shots",
+						"difficulty": "Medium",
+						"explanation": "The Heart fires many small hits that can be devastating without enough Block.",
+						"image_url": "",
+						"question": "Which of these is the name of the massive multi-hit attack the Heart performs?",
+						"wrong": [
+							"Organ Piercer",
+							"Vein Strike",
+							"Heart Attack"
+						]
+					},
+					{
+						"correct": "750",
+						"difficulty": "Medium",
+						"explanation": "It has the highest HP of any enemy in the game by a significant margin.",
+						"image_url": "",
+						"question": "How many total HP does the Heart have on standard difficulty?",
+						"wrong": [
+							"500",
+							"999",
+							"1000"
+						]
+					},
+					{
+						"correct": "It gains Strength and its attacks grow stronger",
+						"difficulty": "Hard",
+						"explanation": "The Heart scales extremely fast, making it a race against time.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_corrupt_heart.webp",
+						"question": "What happens on the turn after the Heart's 'Buff' move?",
+						"wrong": [
+							"It heals itself",
+							"It removes your relics",
+							"It ends the fight"
+						]
+					},
+					{
+						"correct": "Tungsten Rod",
+						"difficulty": "Hard",
+						"explanation": "Tungsten Rod reduces all damage by 1, which effectively negates the Beat of Death and weakens multi-hits.",
+						"image_url": "",
+						"question": "Which relic is considered the most important for surviving the 'Blood Shots' attack?",
+						"wrong": [
+							"The Boot",
+							"Vajra",
+							"Meal Ticket"
+						]
+					},
+					{
+						"correct": "Malaise",
+						"difficulty": "Hard",
+						"explanation": "Malaise reduces Strength permanently, while Piercing Wail does it for one crucial turn.",
+						"image_url": "",
+						"question": "Which card from the Silent can reduce the Heart's multi-hit damage to almost zero?",
+						"wrong": [
+							"Piercing Wail",
+							"Wraith Form",
+							"Blur"
+						]
+					},
+					{
+						"correct": "It is the source of the Spire's evil and resurrection cycle",
+						"difficulty": "Hard",
+						"explanation": "The Heart sustains the living Spire and the endless cycle of the climbers.",
+						"image_url": "",
+						"question": "In the 'Lore', why is the Heart considered 'Corrupt'?",
+						"wrong": [
+							"It was poisoned by the heroes",
+							"It is a machine that broke",
+							"It was stolen from a god"
+						]
+					},
+					{
+						"correct": "The screen turns white and shows 'Victory!'",
+						"difficulty": "Hard",
+						"explanation": "Unlike the standard ending, a Heart kill results in a special 'Victory!' screen instead of 'Victory?'.",
+						"image_url": "",
+						"question": "What is the visual indicator that you have successfully 'defeated' the heart after the fight?",
+						"wrong": [
+							"The Spire collapses",
+							"The Heart explodes into gold",
+							"The character walks home"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_corrupt_heart",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Corrupt Heart",
+				"lore_desc": "The beating center of the Spire's corruption and the true final boss of the game.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Organ",
+					"Final"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Your turn ends immediately",
+						"difficulty": "Easy",
+						"explanation": "His unique mechanic forces your turn to end and increases his Strength after every 12 cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_time_eater.webp",
+						"question": "What happens if you play 12 cards against the Time Eater?",
+						"wrong": [
+							"You take damage",
+							"He heals",
+							"You draw 12 cards"
+						]
+					},
+					{
+						"correct": "Act 3",
+						"difficulty": "Easy",
+						"explanation": "He is one of the three possible bosses at the end of The Beyond.",
+						"image_url": "",
+						"question": "Which Act does the Time Eater appear in as a final boss?",
+						"wrong": [
+							"Act 1",
+							"Act 2",
+							"Act 4"
+						]
+					},
+					{
+						"correct": "A large humanoid slug in robes",
+						"difficulty": "Easy",
+						"explanation": "He wears purple robes and carries a large clock-like staff.",
+						"image_url": "",
+						"question": "What does the Time Eater look like?",
+						"wrong": [
+							"A giant clock",
+							"A skeleton with a scythe",
+							"A golden robot"
+						]
+					},
+					{
+						"correct": "Carefully counting how many cards you play",
+						"difficulty": "Easy",
+						"explanation": "Playing exactly 12 cards on your own terms is better than having your turn cut short unexpectedly.",
+						"image_url": "",
+						"question": "What is the main strategy to beat the Time Eater?",
+						"wrong": [
+							"Playing as many cards as possible",
+							"Heal every turn",
+							"Only using Attack cards"
+						]
+					},
+					{
+						"correct": "Draw Reduction",
+						"difficulty": "Easy",
+						"explanation": "He can reduce the number of cards you draw on your next turn.",
+						"image_url": "",
+						"question": "What is the name of the status the Time Eater applies that slows you down?",
+						"wrong": [
+							"Slow",
+							"Weak",
+							"Vulnerable"
+						]
+					},
+					{
+						"correct": "Heals back to half and removes debuffs",
+						"difficulty": "Medium",
+						"explanation": "This 'reset' makes the fight much longer and harder if you don't have enough damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_time_eater.webp",
+						"question": "When the Time Eater's health falls below half, what does he do on his next turn?",
+						"wrong": [
+							"Explodes",
+							"Summons minions",
+							"Flees"
+						]
+					},
+					{
+						"correct": "The Watcher",
+						"difficulty": "Medium",
+						"explanation": "He says 'Never liked you...' to the Watcher, implying they were from the same order.",
+						"image_url": "",
+						"question": "Which character does the Time Eater specifically recognize in his dialogue?",
+						"wrong": [
+							"The Ironclad",
+							"The Silent",
+							"The Defect"
+						]
+					},
+					{
+						"correct": "Time Warp",
+						"difficulty": "Medium",
+						"explanation": "Time Warp tracks the 12 cards played across all turns.",
+						"image_url": "",
+						"question": "What is the name of the clock-hand mechanic shown under his health bar?",
+						"wrong": [
+							"Stopwatch",
+							"Chronos",
+							"The Tick"
+						]
+					},
+					{
+						"correct": "Infinite or Shiv-based decks",
+						"difficulty": "Medium",
+						"explanation": "Decks that rely on playing dozens of low-impact cards are heavily punished by the card limit.",
+						"image_url": "",
+						"question": "Which type of deck is most disadvantaged against the Time Eater?",
+						"wrong": [
+							"High-cost card decks",
+							"Poison decks",
+							"Power-heavy decks"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Medium",
+						"explanation": "If you play 5 cards and end your turn, the counter will stay at 5 for your next turn.",
+						"image_url": "",
+						"question": "True or False: The Time Eater's card counter persists across turns.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Slow",
+						"difficulty": "Hard",
+						"explanation": "The 'Slow' debuff (usually applied by the Giant Head enemy) increases damage taken per card played, which ironically counters the Time Eater's goal.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_time_eater.webp",
+						"question": "Which status effect from the Watcher makes the Time Eater take more damage for every card played?",
+						"wrong": [
+							"Vulnerable",
+							"Lock-On",
+							"Pressure Points"
+						]
+					},
+					{
+						"correct": "2",
+						"difficulty": "Hard",
+						"explanation": "This scaling means that if the fight goes on too long, his attacks become unblockable.",
+						"image_url": "",
+						"question": "How much Strength does the Time Eater gain every time his Time Warp triggers?",
+						"wrong": [
+							"1",
+							"5",
+							"10"
+						]
+					},
+					{
+						"correct": "Snail",
+						"difficulty": "Hard",
+						"explanation": "His shell and slow, methodical nature are very snail-like.",
+						"image_url": "",
+						"question": "The Time Eater's design is inspired by what type of animal combined with a human?",
+						"wrong": [
+							"Spider",
+							"Bird",
+							"Lizard"
+						]
+					},
+					{
+						"correct": "Static Discharge",
+						"difficulty": "Hard",
+						"explanation": "Passive damage from orbs doesn't count toward the Time Warp limit.",
+						"image_url": "",
+						"question": "Which card from the Defect can help bypass the card limit by dealing damage via Orbs?",
+						"wrong": [
+							"Thunder Strike",
+							"Blizzard",
+							"Loop"
+						]
+					},
+					{
+						"correct": "Applies 1 Vulnerable and 1 Frail",
+						"difficulty": "Hard",
+						"explanation": "It makes you both take more damage and gain less block, a deadly combination.",
+						"image_url": "",
+						"question": "What does the Time Eater's 'Ripple' attack do to the player?",
+						"wrong": [
+							"Adds Void cards",
+							"Removes Energy",
+							"Steals Gold"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_time_eater",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Time Eater",
+				"lore_desc": "A high-ranking Spire entity that manipulates the flow of time to interrupt the player's combos.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Monster",
+					"Time"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "CAW! CAW!",
+						"difficulty": "Easy",
+						"explanation": "The 'Caw Caw!' cry has become the most iconic meme in the Slay the Spire community.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_cultist.webp",
+						"question": "What is the famous battle cry of the Cultist?",
+						"wrong": [
+							"MOO! MOO!",
+							"RAWR!",
+							"Halt!"
+						]
+					},
+					{
+						"correct": "Grants Strength every turn",
+						"difficulty": "Easy",
+						"explanation": "Ritual makes the Cultist more dangerous the longer the fight lasts.",
+						"image_url": "",
+						"question": "What does the 'Ritual' buff do for the Cultist?",
+						"wrong": [
+							"Heals them",
+							"Gives them Block",
+							"Summons more birds"
+						]
+					},
+					{
+						"correct": "Bird mask",
+						"difficulty": "Easy",
+						"explanation": "They worship a giant bird god, so they dress to match.",
+						"image_url": "",
+						"question": "What kind of mask do the Cultists wear?",
+						"wrong": [
+							"Cat mask",
+							"Skull mask",
+							"Demon mask"
+						]
+					},
+					{
+						"correct": "Act 1",
+						"difficulty": "Easy",
+						"explanation": "The Cultist is often the first 'tutorial' fight of a new run.",
+						"image_url": "",
+						"question": "In which Act are you most likely to encounter a lone Cultist as the very first enemy?",
+						"wrong": [
+							"Act 2",
+							"Act 3",
+							"Act 4"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Cultists wear distinctive blue robes that match their bird-like masks.",
+						"image_url": "",
+						"question": "What color are the robes worn by the standard Cultist?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Black"
+						]
+					},
+					{
+						"correct": "Cultist Potion",
+						"difficulty": "Medium",
+						"explanation": "The Cultist Potion grants the player 1 Strength (or more) every turn.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_cultist.webp",
+						"question": "Which potion allows the player to gain the same 'Ritual' buff as a Cultist?",
+						"wrong": [
+							"Bird Potion",
+							"Strength Potion",
+							"Feather Potion"
+						]
+					},
+					{
+						"correct": "Causes you to say 'CAW!' at the start of combat",
+						"difficulty": "Medium",
+						"explanation": "It is a purely cosmetic effect that makes the player join the meme.",
+						"image_url": "",
+						"question": "There is a rare event where you can acquire a 'Cultist Headpiece'. What does it do?",
+						"wrong": [
+							"Gives 1 Strength",
+							"Makes bird enemies peaceful",
+							"Heals you"
+						]
+					},
+					{
+						"correct": "The Awakened One",
+						"difficulty": "Medium",
+						"explanation": "The Awakened One is a massive bird creature that serves as their deity.",
+						"image_url": "",
+						"question": "Which boss do the Cultists worship?",
+						"wrong": [
+							"The Heart",
+							"The Time Eater",
+							"The Collector"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Medium",
+						"explanation": "Dealing with the Cultists quickly is key to surviving the first phase of the boss.",
+						"image_url": "",
+						"question": "How many Cultists usually accompany the Awakened One in its boss fight?",
+						"wrong": [
+							"One",
+							"Three",
+							"Zero"
+						]
+					},
+					{
+						"correct": "The Nest",
+						"difficulty": "Medium",
+						"explanation": "In The Nest, you can gain gold or the powerful Ritual Dagger card.",
+						"image_url": "",
+						"question": "Which event allows you to choose between fighting a Cultist or 'performing a ritual'?",
+						"wrong": [
+							"The Library",
+							"The Mausoleum",
+							"The Forge"
+						]
+					},
+					{
+						"correct": "Incantation",
+						"difficulty": "Hard",
+						"explanation": "Incantation is actually the name of the buff; its primary attack is just 'Dark Strike'.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_cultist.webp",
+						"question": "What is the name of the attack the Cultist uses on the turn after it buffs itself?",
+						"wrong": [
+							"Dark Strike",
+							"Peck",
+							"Ritual Slice"
+						]
+					},
+					{
+						"correct": "The Cultists",
+						"difficulty": "Hard",
+						"explanation": "It's a common hard-pool encounter in the second Act.",
+						"image_url": "",
+						"question": "If you encounter three Cultists in Act 2, what is the encounter name?",
+						"wrong": [
+							"Bird Gang",
+							"The Flock",
+							"Triple Caw"
+						]
+					},
+					{
+						"correct": "How many times it has dealt a killing blow",
+						"difficulty": "Hard",
+						"explanation": "The Ritual Dagger is a permanent scaling card that carries over between fights.",
+						"image_url": "",
+						"question": "The Ritual Dagger card gained from the Cultist event deals more damage based on what?",
+						"wrong": [
+							"Your Current HP",
+							"How many birds you killed",
+							"Your Strength"
+						]
+					},
+					{
+						"correct": "You escape as normal",
+						"difficulty": "Hard",
+						"explanation": "Even 'holy' birds can't see through a good smoke bomb.",
+						"image_url": "",
+						"question": "What happens if you use a Smoke Bomb to flee from a Cultist fight?",
+						"wrong": [
+							"They track you",
+							"You lose gold",
+							"Neow gets mad"
+						]
+					},
+					{
+						"correct": "They lose their humanity and can only say Caw",
+						"difficulty": "Hard",
+						"explanation": "The transformation is both mental and physical for the Spire's inhabitants.",
+						"image_url": "",
+						"question": "In the game's lore, what happens to people who wear the bird masks too long?",
+						"wrong": [
+							"They turn into gold",
+							"They become invisible",
+							"They die"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_cultist",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Cultist",
+				"lore_desc": "A common resident of the Spire that worships the Awakened One and famously shouts 'CAW CAW!'.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Enemy",
+					"Bird",
+					"Ritual"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A circle and a triangle (with depth)",
+						"difficulty": "Easy",
+						"explanation": "Donu is the donut-shaped one, and Deca is the triangular-prism-shaped one.",
+						"image_url": "https://skillcheckgame.com/assets/images/donu_and_deca.webp",
+						"question": "What are the two shapes of Donu and Deca?",
+						"wrong": [
+							"A square and a pentagon",
+							"Two circles",
+							"A star and a moon"
+						]
+					},
+					{
+						"correct": "Donu",
+						"difficulty": "Easy",
+						"explanation": "Donu buffs their offense, while Deca provides defense.",
+						"image_url": "",
+						"question": "Which of the two bosses grants Strength to both each turn?",
+						"wrong": [
+							"Deca",
+							"Both",
+							"Neither"
+						]
+					},
+					{
+						"correct": "You Are What You Eat",
+						"difficulty": "Easy",
+						"explanation": "It's a reference to Donu's donut-like appearance.",
+						"image_url": "",
+						"question": "What achievement do you get for killing Donu with a 'Feed' card?",
+						"wrong": [
+							"Donut Hole",
+							"Sweet Revenge",
+							"Iron Stomach"
+						]
+					},
+					{
+						"correct": "Act 3",
+						"difficulty": "Easy",
+						"explanation": "They are one of the possible boss encounters at the end of Act 3.",
+						"image_url": "",
+						"question": "In which Act do Donu and Deca appear as the final boss?",
+						"wrong": [
+							"Act 1",
+							"Act 2",
+							"Act 4"
+						]
+					},
+					{
+						"correct": "False",
+						"difficulty": "Easy",
+						"explanation": "Unlike some boss pairs in other games, you can kill one and then the other at your leisure.",
+						"image_url": "",
+						"question": "True or False: Donu and Deca must be killed on the same turn.",
+						"wrong": [
+							"True"
+						]
+					},
+					{
+						"correct": "Deca",
+						"difficulty": "Medium",
+						"explanation": "Deca's role is to provide defense and disrupt the player's deck.",
+						"image_url": "https://skillcheckgame.com/assets/images/donu_and_deca.webp",
+						"question": "Which boss adds 'Dazed' status cards to your discard pile?",
+						"wrong": [
+							"Donu",
+							"Both",
+							"Neither"
+						]
+					},
+					{
+						"correct": "Focusing down Donu first",
+						"difficulty": "Medium",
+						"explanation": "Killing Donu stops their Strength scaling, making the rest of the fight much safer.",
+						"image_url": "",
+						"question": "What is the recommended strategy for this fight?",
+						"wrong": [
+							"Focusing down Deca first",
+							"Attacking them equally",
+							"Ignoring both and blocking"
+						]
+					},
+					{
+						"correct": "3",
+						"difficulty": "Medium",
+						"explanation": "3 Strength per turn for two enemies adds up very quickly.",
+						"image_url": "",
+						"question": "How much Strength do they gain from Donu's buff on standard difficulty?",
+						"wrong": [
+							"1",
+							"5",
+							"10"
+						]
+					},
+					{
+						"correct": "Artifact",
+						"difficulty": "Medium",
+						"explanation": "Artifact prevents the first few debuffs you try to apply to them.",
+						"image_url": "",
+						"question": "What type of artifact do they both start the fight with?",
+						"wrong": [
+							"Plated Armor",
+							"Thorns",
+							"Malleable"
+						]
+					},
+					{
+						"correct": "2",
+						"difficulty": "Medium",
+						"explanation": "He typically hits twice, making his Strength scaling even more dangerous.",
+						"image_url": "",
+						"question": "How many times does Donu attack per turn on his attacking cycles?",
+						"wrong": [
+							"1",
+							"3",
+							"4"
+						]
+					},
+					{
+						"correct": "They are ancient security systems of the Spire",
+						"difficulty": "Hard",
+						"explanation": "They are artificial guardians built to ensure no one reaches the Heart.",
+						"image_url": "https://skillcheckgame.com/assets/images/donu_and_deca.webp",
+						"question": "What is the lore-implied origin of Donu and Deca?",
+						"wrong": [
+							"They were humans who were cursed",
+							"They are fallen stars",
+							"They are hallucinations"
+						]
+					},
+					{
+						"correct": "Square Shield",
+						"difficulty": "Hard",
+						"explanation": "Wait, the move is actually just called 'Shield', though Deca is the one that performs it.",
+						"image_url": "",
+						"question": "What is the name of Deca's defensive buff move?",
+						"wrong": [
+							"Protective Prism",
+							"Deca Defense",
+							"Geometric Guard"
+						]
+					},
+					{
+						"correct": "Red Mask",
+						"difficulty": "Hard",
+						"explanation": "Bag of Marbles applies Vulnerable at the start, immediately stripping an Artifact charge.",
+						"image_url": "",
+						"question": "Which relic is particularly effective in this fight to remove their Artifact charges?",
+						"wrong": [
+							"Vajra",
+							"Bag of Marbles",
+							"Preserved Insect"
+						]
+					},
+					{
+						"correct": "4",
+						"difficulty": "Hard",
+						"explanation": "The increase to 4 Strength makes the fight an extreme damage race.",
+						"image_url": "",
+						"question": "In Ascension 19 or higher, how much Strength does Donu grant?",
+						"wrong": [
+							"3",
+							"5",
+							"6"
+						]
+					},
+					{
+						"correct": "The Beyond",
+						"difficulty": "Hard",
+						"explanation": "It shares the boss theme for the third Act.",
+						"image_url": "",
+						"question": "What is the name of the music track that plays during the Donu and Deca fight?",
+						"wrong": [
+							"Geometric Death",
+							"The Twins",
+							"Final Boss Theme"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_donu_and_deca",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "Donu and Deca",
+				"lore_desc": "Two ancient geometric guardians that protect the upper reaches of the Spire with perfect symmetry.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Geometric",
+					"Pair"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Confusion",
+						"difficulty": "Easy",
+						"explanation": "Confusion randomizes the energy cost of every card you draw.",
+						"image_url": "https://skillcheckgame.com/assets/images/snecko.webp",
+						"question": "What status effect does the Snecko apply to the player?",
+						"wrong": [
+							"Dizzy",
+							"Blind",
+							"Slow"
+						]
+					},
+					{
+						"correct": "0 to 3",
+						"difficulty": "Easy",
+						"explanation": "Any card drawn while confused will cost 0, 1, 2, or 3 Energy regardless of its original cost.",
+						"image_url": "",
+						"question": "What is the range of energy costs a card can have when Confused?",
+						"wrong": [
+							"1 to 5",
+							"0 to 10",
+							"Only 2"
+						]
+					},
+					{
+						"correct": "A green snake with a large eye",
+						"difficulty": "Easy",
+						"explanation": "It is a vibrant green serpent dominated by a single large, glowing eye.",
+						"image_url": "",
+						"question": "What does a Snecko look like?",
+						"wrong": [
+							"A purple dragon",
+							"A giant spider",
+							"A golden lion"
+						]
+					},
+					{
+						"correct": "False",
+						"difficulty": "Easy",
+						"explanation": "Snecko is a standard 'high-tier' enemy found in Act 2, not a boss.",
+						"image_url": "",
+						"question": "True or False: Snecko is a boss at the end of an Act.",
+						"wrong": [
+							"True"
+						]
+					},
+					{
+						"correct": "It can increase to 1, 2, or 3",
+						"difficulty": "Easy",
+						"explanation": "Confusion can make free cards expensive, which is why it's a risky effect.",
+						"image_url": "",
+						"question": "What happens to a card's cost if it was originally 0 but you are Confused?",
+						"wrong": [
+							"It stays 0",
+							"It becomes 1",
+							"It becomes random but never 0"
+						]
+					},
+					{
+						"correct": "Draw 2 extra cards each turn",
+						"difficulty": "Medium",
+						"explanation": "Snecko Eye is one of the strongest relics for decks with many high-cost cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/snecko.webp",
+						"question": "The 'Snecko Eye' boss relic gives you Confusion but also lets you do what?",
+						"wrong": [
+							"Gain 1 Energy",
+							"Heal every turn",
+							"Skip combats"
+						]
+					},
+					{
+						"correct": "The Silent",
+						"difficulty": "Medium",
+						"explanation": "The Snecko Skull is a common relic that adds 1 additional poison whenever poison is applied.",
+						"image_url": "",
+						"question": "Which character has a relic called 'Snecko Skull' that increases poison applied?",
+						"wrong": [
+							"The Ironclad",
+							"The Defect",
+							"The Watcher"
+						]
+					},
+					{
+						"correct": "Bite",
+						"difficulty": "Medium",
+						"explanation": "It frequently bites the player for moderate damage.",
+						"image_url": "",
+						"question": "What is the Snecko's most common attack called?",
+						"wrong": [
+							"Tail Whip",
+							"Venom Spit",
+							"Constrict"
+						]
+					},
+					{
+						"correct": "Act 2 (The City)",
+						"difficulty": "Medium",
+						"explanation": "Snecko is one of the most iconic and feared enemies of the second Act.",
+						"image_url": "",
+						"question": "In which Act do you first encounter the Snecko?",
+						"wrong": [
+							"Act 1",
+							"Act 3",
+							"Act 4"
+						]
+					},
+					{
+						"correct": "Tail Whip",
+						"difficulty": "Medium",
+						"explanation": "While it bites often, it can also use its tail to weaken the player.",
+						"image_url": "",
+						"question": "What is the name of the Snecko attack that deals damage and applies vulnerable?",
+						"wrong": [
+							"Slam",
+							"Gaze",
+							"Lunge"
+						]
+					},
+					{
+						"correct": "Seven",
+						"difficulty": "Hard",
+						"explanation": "The base draw is 5, and Snecko Eye adds 2, totaling 7 cards per turn.",
+						"image_url": "https://skillcheckgame.com/assets/images/snecko.webp",
+						"question": "How many cards does a player draw per turn when they have the Snecko Eye relic?",
+						"wrong": [
+							"Five",
+							"Six",
+							"Eight"
+						]
+					},
+					{
+						"correct": "114 to 120",
+						"difficulty": "Hard",
+						"explanation": "It is quite tanky for a non-elite enemy in Act 2.",
+						"image_url": "",
+						"question": "What is the Snecko's HP range on standard difficulty?",
+						"wrong": [
+							"50 to 60",
+							"200 to 220",
+							"80 to 90"
+						]
+					},
+					{
+						"correct": "Snecko Oil",
+						"difficulty": "Hard",
+						"explanation": "The event actually gives you Snecko Oil, a potion that draws cards and randomizes their cost.",
+						"image_url": "",
+						"question": "There is an event called 'Snecko Cultist' that can give you which relic?",
+						"wrong": [
+							"Snecko Eye",
+							"Snecko Skull",
+							"Snecko Potion"
+						]
+					},
+					{
+						"correct": "They are considered deities by some inhabitants",
+						"difficulty": "Hard",
+						"explanation": "References to the 'Snecko Cult' suggest they are worshipped for their chaotic power.",
+						"image_url": "",
+						"question": "What is the lore connection between Sneckos and the Spire?",
+						"wrong": [
+							"They are the Heart's pets",
+							"They are escaped experiments",
+							"They are the Spire's gardeners"
+						]
+					},
+					{
+						"correct": "The cost is randomized again",
+						"difficulty": "Hard",
+						"explanation": "Confusion re-rolls the cost every time the card enters your hand.",
+						"image_url": "",
+						"question": "If you are already Confused and draw a card that was already modified by Snecko, what happens?",
+						"wrong": [
+							"The cost stays the same",
+							"The card is destroyed",
+							"The cost becomes 0"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_snecko",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "Snecko",
+				"lore_desc": "A legendary creature within the Spire known for its confusing gaze that randomizes the cost of everything.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Enemy",
+					"Reptile",
+					"RNG"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Playing a Skill card",
+						"difficulty": "Easy",
+						"explanation": "Playing Skills makes him gain Strength, making defensive play very dangerous.",
+						"image_url": "https://skillcheckgame.com/assets/images/gremlin_nob.webp",
+						"question": "What action by the player triggers Gremlin Nob's 'Enrage' ability?",
+						"wrong": [
+							"Playing an Attack card",
+							"Playing a Power card",
+							"Using a Potion"
+						]
+					},
+					{
+						"correct": "Act 1",
+						"difficulty": "Easy",
+						"explanation": "He is the 'skill-check' elite of the first Act.",
+						"image_url": "",
+						"question": "In which Act is the Gremlin Nob found as an Elite?",
+						"wrong": [
+							"Act 2",
+							"Act 3",
+							"Act 4"
+						]
+					},
+					{
+						"correct": "A large, red, muscular gremlin with horns",
+						"difficulty": "Easy",
+						"explanation": "He is much larger and more intimidating than the standard gremlins.",
+						"image_url": "",
+						"question": "What is the visual appearance of the Gremlin Nob?",
+						"wrong": [
+							"A tiny green gremlin",
+							"A floating ghost",
+							"A mechanical spider"
+						]
+					},
+					{
+						"correct": "False",
+						"difficulty": "Easy",
+						"explanation": "He uses his first turn to use Bellow, which applies the Enrage buff.",
+						"image_url": "",
+						"question": "True or False: Gremlin Nob starts the fight with Enrage already active.",
+						"wrong": [
+							"True"
+						]
+					},
+					{
+						"correct": "Attack as much as possible to end the fight quickly",
+						"difficulty": "Easy",
+						"explanation": "Because he scales with Skills, the goal is to kill him before he kills you.",
+						"image_url": "",
+						"question": "Which of these is the best strategy for fighting a Gremlin Nob?",
+						"wrong": [
+							"Use many defense cards",
+							"Wait for him to run out of energy",
+							"Only play Power cards"
+						]
+					},
+					{
+						"correct": "Vulnerable",
+						"difficulty": "Medium",
+						"explanation": "Vulnerable makes his follow-up attacks even more lethal.",
+						"image_url": "https://skillcheckgame.com/assets/images/gremlin_nob.webp",
+						"question": "What status effect does Gremlin Nob's 'Skull Bash' attack apply?",
+						"wrong": [
+							"Weak",
+							"Frail",
+							"Dazed"
+						]
+					},
+					{
+						"correct": "2",
+						"difficulty": "Medium",
+						"explanation": "Gaining 2 Strength per Skill means just 3 Skills can double his damage output.",
+						"image_url": "",
+						"question": "How much Strength does Gremlin Nob gain per Skill played on standard difficulty?",
+						"wrong": [
+							"1",
+							"3",
+							"5"
+						]
+					},
+					{
+						"correct": "He is likely an alpha or champion of the tribe",
+						"difficulty": "Medium",
+						"explanation": "The Nob acts as the brute force of the Gremlin hierarchy.",
+						"image_url": "",
+						"question": "Which gremlin type is the leader of the Gremlin gang, according to the Nob?",
+						"wrong": [
+							"Gremlin Wizard",
+							"Sneaky Gremlin",
+							"Fat Gremlin"
+						]
+					},
+					{
+						"correct": "Enrage",
+						"difficulty": "Medium",
+						"explanation": "Enrage is the specific name of the mechanic that reacts to Skill cards.",
+						"image_url": "",
+						"question": "What is the name of the Gremlin Nob's primary multi-turn buff?",
+						"wrong": [
+							"Fury",
+							"Anger",
+							"Berserk"
+						]
+					},
+					{
+						"correct": "The Silent",
+						"difficulty": "Medium",
+						"explanation": "The Silent's starter deck is very skill-heavy, making this elite a major threat.",
+						"image_url": "",
+						"question": "Which of these characters has the hardest time with Gremlin Nob early on?",
+						"wrong": [
+							"The Ironclad",
+							"The Watcher",
+							"The Defect"
+						]
+					},
+					{
+						"correct": "14",
+						"difficulty": "Hard",
+						"explanation": "It's a consistent 14 damage that can be devastating if the player is already Vulnerable.",
+						"image_url": "https://skillcheckgame.com/assets/images/gremlin_nob.webp",
+						"question": "How much damage does the Gremlin Nob's 'Rush' attack deal on turn 2?",
+						"wrong": [
+							"10",
+							"18",
+							"22"
+						]
+					},
+					{
+						"correct": "90",
+						"difficulty": "Hard",
+						"explanation": "At high Ascension, his HP increases, making it harder to burst him down.",
+						"image_url": "",
+						"question": "What is the Gremlin Nob's maximum health on Ascension 20?",
+						"wrong": [
+							"80",
+							"100",
+							"120"
+						]
+					},
+					{
+						"correct": "No, it must be purely a Skill card",
+						"difficulty": "Hard",
+						"explanation": "The game checks for the 'Skill' type; cards like 'Hand of Greed' (Attack) do not trigger it.",
+						"image_url": "",
+						"question": "If you play a card that is both an Attack and a Skill (like a modified card), does he gain Strength?",
+						"wrong": [
+							"Yes",
+							"Only if it deals damage",
+							"Only if it gives Block"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Hard",
+						"explanation": "Potions are not cards, so they can be used freely to help survive the fight.",
+						"image_url": "",
+						"question": "Does playing a Potion count toward Gremlin Nob's Enrage?",
+						"wrong": [
+							"Yes",
+							"Only if the potion gives Block",
+							"Only if it is a Skill potion"
+						]
+					},
+					{
+						"correct": "Bellow",
+						"difficulty": "Hard",
+						"explanation": "Bellow is his turn 1 move where he sets up the Enrage mechanic.",
+						"image_url": "",
+						"question": "What is the name of the attack the Gremlin Nob uses on the turn he is NOT attacking?",
+						"wrong": [
+							"Roar",
+							"Shout",
+							"Buff"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_gremlin_nob",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "Gremlin Nob",
+				"lore_desc": "An aggressive elite gremlin that grows stronger every time its opponent uses a non-attack ability.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Elite",
+					"Monster",
+					"Angry"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Increases damage to 5 if it would be less",
+						"difficulty": "Easy",
+						"explanation": "Whenever you deal 4 or less damage with an attack, The Boot increases it to 5.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_boot.webp",
+						"question": "What is the primary effect of 'The Boot' relic?",
+						"wrong": [
+							"Lets you run from fights",
+							"Increases your speed",
+							"Heals you"
+						]
+					},
+					{
+						"correct": "Brown",
+						"difficulty": "Easy",
+						"explanation": "It appears as a sturdy, worn brown leather boot.",
+						"image_url": "",
+						"question": "What color is the actual Boot in the relic art?",
+						"wrong": [
+							"Black",
+							"Gold",
+							"Steel"
+						]
+					},
+					{
+						"correct": "False",
+						"difficulty": "Easy",
+						"explanation": "The Boot only affects direct attack damage from cards.",
+						"image_url": "",
+						"question": "True or False: The Boot works on Poison damage.",
+						"wrong": [
+							"True"
+						]
+					},
+					{
+						"correct": "The Silent",
+						"difficulty": "Easy",
+						"explanation": "The Silent's Shivs and other multi-hits often deal low damage that The Boot can buff.",
+						"image_url": "",
+						"question": "Which of these characters benefits most from The Boot due to multi-hit attacks?",
+						"wrong": [
+							"The Ironclad",
+							"The Defect",
+							"The Watcher"
+						]
+					},
+					{
+						"correct": "Common",
+						"difficulty": "Easy",
+						"explanation": "It is a common relic that can be found early in most runs.",
+						"image_url": "",
+						"question": "What is the rarity of The Boot?",
+						"wrong": [
+							"Uncommon",
+							"Rare",
+							"Boss"
+						]
+					},
+					{
+						"correct": "Malleable or Intangible",
+						"difficulty": "Medium",
+						"explanation": "Intangible reduces damage to 1, but The Boot forces it back up to 5.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_boot.webp",
+						"question": "Against which enemy buff is The Boot particularly useful?",
+						"wrong": [
+							"Strength",
+							"Artifact",
+							"Thorns"
+						]
+					},
+					{
+						"correct": "The Sentries",
+						"difficulty": "Medium",
+						"explanation": "Wait, the Sentries don't have Plated Armor; the Spheric Guardian in Act 2 does. The Boot is great against it.",
+						"image_url": "",
+						"question": "Which Act 1 elite enemy has a high amount of 'Plated Armor' that The Boot can bypass?",
+						"wrong": [
+							"Gremlin Nob",
+							"Lagavulin",
+							"The Slime Boss"
+						]
+					},
+					{
+						"correct": "Pummel",
+						"difficulty": "Medium",
+						"explanation": "Pummel hits 4 or 5 times, and if the enemy has block, The Boot ensures each hit still does 5.",
+						"image_url": "",
+						"question": "Which multi-hit Ironclad card works well with The Boot when dealing with high block?",
+						"wrong": [
+							"Whirlwind",
+							"Heavy Blade",
+							"Clash"
+						]
+					},
+					{
+						"correct": "As a meme or situational relic",
+						"difficulty": "Medium",
+						"explanation": "While it has niche uses, many players joke about it being a disappointing chest drop.",
+						"image_url": "",
+						"question": "How is The Boot regarded by the Slay the Spire community?",
+						"wrong": [
+							"As the strongest relic",
+							"As a cursed item",
+							"As a myth"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Medium",
+						"explanation": "It only raises damage *up to* 5 if it was below that threshold.",
+						"image_url": "",
+						"question": "Does The Boot increase damage that is already 5?",
+						"wrong": [
+							"Yes",
+							"Only if it is a crit",
+							"Only on elites"
+						]
+					},
+					{
+						"correct": "Any multi-hit source",
+						"difficulty": "Hard",
+						"explanation": "Nemesis gains Intangible every other turn, and The Boot allows you to still deal 5 damage per hit.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_boot.webp",
+						"question": "Which relic combined with The Boot makes the 'Nemesis' boss fight much easier?",
+						"wrong": [
+							"The Champion Belt",
+							"Dead Branch",
+							"Ice Cream"
+						]
+					},
+					{
+						"correct": "A boot with a very heavy sole",
+						"difficulty": "Hard",
+						"explanation": "The flavor text says: 'This boot has a very heavy sole. Perfect for kicking things.'.",
+						"image_url": "",
+						"question": "What is the lore description of The Boot?",
+						"wrong": [
+							"A boot from a giant",
+							"A boot that never trips",
+							"The Merchant's old shoe"
+						]
+					},
+					{
+						"correct": "Yes, it deals 5",
+						"difficulty": "Hard",
+						"explanation": "The Boot sets the floor for any damage value below 5 to exactly 5.",
+						"image_url": "",
+						"question": "If you have 0 Strength and use an attack that deals 0 damage, does The Boot trigger?",
+						"wrong": [
+							"No",
+							"It deals 1",
+							"It crashes the game"
+						]
+					},
+					{
+						"correct": "No, relics cannot be sold",
+						"difficulty": "Hard",
+						"explanation": "Standard gameplay does not allow the selling of relics once acquired.",
+						"image_url": "",
+						"question": "Can The Boot be sold to the Merchant?",
+						"wrong": [
+							"Yes, for 50 gold",
+							"Yes, for a potion",
+							"Only if you have the receipt"
+						]
+					},
+					{
+						"correct": "There isn't one; all Defect attacks deal at least some damage",
+						"difficulty": "Hard",
+						"explanation": "Actually, many Defect orbs deal low damage, but The Boot only triggers on Attack cards.",
+						"image_url": "",
+						"question": "Which card from the Defect, which hits for 0 base damage multiple times, synergizes with The Boot?",
+						"wrong": [
+							"Blizzard",
+							"Thunder Strike",
+							"Multi-Cast"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_the_boot",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Boot",
+				"lore_desc": "A legendary relic that ensures even the smallest of pokes deals a meaningful amount of damage.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Relic",
+					"Item",
+					"Meme"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "A giant bird",
+						"difficulty": "Easy",
+						"explanation": "It is a massive avian creature with multiple wings.",
+						"image_url": "https://skillcheckgame.com/assets/images/awakened_one.webp",
+						"question": "What animal does the Awakened One most resemble?",
+						"wrong": [
+							"A dragon",
+							"A wolf",
+							"A serpent"
+						]
+					},
+					{
+						"correct": "Act 3",
+						"difficulty": "Easy",
+						"explanation": "It is one of the three final bosses of the standard run.",
+						"image_url": "",
+						"question": "In which Act is the Awakened One a possible boss?",
+						"wrong": [
+							"Act 1",
+							"Act 2",
+							"Act 4"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "After you deplete its first health bar, it 'awakens' and revives with a second bar.",
+						"image_url": "",
+						"question": "How many phases does the Awakened One boss fight have?",
+						"wrong": [
+							"One",
+							"Three",
+							"Four"
+						]
+					},
+					{
+						"correct": "Curiosity",
+						"difficulty": "Easy",
+						"explanation": "Curiosity gives the boss Strength every time you play a Power card in Phase 1.",
+						"image_url": "",
+						"question": "What mechanic does the Awakened One use to punish players for playing Power cards?",
+						"wrong": [
+							"Power Drain",
+							"Anti-Magic",
+							"Silence"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "These cultists should be taken down quickly to reduce incoming damage.",
+						"image_url": "",
+						"question": "True or False: The Awakened One is accompanied by two Cultists at the start of the fight.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "It disappears",
+						"difficulty": "Medium",
+						"explanation": "In Phase 2, you can safely play all your remaining Power cards.",
+						"image_url": "https://skillcheckgame.com/assets/images/awakened_one.webp",
+						"question": "What happens to the Awakened One's 'Curiosity' buff in Phase 2?",
+						"wrong": [
+							"It doubles",
+							"It stays the same",
+							"It starts healing him"
+						]
+					},
+					{
+						"correct": "Dark Echo",
+						"difficulty": "Medium",
+						"explanation": "Dark Echo is a powerful multi-hit that scales with any Strength the boss gained in Phase 1.",
+						"image_url": "",
+						"question": "What is the name of the multi-hit attack the boss uses in Phase 2?",
+						"wrong": [
+							"Feather Storm",
+							"Sky Attack",
+							"Void Blast"
+						]
+					},
+					{
+						"correct": "1",
+						"difficulty": "Medium",
+						"explanation": "While it's only 1 Strength, it applies to both of his attacks every turn.",
+						"image_url": "",
+						"question": "How much Strength does the boss gain from Curiosity for every Power card played on standard difficulty?",
+						"wrong": [
+							"2",
+							"3",
+							"5"
+						]
+					},
+					{
+						"correct": "The Defect",
+						"difficulty": "Medium",
+						"explanation": "The Defect relies heavily on Power cards to setup orb scaling.",
+						"image_url": "",
+						"question": "Which hero has the most Power-heavy decks that are traditionally weak to the Awakened One?",
+						"wrong": [
+							"The Ironclad",
+							"The Silent",
+							"The Watcher"
+						]
+					},
+					{
+						"correct": "Purity",
+						"difficulty": "Medium",
+						"explanation": "Purity is the general achievement for completing Act 3 with any character.",
+						"image_url": "",
+						"question": "What is the name of the achievement for defeating the Awakened One?",
+						"wrong": [
+							"Deicide",
+							"The Bird is the Word",
+							"Ascended"
+						]
+					},
+					{
+						"correct": "320",
+						"difficulty": "Hard",
+						"explanation": "It starts with a smaller health pool in Phase 2 but attacks much more aggressively.",
+						"image_url": "https://skillcheckgame.com/assets/images/awakened_one.webp",
+						"question": "In the 'Second Phase', what is the boss's HP total on Ascension 20?",
+						"wrong": [
+							"250",
+							"400",
+							"500"
+						]
+					},
+					{
+						"correct": "The boss's chest opens up and it looks more demonic",
+						"difficulty": "Hard",
+						"explanation": "The transformation is quite gruesome, revealing a void-like interior.",
+						"image_url": "",
+						"question": "What is the visual difference between Phase 1 and Phase 2?",
+						"wrong": [
+							"It turns gold",
+							"It grows a second head",
+							"It loses its wings"
+						]
+					},
+					{
+						"correct": "Void",
+						"difficulty": "Hard",
+						"explanation": "Void cards reduce your Energy on the turn they are drawn.",
+						"image_url": "",
+						"question": "Which of these status cards does the Awakened One add to your deck in Phase 2?",
+						"wrong": [
+							"Dazed",
+							"Burn",
+							"Slimed"
+						]
+					},
+					{
+						"correct": "It is a cosmic being that was sleeping within the Spire",
+						"difficulty": "Hard",
+						"explanation": "The cultists believe its 'awakening' will bring about a new era.",
+						"image_url": "",
+						"question": "What is the lore reason the boss is called the 'Awakened One'?",
+						"wrong": [
+							"It just woke up from a nap",
+							"It was a human who achieved enlightenment",
+							"It is the Heart's child"
+						]
+					},
+					{
+						"correct": "None, but Orange Pellets can clear your debuffs",
+						"difficulty": "Hard",
+						"explanation": "There is no relic to stop Curiosity, though some can help mitigate the damage.",
+						"image_url": "",
+						"question": "Which relic prevents the Awakened One from gaining Strength from your Power cards?",
+						"wrong": [
+							"Bird-Faced Urn",
+							"Cultist Mask",
+							"The Boot"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_awakened_one",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "Awakened One",
+				"lore_desc": "The enigmatic deity of the Spire's cultists who undergoes a terrifying transformation during battle.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"God",
+					"Bird"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sleeping",
+						"difficulty": "Easy",
+						"explanation": "Lagavulin is a 'sleeping' elite that doesn't attack until you hit it or 3 turns pass.",
+						"image_url": "https://skillcheckgame.com/assets/images/lagavulin.webp",
+						"question": "What is Lagavulin doing when you first enter its combat room?",
+						"wrong": [
+							"Eating",
+							"Attacking",
+							"Flying"
+						]
+					},
+					{
+						"correct": "Act 1",
+						"difficulty": "Easy",
+						"explanation": "It is one of the three Elites in the first Act.",
+						"image_url": "",
+						"question": "In which Act is Lagavulin found?",
+						"wrong": [
+							"Act 2",
+							"Act 3",
+							"Act 4"
+						]
+					},
+					{
+						"correct": "A shelled crustacean/crab-like creature",
+						"difficulty": "Easy",
+						"explanation": "It resembles a prehistoric crab or trilobite inside a massive shell.",
+						"image_url": "",
+						"question": "What kind of creature is Lagavulin?",
+						"wrong": [
+							"A ghost",
+							"A bird",
+							"A giant snake"
+						]
+					},
+					{
+						"correct": "Reduces Strength and Dexterity",
+						"difficulty": "Easy",
+						"explanation": "Its 'Siphon Soul' ability makes you weaker and weaker as the fight continues.",
+						"image_url": "",
+						"question": "What does Lagavulin do to your stats every few turns?",
+						"wrong": [
+							"Reduces Max HP",
+							"Reduces Gold",
+							"Reduces Energy"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "It wakes up automatically at the end of turn 3.",
+						"image_url": "",
+						"question": "True or False: If you don't attack Lagavulin, it will eventually wake up on its own.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "You can play Power cards or setup before attacking",
+						"difficulty": "Medium",
+						"explanation": "The 'setup' turns are crucial for getting your key buffs in play.",
+						"image_url": "https://skillcheckgame.com/assets/images/lagavulin.webp",
+						"question": "What is the primary benefit of Lagavulin being asleep at the start?",
+						"wrong": [
+							"You can steal its treasure and leave",
+							"You can heal to full",
+							"You can skip the fight"
+						]
+					},
+					{
+						"correct": "2",
+						"difficulty": "Medium",
+						"explanation": "Losing 2 Strength and Dex every few turns creates a strict time limit for the player.",
+						"image_url": "",
+						"question": "How much Strength and Dexterity does Lagavulin remove with its debuff?",
+						"wrong": [
+							"1",
+							"3",
+							"5"
+						]
+					},
+					{
+						"correct": "Attack",
+						"difficulty": "Medium",
+						"explanation": "Lagavulin simply has a heavy 'Attack' that hits for high damage (20 on turn 1 of waking).",
+						"image_url": "",
+						"question": "Which of these is the name of Lagavulin's heavy attack?",
+						"wrong": [
+							"Shell Slam",
+							"Claw Crush",
+							"Ancient Power"
+						]
+					},
+					{
+						"correct": "It wakes up immediately",
+						"difficulty": "Medium",
+						"explanation": "Any damage dealt to Lagavulin will wake it up.",
+						"image_url": "",
+						"question": "What happens if you use a Skill card like 'Shield Bash' (which is an attack) while it sleeps?",
+						"wrong": [
+							"It stays asleep",
+							"It heals",
+							"It dies"
+						]
+					},
+					{
+						"correct": "Scotch Whisky",
+						"difficulty": "Medium",
+						"explanation": "The developers named several enemies after drinks and spirits.",
+						"image_url": "",
+						"question": "Lagavulin is also the name of a famous brand of what real-world product?",
+						"wrong": [
+							"Cars",
+							"Watches",
+							"Shoes"
+						]
+					},
+					{
+						"correct": "109 to 111",
+						"difficulty": "Hard",
+						"explanation": "It is the tankiest Elite in Act 1, requiring high consistent damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/lagavulin.webp",
+						"question": "How many HP does Lagavulin have on standard difficulty?",
+						"wrong": [
+							"80 to 90",
+							"150 to 160",
+							"200"
+						]
+					},
+					{
+						"correct": "2 (but it happens more frequently)",
+						"difficulty": "Hard",
+						"explanation": "The drain is still 2, but the pattern becomes more aggressive at high Ascension.",
+						"image_url": "",
+						"question": "On Ascension 18, how much Strength/Dexterity does Lagavulin drain?",
+						"wrong": [
+							"3",
+							"4",
+							"5"
+						]
+					},
+					{
+						"correct": "Preserved Insect",
+						"difficulty": "Hard",
+						"explanation": "Wait, Preserved Insect actually reduces the Max HP of Elites by 25 percent. It doesn't deal flat damage.",
+						"image_url": "",
+						"question": "Which relic specifically helps against Lagavulin by dealing 52 damage when its health is below 50 percent?",
+						"wrong": [
+							"Mercury Hourglass",
+							"The Boot",
+							"Vajra"
+						]
+					},
+					{
+						"correct": "Two attacks followed by a debuff",
+						"difficulty": "Hard",
+						"explanation": "Learning the two-attack cycle is vital for knowing when to block and when to strike.",
+						"image_url": "",
+						"question": "What is the pattern of Lagavulin's actions?",
+						"wrong": [
+							"One attack followed by a debuff",
+							"Three attacks then a rest",
+							"Random"
+						]
+					},
+					{
+						"correct": "Siphon Soul",
+						"difficulty": "Hard",
+						"explanation": "It is officially labeled Siphon Soul in the combat text.",
+						"image_url": "",
+						"question": "In the game files, what is the 'internal' name for Lagavulin's soul-drain effect?",
+						"wrong": [
+							"Drain",
+							"Ancient Curse",
+							"Shell Shock"
+						]
+					}
+				]
+			},
+			"id": "slay_the_spire_lagavulin",
+			"meta": {
+				"date_added": "2026-03-27",
+				"entity_category": "Theme Item",
+				"full_title": "Lagavulin",
+				"lore_desc": "A prehistoric crustacean that sleeps in its shell until disturbed by the player.",
+				"theme_origin": "slay the spire",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Elite",
+					"Monster",
+					"Ancient"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -92461,6 +95691,15 @@
 						"Lara Croft"
 					],
 					"name": "Leading Ladies"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Merchant",
+						"The Boot",
+						"Snecko"
+					],
+					"name": "Capitalism"
 				}
 			]
 		},
@@ -94776,12 +98015,133 @@
 					"name": "Checkmate"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Caesar",
 						"Legate Lanius"
 					],
 					"name": "Caesar's Right Hand"
+				}
+			]
+		},
+		{
+			"id": "slay the spire",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Ironclad",
+						"The Silent",
+						"The Defect"
+					],
+					"name": "The Original Trio"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Time Eater",
+						"Donu and Deca",
+						"Awakened One"
+					],
+					"name": "Beyond the Spire"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Neow",
+						"The Spire",
+						"The Corrupt Heart"
+					],
+					"name": "The Cycle of Resurrection"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Lagavulin",
+						"Awakened One",
+						"The Watcher"
+					],
+					"name": "Sleeping Threats"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Ironclad",
+						"Donu and Deca"
+					],
+					"name": "Ooh Donut!"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Cultist",
+						"Awakened One"
+					],
+					"name": "The Ritual"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Watcher",
+						"The Time Eater"
+					],
+					"name": "Never Liked You..."
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gremlin Nob",
+						"The Time Eater"
+					],
+					"name": "Skill Issue"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Neow",
+						"The Merchant"
+					],
+					"name": "Blessings and Bargains"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Snecko",
+						"The Defect"
+					],
+					"name": "Pure Chaos"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Boot",
+						"The Corrupt Heart"
+					],
+					"name": "The Ultimate Insult"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gremlin Nob",
+						"The Silent"
+					],
+					"name": "Enrage"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Spire",
+						"The Corrupt Heart"
+					],
+					"name": "The True Ending"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"The Cultist",
+						"The Defect"
+					],
+					"name": "My Power is Unmatched!"
 				}
 			]
 		}
