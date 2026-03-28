@@ -120764,7 +120764,192 @@
 		},
 		{
 			"id": "the sims",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 2000,
+					"items": [
+						"Bella Goth",
+						"Mortimer Goth"
+					],
+					"name": "Goth Family"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Plumbob",
+						"Simoleons"
+					],
+					"name": "Sul Sul!"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Cowplant",
+						"The Grim Reaper"
+					],
+					"name": "Death's Garden"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Landgraab Family",
+						"Simoleons"
+					],
+					"name": "Old Money"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Bella Goth",
+						"Mortimer Goth",
+						"Bob Newbie"
+					],
+					"name": "Pleasantview Residents"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Strangetown",
+						"Tragic Clown",
+						"Social Bunny"
+					],
+					"name": "Weirdos Next Door"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Bonehilda",
+						"The Grim Reaper"
+					],
+					"name": "Supernatural Servants"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Mrs. Crumplebottom",
+						"Pleasantview"
+					],
+					"name": "Neighbourhood Watch"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Freezer Bunny",
+						"Plumbob"
+					],
+					"name": "Fan Favourites"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Cowplant",
+						"The Mother Plant"
+					],
+					"name": "Deadly Flora"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Landgraab Family",
+						"Mortimer Goth",
+						"Bella Goth"
+					],
+					"name": "Rich & Powerful"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Bonehilda",
+						"Tragic Clown",
+						"The Grim Reaper"
+					],
+					"name": "Haunted Household"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Bob Newbie",
+						"Simoleons",
+						"Plumbob"
+					],
+					"name": "Humble Beginnings"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Strangetown",
+						"Pleasantview"
+					],
+					"name": "Urban Legends"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Mrs. Crumplebottom",
+						"Social Bunny"
+					],
+					"name": "Party Crashers"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Social Bunny",
+						"Freezer Bunny"
+					],
+					"name": "Imaginary Friends"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Bella Goth",
+						"Strangetown"
+					],
+					"name": "Mysterious Disappearance"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Cowplant",
+						"The Grim Reaper",
+						"The Mother Plant"
+					],
+					"name": "Garden of Death"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Freezer Bunny",
+						"Plumbob",
+						"Cowplant"
+					],
+					"name": "Sim Mascots"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Tragic Clown",
+						"Mrs. Crumplebottom",
+						"Bonehilda"
+					],
+					"name": "Unwelcome Guests"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Bonehilda",
+						"Bob Newbie"
+					],
+					"name": "Skeleton Crew"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"The Mother Plant",
+						"Landgraab Family"
+					],
+					"name": "Overgrown"
+				}
+			]
 		}
 	],
 	"titles": {
