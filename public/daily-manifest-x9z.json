@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774713481,
+	"last_updated": 1774734693,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2808,7 +2808,7 @@
 			"submitted_by": ""
 		},
 		"2026-03-30": {
-			"daily_type": "mystery",
+			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
 			"motd": "Stardew Valley",
@@ -2849,6 +2849,248 @@
 				"stardew_valley_prismatic_shard",
 				"stardew_valley_community_center",
 				"stardew_valley_grandpa"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-31": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Metal Gear Solid",
+			"share_text": "Kept you waiting, huh? ",
+			"shops": [
+				{
+					"p1": "strategy_guide",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "overclock_chip"
+				},
+				{
+					"p1": "second_chance",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"metal_gear_solid_solid_snake",
+				"metal_gear_solid_psycho_mantis",
+				"metal_gear_solid_meryl_silverburgh"
+			],
+			"starters": [
+				"metal_gear_solid_solid_snake",
+				"metal_gear_solid_liquid_snake",
+				"metal_gear_solid_big_boss",
+				"metal_gear_solid_revolver_ocelot",
+				"metal_gear_solid_metal_gear_rex",
+				"metal_gear_solid_the_boss",
+				"metal_gear_solid_psycho_mantis",
+				"metal_gear_solid_otacon",
+				"metal_gear_solid_meryl_silverburgh",
+				"metal_gear_solid_gray_fox",
+				"metal_gear_solid_raiden",
+				"metal_gear_solid_shadow_moses",
+				"metal_gear_solid_cardboard_box",
+				"metal_gear_solid_stealth_camouflage",
+				"metal_gear_solid_solidus_snake",
+				"metal_gear_solid_kazuhira_miller"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-01": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Who's That? Nintendo Edition",
+			"share_text": "April Fools! Can you name the silhouettes?",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "save_state"
+				}
+			],
+			"showcase": [
+				"nintendo_all_stars_link",
+				"nintendo_all_stars_mario",
+				"nintendo_all_stars_pikachu"
+			],
+			"starters": [
+				"nintendo_all_stars_mario",
+				"nintendo_all_stars_link",
+				"nintendo_all_stars_pikachu",
+				"nintendo_all_stars_samus_aran",
+				"nintendo_all_stars_kirby",
+				"nintendo_all_stars_donkey_kong",
+				"nintendo_all_stars_yoshi",
+				"nintendo_all_stars_fox_mccloud",
+				"nintendo_all_stars_captain_falcon",
+				"nintendo_all_stars_isabelle",
+				"nintendo_all_stars_inkling",
+				"nintendo_all_stars_tom_nook",
+				"nintendo_all_stars_bowser",
+				"nintendo_all_stars_princess_peach",
+				"nintendo_all_stars_marth",
+				"nintendo_all_stars_olimar",
+				"nintendo_all_stars_luigi",
+				"nintendo_all_stars_zelda",
+				"nintendo_all_stars_charizard",
+				"nintendo_all_stars_diddy_kong",
+				"nintendo_all_stars_wario",
+				"nintendo_all_stars_ganondorf",
+				"nintendo_all_stars_rosalina",
+				"nintendo_all_stars_meta_knight",
+				"nintendo_all_stars_pit",
+				"nintendo_all_stars_little_mac",
+				"nintendo_all_stars_villager",
+				"nintendo_all_stars_ridley",
+				"nintendo_all_stars_king_dedede",
+				"nintendo_all_stars_shulk",
+				"nintendo_all_stars_lucina",
+				"nintendo_all_stars_toad"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-02": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Hollow Knight",
+			"share_text": "No cost too great for a perfect score",
+			"shops": [
+				{
+					"p1": "game_shark",
+					"p2": "training_mode"
+				},
+				{
+					"p1": "s_video",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "overclock_chip",
+					"p2": "cooling_fan"
+				}
+			],
+			"showcase": [
+				"hollow_knight_the_knight",
+				"hollow_knight_hornet",
+				"hollow_knight_zote_the_mighty"
+			],
+			"starters": [
+				"hollow_knight_the_knight",
+				"hollow_knight_hornet",
+				"hollow_knight_hallownest",
+				"hollow_knight_the_grubfather",
+				"hollow_knight_elderbug",
+				"hollow_knight_the_radiance",
+				"hollow_knight_zote_the_mighty",
+				"hollow_knight_cornifer",
+				"hollow_knight_the_mantis_lords",
+				"hollow_knight_quirrel",
+				"hollow_knight_the_hollow_knight",
+				"hollow_knight_city_of_tears",
+				"hollow_knight_dirtmouth",
+				"hollow_knight_geo",
+				"hollow_knight_charms",
+				"hollow_knight_soul"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-03": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "The Sims",
+			"share_text": "Sul sul! Time for trivia",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "power_supply"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "double_adapter"
+				}
+			],
+			"showcase": [
+				"the_sims_bella_goth",
+				"the_sims_plumbob",
+				"the_sims_pleasantview"
+			],
+			"starters": [
+				"the_sims_bella_goth",
+				"the_sims_plumbob",
+				"the_sims_simoleons",
+				"the_sims_cowplant",
+				"the_sims_the_grim_reaper",
+				"the_sims_bonehilda",
+				"the_sims_pleasantview",
+				"the_sims_strangetown",
+				"the_sims_the_mother_plant",
+				"the_sims_bob_newbie",
+				"the_sims_freezer_bunny",
+				"the_sims_mortimer_goth",
+				"the_sims_landgraab_family",
+				"the_sims_mrs._crumplebottom",
+				"the_sims_social_bunny",
+				"the_sims_tragic_clown"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-04": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Red Dead Redemption 2",
+			"share_text": "I HAVE A PLAN",
+			"shops": [
+				{
+					"p1": "memory_card",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "game_shark",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "second_chance"
+				}
+			],
+			"showcase": [
+				"red_dead_redemption_2_arthur_morgan",
+				"red_dead_redemption_2_john_marston",
+				"red_dead_redemption_2_dutch_van_der_linde"
+			],
+			"starters": [
+				"red_dead_redemption_2_arthur_morgan",
+				"red_dead_redemption_2_dutch_van_der_linde",
+				"red_dead_redemption_2_john_marston",
+				"red_dead_redemption_2_sadie_adler",
+				"red_dead_redemption_2_micah_bell",
+				"red_dead_redemption_2_saint_denis",
+				"red_dead_redemption_2_valentine",
+				"red_dead_redemption_2_blackwater",
+				"red_dead_redemption_2_the_van_der_linde_gang",
+				"red_dead_redemption_2_hosea_matthews",
+				"red_dead_redemption_2_charles_smith",
+				"red_dead_redemption_2_lenny_summers",
+				"red_dead_redemption_2_beecher's_hope",
+				"red_dead_redemption_2_guarma",
+				"red_dead_redemption_2_pinkerton_agency",
+				"red_dead_redemption_2_bill_williamson",
+				"red_dead_redemption_2_abigail_roberts"
 			],
 			"submitted_by": ""
 		}
