@@ -106816,6 +106816,2694 @@
 					"Mentor"
 				]
 			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Mario",
+						"difficulty": "Easy",
+						"explanation": "Mario first appeared as 'Jumpman' in the 1981 arcade game Donkey Kong before getting his own series.",
+						"image_url": "https://skillcheckgame.com/assets/images/mario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Pikachu",
+							"Donkey Kong"
+						]
+					},
+					{
+						"correct": "Mario",
+						"difficulty": "Easy",
+						"explanation": "Created by Shigeru Miyamoto, he was originally a carpenter before his profession was changed to plumber.",
+						"image_url": "https://skillcheckgame.com/assets/images/mario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Toad",
+							"Yoshi",
+							"Wario"
+						]
+					},
+					{
+						"correct": "Mario",
+						"difficulty": "Medium",
+						"explanation": "His full name is officially Mario Mario, a fact confirmed by Miyamoto during the character's 30th anniversary.",
+						"image_url": "https://skillcheckgame.com/assets/images/mario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Luigi",
+							"Waluigi",
+							"Wario"
+						]
+					},
+					{
+						"correct": "Mario",
+						"difficulty": "Medium",
+						"explanation": "His iconic red cap was originally designed so the developers wouldn't have to animate realistic hair movement.",
+						"image_url": "https://skillcheckgame.com/assets/images/mario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dr. Mario",
+							"Metal Mario",
+							"Paper Mario"
+						]
+					},
+					{
+						"correct": "Mario",
+						"difficulty": "Hard",
+						"explanation": "In the game Super Mario Bros., he wears a red shirt with brown overalls, which is the reverse of his modern color scheme.",
+						"image_url": "https://skillcheckgame.com/assets/images/mario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Luigi",
+							"Jumpman",
+							"Stanley"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_mario",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Mario",
+				"lore_desc": "The face of Nintendo, a versatile hero who has saved the Mushroom Kingdom countless times.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Red Hat Plumber",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Mascot",
+					"Plumber"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Link",
+						"difficulty": "Easy",
+						"explanation": "He is often confused with the titular princess, but he is the protagonist and primary player character.",
+						"image_url": "https://skillcheckgame.com/assets/images/link.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Zelda",
+							"Ganondorf",
+							"Kirby"
+						]
+					},
+					{
+						"correct": "Link",
+						"difficulty": "Easy",
+						"explanation": "His design was inspired by Peter Pan, which explains his pointed ears, green tunic, and association with fairies.",
+						"image_url": "https://skillcheckgame.com/assets/images/link.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pit",
+							"Marth",
+							"Ike"
+						]
+					},
+					{
+						"correct": "Link",
+						"difficulty": "Medium",
+						"explanation": "While usually left-handed, he became right-handed in the Wii version of Twilight Princess to accommodate motion controls.",
+						"image_url": "https://skillcheckgame.com/assets/images/link.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Sheik",
+							"Tingle",
+							"Sidon"
+						]
+					},
+					{
+						"correct": "Link",
+						"difficulty": "Medium",
+						"explanation": "The name of the character was chosen because he was intended to be the 'link' between the player and the game world.",
+						"image_url": "https://skillcheckgame.com/assets/images/link.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Link",
+							"Zelda",
+							"Impa"
+						]
+					},
+					{
+						"correct": "Link",
+						"difficulty": "Hard",
+						"explanation": "He is one of the few characters to appear in almost every entry of his franchise as a different historical reincarnation.",
+						"image_url": "https://skillcheckgame.com/assets/images/link.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Young Link",
+							"Toon Link",
+							"Fierce Deity"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_link",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Link",
+				"lore_desc": "The courageous bearer of the Triforce of Courage who constantly reincarnates to protect Hyrule.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Hyrulean Swordsman",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Fantasy",
+					"Swordsman"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Pikachu",
+						"difficulty": "Easy",
+						"explanation": "Its name is a combination of 'pika,' the sound of an electric spark, and 'chu,' the sound of a mouse's squeak.",
+						"image_url": "https://skillcheckgame.com/assets/images/pikachu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charizard",
+							"Squirtle",
+							"Bulbasaur"
+						]
+					},
+					{
+						"correct": "Pikachu",
+						"difficulty": "Easy",
+						"explanation": "Though it is the franchise mascot now, Clefairy was originally considered for the role in the early development of the anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/pikachu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Jigglypuff",
+							"Meowth",
+							"Eevee"
+						]
+					},
+					{
+						"correct": "Pikachu",
+						"difficulty": "Medium",
+						"explanation": "Female members of this species can be identified by a heart-shaped indentation at the end of their lightning-bolt tails.",
+						"image_url": "https://skillcheckgame.com/assets/images/pikachu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Raichu",
+							"Pichu",
+							"Pawmi"
+						]
+					},
+					{
+						"correct": "Pikachu",
+						"difficulty": "Medium",
+						"explanation": "In the original games, its sprite was significantly more 'chunky' than the slimmed-down design seen today.",
+						"image_url": "https://skillcheckgame.com/assets/images/pikachu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dedenne",
+							"Togedemaru",
+							"Plusle"
+						]
+					},
+					{
+						"correct": "Pikachu",
+						"difficulty": "Hard",
+						"explanation": "It was the first Pokemon created for the series that was specifically designed to be 'cute' to appeal to all audiences.",
+						"image_url": "https://skillcheckgame.com/assets/images/pikachu.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mimikyu",
+							"Raichu",
+							"Pichu"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_pikachu",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Pikachu",
+				"lore_desc": "The world-famous mascot of the Pokemon franchise, known for its yellow fur and electric cheeks.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Electric Mouse",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Electric",
+					"Mascot"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Samus Aran",
+						"difficulty": "Easy",
+						"explanation": "She was one of the first female protagonists in video game history, though many players assumed she was male in the 1986 original.",
+						"image_url": "https://skillcheckgame.com/assets/images/samus_aran.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mega Man",
+							"Master Chief",
+							"Fox McCloud"
+						]
+					},
+					{
+						"correct": "Samus Aran",
+						"difficulty": "Easy",
+						"explanation": "Her iconic suit allows her to compress into a 'Morph Ball,' a mechanic originally created because animating a crawl was too difficult.",
+						"image_url": "https://skillcheckgame.com/assets/images/samus_aran.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ridley",
+							"Zero Suit",
+							"Captain Falcon"
+						]
+					},
+					{
+						"correct": "Samus Aran",
+						"difficulty": "Medium",
+						"explanation": "Her Varia Suit is easily recognizable by its oversized round pauldrons, which protect her from extreme temperatures.",
+						"image_url": "https://skillcheckgame.com/assets/images/samus_aran.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Samus",
+							"Sylux",
+							"Anthony Higgs"
+						]
+					},
+					{
+						"correct": "Samus Aran",
+						"difficulty": "Medium",
+						"explanation": "After her parents were killed by Space Pirates, she was raised by the Chozo, who infused her with their DNA.",
+						"image_url": "https://skillcheckgame.com/assets/images/samus_aran.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Raven Beak",
+							"Mother Brain",
+							"Chozo Soldier"
+						]
+					},
+					{
+						"correct": "Samus Aran",
+						"difficulty": "Hard",
+						"explanation": "She made a secret cameo in Super Mario RPG, where she can be found sleeping in the guest room at Mushroom Castle.",
+						"image_url": "https://skillcheckgame.com/assets/images/samus_aran.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"SA-X",
+							"Dark Samus",
+							"Gandrayda"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_samus_aran",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Samus Aran",
+				"lore_desc": "An intergalactic bounty hunter clad in a powerful Power Suit, orphan raised by the ancient Chozo.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Galactic Bounty Hunter",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Sci-Fi",
+					"Bounty Hunter"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Kirby",
+						"difficulty": "Easy",
+						"explanation": "He was named after John Kirby, the lawyer who successfully defended Nintendo in a lawsuit against Universal City Studios.",
+						"image_url": "https://skillcheckgame.com/assets/images/kirby.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Jigglypuff",
+							"Yoshi"
+						]
+					},
+					{
+						"correct": "Kirby",
+						"difficulty": "Easy",
+						"explanation": "He is known as the 'Super Star' of Dream Land and resides on a star-shaped planet called Popstar.",
+						"image_url": "https://skillcheckgame.com/assets/images/kirby.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"King Dedede",
+							"Meta Knight",
+							"Waddle Dee"
+						]
+					},
+					{
+						"correct": "Kirby",
+						"difficulty": "Medium",
+						"explanation": "His round design was originally intended to be a placeholder sprite until the developers could think of something better.",
+						"image_url": "https://skillcheckgame.com/assets/images/kirby.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Prince Fluff",
+							"Gooey",
+							"Marx"
+						]
+					},
+					{
+						"correct": "Kirby",
+						"difficulty": "Medium",
+						"explanation": "In many Western game covers, his eyes are drawn with 'angry' eyebrows to make him look tougher compared to the Japanese versions.",
+						"image_url": "https://skillcheckgame.com/assets/images/kirby.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Meta Knight",
+							"King Dedede",
+							"Galacta Knight"
+						]
+					},
+					{
+						"correct": "Kirby",
+						"difficulty": "Hard",
+						"explanation": "Despite being pink, his first outing on the Game Boy in 1992 showed him as white on the box art because the hardware lacked color.",
+						"image_url": "https://skillcheckgame.com/assets/images/kirby.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Void Termina",
+							"Zero",
+							"Dark Matter"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_kirby",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Kirby",
+				"lore_desc": "A small, round hero from Planet Popstar who can inhale enemies to copy their abilities.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Pink Puffball",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Dream Land",
+					"Alien"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Donkey Kong",
+						"difficulty": "Easy",
+						"explanation": "His name 'Donkey' was chosen because Miyamoto believed the word meant 'stupid' or 'stubborn' in English.",
+						"image_url": "https://skillcheckgame.com/assets/images/donkey_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"King K. Rool",
+							"Banjo"
+						]
+					},
+					{
+						"correct": "Donkey Kong",
+						"difficulty": "Easy",
+						"explanation": "The current character is actually the grandson of the original arcade version, who is now known as Cranky Kong.",
+						"image_url": "https://skillcheckgame.com/assets/images/donkey_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Diddy Kong",
+							"Cranky Kong",
+							"Funky Kong"
+						]
+					},
+					{
+						"correct": "Donkey Kong",
+						"difficulty": "Medium",
+						"explanation": "His trademark red tie was added to his design when Rare redesigned him for Donkey Kong Country on the SNES.",
+						"image_url": "https://skillcheckgame.com/assets/images/donkey_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"King Dedede",
+							"Wario"
+						]
+					},
+					{
+						"correct": "Donkey Kong",
+						"difficulty": "Medium",
+						"explanation": "Universal Studios sued Nintendo over this character, claiming he infringed on their King Kong trademark, but they lost the case.",
+						"image_url": "https://skillcheckgame.com/assets/images/donkey_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Chunky Kong",
+							"Lanky Kong",
+							"Tiny Kong"
+						]
+					},
+					{
+						"correct": "Donkey Kong",
+						"difficulty": "Hard",
+						"explanation": "He was the first character in video game history to have a musical 'rap' intro, famously known as the DK Rap.",
+						"image_url": "https://skillcheckgame.com/assets/images/donkey_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Diddy Kong",
+							"Dixie Kong",
+							"Kiddy Kong"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_donkey_kong",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Donkey Kong",
+				"lore_desc": "The powerful leader of the DK Crew who protects his Banana Hoard from the villainous Kremlings.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "King of the Jungle",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Ape",
+					"Jungle"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Yoshi",
+						"difficulty": "Easy",
+						"explanation": "His full scientific name is officially recorded as T. Yoshisaur Munchakoopas.",
+						"image_url": "https://skillcheckgame.com/assets/images/yoshi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mario",
+							"Bowser Jr.",
+							"Poochy"
+						]
+					},
+					{
+						"correct": "Yoshi",
+						"difficulty": "Easy",
+						"explanation": "Miyamoto wanted Mario to ride a dinosaur ever since the first game, but technical limitations delayed his debut until Super Mario World.",
+						"image_url": "https://skillcheckgame.com/assets/images/yoshi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Toad",
+							"Koopa Troopa",
+							"Goomba"
+						]
+					},
+					{
+						"correct": "Yoshi",
+						"difficulty": "Medium",
+						"explanation": "While he is usually green, members of his species come in various colors including red, blue, yellow, and even pink.",
+						"image_url": "https://skillcheckgame.com/assets/images/yoshi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Birdo",
+							"Boshi",
+							"Rex"
+						]
+					},
+					{
+						"correct": "Yoshi",
+						"difficulty": "Medium",
+						"explanation": "He is famous for his 'Flutter Jump,' a move that allows him to gain a small amount of extra height by kicking his legs in the air.",
+						"image_url": "https://skillcheckgame.com/assets/images/yoshi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kamek",
+							"Baby Mario",
+							"Baby Luigi"
+						]
+					},
+					{
+						"correct": "Yoshi",
+						"difficulty": "Hard",
+						"explanation": "In the early concept art, he looked more like a traditional horse-like dragon before evolving into his cute, upright appearance.",
+						"image_url": "https://skillcheckgame.com/assets/images/yoshi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Birdo",
+							"Boshi",
+							"Poochy"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_yoshi",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Yoshi",
+				"lore_desc": "A friendly dinosaur from Yoshi's Island who often carries Mario into battle.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Helpful Dinosaur",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Dinosaur",
+					"Mushroom Kingdom"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Fox McCloud",
+						"difficulty": "Easy",
+						"explanation": "His design was inspired by the Inari fox deity at a shrine located near Nintendo's headquarters in Kyoto.",
+						"image_url": "https://skillcheckgame.com/assets/images/fox_mccloud.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Falco Lombardi",
+							"Slippy Toad",
+							"Peppy Hare"
+						]
+					},
+					{
+						"correct": "Fox McCloud",
+						"difficulty": "Easy",
+						"explanation": "He took over as leader of the Star Fox team after his father, James McCloud, disappeared during a mission.",
+						"image_url": "https://skillcheckgame.com/assets/images/fox_mccloud.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Wolf O'Donnell",
+							"Leon Powalski",
+							"Andrew Oikonny"
+						]
+					},
+					{
+						"correct": "Fox McCloud",
+						"difficulty": "Medium",
+						"explanation": "In the original SNES game, his character model and those of his teammates were based on puppets.",
+						"image_url": "https://skillcheckgame.com/assets/images/fox_mccloud.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Falco Lombardi",
+							"Krystal",
+							"Peppy Hare"
+						]
+					},
+					{
+						"correct": "Fox McCloud",
+						"difficulty": "Medium",
+						"explanation": "His signature aircraft, the Arwing, is equipped with a G-Diffuser system that allows it to perform high-speed barrel rolls.",
+						"image_url": "https://skillcheckgame.com/assets/images/fox_mccloud.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Wolf O'Donnell",
+							"James McCloud",
+							"General Pepper"
+						]
+					},
+					{
+						"correct": "Fox McCloud",
+						"difficulty": "Hard",
+						"explanation": "There was a long-standing fan theory that he had his legs amputated to handle high G-forces, but this was debunked by Nintendo.",
+						"image_url": "https://skillcheckgame.com/assets/images/fox_mccloud.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Falco Lombardi",
+							"Wolf O'Donnell",
+							"Slippy Toad"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_fox_mccloud",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Fox McCloud",
+				"lore_desc": "The leader of the Star Fox mercenary team who pilots the Arwing to defend the Lylat System.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ace Pilot",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Pilot",
+					"Fox"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Captain Falcon",
+						"difficulty": "Easy",
+						"explanation": "While his games are about racing, he is best known by modern fans for his appearances in the Super Smash Bros. series.",
+						"image_url": "https://skillcheckgame.com/assets/images/captain_falcon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Samus Aran",
+							"Mega Man",
+							"Snake"
+						]
+					},
+					{
+						"correct": "Captain Falcon",
+						"difficulty": "Easy",
+						"explanation": "He pilots the 'Blue Falcon,' one of the most balanced and iconic machines in the high-speed F-Zero racing league.",
+						"image_url": "https://skillcheckgame.com/assets/images/captain_falcon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Black Shadow",
+							"Samurai Goroh",
+							"Jody Summer"
+						]
+					},
+					{
+						"correct": "Captain Falcon",
+						"difficulty": "Medium",
+						"explanation": "He was originally created as a potential mascot for the Super Nintendo Entertainment System console launch.",
+						"image_url": "https://skillcheckgame.com/assets/images/captain_falcon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blood Falcon",
+							"Pico",
+							"Dr. Stewart"
+						]
+					},
+					{
+						"correct": "Captain Falcon",
+						"difficulty": "Medium",
+						"explanation": "He lives on a chain of private islands when he isn't racing, funded by his massive earnings as a top-tier bounty hunter.",
+						"image_url": "https://skillcheckgame.com/assets/images/captain_falcon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Black Shadow",
+							"Deathborn",
+							"Phoenix"
+						]
+					},
+					{
+						"correct": "Captain Falcon",
+						"difficulty": "Hard",
+						"explanation": "The instruction manual for the first F-Zero game includes a comic book that details his back-story as a bounty hunter.",
+						"image_url": "https://skillcheckgame.com/assets/images/captain_falcon.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Blood Falcon",
+							"Rick Wheeler",
+							"Captain 0"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_captain_falcon",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Captain Falcon",
+				"lore_desc": "A legendary F-Zero pilot and renowned bounty hunter known for his signature move, the Falcon Punch.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Intergalactic Racer",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Racer",
+					"Bounty Hunter"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Isabelle",
+						"difficulty": "Easy",
+						"explanation": "Her name is a pun on her head shape, which looks like a bell—literally meaning 'is a bell.'",
+						"image_url": "https://skillcheckgame.com/assets/images/isabelle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Tom Nook",
+							"K.K. Slider",
+							"Blathers"
+						]
+					},
+					{
+						"correct": "Isabelle",
+						"difficulty": "Easy",
+						"explanation": "She is a Shih Tzu dog, which reflects her name 'Shizue' in the Japanese version of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/isabelle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mabel",
+							"Sable",
+							"Celeste"
+						]
+					},
+					{
+						"correct": "Isabelle",
+						"difficulty": "Medium",
+						"explanation": "She has a twin brother named Digby, who usually works for the Happy Home Academy.",
+						"image_url": "https://skillcheckgame.com/assets/images/isabelle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Digby",
+							"Villager",
+							"Lottie"
+						]
+					},
+					{
+						"correct": "Isabelle",
+						"difficulty": "Medium",
+						"explanation": "She made her debut in Animal Crossing: New Leaf on the 3DS and quickly became one of the franchise's most popular characters.",
+						"image_url": "https://skillcheckgame.com/assets/images/isabelle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Leif",
+							"Brewster",
+							"Resetti"
+						]
+					},
+					{
+						"correct": "Isabelle",
+						"difficulty": "Hard",
+						"explanation": "She is known for her 'Aha!' moment when she gets an idea, often accompanied by a small lightbulb appearing over her head.",
+						"image_url": "https://skillcheckgame.com/assets/images/isabelle.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Digby",
+							"Mabel",
+							"Lottie"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_isabelle",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Isabelle",
+				"lore_desc": "The hard-working secretary from Animal Crossing who helps the Mayor or Island Representative manage their town.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Helpful Secretary",
+			"profiler": {
+				"vibe_tags": [
+					"Support",
+					"Animal",
+					"Town"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Inkling",
+						"difficulty": "Easy",
+						"explanation": "They belong to a species that evolved from squids after humans went extinct and oceans rose.",
+						"image_url": "https://skillcheckgame.com/assets/images/inkling.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mario",
+							"Kirby",
+							"Sonic"
+						]
+					},
+					{
+						"correct": "Inkling",
+						"difficulty": "Easy",
+						"explanation": "Their primary goal in Turf War is to cover the most ground with their team's color of ink within three minutes.",
+						"image_url": "https://skillcheckgame.com/assets/images/inkling.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Octoling",
+							"Callie",
+							"Marie"
+						]
+					},
+					{
+						"correct": "Inkling",
+						"difficulty": "Medium",
+						"explanation": "In their squid form, they can swim through their own ink to move faster and refill their ink tanks.",
+						"image_url": "https://skillcheckgame.com/assets/images/inkling.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Octoling",
+							"Smallfry",
+							"Judd"
+						]
+					},
+					{
+						"correct": "Inkling",
+						"difficulty": "Medium",
+						"explanation": "Their teeth are shaped in a specific way that reflects their squid origins, with three points resembling a beak.",
+						"image_url": "https://skillcheckgame.com/assets/images/inkling.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Frye",
+							"Shiver",
+							"Big Man"
+						]
+					},
+					{
+						"correct": "Inkling",
+						"difficulty": "Hard",
+						"explanation": "They are unable to swim in water, as their bodies are made of liquid ink that dissolves when submerged.",
+						"image_url": "https://skillcheckgame.com/assets/images/inkling.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Octoling",
+							"Callie",
+							"Marie"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_inkling",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Inkling",
+				"lore_desc": "Competitive youth who can transform between human and squid forms to participate in Turf Wars.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Colorful Squid Kid",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Squid",
+					"Shooter"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Tom Nook",
+						"difficulty": "Easy",
+						"explanation": "He is a tanuki (raccoon dog), a Japanese creature that folklore says can turn leaves into money.",
+						"image_url": "https://skillcheckgame.com/assets/images/tom_nook.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Isabelle",
+							"K.K. Slider",
+							"Mr. Resetti"
+						]
+					},
+					{
+						"correct": "Tom Nook",
+						"difficulty": "Easy",
+						"explanation": "In New Horizons, he expanded his business empire into the 'Deserted Island Getaway Package.'",
+						"image_url": "https://skillcheckgame.com/assets/images/tom_nook.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Timmy",
+							"Tommy",
+							"Blathers"
+						]
+					},
+					{
+						"correct": "Tom Nook",
+						"difficulty": "Medium",
+						"explanation": "He has a long-standing rivalry with Redd the fox, who he claims once swindled him in a business deal.",
+						"image_url": "https://skillcheckgame.com/assets/images/tom_nook.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Redd",
+							"Gracie",
+							"Saharah"
+						]
+					},
+					{
+						"correct": "Tom Nook",
+						"difficulty": "Medium",
+						"explanation": "Though they look like his sons, Timmy and Tommy are actually his apprentices and he refers to them as his pupils.",
+						"image_url": "https://skillcheckgame.com/assets/images/tom_nook.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Timmy",
+							"Tommy",
+							"Digby"
+						]
+					},
+					{
+						"correct": "Tom Nook",
+						"difficulty": "Hard",
+						"explanation": "In his younger days, he moved to the city to pursue his dreams, but he returned to the village after a mysterious 'unfortunate event.'",
+						"image_url": "https://skillcheckgame.com/assets/images/tom_nook.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Redd",
+							"Rover",
+							"Don Resetti"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_tom_nook",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Tom Nook",
+				"lore_desc": "The entrepreneurial manager of the town's shop and housing market, known for his interest-free loans.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Real Estate Tanuki",
+			"profiler": {
+				"vibe_tags": [
+					"Merchant",
+					"Animal",
+					"Business"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Bowser",
+						"difficulty": "Easy",
+						"explanation": "In Japan, he is known as 'Koopa,' which is derived from the Korean word for 'gukbap,' a type of soup.",
+						"image_url": "https://skillcheckgame.com/assets/images/bowser.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Donkey Kong",
+							"King K. Rool",
+							"Ridley"
+						]
+					},
+					{
+						"correct": "Bowser",
+						"difficulty": "Easy",
+						"explanation": "Miyamoto originally intended for him to be an ox, but his drawings were misinterpreted as a turtle.",
+						"image_url": "https://skillcheckgame.com/assets/images/bowser.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser Jr.",
+							"Ludwig",
+							"Morton"
+						]
+					},
+					{
+						"correct": "Bowser",
+						"difficulty": "Medium",
+						"explanation": "He has eight children in total: Bowser Jr. and the seven Koopalings, though their biological relationship is often debated.",
+						"image_url": "https://skillcheckgame.com/assets/images/bowser.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Giga Bowser",
+							"Dry Bowser",
+							"Bowser Jr."
+						]
+					},
+					{
+						"correct": "Bowser",
+						"difficulty": "Medium",
+						"explanation": "Despite his villainous nature, he has teamed up with Mario several times, first in Super Mario RPG.",
+						"image_url": "https://skillcheckgame.com/assets/images/bowser.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Wart",
+							"Tatanga",
+							"Kamek"
+						]
+					},
+					{
+						"correct": "Bowser",
+						"difficulty": "Hard",
+						"explanation": "The spikes on his shell are not just for defense; he can also use them to perform a devastating rolling attack.",
+						"image_url": "https://skillcheckgame.com/assets/images/bowser.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Giga Bowser",
+							"Dry Bowser",
+							"Midbus"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_bowser",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Bowser",
+				"lore_desc": "The King of the Koopas and Mario's arch-nemesis, who frequently kidnaps Princess Peach.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Koopa King",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"King",
+					"Monster"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Easy",
+						"explanation": "She was originally known as Princess Toadstool in Western regions until her name was unified to Peach in 1996.",
+						"image_url": "https://skillcheckgame.com/assets/images/princess_peach.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Princess Daisy",
+							"Rosalina",
+							"Zelda"
+						]
+					},
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Easy",
+						"explanation": "She is the most frequent female character in video game history, appearing in over 100 different titles.",
+						"image_url": "https://skillcheckgame.com/assets/images/princess_peach.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Toadette",
+							"Pauline",
+							"Birdo"
+						]
+					},
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Medium",
+						"explanation": "Her first playable appearance where she could use her signature floating ability was Super Mario Bros. 2.",
+						"image_url": "https://skillcheckgame.com/assets/images/princess_peach.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Princess Daisy",
+							"Rosalina",
+							"Shadow Queen"
+						]
+					},
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Medium",
+						"explanation": "She has her own castle, which serves as the central hub world in the 3D masterpiece Super Mario 64.",
+						"image_url": "https://skillcheckgame.com/assets/images/princess_peach.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Princess Daisy",
+							"Rosalina",
+							"Pauline"
+						]
+					},
+					{
+						"correct": "Princess Peach",
+						"difficulty": "Hard",
+						"explanation": "In the game Super Princess Peach, her powers are tied to her emotions, including Joy, Rage, Gloom, and Calm.",
+						"image_url": "https://skillcheckgame.com/assets/images/princess_peach.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Shadow Queen",
+							"Pink Gold Peach",
+							"Peachette"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_princess_peach",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Princess Peach",
+				"lore_desc": "The ruler of the Mushroom Kingdom, known for her grace, pink dress, and magical heart-based powers.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Mushroom Kingdom Princess",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Royalty",
+					"Mushroom Kingdom"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Marth",
+						"difficulty": "Easy",
+						"explanation": "He was the first protagonist of the Fire Emblem series, debuting on the Famicom in 1990.",
+						"image_url": "https://skillcheckgame.com/assets/images/marth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Link",
+							"Pit",
+							"Cloud"
+						]
+					},
+					{
+						"correct": "Marth",
+						"difficulty": "Easy",
+						"explanation": "Western fans first met him in Super Smash Bros. Melee, which led to the Fire Emblem games being released worldwide.",
+						"image_url": "https://skillcheckgame.com/assets/images/marth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ike",
+							"Roy",
+							"Chrom"
+						]
+					},
+					{
+						"correct": "Marth",
+						"difficulty": "Medium",
+						"explanation": "He wields the Falchion, a legendary sword made from the tooth of the Divine Dragon Naga.",
+						"image_url": "https://skillcheckgame.com/assets/images/marth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lucina",
+							"Chrom",
+							"Alm"
+						]
+					},
+					{
+						"correct": "Marth",
+						"difficulty": "Medium",
+						"explanation": "In his original game, if he was defeated in battle, the game would immediately end with a 'Game Over'.",
+						"image_url": "https://skillcheckgame.com/assets/images/marth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Sigurd",
+							"Seliph",
+							"Leif"
+						]
+					},
+					{
+						"correct": "Marth",
+						"difficulty": "Hard",
+						"explanation": "He is the only character in his series to be known by the title 'Hero King' in future generations.",
+						"image_url": "https://skillcheckgame.com/assets/images/marth.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lucina",
+							"Eirika",
+							"Celica"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_marth",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Marth",
+				"lore_desc": "The Prince of Altea and the original hero of the Fire Emblem series who wields the holy sword Falchion.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Hero King",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Sword",
+					"Fire Emblem"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Olimar",
+						"difficulty": "Easy",
+						"explanation": "His name is actually 'Mario' spelled backwards in Japanese phonetics (O-ri-ma vs Ma-ri-o).",
+						"image_url": "https://skillcheckgame.com/assets/images/olimar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mario",
+							"Kirby",
+							"Samus"
+						]
+					},
+					{
+						"correct": "Olimar",
+						"difficulty": "Easy",
+						"explanation": "He crash-landed on a distant planet and discovered Pikmin, which he used to recover his ship's parts.",
+						"image_url": "https://skillcheckgame.com/assets/images/olimar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Alph",
+							"Louie",
+							"The President"
+						]
+					},
+					{
+						"correct": "Olimar",
+						"difficulty": "Medium",
+						"explanation": "He is incredibly small, standing only about three centimeters (roughly one inch) tall.",
+						"image_url": "https://skillcheckgame.com/assets/images/olimar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Louie",
+							"Alph",
+							"Brittany"
+						]
+					},
+					{
+						"correct": "Olimar",
+						"difficulty": "Medium",
+						"explanation": "His ship is named the S.S. Dolphin, a tribute to the internal codename for the Nintendo GameCube.",
+						"image_url": "https://skillcheckgame.com/assets/images/olimar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charlie",
+							"The President",
+							"Sagittarius"
+						]
+					},
+					{
+						"correct": "Olimar",
+						"difficulty": "Hard",
+						"explanation": "He has a family back on Hocotate consisting of a wife, a son, a daughter, and a dog named Bulbie.",
+						"image_url": "https://skillcheckgame.com/assets/images/olimar.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Alph",
+							"Louie",
+							"Charlie"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_olimar",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Olimar",
+				"lore_desc": "A captain from the planet Hocotate who commands plant-like creatures called Pikmin to survive.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Tiny Explorer",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Pikmin",
+					"Explorer"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Luigi",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Luigi first appeared in the 1983 arcade game Mario Bros. as a palette swap of his brother.",
+						"image_url": "https://skillcheckgame.com/assets/images/luigi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Pikachu",
+							"Kirby"
+						]
+					},
+					{
+						"correct": "Luigi",
+						"difficulty": "Easy",
+						"explanation": "Luigi is often associated with the color green and has starred in his own series where he hunts ghosts with a vacuum.",
+						"image_url": "https://skillcheckgame.com/assets/images/luigi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Donkey Kong",
+							"Yoshi",
+							"Inkling"
+						]
+					},
+					{
+						"correct": "Luigi",
+						"difficulty": "Medium",
+						"explanation": "Luigi is taller and thinner than Mario, and his jumping ability is usually higher but harder to control.",
+						"image_url": "https://skillcheckgame.com/assets/images/luigi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mario",
+							"Wario",
+							"Link"
+						]
+					},
+					{
+						"correct": "Luigi",
+						"difficulty": "Medium",
+						"explanation": "Luigi's name is said to be a pun on the Japanese word 'ruiji,' which means 'similar,' referring to his resemblance to Mario.",
+						"image_url": "https://skillcheckgame.com/assets/images/luigi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Marth",
+							"Pit",
+							"Little Mac"
+						]
+					},
+					{
+						"correct": "Luigi",
+						"difficulty": "Hard",
+						"explanation": "Luigi's signature 'Death Stare' became a viral internet meme after the release of Mario Kart 8.",
+						"image_url": "https://skillcheckgame.com/assets/images/luigi.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Waluigi",
+							"Dr. Mario",
+							"Terry"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_luigi",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Luigi",
+				"lore_desc": "Mario's younger, taller, and more timid twin brother who often gets dragged into ghost-hunting adventures.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Green Plumber",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Brother",
+					"Plumber"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Zelda",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Despite the series being named after her, Zelda is rarely the main playable character.",
+						"image_url": "https://skillcheckgame.com/assets/images/zelda.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Donkey Kong",
+							"King Dedede"
+						]
+					},
+					{
+						"correct": "Zelda",
+						"difficulty": "Easy",
+						"explanation": "Zelda is the bearer of the Triforce of Wisdom, which grants her immense magical power.",
+						"image_url": "https://skillcheckgame.com/assets/images/zelda.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Yoshi",
+							"Kirby"
+						]
+					},
+					{
+						"correct": "Zelda",
+						"difficulty": "Medium",
+						"explanation": "Zelda has taken many forms over the years, including the pirate captain Tetra and the mysterious Sheik.",
+						"image_url": "https://skillcheckgame.com/assets/images/zelda.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Princess Peach",
+							"Rosalina",
+							"Palutena"
+						]
+					},
+					{
+						"correct": "Zelda",
+						"difficulty": "Medium",
+						"explanation": "In Ocarina of Time, Zelda disguises herself for seven years to hide from the King of Evil.",
+						"image_url": "https://skillcheckgame.com/assets/images/zelda.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lucina",
+							"Min Min",
+							"Bayonetta"
+						]
+					},
+					{
+						"correct": "Zelda",
+						"difficulty": "Hard",
+						"explanation": "Zelda's design in Super Smash Bros. Ultimate is primarily based on her appearance in A Link to the Past.",
+						"image_url": "https://skillcheckgame.com/assets/images/zelda.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Hilda",
+							"Peach",
+							"Samus Aran"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_zelda",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Zelda",
+				"lore_desc": "The mortal reincarnation of the goddess Hylia and the wise ruler of the Kingdom of Hyrule.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Princess of Destiny",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Princess",
+					"Magic"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Charizard",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Charizard is a Fire and Flying type, meaning it is double-weak to Rock-type moves.",
+						"image_url": "https://skillcheckgame.com/assets/images/charizard.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Isabelle",
+							"Villager"
+						]
+					},
+					{
+						"correct": "Charizard",
+						"difficulty": "Easy",
+						"explanation": "Charizard's tail flame indicates its life force and health; if the flame goes out, it dies.",
+						"image_url": "https://skillcheckgame.com/assets/images/charizard.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kirby",
+							"Fox McCloud",
+							"Olimar"
+						]
+					},
+					{
+						"correct": "Charizard",
+						"difficulty": "Medium",
+						"explanation": "Charizard is known to unintentionally cause forest fires when it breathes its intense flames.",
+						"image_url": "https://skillcheckgame.com/assets/images/charizard.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ridley",
+							"Dragonite",
+							"Yoshi"
+						]
+					},
+					{
+						"correct": "Charizard",
+						"difficulty": "Medium",
+						"explanation": "Charizard was one of the three original final-stage starters from the Kanto region.",
+						"image_url": "https://skillcheckgame.com/assets/images/charizard.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Aerodactyl",
+							"Blaziken",
+							"Corviknight"
+						]
+					},
+					{
+						"correct": "Charizard",
+						"difficulty": "Hard",
+						"explanation": "In Super Smash Bros. Brawl, Charizard was part of a team alongside Squirtle and Ivysaur.",
+						"image_url": "https://skillcheckgame.com/assets/images/charizard.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mega Mewtwo Y",
+							"Garchomp",
+							"Flygon"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_charizard",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Charizard",
+				"lore_desc": "The final evolution of Charmander, this draconic Pokemon flies through the sky in search of powerful opponents.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Fire-Breathing Lizard",
+			"profiler": {
+				"vibe_tags": [
+					"Monster",
+					"Fire",
+					"Flying"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Diddy Kong",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Diddy Kong first appeared in Donkey Kong Country as the second playable character.",
+						"image_url": "https://skillcheckgame.com/assets/images/diddy_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Ganondorf",
+							"Ridley"
+						]
+					},
+					{
+						"correct": "Diddy Kong",
+						"difficulty": "Easy",
+						"explanation": "Diddy Kong wears a red shirt and hat featuring the Nintendo logo in his modern designs.",
+						"image_url": "https://skillcheckgame.com/assets/images/diddy_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Samus Aran",
+							"Marth",
+							"Captain Falcon"
+						]
+					},
+					{
+						"correct": "Diddy Kong",
+						"difficulty": "Medium",
+						"explanation": "Diddy Kong uses a pair of Peanut Popguns to stun enemies and a Barrel Jet to hover in the air.",
+						"image_url": "https://skillcheckgame.com/assets/images/diddy_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Donkey Kong",
+							"Yoshi",
+							"Fox McCloud"
+						]
+					},
+					{
+						"correct": "Diddy Kong",
+						"difficulty": "Medium",
+						"explanation": "Diddy Kong starred in his own racing game on the Nintendo 64, which introduced Banjo and Conker.",
+						"image_url": "https://skillcheckgame.com/assets/images/diddy_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Sonic",
+							"Banjo-Kazooie",
+							"Inkling"
+						]
+					},
+					{
+						"correct": "Diddy Kong",
+						"difficulty": "Hard",
+						"explanation": "Diddy Kong is significantly faster than Donkey Kong but cannot defeat larger enemies by jumping on them.",
+						"image_url": "https://skillcheckgame.com/assets/images/diddy_kong.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dixie Kong",
+							"Lanky Kong",
+							"Tiny Kong"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_diddy_kong",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Diddy Kong",
+				"lore_desc": "Donkey Kong's nephew and best friend, known for his speed, peanut popguns, and wooden jetpack.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Jetpack Chimp",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Animal",
+					"Sidekick"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Wario",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Wario first appeared as the main villain in Super Mario Land 2: 6 Golden Coins.",
+						"image_url": "https://skillcheckgame.com/assets/images/wario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Kirby",
+							"Olimar"
+						]
+					},
+					{
+						"correct": "Wario",
+						"difficulty": "Easy",
+						"explanation": "Wario's name is a combination of Mario's name and the Japanese word 'warui,' meaning bad.",
+						"image_url": "https://skillcheckgame.com/assets/images/wario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Zelda",
+							"Isabelle",
+							"Samus Aran"
+						]
+					},
+					{
+						"correct": "Wario",
+						"difficulty": "Medium",
+						"explanation": "Wario is known for his signature biker outfit in the WarioWare series and his yellow overalls in traditional games.",
+						"image_url": "https://skillcheckgame.com/assets/images/wario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mario",
+							"Luigi",
+							"Donkey Kong"
+						]
+					},
+					{
+						"correct": "Wario",
+						"difficulty": "Medium",
+						"explanation": "Wario is incredibly strong and often uses his weight and a motorcycle to overwhelm his opponents.",
+						"image_url": "https://skillcheckgame.com/assets/images/wario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"King Dedede",
+							"Bowser",
+							"Ganondorf"
+						]
+					},
+					{
+						"correct": "Wario",
+						"difficulty": "Hard",
+						"explanation": "Wario's signature mustache is shaped like a 'W,' the inverse of Mario's 'M'.",
+						"image_url": "https://skillcheckgame.com/assets/images/wario.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Waluigi",
+							"Dr. Mario",
+							"King K. Rool"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_wario",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Wario",
+				"lore_desc": "Mario's gluttonous and gold-obsessed rival who alternates between being an antagonist and an anti-hero.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Greedy Rival",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Rival",
+					"Greedy"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Ganondorf",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Ganondorf is the human form of Ganon, the monstrous beast from the early Zelda games.",
+						"image_url": "https://skillcheckgame.com/assets/images/ganondorf.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Kirby",
+							"Toad"
+						]
+					},
+					{
+						"correct": "Ganondorf",
+						"difficulty": "Easy",
+						"explanation": "Ganondorf is a Gerudo, a tribe that almost exclusively consists of women, with one male born every 100 years.",
+						"image_url": "https://skillcheckgame.com/assets/images/ganondorf.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Villager",
+							"Isabelle",
+							"Olimar"
+						]
+					},
+					{
+						"correct": "Ganondorf",
+						"difficulty": "Medium",
+						"explanation": "Ganondorf's move set in Smash Bros. was originally based on Captain Falcon's, despite their different themes.",
+						"image_url": "https://skillcheckgame.com/assets/images/ganondorf.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Ridley",
+							"King Dedede"
+						]
+					},
+					{
+						"correct": "Ganondorf",
+						"difficulty": "Medium",
+						"explanation": "In Ocarina of Time, Ganondorf successfully seizes the Triforce of Power and transforms Hyrule into a wasteland.",
+						"image_url": "https://skillcheckgame.com/assets/images/ganondorf.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ike",
+							"Sephiroth",
+							"Marth"
+						]
+					},
+					{
+						"correct": "Ganondorf",
+						"difficulty": "Hard",
+						"explanation": "Ganondorf's design in Super Smash Bros. Ultimate is based on his iconic appearance in Ocarina of Time.",
+						"image_url": "https://skillcheckgame.com/assets/images/ganondorf.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Black Knight",
+							"Demise",
+							"Kazuya"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_ganondorf",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Ganondorf",
+				"lore_desc": "The wielder of the Triforce of Power and the eternal nemesis of Link and Zelda.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Great King of Evil",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Magic",
+					"King"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Rosalina",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Rosalina first appeared in Super Mario Galaxy as a guide for Mario in outer space.",
+						"image_url": "https://skillcheckgame.com/assets/images/rosalina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Donkey Kong",
+							"Charizard"
+						]
+					},
+					{
+						"correct": "Rosalina",
+						"difficulty": "Easy",
+						"explanation": "Rosalina is the adoptive mother of the Lumas, star-like creatures that can transform into planets.",
+						"image_url": "https://skillcheckgame.com/assets/images/rosalina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Yoshi",
+							"Inkling"
+						]
+					},
+					{
+						"correct": "Rosalina",
+						"difficulty": "Medium",
+						"explanation": "Rosalina is significantly taller than both Peach and Daisy, standing nearly seven feet tall.",
+						"image_url": "https://skillcheckgame.com/assets/images/rosalina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Princess Peach",
+							"Zelda",
+							"Palutena"
+						]
+					},
+					{
+						"correct": "Rosalina",
+						"difficulty": "Medium",
+						"explanation": "In Smash Bros., Rosalina fights alongside a Luma, allowing her to attack from two different positions.",
+						"image_url": "https://skillcheckgame.com/assets/images/rosalina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lucina",
+							"Bayonetta",
+							"Samus Aran"
+						]
+					},
+					{
+						"correct": "Rosalina",
+						"difficulty": "Hard",
+						"explanation": "Rosalina's backstory is revealed through a storybook she reads in the Comet Observatory library.",
+						"image_url": "https://skillcheckgame.com/assets/images/rosalina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Daisy",
+							"Hilda",
+							"Min Min"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_rosalina",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Rosalina",
+				"lore_desc": "A powerful cosmic entity who watches over the universe from the Comet Observatory alongside her Lumas.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Celestial Mother",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Magic",
+					"Space"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Meta Knight",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Meta Knight is of the same species as Kirby, which is revealed when his mask breaks.",
+						"image_url": "https://skillcheckgame.com/assets/images/meta_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Donkey Kong",
+							"Ganondorf",
+							"Bowser"
+						]
+					},
+					{
+						"correct": "Meta Knight",
+						"difficulty": "Easy",
+						"explanation": "Meta Knight's cape can transform into bat-like wings, allowing him to fly and teleport.",
+						"image_url": "https://skillcheckgame.com/assets/images/meta_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Fox McCloud",
+							"Captain Falcon",
+							"Marth"
+						]
+					},
+					{
+						"correct": "Meta Knight",
+						"difficulty": "Medium",
+						"explanation": "Meta Knight is the captain of a massive flying battleship called the Halberd.",
+						"image_url": "https://skillcheckgame.com/assets/images/meta_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kirby",
+							"King Dedede",
+							"Pikachu"
+						]
+					},
+					{
+						"correct": "Meta Knight",
+						"difficulty": "Medium",
+						"explanation": "Meta Knight was notoriously overpowered in Super Smash Bros. Brawl, leading to his ban in many tournaments.",
+						"image_url": "https://skillcheckgame.com/assets/images/meta_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Shulk",
+							"Pit",
+							"Link"
+						]
+					},
+					{
+						"correct": "Meta Knight",
+						"difficulty": "Hard",
+						"explanation": "Meta Knight often offers Kirby a sword before their battles to ensure the fight is fair.",
+						"image_url": "https://skillcheckgame.com/assets/images/meta_knight.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Galacta Knight",
+							"Dark Pit",
+							"Mega Man"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_meta_knight",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Meta Knight",
+				"lore_desc": "A mysterious knight from Dream Land who follows a strict code of honor and wields the holy sword Galaxia.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Masked Swordsman",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Rival",
+					"Knight"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Pit",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Pit is the main protagonist of the Kid Icarus series, which debuted on the NES.",
+						"image_url": "https://skillcheckgame.com/assets/images/pit.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charizard",
+							"King Dedede",
+							"Bowser"
+						]
+					},
+					{
+						"correct": "Pit",
+						"difficulty": "Easy",
+						"explanation": "Pit's signature weapon is the Palutena Bow, which can split into two short swords.",
+						"image_url": "https://skillcheckgame.com/assets/images/pit.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Yoshi",
+							"Pikachu",
+							"Isabelle"
+						]
+					},
+					{
+						"correct": "Pit",
+						"difficulty": "Medium",
+						"explanation": "Pit requires the Power of Flight from Palutena because his own wings are too small to fly on their own.",
+						"image_url": "https://skillcheckgame.com/assets/images/pit.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Link",
+							"Marth",
+							"Shulk"
+						]
+					},
+					{
+						"correct": "Pit",
+						"difficulty": "Medium",
+						"explanation": "Pit is known for his upbeat personality and his running gag about being unable to read.",
+						"image_url": "https://skillcheckgame.com/assets/images/pit.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lucina",
+							"Zelda",
+							"Villager"
+						]
+					},
+					{
+						"correct": "Pit",
+						"difficulty": "Hard",
+						"explanation": "Pit's design was significantly updated for his return in Super Smash Bros. Brawl and Kid Icarus: Uprising.",
+						"image_url": "https://skillcheckgame.com/assets/images/pit.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Dark Pit",
+							"Sora",
+							"Cloud"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_pit",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Pit",
+				"lore_desc": "The commander of Goddess Palutena's army who protects the world from the underworld despite his inability to fly.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Angelic Archer",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Angel",
+					"Archer"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Little Mac",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Little Mac is the protagonist of the Punch-Out! series, coached by Doc Louis.",
+						"image_url": "https://skillcheckgame.com/assets/images/little_mac.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ridley",
+							"Ganondorf",
+							"Donkey Kong"
+						]
+					},
+					{
+						"correct": "Little Mac",
+						"difficulty": "Easy",
+						"explanation": "Little Mac is known for his incredible power on the ground but very poor recovery in the air.",
+						"image_url": "https://skillcheckgame.com/assets/images/little_mac.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kirby",
+							"Pikachu",
+							"Yoshi"
+						]
+					},
+					{
+						"correct": "Little Mac",
+						"difficulty": "Medium",
+						"explanation": "Little Mac's signature move is the K.O. Punch, which he can unleash after filling his power meter.",
+						"image_url": "https://skillcheckgame.com/assets/images/little_mac.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Captain Falcon",
+							"Fox McCloud",
+							"Mario"
+						]
+					},
+					{
+						"correct": "Little Mac",
+						"difficulty": "Medium",
+						"explanation": "Despite his small stature, Little Mac has defeated giants like King Hippo and even Mike Tyson.",
+						"image_url": "https://skillcheckgame.com/assets/images/little_mac.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pit",
+							"Link",
+							"Marth"
+						]
+					},
+					{
+						"correct": "Little Mac",
+						"difficulty": "Hard",
+						"explanation": "Little Mac made his debut in the 1984 arcade version of Punch-Out! before moving to the NES.",
+						"image_url": "https://skillcheckgame.com/assets/images/little_mac.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Terry",
+							"Kazuya",
+							"Ryu"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_little_mac",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Little Mac",
+				"lore_desc": "A 17-year-old boxer from the Bronx who worked his way up to the top of the World Video Boxing Association.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Underdog Boxer",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Human",
+					"Boxer"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Villager",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Villager represents the player character from the Animal Crossing series.",
+						"image_url": "https://skillcheckgame.com/assets/images/villager.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Charizard",
+							"King Dedede"
+						]
+					},
+					{
+						"correct": "Villager",
+						"difficulty": "Easy",
+						"explanation": "Villager's moves in Smash Bros. include using a bug net, a slingshot, and planting trees.",
+						"image_url": "https://skillcheckgame.com/assets/images/villager.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Kirby",
+							"Yoshi"
+						]
+					},
+					{
+						"correct": "Villager",
+						"difficulty": "Medium",
+						"explanation": "Villager can 'Pocket' projectiles and items, storing them to be used later in the fight.",
+						"image_url": "https://skillcheckgame.com/assets/images/villager.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Ness",
+							"Lucas",
+							"Mega Man"
+						]
+					},
+					{
+						"correct": "Villager",
+						"difficulty": "Medium",
+						"explanation": "Villager's design in Smash Bros. includes several alternate costumes, including female and male versions.",
+						"image_url": "https://skillcheckgame.com/assets/images/villager.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Inkling",
+							"Isabelle",
+							"Toad"
+						]
+					},
+					{
+						"correct": "Villager",
+						"difficulty": "Hard",
+						"explanation": "Villager's Balloon Trip recovery move is a direct reference to the classic NES game Balloon Fight.",
+						"image_url": "https://skillcheckgame.com/assets/images/villager.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Young Link",
+							"Mega Man",
+							"Ice Climbers"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_villager",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Villager",
+				"lore_desc": "A human who lives in a peaceful town filled with anthropomorphic animals, spending their days fishing and gardening.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Town Resident",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Human",
+					"Resident"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Ridley",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Ridley is responsible for the destruction of Samus Aran's home colony.",
+						"image_url": "https://skillcheckgame.com/assets/images/ridley.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Isabelle",
+							"Kirby"
+						]
+					},
+					{
+						"correct": "Ridley",
+						"difficulty": "Easy",
+						"explanation": "Ridley has been reborn several times, including as the cybernetic Meta Ridley.",
+						"image_url": "https://skillcheckgame.com/assets/images/ridley.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mario",
+							"Luigi",
+							"Toad"
+						]
+					},
+					{
+						"correct": "Ridley",
+						"difficulty": "Medium",
+						"explanation": "For years, fans thought Ridley was 'too big' to ever be a playable character in Smash Bros.",
+						"image_url": "https://skillcheckgame.com/assets/images/ridley.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charizard",
+							"Bowser",
+							"King Dedede"
+						]
+					},
+					{
+						"correct": "Ridley",
+						"difficulty": "Medium",
+						"explanation": "Ridley's tail is a lethal weapon used for stabbing and dragging opponents across the floor.",
+						"image_url": "https://skillcheckgame.com/assets/images/ridley.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"King K. Rool",
+							"Ganondorf",
+							"Mewtwo"
+						]
+					},
+					{
+						"correct": "Ridley",
+						"difficulty": "Hard",
+						"explanation": "Ridley is often called the 'Cunning God of Death' due to his high intellect and survival skills.",
+						"image_url": "https://skillcheckgame.com/assets/images/ridley.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Aerodactyl",
+							"Pteranodon",
+							"Dark Samus"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_ridley",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Ridley",
+				"lore_desc": "The high-ranking Space Pirate and archnemesis of Samus Aran, known for his high intelligence and brutality.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Space Pirate Leader",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Monster",
+					"Space"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "King Dedede",
+						"difficulty": "Easy",
+						"explanation": "Did you know? King Dedede is a penguin-like creature, though he is never explicitly called a penguin.",
+						"image_url": "https://skillcheckgame.com/assets/images/king_dedede.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Villager",
+							"Fox McCloud"
+						]
+					},
+					{
+						"correct": "King Dedede",
+						"difficulty": "Easy",
+						"explanation": "King Dedede trained himself to puff up and fly just like Kirby to rival his abilities.",
+						"image_url": "https://skillcheckgame.com/assets/images/king_dedede.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Mario",
+							"Link",
+							"Marth"
+						]
+					},
+					{
+						"correct": "King Dedede",
+						"difficulty": "Medium",
+						"explanation": "Despite his villainous introduction, Dedede often helps Kirby when a greater threat arrives.",
+						"image_url": "https://skillcheckgame.com/assets/images/king_dedede.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Donkey Kong",
+							"Wario"
+						]
+					},
+					{
+						"correct": "King Dedede",
+						"difficulty": "Medium",
+						"explanation": "Dedede's hammer is surprisingly high-tech, often containing a jet engine or a missile launcher.",
+						"image_url": "https://skillcheckgame.com/assets/images/king_dedede.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kirby",
+							"Meta Knight",
+							"Ridley"
+						]
+					},
+					{
+						"correct": "King Dedede",
+						"difficulty": "Hard",
+						"explanation": "King Dedede's theme song is one of the most iconic pieces of music in the Kirby series.",
+						"image_url": "https://skillcheckgame.com/assets/images/king_dedede.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"King K. Rool",
+							"Banjo",
+							"Piranha Plant"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_king_dedede",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "King Dedede",
+				"lore_desc": "The self-proclaimed king of Dream Land who often clashes with Kirby using his giant mechanical hammer.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Royal Rival",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Animal",
+					"King"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Shulk",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Shulk is the protagonist of Xenoblade Chronicles, which takes place on the bodies of two giants.",
+						"image_url": "https://skillcheckgame.com/assets/images/shulk.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Charizard",
+							"Bowser",
+							"Donkey Kong"
+						]
+					},
+					{
+						"correct": "Shulk",
+						"difficulty": "Easy",
+						"explanation": "Shulk's sword, the Monado, allows him to change his stats using different 'Arts' like Speed or Shield.",
+						"image_url": "https://skillcheckgame.com/assets/images/shulk.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Kirby",
+							"Yoshi"
+						]
+					},
+					{
+						"correct": "Shulk",
+						"difficulty": "Medium",
+						"explanation": "Shulk's most famous catchphrase is 'I'm really feeling it!', which he shouts during battle.",
+						"image_url": "https://skillcheckgame.com/assets/images/shulk.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Link",
+							"Marth",
+							"Pit"
+						]
+					},
+					{
+						"correct": "Shulk",
+						"difficulty": "Medium",
+						"explanation": "In his home game, Shulk is a scientist who spends his time studying ancient technology before the Mechon attack.",
+						"image_url": "https://skillcheckgame.com/assets/images/shulk.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Lucina",
+							"Zelda",
+							"Little Mac"
+						]
+					},
+					{
+						"correct": "Shulk",
+						"difficulty": "Hard",
+						"explanation": "Shulk's Monado can predict enemy attacks, which is translated in Smash Bros. as a powerful counter move.",
+						"image_url": "https://skillcheckgame.com/assets/images/shulk.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Cloud",
+							"Ike",
+							"Chrom"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_shulk",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Shulk",
+				"lore_desc": "A young researcher who becomes the wielder of the Monado, a legendary blade that can see into the future.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Visionary Warrior",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Human",
+					"Swordsman"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Lucina",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Lucina is the daughter of Chrom from Fire Emblem Awakening.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Bowser",
+							"Ridley",
+							"Ganondorf"
+						]
+					},
+					{
+						"correct": "Lucina",
+						"difficulty": "Easy",
+						"explanation": "Lucina initially disguises herself as 'Marth' when she first arrives in the past.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Pikachu",
+							"Kirby",
+							"Yoshi"
+						]
+					},
+					{
+						"correct": "Lucina",
+						"difficulty": "Medium",
+						"explanation": "Unlike Marth, Lucina's sword deals consistent damage along the entire blade rather than just at the tip.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Princess Peach",
+							"Zelda",
+							"Rosalina"
+						]
+					},
+					{
+						"correct": "Lucina",
+						"difficulty": "Medium",
+						"explanation": "Lucina bears the Brand of the Exalt in her left eye, a mark of her royal lineage.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Samus Aran",
+							"Inkling",
+							"Min Min"
+						]
+					},
+					{
+						"correct": "Lucina",
+						"difficulty": "Hard",
+						"explanation": "In Smash Bros., Lucina is considered an 'Echo Fighter' of Marth due to their nearly identical move sets.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucina.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Marth",
+							"Chrom",
+							"Roy"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_lucina",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Lucina",
+				"lore_desc": "A princess from a ruined future who travels back in time to save her father and prevent the world's destruction.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Masked Princess",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Human",
+					"Swordsman"
+				]
+			}
+		},
+		{
+			"card_type": "mystery",
+			"content": {
+				"questions": [
+					{
+						"correct": "Toad",
+						"difficulty": "Easy",
+						"explanation": "Did you know? Toad's Japanese name is Kinopio, which is a combination of the words for mushroom and Pinocchio.",
+						"image_url": "https://skillcheckgame.com/assets/images/toad.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Donkey Kong",
+							"Ridley",
+							"Bowser"
+						]
+					},
+					{
+						"correct": "Toad",
+						"difficulty": "Easy",
+						"explanation": "Toad is famous for telling Mario that the Princess is in another castle in the original Super Mario Bros.",
+						"image_url": "https://skillcheckgame.com/assets/images/toad.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Captain Falcon",
+							"Fox McCloud",
+							"Samus Aran"
+						]
+					},
+					{
+						"correct": "Toad",
+						"difficulty": "Medium",
+						"explanation": "The spots on Toad's head are actually part of his cap, not his hair, though this was debated for decades.",
+						"image_url": "https://skillcheckgame.com/assets/images/toad.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Kirby",
+							"Pikachu",
+							"Olimar"
+						]
+					},
+					{
+						"correct": "Toad",
+						"difficulty": "Medium",
+						"explanation": "Toad is usually the fastest character in the Super Mario Kart series, but he has very low weight.",
+						"image_url": "https://skillcheckgame.com/assets/images/toad.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Villager",
+							"Isabelle",
+							"Yoshi"
+						]
+					},
+					{
+						"correct": "Toad",
+						"difficulty": "Hard",
+						"explanation": "Toad made his first playable appearance in the Western version of Super Mario Bros. 2.",
+						"image_url": "https://skillcheckgame.com/assets/images/toad.webp",
+						"question": "Who is this character?",
+						"wrong": [
+							"Toadette",
+							"Goomba",
+							"Koopa Troopa"
+						]
+					}
+				]
+			},
+			"id": "nintendo_all_stars_toad",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Toad",
+				"lore_desc": "A loyal resident of the Mushroom Kingdom and an attendant to Princess Peach, known for his spotted head.",
+				"theme_origin": "nintendo all stars",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Mushroom Retainer",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Mushroom",
+					"Servant"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -111062,6 +113750,10 @@
 					"name": "Foxhound"
 				}
 			]
+		},
+		{
+			"id": "nintendo all stars",
+			"synergies": []
 		}
 	],
 	"titles": {
