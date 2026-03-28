@@ -112746,6 +112746,3270 @@
 					"Energy"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Life Simulation",
+						"difficulty": "Easy",
+						"explanation": "The Sims is the world's most successful life simulation series.",
+						"image_url": "",
+						"question": "What is the primary genre of the game series Bella Goth stars in?",
+						"wrong": [
+							"First Person Shooter",
+							"Racing",
+							"Strategy"
+						]
+					},
+					{
+						"correct": "PC",
+						"difficulty": "Easy",
+						"explanation": "The original Sims game debuted on PC in February 2000.",
+						"image_url": "",
+						"question": "What platform was the original game featuring Bella Goth first released on?",
+						"wrong": [
+							"PlayStation",
+							"Nintendo 64",
+							"Dreamcast"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Bella's signature look is a stunning red strapless dress.",
+						"image_url": "https://skillcheckgame.com/assets/images/bella_goth.webp",
+						"question": "Which iconic color is Bella Goth most famously associated with wearing?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Mortimer Goth",
+						"difficulty": "Easy",
+						"explanation": "Mortimer and Bella Goth are the most famous couple in Sim history.",
+						"image_url": "",
+						"question": "Who is the husband of Bella Goth in the majority of the series?",
+						"wrong": [
+							"Don Lothario",
+							"Bob Newbie",
+							"Geoffrey Landgraab"
+						]
+					},
+					{
+						"correct": "Alien Abduction",
+						"difficulty": "Easy",
+						"explanation": "Bella went missing after being abducted by aliens while on Don Lothario's deck.",
+						"image_url": "",
+						"question": "What mysterious event happened to Bella Goth between the first and second games?",
+						"wrong": [
+							"Witness Protection",
+							"A Cruise Trip",
+							"Time Travel"
+						]
+					},
+					{
+						"correct": "Bachelor",
+						"difficulty": "Medium",
+						"explanation": "She was born Bella Bachelor and is the sister of Michael Bachelor.",
+						"image_url": "https://skillcheckgame.com/assets/images/bella_goth.webp",
+						"question": "What was Bella Goth's maiden name before she married Mortimer?",
+						"wrong": [
+							"Pleasant",
+							"Lothario",
+							"Newbie"
+						]
+					},
+					{
+						"correct": "Pleasantview",
+						"difficulty": "Medium",
+						"explanation": "Her disappearance is the central mystery of the Pleasantview neighborhood.",
+						"image_url": "",
+						"question": "In which town is Bella Goth missing at the start of The Sims 2?",
+						"wrong": [
+							"Strangetown",
+							"Veronaville",
+							"Sunset Valley"
+						]
+					},
+					{
+						"correct": "Cassandra",
+						"difficulty": "Medium",
+						"explanation": "Cassandra Goth is known for her gothic style and glasses.",
+						"image_url": "",
+						"question": "What is the name of Bella and Mortimer's eldest daughter?",
+						"wrong": [
+							"Angela",
+							"Lilith",
+							"Brandi"
+						]
+					},
+					{
+						"correct": "Sunset Valley",
+						"difficulty": "Medium",
+						"explanation": "In The Sims 3, she is seen as a child living with her parents in Sunset Valley.",
+						"image_url": "",
+						"question": "Where can a version of Bella Goth be found living in The Sims 3?",
+						"wrong": [
+							"Bridgeport",
+							"Twinbrook",
+							"Appaloosa Plains"
+						]
+					},
+					{
+						"correct": "Don Lothario",
+						"difficulty": "Medium",
+						"explanation": "She was stargazing on Don't rooftop deck when the aliens took her.",
+						"image_url": "",
+						"question": "Which Sim was Bella visiting when she was last seen before her disappearance?",
+						"wrong": [
+							"Malcolm Landgraab",
+							"The Caliente Sisters",
+							"The Pleasants"
+						]
+					},
+					{
+						"correct": "Division 47",
+						"difficulty": "Hard",
+						"explanation": "In the handheld version, Bella is discovered hiding in a secret facility called Division 47.",
+						"image_url": "",
+						"question": "In the PSP version of the game, where is Bella Goth found hiding?",
+						"wrong": [
+							"The Basement",
+							"Area 51",
+							"The Attic"
+						]
+					},
+					{
+						"correct": "Cancer",
+						"difficulty": "Hard",
+						"explanation": "Her personality traits in the second game correspond to the Cancer zodiac sign.",
+						"image_url": "https://skillcheckgame.com/assets/images/bella_goth.webp",
+						"question": "What is Bella Goth's zodiac sign in The Sims 2?",
+						"wrong": [
+							"Aries",
+							"Leo",
+							"Scorpio"
+						]
+					},
+					{
+						"correct": "Entertainment",
+						"difficulty": "Hard",
+						"explanation": "In the original game, Bella had a career in the Entertainment field.",
+						"image_url": "",
+						"question": "Which career track did Bella Goth belong to in the original Sims game?",
+						"wrong": [
+							"Science",
+							"Politics",
+							"Crime"
+						]
+					},
+					{
+						"correct": "Gold Necklace",
+						"difficulty": "Hard",
+						"explanation": "Her iconic red dress is usually paired with a simple gold necklace.",
+						"image_url": "",
+						"question": "What specific item of jewelry is Bella often seen wearing in her official portraits?",
+						"wrong": [
+							"Pearl Earrings",
+							"Silver Tiara",
+							"Ruby Ring"
+						]
+					},
+					{
+						"correct": "Michael",
+						"difficulty": "Hard",
+						"explanation": "Michael Bachelor is Bella's brother and a recurring character in the series.",
+						"image_url": "",
+						"question": "Who is Bella Goth's brother, often found in the original game or Sims 3?",
+						"wrong": [
+							"Mortimer",
+							"Geoffrey",
+							"Skip"
+						]
+					}
+				]
+			},
+			"id": "the_sims_bella_goth",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Bella Goth",
+				"lore_desc": "The most famous face in the franchise, Bella is a socialite shrouded in mystery after her legendary alien abduction.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Bella Goth",
+			"profiler": {
+				"vibe_tags": [
+					"Iconic Sim",
+					"Mystery",
+					"Goth Family"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Happy",
+						"difficulty": "Easy",
+						"explanation": "A bright green Plumbob means your Sim is in a great mood.",
+						"image_url": "https://skillcheckgame.com/assets/images/plumbob.webp",
+						"question": "What does a green Plumbob generally indicate about a Sim's mood?",
+						"wrong": [
+							"Angry",
+							"Depressed",
+							"Hungry"
+						]
+					},
+					{
+						"correct": "Above the head",
+						"difficulty": "Easy",
+						"explanation": "The Plumbob floats directly over the head of the currently selected Sim.",
+						"image_url": "",
+						"question": "Where does the Plumbob typically hover in relation to a Sim?",
+						"wrong": [
+							"Next to the feet",
+							"Behind the back",
+							"Inside the chest"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "A red Plumbob is a warning that your Sim's needs are very low.",
+						"image_url": "",
+						"question": "What color does the Plumbob turn when a Sim is in a critically bad mood?",
+						"wrong": [
+							"Blue",
+							"Purple",
+							"White"
+						]
+					},
+					{
+						"correct": "Octahedron",
+						"difficulty": "Easy",
+						"explanation": "The Plumbob is a double-ended hexagonal pyramid, or a variation of an octahedron.",
+						"image_url": "",
+						"question": "What shape is the Plumbob crystal officially described as?",
+						"wrong": [
+							"Cube",
+							"Sphere",
+							"Pyramid"
+						]
+					},
+					{
+						"correct": "Maxis",
+						"difficulty": "Easy",
+						"explanation": "Maxis is the original studio behind the creation of The Sims.",
+						"image_url": "",
+						"question": "Who developed the series where the Plumbob first appeared?",
+						"wrong": [
+							"Ubisoft",
+							"Rockstar",
+							"Nintendo"
+						]
+					},
+					{
+						"correct": "It disappears",
+						"difficulty": "Medium",
+						"explanation": "Once a Sim passes away, the Plumbob vanishes as they are no longer controllable.",
+						"image_url": "https://skillcheckgame.com/assets/images/plumbob.webp",
+						"question": "What happens to the Plumbob when a Sim dies?",
+						"wrong": [
+							"It turns black",
+							"It falls to the floor",
+							"It shatters"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Medium",
+						"explanation": "The Plumbob is an interface element and generally not visible to the Sims themselves.",
+						"image_url": "",
+						"question": "Is the Plumbob visible to other Sims in the game's fictional world lore?",
+						"wrong": [
+							"Yes",
+							"Only to occults",
+							"Only to pets"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Medium",
+						"explanation": "Yellow indicates a neutral state, between the happy green and the angry red.",
+						"image_url": "",
+						"question": "What color does the Plumbob turn when a Sim is in a 'Fair' or neutral mood?",
+						"wrong": [
+							"Light Blue",
+							"Pink",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Surveyors",
+						"difficulty": "Medium",
+						"explanation": "A plumb bob is a weight used by surveyors and builders to find a vertical line.",
+						"image_url": "",
+						"question": "The term 'Plumbob' is also the name of a tool used by what profession in real life?",
+						"wrong": [
+							"Doctors",
+							"Chefs",
+							"Astronauts"
+						]
+					},
+					{
+						"correct": "Decorative Frames",
+						"difficulty": "Medium",
+						"explanation": "Occult Sims have specialized Plumbobs with frames that reflect their supernatural status.",
+						"image_url": "https://skillcheckgame.com/assets/images/plumbob.webp",
+						"question": "In The Sims 4, what special visual feature was added to the Plumbob for occult Sims like Vampires?",
+						"wrong": [
+							"Wings",
+							"Glowing Eyes",
+							"Smoke Effects"
+						]
+					},
+					{
+						"correct": "headlineeffects off",
+						"difficulty": "Hard",
+						"explanation": "The 'headlineeffects' command toggles the Plumbob and thought bubbles.",
+						"image_url": "",
+						"question": "Which cheat code is commonly used to hide the Plumbob for taking screenshots?",
+						"wrong": [
+							"noplumbob",
+							"hidegui",
+							"invisiblecrystal"
+						]
+					},
+					{
+						"correct": "The Sims Medieval",
+						"difficulty": "Hard",
+						"explanation": "The Sims Medieval featured a more rustic, hand-carved look for its Plumbob.",
+						"image_url": "",
+						"question": "In which spin-off game does the Plumbob look like a rough-cut crystal rather than a smooth gem?",
+						"wrong": [
+							"The Sims Bustin Out",
+							"The Sims Urbz",
+							"The Sims FreePlay"
+						]
+					},
+					{
+						"correct": "Very Happy",
+						"difficulty": "Hard",
+						"explanation": "Sims in The Sims 4 can reach a 'Very Happy' state, which intensifies the Plumbob's glow.",
+						"image_url": "",
+						"question": "What is the highest possible mood state in The Sims 4 that makes the Plumbob glow intensely?",
+						"wrong": [
+							"Enlightened",
+							"Ecstatic",
+							"Godlike"
+						]
+					},
+					{
+						"correct": "Showtime",
+						"difficulty": "Hard",
+						"explanation": "The Sims 3: Showtime featured a venue named Plumbob Park in Starlight Shores.",
+						"image_url": "",
+						"question": "Which expansion pack introduced the 'Plumbob Park' as a community lot?",
+						"wrong": [
+							"Get Together",
+							"Late Night",
+							"Generations"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Hard",
+						"explanation": "The Plumbob acts as a light source, casting a faint glow on the Sim's head and shoulders.",
+						"image_url": "",
+						"question": "Does the Plumbob emit actual light that illuminates the Sim in the game engine?",
+						"wrong": [
+							"No",
+							"Only in The Sims 1",
+							"Only when red"
+						]
+					}
+				]
+			},
+			"id": "the_sims_plumbob",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Plumbob",
+				"lore_desc": "The green crystal that floats over a Sim's head is the definitive symbol of the series, indicating their current mood.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Plumbob",
+			"profiler": {
+				"vibe_tags": [
+					"Icon",
+					"Interface",
+					"Status"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Simoleons",
+						"difficulty": "Easy",
+						"explanation": "Simoleons have been the standard currency since the very first game.",
+						"image_url": "",
+						"question": "What is the name of the currency used by Sims to buy furniture and houses?",
+						"wrong": [
+							"Sim Credits",
+							"Galleons",
+							"Septims"
+						]
+					},
+					{
+						"correct": "Repo Man",
+						"difficulty": "Easy",
+						"explanation": "The Repo Man uses a special ray gun to take your items to cover unpaid debts.",
+						"image_url": "https://skillcheckgame.com/assets/images/simoleons.webp",
+						"question": "Which character arrives to take your furniture if you don't pay your bills?",
+						"wrong": [
+							"The Burglar",
+							"The Tax Man",
+							"The Police"
+						]
+					},
+					{
+						"correct": "Motherlode",
+						"difficulty": "Easy",
+						"explanation": "Motherlode is the go-to cheat for instant wealth in the later games.",
+						"image_url": "",
+						"question": "What is the most famous cheat code in the series used to get 50,000 Simoleons?",
+						"wrong": [
+							"Rosebud",
+							"Klapaucius",
+							"Moneybags"
+						]
+					},
+					{
+						"correct": "Mailbox",
+						"difficulty": "Easy",
+						"explanation": "Bills are delivered to the mailbox, and failure to pay them leads to the Repo Man visiting.",
+						"image_url": "",
+						"question": "Where do Sims usually receive their weekly bills that must be paid with Simoleons?",
+						"wrong": [
+							"Computer",
+							"Front Door",
+							"Telephone"
+						]
+					},
+					{
+						"correct": "Getting a Job",
+						"difficulty": "Easy",
+						"explanation": "Employment is the primary way for Sims to fund their lifestyles.",
+						"image_url": "",
+						"question": "How do adult Sims typically earn Simoleons without using cheats?",
+						"wrong": [
+							"Finding them in bushes",
+							"Fighting monsters",
+							"Asking neighbors"
+						]
+					},
+					{
+						"correct": "Section Sign",
+						"difficulty": "Medium",
+						"explanation": "The Simoleon symbol (§) is actually the section sign used in legal documents.",
+						"image_url": "https://skillcheckgame.com/assets/images/simoleons.webp",
+						"question": "What is the name of the mathematical symbol used to represent Simoleons?",
+						"wrong": [
+							"Paragraph Sign",
+							"Euro Sign",
+							"Ampersand"
+						]
+					},
+					{
+						"correct": "20,000",
+						"difficulty": "Medium",
+						"explanation": "New households usually start with 20,000 Simoleons to buy their first lot.",
+						"image_url": "",
+						"question": "In the original Sims game, what was the starter fund for a single Sim household?",
+						"wrong": [
+							"10,000",
+							"50,000",
+							"5,000"
+						]
+					},
+					{
+						"correct": "Money Tree",
+						"difficulty": "Medium",
+						"explanation": "The Money Tree is a reward or special plant that grows bags of cash.",
+						"image_url": "",
+						"question": "Which object can grow Simoleons directly on its branches in several games?",
+						"wrong": [
+							"Cash Cactus",
+							"Simoleon Shrub",
+							"Wealth Willow"
+						]
+					},
+					{
+						"correct": "Klapaucius",
+						"difficulty": "Medium",
+						"explanation": "In the unpatched original game, 'klapaucius' was the cheat; 'rosebud' replaced it in later versions.",
+						"image_url": "",
+						"question": "What was the very first Simoleon cheat code used in the original PC release?",
+						"wrong": [
+							"Rosebud",
+							"Motherlode",
+							"Cashcow"
+						]
+					},
+					{
+						"correct": "They may starve",
+						"difficulty": "Medium",
+						"explanation": "Hunger is a motive that can lead to death if the Sim cannot afford or find food.",
+						"image_url": "https://skillcheckgame.com/assets/images/simoleons.webp",
+						"question": "What happens if a Sim has zero Simoleons and cannot afford food?",
+						"wrong": [
+							"They get free food",
+							"They go to jail",
+							"The game ends"
+						]
+					},
+					{
+						"correct": "9,999,999",
+						"difficulty": "Hard",
+						"explanation": "The household fund usually caps out just under ten million Simoleons.",
+						"image_url": "",
+						"question": "What is the maximum amount of Simoleons a single household can hold in most games?",
+						"wrong": [
+							"1,000,000",
+							"99,999,999",
+							"Unlimited"
+						]
+					},
+					{
+						"correct": "Local Businesses",
+						"difficulty": "Hard",
+						"explanation": "Sims can invest in venues like the grocery store to receive a portion of the profits.",
+						"image_url": "",
+						"question": "In The Sims 3, what can Sims purchase to receive weekly 'Partnership' payouts?",
+						"wrong": [
+							"Stocks",
+							"Lottery Tickets",
+							"Insurance"
+						]
+					},
+					{
+						"correct": "For Rent",
+						"difficulty": "Hard",
+						"explanation": "The For Rent expansion introduced property management and rental income.",
+						"image_url": "",
+						"question": "Which Sims 4 expansion pack added the ability to earn Simoleons by being a Landlord?",
+						"wrong": [
+							"City Living",
+							"Get to Work",
+							"Eco Lifestyle"
+						]
+					},
+					{
+						"correct": "40",
+						"difficulty": "Hard",
+						"explanation": "A pizza delivery in the original game would set your Sim back 40 Simoleons.",
+						"image_url": "",
+						"question": "What is the cost of ordering a Pizza in the original Sims game?",
+						"wrong": [
+							"20",
+							"15",
+							"60"
+						]
+					},
+					{
+						"correct": "Money Well",
+						"difficulty": "Hard",
+						"explanation": "The Wishing Well (Seasons) or the Counterfeiting Machine (Career Reward) could grant cash.",
+						"image_url": "",
+						"question": "In The Sims 2, what reward object allowed Sims to 'counterfeit' Simoleons?",
+						"wrong": [
+							"Printing Press",
+							"Wishing Well",
+							"The Counterfeiter"
+						]
+					}
+				]
+			},
+			"id": "the_sims_simoleons",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Simoleons",
+				"lore_desc": "The official currency of the Sim nation, Simoleons allow your Sims to build mansions or simply afford a cheese sandwich.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Simoleons",
+			"profiler": {
+				"vibe_tags": [
+					"Currency",
+					"Economy",
+					"Icon"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Sims",
+						"difficulty": "Easy",
+						"explanation": "The Cowplant is a carnivore that prefers the taste of living Sims.",
+						"image_url": "",
+						"question": "What is the Cowplant's favorite snack?",
+						"wrong": [
+							"Pizza",
+							"Salad",
+							"Burgers"
+						]
+					},
+					{
+						"correct": "Cake",
+						"difficulty": "Easy",
+						"explanation": "It extends a tongue with a delicious-looking piece of cake to attract prey.",
+						"image_url": "https://skillcheckgame.com/assets/images/cowplant.webp",
+						"question": "What bait does the Cowplant use to lure Sims to their doom?",
+						"wrong": [
+							"A Diamond",
+							"A Sandwich",
+							"Simoleons"
+						]
+					},
+					{
+						"correct": "Laganaphyllis Simnovorii",
+						"difficulty": "Easy",
+						"explanation": "The formal name Laganaphyllis Simnovorii is often used in-game.",
+						"image_url": "",
+						"question": "What is the scientific name for the Cowplant in the game's lore?",
+						"wrong": [
+							"Bovinus Florus",
+							"Carnivora Simis",
+							"Daisy Moo"
+						]
+					},
+					{
+						"correct": "Maxis",
+						"difficulty": "Easy",
+						"explanation": "Maxis created the original game and many of its iconic elements like the Cowplant.",
+						"image_url": "",
+						"question": "Which studio is responsible for creating the Sims franchise?",
+						"wrong": [
+							"BioWare",
+							"Dice",
+							"Criterion"
+						]
+					},
+					{
+						"correct": "Milk it",
+						"difficulty": "Easy",
+						"explanation": "After a meal, the Cowplant produces milk that can extend a Sim's life.",
+						"image_url": "",
+						"question": "What can you do to the Cowplant after it has eaten a Sim?",
+						"wrong": [
+							"Shear it",
+							"Pet it",
+							"Cook it"
+						]
+					},
+					{
+						"correct": "Your Sim's life is extended",
+						"difficulty": "Medium",
+						"explanation": "Drinking the milk resets the current life stage of the Sim.",
+						"image_url": "https://skillcheckgame.com/assets/images/cowplant.webp",
+						"question": "What happens if you drink the essence/milk from a Cowplant that just ate a Sim?",
+						"wrong": [
+							"You turn into a cow",
+							"You die instantly",
+							"You gain a level in cooking"
+						]
+					},
+					{
+						"correct": "A Skeleton",
+						"difficulty": "Medium",
+						"explanation": "If it starves, the Cowplant dies and leaves behind a skeletal remains.",
+						"image_url": "",
+						"question": "What does the Cowplant turn into if it is not fed for a long period of time?",
+						"wrong": [
+							"A Pile of Ash",
+							"A Normal Daisy",
+							"A Ghost Plant"
+						]
+					},
+					{
+						"correct": "Fishing or Grafting",
+						"difficulty": "Medium",
+						"explanation": "The Cowplant berry is a rare item found through fishing, space travel, or plant grafting.",
+						"image_url": "",
+						"question": "How do you typically obtain a Cowplant berry in The Sims 4?",
+						"wrong": [
+							"Buying from a shop",
+							"Ordering on a computer",
+							"Stealing from the Goths"
+						]
+					},
+					{
+						"correct": "University",
+						"difficulty": "Medium",
+						"explanation": "The Cowplant debuted in The Sims 2: University as a career reward for Natural Scientists.",
+						"image_url": "",
+						"question": "Which expansion pack first introduced the Cowplant to the series?",
+						"wrong": [
+							"Pets",
+							"Nightlife",
+							"Makin Magic"
+						]
+					},
+					{
+						"correct": "They become Drained",
+						"difficulty": "Medium",
+						"explanation": "A Sim who survives being eaten receives a 'Drained' moodlet and turns grey temporarily.",
+						"image_url": "https://skillcheckgame.com/assets/images/cowplant.webp",
+						"question": "What happens to a Sim who tries to take the cake but is spit back out by the Cowplant?",
+						"wrong": [
+							"They become Confident",
+							"They become Wealthy",
+							"They become Invisible"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "It grows from a planted berry, to a small sprout, to a full-sized adult.",
+						"image_url": "",
+						"question": "How many growth stages does a Cowplant have in The Sims 4?",
+						"wrong": [
+							"Two",
+							"Five",
+							"One"
+						]
+					},
+					{
+						"correct": "The eaten Sim's mood",
+						"difficulty": "Hard",
+						"explanation": "The essence collected matches the dominant emotion the Sim was feeling when they were eaten.",
+						"image_url": "",
+						"question": "What determines the flavor or type of 'Essence' produced by the Cowplant in The Sims 4?",
+						"wrong": [
+							"The Sim's hair color",
+							"The time of day",
+							"The type of soil"
+						]
+					},
+					{
+						"correct": "Natural Science",
+						"difficulty": "Hard",
+						"explanation": "It is the career reward for the Natural Science track.",
+						"image_url": "",
+						"question": "In The Sims 2, which career path must a Sim reach the top of to unlock the Cowplant?",
+						"wrong": [
+							"Paranormal",
+							"Medicine",
+							"Culinarian"
+						]
+					},
+					{
+						"correct": "Olive Specter",
+						"difficulty": "Hard",
+						"explanation": "The graveyard-loving Olive Specter is often associated with the dangerous plant.",
+						"image_url": "",
+						"question": "Which NPC is famously known for having a Cowplant in their backyard in Strangetown?",
+						"wrong": [
+							"Bella Goth",
+							"General Grunt",
+							"The Beakers"
+						]
+					},
+					{
+						"correct": "Every 12 hours",
+						"difficulty": "Hard",
+						"explanation": "If not fed every 12 hours, the Cowplant gets hungry and puts out the cake trap.",
+						"image_url": "",
+						"question": "How often must you feed a Cowplant to prevent it from displaying the cake bait?",
+						"wrong": [
+							"Every 2 hours",
+							"Once a day",
+							"Every 48 hours"
+						]
+					}
+				]
+			},
+			"id": "the_sims_cowplant",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Cowplant",
+				"lore_desc": "Scientifically known as Laganaphyllis Simnovorii, this bovine-floral hybrid has a deadly appetite for unsuspecting Sims.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Cowplant",
+			"profiler": {
+				"vibe_tags": [
+					"Occult Plant",
+					"Danger",
+					"Icon"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Scythe",
+						"difficulty": "Easy",
+						"explanation": "The Grim Reaper uses his scythe to claim the souls of departing Sims.",
+						"image_url": "",
+						"question": "What is the signature tool carried by the Grim Reaper?",
+						"wrong": [
+							"Sword",
+							"Axe",
+							"Hammer"
+						]
+					},
+					{
+						"correct": "Black",
+						"difficulty": "Easy",
+						"explanation": "He sticks to the classic look of a black hooded robe.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_grim_reaper.webp",
+						"question": "What color are the robes typically worn by the Grim Reaper?",
+						"wrong": [
+							"White",
+							"Red",
+							"Blue"
+						]
+					},
+					{
+						"correct": "When a Sim dies",
+						"difficulty": "Easy",
+						"explanation": "The Reaper is the harbinger of death, arriving whenever a Sim passes away.",
+						"image_url": "",
+						"question": "When does the Grim Reaper appear in the game?",
+						"wrong": [
+							"When a Sim is born",
+							"During a wedding",
+							"When a Sim wins the lottery"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Easy",
+						"explanation": "Sims can often talk to or even play games with the Reaper before he leaves the lot.",
+						"image_url": "",
+						"question": "Can other Sims interact with the Grim Reaper after he finishes his task?",
+						"wrong": [
+							"No",
+							"Only if they are ghosts",
+							"Only with cheats"
+						]
+					},
+					{
+						"correct": "Controlling virtual people",
+						"difficulty": "Easy",
+						"explanation": "The Sims is about managing the daily lives and relationships of characters.",
+						"image_url": "",
+						"question": "What is the primary objective of a life simulation game like The Sims?",
+						"wrong": [
+							"Saving the world",
+							"Exploring a dungeon",
+							"Driving cars"
+						]
+					},
+					{
+						"correct": "Death Flower",
+						"difficulty": "Medium",
+						"explanation": "Handing the Reaper a Death Flower will convince him to resurrect the Sim.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_grim_reaper.webp",
+						"question": "Which rare flower can be given to the Grim Reaper to save a dying Sim?",
+						"wrong": [
+							"Life Orchid",
+							"Ghost Lily",
+							"Eternal Rose"
+						]
+					},
+					{
+						"correct": "Playing Video Games",
+						"difficulty": "Medium",
+						"explanation": "The Reaper often sticks around to use electronics, particularly for gaming.",
+						"image_url": "",
+						"question": "In The Sims 4, what activity is the Grim Reaper frequently seen doing on a Sim's computer?",
+						"wrong": [
+							"Writing a Novel",
+							"Hacking",
+							"Online Shopping"
+						]
+					},
+					{
+						"correct": "The Sim is brought back to life",
+						"difficulty": "Medium",
+						"explanation": "A successful plea convinces the Reaper to spare the Sim's life.",
+						"image_url": "",
+						"question": "What happens if a Sim successfully 'Pleads' with the Grim Reaper?",
+						"wrong": [
+							"The Sim becomes a ghost",
+							"The Sim gets money",
+							"The Reaper dies"
+						]
+					},
+					{
+						"correct": "In a cloud of smoke",
+						"difficulty": "Medium",
+						"explanation": "He typically appears and disappears in a dramatic puff of grey smoke.",
+						"image_url": "",
+						"question": "In The Sims 2, how does the Grim Reaper arrive at a lot where a Sim has died?",
+						"wrong": [
+							"Walking through the door",
+							"Falling from the sky",
+							"Emerging from the floor"
+						]
+					},
+					{
+						"correct": "An Urn or Tombstone",
+						"difficulty": "Medium",
+						"explanation": "The Reaper converts the remains into an urn (indoors) or a tombstone (outdoors).",
+						"image_url": "https://skillcheckgame.com/assets/images/the_grim_reaper.webp",
+						"question": "What does the Grim Reaper usually leave behind in place of a Sim's body?",
+						"wrong": [
+							"A pile of ash",
+							"A treasure chest",
+							"A ghost"
+						]
+					},
+					{
+						"correct": "The Grim Reaper",
+						"difficulty": "Hard",
+						"explanation": "The family tree in The Sims 2 implies the Reaper is Nervous Subject's father.",
+						"image_url": "",
+						"question": "According to Strangetown lore, which Sim is rumored to be the biological father of Nervous Subject?",
+						"wrong": [
+							"Pollination Tech 9",
+							"General Grunt",
+							"Mortimer Goth"
+						]
+					},
+					{
+						"correct": "Professional Reaper",
+						"difficulty": "Hard",
+						"explanation": "His occupation is listed as 'Professional Reaper' in the hidden character data.",
+						"image_url": "",
+						"question": "What is the Grim Reaper's 'official' career title in The Sims 2 game files?",
+						"wrong": [
+							"Death Inc",
+							"Soul Harvester",
+							"The End"
+						]
+					},
+					{
+						"correct": "A polite handshake",
+						"difficulty": "Hard",
+						"explanation": "For natural deaths of Elders, the Reaper is often depicted as more respectful and gentle.",
+						"image_url": "",
+						"question": "What special animation does the Reaper perform in The Sims 3 when an Elder Sim dies of old age?",
+						"wrong": [
+							"A salute",
+							"A hug",
+							"A bow"
+						]
+					},
+					{
+						"correct": "Pitch Black",
+						"difficulty": "Hard",
+						"explanation": "Under the hood, the Reaper's model has pitch black skin with glowing eyes.",
+						"image_url": "",
+						"question": "What color is the Grim Reaper's skin when revealed without his robes in The Sims 4?",
+						"wrong": [
+							"White Bone",
+							"Pale Blue",
+							"Dark Grey"
+						]
+					},
+					{
+						"correct": "The Sims 3 Store",
+						"difficulty": "Hard",
+						"explanation": "This was a special premium object released through the official online store.",
+						"image_url": "",
+						"question": "Which expansion pack for The Sims 3 introduced a 'Door of Life and Death' to summon the Reaper?",
+						"wrong": [
+							"Supernatural",
+							"Late Night",
+							"Ambitions"
+						]
+					}
+				]
+			},
+			"id": "the_sims_the_grim_reaper",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Grim Reaper",
+				"lore_desc": "The ultimate visitor who appears when a Sim's time is up. He's surprisingly fond of video games and snacks after doing his job.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Grim Reaper",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Death",
+					"Occult"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Maid",
+						"difficulty": "Easy",
+						"explanation": "Bonehilda is a skeletal maid who handles all the household chores.",
+						"image_url": "",
+						"question": "What is Bonehilda's profession?",
+						"wrong": [
+							"Chef",
+							"Gardener",
+							"Nanny"
+						]
+					},
+					{
+						"correct": "A Coffin",
+						"difficulty": "Easy",
+						"explanation": "You must buy her 'Living Quarters' coffin to have her join your household.",
+						"image_url": "https://skillcheckgame.com/assets/images/bonehilda.webp",
+						"question": "Where does Bonehilda live when she is not working?",
+						"wrong": [
+							"A Doghouse",
+							"A Closet",
+							"A Bed"
+						]
+					},
+					{
+						"correct": "Bones",
+						"difficulty": "Easy",
+						"explanation": "She is a fully animated skeleton wearing a maid's uniform.",
+						"image_url": "",
+						"question": "What is Bonehilda made of?",
+						"wrong": [
+							"Metal",
+							"Plastic",
+							"Stone"
+						]
+					},
+					{
+						"correct": "NPC",
+						"difficulty": "Easy",
+						"explanation": "She is a Non-Player Character that you can hire or purchase.",
+						"image_url": "",
+						"question": "Which character type is Bonehilda classified as?",
+						"wrong": [
+							"Playable Hero",
+							"Boss",
+							"Vehicle"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "Once you buy her coffin, her cleaning services are free.",
+						"image_url": "",
+						"question": "Does Bonehilda require a salary like a regular human maid?",
+						"wrong": [
+							"Yes",
+							"Only on weekends",
+							"Only in Simoleons"
+						]
+					},
+					{
+						"correct": "It falls through her ribs",
+						"difficulty": "Medium",
+						"explanation": "As she has no stomach, any drink she consumes just spills onto the floor.",
+						"image_url": "https://skillcheckgame.com/assets/images/bonehilda.webp",
+						"question": "What happens when Bonehilda tries to drink a beverage?",
+						"wrong": [
+							"She turns human",
+							"She explodes",
+							"She becomes happy"
+						]
+					},
+					{
+						"correct": "Paranormal",
+						"difficulty": "Medium",
+						"explanation": "She made her grand return in the Paranormal Stuff Pack.",
+						"image_url": "",
+						"question": "Which Sims 4 expansion/stuff pack officially brought Bonehilda back to the series?",
+						"wrong": [
+							"Vampires",
+							"Realm of Magic",
+							"Spooky Stuff"
+						]
+					},
+					{
+						"correct": "Makin Magic",
+						"difficulty": "Medium",
+						"explanation": "She was introduced as a magical household helper in the final Sims 1 expansion.",
+						"image_url": "",
+						"question": "In which original Sims expansion pack did Bonehilda first appear?",
+						"wrong": [
+							"Hot Date",
+							"House Party",
+							"Vacation"
+						]
+					},
+					{
+						"correct": "They faint or run away",
+						"difficulty": "Medium",
+						"explanation": "Squeamish or cowardly Sims are often terrified of the living skeleton.",
+						"image_url": "",
+						"question": "How do Sims with the 'Coward' trait usually react to Bonehilda?",
+						"wrong": [
+							"They fall in love",
+							"They start dancing",
+							"They ignore her"
+						]
+					},
+					{
+						"correct": "Cook gourmet meals",
+						"difficulty": "Medium",
+						"explanation": "While she cleans and repairs, she is not usually a cook for the family.",
+						"image_url": "https://skillcheckgame.com/assets/images/bonehilda.webp",
+						"question": "What chore will Bonehilda NOT typically do for the household?",
+						"wrong": [
+							"Clean the toilet",
+							"Repair the TV",
+							"Make the bed"
+						]
+					},
+					{
+						"correct": "Red and Gold",
+						"difficulty": "Hard",
+						"explanation": "Her iconic 'Living Quarters' in the third game features a red and gold design.",
+						"image_url": "",
+						"question": "What is the color of Bonehilda's coffin in The Sims 3?",
+						"wrong": [
+							"Black and Silver",
+							"Green and Brown",
+							"Blue and White"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Hard",
+						"explanation": "Bonehilda is surprisingly brave and will engage in a dust-cloud fight with burglars.",
+						"image_url": "",
+						"question": "Will Bonehilda fight off a Burglar if one enters the home?",
+						"wrong": [
+							"No",
+							"She joins them",
+							"She hides in her coffin"
+						]
+					},
+					{
+						"correct": "Seance Table",
+						"difficulty": "Hard",
+						"explanation": "You must use the Seance Table to call her into the world in the fourth game.",
+						"image_url": "",
+						"question": "In The Sims 4, which ritual is used to summon Bonehilda?",
+						"wrong": [
+							"Cooking a feast",
+							"Reading a book",
+							"Using a mirror"
+						]
+					},
+					{
+						"correct": "Looks in the mirror",
+						"difficulty": "Hard",
+						"explanation": "She is known for being slightly vain and will admire her 'bone' structure in mirrors.",
+						"image_url": "",
+						"question": "What does Bonehilda do if there are no chores left to complete?",
+						"wrong": [
+							"Goes for a swim",
+							"Sleeps in a bed",
+							"Leaves the lot"
+						]
+					},
+					{
+						"correct": "Yes, they are friends",
+						"difficulty": "Hard",
+						"explanation": "In The Sims 2, Bonehilda and the Social Bunny can interact and are considered friends.",
+						"image_url": "",
+						"question": "Does Bonehilda have a relationship with the Social Bunny NPC?",
+						"wrong": [
+							"No, they are enemies",
+							"They are married",
+							"They don't know each other"
+						]
+					}
+				]
+			},
+			"id": "the_sims_bonehilda",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Bonehilda",
+				"lore_desc": "The faithful skeletal maid who lives in a coffin. She's excellent at cleaning, but her presence might terrify some of your more cowardly Sims.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Bonehilda",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Skeleton",
+					"Service"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Sims 2",
+						"difficulty": "Easy",
+						"explanation": "Pleasantview is the iconic base neighborhood of the second game.",
+						"image_url": "",
+						"question": "In which specific game is Pleasantview the primary starting neighborhood?",
+						"wrong": [
+							"The Sims 1",
+							"The Sims 3",
+							"The Sims 4"
+						]
+					},
+					{
+						"correct": "The Goths",
+						"difficulty": "Easy",
+						"explanation": "The Goth family has lived in Pleasantview for generations.",
+						"image_url": "https://skillcheckgame.com/assets/images/pleasantview.webp",
+						"question": "Which famous family's mansion is located in Pleasantview?",
+						"wrong": [
+							"The Landgraabs",
+							"The Altos",
+							"The Vatores"
+						]
+					},
+					{
+						"correct": "Suburban",
+						"difficulty": "Easy",
+						"explanation": "Pleasantview is designed to look like a classic American suburb.",
+						"image_url": "",
+						"question": "What is the general aesthetic of Pleasantview?",
+						"wrong": [
+							"Desert",
+							"City",
+							"Tropical"
+						]
+					},
+					{
+						"correct": "Maxis",
+						"difficulty": "Easy",
+						"explanation": "Maxis designed Pleasantview as a sequel to the neighborhood in the original game.",
+						"image_url": "",
+						"question": "Which developer is responsible for the creation of Pleasantview?",
+						"wrong": [
+							"EA Sports",
+							"Bioware",
+							"PopCap"
+						]
+					},
+					{
+						"correct": "The disappearance of Bella Goth",
+						"difficulty": "Easy",
+						"explanation": "The missing Bella Goth is the most famous lore hook in Pleasantview.",
+						"image_url": "",
+						"question": "What is the main 'mystery' of Pleasantview that players are encouraged to solve?",
+						"wrong": [
+							"A hidden treasure",
+							"A murder mystery",
+							"A bank robbery"
+						]
+					},
+					{
+						"correct": "25 Years",
+						"difficulty": "Medium",
+						"explanation": "The Sims 2 takes place exactly 25 years after the first game.",
+						"image_url": "https://skillcheckgame.com/assets/images/pleasantview.webp",
+						"question": "Pleasantview is canonically set how many years after the original Sims game?",
+						"wrong": [
+							"10 Years",
+							"50 Years",
+							"5 Years"
+						]
+					},
+					{
+						"correct": "Don Lothario",
+						"difficulty": "Medium",
+						"explanation": "Don Lothario is involved with Nina and Dina Caliente, and Cassandra Goth.",
+						"image_url": "",
+						"question": "Who is the 'local heartthrob' in Pleasantview known for having multiple girlfriends?",
+						"wrong": [
+							"Daniel Pleasant",
+							"Mortimer Goth",
+							"Darren Dreamer"
+						]
+					},
+					{
+						"correct": "Angela and Lilith",
+						"difficulty": "Medium",
+						"explanation": "Angela is the 'perfect' twin, while Lilith is the rebellious one.",
+						"image_url": "",
+						"question": "What are the names of the twin sisters in the Pleasant family?",
+						"wrong": [
+							"Nina and Dina",
+							"Mary-Sue and Jennifer",
+							"Cassandra and Bella"
+						]
+					},
+					{
+						"correct": "Nina and Dina Caliente",
+						"difficulty": "Medium",
+						"explanation": "The Caliente sisters are rumored to be involved with the aliens who took Bella.",
+						"image_url": "",
+						"question": "Which two sisters moved into Pleasantview just as Bella Goth disappeared?",
+						"wrong": [
+							"The Burb sisters",
+							"The Pleasant twins",
+							"The Goth sisters"
+						]
+					},
+					{
+						"correct": "Simulon River",
+						"difficulty": "Medium",
+						"explanation": "The Simulon River is a major geographic feature of the neighborhood map.",
+						"image_url": "https://skillcheckgame.com/assets/images/pleasantview.webp",
+						"question": "What is the name of the river that flows through Pleasantview?",
+						"wrong": [
+							"Llama Creek",
+							"Sim Creek",
+							"Crystal Lake"
+						]
+					},
+					{
+						"correct": "1313 21 Dead End Drive",
+						"difficulty": "Hard",
+						"explanation": "The Goths live at the very spooky-sounding 1313 21 Dead End Drive.",
+						"image_url": "",
+						"question": "What is the address of the Goth family mansion in Pleasantview?",
+						"wrong": [
+							"1 Sim Lane",
+							"101 Skyline Drive",
+							"55 Park Place"
+						]
+					},
+					{
+						"correct": "Kaylynn Langerak",
+						"difficulty": "Hard",
+						"explanation": "Kaylynn Langerak is the maid who is also having affairs with Daniel Pleasant and Don Lothario.",
+						"image_url": "",
+						"question": "Which Pleasantview Sim is actually the maid for many of the town's households?",
+						"wrong": [
+							"Lucy Burb",
+							"Brandi Broke",
+							"Mary-Sue Pleasant"
+						]
+					},
+					{
+						"correct": "The Broke family",
+						"difficulty": "Hard",
+						"explanation": "Brandi Broke lives in a small trailer with her sons Dustin and Beau.",
+						"image_url": "",
+						"question": "Which family in Pleasantview lives in a trailer and is struggling with money?",
+						"wrong": [
+							"The Dreamer family",
+							"The Burb family",
+							"The Oldie family"
+						]
+					},
+					{
+						"correct": "Darren",
+						"difficulty": "Hard",
+						"explanation": "Darren Dreamer is a widower who is in love with Cassandra Goth.",
+						"image_url": "",
+						"question": "Who is the father of the Dreamer family, an aspiring artist?",
+						"wrong": [
+							"Dirk",
+							"Don",
+							"Daniel"
+						]
+					},
+					{
+						"correct": "Sunset Valley",
+						"difficulty": "Hard",
+						"explanation": "Sunset Valley is the canonical predecessor to Pleasantview in the timeline.",
+						"image_url": "",
+						"question": "Pleasantview is actually a future version of which Sims 3 town?",
+						"wrong": [
+							"Riverview",
+							"Hidden Springs",
+							"Barnacle Bay"
+						]
+					}
+				]
+			},
+			"id": "the_sims_pleasantview",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Pleasantview",
+				"lore_desc": "The quintessential suburban neighborhood of The Sims 2, home to the Goths, the Pleasants, and a massive amount of drama.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Pleasantview",
+			"profiler": {
+				"vibe_tags": [
+					"Neighborhood",
+					"The Sims 2",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Desert",
+						"difficulty": "Easy",
+						"explanation": "Strangetown is a dry, barren desert landscape.",
+						"image_url": "",
+						"question": "What is the primary climate of Strangetown?",
+						"wrong": [
+							"Arctic",
+							"Tropical",
+							"Forest"
+						]
+					},
+					{
+						"correct": "Aliens",
+						"difficulty": "Easy",
+						"explanation": "Strangetown is the hub for alien activity and hybrids in the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/strangetown.webp",
+						"question": "Which supernatural creature is Strangetown most famous for?",
+						"wrong": [
+							"Werewolves",
+							"Mermaids",
+							"Fairies"
+						]
+					},
+					{
+						"correct": "A UFO",
+						"difficulty": "Easy",
+						"explanation": "A large crashed saucer is a prominent feature of the terrain.",
+						"image_url": "",
+						"question": "What crashed in the middle of Strangetown according to the environment art?",
+						"wrong": [
+							"A Plane",
+							"A Satellite",
+							"A Meteor"
+						]
+					},
+					{
+						"correct": "The Sims 2",
+						"difficulty": "Easy",
+						"explanation": "Strangetown was one of the three core neighborhoods in The Sims 2.",
+						"image_url": "",
+						"question": "In which game did Strangetown first appear as a base neighborhood?",
+						"wrong": [
+							"The Sims 1",
+							"The Sims 3",
+							"The Sims 4"
+						]
+					},
+					{
+						"correct": "The Smith family",
+						"difficulty": "Easy",
+						"explanation": "Pollination Tech 9 Smith is a retired alien living with his human wife and kids.",
+						"image_url": "",
+						"question": "Which family in Strangetown actually has green-skinned alien members living with them?",
+						"wrong": [
+							"The Grunt family",
+							"The Beaker family",
+							"The Goth family"
+						]
+					},
+					{
+						"correct": "General Buzz Grunt",
+						"difficulty": "Medium",
+						"explanation": "General Grunt is a strict military man who views the Smiths as a threat.",
+						"image_url": "https://skillcheckgame.com/assets/images/strangetown.webp",
+						"question": "What is the name of the military leader who hates the aliens in Strangetown?",
+						"wrong": [
+							"Colonel Mustard",
+							"Sgt. Pepper",
+							"Major Tom"
+						]
+					},
+					{
+						"correct": "Olive Specter",
+						"difficulty": "Medium",
+						"explanation": "Olive Specter's graveyard is rumored to contain the bodies of her many ex-husbands.",
+						"image_url": "",
+						"question": "Which Strangetown resident has a backyard full of gravestones?",
+						"wrong": [
+							"Loki Beaker",
+							"Pascal Curious",
+							"Jenny Smith"
+						]
+					},
+					{
+						"correct": "Curious",
+						"difficulty": "Medium",
+						"explanation": "Pascal, Vicund, and Lazlo Curious are the town's resident scientists.",
+						"image_url": "",
+						"question": "What is the surname of the three brothers who are obsessed with science and aliens?",
+						"wrong": [
+							"Strange",
+							"Beaker",
+							"Scientist"
+						]
+					},
+					{
+						"correct": "Nervous Subject",
+						"difficulty": "Medium",
+						"explanation": "Nervous Subject lives in the Beaker basement and is used for various experiments.",
+						"image_url": "https://skillcheckgame.com/assets/images/strangetown.webp",
+						"question": "Which Sim is being held as a test subject by the Beaker family?",
+						"wrong": [
+							"Strange Man",
+							"The Specimen",
+							"Subject Zero"
+						]
+					},
+					{
+						"correct": "She has no memories",
+						"difficulty": "Medium",
+						"explanation": "A version of Bella Goth exists in Strangetown, but her memory has been wiped.",
+						"image_url": "",
+						"question": "What is unique about the version of Bella Goth found in Strangetown?",
+						"wrong": [
+							"She is a ghost",
+							"She is a man",
+							"She is green"
+						]
+					},
+					{
+						"correct": "Beaker's Fortress",
+						"difficulty": "Hard",
+						"explanation": "The Beakers live in a highly secured, fortress-like laboratory home.",
+						"image_url": "",
+						"question": "What is the name of the secret laboratory where the Beakers live?",
+						"wrong": [
+							"Area 52",
+							"The Lab",
+							"The Bunker"
+						]
+					},
+					{
+						"correct": "Jenny Smith",
+						"difficulty": "Hard",
+						"explanation": "Jenny Smith (born Curious) married the alien and has two children with him.",
+						"image_url": "",
+						"question": "Who is the human wife of Pollination Tech 9 Smith?",
+						"wrong": [
+							"Lola Smith",
+							"Chloe Smith",
+							"Erin Smith"
+						]
+					},
+					{
+						"correct": "Route 99",
+						"difficulty": "Hard",
+						"explanation": "The desert highway passing through town is designated as Route 99.",
+						"image_url": "",
+						"question": "What is the road number for the main highway seen in Strangetown?",
+						"wrong": [
+							"Route 66",
+							"Highway 1",
+							"Route 77"
+						]
+					},
+					{
+						"correct": "Pascal",
+						"difficulty": "Hard",
+						"explanation": "Pascal Curious begins the game already expecting an alien child after an abduction.",
+						"image_url": "",
+						"question": "Which Curious brother is pregnant with an alien baby at the start of the game?",
+						"wrong": [
+							"Lazlo",
+							"Vidcund",
+							"Loki"
+						]
+					},
+					{
+						"correct": "A Hotel",
+						"difficulty": "Hard",
+						"explanation": "The DS version focused on running a hotel in the middle of the desert.",
+						"image_url": "",
+						"question": "In the DS version of The Sims 2, what business do you manage in Strangetown?",
+						"wrong": [
+							"A Casino",
+							"A Restaurant",
+							"A Gas Station"
+						]
+					}
+				]
+			},
+			"id": "the_sims_strangetown",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Strangetown",
+				"lore_desc": "A desert town where UFO sightings are common and the residents are even weirder than the weather.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Strangetown",
+			"profiler": {
+				"vibe_tags": [
+					"Neighborhood",
+					"Aliens",
+					"Sci-Fi"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "StrangerVille",
+						"difficulty": "Easy",
+						"explanation": "The Mother Plant is the central antagonist of the StrangerVille Game Pack.",
+						"image_url": "",
+						"question": "In which town is the Mother Plant located?",
+						"wrong": [
+							"Oasis Springs",
+							"Willow Creek",
+							"Moonwood Mill"
+						]
+					},
+					{
+						"correct": "They become Possessed",
+						"difficulty": "Easy",
+						"explanation": "Possessed Sims have a creepy smile and a strange, jerky way of walking.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mother_plant.webp",
+						"question": "What happens to Sims who are controlled by the Mother Plant?",
+						"wrong": [
+							"They turn into zombies",
+							"They fall asleep",
+							"They grow wings"
+						]
+					},
+					{
+						"correct": "A Secret Lab",
+						"difficulty": "Easy",
+						"explanation": "She is located in the lowest level of the Secret Lab in StrangerVille.",
+						"image_url": "",
+						"question": "Where is the Mother Plant physically hidden?",
+						"wrong": [
+							"A Volcanic Crater",
+							"Under a House",
+							"In the Library"
+						]
+					},
+					{
+						"correct": "Sci-Fi Mystery",
+						"difficulty": "Easy",
+						"explanation": "The Mother Plant's storyline is a nod to sci-fi classics like 'Invasion of the Body Snatchers'.",
+						"image_url": "",
+						"question": "What genre does the story involving the Mother Plant most closely resemble?",
+						"wrong": [
+							"Medieval Fantasy",
+							"Romantic Comedy",
+							"High School Drama"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Easy",
+						"explanation": "The climax of the StrangerVille story involves a group battle against the plant.",
+						"image_url": "",
+						"question": "Can your Sim attempt to fight the Mother Plant?",
+						"wrong": [
+							"No",
+							"Only if they are a ghost",
+							"Only with a cheat code"
+						]
+					},
+					{
+						"correct": "Hazmat Suit",
+						"difficulty": "Medium",
+						"explanation": "The lab is filled with toxic spores that will infect your Sim without a Hazmat suit.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mother_plant.webp",
+						"question": "What protective gear is highly recommended when exploring the Mother Plant's lab?",
+						"wrong": [
+							"Space Suit",
+							"Diving Gear",
+							"Knight Armor"
+						]
+					},
+					{
+						"correct": "Experimental Vaccine",
+						"difficulty": "Medium",
+						"explanation": "Sims must develop and use an experimental vaccine to weaken and defeat her.",
+						"image_url": "",
+						"question": "What item must be thrown at the Mother Plant to defeat her in battle?",
+						"wrong": [
+							"Water Balloons",
+							"Fire Bombs",
+							"Salt"
+						]
+					},
+					{
+						"correct": "Bizarre Fruit",
+						"difficulty": "Medium",
+						"explanation": "Eating Bizarre Fruit causes a Sim to become instantly possessed.",
+						"image_url": "",
+						"question": "What fruit can you harvest from plants influenced by the Mother Plant?",
+						"wrong": [
+							"Alien Apple",
+							"Spore Berry",
+							"Purple Peach"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "You can recruit up to three other Sims to help you take her down.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mother_plant.webp",
+						"question": "How many Sims can you recruit to join you in the final fight against the Mother Plant?",
+						"wrong": [
+							"One",
+							"Ten",
+							"Five"
+						]
+					},
+					{
+						"correct": "Military",
+						"difficulty": "Medium",
+						"explanation": "Military Sims have unique interactions to get secrets from others in StrangerVille.",
+						"image_url": "",
+						"question": "Which career track is best suited for gathering information about the Mother Plant?",
+						"wrong": [
+							"Culinary",
+							"Artist",
+							"Athlete"
+						]
+					},
+					{
+						"correct": "StrangerVille Mystery",
+						"difficulty": "Hard",
+						"explanation": "The StrangerVille Mystery aspiration guides players through defeating the Mother Plant.",
+						"image_url": "",
+						"question": "What is the name of the 'Hero' aspiration related to the Mother Plant?",
+						"wrong": [
+							"Plant Hunter",
+							"Alien Savior",
+							"Lab Explorer"
+						]
+					},
+					{
+						"correct": "Life Extension",
+						"difficulty": "Hard",
+						"explanation": "A friendly Mother Plant can grant a Sim a longer life span.",
+						"image_url": "",
+						"question": "If you befriend the Mother Plant instead of killing her, what can you ask her for?",
+						"wrong": [
+							"Free Pizza",
+							"A Promotion",
+							"A New House"
+						]
+					},
+					{
+						"correct": "Interstellar Alien",
+						"difficulty": "Hard",
+						"explanation": "She is an ancient alien entity that traveled through space before landing on Earth.",
+						"image_url": "",
+						"question": "What is the Mother Plant's real origin according to the game's lore?",
+						"wrong": [
+							"Underground Mutation",
+							"Magic Curse",
+							"Scientific Accident"
+						]
+					},
+					{
+						"correct": "Level 4",
+						"difficulty": "Hard",
+						"explanation": "Players must descend through four levels of security to reach her chamber.",
+						"image_url": "",
+						"question": "On which basement level of the Secret Lab does the Mother Plant reside?",
+						"wrong": [
+							"Level 1",
+							"Level 10",
+							"Level 2"
+						]
+					},
+					{
+						"correct": "It returns to normal",
+						"difficulty": "Hard",
+						"explanation": "Defeating her clears the strange purple clouds and spore-filled air.",
+						"image_url": "",
+						"question": "What happens to the weather in StrangerVille after the Mother Plant is defeated?",
+						"wrong": [
+							"It starts snowing",
+							"It rains fire",
+							"It becomes a permanent eclipse"
+						]
+					}
+				]
+			},
+			"id": "the_sims_the_mother_plant",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Mother Plant",
+				"lore_desc": "A sentient, massive alien flora deep beneath a secret lab, controlling the minds of the people in StrangerVille.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Mother Plant",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Alien",
+					"StrangerVille"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Tutorial Sim",
+						"difficulty": "Easy",
+						"explanation": "Bob Newbie was the character players used to learn the game's basics.",
+						"image_url": "",
+						"question": "What was Bob Newbie's primary role in the original Sims game?",
+						"wrong": [
+							"The Villain",
+							"The Wealthiest Sim",
+							"A Secret Agent"
+						]
+					},
+					{
+						"correct": "Betty",
+						"difficulty": "Easy",
+						"explanation": "Bob and Betty Newbie are the original tutorial couple.",
+						"image_url": "https://skillcheckgame.com/assets/images/bob_newbie.webp",
+						"question": "Who is Bob Newbie's wife?",
+						"wrong": [
+							"Bella",
+							"Brandi",
+							"Nancy"
+						]
+					},
+					{
+						"correct": "His balding head",
+						"difficulty": "Easy",
+						"explanation": "Bob is famously depicted as a balding man in a simple t-shirt.",
+						"image_url": "",
+						"question": "What is Bob Newbie's most recognizable physical feature?",
+						"wrong": [
+							"A long beard",
+							"Neon hair",
+							"A tuxedo"
+						]
+					},
+					{
+						"correct": "The Sims",
+						"difficulty": "Easy",
+						"explanation": "Bob Newbie debuted in the very first game released in 2000.",
+						"image_url": "",
+						"question": "Which game did Bob Newbie first appear in?",
+						"wrong": [
+							"The Sims 2",
+							"The Sims 3",
+							"The Sims 4"
+						]
+					},
+					{
+						"correct": "A stained t-shirt",
+						"difficulty": "Easy",
+						"explanation": "Bob's default outfit is a messy white t-shirt and blue jeans.",
+						"image_url": "https://skillcheckgame.com/assets/images/bob_newbie.webp",
+						"question": "What kind of clothing is Bob Newbie typically wearing in his original appearance?",
+						"wrong": [
+							"A business suit",
+							"A tracksuit",
+							"A Hawaiian shirt"
+						]
+					},
+					{
+						"correct": "Brandi Broke",
+						"difficulty": "Medium",
+						"explanation": "Brandi Broke is canonically the daughter of the Newbies.",
+						"image_url": "",
+						"question": "What is the name of Bob and Betty's daughter who appears in The Sims 2?",
+						"wrong": [
+							"Cassandra Goth",
+							"Angela Pleasant",
+							"Nina Caliente"
+						]
+					},
+					{
+						"correct": "Riverview",
+						"difficulty": "Medium",
+						"explanation": "A teenage Bob lives with his parents in the downloadable town of Riverview.",
+						"image_url": "",
+						"question": "In which town can a young version of Bob Newbie be found in The Sims 3?",
+						"wrong": [
+							"Sunset Valley",
+							"Bridgeport",
+							"Twinbrook"
+						]
+					},
+					{
+						"correct": "7 Sim Lane",
+						"difficulty": "Medium",
+						"explanation": "The Newbies lived at 7 Sim Lane, a modest one-story house.",
+						"image_url": "https://skillcheckgame.com/assets/images/bob_newbie.webp",
+						"question": "What is the address of the Newbie household in the original Sims game?",
+						"wrong": [
+							"1 Sim Lane",
+							"1313 Dead End Drive",
+							"101 Main Street"
+						]
+					},
+					{
+						"correct": "Unemployed",
+						"difficulty": "Medium",
+						"explanation": "Part of the tutorial involved helping Bob find his very first job.",
+						"image_url": "",
+						"question": "What was Bob Newbie's job status at the start of the original tutorial?",
+						"wrong": [
+							"Doctor",
+							"Astronaut",
+							"Scientist"
+						]
+					},
+					{
+						"correct": "Slob",
+						"difficulty": "Medium",
+						"explanation": "Bob is known for being messy and lazy, as seen by his stained clothing.",
+						"image_url": "",
+						"question": "What is Bob Newbie's primary personality trait in the original game's lore?",
+						"wrong": [
+							"Neat",
+							"Genius",
+							"Active"
+						]
+					},
+					{
+						"correct": "Buddy",
+						"difficulty": "Hard",
+						"explanation": "Buddy was the faithful Newbie family dog introduced in the expansion pack.",
+						"image_url": "",
+						"question": "What was the name of the dog the Newbies owned in 'The Sims: Unleashed'?",
+						"wrong": [
+							"Rover",
+							"Buster",
+							"Lucky"
+						]
+					},
+					{
+						"correct": "Old Age",
+						"difficulty": "Hard",
+						"explanation": "By the time The Sims 2 starts, Bob has passed away naturally from old age.",
+						"image_url": "",
+						"question": "How did Bob Newbie pass away according to The Sims 2 lore?",
+						"wrong": [
+							"Drowning",
+							"Fire",
+							"Abduction"
+						]
+					},
+					{
+						"correct": "Robert and Mags",
+						"difficulty": "Hard",
+						"explanation": "In Riverview, Bob lives with his parents Robert and Mags Newbie.",
+						"image_url": "",
+						"question": "What were the names of Bob Newbie's parents as seen in The Sims 3?",
+						"wrong": [
+							"Bill and Betty",
+							"Gunther and Cornelia",
+							"Herb and Coral"
+						]
+					},
+					{
+						"correct": "Mom's House",
+						"difficulty": "Hard",
+						"explanation": "The console story mode starts with Bob living in his mother's house.",
+						"image_url": "",
+						"question": "In the console version of The Sims (PS2/Xbox), what is the first level of 'Get A Life' mode featuring Bob?",
+						"wrong": [
+							"The Newbie Shack",
+							"The Mansion",
+							"Strangetown"
+						]
+					},
+					{
+						"correct": "The Big Dipper",
+						"difficulty": "Hard",
+						"explanation": "Tutorial images often showed Bob interacting with the world, including stargazing.",
+						"image_url": "",
+						"question": "What is the specific constellation Bob is often seen looking at in tutorial screens?",
+						"wrong": [
+							"Orion",
+							"The Simoleon",
+							"Cassiopeia"
+						]
+					}
+				]
+			},
+			"id": "the_sims_bob_newbie",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Bob Newbie",
+				"lore_desc": "The very first Sim many players ever controlled. Bob is a simple man who taught millions how to use a toilet and buy a fridge.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Bob Newbie",
+			"profiler": {
+				"vibe_tags": [
+					"Tutorial Sim",
+					"The Sims 1",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Pink",
+						"difficulty": "Easy",
+						"explanation": "The Freezer Bunny is almost always depicted in a bright pink color.",
+						"image_url": "",
+						"question": "What color is the Freezer Bunny?",
+						"wrong": [
+							"Blue",
+							"Yellow",
+							"Green"
+						]
+					},
+					{
+						"correct": "Rabbit",
+						"difficulty": "Easy",
+						"explanation": "As the name suggests, it is a cartoonish bunny rabbit.",
+						"image_url": "https://skillcheckgame.com/assets/images/freezer_bunny.webp",
+						"question": "What animal is the Freezer Bunny based on?",
+						"wrong": [
+							"Dog",
+							"Cat",
+							"Llama"
+						]
+					},
+					{
+						"correct": "The Sims 2",
+						"difficulty": "Easy",
+						"explanation": "It first appeared as a hidden detail on a refrigerator in The Sims 2.",
+						"image_url": "",
+						"question": "In which game did the Freezer Bunny make its very first appearance?",
+						"wrong": [
+							"The Sims 1",
+							"The Sims 3",
+							"The Sims 4"
+						]
+					},
+					{
+						"correct": "On objects and clothing",
+						"difficulty": "Easy",
+						"explanation": "The bunny appears as a logo on various items throughout the series.",
+						"image_url": "",
+						"question": "Where is the Freezer Bunny's image most commonly found in the game world?",
+						"wrong": [
+							"In the sky",
+							"Under the water",
+							"On the Sim's skin"
+						]
+					},
+					{
+						"correct": "Freezer Bunny Ice Cream",
+						"difficulty": "Easy",
+						"explanation": "Sims can make and eat Freezer Bunny flavored ice cream.",
+						"image_url": "https://skillcheckgame.com/assets/images/freezer_bunny.webp",
+						"question": "Which of these is a real Freezer Bunny item in The Sims 4?",
+						"wrong": [
+							"Freezer Bunny Car",
+							"Freezer Bunny Rocket",
+							"Freezer Bunny Mansion"
+						]
+					},
+					{
+						"correct": "Refrigerator",
+						"difficulty": "Medium",
+						"explanation": "It was originally a brand logo for the 'Everywhere' freezer in The Sims 2.",
+						"image_url": "",
+						"question": "What appliance was the Freezer Bunny logo first found on?",
+						"wrong": [
+							"Microwave",
+							"Toaster",
+							"Dishwasher"
+						]
+					},
+					{
+						"correct": "Magic Gnomes",
+						"difficulty": "Medium",
+						"explanation": "In The Sims 3, some magic gnomes can be found holding a small Freezer Bunny.",
+						"image_url": "",
+						"question": "The Freezer Bunny is often seen in the hands of which supernatural Sim?",
+						"wrong": [
+							"Vampires",
+							"Werewolves",
+							"Aliens"
+						]
+					},
+					{
+						"correct": "Freezer Bunny Sorbet",
+						"difficulty": "Medium",
+						"explanation": "It is a popular flavor in the Cool Kitchen Stuff pack.",
+						"image_url": "https://skillcheckgame.com/assets/images/freezer_bunny.webp",
+						"question": "What is the name of the ice cream flavor dedicated to this mascot in The Sims 4?",
+						"wrong": [
+							"Pink Bunny Blast",
+							"Frozen Rabbit Ripple",
+							"Simmy Sorbet"
+						]
+					},
+					{
+						"correct": "Generations",
+						"difficulty": "Medium",
+						"explanation": "The 'Gnome of the Freezer Bunny' was introduced in the Generations pack.",
+						"image_url": "",
+						"question": "Which expansion pack introduced a giant Freezer Bunny gnome in The Sims 3?",
+						"wrong": [
+							"Pets",
+							"Late Night",
+							"Seasons"
+						]
+					},
+					{
+						"correct": "Progress",
+						"difficulty": "Medium",
+						"explanation": "It sometimes appears as a fun animation while the game is loading content.",
+						"image_url": "",
+						"question": "What does the Freezer Bunny represent in the game's UI during certain loading screens?",
+						"wrong": [
+							"An Error",
+							"The Quit Button",
+							"A Secret Message"
+						]
+					},
+					{
+						"correct": "Social Bunny",
+						"difficulty": "Hard",
+						"explanation": "The Social Bunny app in High School Years uses the bunny as its logo.",
+						"image_url": "",
+						"question": "What is the name of the social media app for Sims in The Sims 4 that features the bunny?",
+						"wrong": [
+							"Simstagram",
+							"Rabbit Hole",
+							"Bunny Chat"
+						]
+					},
+					{
+						"correct": "Sir Bricks-a-Lot",
+						"difficulty": "Hard",
+						"explanation": "There is a wooden block toy featuring the bunny's face.",
+						"image_url": "",
+						"question": "In The Sims 2: Open for Business, what is the name of the toy version of the bunny?",
+						"wrong": [
+							"Bunny Block",
+							"Freezer Toy",
+							"Pinky the Rabbit"
+						]
+					},
+					{
+						"correct": "The Social Bunny",
+						"difficulty": "Hard",
+						"explanation": "Fans and developers often joke that the Freezer Bunny and Social Bunny are related.",
+						"image_url": "",
+						"question": "The Freezer Bunny is rumored to be the 'cousin' of which other mascot NPC?",
+						"wrong": [
+							"The Tragic Clown",
+							"Mrs. Crumplebottom",
+							"The Grim Reaper"
+						]
+					},
+					{
+						"correct": "Sculpt Freezer Bunny",
+						"difficulty": "Hard",
+						"explanation": "High-level woodworkers can create a decorative Freezer Bunny sculpture.",
+						"image_url": "",
+						"question": "What is the 'Freezer Bunny' interaction found in the Sims 4's woodworking bench?",
+						"wrong": [
+							"Carve Llama",
+							"Whittle Rabbit",
+							"Build Hutch"
+						]
+					},
+					{
+						"correct": "The Sims 2 Pets (Console)",
+						"difficulty": "Hard",
+						"explanation": "On consoles, players could unlock a special bunny-themed pet skin.",
+						"image_url": "",
+						"question": "Which console game featured a 'Freezer Bunny' as a playable pet unlockable?",
+						"wrong": [
+							"The Sims 3 (Wii)",
+							"The Sims Bustin Out",
+							"The Urbz"
+						]
+					}
+				]
+			},
+			"id": "the_sims_freezer_bunny",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Freezer Bunny",
+				"lore_desc": "A pink, wide-eyed bunny mascot that appears on everything from ice cream to washing machines. It's the series' unofficial mascot.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Freezer Bunny",
+			"profiler": {
+				"vibe_tags": [
+					"Mascot",
+					"Easter Egg",
+					"Icon"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A thin mustache",
+						"difficulty": "Easy",
+						"explanation": "Mortimer is famously depicted with a pencil-thin, sophisticated mustache.",
+						"image_url": "",
+						"question": "What is Mortimer Goth's signature facial hair style?",
+						"wrong": [
+							"A full beard",
+							"A goatee",
+							"Sideburns"
+						]
+					},
+					{
+						"correct": "Bella",
+						"difficulty": "Easy",
+						"explanation": "Mortimer and Bella Goth are the most iconic couple in the franchise.",
+						"image_url": "https://skillcheckgame.com/assets/images/mortimer_goth.webp",
+						"question": "What is the name of Mortimer Goth's wife?",
+						"wrong": [
+							"Betty",
+							"Nancy",
+							"Cassandra"
+						]
+					},
+					{
+						"correct": "Gothic Victorian",
+						"difficulty": "Easy",
+						"explanation": "The Goth estate is always a spooky, dark Victorian-style mansion.",
+						"image_url": "",
+						"question": "What is the general style of the mansion Mortimer lives in?",
+						"wrong": [
+							"Ultra Modern",
+							"Beach Shack",
+							"Log Cabin"
+						]
+					},
+					{
+						"correct": "The Sims 2",
+						"difficulty": "Easy",
+						"explanation": "Since The Sims 2 takes place 25 years after the original, Mortimer has aged into an Elder.",
+						"image_url": "",
+						"question": "In which game does Mortimer Goth appear as an elderly man at the start?",
+						"wrong": [
+							"The Sims 1",
+							"The Sims 3",
+							"The Sims 4"
+						]
+					},
+					{
+						"correct": "Science",
+						"difficulty": "Easy",
+						"explanation": "Mortimer is a man of science, often seen working in his home laboratory.",
+						"image_url": "",
+						"question": "What is Mortimer's primary career field in the original Sims game?",
+						"wrong": [
+							"Sports",
+							"Crime",
+							"Cooking"
+						]
+					},
+					{
+						"correct": "Alexander",
+						"difficulty": "Medium",
+						"explanation": "Alexander Goth is the youngest member of the family in the second game.",
+						"image_url": "https://skillcheckgame.com/assets/images/mortimer_goth.webp",
+						"question": "What is the name of Mortimer and Bella's young son introduced in The Sims 2?",
+						"wrong": [
+							"Michael",
+							"Geoffrey",
+							"Don"
+						]
+					},
+					{
+						"correct": "Child",
+						"difficulty": "Medium",
+						"explanation": "The Sims 3 is a prequel, showing Mortimer as a child living with his parents.",
+						"image_url": "",
+						"question": "What life stage is Mortimer Goth in during The Sims 3?",
+						"wrong": [
+							"Adult",
+							"Teen",
+							"Elder"
+						]
+					},
+					{
+						"correct": "Gunther and Cornelia",
+						"difficulty": "Medium",
+						"explanation": "Gunther and Cornelia Goth are the founders of the Goth wealth in Sunset Valley.",
+						"image_url": "",
+						"question": "Who are Mortimer's parents in the Goth family line?",
+						"wrong": [
+							"Robert and Mags",
+							"Herb and Coral",
+							"Victor and Gretle"
+						]
+					},
+					{
+						"correct": "Astronomy",
+						"difficulty": "Medium",
+						"explanation": "Mortimer is frequently found using a telescope to look at the stars.",
+						"image_url": "https://skillcheckgame.com/assets/images/mortimer_goth.webp",
+						"question": "What hobby does Mortimer often pursue, especially in The Sims 1 and 4?",
+						"wrong": [
+							"Surfing",
+							"Basketball",
+							"Cooking"
+						]
+					},
+					{
+						"correct": "Dina Caliente",
+						"difficulty": "Medium",
+						"explanation": "Dina Caliente is pursuing Mortimer, likely for his significant fortune.",
+						"image_url": "",
+						"question": "In The Sims 2, who is Mortimer engaged to before the player intervenes?",
+						"wrong": [
+							"Nina Caliente",
+							"Cassandra Goth",
+							"Mary-Sue Pleasant"
+						]
+					},
+					{
+						"correct": "Elixir of Life",
+						"difficulty": "Hard",
+						"explanation": "The Elixir of Life was a reward item that Mortimer often sought in lore.",
+						"image_url": "",
+						"question": "What is the name of the potion Mortimer can create in the original Sims to reverse aging?",
+						"wrong": [
+							"Youth Juice",
+							"Time Tea",
+							"Goth Elixir"
+						]
+					},
+					{
+						"correct": "Classical",
+						"difficulty": "Hard",
+						"explanation": "Fitting his sophisticated persona, Mortimer prefers classical music.",
+						"image_url": "",
+						"question": "What is Mortimer's favorite music genre in The Sims 3?",
+						"wrong": [
+							"Rock",
+							"Pop",
+							"Jazz"
+						]
+					},
+					{
+						"correct": "Agnes Crumplebottom",
+						"difficulty": "Hard",
+						"explanation": "Agnes Crumplebottom is related to the Goth family tree.",
+						"image_url": "",
+						"question": "In the game's lore, who is Mortimer's distant relative that hates romance?",
+						"wrong": [
+							"Olive Specter",
+							"Kaylynn Langerak",
+							"Jenny Smith"
+						]
+					},
+					{
+						"correct": "Hecuba",
+						"difficulty": "Hard",
+						"explanation": "The Goth family owned a cat named Hecuba in the first game's pets expansion.",
+						"image_url": "",
+						"question": "What was the name of Mortimer's cat in 'The Sims: Unleashed'?",
+						"wrong": [
+							"Shadow",
+							"Midnight",
+							"Salem"
+						]
+					},
+					{
+						"correct": "Gerard Marino",
+						"difficulty": "Hard",
+						"explanation": "Gerard Marino, while primarily a composer, provided the voice for Mortimer in the fourth game.",
+						"image_url": "",
+						"question": "Mortimer's voice in The Sims 4 is provided by which long-time series developer?",
+						"wrong": [
+							"Will Wright",
+							"Charles Martinet",
+							"Stephen Kies"
+						]
+					}
+				]
+			},
+			"id": "the_sims_mortimer_goth",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Mortimer Goth",
+				"lore_desc": "The patriarch of the Goth family, Mortimer is a brilliant, brooding man with a passion for science and his missing wife, Bella.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Mortimer Goth",
+			"profiler": {
+				"vibe_tags": [
+					"Goth Family",
+					"Iconic Sim",
+					"Scientist"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Extreme Wealth",
+						"difficulty": "Easy",
+						"explanation": "The Landgraabs are the billionaires of the Sim world.",
+						"image_url": "",
+						"question": "What is the primary characteristic the Landgraab family is known for?",
+						"wrong": [
+							"Being Aliens",
+							"Being Poor",
+							"Living in a Forest"
+						]
+					},
+					{
+						"correct": "Geoffrey",
+						"difficulty": "Easy",
+						"explanation": "Geoffrey Landgraab is the patriarch in the fourth installment.",
+						"image_url": "https://skillcheckgame.com/assets/images/landgraab_family.webp",
+						"question": "What is the first name of the father in the Landgraab family in The Sims 4?",
+						"wrong": [
+							"Malcolm",
+							"Mortimer",
+							"Bob"
+						]
+					},
+					{
+						"correct": "Oasis Springs",
+						"difficulty": "Easy",
+						"explanation": "They live in a massive estate in the desert-themed Oasis Springs.",
+						"image_url": "",
+						"question": "In which city do the Landgraabs live in The Sims 4?",
+						"wrong": [
+							"Willow Creek",
+							"San Myshuno",
+							"Bridgeport"
+						]
+					},
+					{
+						"correct": "The Alto Family",
+						"difficulty": "Easy",
+						"explanation": "The Altos and Landgraabs have a legendary neighborhood feud in Sunset Valley.",
+						"image_url": "",
+						"question": "Which family is often considered the main rival to the Landgraabs in The Sims 3?",
+						"wrong": [
+							"The Goths",
+							"The Newbies",
+							"The Smiths"
+						]
+					},
+					{
+						"correct": "Nancy",
+						"difficulty": "Easy",
+						"explanation": "Nancy Landgraab is a powerful business mogul in the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/landgraab_family.webp",
+						"question": "What is the name of the Landgraab mother in The Sims 4?",
+						"wrong": [
+							"Bella",
+							"Dina",
+							"Mary-Sue"
+						]
+					},
+					{
+						"correct": "Malcolm",
+						"difficulty": "Medium",
+						"explanation": "Most Landgraab generations feature a son named Malcolm (I, II, III, IV).",
+						"image_url": "",
+						"question": "What is the recurring name used for the Landgraab heirs throughout the series?",
+						"wrong": [
+							"Geoffrey",
+							"Dudley",
+							"Skip"
+						]
+					},
+					{
+						"correct": "Secret Agent",
+						"difficulty": "Medium",
+						"explanation": "Despite the family wealth, Geoffrey works as a secret agent.",
+						"image_url": "",
+						"question": "What is Geoffrey Landgraab's secret career in The Sims 4?",
+						"wrong": [
+							"Criminal Mastermind",
+							"Professional Athlete",
+							"Chef"
+						]
+					},
+					{
+						"correct": "Land Grab",
+						"difficulty": "Medium",
+						"explanation": "The name refers to the aggressive acquisition of real estate.",
+						"image_url": "",
+						"question": "The Landgraab name is a play on what real-world business term?",
+						"wrong": [
+							"Money Maker",
+							"Rich Land",
+							"Estate Sale"
+						]
+					},
+					{
+						"correct": "Sunset Valley",
+						"difficulty": "Medium",
+						"explanation": "The Landgraabs are the historical founders of Sunset Valley.",
+						"image_url": "https://skillcheckgame.com/assets/images/landgraab_family.webp",
+						"question": "Which Sims 3 town is officially 'founded' by the Landgraab family?",
+						"wrong": [
+							"Twinbrook",
+							"Riverview",
+							"Starlight Shores"
+						]
+					},
+					{
+						"correct": "An Electronics Store",
+						"difficulty": "Medium",
+						"explanation": "Malcolm IV runs 'Club Dante' and an electronics shop in Bluewater Village.",
+						"image_url": "",
+						"question": "In The Sims 2: Open for Business, what business does Malcolm Landgraab IV own?",
+						"wrong": [
+							"A Restaurant",
+							"A Toy Shop",
+							"A Car Dealership"
+						]
+					},
+					{
+						"correct": "Malcolm",
+						"difficulty": "Hard",
+						"explanation": "Malcolm Landgraab repossesses your items throughout the story mode.",
+						"image_url": "",
+						"question": "Which Landgraab was the main antagonist in 'The Sims: Bustin Out'?",
+						"wrong": [
+							"Geoffrey",
+							"Dudley",
+							"Mimi"
+						]
+					},
+					{
+						"correct": "Chester and Queenie",
+						"difficulty": "Hard",
+						"explanation": "Nancy was born into the Landgraab line through her parents Chester and Queenie.",
+						"image_url": "",
+						"question": "Who are Nancy Landgraab's parents as mentioned in the series history?",
+						"wrong": [
+							"Gunther and Cornelia",
+							"Herb and Coral",
+							"Victor and Gretle"
+						]
+					},
+					{
+						"correct": "Johnny Zest",
+						"difficulty": "Hard",
+						"explanation": "Johnny Zest is canonically a Landgraab who was cut off after wanting to be a comedian.",
+						"image_url": "",
+						"question": "Which member of the Landgraab family is actually a 'disowned' member living in a trailer in TS4?",
+						"wrong": [
+							"Dudley Landgraab",
+							"Skip Landgraab",
+							"Mimi Landgraab"
+						]
+					},
+					{
+						"correct": "Landgraab",
+						"difficulty": "Hard",
+						"explanation": "Even in the medieval spin-off, the Landgraab name exists as a wealthy lineage.",
+						"image_url": "",
+						"question": "In The Sims Medieval, what is the surname of the family similar to the Landgraabs?",
+						"wrong": [
+							"Richman",
+							"King",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Landgraab Industries",
+						"difficulty": "Hard",
+						"explanation": "The family conglomerate is known as Landgraab Industries.",
+						"image_url": "",
+						"question": "What is the name of the Landgraab-owned power company in SimCity and The Sims?",
+						"wrong": [
+							"SimPower",
+							"Nancy Electrics",
+							"Oasis Energy"
+						]
+					}
+				]
+			},
+			"id": "the_sims_landgraab_family",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Landgraab Family",
+				"lore_desc": "The wealthiest and most influential family in the Sim world. They own everything from the power company to the local grocery stores.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Landgraab Family",
+			"profiler": {
+				"vibe_tags": [
+					"Rich",
+					"Legacy",
+					"Business"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Her Handbag",
+						"difficulty": "Easy",
+						"explanation": "She famously whacks Sims with her purse if they are too romantic in public.",
+						"image_url": "",
+						"question": "What is Mrs. Crumplebottom's most famous weapon?",
+						"wrong": [
+							"An Umbrella",
+							"A Cane",
+							"A Rolling Pin"
+						]
+					},
+					{
+						"correct": "Public affection",
+						"difficulty": "Easy",
+						"explanation": "She cannot stand seeing Sims kiss or flirt.",
+						"image_url": "https://skillcheckgame.com/assets/images/mrs._crumplebottom.webp",
+						"question": "What kind of behavior does Mrs. Crumplebottom absolutely hate?",
+						"wrong": [
+							"Cooking",
+							"Dancing",
+							"Sleeping"
+						]
+					},
+					{
+						"correct": "Grumpy",
+						"difficulty": "Easy",
+						"explanation": "She is the definitive 'grumpy old lady' of the Sims world.",
+						"image_url": "",
+						"question": "What is Mrs. Crumplebottom's typical mood?",
+						"wrong": [
+							"Cheerful",
+							"Excited",
+							"Romantic"
+						]
+					},
+					{
+						"correct": "Cottage Living",
+						"difficulty": "Easy",
+						"explanation": "She runs a garden stall in the town of Henford-on-Bagley.",
+						"image_url": "",
+						"question": "In which expansion pack for The Sims 4 did Mrs. Crumplebottom return?",
+						"wrong": [
+							"City Living",
+							"Get Together",
+							"High School Years"
+						]
+					},
+					{
+						"correct": "Agnes",
+						"difficulty": "Easy",
+						"explanation": "Agnes Crumplebottom is the character's full name in most games.",
+						"image_url": "https://skillcheckgame.com/assets/images/mrs._crumplebottom.webp",
+						"question": "What is the first name of the most famous Mrs. Crumplebottom?",
+						"wrong": [
+							"Martha",
+							"Gertrude",
+							"Mildred"
+						]
+					},
+					{
+						"correct": "Her husband died on their honeymoon",
+						"difficulty": "Medium",
+						"explanation": "Lore states her husband, Erik Darling, died tragically early in their marriage.",
+						"image_url": "",
+						"question": "Why is Mrs. Crumplebottom so bitter and hateful toward romance?",
+						"wrong": [
+							"She was stood up at the altar",
+							"She hates men",
+							"She is a ghost"
+						]
+					},
+					{
+						"correct": "Young Adult",
+						"difficulty": "Medium",
+						"explanation": "As a prequel, The Sims 3 shows a younger, mourning Agnes.",
+						"image_url": "",
+						"question": "What life stage is Agnes Crumplebottom in during The Sims 3?",
+						"wrong": [
+							"Elder",
+							"Teen",
+							"Child"
+						]
+					},
+					{
+						"correct": "Erik Darling",
+						"difficulty": "Medium",
+						"explanation": "Erik Darling's ghost can often be found in her backyard in The Sims 3.",
+						"image_url": "https://skillcheckgame.com/assets/images/mrs._crumplebottom.webp",
+						"question": "What was the name of Agnes's late husband?",
+						"wrong": [
+							"Mortimer Goth",
+							"Bob Newbie",
+							"Gunther Goth"
+						]
+					},
+					{
+						"correct": "Nightlife",
+						"difficulty": "Medium",
+						"explanation": "She arrived with Nightlife to keep the new dating spots 'decent'.",
+						"image_url": "",
+						"question": "In The Sims 2, which expansion pack triggered Mrs. Crumplebottom's appearance in community lots?",
+						"wrong": [
+							"University",
+							"Open for Business",
+							"Pets"
+						]
+					},
+					{
+						"correct": "Grey",
+						"difficulty": "Medium",
+						"explanation": "She is always depicted as an elderly woman with grey hair in the later timelines.",
+						"image_url": "",
+						"question": "What color is Agnes Crumplebottom's hair in her Elder stage?",
+						"wrong": [
+							"Blonde",
+							"Black",
+							"Pink"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "There are two: Agnes (the grumpy one) and Agatha (the friendly one).",
+						"image_url": "",
+						"question": "How many 'Crumplebottom' cousins exist in The Sims 4: Cottage Living?",
+						"wrong": [
+							"One",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "Miss Lucinda",
+						"difficulty": "Hard",
+						"explanation": "A similar NPC in the original 'Hot Date' was internally named Miss Lucinda.",
+						"image_url": "",
+						"question": "In the original Sims game, what was her name before it was changed to Agnes?",
+						"wrong": [
+							"Mrs. Bitter",
+							"Agatha",
+							"Janice"
+						]
+					},
+					{
+						"correct": "She is Cornelia Goth's sister",
+						"difficulty": "Hard",
+						"explanation": "Agnes is the sister of Cornelia Goth, making her Mortimer's aunt.",
+						"image_url": "",
+						"question": "What is the Goth family's relationship to Agnes Crumplebottom?",
+						"wrong": [
+							"She is Mortimer's mother",
+							"She is Bella's aunt",
+							"No relation"
+						]
+					},
+					{
+						"correct": "She whacks them instantly",
+						"difficulty": "Hard",
+						"explanation": "Flirting with her is a surefire way to get a face full of handbag.",
+						"image_url": "",
+						"question": "What happens if a Sim tries to flirt with Mrs. Crumplebottom herself?",
+						"wrong": [
+							"She falls in love",
+							"She faints",
+							"She laughs"
+						]
+					},
+					{
+						"correct": "Crumplebottom Mansion",
+						"difficulty": "Hard",
+						"explanation": "She lives in the large, unfinished-feeling Crumplebottom Mansion.",
+						"image_url": "",
+						"question": "What is the name of the 'Crumplebottom' estate in Sunset Valley?",
+						"wrong": [
+							"The Mausoleum",
+							"Darling Manor",
+							"Goth Hall"
+						]
+					}
+				]
+			},
+			"id": "the_sims_mrs._crumplebottom",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Mrs. Crumplebottom",
+				"lore_desc": "The guardian of public decency who will beat any Sim with her handbag if she catches them showing affection in public.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Mrs. Crumplebottom",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Grumpy",
+					"Romance-Hater"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "They are lonely",
+						"difficulty": "Easy",
+						"explanation": "The Social Bunny only appears when a Sim's Social meter is critically low.",
+						"image_url": "",
+						"question": "Why does the Social Bunny appear to a Sim?",
+						"wrong": [
+							"They are hungry",
+							"They are tired",
+							"They are rich"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "The Social Bunny typically comes in pink, blue, or yellow.",
+						"image_url": "https://skillcheckgame.com/assets/images/social_bunny.webp",
+						"question": "Which of these is NOT a color the Social Bunny can appear in?",
+						"wrong": [
+							"Pink",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "The bunny is a hallucination visible only to the lonely Sim.",
+						"image_url": "",
+						"question": "Can other Sims with high social meters see the Social Bunny?",
+						"wrong": [
+							"Yes",
+							"Only if they are toddlers",
+							"Only if they are pets"
+						]
+					},
+					{
+						"correct": "Falls from the sky",
+						"difficulty": "Easy",
+						"explanation": "It dramatically drops from the sky to save the Sim from loneliness.",
+						"image_url": "",
+						"question": "How does the Social Bunny usually arrive on the lot?",
+						"wrong": [
+							"Walks through the door",
+							"Digs out of the ground",
+							"Spawns from the fridge"
+						]
+					},
+					{
+						"correct": "To raise the Social meter",
+						"difficulty": "Easy",
+						"explanation": "Talking and playing with the bunny fills the Sim's social needs.",
+						"image_url": "",
+						"question": "What is the primary purpose of interacting with the Social Bunny?",
+						"wrong": [
+							"To get money",
+							"To learn a skill",
+							"To die"
+						]
+					},
+					{
+						"correct": "Each sees their own bunny",
+						"difficulty": "Medium",
+						"explanation": "The bunnies are individual hallucinations for each lonely Sim.",
+						"image_url": "https://skillcheckgame.com/assets/images/social_bunny.webp",
+						"question": "What happens if two lonely Sims are in the same room with their Social Bunnies?",
+						"wrong": [
+							"The bunnies fight",
+							"The bunnies merge",
+							"The bunnies disappear"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Medium",
+						"explanation": "If a Sim is in a bad mood, they can actually brawl with the bunny.",
+						"image_url": "",
+						"question": "Can a Sim get into a physical fight with the Social Bunny?",
+						"wrong": [
+							"No",
+							"Only if they are evil",
+							"Only in the morning"
+						]
+					},
+					{
+						"correct": "The Sims 2",
+						"difficulty": "Medium",
+						"explanation": "The Social Bunny was a core mechanic for social failure in The Sims 2.",
+						"image_url": "",
+						"question": "In which Sims game did the Social Bunny NPC first appear?",
+						"wrong": [
+							"The Sims 1",
+							"The Sims 3",
+							"The Sims 4"
+						]
+					},
+					{
+						"correct": "It flies away",
+						"difficulty": "Medium",
+						"explanation": "Once the Sim is no longer lonely, the bunny floats back into the sky.",
+						"image_url": "https://skillcheckgame.com/assets/images/social_bunny.webp",
+						"question": "What does the Social Bunny do when the Sim's social meter is full?",
+						"wrong": [
+							"It explodes",
+							"It turns into a gnome",
+							"It becomes a real Sim"
+						]
+					},
+					{
+						"correct": "Ambiguous",
+						"difficulty": "Medium",
+						"explanation": "The Social Bunny is an entity that doesn't strictly follow Sim gender rules.",
+						"image_url": "",
+						"question": "What is the Social Bunny's gender?",
+						"wrong": [
+							"Always Male",
+							"Always Female",
+							"It depends on the Sim"
+						]
+					},
+					{
+						"correct": "It weeps",
+						"difficulty": "Hard",
+						"explanation": "The bunny will sit on the floor and cry if the Sim doesn't interact with it.",
+						"image_url": "",
+						"question": "What animation does the Social Bunny perform if it is ignored by the lonely Sim?",
+						"wrong": [
+							"It dances",
+							"It cooks",
+							"It leaves immediately"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Hard",
+						"explanation": "Because it's a hallucination, other NPCs act as if it doesn't exist.",
+						"image_url": "",
+						"question": "Can the Social Bunny interact with other NPCs like the Grim Reaper?",
+						"wrong": [
+							"Yes",
+							"Only on Halloween",
+							"Only in The Sims 2"
+						]
+					},
+					{
+						"correct": "The bunny doesn't appear in the photo",
+						"difficulty": "Hard",
+						"explanation": "In The Sims 2, the bunny will not show up in any photos taken by the player.",
+						"image_url": "",
+						"question": "What happens if a Sim tries to take a photo of the Social Bunny?",
+						"wrong": [
+							"The camera breaks",
+							"The photo is blurry",
+							"The photo is of a llama"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Hard",
+						"explanation": "They are separate entities, though both are rabbit-themed.",
+						"image_url": "",
+						"question": "Is the Social Bunny related to the 'Bunny Day' holiday in later games?",
+						"wrong": [
+							"Yes",
+							"Only in The Sims 3",
+							"Only in The Sims 4"
+						]
+					},
+					{
+						"correct": "Social Bunny",
+						"difficulty": "Hard",
+						"explanation": "The High School Years pack features a phone app named after the classic NPC.",
+						"image_url": "",
+						"question": "What is the name of the social media app in The Sims 4 that references this NPC?",
+						"wrong": [
+							"Bunny Chat",
+							"SimsBook",
+							"RabbitHole"
+						]
+					}
+				]
+			},
+			"id": "the_sims_social_bunny",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Social Bunny",
+				"lore_desc": "A giant, colorful rabbit that only lonely Sims can see. It's either a great friend or a sign that your Sim is losing their mind.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Social Bunny",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Hallucination",
+					"Social"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Because they are sad",
+						"difficulty": "Easy",
+						"explanation": "The Tragic Clown appears as a manifestation of a Sim's low mood.",
+						"image_url": "",
+						"question": "Why does the Tragic Clown visit a Sim?",
+						"wrong": [
+							"Because they are rich",
+							"Because they are having a party",
+							"Because they are sleepy"
+						]
+					},
+					{
+						"correct": "A Painting",
+						"difficulty": "Easy",
+						"explanation": "Viewing the 'Tragic Clown' painting while in a bad mood triggers his arrival.",
+						"image_url": "https://skillcheckgame.com/assets/images/tragic_clown.webp",
+						"question": "In the original Sims game, what object must you look at to summon the Tragic Clown?",
+						"wrong": [
+							"A Mirror",
+							"A TV",
+							"A Telescope"
+						]
+					},
+					{
+						"correct": "He constantly drops the balls",
+						"difficulty": "Easy",
+						"explanation": "His attempts at entertainment are intentionally terrible and depressing.",
+						"image_url": "",
+						"question": "What does the Tragic Clown do when he tries to juggle?",
+						"wrong": [
+							"He creates fire",
+							"He disappears",
+							"He makes Simoleons"
+						]
+					},
+					{
+						"correct": "Black and White",
+						"difficulty": "Easy",
+						"explanation": "His makeup is designed to look like smeared, crying paint.",
+						"image_url": "https://skillcheckgame.com/assets/images/tragic_clown.webp",
+						"question": "What color is the Tragic Clown's makeup in The Sims 4?",
+						"wrong": [
+							"Bright Red",
+							"Neon Green",
+							"Rainbow"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "He usually gives surrounding Sims a 'Sad' or 'Depressed' moodlet.",
+						"image_url": "",
+						"question": "Is the Tragic Clown good at making Sims happy?",
+						"wrong": [
+							"Yes",
+							"Only on birthdays",
+							"Only if paid"
+						]
+					},
+					{
+						"correct": "Set his painting on fire",
+						"difficulty": "Medium",
+						"explanation": "Burning the painting he is attached to is a common way to banish him.",
+						"image_url": "https://skillcheckgame.com/assets/images/tragic_clown.webp",
+						"question": "What is the most effective way to get rid of the Tragic Clown in the original Sims game?",
+						"wrong": [
+							"Call the police",
+							"Pay him to leave",
+							"Feed him dinner"
+						]
+					},
+					{
+						"correct": "He starts crying",
+						"difficulty": "Medium",
+						"explanation": "He is so miserable that his own reflection makes him weep.",
+						"image_url": "",
+						"question": "What happens if the Tragic Clown sees himself in a mirror?",
+						"wrong": [
+							"He turns into a happy clown",
+							"He disappears",
+							"He becomes vain"
+						]
+					},
+					{
+						"correct": "Tragic Clown Costume",
+						"difficulty": "Medium",
+						"explanation": "Sims can wear the full costume to gain his special sad abilities.",
+						"image_url": "",
+						"question": "In The Sims 4, which outfit can a Sim wear to actually become the Tragic Clown?",
+						"wrong": [
+							"Sad Jester Suit",
+							"Blue Mime Gear",
+							"Party Clown Outfit"
+						]
+					},
+					{
+						"correct": "Such a Tragedy",
+						"difficulty": "Medium",
+						"explanation": "The 'Such a Tragedy' moodlet makes all nearby Sims feel sad.",
+						"image_url": "",
+						"question": "What is the name of the special moodlet Sims get when the clown is nearby in The Sims 4?",
+						"wrong": [
+							"Clown Fear",
+							"Miserable Guest",
+							"Terrible Show"
+						]
+					},
+					{
+						"correct": "The Sims 2",
+						"difficulty": "Medium",
+						"explanation": "While present in 1 and 4, he was mostly absent as an NPC in the base game of The Sims 2.",
+						"image_url": "",
+						"question": "In which game did the Tragic Clown NOT appear as a physical NPC at launch?",
+						"wrong": [
+							"The Sims 1",
+							"The Sims 4",
+							"The Sims 3"
+						]
+					},
+					{
+						"correct": "Sunny the Clown",
+						"difficulty": "Hard",
+						"explanation": "Lore suggests his name was Sunny before his life became tragic.",
+						"image_url": "",
+						"question": "What was the name of the Tragic Clown in the lore of The Sims 3?",
+						"wrong": [
+							"Bozo",
+							"Giggles",
+							"Happy"
+						]
+					},
+					{
+						"correct": "Sunset Valley Graveyard",
+						"difficulty": "Hard",
+						"explanation": "Sunny the Clown's grave is located in the local cemetery.",
+						"image_url": "",
+						"question": "Where can the Tragic Clown's ghost be found in The Sims 3?",
+						"wrong": [
+							"Goth Mansion",
+							"The Beach",
+							"The Lab"
+						]
+					},
+					{
+						"correct": "The Sim becomes sad",
+						"difficulty": "Hard",
+						"explanation": "His presence is so powerful it usually overrides their happiness with sadness.",
+						"image_url": "",
+						"question": "In The Sims 4, what happens if the Tragic Clown interacts with a 'Happy' Sim?",
+						"wrong": [
+							"The Clown becomes happy",
+							"They both explode",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "Clown Catchers",
+						"difficulty": "Hard",
+						"explanation": "The Clown Catchers are a specialized service to remove him from your lot.",
+						"image_url": "",
+						"question": "In the original Sims, what professional can you call to deal with the Clown?",
+						"wrong": [
+							"Exorcist",
+							"Police",
+							"Social Worker"
+						]
+					},
+					{
+						"correct": "Multi-colored/Rainbow",
+						"difficulty": "Hard",
+						"explanation": "Despite his sadness, he retains his colorful, frizzy clown hair.",
+						"image_url": "",
+						"question": "What is the specific color of the Tragic Clown's hair in the original game?",
+						"wrong": [
+							"Solid Red",
+							"Solid Blue",
+							"Pitch Black"
+						]
+					}
+				]
+			},
+			"id": "the_sims_tragic_clown",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Tragic Clown",
+				"lore_desc": "A miserable entertainer who appears when a Sim is deeply depressed. He tries to help, but he usually just makes everyone sadder.",
+				"theme_origin": "the sims",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Tragic Clown",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Sadness",
+					"Icon"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -117303,7 +120567,7 @@
 			"id": "hollow knight",
 			"synergies": [
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"The Knight",
 						"The Hollow Knight"
@@ -117311,7 +120575,7 @@
 					"name": "Father & Child"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Hornet",
 						"The Knight"
@@ -117319,7 +120583,7 @@
 					"name": "Shaw!"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"The Radiance",
 						"The Hollow Knight",
@@ -117328,7 +120592,7 @@
 					"name": "The Infection"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Elderbug",
 						"Cornifer",
@@ -117337,7 +120601,7 @@
 					"name": "Dirtmouth Residents"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"The Knight",
 						"The Radiance",
@@ -117346,7 +120610,7 @@
 					"name": "Dream No More"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Geo",
 						"Zote the Mighty"
@@ -117354,7 +120618,7 @@
 					"name": "Bug Currency"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"The Mantis Lords",
 						"The Knight"
@@ -117362,7 +120626,7 @@
 					"name": "Warrior's Respect"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Quirrel",
 						"City of Tears"
@@ -117370,7 +120634,7 @@
 					"name": "The Researcher"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Cornifer",
 						"Geo"
@@ -117378,7 +120642,7 @@
 					"name": "Cartographer's Hum"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"The Grubfather",
 						"Charms"
@@ -117386,7 +120650,7 @@
 					"name": "Save The Children"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Hallownest",
 						"City of Tears",
@@ -117395,7 +120659,7 @@
 					"name": "Forgotten Kingdom"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Zote the Mighty",
 						"Elderbug"
@@ -117403,7 +120667,7 @@
 					"name": "Precept Fifty-Seven"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Charms",
 						"Soul"
@@ -117411,7 +120675,7 @@
 					"name": "Equip Your Loadout"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"The Hollow Knight",
 						"Hallownest"
@@ -117419,7 +120683,7 @@
 					"name": "The Pale King's Legacy"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Soul",
 						"The Knight"
@@ -117427,7 +120691,7 @@
 					"name": "Spell Caster"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Hornet",
 						"Hallownest"
@@ -117435,7 +120699,7 @@
 					"name": "Weaver's Den"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Quirrel",
 						"Cornifer",
@@ -117444,7 +120708,7 @@
 					"name": "Lost Travellers"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"The Mantis Lords",
 						"The Radiance",
@@ -117453,7 +120717,7 @@
 					"name": "Boss Rush"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Hornet",
 						"The Mantis Lords"
@@ -117461,7 +120725,7 @@
 					"name": "Deepnest Survivors"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Dirtmouth",
 						"Elderbug",
@@ -117470,7 +120734,7 @@
 					"name": "Rest Stop"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"The Knight",
 						"Soul",
@@ -117479,7 +120743,7 @@
 					"name": "The Abyss"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"City of Tears",
 						"Quirrel",
@@ -117488,7 +120752,7 @@
 					"name": "Rainy Ambience"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"The Grubfather",
 						"Geo",
@@ -117497,6 +120761,10 @@
 					"name": "Grub Rewards"
 				}
 			]
+		},
+		{
+			"id": "the sims",
+			"synergies": []
 		}
 	],
 	"titles": {
