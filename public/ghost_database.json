@@ -109504,6 +109504,3248 @@
 					"Servant"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Metroidvania",
+						"difficulty": "Easy",
+						"explanation": "Hollow Knight is a classic Metroidvania, focusing on exploration and ability-based progression.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_knight.webp",
+						"question": "What is the primary genre of the game this character stars in?",
+						"wrong": [
+							"First Person Shooter",
+							"Racing Sim",
+							"Sports"
+						]
+					},
+					{
+						"correct": "Team Cherry",
+						"difficulty": "Easy",
+						"explanation": "Team Cherry is a small team based in Adelaide, Australia.",
+						"image_url": "",
+						"question": "Which indie developer created this character and his world?",
+						"wrong": [
+							"Supergiant Games",
+							" Yacht Club Games",
+							"Subset Games"
+						]
+					},
+					{
+						"correct": "A Nail",
+						"difficulty": "Easy",
+						"explanation": "The Knight uses a sharpened piece of metal known in Hallownest as a Nail.",
+						"image_url": "",
+						"question": "What is the primary weapon used by The Knight?",
+						"wrong": [
+							"A Sword",
+							"A Bow",
+							"A Magic Wand"
+						]
+					},
+					{
+						"correct": "Two Dimensional",
+						"difficulty": "Easy",
+						"explanation": "The game is a 2D side-scrolling action platformer.",
+						"image_url": "",
+						"question": "In what dimension does this character move and fight?",
+						"wrong": [
+							"Three Dimensional",
+							"Text Based",
+							"Isometric"
+						]
+					},
+					{
+						"correct": "Grey",
+						"difficulty": "Easy",
+						"explanation": "The Knight wears a tattered grey cloak that conceals its dark, void-filled body.",
+						"image_url": "",
+						"question": "What color is the cloak worn by the protagonist?",
+						"wrong": [
+							"Bright Red",
+							"Neon Green",
+							"Golden Yellow"
+						]
+					},
+					{
+						"correct": "Void",
+						"difficulty": "Medium",
+						"explanation": "The Knight is a Vessel, born from the Abyss and constructed out of the substance known as Void.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_knight.webp",
+						"question": "From what dark substance was The Knight created?",
+						"wrong": [
+							"Fire",
+							"Steel",
+							"Starlight"
+						]
+					},
+					{
+						"correct": "Dream Nail",
+						"difficulty": "Medium",
+						"explanation": "The Dream Nail can cut through the veil between the physical world and the dream world.",
+						"image_url": "",
+						"question": "What item allows The Knight to enter the minds of other creatures?",
+						"wrong": [
+							"Mind Hammer",
+							"Thought Needle",
+							"Memory Key"
+						]
+					},
+					{
+						"correct": "It leaves behind a Shade",
+						"difficulty": "Medium",
+						"explanation": "Upon death, The Knight's Shade remains at the location, and must be defeated to regain lost Geo.",
+						"image_url": "",
+						"question": "What happens to The Knight's shell when it dies?",
+						"wrong": [
+							"It turns into gold",
+							"It explodes like a bomb",
+							"It disappears forever"
+						]
+					},
+					{
+						"correct": "Shadow Dash",
+						"difficulty": "Medium",
+						"explanation": "The Shadow Dash allows the Knight to pass through enemies and projectiles without taking damage.",
+						"image_url": "",
+						"question": "Which dash-improving ability is found in the depths of the Abyss?",
+						"wrong": [
+							"Light Speed",
+							"Double Jump",
+							"Blink"
+						]
+					},
+					{
+						"correct": "The Pale King",
+						"difficulty": "Medium",
+						"explanation": "The Knight is one of the many 'children' of the Pale King and the White Lady.",
+						"image_url": "",
+						"question": "The Knight is a child of which royal figure?",
+						"wrong": [
+							"The Dung Defender",
+							"The Last Stag",
+							"Monomon the Teacher"
+						]
+					},
+					{
+						"correct": "Visiting the birthplace in the Abyss",
+						"difficulty": "Hard",
+						"explanation": "The Void Heart is obtained at the very bottom of the Abyss, unifying the Void under the Knight's will.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_knight.webp",
+						"question": "What is the requirement to obtain the Void Heart charm?",
+						"wrong": [
+							"Defeating Hornet",
+							"Buying it from Sly",
+							"Finding every Grub"
+						]
+					},
+					{
+						"correct": "Void Heart",
+						"difficulty": "Hard",
+						"explanation": "Once the Knight possesses the Void Heart, the Shades in the Abyss and the player's own Shade become passive.",
+						"image_url": "",
+						"question": "Which charm, when equipped, prevents the Knight's Shade from attacking them?",
+						"wrong": [
+							"Kingsoul",
+							"Wayward Compass",
+							"Fragile Strength"
+						]
+					},
+					{
+						"correct": "Hornet",
+						"difficulty": "Hard",
+						"explanation": "Hornet often calls the Knight 'Ghost' or 'Little Ghost' because of its pale mask and void origins.",
+						"image_url": "",
+						"question": "Which character refers to the Knight as a 'Ghost' throughout the game?",
+						"wrong": [
+							"Zote",
+							"Elderbug",
+							"Cloth"
+						]
+					},
+					{
+						"correct": "Mind, Will, and Voice",
+						"difficulty": "Hard",
+						"explanation": "The Vessels were intended to have 'No mind to think, no will to break, no voice to cry suffering'.",
+						"image_url": "",
+						"question": "The Knight lacks which three 'qualities' according to the lore of the Vessels?",
+						"wrong": [
+							"Sight, Hearing, and Touch",
+							"Speed, Strength, and Skill",
+							"Fear, Pain, and Sorrow"
+						]
+					},
+					{
+						"correct": "Shade Lord",
+						"difficulty": "Hard",
+						"explanation": "In the Pantheon of Hallownest, the Knight transforms into the massive, multi-armed Shade Lord.",
+						"image_url": "",
+						"question": "What is the name of the 'ultimate' form of the Knight achieved in the Godmaster endings?",
+						"wrong": [
+							"Void King",
+							"Abyssal God",
+							"Dark Knight"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_the_knight",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Knight",
+				"lore_desc": "A small, nameless wanderer who returns to the ruins of Hallownest to fulfill a dark, ancient purpose.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Ghost",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Vessel",
+					"Void"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Silksong",
+						"difficulty": "Easy",
+						"explanation": "Hollow Knight: Silksong features Hornet as the main protagonist.",
+						"image_url": "https://skillcheckgame.com/assets/images/hornet.webp",
+						"question": "What is the name of the upcoming sequel starring this character?",
+						"wrong": [
+							"Web of Shadows",
+							"Needle Knight",
+							"Deepnest Tales"
+						]
+					},
+					{
+						"correct": "A Needle and Thread",
+						"difficulty": "Easy",
+						"explanation": "Hornet fights with a long needle and uses silk thread to trap and slash her foes.",
+						"image_url": "",
+						"question": "What is Hornet's signature weapon?",
+						"wrong": [
+							"A Broadsword",
+							"A Magic Staff",
+							"A Hammer"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Hornet is easily recognized by her bright red cloak or dress.",
+						"image_url": "",
+						"question": "What color is Hornet's iconic dress?",
+						"wrong": [
+							"Blue",
+							"Black",
+							"White"
+						]
+					},
+					{
+						"correct": "PC",
+						"difficulty": "Easy",
+						"explanation": "Hollow Knight originally launched on Windows and macOS in early 2017.",
+						"image_url": "",
+						"question": "What platform was the original game first released on?",
+						"wrong": [
+							"PlayStation 5",
+							"Nintendo 64",
+							"Sega Genesis"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "You fight Hornet first in Greenpath and later in Kingdom's Edge.",
+						"image_url": "",
+						"question": "True or False: Hornet is a boss you fight more than once in the game.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Herrah the Beast",
+						"difficulty": "Medium",
+						"explanation": "Hornet was the result of a bargain between the Pale King and Herrah the Beast.",
+						"image_url": "https://skillcheckgame.com/assets/images/hornet.webp",
+						"question": "Who is Hornet's biological mother?",
+						"wrong": [
+							"The White Lady",
+							"Monomon the Teacher",
+							"Flukemarm"
+						]
+					},
+					{
+						"correct": "Greenpath",
+						"difficulty": "Medium",
+						"explanation": "The player first spots Hornet darting through the foliage of Greenpath.",
+						"image_url": "",
+						"question": "In which lush, green area do you first encounter Hornet?",
+						"wrong": [
+							"Fungal Wastes",
+							"Fog Canyon",
+							"Crystal Peak"
+						]
+					},
+					{
+						"correct": "She is sealed inside with the Knight",
+						"difficulty": "Medium",
+						"explanation": "In this ending, Hornet's face appears on the door as a new Seal, trapping her inside the Black Egg.",
+						"image_url": "",
+						"question": "What does Hornet do when the Knight defeats the Hollow Knight in the 'Sealed Siblings' ending?",
+						"wrong": [
+							"She flies away",
+							"She becomes the new King",
+							"She dies instantly"
+						]
+					},
+					{
+						"correct": "Deepnest",
+						"difficulty": "Medium",
+						"explanation": "As the daughter of Herrah, Hornet hails from the Distant Village in Deepnest.",
+						"image_url": "",
+						"question": "Which spider-filled region is Hornet's birthplace?",
+						"wrong": [
+							"The Hive",
+							"Royal Waterways",
+							"Ancient Basin"
+						]
+					},
+					{
+						"correct": "Shaw!",
+						"difficulty": "Medium",
+						"explanation": "Hornet's battle cries, particularly 'Shaw!', have become iconic memes in the community.",
+						"image_url": "",
+						"question": "What is the famous shout Hornet yells during her attacks?",
+						"wrong": [
+							"Hah!",
+							"Die!",
+							"Begone!"
+						]
+					},
+					{
+						"correct": "Because she is not a genderless Vessel",
+						"difficulty": "Hard",
+						"explanation": "Unlike the Knight and other Vessels who are genderless, Hornet was born naturally and has a gender.",
+						"image_url": "https://skillcheckgame.com/assets/images/hornet.webp",
+						"question": "Why is Hornet often called the 'Gendered Child'?",
+						"wrong": [
+							"Because she has a crown",
+							"Because she wears a dress",
+							"Because she is the only female character"
+						]
+					},
+					{
+						"correct": "The Weavers",
+						"difficulty": "Hard",
+						"explanation": "Lore suggests the Weavers, a tribe of spider-like beings, raised and cared for her.",
+						"image_url": "",
+						"question": "Who raised Hornet after her mother became a Dreamer?",
+						"wrong": [
+							"The Pale King",
+							"The Mantis Lords",
+							"Elderbug"
+						]
+					},
+					{
+						"correct": "Half-sister",
+						"difficulty": "Hard",
+						"explanation": "Since both were fathered by the Pale King, they are half-siblings.",
+						"image_url": "",
+						"question": "What is Hornet's relationship to the Knight?",
+						"wrong": [
+							"Mother",
+							"Cousin",
+							"No relation"
+						]
+					},
+					{
+						"correct": "The King's Brand is not required to start it",
+						"difficulty": "Hard",
+						"explanation": "Actually, the fight in Kingdom's Edge is what *guards* the King's Brand, so you must win it first.",
+						"image_url": "",
+						"question": "What item must the Knight obtain to trigger the second Hornet fight?",
+						"wrong": [
+							"Mantis Claw",
+							"Monarch Wings",
+							"Crystal Heart"
+						]
+					},
+					{
+						"correct": "She cracks the boss's shell with her needle",
+						"difficulty": "Hard",
+						"explanation": "Hornet lunges in and pins the Hollow Knight, allowing the player to Dream Nail into the Radiance.",
+						"image_url": "",
+						"question": "In the 'Dream No More' ending, what does Hornet do during the final boss fight?",
+						"wrong": [
+							"She heals the player",
+							"She summons spiders",
+							"She stays outside the room"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_hornet",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Hornet",
+				"lore_desc": "The mysterious protector of Hallownest's ruins and the daughter of Herrah the Beast.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Protector",
+			"profiler": {
+				"vibe_tags": [
+					"Rival",
+					"Princess",
+					"Spider"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Insects and Bugs",
+						"difficulty": "Easy",
+						"explanation": "The entire world is populated by various species of bugs, spiders, and beetles.",
+						"image_url": "https://skillcheckgame.com/assets/images/hallownest.webp",
+						"question": "What kind of creatures primarily inhabit the kingdom of Hallownest?",
+						"wrong": [
+							"Humans",
+							"Robots",
+							"Birds"
+						]
+					},
+					{
+						"correct": "Below ground",
+						"difficulty": "Easy",
+						"explanation": "The game takes place in a vast subterranean world beneath the town of Dirtmouth.",
+						"image_url": "",
+						"question": "Is Hallownest located above ground or below ground?",
+						"wrong": [
+							"In outer space",
+							"On an island",
+							"In the clouds"
+						]
+					},
+					{
+						"correct": "Dirtmouth",
+						"difficulty": "Easy",
+						"explanation": "Dirtmouth is the quiet hub town where the Knight begins their journey.",
+						"image_url": "",
+						"question": "What is the name of the 'fading' town located right above the kingdom?",
+						"wrong": [
+							"Bugsville",
+							"Mudcity",
+							"Leafpoint"
+						]
+					},
+					{
+						"correct": "Hand-drawn 2D",
+						"difficulty": "Easy",
+						"explanation": "Hollow Knight is famous for its beautiful, hand-drawn traditional animation style.",
+						"image_url": "",
+						"question": "What is the general visual style of the game's art?",
+						"wrong": [
+							"Pixel Art",
+							"Hyper-realistic 3D",
+							"Live Action"
+						]
+					},
+					{
+						"correct": "They lost their minds to an infection",
+						"difficulty": "Easy",
+						"explanation": "A plague known as 'The Infection' robbed the bugs of their will and sanity.",
+						"image_url": "",
+						"question": "What happened to most of the citizens of Hallownest?",
+						"wrong": [
+							"They moved to the city",
+							"They all fell asleep",
+							"They turned into stone"
+						]
+					},
+					{
+						"correct": "The Pale King",
+						"difficulty": "Medium",
+						"explanation": "The Pale King granted intelligence to the bugs of the caverns, founding the kingdom.",
+						"image_url": "https://skillcheckgame.com/assets/images/hallownest.webp",
+						"question": "Which ruler is credited with expanding Hallownest and giving bugs 'reason'?",
+						"wrong": [
+							"The Radiance",
+							"The Grimm King",
+							"The Moss Prophet"
+						]
+					},
+					{
+						"correct": "City of Tears",
+						"difficulty": "Medium",
+						"explanation": "The City of Tears is the heart of the kingdom, named for the water leaking from the lake above.",
+						"image_url": "",
+						"question": "What is the name of the capital city where it eternally rains?",
+						"wrong": [
+							"Watery Way",
+							"Rainy Peak",
+							"Crystal City"
+						]
+					},
+					{
+						"correct": "Fungal Wastes",
+						"difficulty": "Medium",
+						"explanation": "The Mantis Village is located in the lower sections of the Fungal Wastes.",
+						"image_url": "",
+						"question": "Which area is home to the fierce Mantis tribe?",
+						"wrong": [
+							"Greenpath",
+							"Deepnest",
+							"The Hive"
+						]
+					},
+					{
+						"correct": "The Stags",
+						"difficulty": "Medium",
+						"explanation": "The Last Stag carries the Knight through the ancient Stagways of the kingdom.",
+						"image_url": "",
+						"question": "Which transit system is used to travel between large stations in Hallownest?",
+						"wrong": [
+							"Teleporters",
+							"Trains",
+							"Giant Eagles"
+						]
+					},
+					{
+						"correct": "Infection",
+						"difficulty": "Medium",
+						"explanation": "The Infection manifests as glowing orange blobs and eyes in possessed creatures.",
+						"image_url": "",
+						"question": "What glowing orange substance signifies the presence of the plague?",
+						"wrong": [
+							"Honey",
+							"Lava",
+							"Nectar"
+						]
+					},
+					{
+						"correct": "Howling Cliffs",
+						"difficulty": "Hard",
+						"explanation": "The Howling Cliffs mark the edge of the kingdom where the winds are said to strip away a bug's mind.",
+						"image_url": "https://skillcheckgame.com/assets/images/hallownest.webp",
+						"question": "What is the name of the topmost area of the kingdom, above the clouds?",
+						"wrong": [
+							"Mount Hallow",
+							"Skybound Path",
+							"Peak of Winds"
+						]
+					},
+					{
+						"correct": "Deepnest",
+						"difficulty": "Hard",
+						"explanation": "Deepnest and the Mantis Village both maintained varying levels of independence from Hallownest.",
+						"image_url": "",
+						"question": "Which area was not technically part of the Pale King's kingdom and resisted his rule?",
+						"wrong": [
+							"The Crossroads",
+							"Royal Waterways",
+							"City of Tears"
+						]
+					},
+					{
+						"correct": "The Ancient Civilization",
+						"difficulty": "Hard",
+						"explanation": "Lore tablets refer to an 'Ancient Civilization' that worshipped the Void long before the Pale King arrived.",
+						"image_url": "",
+						"question": "What is the name of the ancient, forgotten civilization that preceded Hallownest?",
+						"wrong": [
+							"The Void Walkers",
+							"The Shell Folk",
+							"The First Bugs"
+						]
+					},
+					{
+						"correct": "Inside the mind of a Kingsmould",
+						"difficulty": "Hard",
+						"explanation": "The Knight must Dream Nail a deceased Kingsmould in the Palace Grounds to enter the Dream version of the palace.",
+						"image_url": "",
+						"question": "Where is the White Palace physically hidden in the world?",
+						"wrong": [
+							"At the bottom of the Abyss",
+							"In the clouds",
+							"Behind a secret door in the City"
+						]
+					},
+					{
+						"correct": "King's Pass",
+						"difficulty": "Hard",
+						"explanation": "King's Pass is the tutorial area where the Knight first enters the world.",
+						"image_url": "",
+						"question": "What is the name of the pilgrimage path that most travelers took to enter Hallownest?",
+						"wrong": [
+							"Dirtmouth Road",
+							"The Wanderer's Way",
+							"The Low Path"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_hallownest",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Hallownest",
+				"lore_desc": "An ancient, underground kingdom of bugs that fell to a mysterious plague of the mind.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Fallen Kingdom",
+			"profiler": {
+				"vibe_tags": [
+					"World",
+					"Kingdom",
+					"Ruins"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Grubs",
+						"difficulty": "Easy",
+						"explanation": "The Grubfather asks you to find and free his many 'Grubs' scattered across the world.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_grubfather.webp",
+						"question": "What are the small, green, crying creatures you rescue for him?",
+						"wrong": [
+							"Caterpillars",
+							"Slugs",
+							"Worms"
+						]
+					},
+					{
+						"correct": "Geo",
+						"difficulty": "Easy",
+						"explanation": "He tosses varying amounts of Geo (the game's currency) as a thank you.",
+						"image_url": "",
+						"question": "What reward does he typically throw at you when you return a Grub?",
+						"wrong": [
+							"Bombs",
+							"Food",
+							"Experience Points"
+						]
+					},
+					{
+						"correct": "Forgotten Crossroads",
+						"difficulty": "Easy",
+						"explanation": "His lair is found in the far northwest corner of the Forgotten Crossroads.",
+						"image_url": "",
+						"question": "Where is the Grubfather's home located?",
+						"wrong": [
+							"Greenpath",
+							"Dirtmouth",
+							"Crystal Peak"
+						]
+					},
+					{
+						"correct": "Break the glass jar with your nail",
+						"difficulty": "Easy",
+						"explanation": "Grubs are found trapped in glass jars that the Knight must shatter.",
+						"image_url": "",
+						"question": "How do you free a Grub from its container?",
+						"wrong": [
+							"Use a key",
+							"Cast a spell",
+							"Talk to it"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "Finding all the Grubs is a major side quest and completion requirement.",
+						"image_url": "",
+						"question": "True or False: The Grubs are considered a collectible in the game.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "The Collector",
+						"difficulty": "Medium",
+						"explanation": "The Collector, found in the Tower of Love, is obsessed with bottling Hallownest's creatures.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_grubfather.webp",
+						"question": "Which boss is responsible for kidnapping and bottling many of the Grubs?",
+						"wrong": [
+							"The Traitor Lord",
+							"Nosk",
+							"The False Knight"
+						]
+					},
+					{
+						"correct": "The Grubfather has eaten them all",
+						"difficulty": "Medium",
+						"explanation": "In a shocking twist, the Grubfather consumes his children to act as a cocoon for their metamorphosis.",
+						"image_url": "",
+						"question": "What disturbing sight greets the player after rescuing all the Grubs?",
+						"wrong": [
+							"The Grubs have turned into butterflies",
+							"The Grubfather is gone",
+							"The Grubs have all died"
+						]
+					},
+					{
+						"correct": "Grubsong",
+						"difficulty": "Medium",
+						"explanation": "Grubsong allows the Knight to gain SOUL when taking damage.",
+						"image_url": "",
+						"question": "What is the name of the charm given for rescuing a large number of Grubs?",
+						"wrong": [
+							"Grubfriend",
+							"Crying Child",
+							"Brave Heart"
+						]
+					},
+					{
+						"correct": "The Collector's Map",
+						"difficulty": "Medium",
+						"explanation": "Defeating the Collector rewards the player with a map showing the locations of every remaining Grub.",
+						"image_url": "",
+						"question": "Which item makes the locations of all un-rescued Grubs appear on the map?",
+						"wrong": [
+							"The Grub Map",
+							"The Compass",
+							"The King's Eye"
+						]
+					},
+					{
+						"correct": "High-pitched chirping and crying",
+						"difficulty": "Medium",
+						"explanation": "The distinct, sorrowful chirps of the Grubs help players find them hidden in walls.",
+						"image_url": "",
+						"question": "What sound do Grubs make when you are near them?",
+						"wrong": [
+							"Low growling",
+							"Deep whistling",
+							"Heavy breathing"
+						]
+					},
+					{
+						"correct": "Grubberfly's Elegy",
+						"difficulty": "Hard",
+						"explanation": "Grubberfly's Elegy fires beams of light from the Knight's nail when at full health.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_grubfather.webp",
+						"question": "What is the name of the final charm reward given by the Grubfather?",
+						"wrong": [
+							"Winged Soul",
+							"Final Flight",
+							"Father's Blessing"
+						]
+					},
+					{
+						"correct": "Metamorphosis",
+						"difficulty": "Hard",
+						"explanation": "The achievement 'Metamorphosis' refers to the Grubs' transition to their next life stage inside the father.",
+						"image_url": "",
+						"question": "What achievement do you earn for collecting every Grub?",
+						"wrong": [
+							"Family Reunion",
+							"Bug Savior",
+							"The Collection"
+						]
+					},
+					{
+						"correct": "Deepnest",
+						"difficulty": "Hard",
+						"explanation": "Deepnest is famous for Grub Mimics that reveal their terrifying true forms when the glass is broken.",
+						"image_url": "",
+						"question": "Which area contains a fake 'Grub' that is actually a Mimic enemy?",
+						"wrong": [
+							"Forgotten Crossroads",
+							"Royal Waterways",
+							"Howling Cliffs"
+						]
+					},
+					{
+						"correct": "Happy noises from the grubs inside",
+						"difficulty": "Hard",
+						"explanation": "The Dream Nail reveals that the Grubs are happy and safe inside the father, fulfilling the 'Metamorphosis' lore.",
+						"image_url": "",
+						"question": "If the player listens with the Dream Nail after the Grubfather eats the grubs, what is heard?",
+						"wrong": [
+							"Screams of pain",
+							"Silence",
+							"The father's hunger"
+						]
+					},
+					{
+						"correct": "46",
+						"difficulty": "Hard",
+						"explanation": "There are exactly 46 Grubs hidden throughout the various regions of Hallownest.",
+						"image_url": "",
+						"question": "How many Grubs in total must be found to finish the quest?",
+						"wrong": [
+							"50",
+							"30",
+							"40"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_the_grubfather",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Grubfather",
+				"lore_desc": "A large, stationary bug in the Forgotten Crossroads who rewards you for rescuing his lost children.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Collector's Victim",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Quest",
+					"Grubs"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Dirtmouth",
+						"difficulty": "Easy",
+						"explanation": "Elderbug is the first NPC players meet in the hub town of Dirtmouth.",
+						"image_url": "https://skillcheckgame.com/assets/images/elderbug.webp",
+						"question": "What is the name of the town where Elderbug lives?",
+						"wrong": [
+							"Crossroads",
+							"Greenpath",
+							"Bug City"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "At the start, Dirtmouth is nearly empty, with only Elderbug remaining.",
+						"image_url": "",
+						"question": "How many characters can you usually find in Dirtmouth at the very start of the game?",
+						"wrong": [
+							"Ten",
+							"Fifty",
+							"Zero"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "Elderbug provides advice and lore, but he does not give the player any weapons.",
+						"image_url": "",
+						"question": "Does Elderbug provide the player with a weapon?",
+						"wrong": [
+							"Yes"
+						]
+					},
+					{
+						"correct": "A Bench",
+						"difficulty": "Easy",
+						"explanation": "Elderbug stands near the first bench, which serves as a save point for the player.",
+						"image_url": "",
+						"question": "What does Elderbug stand next to in the center of town?",
+						"wrong": [
+							"A Fountain",
+							"A Giant Statue",
+							"A Fire"
+						]
+					},
+					{
+						"correct": "Grey and Black",
+						"difficulty": "Easy",
+						"explanation": "Elderbug has a muted, somber color scheme fitting the town's atmosphere.",
+						"image_url": "",
+						"question": "What color is Elderbug's shell/cloak?",
+						"wrong": [
+							"Pink",
+							"Bright Blue",
+							"Rainbow"
+						]
+					},
+					{
+						"correct": "Delicate Flower",
+						"difficulty": "Medium",
+						"explanation": "Giving Elderbug a Delicate Flower is one of the most heartwarming optional interactions in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/elderbug.webp",
+						"question": "Which item can the player give to Elderbug to make him feel appreciated?",
+						"wrong": [
+							"A Bag of Geo",
+							"A New Nail",
+							"A Map"
+						]
+					},
+					{
+						"correct": "The air in the caverns can make bugs forget",
+						"difficulty": "Medium",
+						"explanation": "He mentions that the air below has a way of stealing memories and making travelers lose their way.",
+						"image_url": "",
+						"question": "What does Elderbug warn the Knight about at the beginning of the game?",
+						"wrong": [
+							"The water is poisonous",
+							"The bugs are friendly",
+							"The king is waiting"
+						]
+					},
+					{
+						"correct": "Iselda",
+						"difficulty": "Medium",
+						"explanation": "Iselda and Cornifer's shop is usually the first to open in town.",
+						"image_url": "",
+						"question": "Which shopkeeper in Dirtmouth is the first one Elderbug mentions?",
+						"wrong": [
+							"Sly",
+							"Salubra",
+							"Leg Eater"
+						]
+					},
+					{
+						"correct": "Travelers and Pilgrims",
+						"difficulty": "Medium",
+						"explanation": "He laments that the town used to be a bustling stop for those entering the kingdom.",
+						"image_url": "",
+						"question": "Elderbug mentions that Dirtmouth was once a place for what?",
+						"wrong": [
+							"Warriors",
+							"Mages",
+							"Spies"
+						]
+					},
+					{
+						"correct": "The Stagways",
+						"difficulty": "Medium",
+						"explanation": "He often references the old bells and the Stag stations that have long been silent.",
+						"image_url": "",
+						"question": "What is the name of the 'fading' lantern system Elderbug often talks about?",
+						"wrong": [
+							"The Glow-lamps",
+							"The Light-web",
+							"The Sun-rods"
+						]
+					},
+					{
+						"correct": "The Grimm Troupe",
+						"difficulty": "Hard",
+						"explanation": "When the Grimm Troupe arrives, Elderbug expresses unease about the 'strange' and 'sinister' tents.",
+						"image_url": "https://skillcheckgame.com/assets/images/elderbug.webp",
+						"question": "Which character's arrival in Dirtmouth makes Elderbug feel uncomfortable?",
+						"wrong": [
+							"Quirrel",
+							"Cloth",
+							"Tiso"
+						]
+					},
+					{
+						"correct": "He holds the flower and looks much happier",
+						"difficulty": "Hard",
+						"explanation": "While it provides no gameplay benefit, Elderbug remains holding the flower for the rest of the game.",
+						"image_url": "",
+						"question": "What happens to Elderbug if you give him the Delicate Flower?",
+						"wrong": [
+							"He gives you a new charm",
+							"He dies",
+							"He moves to the City of Tears"
+						]
+					},
+					{
+						"correct": "He hopes the Knight will return and talk to him",
+						"difficulty": "Hard",
+						"explanation": "His Dream Nail dialogue shows he is lonely and truly values the Knight's presence.",
+						"image_url": "",
+						"question": "What does the Dream Nail reveal about Elderbug's feelings toward the Knight?",
+						"wrong": [
+							"He wants to steal the Knight's nail",
+							"He is actually a spy",
+							"He hates all travelers"
+						]
+					},
+					{
+						"correct": "The White Lady",
+						"difficulty": "Hard",
+						"explanation": "Like Elderbug, the White Lady remains in her cocooned state throughout the game.",
+						"image_url": "",
+						"question": "Elderbug is one of the few NPCs who stays in one spot for the entire game. Who is another?",
+						"wrong": [
+							"Quirrel",
+							"Cornifer",
+							"Zote"
+						]
+					},
+					{
+						"correct": "A low humming sound",
+						"difficulty": "Hard",
+						"explanation": "Elderbug has a very subtle humming animation and sound when he is idle.",
+						"image_url": "",
+						"question": "What specific sound can be heard from Elderbug if the player stands near him and listens?",
+						"wrong": [
+							"Loud snoring",
+							"Constant clicking",
+							"Whistling"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_elderbug",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Elderbug",
+				"lore_desc": "The oldest resident of Dirtmouth who greets all travelers entering the ruins of Hallownest.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The First Friend",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Dirtmouth",
+					"Guide"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A Moth",
+						"difficulty": "Easy",
+						"explanation": "The Radiance is a massive, fluffy, winged moth-like being of light.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_radiance.webp",
+						"question": "What is the Radiance's physical appearance based on?",
+						"wrong": [
+							"A Spider",
+							"A Beetle",
+							"A Dragon"
+						]
+					},
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "The Infection appears as glowing orange essence that leaks from corrupted bugs.",
+						"image_url": "",
+						"question": "What color is the 'Infection' that the Radiance spreads?",
+						"wrong": [
+							"Purple",
+							"Green",
+							"Blue"
+						]
+					},
+					{
+						"correct": "In the Dream Realm",
+						"difficulty": "Easy",
+						"explanation": "The Knight must enter the Dream Realm to face the Radiance directly.",
+						"image_url": "",
+						"question": "Where does the fight with the Radiance take place?",
+						"wrong": [
+							"In the middle of the ocean",
+							"Inside a volcano",
+							"In the real world"
+						]
+					},
+					{
+						"correct": "Pantheon of Hallownest",
+						"difficulty": "Easy",
+						"explanation": "The Pantheon of Hallownest (Pantheon 5) culminates in the Absolute Radiance fight.",
+						"image_url": "",
+						"question": "What is the name of the final boss rush mode where you fight the hardest version of the Radiance?",
+						"wrong": [
+							"Boss Marathon",
+							"The Gauntlet",
+							"God Mode"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "The moth tribe worshipped the Radiance before the Pale King arrived and gave them reason.",
+						"image_url": "",
+						"question": "True or False: The Radiance was the original deity of Hallownest before the Pale King.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "To contain the Radiance",
+						"difficulty": "Medium",
+						"explanation": "The Hollow Knight was designed to be a pure vessel that could seal the Radiance inside itself forever.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_radiance.webp",
+						"question": "What was the purpose of the Hollow Knight being created?",
+						"wrong": [
+							"To kill the Radiance",
+							"To marry the Radiance",
+							"To serve the Radiance"
+						]
+					},
+					{
+						"correct": "The Moth Tribe",
+						"difficulty": "Medium",
+						"explanation": "The Moth Tribe turned away from her light to follow the Pale King, leading to her being forgotten.",
+						"image_url": "",
+						"question": "Which tribe originally worshipped the Radiance but later abandoned her?",
+						"wrong": [
+							"The Mantis Tribe",
+							"The Weaver Tribe",
+							"The Bee Tribe"
+						]
+					},
+					{
+						"correct": "The Seer",
+						"difficulty": "Medium",
+						"explanation": "The Seer is the last of the Moth Tribe and guides the Knight in the ways of Essence.",
+						"image_url": "",
+						"question": "Which NPC provides the Knight with the Dream Nail, eventually leading them to the Radiance?",
+						"wrong": [
+							"Elderbug",
+							"Cornifer",
+							"Sly"
+						]
+					},
+					{
+						"correct": "She is consumed by the Void",
+						"difficulty": "Medium",
+						"explanation": "The Knight and the Shades of the Abyss combine to drag the Radiance down into the darkness.",
+						"image_url": "",
+						"question": "What happens to the Radiance in the 'Dream No More' ending?",
+						"wrong": [
+							"She turns into a butterfly",
+							"She goes to sleep",
+							"She escapes to another world"
+						]
+					},
+					{
+						"correct": "Climb up while avoiding beams of light",
+						"difficulty": "Medium",
+						"explanation": "The Knight must platform upwards through a barrage of light beams to deliver the final blow.",
+						"image_url": "",
+						"question": "During the final phase of the battle, what must the Knight do?",
+						"wrong": [
+							"Dig underground",
+							"Swim through acid",
+							"Wait for her to die of old age"
+						]
+					},
+					{
+						"correct": "Absolute Radiance",
+						"difficulty": "Hard",
+						"explanation": "Absolute Radiance is considered the most difficult challenge in the game's DLC content.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_radiance.webp",
+						"question": "What is the harder, faster version of the Radiance found in Godhome called?",
+						"wrong": [
+							"Perfect Radiance",
+							"Super Radiance",
+							"The True Light"
+						]
+					},
+					{
+						"correct": "Hallownest's Crown in Crystal Peak",
+						"difficulty": "Hard",
+						"explanation": "A massive, partially crumbling statue of the Radiance sits at the highest point of Crystal Peak.",
+						"image_url": "",
+						"question": "Where can a hidden statue of the Radiance be found in the physical world?",
+						"wrong": [
+							"The bottom of the Abyss",
+							"Deepnest",
+							"Behind the City of Tears"
+						]
+					},
+					{
+						"correct": "Because she was being forgotten",
+						"difficulty": "Hard",
+						"explanation": "When the bugs forgot her, her light began to seep into their dreams as a desperate way to be remembered.",
+						"image_url": "",
+						"question": "Why did the Radiance start the Infection?",
+						"wrong": [
+							"Because she was hungry",
+							"Because she hated the King's taxes",
+							"She did it by accident"
+						]
+					},
+					{
+						"correct": "Void",
+						"difficulty": "Hard",
+						"explanation": "The lore centers on the conflict between the 'Ancient Enemy' (Void) and the Light (Radiance).",
+						"image_url": "",
+						"question": "The Radiance is described as 'light', while the Knight is described as what?",
+						"wrong": [
+							"Darkness",
+							"Stone",
+							"Ice"
+						]
+					},
+					{
+						"correct": "The Three Dreamers",
+						"difficulty": "Hard",
+						"explanation": "The Knight must break the seals of Lurien, Monomon, and Herrah to enter the Black Egg.",
+						"image_url": "",
+						"question": "Which group of characters must be defeated to reach the Radiance in the base game?",
+						"wrong": [
+							"The Five Knights",
+							"The Mantis Lords",
+							"The Grimm Troupe"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_the_radiance",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Radiance",
+				"lore_desc": "An ancient, vengeful deity of light who is the source of the Infection plague.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Forgotten Light",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Boss",
+					"God"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Life Ender",
+						"difficulty": "Easy",
+						"explanation": "Despite its terrifying name, Life Ender is just a blunt piece of shellwood.",
+						"image_url": "https://skillcheckgame.com/assets/images/zote_the_mighty.webp",
+						"question": "What is the name of Zote's wooden sword?",
+						"wrong": [
+							"Death Bringer",
+							"Sharp Stick",
+							"Wood Cutter"
+						]
+					},
+					{
+						"correct": "Greenpath",
+						"difficulty": "Easy",
+						"explanation": "Zote is first found early in Greenpath, stuck in the jaws of a giant fly.",
+						"image_url": "",
+						"question": "Where do you first encounter Zote being trapped by a Vengefly King?",
+						"wrong": [
+							"Dirtmouth",
+							"City of Tears",
+							"Deepnest"
+						]
+					},
+					{
+						"correct": "He dies",
+						"difficulty": "Easy",
+						"explanation": "Zote is one of the few NPCs who can actually die if the player ignores their plight.",
+						"image_url": "",
+						"question": "If you choose not to save Zote in Greenpath, what happens to him?",
+						"wrong": [
+							"He saves himself",
+							"He becomes the final boss",
+							"He moves to the city anyway"
+						]
+					},
+					{
+						"correct": "The Fifty Seven Precepts of Zote",
+						"difficulty": "Easy",
+						"explanation": "Zote will recite 57 nonsensical rules to you if you listen to him in Dirtmouth.",
+						"image_url": "",
+						"question": "What is the name of Zote's list of 'Precepts' for living?",
+						"wrong": [
+							"Zote's Rules of War",
+							"How to be Mighty",
+							"The Book of Zote"
+						]
+					},
+					{
+						"correct": "Trial of the Fool",
+						"difficulty": "Easy",
+						"explanation": "If saved, Zote appears at the end of the first Trial in the Colosseum of Fools.",
+						"image_url": "",
+						"question": "In which arena can you fight Zote as a 'joke' boss?",
+						"wrong": [
+							"The Abyss",
+							"The Hive",
+							"Crystal Peak"
+						]
+					},
+					{
+						"correct": "Grey Prince Zote",
+						"difficulty": "Medium",
+						"explanation": "Grey Prince Zote is a much more powerful (and annoying) boss found in Bretta's basement.",
+						"image_url": "https://skillcheckgame.com/assets/images/zote_the_mighty.webp",
+						"question": "What is the name of the dream version of Zote created by Bretta's imagination?",
+						"wrong": [
+							"King Zote",
+							"Mighty Zote",
+							"Dark Prince Zote"
+						]
+					},
+					{
+						"correct": "Bretta",
+						"difficulty": "Medium",
+						"explanation": "Bretta forgets her crush on the Knight and starts worshipping Zote instead.",
+						"image_url": "",
+						"question": "Which female NPC becomes obsessed with Zote after you save him in Deepnest?",
+						"wrong": [
+							"Iselda",
+							"The White Lady",
+							"Hornet"
+						]
+					},
+					{
+						"correct": "You can kick it around like a ball",
+						"difficulty": "Medium",
+						"explanation": "His mask remains on the ground and can be hit with the nail for fun.",
+						"image_url": "",
+						"question": "What happens if you attack Zote's mask after he dies in Greenpath?",
+						"wrong": [
+							"It explodes",
+							"Nothing",
+							"You gain essence"
+						]
+					},
+					{
+						"correct": "Always help those in need",
+						"difficulty": "Medium",
+						"explanation": "Zote's precepts are mostly selfish or obvious, like 'Do not breathe water'.",
+						"image_url": "",
+						"question": "Which of these is NOT one of Zote's Precepts?",
+						"wrong": [
+							"Never let them laugh at you",
+							"Beware the mysterious force",
+							"Do not breathe water"
+						]
+					},
+					{
+						"correct": "Ten",
+						"difficulty": "Medium",
+						"explanation": "The statue in Bretta's basement turns gold after defeating him 10 times.",
+						"image_url": "",
+						"question": "How many times can you fight Grey Prince Zote to change the color of his statue?",
+						"wrong": [
+							"Three",
+							"One",
+							"Fifty"
+						]
+					},
+					{
+						"correct": "Eternal Ordeal",
+						"difficulty": "Hard",
+						"explanation": "Found behind a hidden wall in Godhome, the Eternal Ordeal features many variants of Zote.",
+						"image_url": "https://skillcheckgame.com/assets/images/zote_the_mighty.webp",
+						"question": "What is the name of Zote's 'secret' challenge where you fight endless Zotes?",
+						"wrong": [
+							"Zote's Revenge",
+							"Infinite Might",
+							"The Zote Pit"
+						]
+					},
+					{
+						"correct": "The Zote Theme",
+						"difficulty": "Hard",
+						"explanation": "Beating 57 Zotes in the Eternal Ordeal unlocks a new menu skin with Zote singing the theme music.",
+						"image_url": "",
+						"question": "What is the name of the Zote-themed menu style you unlock by beating the Eternal Ordeal?",
+						"wrong": [
+							"Mighty Menu",
+							"Precept Style",
+							"Grey Prince Theme"
+						]
+					},
+					{
+						"correct": "Christopher Larkin",
+						"difficulty": "Hard",
+						"explanation": "The game's composer, Christopher Larkin, provided the voice for Zote.",
+						"image_url": "",
+						"question": "Who actually voices Zote's iconic grunts and 'Precepts'?",
+						"wrong": [
+							"William Pellen",
+							"Ari Gibson",
+							"David Kazi"
+						]
+					},
+					{
+						"correct": "Because his sword is made of wood",
+						"difficulty": "Hard",
+						"explanation": "Life Ender is explicitly described as having no edge, making Zote completely harmless in battle.",
+						"image_url": "",
+						"question": "In the Colosseum of Fools, why does Zote do zero damage to the player?",
+						"wrong": [
+							"Because he is a ghost",
+							"Because he is holding back",
+							"Because the player is invincible"
+						]
+					},
+					{
+						"correct": "He repeats his precepts in his head",
+						"difficulty": "Hard",
+						"explanation": "His internal thoughts are just as arrogant and focused on his precepts as his spoken words.",
+						"image_url": "",
+						"question": "What happens to Zote's dialogue if you use the Dream Nail on him in Dirtmouth?",
+						"wrong": [
+							"He thinks about how much he hates the Knight",
+							"He reveals he is actually a king",
+							"He thinks about food"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_zote_the_mighty",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Zote the Mighty",
+				"lore_desc": "A self-proclaimed knight of great renown who is actually quite weak and boastful.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Invincible",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Comic Relief",
+					"Rival"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Mapmaker",
+						"difficulty": "Easy",
+						"explanation": "Cornifer sells the Knight maps of the various regions of Hallownest.",
+						"image_url": "https://skillcheckgame.com/assets/images/cornifer.webp",
+						"question": "What is Cornifer's profession?",
+						"wrong": [
+							"Blacksmith",
+							"Chef",
+							"Soldier"
+						]
+					},
+					{
+						"correct": "Humming a tune",
+						"difficulty": "Easy",
+						"explanation": "Cornifer's iconic humming is a relief to players searching for a map in a new area.",
+						"image_url": "",
+						"question": "What is the distinct sound Cornifer makes that tells you he is nearby?",
+						"wrong": [
+							"Whistling",
+							"Crying",
+							"Screaming"
+						]
+					},
+					{
+						"correct": "A trail of paper",
+						"difficulty": "Easy",
+						"explanation": "If Cornifer moves on, you can follow a trail of discarded papers to find his shop in town.",
+						"image_url": "",
+						"question": "What does Cornifer leave behind if you miss him in an area?",
+						"wrong": [
+							"A bag of gold",
+							"A weapon",
+							"His hat"
+						]
+					},
+					{
+						"correct": "Iselda",
+						"difficulty": "Easy",
+						"explanation": "Iselda sells mapping tools and maps that Cornifer has finished.",
+						"image_url": "",
+						"question": "Who is Cornifer's wife who runs the map shop in Dirtmouth?",
+						"wrong": [
+							"Salubra",
+							"The White Lady",
+							"Herrah"
+						]
+					},
+					{
+						"correct": "Area Maps",
+						"difficulty": "Easy",
+						"explanation": "His primary purpose is to sell basic area maps to aid navigation.",
+						"image_url": "",
+						"question": "What does Cornifer sell to the Knight?",
+						"wrong": [
+							"Healing Potions",
+							"Armor",
+							"Swords"
+						]
+					},
+					{
+						"correct": "Deepnest",
+						"difficulty": "Medium",
+						"explanation": "In Deepnest, you find Cornifer cowering behind a rock, terrified of the spiders.",
+						"image_url": "https://skillcheckgame.com/assets/images/cornifer.webp",
+						"question": "Which of these areas is Cornifer too scared to enter deeply, appearing only at the entrance?",
+						"wrong": [
+							"Greenpath",
+							"City of Tears",
+							"Crystal Peak"
+						]
+					},
+					{
+						"correct": "Sleeping and snoring",
+						"difficulty": "Medium",
+						"explanation": "Once he finishes his work, he returns home to sleep loudly while Iselda works.",
+						"image_url": "",
+						"question": "What is Cornifer doing when you visit him in Dirtmouth at the end of the game?",
+						"wrong": [
+							"Cooking",
+							"Drawing a map",
+							"Fighting Zote"
+						]
+					},
+					{
+						"correct": "Wayward Compass",
+						"difficulty": "Medium",
+						"explanation": "The Wayward Compass is the 'best' charm for new players to find their way.",
+						"image_url": "",
+						"question": "Which charm, sold by Iselda, is essential for seeing your position on Cornifer's maps?",
+						"wrong": [
+							"Gathering Swarm",
+							"Stalwart Shell",
+							"Longnail"
+						]
+					},
+					{
+						"correct": "Fog Canyon",
+						"difficulty": "Medium",
+						"explanation": "In Fog Canyon, Cornifer is tucked away behind a gate that requires Shade Cloak or a long detour to reach.",
+						"image_url": "",
+						"question": "In which vertical area do you find Cornifer behind a toll gate?",
+						"wrong": [
+							"The Hive",
+							"Ancient Basin",
+							"Kingdom's Edge"
+						]
+					},
+					{
+						"correct": "There are loose sheets of paper on the floor",
+						"difficulty": "Medium",
+						"explanation": "His 'calling card' is a trail of scattered map drafts on the ground.",
+						"image_url": "",
+						"question": "How do you know where Cornifer has been in a room?",
+						"wrong": [
+							"There are footprints",
+							"There is a sign with his name",
+							"He leaves a lantern"
+						]
+					},
+					{
+						"correct": "He has finished mapping the whole kingdom",
+						"difficulty": "Hard",
+						"explanation": "Once the Knight explores enough, Cornifer retires to Dirtmouth, leaving the rest to Iselda.",
+						"image_url": "https://skillcheckgame.com/assets/images/cornifer.webp",
+						"question": "Why does Cornifer stop selling maps in the game?",
+						"wrong": [
+							"He runs out of paper",
+							"He loses his pen",
+							"He gets eaten"
+						]
+					},
+					{
+						"correct": "He thinks about how much he loves his wife",
+						"difficulty": "Hard",
+						"explanation": "His thoughts often drift back to Iselda and how much he misses her while exploring.",
+						"image_url": "",
+						"question": "What happens if you use the Dream Nail on Cornifer?",
+						"wrong": [
+							"He thinks about treasure",
+							"He thinks about being a warrior",
+							"He is thinking of a song"
+						]
+					},
+					{
+						"correct": "The Resting Grounds",
+						"difficulty": "Hard",
+						"explanation": "You don't buy the Resting Grounds map from him in the field; you get it from Iselda's shop.",
+						"image_url": "",
+						"question": "Which area's map is the only one Cornifer doesn't sell directly?",
+						"wrong": [
+							"Royal Waterways",
+							"Howling Cliffs",
+							"Fungal Wastes"
+						]
+					},
+					{
+						"correct": "Behind a wall of fire in the Grimm Troupe quest",
+						"difficulty": "Hard",
+						"explanation": "Actually, Cornifer doesn't change locations for DLC; his most dangerous spot is deep in the Fungal Core or Deepnest.",
+						"image_url": "",
+						"question": "Where is Cornifer's most 'dangerous' hiding spot found?",
+						"wrong": [
+							"Inside a giant's stomach",
+							"Under the acid in Fog Canyon",
+							"Cornifer does not change for DLC quests"
+						]
+					},
+					{
+						"correct": "She finds it annoying but misses it",
+						"difficulty": "Hard",
+						"explanation": "Iselda mentions his constant humming and the 'noisy' snoring he does at home.",
+						"image_url": "",
+						"question": "What does Iselda say about Cornifer's humming?",
+						"wrong": [
+							"She thinks he's a great singer",
+							"She doesn't know he hums",
+							"She taught him the song"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_cornifer",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Cornifer",
+				"lore_desc": "A brave and jolly mapmaker who explores the dangerous depths of Hallownest to chart its paths.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Cartographer",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Maps",
+					"Explorer"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "After defeating the first lord, the remaining two stand up and fight you together.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mantis_lords.webp",
+						"question": "How many Mantis Lords do you fight at once during the second phase?",
+						"wrong": [
+							"Three",
+							"One",
+							"Four"
+						]
+					},
+					{
+						"correct": "Fungal Wastes",
+						"difficulty": "Easy",
+						"explanation": "The Mantis tribe lives in the lower, drier part of the Fungal Wastes.",
+						"image_url": "",
+						"question": "In which region of Hallownest is the Mantis Village located?",
+						"wrong": [
+							"Greenpath",
+							"Deepnest",
+							"City of Tears"
+						]
+					},
+					{
+						"correct": "They bow and stop attacking",
+						"difficulty": "Easy",
+						"explanation": "Defeating the Lords earns you the tribe's respect, and they will no longer attack you on sight.",
+						"image_url": "",
+						"question": "What do the Mantis enemies do after you defeat their Lords?",
+						"wrong": [
+							"They all die",
+							"They become stronger",
+							"They run away"
+						]
+					},
+					{
+						"correct": "Long Spears",
+						"difficulty": "Easy",
+						"explanation": "The Mantis Lords use thin, elongated spears for lunging and throwing.",
+						"image_url": "",
+						"question": "What is the primary weapon used by the Mantis Lords?",
+						"wrong": [
+							"Crossbows",
+							"Magic Spells",
+							"Shields"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "You don't actually have to fight them to finish the game, though they guard a useful path to Deepnest.",
+						"image_url": "",
+						"question": "True or False: The Mantis Lords are an optional boss fight.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "The Traitor Lord",
+						"difficulty": "Medium",
+						"explanation": "The Traitor Lord embraced the Infection and was cast out of the village.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mantis_lords.webp",
+						"question": "What is the name of the fourth Mantis Lord who was exiled?",
+						"wrong": [
+							"The Fallen Lord",
+							"The Wicked Lord",
+							"The Abyss Lord"
+						]
+					},
+					{
+						"correct": "Mantis Claw",
+						"difficulty": "Medium",
+						"explanation": "The Mantis Claw is essential for vertical movement and wall jumping.",
+						"image_url": "",
+						"question": "Which item, allowing the Knight to cling to walls, is found in the Mantis Village?",
+						"wrong": [
+							"Monarch Wings",
+							"Crystal Heart",
+							"Shadow Cloak"
+						]
+					},
+					{
+						"correct": "The entrance to Deepnest",
+						"difficulty": "Medium",
+						"explanation": "The Mantis tribe took it upon themselves to keep the beasts of Deepnest contained.",
+						"image_url": "",
+						"question": "What are the Mantis Lords guarding at the bottom of their arena?",
+						"wrong": [
+							"The King's Brand",
+							"The Dream Nail",
+							"A Pile of Geo"
+						]
+					},
+					{
+						"correct": "Mark of Pride",
+						"difficulty": "Medium",
+						"explanation": "Mark of Pride greatly increases the range of the Knight's nail.",
+						"image_url": "",
+						"question": "Which charm is found in a chest in the Mantis Village after defeating the Lords?",
+						"wrong": [
+							"Longnail",
+							"Quick Slash",
+							"Steady Body"
+						]
+					},
+					{
+						"correct": "Their strong will and discipline",
+						"difficulty": "Medium",
+						"explanation": "The Mantis tribe's mental fortitude allowed them to resist the Radiance's influence.",
+						"image_url": "",
+						"question": "Why did the Mantis tribe not succumb to the Infection like others?",
+						"wrong": [
+							"They were already dead",
+							"They stayed in the sun",
+							"They drank special tea"
+						]
+					},
+					{
+						"correct": "Sisters of Battle",
+						"difficulty": "Hard",
+						"explanation": "In the Sisters of Battle fight, all three Lords attack the player simultaneously.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mantis_lords.webp",
+						"question": "What is the name of the 'upgraded' Mantis Lords fight in the Pantheon of the Artist?",
+						"wrong": [
+							"Mantis Goddesses",
+							"The Trio Unleashed",
+							"Queens of the Wastes"
+						]
+					},
+					{
+						"correct": "The rhythm of 'Dance' combat",
+						"difficulty": "Hard",
+						"explanation": "The fight is often described as a 'dance' because of its rhythmic, predictable, and fair telegraphs.",
+						"image_url": "",
+						"question": "What is the specific combat mechanic the Mantis Lords are known for teaching players?",
+						"wrong": [
+							"How to parry",
+							"How to use magic",
+							"How to stay in the air"
+						]
+					},
+					{
+						"correct": "A broken throne belonging to the Traitor Lord",
+						"difficulty": "Hard",
+						"explanation": "A fourth throne is visibly smashed, representing the brother they exiled.",
+						"image_url": "",
+						"question": "In the background of the arena, what can be seen on the far right throne?",
+						"wrong": [
+							"A chest of gold",
+							"A statue of the King",
+							"Nothing"
+						]
+					},
+					{
+						"correct": "They acknowledge you as a 'True Challenger'",
+						"difficulty": "Hard",
+						"explanation": "They show high respect for the Knight's combat prowess.",
+						"image_url": "",
+						"question": "If you use the Dream Nail on the Mantis Lords after the fight, what do they think?",
+						"wrong": [
+							"They plan to kill you later",
+							"They are crying",
+							"They want their lunch"
+						]
+					},
+					{
+						"correct": "Cloth",
+						"difficulty": "Hard",
+						"explanation": "If the player has progressed her quest, Cloth will join the fight and sacrifice herself to slay the Traitor Lord.",
+						"image_url": "",
+						"question": "Which of these characters can die helping you fight the Traitor Lord?",
+						"wrong": [
+							"Quirrel",
+							"Zote",
+							"Hornet"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_the_mantis_lords",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Mantis Lords",
+				"lore_desc": "The three leaders of the Mantis tribe who guard the entrance to Deepnest with fierce honor.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Trio",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Tribe",
+					"Fungal Wastes"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A Mask",
+						"difficulty": "Easy",
+						"explanation": "Quirrel wears a peculiar mask that is later revealed to be of great importance.",
+						"image_url": "https://skillcheckgame.com/assets/images/quirrel.webp",
+						"question": "What does Quirrel wear on top of his head as protection?",
+						"wrong": [
+							"A Helmet",
+							"A Hat",
+							"A Crown"
+						]
+					},
+					{
+						"correct": "Temple of the Black Egg",
+						"difficulty": "Easy",
+						"explanation": "Quirrel is found contemplating the Black Egg at the very beginning of the game.",
+						"image_url": "",
+						"question": "Where is the first place you encounter Quirrel?",
+						"wrong": [
+							"Dirtmouth",
+							"City of Tears",
+							"Greenpath"
+						]
+					},
+					{
+						"correct": "Uumuu",
+						"difficulty": "Easy",
+						"explanation": "Quirrel intervenes during the Uumuu fight in Fog Canyon to break its defenses.",
+						"image_url": "",
+						"question": "Which boss does Quirrel help the Knight fight?",
+						"wrong": [
+							"The Hollow Knight",
+							"Mantis Lords",
+							"Nosk"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "Quirrel is a skilled combatant, though he prefers exploration to fighting.",
+						"image_url": "",
+						"question": "True or False: Quirrel carries a nail and knows how to use it.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Blue Lake",
+						"difficulty": "Easy",
+						"explanation": "Quirrel's journey ends peacefully overlooking the Blue Lake above the City of Tears.",
+						"image_url": "",
+						"question": "Where is the final location you can speak to Quirrel?",
+						"wrong": [
+							"Dirtmouth",
+							"The Abyss",
+							"The Hive"
+						]
+					},
+					{
+						"correct": "Monomon the Teacher",
+						"difficulty": "Medium",
+						"explanation": "Quirrel was an apprentice to Monomon before the kingdom fell.",
+						"image_url": "https://skillcheckgame.com/assets/images/quirrel.webp",
+						"question": "Who was Quirrel's former master?",
+						"wrong": [
+							"The Pale King",
+							"Lurien the Watcher",
+							"Herrah the Beast"
+						]
+					},
+					{
+						"correct": "It is one of the seals on Monomon the Teacher",
+						"difficulty": "Medium",
+						"explanation": "Monomon gave her mask to Quirrel to protect her seal from being easily broken.",
+						"image_url": "",
+						"question": "What is the secret purpose of the mask Quirrel wears?",
+						"wrong": [
+							"It gives him infinite health",
+							"It allows him to breathe underwater",
+							"It is just a fashion choice"
+						]
+					},
+					{
+						"correct": "Leaving the kingdom's influence causes forgetfulness",
+						"difficulty": "Medium",
+						"explanation": "The lore of the game states that bugs who leave the kingdom lose the 'reason' granted by the King.",
+						"image_url": "",
+						"question": "Why does Quirrel lose his memories as he travels outside Hallownest?",
+						"wrong": [
+							"He hit his head",
+							"He was cursed by a wizard",
+							"He drank too much tea"
+						]
+					},
+					{
+						"correct": "He appears much older and tired",
+						"difficulty": "Medium",
+						"explanation": "Without the protection of Monomon's mask, his true age begins to catch up with him.",
+						"image_url": "",
+						"question": "What happens to Quirrel's appearance after he helps you defeat Uumuu?",
+						"wrong": [
+							"He grows wings",
+							"He turns green",
+							"He loses his arm"
+						]
+					},
+					{
+						"correct": "On a bench near the fountain",
+						"difficulty": "Medium",
+						"explanation": "The interaction on the bench in the City of Tears is a fan-favorite moment.",
+						"image_url": "",
+						"question": "In the City of Tears, where does Quirrel sit with the Knight to admire the view?",
+						"wrong": [
+							"On top of a skyscraper",
+							"In a café",
+							"In the sewer"
+						]
+					},
+					{
+						"correct": "His Nail",
+						"difficulty": "Hard",
+						"explanation": "After the Knight leaves and returns, only Quirrel's nail remains stuck in the ground.",
+						"image_url": "https://skillcheckgame.com/assets/images/quirrel.webp",
+						"question": "What does Quirrel leave behind at the Blue Lake?",
+						"wrong": [
+							"His Mask",
+							"A Map",
+							"A Letter"
+						]
+					},
+					{
+						"correct": "The Quirrel Comic",
+						"difficulty": "Hard",
+						"explanation": "A short official comic titled 'Hollow Knight: Quirrel' explains how he arrived in Hallownest.",
+						"image_url": "",
+						"question": "What is the name of the prequel comic starring Quirrel?",
+						"wrong": [
+							"Tales of Hallownest",
+							"The Scholar's Journey",
+							"Mask of the Teacher"
+						]
+					},
+					{
+						"correct": "The Knight never sees him in a hot area",
+						"difficulty": "Hard",
+						"explanation": "Quirrel is never seen in the hotter or more volcanic areas like the bottom of Kingdom's Edge.",
+						"image_url": "",
+						"question": "Which area does Quirrel describe as having 'unbearable heat'?",
+						"wrong": [
+							"Crystal Peak",
+							"Fungal Wastes",
+							"Ancient Basin"
+						]
+					},
+					{
+						"correct": "A miracle",
+						"difficulty": "Hard",
+						"explanation": "He expresses wonder at the endless rain and how it never floods the city.",
+						"image_url": "",
+						"question": "Quirrel calls the rain in the City of Tears what?",
+						"wrong": [
+							"A nuisance",
+							"A curse",
+							"The blood of the King"
+						]
+					},
+					{
+						"correct": "Uumuu remains basically the same",
+						"difficulty": "Hard",
+						"explanation": "While most bosses get harder, Uumuu's mechanic actually changes because Quirrel isn't there to help.",
+						"image_url": "",
+						"question": "In Godhome, who is the 'monstrous' version of the boss Quirrel helped you fight?",
+						"wrong": [
+							"Mega Uumuu",
+							"The Jellyfish Queen",
+							"Radiant Uumuu"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_quirrel",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Quirrel",
+				"lore_desc": "A friendly, inquisitive traveler who explores Hallownest alongside the Knight.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Scholar",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Companion",
+					"Scholar"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Temple of the Black Egg",
+						"difficulty": "Easy",
+						"explanation": "The Hollow Knight is chained inside the Black Egg in the center of the Forgotten Crossroads.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_hollow_knight.webp",
+						"question": "Where is the Hollow Knight sealed?",
+						"wrong": [
+							"The White Palace",
+							"The Abyss",
+							"The City of Tears"
+						]
+					},
+					{
+						"correct": "They are 'siblings'",
+						"difficulty": "Easy",
+						"explanation": "Both are Vessels created from the Void by the Pale King.",
+						"image_url": "",
+						"question": "What is the relation between the player character and the Hollow Knight?",
+						"wrong": [
+							"They are enemies only",
+							"They are father and son",
+							"They are the same person"
+						]
+					},
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "The infection manifests as glowing orange blobs bursting from its shell.",
+						"image_url": "",
+						"question": "What color is the infection leaking from the Hollow Knight's body?",
+						"wrong": [
+							"Black",
+							"White",
+							"Blue"
+						]
+					},
+					{
+						"correct": "It stabs itself with its nail",
+						"difficulty": "Easy",
+						"explanation": "In a tragic moment, the Hollow Knight begins stabbing its own chest to help you defeat it.",
+						"image_url": "",
+						"question": "What does the Hollow Knight do to itself during the boss fight?",
+						"wrong": [
+							"It heals itself",
+							"It runs away",
+							"It tries to talk to you"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "The Hollow Knight has lost one arm, likely due to the infection or its time in the egg.",
+						"image_url": "",
+						"question": "How many arms does the Hollow Knight have in its boss fight?",
+						"wrong": [
+							"Two",
+							"Four",
+							"None"
+						]
+					},
+					{
+						"correct": "The Hollow Knight before being infected",
+						"difficulty": "Medium",
+						"explanation": "Pure Vessel is the name of the boss's prime form, fought in the Pantheon of the Knight.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_hollow_knight.webp",
+						"question": "Who was the 'Pure Vessel'?",
+						"wrong": [
+							"The Knight",
+							"Zote",
+							"The Pale King"
+						]
+					},
+					{
+						"correct": "It had a 'tarnish' of emotion or idea",
+						"difficulty": "Medium",
+						"explanation": "A 'path of focus' and an 'idea instilled' by the King's affection made the Vessel impure.",
+						"image_url": "",
+						"question": "Why did the Hollow Knight fail to contain the infection?",
+						"wrong": [
+							"It wasn't strong enough",
+							"It was too small",
+							"The King forgot to lock the door"
+						]
+					},
+					{
+						"correct": "The three Dreamers",
+						"difficulty": "Medium",
+						"explanation": "Lurien, Monomon, and Herrah became Dreamers to keep the seals on the Black Egg intact.",
+						"image_url": "",
+						"question": "Which characters are sacrificed to seal the Hollow Knight away?",
+						"wrong": [
+							"The five Great Knights",
+							"The Mantis Lords",
+							"The Grimm Troupe"
+						]
+					},
+					{
+						"correct": "Sealed Vessel",
+						"difficulty": "Medium",
+						"explanation": "The track 'Sealed Vessel' is famous for shifting from an epic theme to a tragic one mid-fight.",
+						"image_url": "",
+						"question": "What is the name of the music track that plays during the Hollow Knight boss fight?",
+						"wrong": [
+							"The Last Stand",
+							"Void Battle",
+							"Radiant End"
+						]
+					},
+					{
+						"correct": "A large, tattered Nail",
+						"difficulty": "Medium",
+						"explanation": "It uses a massive version of the standard Nail, though it is worn and chipped.",
+						"image_url": "",
+						"question": "What is the Hollow Knight's main weapon?",
+						"wrong": [
+							"A Spear",
+							"Magic Orbs",
+							"Its Claws"
+						]
+					},
+					{
+						"correct": "The Birthplace memory",
+						"difficulty": "Hard",
+						"explanation": "In the Abyss, a memory reveals the Pale King leaving with the chosen Vessel while the Knight falls back into the dark.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_hollow_knight.webp",
+						"question": "Which cutscene shows the Hollow Knight being chosen by the Pale King?",
+						"wrong": [
+							"The ending of the game",
+							"The credits",
+							"A hidden room in the Hive"
+						]
+					},
+					{
+						"correct": "A bond with its father, the Pale King",
+						"difficulty": "Hard",
+						"explanation": "The 'bond' created when the King looked at the Vessel is believed to be the flaw the Radiance exploited.",
+						"image_url": "",
+						"question": "What 'idea' is hinted to have tarnished the Hollow Knight's purity?",
+						"wrong": [
+							"A desire for power",
+							"Love for Hornet",
+							"Fear of the dark"
+						]
+					},
+					{
+						"correct": "It has both arms and stands tall",
+						"difficulty": "Hard",
+						"explanation": "The Pure Vessel is the Hollow Knight at its peak, with full armor and two functional arms.",
+						"image_url": "",
+						"question": "If you look closely at the Pure Vessel's animations, how does it differ from the Hollow Knight?",
+						"wrong": [
+							"It uses a bow",
+							"It is much smaller",
+							"It is made of gold"
+						]
+					},
+					{
+						"correct": "The Hollow Knight",
+						"difficulty": "Hard",
+						"explanation": "The achievement simply shares the name of the boss and the game.",
+						"image_url": "",
+						"question": "What is the name of the achievement for defeating the Hollow Knight?",
+						"wrong": [
+							"Seal Broken",
+							"Sibling Rivalry",
+							"False God"
+						]
+					},
+					{
+						"correct": "Infection blobs from the chest",
+						"difficulty": "Hard",
+						"explanation": "The infected blobs are a sign of the Hollow Knight's corruption, which the Pure Vessel lacks.",
+						"image_url": "",
+						"question": "Which of these attacks does the Hollow Knight use that the Pure Vessel does not?",
+						"wrong": [
+							"Soul daggers",
+							"Ground slams",
+							"Triple slash"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_the_hollow_knight",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Hollow Knight",
+				"lore_desc": "The grown Vessel chosen to contain the Infection, who serves as the game's penultimate boss.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Vessel",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Vessel",
+					"Title"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Endless Rain",
+						"difficulty": "Easy",
+						"explanation": "The city is perpetually rained upon by water leaking from the Blue Lake above.",
+						"image_url": "https://skillcheckgame.com/assets/images/city_of_tears.webp",
+						"question": "What is the constant weather effect in the City of Tears?",
+						"wrong": [
+							"Snow",
+							"Sandstorms",
+							"Thunderstorms"
+						]
+					},
+					{
+						"correct": "Soul Master",
+						"difficulty": "Easy",
+						"explanation": "The Soul Master is the leader of the scholars who attempted to use SOUL to cure the infection.",
+						"image_url": "",
+						"question": "Which major boss is found in the Soul Sanctum of the City of Tears?",
+						"wrong": [
+							"The Collector",
+							"Mantis Lords",
+							"Gruz Mother"
+						]
+					},
+					{
+						"correct": "The Nailsmith",
+						"difficulty": "Easy",
+						"explanation": "The Nailsmith lives on the outskirts of the city and can upgrade your weapon multiple times.",
+						"image_url": "",
+						"question": "What is the name of the blacksmith who upgrades your nail in this city?",
+						"wrong": [
+							"The Hammerbug",
+							"The Steel Soul",
+							"The Forge Master"
+						]
+					},
+					{
+						"correct": "Using a City Crest",
+						"difficulty": "Easy",
+						"explanation": "The main gate is locked and requires the City Crest, dropped by the False Knight.",
+						"image_url": "",
+						"question": "How do you typically first enter the City of Tears?",
+						"wrong": [
+							"By flying",
+							"Using a key",
+							"Breaking a wall"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "Vast elevators connect the city to the Crossroads and the Resting Grounds.",
+						"image_url": "",
+						"question": "True or False: The City of Tears has a functioning elevator system.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Lurien the Watcher",
+						"difficulty": "Medium",
+						"explanation": "Lurien watched over the city from his high spire before becoming a Dreamer.",
+						"image_url": "https://skillcheckgame.com/assets/images/city_of_tears.webp",
+						"question": "Which Dreamer resides in the Watcher's Spire in the City of Tears?",
+						"wrong": [
+							"Monomon the Teacher",
+							"Herrah the Beast",
+							"The Seer"
+						]
+					},
+					{
+						"correct": "The Memorial to the Hollow Knight",
+						"difficulty": "Medium",
+						"explanation": "The memorial is found in the Fountain Square and commemorates the Vessel's sacrifice.",
+						"image_url": "",
+						"question": "What is the name of the statue in the city center that depicts the Hollow Knight?",
+						"wrong": [
+							"The King's Statue",
+							"The Victory Arch",
+							"The Hero's Pillar"
+						]
+					},
+					{
+						"correct": "Marisa the Singer",
+						"difficulty": "Medium",
+						"explanation": "Marisa is a ghost who continues to sing in the high-society district of the city.",
+						"image_url": "",
+						"question": "Which character can you find in the 'Pleasure House' sub-area?",
+						"wrong": [
+							"Zote",
+							"Quirrel",
+							"The White Lady"
+						]
+					},
+					{
+						"correct": "Relic Seeker Lemm",
+						"difficulty": "Medium",
+						"explanation": "Lemm buys King's Idols, Wanderer's Journals, and other relics from the Knight for Geo.",
+						"image_url": "",
+						"question": "What is the name of the currency exchange run by Lemm in the City of Tears?",
+						"wrong": [
+							"The Gold Shop",
+							"Ancient Finds",
+							"Lemm's Pawn Shop"
+						]
+					},
+					{
+						"correct": "The sewers or lower levels",
+						"difficulty": "Medium",
+						"explanation": "The city's plumbing and runoff lead directly into the Royal Waterways.",
+						"image_url": "",
+						"question": "Which area of the city is flooded and contains the entrance to the Royal Waterways?",
+						"wrong": [
+							"The Spire",
+							"The Sanctum",
+							"The Park"
+						]
+					},
+					{
+						"correct": "The Pale King",
+						"difficulty": "Hard",
+						"explanation": "The Pale King designed the city to be the jewel of his kingdom, though Lurien managed its daily affairs.",
+						"image_url": "https://skillcheckgame.com/assets/images/city_of_tears.webp",
+						"question": "Who was the 'architect' of the City of Tears' grand design according to lore?",
+						"wrong": [
+							"Lurien",
+							"The White Lady",
+							"The Nailsmith"
+						]
+					},
+					{
+						"correct": "The City Gate is not its specific name",
+						"difficulty": "Hard",
+						"explanation": "The two halves of the city are separated by a locked gate that can only be opened from the East side later in the game.",
+						"image_url": "",
+						"question": "What is the name of the gate that separates the East and West sides of the city?",
+						"wrong": [
+							"The Great Gate",
+							"The King's Gate",
+							"The Abyss Gate"
+						]
+					},
+					{
+						"correct": "Watcher Knights",
+						"difficulty": "Hard",
+						"explanation": "The Watcher Knights are a group of five (or six) reanimated suits of armor.",
+						"image_url": "",
+						"question": "What is the name of the miniboss guarding the way to Lurien in the Watcher's Spire?",
+						"wrong": [
+							"Spire Guards",
+							"Lurien's Chosen",
+							"Great Knights"
+						]
+					},
+					{
+						"correct": "Quirrel",
+						"difficulty": "Hard",
+						"explanation": "Quirrel is found at a window in a high building, marveling at the city's construction.",
+						"image_url": "",
+						"question": "Which NPC in the City of Tears can be found looking out a window at the rain?",
+						"wrong": [
+							"Zote",
+							"The Knight",
+							"Cornifer"
+						]
+					},
+					{
+						"correct": "He wanted to achieve immortality using soul",
+						"difficulty": "Hard",
+						"explanation": "The Soul Master believed that hoarding SOUL would protect the scholars from the Infection.",
+						"image_url": "",
+						"question": "What does the Soul Master's lore reveal about his goal?",
+						"wrong": [
+							"He wanted to build a bridge",
+							"He wanted to find the King",
+							"He wanted to create a new sun"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_city_of_tears",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "City of Tears",
+				"lore_desc": "The majestic, rainy capital of Hallownest, built deep within the caverns.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Rainy Capital",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"City",
+					"Capital"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Dirtmouth",
+						"difficulty": "Easy",
+						"explanation": "Dirtmouth is the central hub area of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/dirtmouth.webp",
+						"question": "What is the name of the very first town the player enters?",
+						"wrong": [
+							"Stonevale",
+							"Bugton",
+							"Grassvale"
+						]
+					},
+					{
+						"correct": "Elderbug",
+						"difficulty": "Easy",
+						"explanation": "Elderbug is the town's oldest resident and primary guide.",
+						"image_url": "",
+						"question": "Who is the elderly NPC who never leaves Dirtmouth?",
+						"wrong": [
+							"Old Man Bug",
+							"Grandpa",
+							"Zote"
+						]
+					},
+					{
+						"correct": "Salubra's shop is NOT in Dirtmouth",
+						"difficulty": "Easy",
+						"explanation": "Actually, Sly and Iselda are in Dirtmouth, but Salubra's shop is in the Forgotten Crossroads.",
+						"image_url": "",
+						"question": "Which shop in Dirtmouth sells charms and notches?",
+						"wrong": [
+							"Sly's Shop",
+							"Iselda's Shop",
+							"The Forge"
+						]
+					},
+					{
+						"correct": "A large red tent",
+						"difficulty": "Easy",
+						"explanation": "The Grimm Troupe sets up their spooky tents on the outskirts of town.",
+						"image_url": "",
+						"question": "What appears in Dirtmouth if the player summons the Grimm Troupe?",
+						"wrong": [
+							"A giant castle",
+							"A carnival ride",
+							"A circus ring"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "Dirtmouth slowly populates as you find and help various NPCs.",
+						"image_url": "",
+						"question": "True or False: Most characters you rescue throughout the game eventually move to Dirtmouth.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Sly",
+						"difficulty": "Medium",
+						"explanation": "Sly is revealed to be the Great Nailsage after the player collects certain items.",
+						"image_url": "https://skillcheckgame.com/assets/images/dirtmouth.webp",
+						"question": "What is the name of the tiny shopkeeper who is actually a legendary sage?",
+						"wrong": [
+							"Bugsy",
+							"The Merchant",
+							"The Sage"
+						]
+					},
+					{
+						"correct": "Bretta",
+						"difficulty": "Medium",
+						"explanation": "Bretta is rescued from the Fungal Wastes and becomes a resident of Dirtmouth.",
+						"image_url": "",
+						"question": "What is the name of the female beetle who moves into a house in Dirtmouth after being rescued?",
+						"wrong": [
+							"Iselda",
+							"Cloth",
+							"Myla"
+						]
+					},
+					{
+						"correct": "Confessor Jiji",
+						"difficulty": "Medium",
+						"explanation": "Jiji lives behind a locked door in the far right of Dirtmouth.",
+						"image_url": "",
+						"question": "Which NPC in Dirtmouth can help you recover your Shade for a Rancid Egg?",
+						"wrong": [
+							"Steel Soul Jinn",
+							"The Seer",
+							"Elderbug"
+						]
+					},
+					{
+						"correct": "Iselda's Shop",
+						"difficulty": "Medium",
+						"explanation": "Iselda runs the shop while her husband Cornifer is out exploring.",
+						"image_url": "",
+						"question": "What is the name of the shop that sells map-related items in town?",
+						"wrong": [
+							"The Chart Room",
+							"Cornifer's Corner",
+							"Mapping Co."
+						]
+					},
+					{
+						"correct": "Steel Soul Mode",
+						"difficulty": "Medium",
+						"explanation": "In Steel Soul mode, Jiji is replaced by Jinn, who buys Rancid Eggs for Geo.",
+						"image_url": "",
+						"question": "Which game mode turns the NPC 'Confessor Jiji' into 'Steel Soul Jinn'?",
+						"wrong": [
+							"Godseeker Mode",
+							"Permadeath Mode",
+							"Hardcore Mode"
+						]
+					},
+					{
+						"correct": "More instruments are added to the theme",
+						"difficulty": "Hard",
+						"explanation": "The music evolves from a lonely piano to a fuller orchestral piece as the town grows.",
+						"image_url": "https://skillcheckgame.com/assets/images/dirtmouth.webp",
+						"question": "What happens to the music in Dirtmouth as you bring more NPCs back?",
+						"wrong": [
+							"It gets louder",
+							"It changes to a rock version",
+							"It stops playing"
+						]
+					},
+					{
+						"correct": "The Well",
+						"difficulty": "Hard",
+						"explanation": "It's simply referred to as the Well, and it is the main entrance to the ruins.",
+						"image_url": "",
+						"question": "What is the specific name of the well that leads down into the Crossroads?",
+						"wrong": [
+							"King's Descent",
+							"The Plunge",
+							"Hallow's Throat"
+						]
+					},
+					{
+						"correct": "Divine",
+						"difficulty": "Hard",
+						"explanation": "If the player chooses to banish the Troupe, Divine and her tent also disappear.",
+						"image_url": "",
+						"question": "Which Dirtmouth resident can be 'banished' along with the Grimm Troupe?",
+						"wrong": [
+							"Sly",
+							"Bretta",
+							"Elderbug"
+						]
+					},
+					{
+						"correct": "The Grimm Troupe (Grimm)",
+						"difficulty": "Hard",
+						"explanation": "Dream Nailing the corpse of a troupe member in the Cliffs summons the troupe to town.",
+						"image_url": "",
+						"question": "Who is the NPC that appears in Dirtmouth after you find their 'body' in the Howling Cliffs?",
+						"wrong": [
+							"Quirrel",
+							"Zote",
+							"Tiso"
+						]
+					},
+					{
+						"correct": "Graveyard",
+						"difficulty": "Hard",
+						"explanation": "A small graveyard sits between the town and the crystal-guarded lift.",
+						"image_url": "",
+						"question": "What is the name of the cemetery located to the right of Dirtmouth?",
+						"wrong": [
+							"Resting Grounds",
+							"The Mourning Grove",
+							"The Pit"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_dirtmouth",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Dirtmouth",
+				"lore_desc": "A lonely, fading town above the crossroads that serves as the Knight's main base.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Hub",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Town",
+					"Hub"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Geo",
+						"difficulty": "Easy",
+						"explanation": "Geo is the standard money found by defeating enemies and breaking deposits.",
+						"image_url": "https://skillcheckgame.com/assets/images/geo.webp",
+						"question": "What is the name of the currency used in the game?",
+						"wrong": [
+							"Gold",
+							"Credits",
+							"Souls"
+						]
+					},
+					{
+						"correct": "It stays with your Shade",
+						"difficulty": "Easy",
+						"explanation": "When the Knight dies, all held Geo is left with their Shade.",
+						"image_url": "",
+						"question": "What happens to your Geo when you die?",
+						"wrong": [
+							"It is gone forever",
+							"Nothing",
+							"It goes to your bank"
+						]
+					},
+					{
+						"correct": "Defeat your Shade",
+						"difficulty": "Easy",
+						"explanation": "Defeating the Shade returns all the Geo that was being carried.",
+						"image_url": "",
+						"question": "How do you get your Geo back after dying?",
+						"wrong": [
+							"Buy it back",
+							"Find a chest",
+							"Pray at a shrine"
+						]
+					},
+					{
+						"correct": "A metallic clinking sound",
+						"difficulty": "Easy",
+						"explanation": "Geo has a very distinct 'clink' sound as it scatters.",
+						"image_url": "",
+						"question": "What is the sound Geo makes when it falls on the ground?",
+						"wrong": [
+							"A soft thud",
+							"A loud bang",
+							"A splashing sound"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "Geo is used for maps, charms, upgrades, and opening toll gates.",
+						"image_url": "",
+						"question": "True or False: You can buy items from shops using Geo.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Millibelle the Banker",
+						"difficulty": "Medium",
+						"explanation": "Millibelle provides a banking service, but she might not be as trustworthy as she seems.",
+						"image_url": "https://skillcheckgame.com/assets/images/geo.webp",
+						"question": "Which NPC offers to 'keep your Geo safe' in a bank?",
+						"wrong": [
+							"Sly",
+							"Salubra",
+							"The Nailsmith"
+						]
+					},
+					{
+						"correct": "She runs away with it",
+						"difficulty": "Medium",
+						"explanation": "Millibelle is a thief who will flee to the Pleasure House once you deposit enough Geo.",
+						"image_url": "",
+						"question": "What happens if you deposit too much Geo with Millibelle?",
+						"wrong": [
+							"She gives you interest",
+							"She buys you a gift",
+							"The bank explodes"
+						]
+					},
+					{
+						"correct": "Gathering Swarm",
+						"difficulty": "Medium",
+						"explanation": "Gathering Swarm is a very useful 'quality of life' charm sold by Sly.",
+						"image_url": "",
+						"question": "Which charm makes Geo automatically fly toward the Knight?",
+						"wrong": [
+							"Greed",
+							"Magnetic Pulse",
+							"Void Heart"
+						]
+					},
+					{
+						"correct": "Increasing the amount of Geo enemies drop",
+						"difficulty": "Medium",
+						"explanation": "The Greed charms increase the payout from fallen foes.",
+						"image_url": "",
+						"question": "What are 'Fragile Greed' and 'Unbreakable Greed' used for?",
+						"wrong": [
+							"Finding hidden chests",
+							"Getting shop discounts",
+							"Double jumping"
+						]
+					},
+					{
+						"correct": "Pleasure House in the City of Tears",
+						"difficulty": "Medium",
+						"explanation": "She can be found lounging in a hot spring, where you can hit her to get your Geo back.",
+						"image_url": "",
+						"question": "Where can you find Millibelle after she steals your Geo?",
+						"wrong": [
+							"The Abyss",
+							"Dirtmouth",
+							"Deepnest"
+						]
+					},
+					{
+						"correct": "Fossilized shells",
+						"difficulty": "Hard",
+						"explanation": "Geo is described as fragments of ancient, fossilized shells of prehistoric bugs.",
+						"image_url": "https://skillcheckgame.com/assets/images/geo.webp",
+						"question": "What is Geo actually made of according to the lore?",
+						"wrong": [
+							"Hardened soul",
+							"Mashed leaves",
+							"Pure light"
+						]
+					},
+					{
+						"correct": "Leg Eater",
+						"difficulty": "Hard",
+						"explanation": "Leg Eater, found in the Fungal Wastes, sells powerful but breakable charms.",
+						"image_url": "",
+						"question": "Who is the NPC that sells 'Fragile' charms for Geo?",
+						"wrong": [
+							"Divine",
+							"Sly",
+							"Salubra"
+						]
+					},
+					{
+						"correct": "Divine",
+						"difficulty": "Hard",
+						"explanation": "Divine is a member of the Grimm Troupe who 'consumes' and upgrades the fragile charms.",
+						"image_url": "",
+						"question": "Which NPC charges thousands of Geo to make 'Fragile' charms 'Unbreakable'?",
+						"wrong": [
+							"Sly",
+							"The Nailsmith",
+							"The White Lady"
+						]
+					},
+					{
+						"correct": "9,999,999",
+						"difficulty": "Hard",
+						"explanation": "The counter caps out at just under 10 million, though few players ever reach this.",
+						"image_url": "",
+						"question": "What is the maximum amount of Geo a player can hold?",
+						"wrong": [
+							"9,999",
+							"1,000,000",
+							"There is no limit"
+						]
+					},
+					{
+						"correct": "Gorgeous Husk",
+						"difficulty": "Hard",
+						"explanation": "The Gorgeous Husk is a rare, non-respawning enemy that drops over 400 Geo.",
+						"image_url": "",
+						"question": "Which enemy in the City of Tears is known for carrying and dropping a large amount of Geo?",
+						"wrong": [
+							"Great Husk Sentry",
+							"Soul Twister",
+							"Husk Bully"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_geo",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Geo",
+				"lore_desc": "The shards of prehistoric shells that serve as the main currency within Hallownest.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Currency",
+			"profiler": {
+				"vibe_tags": [
+					"Currency",
+					"Items",
+					"Economy"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Sitting on a Bench",
+						"difficulty": "Easy",
+						"explanation": "Charms can only be swapped while resting at one of the game's benches.",
+						"image_url": "https://skillcheckgame.com/assets/images/charms.webp",
+						"question": "Where must the Knight be to change their equipped charms?",
+						"wrong": [
+							"In a shop",
+							"In the inventory menu anywhere",
+							"At a shrine"
+						]
+					},
+					{
+						"correct": "Notches",
+						"difficulty": "Easy",
+						"explanation": "Each charm costs a certain number of 'Notches' to equip.",
+						"image_url": "",
+						"question": "What is the name of the 'slots' used to equip charms?",
+						"wrong": [
+							"Pegs",
+							"Holes",
+							"Links"
+						]
+					},
+					{
+						"correct": "Wayward Compass",
+						"difficulty": "Easy",
+						"explanation": "Wayward Compass shows the player's exact location on the map.",
+						"image_url": "",
+						"question": "Which charm is widely considered the most useful for navigation?",
+						"wrong": [
+							"Fury of the Fallen",
+							"Thorns of Agony",
+							"Baldur Shell"
+						]
+					},
+					{
+						"correct": "Salubra",
+						"difficulty": "Easy",
+						"explanation": "Salubra sells a wide variety of charms and extra notches.",
+						"image_url": "",
+						"question": "What is the name of the charm merchant found in the Forgotten Crossroads?",
+						"wrong": [
+							"Sly",
+							"Iselda",
+							"Leg Eater"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "The 'Fragile' charms sold by Leg Eater can be made permanent by Divine.",
+						"image_url": "",
+						"question": "True or False: Some charms can be upgraded to become 'Unbreakable'.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "You become Overcharmed",
+						"difficulty": "Medium",
+						"explanation": "Overcharming allows you to use the charm but causes you to take double damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/charms.webp",
+						"question": "What happens if you try to equip a charm that costs more notches than you have left?",
+						"wrong": [
+							"The game crashes",
+							"You cannot equip it",
+							"The charm breaks"
+						]
+					},
+					{
+						"correct": "Quick Focus",
+						"difficulty": "Medium",
+						"explanation": "Quick Focus is a favorite for boss fights as it reduces the time needed to use SOUL for healing.",
+						"image_url": "",
+						"question": "Which charm allows the Knight to heal faster?",
+						"wrong": [
+							"Deep Focus",
+							"Lifeblood Heart",
+							"Soul Catcher"
+						]
+					},
+					{
+						"correct": "Void Heart",
+						"difficulty": "Medium",
+						"explanation": "Void Heart replaces Kingsoul and is necessary to unlock the 'Dream No More' and Godhome endings.",
+						"image_url": "",
+						"question": "Which charm is required to access the true final boss of the game?",
+						"wrong": [
+							"Kingsoul",
+							"Mark of Pride",
+							"Shaman Stone"
+						]
+					},
+					{
+						"correct": "Weaversong",
+						"difficulty": "Medium",
+						"explanation": "Weaversong summons three small weaverlings that attack enemies.",
+						"image_url": "",
+						"question": "What is the name of the charm that summons small spiders to fight for you?",
+						"wrong": [
+							"Glowing Womb",
+							"Grimmchild",
+							"Spore Shroom"
+						]
+					},
+					{
+						"correct": "Soul Catcher",
+						"difficulty": "Medium",
+						"explanation": "Soul Catcher is one of the first charms most players find.",
+						"image_url": "",
+						"question": "Which charm increases the amount of SOUL gained from hitting enemies?",
+						"wrong": [
+							"Spell Twister",
+							"Shaman Stone",
+							"Longnail"
+						]
+					},
+					{
+						"correct": "Void Heart",
+						"difficulty": "Hard",
+						"explanation": "Void Heart represents the Knight's mastery over the Void within them.",
+						"image_url": "https://skillcheckgame.com/assets/images/charms.webp",
+						"question": "What is the name of the charm that is literally the 'heart' of the Knight?",
+						"wrong": [
+							"King's Core",
+							"Abyss Soul",
+							"Black Shield"
+						]
+					},
+					{
+						"correct": "Weaversong and Grubsong",
+						"difficulty": "Hard",
+						"explanation": "Many charms have hidden 'synergies' that change their effects when used together.",
+						"image_url": "",
+						"question": "Which two charms, when equipped together, allow your Weaverlings to collect SOUL for you?",
+						"wrong": [
+							"Weaversong and Soul Catcher",
+							"Weaversong and Sprintmaster",
+							"Grimmchild and Grubsong"
+						]
+					},
+					{
+						"correct": "40",
+						"difficulty": "Hard",
+						"explanation": "There are exactly 40 charms for the player to collect.",
+						"image_url": "",
+						"question": "What is the total number of charms available in the base game plus DLC?",
+						"wrong": [
+							"50",
+							"36",
+							"45"
+						]
+					},
+					{
+						"correct": "Half of the Kingsoul",
+						"difficulty": "Hard",
+						"explanation": "The White Lady provides one half of the Kingsoul; the other is in the White Palace.",
+						"image_url": "",
+						"question": "What is the name of the charm given by the White Lady?",
+						"wrong": [
+							"White Heart",
+							"Queen's Garden",
+							"Floral Blessing"
+						]
+					},
+					{
+						"correct": "Defender's Crest",
+						"difficulty": "Hard",
+						"explanation": "Defender's Crest is earned by defeating the Dung Defender and has many secret interactions with other charms.",
+						"image_url": "",
+						"question": "Which charm makes the Knight emit a cloud of 'heroic odor' that damages enemies?",
+						"wrong": [
+							"Spore Shroom",
+							"Stench Shell",
+							"Dung Shield"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_charms",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Charms",
+				"lore_desc": "Special items that provide the Knight with various bonuses and abilities when equipped at a bench.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Trinkets",
+			"profiler": {
+				"vibe_tags": [
+					"Items",
+					"Abilities",
+					"Equipment"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Striking enemies with your Nail",
+						"difficulty": "Easy",
+						"explanation": "In most cases, the Knight must be aggressive and hit enemies to fill their SOUL meter.",
+						"image_url": "https://skillcheckgame.com/assets/images/soul.webp",
+						"question": "What is the primary way to gain SOUL during combat?",
+						"wrong": [
+							"Waiting for it to recharge",
+							"Drinking potions",
+							"Taking damage"
+						]
+					},
+					{
+						"correct": "Focusing to heal",
+						"difficulty": "Easy",
+						"explanation": "Holding the Focus button consumes SOUL to repair the Knight's shell (heal health).",
+						"image_url": "",
+						"question": "What is the most common use for SOUL other than casting spells?",
+						"wrong": [
+							"Running faster",
+							"Double jumping",
+							"Buying items"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "The SOUL meter is a white, circular orb (the Soul Vessel) in the top-left corner.",
+						"image_url": "",
+						"question": "What color is the SOUL meter in the game's user interface?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Green"
+						]
+					},
+					{
+						"correct": "Vengeful Spirit",
+						"difficulty": "Easy",
+						"explanation": "The Ancestral Mound in the Crossroads provides the Vengeful Spirit spell.",
+						"image_url": "",
+						"question": "What is the name of the first spell the Knight learns?",
+						"wrong": [
+							"Fireball",
+							"Magic Missile",
+							"Shadow Bolt"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Easy",
+						"explanation": "Healing requires a set amount of SOUL; without it, you are vulnerable.",
+						"image_url": "",
+						"question": "True or False: If your SOUL meter is empty, you cannot heal.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "Soul Sanctum",
+						"difficulty": "Medium",
+						"explanation": "The Soul Sanctum in the City of Tears was where scholars experimented with the substance.",
+						"image_url": "https://skillcheckgame.com/assets/images/soul.webp",
+						"question": "Which area of the game is dedicated to the study and hoarding of SOUL?",
+						"wrong": [
+							"Crystal Peak",
+							"Fungal Wastes",
+							"The Abyss"
+						]
+					},
+					{
+						"correct": "Shade Soul",
+						"difficulty": "Medium",
+						"explanation": "Shade Soul is a more powerful, shadow-infused version of the basic projectile spell.",
+						"image_url": "",
+						"question": "What is the upgraded, 'dark' version of the Vengeful Spirit spell called?",
+						"wrong": [
+							"Void Fire",
+							"Abyssal Blast",
+							"Dark Wave"
+						]
+					},
+					{
+						"correct": "Vessel Fragments",
+						"difficulty": "Medium",
+						"explanation": "Three Vessel Fragments combine to create a new small soul vessel next to the main one.",
+						"image_url": "",
+						"question": "What items can you find to increase your maximum SOUL capacity?",
+						"wrong": [
+							"Soul Stones",
+							"Magic Beans",
+							"Notches"
+						]
+					},
+					{
+						"correct": "Desolate Dive",
+						"difficulty": "Medium",
+						"explanation": "Desolate Dive deals damage and can break through fragile floors.",
+						"image_url": "",
+						"question": "What is the name of the spell that makes the Knight dive into the ground?",
+						"wrong": [
+							"Ground Slam",
+							"Heavy Drop",
+							"Quake"
+						]
+					},
+					{
+						"correct": "Spell Twister",
+						"difficulty": "Medium",
+						"explanation": "Spell Twister is found in a secret room in the Soul Sanctum.",
+						"image_url": "",
+						"question": "Which charm allows you to cast spells for a lower SOUL cost?",
+						"wrong": [
+							"Shaman Stone",
+							"Soul Catcher",
+							"Soul Eater"
+						]
+					},
+					{
+						"correct": "Abyssal Shriek",
+						"difficulty": "Hard",
+						"explanation": "Abyssal Shriek is the void-upgraded version of Howling Wraiths, found in the Abyss.",
+						"image_url": "https://skillcheckgame.com/assets/images/soul.webp",
+						"question": "What is the name of the 'ultimate' upward-firing spell?",
+						"wrong": [
+							"Howling Wraiths",
+							"Void Scream",
+							"Sky Fire"
+						]
+					},
+					{
+						"correct": "The 'living essence' of bugs",
+						"difficulty": "Hard",
+						"explanation": "The scholars of the Soul Sanctum killed many bugs to extract their SOUL for their experiments.",
+						"image_url": "",
+						"question": "According to the Soul Master, what is the source of SOUL?",
+						"wrong": [
+							"The sun",
+							"The rocks",
+							"The water"
+						]
+					},
+					{
+						"correct": "Soul Totems",
+						"difficulty": "Hard",
+						"explanation": "Soul Totems are ancient white statues that provide SOUL when struck.",
+						"image_url": "",
+						"question": "What is the name of the stationary objects found in the world that refill your SOUL when hit?",
+						"wrong": [
+							"Magic Statues",
+							"Refill Pillars",
+							"Essence Trees"
+						]
+					},
+					{
+						"correct": "Shaman Stone",
+						"difficulty": "Hard",
+						"explanation": "Shaman Stone is one of the most powerful charms for 'magic-focused' character builds.",
+						"image_url": "",
+						"question": "Which charm significantly increases the size and damage of all spells?",
+						"wrong": [
+							"Soul Eater",
+							"Spell Twister",
+							"Grubberfly's Elegy"
+						]
+					},
+					{
+						"correct": "It gives no dialogue, only soul",
+						"difficulty": "Hard",
+						"explanation": "Dream Nailing a Soul Totem provides a large amount of SOUL but contains no dream dialogue.",
+						"image_url": "",
+						"question": "What happens if you use the Dream Nail on a Soul Totem?",
+						"wrong": [
+							"It tells you a secret",
+							"It breaks",
+							"It summons an enemy"
+						]
+					}
+				]
+			},
+			"id": "hollow_knight_soul",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Soul",
+				"lore_desc": "The vital energy that animates the bugs of Hallownest, used by the Knight for spells and healing.",
+				"theme_origin": "hollow knight",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Essence",
+			"profiler": {
+				"vibe_tags": [
+					"Magic",
+					"Mechanic",
+					"Energy"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -113753,6 +116995,312 @@
 		},
 		{
 			"id": "nintendo all stars",
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mario",
+						"Luigi"
+					],
+					"name": "Red & Green"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Princess Peach",
+						"Bowser",
+						"Toad"
+					],
+					"name": "Mushroom Monarchy"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Donkey Kong",
+						"Diddy Kong"
+					],
+					"name": "Jungle Duo"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Link",
+						"Zelda",
+						"Ganondorf"
+					],
+					"name": "Triforce Bearers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Samus Aran",
+						"Ridley"
+					],
+					"name": "Hunter & Hunted"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Kirby",
+						"King Dedede",
+						"Meta Knight"
+					],
+					"name": "Dream Land Rivals"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Pikachu",
+						"Charizard"
+					],
+					"name": "Kanto Clash"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Fox McCloud",
+						"Captain Falcon"
+					],
+					"name": "Speed Demons"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Wario",
+						"Mario"
+					],
+					"name": "Wah!"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Isabelle",
+						"Tom Nook",
+						"Villager"
+					],
+					"name": "Island Representatives"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Inkling",
+						"Villager"
+					],
+					"name": "Fresh Off The Boat"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mario",
+						"Yoshi"
+					],
+					"name": "Loyal Steed"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Olimar",
+						"Toad"
+					],
+					"name": "Tiny Leaders"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Charizard",
+						"Bowser",
+						"Ridley"
+					],
+					"name": "Fire Breathers"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Princess Peach",
+						"Zelda",
+						"Rosalina"
+					],
+					"name": "Royal Court"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Marth",
+						"Lucina",
+						"Shulk"
+					],
+					"name": "Swordfighters"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Pit",
+						"Meta Knight"
+					],
+					"name": "Wings of Justice"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Bowser",
+						"Donkey Kong",
+						"King Dedede"
+					],
+					"name": "Heavyweights"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Little Mac",
+						"Olimar",
+						"Luigi"
+					],
+					"name": "Underdogs"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Rosalina",
+						"Fox McCloud",
+						"Samus Aran"
+					],
+					"name": "Cosmic Travellers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Marth",
+						"Lucina"
+					],
+					"name": "Bloodline"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Wario",
+						"Bowser"
+					],
+					"name": "Troublemakers"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Luigi",
+						"Yoshi",
+						"Link"
+					],
+					"name": "Green Machine"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Inkling",
+						"Shulk",
+						"Little Mac"
+					],
+					"name": "Smash Newcomers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Shulk",
+						"Captain Falcon"
+					],
+					"name": "Really Feeling It"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Olimar",
+						"Isabelle"
+					],
+					"name": "Flower Pickers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kirby",
+						"Pikachu"
+					],
+					"name": "Copy That"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ridley",
+						"Ganondorf"
+					],
+					"name": "Galactic Threat"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Princess Peach",
+						"Rosalina",
+						"Mario"
+					],
+					"name": "Princesses & Plumber"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Rosalina",
+						"Kirby"
+					],
+					"name": "Star Power"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Meta Knight",
+						"Ganondorf"
+					],
+					"name": "Masked Menace"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mario",
+						"Donkey Kong"
+					],
+					"name": "The OG Rivals"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Little Mac",
+						"Captain Falcon"
+					],
+					"name": "Ring Ready"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Inkling",
+						"Tom Nook"
+					],
+					"name": "Ink & Bells"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Diddy Kong",
+						"Luigi"
+					],
+					"name": "Sidekicks"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Pit",
+						"Samus Aran"
+					],
+					"name": "Sky Fighters"
+				}
+			]
+		},
+		{
+			"id": "hollow knight",
 			"synergies": []
 		}
 	],
