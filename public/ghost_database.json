@@ -124217,7 +124217,243 @@
 		},
 		{
 			"id": "red dead redemption 2",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 2000,
+					"items": [
+						"Dutch van der Linde",
+						"Arthur Morgan"
+					],
+					"name": "Have Some Faith"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"John Marston",
+						"Abigail Roberts",
+						"Beecher's Hope"
+					],
+					"name": "The Marston Family"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Micah Bell",
+						"Dutch van der Linde"
+					],
+					"name": "The Rat"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Dutch van der Linde",
+						"Hosea Matthews",
+						"The Van der Linde Gang"
+					],
+					"name": "One Last Score"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Pinkerton Agency",
+						"Blackwater"
+					],
+					"name": "The Law"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Lenny Summers",
+						"Valentine"
+					],
+					"name": "Bar Fight"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Arthur Morgan",
+						"Lenny Summers"
+					],
+					"name": "LENNY!"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Arthur Morgan",
+						"John Marston"
+					],
+					"name": "The Better Man"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Saint Denis",
+						"Hosea Matthews"
+					],
+					"name": "High Society"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Guarma",
+						"Dutch van der Linde",
+						"Arthur Morgan"
+					],
+					"name": "Shipwrecked"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Charles Smith",
+						"Bill Williamson"
+					],
+					"name": "Gang's Muscle"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Sadie Adler",
+						"Arthur Morgan",
+						"Charles Smith"
+					],
+					"name": "Loyalty"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Blackwater",
+						"The Van der Linde Gang",
+						"Pinkerton Agency"
+					],
+					"name": "Wanted Dead or Alive"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Valentine",
+						"The Van der Linde Gang",
+						"Hosea Matthews"
+					],
+					"name": "Chapter One"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Sadie Adler",
+						"Micah Bell"
+					],
+					"name": "Widow's Revenge"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Micah Bell",
+						"Arthur Morgan",
+						"Dutch van der Linde"
+					],
+					"name": "The Betrayal"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"John Marston",
+						"Beecher's Hope",
+						"Abigail Roberts"
+					],
+					"name": "Ranch Life"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Hosea Matthews",
+						"Bill Williamson",
+						"The Van der Linde Gang"
+					],
+					"name": "Old Guard"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Saint Denis",
+						"Lenny Summers",
+						"Arthur Morgan"
+					],
+					"name": "City Slickers"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Arthur Morgan",
+						"Sadie Adler",
+						"John Marston"
+					],
+					"name": "Outlaws To The End"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Guarma",
+						"Dutch van der Linde"
+					],
+					"name": "Paradise Lost"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Valentine",
+						"Beecher's Hope"
+					],
+					"name": "Simple Folk"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Pinkerton Agency",
+						"Arthur Morgan"
+					],
+					"name": "Hunted"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Charles Smith",
+						"Sadie Adler"
+					],
+					"name": "The Muscle"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Micah Bell",
+						"Bill Williamson"
+					],
+					"name": "Snake In The Grass"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Saint Denis",
+						"Blackwater"
+					],
+					"name": "Civilisation"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Arthur Morgan",
+						"Hosea Matthews"
+					],
+					"name": "Gone Fishing"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Abigail Roberts",
+						"The Van der Linde Gang"
+					],
+					"name": "Dear Abigail"
+				}
+			]
 		}
 	],
 	"titles": {
