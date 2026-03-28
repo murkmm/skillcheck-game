@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774731530,
+	"last_updated": 1774732377,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2955,6 +2955,51 @@
 				"nintendo_all_stars_shulk",
 				"nintendo_all_stars_lucina",
 				"nintendo_all_stars_toad"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-02": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Hollow Knight",
+			"share_text": "No cost too great for a perfect score",
+			"shops": [
+				{
+					"p1": "game_shark",
+					"p2": "training_mode"
+				},
+				{
+					"p1": "s_video",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "overclock_chip",
+					"p2": "cooling_fan"
+				}
+			],
+			"showcase": [
+				"hollow_knight_the_knight",
+				"hollow_knight_hornet",
+				"hollow_knight_zote_the_mighty"
+			],
+			"starters": [
+				"hollow_knight_the_knight",
+				"hollow_knight_hornet",
+				"hollow_knight_hallownest",
+				"hollow_knight_the_grubfather",
+				"hollow_knight_elderbug",
+				"hollow_knight_the_radiance",
+				"hollow_knight_zote_the_mighty",
+				"hollow_knight_cornifer",
+				"hollow_knight_the_mantis_lords",
+				"hollow_knight_quirrel",
+				"hollow_knight_the_hollow_knight",
+				"hollow_knight_city_of_tears",
+				"hollow_knight_dirtmouth",
+				"hollow_knight_geo",
+				"hollow_knight_charms",
+				"hollow_knight_soul"
 			],
 			"submitted_by": ""
 		}
