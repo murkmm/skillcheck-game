@@ -720,8 +720,9 @@ import Layout from '~/layouts/Layout.astro';
 
     // ===== PUSH SIDEBAR ADS =====
     try {
-      const ads = (window as any).adsbygoogle || [];
-      (window as any).adsbygoogle = ads;
+      const w = window as unknown as Record<string, unknown>;
+      const ads = (w.adsbygoogle as unknown[]) || [];
+      w.adsbygoogle = ads;
       ads.push({});
       ads.push({});
     } catch (e) {
@@ -754,6 +755,7 @@ import Layout from '~/layouts/Layout.astro';
 
 <!-- AdSense loader for sidebar display ads -->
 <script
+  is:inline
   async
   src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5073150196607526"
   crossorigin="anonymous"
