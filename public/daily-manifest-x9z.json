@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774651093,
+	"last_updated": 1774713481,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2750,6 +2750,105 @@
 				"slay_the_spire_the_boot",
 				"slay_the_spire_awakened_one",
 				"slay_the_spire_lagavulin"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-29": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Mass Effect",
+			"share_text": "Commander Shepard needs your help",
+			"shops": [
+				{
+					"p1": "strategy_guide",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "link_cable",
+					"p2": "turbo_button"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "cooling_fan"
+				}
+			],
+			"showcase": [
+				"mass_effect_commander_shepard",
+				"mass_effect_liara_t'soni",
+				"mass_effect_garrus_vakarian"
+			],
+			"starters": [
+				"mass_effect_commander_shepard",
+				"mass_effect_garrus_vakarian",
+				"mass_effect_liara_t'soni",
+				"mass_effect_tali'zorah",
+				"mass_effect_urdnot_wrex",
+				"mass_effect_the_normandy",
+				"mass_effect_the_citadel",
+				"mass_effect_the_reapers",
+				"mass_effect_the_mako",
+				"mass_effect_mordin_solus",
+				"mass_effect_miranda_lawson",
+				"mass_effect_thane_krios",
+				"mass_effect_jack",
+				"mass_effect_legion",
+				"mass_effect_the_illusive_man",
+				"mass_effect_saren_arterius",
+				"mass_effect_omega",
+				"mass_effect_illium",
+				"mass_effect_tuchanka",
+				"mass_effect_sovereign",
+				"mass_effect_edi",
+				"mass_effect_javik",
+				"mass_effect_grunt",
+				"mass_effect_the_geth",
+				"mass_effect_omni-tool"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-30": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Stardew Valley",
+			"share_text": "Time to water the crops and test your knowledge",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "save_state",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "power_supply"
+				}
+			],
+			"showcase": [
+				"stardew_valley_marnie",
+				"stardew_valley_abigail",
+				"stardew_valley_robin"
+			],
+			"starters": [
+				"stardew_valley_lewis",
+				"stardew_valley_pierre",
+				"stardew_valley_marnie",
+				"stardew_valley_clint",
+				"stardew_valley_the_junimos",
+				"stardew_valley_linus",
+				"stardew_valley_the_mines",
+				"stardew_valley_the_desert",
+				"stardew_valley_krobus",
+				"stardew_valley_abigail",
+				"stardew_valley_jojamart",
+				"stardew_valley_robin",
+				"stardew_valley_the_stardrop",
+				"stardew_valley_prismatic_shard",
+				"stardew_valley_community_center",
+				"stardew_valley_grandpa"
 			],
 			"submitted_by": ""
 		}
