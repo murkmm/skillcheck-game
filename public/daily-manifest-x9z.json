@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774713481,
+	"last_updated": 1774730142,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2808,7 +2808,7 @@
 			"submitted_by": ""
 		},
 		"2026-03-30": {
-			"daily_type": "mystery",
+			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
 			"motd": "Stardew Valley",
