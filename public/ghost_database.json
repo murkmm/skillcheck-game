@@ -116010,6 +116010,3270 @@
 					"Icon"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Van der Linde Gang",
+						"difficulty": "Easy",
+						"explanation": "Arthur has been a member of the Van der Linde gang since he was a teenager, viewing Dutch as a father figure.",
+						"image_url": "https://skillcheckgame.com/assets/images/arthur_morgan.webp",
+						"question": "Which outlaw group does this legendary gunslinger belong to?",
+						"wrong": [
+							"The O'Driscoll Boys",
+							"The Del Lobo Gang",
+							"The Lemoyne Raiders"
+						]
+					},
+					{
+						"correct": "Rockstar Games",
+						"difficulty": "Easy",
+						"explanation": "Rockstar Games spent eight years developing the massive world of Red Dead Redemption 2.",
+						"image_url": "https://skillcheckgame.com/assets/images/arthur_morgan.webp",
+						"question": "What is the name of the developer who created this sprawling Western epic?",
+						"wrong": [
+							"Ubisoft",
+							"Bethesda",
+							"Naughty Dog"
+						]
+					},
+					{
+						"correct": "Journaling",
+						"difficulty": "Easy",
+						"explanation": "Arthur's journal is a key gameplay item that fills up with sketches and notes based on the player's discoveries.",
+						"image_url": "https://skillcheckgame.com/assets/images/arthur_morgan.webp",
+						"question": "What primary hobby does Arthur maintain throughout the game to record his thoughts and drawings?",
+						"wrong": [
+							"Photography",
+							"Painting",
+							"Woodcarving"
+						]
+					},
+					{
+						"correct": "Western",
+						"difficulty": "Easy",
+						"explanation": "Red Dead Redemption 2 is a definitive Western adventure set at the end of the American frontier era.",
+						"question": "What is the name of the main genre that this game belongs to?",
+						"wrong": [
+							"Sci-Fi",
+							"Fantasy",
+							"Cyberpunk"
+						]
+					},
+					{
+						"correct": "A Buck",
+						"difficulty": "Easy",
+						"explanation": "A serene buck appears in visions for players with high honor, while a wolf appears for those with low honor.",
+						"question": "Which animal often appears in Arthur's spiritual visions if he has high honor?",
+						"wrong": [
+							"A Wolf",
+							"An Eagle",
+							"A Bear"
+						]
+					},
+					{
+						"correct": "Tuberculosis",
+						"difficulty": "Medium",
+						"explanation": "Arthur contracts TB after a debt collection mission from Thomas Downes, which drastically changes the tone of the later chapters.",
+						"question": "What specific terminal illness does Arthur contract during the story?",
+						"wrong": [
+							"Cholera",
+							"Pneumonia",
+							"Smallpox"
+						]
+					},
+					{
+						"correct": "Mary Linton",
+						"difficulty": "Medium",
+						"explanation": "Mary Linton and Arthur were once engaged, but her family's disapproval of his outlaw lifestyle ended the relationship.",
+						"question": "Who was the love of Arthur's life who occasionally writes him letters and asks for his help?",
+						"wrong": [
+							"Sadie Adler",
+							"Abigail Marston",
+							"Karen Jones"
+						]
+					},
+					{
+						"correct": "Horseshoe Overlook",
+						"difficulty": "Medium",
+						"explanation": "Horseshoe Overlook is located near the town of Valentine and serves as the gang's base in Chapter 2.",
+						"question": "What is the name of the first camp location the gang moves to after fleeing the mountains?",
+						"wrong": [
+							"Clemens Point",
+							"Shady Belle",
+							"Beaver Hollow"
+						]
+					},
+					{
+						"correct": "Lyle Morgan",
+						"difficulty": "Medium",
+						"explanation": "Arthur didn't have a good relationship with his father Lyle, but he still keeps a photo of him and his hat.",
+						"question": "What is the name of Arthur's biological father, whose hat he keeps in his wardrobe?",
+						"wrong": [
+							"Dutch Morgan",
+							"Hosea Morgan",
+							"Silas Morgan"
+						]
+					},
+					{
+						"correct": "John Marston",
+						"difficulty": "Medium",
+						"explanation": "Arthur and John were both raised by Dutch and Hosea, making them like surrogate brothers.",
+						"question": "Which gang member does Arthur frequently call his 'brother', having grown up together?",
+						"wrong": [
+							"Micah Bell",
+							"Bill Williamson",
+							"Charles Smith"
+						]
+					},
+					{
+						"correct": "Isaac",
+						"difficulty": "Hard",
+						"explanation": "Arthur had a son named Isaac with a waitress named Eliza; both were killed by bandits over a small amount of money.",
+						"question": "What was the name of Arthur's son, who tragically passed away years before the game begins?",
+						"wrong": [
+							"Jack",
+							"Thomas",
+							"William"
+						]
+					},
+					{
+						"correct": "The Grizzlies",
+						"difficulty": "Hard",
+						"explanation": "Arthur's grave is located on a mountain in Grizzlies East, facing the rising sun if he had high honor.",
+						"question": "In which mountain range is Arthur Morgan buried in the high honor ending?",
+						"wrong": [
+							"The Heartlands",
+							"The Bayou Nwa",
+							"Scarlett Meadows"
+						]
+					},
+					{
+						"correct": "Boadicea",
+						"difficulty": "Hard",
+						"explanation": "Boadicea was Arthur's previous horse that died during the messy getaway from the Blackwater heist.",
+						"question": "What was the name of Arthur's horse that passed away before the events of the game?",
+						"wrong": [
+							"The Count",
+							"Baylock",
+							"Old Boy"
+						]
+					},
+					{
+						"correct": "Colm O'Driscoll",
+						"difficulty": "Hard",
+						"explanation": "Arthur and Colm's rivalry dates back years, especially after Dutch killed Colm's brother and Colm killed Dutch's lover.",
+						"question": "Who was the leader of the rival gang that Arthur had a long-standing personal grudge against?",
+						"wrong": [
+							"Leviticus Cornwall",
+							"Andrew Milton",
+							"Angelo Bronte"
+						]
+					},
+					{
+						"correct": "Wild West Heroes",
+						"difficulty": "Hard",
+						"explanation": "Jack asks Arthur to find him a 'penny dreadful' book titled 'Wild West Heroes No. 132'.",
+						"question": "What is the title of the fictional book Arthur can find for Jack Marston?",
+						"wrong": [
+							"The Gunslinger's Path",
+							"Outlaw Tales",
+							"The Last Frontier"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_arthur_morgan",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Arthur Morgan",
+				"lore_desc": "The primary protagonist of Red Dead Redemption 2 and a senior enforcer in the Van der Linde gang, known for his loyalty and his detailed journal.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Arthur Morgan",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Outlaw",
+					"Gunslinger"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A Plan",
+						"difficulty": "Easy",
+						"explanation": "Dutch's constant refrain that he has 'a plan' became a popular meme among fans of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/dutch_van_der_linde.webp",
+						"question": "What is the word Dutch most frequently uses to describe his strategy for the gang's survival?",
+						"wrong": [
+							"A Gamble",
+							"A Scheme",
+							"A Journey"
+						]
+					},
+					{
+						"correct": "Tahiti",
+						"difficulty": "Easy",
+						"explanation": "Dutch believes that if the gang can just make enough money, they can retire to Tahiti to become mango farmers.",
+						"image_url": "https://skillcheckgame.com/assets/images/dutch_van_der_linde.webp",
+						"question": "What tropical destination is Dutch constantly obsessed with reaching?",
+						"wrong": [
+							"Cuba",
+							"Australia",
+							"Fiji"
+						]
+					},
+					{
+						"correct": "John Marston",
+						"difficulty": "Easy",
+						"explanation": "Dutch took John in when he was just a child, teaching him how to read, write, and shoot.",
+						"image_url": "https://skillcheckgame.com/assets/images/dutch_van_der_linde.webp",
+						"question": "What is the name of the first Red Dead Redemption game's protagonist that Dutch essentially raised?",
+						"wrong": [
+							"Arthur Morgan",
+							"Bill Williamson",
+							"Javier Escuella"
+						]
+					},
+					{
+						"correct": "PlayStation 4 and Xbox One",
+						"difficulty": "Easy",
+						"explanation": "RDR2 launched on PS4 and Xbox One in October 2018, with a PC release following a year later.",
+						"question": "Which platform was this game originally released on in 2018?",
+						"wrong": [
+							"Nintendo Switch",
+							"PC",
+							"PlayStation 3"
+						]
+					},
+					{
+						"correct": "Gramophone",
+						"difficulty": "Easy",
+						"explanation": "Dutch enjoys playing classical music on his gramophone to maintain a sense of 'civilization' in the wilderness.",
+						"question": "What kind of instrument is Dutch occasionally heard playing at the gang's camp?",
+						"wrong": [
+							"Piano",
+							"Guitar",
+							"Harmonica"
+						]
+					},
+					{
+						"correct": "The Count",
+						"difficulty": "Medium",
+						"explanation": "Dutch rides a rare Albino Arabian horse named The Count, reflecting his ego and desire for status.",
+						"question": "What is the name of Dutch's distinctive white Arabian horse?",
+						"wrong": [
+							"Old Boy",
+							"Silver Dollar",
+							"Tiamat"
+						]
+					},
+					{
+						"correct": "Molly O'Shea",
+						"difficulty": "Medium",
+						"explanation": "Molly O'Shea is Dutch's partner, though their relationship becomes increasingly strained and tragic as his mental state declines.",
+						"question": "Who was the woman Dutch was in a relationship with during the events of the game?",
+						"wrong": [
+							"Abigail Roberts",
+							"Mary-Beth Gaskill",
+							"Susan Grimshaw"
+						]
+					},
+					{
+						"correct": "Leviticus Cornwall",
+						"difficulty": "Medium",
+						"explanation": "After the gang robs his private train, Cornwall spends a fortune hiring the Pinkertons to hunt Dutch down.",
+						"question": "What is the name of the wealthy industrialist Dutch targets, sparking a massive manhunt?",
+						"wrong": [
+							"Andrew Milton",
+							"Angelo Bronte",
+							"Colonel Favours"
+						]
+					},
+					{
+						"correct": "Heidi McCourt",
+						"difficulty": "Medium",
+						"explanation": "The killing of the innocent Heidi McCourt in cold blood was a turning point that made many gang members question Dutch.",
+						"question": "What was the name of the girl Dutch killed during the botched ferry heist in Blackwater?",
+						"wrong": [
+							"Mary Linton",
+							"Eliza Morgan",
+							"Annabelle"
+						]
+					},
+					{
+						"correct": "Evelyn Miller",
+						"difficulty": "Medium",
+						"explanation": "Dutch considers Evelyn Miller a genius, though he often twists Miller's words to justify his own outlaw actions.",
+						"question": "What philosophical author does Dutch frequently quote and admire?",
+						"wrong": [
+							"Henry Thoreau",
+							"Ralph Waldo Emerson",
+							"Mark Twain"
+						]
+					},
+					{
+						"correct": "Annabelle",
+						"difficulty": "Hard",
+						"explanation": "The death of Annabelle at the hands of Colm O'Driscoll sparked the lifelong blood feud between the two gangs.",
+						"question": "Who was Dutch's previous lover who was killed by Colm O'Driscoll?",
+						"wrong": [
+							"Bessie",
+							"Molly",
+							"Susan"
+						]
+					},
+					{
+						"correct": "Dutch's Gang",
+						"difficulty": "Hard",
+						"explanation": "Years after the 1899 gang fell apart, Dutch formed a new group primarily consisting of disaffected Native Americans.",
+						"question": "What is the name of the gang Dutch forms later in his life, as seen in the first Red Dead Redemption?",
+						"wrong": [
+							"The New Way",
+							"The Skinners",
+							"The Murfree Brood"
+						]
+					},
+					{
+						"correct": "Philadelphia",
+						"difficulty": "Hard",
+						"explanation": "Though he hates the 'civilized' East, Dutch was actually born in Philadelphia to a Dutch father and an English mother.",
+						"question": "What city was Dutch van der Linde originally born in?",
+						"wrong": [
+							"New York City",
+							"Saint Denis",
+							"Boston"
+						]
+					},
+					{
+						"correct": "Greta",
+						"difficulty": "Hard",
+						"explanation": "Players can find the grave of Greta van der Linde in the Blackwater cemetery, though Dutch never mentions visiting it.",
+						"question": "What was the name of Dutch's mother, who is buried in Blackwater?",
+						"wrong": [
+							"Martha",
+							"Sarah",
+							"Elizabeth"
+						]
+					},
+					{
+						"correct": "Hosea Matthews",
+						"difficulty": "Hard",
+						"explanation": "Dutch and Hosea met when they both tried to rob each other, eventually deciding they were better off working together.",
+						"question": "Which character did Dutch first meet and team up with to form the gang?",
+						"wrong": [
+							"Arthur Morgan",
+							"Bill Williamson",
+							"Uncle"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_dutch_van_der_linde",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Dutch van der Linde",
+				"lore_desc": "The charismatic and philosophical leader of his namesake gang who dreams of a life free from the constraints of civilization.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Dutch van der Linde",
+			"profiler": {
+				"vibe_tags": [
+					"Leader",
+					"Outlaw",
+					"Visionary"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Red Dead Redemption",
+						"difficulty": "Easy",
+						"explanation": "John Marston was the face of the first Red Dead Redemption, and RDR2 serves as a prequel to his story.",
+						"image_url": "https://skillcheckgame.com/assets/images/john_marston.webp",
+						"question": "John Marston was the main playable protagonist of which previous game in the series?",
+						"wrong": [
+							"Red Dead Revolver",
+							"Grand Theft Auto V",
+							"Gun"
+						]
+					},
+					{
+						"correct": "Abigail",
+						"difficulty": "Easy",
+						"explanation": "Abigail Roberts was an orphan who joined the gang and eventually married John.",
+						"image_url": "https://skillcheckgame.com/assets/images/john_marston.webp",
+						"question": "What is the name of John's wife, who was also a member of the Van der Linde gang?",
+						"wrong": [
+							"Sadie",
+							"Karen",
+							"Tilly"
+						]
+					},
+					{
+						"correct": "Jack",
+						"difficulty": "Easy",
+						"explanation": "Jack Marston was born into the gang and is often seen as the 'son' of the entire group.",
+						"image_url": "https://skillcheckgame.com/assets/images/john_marston.webp",
+						"question": "What is the name of John and Abigail's young son?",
+						"wrong": [
+							"Arthur",
+							"Isaac",
+							"Bill"
+						]
+					},
+					{
+						"correct": "Facial scars",
+						"difficulty": "Easy",
+						"explanation": "The opening mission involves Arthur rescuing John from wolves, which left him with his iconic facial scars.",
+						"question": "What distinctive physical feature did John acquire after a wolf attack early in the game?",
+						"wrong": [
+							"A missing finger",
+							"A limp",
+							"A glass eye"
+						]
+					},
+					{
+						"correct": "Beecher's Hope",
+						"difficulty": "Easy",
+						"explanation": "John buys a piece of land called Beecher's Hope near Blackwater to fulfill his dream of being a rancher.",
+						"question": "In the game's epilogue, what is the name of the ranch John builds for his family?",
+						"wrong": [
+							"Emerald Ranch",
+							"Pronghorn Ranch",
+							"MacFarlane's Ranch"
+						]
+					},
+					{
+						"correct": "Jim Milton",
+						"difficulty": "Medium",
+						"explanation": "John tries to hide his identity by using the name Jim Milton, though he isn't very good at keeping a low profile.",
+						"question": "What alias does John use while working at Pronghorn Ranch during the Epilogue?",
+						"wrong": [
+							"Arthur Callahan",
+							"Tacitus Kilgore",
+							"Aiden O'Malley"
+						]
+					},
+					{
+						"correct": "He cannot swim",
+						"difficulty": "Medium",
+						"explanation": "A running joke in the game is that John cannot swim, which is also a mechanical nod to the first game where water was instant death.",
+						"question": "What major swimming-related weakness does John have that Arthur often teases him about?",
+						"wrong": [
+							"He is afraid of sharks",
+							"He gets seasick",
+							"He hates cold water"
+						]
+					},
+					{
+						"correct": "Charles Smith",
+						"difficulty": "Medium",
+						"explanation": "Charles Smith reunites with John in Saint Denis and moves to the ranch to help with the construction.",
+						"question": "Which gang member helps John and Uncle build the farmhouse at Beecher's Hope?",
+						"wrong": [
+							"Bill Williamson",
+							"Javier Escuella",
+							"Pearson"
+						]
+					},
+					{
+						"correct": "Old Boy",
+						"difficulty": "Medium",
+						"explanation": "In RDR2, John's primary horse throughout the main story is a Hungarian Half-bred named Old Boy.",
+						"question": "What is the name of the horse John is riding at the very start of the first Red Dead Redemption?",
+						"wrong": [
+							"The Count",
+							"Silver Dollar",
+							"Buell"
+						]
+					},
+					{
+						"correct": "His Hat and Journal",
+						"difficulty": "Medium",
+						"explanation": "Arthur passes his iconic hat and his journal to John, allowing John to continue the legacy of recording their travels.",
+						"question": "What does John receive from Arthur at the end of the main story to remember him by?",
+						"wrong": [
+							"His Revolver",
+							"His Money",
+							"His Horse"
+						]
+					},
+					{
+						"correct": "An orphanage",
+						"difficulty": "Hard",
+						"explanation": "John's mother died in childbirth and his father was blinded in a bar fight; John ended up in an orphanage before escaping at age 12.",
+						"question": "Where did John Marston grow up before being found by Dutch?",
+						"wrong": [
+							"A farm in Iowa",
+							"A ship from Scotland",
+							"The streets of Chicago"
+						]
+					},
+					{
+						"correct": "Bank of Blackwater",
+						"difficulty": "Hard",
+						"explanation": "John takes out a legitimate bank loan to buy Beecher's Hope, a sign of his attempt to live a lawful life.",
+						"question": "What is the name of the bank in Blackwater that John takes a loan from to buy his ranch?",
+						"wrong": [
+							"Rhodes Bank",
+							"Lemieux Savings",
+							"Saint Denis Trust"
+						]
+					},
+					{
+						"correct": "The Squirrel Statue",
+						"difficulty": "Hard",
+						"explanation": "A recurring joke in the epilogue involves a taxidermy squirrel that Abigail keeps hiding and John keeps finding.",
+						"question": "What is the name of the squirrel statue John can place on his fireplace in the epilogue?",
+						"wrong": [
+							"The Golden Rodent",
+							"The Acorn King",
+							"The Taxidermy Terror"
+						]
+					},
+					{
+						"correct": "Micah Bell",
+						"difficulty": "Hard",
+						"explanation": "John, Sadie, and Charles track Micah to Mount Hagen for a final confrontation to avenge Arthur.",
+						"question": "Which character does John hunt down in the final mission of the Epilogue?",
+						"wrong": [
+							"Dutch van der Linde",
+							"Bill Williamson",
+							"Edgar Ross"
+						]
+					},
+					{
+						"correct": "He doesn't have one mentioned",
+						"difficulty": "Hard",
+						"explanation": "While his incarceration is a major plot point, the game never explicitly assigns him a specific prisoner number in dialogue.",
+						"question": "What is John's prisoner number when he is being held at Sisika Penitentiary?",
+						"wrong": [
+							"1899",
+							"0815",
+							"1204"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_john_marston",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "John Marston",
+				"lore_desc": "A former outlaw who seeks to leave his violent past behind to provide a better life for his wife Abigail and son Jack.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "John Marston",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Family",
+					"Outlaw"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Colter / Grizzlies",
+						"difficulty": "Easy",
+						"explanation": "Sadie is found in the game's opening mission, hiding in the cellar of her ranch after O'Driscolls killed her husband.",
+						"image_url": "https://skillcheckgame.com/assets/images/sadie_adler.webp",
+						"question": "In which region of the map did the gang first find Sadie Adler?",
+						"wrong": [
+							"The Bayou",
+							"The Heartlands",
+							"New Austin"
+						]
+					},
+					{
+						"correct": "Bounty Hunter",
+						"difficulty": "Easy",
+						"explanation": "Sadie becomes a successful and feared bounty hunter operating out of Saint Denis.",
+						"image_url": "https://skillcheckgame.com/assets/images/sadie_adler.webp",
+						"question": "What profession does Sadie take up in the game's epilogue?",
+						"wrong": [
+							"Sheriff",
+							"Pinkerton Agent",
+							"Shopkeeper"
+						]
+					},
+					{
+						"correct": "He was killed by O'Driscolls",
+						"difficulty": "Easy",
+						"explanation": "Jake Adler was murdered by the O'Driscoll gang right before the Van der Linde gang arrived at their ranch.",
+						"image_url": "https://skillcheckgame.com/assets/images/sadie_adler.webp",
+						"question": "What happened to Sadie's husband, Jake, at the start of the game?",
+						"wrong": [
+							"He died of illness",
+							"He went missing",
+							"He joined the Pinkertons"
+						]
+					},
+					{
+						"correct": "Pearson",
+						"difficulty": "Easy",
+						"explanation": "Sadie resents being relegated to 'women's work' and has several loud arguments with Pearson, the camp cook.",
+						"question": "Which gang member does Sadie initially clash with while working in the camp kitchen?",
+						"wrong": [
+							"Bill",
+							"Dutch",
+							"Arthur"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Sadie wears a distinctive yellow shirt and leather chaps during her time as a bounty hunter.",
+						"question": "What is the primary color of Sadie's iconic bounty hunter outfit in the epilogue?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Black"
+						]
+					},
+					{
+						"correct": "Hera",
+						"difficulty": "Medium",
+						"explanation": "Sadie rides a Gold Turkoman horse named Hera during the later parts of the game.",
+						"question": "What is the name of Sadie's horse during the later chapters of the game?",
+						"wrong": [
+							"The Count",
+							"Bob",
+							"Tiamat"
+						]
+					},
+					{
+						"correct": "John Marston",
+						"difficulty": "Medium",
+						"explanation": "Sadie and Arthur use a hot air balloon to scout the prison before breaking John out.",
+						"question": "Which gang member does Sadie help Arthur rescue from Sisika Penitentiary?",
+						"wrong": [
+							"Sean MacGuire",
+							"Bill Williamson",
+							"Micah Bell"
+						]
+					},
+					{
+						"correct": "Arturo Bullard",
+						"difficulty": "Medium",
+						"explanation": "Arturo Bullard is the unfortunate pilot who helps Arthur scout the prison, only to die in the ensuing shootout.",
+						"question": "What is the name of the hot air balloon pilot who assists Sadie and Arthur?",
+						"wrong": [
+							"Phineas T. Ramsbottom",
+							"Albert Mason",
+							"Alden"
+						]
+					},
+					{
+						"correct": "The O'Driscolls",
+						"difficulty": "Medium",
+						"explanation": "Sadie takes personal satisfaction in hunting down the remaining O'Driscolls, culminating in the attack on Hanging Dog Ranch.",
+						"question": "Sadie is instrumental in wiping out which rival gang to avenge her husband?",
+						"wrong": [
+							"The Lemoyne Raiders",
+							"The Del Lobos",
+							"The Murfree Brood"
+						]
+					},
+					{
+						"correct": "Valentine",
+						"difficulty": "Medium",
+						"explanation": "John finds Sadie in the Valentine saloon, where she offers him work as a fellow bounty hunter.",
+						"question": "In which city does John reunite with Sadie during the Epilogue?",
+						"wrong": [
+							"Saint Denis",
+							"Blackwater",
+							"Rhodes"
+						]
+					},
+					{
+						"correct": "Farming/Ranching",
+						"difficulty": "Hard",
+						"explanation": "They ran a small, secluded ranch in the Grizzlies, living a peaceful life before the tragedy.",
+						"question": "What did Sadie and her husband Jake do for a living before the O'Driscolls arrived?",
+						"wrong": [
+							"Mining",
+							"Fur Trapping",
+							"Trading"
+						]
+					},
+					{
+						"correct": "South America",
+						"difficulty": "Hard",
+						"explanation": "Sadie tells John she might head down to South America, possibly to Brazil, after Micah is dealt with.",
+						"question": "Sadie mentions she wants to move to which country after the events of the Epilogue?",
+						"wrong": [
+							"Mexico",
+							"Canada",
+							"Australia"
+						]
+					},
+					{
+						"correct": "The stomach",
+						"difficulty": "Hard",
+						"explanation": "Sadie is stabbed in the stomach during a fight with one of Micah's men but manages to survive and help John.",
+						"question": "Where is Sadie stabbed during the final climb up Mount Hagen?",
+						"wrong": [
+							"The shoulder",
+							"The leg",
+							"The arm"
+						]
+					},
+					{
+						"correct": "Fat Tommy",
+						"difficulty": "Hard",
+						"explanation": "While she targets many, she specifically pursues and kills the man who she remembers from the night her husband died.",
+						"question": "Which character does Sadie kill during the raid on the O'Driscoll camp at Hanging Dog Ranch?",
+						"wrong": [
+							"Colm O'Driscoll",
+							"Kieran Duffy",
+							"Tom"
+						]
+					},
+					{
+						"correct": "8 years",
+						"difficulty": "Hard",
+						"explanation": "The main story ends in 1899, and the epilogue picks up in 1907.",
+						"question": "How many years pass between the main story (1899) and the Epilogue when John meets Sadie again?",
+						"wrong": [
+							"5 years",
+							"10 years",
+							"12 years"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_sadie_adler",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Sadie Adler",
+				"lore_desc": "A widow turned fierce outlaw and bounty hunter, Sadie evolves from a traumatized survivor into one of Arthur's most trusted and capable allies.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Sadie Adler",
+			"profiler": {
+				"vibe_tags": [
+					"Outlaw",
+					"Bounty Hunter",
+					"Ally"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Traitor",
+						"difficulty": "Easy",
+						"explanation": "Micah is revealed to be the informant who gave information about the gang to the Pinkertons.",
+						"image_url": "https://skillcheckgame.com/assets/images/micah_bell.webp",
+						"question": "Micah Bell is widely considered the main antagonist of the game because he is a...",
+						"wrong": [
+							"Hero",
+							"Doctor",
+							"Sheriff"
+						]
+					},
+					{
+						"correct": "Handlebar Mustache",
+						"difficulty": "Easy",
+						"explanation": "Micah's blonde handlebar mustache is one of his most recognizable and villainous features.",
+						"image_url": "https://skillcheckgame.com/assets/images/micah_bell.webp",
+						"question": "What distinctive style of facial hair does Micah Bell sport?",
+						"wrong": [
+							"Goatee",
+							"Clean Shaven",
+							"Full Beard"
+						]
+					},
+					{
+						"correct": "Strawberry",
+						"difficulty": "Easy",
+						"explanation": "Arthur uses a steam-powered winch to pull the bars off Micah's jail cell in Strawberry, resulting in a town-wide shootout.",
+						"image_url": "https://skillcheckgame.com/assets/images/micah_bell.webp",
+						"question": "What is the name of the town where Arthur must break Micah out of jail early in the game?",
+						"wrong": [
+							"Valentine",
+							"Rhodes",
+							"Blackwater"
+						]
+					},
+					{
+						"correct": "Pinkertons",
+						"difficulty": "Easy",
+						"explanation": "Agent Milton reveals that Micah was picked up and became an informant after the gang returned from Guarma.",
+						"question": "What is the name of the law enforcement agency that Micah secretly works with?",
+						"wrong": [
+							"The FBI",
+							"The Marshals",
+							"The Saint Denis Police"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "Ironically, Micah wears a white hat, a color traditionally associated with heroes in Western films.",
+						"question": "What color is Micah's signature hat?",
+						"wrong": [
+							"Black",
+							"Brown",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Baylock",
+						"difficulty": "Medium",
+						"explanation": "Micah rides a Missouri Fox Trotter named Baylock, which has a distinctive black coat and white face.",
+						"question": "What is the name of Micah's dark-colored horse?",
+						"wrong": [
+							"The Count",
+							"Old Boy",
+							"Silver Dollar"
+						]
+					},
+					{
+						"correct": "Mount Hagen",
+						"difficulty": "Medium",
+						"explanation": "Micah establishes a new gang and hides at the snowy summit of Mount Hagen in the Grizzlies.",
+						"question": "Where does Micah hide out during the Epilogue of the game?",
+						"wrong": [
+							"Mount Shann",
+							"Cumberland Falls",
+							"The Loft"
+						]
+					},
+					{
+						"correct": "He doesn't shoot a gang member there",
+						"difficulty": "Medium",
+						"explanation": "While many die in Saint Denis, Micah doesn't shoot his own teammates there; Lenny is killed by lawmen and Hosea by Agent Milton.",
+						"question": "Which gang member does Micah shoot in the head during the Saint Denis bank robbery?",
+						"wrong": [
+							"Lenny Summers",
+							"Hosea Matthews",
+							"John Marston"
+						]
+					},
+					{
+						"correct": "Black Lung",
+						"difficulty": "Medium",
+						"explanation": "After discovering Arthur has tuberculosis, Micah cruelly refers to him as 'Black Lung'.",
+						"question": "What does Micah call Arthur as a derogatory nickname throughout the game?",
+						"wrong": [
+							"Old Man",
+							"Coward",
+							"The Golden Boy"
+						]
+					},
+					{
+						"correct": "Double-Action Revolvers",
+						"difficulty": "Medium",
+						"explanation": "Micah uses a pair of custom Double-Action Revolvers with pearl grips.",
+						"question": "What weapon does Micah favor, usually carrying two of them?",
+						"wrong": [
+							"Sawed-off Shotguns",
+							"Volcanic Pistols",
+							"Cattleman Revolvers"
+						]
+					},
+					{
+						"correct": "Micah Bell III",
+						"difficulty": "Hard",
+						"explanation": "The Micah we play against is actually Micah Bell III; his father and grandfather were also named Micah Bell and were equally ruthless.",
+						"question": "What was the name of Micah Bell's father, who was also a notorious criminal?",
+						"wrong": [
+							"Amos Bell",
+							"Caleb Bell",
+							"Peter Bell"
+						]
+					},
+					{
+						"correct": "Amos",
+						"difficulty": "Hard",
+						"explanation": "Players can find a letter to Micah from his brother Amos, telling Micah to stay away from his family or he will kill him.",
+						"question": "What is the name of Micah's brother who wants nothing to do with him?",
+						"wrong": [
+							"Caleb",
+							"Lyle",
+							"Jeb"
+						]
+					},
+					{
+						"correct": "Dutch van der Linde",
+						"difficulty": "Hard",
+						"explanation": "In a surprise move, Dutch shoots Micah in the chest, allowing John to finish him off.",
+						"question": "In the final standoff, who actually fires the first shot that hits Micah?",
+						"wrong": [
+							"John Marston",
+							"Sadie Adler",
+							"Charles Smith"
+						]
+					},
+					{
+						"correct": "He was in jail in Strawberry during the game",
+						"difficulty": "Hard",
+						"explanation": "Micah's criminal history is extensive, but his most notable incarceration in the game is the Strawberry jail.",
+						"question": "Micah spent time in a prison in which state before the game began?",
+						"wrong": [
+							"Sisika",
+							"Texas",
+							"California"
+						]
+					},
+					{
+						"correct": "Micah's Revolver",
+						"difficulty": "Hard",
+						"explanation": "After the credits, players can return to the site of the final battle to find and keep one of Micah's custom revolvers.",
+						"question": "What item can the player loot from Micah's body at Mount Hagen?",
+						"wrong": [
+							"A map to the gold",
+							"Dutch's locket",
+							"Arthur's ring"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_micah_bell",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Micah Bell",
+				"lore_desc": "A reckless and manipulative member of the gang whose selfish actions and influence over Dutch eventually lead to the group's downfall.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Micah Bell",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Traitor",
+					"Outlaw"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "New Orleans",
+						"difficulty": "Easy",
+						"explanation": "From its French influence to its swampy surroundings and jazz music, Saint Denis is a clear tribute to New Orleans.",
+						"image_url": "https://skillcheckgame.com/assets/images/saint_denis.webp",
+						"question": "Which real-world American city is Saint Denis heavily based on?",
+						"wrong": [
+							"New York",
+							"Chicago",
+							"San Francisco"
+						]
+					},
+					{
+						"correct": "Lemoyne",
+						"difficulty": "Easy",
+						"explanation": "Saint Denis is the crown jewel of the state of Lemoyne, located in the Bayou Nwa region.",
+						"image_url": "https://skillcheckgame.com/assets/images/saint_denis.webp",
+						"question": "Saint Denis is the capital of which fictional state in the game?",
+						"wrong": [
+							"New Hanover",
+							"West Elizabeth",
+							"Ambarino"
+						]
+					},
+					{
+						"correct": "Trolley",
+						"difficulty": "Easy",
+						"explanation": "The city features a trolley system that Arthur and the gang famously rob in a disastrous mission.",
+						"image_url": "https://skillcheckgame.com/assets/images/saint_denis.webp",
+						"question": "What is the main mode of public transport that runs on tracks through the streets of Saint Denis?",
+						"wrong": [
+							"Subway",
+							"Bus",
+							"Stagecoach"
+						]
+					},
+					{
+						"correct": "Electric Lights",
+						"difficulty": "Easy",
+						"explanation": "Unlike the frontier towns, Saint Denis is fully electrified, symbolizing the end of the 'wild' west.",
+						"question": "What kind of new, modern lighting can be found throughout Saint Denis at night?",
+						"wrong": [
+							"Gas Lamps",
+							"Torches",
+							"Candles"
+						]
+					},
+					{
+						"correct": "Angelo Bronte",
+						"difficulty": "Easy",
+						"explanation": "Angelo Bronte is an Italian crime lord who operates out of a mansion in the city.",
+						"question": "Which major antagonist runs the criminal underworld and the high society of Saint Denis?",
+						"wrong": [
+							"Leviticus Cornwall",
+							"Colm O'Driscoll",
+							"Andrew Milton"
+						]
+					},
+					{
+						"correct": "Henri Lemieux",
+						"difficulty": "Medium",
+						"explanation": "Mayor Lemieux is a corrupt official who asks Arthur to help 'clean up' certain political problems.",
+						"question": "What is the name of the mayor of Saint Denis whom Arthur can assist in several side missions?",
+						"wrong": [
+							"Quentin Moore",
+							"Nicholas Timmins",
+							"Thaddeus Waxman"
+						]
+					},
+					{
+						"correct": "A Vampire",
+						"difficulty": "Medium",
+						"explanation": "Players can find five cryptic writings on walls that lead to a hidden encounter with a vampire in an alleyway.",
+						"question": "What legendary creature is said to haunt the alleys of Saint Denis at night?",
+						"wrong": [
+							"A Werewolf",
+							"The Jersey Devil",
+							"Bigfoot"
+						]
+					},
+					{
+						"correct": "Dominion Park",
+						"difficulty": "Medium",
+						"explanation": "Dominion Park is a green space where various world events and character encounters occur.",
+						"question": "What is the name of the large park in the center of the city where a political rally takes place?",
+						"wrong": [
+							"Saint Denis Square",
+							"Liberty Garden",
+							"Central Park"
+						]
+					},
+					{
+						"correct": "Ville de la Nouvelle Orleans",
+						"difficulty": "Medium",
+						"explanation": "The city had a longer French name before it was shortened to Saint Denis.",
+						"question": "What was the city of Saint Denis originally named before it was changed?",
+						"wrong": [
+							"Port de Paix",
+							"Fort Bordeaux",
+							"New Bordeaux"
+						]
+					},
+					{
+						"correct": "Lenny Summers",
+						"difficulty": "Medium",
+						"explanation": "Lenny is shot by lawmen on the rooftops during the escape from the Saint Denis bank.",
+						"question": "Which gang member is killed during the failed bank robbery in Saint Denis?",
+						"wrong": [
+							"Charles Smith",
+							"Bill Williamson",
+							"Javier Escuella"
+						]
+					},
+					{
+						"correct": "Théâtre des Lumières",
+						"difficulty": "Hard",
+						"explanation": "Players can visit the Théâtre des Lumières to watch various vaudeville acts and magic shows.",
+						"question": "What is the name of the theater in Saint Denis where you can watch live performances?",
+						"wrong": [
+							"The Grand Opera",
+							"The Palace",
+							"The Orpheum"
+						]
+					},
+					{
+						"correct": "Chief Lambert",
+						"difficulty": "Hard",
+						"explanation": "Chief Lambert oversees the police force but is largely in the pocket of the local crime lords.",
+						"question": "What is the name of the police chief in Saint Denis who is a friend of Angelo Bronte?",
+						"wrong": [
+							"Chief Miller",
+							"Chief Johnson",
+							"Chief Henderson"
+						]
+					},
+					{
+						"correct": "A Remote Controlled Boat",
+						"difficulty": "Hard",
+						"explanation": "Arthur helps Dragic demonstrate his 'wireless' technology by controlling a small boat with a remote.",
+						"question": "Which historical invention is showcased at the Saint Denis harbor by Professor Marko Dragic?",
+						"wrong": [
+							"A Television",
+							"A Telephone",
+							"A Steam Car"
+						]
+					},
+					{
+						"correct": "La Bastille Saloon",
+						"difficulty": "Hard",
+						"explanation": "While there are two saloons, the upscale one is La Bastille, and the other is a smaller, nameless tavern in the docks.",
+						"question": "What is the specific name of the Bayou-themed saloon in the poorer district of the city?",
+						"wrong": [
+							"The Muddy Waters",
+							"The Gator",
+							"The Old Quay"
+						]
+					},
+					{
+						"correct": "Arabian",
+						"difficulty": "Hard",
+						"explanation": "The Black Arabian, one of the best horses in the game, can be purchased at the Saint Denis stables.",
+						"question": "The Saint Denis stables are famous for selling which elite horse breed?",
+						"wrong": [
+							"Morgan",
+							"Kentucky Saddler",
+							"Tennessee Walker"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_saint_denis",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Saint Denis",
+				"lore_desc": "A bustling, industrial port city modeled after New Orleans, representing the creeping civilization that the Van der Linde gang fears and despises.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Saint Denis",
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Industrial",
+					"Civilization"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Livestock",
+						"difficulty": "Easy",
+						"explanation": "Valentine is a major hub for cattle and sheep auctions, giving it a distinctive muddy and rustic feel.",
+						"image_url": "https://skillcheckgame.com/assets/images/valentine.webp",
+						"question": "Valentine is primarily known as a 'town of...' what?",
+						"wrong": [
+							"Mining",
+							"Gambling",
+							"Fishing"
+						]
+					},
+					{
+						"correct": "Smithfield's Saloon",
+						"difficulty": "Easy",
+						"explanation": "Smithfield's is the larger of the two saloons in town and is the site of a famous fight with a man named Tommy.",
+						"image_url": "https://skillcheckgame.com/assets/images/valentine.webp",
+						"question": "What is the name of the large saloon in Valentine where Arthur gets into a massive brawl?",
+						"wrong": [
+							"The Keane's Saloon",
+							"The Old Light",
+							"The Bastille"
+						]
+					},
+					{
+						"correct": "Sunny / Clear",
+						"difficulty": "Easy",
+						"explanation": "After the grueling snow of Chapter 1, the move to Valentine is marked by clear skies and green grass.",
+						"image_url": "https://skillcheckgame.com/assets/images/valentine.webp",
+						"question": "What is the weather like in the very first mission that brings Arthur to Valentine?",
+						"wrong": [
+							"Snowing",
+							"Thunderstorm",
+							"Foggy"
+						]
+					},
+					{
+						"correct": "The Valentine Doctor",
+						"difficulty": "Easy",
+						"explanation": "Players can rob the O'Driscoll-run illegal business operating out of the back of the doctor's office.",
+						"question": "What is the name of the town's local doctor who has a shady backroom business?",
+						"wrong": [
+							"Dr. Quinn",
+							"Dr. Ferguson",
+							"Dr. Arkwright"
+						]
+					},
+					{
+						"correct": "Horseshoe Overlook",
+						"difficulty": "Easy",
+						"explanation": "Horseshoe Overlook provides a scenic view of the valley and is just a short ride from Valentine.",
+						"question": "What is the name of the nearby camp location where the gang stays while visiting Valentine?",
+						"wrong": [
+							"Clemens Point",
+							"Colter",
+							"Dewberry Creek"
+						]
+					},
+					{
+						"correct": "Leviticus Cornwall",
+						"difficulty": "Medium",
+						"explanation": "Cornwall arrives with hired gunmen and confronts Dutch outside the saloon, leading to a major shootout.",
+						"question": "Which rival gang leader surprises Dutch and Arthur in the middle of Valentine?",
+						"wrong": [
+							"Colm O'Driscoll",
+							"Andrew Milton",
+							"Angelo Bronte"
+						]
+					},
+					{
+						"correct": "Edmund Lowry Jr.",
+						"difficulty": "Medium",
+						"explanation": "Players can track the 'American Dreams' serial killer to Lucky's Cabin, just outside Valentine.",
+						"question": "What is the name of the serial killer who leaves clues in a basement near Valentine?",
+						"wrong": [
+							"Jack the Ripper",
+							"The Night Folk",
+							"Thomas Downes"
+						]
+					},
+					{
+						"correct": "Tommy",
+						"difficulty": "Medium",
+						"explanation": "Tommy is a massive man whom Arthur fights outside Smithfield's Saloon; he is later seen in town unable to speak properly.",
+						"question": "What is the name of the man Arthur beats up in the mud who later suffers from permanent brain damage?",
+						"wrong": [
+							"Jon",
+							"Bill",
+							"Bob"
+						]
+					},
+					{
+						"correct": "Curtis Malloy",
+						"difficulty": "Medium",
+						"explanation": "Sheriff Malloy can be heard arguing with and eventually killing his lover in a room above the sheriff's office.",
+						"question": "What is the name of the sheriff in Valentine who is involved in a secret affair?",
+						"wrong": [
+							"Leigh Johnson",
+							"Thomas Farley",
+							"Archibald MacGregor"
+						]
+					},
+					{
+						"correct": "Valentine Chapel",
+						"difficulty": "Medium",
+						"explanation": "The small wooden chapel is one of the first buildings players see when entering from the south.",
+						"question": "What is the name of the small church on the edge of town?",
+						"wrong": [
+							"Saint Mary's",
+							"The Redeemer",
+							"First Baptist"
+						]
+					},
+					{
+						"correct": "Jon",
+						"difficulty": "Hard",
+						"explanation": "Jon is a loud-mouthed trapper who will fight the player if they stare at him or try to take his hat.",
+						"question": "Who is the 'crazy' man in the Valentine saloon who wears a large raccoon hat?",
+						"wrong": [
+							"Joe",
+							"Jim",
+							"Jack"
+						]
+					},
+					{
+						"correct": "Valentine Hotel",
+						"difficulty": "Hard",
+						"explanation": "The hotel is located directly across from the gunsmith and offers the town's only bathing facility.",
+						"question": "What is the name of the hotel in Valentine where players can rent a room and take a bath?",
+						"wrong": [
+							"The Heartland Inn",
+							"The Sheep's Rest",
+							"The Dusty Road"
+						]
+					},
+					{
+						"correct": "Nigel",
+						"difficulty": "Hard",
+						"explanation": "Nigel is a random encounter character who spends the entire game frantically searching for Gavin.",
+						"question": "Which character asks Arthur to help him find his missing 'friend' Gavin in Valentine (and everywhere else)?",
+						"wrong": [
+							"Bertram",
+							"Magnifico",
+							"Phineas"
+						]
+					},
+					{
+						"correct": "Keane's Terrific Starlight Vanities",
+						"difficulty": "Hard",
+						"explanation": "Players can pay to watch early motion pictures and slide shows at this traveling tent.",
+						"question": "What is the name of the theater/show tent located on the outskirts of Valentine?",
+						"wrong": [
+							"The Magic Lantern",
+							"The Wonder Show",
+							"The Cinema"
+						]
+					},
+					{
+						"correct": "Lenny!",
+						"difficulty": "Hard",
+						"explanation": "As Arthur gets more intoxicated, his shouts of 'Lenny!' become increasingly distorted, eventually spelling it 'Ynnel!' in the subtitles.",
+						"question": "In the mission 'A Quiet Time', Arthur and Lenny get drunk in Valentine. What name does Arthur repeatedly scream while looking for his friend?",
+						"wrong": [
+							"Gavin!",
+							"Dutch!",
+							"Micah!"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_valentine",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Valentine",
+				"lore_desc": "A rough-and-tumble livestock town in New Hanover where the gang first seeks refuge after the mountains. It is known for mud, sheep, and bar fights.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Valentine",
+			"profiler": {
+				"vibe_tags": [
+					"Town",
+					"Livestock",
+					"Frontier"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A Ferry",
+						"difficulty": "Easy",
+						"explanation": "The 'Blackwater Massacre' occurred during a failed attempt to rob a ferry, leaving several gang members dead or captured.",
+						"image_url": "https://skillcheckgame.com/assets/images/blackwater.webp",
+						"question": "Blackwater is the site of a 'botched heist' involving which object?",
+						"wrong": [
+							"A Train",
+							"A Bank",
+							"A Stagecoach"
+						]
+					},
+					{
+						"correct": "The gang is wanted for the heist",
+						"difficulty": "Easy",
+						"explanation": "Because of the failed heist, the Pinkertons and local law have Blackwater under lockdown, making it inaccessible for most of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/blackwater.webp",
+						"question": "At the start of the game, Blackwater is marked as 'Dead or Alive' for Arthur. Why?",
+						"wrong": [
+							"There is a plague",
+							"Arthur is a ghost",
+							"The city is closed for winter"
+						]
+					},
+					{
+						"correct": "The 20th Century / Modernity",
+						"difficulty": "Easy",
+						"explanation": "With its paved streets and brick buildings, Blackwater shows the rapid transition from the Old West to the 1900s.",
+						"image_url": "https://skillcheckgame.com/assets/images/blackwater.webp",
+						"question": "Which real-world era is Blackwater designed to represent more than the other towns?",
+						"wrong": [
+							"The Colonial Era",
+							"The Middle Ages",
+							"The Stone Age"
+						]
+					},
+					{
+						"correct": "Pinkerton National Detective Agency",
+						"difficulty": "Easy",
+						"explanation": "The Pinkertons are hired by Leviticus Cornwall to hunt the gang, and they are heavily stationed in Blackwater.",
+						"question": "What is the name of the detective agency that uses Blackwater as its base of operations?",
+						"wrong": [
+							"The FBI",
+							"The Scotland Yard",
+							"The Saint Denis Police"
+						]
+					},
+					{
+						"correct": "John Marston",
+						"difficulty": "Easy",
+						"explanation": "Players can only explore Blackwater and the surrounding New Austin area during the Epilogue as John Marston.",
+						"question": "Which character is the main playable protagonist when Blackwater finally becomes fully accessible?",
+						"wrong": [
+							"Arthur Morgan",
+							"Dutch van der Linde",
+							"Sadie Adler"
+						]
+					},
+					{
+						"correct": "Upper Montana River",
+						"difficulty": "Medium",
+						"explanation": "The Upper Montana River separates the West Elizabeth region from the Great Plains and Blackwater.",
+						"question": "What is the name of the river that flows past Blackwater?",
+						"wrong": [
+							"Lannahechee River",
+							"Dakota River",
+							"Kamassa River"
+						]
+					},
+					{
+						"correct": "The Serendipity",
+						"difficulty": "Medium",
+						"explanation": "The ferry was called the Serendipity, carrying a large amount of bank money that the gang had to leave behind.",
+						"question": "What is the name of the ship that was robbed during the Blackwater heist?",
+						"wrong": [
+							"The Iron Dragon",
+							"The Mary Rose",
+							"The Saint Denis"
+						]
+					},
+					{
+						"correct": "They buried it in the town",
+						"difficulty": "Medium",
+						"explanation": "Dutch hidden the money somewhere in Blackwater, and retrieving it is a major plot point for several characters.",
+						"question": "Where did the gang hide their stolen Blackwater money before fleeing?",
+						"wrong": [
+							"In a cave",
+							"Under the bridge",
+							"In the church"
+						]
+					},
+					{
+						"correct": "Mac Callander",
+						"difficulty": "Medium",
+						"explanation": "Mac Callander was separated from the gang and later killed by Agent Milton, though his brother Davey died of his wounds in the mountains.",
+						"question": "Which gang member was captured and later executed following the Blackwater heist?",
+						"wrong": [
+							"Sean MacGuire",
+							"Charles Smith",
+							"Bill Williamson"
+						]
+					},
+					{
+						"correct": "Blackwater Ledger",
+						"difficulty": "Medium",
+						"explanation": "Players can buy the Blackwater Ledger to read about their own exploits and world events.",
+						"question": "What is the name of the newspaper published in Blackwater?",
+						"wrong": [
+							"Saint Denis Times",
+							"New Hanover Gazette",
+							"The Daily Outlaw"
+						]
+					},
+					{
+						"correct": "The Blackwater Athletics Team",
+						"difficulty": "Hard",
+						"explanation": "One of the game's many mysteries involves the disappearance of a group of joggers/athletes whose remains are found in a shallow grave.",
+						"question": "Which local athlete team went missing near Blackwater, leaving only a pile of limbs?",
+						"wrong": [
+							"The Blackwater Bulls",
+							"The West Elizabeth Runners",
+							"The Great Plains Polo Club"
+						]
+					},
+					{
+						"correct": "The Grand Theater",
+						"difficulty": "Hard",
+						"explanation": "The Grand Theater is a more modern-looking establishment than the tents found in smaller towns.",
+						"question": "What is the name of the theater in Blackwater?",
+						"wrong": [
+							"Théâtre des Lumières",
+							"The Cinema",
+							"Starlight Vanities"
+						]
+					},
+					{
+						"correct": "The local studio photographer",
+						"difficulty": "Hard",
+						"explanation": "Unlike the wildlife photographer Albert Mason, this is a generic NPC in the photo studio.",
+						"question": "Who is the photographer you can meet in Blackwater who takes a portrait of John and his family?",
+						"wrong": [
+							"Albert Mason",
+							"Charles Châtenay",
+							"Phineas Ramsbottom"
+						]
+					},
+					{
+						"correct": "They didn't have a named camp shown",
+						"difficulty": "Hard",
+						"explanation": "The game begins after they have already fled Blackwater, so their camp during that time is never visited by the player.",
+						"question": "What is the name of the camp the gang stayed at just BEFORE the Blackwater heist went wrong?",
+						"wrong": [
+							"Horseshoe Overlook",
+							"Clemens Point",
+							"Lakay"
+						]
+					},
+					{
+						"correct": "Micah Bell",
+						"difficulty": "Hard",
+						"explanation": "Micah was the one who brought the ferry lead to Dutch, which Hosea and Arthur were skeptical of from the start.",
+						"question": "Which character mentions they were the one who 'scouted' the ferry job in Blackwater?",
+						"wrong": [
+							"Arthur Morgan",
+							"Hosea Matthews",
+							"Dutch van der Linde"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_blackwater",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Blackwater",
+				"lore_desc": "A rapidly developing city in West Elizabeth. It is the site of the failed heist that forced the gang into hiding at the start of the game.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Blackwater",
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Mystery",
+					"Modern"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Pearson",
+						"difficulty": "Easy",
+						"explanation": "Simon Pearson is a former navy man who serves as the camp's butcher and cook.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_van_der_linde_gang.webp",
+						"question": "What is the name of the cook who prepares meals for the gang at every camp?",
+						"wrong": [
+							"Uncle",
+							"Bill",
+							"Hosea"
+						]
+					},
+					{
+						"correct": "Robbing",
+						"difficulty": "Easy",
+						"explanation": "The gang's primary income comes from stagecoach, train, and bank robberies.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_van_der_linde_gang.webp",
+						"question": "What is the primary activity the gang does to raise money for their 'savings'?",
+						"wrong": [
+							"Fishing",
+							"Mining",
+							"Farming"
+						]
+					},
+					{
+						"correct": "The Tithing Box",
+						"difficulty": "Easy",
+						"explanation": "Members contribute a portion of their loot to the tithing box to fund camp upgrades and supplies.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_van_der_linde_gang.webp",
+						"question": "Where does the gang store their collective 'contribution' money in the camp?",
+						"wrong": [
+							"Dutch's Tent",
+							"The Ledger",
+							"A Buried Hole"
+						]
+					},
+					{
+						"correct": "Hosea Matthews",
+						"difficulty": "Easy",
+						"explanation": "Hosea is the wise, older strategist who helped Dutch build the gang from the ground up.",
+						"question": "Who is the 'Father Figure' and co-founder of the gang alongside Dutch?",
+						"wrong": [
+							"Arthur Morgan",
+							"Uncle",
+							"Bill Williamson"
+						]
+					},
+					{
+						"correct": "The Ledger",
+						"difficulty": "Easy",
+						"explanation": "The Ledger is kept next to the contribution box and allows players to purchase camp improvements.",
+						"question": "What is the name of the ledger where Arthur records camp expenses and upgrades?",
+						"wrong": [
+							"The Journal",
+							"The Account",
+							"The Debt Book"
+						]
+					},
+					{
+						"correct": "Kieran Duffy",
+						"difficulty": "Medium",
+						"explanation": "Kieran was captured by the gang and kept as a prisoner before proving his loyalty by saving Arthur's life.",
+						"question": "Which gang member is a former O'Driscoll who is eventually accepted by the group?",
+						"wrong": [
+							"Sean MacGuire",
+							"Micah Bell",
+							"Charles Smith"
+						]
+					},
+					{
+						"correct": "Lenny Summers",
+						"difficulty": "Medium",
+						"explanation": "Lenny is young, agile, and one of the most capable members of the group.",
+						"question": "Which gang member is the fastest runner and often used for scouting and message carrying?",
+						"wrong": [
+							"Charles Smith",
+							"Javier Escuella",
+							"Sean MacGuire"
+						]
+					},
+					{
+						"correct": "Susan Grimshaw",
+						"difficulty": "Medium",
+						"explanation": "Susan Grimshaw ensures the camp runs smoothly and isn't afraid to use her shotgun to maintain order.",
+						"question": "What is the name of the woman who acts as the camp's 'manager' and enforcer of rules?",
+						"wrong": [
+							"Abigail Roberts",
+							"Karen Jones",
+							"Tilly Jackson"
+						]
+					},
+					{
+						"correct": "Javier Escuella",
+						"difficulty": "Medium",
+						"explanation": "Javier fled Mexico after being branded a traitor and found a new home with Dutch's 'family'.",
+						"question": "Which gang member is a former Mexican revolutionary and a talented guitar player?",
+						"wrong": [
+							"Charles Smith",
+							"Bill Williamson",
+							"Sean MacGuire"
+						]
+					},
+					{
+						"correct": "Shady Belle",
+						"difficulty": "Medium",
+						"explanation": "The gang clears out the Lemoyne Raiders to take over Shady Belle in Chapter 4.",
+						"question": "What is the name of the camp location situated in a swampy, dilapidated mansion?",
+						"wrong": [
+							"Clemens Point",
+							"Lakay",
+							"Beaver Hollow"
+						]
+					},
+					{
+						"correct": "Tilly Jackson",
+						"difficulty": "Hard",
+						"explanation": "Tilly was part of the Foreman Brothers gang before escaping and being taken in by Dutch.",
+						"question": "Which gang member spent his youth as a street urchin in Saint Denis before being recruited?",
+						"wrong": [
+							"Mary-Beth Gaskill",
+							"Karen Jones",
+							"Abigail Roberts"
+						]
+					},
+					{
+						"correct": "Reverend Swanson",
+						"difficulty": "Hard",
+						"explanation": "Reverend Swanson was a real clergyman who lost his way and now stays with the gang, often quoting scripture while intoxicated.",
+						"question": "What is the name of the character who is the gang's Reverend and struggles with addiction?",
+						"wrong": [
+							"Brother Dorkins",
+							"Father O'Malley",
+							"Deacon Jones"
+						]
+					},
+					{
+						"correct": "Charles Smith",
+						"difficulty": "Hard",
+						"explanation": "Charles is a man of many talents, including tracking, hunting, and metalwork.",
+						"question": "Which member of the gang is a skilled blacksmith and often fixes the wagons?",
+						"wrong": [
+							"Bill Williamson",
+							"Pearson",
+							"John Marston"
+						]
+					},
+					{
+						"correct": "The game mentions several who left, but none by name as a primary 'traitor' before Micah.",
+						"difficulty": "Hard",
+						"explanation": "While Dutch becomes paranoid, he doesn't have a specific named 'historical' traitor he talks about frequently; it's a general fear of disloyalty.",
+						"question": "What is the name of the former gang member who Dutch refers to as a 'traitor' for leaving years ago?",
+						"wrong": [
+							"Arthur Morgan",
+							"John Marston",
+							"Hosea Matthews"
+						]
+					},
+					{
+						"correct": "Mary-Beth Gaskill",
+						"difficulty": "Hard",
+						"explanation": "Mary-Beth is a dreamer who loves to read and eventually becomes a successful writer herself.",
+						"question": "Which member of the gang is known for having a collection of various romance novels?",
+						"wrong": [
+							"Karen Jones",
+							"Tilly Jackson",
+							"Abigail Roberts"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_the_van_der_linde_gang",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Van der Linde Gang",
+				"lore_desc": "A group of outlaws, misfits, and exiles led by Dutch van der Linde, bound by a shared desire for freedom and a distrust of modern law.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Van der Linde Gang",
+			"profiler": {
+				"vibe_tags": [
+					"Outlaws",
+					"Family",
+					"Group"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Strategist",
+						"difficulty": "Easy",
+						"explanation": "Hosea is the man who plans the elaborate 'cons' and robberies, preferring wit over brute force.",
+						"image_url": "https://skillcheckgame.com/assets/images/hosea_matthews.webp",
+						"question": "What is Hosea's primary role within the Van der Linde gang?",
+						"wrong": [
+							"The Enforcer",
+							"The Cook",
+							"The Lookout"
+						]
+					},
+					{
+						"correct": "Legendary Bear",
+						"difficulty": "Easy",
+						"explanation": "Hosea takes Arthur to hunt the 'Legendary Bharati Grizzly Bear' in the Grizzlies East.",
+						"image_url": "https://skillcheckgame.com/assets/images/hosea_matthews.webp",
+						"question": "What legendary animal does Hosea take Arthur to hunt early in Chapter 2?",
+						"wrong": [
+							"Legendary Moose",
+							"Legendary Wolf",
+							"Legendary Cougar"
+						]
+					},
+					{
+						"correct": "Bessie",
+						"difficulty": "Easy",
+						"explanation": "Hosea loved Bessie deeply and once even tried to leave the outlaw life for her.",
+						"image_url": "https://skillcheckgame.com/assets/images/hosea_matthews.webp",
+						"question": "What was the name of Hosea's wife, who passed away before the game's events?",
+						"wrong": [
+							"Molly",
+							"Annabelle",
+							"Susan"
+						]
+					},
+					{
+						"correct": "Saint Denis",
+						"difficulty": "Easy",
+						"explanation": "Hosea is captured by the Pinkertons and executed in the street by Agent Milton during the Saint Denis bank heist.",
+						"question": "Which city's botched bank robbery results in Hosea's death?",
+						"wrong": [
+							"Blackwater",
+							"Valentine",
+							"Rhodes"
+						]
+					},
+					{
+						"correct": "Rob each other",
+						"difficulty": "Easy",
+						"explanation": "The two legendary outlaws met around a campfire and realized they were both trying to rob the other, leading to a lifelong partnership.",
+						"question": "Hosea and Dutch first met when they both tried to do what to each other?",
+						"wrong": [
+							"Shoot each other",
+							"Sell a horse to each other",
+							"Cheat at poker"
+						]
+					},
+					{
+						"correct": "Silver Dollar",
+						"difficulty": "Medium",
+						"explanation": "Hosea rides a Silver Turkoman named Silver Dollar.",
+						"question": "What is the name of Hosea's silver-colored horse?",
+						"wrong": [
+							"The Count",
+							"Old Boy",
+							"Buell"
+						]
+					},
+					{
+						"correct": "A Book (Shrew in the Fog)",
+						"difficulty": "Medium",
+						"explanation": "Hosea enjoys reading and asks Arthur for a specific crime novel titled 'The Shrew in the Fog'.",
+						"question": "What item does Hosea ask Arthur to find for him during a camp request?",
+						"wrong": [
+							"A Pipe",
+							"A Compass",
+							"A Pocket Watch"
+						]
+					},
+					{
+						"correct": "He has a chronic respiratory illness",
+						"difficulty": "Medium",
+						"explanation": "Hosea mentions that he is 'getting old and the air is getting thin,' implying a long-term lung condition.",
+						"question": "Hosea is often seen coughing throughout the game. What is implied about his health?",
+						"wrong": [
+							"He has Tuberculosis like Arthur",
+							"He is faking it",
+							"He has a cold"
+						]
+					},
+					{
+						"correct": "Melvin",
+						"difficulty": "Medium",
+						"explanation": "Hosea poses as 'Melvin' while Arthur plays his 'idiot' brother 'Fenton' to infiltrate the Braithwaite estate.",
+						"question": "In the mission 'The Fine Joys of Tobacco', what alias does Hosea use while tricking the Braithwaites?",
+						"wrong": [
+							"Tacitus Kilgore",
+							"Arthur Callahan",
+							"Fenton"
+						]
+					},
+					{
+						"correct": "He was a con artist and actor",
+						"difficulty": "Medium",
+						"explanation": "Hosea's background in theater and performance made him an expert at social engineering and disguises.",
+						"question": "What was Hosea's original profession before becoming an outlaw?",
+						"wrong": [
+							"He was a lawyer",
+							"He was a sheriff",
+							"He was a priest"
+						]
+					},
+					{
+						"correct": "Bluewater Marsh",
+						"difficulty": "Hard",
+						"explanation": "Hosea and Lenny are buried together in a quiet spot in Bluewater Marsh after the Saint Denis disaster.",
+						"question": "Where is Hosea Matthews buried?",
+						"wrong": [
+							"Horseshoe Overlook",
+							"Saint Denis Cemetery",
+							"Mount Hagen"
+						]
+					},
+					{
+						"correct": "Ginseng",
+						"difficulty": "Hard",
+						"explanation": "Hosea can often be seen at his workbench brewing a mixture of Ginseng and other herbs to help his breathing.",
+						"question": "What is the name of the rare plant Hosea uses to brew his 'medicine' in camp?",
+						"wrong": [
+							"Yarrow",
+							"Burdock Root",
+							"English Mace"
+						]
+					},
+					{
+						"correct": "Around 26",
+						"difficulty": "Hard",
+						"explanation": "Hosea was slightly older than Dutch when they met in the mid-1870s.",
+						"question": "How old was Hosea when he met Dutch?",
+						"wrong": [
+							"18",
+							"35",
+							"40"
+						]
+					},
+					{
+						"correct": "Dominoes",
+						"difficulty": "Hard",
+						"explanation": "While others play poker, Hosea is frequently found at the dominoes table.",
+						"question": "What specific game does Hosea usually invite Arthur to play in camp?",
+						"wrong": [
+							"Poker",
+							"Five Finger Fillet",
+							"Blackjack"
+						]
+					},
+					{
+						"correct": "He doesn't say he stole it",
+						"difficulty": "Hard",
+						"explanation": "Hosea has had the map for years, but the game doesn't specify a person he took it from; he just presents it as a lead.",
+						"question": "Which character does Hosea say he 'stole' the Legendary Bear map from?",
+						"wrong": [
+							"A trapper",
+							"An O'Driscoll",
+							"A mountain man"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_hosea_matthews",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Hosea Matthews",
+				"lore_desc": "The oldest and wisest member of the gang, Hosea acts as the level-headed counterpart to Dutch's impulsive nature.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Hosea Matthews",
+			"profiler": {
+				"vibe_tags": [
+					"Strategist",
+					"Outlaw",
+					"Founder"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Hunting and Tracking",
+						"difficulty": "Easy",
+						"explanation": "Charles is the gang's expert on the wilderness, teaching Arthur how to use a bow and track animals.",
+						"image_url": "https://skillcheckgame.com/assets/images/charles_smith.webp",
+						"question": "What is Charles Smith's primary skill set within the gang?",
+						"wrong": [
+							"Cooking",
+							"Safe Cracking",
+							"Gambling"
+						]
+					},
+					{
+						"correct": "The Bow",
+						"difficulty": "Easy",
+						"explanation": "Charles provides Arthur with his first bow and shows him how to hunt silently.",
+						"image_url": "https://skillcheckgame.com/assets/images/charles_smith.webp",
+						"question": "What weapon is Charles most famous for using and teaching to Arthur?",
+						"wrong": [
+							"The Repeater",
+							"The Lasso",
+							"The Tomahawk"
+						]
+					},
+					{
+						"correct": "Native American and African American",
+						"difficulty": "Easy",
+						"explanation": "His father was African American and his mother was Native American, giving him a unique and often difficult perspective on American life.",
+						"image_url": "https://skillcheckgame.com/assets/images/charles_smith.webp",
+						"question": "Charles is of mixed heritage. Which two backgrounds does he come from?",
+						"wrong": [
+							"Mexican and Irish",
+							"Native American and Scottish",
+							"African American and French"
+						]
+					},
+					{
+						"correct": "Saint Denis",
+						"difficulty": "Easy",
+						"explanation": "Charles earns money as a street fighter under the name 'The Lone Wolf' in the docks of Saint Denis.",
+						"question": "In the Epilogue, what city does John find Charles living and fighting in?",
+						"wrong": [
+							"Blackwater",
+							"Valentine",
+							"Rhodes"
+						]
+					},
+					{
+						"correct": "Tiamat",
+						"difficulty": "Medium",
+						"explanation": "Charles rides a grey Hungarian Half-bred named Tiamat.",
+						"question": "What is the name of Charles's sturdy, grey-colored horse?",
+						"wrong": [
+							"Old Boy",
+							"The Count",
+							"Hera"
+						]
+					},
+					{
+						"correct": "The Wapiti Indians",
+						"difficulty": "Medium",
+						"explanation": "Charles feels a deep connection to the Wapiti people and stays behind to help them flee to Canada.",
+						"question": "Which group of people does Charles leave the gang to help during the later chapters?",
+						"wrong": [
+							"The Pinkertons",
+							"The O'Driscolls",
+							"The Lemoyne Raiders"
+						]
+					},
+					{
+						"correct": "Lifting beams and hammering",
+						"difficulty": "Medium",
+						"explanation": "Charles's strength is a major asset during the construction of the ranch house.",
+						"question": "Charles helps John Marston build his house at Beecher's Hope. What specific task is he shown doing in the music montage?",
+						"wrong": [
+							"Cooking for Uncle",
+							"Painting the walls",
+							"Digging a well"
+						]
+					},
+					{
+						"correct": "Canada",
+						"difficulty": "Medium",
+						"explanation": "After helping John, Charles heads north to Canada in hopes of finding a family and a peaceful life.",
+						"question": "Where does Charles Smith eventually go at the very end of the game?",
+						"wrong": [
+							"Mexico",
+							"South America",
+							"Africa"
+						]
+					},
+					{
+						"correct": "Bare-knuckle Boxing",
+						"difficulty": "Medium",
+						"explanation": "Charles is an incredibly powerful boxer, which he uses to survive after the gang dissolves.",
+						"question": "What kind of fighting style does Charles use in the Saint Denis pits?",
+						"wrong": [
+							"Fencing",
+							"Wrestling",
+							"Knife Fighting"
+						]
+					},
+					{
+						"correct": "He found them to be more decent than other gangs",
+						"difficulty": "Medium",
+						"explanation": "Charles had been alone for a long time and found the Van der Linde gang's 'family' dynamic appealing.",
+						"question": "Why did Charles join the Van der Linde gang?",
+						"wrong": [
+							"He was Dutch's cousin",
+							"He needed a place to hide from the law",
+							"He wanted to get rich"
+						]
+					},
+					{
+						"correct": "It is not specifically named in the game",
+						"difficulty": "Hard",
+						"explanation": "While he helps the Wapiti, the game never explicitly names the specific tribe his mother belonged to.",
+						"question": "What was the name of Charles's mother's tribe?",
+						"wrong": [
+							"Wapiti",
+							"Cherokee",
+							"Apache"
+						]
+					},
+					{
+						"correct": "He became an alcoholic and died",
+						"difficulty": "Hard",
+						"explanation": "Charles tells Arthur that his father fell into despair and alcoholism after his mother was taken by the army.",
+						"question": "What happened to Charles's father?",
+						"wrong": [
+							"He was killed by the army",
+							"He went back to the South",
+							"He joined the gang"
+						]
+					},
+					{
+						"correct": "Eagle Flies",
+						"difficulty": "Hard",
+						"explanation": "They infiltrate the fort to save the son of the Wapiti chief.",
+						"question": "In the mission 'The King's Son', Charles and Arthur rescue which character from Fort Wallace?",
+						"wrong": [
+							"Rains Fall",
+							"Paytah",
+							"Hercule"
+						]
+					},
+					{
+						"correct": "Eagle Feathers",
+						"difficulty": "Hard",
+						"explanation": "Charles asks Arthur to collect Eagle Feathers so he can craft specialized arrows.",
+						"question": "What specific item does Charles ask Arthur to find for him in camp?",
+						"wrong": [
+							"A Compass",
+							"Moonshine",
+							"Tobacco"
+						]
+					},
+					{
+						"correct": "About 6 months",
+						"difficulty": "Hard",
+						"explanation": "Charles and Micah are the two newest 'senior' members of the gang, both having joined recently.",
+						"question": "How long had Charles been with the gang when the game starts in 1899?",
+						"wrong": [
+							"2 years",
+							"10 years",
+							"1 month"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_charles_smith",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Charles Smith",
+				"lore_desc": "A quiet and highly skilled hunter and tracker who joins the gang shortly before the events of the game, bringing a strong sense of morality.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Charles Smith",
+			"profiler": {
+				"vibe_tags": [
+					"Survivalist",
+					"Outlaw",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A Quiet Time",
+						"difficulty": "Easy",
+						"explanation": "The mission involves a simple drink turning into a chaotic, surreal night of debauchery.",
+						"image_url": "https://skillcheckgame.com/assets/images/lenny_summers.webp",
+						"question": "What is the name of the legendary mission where Arthur and Lenny get drunk together in Valentine?",
+						"wrong": [
+							"A Night to Remember",
+							"The Drunken Outlaw",
+							"Lenny's First Beer"
+						]
+					},
+					{
+						"correct": "He is killed on a rooftop",
+						"difficulty": "Easy",
+						"explanation": "In a shocking moment, Lenny is gunned down by lawmen while leading the escape across the city's rooftops.",
+						"image_url": "https://skillcheckgame.com/assets/images/lenny_summers.webp",
+						"question": "What happens to Lenny during the Saint Denis bank robbery?",
+						"wrong": [
+							"He is captured",
+							"He escapes to Tahiti",
+							"He betrays the gang"
+						]
+					},
+					{
+						"correct": "Maggie",
+						"difficulty": "Easy",
+						"explanation": "Lenny rides a Mustang horse named Maggie.",
+						"image_url": "https://skillcheckgame.com/assets/images/lenny_summers.webp",
+						"question": "What is the name of Lenny's horse?",
+						"wrong": [
+							"Old Boy",
+							"Nell II",
+							"Tiamat"
+						]
+					},
+					{
+						"correct": "Sean MacGuire",
+						"difficulty": "Easy",
+						"explanation": "Lenny and Sean are the two youngest men in the gang and share a competitive but friendly bond.",
+						"question": "Which gang member is Lenny's best friend, often seen joking around with him?",
+						"wrong": [
+							"Micah Bell",
+							"Bill Williamson",
+							"Uncle"
+						]
+					},
+					{
+						"correct": "19",
+						"difficulty": "Easy",
+						"explanation": "Despite his youth, Lenny is one of the most intelligent and reliable members of the gang.",
+						"question": "What is Lenny's age during the events of the game?",
+						"wrong": [
+							"16",
+							"25",
+							"21"
+						]
+					},
+					{
+						"correct": "Killed the men who murdered his father",
+						"difficulty": "Medium",
+						"explanation": "Lenny sought revenge against the men who killed his father, making him a fugitive from a very young age.",
+						"question": "What did Lenny do at the age of 15 that forced him to go on the run?",
+						"wrong": [
+							"Robbed a bank",
+							"Burned down a school",
+							"Stole a horse"
+						]
+					},
+					{
+						"correct": "Reading",
+						"difficulty": "Medium",
+						"explanation": "Lenny is often seen reading books in camp, reflecting his educated background.",
+						"question": "What is Lenny's favorite intellectual pastime often seen in camp?",
+						"wrong": [
+							"Playing Chess",
+							"Painting",
+							"Singing"
+						]
+					},
+					{
+						"correct": "Everyone in the saloon",
+						"difficulty": "Medium",
+						"explanation": "In a famous sequence, the screen distorts and every NPC's face is replaced with Lenny's.",
+						"question": "Which gang member does Arthur hallucinate everyone is 'Lenny' during the mission 'A Quiet Time'?",
+						"wrong": [
+							"The Sheriff",
+							"Dutch",
+							"The Barmaid"
+						]
+					},
+					{
+						"correct": "A Pocket Watch",
+						"difficulty": "Medium",
+						"explanation": "Lenny lost his watch and asks Arthur to find him a replacement.",
+						"question": "What item does Lenny ask Arthur to find for him during a camp request?",
+						"wrong": [
+							"A Compass",
+							"A Mirror",
+							"A Book"
+						]
+					},
+					{
+						"correct": "A Lawyer / Teacher",
+						"difficulty": "Medium",
+						"explanation": "Lenny's father was an educated man who taught Lenny to read and write at a high level.",
+						"question": "What was Lenny's father's profession?",
+						"wrong": [
+							"A Slave",
+							"A Blacksmith",
+							"A Soldier"
+						]
+					},
+					{
+						"correct": "No specific state is mentioned",
+						"difficulty": "Hard",
+						"explanation": "Lenny tells the story but doesn't name the specific state, only that he had to flee afterward.",
+						"question": "In which state did Lenny kill the men who murdered his father?",
+						"wrong": [
+							"Lemoyne",
+							"New Hanover",
+							"West Elizabeth"
+						]
+					},
+					{
+						"correct": "Bluewater Marsh",
+						"difficulty": "Hard",
+						"explanation": "He is buried alongside Hosea Matthews in the marshlands outside Saint Denis.",
+						"question": "Where is Lenny Summers buried?",
+						"wrong": [
+							"Horseshoe Overlook",
+							"Saint Denis Cemetery",
+							"Clemens Point"
+						]
+					},
+					{
+						"correct": "Six Point Cabin",
+						"difficulty": "Hard",
+						"explanation": "They clear out Six Point Cabin together, where they find a hidden stash of money behind a chimney.",
+						"question": "What is the name of the O'Driscoll camp Lenny and Arthur scout together in Chapter 2?",
+						"wrong": [
+							"Hanging Dog Ranch",
+							"Colter",
+							"Ewing Basin"
+						]
+					},
+					{
+						"correct": "It is never mentioned",
+						"difficulty": "Hard",
+						"explanation": "The game refers to him only as Lenny's father, focusing on the impact he had on Lenny's education.",
+						"question": "What is the first name of Lenny's father?",
+						"wrong": [
+							"John",
+							"William",
+							"Lawrence"
+						]
+					},
+					{
+						"correct": "Rolling Block Rifle",
+						"difficulty": "Hard",
+						"explanation": "Lenny provides sniper cover with the Rolling Block Rifle while Arthur approaches the mansion.",
+						"question": "Which weapon does Lenny use during the stagecoach robbery mission 'Preaching Forgiveness as He Went'?",
+						"wrong": [
+							"Bolt Action Rifle",
+							"Carcano Rifle",
+							"Bow"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_lenny_summers",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Lenny Summers",
+				"lore_desc": "A young, bright, and ambitious member of the gang who is well-liked by everyone and shares a close bond with Arthur.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Lenny Summers",
+			"profiler": {
+				"vibe_tags": [
+					"Outlaw",
+					"Friend",
+					"Youth"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "John Marston",
+						"difficulty": "Easy",
+						"explanation": "John buys the land during the Epilogue to prove to Abigail that he can change his ways.",
+						"image_url": "https://skillcheckgame.com/assets/images/beechers_hope.webp",
+						"question": "Who is the primary character who builds and lives at Beecher's Hope?",
+						"wrong": [
+							"Arthur Morgan",
+							"Dutch van der Linde",
+							"Bill Williamson"
+						]
+					},
+					{
+						"correct": "A Farmhouse",
+						"difficulty": "Easy",
+						"explanation": "The construction of the farmhouse is a major gameplay sequence accompanied by a famous musical theme.",
+						"image_url": "https://skillcheckgame.com/assets/images/beechers_hope.webp",
+						"question": "What is the main building John and his friends construct on the property?",
+						"wrong": [
+							"A Saloon",
+							"A Fort",
+							"A Church"
+						]
+					},
+					{
+						"correct": "Uncle",
+						"difficulty": "Easy",
+						"explanation": "Uncle claims he can't work due to his 'terminal lumbago,' though he does occasionally contribute.",
+						"image_url": "https://skillcheckgame.com/assets/images/beechers_hope.webp",
+						"question": "Which lazy gang member 'helps' build the ranch but mostly just sleeps and complains?",
+						"wrong": [
+							"Pearson",
+							"Bill",
+							"Micah"
+						]
+					},
+					{
+						"correct": "Blackwater",
+						"difficulty": "Easy",
+						"explanation": "John buys the house as a kit from the lumber yard in Blackwater.",
+						"question": "Where does John buy the pre-cut materials for the house?",
+						"wrong": [
+							"Saint Denis",
+							"Valentine",
+							"Rhodes"
+						]
+					},
+					{
+						"correct": "Great Plains",
+						"difficulty": "Easy",
+						"explanation": "The ranch is situated in the flat, open Great Plains area of West Elizabeth.",
+						"question": "What region of the map is Beecher's Hope located in?",
+						"wrong": [
+							"The Heartlands",
+							"The Bayou",
+							"The Grizzlies"
+						]
+					},
+					{
+						"correct": "Abigail",
+						"difficulty": "Medium",
+						"explanation": "Abigail leaves John earlier in the Epilogue but returns when she sees he has built a real home for them.",
+						"question": "What is the name of the woman who returns to John once the ranch is finished?",
+						"wrong": [
+							"Sadie",
+							"Karen",
+							"Mary"
+						]
+					},
+					{
+						"correct": "Charles Smith",
+						"difficulty": "Medium",
+						"explanation": "Charles moves in for a while and is instrumental in the construction of the house and barn.",
+						"question": "Which character comes to stay at the ranch and helps with the heavy labor?",
+						"wrong": [
+							"Sadie Adler",
+							"Javier Escuella",
+							"Tilly Jackson"
+						]
+					},
+					{
+						"correct": "Cows and Chickens",
+						"difficulty": "Medium",
+						"explanation": "Players can perform chores like milking cows and collecting eggs to earn small amounts of money.",
+						"question": "What livestock can John manage at the ranch in the end-game?",
+						"wrong": [
+							"Pigs and Sheep",
+							"Goats and Turkeys",
+							"Llamas and Ducks"
+						]
+					},
+					{
+						"correct": "The Bank of Blackwater",
+						"difficulty": "Medium",
+						"explanation": "John takes out a legitimate mortgage, marking his first real step into civilized society.",
+						"question": "Who provides the bank loan that allows John to buy the property?",
+						"wrong": [
+							"Leviticus Cornwall",
+							"Andrew Milton",
+							"Angelo Bronte"
+						]
+					},
+					{
+						"correct": "It was a squatters' camp",
+						"difficulty": "Medium",
+						"explanation": "John has to clear out a group of squatters before he can begin building his home.",
+						"question": "What was the land used for before John bought it?",
+						"wrong": [
+							"A battlefield",
+							"An Indian burial ground",
+							"A mining site"
+						]
+					},
+					{
+						"correct": "Uncle accidentally burns it down",
+						"difficulty": "Hard",
+						"explanation": "Uncle tries to 'help' by clearing the old shack with fire, but he loses control of it.",
+						"question": "What happens to the original shack that was on the property?",
+						"wrong": [
+							"John tears it down",
+							"Bandits blow it up",
+							"A storm destroys it"
+						]
+					},
+					{
+						"correct": "Cain",
+						"difficulty": "Hard",
+						"explanation": "Cain is a stray dog that wanders into the camp in Chapter 3 and later lives at Beecher's Hope, though Rufus is also present there.",
+						"question": "What is the name of the dog that Jack adopts at the ranch?",
+						"wrong": [
+							"Rufus",
+							"Copper",
+							"Shep"
+						]
+					},
+					{
+						"correct": "Uncle",
+						"difficulty": "Hard",
+						"explanation": "While John and Abigail are buried there later, Uncle is also buried on the property after the final shootout in RDR1.",
+						"question": "Which character is buried on the hill overlooking Beecher's Hope in the first game?",
+						"wrong": [
+							"John Marston",
+							"Abigail Marston",
+							"Both John and Abigail"
+						]
+					},
+					{
+						"correct": "The game doesn't name a specific leader",
+						"difficulty": "Hard",
+						"explanation": "The Skinner Brothers are a faceless, terrifying gang; while they capture Uncle, they are represented as a group rather than a single named boss.",
+						"question": "Who is the 'skinner' leader that kidnaps Uncle from the ranch?",
+						"wrong": [
+							"Otis Skinner",
+							"Merle Skinner",
+							"Jeb Skinner"
+						]
+					},
+					{
+						"correct": "The Housebuilding Song",
+						"difficulty": "Hard",
+						"explanation": "David Ferguson's 'The Housebuilding Song' is a fan-favorite track that perfectly captures the optimism of the scene.",
+						"question": "What is the title of the song that plays during the house-building montage?",
+						"wrong": [
+							"Cruel World",
+							"That's The Way It Is",
+							"Mountain Hymn"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_beecher's_hope",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Beecher's Hope",
+				"lore_desc": "A plot of land near Blackwater that John Marston purchases to build a home, symbolizing his attempt at a peaceful, civilized life.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Beecher's Hope",
+			"profiler": {
+				"vibe_tags": [
+					"Ranch",
+					"Home",
+					"Epilogue"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Shipwreck",
+						"difficulty": "Easy",
+						"explanation": "After the Saint Denis bank robbery goes wrong, their escape ship sinks during a massive storm.",
+						"image_url": "https://skillcheckgame.com/assets/images/guarma.webp",
+						"question": "How do Arthur and the gang end up on the island of Guarma?",
+						"wrong": [
+							"Hot Air Balloon crash",
+							"They bought tickets",
+							"They were kidnapped"
+						]
+					},
+					{
+						"correct": "Sugar",
+						"difficulty": "Easy",
+						"explanation": "The island's economy is entirely based on sugar plantations owned by the Fussar family.",
+						"image_url": "https://skillcheckgame.com/assets/images/guarma.webp",
+						"question": "What is the main crop being harvested on Guarma using forced labor?",
+						"wrong": [
+							"Tobacco",
+							"Coffee",
+							"Cotton"
+						]
+					},
+					{
+						"correct": "John Marston",
+						"difficulty": "Easy",
+						"explanation": "John was captured during the bank robbery and sent to prison while the others were swept away to Guarma.",
+						"image_url": "https://skillcheckgame.com/assets/images/guarma.webp",
+						"question": "Which gang member is NOT present on Guarma with Arthur?",
+						"wrong": [
+							"Dutch van der Linde",
+							"Bill Williamson",
+							"Micah Bell"
+						]
+					},
+					{
+						"correct": "Alberto Fussar",
+						"difficulty": "Easy",
+						"explanation": "Alberto Fussar is the ruthless dictator and plantation owner who serves as the island's primary antagonist.",
+						"question": "What is the name of the tyrannical colonel who rules Guarma?",
+						"wrong": [
+							"Colonel Favours",
+							"Andrew Milton",
+							"Angelo Bronte"
+						]
+					},
+					{
+						"correct": "They are all lost in the wreck",
+						"difficulty": "Easy",
+						"explanation": "Arthur wakes up on the beach with nothing, forced to scavenge weapons from the local guards.",
+						"question": "What happens to Arthur's weapons and items when he arrives on Guarma?",
+						"wrong": [
+							"He keeps them in a chest",
+							"The locals steal them",
+							"He only has a knife"
+						]
+					},
+					{
+						"correct": "Hercule Fontaine",
+						"difficulty": "Medium",
+						"explanation": "Hercule Fontaine is a local revolutionary fighting against Fussar's oppressive regime.",
+						"question": "What is the name of the rebel leader who helps the gang escape the island?",
+						"wrong": [
+							"Leon",
+							"Baptiste",
+							"Diego"
+						]
+					},
+					{
+						"correct": "A Cannon",
+						"difficulty": "Medium",
+						"explanation": "In a cinematic sequence, they use a coastal cannon to fend off the Cuban Navy.",
+						"question": "What kind of large, naval weapon do Arthur and Dutch use to sink a pursuing warship?",
+						"wrong": [
+							"A Torpedo",
+							"A Gatling Gun",
+							"Dynamite"
+						]
+					},
+					{
+						"correct": "Javier Escuella",
+						"difficulty": "Medium",
+						"explanation": "Javier is shot in the leg and taken prisoner, leading to a mission where Arthur and Dutch must rescue him.",
+						"question": "Which gang member is injured and captured by Fussar's men early on the island?",
+						"wrong": [
+							"Bill Williamson",
+							"Micah Bell",
+							"Dutch"
+						]
+					},
+					{
+						"correct": "He strangles her",
+						"difficulty": "Medium",
+						"explanation": "Dutch kills an old woman named Gloria after she demands more gold, showing Arthur how far Dutch has fallen.",
+						"question": "What shocking action does Dutch take toward an old woman in a cave on Guarma?",
+						"wrong": [
+							"He gives her gold",
+							"He leaves her behind",
+							"He shoots her"
+						]
+					},
+					{
+						"correct": "It is a linear section that you cannot return to",
+						"difficulty": "Medium",
+						"explanation": "Once you leave Guarma, you cannot return to it without using glitches, making its unique animals missable for the compendium.",
+						"question": "Why is the Guarma section of the game controversial among some fans?",
+						"wrong": [
+							"It is too easy",
+							"It has no story",
+							"It was cut from the game"
+						]
+					},
+					{
+						"correct": "Cinco Torres",
+						"difficulty": "Hard",
+						"explanation": "The final stand occurs at a fortress called Cinco Torres (Five Towers).",
+						"question": "What is the name of the specific region on Guarma where the final battle takes place?",
+						"wrong": [
+							"Aguasdulces",
+							"La Capilla",
+							"Arroyo"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "There are three Macaw species (Great Green, Scarlet, and Blue and Yellow) exclusive to the island.",
+						"question": "How many species of parrots can be found only on Guarma?",
+						"wrong": [
+							"One",
+							"Five",
+							"None"
+						]
+					},
+					{
+						"correct": "Leon",
+						"difficulty": "Hard",
+						"explanation": "Leon is a plantation worker and rebel who helps the gang navigate the dangerous terrain.",
+						"question": "What is the name of the worker who guides Arthur and Dutch through the jungle to find Javier?",
+						"wrong": [
+							"Diego",
+							"Hercule",
+							"Luis"
+						]
+					},
+					{
+						"correct": "The game doesn't name it",
+						"difficulty": "Hard",
+						"explanation": "They board a transport ship that Hercule secures, but it is not given a specific iconic name.",
+						"question": "What is the name of the ship the gang eventually uses to leave Guarma?",
+						"wrong": [
+							"The Serendipity",
+							"The Mary Rose",
+							"The Iron Dragon"
+						]
+					},
+					{
+						"correct": "1899",
+						"difficulty": "Hard",
+						"explanation": "Despite the change in location, the entire main story of Arthur Morgan occurs within the year 1899.",
+						"question": "In what year does the Guarma chapter take place?",
+						"wrong": [
+							"1900",
+							"1898",
+							"1907"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_guarma",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Guarma",
+				"lore_desc": "A hidden tropical island in the Caribbean where Arthur and several gang members are shipwrecked after a failed escape from Saint Denis.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Guarma",
+			"profiler": {
+				"vibe_tags": [
+					"Island",
+					"Tropical",
+					"War"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "To hunt the Van der Linde Gang",
+						"difficulty": "Easy",
+						"explanation": "The Pinkertons serve as the persistent 'hunters' throughout the game, always one step behind Dutch.",
+						"image_url": "https://skillcheckgame.com/assets/images/pinkerton_agency.webp",
+						"question": "The Pinkerton Agency was a real-world organization. What is their primary goal in the game?",
+						"wrong": [
+							"To rob banks",
+							"To protect the gang",
+							"To explore the West"
+						]
+					},
+					{
+						"correct": "Andrew Milton",
+						"difficulty": "Easy",
+						"explanation": "Agent Milton introduces himself early in the game, offering Arthur a deal to turn in Dutch.",
+						"image_url": "https://skillcheckgame.com/assets/images/pinkerton_agency.webp",
+						"question": "Who is the main Pinkerton agent who confronts Arthur while he is fishing with Jack?",
+						"wrong": [
+							"Edgar Ross",
+							"John Marston",
+							"Archer Fordham"
+						]
+					},
+					{
+						"correct": "Edgar Ross",
+						"difficulty": "Easy",
+						"explanation": "Edgar Ross is the younger agent who eventually rises to lead the Bureau of Investigation in the sequel/original game.",
+						"image_url": "https://skillcheckgame.com/assets/images/pinkerton_agency.webp",
+						"question": "Which agent is Milton's secondary partner, who later becomes the main villain of the first Red Dead Redemption?",
+						"wrong": [
+							"Archer Fordham",
+							"Jim Milton",
+							"Colonel Favours"
+						]
+					},
+					{
+						"correct": "Leviticus Cornwall",
+						"difficulty": "Easy",
+						"explanation": "Cornwall hired them privately after the gang robbed his train in the Grizzlies.",
+						"question": "Who hired the Pinkerton Agency to pursue the gang?",
+						"wrong": [
+							"The U.S. Government",
+							"Angelo Bronte",
+							"The Mayor of Saint Denis"
+						]
+					},
+					{
+						"correct": "We Never Sleep",
+						"difficulty": "Easy",
+						"explanation": "Their logo features an unblinking eye and the famous 'We Never Sleep' slogan.",
+						"question": "What is the Pinkerton Agency's motto, which is seen on their badges?",
+						"wrong": [
+							"Law and Order",
+							"Justice for All",
+							"The All-Seeing Eye"
+						]
+					},
+					{
+						"correct": "Van Horn Trading Post / Van Horn Lab",
+						"difficulty": "Medium",
+						"explanation": "Milton captures Abigail, leading to a shootout where Arthur and Sadie rescue her from the Pinkerton-held building.",
+						"question": "Where does the final confrontation between Arthur Morgan and Agent Milton take place?",
+						"wrong": [
+							"Saint Denis Bank",
+							"Lakay",
+							"Beaver Hollow"
+						]
+					},
+					{
+						"correct": "Abigail Roberts",
+						"difficulty": "Medium",
+						"explanation": "In a climactic struggle, Abigail shoots Milton in the head while he is trying to kill Arthur.",
+						"question": "Who ultimately kills Agent Milton?",
+						"wrong": [
+							"Arthur Morgan",
+							"Dutch van der Linde",
+							"Sadie Adler"
+						]
+					},
+					{
+						"correct": "Freedom in exchange for Dutch",
+						"difficulty": "Medium",
+						"explanation": "Milton isn't interested in the whole gang as much as he is in capturing the 'philosopher' Dutch van der Linde.",
+						"question": "What deal does Agent Milton repeatedly offer to different gang members?",
+						"wrong": [
+							"A pile of gold",
+							"A job with the agency",
+							"Safe passage to Mexico"
+						]
+					},
+					{
+						"correct": "Bill Williamson asked for 'Van der Linde' in town",
+						"difficulty": "Medium",
+						"explanation": "Milton reveals that Bill was careless and used the gang's real names in the nearby town, leading the law straight to them.",
+						"question": "How do the Pinkertons find the gang's camp at Lakay so quickly after they return from Guarma?",
+						"wrong": [
+							"They tracked the ship",
+							"Micah told them",
+							"Molly told them"
+						]
+					},
+					{
+						"correct": "Gatling Gun",
+						"difficulty": "Medium",
+						"explanation": "They surround the small shack and rain bullets on it with a tripod-mounted Gatling Gun.",
+						"question": "What major military weapon do the Pinkertons use to attack the camp at Lakay?",
+						"wrong": [
+							"Cannon",
+							"Mortar",
+							"Dynamite"
+						]
+					},
+					{
+						"correct": "Hosea Matthews",
+						"difficulty": "Hard",
+						"explanation": "Milton brings Hosea out in front of the bank and shoots him in the chest as a warning to Dutch.",
+						"question": "Which gang member does Agent Milton execute personally during the Saint Denis bank robbery?",
+						"wrong": [
+							"Lenny Summers",
+							"John Marston",
+							"Arthur Morgan"
+						]
+					},
+					{
+						"correct": "Archer Fordham",
+						"difficulty": "Hard",
+						"explanation": "Fordham is Ross's new junior partner who is seen watching John Marston through binoculars during the credits.",
+						"question": "What is the name of the agent who accompanies Edgar Ross in the Epilogue's final cutscene?",
+						"wrong": [
+							"Agent Milton",
+							"Agent Johnson",
+							"Agent Smith"
+						]
+					},
+					{
+						"correct": "The Bureau of Investigation",
+						"difficulty": "Hard",
+						"explanation": "By 1911 (the first game), the private agency has been absorbed into the federal Bureau of Investigation (the precursor to the FBI).",
+						"question": "The Pinkerton Agency eventually transitions into what real-life government body in the Red Dead universe?",
+						"wrong": [
+							"The CIA",
+							"The Secret Service",
+							"The Texas Rangers"
+						]
+					},
+					{
+						"correct": "Dozens (not a specific countable number in lore)",
+						"difficulty": "Hard",
+						"explanation": "The mission involves a massive shootout against a small army of agents stationed at the trading post.",
+						"question": "How many Pinkerton agents are killed by Arthur and Sadie during the rescue of Abigail?",
+						"wrong": [
+							"5",
+							"10",
+							"1"
+						]
+					},
+					{
+						"correct": "That she was the one who 'rat-ted' in Saint Denis",
+						"difficulty": "Hard",
+						"explanation": "Milton admits that while they picked Molly up, she didn't say a word; the real rat was Micah.",
+						"question": "What specific lie does Agent Milton tell Arthur about Molly O'Shea?",
+						"wrong": [
+							"That she was dead",
+							"That she was pregnant",
+							"That she joined the agency"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_pinkerton_agency",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Pinkerton Agency",
+				"lore_desc": "A private security and detective agency hired by the wealthy to hunt down the Van der Linde gang and bring order to the Wild West.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Pinkerton Agency",
+			"profiler": {
+				"vibe_tags": [
+					"Antagonist",
+					"Law",
+					"Modern"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Soldier",
+						"difficulty": "Easy",
+						"explanation": "Bill served in the U.S. Army but was dishonorably discharged for 'deviancy' and attempted murder.",
+						"image_url": "https://skillcheckgame.com/assets/images/bill_williamson.webp",
+						"question": "What was Bill's previous profession before joining the gang?",
+						"wrong": [
+							"Banker",
+							"Sailor",
+							"Blacksmith"
+						]
+					},
+					{
+						"correct": "Red Dead Redemption (the first game)",
+						"difficulty": "Easy",
+						"explanation": "In the first game, John's main quest begins with him hunting down Bill at Fort Mercer.",
+						"image_url": "https://skillcheckgame.com/assets/images/bill_williamson.webp",
+						"question": "Which Red Dead Redemption game does Bill appear in as a primary target for John Marston?",
+						"wrong": [
+							"Red Dead Revolver",
+							"Grand Theft Auto",
+							"Undead Nightmare"
+						]
+					},
+					{
+						"correct": "Marion",
+						"difficulty": "Easy",
+						"explanation": "Bill's real name is Marion Williamson, a fact he is very embarrassed about.",
+						"image_url": "https://skillcheckgame.com/assets/images/bill_williamson.webp",
+						"question": "What is Bill's real first name, which he rarely uses?",
+						"wrong": [
+							"William",
+							"Robert",
+							"James"
+						]
+					},
+					{
+						"correct": "Brown Jack",
+						"difficulty": "Easy",
+						"explanation": "Bill rides an Ardennes horse named Brown Jack, fitting for his large stature.",
+						"question": "What is the name of Bill's large, brown-colored horse?",
+						"wrong": [
+							"Old Boy",
+							"Silver Dollar",
+							"Tiamat"
+						]
+					},
+					{
+						"correct": "He is not very intelligent",
+						"difficulty": "Easy",
+						"explanation": "Arthur and others frequently tease Bill for being slow on the uptake and having a limited vocabulary.",
+						"question": "Bill is often the target of jokes from the rest of the gang. Why?",
+						"wrong": [
+							"He is too short",
+							"He can't ride a horse",
+							"He is too nice"
+						]
+					},
+					{
+						"correct": "Javier Escuella",
+						"difficulty": "Medium",
+						"explanation": "Bill and Javier have a competitive relationship, though they both eventually side with Dutch at the end.",
+						"question": "Which gang member does Bill frequently argue with about who is more 'manly'?",
+						"wrong": [
+							"Arthur Morgan",
+							"Dutch",
+							"Charles Smith"
+						]
+					},
+					{
+						"correct": "Cavalry Hat",
+						"difficulty": "Medium",
+						"explanation": "His hat has one side of the brim pinned up, a common style for cavalry soldiers of the era.",
+						"question": "What kind of hat does Bill wear, which has a very specific style?",
+						"wrong": [
+							"Stetson",
+							"Bowler",
+							"Flat Cap"
+						]
+					},
+					{
+						"correct": "He helps manage the explosives",
+						"difficulty": "Medium",
+						"explanation": "Bill is often the 'muscle' and explosives expert for the gang's bigger jobs.",
+						"question": "During the Rhodes bank robbery, what is Bill's primary job?",
+						"wrong": [
+							"He is the lookout",
+							"He is the getaway driver",
+							"He is the hostage"
+						]
+					},
+					{
+						"correct": "Dutch and Micah",
+						"difficulty": "Medium",
+						"explanation": "Bill's unwavering (and somewhat blind) loyalty to Dutch causes him to turn his gun on Arthur.",
+						"question": "Which character does Bill side with during the final standoff at Beaver Hollow?",
+						"wrong": [
+							"Arthur and John",
+							"He runs away",
+							"He stays neutral"
+						]
+					},
+					{
+						"correct": "Mexico",
+						"difficulty": "Medium",
+						"explanation": "Bill eventually moves to Nuevo Paraíso, Mexico, where he becomes a bandit leader protected by the local military.",
+						"question": "What country does Bill eventually flee to after the gang dissolves?",
+						"wrong": [
+							"Canada",
+							"Australia",
+							"Brazil"
+						]
+					},
+					{
+						"correct": "Dishonorable",
+						"difficulty": "Hard",
+						"explanation": "The papers found in his tent reveal a dishonorable discharge for 'deviancy', a period-appropriate euphemism for various behaviors.",
+						"question": "What specific discharge did Bill receive from the Army in 1892?",
+						"wrong": [
+							"Honorable",
+							"Medical",
+							"General"
+						]
+					},
+					{
+						"correct": "Fort Mercer",
+						"difficulty": "Hard",
+						"explanation": "Bill and his own gang take over the abandoned Fort Mercer in New Austin.",
+						"question": "What is the name of the fort Bill occupies in the first Red Dead Redemption?",
+						"wrong": [
+							"Fort Wallace",
+							"Fort Riggs",
+							"Fort Zancudo"
+						]
+					},
+					{
+						"correct": "Pomade",
+						"difficulty": "Hard",
+						"explanation": "Surprisingly, Bill wants hair pomade to help keep his beard and hair in check.",
+						"question": "What item does Bill ask Arthur to find for him during a camp request?",
+						"wrong": [
+							"Tobacco",
+							"A Bottle of Bourbon",
+							"A Pocket Watch"
+						]
+					},
+					{
+						"correct": "John Marston (or Abraham Reyes)",
+						"difficulty": "Hard",
+						"explanation": "Depending on the player's choice in RDR1, John or Reyes kills Bill in Mexico.",
+						"question": "Who was the person who actually killed Bill Williamson in the first game?",
+						"wrong": [
+							"Dutch van der Linde",
+							"Edgar Ross",
+							"Arthur Morgan"
+						]
+					},
+					{
+						"correct": "Bounty Hunters",
+						"difficulty": "Hard",
+						"explanation": "There is a random camp encounter where Javier asks Arthur to help rescue Bill from a group of bounty hunters.",
+						"question": "Bill is the only member of the gang to be 'captured' by a specific group in a random event. Which group?",
+						"wrong": [
+							"The O'Driscolls",
+							"The Lemoyne Raiders",
+							"The Murfree Brood"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_bill_williamson",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Bill Williamson",
+				"lore_desc": "A former soldier and current gang enforcer known for his short temper, loyalty to Dutch, and lack of foresight.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Bill Williamson",
+			"profiler": {
+				"vibe_tags": [
+					"Outlaw",
+					"Enforcer",
+					"Villain"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "John Marston",
+						"difficulty": "Easy",
+						"explanation": "Abigail and John have a complicated but deep relationship that spans both Red Dead Redemption games.",
+						"image_url": "https://skillcheckgame.com/assets/images/abigail_roberts.webp",
+						"question": "Abigail is the wife of which major character?",
+						"wrong": [
+							"Arthur Morgan",
+							"Dutch van der Linde",
+							"Bill Williamson"
+						]
+					},
+					{
+						"correct": "Jack",
+						"difficulty": "Easy",
+						"explanation": "Jack is the only child living in the camp, and Abigail spends most of her time trying to keep him safe.",
+						"image_url": "https://skillcheckgame.com/assets/images/abigail_roberts.webp",
+						"question": "What is the name of her son, who was born into the gang?",
+						"wrong": [
+							"Isaac",
+							"Thomas",
+							"Arthur"
+						]
+					},
+					{
+						"correct": "Prostitute",
+						"difficulty": "Easy",
+						"explanation": "Abigail was brought to the gang by Uncle and worked as a prostitute before falling in love with John.",
+						"image_url": "https://skillcheckgame.com/assets/images/abigail_roberts.webp",
+						"question": "What was Abigail's profession before she joined the gang?",
+						"wrong": [
+							"Teacher",
+							"Nurse",
+							"Seamstress"
+						]
+					},
+					{
+						"correct": "Agent Milton",
+						"difficulty": "Easy",
+						"explanation": "Abigail shoots Milton in the head while he is holding Arthur at gunpoint.",
+						"question": "Which character does Abigail kill to save Arthur's life at the end of the game?",
+						"wrong": [
+							"Micah Bell",
+							"Dutch van der Linde",
+							"Edgar Ross"
+						]
+					},
+					{
+						"correct": "Roberts",
+						"difficulty": "Easy",
+						"explanation": "In RDR2, she is mostly known as Abigail Roberts before taking the Marston name.",
+						"question": "What is Abigail's last name before she marries John?",
+						"wrong": [
+							"Jones",
+							"Summers",
+							"Smith"
+						]
+					},
+					{
+						"correct": "She leaves him for a short time",
+						"difficulty": "Medium",
+						"explanation": "Abigail takes Jack and leaves John to show him that she won't live a life of violence anymore.",
+						"question": "What does Abigail do in the Epilogue when John starts getting into trouble again?",
+						"wrong": [
+							"She joins his gang",
+							"She calls the police",
+							"She goes to Mexico"
+						]
+					},
+					{
+						"correct": "A Key to the gang's hidden money",
+						"difficulty": "Medium",
+						"explanation": "Abigail managed to steal the key to the Blackwater money stash and gives it to Arthur for safekeeping.",
+						"question": "What item does Abigail give to Arthur to give to John during the gang's final days?",
+						"wrong": [
+							"A wedding ring",
+							"A locket",
+							"A map to Tahiti"
+						]
+					},
+					{
+						"correct": "Uncle",
+						"difficulty": "Medium",
+						"explanation": "Uncle introduced her to the group in 1894 when she was only 17 years old.",
+						"question": "Who was the person who brought Abigail into the gang originally?",
+						"wrong": [
+							"Dutch",
+							"Hosea",
+							"John"
+						]
+					},
+					{
+						"correct": "Red Dead Redemption",
+						"difficulty": "Medium",
+						"explanation": "The final mission of the main story is titled 'Red Dead Redemption' and involves her rescue.",
+						"question": "In which mission is Abigail kidnapped by the Pinkertons, leading to Arthur's final ride?",
+						"wrong": [
+							"Our Best Selves",
+							"Visiting Hours",
+							"The Bridge to Nowhere"
+						]
+					},
+					{
+						"correct": "She is a laundress / cleaner",
+						"difficulty": "Medium",
+						"explanation": "Abigail works hard at the ranch to help earn money for their new life.",
+						"question": "What does Abigail work as while John is working at Pronghorn Ranch?",
+						"wrong": [
+							"She is a cook",
+							"She is a shopkeeper",
+							"She stays at home"
+						]
+					},
+					{
+						"correct": "She doesn't ask him to visit a doctor",
+						"difficulty": "Hard",
+						"explanation": "In RDR1, she is more concerned with the farm and Jack than medical visits.",
+						"question": "What is the name of the doctor Abigail asks John to visit in the first game (RDR1)?",
+						"wrong": [
+							"Dr. Quinn",
+							"Dr. MacDougal",
+							"Dr. Arkwright"
+						]
+					},
+					{
+						"correct": "1877",
+						"difficulty": "Hard",
+						"explanation": "She is 22 years old during the events of 1899.",
+						"question": "What year was Abigail Roberts born?",
+						"wrong": [
+							"1880",
+							"1870",
+							"1885"
+						]
+					},
+					{
+						"correct": "She doesn't mention one specifically by name",
+						"difficulty": "Hard",
+						"explanation": "Abigail expresses a desire for 'nice things' but her dialogue focuses on the general wish for a normal life rather than specific brands.",
+						"question": "What is the name of the dressmaker Abigail mentions wanting to buy clothes from in Saint Denis?",
+						"wrong": [
+							"Madam LeClerk",
+							"Henrietta",
+							"The French Boutique"
+						]
+					},
+					{
+						"correct": "Sadie Adler",
+						"difficulty": "Hard",
+						"explanation": "In the later chapters and the Epilogue, Sadie and Abigail form a very strong bond as the two most capable women of the group.",
+						"question": "Which gang member does Abigail have the closest friendship with?",
+						"wrong": [
+							"Karen Jones",
+							"Mary-Beth Gaskill",
+							"Susan Grimshaw"
+						]
+					},
+					{
+						"correct": "Beecher's Hope",
+						"difficulty": "Hard",
+						"explanation": "She is buried next to John and Uncle on the hill overlooking their ranch, as seen at the very end of RDR1.",
+						"question": "Where is Abigail Marston buried?",
+						"wrong": [
+							"Blackwater Cemetery",
+							"Saint Denis",
+							"Valentine"
+						]
+					}
+				]
+			},
+			"id": "red_dead_redemption_2_abigail_roberts",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Abigail Roberts",
+				"lore_desc": "A former orphan and prostitute who found a family in the gang, Abigail is the moral anchor for John Marston and a fierce protector of her son, Jack.",
+				"theme_origin": "red dead redemption 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Abigail Roberts",
+			"profiler": {
+				"vibe_tags": [
+					"Family",
+					"Outlaw",
+					"Survivor"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -120766,7 +124030,7 @@
 			"id": "the sims",
 			"synergies": [
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Bella Goth",
 						"Mortimer Goth"
@@ -120774,7 +124038,7 @@
 					"name": "Goth Family"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Plumbob",
 						"Simoleons"
@@ -120782,7 +124046,7 @@
 					"name": "Sul Sul!"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Cowplant",
 						"The Grim Reaper"
@@ -120790,7 +124054,7 @@
 					"name": "Death's Garden"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Landgraab Family",
 						"Simoleons"
@@ -120798,7 +124062,7 @@
 					"name": "Old Money"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Bella Goth",
 						"Mortimer Goth",
@@ -120807,7 +124071,7 @@
 					"name": "Pleasantview Residents"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Strangetown",
 						"Tragic Clown",
@@ -120816,7 +124080,7 @@
 					"name": "Weirdos Next Door"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Bonehilda",
 						"The Grim Reaper"
@@ -120824,7 +124088,7 @@
 					"name": "Supernatural Servants"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Mrs. Crumplebottom",
 						"Pleasantview"
@@ -120832,7 +124096,7 @@
 					"name": "Neighbourhood Watch"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Freezer Bunny",
 						"Plumbob"
@@ -120840,7 +124104,7 @@
 					"name": "Fan Favourites"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Cowplant",
 						"The Mother Plant"
@@ -120848,7 +124112,7 @@
 					"name": "Deadly Flora"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Landgraab Family",
 						"Mortimer Goth",
@@ -120857,7 +124121,7 @@
 					"name": "Rich & Powerful"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Bonehilda",
 						"Tragic Clown",
@@ -120866,7 +124130,7 @@
 					"name": "Haunted Household"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Bob Newbie",
 						"Simoleons",
@@ -120875,7 +124139,7 @@
 					"name": "Humble Beginnings"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Strangetown",
 						"Pleasantview"
@@ -120883,7 +124147,7 @@
 					"name": "Urban Legends"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Mrs. Crumplebottom",
 						"Social Bunny"
@@ -120891,7 +124155,7 @@
 					"name": "Party Crashers"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Social Bunny",
 						"Freezer Bunny"
@@ -120899,7 +124163,7 @@
 					"name": "Imaginary Friends"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Bella Goth",
 						"Strangetown"
@@ -120907,7 +124171,7 @@
 					"name": "Mysterious Disappearance"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Cowplant",
 						"The Grim Reaper",
@@ -120916,7 +124180,7 @@
 					"name": "Garden of Death"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Freezer Bunny",
 						"Plumbob",
@@ -120925,7 +124189,7 @@
 					"name": "Sim Mascots"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Tragic Clown",
 						"Mrs. Crumplebottom",
@@ -120934,7 +124198,7 @@
 					"name": "Unwelcome Guests"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Bonehilda",
 						"Bob Newbie"
@@ -120942,7 +124206,7 @@
 					"name": "Skeleton Crew"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"The Mother Plant",
 						"Landgraab Family"
@@ -120950,6 +124214,10 @@
 					"name": "Overgrown"
 				}
 			]
+		},
+		{
+			"id": "red dead redemption 2",
+			"synergies": []
 		}
 	],
 	"titles": {
