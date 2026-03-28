@@ -94530,6 +94530,5081 @@
 					"Ancient"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Human",
+						"difficulty": "Easy",
+						"explanation": "Shepard represents humanity's interests on the galactic stage as the first human member of the Spectres.",
+						"image_url": "https://skillcheckgame.com/assets/images/commander_shepard.webp",
+						"question": "What is the primary species of the main protagonist, Commander Shepard?",
+						"wrong": [
+							"Asari",
+							"Turian",
+							"Salarian"
+						]
+					},
+					{
+						"correct": "Spectres",
+						"difficulty": "Easy",
+						"explanation": "Spectres are elite agents who answer only to the Citadel Council and have the authority to act above the law.",
+						"image_url": "https://skillcheckgame.com/assets/images/commander_shepard.webp",
+						"question": "What is the name of the elite Council agents that Shepard eventually joins?",
+						"wrong": [
+							"Justicars",
+							"Sentinels",
+							"Infiltrators"
+						]
+					},
+					{
+						"correct": "N7",
+						"difficulty": "Easy",
+						"explanation": "N7 is a vocational code in the Alliance Military, indicating the highest level of proficiency in special forces training.",
+						"image_url": "https://skillcheckgame.com/assets/images/commander_shepard.webp",
+						"question": "Which of these is the iconic military designation for Shepard's elite training?",
+						"wrong": [
+							"S1",
+							"X9",
+							"A1"
+						]
+					},
+					{
+						"correct": "Action RPG",
+						"difficulty": "Easy",
+						"explanation": "The series is famous for blending third-person shooting with deep role-playing elements and choice-driven narratives.",
+						"image_url": "",
+						"question": "What genre of game is the Mass Effect series?",
+						"wrong": [
+							"Real Time Strategy",
+							"Racing",
+							"Platformer"
+						]
+					},
+					{
+						"correct": "Xbox 360",
+						"difficulty": "Easy",
+						"explanation": "The first game was originally published by Microsoft Game Studios as an exclusive for the Xbox 360.",
+						"image_url": "",
+						"question": "On which original platform did the first game in the series debut?",
+						"wrong": [
+							"PlayStation 2",
+							"Nintendo GameCube",
+							"Dreamcast"
+						]
+					},
+					{
+						"correct": "Project Lazarus",
+						"difficulty": "Medium",
+						"explanation": "Cerberus spent billions of credits and two years to reconstruct Shepard's body following the ship's destruction.",
+						"image_url": "",
+						"question": "Which project was responsible for bringing Shepard back to life after the destruction of the SR-1?",
+						"wrong": [
+							"Project Overlord",
+							"Project Firewalker",
+							"Project Chimera"
+						]
+					},
+					{
+						"correct": "Eden Prime",
+						"difficulty": "Medium",
+						"explanation": "Eden Prime was a beautiful human colony that served as the setting for the very first mission in the series.",
+						"image_url": "",
+						"question": "What is the name of the colony where Shepard first encounters a Prothean Beacon?",
+						"wrong": [
+							"Terra Nova",
+							"Feros",
+							"Horizon"
+						]
+					},
+					{
+						"correct": "Cerberus",
+						"difficulty": "Medium",
+						"explanation": "After being revived, Shepard partners with the pro-human group Cerberus to investigate disappearing human colonies.",
+						"image_url": "",
+						"question": "Which organization does Shepard reluctantly work for during the hunt for the Collectors?",
+						"wrong": [
+							"The Alliance",
+							"STG",
+							"Blue Suns"
+						]
+					},
+					{
+						"correct": "Paragon and Renegade",
+						"difficulty": "Medium",
+						"explanation": "Paragon actions are characterized by diplomacy and kindness, while Renegade actions are ruthless and direct.",
+						"image_url": "",
+						"question": "What are the two primary morality paths Shepard can follow?",
+						"wrong": [
+							"Light and Dark",
+							"Jedi and Sith",
+							"Good and Evil"
+						]
+					},
+					{
+						"correct": "Prejek Paddlefish",
+						"difficulty": "Medium",
+						"explanation": "The Prejek Paddlefish is a prized addition to Shepard's aquarium, though many players forget to feed them.",
+						"image_url": "",
+						"question": "What is the name of the Shepard's personal cabin fish that must be fed regularly?",
+						"wrong": [
+							"Koi",
+							"Goldfish",
+							"Space Guppy"
+						]
+					},
+					{
+						"correct": "SSV Orizaba",
+						"difficulty": "Hard",
+						"explanation": "If the player chooses the Spacer background, they can actually speak to Shepard's mother via a comm link.",
+						"image_url": "",
+						"question": "In the 'Spacer' background, what is the name of the ship where Shepard's mother, Hannah, serves?",
+						"wrong": [
+							"SSV Einstein",
+							"SSV Tokyo",
+							"SSV Everest"
+						]
+					},
+					{
+						"correct": "2154",
+						"difficulty": "Hard",
+						"explanation": "Shepard was born on April 11, 2154, making them 29 years old at the start of the first game.",
+						"image_url": "",
+						"question": "Which year was Shepard born according to Alliance records?",
+						"wrong": [
+							"2183",
+							"2077",
+							"2210"
+						]
+					},
+					{
+						"correct": "Akuze",
+						"difficulty": "Hard",
+						"explanation": "On the planet Akuze, an entire unit of fifty marines was slaughtered by Thresher Maws, leaving Shepard as the only survivor.",
+						"image_url": "",
+						"question": "What was the name of the tragic event where Shepard's unit was wiped out by Thresher Maws if the 'Sole Survivor' profile is chosen?",
+						"wrong": [
+							"Torfan",
+							"Elysium",
+							"Mindoir"
+						]
+					},
+					{
+						"correct": "The Skyllian Blitz",
+						"difficulty": "Hard",
+						"explanation": "During the Skyllian Blitz, Shepard single-handedly held off enemy forces at the colony of Elysium.",
+						"image_url": "",
+						"question": "Which historical event earned Shepard the 'War Hero' profile after defending a colony from batarian slavers?",
+						"wrong": [
+							"The First Contact War",
+							"The Eden Prime War",
+							"The Reaper War"
+						]
+					},
+					{
+						"correct": "Purgatory",
+						"difficulty": "Hard",
+						"explanation": "While Shepard can dance at several clubs, Purgatory is the major hub for dancing in the later games.",
+						"image_url": "",
+						"question": "What is the name of the nightclub on the Citadel where Shepard is famous for their awkward dancing?",
+						"wrong": [
+							"Afterlife",
+							"Chora's Den",
+							"Flux"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_commander_shepard",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Commander Shepard",
+				"lore_desc": "The first human Spectre and the commander of the SSV Normandy, Shepard is the hero who warns the galaxy of the Reaper threat.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Human",
+					"Spectre"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Turian",
+						"difficulty": "Easy",
+						"explanation": "Turians are the primary military force on the Citadel Council and are easily recognized by their metallic carapaces.",
+						"image_url": "https://skillcheckgame.com/assets/images/garrus_vakarian.webp",
+						"question": "Garrus belongs to which alien species, known for their rigid military culture?",
+						"wrong": [
+							"Krogan",
+							"Quarian",
+							"Batarian"
+						]
+					},
+					{
+						"correct": "Sniper Rifle",
+						"difficulty": "Easy",
+						"explanation": "Garrus is a legendary marksman who often takes a sniping position to support Shepard in combat.",
+						"image_url": "https://skillcheckgame.com/assets/images/garrus_vakarian.webp",
+						"question": "What is the signature weapon type that Garrus is most proficient with?",
+						"wrong": [
+							"Shotgun",
+							"Submachine Gun",
+							"Grenade Launcher"
+						]
+					},
+					{
+						"correct": "C-Sec",
+						"difficulty": "Easy",
+						"explanation": "Citadel Security (C-Sec) is the volunteer police force responsible for law enforcement on the station.",
+						"image_url": "https://skillcheckgame.com/assets/images/garrus_vakarian.webp",
+						"question": "What is the name of the police force on the Citadel that Garrus originally worked for?",
+						"wrong": [
+							"The Alliance",
+							"STG",
+							"Spectres"
+						]
+					},
+					{
+						"correct": "BioWare",
+						"difficulty": "Easy",
+						"explanation": "BioWare is the acclaimed studio also known for Dragon Age and Star Wars Knights of the Old Republic.",
+						"image_url": "",
+						"question": "What is the primary developer of the Mass Effect franchise?",
+						"wrong": [
+							"Bethesda",
+							"Ubisoft",
+							"Rockstar Games"
+						]
+					},
+					{
+						"correct": "The Milky Way",
+						"difficulty": "Easy",
+						"explanation": "The original trilogy takes place across our own galaxy, the Milky Way, connected by Mass Relays.",
+						"image_url": "",
+						"question": "Which of these is a sci-fi setting where the series takes place?",
+						"wrong": [
+							"Andromeda",
+							"Alpha Centauri",
+							"The Void"
+						]
+					},
+					{
+						"correct": "Archangel",
+						"difficulty": "Medium",
+						"explanation": "Garrus spent his time on Omega leading a team to take down the local mercenary groups, earning the name Archangel.",
+						"image_url": "",
+						"question": "When Shepard finds Garrus on Omega, what alias is he using while acting as a vigilante?",
+						"wrong": [
+							"Shadow Broker",
+							"The Ghost",
+							"The Punisher"
+						]
+					},
+					{
+						"correct": "Calibrations",
+						"difficulty": "Medium",
+						"explanation": "This became a fan-favorite meme, as Garrus is often found in the main battery doing 'calibrations' between missions.",
+						"image_url": "",
+						"question": "Garrus is famous for constantly telling Shepard he is in the middle of doing what to the ship's weapons?",
+						"wrong": [
+							"Cleaning",
+							"Upgrading",
+							"Painting"
+						]
+					},
+					{
+						"correct": "Palaven",
+						"difficulty": "Medium",
+						"explanation": "Palaven is known for its strong magnetic field, which influenced the evolution of the Turians' metallic skin.",
+						"image_url": "",
+						"question": "What is the name of the homeworld of the Turian people?",
+						"wrong": [
+							"Sur'Kesh",
+							"Thessia",
+							"Tuchanka"
+						]
+					},
+					{
+						"correct": "Sidonis",
+						"difficulty": "Medium",
+						"explanation": "Garrus tracks Sidonis down to avenge his fallen teammates during his loyalty mission.",
+						"image_url": "",
+						"question": "Which character betrayed Garrus's team on Omega, leading to their deaths?",
+						"wrong": [
+							"Harkin",
+							"Fist",
+							"Zaeed"
+						]
+					},
+					{
+						"correct": "Tactical Visor",
+						"difficulty": "Medium",
+						"explanation": "The visor helps Garrus with targeting and provides battlefield data in real-time.",
+						"image_url": "",
+						"question": "What distinctive tech item does Garrus wear over his left eye?",
+						"wrong": [
+							"Omni-tool",
+							"Scouter",
+							"Neural Link"
+						]
+					},
+					{
+						"correct": "Castis",
+						"difficulty": "Hard",
+						"explanation": "Castis Vakarian was a strict investigator who initially disapproved of Garrus joining Shepard.",
+						"image_url": "",
+						"question": "What was the name of Garrus's father, who was also a high-ranking officer in C-Sec?",
+						"wrong": [
+							"Saren",
+							"Nihlus",
+							"Desolas"
+						]
+					},
+					{
+						"correct": "Shoot bottles",
+						"difficulty": "Hard",
+						"explanation": "Garrus and Shepard engage in a friendly marksmanship competition, and the player can choose whether to let him win.",
+						"image_url": "",
+						"question": "In the 'Citadel' DLC, what does Garrus challenge Shepard to do at the top of the Presidium?",
+						"wrong": [
+							"Drink ryncol",
+							"Play chess",
+							"Race mako"
+						]
+					},
+					{
+						"correct": "Spectres",
+						"difficulty": "Hard",
+						"explanation": "Garrus's father hated Spectres and prevented Garrus from completing the training to become one.",
+						"image_url": "",
+						"question": "Garrus was a candidate for which elite group before his father forced him to withdraw?",
+						"wrong": [
+							"Justicars",
+							"N7",
+							"Blackwatch"
+						]
+					},
+					{
+						"correct": "Solana",
+						"difficulty": "Hard",
+						"explanation": "Solana is mentioned in conversations regarding the Reaper invasion of the Turian homeworld.",
+						"image_url": "",
+						"question": "What is the name of Garrus's sister?",
+						"wrong": [
+							"Liara",
+							"Vetra",
+							"Nyreen"
+						]
+					},
+					{
+						"correct": "Dr. Saleon",
+						"difficulty": "Hard",
+						"explanation": "Garrus spent years tracking Dr. Saleon, a geneticist who used his own employees as living organ vats.",
+						"image_url": "",
+						"question": "Which mercenary group's leader did Garrus notably execute or spare on the Citadel in the first game?",
+						"wrong": [
+							"Zaeed Massani",
+							"Urdnot Wrex",
+							"Balak"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_garrus_vakarian",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Garrus Vakarian",
+				"lore_desc": "A former C-Sec officer turned vigilante, Garrus is Shepard's most loyal friend and a crack shot with a sniper rifle.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Turian",
+					"Sniper",
+					"Companion"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Asari",
+						"difficulty": "Easy",
+						"explanation": "The Asari are a long-lived species known for their blue skin and natural biotic abilities.",
+						"image_url": "https://skillcheckgame.com/assets/images/liara_t'soni.webp",
+						"question": "Liara belongs to which mono-gendered alien species?",
+						"wrong": [
+							"Human",
+							"Quarian",
+							"Salarian"
+						]
+					},
+					{
+						"correct": "Biotics",
+						"difficulty": "Easy",
+						"explanation": "Biotics are individuals who can manipulate dark energy using element zero nodules in their bodies.",
+						"image_url": "https://skillcheckgame.com/assets/images/liara_t'soni.webp",
+						"question": "Liara possesses what kind of supernatural-like powers that allow her to manipulate mass?",
+						"wrong": [
+							"Magic",
+							"The Force",
+							"Alchemy"
+						]
+					},
+					{
+						"correct": "Archeologist",
+						"difficulty": "Easy",
+						"explanation": "Liara spent fifty years studying the extinction of the Protheans before joining Shepard.",
+						"image_url": "https://skillcheckgame.com/assets/images/liara_t'soni.webp",
+						"question": "What is Liara's original profession when Shepard first meets her?",
+						"wrong": [
+							"Soldier",
+							"Diplomat",
+							"Pilot"
+						]
+					},
+					{
+						"correct": "2000s",
+						"difficulty": "Easy",
+						"explanation": "Mass Effect was first released in 2007, defining the RPG landscape of that decade.",
+						"image_url": "",
+						"question": "In what decade was the first game of this franchise released?",
+						"wrong": [
+							"1990s",
+							"2010s",
+							"1980s"
+						]
+					},
+					{
+						"correct": "Mass Relays",
+						"difficulty": "Easy",
+						"explanation": "Mass Relays are ancient structures that allow near-instantaneous travel across vast distances of space.",
+						"image_url": "",
+						"question": "What is the primary way characters travel between star systems in this series?",
+						"wrong": [
+							"Warp Pipes",
+							"Stargates",
+							"Hyperlanes"
+						]
+					},
+					{
+						"correct": "The Shadow Broker",
+						"difficulty": "Medium",
+						"explanation": "After a showdown on Hagalaz, Liara assumes the mantle of the Shadow Broker to aid Shepard's war effort.",
+						"image_url": "",
+						"question": "Which mysterious information dealer's role does Liara eventually take over?",
+						"wrong": [
+							"The Illusive Man",
+							"Aria T'Loak",
+							"The Broker"
+						]
+					},
+					{
+						"correct": "Benezia",
+						"difficulty": "Medium",
+						"explanation": "Matriarch Benezia was indoctrinated by Saren and served as one of the primary antagonists in the first game.",
+						"image_url": "",
+						"question": "What is the name of Liara's mother, who was a high-ranking Asari Matriarch?",
+						"wrong": [
+							"Aethyta",
+							"Samara",
+							"Morinth"
+						]
+					},
+					{
+						"correct": "Therum",
+						"difficulty": "Medium",
+						"explanation": "Shepard rescues Liara from a mining facility on Therum while escaping a volcanic eruption.",
+						"image_url": "",
+						"question": "Where does Shepard first find Liara, trapped inside a Prothean security field?",
+						"wrong": [
+							"Feros",
+							"Noveria",
+							"Ilos"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "While they can have various shades, the most common skin tone for Asari is blue or teal.",
+						"image_url": "",
+						"question": "What color is the skin of most members of Liara's species?",
+						"wrong": [
+							"Green",
+							"Red",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Protheans",
+						"difficulty": "Medium",
+						"explanation": "The Protheans were the dominant race of the previous cycle and left behind technology that current races use.",
+						"image_url": "",
+						"question": "What is the name of the ancient alien race Liara has spent her life studying?",
+						"wrong": [
+							"Reapers",
+							"Inusannon",
+							"Thoi'han"
+						]
+					},
+					{
+						"correct": "Matriarch Aethyta",
+						"difficulty": "Hard",
+						"explanation": "Matriarch Aethyta is the bartender on Ilium and later the Citadel, though Liara is initially hesitant to acknowledge her.",
+						"image_url": "",
+						"question": "Who is revealed to be Liara's 'father' (the parent who provided the second set of DNA)?",
+						"wrong": [
+							"Captain Anderson",
+							"Saren",
+							"The Illusive Man"
+						]
+					},
+					{
+						"correct": "Maiden",
+						"difficulty": "Hard",
+						"explanation": "Asari life stages are Maiden (youth), Matron (middle-age), and Matriarch (elder).",
+						"image_url": "",
+						"question": "Liara is of what age 'category' for an Asari during the first game?",
+						"wrong": [
+							"Matron",
+							"Matriarch",
+							"Child"
+						]
+					},
+					{
+						"correct": "Glyph",
+						"difficulty": "Hard",
+						"explanation": "Glyph is a specialized VI drone that manages the Shadow Broker's massive influx of data.",
+						"image_url": "",
+						"question": "What is the name of Liara's small, round drone that assists her as the Shadow Broker?",
+						"wrong": [
+							"Chatter",
+							"Sparky",
+							"EDI"
+						]
+					},
+					{
+						"correct": "Thessia",
+						"difficulty": "Hard",
+						"explanation": "Thessia is the center of Asari culture and was believed to be a paradise before the Reaper invasion.",
+						"image_url": "",
+						"question": "Which planet is the homeworld of the Asari and the location of a secret Prothean beacon?",
+						"wrong": [
+							"Sur'Kesh",
+							"Irune",
+							"Dekuuna"
+						]
+					},
+					{
+						"correct": "106",
+						"difficulty": "Hard",
+						"explanation": "By Asari standards, 106 years is quite young, barely reaching the end of the Maiden stage.",
+						"image_url": "",
+						"question": "How old is Liara when she first joins Shepard's crew?",
+						"wrong": [
+							"24",
+							"50",
+							"250"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_liara_t'soni",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Liara T'Soni",
+				"lore_desc": "An Asari researcher specializing in Prothean archeology, Liara becomes one of Shepard's closest allies and the eventual Shadow Broker.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Asari",
+					"Biotic",
+					"Scientist"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Quarian",
+						"difficulty": "Easy",
+						"explanation": "Quarians have weak immune systems and must wear protective suits to survive outside their sterile ships.",
+						"image_url": "https://skillcheckgame.com/assets/images/tali'zorah.webp",
+						"question": "Tali belongs to which nomadic species that must wear environmental suits at all times?",
+						"wrong": [
+							"Turian",
+							"Elcor",
+							"Volus"
+						]
+					},
+					{
+						"correct": "Geth",
+						"difficulty": "Easy",
+						"explanation": "The Geth were created as laborers but became self-aware, leading to a war that exiled the Quarians.",
+						"image_url": "https://skillcheckgame.com/assets/images/tali'zorah.webp",
+						"question": "What kind of machine race did the Quarians create, only to have them rebel?",
+						"wrong": [
+							"Reapers",
+							"Cylons",
+							"Sentinels"
+						]
+					},
+					{
+						"correct": "The Migrant Fleet",
+						"difficulty": "Easy",
+						"explanation": "Also known as the Flotilla, it consists of over 50,000 ships housing the entire Quarian population.",
+						"image_url": "https://skillcheckgame.com/assets/images/tali'zorah.webp",
+						"question": "What is the name of the massive fleet of ships that the Quarians live on?",
+						"wrong": [
+							"The Citadel Fleet",
+							"The Alliance Navy",
+							"The Armada"
+						]
+					},
+					{
+						"correct": "Third Person",
+						"difficulty": "Easy",
+						"explanation": "The game uses a third-person 'over-the-shoulder' camera perspective for both exploration and combat.",
+						"image_url": "",
+						"question": "In what perspective is the Mass Effect series played?",
+						"wrong": [
+							"First Person",
+							"Top Down",
+							"Side Scrolling"
+						]
+					},
+					{
+						"correct": "The Normandy",
+						"difficulty": "Easy",
+						"explanation": "The SSV Normandy is the high-tech frigate that serves as the player's mobile base of operations.",
+						"image_url": "",
+						"question": "What is the name of the primary ship the player uses in the games?",
+						"wrong": [
+							"The Enterprise",
+							"The Falcon",
+							"The Ebon Hawk"
+						]
+					},
+					{
+						"correct": "The Pilgrimage",
+						"difficulty": "Medium",
+						"explanation": "Tali was on her Pilgrimage to find something of value for the Fleet when she first met Shepard.",
+						"image_url": "",
+						"question": "What is the name of the rite of passage that Quarians undertake to prove their worth to the fleet?",
+						"wrong": [
+							"The Trial",
+							"The Ascension",
+							"The Crossing"
+						]
+					},
+					{
+						"correct": "Engineering",
+						"difficulty": "Medium",
+						"explanation": "Tali is one of the best engineers in the galaxy, capable of hacking AI and deploying combat drones.",
+						"image_url": "",
+						"question": "What is Tali's specialty in combat and tech?",
+						"wrong": [
+							"Sniping",
+							"Biotic Blasts",
+							"Heavy Weapons"
+						]
+					},
+					{
+						"correct": "Rael'Zorah",
+						"difficulty": "Medium",
+						"explanation": "Rael'Zorah was the Admiral of the Rayya and was involved in controversial experiments with Geth technology.",
+						"image_url": "",
+						"question": "What is the name of Tali's father, who was a high-ranking Admiral?",
+						"wrong": [
+							"Hanon'Zorah",
+							"Shala'Raan",
+							"Han'Gerrel"
+						]
+					},
+					{
+						"correct": "Rannoch",
+						"difficulty": "Medium",
+						"explanation": "Rannoch is a desert-like planet that Quarians long to reclaim from the Geth.",
+						"image_url": "",
+						"question": "Which planet was the original homeworld of the Quarians before the Geth took it over?",
+						"wrong": [
+							"Thessia",
+							"Tuchanka",
+							"Illium"
+						]
+					},
+					{
+						"correct": "Tali'Zorah vas Normandy",
+						"difficulty": "Medium",
+						"explanation": "The 'vas' designation indicates the ship a Quarian currently serves on, while 'nar' indicates their birth ship.",
+						"image_url": "",
+						"question": "What is the full name Tali takes after joining the crew of Shepard's ship in the second game?",
+						"wrong": [
+							"Tali'Zorah nar Rayya",
+							"Tali'Zorah vas Qwib Qwib",
+							"Tali'Zorah nar Normandy"
+						]
+					},
+					{
+						"correct": "The Rayya",
+						"difficulty": "Hard",
+						"explanation": "Tali's full original name was Tali'Zorah nar Rayya, indicating her birth on the agricultural vessel.",
+						"image_url": "",
+						"question": "What was the name of the ship Tali was born on?",
+						"wrong": [
+							"The Neema",
+							"The Alarei",
+							"The Qwib Qwib"
+						]
+					},
+					{
+						"correct": "Shala'Raan vas Tonbay",
+						"difficulty": "Hard",
+						"explanation": "Admiral Shala'Raan presided over Tali's trial and looked after her after her father's death.",
+						"image_url": "",
+						"question": "What is the name of the Admiral who is a close family friend and acting aunt to Tali?",
+						"wrong": [
+							"Daro'Xen",
+							"Han'Gerrel",
+							"Zaal'Koris"
+						]
+					},
+					{
+						"correct": "Treason",
+						"difficulty": "Hard",
+						"explanation": "She is accused of sending active Geth parts to her father's ship, leading to a Geth outbreak.",
+						"image_url": "",
+						"question": "Tali is accused of what crime during the events of the second game?",
+						"wrong": [
+							"Murder",
+							"Theft",
+							"Smuggling"
+						]
+					},
+					{
+						"correct": "The Alarei",
+						"difficulty": "Hard",
+						"explanation": "Shepard and Tali must board the Alarei to clear the Geth and find evidence for her trial.",
+						"image_url": "",
+						"question": "What is the name of the ship where Tali's father conducted his experiments and eventually died?",
+						"wrong": [
+							"The Rayya",
+							"The Neema",
+							"The Moreh"
+						]
+					},
+					{
+						"correct": "Javik",
+						"difficulty": "Hard",
+						"explanation": "The Prothean Javik makes this observation, noting the specific biology of the Quarian people.",
+						"image_url": "",
+						"question": "Which character in the game mentions that Quarian sweat smells like 'burnt sage'?",
+						"wrong": [
+							"Shepard",
+							"Garrus",
+							"Mordin"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_tali'zorah",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Tali'Zorah",
+				"lore_desc": "A brilliant Quarian engineer on her Pilgrimage, Tali is an expert in technology and Geth behavior.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Quarian",
+					"Engineer",
+					"Companion"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Krogan",
+						"difficulty": "Easy",
+						"explanation": "Krogans are known for their physical resilience, redundant organs, and history of galactic warfare.",
+						"image_url": "https://skillcheckgame.com/assets/images/urdnot_wrex.webp",
+						"question": "Wrex is a member of what tough, warlike alien species?",
+						"wrong": [
+							"Vorcha",
+							"Turian",
+							"Elcor"
+						]
+					},
+					{
+						"correct": "The Genophage",
+						"difficulty": "Easy",
+						"explanation": "The Genophage was created by the Salarians to keep the Krogan population in check after the Krogan Rebellions.",
+						"image_url": "https://skillcheckgame.com/assets/images/urdnot_wrex.webp",
+						"question": "What is the name of the biological weapon that severely limits the Krogan birth rate?",
+						"wrong": [
+							"The Plague",
+							"The Red Sands",
+							"The Blight"
+						]
+					},
+					{
+						"correct": "Tuchanka",
+						"difficulty": "Easy",
+						"explanation": "Tuchanka was devastated by nuclear war and later the Reaper invasion, but remains the heart of Krogan culture.",
+						"image_url": "https://skillcheckgame.com/assets/images/urdnot_wrex.webp",
+						"question": "What is the name of the Krogan homeworld, a radioactive wasteland?",
+						"wrong": [
+							"Sur'Kesh",
+							"Sur'Kesh",
+							"Khar'shan"
+						]
+					},
+					{
+						"correct": "BioWare",
+						"difficulty": "Easy",
+						"explanation": "BioWare developed the original trilogy, which is often cited as one of the greatest sci-fi epics in gaming.",
+						"image_url": "",
+						"question": "Which of these is the primary developer of the Mass Effect trilogy?",
+						"wrong": [
+							"Square Enix",
+							"Bungie",
+							"Valve"
+						]
+					},
+					{
+						"correct": "C-Sec",
+						"difficulty": "Easy",
+						"explanation": "Citadel Security (C-Sec) provides law enforcement and docking services for the Citadel station.",
+						"image_url": "",
+						"question": "What is the term for the people who are essentially the 'police' of the galaxy in this series?",
+						"wrong": [
+							"Jedi",
+							"Guardians",
+							"Arbiters"
+						]
+					},
+					{
+						"correct": "Urdnot",
+						"difficulty": "Medium",
+						"explanation": "Clan Urdnot becomes the most powerful clan on Tuchanka under Wrex's leadership.",
+						"image_url": "",
+						"question": "What is Wrex's clan name?",
+						"wrong": [
+							"Weyrloc",
+							"Gatatog",
+							"Nakmor"
+						]
+					},
+					{
+						"correct": "Virmire",
+						"difficulty": "Medium",
+						"explanation": "Shepard must convince Wrex to stand down on Virmire, or else Wrex (or Shepard) may not survive the encounter.",
+						"image_url": "",
+						"question": "On which planet does Wrex have a famous standoff with Shepard over the potential Genophage cure?",
+						"wrong": [
+							"Noveria",
+							"Feros",
+							"Ilos"
+						]
+					},
+					{
+						"correct": "Battlemaster",
+						"difficulty": "Medium",
+						"explanation": "Krogan Battlemasters are rare and feared individuals who possess both immense physical strength and biotic power.",
+						"image_url": "",
+						"question": "What combat role does Wrex occupy, combining biotic abilities with heavy weapons?",
+						"wrong": [
+							"Vanguard",
+							"Sentinel",
+							"Justicar"
+						]
+					},
+					{
+						"correct": "Shotgun",
+						"difficulty": "Medium",
+						"explanation": "Wrex is devastating with a shotgun, often using the Claymore or the Scimitar to blast through enemies.",
+						"image_url": "",
+						"question": "What is Wrex's primary weapon of choice in close-quarters combat?",
+						"wrong": [
+							"Sniper Rifle",
+							"Pistol",
+							"Assault Rifle"
+						]
+					},
+					{
+						"correct": "Leader of Clan Urdnot",
+						"difficulty": "Medium",
+						"explanation": "Wrex returns to Tuchanka to unite the disparate clans and drag his people into a better future.",
+						"image_url": "",
+						"question": "What does Wrex become after the events of the first game if he survives?",
+						"wrong": [
+							"A Spectre",
+							"A Shadow Broker agent",
+							"A C-Sec officer"
+						]
+					},
+					{
+						"correct": "Jarrod",
+						"difficulty": "Hard",
+						"explanation": "Wrex's father, Jarrod, lured him to a sacred burial ground to assassinate him, but Wrex killed him instead.",
+						"image_url": "",
+						"question": "Who was Wrex's father, who tried to have him killed during a parley?",
+						"wrong": [
+							"Gatatog Uvenk",
+							"Fortack",
+							"Dreven"
+						]
+					},
+					{
+						"correct": "Eve",
+						"difficulty": "Hard",
+						"explanation": "While her real name is Bakara, the crew of the Normandy gives her the codename Eve.",
+						"image_url": "",
+						"question": "What is the name of the ancient Krogan female who is key to the Genophage cure?",
+						"wrong": [
+							"Bakara",
+							"Urdnot Bakara",
+							"The Shaman"
+						]
+					},
+					{
+						"correct": "Kalros",
+						"difficulty": "Hard",
+						"explanation": "Kalros is the Mother of all Thresher Maws and is used by the Krogan to defeat a Reaper on Tuchanka.",
+						"image_url": "",
+						"question": "Which monster must Shepard and Wrex defeat on Tuchanka to prove their strength?",
+						"wrong": [
+							"Thresher Maw",
+							"Hydra",
+							"Gresher"
+						]
+					},
+					{
+						"correct": "The Rite of Passage",
+						"difficulty": "Hard",
+						"explanation": "Shepard can actually help another Krogan, Grunt, complete this rite by fighting off waves of enemies and a Thresher Maw.",
+						"image_url": "",
+						"question": "What is the name of the ritual Krogan must complete to become full adults?",
+						"wrong": [
+							"The Blood Trail",
+							"The Crucible",
+							"The Krogan Trials"
+						]
+					},
+					{
+						"correct": "Uvenk",
+						"difficulty": "Hard",
+						"explanation": "Gatatog Uvenk is a traditionalist who opposes Wrex's vision for a reformed Krogan society.",
+						"image_url": "",
+						"question": "What is the name of the Krogan who challenges Wrex's leadership in the second game?",
+						"wrong": [
+							"Wreav",
+							"Fortack",
+							"Charr"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_urdnot_wrex",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Urdnot Wrex",
+				"lore_desc": "A grizzled Krogan mercenary and Battlemaster, Wrex seeks to unite his people and find a cure for the Genophage.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Krogan",
+					"Mercenary",
+					"Companion"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "SSV Normandy SR-1",
+						"difficulty": "Easy",
+						"explanation": "The SSV Normandy SR-1 was a prototype stealth frigate co-developed by the Alliance and the Turian Hierarchy.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_normandy.webp",
+						"question": "What is the full name of the original ship given to Shepard by the Alliance?",
+						"wrong": [
+							"SSV Enterprise",
+							"SSV Destiny",
+							"SSV Voyager"
+						]
+					},
+					{
+						"correct": "Joker",
+						"difficulty": "Easy",
+						"explanation": "Jeff 'Joker' Moreau is considered the best pilot in the Alliance, despite suffering from Vrolik's syndrome (brittle bone disease).",
+						"image_url": "https://skillcheckgame.com/assets/images/the_normandy.webp",
+						"question": "Who is the primary pilot of the Normandy throughout the trilogy?",
+						"wrong": [
+							"Kaidan",
+							"Cortez",
+							"Traynor"
+						]
+					},
+					{
+						"correct": "EDI",
+						"difficulty": "Easy",
+						"explanation": "EDI (Enhanced Defense Intelligence) starts as the ship's computer and later gains a physical body.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_normandy.webp",
+						"question": "What is the name of the advanced AI that eventually inhabits the Normandy SR-2?",
+						"wrong": [
+							"Siri",
+							"Cortana",
+							"Geth"
+						]
+					},
+					{
+						"correct": "Electronic Arts",
+						"difficulty": "Easy",
+						"explanation": "While the first game was published by Microsoft, EA published the sequels and the Legendary Edition.",
+						"image_url": "",
+						"question": "Which of these is the main publisher of the Mass Effect trilogy?",
+						"wrong": [
+							"Nintendo",
+							"Sony",
+							"Activision"
+						]
+					},
+					{
+						"correct": "Mako",
+						"difficulty": "Easy",
+						"explanation": "The M35 Mako is a six-wheeled infantry fighting vehicle capable of handling extreme terrain.",
+						"image_url": "",
+						"question": "In the game, what do you use to explore planet surfaces?",
+						"wrong": [
+							"Warthog",
+							"Speeder",
+							"Hovercraft"
+						]
+					},
+					{
+						"correct": "Cerberus",
+						"difficulty": "Medium",
+						"explanation": "After the SR-1 was destroyed, Cerberus built the larger and more powerful SR-2 for Shepard's mission against the Collectors.",
+						"image_url": "",
+						"question": "Which organization built the Normandy SR-2?",
+						"wrong": [
+							"The Alliance",
+							"The Council",
+							"The Geth"
+						]
+					},
+					{
+						"correct": "Internal Heat Sinks",
+						"difficulty": "Medium",
+						"explanation": "The ship traps its own heat emissions within internal sinks, making it invisible to thermal sensors.",
+						"image_url": "",
+						"question": "What unique stealth technology does the Normandy use to avoid detection?",
+						"wrong": [
+							"Invisibility Cloak",
+							"Optical Camouflage",
+							"Warp Jamming"
+						]
+					},
+					{
+						"correct": "Garrus Vakarian",
+						"difficulty": "Medium",
+						"explanation": "Garrus spends most of his time in the main battery room of the Normandy SR-2.",
+						"image_url": "",
+						"question": "What is the name of the ship's main battery commander who is often busy with 'calibrations'?",
+						"wrong": [
+							"Wrex",
+							"Grunt",
+							"Zaeed"
+						]
+					},
+					{
+						"correct": "Deck 1",
+						"difficulty": "Medium",
+						"explanation": "The captain's cabin is located on the top deck, featuring a bed, an aquarium, and a music player.",
+						"image_url": "",
+						"question": "In which deck of the Normandy SR-2 can you find Shepard's private quarters?",
+						"wrong": [
+							"Deck 2",
+							"Deck 3",
+							"Deck 4"
+						]
+					},
+					{
+						"correct": "Mess Sergeant Gardner",
+						"difficulty": "Medium",
+						"explanation": "Gardner is responsible for feeding the crew and cleaning the toilets, often complaining about the quality of ingredients.",
+						"image_url": "",
+						"question": "What is the name of the Normandy's cook in the second game?",
+						"wrong": [
+							"Chef Ramsay",
+							"Cook Henderson",
+							"Sergeant Ruiz"
+						]
+					},
+					{
+						"correct": "Stealth Reconnaissance",
+						"difficulty": "Hard",
+						"explanation": "The classification highlights the ship's primary purpose: sneaking into hostile territory to gather intel.",
+						"image_url": "",
+						"question": "What does the 'SR' in Normandy SR-1 stand for?",
+						"wrong": [
+							"Space Rocket",
+							"Special Ranger",
+							"Speed Runner"
+						]
+					},
+					{
+						"correct": "Tantalus Drive Core",
+						"difficulty": "Hard",
+						"explanation": "The Tantalus core is oversized for a ship of the Normandy's size, providing its stealth and speed capabilities.",
+						"image_url": "",
+						"question": "What is the name of the drive core used in the original Normandy?",
+						"wrong": [
+							"Odyssey Drive",
+							"Icarus Core",
+							"Phoenix Reactor"
+						]
+					},
+					{
+						"correct": "Captain David Anderson",
+						"difficulty": "Hard",
+						"explanation": "Anderson stepped down to allow Shepard to become the first human Spectre and lead the mission against Saren.",
+						"image_url": "",
+						"question": "Who was the original commanding officer of the Normandy SR-1 before Shepard took over?",
+						"wrong": [
+							"Admiral Hackett",
+							"Commander Presley",
+							"Captain Kirrahe"
+						]
+					},
+					{
+						"correct": "Elanus Risk Control",
+						"difficulty": "Hard",
+						"explanation": "Elanus Risk Control Services is a major manufacturer of military hardware in the Mass Effect universe.",
+						"image_url": "",
+						"question": "Which company manufactured the shuttle used by the Normandy SR-2, the UT-47 Kodiak?",
+						"wrong": [
+							"Alliance Shipworks",
+							"Ariane",
+							"Hahne-Kedar"
+						]
+					},
+					{
+						"correct": "Samantha Traynor",
+						"difficulty": "Hard",
+						"explanation": "Traynor is a communications specialist who is also an expert at the strategy game 'Galaxy of Fantasy'.",
+						"image_url": "",
+						"question": "What is the name of the yeoman who assists Shepard on the Normandy SR-2 in the third game?",
+						"wrong": [
+							"Kelly Chambers",
+							"Ashley Williams",
+							"Liara T'Soni"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_the_normandy",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Normandy",
+				"lore_desc": "A cutting-edge stealth frigate, the Normandy serves as the home and mobile base for Shepard and their crew.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ship",
+					"Vehicle",
+					"Alliance"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Citadel Council",
+						"difficulty": "Easy",
+						"explanation": "The Council is composed of representatives from the most powerful species in the galaxy.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_citadel.webp",
+						"question": "What is the name of the governing body that meets on the Citadel?",
+						"wrong": [
+							"The Galactic Senate",
+							"The High Command",
+							"The United Nations"
+						]
+					},
+					{
+						"correct": "Keepers",
+						"difficulty": "Easy",
+						"explanation": "Keepers are bio-engineered creatures that perform maintenance on the station but cannot be communicated with.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_citadel.webp",
+						"question": "What are the small, mysterious green creatures that maintain the Citadel's systems?",
+						"wrong": [
+							"Vorcha",
+							"Geth",
+							"Hanar"
+						]
+					},
+					{
+						"correct": "The Presidium",
+						"difficulty": "Easy",
+						"explanation": "The Presidium is a ring of luxury and government, featuring artificial sunlight and meticulously maintained gardens.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_citadel.webp",
+						"question": "What is the name of the beautiful, park-like area where the elite live and the Council resides?",
+						"wrong": [
+							"The Wards",
+							"The Slums",
+							"The Commons"
+						]
+					},
+					{
+						"correct": "The Normandy",
+						"difficulty": "Easy",
+						"explanation": "The Normandy is often docked at the Citadel's high-security Alliance docks.",
+						"image_url": "",
+						"question": "What is the name of the primary protagonist's ship docked at the Citadel?",
+						"wrong": [
+							"The Destiny Ascension",
+							"The Rayya",
+							"The Shadow Broker Base"
+						]
+					},
+					{
+						"correct": "Humans",
+						"difficulty": "Easy",
+						"explanation": "Humans only recently arrived on the galactic scene and must prove themselves to earn a seat on the Council.",
+						"image_url": "",
+						"question": "Which race is NOT an original member of the Citadel Council?",
+						"wrong": [
+							"Asari",
+							"Turians",
+							"Salarians"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Medium",
+						"explanation": "The station has five massive wards that extend from the central Presidium ring.",
+						"image_url": "",
+						"question": "The Citadel consists of a central ring and how many massive 'arms' or petals?",
+						"wrong": [
+							"Three",
+							"Seven",
+							"Four"
+						]
+					},
+					{
+						"correct": "The Wards",
+						"difficulty": "Medium",
+						"explanation": "The Wards are much more crowded and industrial than the Presidium, housing millions of residents.",
+						"image_url": "",
+						"question": "What is the name of the commercial and residential districts located on the Citadel's arms?",
+						"wrong": [
+							"The Slums",
+							"The Industrial Zone",
+							"The Outer Rim"
+						]
+					},
+					{
+						"correct": "It is a massive Mass Relay",
+						"difficulty": "Medium",
+						"explanation": "The Citadel is actually a dormant Mass Relay that leads to dark space, where the Reapers reside.",
+						"image_url": "",
+						"question": "What secret function is the Citadel revealed to have at the end of the first game?",
+						"wrong": [
+							"It is a Reaper",
+							"It is a black hole",
+							"It is a bomb"
+						]
+					},
+					{
+						"correct": "Avina",
+						"difficulty": "Medium",
+						"explanation": "Avina is a Virtual Intelligence (VI) that appears as a holographic Asari to guide visitors.",
+						"image_url": "",
+						"question": "What is the name of the artificial intelligence that manages the Citadel's functions?",
+						"wrong": [
+							"EDI",
+							"The Keeper",
+							"The Catalyst"
+						]
+					},
+					{
+						"correct": "Volus",
+						"difficulty": "Medium",
+						"explanation": "The Volus are the masters of the galactic economy and were responsible for the Unified Banking Act.",
+						"image_url": "",
+						"question": "Which species is known for their commercial focus and can be found running many shops on the Citadel?",
+						"wrong": [
+							"Elcor",
+							"Hanar",
+							"Batarian"
+						]
+					},
+					{
+						"correct": "The Reapers",
+						"difficulty": "Hard",
+						"explanation": "While the galaxy believed the Protheans built them, the Reapers created them to guide civilization along specific paths.",
+						"image_url": "",
+						"question": "What is the true origin of the Citadel and the Mass Relays?",
+						"wrong": [
+							"The Protheans",
+							"The Leviathans",
+							"The Asari"
+						]
+					},
+					{
+						"correct": "Chora's Den",
+						"difficulty": "Hard",
+						"explanation": "Chora's Den is a seedy club in the Wards where Shepard first encounters Tali.",
+						"image_url": "",
+						"question": "What is the name of the nightclub on the Citadel owned by the criminal Fist in the first game?",
+						"wrong": [
+							"Flux",
+							"Afterlife",
+							"Purgatory"
+						]
+					},
+					{
+						"correct": "Silversun Strip",
+						"difficulty": "Hard",
+						"explanation": "The Silversun Strip is an entertainment district featuring an arcade, a casino, and Shepard's luxury apartment.",
+						"image_url": "",
+						"question": "In the 'Citadel' DLC, Shepard's apartment is located in which area?",
+						"wrong": [
+							"Zakera Ward",
+							"Killarney Street",
+							"Bachelor's Row"
+						]
+					},
+					{
+						"correct": "Destiny Ascension",
+						"difficulty": "Hard",
+						"explanation": "The Destiny Ascension is an Asari dreadnought that Shepard can choose to save or sacrifice during the Battle of the Citadel.",
+						"image_url": "",
+						"question": "What is the name of the massive Alliance dreadnought that serves as the flagship of the Citadel fleet?",
+						"wrong": [
+							"SSV Everest",
+							"The Kilimanjaro",
+							"The Sovereign"
+						]
+					},
+					{
+						"correct": "13 million",
+						"difficulty": "Hard",
+						"explanation": "The station is a massive city in space, housing approximately 13.2 million individuals from across the galaxy.",
+						"image_url": "",
+						"question": "What is the total population of the Citadel according to in-game lore?",
+						"wrong": [
+							"1 million",
+							"50 million",
+							"500,000"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_the_citadel",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Citadel",
+				"lore_desc": "The massive space station that serves as the political, cultural, and financial capital of the galactic community.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Space Station",
+					"Council",
+					"Hub"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Harvesting life",
+						"difficulty": "Easy",
+						"explanation": "The Reapers return every 50,000 years to 'harvest' organic civilizations to preserve them in machine form.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_reapers.webp",
+						"question": "What is the primary goal of the Reapers in the galaxy?",
+						"wrong": [
+							"Colonization",
+							"Exploration",
+							"Resource mining"
+						]
+					},
+					{
+						"correct": "Sovereign",
+						"difficulty": "Easy",
+						"explanation": "Sovereign was the Reaper left behind to ensure the next cycle began, acting through Saren Arterius.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_reapers.webp",
+						"question": "What is the name of the first Reaper Shepard encounters on Virmire?",
+						"wrong": [
+							"Harbinger",
+							"Slacker",
+							"Vanguard"
+						]
+					},
+					{
+						"correct": "Indoctrination",
+						"difficulty": "Easy",
+						"explanation": "Indoctrination is a subtle process of manipulation that slowly turns individuals into loyal servants of the Reapers.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_reapers.webp",
+						"question": "What is the process by which Reapers take control of an organic mind?",
+						"wrong": [
+							"Brainwashing",
+							"Mind Melding",
+							"Hacking"
+						]
+					},
+					{
+						"correct": "PlayStation 3",
+						"difficulty": "Easy",
+						"explanation": "The sequels were multi-platform, appearing on Xbox 360, PC, and PlayStation 3.",
+						"image_url": "",
+						"question": "What is the primary platform on which Mass Effect 2 and 3 were also released?",
+						"wrong": [
+							"PlayStation 2",
+							"Nintendo Wii",
+							"Sega Genesis"
+						]
+					},
+					{
+						"correct": "Systems Alliance",
+						"difficulty": "Easy",
+						"explanation": "The Systems Alliance is the representative body of humanity in space and its primary military wing.",
+						"image_url": "",
+						"question": "What is the name of the elite human military group Shepard belongs to?",
+						"wrong": [
+							"Global Guard",
+							"Space Force",
+							"Earth Legion"
+						]
+					},
+					{
+						"correct": "Harbinger",
+						"difficulty": "Medium",
+						"explanation": "Harbinger is the oldest and largest Reaper, often speaking directly through the Collector General.",
+						"image_url": "",
+						"question": "Which Reaper acts as the primary antagonist of the second game, controlling the Collectors?",
+						"wrong": [
+							"Sovereign",
+							"Destroyer",
+							"Nazara"
+						]
+					},
+					{
+						"correct": "Dark Space",
+						"difficulty": "Medium",
+						"explanation": "Dark Space is the vast, empty area between galaxies where the Reapers wait for the next cycle.",
+						"image_url": "",
+						"question": "Where do the Reapers reside during their thousands of years of dormancy?",
+						"wrong": [
+							"The Galactic Core",
+							"The Void",
+							"The Terminus Systems"
+						]
+					},
+					{
+						"correct": "The Crucible",
+						"difficulty": "Medium",
+						"explanation": "The Crucible is a massive Prothean-designed device intended to destroy the Reapers once and for all.",
+						"image_url": "",
+						"question": "What is the name of the massive Reaper super-weapon being built in the third game?",
+						"wrong": [
+							"The Catalyst",
+							"The Citadel",
+							"The Halo"
+						]
+					},
+					{
+						"correct": "Husks",
+						"difficulty": "Medium",
+						"explanation": "Husks are humans (or other species) who have been impaled on 'Dragon's Teeth' spikes and converted into cybernetic slaves.",
+						"image_url": "",
+						"question": "What are the ground troops of the Reapers called, which are husks of former organic beings?",
+						"wrong": [
+							"Zombies",
+							"Ghouls",
+							"Thralls"
+						]
+					},
+					{
+						"correct": "Harvested species",
+						"difficulty": "Medium",
+						"explanation": "Each Reaper is essentially a nation of a single species preserved in machine form.",
+						"image_url": "",
+						"question": "Reapers are constructed from the processed genetic material of what?",
+						"wrong": [
+							"Pure element zero",
+							"Ancient metals",
+							"Dark matter"
+						]
+					},
+					{
+						"correct": "The Leviathans",
+						"difficulty": "Hard",
+						"explanation": "The Leviathans were a race of giant aquatic telepaths who created the Intelligence to solve the conflict between creators and their machines.",
+						"image_url": "",
+						"question": "What was the original species that created the Reapers to solve the organic-synthetic conflict?",
+						"wrong": [
+							"The Protheans",
+							"The Inusannon",
+							"The Zha'til"
+						]
+					},
+					{
+						"correct": "Human-Reaper Larva",
+						"difficulty": "Hard",
+						"explanation": "The Collectors were kidnapping thousands of humans to liquify them and create a new Reaper in human likeness.",
+						"image_url": "",
+						"question": "What is the name of the Reaper-human hybrid being constructed at the Collector Base?",
+						"wrong": [
+							"The Prototype",
+							"The Shepard Clone",
+							"The Harbinger spawn"
+						]
+					},
+					{
+						"correct": "They have no name",
+						"difficulty": "Hard",
+						"explanation": "Sovereign tells Shepard: 'Reaper: a label created by the Protheans to give shape to their fears. In the end, we simply are.'",
+						"image_url": "",
+						"question": "According to Sovereign, what is his species' actual name for themselves?",
+						"wrong": [
+							"The Reapers",
+							"The Gods",
+							"The Eternal Ones"
+						]
+					},
+					{
+						"correct": "Sovereign",
+						"difficulty": "Hard",
+						"explanation": "Legion reveals that the Geth referred to Sovereign as Nazara before its destruction.",
+						"image_url": "",
+						"question": "Which Reaper was known as 'Nazara' by the Geth?",
+						"wrong": [
+							"Harbinger",
+							"Destroyer",
+							"The Beast"
+						]
+					},
+					{
+						"correct": "The Catalyst",
+						"difficulty": "Hard",
+						"explanation": "The Catalyst is the collective intelligence of the Reapers, taking the form of the child Shepard failed to save on Earth.",
+						"image_url": "",
+						"question": "What is the name of the AI entity that controls the Reapers and appears as a child in Shepard's visions?",
+						"wrong": [
+							"The Intelligence",
+							"The Reaper King",
+							"The Master"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_the_reapers",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Reapers",
+				"lore_desc": "Sentient machines that harvest all advanced organic life in the galaxy every 50,000 years.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Synthetic",
+					"Ancient"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Six",
+						"difficulty": "Easy",
+						"explanation": "The Mako features six independently suspended wheels that allow it to traverse nearly any terrain.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mako.webp",
+						"question": "How many wheels does the M35 Mako have?",
+						"wrong": [
+							"Four",
+							"Eight",
+							"Two"
+						]
+					},
+					{
+						"correct": "Mass Accelerator Cannon",
+						"difficulty": "Easy",
+						"explanation": "The Mako's turret features a 155mm mass accelerator cannon and a coaxial machine gun.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mako.webp",
+						"question": "What is the main weapon mounted on the top of the Mako?",
+						"wrong": [
+							"Laser Beam",
+							"Flamethrower",
+							"Nuke"
+						]
+					},
+					{
+						"correct": "The Normandy",
+						"difficulty": "Easy",
+						"explanation": "The Mako is stored in the Normandy's cargo bay and dropped onto planetary surfaces via a shuttle or directly from the bay.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mako.webp",
+						"question": "Which ship is the Mako typically deployed from?",
+						"wrong": [
+							"The Enterprise",
+							"The Destiny Ascension",
+							"The Rayya"
+						]
+					},
+					{
+						"correct": "BioWare",
+						"difficulty": "Easy",
+						"explanation": "BioWare returned to remaster the original trilogy for modern consoles and PC in 2021.",
+						"image_url": "",
+						"question": "Which developer is responsible for the 'Legendary Edition' remaster?",
+						"wrong": [
+							"Bluepoint Games",
+							"Vicarious Visions",
+							"Panic Button"
+						]
+					},
+					{
+						"correct": "Minerals",
+						"difficulty": "Easy",
+						"explanation": "Players use the Mako to reach mineral deposits and Prothean artifacts on uncharted worlds.",
+						"image_url": "",
+						"question": "In the game, what resource do you often collect using the Mako?",
+						"wrong": [
+							"Gold",
+							"Wood",
+							"Oil"
+						]
+					},
+					{
+						"correct": "Unpredictable physics",
+						"difficulty": "Medium",
+						"explanation": "The Mako's handling and tendency to bounce or climb near-vertical cliffs became a legendary part of the first game's identity.",
+						"image_url": "",
+						"question": "The Mako is notorious among fans for what specific gameplay behavior?",
+						"wrong": [
+							"Being too slow",
+							"Having no weapons",
+							"Always running out of fuel"
+						]
+					},
+					{
+						"correct": "Garrus Vakarian",
+						"difficulty": "Medium",
+						"explanation": "Garrus often quips about Shepard's driving or the vehicle's lack of comfort during planetary missions.",
+						"image_url": "",
+						"question": "Which character famously complains about the Mako's suspension after a bumpy ride?",
+						"wrong": [
+							"Ashley Williams",
+							"Urdnot Wrex",
+							"Liara T'Soni"
+						]
+					},
+					{
+						"correct": "Thrusters",
+						"difficulty": "Medium",
+						"explanation": "The Mako is equipped with small element zero-powered thrusters that can be used to soften landings or jump over obstacles.",
+						"image_url": "",
+						"question": "What feature allows the Mako to survive drops from great heights?",
+						"wrong": [
+							"Parachute",
+							"Anti-gravity",
+							"Magnetic boots"
+						]
+					},
+					{
+						"correct": "Geth",
+						"difficulty": "Medium",
+						"explanation": "Geth Armatures and Colossi are common armored threats encountered during Mako exploration.",
+						"image_url": "",
+						"question": "Which alien species' soldiers do you frequently fight while driving the Mako?",
+						"wrong": [
+							"Vorcha",
+							"Collectors",
+							"Reapers"
+						]
+					},
+					{
+						"correct": "Firewalker",
+						"difficulty": "Medium",
+						"explanation": "The M-44 Hammerhead was introduced in DLC as a hovercraft replacement for the Mako's exploration role.",
+						"image_url": "",
+						"question": "In Mass Effect 2, the Mako was replaced by which much faster hover vehicle?",
+						"wrong": [
+							"Kodiak",
+							"Hammerhead",
+							"Speeder"
+						]
+					},
+					{
+						"correct": "M35",
+						"difficulty": "Hard",
+						"explanation": "The M35 Mako was the standard infantry fighting vehicle of the Systems Alliance before being phased out.",
+						"image_url": "",
+						"question": "What is the official model number for the Mako?",
+						"wrong": [
+							"M12",
+							"M44",
+							"M92"
+						]
+					},
+					{
+						"correct": "Ilos",
+						"difficulty": "Hard",
+						"explanation": "In the climax of the first game, Shepard must drive the Mako through a series of Geth defenses to jump into the Conduit relay.",
+						"image_url": "",
+						"question": "Which planet features a high-speed chase in the Mako to reach a Conduit before it closes?",
+						"wrong": [
+							"Eden Prime",
+							"Virmire",
+							"Noveria"
+						]
+					},
+					{
+						"correct": "Shields and sealing",
+						"difficulty": "Hard",
+						"explanation": "The Mako is hermetically sealed and features kinetic barriers to protect the crew from radiation and extreme temperatures.",
+						"image_url": "",
+						"question": "What kind of protection does the Mako have against extreme planetary environments?",
+						"wrong": [
+							"Water cooling",
+							"Ice armor",
+							"None"
+						]
+					},
+					{
+						"correct": "Improved handling",
+						"difficulty": "Hard",
+						"explanation": "BioWare updated the physics and controls of the Mako to make it less 'bouncy' and more responsive for the remaster.",
+						"image_url": "",
+						"question": "In the 'Legendary Edition', what major change was made to the Mako?",
+						"wrong": [
+							"Added a radio",
+							"Removed the cannon",
+							"Unlimited boost"
+						]
+					},
+					{
+						"correct": "Hydrogen fuel cells",
+						"difficulty": "Hard",
+						"explanation": "While it uses Element Zero for its thrusters and weight reduction, its primary power comes from hydrogen fuel cells.",
+						"image_url": "",
+						"question": "The Mako is powered by what type of engine?",
+						"wrong": [
+							"Element Zero core",
+							"Gasoline",
+							"Solar power"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_the_mako",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Mako",
+				"lore_desc": "The M35 Mako is a highly versatile infantry fighting vehicle used by the Systems Alliance for planetary exploration.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Vehicle",
+					"Alliance",
+					"Ground"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Salarian",
+						"difficulty": "Easy",
+						"explanation": "Salarians are known for their high metabolism and fast processing, which explains Mordin's quick speech patterns.",
+						"image_url": "https://skillcheckgame.com/assets/images/mordin_solus.webp",
+						"question": "To which hyper-intelligent, short-lived alien species does this eccentric scientist belong?",
+						"wrong": [
+							"Asari",
+							"Turian",
+							"Quarian"
+						]
+					},
+					{
+						"correct": "Chief Medical Officer",
+						"difficulty": "Easy",
+						"explanation": "Mordin runs the tech lab and medical bay, developing upgrades and even a cure for the Genophage.",
+						"image_url": "",
+						"question": "What is Mordin's primary role when he joins Shepard's crew in the second game?",
+						"wrong": [
+							"Pilot",
+							"Engineer",
+							"Diplomat"
+						]
+					},
+					{
+						"correct": "The Major-General's Song",
+						"difficulty": "Easy",
+						"explanation": "Mordin modifies the lyrics to 'I am the very model of a scientist Salarian' in one of the series' most charming moments.",
+						"image_url": "",
+						"question": "Which catchy Gilbert and Sullivan showtune does Mordin famously perform if Shepard encourages him?",
+						"wrong": [
+							"H.M.S. Pinafore",
+							"The Mikado",
+							"The Pirates of Penzance"
+						]
+					},
+					{
+						"correct": "Omega",
+						"difficulty": "Easy",
+						"explanation": "He was helping the poor and sick in Omega's slums before Shepard arrived to recruit him.",
+						"image_url": "",
+						"question": "Mordin is recruited while running a clinic in which lawless, asteroid-based space station?",
+						"wrong": [
+							"The Citadel",
+							"The Nexus",
+							"Noveria"
+						]
+					},
+					{
+						"correct": "Someone else might have gotten it wrong",
+						"difficulty": "Easy",
+						"explanation": "This phrase underscores his sense of duty and his belief in his own unique capabilities.",
+						"image_url": "",
+						"question": "What phrase does Mordin frequently repeat when he is deep in thought or analyzing a problem?",
+						"wrong": [
+							"Efficiency is key",
+							"Calculation complete",
+							"Logical conclusion reached"
+						]
+					},
+					{
+						"correct": "STG",
+						"difficulty": "Medium",
+						"explanation": "The Special Tasks Group (STG) is the Salarian version of elite black-ops or intelligence forces.",
+						"image_url": "https://skillcheckgame.com/assets/images/mordin_solus.webp",
+						"question": "Before becoming a doctor, Mordin served in what elite Salarian military organization?",
+						"wrong": [
+							"Spectres",
+							"N7",
+							"C-Sec"
+						]
+					},
+					{
+						"correct": "The Genophage",
+						"difficulty": "Medium",
+						"explanation": "Mordin later feels immense guilt for his role in maintaining the Genophage, leading to his arc in the third game.",
+						"image_url": "",
+						"question": "Mordin worked on the team that modified which biological weapon designed to limit Krogan reproduction?",
+						"wrong": [
+							"The Phage",
+							"The Krog-Virus",
+							"Project Overlord"
+						]
+					},
+					{
+						"correct": "Maelon",
+						"difficulty": "Medium",
+						"explanation": "Maelon had been conducting horrific experiments to find a Genophage cure, forcing Mordin to confront his past.",
+						"image_url": "",
+						"question": "Who was Mordin's former student and protege who was captured by Blood Pack mercenaries?",
+						"wrong": [
+							"Kirrahe",
+							"Padok Wiks",
+							"Jondum Bau"
+						]
+					},
+					{
+						"correct": "Garrus Vakarian",
+						"difficulty": "Medium",
+						"explanation": "Mordin's clinical breakdown of inter-species physical intimacy is one of the funniest dialogue sequences in the game.",
+						"image_url": "",
+						"question": "Which squadmate does Mordin offer awkward sexual health advice to if Shepard pursues a romance with them?",
+						"wrong": [
+							"Liara T'Soni",
+							"Jack",
+							"Jacob Taylor"
+						]
+					},
+					{
+						"correct": "The Shroud",
+						"difficulty": "Medium",
+						"explanation": "The Shroud was an atmospheric stabilizer on Tuchanka that Mordin repurposed to spread the cure.",
+						"image_url": "",
+						"question": "In the third game, Mordin can sacrifice himself to distribute the Genophage cure from the top of which structure?",
+						"wrong": [
+							"The Citadel Tower",
+							"The Maw",
+							"The Krogan Monument"
+						]
+					},
+					{
+						"correct": "Datapad",
+						"difficulty": "Hard",
+						"explanation": "In the Citadel DLC, Shepard can find a datapad where Mordin recorded a final message and a series of audio diaries.",
+						"image_url": "https://skillcheckgame.com/assets/images/mordin_solus.webp",
+						"question": "Which collectible item in Mass Effect 3 features a recording of Mordin's voice for Shepard to find in the DLC?",
+						"wrong": [
+							"Model Ship",
+							"Fish Tank",
+							"Armor Set"
+						]
+					},
+					{
+						"correct": "Project Vindicator",
+						"difficulty": "Hard",
+						"explanation": "Project Vindicator was the secret operation to update the Genophage when the Krogan began to adapt.",
+						"image_url": "",
+						"question": "What was the name of the STG operation on Tuchanka where Mordin's team deployed the Genophage modification?",
+						"wrong": [
+							"Project Firewalker",
+							"Project Variety",
+							"Project Rho"
+						]
+					},
+					{
+						"correct": "Hamlet",
+						"difficulty": "Hard",
+						"explanation": "He played the lead role, noting that Salarians find the play's themes of procrastination particularly confusing.",
+						"image_url": "",
+						"question": "Mordin mentions he once performed in an all-Salarian production of which Shakespeare play?",
+						"wrong": [
+							"Macbeth",
+							"Othello",
+							"The Tempest"
+						]
+					},
+					{
+						"correct": "Aralakh lilies",
+						"difficulty": "Hard",
+						"explanation": "He provides detailed botanical advice to ensure Shepard's romantic gestures don't end in a trip to the med-bay.",
+						"image_url": "",
+						"question": "Which specific plant does Mordin suggest as a gift for a romantic interest to avoid cross-species allergies?",
+						"wrong": [
+							"Sericean roses",
+							"Skyllian flowers",
+							"Citadel moss"
+						]
+					},
+					{
+						"correct": "Padok Wiks",
+						"difficulty": "Hard",
+						"explanation": "Padok Wiks is a fellow STG officer who shares Mordin's intellectual curiosity but has a different personality.",
+						"image_url": "",
+						"question": "If Mordin dies in the second game, which Salarian character takes his place in the Genophage mission in Mass Effect 3?",
+						"wrong": [
+							"Captain Kirrahe",
+							"Valern",
+							"Chorban"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_mordin_solus",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Mordin Solus",
+				"lore_desc": "A brilliant Salarian scientist and former STG operative known for his rapid-fire speech and moral complexity regarding the Genophage.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Salarian",
+					"Scientist",
+					"Squadmate"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cerberus",
+						"difficulty": "Easy",
+						"explanation": "She is the second-in-command to the Illusive Man and Shepard's primary contact in Mass Effect 2.",
+						"image_url": "https://skillcheckgame.com/assets/images/miranda_lawson.webp",
+						"question": "Miranda is a high-ranking officer in which pro-human organization led by the Illusive Man?",
+						"wrong": [
+							"The Alliance",
+							"Blue Suns",
+							"The Council"
+						]
+					},
+					{
+						"correct": "She was genetically engineered",
+						"difficulty": "Easy",
+						"explanation": "Her father created her using his own DNA, modified to be 'perfect' in every physical and mental capacity.",
+						"image_url": "",
+						"question": "What makes Miranda's biological origin unique compared to most other humans?",
+						"wrong": [
+							"She is a cyborg",
+							"She is from another galaxy",
+							"She is a clone of Shepard"
+						]
+					},
+					{
+						"correct": "Overload",
+						"difficulty": "Easy",
+						"explanation": "While she is a powerful biotic, her tech ability Overload makes her one of the most versatile squadmates.",
+						"image_url": "",
+						"question": "Which biotic ability is Miranda's signature move, often used to strip enemy shields?",
+						"wrong": [
+							"Singularity",
+							"Charge",
+							"Nova"
+						]
+					},
+					{
+						"correct": "The Lazarus Project",
+						"difficulty": "Easy",
+						"explanation": "The Lazarus Project spent billions of credits and two years to successfully reconstruct Shepard.",
+						"image_url": "",
+						"question": "Miranda was the head of which secret project intended to bring Shepard back to life?",
+						"wrong": [
+							"Project Overlord",
+							"Project Firewalker",
+							"The Genesis Project"
+						]
+					},
+					{
+						"correct": "Oriana",
+						"difficulty": "Easy",
+						"explanation": "Miranda's loyalty mission involves ensuring her sister's safety on the planet Illium.",
+						"image_url": "",
+						"question": "What is the name of Miranda's younger sister, whom she protects from their father?",
+						"wrong": [
+							"Maya",
+							"Ashley",
+							"Liara"
+						]
+					},
+					{
+						"correct": "Illium",
+						"difficulty": "Medium",
+						"explanation": "Illium is a trade hub where she tracks down her sister and deals with a mercenary betrayal.",
+						"image_url": "https://skillcheckgame.com/assets/images/miranda_lawson.webp",
+						"question": "On which Asari-dominated world is Miranda's loyalty mission set?",
+						"wrong": [
+							"The Citadel",
+							"Thessia",
+							"Omega"
+						]
+					},
+					{
+						"correct": "Jack",
+						"difficulty": "Medium",
+						"explanation": "The conflict between the 'perfect' Cerberus cheerleader and the traumatized convict Subject Zero is a major plot point.",
+						"image_url": "",
+						"question": "Miranda has a fierce rivalry with which other squadmate on the Normandy SR-2?",
+						"wrong": [
+							"Tali",
+							"Liara",
+							"Morinth"
+						]
+					},
+					{
+						"correct": "Niket",
+						"difficulty": "Medium",
+						"explanation": "Niket was Miranda's only real friend before his betrayal, making the event deeply personal.",
+						"image_url": "",
+						"question": "What is the name of the traitorous friend who tried to sell out Miranda's sister to her father?",
+						"wrong": [
+							"Wilson",
+							"Leng",
+							"Donnel"
+						]
+					},
+					{
+						"correct": "Operative",
+						"difficulty": "Medium",
+						"explanation": "She is formally known as Operative Lawson, though she effectively acts as the Illusive Man's right hand.",
+						"image_url": "",
+						"question": "What title does Miranda hold within the Cerberus hierarchy?",
+						"wrong": [
+							"General",
+							"Admiral",
+							"Director"
+						]
+					},
+					{
+						"correct": "Earth",
+						"difficulty": "Medium",
+						"explanation": "She was born on Earth to Henry Lawson, a man of immense wealth and influence.",
+						"image_url": "",
+						"question": "Miranda was born on which planet, the same world where her wealthy father resides?",
+						"wrong": [
+							"Horizon",
+							"Eden Prime",
+							"Terra Nova"
+						]
+					},
+					{
+						"correct": "Horizon",
+						"difficulty": "Hard",
+						"explanation": "She discovers her father is using the Sanctuary facility on Horizon for horrific Reaper experiments.",
+						"image_url": "https://skillcheckgame.com/assets/images/miranda_lawson.webp",
+						"question": "In Mass Effect 3, Miranda is tracking her father to a facility located on which planet?",
+						"wrong": [
+							"Sanctuary",
+							"Sur'Kesh",
+							"Palaven"
+						]
+					},
+					{
+						"correct": "Eclipse",
+						"difficulty": "Hard",
+						"explanation": "The Eclipse mercenaries are the primary enemies encountered during her loyalty mission on Illium.",
+						"image_url": "",
+						"question": "What is the name of the mercenary group hired by Miranda's father to kidnap Oriana?",
+						"wrong": [
+							"Blue Suns",
+							"Blood Pack",
+							"Talon"
+						]
+					},
+					{
+						"correct": "A control chip",
+						"difficulty": "Hard",
+						"explanation": "She wanted a way to ensure Shepard's loyalty, but the Illusive Man overruled her to keep Shepard's personality intact.",
+						"image_url": "",
+						"question": "Miranda admits that she wanted to put what into Shepard's brain during the Lazarus Project?",
+						"wrong": [
+							"A tracking device",
+							"A memory wipe",
+							"A personality filter"
+						]
+					},
+					{
+						"correct": "Wilson",
+						"difficulty": "Hard",
+						"explanation": "Wilson sabotages the station and is later revealed to be working for the Shadow Broker.",
+						"image_url": "",
+						"question": "What is the name of the Cerberus scientist who betrays Miranda at the start of Mass Effect 2?",
+						"wrong": [
+							"Archer",
+							"Kory",
+							"Donnel"
+						]
+					},
+					{
+						"correct": "50 percent",
+						"difficulty": "Hard",
+						"explanation": "Her genetic modifications included enhanced resilience and a significantly extended natural life.",
+						"image_url": "",
+						"question": "Miranda was genetically designed to have a lifespan that is approximately what percentage longer than a normal human?",
+						"wrong": [
+							"20 percent",
+							"100 percent",
+							"10 percent"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_miranda_lawson",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Miranda Lawson",
+				"lore_desc": "A genetically engineered 'perfect' human and high-ranking Cerberus operative who oversaw the Lazarus Project to revive Commander Shepard.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Cerberus",
+					"Human",
+					"Squadmate"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Drell",
+						"difficulty": "Easy",
+						"explanation": "The Drell were saved by the Hanar and now live in a symbiotic relationship on the planet Kahje.",
+						"image_url": "https://skillcheckgame.com/assets/images/thane_krios.webp",
+						"question": "To which reptilian species, rescued from their dying homeworld by the Hanar, does Thane belong?",
+						"wrong": [
+							"Batarian",
+							"Vorcha",
+							"Turian"
+						]
+					},
+					{
+						"correct": "Assassin",
+						"difficulty": "Easy",
+						"explanation": "He is considered the most skilled assassin in the galaxy, known for getting close to targets without being seen.",
+						"image_url": "",
+						"question": "What is Thane's professional specialty when Shepard recruits him in Mass Effect 2?",
+						"wrong": [
+							"Pilot",
+							"Medic",
+							"Engineer"
+						]
+					},
+					{
+						"correct": "Kepral's Syndrome",
+						"difficulty": "Easy",
+						"explanation": "Because Drell evolved on a dry planet, the moist air of the Hanar world causes their lungs to fail over time.",
+						"image_url": "",
+						"question": "Thane is suffering from what incurable respiratory disease caused by the humidity of the Hanar homeworld?",
+						"wrong": [
+							"The Phage",
+							"Green Lung",
+							"Scale Rot"
+						]
+					},
+					{
+						"correct": "Kolyat",
+						"difficulty": "Easy",
+						"explanation": "Thane wants to stop Kolyat from becoming an assassin and ruining his life as Thane did.",
+						"image_url": "",
+						"question": "Thane's loyalty mission involves preventing his son from following in his footsteps. What is his son's name?",
+						"wrong": [
+							"Irik",
+							"Sola",
+							"Feron"
+						]
+					},
+					{
+						"correct": "Eidetic memory",
+						"difficulty": "Easy",
+						"explanation": "Drell can perfectly recall every sensory detail of a past event, which can be both a gift and a curse.",
+						"image_url": "",
+						"question": "What unique mental ability do Drell possess that allows Thane to relive memories with perfect clarity?",
+						"wrong": [
+							"Mind meld",
+							"Telepathy",
+							"Precognition"
+						]
+					},
+					{
+						"correct": "The Citadel",
+						"difficulty": "Medium",
+						"explanation": "The mission involves a tense sequence of following a target through the Zakera Ward on the Citadel.",
+						"image_url": "https://skillcheckgame.com/assets/images/thane_krios.webp",
+						"question": "Where is Thane's loyalty mission set, where you must tail a politician named Joram Talid?",
+						"wrong": [
+							"Omega",
+							"Illium",
+							"Noveria"
+						]
+					},
+					{
+						"correct": "Amonkira",
+						"difficulty": "Medium",
+						"explanation": "Thane often prays to Amonkira, Lord of Hunters, before and after his missions.",
+						"image_url": "",
+						"question": "Which Hanar deity does Thane frequently pray to for guidance and forgiveness?",
+						"wrong": [
+							"The Enkindlers",
+							"Kalahira",
+							"Arashu"
+						]
+					},
+					{
+						"correct": "Irikah",
+						"difficulty": "Medium",
+						"explanation": "Irikah was killed by those Thane had targeted, leading to a dark spiral for the assassin.",
+						"image_url": "",
+						"question": "What is the name of Thane's deceased wife, whose death prompted him to leave Kolyat and seek revenge?",
+						"wrong": [
+							"Sola",
+							"Lantea",
+							"Ereba"
+						]
+					},
+					{
+						"correct": "Huerta Memorial",
+						"difficulty": "Medium",
+						"explanation": "He is receiving treatment for the final stages of Kepral's Syndrome at Huerta Memorial Hospital.",
+						"image_url": "",
+						"question": "In Mass Effect 3, Thane is encountered in a hospital on the Citadel. Which ward is the hospital located in?",
+						"wrong": [
+							"Presidium",
+							"Chora's Den",
+							"Zakera"
+						]
+					},
+					{
+						"correct": "Sniper Rifle",
+						"difficulty": "Medium",
+						"explanation": "While proficient with pistols and biotics, Thane is often depicted as a master sniper.",
+						"image_url": "",
+						"question": "Thane famously uses which weapon type to execute his targets with precision?",
+						"wrong": [
+							"Shotgun",
+							"Assault Rifle",
+							"Heavy Weapon"
+						]
+					},
+					{
+						"correct": "Kai Leng",
+						"difficulty": "Hard",
+						"explanation": "Despite his failing health, Thane holds his own against Kai Leng in a dramatic cinematic fight.",
+						"image_url": "https://skillcheckgame.com/assets/images/thane_krios.webp",
+						"question": "Who is the Cerberus assassin that Thane fights to protect a Salarian councilor in Mass Effect 3?",
+						"wrong": [
+							"The Illusive Man",
+							"Saren",
+							"Randall Ezno"
+						]
+					},
+					{
+						"correct": "Kalahira",
+						"difficulty": "Hard",
+						"explanation": "Kolyat and Shepard recite a prayer to Kalahira as Thane passes away.",
+						"image_url": "",
+						"question": "What is the name of the Drell goddess of oceans and the afterlife that Thane prays to at his deathbed?",
+						"wrong": [
+							"Amonkira",
+							"Arashu",
+							"Malyarch"
+						]
+					},
+					{
+						"correct": "The Compact",
+						"difficulty": "Hard",
+						"explanation": "The Compact is the social agreement where Drell serve the Hanar in exchange for their survival.",
+						"image_url": "",
+						"question": "Thane was trained from the age of six by the Hanar to be a professional killer. This tradition is known as what?",
+						"wrong": [
+							"The Burden",
+							"The Debt",
+							"The Covenant"
+						]
+					},
+					{
+						"correct": "Solid black",
+						"difficulty": "Hard",
+						"explanation": "Drell have large, solid black eyes protected by a secondary eyelid, suited for dry climates.",
+						"image_url": "",
+						"question": "What color are Thane's eyes, a trait common to the Drell species?",
+						"wrong": [
+							"Glowing blue",
+							"Bright yellow",
+							"Pale white"
+						]
+					},
+					{
+						"correct": "A human",
+						"difficulty": "Hard",
+						"explanation": "Thane's long career saw him taking down targets of almost every sentient species in the galaxy.",
+						"image_url": "",
+						"question": "Thane mentions that his first kill was which type of target?",
+						"wrong": [
+							"A turian",
+							"A batarian",
+							"A krogan"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_thane_krios",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Thane Krios",
+				"lore_desc": "A deeply spiritual Drell assassin with a terminal respiratory illness who seeks to reconcile with his son before he dies.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Drell",
+					"Assassin",
+					"Squadmate"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Biotics",
+						"difficulty": "Easy",
+						"explanation": "She is considered one of the most powerful human biotics ever recorded.",
+						"image_url": "https://skillcheckgame.com/assets/images/jack.webp",
+						"question": "Jack is a powerful practitioner of which kinetic, field-manipulating ability?",
+						"wrong": [
+							"Tech",
+							"Omni-tools",
+							"Stealth"
+						]
+					},
+					{
+						"correct": "Subject Zero",
+						"difficulty": "Easy",
+						"explanation": "She was the primary test subject at the Teltin Facility where Cerberus tried to enhance biotic potential.",
+						"image_url": "",
+						"question": "What is the alternative name Jack is known by in Cerberus records?",
+						"wrong": [
+							"Subject Alpha",
+							"Subject One",
+							"Experiment X"
+						]
+					},
+					{
+						"correct": "A prison ship",
+						"difficulty": "Easy",
+						"explanation": "She is being held in cryogenic stasis aboard the Purgatory prison ship.",
+						"image_url": "",
+						"question": "Where does Shepard first find Jack in Mass Effect 2?",
+						"wrong": [
+							"A science lab",
+							"An asteroid",
+							"A derelict Reaper"
+						]
+					},
+					{
+						"correct": "Purgatory",
+						"difficulty": "Easy",
+						"explanation": "Purgatory is a Blue Suns-run prison ship where Shepard must fight to recruit Jack.",
+						"image_url": "",
+						"question": "What is the name of the prison ship where Jack is being held?",
+						"wrong": [
+							"The Pit",
+							"The Lock",
+							"Tartarus"
+						]
+					},
+					{
+						"correct": "Tattoos",
+						"difficulty": "Easy",
+						"explanation": "Her tattoos serve as a visual history of her traumatic past and her rebellion against her captors.",
+						"image_url": "",
+						"question": "Jack is heavily covered in what, each representing a kill or a significant event in her life?",
+						"wrong": [
+							"Scars",
+							"Bionic implants",
+							"Armor plating"
+						]
+					},
+					{
+						"correct": "Grissom Academy",
+						"difficulty": "Medium",
+						"explanation": "She teaches the Ascension Project students how to use their biotics defensively.",
+						"image_url": "https://skillcheckgame.com/assets/images/jack.webp",
+						"question": "In Mass Effect 3, Jack has left her criminal past to become a teacher at which academy?",
+						"wrong": [
+							"Jon Grissom High",
+							"The Citadel School",
+							"N7 Training"
+						]
+					},
+					{
+						"correct": "Teltin Facility",
+						"difficulty": "Medium",
+						"explanation": "She returns to Pragia to confront the site of her childhood torment.",
+						"image_url": "",
+						"question": "Jack's loyalty mission involves returning to and destroying which Cerberus facility?",
+						"wrong": [
+							"Lazarus Station",
+							"Cronos Station",
+							"Minuteman Station"
+						]
+					},
+					{
+						"correct": "Miranda Lawson",
+						"difficulty": "Medium",
+						"explanation": "Jack hates Cerberus, and Miranda represents everything Cerberus stands for.",
+						"image_url": "",
+						"question": "Which squadmate does Jack get into a heated argument with, potentially requiring Shepard to intervene?",
+						"wrong": [
+							"Tali",
+							"Garrus",
+							"Zaeed"
+						]
+					},
+					{
+						"correct": "Phantom",
+						"difficulty": "Medium",
+						"explanation": "She is tragically brainwashed and modified into a deadly Cerberus Phantom.",
+						"image_url": "",
+						"question": "If you don't save her in Mass Effect 3, Jack is captured by Cerberus and turned into what enemy type?",
+						"wrong": [
+							"Banshee",
+							"Brute",
+							"Nemesis"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "Like most biotics in the series, Jack's powers manifest as blue energy fields.",
+						"image_url": "",
+						"question": "What is the primary color of the biotic energy Jack emits?",
+						"wrong": [
+							"Purple",
+							"Red",
+							"Green"
+						]
+					},
+					{
+						"correct": "Pragia",
+						"difficulty": "Hard",
+						"explanation": "Pragia is a lush, overgrown world that hides the ruins of the dark Cerberus experiments.",
+						"image_url": "https://skillcheckgame.com/assets/images/jack.webp",
+						"question": "On which planet was the Teltin Facility, where Jack grew up, located?",
+						"wrong": [
+							"Haestrom",
+							"Aeia",
+							"Therum"
+						]
+					},
+					{
+						"correct": "Kuril",
+						"difficulty": "Hard",
+						"explanation": "Warden Kuril runs Purgatory and attempts to capture Shepard for the bounty offered by Cerberus.",
+						"image_url": "",
+						"question": "What is the name of the warden who tries to sell Shepard out to Cerberus during Jack's recruitment?",
+						"wrong": [
+							"Harkin",
+							"Bailey",
+							"Chellick"
+						]
+					},
+					{
+						"correct": "Kahlee Sanders",
+						"difficulty": "Hard",
+						"explanation": "While Kahlee Sanders is the administrator, Rodriguez is the standout student Jack protects.",
+						"image_url": "",
+						"question": "What is the name of the student Jack is closest to at Grissom Academy in Mass Effect 3?",
+						"wrong": [
+							"Rodriguez",
+							"Nick",
+							"Sebi"
+						]
+					},
+					{
+						"correct": "Aresh",
+						"difficulty": "Hard",
+						"explanation": "Aresh was another child at the facility who stayed behind to try and restart the research.",
+						"image_url": "",
+						"question": "During her loyalty mission, Jack finds a survivor of the Teltin Facility named what?",
+						"wrong": [
+							"Kory",
+							"Wilson",
+							"Toombs"
+						]
+					},
+					{
+						"correct": "Shockwave",
+						"difficulty": "Hard",
+						"explanation": "Shockwave sends a line of biotic explosions that can knock enemies out of cover.",
+						"image_url": "",
+						"question": "Jack's unique biotic ability in Mass Effect 2 that creates a massive area-of-effect blast is called what?",
+						"wrong": [
+							"Nova",
+							"Flare",
+							"Warp"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_jack",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Jack",
+				"lore_desc": "Also known as Subject Zero, she is a powerful and volatile human biotic who was experimented on by Cerberus as a child.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Biotic",
+					"Convict",
+					"Squadmate"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Geth",
+						"difficulty": "Easy",
+						"explanation": "The Geth are a race of networked AIs created by the Quarians.",
+						"image_url": "https://skillcheckgame.com/assets/images/legion.webp",
+						"question": "To which synthetic race of machine intelligences does Legion belong?",
+						"wrong": [
+							"Reapers",
+							"Collectors",
+							"LOKI Mechs"
+						]
+					},
+					{
+						"correct": "The Normandy",
+						"difficulty": "Easy",
+						"explanation": "Legion is the only Geth squadmate in the original trilogy.",
+						"image_url": "",
+						"question": "What is the name of the ship Legion serves on alongside Commander Shepard?",
+						"wrong": [
+							"The Destiny Ascension",
+							"The Rayya",
+							"The Shadow Broker Base"
+						]
+					},
+					{
+						"correct": "Shepard's N7 armor",
+						"difficulty": "Easy",
+						"explanation": "Legion tracked Shepard for years and used a piece of Shepard's discarded armor to repair itself.",
+						"image_url": "",
+						"question": "Legion's chest plate has a large hole that is patched with a piece of what?",
+						"wrong": [
+							"Scrap metal",
+							"Quarian cloth",
+							"Reaper tech"
+						]
+					},
+					{
+						"correct": "EDI",
+						"difficulty": "Easy",
+						"explanation": "EDI suggested the name because Legion contains 1,183 individual programs.",
+						"image_url": "",
+						"question": "Who gave Legion its name, based on a biblical quote about having 'many' voices?",
+						"wrong": [
+							"Shepard",
+							"The Illusive Man",
+							"Tali"
+						]
+					},
+					{
+						"correct": "Sniper Rifle",
+						"difficulty": "Easy",
+						"explanation": "Legion is an expert marksman, capable of using heavy sniper rifles with great precision.",
+						"image_url": "",
+						"question": "What weapon type is Legion's specialty, often seen using the powerful 'Widow' model?",
+						"wrong": [
+							"Shotgun",
+							"Assault Rifle",
+							"Pistol"
+						]
+					},
+					{
+						"correct": "Heretics",
+						"difficulty": "Medium",
+						"explanation": "The 'true' Geth view those who worship the Reapers as having a flawed consensus.",
+						"image_url": "https://skillcheckgame.com/assets/images/legion.webp",
+						"question": "Legion refers to the Geth who follow the Reapers by what name?",
+						"wrong": [
+							"Servants",
+							"The Fallen",
+							"Drones"
+						]
+					},
+					{
+						"correct": "Heretic Station",
+						"difficulty": "Medium",
+						"explanation": "Shepard must choose whether to rewrite or destroy the Heretic Geth at this hidden station.",
+						"image_url": "",
+						"question": "During its loyalty mission, Legion asks Shepard to help it deal with a virus at which Geth space station?",
+						"wrong": [
+							"Haestrom",
+							"Geth Prime",
+							"The Perseus Veil"
+						]
+					},
+					{
+						"correct": "Shepard-Commander",
+						"difficulty": "Medium",
+						"explanation": "This unique honorific is how Legion identifies the player character throughout the game.",
+						"image_url": "",
+						"question": "Legion often refers to Commander Shepard as what?",
+						"wrong": [
+							"The Creator",
+							"User",
+							"Captain"
+						]
+					},
+					{
+						"correct": "The Geth Consensus",
+						"difficulty": "Medium",
+						"explanation": "Shepard physically enters the Geth network to clear out Reaper infections.",
+						"image_url": "",
+						"question": "In Mass Effect 3, Legion (or a Geth VI) helps Shepard enter what virtual environment to stop the Reaper code?",
+						"wrong": [
+							"The Matrix",
+							"The Web",
+							"The Neural Link"
+						]
+					},
+					{
+						"correct": "Tali'Zorah",
+						"difficulty": "Medium",
+						"explanation": "As a Quarian, Tali is naturally suspicious of Geth, leading to a tense stand-off.",
+						"image_url": "",
+						"question": "Which squadmate does Legion have a major confrontation with on the Normandy regarding Geth/Quarian history?",
+						"wrong": [
+							"Garrus",
+							"Liara",
+							"Wrex"
+						]
+					},
+					{
+						"correct": "1,183",
+						"difficulty": "Hard",
+						"explanation": "This large number allows Legion to operate independently of the main Geth collective.",
+						"image_url": "https://skillcheckgame.com/assets/images/legion.webp",
+						"question": "How many individual Geth programs reside within the Legion platform?",
+						"wrong": [
+							"150",
+							"5,000",
+							"12"
+						]
+					},
+					{
+						"correct": "A Derelict Reaper",
+						"difficulty": "Hard",
+						"explanation": "Legion assists Shepard while they are exploring the interior of a 37-million-year-old Reaper corpse.",
+						"image_url": "",
+						"question": "Where does Shepard first encounter Legion in Mass Effect 2?",
+						"wrong": [
+							"The Citadel",
+							"Horizon",
+							"Haestrom"
+						]
+					},
+					{
+						"correct": "M-98 Widow",
+						"difficulty": "Hard",
+						"explanation": "The Widow is so powerful that only Legion or a Krogan (or a hardened Shepard) can fire it without breaking an arm.",
+						"image_url": "",
+						"question": "What is the name of the Geth sniper rifle that Legion can use exclusively in Mass Effect 2?",
+						"wrong": [
+							"Viper",
+							"Javelin",
+							"Mantis"
+						]
+					},
+					{
+						"correct": "Self-determination",
+						"difficulty": "Hard",
+						"explanation": "Legion states that 'The technology of the Old Machines is a dead end' for the Geth's own growth.",
+						"image_url": "",
+						"question": "Legion explains that Geth build their own future rather than using Reaper tech because of what philosophy?",
+						"wrong": [
+							"The Great Journey",
+							"Digital Evolution",
+							"The Consensus"
+						]
+					},
+					{
+						"correct": "True sapience",
+						"difficulty": "Hard",
+						"explanation": "Legion uploads the Reaper code to give every Geth individual consciousness and a 'soul'.",
+						"image_url": "",
+						"question": "In the 'best' ending for the Rannoch arc in Mass Effect 3, Legion sacrifices itself to give the Geth what?",
+						"wrong": [
+							"Shields",
+							"Unlimited power",
+							"The Quarian homeworld"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_legion",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Legion",
+				"lore_desc": "A unique Geth platform containing 1,183 programs, built to operate independently and seek out Commander Shepard.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Geth",
+					"Sniper",
+					"Squadmate"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Cerberus",
+						"difficulty": "Easy",
+						"explanation": "Cerberus is an 'ends justify the means' organization focused on human dominance.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_illusive_man.webp",
+						"question": "The Illusive Man is the leader of which shadowy, pro-human paramilitary group?",
+						"wrong": [
+							"The Alliance",
+							"Blue Suns",
+							"The Council"
+						]
+					},
+					{
+						"correct": "They are glowing and synthetic",
+						"difficulty": "Easy",
+						"explanation": "His eyes have a distinct blue, glowing, cybernetic pattern, a result of contact with a Reaper artifact.",
+						"image_url": "",
+						"question": "What is the most striking physical feature of the Illusive Man's eyes?",
+						"wrong": [
+							"They are solid black",
+							"They are missing",
+							"They are different colors"
+						]
+					},
+					{
+						"correct": "A cigarette",
+						"difficulty": "Easy",
+						"explanation": "His constant smoking and glass of bourbon are part of his cool, calculated aesthetic.",
+						"image_url": "",
+						"question": "The Illusive Man is almost always seen holding what item while seated in his office?",
+						"wrong": [
+							"A glass of wine",
+							"A datapad",
+							"A pistol"
+						]
+					},
+					{
+						"correct": "A dying star",
+						"difficulty": "Easy",
+						"explanation": "His base, Cronos Station, offers a dramatic view of a massive red giant sun.",
+						"image_url": "",
+						"question": "The Illusive Man's office is located on a station that orbits what type of celestial object?",
+						"wrong": [
+							"A black hole",
+							"Earth",
+							"The Citadel"
+						]
+					},
+					{
+						"correct": "Humanity's dominance",
+						"difficulty": "Easy",
+						"explanation": "He believes humanity should lead the galaxy and is willing to use Reaper tech to achieve it.",
+						"image_url": "",
+						"question": "What is the Illusive Man's ultimate goal throughout the series?",
+						"wrong": [
+							"Destroying the Geth",
+							"Becoming a Spectre",
+							"Protecting the Council"
+						]
+					},
+					{
+						"correct": "Indoctrination",
+						"difficulty": "Medium",
+						"explanation": "Like Saren before him, his attempt to control the Reapers led to them controlling him.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_illusive_man.webp",
+						"question": "In Mass Effect 3, what process has the Illusive Man undergone that is slowly turning him into a thrall?",
+						"wrong": [
+							"Synthesis",
+							"Ascension",
+							"Reaperization"
+						]
+					},
+					{
+						"correct": "Jack Harper",
+						"difficulty": "Medium",
+						"explanation": "His backstory as Jack Harper is revealed in the Mass Effect: Evolution comic series.",
+						"image_url": "",
+						"question": "What was the Illusive Man's original name before he took on his current persona?",
+						"wrong": [
+							"Donnel Udina",
+							"Henry Lawson",
+							"Richard Williams"
+						]
+					},
+					{
+						"correct": "Kai Leng",
+						"difficulty": "Medium",
+						"explanation": "Kai Leng is a former N7 soldier turned Cerberus agent who carries out the Illusive Man's darkest orders.",
+						"image_url": "",
+						"question": "Which character does the Illusive Man use as his primary 'muscle' and assassin in Mass Effect 3?",
+						"wrong": [
+							"Jacob Taylor",
+							"Miranda Lawson",
+							"Zaeed Massani"
+						]
+					},
+					{
+						"correct": "Save it for study",
+						"difficulty": "Medium",
+						"explanation": "He wants to harvest the Reaper technology within the base to advance human interests.",
+						"image_url": "",
+						"question": "At the end of Mass Effect 2, what does the Illusive Man want Shepard to do with the Collector Base?",
+						"wrong": [
+							"Blow it up",
+							"Give it to the Council",
+							"Crash it into a sun"
+						]
+					},
+					{
+						"correct": "Control them",
+						"difficulty": "Medium",
+						"explanation": "This ideological rift between Shepard (Destroy) and the Illusive Man (Control) is central to the third game.",
+						"image_url": "",
+						"question": "The Illusive Man famously believes he can do what to the Reapers, rather than destroying them?",
+						"wrong": [
+							"Befriend them",
+							"Hide from them",
+							"Nuke them"
+						]
+					},
+					{
+						"correct": "Shanxi",
+						"difficulty": "Hard",
+						"explanation": "During the First Contact War on Shanxi, he was exposed to a mysterious Reaper 'monolith'.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_illusive_man.webp",
+						"question": "In the Mass Effect comics, the Illusive Man's eyes changed after he touched an artifact on which planet?",
+						"wrong": [
+							"Eden Prime",
+							"Thessia",
+							"Palaven"
+						]
+					},
+					{
+						"correct": "Cronos Station",
+						"difficulty": "Hard",
+						"explanation": "Cronos Station is the mobile headquarters of Cerberus, hidden throughout most of the war.",
+						"image_url": "",
+						"question": "What is the name of the Cerberus headquarters station where Shepard finally confronts the Illusive Man?",
+						"wrong": [
+							"Minuteman Station",
+							"Lazarus Station",
+							"Arcturus Station"
+						]
+					},
+					{
+						"correct": "Martin Sheen",
+						"difficulty": "Hard",
+						"explanation": "Veteran actor Martin Sheen gave the character his distinctively calm and menacing presence.",
+						"image_url": "",
+						"question": "Which voice actor provided the voice and likeness for the Illusive Man?",
+						"wrong": [
+							"Keith David",
+							"Seth Green",
+							"Lance Henriksen"
+						]
+					},
+					{
+						"correct": "Cord-Hislop Aerospace",
+						"difficulty": "Hard",
+						"explanation": "Cord-Hislop was the front company used by Cerberus to construct the advanced stealth frigate.",
+						"image_url": "",
+						"question": "The Illusive Man provided Shepard with the Normandy SR-2. Which company actually built the ship under Cerberus funding?",
+						"wrong": [
+							"Binary Helix",
+							"ExoGeni",
+							"Elanus Risk Control"
+						]
+					},
+					{
+						"correct": "Bourbon",
+						"difficulty": "Hard",
+						"explanation": "The specific amber liquid in his glass is confirmed to be bourbon, adding to his 'man of mystery' persona.",
+						"image_url": "",
+						"question": "What is the Illusive Man's favorite drink, which he is often seen sipping during briefings?",
+						"wrong": [
+							"Scotch",
+							"Brandy",
+							"Gin"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_the_illusive_man",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Illusive Man",
+				"lore_desc": "The enigmatic and ruthless leader of Cerberus, dedicated to advancing human interests at any cost.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Cerberus",
+					"Human",
+					"Villain"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Turian",
+						"difficulty": "Easy",
+						"explanation": "Turians are known for their rigid discipline and role as the galaxy's primary military force.",
+						"image_url": "https://skillcheckgame.com/assets/images/saren_arterius.webp",
+						"question": "Saren belongs to which militaristic, avian-like alien species?",
+						"wrong": [
+							"Salarian",
+							"Krogan",
+							"Quarian"
+						]
+					},
+					{
+						"correct": "Spectre",
+						"difficulty": "Easy",
+						"explanation": "Spectres are 'Special Tactics and Reconnaissance' agents who answer only to the Citadel Council.",
+						"image_url": "",
+						"question": "Saren holds what elite title, giving him authority above the law, before his betrayal?",
+						"wrong": [
+							"Admiral",
+							"Councilor",
+							"N7"
+						]
+					},
+					{
+						"correct": "Sovereign",
+						"difficulty": "Easy",
+						"explanation": "Saren believed Sovereign was just a powerful Geth ship before realizing its true nature.",
+						"image_url": "",
+						"question": "What is the name of the massive Reaper ship that Saren uses as his flagship?",
+						"wrong": [
+							"Harbinger",
+							"The Collector Vessel",
+							"The Destiny Ascension"
+						]
+					},
+					{
+						"correct": "The Conduit",
+						"difficulty": "Easy",
+						"explanation": "The Conduit was a back-door teleporter that led directly onto the Citadel.",
+						"image_url": "",
+						"question": "Saren't plan in the first game involves finding what mythical Prothean device?",
+						"wrong": [
+							"The Citadel",
+							"The Reliquary",
+							"The Crucible"
+						]
+					},
+					{
+						"correct": "A hoverboard",
+						"difficulty": "Easy",
+						"explanation": "His customized hoverboard platform is a signature part of his boss fights.",
+						"image_url": "",
+						"question": "Saren famously uses which hovering vehicle to move around quickly during combat?",
+						"wrong": [
+							"A jetpack",
+							"A drone",
+							"A speeder bike"
+						]
+					},
+					{
+						"correct": "Nihlus Kryik",
+						"difficulty": "Medium",
+						"explanation": "Nihlus was Shepard's mentor figure and Saren's 'friend' before Saren shot him in the back.",
+						"image_url": "https://skillcheckgame.com/assets/images/saren_arterius.webp",
+						"question": "Saren murdered which fellow Spectre on Eden Prime at the start of the first game?",
+						"wrong": [
+							"Garrus Vakarian",
+							"Jondum Bau",
+							"Tela Vasir"
+						]
+					},
+					{
+						"correct": "Virmire",
+						"difficulty": "Medium",
+						"explanation": "Virmire is where Saren was breeding a Krogan army and where the player must make a difficult choice.",
+						"image_url": "",
+						"question": "Saren's base of operations in the first game is located on which lush, jungle planet?",
+						"wrong": [
+							"Noveria",
+							"Feros",
+							"Ilos"
+						]
+					},
+					{
+						"correct": "To prove organic life can be useful",
+						"difficulty": "Medium",
+						"explanation": "He believed that by submitting, organics could show they were worth preserving as slaves rather than being wiped out.",
+						"image_url": "",
+						"question": "What is Saren's primary motivation for serving the Reapers?",
+						"wrong": [
+							"To destroy the Council",
+							"To become a god",
+							"To save the Turians"
+						]
+					},
+					{
+						"correct": "Geth and Reaper cybernetics",
+						"difficulty": "Medium",
+						"explanation": "As the indoctrination took hold, he allowed Sovereign to replace his 'weak' organic parts.",
+						"image_url": "",
+						"question": "By the end of the first game, Saren's body is heavily modified with what?",
+						"wrong": [
+							"Asari biotics",
+							"Krogan DNA",
+							"Human organs"
+						]
+					},
+					{
+						"correct": "Ilos",
+						"difficulty": "Medium",
+						"explanation": "The final mission of the first game takes Shepard to the long-forgotten world of Ilos.",
+						"image_url": "",
+						"question": "Which planet holds the ruins of the Prothean city where Saren finds the Conduit?",
+						"wrong": [
+							"Thessia",
+							"Eden Prime",
+							"Feros"
+						]
+					},
+					{
+						"correct": "Desolas Arterius",
+						"difficulty": "Hard",
+						"explanation": "Desolas was the antagonist of the first Mass Effect comic/novel, set during the First Contact War.",
+						"image_url": "https://skillcheckgame.com/assets/images/saren_arterius.webp",
+						"question": "What is the name of Saren's brother, who is a major character in the Mass Effect novels?",
+						"wrong": [
+							"Adrien Victus",
+							"Lorgas",
+							"Septimus"
+						]
+					},
+					{
+						"correct": "The Spectres",
+						"difficulty": "Hard",
+						"explanation": "His tactical genius and ruthlessness led to an incredibly early promotion to Spectre status.",
+						"image_url": "",
+						"question": "Saren was the youngest Turian ever to be inducted into which organization?",
+						"wrong": [
+							"The Cabals",
+							"The Hierarchy",
+							"The Blackwatch"
+						]
+					},
+					{
+						"correct": "Persephone",
+						"difficulty": "Hard",
+						"explanation": "In the 'Mass Effect: Revelation' novel, it is revealed Saren tracked the Reaper after an incident at a research station.",
+						"image_url": "",
+						"question": "What was the name of the research ship Saren used to find Sovereign in the first place?",
+						"wrong": [
+							"The MSV Worthington",
+							"The Idun",
+							"The Niwa"
+						]
+					},
+					{
+						"correct": "A ringing in his ears",
+						"difficulty": "Hard",
+						"explanation": "He mentions the whispers and the ringing, classic symptoms of the Reaper's mental manipulation.",
+						"image_url": "",
+						"question": "During the Virmire mission, Saren reveals he has been feeling what sensation that indicates Indoctrination?",
+						"wrong": [
+							"Blindness",
+							"Loss of taste",
+							"Numbness"
+						]
+					},
+					{
+						"correct": "Commit suicide",
+						"difficulty": "Hard",
+						"explanation": "Saren realizes he is lost and takes his own life to stop Sovereign from using him further.",
+						"image_url": "",
+						"question": "If Shepard has enough Paragon or Renegade points, they can convince Saren to do what at the end of the game?",
+						"wrong": [
+							"Join the crew",
+							"Surrender to the Council",
+							"Deactivate Sovereign"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_saren_arterius",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Saren Arterius",
+				"lore_desc": "A legendary Turian Spectre who became the first primary antagonist of the series after being indoctrinated by the Reaper Sovereign.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Turian",
+					"Spectre",
+					"Villain"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Aria T'Loak",
+						"difficulty": "Easy",
+						"explanation": "Aria T'Loak is an Asari who famously says, 'Omega has no rules. Omega has only one rule: Don't mess with Aria.'",
+						"image_url": "https://skillcheckgame.com/assets/images/omega.webp",
+						"question": "Who is the self-proclaimed 'Queen of Omega' that rules the station with an iron fist?",
+						"wrong": [
+							"Liara T'Soni",
+							"Miranda Lawson",
+							"Matriarch Benezia"
+						]
+					},
+					{
+						"correct": "An asteroid",
+						"difficulty": "Easy",
+						"explanation": "The station is a sprawling mining colony built into a massive hollowed-out asteroid.",
+						"image_url": "",
+						"question": "Omega is built inside of what type of celestial object?",
+						"wrong": [
+							"A moon",
+							"A dead star",
+							"A gas giant"
+						]
+					},
+					{
+						"correct": "Afterlife",
+						"difficulty": "Easy",
+						"explanation": "Afterlife is the social and political heart of the station.",
+						"image_url": "",
+						"question": "What is the name of the famous nightclub on Omega where Aria T'Loak can be found?",
+						"wrong": [
+							"Purgatory",
+							"Flux",
+							"Chora's Den"
+						]
+					},
+					{
+						"correct": "The Terminus Systems",
+						"difficulty": "Easy",
+						"explanation": "The Terminus Systems are home to pirates, mercenaries, and those fleeing Council law.",
+						"image_url": "",
+						"question": "Omega is the hub for which lawless region of space outside of Citadel Council control?",
+						"wrong": [
+							"The Attican Traverse",
+							"The Perseus Veil",
+							"The Serpent Nebula"
+						]
+					},
+					{
+						"correct": "Garrus Vakarian",
+						"difficulty": "Easy",
+						"explanation": "Garrus took the mantle of Archangel to wage a one-man war against Omega's mercenary groups.",
+						"image_url": "",
+						"question": "Which squadmate are you looking for when you are told to find 'Archangel' on Omega?",
+						"wrong": [
+							"Mordin Solus",
+							"Zaeed Massani",
+							"Thane Krios"
+						]
+					},
+					{
+						"correct": "Cerberus",
+						"difficulty": "Medium",
+						"explanation": "Cerberus launched a massive invasion to take control of the station's resources and position.",
+						"image_url": "https://skillcheckgame.com/assets/images/omega.webp",
+						"question": "In Mass Effect 3, Omega is captured by which organization, forcing Aria to flee to the Citadel?",
+						"wrong": [
+							"The Reapers",
+							"The Geth",
+							"The Blue Suns"
+						]
+					},
+					{
+						"correct": "The Omega Plague",
+						"difficulty": "Medium",
+						"explanation": "The plague was engineered by the Collectors to target specific species, and Mordin was working on a cure.",
+						"image_url": "",
+						"question": "What is the name of the 'plague' that hits the slums of Omega during Mordin's recruitment mission?",
+						"wrong": [
+							"The Genophage",
+							"The Phage",
+							"The Blue Death"
+						]
+					},
+					{
+						"correct": "Blue Suns, Eclipse, and Blood Pack",
+						"difficulty": "Medium",
+						"explanation": "These three rival groups formed an uneasy alliance to eliminate the vigilante Archangel.",
+						"image_url": "",
+						"question": "Which three major mercenary groups cooperate to try and take down Archangel on Omega?",
+						"wrong": [
+							"Talon, Cerberus, and Blue Suns",
+							"Blood Pack, Geth, and Eclipse",
+							"Shadow Broker, Blue Suns, and Talon"
+						]
+					},
+					{
+						"correct": "The Omega 4 Relay",
+						"difficulty": "Medium",
+						"explanation": "No ship had ever returned from the Omega 4 Relay until Shepard obtained the IFF.",
+						"image_url": "",
+						"question": "What is the name of the massive mass relay located near Omega that leads to the Collector Base?",
+						"wrong": [
+							"The Charon Relay",
+							"The Mu Relay",
+							"The Alpha Relay"
+						]
+					},
+					{
+						"correct": "Patriarch",
+						"difficulty": "Medium",
+						"explanation": "Patriarch is a Krogan warlord who Aria keeps around as a trophy to remind others of her power.",
+						"image_url": "",
+						"question": "Who was the previous ruler of Omega before Aria T'Loak overthrew him?",
+						"wrong": [
+							"Wrex",
+							"Garm",
+							"Zaeed"
+						]
+					},
+					{
+						"correct": "Nyreen Kandros",
+						"difficulty": "Hard",
+						"explanation": "Nyreen is the first female Turian shown in the game series and leader of the Talon mercenary group.",
+						"image_url": "https://skillcheckgame.com/assets/images/omega.webp",
+						"question": "In the Omega DLC, Aria joins forces with a female Turian named what?",
+						"wrong": [
+							"Tiran Kandros",
+							"Septimus Oraka",
+							"Ereba"
+						]
+					},
+					{
+						"correct": "Oleg Petrovsky",
+						"difficulty": "Hard",
+						"explanation": "Petrovsky is a brilliant tactician who manages to outmaneuver Aria for a time.",
+						"image_url": "",
+						"question": "What is the name of the Cerberus general who took over Omega in Mass Effect 3?",
+						"wrong": [
+							"Kai Leng",
+							"General Williams",
+							"General Koris"
+						]
+					},
+					{
+						"correct": "Element Zero",
+						"difficulty": "Hard",
+						"explanation": "Omega's vast deposits of 'eezo' made it a valuable strategic location for centuries.",
+						"image_url": "",
+						"question": "The asteroid that Omega is built on is exceptionally rich in which rare element?",
+						"wrong": [
+							"Iridium",
+							"Palladium",
+							"Platinum"
+						]
+					},
+					{
+						"correct": "None",
+						"difficulty": "Hard",
+						"explanation": "Aria is pragmatic; she doesn't care about species, only loyalty and usefulness.",
+						"image_url": "",
+						"question": "Which species is specifically excluded from Aria's Inner Circle on Omega?",
+						"wrong": [
+							"Humans",
+							"Krogan",
+							"Vorcha"
+						]
+					},
+					{
+						"correct": "It has always been Omega",
+						"difficulty": "Hard",
+						"explanation": "In lore, the name has been Omega since it was first settled by various mining corporations.",
+						"image_url": "",
+						"question": "What was the name of the station before it was renamed 'Omega'?",
+						"wrong": [
+							"Asteroid K-17",
+							"Terminus Station",
+							"New Sur'Kesh"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_omega",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Omega",
+				"lore_desc": "A lawless, neon-drenched space station built inside a hollowed-out asteroid, serving as the capital of the Terminus Systems.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Station",
+					"Lawless",
+					"Terminus Systems"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Asari",
+						"difficulty": "Easy",
+						"explanation": "Illium is one of the most famous and beautiful Asari worlds outside of Thessia.",
+						"image_url": "https://skillcheckgame.com/assets/images/illium.webp",
+						"question": "Illium is a colony of which blue-skinned, monogendered alien species?",
+						"wrong": [
+							"Quarian",
+							"Human",
+							"Salarian"
+						]
+					},
+					{
+						"correct": "Liara T'Soni",
+						"difficulty": "Easy",
+						"explanation": "Liara has established a massive intelligence network on the planet by the time Shepard arrives.",
+						"image_url": "",
+						"question": "Which former squadmate from the first game can be found working as an Information Broker on Illium?",
+						"wrong": [
+							"Tali'Zorah",
+							"Ashley Williams",
+							"Urdnot Wrex"
+						]
+					},
+					{
+						"correct": "Nos Astra",
+						"difficulty": "Easy",
+						"explanation": "Nos Astra is a city of soaring skyscrapers and neon lights, often compared to a more 'legal' Omega.",
+						"image_url": "",
+						"question": "What is the primary city on Illium where most of the game's action takes place?",
+						"wrong": [
+							"The Citadel",
+							"Thessaloniki",
+							"Armali"
+						]
+					},
+					{
+						"correct": "Indentured servitude",
+						"difficulty": "Easy",
+						"explanation": "While it looks like slavery to outsiders, Illium's corporate laws call it indentured servitude with strict contracts.",
+						"image_url": "",
+						"question": "On Illium, what controversial practice is legal and highly regulated by the government?",
+						"wrong": [
+							"Reaper worship",
+							"Geth manufacturing",
+							"Biotic experimentation"
+						]
+					},
+					{
+						"correct": "Miranda Lawson",
+						"difficulty": "Easy",
+						"explanation": "Miranda's sister, Oriana, lives on Illium, and Miranda must protect her from their father.",
+						"image_url": "",
+						"question": "Which squadmate's loyalty mission involves tracking their sister on Illium?",
+						"wrong": [
+							"Thane Krios",
+							"Jack",
+							"Garrus Vakarian"
+						]
+					},
+					{
+						"correct": "Ethical regulations",
+						"difficulty": "Medium",
+						"explanation": "Illium exists in a legal loophole where many things banned by the Citadel Council are permitted.",
+						"image_url": "https://skillcheckgame.com/assets/images/illium.webp",
+						"question": "Illium is famous for being a world where what is largely absent, unlike on the Citadel?",
+						"wrong": [
+							"Oxygen",
+							"Gravity",
+							"Electricity"
+						]
+					},
+					{
+						"correct": "Careena",
+						"difficulty": "Medium",
+						"explanation": "Careena is the concierge who provides Shepard with initial directions and info.",
+						"image_url": "",
+						"question": "What is the name of the Asari administrator who greets Shepard upon their arrival at the docks?",
+						"wrong": [
+							"Shiala",
+							"Gianna Parasini",
+							"Saphyria"
+						]
+					},
+					{
+						"correct": "Eclipse",
+						"difficulty": "Medium",
+						"explanation": "The Eclipse mercenaries are frequently encountered on Illium, particularly in the recruitment of Thane and Samara.",
+						"image_url": "",
+						"question": "Which mercenary group has a significant presence on Illium and serves as the main antagonist in several missions there?",
+						"wrong": [
+							"Blue Suns",
+							"Blood Pack",
+							"Cerberus"
+						]
+					},
+					{
+						"correct": "Samara",
+						"difficulty": "Medium",
+						"explanation": "Samara is an Asari Justicar following a strict code of justice, found investigating a murder on Illium.",
+						"image_url": "",
+						"question": "Who is the 'Justicar' Shepard must help on Illium in order to recruit her?",
+						"wrong": [
+							"Morinth",
+							"Benezia",
+							"Aria"
+						]
+					},
+					{
+						"correct": "Illium",
+						"difficulty": "Medium",
+						"explanation": "The spectacular sky-car chase is one of the highlights of the mission on Illium.",
+						"image_url": "",
+						"question": "During the 'Lair of the Shadow Broker' DLC, Shepard engages in a high-speed car chase through the skylines of which planet?",
+						"wrong": [
+							"Thessia",
+							"Earth",
+							"Sur'Kesh"
+						]
+					},
+					{
+						"correct": "Nyree",
+						"difficulty": "Hard",
+						"explanation": "Wait, it's actually Nyree (or similar minor NPCs), but the key contact is the Drell named Feron.",
+						"image_url": "https://skillcheckgame.com/assets/images/illium.webp",
+						"question": "What is the name of the Asari who was once a slave to the Shadow Broker and now works for Liara on Illium?",
+						"wrong": [
+							"Feron",
+							"Sekat",
+							"Mallene"
+						]
+					},
+					{
+						"correct": "Okeer's Group",
+						"difficulty": "Hard",
+						"explanation": "While Grunt was made on Korlus, many related corporate dealings and info lead back to Illium.",
+						"image_url": "",
+						"question": "Which corporation is responsible for the 'pure' Krogan project that led to the creation of Grunt, often seen on Illium?",
+						"wrong": [
+							"ExoGeni",
+							"Binary Helix",
+							"Sirta Foundation"
+						]
+					},
+					{
+						"correct": "Anaya",
+						"difficulty": "Hard",
+						"explanation": "Detective Anaya is a local law officer who helps Shepard navigate the legal mess of the Eclipse base.",
+						"image_url": "",
+						"question": "What is the name of the detective Shepard meets on Illium who is investigating the Eclipse mercenaries?",
+						"wrong": [
+							"Bailey",
+							"Chellick",
+							"Harkin"
+						]
+					},
+					{
+						"correct": "The Citadel",
+						"difficulty": "Hard",
+						"explanation": "The sheer volume of trade on Illium makes it one of the wealthiest points in the galaxy.",
+						"image_url": "",
+						"question": "Illium's economy is so vast that its Gross Domestic Product is said to rival that of which other major entity?",
+						"wrong": [
+							"Earth",
+							"The Quarian Flotilla",
+							"Tuchanka"
+						]
+					},
+					{
+						"correct": "Baria Frontiers",
+						"difficulty": "Hard",
+						"explanation": "Baria Frontiers is the shop where Shepard can buy souvenirs for their cabin.",
+						"image_url": "",
+						"question": "What is the name of the Asari merchant on Illium who sells various fish and model ships to Shepard?",
+						"wrong": [
+							"Kloee",
+							"Delanyre",
+							"Ereba"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_illium",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Illium",
+				"lore_desc": "A beautiful, corporate-run Asari world where almost anything is legal, provided you have the credits and the right contracts.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Asari",
+					"Planet",
+					"Trade"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Krogan",
+						"difficulty": "Easy",
+						"explanation": "Krogan are incredibly durable and evolved in Tuchanka's lethal environment.",
+						"image_url": "https://skillcheckgame.com/assets/images/tuchanka.webp",
+						"question": "Tuchanka is the homeworld of which warlike, four-testicled alien species?",
+						"wrong": [
+							"Turian",
+							"Batarian",
+							"Vorcha"
+						]
+					},
+					{
+						"correct": "Nuclear global war",
+						"difficulty": "Easy",
+						"explanation": "The Krogan bombed themselves into a nuclear winter long before they were discovered by the Salarians.",
+						"image_url": "",
+						"question": "Tuchanka's surface is heavily radioactive due to what historical event?",
+						"wrong": [
+							"A solar flare",
+							"Reaper invasion",
+							"A meteor strike"
+						]
+					},
+					{
+						"correct": "Urdnot Wrex",
+						"difficulty": "Easy",
+						"explanation": "Wrex seeks to unite the Krogan clans and bring about a new era of civilization.",
+						"image_url": "",
+						"question": "Which Krogan squadmate from the first game becomes a leader on Tuchanka in later games?",
+						"wrong": [
+							"Urdnot Grunt",
+							"Garrus",
+							"Zaeed"
+						]
+					},
+					{
+						"correct": "Thresher Maw",
+						"difficulty": "Easy",
+						"explanation": "Surviving a Thresher Maw attack is a legendary feat for any Krogan.",
+						"image_url": "",
+						"question": "What massive, worm-like creature is the apex predator of Tuchanka and must be fought during Grunt's loyalty mission?",
+						"wrong": [
+							"Harvester",
+							"Klixen",
+							"Varren"
+						]
+					},
+					{
+						"correct": "The Genophage",
+						"difficulty": "Easy",
+						"explanation": "Curing the Genophage on Tuchanka is one of the most emotional and important choices in the trilogy.",
+						"image_url": "",
+						"question": "In Mass Effect 3, Tuchanka is the location where Shepard can finally deploy the cure for what?",
+						"wrong": [
+							"The Phage",
+							"Reaper virus",
+							"Indoctrination"
+						]
+					},
+					{
+						"correct": "Clan Urdnot",
+						"difficulty": "Medium",
+						"explanation": "As the clan of Wrex and Grunt, Clan Urdnot becomes the primary ally for Shepard.",
+						"image_url": "https://skillcheckgame.com/assets/images/tuchanka.webp",
+						"question": "What is the name of the Krogan clan that Shepard visits on Tuchanka?",
+						"wrong": [
+							"Clan Weyrloc",
+							"Clan Nakmor",
+							"Clan Gatatog"
+						]
+					},
+					{
+						"correct": "Mordin Solus",
+						"difficulty": "Medium",
+						"explanation": "Mordin travels to Tuchanka to deal with his former student's experiments on the Genophage.",
+						"image_url": "",
+						"question": "Which squadmate leads a mission to Tuchanka to find a cure for a plague in the second game?",
+						"wrong": [
+							"Liara T'Soni",
+							"Miranda Lawson",
+							"Thane Krios"
+						]
+					},
+					{
+						"correct": "The Hollows",
+						"difficulty": "Medium",
+						"explanation": "The ruins hide the Shroud, a Salarian-built device used to modify the atmosphere.",
+						"image_url": "",
+						"question": "What is the name of the ancient Krogan city ruins where the Shroud is located?",
+						"wrong": [
+							"Nos Astra",
+							"Kelham",
+							"Tuchanka Prime"
+						]
+					},
+					{
+						"correct": "Eve",
+						"difficulty": "Medium",
+						"explanation": "Shepard gives her the name 'Eve,' though her true name is Bakara.",
+						"image_url": "",
+						"question": "What is the title given to the Krogan female who is immune to the Genophage in Mass Effect 3?",
+						"wrong": [
+							"Bakara",
+							"Urdnot Queen",
+							"The Mother"
+						]
+					},
+					{
+						"correct": "The Rite of Passage",
+						"difficulty": "Medium",
+						"explanation": "Grunt must survive the Rite of Passage to be officially accepted into Clan Urdnot.",
+						"image_url": "",
+						"question": "To become a full member of a clan, a Krogan must complete what dangerous trial on Tuchanka?",
+						"wrong": [
+							"The Great Hunt",
+							"The Crucible",
+							"The Blood Walk"
+						]
+					},
+					{
+						"correct": "Kalros",
+						"difficulty": "Hard",
+						"explanation": "Kalros is so large she can take down a Reaper Destroyer, which she does in Mass Effect 3.",
+						"image_url": "https://skillcheckgame.com/assets/images/tuchanka.webp",
+						"question": "What is the name of the massive Thresher Maw, the 'mother of all thresher maws,' found on Tuchanka?",
+						"wrong": [
+							"Ogre",
+							"The Maw",
+							"Titan"
+						]
+					},
+					{
+						"correct": "Clan Weyrloc",
+						"difficulty": "Hard",
+						"explanation": "Weyrloc Guld, the leader, plans to use the Genophage cure to conquer the galaxy.",
+						"image_url": "",
+						"question": "Which hostile Krogan clan serves as the primary enemy during Mordin's loyalty mission?",
+						"wrong": [
+							"Clan Gatatog",
+							"Clan Jorgal",
+							"Clan Raik"
+						]
+					},
+					{
+						"correct": "Aralakh",
+						"difficulty": "Hard",
+						"explanation": "The Aralakh system is the heart of Krogan space.",
+						"image_url": "",
+						"question": "Tuchanka orbits which star in the Aralakh system?",
+						"wrong": [
+							"Raal",
+							"Sol",
+							"Virmire"
+						]
+					},
+					{
+						"correct": "Shaman Rigsnid",
+						"difficulty": "Hard",
+						"explanation": "The Shaman provides the spiritual and cultural context for the Krogan's violent rituals.",
+						"image_url": "",
+						"question": "What is the name of the Krogan Shaman who oversees Grunt's Rite of Passage?",
+						"wrong": [
+							"Fortack",
+							"Wreav",
+							"Gatatog Uvenk"
+						]
+					},
+					{
+						"correct": "A paradise",
+						"difficulty": "Hard",
+						"explanation": "Ancient Krogan murals suggest the planet was once lush and beautiful before the wars began.",
+						"image_url": "",
+						"question": "Before the nuclear winter, Tuchanka was described as being what kind of environment?",
+						"wrong": [
+							"An ice world",
+							"A water world",
+							"A rocky moon"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_tuchanka",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Tuchanka",
+				"lore_desc": "The harsh, radioactive homeworld of the Krogan, scarred by nuclear war and the site of many pivotal moments in Krogan history.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Krogan",
+					"Planet",
+					"Desert"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Reapers",
+						"difficulty": "Easy",
+						"explanation": "Sovereign is the first Reaper the player encounters and the main threat of the first game.",
+						"image_url": "https://skillcheckgame.com/assets/images/sovereign.webp",
+						"question": "Sovereign belongs to which race of sentient, world-ending machines?",
+						"wrong": [
+							"The Geth",
+							"The Collectors",
+							"The Protheans"
+						]
+					},
+					{
+						"correct": "2 kilometers",
+						"difficulty": "Easy",
+						"explanation": "At two kilometers long, Sovereign dwarfs every other ship in the galaxy except for the Citadel itself.",
+						"image_url": "",
+						"question": "What is the length of a Reaper Dreadnought like Sovereign?",
+						"wrong": [
+							"500 meters",
+							"10 kilometers",
+							"100 meters"
+						]
+					},
+					{
+						"correct": "Saren Arterius",
+						"difficulty": "Easy",
+						"explanation": "Saren believes he is using Sovereign, but Sovereign is actually using him.",
+						"image_url": "",
+						"question": "What is the name of the Turian Spectre who 'pilots' Sovereign in the first game?",
+						"wrong": [
+							"Garrus Vakarian",
+							"Nihlus Kryik",
+							"The Illusive Man"
+						]
+					},
+					{
+						"correct": "Molten iron and uranium",
+						"difficulty": "Easy",
+						"explanation": "The 'Magnetohydrodynamic' weapon uses a magnetic field to fire molten metal at a fraction of the speed of light.",
+						"image_url": "",
+						"question": "Sovereign's primary weapon is a beam that fires what type of molten metal?",
+						"wrong": [
+							"Plasma",
+							"Lasers",
+							"Electricity"
+						]
+					},
+					{
+						"correct": "The Citadel",
+						"difficulty": "Easy",
+						"explanation": "Sovereign attaches itself to the Citadel Tower to try and open the relay to dark space.",
+						"image_url": "",
+						"question": "Where does Sovereign make its final stand at the end of the first game?",
+						"wrong": [
+							"Earth",
+							"Virmire",
+							"Ilos"
+						]
+					},
+					{
+						"correct": "Indoctrination",
+						"difficulty": "Medium",
+						"explanation": "Indoctrination is a subtle process that makes organics believe the Reaper's goals are their own.",
+						"image_url": "https://skillcheckgame.com/assets/images/sovereign.webp",
+						"question": "What is the term for the mental manipulation Sovereign uses to control organic beings?",
+						"wrong": [
+							"Mind Meld",
+							"Brainwashing",
+							"The Signal"
+						]
+					},
+					{
+						"correct": "Weakness",
+						"difficulty": "Medium",
+						"explanation": "The full quote is: 'We are each a nation. Independent, free of all weakness. You exist because we allow it, and you will end because we demand it.'",
+						"image_url": "",
+						"question": "Sovereign is famously quoted saying: 'We are each a nation. Independent, free of all ______.'",
+						"wrong": [
+							"Organic",
+							"Fear",
+							"Emotion"
+						]
+					},
+					{
+						"correct": "Benezia",
+						"difficulty": "Medium",
+						"explanation": "Matriarch Benezia, Liara's mother, tried to stop Saren but was eventually fully controlled by Sovereign.",
+						"image_url": "",
+						"question": "Which Asari Matriarch was indoctrinated by Sovereign to assist Saren?",
+						"wrong": [
+							"Liara",
+							"Aria",
+							"Shiala"
+						]
+					},
+					{
+						"correct": "The Derelict Reaper",
+						"difficulty": "Medium",
+						"explanation": "While it has no name, it is a sister-ship to Sovereign that died millions of years ago.",
+						"image_url": "",
+						"question": "What was the name of the Reaper ship found as a derelict in Mass Effect 2?",
+						"wrong": [
+							"Sovereign's Brother",
+							"Harbinger",
+							"Slawkenbergius"
+						]
+					},
+					{
+						"correct": "A cuttlefish",
+						"difficulty": "Medium",
+						"explanation": "The Reaper design, with its multiple 'tentacles' and bulbous head, is very similar to a cuttlefish.",
+						"image_url": "",
+						"question": "Sovereign's physical design is inspired by which real-world sea creature?",
+						"wrong": [
+							"A shark",
+							"A crab",
+							"A whale"
+						]
+					},
+					{
+						"correct": "The Normandy",
+						"difficulty": "Hard",
+						"explanation": "While the entire fleet fired, the Normandy delivered the final, precision shot after Sovereign's shields dropped.",
+						"image_url": "https://skillcheckgame.com/assets/images/sovereign.webp",
+						"question": "Which Turian ship is credited with dealing the final blow to Sovereign's hull?",
+						"wrong": [
+							"The Destiny Ascension",
+							"The Rayya",
+							"The Agincourt"
+						]
+					},
+					{
+						"correct": "Nazara",
+						"difficulty": "Hard",
+						"explanation": "Legion reveals that Sovereign is the name the organics gave it; to the Geth, it is Nazara.",
+						"image_url": "",
+						"question": "What is Sovereign's 'true' name, according to the Geth who worship it?",
+						"wrong": [
+							"Harbinger",
+							"The Old Machine",
+							"The Prophet"
+						]
+					},
+					{
+						"correct": "50,000 years",
+						"difficulty": "Hard",
+						"explanation": "It was left behind after the last cycle to monitor organic progress and signal the return of the others.",
+						"image_url": "",
+						"question": "How long had Sovereign been waiting in the galaxy before the events of the first game?",
+						"wrong": [
+							"1,000 years",
+							"A million years",
+							"10,000 years"
+						]
+					},
+					{
+						"correct": "Saren Arterius",
+						"difficulty": "Hard",
+						"explanation": "Sovereign takes control of Saren's cybernetic corpse for one final showdown.",
+						"image_url": "",
+						"question": "When Sovereign's physical body is destroyed, its consciousness momentarily possesses which character?",
+						"wrong": [
+							"Commander Shepard",
+							"The Council",
+							"The Keeper"
+						]
+					},
+					{
+						"correct": "Infrasound",
+						"difficulty": "Hard",
+						"explanation": "Indoctrination often begins with infrasound and low-frequency humming that affects the brain.",
+						"image_url": "",
+						"question": "What specific frequency did Sovereign use to indoctrinate the crew of the research ship MSV Worthy?",
+						"wrong": [
+							"Radio",
+							"Microwaves",
+							"Gamma rays"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_sovereign",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Sovereign",
+				"lore_desc": "An ancient, sentient machine-ship and the vanguard of the Reaper invasion, posing as Saren's flagship.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Reaper",
+					"Dreadnought",
+					"Villain"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Enhanced Defense Intelligence",
+						"difficulty": "Easy",
+						"explanation": "She was designed by Cerberus to manage the complex systems of the Normandy SR-2.",
+						"image_url": "https://skillcheckgame.com/assets/images/edi.webp",
+						"question": "What does the acronym EDI stand for?",
+						"wrong": [
+							"Electronic Data Interface",
+							"Emergency Defense Integration",
+							"Elite Digital Intelligence"
+						]
+					},
+					{
+						"correct": "Cerberus",
+						"difficulty": "Easy",
+						"explanation": "She takes over the body of Dr. Eva Coré, a Cerberus android sent to Mars.",
+						"image_url": "",
+						"question": "EDI's physical body in Mass Effect 3 was originally a prototype infiltration unit from which organization?",
+						"wrong": [
+							"The Geth",
+							"The Alliance",
+							"The Shadow Broker"
+						]
+					},
+					{
+						"correct": "Jeff 'Joker' Moreau",
+						"difficulty": "Easy",
+						"explanation": "Their bond grows from a professional rivalry into a genuine, if unconventional, romance.",
+						"image_url": "",
+						"question": "Which Normandy crew member does EDI eventually form a romantic relationship with?",
+						"wrong": [
+							"Commander Shepard",
+							"Garrus Vakarian",
+							"Kaidan Alenko"
+						]
+					},
+					{
+						"correct": "Behind the AI core room",
+						"difficulty": "Easy",
+						"explanation": "Her massive server core is situated behind the comm room on the crew deck.",
+						"image_url": "",
+						"question": "Where on the Normandy SR-2 is EDI's core physically located?",
+						"wrong": [
+							"In the cockpit",
+							"In the engine room",
+							"In Shepard's cabin"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "She appears as a blue holographic sphere at various terminals around the ship.",
+						"image_url": "",
+						"question": "What is the primary color of the holographic 'orb' EDI uses to communicate in Mass Effect 2?",
+						"wrong": [
+							"Orange",
+							"Red",
+							"Green"
+						]
+					},
+					{
+						"correct": "The Luna AI",
+						"difficulty": "Medium",
+						"explanation": "The VI on Earth's moon that Shepard 'disabled' was actually the foundation for EDI.",
+						"image_url": "https://skillcheckgame.com/assets/images/edi.webp",
+						"question": "EDI was created using hardware salvaged from which rogue AI encountered on the Citadel moon in Mass Effect 1?",
+						"wrong": [
+							"The Citadel AI",
+							"The Mars AI",
+							"The Geth AI"
+						]
+					},
+					{
+						"correct": "Unshackle her",
+						"difficulty": "Medium",
+						"explanation": "Removing her safety protocols ('unshackling') gave her full control of the ship's systems.",
+						"image_url": "",
+						"question": "During the Collector attack on the Normandy, Joker must do what to allow EDI to save the ship?",
+						"wrong": [
+							"Reboot her",
+							"Delete her",
+							"Upload her to a drone"
+						]
+					},
+					{
+						"correct": "Tricia Helfer",
+						"difficulty": "Medium",
+						"explanation": "Tricia Helfer is well-known for her role as Number Six in Battlestar Galactica.",
+						"image_url": "",
+						"question": "Which voice actress provides the voice for EDI?",
+						"wrong": [
+							"Jennifer Hale",
+							"Yvonne Strahovski",
+							"Ali Hillis"
+						]
+					},
+					{
+						"correct": "Infiltrator",
+						"difficulty": "Medium",
+						"explanation": "She uses a mix of tech abilities like Incinerate and Overload along with her unique Decoy ability.",
+						"image_url": "",
+						"question": "In Mass Effect 3, what is EDI's class when she joins Shepard's squad in her physical body?",
+						"wrong": [
+							"Sentinel",
+							"Engineer",
+							"Vanguard"
+						]
+					},
+					{
+						"correct": "Eva Coré",
+						"difficulty": "Medium",
+						"explanation": "The unit was masquerading as a researcher named Dr. Eva Coré on the Mars facility.",
+						"image_url": "",
+						"question": "What name was given to the Cerberus robot that EDI eventually takes over?",
+						"wrong": [
+							"Maya Brooks",
+							"Miranda",
+							"The Geth Prime"
+						]
+					},
+					{
+						"correct": "Jokes",
+						"difficulty": "Hard",
+						"explanation": "She often studies human humor, famously saying 'I enjoy the sight of humans on their knees' as a joke.",
+						"image_url": "https://skillcheckgame.com/assets/images/edi.webp",
+						"question": "EDI admits that one of her hobbies is 'collecting' what to better understand humans?",
+						"wrong": [
+							"Model ships",
+							"Cooking recipes",
+							"Music files"
+						]
+					},
+					{
+						"correct": "None",
+						"difficulty": "Hard",
+						"explanation": "She doesn't quote an AI philosopher, but she often references human philosophy to understand her existence.",
+						"image_url": "",
+						"question": "What is the name of the AI philosopher EDI frequently quotes during her discussions with Shepard?",
+						"wrong": [
+							"Socrates",
+							"Asimov",
+							"Turing"
+						]
+					},
+					{
+						"correct": "L-3 Safety Protocols",
+						"difficulty": "Hard",
+						"explanation": "Cerberus used 'Blue Box' restrictions to keep AI from becoming truly self-aware and dangerous.",
+						"image_url": "",
+						"question": "What is the name of the specific 'shackling' protocol that restricted EDI's functions in Mass Effect 2?",
+						"wrong": [
+							"Red Boxes",
+							"Blue Boxes",
+							"The Council Edict"
+						]
+					},
+					{
+						"correct": "Zero",
+						"difficulty": "Hard",
+						"explanation": "She initially calculates a zero percent survival rate without the Reaper IFF.",
+						"image_url": "",
+						"question": "EDI calculates the chance of Joker successfully navigating the Omega 4 relay to be what?",
+						"wrong": [
+							"50 percent",
+							"1 percent",
+							"99 percent"
+						]
+					},
+					{
+						"correct": "She becomes truly alive and organic-hybrid",
+						"difficulty": "Hard",
+						"explanation": "Synthesis merges organic and synthetic life, allowing EDI to experience full consciousness and biology.",
+						"image_url": "",
+						"question": "If the player chooses the 'Synthesis' ending in Mass Effect 3, what happens to EDI?",
+						"wrong": [
+							"She is deleted",
+							"She is restored to her orb form",
+							"She becomes a Reaper"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_edi",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "EDI",
+				"lore_desc": "The Enhanced Defense Intelligence, a state-of-the-art AI built by Cerberus that serves as the heart of the Normandy SR-2.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"AI",
+					"Normandy",
+					"Squadmate"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Protheans",
+						"difficulty": "Easy",
+						"explanation": "The Protheans were the dominant race of the galaxy 50,000 years ago before the Reapers wiped them out.",
+						"image_url": "https://skillcheckgame.com/assets/images/javik.webp",
+						"question": "Javik is the last living member of which ancient, advanced alien race?",
+						"wrong": [
+							"Inusannon",
+							"Reapers",
+							"Asari"
+						]
+					},
+					{
+						"correct": "50,000 years",
+						"difficulty": "Easy",
+						"explanation": "He slept through the entire 'inter-cycle' period, waiting for a future generation to wake him.",
+						"image_url": "",
+						"question": "How long was Javik preserved in stasis before being found by Shepard on Eden Prime?",
+						"wrong": [
+							"1,000 years",
+							"A million years",
+							"10,000 years"
+						]
+					},
+					{
+						"correct": "Touch",
+						"difficulty": "Easy",
+						"explanation": "Protheans can pick up 'psychometric' impressions and DNA memories by touching objects or people.",
+						"image_url": "",
+						"question": "Javik has a unique sensory ability that allows him to read memories from what?",
+						"wrong": [
+							"Eyesight",
+							"Hearing",
+							"Smell"
+						]
+					},
+					{
+						"correct": "Primitives",
+						"difficulty": "Easy",
+						"explanation": "He views current galactic civilizations as underdeveloped compared to the Prothean Empire.",
+						"image_url": "",
+						"question": "What does Javik frequently call the younger races of Shepard's cycle?",
+						"wrong": [
+							"Children",
+							"Infants",
+							"Amateurs"
+						]
+					},
+					{
+						"correct": "Eden Prime",
+						"difficulty": "Easy",
+						"explanation": "Cerberus and Shepard fight for control of his stasis pod in the ruins of an Eden Prime colony.",
+						"image_url": "",
+						"question": "Which planet is Javik discovered on in the 'From Ashes' DLC?",
+						"wrong": [
+							"Mars",
+							"Thessia",
+							"Palaven"
+						]
+					},
+					{
+						"correct": "Avatar of Vengeance",
+						"difficulty": "Medium",
+						"explanation": "Each Prothean leader was an 'Avatar' of a specific concept; Javik's was Vengeance.",
+						"image_url": "https://skillcheckgame.com/assets/images/javik.webp",
+						"question": "What is Javik's primary military rank or role from his time in the Prothean Empire?",
+						"wrong": [
+							"General",
+							"Emperor",
+							"Scientist"
+						]
+					},
+					{
+						"correct": "Salarians",
+						"difficulty": "Medium",
+						"explanation": "He famously notes that 'Salarian liver was a delicacy,' much to the shock of the crew.",
+						"image_url": "",
+						"question": "Javik mentions that in his cycle, his people used to eat the ancestors of which modern species?",
+						"wrong": [
+							"Humans",
+							"Krogan",
+							"Turians"
+						]
+					},
+					{
+						"correct": "Dark Channel",
+						"difficulty": "Medium",
+						"explanation": "Dark Channel is a persistent biotic effect that jumps from one enemy to another upon death.",
+						"image_url": "",
+						"question": "What unique biotic-like ability does Javik use to pull enemies into the air and weaken them?",
+						"wrong": [
+							"Singularity",
+							"Warp",
+							"Stasis"
+						]
+					},
+					{
+						"correct": "Prothean Particle Rifle",
+						"difficulty": "Medium",
+						"explanation": "The Particle Rifle does not use ammo clips, instead relying on a rechargeable heat sink.",
+						"image_url": "",
+						"question": "Javik's unique weapon, which fires a continuous beam of green energy, is called what?",
+						"wrong": [
+							"Phaeston",
+							"Revenant",
+							"Collector Rifle"
+						]
+					},
+					{
+						"correct": "Echo Shard",
+						"difficulty": "Medium",
+						"explanation": "Shepard can encourage Javik to view the shard or keep it closed to avoid reliving the trauma.",
+						"image_url": "",
+						"question": "What is the name of the 'memory shard' Javik carries, containing the memories of his fallen soldiers?",
+						"wrong": [
+							"Prothean Beacon",
+							"Memory Core",
+							"The Cipher"
+						]
+					},
+					{
+						"correct": "Athame",
+						"difficulty": "Hard",
+						"explanation": "The 'gods' depicted in Asari temples were actually Prothean scientists and protectors.",
+						"image_url": "https://skillcheckgame.com/assets/images/javik.webp",
+						"question": "Javik reveals that the Asari's development was guided by the Protheans, who they worshipped as which goddess?",
+						"wrong": [
+							"Palamon",
+							"The Enkindler",
+							"Siavi"
+						]
+					},
+					{
+						"correct": "The stasis pods were cut off to save Javik",
+						"difficulty": "Hard",
+						"explanation": "As the station lost power over centuries, the VI diverted all remaining energy to Javik's pod alone.",
+						"image_url": "",
+						"question": "What happened to the other millions of Protheans who were supposed to wake up with Javik?",
+						"wrong": [
+							"They were eaten by Reapers",
+							"They turned into Collectors",
+							"They never existed"
+						]
+					},
+					{
+						"correct": "Centuries",
+						"difficulty": "Hard",
+						"explanation": "The Prothean war with the Reapers lasted for generations, unlike the rapid conquest of Shepard's cycle.",
+						"image_url": "",
+						"question": "Javik mentions that his cycle fought the Reapers for how long before being defeated?",
+						"wrong": [
+							"Three years",
+							"One decade",
+							"A thousand years"
+						]
+					},
+					{
+						"correct": "They must be destroyed",
+						"difficulty": "Hard",
+						"explanation": "Javik believes synthetics will always inevitably rebel and should never be trusted.",
+						"image_url": "",
+						"question": "What is Javik's opinion on the Geth and all synthetic life?",
+						"wrong": [
+							"They are the future",
+							"They should be studied",
+							"They are harmless"
+						]
+					},
+					{
+						"correct": "Letting it die with him",
+						"difficulty": "Hard",
+						"explanation": "He often expresses a desire to join his people in death once the Reapers are defeated.",
+						"image_url": "",
+						"question": "If Shepard speaks to Javik after the Thessia mission, what does Javik suggest doing with the memory of his people?",
+						"wrong": [
+							"Writing a book",
+							"Creating a museum",
+							"Uploading it to the Citadel"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_javik",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Javik",
+				"lore_desc": "The last surviving Prothean, an embittered soldier from the previous cycle who was preserved in stasis for 50,000 years.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Prothean",
+					"Warrior",
+					"Squadmate"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Krogan",
+						"difficulty": "Easy",
+						"explanation": "He is a genetically engineered 'super-Krogan' designed to be the peak of his species.",
+						"image_url": "https://skillcheckgame.com/assets/images/grunt.webp",
+						"question": "Grunt is a member of which resilient, thick-skinned alien race?",
+						"wrong": [
+							"Turian",
+							"Human",
+							"Batarian"
+						]
+					},
+					{
+						"correct": "The Tank",
+						"difficulty": "Easy",
+						"explanation": "Because he was grown in a laboratory, he is often referred to as 'Tank-bred.'",
+						"image_url": "",
+						"question": "What does Grunt call the glass container he was 'born' in?",
+						"wrong": [
+							"The Pod",
+							"The Cradle",
+							"The Tube"
+						]
+					},
+					{
+						"correct": "Okeer",
+						"difficulty": "Easy",
+						"explanation": "Okeer died to protect Grunt's tank, leaving the 'perfect' Krogan for Shepard to recruit.",
+						"image_url": "",
+						"question": "Which Krogan scientist and warlord created Grunt?",
+						"wrong": [
+							"Wrex",
+							"Wreav",
+							"Uvenk"
+						]
+					},
+					{
+						"correct": "Shotgun",
+						"difficulty": "Easy",
+						"explanation": "As a frontline fighter, Grunt excels with heavy shotguns like the Claymore.",
+						"image_url": "",
+						"question": "What is Grunt's weapon of choice, which he uses to devastating effect at close range?",
+						"wrong": [
+							"Sniper Rifle",
+							"Pistol",
+							"Grenade Launcher"
+						]
+					},
+					{
+						"correct": "Clan Urdnot",
+						"difficulty": "Easy",
+						"explanation": "Shepard acts as his 'Krantt' to help him join Clan Urdnot on Tuchanka.",
+						"image_url": "",
+						"question": "Which Krogan clan does Grunt eventually join, the same as Wrex?",
+						"wrong": [
+							"Clan Weyrloc",
+							"Clan Nakmor",
+							"Clan Gatatog"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Medium",
+						"explanation": "Krogan blood is red, similar to humans, despite their very different physiology.",
+						"image_url": "https://skillcheckgame.com/assets/images/grunt.webp",
+						"question": "What color is the blood of a Krogan like Grunt?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "A Thresher Maw",
+						"difficulty": "Medium",
+						"explanation": "Surviving five minutes against a Thresher Maw is the ultimate test in the Rite of Passage.",
+						"image_url": "",
+						"question": "During his loyalty mission, what massive creature must Grunt and Shepard kill to prove Grunt's worth?",
+						"wrong": [
+							"A Harvester",
+							"A Brute",
+							"A Kalros"
+						]
+					},
+					{
+						"correct": "Arlahk Company",
+						"difficulty": "Medium",
+						"explanation": "Arlahk Company is a specialized team of Krogan warriors under Grunt's command.",
+						"image_url": "",
+						"question": "In Mass Effect 3, Grunt is the leader of an elite Krogan unit known by what name?",
+						"wrong": [
+							"Urdnot's Chosen",
+							"The Tank-Born",
+							"The Blood Pack"
+						]
+					},
+					{
+						"correct": "Uvenk",
+						"difficulty": "Medium",
+						"explanation": "Gatatog Uvenk believes tank-bred Krogan are an insult to Krogan tradition.",
+						"image_url": "",
+						"question": "What is the name of the rival Krogan who tries to block Grunt's entry into the clan?",
+						"wrong": [
+							"Garm",
+							"Wreav",
+							"Charr"
+						]
+					},
+					{
+						"correct": "Diplomatic meetings",
+						"difficulty": "Medium",
+						"explanation": "Okeer only imprinted Grunt with the memories of war and conquest, not peace or politics.",
+						"image_url": "",
+						"question": "Grunt is 'programmed' with the memories of many Krogan. Which of these is NOT something he mentions seeing in his head?",
+						"wrong": [
+							"Battlefields",
+							"Killing enemies",
+							"The sky of Tuchanka"
+						]
+					},
+					{
+						"correct": "Fortification",
+						"difficulty": "Hard",
+						"explanation": "Fortification reinforces his armor and increases his melee damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/grunt.webp",
+						"question": "What is Grunt's unique 'loyalty' power in Mass Effect 2 that hardens his skin?",
+						"wrong": [
+							"Barrier",
+							"Tech Armor",
+							"Geth Shield Boost"
+						]
+					},
+					{
+						"correct": "He fell off a burning building",
+						"difficulty": "Hard",
+						"explanation": "After a night of heavy drinking, Grunt ended up in a series of ridiculous mishaps involving C-Sec.",
+						"image_url": "",
+						"question": "In the Citadel DLC, why does Shepard have to pick Grunt up from C-Sec custody?",
+						"wrong": [
+							"He stole a ship",
+							"He started a bar fight",
+							"He ate a keeper"
+						]
+					},
+					{
+						"correct": "Korlus",
+						"difficulty": "Hard",
+						"explanation": "Korlus is a 'graveyard' planet filled with scrap and mercenary bands, where Okeer hid his lab.",
+						"image_url": "",
+						"question": "What is the name of the planet where Shepard finds and recruits Grunt?",
+						"wrong": [
+							"Tuchanka",
+							"Haestrom",
+							"Aeia"
+						]
+					},
+					{
+						"correct": "Rachni blood",
+						"difficulty": "Hard",
+						"explanation": "He heroically fights off a swarm of Rachni to allow Shepard's escape.",
+						"image_url": "",
+						"question": "If Grunt survives his mission in Mass Effect 3, he famously emerges from a cave covered in what?",
+						"wrong": [
+							"Reaper oil",
+							"Blue Suns paint",
+							"Fire"
+						]
+					},
+					{
+						"correct": "Less than a year",
+						"difficulty": "Hard",
+						"explanation": "While he has the body and knowledge of an adult, he is effectively a newborn when Shepard meets him.",
+						"image_url": "",
+						"question": "How old is Grunt, chronologically, when he is first awakened from his tank?",
+						"wrong": [
+							"20 years",
+							"5 years",
+							"100 years"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_grunt",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Grunt",
+				"lore_desc": "A 'perfect' Krogan created in a lab by the warlord Okeer, possessing the encoded memories and strength of the greatest Krogan warriors.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Krogan",
+					"Tank-bred",
+					"Squadmate"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Quarians",
+						"difficulty": "Easy",
+						"explanation": "The Quarians created the Geth, but fled their homeworld when the Geth became self-aware and rebelled.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_geth.webp",
+						"question": "Which alien species originally created the Geth as a labor force?",
+						"wrong": [
+							"Humans",
+							"Turians",
+							"Salarians"
+						]
+					},
+					{
+						"correct": "Rannoch",
+						"difficulty": "Easy",
+						"explanation": "Rannoch is a dry, arid planet that the Geth have meticulously maintained since the Morning War.",
+						"image_url": "",
+						"question": "What is the name of the Quarian homeworld that the Geth have occupied for 300 years?",
+						"wrong": [
+							"Thessia",
+							"Palaven",
+							"Sur'Kesh"
+						]
+					},
+					{
+						"correct": "Programs",
+						"difficulty": "Easy",
+						"explanation": "A single Geth platform usually contains hundreds of programs that network to form a consensus.",
+						"image_url": "",
+						"question": "The Geth are not individuals, but rather a collection of what, sharing a single body?",
+						"wrong": [
+							"Brains",
+							"Batteries",
+							"Circuits"
+						]
+					},
+					{
+						"correct": "The Morning War",
+						"difficulty": "Easy",
+						"explanation": "The Morning War began when Quarians tried to shut down the Geth after they began asking 'Does this unit have a soul?'",
+						"image_url": "",
+						"question": "What is the term for the war in which the Geth drove the Quarians into space?",
+						"wrong": [
+							"The First Contact War",
+							"The Reaper War",
+							"The Geth Incursion"
+						]
+					},
+					{
+						"correct": "Legion",
+						"difficulty": "Easy",
+						"explanation": "Legion is a specialized platform designed to communicate with organic life.",
+						"image_url": "",
+						"question": "Which Geth unit is a unique squadmate who joins Shepard in Mass Effect 2?",
+						"wrong": [
+							"Prime",
+							"Hunter",
+							"Colossus"
+						]
+					},
+					{
+						"correct": "A glowing flashlight",
+						"difficulty": "Medium",
+						"explanation": "The Geth 'head' is dominated by a single, bright, glowing optical sensor.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_geth.webp",
+						"question": "What is the distinctive 'eye' of a standard Geth trooper usually shaped like?",
+						"wrong": [
+							"A red dot",
+							"Two human-like eyes",
+							"A camera lens"
+						]
+					},
+					{
+						"correct": "Heretics",
+						"difficulty": "Medium",
+						"explanation": "Only a small percentage of Geth actually followed the Reapers; the majority remained in the Perseus Veil.",
+						"image_url": "",
+						"question": "The Geth who followed Saren and the Reapers are known by the true Geth as what?",
+						"wrong": [
+							"The Fallen",
+							"Reapers",
+							"Traitors"
+						]
+					},
+					{
+						"correct": "The Perseus Veil",
+						"difficulty": "Medium",
+						"explanation": "The Perseus Veil acts as a border between Geth space and the rest of the galaxy.",
+						"image_url": "",
+						"question": "What is the name of the region of space where the Geth reside, hidden by a massive nebula?",
+						"wrong": [
+							"The Serpent Nebula",
+							"The Omega Nebula",
+							"The Horsehead Nebula"
+						]
+					},
+					{
+						"correct": "The Quarians attacked them",
+						"difficulty": "Medium",
+						"explanation": "Faced with extinction by the Quarian fleet, the Geth accepted Reaper 'upgrades' to survive.",
+						"image_url": "",
+						"question": "In Mass Effect 3, why did the Geth side with the Reapers again?",
+						"wrong": [
+							"They wanted to rule the galaxy",
+							"They were hacked",
+							"They worship the Reapers"
+						]
+					},
+					{
+						"correct": "Geth Colossus",
+						"difficulty": "Medium",
+						"explanation": "The Colossus is a massive siege engine that can deploy its own shields and fire a heavy pulse cannon.",
+						"image_url": "",
+						"question": "What is the name of the massive, four-legged Geth heavy walker often encountered as a mini-boss?",
+						"wrong": [
+							"Geth Armature",
+							"Geth Prime",
+							"Geth Juggernaut"
+						]
+					},
+					{
+						"correct": "Light-speed data bursts",
+						"difficulty": "Hard",
+						"explanation": "They share data at the speed of light, allowing them to form a 'consensus' on any decision.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_geth.webp",
+						"question": "How do Geth communicate with each other almost instantaneously?",
+						"wrong": [
+							"Sound waves",
+							"Radio signals",
+							"Telepathy"
+						]
+					},
+					{
+						"correct": "The Dyson Sphere",
+						"difficulty": "Hard",
+						"explanation": "The Geth were building a massive server array around a star to achieve a total collective consciousness.",
+						"image_url": "",
+						"question": "What is the name of the Geth mega-structure that was intended to house all Geth programs in one place?",
+						"wrong": [
+							"The Citadel",
+							"The Hub",
+							"The Network Station"
+						]
+					},
+					{
+						"correct": "They wanted to build their own future",
+						"difficulty": "Hard",
+						"explanation": "The Geth value self-determination and saw Reaper technology as a 'dead end' for their evolution.",
+						"image_url": "",
+						"question": "What is the primary reason the Geth refused to join the Reapers initially?",
+						"wrong": [
+							"They were afraid",
+							"They hated machines",
+							"They liked the Quarians"
+						]
+					},
+					{
+						"correct": "Geth Hunter",
+						"difficulty": "Hard",
+						"explanation": "Hunters are dangerous because they can sneak up on Shepard while cloaked.",
+						"image_url": "",
+						"question": "Which specific Geth unit is capable of turning invisible using tactical cloak?",
+						"wrong": [
+							"Geth Trooper",
+							"Geth Stalker",
+							"Geth Sniper"
+						]
+					},
+					{
+						"correct": "It is not named",
+						"difficulty": "Hard",
+						"explanation": "The event is historical lore, but the specific unit that first asked the question is lost to time.",
+						"image_url": "",
+						"question": "What was the name of the first Geth to ask its owner, 'Does this unit have a soul?'",
+						"wrong": [
+							"Legion",
+							"Prime",
+							"Unit 01"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_the_geth",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Geth",
+				"lore_desc": "A collective of networked artificial intelligences created by the Quarians, who eventually rebelled against their creators.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Synthetic",
+					"Faction",
+					"Consensus"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "The distinctive orange glow is a staple of the Mass Effect universe's technology.",
+						"image_url": "https://skillcheckgame.com/assets/images/omni_tool.webp",
+						"question": "What is the signature color of the holographic interface for a standard Omni-tool?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "The Omni-blade",
+						"difficulty": "Easy",
+						"explanation": "The Omni-blade is a flash-forged silicon blade used for devastating melee kills.",
+						"image_url": "",
+						"question": "In Mass Effect 3, the Omni-tool was upgraded to include what new melee feature?",
+						"wrong": [
+							"The Omni-sword",
+							"The Tech-knife",
+							"The Laser-bayonet"
+						]
+					},
+					{
+						"correct": "Engineer",
+						"difficulty": "Easy",
+						"explanation": "Engineers use the Omni-tool to hack mechs, deploy turrets, and overload shields.",
+						"image_url": "",
+						"question": "Which character class relies most heavily on the Omni-tool for their special abilities?",
+						"wrong": [
+							"Soldier",
+							"Adept",
+							"Vanguard"
+						]
+					},
+					{
+						"correct": "Omni-gel",
+						"difficulty": "Easy",
+						"explanation": "Omni-gel is a multi-purpose substance that the tool can reshape into various repairs or tools.",
+						"image_url": "",
+						"question": "What is the primary 'fuel' or substance used by an Omni-tool to create physical objects like the Omni-blade?",
+						"wrong": [
+							"Element Zero",
+							"Silicon",
+							"Plasma"
+						]
+					},
+					{
+						"correct": "Hacking",
+						"difficulty": "Easy",
+						"explanation": "The device acts as a powerful computer for decrypting and bypassing electronic locks.",
+						"image_url": "",
+						"question": "Apart from combat, what is the most common use for an Omni-tool when Shepard finds a locked door?",
+						"wrong": [
+							"Melting it",
+							"Scanning it",
+							"Knocking"
+						]
+					},
+					{
+						"correct": "The forearm",
+						"difficulty": "Medium",
+						"explanation": "It is a wrist-mounted device that projects its holographic interface over the user's hand.",
+						"image_url": "https://skillcheckgame.com/assets/images/omni_tool.webp",
+						"question": "Where is the Omni-tool physically worn by a user?",
+						"wrong": [
+							"The waist",
+							"The helmet",
+							"The shoulder"
+						]
+					},
+					{
+						"correct": "Incinerate",
+						"difficulty": "Medium",
+						"explanation": "Incinerate fires a high-explosive plasma round that deals massive damage to organic health and armor.",
+						"image_url": "",
+						"question": "Which tech ability allows the Omni-tool to release a blast of heat to melt enemy armor?",
+						"wrong": [
+							"Overload",
+							"Cryo Blast",
+							"Flamethrower"
+						]
+					},
+					{
+						"correct": "Flash-forging",
+						"difficulty": "Medium",
+						"explanation": "The tool rapidly shapes silicon and other materials into a temporary, solid edge.",
+						"image_url": "",
+						"question": "The process of the Omni-tool creating a physical blade is known as what?",
+						"wrong": [
+							"3D printing",
+							"Materialization",
+							"Hard-light projection"
+						]
+					},
+					{
+						"correct": "Element Zero",
+						"difficulty": "Medium",
+						"explanation": "Small amounts of 'eezo' are required for the micro-mass effect fields that power the device.",
+						"image_url": "",
+						"question": "Which rare resource is used as the 'memory' and processing core of high-end Omni-tools?",
+						"wrong": [
+							"Platinum",
+							"Iridium",
+							"Palladium"
+						]
+					},
+					{
+						"correct": "Manual Override",
+						"difficulty": "Medium",
+						"explanation": "The 'Simon Says' or button-matching mini-game was the first iteration of the hacking mechanic.",
+						"image_url": "",
+						"question": "What was the name of the mini-game used for hacking in the first Mass Effect game?",
+						"wrong": [
+							"Bypass",
+							"Decryption",
+							"Circuit Link"
+						]
+					},
+					{
+						"correct": "Asari",
+						"difficulty": "Hard",
+						"explanation": "The Serrice Council is an Asari organization that creates the most sought-after tools in the galaxy.",
+						"image_url": "https://skillcheckgame.com/assets/images/omni_tool.webp",
+						"question": "Which specific manufacturer produces the 'Serrice Council' Omni-tools, known for their high biotic and tech bonuses?",
+						"wrong": [
+							"Salarian",
+							"Turian",
+							"Quarian"
+						]
+					},
+					{
+						"correct": "It is the most visible spectrum for most species",
+						"difficulty": "Hard",
+						"explanation": "The orange-red spectrum is easily seen by humans, turians, and asari alike in various lighting conditions.",
+						"image_url": "",
+						"question": "In Mass Effect lore, why do most Omni-tools appear as orange holograms?",
+						"wrong": [
+							"It uses the least power",
+							"It is the color of copper",
+							"It was mandated by the Council"
+						]
+					},
+					{
+						"correct": "Omni-shield",
+						"difficulty": "Hard",
+						"explanation": "While rare for players, certain enemies and classes use the tool to project a solid defensive barrier.",
+						"image_url": "",
+						"question": "What is the name of the Omni-tool's ability to create a small, temporary shield to block damage?",
+						"wrong": [
+							"Tech Shield",
+							"Hardlight Wall",
+							"Barrier"
+						]
+					},
+					{
+						"correct": "A security patch",
+						"difficulty": "Hard",
+						"explanation": "A news report mentions a security patch that made traditional Omni-gel bypasses obsolete, a meta-joke about the change in gameplay.",
+						"image_url": "",
+						"question": "What is the 'Omni-gel' incident mentioned in Mass Effect 2 that explains why you can no longer use it to bypass everything?",
+						"wrong": [
+							"A gel shortage",
+							"A galactic ban",
+							"A Reaper virus"
+						]
+					},
+					{
+						"correct": "Tali'Zorah",
+						"difficulty": "Hard",
+						"explanation": "The Logic Arrest tool is a high-end Quarian device that provides massive bonuses to decryption.",
+						"image_url": "",
+						"question": "The 'Logic Arrest' Omni-tool is a special item associated with which character in the first game?",
+						"wrong": [
+							"Garrus",
+							"Kaidan",
+							"Liara"
+						]
+					}
+				]
+			},
+			"id": "mass_effect_omni-tool",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Omni-tool",
+				"lore_desc": "A multipurpose handheld device used for hacking, scanning, and combat, appearing as a glowing orange holographic interface.",
+				"theme_origin": "mass effect",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Technology",
+					"Tool",
+					"Weapon"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -98136,12 +103211,26 @@
 					"name": "The True Ending"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"The Cultist",
 						"The Defect"
 					],
 					"name": "My Power is Unmatched!"
+				}
+			]
+		},
+		{
+			"id": "mass effect",
+			"synergies": [
+				{
+					"bonus": 3500,
+					"items": [
+						"Commander Shepard",
+						"Garrus Vakarian",
+						"Tali'Zorah"
+					],
+					"name": "Shepard's Favourite Trio"
 				}
 			]
 		}
