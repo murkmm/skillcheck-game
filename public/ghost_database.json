@@ -807,6 +807,7 @@
 	],
 	"games": [
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -912,6 +913,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1005,6 +1007,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1098,6 +1101,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1191,6 +1195,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1296,6 +1301,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1401,6 +1407,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1506,6 +1513,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1611,6 +1619,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1704,6 +1713,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1809,6 +1819,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1902,6 +1913,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -1995,6 +2007,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2088,6 +2101,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2181,6 +2195,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2274,6 +2289,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2379,6 +2395,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2472,6 +2489,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2541,6 +2559,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2646,6 +2665,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2739,6 +2759,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -2844,6 +2865,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -3117,6 +3139,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -3414,6 +3437,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -3627,6 +3651,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -3780,6 +3805,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -3957,6 +3983,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -4050,6 +4077,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -4143,6 +4171,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -4272,6 +4301,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -4473,6 +4503,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -4710,6 +4741,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -4815,6 +4847,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -4992,6 +5025,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5097,6 +5131,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5178,6 +5213,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5307,6 +5343,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5448,6 +5485,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5577,6 +5615,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5694,6 +5733,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5787,6 +5827,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5904,6 +5945,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -5997,6 +6039,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6078,6 +6121,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6183,6 +6227,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6264,6 +6309,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6345,6 +6391,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6426,6 +6473,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6519,6 +6567,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6588,6 +6637,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6693,6 +6743,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6798,6 +6849,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -6903,6 +6955,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7008,6 +7061,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7113,6 +7167,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7218,6 +7273,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7323,6 +7379,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7428,6 +7485,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7533,6 +7591,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7626,6 +7685,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7719,6 +7779,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7812,6 +7873,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -7905,6 +7967,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8010,6 +8073,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8103,6 +8167,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8208,6 +8273,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8313,6 +8379,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8406,6 +8473,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8511,6 +8579,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8604,6 +8673,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8709,6 +8779,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8814,6 +8885,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -8907,6 +8979,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9000,6 +9073,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9093,6 +9167,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9186,6 +9261,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9279,6 +9355,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9372,6 +9449,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9477,6 +9555,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9570,6 +9649,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9651,6 +9731,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9756,6 +9837,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9813,6 +9895,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -9918,6 +10001,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10011,6 +10095,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10104,6 +10189,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10197,6 +10283,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10302,6 +10389,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10395,6 +10483,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10488,6 +10577,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10593,6 +10683,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10698,6 +10789,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10791,6 +10883,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10884,6 +10977,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -10977,6 +11071,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11082,6 +11177,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11175,6 +11271,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11268,6 +11365,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11373,6 +11471,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11478,6 +11577,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11571,6 +11671,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11664,6 +11765,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11745,6 +11847,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11814,6 +11917,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -11919,6 +12023,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12012,6 +12117,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12117,6 +12223,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12210,6 +12317,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12339,6 +12447,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12504,6 +12613,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12597,6 +12707,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12702,6 +12813,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12831,6 +12943,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -12924,6 +13037,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -13077,6 +13191,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -13170,6 +13285,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -13263,6 +13379,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -13392,6 +13509,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -13509,6 +13627,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -13650,6 +13769,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -13820,6 +13940,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -13917,6 +14038,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14063,6 +14185,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14221,6 +14344,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14319,6 +14443,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14416,6 +14541,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14491,6 +14617,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14601,6 +14728,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14711,6 +14839,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14809,6 +14938,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14896,6 +15026,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -14953,6 +15084,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15070,6 +15202,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15115,6 +15248,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15160,6 +15294,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15217,6 +15352,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15334,6 +15470,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15391,6 +15528,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15484,6 +15622,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15577,6 +15716,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15694,6 +15834,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15787,6 +15928,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -15916,6 +16058,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -16105,6 +16248,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -16258,6 +16402,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -16375,6 +16520,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -16480,6 +16626,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -16609,6 +16756,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -16750,6 +16898,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -16867,6 +17016,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -16984,6 +17134,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17089,6 +17240,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17242,6 +17394,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17371,6 +17524,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17425,6 +17579,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17479,6 +17634,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17533,6 +17689,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17587,6 +17744,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17641,6 +17799,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17684,6 +17843,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17738,6 +17898,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17792,6 +17953,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17846,6 +18008,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -17889,6 +18052,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18018,6 +18182,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18147,6 +18312,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18276,6 +18442,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18393,6 +18560,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18510,6 +18678,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18627,6 +18796,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18744,6 +18914,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18849,6 +19020,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -18954,6 +19126,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -19047,6 +19220,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -19152,6 +19326,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -19233,6 +19408,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -19422,6 +19598,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -19611,6 +19788,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -19788,6 +19966,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -19977,6 +20156,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -20166,6 +20346,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -20355,6 +20536,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -20544,6 +20726,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -20733,6 +20916,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -20922,6 +21106,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -21111,6 +21296,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -21231,6 +21417,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -21340,6 +21527,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -21460,6 +21648,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -21569,6 +21758,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -21689,6 +21879,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -21809,6 +22000,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -21918,6 +22110,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22038,6 +22231,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22158,6 +22352,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22275,6 +22470,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22404,6 +22600,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22521,6 +22718,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22638,6 +22836,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22755,6 +22954,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22872,6 +23072,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -22989,6 +23190,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -23106,6 +23308,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -23235,6 +23438,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -23364,6 +23568,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -23481,6 +23686,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -23610,6 +23816,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -23727,6 +23934,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -23832,6 +24040,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -23949,6 +24158,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -24078,6 +24288,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -24195,6 +24406,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -24300,6 +24512,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -24417,6 +24630,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -24546,6 +24760,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -24666,6 +24881,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -24786,6 +25002,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -24906,6 +25123,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25026,6 +25244,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25146,6 +25365,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25266,6 +25486,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25386,6 +25607,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25506,6 +25728,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25626,6 +25849,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25746,6 +25970,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25866,6 +26091,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -25987,6 +26213,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -26107,6 +26334,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -26227,6 +26455,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -26347,6 +26576,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -26467,6 +26697,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -26587,6 +26818,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -26707,6 +26939,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -26827,6 +27060,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -26947,6 +27181,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27058,6 +27293,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27169,6 +27405,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27280,6 +27517,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27391,6 +27629,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27502,6 +27741,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27613,6 +27853,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27724,6 +27965,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27835,6 +28077,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -27946,6 +28189,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28057,6 +28301,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28168,6 +28413,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28279,6 +28525,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28390,6 +28637,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28501,6 +28749,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28612,6 +28861,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28723,6 +28973,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28777,6 +29028,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28831,6 +29083,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28885,6 +29138,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28939,6 +29193,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -28993,6 +29248,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29047,6 +29303,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29101,6 +29358,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29155,6 +29413,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29209,6 +29468,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29263,6 +29523,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29317,6 +29578,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29371,6 +29633,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29425,6 +29688,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29479,6 +29743,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29533,6 +29798,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29587,6 +29853,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29664,6 +29931,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29741,6 +30009,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29818,6 +30087,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29895,6 +30165,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -29973,6 +30244,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30050,6 +30322,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30127,6 +30400,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30204,6 +30478,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30281,6 +30556,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30358,6 +30634,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30435,6 +30712,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30512,6 +30790,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30589,6 +30868,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30666,6 +30946,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30743,6 +31024,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30820,6 +31102,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -30930,6 +31213,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -31095,6 +31379,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -31260,6 +31545,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -31370,6 +31656,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -31535,6 +31822,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -31590,6 +31878,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -31645,6 +31934,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -31810,6 +32100,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -31920,6 +32211,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -32085,6 +32377,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -32250,6 +32543,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -32305,6 +32599,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -32470,6 +32765,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -32635,6 +32931,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -32690,6 +32987,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -32800,6 +33098,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -32987,6 +33286,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -33174,6 +33474,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -33361,6 +33662,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -33548,6 +33850,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -33735,6 +34038,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -33922,6 +34226,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -34109,6 +34414,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -34296,6 +34602,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -34483,6 +34790,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -34670,6 +34978,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -34857,6 +35166,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -35044,6 +35354,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -35231,6 +35542,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -35418,6 +35730,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -35605,6 +35918,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -35792,6 +36106,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -35979,6 +36294,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -36166,6 +36482,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -36353,6 +36670,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -36540,6 +36858,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -36727,6 +37046,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -36914,6 +37234,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -37101,6 +37422,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -37288,6 +37610,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -37475,6 +37798,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -37662,6 +37986,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -37849,6 +38174,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -38036,6 +38362,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -38223,6 +38550,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -38410,6 +38738,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -38597,6 +38926,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -38784,6 +39114,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -38971,6 +39302,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -39158,6 +39490,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -39345,6 +39678,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -39532,6 +39866,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -39719,6 +40054,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -39906,6 +40242,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -40093,6 +40430,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -40280,6 +40618,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -40467,6 +40806,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -40654,6 +40994,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -40841,6 +41182,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -41028,6 +41370,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -41215,6 +41558,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -41402,6 +41746,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -41589,6 +41934,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -41776,6 +42122,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -41963,6 +42310,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -42150,6 +42498,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -42337,6 +42686,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -42524,6 +42874,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -42711,6 +43062,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -42898,6 +43250,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -43085,6 +43438,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -43272,6 +43626,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -43459,6 +43814,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -43646,6 +44002,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -43833,6 +44190,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -44020,6 +44378,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -44207,6 +44566,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -44394,6 +44754,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -44581,6 +44942,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -44768,6 +45130,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -44955,6 +45318,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -45142,6 +45506,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -45329,6 +45694,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -45516,6 +45882,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -45703,6 +46070,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -45890,6 +46258,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -46077,6 +46446,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -46264,6 +46634,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -46451,6 +46822,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -46638,6 +47010,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -46825,6 +47198,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -47012,6 +47386,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -47199,6 +47574,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -47386,6 +47762,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -47573,6 +47950,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -47760,6 +48138,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -47947,6 +48326,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -48134,6 +48514,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -48321,6 +48702,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -48508,6 +48890,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -48695,6 +49078,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -48882,6 +49266,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -49069,6 +49454,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -49256,6 +49642,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -49443,6 +49830,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -49630,6 +50018,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -49817,6 +50206,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -50004,6 +50394,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -50191,6 +50582,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -50378,6 +50770,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -50565,6 +50958,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -50752,6 +51146,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -50939,6 +51334,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -51126,6 +51522,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -51313,6 +51710,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -51500,6 +51898,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -51687,6 +52086,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -51874,6 +52274,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -52061,6 +52462,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -52248,6 +52650,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -52435,6 +52838,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -52622,6 +53026,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -52809,6 +53214,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -53011,6 +53417,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -53213,6 +53620,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -53415,6 +53823,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -53617,6 +54026,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -53819,6 +54229,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -54021,6 +54432,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -54223,6 +54635,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -54425,6 +54838,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -54627,6 +55041,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -54829,6 +55244,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -55031,6 +55447,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -55233,6 +55650,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -55435,6 +55853,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -55637,6 +56056,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -55839,6 +56259,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -56041,6 +56462,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -56243,6 +56665,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -56445,6 +56868,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -56528,6 +56952,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -56611,6 +57036,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -56694,6 +57120,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -56777,6 +57204,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -56860,6 +57288,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -56943,6 +57372,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57026,6 +57456,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57109,6 +57540,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57192,6 +57624,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57275,6 +57708,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57358,6 +57792,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57441,6 +57876,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57524,6 +57960,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57607,6 +58044,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57690,6 +58128,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57773,6 +58212,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57856,6 +58296,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -57939,6 +58380,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58022,6 +58464,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58105,6 +58548,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58188,6 +58632,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58271,6 +58716,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58354,6 +58800,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58437,6 +58884,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58520,6 +58968,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58603,6 +59052,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58686,6 +59136,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58769,6 +59220,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58852,6 +59304,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -58935,6 +59388,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59018,6 +59472,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59101,6 +59556,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59184,6 +59640,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59267,6 +59724,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59350,6 +59808,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59433,6 +59892,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59516,6 +59976,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59599,6 +60060,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59682,6 +60144,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59765,6 +60228,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59848,6 +60312,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -59931,6 +60396,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -60014,6 +60480,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -60097,6 +60564,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -60180,6 +60648,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -60263,6 +60732,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -60346,6 +60816,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -60429,6 +60900,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -60632,6 +61104,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -60835,6 +61308,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -61038,6 +61512,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -61241,6 +61716,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -61444,6 +61920,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -61647,6 +62124,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -61850,6 +62328,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -62053,6 +62532,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -62256,6 +62736,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -62459,6 +62940,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -62662,6 +63144,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -62865,6 +63348,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -63068,6 +63552,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -63271,6 +63756,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -63474,6 +63960,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -63677,6 +64164,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -63880,6 +64368,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -64083,6 +64572,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -64286,6 +64776,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -64489,6 +64980,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -64692,6 +65184,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -64895,6 +65388,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -65098,6 +65592,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -65301,6 +65796,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -65504,6 +66000,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -65707,6 +66204,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -65910,6 +66408,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -66113,6 +66612,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -66316,6 +66816,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -66519,6 +67020,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -66722,6 +67224,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -66925,6 +67428,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -67128,6 +67632,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -67331,6 +67836,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -67534,6 +68040,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -67737,6 +68244,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -67940,6 +68448,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -68143,6 +68652,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -68346,6 +68856,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -68549,6 +69060,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -68752,6 +69264,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -68955,6 +69468,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -69158,6 +69672,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -69361,6 +69876,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -69564,6 +70080,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -69767,6 +70284,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -69970,6 +70488,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -70173,6 +70692,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -70376,6 +70896,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -70579,6 +71100,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -70782,6 +71304,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -70985,6 +71508,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -71188,6 +71712,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -71391,6 +71916,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -71594,6 +72120,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -71797,6 +72324,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -72000,6 +72528,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -72203,6 +72732,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -72406,6 +72936,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -72609,6 +73140,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -72812,6 +73344,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -73015,6 +73548,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -73218,6 +73752,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -73421,6 +73956,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -73624,6 +74160,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -73827,6 +74364,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -74030,6 +74568,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -74233,6 +74772,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -74436,6 +74976,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -74639,6 +75180,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -74842,6 +75384,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -75045,6 +75588,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -75248,6 +75792,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -75451,6 +75996,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -75654,6 +76200,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -75857,6 +76404,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -76060,6 +76608,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -76263,6 +76812,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -76466,6 +77016,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -76669,6 +77220,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -76872,6 +77424,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -77075,6 +77628,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -77278,6 +77832,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -77481,6 +78036,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -77684,6 +78240,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -77887,6 +78444,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -78090,6 +78648,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -78293,6 +78852,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -78496,6 +79056,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -78699,6 +79260,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -78902,6 +79464,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -78985,6 +79548,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79068,6 +79632,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79151,6 +79716,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79234,6 +79800,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79317,6 +79884,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79400,6 +79968,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79483,6 +80052,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79566,6 +80136,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79649,6 +80220,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79732,6 +80304,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79815,6 +80388,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79898,6 +80472,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -79981,6 +80556,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80064,6 +80640,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80147,6 +80724,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80230,6 +80808,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80313,6 +80892,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80396,6 +80976,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80479,6 +81060,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80562,6 +81144,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80645,6 +81228,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80728,6 +81312,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80811,6 +81396,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80894,6 +81480,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -80977,6 +81564,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -81060,6 +81648,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -81143,6 +81732,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -81226,6 +81816,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -81309,6 +81900,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -81392,6 +81984,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -81475,6 +82068,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -81558,6 +82152,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -81761,6 +82356,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -81964,6 +82560,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -82167,6 +82764,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -82370,6 +82968,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -82573,6 +83172,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -82776,6 +83376,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -82979,6 +83580,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -83182,6 +83784,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -83385,6 +83988,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -83588,6 +84192,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -83791,6 +84396,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -83994,6 +84600,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -84197,6 +84804,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -84400,6 +85008,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -84603,6 +85212,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -84806,6 +85416,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -85009,6 +85620,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -85212,6 +85824,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -85415,6 +86028,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -85618,6 +86232,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -85821,6 +86436,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -86024,6 +86640,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -86227,6 +86844,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -86430,6 +87048,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -86633,6 +87252,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -86836,6 +87456,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -87039,6 +87660,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -87242,6 +87864,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -87445,6 +88068,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -87648,6 +88272,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -87851,6 +88476,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -88054,6 +88680,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -88257,6 +88884,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -88460,6 +89088,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -88663,6 +89292,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -88866,6 +89496,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -89069,6 +89700,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -89272,6 +89904,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -89475,6 +90108,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -89678,6 +90312,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -89881,6 +90516,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -90084,6 +90720,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -90287,6 +90924,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -90490,6 +91128,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -90693,6 +91332,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -90896,6 +91536,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -91099,6 +91740,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -91302,6 +91944,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -91505,6 +92148,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -91708,6 +92352,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -91909,6 +92554,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -92112,6 +92758,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -92315,6 +92962,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -92518,6 +93166,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -92721,6 +93370,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -92922,6 +93572,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -93123,6 +93774,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -93326,6 +93978,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -93527,6 +94180,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -93728,6 +94382,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -93929,6 +94584,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -94130,6 +94786,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -94331,6 +94988,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -94532,6 +95190,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -94735,6 +95394,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -94938,6 +95598,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -95141,6 +95802,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -95344,6 +96006,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -95547,6 +96210,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -95750,6 +96414,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -95953,6 +96618,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -96156,6 +96822,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -96359,6 +97026,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -96562,6 +97230,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -96765,6 +97434,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -96968,6 +97638,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -97171,6 +97842,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -97374,6 +98046,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -97577,6 +98250,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -97780,6 +98454,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -97983,6 +98658,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -98186,6 +98862,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -98389,6 +99066,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -98592,6 +99270,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -98795,6 +99474,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -98998,6 +99678,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -99201,6 +99882,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -99404,6 +100086,7 @@
 			}
 		},
 		{
+			"card_type": "normal",
 			"content": {
 				"questions": [
 					{
@@ -99607,6 +100290,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -99810,6 +100494,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -100013,6 +100698,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -100216,6 +100902,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -100419,6 +101106,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -100622,6 +101310,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -100825,6 +101514,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -101028,6 +101718,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -101231,6 +101922,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -101434,6 +102126,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -101637,6 +102330,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -101840,6 +102534,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -102043,6 +102738,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -102246,6 +102942,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -102449,6 +103146,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -102652,6 +103350,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -102855,6 +103554,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -103058,6 +103758,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -103261,6 +103962,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -103464,6 +104166,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -103667,6 +104370,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -103870,6 +104574,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -104073,6 +104778,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -104276,6 +104982,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -104479,6 +105186,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -104682,6 +105390,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -104885,6 +105594,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -105088,6 +105798,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -105291,6 +106002,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -105494,6 +106206,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -105697,6 +106410,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -105900,6 +106614,7 @@
 			}
 		},
 		{
+			"card_type": "mystery",
 			"content": {
 				"questions": [
 					{
@@ -110338,7 +111053,7 @@
 					"name": "War Has Changed"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Psycho Mantis",
 						"Revolver Ocelot",
