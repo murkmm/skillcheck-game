@@ -117301,7 +117301,202 @@
 		},
 		{
 			"id": "hollow knight",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 2000,
+					"items": [
+						"The Knight",
+						"The Hollow Knight"
+					],
+					"name": "Father & Child"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Hornet",
+						"The Knight"
+					],
+					"name": "Shaw!"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"The Radiance",
+						"The Hollow Knight",
+						"Hallownest"
+					],
+					"name": "The Infection"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Elderbug",
+						"Cornifer",
+						"Dirtmouth"
+					],
+					"name": "Dirtmouth Residents"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"The Knight",
+						"The Radiance",
+						"The Hollow Knight"
+					],
+					"name": "Dream No More"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Geo",
+						"Zote the Mighty"
+					],
+					"name": "Bug Currency"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"The Mantis Lords",
+						"The Knight"
+					],
+					"name": "Warrior's Respect"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Quirrel",
+						"City of Tears"
+					],
+					"name": "The Researcher"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Cornifer",
+						"Geo"
+					],
+					"name": "Cartographer's Hum"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"The Grubfather",
+						"Charms"
+					],
+					"name": "Save The Children"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Hallownest",
+						"City of Tears",
+						"Dirtmouth"
+					],
+					"name": "Forgotten Kingdom"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Zote the Mighty",
+						"Elderbug"
+					],
+					"name": "Precept Fifty-Seven"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Charms",
+						"Soul"
+					],
+					"name": "Equip Your Loadout"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"The Hollow Knight",
+						"Hallownest"
+					],
+					"name": "The Pale King's Legacy"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Soul",
+						"The Knight"
+					],
+					"name": "Spell Caster"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Hornet",
+						"Hallownest"
+					],
+					"name": "Weaver's Den"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Quirrel",
+						"Cornifer",
+						"Zote the Mighty"
+					],
+					"name": "Lost Travellers"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"The Mantis Lords",
+						"The Radiance",
+						"The Hollow Knight"
+					],
+					"name": "Boss Rush"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Hornet",
+						"The Mantis Lords"
+					],
+					"name": "Deepnest Survivors"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Dirtmouth",
+						"Elderbug",
+						"Geo"
+					],
+					"name": "Rest Stop"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"The Knight",
+						"Soul",
+						"The Hollow Knight"
+					],
+					"name": "The Abyss"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"City of Tears",
+						"Quirrel",
+						"Cornifer"
+					],
+					"name": "Rainy Ambience"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"The Grubfather",
+						"Geo",
+						"Charms"
+					],
+					"name": "Grub Rewards"
+				}
+			]
 		}
 	],
 	"titles": {
