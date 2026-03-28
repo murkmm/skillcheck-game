@@ -67,63 +67,39 @@ const { language, textDirection } = I18N;
   </head>
 
   <body class="antialiased text-default bg-page tracking-tight">
-    <div
-      id="dummy-support-overlay"
-      style="display: none; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-color: rgba(0, 0, 0, 0.95); z-index: 9999; flex-direction: column; align-items: center; justify-content: center; font-family: ui-sans-serif, system-ui, sans-serif;"
-    >
-      <h2 style="color: #fbbf24; font-size: 24px; font-weight: bold; letter-spacing: 2px; margin-bottom: 10px;">
-        ADVERTISEMENT
-      </h2>
-      <p style="color: #a1a1aa; margin-bottom: 30px;">Supporting the developers...</p>
-      <div style="width: 250px; height: 8px; background-color: #27272a; border-radius: 4px; overflow: hidden;">
-        <div
-          id="dummy-support-progress"
-          style="width: 0%; height: 100%; background-color: #fbbf24; transition: width 5s linear;"
-        >
-        </div>
-      </div>
-      <p id="dummy-support-timer" style="color: #71717a; font-size: 14px; margin-top: 15px;">5 seconds remaining</p>
-    </div>
     <slot />
 
     <BasicScripts />
 
+    <!-- Cookie Consent Banner -->
+    <div
+      id="cookie-banner"
+      style="display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #151518; border-top: 1px solid #2a2a35; padding: 1rem 1.5rem; z-index: 99999; font-family: 'Outfit', sans-serif; font-size: 0.85rem; color: #888899; text-align: center;"
+    >
+      This site uses cookies for ads and analytics.
+      <a href="/privacy" style="color: #00e5ff; text-decoration: underline; margin: 0 0.25rem;">Privacy Policy</a>
+      <button
+        id="cookie-accept"
+        style="margin-left: 1rem; padding: 0.5rem 1.25rem; background: #00e5ff; color: #050508; border: none; border-radius: 0.5rem; font-weight: 700; font-size: 0.85rem; cursor: pointer; font-family: 'Outfit', sans-serif;"
+        >OK</button
+      >
+    </div>
+
     <script is:inline>
-      window.top.play_godot_ad = function (godot_callback) {
-        console.log('[Astro] AD FUNCTION CALLED FROM GODOT!');
-        const targetDoc = window.top.document || document;
-        const overlay = targetDoc.getElementById('dummy-support-overlay');
-        const progress = targetDoc.getElementById('dummy-support-progress');
-
-        if (!overlay) {
-          console.error('[Astro] Could not find the overlay div!');
-          if (godot_callback) {
-            try {
-              godot_callback();
-            } catch (e) {
-              console.debug(e);
-            }
-          }
-          return;
+      (function () {
+        if (!localStorage.getItem('cookie_consent')) {
+          const banner = document.getElementById('cookie-banner');
+          if (banner) banner.style.display = 'block';
         }
-
-        overlay.style.display = 'flex';
-        setTimeout(() => {
-          if (progress) progress.style.width = '100%';
-        }, 50);
-
-        setTimeout(() => {
-          overlay.style.display = 'none';
-          if (progress) progress.style.width = '0%';
-          if (godot_callback) {
-            try {
-              godot_callback();
-            } catch (e) {
-              console.debug(e);
-            }
-          }
-        }, 5000);
-      };
+        const btn = document.getElementById('cookie-accept');
+        if (btn) {
+          btn.addEventListener('click', function () {
+            localStorage.setItem('cookie_consent', '1');
+            const banner = document.getElementById('cookie-banner');
+            if (banner) banner.style.display = 'none';
+          });
+        }
+      })();
     </script>
   </body>
 </html>

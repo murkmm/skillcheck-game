@@ -750,6 +750,14 @@ import Layout from '~/layouts/Layout.astro';
         gameIframe.contentWindow.postMessage('payment_success', '*');
       }
     }
+    // Premium user — hide sidebar ads
+    if (event.data === 'premium_active') {
+      console.log('[ASTRO] Premium detected, hiding sidebar ads');
+      const leftAd = document.getElementById('sidebar-ad-left');
+      const rightAd = document.getElementById('sidebar-ad-right');
+      if (leftAd) leftAd.style.display = 'none';
+      if (rightAd) rightAd.style.display = 'none';
+    }
   });
 </script>
 
