@@ -102853,6 +102853,3254 @@
 					"Family"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Stealth Infiltration",
+						"difficulty": "Easy",
+						"explanation": "Solid Snake is the face of tactical espionage action, focusing on avoiding detection rather than direct combat.",
+						"image_url": "https://skillcheckgame.com/assets/images/solid_snake.webp",
+						"question": "What is the primary gameplay mechanic associated with this legendary operative?",
+						"wrong": [
+							"Fast-Paced Racing",
+							"Turn-Based Strategy",
+							"Open World Farming"
+						]
+					},
+					{
+						"correct": "Big Boss",
+						"difficulty": "Easy",
+						"explanation": "Solid Snake is a product of the Les Enfants Terribles project, designed to create the perfect soldier from Big Boss's DNA.",
+						"image_url": "https://skillcheckgame.com/assets/images/solid_snake.webp",
+						"question": "Who is the legendary soldier that Solid Snake was cloned from?",
+						"wrong": [
+							"Solidus Snake",
+							"Major Zero",
+							"Revolver Ocelot"
+						]
+					},
+					{
+						"correct": "PlayStation",
+						"difficulty": "Easy",
+						"explanation": "Metal Gear Solid released on the original PlayStation in 1998, revolutionizing cinematic storytelling in games.",
+						"image_url": "https://skillcheckgame.com/assets/images/solid_snake.webp",
+						"question": "On which console did Solid Snake make his 3D debut in the late 1990s?",
+						"wrong": [
+							"Nintendo 64",
+							"Sega Genesis",
+							"Atari 2600"
+						]
+					},
+					{
+						"correct": "Cardboard Box",
+						"difficulty": "Easy",
+						"explanation": "The cardboard box is an iconic staple of the series, used by Snake to move undetected through enemy territory.",
+						"image_url": "",
+						"question": "Which item does Solid Snake frequently use to hide in plain sight?",
+						"wrong": [
+							"Invisibility Cloak",
+							"Steel Barrel",
+							"Traffic Cone"
+						]
+					},
+					{
+						"correct": "Bentley",
+						"difficulty": "Easy",
+						"explanation": "Snake is often seen smoking Bentley cigarettes, which can be used in-game to see infrared lasers.",
+						"image_url": "",
+						"question": "What is Solid Snake's preferred brand of cigarettes that he often sneaks into missions?",
+						"wrong": [
+							"Lucky Strike",
+							"Marlboro",
+							"Camel"
+						]
+					},
+					{
+						"correct": "David",
+						"difficulty": "Medium",
+						"explanation": "At the end of the first Metal Gear Solid, Snake reveals his real name is David.",
+						"image_url": "",
+						"question": "What is Solid Snake's real first name?",
+						"wrong": [
+							"John",
+							"Jack",
+							"Eli"
+						]
+					},
+					{
+						"correct": "FOXHOUND",
+						"difficulty": "Medium",
+						"explanation": "Snake was a former member of FOXHOUND, called back into action to stop his former unit from launching a nuke.",
+						"image_url": "",
+						"question": "Which tactical unit was Snake a member of during the Shadow Moses incident?",
+						"wrong": [
+							"Dead Cell",
+							"Cobra Unit",
+							"Black Chamber"
+						]
+					},
+					{
+						"correct": "Les Enfants Terribles",
+						"difficulty": "Medium",
+						"explanation": "Meaning 'The Terrible Children', this project sought to create clones of the greatest soldier of the 20th century.",
+						"image_url": "",
+						"question": "What was the name of the secret project that resulted in the birth of Solid and Liquid Snake?",
+						"wrong": [
+							"Project S",
+							"The Twin Genes",
+							"Omega Initiative"
+						]
+					},
+					{
+						"correct": "Accelerated Aging",
+						"difficulty": "Medium",
+						"explanation": "Due to his nature as a clone, Snake's body was programmed with a 'kill switch' that causes him to age prematurely.",
+						"image_url": "",
+						"question": "What condition causes Solid Snake to age rapidly in the fourth main game?",
+						"wrong": [
+							"Radiation Poisoning",
+							"Genetic Virus",
+							"The Sorrow Curse"
+						]
+					},
+					{
+						"correct": "Otacon",
+						"difficulty": "Medium",
+						"explanation": "Hal Emmerich, nicknamed Otacon, provides Snake with tech, Intel, and emotional support throughout the series.",
+						"image_url": "",
+						"question": "Which character serves as Solid Snake's primary technical support and best friend?",
+						"wrong": [
+							"Miller",
+							"Sigint",
+							"Drebin"
+						]
+					},
+					{
+						"correct": "Outer Heaven",
+						"difficulty": "Hard",
+						"explanation": "Solid Snake's first mission involved infiltrating the fortified state of Outer Heaven in South Africa.",
+						"image_url": "",
+						"question": "In which fictional country did Solid Snake first defeat Big Boss?",
+						"wrong": [
+							"Zanzibar Land",
+							"Tselinoyarsk",
+							"San Hieronymo"
+						]
+					},
+					{
+						"correct": "FOXDIE",
+						"difficulty": "Hard",
+						"explanation": "FOXDIE is a targeted retrovirus designed to kill specific people by identifying their DNA.",
+						"image_url": "",
+						"question": "What was the specific name of the virus injected into Snake before the Shadow Moses mission?",
+						"wrong": [
+							"FOXHOUND-B",
+							"The Patriot Virus",
+							"SOP System"
+						]
+					},
+					{
+						"correct": "CQC",
+						"difficulty": "Hard",
+						"explanation": "Close Quarters Combat (CQC) is a specialized martial art used for non-lethal and lethal takedowns.",
+						"image_url": "",
+						"question": "Which fighting style did Snake and Big Boss co-develop?",
+						"wrong": [
+							"Krav Maga",
+							"CQB",
+							"Systema"
+						]
+					},
+					{
+						"correct": "Philanthropy",
+						"difficulty": "Hard",
+						"explanation": "Following the events of Shadow Moses, Snake and Otacon dedicated their lives to ridding the world of Metal Gears.",
+						"image_url": "",
+						"question": "What is the name of the non-profit organization Snake and Otacon formed to destroy Metal Gears?",
+						"wrong": [
+							"The Philosophers",
+							"The Patriots",
+							"Diamond Dogs"
+						]
+					},
+					{
+						"correct": "Operation Intrusion F014",
+						"difficulty": "Hard",
+						"explanation": "While Operation N313 was the first game, F014 was the specific designation for his second major mission.",
+						"image_url": "",
+						"question": "What was the codename of the mission where Snake had to destroy the Metal Gear D in Zanzibar Land?",
+						"wrong": [
+							"Virtuous Mission",
+							"Operation Snake Eater",
+							"Operation N313"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_solid_snake",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Solid Snake",
+				"lore_desc": "A former member of FOXHOUND and the protagonist of many missions, Solid Snake is a master of stealth who has saved the world from nuclear catastrophe multiple times.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Legendary Mercenary",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Clone",
+					"Infiltrator"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "FOXHOUND",
+						"difficulty": "Easy",
+						"explanation": "Liquid took control of FOXHOUND and led a revolt at the Shadow Moses nuclear disposal facility.",
+						"image_url": "https://skillcheckgame.com/assets/images/liquid_snake.webp",
+						"question": "Liquid Snake is the leader of which elite rogue special forces unit?",
+						"wrong": [
+							"The Cobras",
+							"Dead Cell",
+							"The Beauty and the Beast Corp"
+						]
+					},
+					{
+						"correct": "Brothers",
+						"difficulty": "Easy",
+						"explanation": "They are 'Twin Snakes' created from the DNA of the same man, Big Boss.",
+						"image_url": "https://skillcheckgame.com/assets/images/liquid_snake.webp",
+						"question": "What is the relation between Liquid Snake and Solid Snake?",
+						"wrong": [
+							"Father and Son",
+							"Uncle and Nephew",
+							"Unrelated Rivals"
+						]
+					},
+					{
+						"correct": "United Kingdom",
+						"difficulty": "Easy",
+						"explanation": "Liquid Snake has a distinct British accent because he was raised in the UK.",
+						"image_url": "https://skillcheckgame.com/assets/images/liquid_snake.webp",
+						"question": "In which country did Liquid Snake spend much of his youth before the Shadow Moses incident?",
+						"wrong": [
+							"Russia",
+							"France",
+							"Japan"
+						]
+					},
+					{
+						"correct": "Metal Gear REX",
+						"difficulty": "Easy",
+						"explanation": "Liquid uses Metal Gear REX in an attempt to destroy Solid Snake and launch a nuclear strike.",
+						"image_url": "",
+						"question": "What giant nuclear-equipped walking tank does Liquid pilot during his final battle with Solid Snake?",
+						"wrong": [
+							"Metal Gear RAY",
+							"The Shagohod",
+							"Metal Gear EXCELSIUS"
+						]
+					},
+					{
+						"correct": "Blonde",
+						"difficulty": "Easy",
+						"explanation": "Liquid is easily recognized by his long, flowing blonde hair.",
+						"image_url": "",
+						"question": "What color is Liquid Snake's hair, distinguishing him from his twin brother?",
+						"wrong": [
+							"Black",
+							"Red",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Eli",
+						"difficulty": "Medium",
+						"explanation": "In MGSV, Liquid is known as Eli, a child soldier who leads a group of boys in Africa.",
+						"image_url": "",
+						"question": "What is the name of the child version of Liquid Snake found in the 1980s-set Metal Gear Solid V?",
+						"wrong": [
+							"David",
+							"George",
+							"Jack"
+						]
+					},
+					{
+						"correct": "Recessive",
+						"difficulty": "Medium",
+						"explanation": "Liquid resents Solid Snake because he believes he was given the 'trash' recessive genes of Big Boss.",
+						"image_url": "",
+						"question": "Liquid Snake erroneously believes he was created with which type of genes?",
+						"wrong": [
+							"Dominant",
+							"Superior",
+							"Mutated"
+						]
+					},
+					{
+						"correct": "Master Miller",
+						"difficulty": "Medium",
+						"explanation": "Liquid kills the real Miller and takes his place on the radio to guide and manipulate Snake.",
+						"image_url": "",
+						"question": "Which character does Liquid Snake disguise himself as to trick Solid Snake in the first game?",
+						"wrong": [
+							"Colonel Campbell",
+							"Revolver Ocelot",
+							"Otacon"
+						]
+					},
+					{
+						"correct": "Revolver Ocelot",
+						"difficulty": "Medium",
+						"explanation": "After his death, Ocelot has Liquid's arm grafted onto his body, leading to the persona of Liquid Ocelot.",
+						"image_url": "",
+						"question": "Liquid Snake's body is eventually used to 'possess' which other character via a limb transplant?",
+						"wrong": [
+							"Gray Fox",
+							"Solidus Snake",
+							"Raiden"
+						]
+					},
+					{
+						"correct": "Big Boss's Remains",
+						"difficulty": "Medium",
+						"explanation": "He demands the remains of Big Boss to use his DNA to cure the genetic defects of the Genome Soldiers.",
+						"image_url": "",
+						"question": "What does Liquid Snake want to achieve by taking over Shadow Moses?",
+						"wrong": [
+							"Global Peace",
+							"Infinite Money",
+							"The President's Head"
+						]
+					},
+					{
+						"correct": "Lieutenant",
+						"difficulty": "Hard",
+						"explanation": "Liquid served as a Lieutenant in the Special Air Service during the Gulf War.",
+						"image_url": "",
+						"question": "What was Liquid Snake's rank in the British SAS before joining FOXHOUND?",
+						"wrong": [
+							"Captain",
+							"Major",
+							"General"
+						]
+					},
+					{
+						"correct": "Hind D",
+						"difficulty": "Hard",
+						"explanation": "The Hind D is a Russian gunship that Liquid uses to pin down Snake on the roof.",
+						"image_url": "",
+						"question": "What is the name of the helicopter Liquid Snake pilots during the fight on the communications tower?",
+						"wrong": [
+							"Apache",
+							"Blackhawk",
+							"Comanche"
+						]
+					},
+					{
+						"correct": "Eight",
+						"difficulty": "Hard",
+						"explanation": "Eight clones were created, but six were aborted to promote the growth of the remaining two (Solid and Liquid).",
+						"image_url": "",
+						"question": "During the Les Enfants Terribles project, how many clones were originally created before being reduced to three?",
+						"wrong": [
+							"Two",
+							"Six",
+							"Ten"
+						]
+					},
+					{
+						"correct": "FOXDIE",
+						"difficulty": "Hard",
+						"explanation": "Despite surviving a crash and a fistfight, Liquid ultimately dies of a heart attack triggered by the FOXDIE virus.",
+						"image_url": "",
+						"question": "What is the specific cause of Liquid Snake's ultimate death at the end of the first game?",
+						"wrong": [
+							"Falling off REX",
+							"Gunshot wound",
+							"Vehicle crash"
+						]
+					},
+					{
+						"correct": "Iraqi Government",
+						"difficulty": "Hard",
+						"explanation": "Liquid was a prisoner of war in Iraq before being rescued by the US government.",
+						"image_url": "",
+						"question": "Which world leader does Liquid Snake claim to have been held captive by during the Gulf War?",
+						"wrong": [
+							"Russian Spies",
+							"Iranian Militia",
+							"The Taliban"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_liquid_snake",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Liquid Snake",
+				"lore_desc": "The primary antagonist of the Shadow Moses incident, Liquid Snake is the genetic twin of Solid Snake and the leader of the rogue FOXHOUND unit.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Superior Brother",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Clone",
+					"Leader"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Eye Patch",
+						"difficulty": "Easy",
+						"explanation": "Big Boss lost his right eye during the events of Snake Eater and has worn an eye patch ever since.",
+						"image_url": "https://skillcheckgame.com/assets/images/big_boss.webp",
+						"question": "What is the distinctive accessory Big Boss is almost always seen wearing on his face?",
+						"wrong": [
+							"Gas Mask",
+							"Monocle",
+							"Sunglasses"
+						]
+					},
+					{
+						"correct": "Naked Snake",
+						"difficulty": "Easy",
+						"explanation": "He was known as Naked Snake during the Virtuous Mission and Operation Snake Eater.",
+						"image_url": "https://skillcheckgame.com/assets/images/big_boss.webp",
+						"question": "What is the codename given to Big Boss during the 1960s before he earned his legendary title?",
+						"wrong": [
+							"Venom Snake",
+							"Punished Snake",
+							"Old Snake"
+						]
+					},
+					{
+						"correct": "The Boss",
+						"difficulty": "Easy",
+						"explanation": "The Boss mentored Naked Snake and defected to the Soviet Union, leading to their tragic final confrontation.",
+						"image_url": "https://skillcheckgame.com/assets/images/big_boss.webp",
+						"question": "Which legendary female soldier was Big Boss's mentor and surrogate mother?",
+						"wrong": [
+							"Eva",
+							"Sniper Wolf",
+							"The Sorrow"
+						]
+					},
+					{
+						"correct": "Outer Heaven",
+						"difficulty": "Easy",
+						"explanation": "Outer Heaven was a place where soldiers could fight for themselves, free from government manipulation.",
+						"image_url": "",
+						"question": "What was the name of the 'nation without borders' founded by Big Boss?",
+						"wrong": [
+							"Inner Heaven",
+							"The Patriots",
+							"Diamond Dogs"
+						]
+					},
+					{
+						"correct": "Cold War",
+						"difficulty": "Easy",
+						"explanation": "Snake Eater takes place in 1964 during the height of the Cold War between the USA and the USSR.",
+						"image_url": "",
+						"question": "In which historical era is the game 'Metal Gear Solid 3: Snake Eater' set?",
+						"wrong": [
+							"World War II",
+							"Vietnam War",
+							"Modern Day"
+						]
+					},
+					{
+						"correct": "John",
+						"difficulty": "Medium",
+						"explanation": "Though he goes by Jack, he tells Eva his name is John in Snake Eater.",
+						"image_url": "",
+						"question": "What is Big Boss's real first name?",
+						"wrong": [
+							"David",
+							"Eli",
+							"George"
+						]
+					},
+					{
+						"correct": "Diamond Dogs",
+						"difficulty": "Medium",
+						"explanation": "Diamond Dogs was the PMO formed after the destruction of MSF's Mother Base.",
+						"image_url": "",
+						"question": "Which mercenary group did Big Boss lead in 'Metal Gear Solid V: The Phantom Pain'?",
+						"wrong": [
+							"Militaires Sans Frontieres",
+							"Dead Cell",
+							"The Skulls"
+						]
+					},
+					{
+						"correct": "Militaires Sans Frontieres",
+						"difficulty": "Medium",
+						"explanation": "MSF, or Soldiers Without Borders, was the predecessor to Outer Heaven.",
+						"image_url": "",
+						"question": "What was the name of the first private military group Big Boss founded in South America?",
+						"wrong": [
+							"Soldiers of Fortune",
+							"Global Security",
+							"Warriors Without Borders"
+						]
+					},
+					{
+						"correct": "Major Zero",
+						"difficulty": "Medium",
+						"explanation": "Zero and Big Boss were friends who founded the Patriots together before their ideals clashed.",
+						"image_url": "",
+						"question": "Who was the founder of the Patriots and a former commander of Big Boss?",
+						"wrong": [
+							"Donald Anderson",
+							"Kenneth Baker",
+							"Colonel Volgin"
+						]
+					},
+					{
+						"correct": "Operation Snake Eater",
+						"difficulty": "Medium",
+						"explanation": "Naked Snake was sent to Russia to kill The Boss to prove America's innocence in a nuclear incident.",
+						"image_url": "",
+						"question": "What was the name of the operation where Big Boss had to assassinate his own mentor?",
+						"wrong": [
+							"Virtuous Mission",
+							"The Phantom Pain",
+							"Operation N313"
+						]
+					},
+					{
+						"correct": "Venom Snake",
+						"difficulty": "Hard",
+						"explanation": "Venom Snake is the medic from MSF who was brainwashed into thinking he was the real Big Boss.",
+						"image_url": "",
+						"question": "What is the name of the prosthetic-armed 'body double' who acts as Big Boss in MGSV?",
+						"wrong": [
+							"Solidus Snake",
+							"Grey Fox",
+							"Raiden"
+						]
+					},
+					{
+						"correct": "Volgin",
+						"difficulty": "Hard",
+						"explanation": "Colonel Volgin was a lightning-wielding officer of the GRU who stole the Shagohod.",
+						"image_url": "",
+						"question": "Which Soviet colonel was Big Boss's primary physical antagonist in Snake Eater?",
+						"wrong": [
+							"Gurlukovich",
+							"Sokolov",
+							"Granin"
+						]
+					},
+					{
+						"correct": "Sokolov",
+						"difficulty": "Hard",
+						"explanation": "Nikolai Sokolov was a rocket scientist Naked Snake was sent to rescue twice.",
+						"image_url": "",
+						"question": "What was the name of the Russian scientist who developed the Shagohod?",
+						"wrong": [
+							"Emmerich",
+							"Granin",
+							"Madnar"
+						]
+					},
+					{
+						"correct": "Commander",
+						"difficulty": "Hard",
+						"explanation": "After the events of Snake Eater, Big Boss was awarded the title of Big Boss, effectively a rank above Patriot.",
+						"image_url": "",
+						"question": "What was Big Boss's rank when he defected from the US military to form MSF?",
+						"wrong": [
+							"Major",
+							"General",
+							"Colonel"
+						]
+					},
+					{
+						"correct": "Arlington National Cemetery",
+						"difficulty": "Hard",
+						"explanation": "In MGS4, the two meet at the grave of The Boss for one last conversation.",
+						"image_url": "",
+						"question": "Where does the final scene of the series take place, where Big Boss and Solid Snake finally reconcile?",
+						"wrong": [
+							"Shadow Moses",
+							"Outer Heaven",
+							"Zanzibar Land"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_big_boss",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Big Boss",
+				"lore_desc": "Known as the greatest soldier who ever lived, Big Boss is the genetic father of the Snakes and the founder of the first private military company.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Greatest Soldier",
+			"profiler": {
+				"vibe_tags": [
+					"Icon",
+					"Legend",
+					"Mercenary"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Single Action Army",
+						"difficulty": "Easy",
+						"explanation": "Ocelot famously uses the Colt Single Action Army, which he calls 'the greatest handgun ever made'.",
+						"image_url": "https://skillcheckgame.com/assets/images/revolver_ocelot.webp",
+						"question": "What is Revolver Ocelot's signature weapon of choice?",
+						"wrong": [
+							"Desert Eagle",
+							"Uzi",
+							"Beretta M9"
+						]
+					},
+					{
+						"correct": "Gun Twirling",
+						"difficulty": "Easy",
+						"explanation": "Ocelot is famous for his elaborate and stylish revolver spinning routines.",
+						"image_url": "https://skillcheckgame.com/assets/images/revolver_ocelot.webp",
+						"question": "Ocelot is known for what flair-heavy skill during combat and cutscenes?",
+						"wrong": [
+							"Knife Throwing",
+							"Magic Tricks",
+							"Breakdancing"
+						]
+					},
+					{
+						"correct": "Meow",
+						"difficulty": "Easy",
+						"explanation": "Ocelot gives a high-pitched 'meow' to signal his unit, the Ocelot Unit.",
+						"image_url": "https://skillcheckgame.com/assets/images/revolver_ocelot.webp",
+						"question": "What distinctive animal-themed call does Ocelot use to summon his unit in Snake Eater?",
+						"wrong": [
+							"Howl",
+							"Roar",
+							"Hiss"
+						]
+					},
+					{
+						"correct": "GRU",
+						"difficulty": "Easy",
+						"explanation": "Ocelot was a Major in the Soviet GRU during the Cold War.",
+						"image_url": "",
+						"question": "Which organization was Ocelot a member of during the 1960s in Snake Eater?",
+						"wrong": [
+							"KGB",
+							"CIA",
+							"MI6"
+						]
+					},
+					{
+						"correct": "It was sliced off",
+						"difficulty": "Easy",
+						"explanation": "The Cyborg Ninja, Gray Fox, cut off Ocelot's hand while he was torturing Snake.",
+						"image_url": "",
+						"question": "In the first game, what happened to Ocelot's right hand during a fight with Gray Fox?",
+						"wrong": [
+							"It was shot",
+							"It was burned",
+							"It was bitten off"
+						]
+					},
+					{
+						"correct": "ADAM",
+						"difficulty": "Medium",
+						"explanation": "Ocelot was supposed to meet Naked Snake as the contact ADAM, but failed to show up initially.",
+						"image_url": "",
+						"question": "What was Ocelot's codename when he worked as a triple agent for the CIA?",
+						"wrong": [
+							"EVE",
+							"SNAKE",
+							"FOX"
+						]
+					},
+					{
+						"correct": "The Boss and The Sorrow",
+						"difficulty": "Medium",
+						"explanation": "Ocelot was born on the battlefield to The Boss and The Sorrow during WWII.",
+						"image_url": "",
+						"question": "Who are Ocelot's biological parents, revealed in Snake Eater?",
+						"wrong": [
+							"Big Boss and Eva",
+							"Major Zero and Para-Medic",
+							"Sokolov and Tanya"
+						]
+					},
+					{
+						"correct": "Electric Torture",
+						"difficulty": "Medium",
+						"explanation": "Ocelot uses an electric bed to torture Solid Snake and Big Boss in different games.",
+						"image_url": "",
+						"question": "Ocelot is a master of which brutal interrogation technique?",
+						"wrong": [
+							"Waterboarding",
+							"Hypnosis",
+							"Truth Serum"
+						]
+					},
+					{
+						"correct": "Liquid Snake",
+						"difficulty": "Medium",
+						"explanation": "Ocelot had Liquid Snake's arm grafted on, leading to Liquid 'taking over' his personality.",
+						"image_url": "",
+						"question": "In Metal Gear Solid 2, who does Ocelot claim is controlling his mind through his arm?",
+						"wrong": [
+							"Psycho Mantis",
+							"The Boss",
+							"Solidus Snake"
+						]
+					},
+					{
+						"correct": "Adamska",
+						"difficulty": "Medium",
+						"explanation": "His Russian name is Adamska, often shortened to Adam.",
+						"image_url": "",
+						"question": "What is Ocelot's real name, as revealed in the series?",
+						"wrong": [
+							"Ivan",
+							"Sergei",
+							"Oleg"
+						]
+					},
+					{
+						"correct": "Shalashaska",
+						"difficulty": "Hard",
+						"explanation": "They called him Shalashaska, which roughly translates to 'prison' or a type of sword, due to his cruelty.",
+						"image_url": "",
+						"question": "What nickname did the Afghan Mujahideen give Ocelot during the Soviet-Afghan war?",
+						"wrong": [
+							"The Ghost",
+							"Red Reaper",
+							"Iron Fist"
+						]
+					},
+					{
+						"correct": "Destroying the Patriots",
+						"difficulty": "Hard",
+						"explanation": "Ocelot used nanomachines and hypnosis to become Liquid Ocelot to trick the AI system and destroy the Patriots.",
+						"image_url": "",
+						"question": "In MGS4, what was Ocelot's actual goal in pretending to be Liquid Snake?",
+						"wrong": [
+							"World War III",
+							"Killing Solid Snake",
+							"Becoming President"
+						]
+					},
+					{
+						"correct": "Donald Anderson",
+						"difficulty": "Hard",
+						"explanation": "Ocelot 'accidentally' killed the DARPA Chief during a torture session, though it was later revealed to be intentional.",
+						"image_url": "",
+						"question": "Which character did Ocelot accidentally kill during the Shadow Moses incident while 'playing' with his revolver?",
+						"wrong": [
+							"Kenneth Baker",
+							"Nastasha Romanenko",
+							"Jim Houseman"
+						]
+					},
+					{
+						"correct": ".45 caliber",
+						"difficulty": "Hard",
+						"explanation": "He uses .45 caliber rounds in his SAA and is a master at calculating ricochet trajectories.",
+						"image_url": "",
+						"question": "What type of bullets does Ocelot prefer to use because they 'ricochet'?",
+						"wrong": [
+							"9mm",
+							"5.56mm",
+							".357 magnum"
+						]
+					},
+					{
+						"correct": "The Patriots",
+						"difficulty": "Hard",
+						"explanation": "Ocelot was one of the original members of the Patriots, also known as Cipher.",
+						"image_url": "",
+						"question": "Which group was Ocelot secretly a founding member of along with Major Zero?",
+						"wrong": [
+							"The Philosophers",
+							"The Illuminati",
+							"Dead Cell"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_revolver_ocelot",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Revolver Ocelot",
+				"lore_desc": "A legendary gunslinger and master of deception, Ocelot is a recurring figure who has worked for almost every major faction in the series.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Rival",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Ally",
+					"Spy"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Bipedal Walking",
+						"difficulty": "Easy",
+						"explanation": "A Metal Gear is specifically a walking tank designed to be a bridge between infantry and artillery.",
+						"image_url": "https://skillcheckgame.com/assets/images/metal_gear_rex.webp",
+						"question": "What is the primary defining feature of a 'Metal Gear' vehicle?",
+						"wrong": [
+							"Infinite Flight",
+							"Submarine Mode",
+							"Invisible Armor"
+						]
+					},
+					{
+						"correct": "Nuclear Missiles",
+						"difficulty": "Easy",
+						"explanation": "The core threat of REX is its ability to launch nuclear warheads from any terrain.",
+						"image_url": "https://skillcheckgame.com/assets/images/metal_gear_rex.webp",
+						"question": "Metal Gear REX is equipped with what kind of mass destruction weapon?",
+						"wrong": [
+							"Laser Beams",
+							"Poison Gas",
+							"Sound Waves"
+						]
+					},
+					{
+						"correct": "Otacon",
+						"difficulty": "Easy",
+						"explanation": "Hal 'Otacon' Emmerich designed REX, though he was told it was a mobile missile defense system.",
+						"image_url": "https://skillcheckgame.com/assets/images/metal_gear_rex.webp",
+						"question": "Who was the chief engineer and designer of Metal Gear REX?",
+						"wrong": [
+							"Sokolov",
+							"Granin",
+							"Sigint"
+						]
+					},
+					{
+						"correct": "Metal Gear Solid",
+						"difficulty": "Easy",
+						"explanation": "REX is the iconic final mechanical boss of the 1998 PlayStation hit.",
+						"image_url": "",
+						"question": "In which game does Solid Snake have to fight Metal Gear REX as the final boss?",
+						"wrong": [
+							"Metal Gear Solid 2",
+							"Metal Gear Solid 3",
+							"Peace Walker"
+						]
+					},
+					{
+						"correct": "Liquid Snake",
+						"difficulty": "Easy",
+						"explanation": "Liquid Snake pilots REX during his final showdown with his brother.",
+						"image_url": "",
+						"question": "What is the name of the 'pilot' who controls REX during the Shadow Moses incident?",
+						"wrong": [
+							"Revolver Ocelot",
+							"Vulcan Raven",
+							"Decoy Octopus"
+						]
+					},
+					{
+						"correct": "Railgun",
+						"difficulty": "Medium",
+						"explanation": "The railgun uses electromagnetism to launch nukes without the thermal signature of a rocket motor.",
+						"image_url": "",
+						"question": "What weapon on REX allows it to launch stealth nukes that are undetectable by radar?",
+						"wrong": [
+							"Gatling Gun",
+							"Plasma Cannon",
+							"Flamethrower"
+						]
+					},
+					{
+						"correct": "Radome",
+						"difficulty": "Medium",
+						"explanation": "The Radome provides the pilot with visual data while they are safely tucked inside the armored cockpit.",
+						"image_url": "",
+						"question": "What is the name of the vulnerable 'eye' sensor on REX that Snake must destroy first?",
+						"wrong": [
+							"Lidar",
+							"Optic Core",
+							"Sensor Array"
+						]
+					},
+					{
+						"correct": "ArmsTech",
+						"difficulty": "Medium",
+						"explanation": "ArmsTech was the defense contractor responsible for the REX project.",
+						"image_url": "",
+						"question": "Which company developed Metal Gear REX in collaboration with DARPA?",
+						"wrong": [
+							"Military-Industrial",
+							"Global Security",
+							"Cyberdyne"
+						]
+					},
+					{
+						"correct": "Metal Gear RAY",
+						"difficulty": "Medium",
+						"explanation": "In a fan-favorite moment, Snake pilots the damaged REX to battle Liquid Ocelot's RAY.",
+						"image_url": "",
+						"question": "In Metal Gear Solid 4, which other Metal Gear does Snake use REX to fight against?",
+						"wrong": [
+							"Metal Gear EXCELSIUS",
+							"The Shagohod",
+							"Metal Gear D"
+						]
+					},
+					{
+						"correct": "Shadow Moses Island",
+						"difficulty": "Medium",
+						"explanation": "The entire first game takes place on the Alaskan island where REX was being developed.",
+						"image_url": "",
+						"question": "Where is Metal Gear REX stored and tested in the first game?",
+						"wrong": [
+							"Outer Heaven",
+							"Big Shell",
+							"Mother Base"
+						]
+					},
+					{
+						"correct": "They must look out manually",
+						"difficulty": "Hard",
+						"explanation": "Destroying the Radome forces the pilot to open the cockpit to see, leaving them vulnerable to a Stinger missile.",
+						"image_url": "",
+						"question": "What happens when the pilot of REX opens the cockpit after the Radome is destroyed?",
+						"wrong": [
+							"They eject",
+							"The machine explodes",
+							"The shield activates"
+						]
+					},
+					{
+						"correct": "Gray Fox",
+						"difficulty": "Hard",
+						"explanation": "The Cyborg Ninja, Gray Fox, sacrificed his life to destroy REX's Radome.",
+						"image_url": "",
+						"question": "Which character died while trying to help Snake destroy REX by jamming its laser?",
+						"wrong": [
+							"Meryl Silverburgh",
+							"Colonel Campbell",
+							"Master Miller"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "The system requires three keys (hot, cold, and room temp), which Snake later discovers are all stored on one shape-shifting card.",
+						"image_url": "",
+						"question": "How many 'keys' are actually required to activate REX's PAL system (though it turns out they are one key)?",
+						"wrong": [
+							"One",
+							"Two",
+							"Four"
+						]
+					},
+					{
+						"correct": "Rocket Fuel",
+						"difficulty": "Hard",
+						"explanation": "Because the railgun launches projectiles mechanically, there is no rocket launch for satellites to detect.",
+						"image_url": "",
+						"question": "Metal Gear REX was designed to be 'stealthy' because it didn't use what conventional propulsion for its nukes?",
+						"wrong": [
+							"Jet Engines",
+							"Propellers",
+							"Electric Motors"
+						]
+					},
+					{
+						"correct": "Ceramic-Titanium Alloy",
+						"difficulty": "Hard",
+						"explanation": "The advanced composite armor makes REX nearly impossible to damage without anti-tank weaponry.",
+						"image_url": "",
+						"question": "What material is the REX cockpit's armor made from, making it impervious to normal fire?",
+						"wrong": [
+							"Reinforced Steel",
+							"Depleted Uranium",
+							"Carbon Fiber"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_metal_gear_rex",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Metal Gear REX",
+				"lore_desc": "The ultimate nuclear-equipped walking tank, Metal Gear REX was developed by ArmsTech and was the centerpiece of the Shadow Moses incident.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Nuclear Tank",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Machine",
+					"Threat"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Metal Gear Solid 3: Snake Eater",
+						"difficulty": "Easy",
+						"explanation": "The Boss is the central figure of Snake Eater, set during the Cold War.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_boss.webp",
+						"question": "In which game does The Boss serve as the primary mentor and final boss?",
+						"wrong": [
+							"Metal Gear Solid",
+							"Metal Gear Solid 2",
+							"Metal Gear Solid 4"
+						]
+					},
+					{
+						"correct": "The Cobra Unit",
+						"difficulty": "Easy",
+						"explanation": "The Cobra Unit was composed of legendary soldiers who helped win WWII.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_boss.webp",
+						"question": "What is the name of the elite WWII unit that The Boss led?",
+						"wrong": [
+							"FOXHOUND",
+							"The Skulls",
+							"Dead Cell"
+						]
+					},
+					{
+						"correct": "The Joy",
+						"difficulty": "Easy",
+						"explanation": "Each member of the Cobras was named after an emotion they brought to battle; hers was Joy.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_boss.webp",
+						"question": "What nickname is The Boss known by among her Cobra Unit subordinates?",
+						"wrong": [
+							"The Sorrow",
+							"The Fear",
+							"The Pain"
+						]
+					},
+					{
+						"correct": "Special Forces",
+						"difficulty": "Easy",
+						"explanation": "She is often called 'The Mother of Special Forces' for her role in developing modern warfare techniques.",
+						"image_url": "",
+						"question": "The Boss is considered the mother of which branch of the military?",
+						"wrong": [
+							"The Navy",
+							"The Air Force",
+							"The Marines"
+						]
+					},
+					{
+						"correct": "White Petals",
+						"difficulty": "Easy",
+						"explanation": "The final duel takes place in a field of white flowers that turn red as the battle ends.",
+						"image_url": "",
+						"question": "In her final battle with Snake, what beautiful flower field are they fighting in?",
+						"wrong": [
+							"Red Roses",
+							"Yellow Sunflowers",
+							"Blue Violets"
+						]
+					},
+					{
+						"correct": "CQC",
+						"difficulty": "Medium",
+						"explanation": "Close Quarters Combat was their unique fighting style designed for stealth and efficiency.",
+						"image_url": "",
+						"question": "Which combat system did The Boss and Naked Snake develop together?",
+						"wrong": [
+							"Kung Fu",
+							"Judo",
+							"Muay Thai"
+						]
+					},
+					{
+						"correct": "The Patriot",
+						"difficulty": "Medium",
+						"explanation": "The Patriot is a modified XM16E1 with an infinite ammo drum shaped like an infinity symbol.",
+						"image_url": "",
+						"question": "What type of futuristic, short-barreled machine gun does The Boss use?",
+						"wrong": [
+							"The Peacekeeper",
+							"The Liberator",
+							"The Freedom"
+						]
+					},
+					{
+						"correct": "She was on a secret mission",
+						"difficulty": "Medium",
+						"explanation": "She was ordered to infiltrate Volgin's ranks to recover the Philosopher's Legacy for the US.",
+						"image_url": "",
+						"question": "What was the real reason The Boss 'defected' to the Soviet Union?",
+						"wrong": [
+							"She hated America",
+							"She wanted money",
+							"She fell in love with Volgin"
+						]
+					},
+					{
+						"correct": "Outer Space",
+						"difficulty": "Medium",
+						"explanation": "She was sent into space by the US before Yuri Gagarin, though it was kept secret.",
+						"image_url": "",
+						"question": "The Boss was the first human to ever go into what, as part of a secret program?",
+						"wrong": [
+							"Deep Ocean",
+							"The Moon",
+							"A Nuclear Reactor"
+						]
+					},
+					{
+						"correct": "The Sorrow",
+						"difficulty": "Medium",
+						"explanation": "The Sorrow was her lover and fellow Cobra member; she was forced to kill him years prior.",
+						"image_url": "",
+						"question": "Who was the father of The Boss's child, who appears as a ghost in Snake Eater?",
+						"wrong": [
+							"The End",
+							"The Fury",
+							"The Fear"
+						]
+					},
+					{
+						"correct": "Snake-shaped scar",
+						"difficulty": "Hard",
+						"explanation": "She has a large, snake-like scar from a C-section performed on the battlefield during WWII.",
+						"image_url": "",
+						"question": "What distinctive scar does The Boss have on her torso?",
+						"wrong": [
+							"Eagle-shaped scar",
+							"A bullet hole",
+							"A burn mark"
+						]
+					},
+					{
+						"correct": "Revolver Ocelot",
+						"difficulty": "Hard",
+						"explanation": "Ocelot was born to The Boss and The Sorrow in 1944 during the invasion of Normandy.",
+						"image_url": "",
+						"question": "Which character is later revealed to be the son of The Boss?",
+						"wrong": [
+							"Solid Snake",
+							"Liquid Snake",
+							"Gray Fox"
+						]
+					},
+					{
+						"correct": "The Philosophers",
+						"difficulty": "Hard",
+						"explanation": "Her father was a high-ranking member of the original Philosophers.",
+						"image_url": "",
+						"question": "What was the name of the philosophers' organization that The Boss's father was a member of?",
+						"wrong": [
+							"The Patriots",
+							"The Illuminati",
+							"The Wise Men"
+						]
+					},
+					{
+						"correct": "Ten minutes",
+						"difficulty": "Hard",
+						"explanation": "The player has exactly ten minutes to defeat her before MiGs bomb the location.",
+						"image_url": "",
+						"question": "How long was the time limit for the final fight against The Boss in Snake Eater?",
+						"wrong": [
+							"Five minutes",
+							"Fifteen minutes",
+							"Twenty minutes"
+						]
+					},
+					{
+						"correct": "Total control of the world",
+						"difficulty": "Hard",
+						"explanation": "Zero thought she wanted a unified world under one rule, whereas she actually wanted a world where people were left as they were.",
+						"image_url": "",
+						"question": "The Boss's ideology was misinterpreted by Major Zero to mean what?",
+						"wrong": [
+							"Total freedom for soldiers",
+							"Nuclear disarmament",
+							"Ending all war"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_the_boss",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Boss",
+				"lore_desc": "The Mother of Special Forces and the legendary mentor to Naked Snake, The Boss's sacrifice shaped the entire history of the world in the Metal Gear universe.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Mentor",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Legend",
+					"Mother"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Gas Mask",
+						"difficulty": "Easy",
+						"explanation": "The gas mask helps him tune out the 'noise' of other people's thoughts.",
+						"image_url": "https://skillcheckgame.com/assets/images/psycho_mantis.webp",
+						"question": "Which iconic piece of gear does Psycho Mantis wear to prevent others' thoughts from entering his mind?",
+						"wrong": [
+							"Welding Mask",
+							"Blindfold",
+							"Tinfoil Hat"
+						]
+					},
+					{
+						"correct": "Memory Card",
+						"difficulty": "Easy",
+						"explanation": "He would comment on other Konami games you had played, like Castlevania or Suikoden.",
+						"image_url": "https://skillcheckgame.com/assets/images/psycho_mantis.webp",
+						"question": "Psycho Mantis famously 'read' the player's mind by checking which hardware component on the PlayStation?",
+						"wrong": [
+							"Disc Drive",
+							"Power Supply",
+							"Controller Port 1"
+						]
+					},
+					{
+						"correct": "Plug it into Port 2",
+						"difficulty": "Easy",
+						"explanation": "By switching to Port 2, Mantis could no longer 'read your mind' and predict your movements.",
+						"image_url": "https://skillcheckgame.com/assets/images/psycho_mantis.webp",
+						"question": "To defeat Psycho Mantis, what did players famously have to do with their controller?",
+						"wrong": [
+							"Hold it upside down",
+							"Unplug it entirely",
+							"Press Reset"
+						]
+					},
+					{
+						"correct": "Vibrate",
+						"difficulty": "Easy",
+						"explanation": "He would ask you to put the controller on the floor and then use the vibration motor to 'move' it with his mind.",
+						"image_url": "",
+						"question": "What unusual physical feat did Psycho Mantis make the controller perform to prove his power?",
+						"wrong": [
+							"Heat up",
+							"Spin",
+							"Shoot sparks"
+						]
+					},
+					{
+						"correct": "HIDEO",
+						"difficulty": "Easy",
+						"explanation": "The screen would mimic a 'Video 1' display but replace the text with 'HIDEO' (after director Hideo Kojima).",
+						"image_url": "",
+						"question": "What word appears on a black screen during the Psycho Mantis fight, mimicking a TV channel change?",
+						"wrong": [
+							"VIDEO",
+							"SNAKE",
+							"GAME OVER"
+						]
+					},
+					{
+						"correct": "Russian",
+						"difficulty": "Medium",
+						"explanation": "Mantis was a former member of the KGB's psychic intelligence unit.",
+						"image_url": "",
+						"question": "What is Psycho Mantis's nationality?",
+						"wrong": [
+							"American",
+							"British",
+							"Japanese"
+						]
+					},
+					{
+						"correct": "Meryl Silverburgh",
+						"difficulty": "Medium",
+						"explanation": "He uses his powers to brainwash Meryl into pointing her gun at Snake.",
+						"image_url": "",
+						"question": "Which character does Psycho Mantis possess and control to attack Snake early in the game?",
+						"wrong": [
+							"Naomi Hunter",
+							"Mei Ling",
+							"Sniper Wolf"
+						]
+					},
+					{
+						"correct": "Tretij Rebenok",
+						"difficulty": "Medium",
+						"explanation": "Tretij Rebenok is Russian for 'The Third Child'.",
+						"image_url": "",
+						"question": "In 'Metal Gear Solid V: The Phantom Pain', Psycho Mantis appears as a child. What is he called there?",
+						"wrong": [
+							"The Third Boy",
+							"Floating Kid",
+							"Red Boy"
+						]
+					},
+					{
+						"correct": "His Father",
+						"difficulty": "Medium",
+						"explanation": "He discovered his father blamed him for his mother's death during childbirth.",
+						"image_url": "",
+						"question": "Mantis burned down his own village as a child after reading whose mind and discovering they hated him?",
+						"wrong": [
+							"His Mother",
+							"The Mayor",
+							"The Priest"
+						]
+					},
+					{
+						"correct": "Beauty and the Beast Corp",
+						"difficulty": "Medium",
+						"explanation": "His spirit controls Screaming Mantis, the leader of the unit.",
+						"image_url": "",
+						"question": "Which group of 'Beasts' does Psycho Mantis's spirit lead in Metal Gear Solid 4?",
+						"wrong": [
+							"The Cobras",
+							"The Skulls",
+							"Dead Cell"
+						]
+					},
+					{
+						"correct": "The Gifted Ones",
+						"difficulty": "Hard",
+						"explanation": "He briefly worked for the US government as an investigator of serial killers' minds.",
+						"image_url": "",
+						"question": "What was the name of the FBI's paranormal unit Mantis worked for before FOXHOUND?",
+						"wrong": [
+							"Psychic Task Force",
+							"Section 9",
+							"Project Blue Book"
+						]
+					},
+					{
+						"correct": "Self-inflicted or burning",
+						"difficulty": "Hard",
+						"explanation": "He burned his own face and village, and later scarred himself to 'cut off' the thoughts of others.",
+						"image_url": "",
+						"question": "How did Mantis acquire the scars on his face and body?",
+						"wrong": [
+							"Animal attack",
+							"A lab explosion",
+							"Bullet wounds"
+						]
+					},
+					{
+						"correct": "Destroying the statues",
+						"difficulty": "Hard",
+						"explanation": "Destroying the statues wrapped in bandages (which look like Mantis) disrupts his psychic concentration.",
+						"image_url": "",
+						"question": "In the MGS1 boss fight, what is the 'alternative' way to beat Mantis if you can't switch controller ports?",
+						"wrong": [
+							"Using chaff grenades",
+							"Waiting ten minutes",
+							"Calling Campbell repeatedly"
+						]
+					},
+					{
+						"correct": "Dived too deep into a killer's mind",
+						"difficulty": "Hard",
+						"explanation": "While scanning a serial killer, he became 'infected' by the killer's thoughts and became a murderer himself.",
+						"image_url": "",
+						"question": "What did Mantis do during his time in the FBI that caused him to go insane and join FOXHOUND?",
+						"wrong": [
+							"Was betrayed by his partner",
+							"Saw a ghost",
+							"Lost his powers"
+						]
+					},
+					{
+						"correct": "He laments the lack of vibration",
+						"difficulty": "Hard",
+						"explanation": "He screams 'No vibration!?' in frustration, referencing the original Sixaxis controllers.",
+						"image_url": "",
+						"question": "In MGS4, if the player uses a controller with no vibration, what does the ghost of Psycho Mantis do?",
+						"wrong": [
+							"He crashes the game",
+							"He ignores it",
+							"He gives you a trophy"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_psycho_mantis",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Psycho Mantis",
+				"lore_desc": "The most powerful psychic in the world, Psycho Mantis is a member of FOXHOUND who can read minds, control objects, and even 'break the fourth wall'.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Telepath",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Psychic",
+					"Boss"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Otacon",
+						"difficulty": "Easy",
+						"explanation": "Otacon is short for 'Otaku Convention', highlighting his obsession with anime.",
+						"image_url": "https://skillcheckgame.com/assets/images/otacon.webp",
+						"question": "What is Hal Emmerich's famous nickname, derived from his love of Japanese animation?",
+						"wrong": [
+							"Anime",
+							"Gamer",
+							"Techie"
+						]
+					},
+					{
+						"correct": "Chief Engineer",
+						"difficulty": "Easy",
+						"explanation": "Otacon designed REX, though he was misled about its nuclear capabilities.",
+						"image_url": "https://skillcheckgame.com/assets/images/otacon.webp",
+						"question": "What was Otacon's role in the development of Metal Gear REX?",
+						"wrong": [
+							"Test Pilot",
+							"Financial Investor",
+							"Security Guard"
+						]
+					},
+					{
+						"correct": "Metal Gear Solid",
+						"difficulty": "Easy",
+						"explanation": "Snake finds a terrified Otacon hiding in a lab locker during the Shadow Moses incident.",
+						"image_url": "https://skillcheckgame.com/assets/images/otacon.webp",
+						"question": "In which game does Snake first meet Otacon while he is hiding in a locker?",
+						"wrong": [
+							"Metal Gear Solid 2",
+							"Metal Gear Solid 3",
+							"Metal Gear Solid 4"
+						]
+					},
+					{
+						"correct": "Emma",
+						"difficulty": "Easy",
+						"explanation": "Emma Emmerich, also known as E.E., is a hacker like her brother.",
+						"image_url": "",
+						"question": "What is the name of Otacon's younger sister, who appears in Metal Gear Solid 2?",
+						"wrong": [
+							"Sunny",
+							"Naomi",
+							"Rose"
+						]
+					},
+					{
+						"correct": "Sniper Wolf",
+						"difficulty": "Easy",
+						"explanation": "Otacon falls for the beautiful sniper who fed the wolves on the base.",
+						"image_url": "",
+						"question": "Which character does Otacon develop a tragic romantic crush on in the first game?",
+						"wrong": [
+							"Meryl Silverburgh",
+							"Mei Ling",
+							"Naomi Hunter"
+						]
+					},
+					{
+						"correct": "Metal Gear Mk. II",
+						"difficulty": "Medium",
+						"explanation": "The Mk. II is a small, stealthy robot that provides Snake with items and intel.",
+						"image_url": "",
+						"question": "What is the name of the remote-controlled robot Otacon uses to assist Snake in MGS4?",
+						"wrong": [
+							"REX Jr.",
+							"D-Walker",
+							"The Petit Gear"
+						]
+					},
+					{
+						"correct": "Philanthropy",
+						"difficulty": "Medium",
+						"explanation": "Philanthropy was created to stop the spread of Metal Gear technology globally.",
+						"image_url": "",
+						"question": "Otacon and Snake are the founding members of which anti-Metal Gear NGO?",
+						"wrong": [
+							"The Patriots",
+							"Diamond Dogs",
+							"MSF"
+						]
+					},
+					{
+						"correct": "The Manhattan Project",
+						"difficulty": "Medium",
+						"explanation": "His grandfather worked on the atomic bomb, a legacy of destruction Otacon deeply regrets.",
+						"image_url": "",
+						"question": "What was Otacon's grandfather's role in real-world history?",
+						"wrong": [
+							"The Apollo Landing",
+							"The Vietnam War",
+							"Developing the Internet"
+						]
+					},
+					{
+						"correct": "His Step-Mother",
+						"difficulty": "Medium",
+						"explanation": "This tragic backstory led to his father's suicide and his estrangement from his sister.",
+						"image_url": "",
+						"question": "In MGS2, Otacon is accused of having an affair with whom?",
+						"wrong": [
+							"The President's Wife",
+							"A Russian Spy",
+							"Fortune"
+						]
+					},
+					{
+						"correct": "The parrot doesn't have a name",
+						"difficulty": "Medium",
+						"explanation": "The parrot is simply referred to as 'the parrot' but repeats the phrase 'Hal, I missed you'.",
+						"image_url": "",
+						"question": "What is the name of the parrot that belongs to Otacon's sister?",
+						"wrong": [
+							"Polly",
+							"Hal",
+							"Sunny"
+						]
+					},
+					{
+						"correct": "Sunny Gurlukovich",
+						"difficulty": "Hard",
+						"explanation": "After the events of MGS2, Otacon and Snake rescue Olga's daughter Sunny from the Patriots.",
+						"image_url": "",
+						"question": "Which character does Otacon eventually adopt and raise as his own daughter?",
+						"wrong": [
+							"Meryl Silverburgh",
+							"Little John",
+							"Olga Gurlukovich"
+						]
+					},
+					{
+						"correct": "MIT",
+						"difficulty": "Hard",
+						"explanation": "He is a graduate of the Massachusetts Institute of Technology.",
+						"image_url": "",
+						"question": "What is the specific name of the university Otacon attended?",
+						"wrong": [
+							"Harvard",
+							"Stanford",
+							"Oxford"
+						]
+					},
+					{
+						"correct": "The Pentagon",
+						"difficulty": "Hard",
+						"explanation": "Otacon was caught hacking the Pentagon as a teenager and forced to work for defense contractors.",
+						"image_url": "",
+						"question": "Otacon reveals he was 'blackmailed' into working on REX by the FBI after hacking into what?",
+						"wrong": [
+							"NASA",
+							"The White House",
+							"Facebook"
+						]
+					},
+					{
+						"correct": "Huey",
+						"difficulty": "Hard",
+						"explanation": "Huey Emmerich is a major character in the prequel games Peace Walker and MGSV.",
+						"image_url": "",
+						"question": "What is Otacon's father's first name?",
+						"wrong": [
+							"John",
+							"Alexander",
+							"Donald"
+						]
+					},
+					{
+						"correct": "Stealth Camouflage",
+						"difficulty": "Hard",
+						"explanation": "If Snake fails the torture, Otacon survives and gives him his stealth tech at the end.",
+						"image_url": "",
+						"question": "In the 'bad' ending of MGS1, what item does Otacon give Snake to use in future playthroughs?",
+						"wrong": [
+							"Infinite Bandana",
+							"Tuxedo",
+							"Desert Eagle"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_otacon",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Otacon",
+				"lore_desc": "Hal Emmerich, better known as Otacon, is a brilliant engineer and Solid Snake's closest ally, providing technical support and moral grounding.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Tech Specialist",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Genius",
+					"Otaku"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Daughter",
+						"difficulty": "Easy",
+						"explanation": "While she initially believes he is her uncle, it is later revealed that Campbell is her biological father.",
+						"image_url": "https://skillcheckgame.com/assets/images/meryl_silverburgh.webp",
+						"question": "What is Meryl's relationship to Colonel Roy Campbell?",
+						"wrong": [
+							"Sister",
+							"Wife",
+							"No relation"
+						]
+					},
+					{
+						"correct": "Desert Eagle",
+						"difficulty": "Easy",
+						"explanation": "Meryl is famous for wielding a Desert Eagle, a weapon she says fits her perfectly.",
+						"image_url": "https://skillcheckgame.com/assets/images/meryl_silverburgh.webp",
+						"question": "Which large-caliber handgun is Meryl's signature weapon?",
+						"wrong": [
+							"Glock 17",
+							"Revolver",
+							"Shotgun"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Meryl's bright red hair makes her stand out among the soldiers at Shadow Moses.",
+						"image_url": "https://skillcheckgame.com/assets/images/meryl_silverburgh.webp",
+						"question": "What color is Meryl's hair?",
+						"wrong": [
+							"Blonde",
+							"Black",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Genome Soldier",
+						"difficulty": "Easy",
+						"explanation": "Snake first encounters Meryl while she is disguised as one of the guards.",
+						"image_url": "",
+						"question": "In the first game, Meryl disguises herself as which type of enemy soldier?",
+						"wrong": [
+							"Cyborg Ninja",
+							"Scientist",
+							"Janitor"
+						]
+					},
+					{
+						"correct": "Psycho Mantis",
+						"difficulty": "Easy",
+						"explanation": "Mantis takes control of her mind to torment Snake during their encounter.",
+						"image_url": "",
+						"question": "Which boss uses Meryl as a human shield and puppet to attack Snake?",
+						"wrong": [
+							"Vulcan Raven",
+							"Liquid Snake",
+							"Sniper Wolf"
+						]
+					},
+					{
+						"correct": "Rat Patrol Team 01",
+						"difficulty": "Medium",
+						"explanation": "She leads a CID unit that investigates PMC activities for the UN.",
+						"image_url": "",
+						"question": "What is the name of the military unit Meryl leads in Metal Gear Solid 4?",
+						"wrong": [
+							"Dead Cell",
+							"FOXHOUND",
+							"The Beauty and the Beast"
+						]
+					},
+					{
+						"correct": "FOXHOUND Logo",
+						"difficulty": "Medium",
+						"explanation": "She has a tattoo of the old FOXHOUND logo, which she got because she idolized the unit.",
+						"image_url": "",
+						"question": "What distinctive tattoo does Meryl have on her left shoulder?",
+						"wrong": [
+							"A Rose",
+							"Snake and Sword",
+							"A Skull"
+						]
+					},
+					{
+						"correct": "Johnny Sasaki",
+						"difficulty": "Medium",
+						"explanation": "In a surprising turn, she marries Johnny (Akiba), the clumsy soldier from previous games.",
+						"image_url": "",
+						"question": "Which character does Meryl eventually marry at the end of MGS4?",
+						"wrong": [
+							"Solid Snake",
+							"Otacon",
+							"Raiden"
+						]
+					},
+					{
+						"correct": "The middle of a snowy corridor",
+						"difficulty": "Medium",
+						"explanation": "Sniper Wolf uses Meryl as bait in a wide-open area to draw Snake into her sights.",
+						"image_url": "",
+						"question": "Where does Meryl get shot multiple times by Sniper Wolf to lure Snake into a trap?",
+						"wrong": [
+							"Inside a lab",
+							"On a bridge",
+							"In a basement"
+						]
+					},
+					{
+						"correct": "As a new recruit on her first day",
+						"difficulty": "Medium",
+						"explanation": "It was her first day on the job when the FOXHOUND uprising occurred.",
+						"image_url": "",
+						"question": "How did Meryl get onto Shadow Moses in the first place?",
+						"wrong": [
+							"She was kidnapped",
+							"She was a spy",
+							"She was the pilot"
+						]
+					},
+					{
+						"correct": "Type A",
+						"difficulty": "Hard",
+						"explanation": "Snake can identify her by her distinct walk and eventually her records confirm her blood type.",
+						"image_url": "",
+						"question": "What is Meryl's blood type, which is used as a clue to identify her disguise?",
+						"wrong": [
+							"Type O",
+							"Type B",
+							"Type AB"
+						]
+					},
+					{
+						"correct": "Bandana",
+						"difficulty": "Hard",
+						"explanation": "The Bandana represents his 'infinite' will and provides infinite ammo in subsequent plays.",
+						"image_url": "",
+						"question": "In the 'Meryl' ending of the first game, what item does she give Snake?",
+						"wrong": [
+							"Stealth Camouflage",
+							"Dog Tags",
+							"A Gun"
+						]
+					},
+					{
+						"correct": "She didn't have the SOP system",
+						"difficulty": "Hard",
+						"explanation": "Meryl's unit used an older generation of nanomachines that weren't linked to the SOP control system.",
+						"image_url": "",
+						"question": "Why didn't Meryl's nanomachines cause her to freeze up during the 'Guns of the Patriots' incident?",
+						"wrong": [
+							"She was immune",
+							"She took a vaccine",
+							"She was a clone"
+						]
+					},
+					{
+						"correct": "The Pain",
+						"difficulty": "Hard",
+						"explanation": "A very obscure detail in the 'Snake Eater' credits suggests a familial link between the Silverburghs and The Pain.",
+						"image_url": "",
+						"question": "Which member of the Cobra Unit is Meryl's mother vaguely related to in series lore?",
+						"wrong": [
+							"The Boss",
+							"The Fear",
+							"The End"
+						]
+					},
+					{
+						"correct": "Captain",
+						"difficulty": "Hard",
+						"explanation": "By the time of the Liquid Ocelot incident, Meryl had risen to the rank of Captain in the US Army.",
+						"image_url": "",
+						"question": "What was Meryl's rank in MGS4?",
+						"wrong": [
+							"Major",
+							"Lieutenant",
+							"Sergeant"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_meryl_silverburgh",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Meryl Silverburgh",
+				"lore_desc": "A talented soldier and the daughter of Colonel Roy Campbell, Meryl is a key ally to Solid Snake during the Shadow Moses and Liquid Ocelot incidents.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Rookie",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Soldier",
+					"Heroine"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "High-Frequency Blade",
+						"difficulty": "Easy",
+						"explanation": "Gray Fox uses a katana that vibrates at high frequencies to cut through almost anything.",
+						"image_url": "https://skillcheckgame.com/assets/images/gray_fox.webp",
+						"question": "What is the most famous weapon used by the Cyborg Ninja?",
+						"wrong": [
+							"Laser Pistol",
+							"Nunchucks",
+							"Scythe"
+						]
+					},
+					{
+						"correct": "Stealth Camouflage",
+						"difficulty": "Easy",
+						"explanation": "The Ninja uses an early version of optical camouflage to sneak around Shadow Moses.",
+						"image_url": "https://skillcheckgame.com/assets/images/gray_fox.webp",
+						"question": "Gray Fox is known for which stealth technology that makes him nearly invisible?",
+						"wrong": [
+							"Smoke Bombs",
+							"Mirrors",
+							"Holograms"
+						]
+					},
+					{
+						"correct": "Frank Jaeger",
+						"difficulty": "Easy",
+						"explanation": "Frank Jaeger was a legendary FOXHOUND operative and a close friend of Big Boss.",
+						"image_url": "https://skillcheckgame.com/assets/images/gray_fox.webp",
+						"question": "What is the real name of the man who became Gray Fox?",
+						"wrong": [
+							"Jack",
+							"George Sears",
+							"Kyle Schneider"
+						]
+					},
+					{
+						"correct": "Metal Gear REX",
+						"difficulty": "Easy",
+						"explanation": "Gray Fox is crushed by the foot of Metal Gear REX while helping Snake.",
+						"image_url": "",
+						"question": "Which Metal Gear boss kills Gray Fox at the end of the first game?",
+						"wrong": [
+							"Metal Gear RAY",
+							"The Shagohod",
+							"Metal Gear D"
+						]
+					},
+					{
+						"correct": "Hurt me more!",
+						"difficulty": "Easy",
+						"explanation": "Gray Fox experiences a rush of sensation during combat, shouting 'Hurt me more!' as they fight.",
+						"image_url": "",
+						"question": "What famous line does the Cyborg Ninja say to Snake during their first fight?",
+						"wrong": [
+							"I'm a ghost!",
+							"See you in hell!",
+							"I am the wind!"
+						]
+					},
+					{
+						"correct": "Naomi Hunter",
+						"difficulty": "Medium",
+						"explanation": "Frank killed Naomi's parents in a war but took her in and raised her as his sister.",
+						"image_url": "",
+						"question": "Who is the 'sister' Gray Fox raised, who later became a scientist for FOXHOUND?",
+						"wrong": [
+							"Meryl Silverburgh",
+							"Mei Ling",
+							"Emma Emmerich"
+						]
+					},
+					{
+						"correct": "Null",
+						"difficulty": "Medium",
+						"explanation": "In Portable Ops, he is introduced as 'Null', the Perfect Soldier.",
+						"image_url": "",
+						"question": "What was Gray Fox's codename when he was a child soldier?",
+						"wrong": [
+							"Void",
+							"Zero",
+							"Ghost"
+						]
+					},
+					{
+						"correct": "Metal Gear 2: Solid Snake",
+						"difficulty": "Medium",
+						"explanation": "Their legendary fistfight in a minefield at Zanzibar Land led to Fox's 'death' and subsequent rebirth.",
+						"image_url": "",
+						"question": "In which game does Solid Snake first fight and 'kill' Gray Fox in a minefield?",
+						"wrong": [
+							"Metal Gear",
+							"Metal Gear Solid",
+							"Snake Eater"
+						]
+					},
+					{
+						"correct": "Destroying the Radome",
+						"difficulty": "Medium",
+						"explanation": "He uses his laser/cannon to destroy the REX's sensor array, forcing Liquid to open the cockpit.",
+						"image_url": "",
+						"question": "What does Gray Fox use his arm-mounted cannon for against Metal Gear REX?",
+						"wrong": [
+							"Blowing up the leg",
+							"Killing Liquid",
+							"Shutting down the power"
+						]
+					},
+					{
+						"correct": "The Patriots",
+						"difficulty": "Medium",
+						"explanation": "The Patriots (under Dr. Clark) used his body for horrific gene therapy and exoskeleton experiments.",
+						"image_url": "",
+						"question": "What organization experiment turned Frank Jaeger into the Cyborg Ninja?",
+						"wrong": [
+							"FOXHOUND",
+							"ArmsTech",
+							"The KGB"
+						]
+					},
+					{
+						"correct": "Fox",
+						"difficulty": "Hard",
+						"explanation": "The 'Fox' rank was the highest honor in the unit, given only once.",
+						"image_url": "",
+						"question": "Gray Fox was the only member of FOXHOUND to ever receive which highest codename?",
+						"wrong": [
+							"Snake",
+							"Hound",
+							"Eagle"
+						]
+					},
+					{
+						"correct": "Rhodesia",
+						"difficulty": "Hard",
+						"explanation": "They met during the Rhodesian Bush War in the 1970s.",
+						"image_url": "",
+						"question": "In which country did Frank Jaeger first meet a young Naomi Hunter?",
+						"wrong": [
+							"South Africa",
+							"Vietnam",
+							"Russia"
+						]
+					},
+					{
+						"correct": "Para-Medic",
+						"difficulty": "Hard",
+						"explanation": "Para-Medic from MGS3 later became Dr. Clark and led the Cyborg Ninja project.",
+						"image_url": "",
+						"question": "What is the name of the scientist, also known as Dr. Clark, who performed the experiments on Gray Fox?",
+						"wrong": [
+							"Sigint",
+							"Sokolov",
+							"Madnar"
+						]
+					},
+					{
+						"correct": "Sliced off his hand",
+						"difficulty": "Hard",
+						"explanation": "He suddenly appeared and severed Ocelot's hand to save Snake from being shot.",
+						"image_url": "",
+						"question": "What did Gray Fox do to Revolver Ocelot during their first encounter on Shadow Moses?",
+						"wrong": [
+							"Stabbed his heart",
+							"Blinded him",
+							"Cut his hair"
+						]
+					},
+					{
+						"correct": "We're not tools of the government",
+						"difficulty": "Hard",
+						"explanation": "He told Snake: 'We're not tools of the government, or anyone else. Fighting was the only thing I was good at... but at least I always fought for what I believed in.'",
+						"image_url": "",
+						"question": "What were Gray Fox's final words to Snake?",
+						"wrong": [
+							"I'm coming home",
+							"Kill Liquid for me",
+							"Live for yourself"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_gray_fox",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Gray Fox",
+				"lore_desc": "Formerly a comrade of Solid Snake, Frank Jaeger was reborn as the Cyborg Ninja, a lethal warrior seeking a final battle to the death.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Cyborg Ninja",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Warrior",
+					"Ninja"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Metal Gear Solid 2: Sons of Liberty",
+						"difficulty": "Easy",
+						"explanation": "Raiden famously replaced Solid Snake as the main character for the majority of MGS2.",
+						"image_url": "https://skillcheckgame.com/assets/images/raiden.webp",
+						"question": "In which game does Raiden make his debut as the primary playable character?",
+						"wrong": [
+							"Metal Gear Solid",
+							"Metal Gear Solid 3",
+							"Metal Gear Solid 4"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "Raiden is easily identified by his long, silver-white hair.",
+						"image_url": "https://skillcheckgame.com/assets/images/raiden.webp",
+						"question": "What is Raiden's natural hair color?",
+						"wrong": [
+							"Blonde",
+							"Black",
+							"Brown"
+						]
+					},
+					{
+						"correct": "Jack",
+						"difficulty": "Easy",
+						"explanation": "Raiden's girlfriend calls him Jack throughout the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/raiden.webp",
+						"question": "What is Raiden's real name?",
+						"wrong": [
+							"John",
+							"David",
+							"Eli"
+						]
+					},
+					{
+						"correct": "Cyborg Ninja",
+						"difficulty": "Easy",
+						"explanation": "Raiden eventually undergoes surgery to become a full-body cyborg with a sword.",
+						"image_url": "",
+						"question": "By the time of 'Metal Gear Rising: Revengeance', what kind of warrior has Raiden become?",
+						"wrong": [
+							"Tank Pilot",
+							"Sniper",
+							"Hacker"
+						]
+					},
+					{
+						"correct": "Rosemary",
+						"difficulty": "Easy",
+						"explanation": "Rosemary, or Rose, is Raiden's girlfriend and mission analyst.",
+						"image_url": "",
+						"question": "What is the name of Raiden's girlfriend who provides support over the radio?",
+						"wrong": [
+							"Meryl",
+							"Mei Ling",
+							"Naomi"
+						]
+					},
+					{
+						"correct": "Jack the Ripper",
+						"difficulty": "Medium",
+						"explanation": "Raiden was a lethal child soldier in the Liberian Civil War.",
+						"image_url": "",
+						"question": "What was Raiden's terrifying nickname during his time as a child soldier?",
+						"wrong": [
+							"White Death",
+							"The Ghost",
+							"Bloody Jack"
+						]
+					},
+					{
+						"correct": "Solidus Snake",
+						"difficulty": "Medium",
+						"explanation": "Solidus Snake raised Raiden on the battlefield after killing his biological parents.",
+						"image_url": "",
+						"question": "Which character was Raiden's adoptive 'father' and former commander?",
+						"wrong": [
+							"Big Boss",
+							"Liquid Snake",
+							"Solid Snake"
+						]
+					},
+					{
+						"correct": "Big Shell",
+						"difficulty": "Medium",
+						"explanation": "Raiden is sent to the Big Shell to rescue the President from terrorists.",
+						"image_url": "",
+						"question": "What is the name of the offshore decontamination facility where Raiden's first mission takes place?",
+						"wrong": [
+							"Shadow Moses",
+							"Mother Base",
+							"Groznyj Grad"
+						]
+					},
+					{
+						"correct": "VR Training",
+						"difficulty": "Medium",
+						"explanation": "Raiden had almost no real-world experience, having completed all his training in Virtual Reality.",
+						"image_url": "",
+						"question": "Raiden spent his entire training period before MGS2 doing what?",
+						"wrong": [
+							"Working in an office",
+							"Weightlifting",
+							"Flying planes"
+						]
+					},
+					{
+						"correct": "Outer Haven",
+						"difficulty": "Medium",
+						"explanation": "In a display of cyborg strength, he holds back Liquid's massive arsenal ship to let Snake escape.",
+						"image_url": "",
+						"question": "In MGS4, Raiden saves Snake by stopping which massive vehicle with his bare hands?",
+						"wrong": [
+							"Metal Gear REX",
+							"A Battleship",
+							"A Cargo Plane"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Hard",
+						"explanation": "His cyborg body uses 'White Blood' (artificial blood) which he needs regular dialysis for.",
+						"image_url": "",
+						"question": "What is the color of Raiden's blood in his MGS4 cyborg body?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Black"
+						]
+					},
+					{
+						"correct": "Liberia",
+						"difficulty": "Hard",
+						"explanation": "He was a child soldier in the Liberian Civil War during the 1980s.",
+						"image_url": "",
+						"question": "In which country was Raiden born?",
+						"wrong": [
+							"USA",
+							"Russia",
+							"Serbia"
+						]
+					},
+					{
+						"correct": "The Sneaking Suit",
+						"difficulty": "Hard",
+						"explanation": "His specific version of the Sneaking Suit is nicknamed the Skull Suit because of its skeletal appearance.",
+						"image_url": "",
+						"question": "What is the name of the 'Skull Suit' Raiden wears during the Big Shell incident?",
+						"wrong": [
+							"OctoCamo",
+							"The Stealth Vest",
+							"The Muscle Suit"
+						]
+					},
+					{
+						"correct": "GW",
+						"difficulty": "Hard",
+						"explanation": "GW was the AI that manipulated Raiden during the S3 Plan.",
+						"image_url": "",
+						"question": "Which AI system was Raiden actually communicating with, thinking it was Colonel Campbell?",
+						"wrong": [
+							"ALICE",
+							"HAL",
+							"SKynet"
+						]
+					},
+					{
+						"correct": "John",
+						"difficulty": "Hard",
+						"explanation": "He is named John (or Little John), after Big Boss's real name.",
+						"image_url": "",
+						"question": "What is the name of Raiden and Rose's son?",
+						"wrong": [
+							"David",
+							"Jack Jr.",
+							"Hal"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_raiden",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Raiden",
+				"lore_desc": "A former child soldier who became the protagonist of the Big Shell incident, Raiden eventually transformed into a powerful cyborg ninja himself.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The White-Haired Warrior",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Ninja",
+					"Cyborg"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Alaska",
+						"difficulty": "Easy",
+						"explanation": "The facility is located in the freezing climate of the Fox Islands, Alaska.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadow_moses.webp",
+						"question": "Shadow Moses Island is located in which US state?",
+						"wrong": [
+							"Hawaii",
+							"Washington",
+							"Maine"
+						]
+					},
+					{
+						"correct": "Nuclear Weapons Disposal",
+						"difficulty": "Easy",
+						"explanation": "It was officially a site for the decommissioning and disposal of nuclear warheads.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadow_moses.webp",
+						"question": "What is the primary purpose of the facility on Shadow Moses?",
+						"wrong": [
+							"Oil Drilling",
+							"Space Exploration",
+							"Underwater Research"
+						]
+					},
+					{
+						"correct": "2005",
+						"difficulty": "Easy",
+						"explanation": "The events of the first Metal Gear Solid occur in 2005.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadow_moses.webp",
+						"question": "In which year does the 'Shadow Moses Incident' take place in the game's timeline?",
+						"wrong": [
+							"1998",
+							"2010",
+							"1984"
+						]
+					},
+					{
+						"correct": "FOXHOUND",
+						"difficulty": "Easy",
+						"explanation": "The elite special forces unit FOXHOUND went rogue and seized the facility.",
+						"image_url": "",
+						"question": "What is the name of the terrorist group that took over the island?",
+						"wrong": [
+							"Dead Cell",
+							"The Cobras",
+							"Sons of Liberty"
+						]
+					},
+					{
+						"correct": "Metal Gear REX",
+						"difficulty": "Easy",
+						"explanation": "REX was the centerpiece of the DARPA project on the island.",
+						"image_url": "",
+						"question": "What giant mechanical weapon was being secretly developed at Shadow Moses?",
+						"wrong": [
+							"Metal Gear RAY",
+							"The Shagohod",
+							"Metal Gear EXCELSIUS"
+						]
+					},
+					{
+						"correct": "Colonel Roy Campbell",
+						"difficulty": "Medium",
+						"explanation": "Campbell came out of retirement to lead the mission from a nearby submarine.",
+						"image_url": "",
+						"question": "Who was the commander of the mission to infiltrate Shadow Moses?",
+						"wrong": [
+							"Major Zero",
+							"Master Miller",
+							"Solidus Snake"
+						]
+					},
+					{
+						"correct": "Cargo Dock",
+						"difficulty": "Medium",
+						"explanation": "Snake swims into the Cargo Dock to begin his infiltration.",
+						"image_url": "",
+						"question": "What is the name of the dock where Snake first enters the facility?",
+						"wrong": [
+							"The Submarine Pen",
+							"The Hangar",
+							"The Helipad"
+						]
+					},
+					{
+						"correct": "Hind D",
+						"difficulty": "Medium",
+						"explanation": "Liquid Snake attacks with a Hind D helicopter on the roof of the base.",
+						"image_url": "",
+						"question": "Which boss fight takes place on the helipad of Shadow Moses early in the game?",
+						"wrong": [
+							"Cyborg Ninja",
+							"Psycho Mantis",
+							"Vulcan Raven"
+						]
+					},
+					{
+						"correct": "Genome Soldiers",
+						"difficulty": "Medium",
+						"explanation": "They are enhanced soldiers who have been given gene therapy from Big Boss's DNA.",
+						"image_url": "",
+						"question": "What type of soldiers make up the majority of the guards on Shadow Moses?",
+						"wrong": [
+							"Spetsnaz",
+							"Mercenaries",
+							"Marines"
+						]
+					},
+					{
+						"correct": "To retrieve the Railgun",
+						"difficulty": "Medium",
+						"explanation": "He returns to the ruined facility to get the Railgun from the remains of Metal Gear REX.",
+						"image_url": "",
+						"question": "In Metal Gear Solid 4, why does Old Snake return to Shadow Moses?",
+						"wrong": [
+							"To find Liquid",
+							"To save Otacon",
+							"To hide from the Patriots"
+						]
+					},
+					{
+						"correct": "Communications Tower",
+						"difficulty": "Hard",
+						"explanation": "Tower A and Tower B are connected by a long bridge where the helicopter battle occurs.",
+						"image_url": "",
+						"question": "What is the name of the two-tower building where Snake fights the Hind D?",
+						"wrong": [
+							"The Twin Spires",
+							"Command Center",
+							"The Silos"
+						]
+					},
+					{
+						"correct": "ArmsTech",
+						"difficulty": "Hard",
+						"explanation": "ArmsTech President Kenneth Baker was one of the hostages on the island.",
+						"image_url": "",
+						"question": "Who is the owner of the facility, the company that partnered with the US government?",
+						"wrong": [
+							"Military-Industrial",
+							"Lockheed",
+							"Global Defense"
+						]
+					},
+					{
+						"correct": "Underground Warehouse",
+						"difficulty": "Hard",
+						"explanation": "Their final battle happens in the freezing cold warehouse after the blast furnace.",
+						"image_url": "",
+						"question": "What is the name of the blast furnace area where Snake fights Vulcan Raven for the second time?",
+						"wrong": [
+							"The Smelter",
+							"Cold Storage",
+							"The Pit"
+						]
+					},
+					{
+						"correct": "Donald Anderson",
+						"difficulty": "Hard",
+						"explanation": "Donald Anderson was the DARPA Chief who Ocelot 'accidentally' killed.",
+						"image_url": "",
+						"question": "What was the DARPA Chief's name, who died in the Shadow Moses holding cells?",
+						"wrong": [
+							"Kenneth Baker",
+							"Jim Houseman",
+							"Scott Dolph"
+						]
+					},
+					{
+						"correct": "USS Discovery",
+						"difficulty": "Hard",
+						"explanation": "The mission was directed from the USS Discovery, an Ohio-class submarine.",
+						"image_url": "",
+						"question": "What is the exact name of the submarine Campbell's team uses during the mission?",
+						"wrong": [
+							"USS Kentucky",
+							"USS Ohio",
+							"USS Patriot"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_shadow_moses",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Shadow Moses",
+				"lore_desc": "A remote nuclear weapons disposal facility in Alaska's Fox Islands, Shadow Moses was the site of the 2005 uprising led by Liquid Snake.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Island Facility",
+			"profiler": {
+				"vibe_tags": [
+					"Setting",
+					"Base",
+					"Island"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Hiding from enemies",
+						"difficulty": "Easy",
+						"explanation": "By staying still inside the box, Snake can avoid being detected by guards and cameras.",
+						"image_url": "https://skillcheckgame.com/assets/images/cardboard_box.webp",
+						"question": "What is the primary function of the Cardboard Box in the Metal Gear series?",
+						"wrong": [
+							"Storing weapons",
+							"Building shelter",
+							"Trapping guards"
+						]
+					},
+					{
+						"correct": "Waddling while crouched",
+						"difficulty": "Easy",
+						"explanation": "Snake can waddle around while inside the box, though moving while a guard is looking will blow his cover.",
+						"image_url": "https://skillcheckgame.com/assets/images/cardboard_box.webp",
+						"question": "How does the player move while using the Cardboard Box?",
+						"wrong": [
+							"Running at full speed",
+							"Rolling",
+							"They can't move"
+						]
+					},
+					{
+						"correct": "Solid Snake",
+						"difficulty": "Easy",
+						"explanation": "Snake has a strange, deep emotional attachment to the cardboard box.",
+						"image_url": "https://skillcheckgame.com/assets/images/cardboard_box.webp",
+						"question": "Which character famously said the box was 'destiny' and 'my true self'?",
+						"wrong": [
+							"Liquid Snake",
+							"Revolver Ocelot",
+							"Meryl Silverburgh"
+						]
+					},
+					{
+						"correct": "He becomes suspicious",
+						"difficulty": "Easy",
+						"explanation": "If the box moves in a guard's line of sight, he will investigate and lift the box.",
+						"image_url": "",
+						"question": "What happens if a guard sees the box moving?",
+						"wrong": [
+							"He ignores it",
+							"He kicks it",
+							"He walks away"
+						]
+					},
+					{
+						"correct": "Delivery Trucks",
+						"difficulty": "Easy",
+						"explanation": "By equipping the correct box in a loading zone, Snake can be transported to different areas of the map.",
+						"image_url": "",
+						"question": "In many games, the box can be used for fast travel by sitting on what?",
+						"wrong": [
+							"Helicopters",
+							"Conveyor Belts",
+							"Moving Platforms"
+						]
+					},
+					{
+						"correct": "Posters",
+						"difficulty": "Medium",
+						"explanation": "You can apply posters of bikini models or enemy commanders to distract or fool the guards.",
+						"image_url": "",
+						"question": "In 'Metal Gear Solid V', what can you stick to the outside of the box to distract guards?",
+						"wrong": [
+							"Explosives",
+							"Lights",
+							"Cameras"
+						]
+					},
+					{
+						"correct": "Wolf Cubs",
+						"difficulty": "Medium",
+						"explanation": "If a wolf cub pees on the box, the other wolves will recognize the scent and leave you alone.",
+						"image_url": "",
+						"question": "In the first MGS, what animal will pee on your box if you are wearing it in their territory?",
+						"wrong": [
+							"Dogs",
+							"Rats",
+							"Reindeer"
+						]
+					},
+					{
+						"correct": "The Orange",
+						"difficulty": "Medium",
+						"explanation": "The boxes are often labeled as 'The Orange', a fictional fruit brand.",
+						"image_url": "",
+						"question": "What is written on the side of the most common box in Metal Gear Solid 1?",
+						"wrong": [
+							"Fragile",
+							"Snake",
+							"Top Secret"
+						]
+					},
+					{
+						"correct": "Box B",
+						"difficulty": "Medium",
+						"explanation": "Different boxes (A, B, and C) are used to travel to different destinations in Groznyj Grad.",
+						"image_url": "",
+						"question": "In MGS3, which box is designed for use in the laboratory areas?",
+						"wrong": [
+							"Box A",
+							"Box C",
+							"Science Box"
+						]
+					},
+					{
+						"correct": "The box gets soggy and breaks",
+						"difficulty": "Medium",
+						"explanation": "The cardboard will eventually fall apart if it gets too wet.",
+						"image_url": "",
+						"question": "What happens if you hide in a box in the rain in 'The Phantom Pain'?",
+						"wrong": [
+							"Nothing",
+							"You slide faster",
+							"You become more invisible"
+						]
+					},
+					{
+						"correct": "It catches fire",
+						"difficulty": "Hard",
+						"explanation": "If you stand near the pipes, the heat can actually set the cardboard on fire.",
+						"image_url": "",
+						"question": "In MGS2, what happens if you hide in a box in the engine room of the tanker?",
+						"wrong": [
+							"It melts",
+							"It blows away",
+							"Nothing"
+						]
+					},
+					{
+						"correct": "The Smoke Box",
+						"difficulty": "Hard",
+						"explanation": "A gag item in some versions allows the box to omit smoke to hide Snake.",
+						"image_url": "",
+						"question": "What is the name of the 'Cigarette-smoking' box found in some Metal Gear spin-offs?",
+						"wrong": [
+							"The Ash Box",
+							"The Cloud Box",
+							"The Filter Box"
+						]
+					},
+					{
+						"correct": "Drum Can",
+						"difficulty": "Hard",
+						"explanation": "While he still has the box, the Drum Can is a sturdier alternative he can use to roll into enemies.",
+						"image_url": "",
+						"question": "In MGS4, what metal version of the box does Snake use to hide?",
+						"wrong": [
+							"Steel Box",
+							"Iron Crate",
+							"Trash Can"
+						]
+					},
+					{
+						"correct": "Kazuhira Miller",
+						"difficulty": "Hard",
+						"explanation": "Snake and Miller can share a 'Love Box' in a specific co-op mission.",
+						"image_url": "",
+						"question": "Which character in 'Peace Walker' also shares Snake's obsession with boxes and can share a box with him?",
+						"wrong": [
+							"Chico",
+							"Paz",
+							"Huey"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "There are three boxes: Box A (Heliport), Box B (Nuclear Storage), and Box C (Snow Field).",
+						"image_url": "",
+						"question": "How many different types of cardboard boxes (destinations) are there in the original MGS1?",
+						"wrong": [
+							"One",
+							"Two",
+							"Four"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_cardboard_box",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Cardboard Box",
+				"lore_desc": "Perhaps the most famous item in the series, the Cardboard Box is a masterclass in low-tech stealth, beloved by Snake and feared by guards.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Ultimate Stealth Tool",
+			"profiler": {
+				"vibe_tags": [
+					"Tool",
+					"Stealth",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Makes the wearer invisible",
+						"difficulty": "Easy",
+						"explanation": "Stealth Camouflage uses light refraction to hide the user from enemies.",
+						"image_url": "https://skillcheckgame.com/assets/images/stealth_camouflage.webp",
+						"question": "What is the primary effect of the Stealth Camouflage item?",
+						"wrong": [
+							"Makes the wearer faster",
+							"Increases health",
+							"Gives infinite ammo"
+						]
+					},
+					{
+						"correct": "Cyborg Ninja",
+						"difficulty": "Easy",
+						"explanation": "The Cyborg Ninja (Gray Fox) uses it to ambush Snake and the scientists on Shadow Moses.",
+						"image_url": "https://skillcheckgame.com/assets/images/stealth_camouflage.webp",
+						"question": "Which character is the first to use Stealth Camo against Snake in the series?",
+						"wrong": [
+							"Psycho Mantis",
+							"Liquid Snake",
+							"Vulcan Raven"
+						]
+					},
+					{
+						"correct": "Otacon",
+						"difficulty": "Easy",
+						"explanation": "Hal 'Otacon' Emmerich developed the technology, though he notes it is still 'flawed'.",
+						"image_url": "https://skillcheckgame.com/assets/images/stealth_camouflage.webp",
+						"question": "Who is the creator of the Stealth Camouflage used by the protagonist?",
+						"wrong": [
+							"Sokolov",
+							"The Boss",
+							"Sigint"
+						]
+					},
+					{
+						"correct": "Submit to the torture",
+						"difficulty": "Easy",
+						"explanation": "If you submit to Ocelot's torture, you get the Otacon ending and the Stealth Camo reward.",
+						"image_url": "",
+						"question": "To unlock Stealth Camo for subsequent playthroughs of MGS1, what must Snake do?",
+						"wrong": [
+							"Kill 100 guards",
+							"Finish the game in 3 hours",
+							"Find all the ghosts"
+						]
+					},
+					{
+						"correct": "Shimmering outline",
+						"difficulty": "Easy",
+						"explanation": "It isn't perfect; a slight 'shimmer' or distortion can be seen if the user moves.",
+						"image_url": "",
+						"question": "What visual effect does the Stealth Camo create around the user?",
+						"wrong": [
+							"Pure black shadow",
+							"Bright glow",
+							"Rainbow colors"
+						]
+					},
+					{
+						"correct": "Snake or Fox",
+						"difficulty": "Medium",
+						"explanation": "High-tier rankings or shooting all the Kerotan frogs are required to unlock it.",
+						"image_url": "",
+						"question": "In 'Snake Eater', what rank must you achieve to unlock the Stealth Camouflage?",
+						"wrong": [
+							"Chicken",
+							"Pigeon",
+							"Cow"
+						]
+					},
+					{
+						"correct": "Battery Power",
+						"difficulty": "Medium",
+						"explanation": "The suit requires energy to maintain the light-bending effect.",
+						"image_url": "",
+						"question": "What usually drains while using Stealth Camouflage in later games like MGS4 or MGSV?",
+						"wrong": [
+							"Health",
+							"Oxygen",
+							"Ammunition"
+						]
+					},
+					{
+						"correct": "Laughing Octopus",
+						"difficulty": "Medium",
+						"explanation": "Laughing Octopus uses her suit to blend into the environment and hide on walls.",
+						"image_url": "",
+						"question": "Which boss unit in MGS4 uses advanced Stealth Camouflage throughout their fight?",
+						"wrong": [
+							"Raging Raven",
+							"Crying Wolf",
+							"Screaming Mantis"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Medium",
+						"explanation": "Thermal imaging still detects the heat signature of the wearer even if they are optically invisible.",
+						"image_url": "",
+						"question": "Can Stealth Camouflage hide you from infrared sensors and thermal goggles?",
+						"wrong": [
+							"Yes",
+							"Only in the daytime",
+							"Only if you stay still"
+						]
+					},
+					{
+						"correct": "The guard discovers him",
+						"difficulty": "Medium",
+						"explanation": "Physical contact will immediately alert the guard to your presence.",
+						"image_url": "",
+						"question": "What happens if a guard bumps into Snake while he is wearing Stealth Camo?",
+						"wrong": [
+							"Snake kills him automatically",
+							"The guard falls over",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "Optical Camouflage",
+						"difficulty": "Hard",
+						"explanation": "Within the lore, it is consistently referred to as 'Optical Camouflage'.",
+						"image_url": "",
+						"question": "What is the technical name for the technology that makes the camouflage work?",
+						"wrong": [
+							"Digital Cloaking",
+							"Nano-shroud",
+							"Quantum Veil"
+						]
+					},
+					{
+						"correct": "Level 88",
+						"difficulty": "Hard",
+						"explanation": "It is one of the highest-level R and D projects in the game.",
+						"image_url": "",
+						"question": "In 'Peace Walker', which research level must your R and D team reach to develop Stealth Camo?",
+						"wrong": [
+							"Level 50",
+							"Level 99",
+							"Level 75"
+						]
+					},
+					{
+						"correct": "Psycho Mantis",
+						"difficulty": "Hard",
+						"explanation": "Mantis uses his psychic powers to track your position, making the camo useless.",
+						"image_url": "",
+						"question": "Which MGS1 boss can see you even when you are wearing Stealth Camouflage?",
+						"wrong": [
+							"Vulcan Raven",
+							"Sniper Wolf",
+							"Revolver Ocelot"
+						]
+					},
+					{
+						"correct": "The Enemy Uniform",
+						"difficulty": "Hard",
+						"explanation": "Before optical camo, Snake had to wear the enemies' own uniform to pass through certain areas.",
+						"image_url": "",
+						"question": "In the original MG games for MSX, what item served a similar purpose to Stealth Camo?",
+						"wrong": [
+							"Invisibility Potion",
+							"Shadow Suit",
+							"Cardboard Box"
+						]
+					},
+					{
+						"correct": "Limits your mission rank",
+						"difficulty": "Hard",
+						"explanation": "Using high-tier support items like Stealth Camo prevents the player from getting an S-rank.",
+						"image_url": "",
+						"question": "What is the primary drawback of using the 'Stealth Camo Prototype' in MGSV?",
+						"wrong": [
+							"Slows you down",
+							"Deals damage over time",
+							"Only works for 5 seconds"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_stealth_camouflage",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Stealth Camouflage",
+				"lore_desc": "High-tech optical camouflage that bends light around the wearer, making them almost completely invisible to the naked eye.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Invisible Armor",
+			"profiler": {
+				"vibe_tags": [
+					"Tool",
+					"Tech",
+					"Stealth"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Big Boss",
+						"difficulty": "Easy",
+						"explanation": "He is the third brother in the Les Enfants Terribles project.",
+						"image_url": "https://skillcheckgame.com/assets/images/solidus_snake.webp",
+						"question": "Solidus Snake is a clone of which legendary soldier?",
+						"wrong": [
+							"Solid Snake",
+							"Major Zero",
+							"The Boss"
+						]
+					},
+					{
+						"correct": "George Sears",
+						"difficulty": "Easy",
+						"explanation": "He was the 43rd President, serving during the events between MGS1 and MGS2.",
+						"image_url": "https://skillcheckgame.com/assets/images/solidus_snake.webp",
+						"question": "Under what name did Solidus Snake serve as the President of the United States?",
+						"wrong": [
+							"James Baker",
+							"Steven Armstrong",
+							"Richard Ames"
+						]
+					},
+					{
+						"correct": "Two Swords",
+						"difficulty": "Easy",
+						"explanation": "Solidus wields two blades: a 'Daisho' set of katana and wakizashi.",
+						"image_url": "https://skillcheckgame.com/assets/images/solidus_snake.webp",
+						"question": "What kind of melee weapons does Solidus Snake use in combat?",
+						"wrong": [
+							"A Spear",
+							"Combat Knife",
+							"Chainsaw"
+						]
+					},
+					{
+						"correct": "He is a perfect clone",
+						"difficulty": "Easy",
+						"explanation": "He was created to be an exact genetic match of Big Boss, unlike the other two who had dominant/recessive splits.",
+						"image_url": "",
+						"question": "What is unique about Solidus Snake's genetic makeup compared to Solid and Liquid?",
+						"wrong": [
+							"He is half-human",
+							"He is immortal",
+							"He has no DNA"
+						]
+					},
+					{
+						"correct": "Sons of Liberty",
+						"difficulty": "Easy",
+						"explanation": "He took the name from the historical American revolutionary group.",
+						"image_url": "",
+						"question": "What is the name of the terrorist group Solidus leads during the Big Shell incident?",
+						"wrong": [
+							"Outer Heaven",
+							"Dead Cell",
+							"FOXHOUND"
+						]
+					},
+					{
+						"correct": "Raiden",
+						"difficulty": "Medium",
+						"explanation": "Solidus was the commander who taught Raiden how to kill.",
+						"image_url": "",
+						"question": "Solidus Snake raised which future hero as a child soldier in Liberia?",
+						"wrong": [
+							"Meryl",
+							"Johnny",
+							"Sunny"
+						]
+					},
+					{
+						"correct": "Exoskeleton",
+						"difficulty": "Medium",
+						"explanation": "His suit has two 'Snake Arms' that can fire missiles and grab enemies.",
+						"image_url": "",
+						"question": "What is the name of the mechanical suit Solidus wears, featuring two robotic tentacles?",
+						"wrong": [
+							"OctoSuit",
+							"Power Armor",
+							"Metal Suit"
+						]
+					},
+					{
+						"correct": "Dead Cell",
+						"difficulty": "Medium",
+						"explanation": "Dead Cell was originally an anti-terrorism unit that turned rogue with Solidus.",
+						"image_url": "",
+						"question": "Which elite special forces unit does Solidus use as his personal muscle on the Big Shell?",
+						"wrong": [
+							"Cobra Unit",
+							"Beauty and the Beast",
+							"The Skulls"
+						]
+					},
+					{
+						"correct": "To destroy the Patriots",
+						"difficulty": "Medium",
+						"explanation": "He wanted to free the world from the digital control of the Patriots.",
+						"image_url": "",
+						"question": "What is Solidus's primary goal during the Sons of Liberty incident?",
+						"wrong": [
+							"To kill Raiden",
+							"To become King",
+							"To start a nuclear war"
+						]
+					},
+					{
+						"correct": "The Federal Hall",
+						"difficulty": "Medium",
+						"explanation": "They fight on the roof of Federal Hall in New York City.",
+						"image_url": "",
+						"question": "Where does the final sword duel between Raiden and Solidus take place?",
+						"wrong": [
+							"The White House",
+							"Shadow Moses",
+							"The Big Shell"
+						]
+					},
+					{
+						"correct": "Accelerated Aging",
+						"difficulty": "Hard",
+						"explanation": "As the 'perfect' clone, his aging was accelerated the most to ensure he would be in his prime when needed.",
+						"image_url": "",
+						"question": "Solidus Snake suffers from what condition that makes him look much older than Solid Snake?",
+						"wrong": [
+							"Radiation",
+							"Stress",
+							"Genetic Cancer"
+						]
+					},
+					{
+						"correct": "Arsenal Gear",
+						"difficulty": "Hard",
+						"explanation": "Arsenal Gear is a massive, AI-controlled mobile fortress.",
+						"image_url": "",
+						"question": "What is the name of the massive arsenal ship Solidus intends to use to launch a nuke?",
+						"wrong": [
+							"Outer Haven",
+							"Metal Gear EXCELSIUS",
+							"The Titanic"
+						]
+					},
+					{
+						"correct": "A gunshot from Raiden",
+						"difficulty": "Hard",
+						"explanation": "During the Harrier fight, Raiden's gunfire caused the eye injury, making him look even more like Big Boss.",
+						"image_url": "",
+						"question": "Why did Solidus lose his left eye?",
+						"wrong": [
+							"Knife fight",
+							"Explosion",
+							"Natural causes"
+						]
+					},
+					{
+						"correct": "P90 submachine guns",
+						"difficulty": "Hard",
+						"explanation": "In a display of skill, he uses dual-wielded P90s while in his exoskeleton.",
+						"image_url": "",
+						"question": "Which weapon does Solidus use to take down two Harrier jets simultaneously?",
+						"wrong": [
+							"Stinger Missiles",
+							"His swords",
+							"A Railgun"
+						]
+					},
+					{
+						"correct": "Spare parts for Big Boss",
+						"difficulty": "Hard",
+						"explanation": "Liquid Ocelot used his body parts to 'repair' the dying Big Boss because their DNA was identical.",
+						"image_url": "",
+						"question": "What did the Patriots use Solidus's body for after his death in MGS2?",
+						"wrong": [
+							"A museum exhibit",
+							"Genetic research",
+							"They burned it"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_solidus_snake",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Solidus Snake",
+				"lore_desc": "The third and 'perfect' clone of Big Boss, Solidus Snake served as the 43rd President of the United States before leading the Sons of Liberty.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Third Brother",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Clone",
+					"Leader"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Sunglasses",
+						"difficulty": "Easy",
+						"explanation": "Miller's aviator sunglasses are his most recognizable feature.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuhira_miller.webp",
+						"question": "What distinctive accessory is Kazuhira Miller almost always seen wearing?",
+						"wrong": [
+							"A Hat",
+							"A Scarf",
+							"A Watch"
+						]
+					},
+					{
+						"correct": "Big Boss",
+						"difficulty": "Easy",
+						"explanation": "Miller and Big Boss (Naked Snake) co-founded Militaires Sans Frontières.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuhira_miller.webp",
+						"question": "Which legendary soldier is Miller's closest friend and partner in founding MSF?",
+						"wrong": [
+							"Solid Snake",
+							"Liquid Snake",
+							"Revolver Ocelot"
+						]
+					},
+					{
+						"correct": "Mother Base",
+						"difficulty": "Easy",
+						"explanation": "Mother Base is the growing sea platform that serves as the home for their army.",
+						"image_url": "https://skillcheckgame.com/assets/images/kazuhira_miller.webp",
+						"question": "What is the name of the offshore base that Miller manages in 'Peace Walker' and MGSV?",
+						"wrong": [
+							"Shadow Moses",
+							"Big Shell",
+							"Outer Heaven"
+						]
+					},
+					{
+						"correct": "An arm and a leg",
+						"difficulty": "Easy",
+						"explanation": "Miller was rescued from Afghanistan after losing his left leg and right arm.",
+						"image_url": "",
+						"question": "In 'The Phantom Pain', what has Miller lost due to a torture incident?",
+						"wrong": [
+							"His hearing",
+							"His eyesight",
+							"His memory"
+						]
+					},
+					{
+						"correct": "Peace",
+						"difficulty": "Easy",
+						"explanation": "He mentions that 'Kaz' means peace, reflecting his hopes for the future.",
+						"image_url": "",
+						"question": "What is the meaning of Miller's name 'Kazuhira' in Japanese?",
+						"wrong": [
+							"War",
+							"Snake",
+							"Victory"
+						]
+					},
+					{
+						"correct": "Liquid Snake",
+						"difficulty": "Medium",
+						"explanation": "Liquid killed Miller and took his place to manipulate Solid Snake via the radio.",
+						"image_url": "",
+						"question": "Which character disguises themselves as Miller in the original Metal Gear Solid?",
+						"wrong": [
+							"Revolver Ocelot",
+							"Decoy Octopus",
+							"Solidus Snake"
+						]
+					},
+					{
+						"correct": "Kaz",
+						"difficulty": "Medium",
+						"explanation": "He is almost exclusively referred to as Kaz by his friends and subordinates.",
+						"image_url": "",
+						"question": "What is Miller's nickname given to him by Big Boss?",
+						"wrong": [
+							"Mill",
+							"Hira",
+							"Mac"
+						]
+					},
+					{
+						"correct": "Hamburger",
+						"difficulty": "Medium",
+						"explanation": "The 'Chemical Burger' tapes detail Kaz's quest to make a profitable and delicious burger.",
+						"image_url": "",
+						"question": "In a series of funny tapes in MGSV, Miller becomes obsessed with creating the perfect what?",
+						"wrong": [
+							"Steak",
+							"Pizza",
+							"Coffee"
+						]
+					},
+					{
+						"correct": "Survival Instructor",
+						"difficulty": "Medium",
+						"explanation": "He was an instructor in the Green Berets, which is how he earned the title 'Master Miller'.",
+						"image_url": "",
+						"question": "What was Miller's role in the US military before he became a mercenary?",
+						"wrong": [
+							"Pilot",
+							"Medic",
+							"Sniper"
+						]
+					},
+					{
+						"correct": "Cipher",
+						"difficulty": "Medium",
+						"explanation": "Miller collaborated with Zero (Cipher) to grow MSF, which later led to his regret.",
+						"image_url": "",
+						"question": "Who did Miller secretly work with behind Big Boss's back during the Peace Walker incident?",
+						"wrong": [
+							"The KGB",
+							"The CIA",
+							"The UN"
+						]
+					},
+					{
+						"correct": "McDonnell Benedict Miller",
+						"difficulty": "Hard",
+						"explanation": "His full Western name is McDonnell Benedict Miller.",
+						"image_url": "",
+						"question": "What is Miller's full birth name?",
+						"wrong": [
+							"Kazuhira John Miller",
+							"Robert Kaz Miller",
+							"Benedict Kazuhira"
+						]
+					},
+					{
+						"correct": "Japanese-American",
+						"difficulty": "Hard",
+						"explanation": "He was born to a Japanese mother and an American GHQ officer.",
+						"image_url": "",
+						"question": "What is Miller's heritage?",
+						"wrong": [
+							"British-American",
+							"German-American",
+							"Japanese-Russian"
+						]
+					},
+					{
+						"correct": "Liquid Snake",
+						"difficulty": "Hard",
+						"explanation": "Liquid and his men assassinated Miller at his home in Alaska to facilitate the disguise.",
+						"image_url": "",
+						"question": "Who was responsible for the assassination of Miller in his home just before the Shadow Moses incident?",
+						"wrong": [
+							"Revolver Ocelot",
+							"Sniper Wolf",
+							"A genome soldier"
+						]
+					},
+					{
+						"correct": "Solid Snake",
+						"difficulty": "Hard",
+						"explanation": "Master Miller was Snake's survival coach and a father figure to him during his training.",
+						"image_url": "",
+						"question": "Which character does Miller mentor and train in survival, who later appears in MGS1?",
+						"wrong": [
+							"Meryl Silverburgh",
+							"Raiden",
+							"Gray Fox"
+						]
+					},
+					{
+						"correct": "Give him my regards",
+						"difficulty": "Hard",
+						"explanation": "In the MGSV post-credits, he tells Ocelot he will train Big Boss's son to kill him.",
+						"image_url": "",
+						"question": "What did Miller famously say when he realized Big Boss was following his own path apart from him?",
+						"wrong": [
+							"I will kill him",
+							"It's over",
+							"Hell be back"
+						]
+					}
+				]
+			},
+			"id": "metal_gear_solid_kazuhira_miller",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Kazuhira Miller",
+				"lore_desc": "The second-in-command of MSF and Diamond Dogs, Kazuhira Miller is a master strategist and the man behind the growth of Mother Base.",
+				"theme_origin": "metal gear solid",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Visionary",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Leader",
+					"Mentor"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -105086,6 +108334,49 @@
 						"Parappa the Rapper"
 					],
 					"name": "Rhythm & Reptiles"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Solid Snake",
+						"Solidus Snake",
+						"Liquid Snake"
+					],
+					"name": "Les Enfants Terribles"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Solid Snake",
+						"Gray Fox"
+					],
+					"name": "Fox Hunt"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Solid Snake",
+						"Meryl Silverburgh",
+						"Shadow Moses"
+					],
+					"name": "Shadow Moses Incident"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Solid Snake",
+						"Otacon"
+					],
+					"name": "Kept You Waiting, Huh?"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Solid Snake",
+						"Cardboard Box",
+						"Stealth Camouflage"
+					],
+					"name": "Tactical Espionage"
 				}
 			]
 		},
@@ -106900,13 +110191,160 @@
 					"name": "Grandpa's Legacy"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"The Stardrop",
 						"Grandpa",
 						"The Junimos"
 					],
 					"name": "Stardew Legends"
+				}
+			]
+		},
+		{
+			"id": "metal gear solid",
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Big Boss",
+						"The Boss"
+					],
+					"name": "Mentor & Student"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Revolver Ocelot",
+						"Liquid Snake"
+					],
+					"name": "Triple Cross"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Psycho Mantis",
+						"Meryl Silverburgh"
+					],
+					"name": "Psychic Read"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Shadow Moses",
+						"Metal Gear REX",
+						"Liquid Snake"
+					],
+					"name": "Metal Gear Launch"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Cardboard Box",
+						"Stealth Camouflage"
+					],
+					"name": "Snake's Toolkit"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Solidus Snake",
+						"Raiden",
+						"Big Boss"
+					],
+					"name": "Patriots' Pawns"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gray Fox",
+						"Raiden"
+					],
+					"name": "Cyborg Ninja"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Big Boss",
+						"Kazuhira Miller",
+						"Revolver Ocelot"
+					],
+					"name": "Mother Base"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Metal Gear REX",
+						"Otacon"
+					],
+					"name": "Nuclear Deterrence"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Liquid Snake",
+						"Shadow Moses",
+						"Psycho Mantis"
+					],
+					"name": "Genome Soldiers"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Big Boss",
+						"The Boss",
+						"Solid Snake"
+					],
+					"name": "The Ultimate Soldier"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kazuhira Miller",
+						"Revolver Ocelot"
+					],
+					"name": "Betrayal"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Solidus Snake",
+						"Raiden"
+					],
+					"name": "Dead Cell"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Boss",
+						"Revolver Ocelot"
+					],
+					"name": "Joy & Sorrow"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Metal Gear REX",
+						"Raiden"
+					],
+					"name": "REX vs RAY"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Meryl Silverburgh",
+						"Kazuhira Miller"
+					],
+					"name": "War Has Changed"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Psycho Mantis",
+						"Revolver Ocelot",
+						"Gray Fox"
+					],
+					"name": "Foxhound"
 				}
 			]
 		}
