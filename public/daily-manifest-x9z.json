@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774733712,
+	"last_updated": 1774734693,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -3045,6 +3045,52 @@
 				"the_sims_mrs._crumplebottom",
 				"the_sims_social_bunny",
 				"the_sims_tragic_clown"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-04": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Red Dead Redemption 2",
+			"share_text": "I HAVE A PLAN",
+			"shops": [
+				{
+					"p1": "memory_card",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "game_shark",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "second_chance"
+				}
+			],
+			"showcase": [
+				"red_dead_redemption_2_arthur_morgan",
+				"red_dead_redemption_2_john_marston",
+				"red_dead_redemption_2_dutch_van_der_linde"
+			],
+			"starters": [
+				"red_dead_redemption_2_arthur_morgan",
+				"red_dead_redemption_2_dutch_van_der_linde",
+				"red_dead_redemption_2_john_marston",
+				"red_dead_redemption_2_sadie_adler",
+				"red_dead_redemption_2_micah_bell",
+				"red_dead_redemption_2_saint_denis",
+				"red_dead_redemption_2_valentine",
+				"red_dead_redemption_2_blackwater",
+				"red_dead_redemption_2_the_van_der_linde_gang",
+				"red_dead_redemption_2_hosea_matthews",
+				"red_dead_redemption_2_charles_smith",
+				"red_dead_redemption_2_lenny_summers",
+				"red_dead_redemption_2_beecher's_hope",
+				"red_dead_redemption_2_guarma",
+				"red_dead_redemption_2_pinkerton_agency",
+				"red_dead_redemption_2_bill_williamson",
+				"red_dead_redemption_2_abigail_roberts"
 			],
 			"submitted_by": ""
 		}
