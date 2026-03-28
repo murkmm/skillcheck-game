@@ -99605,6 +99605,3254 @@
 					"Weapon"
 				]
 			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mayor",
+						"difficulty": "Easy",
+						"explanation": "Lewis has been the Mayor of Pelican Town for over twenty years.",
+						"image_url": "https://skillcheckgame.com/assets/images/lewis.webp",
+						"question": "What is the official role of Lewis in Pelican Town?",
+						"wrong": [
+							"Blacksmith",
+							"Shopkeeper",
+							"Fisherman"
+						]
+					},
+					{
+						"correct": "Life Simulation",
+						"difficulty": "Easy",
+						"explanation": "Stardew Valley is a famous farming and life simulation game.",
+						"image_url": "",
+						"question": "What genre of game is Stardew Valley?",
+						"wrong": [
+							"First Person Shooter",
+							"Racing",
+							"Fighting"
+						]
+					},
+					{
+						"correct": "Eric Barone",
+						"difficulty": "Easy",
+						"explanation": "Eric Barone developed almost every aspect of the game by himself over several years.",
+						"image_url": "",
+						"question": "Who is the sole developer of Stardew Valley, known as ConcernedApe?",
+						"wrong": [
+							"Shigeru Miyamoto",
+							"Todd Howard",
+							"Hideo Kojima"
+						]
+					},
+					{
+						"correct": "Purple Shorts",
+						"difficulty": "Easy",
+						"explanation": "One of the game's most famous quests involves finding Lewis's 'lucky' purple shorts in Marnie's bedroom.",
+						"image_url": "https://skillcheckgame.com/assets/images/lewis.webp",
+						"question": "Which of these items does Lewis famously lose and ask the player to find discreetly?",
+						"wrong": [
+							"Golden Statue",
+							"House Keys",
+							"Wedding Ring"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Lewis is often seen standing by his yellow truck during certain festivals or events.",
+						"image_url": "",
+						"question": "What color is the pickup truck that Lewis drives?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Green"
+						]
+					},
+					{
+						"correct": "Marnie",
+						"difficulty": "Medium",
+						"explanation": "The player can find evidence of their secret romance in various cutscenes and hidden notes.",
+						"image_url": "https://skillcheckgame.com/assets/images/lewis.webp",
+						"question": "Who is Lewis rumored to be in a secret relationship with?",
+						"wrong": [
+							"Robin",
+							"Jodi",
+							"Pam"
+						]
+					},
+					{
+						"correct": "Sells them overnight",
+						"difficulty": "Medium",
+						"explanation": "Lewis comes by every night to collect your goods and distribute the gold to your account.",
+						"image_url": "",
+						"question": "What does Lewis do with the items you place in the shipping bin next to your house?",
+						"wrong": [
+							"Throws them away",
+							"Gives them to JojaMart",
+							"Eats them"
+						]
+					},
+					{
+						"correct": "Stardew Valley Fair",
+						"difficulty": "Medium",
+						"explanation": "At the Fair, Lewis awards Star Tokens based on the quality and variety of items in your display.",
+						"image_url": "",
+						"question": "Which annual event features Lewis acting as the primary judge for the Grange Displays?",
+						"wrong": [
+							"Egg Festival",
+							"Flower Dance",
+							"Spirit's Eve"
+						]
+					},
+					{
+						"correct": "The Governor gets upset",
+						"difficulty": "Medium",
+						"explanation": "Adding the shorts to the soup triggers a unique reaction where the Governor finds them in his bowl.",
+						"image_url": "",
+						"question": "What happens if you place Lewis's lucky shorts in the Luau soup?",
+						"wrong": [
+							"The soup becomes delicious",
+							"The player is banned from town",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "Behind his house",
+						"difficulty": "Medium",
+						"explanation": "Following Secret Note 19 leads the player to a hidden golden statue Lewis made of himself.",
+						"image_url": "",
+						"question": "Where can the player find a solid gold statue of Lewis?",
+						"wrong": [
+							"In the Mines",
+							"At the Museum",
+							"In the Sewers"
+						]
+					},
+					{
+						"correct": "Truffle Oil",
+						"difficulty": "Hard",
+						"explanation": "Lewis requests Truffle Oil for... 'reasons' that he insists are none of your business.",
+						"image_url": "",
+						"question": "What specific item does Lewis request from the player in a letter titled 'Mayor's Need'?",
+						"wrong": [
+							"Void Egg",
+							"Diamond",
+							"Wine"
+						]
+					},
+					{
+						"correct": "Spring 7",
+						"difficulty": "Hard",
+						"explanation": "Lewis celebrates his birthday early in the first season, Spring 7.",
+						"image_url": "",
+						"question": "According to his calendar, when is Mayor Lewis's birthday?",
+						"wrong": [
+							"Summer 14",
+							"Fall 21",
+							"Winter 1"
+						]
+					},
+					{
+						"correct": "Hot Pepper",
+						"difficulty": "Hard",
+						"explanation": "Lewis is a fan of Hot Peppers and often requests them on the town board.",
+						"image_url": "",
+						"question": "What item must you give Lewis to receive his unique 'thank you' letter containing 500 gold?",
+						"wrong": [
+							"Ancient Fruit",
+							"Starfruit",
+							"Melon"
+						]
+					},
+					{
+						"correct": "A rotten plant",
+						"difficulty": "Hard",
+						"explanation": "Lewis gets embarrassed and replaces the statue with a rotten plant while sending the player an angry letter.",
+						"image_url": "",
+						"question": "If you place Lewis's golden statue in the town square, what does he replace it with the next day?",
+						"wrong": [
+							"A pile of stones",
+							"A sign",
+							"A letter of apology"
+						]
+					},
+					{
+						"correct": "20 years",
+						"difficulty": "Hard",
+						"explanation": "During your first meeting, Lewis mentions he has been the mayor for over twenty years.",
+						"image_url": "",
+						"question": "What is the maximum number of years Lewis says he has been Mayor during his introduction?",
+						"wrong": [
+							"5 years",
+							"10 years",
+							"50 years"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_lewis",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Lewis",
+				"lore_desc": "The long-standing Mayor of Pelican Town who welcomes you to your new life and manages the local festivals.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Mayor",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Leader",
+					"Town"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Pierre's General Store",
+						"difficulty": "Easy",
+						"explanation": "Pierre's store is the primary place to buy seeds and supplies in Pelican Town.",
+						"image_url": "https://skillcheckgame.com/assets/images/pierre.webp",
+						"question": "What is the name of the general store managed by Pierre?",
+						"wrong": [
+							"The Pelican Pantry",
+							"JojaMart",
+							"Seed Central"
+						]
+					},
+					{
+						"correct": "Stardew Valley",
+						"difficulty": "Easy",
+						"explanation": "The entire game is set within the fictional Stardew Valley.",
+						"image_url": "",
+						"question": "What is the name of the valley where the game takes place?",
+						"wrong": [
+							"Starry Vale",
+							"Dewy Meadow",
+							"Pelican Creek"
+						]
+					},
+					{
+						"correct": "Wednesday",
+						"difficulty": "Easy",
+						"explanation": "Pierre takes Wednesdays off until the Community Center is fully restored.",
+						"image_url": "https://skillcheckgame.com/assets/images/pierre.webp",
+						"question": "On which day of the week is Pierre's shop normally closed at the start of the game?",
+						"wrong": [
+							"Sunday",
+							"Monday",
+							"Friday"
+						]
+					},
+					{
+						"correct": "Morris",
+						"difficulty": "Easy",
+						"explanation": "Morris is the manager of the JojaMart and Pierre's bitter rival.",
+						"image_url": "https://skillcheckgame.com/assets/images/pierre.webp",
+						"question": "Who is Pierre's main corporate rival in town?",
+						"wrong": [
+							"Lewis",
+							"Gus",
+							"Clint"
+						]
+					},
+					{
+						"correct": "Farming",
+						"difficulty": "Easy",
+						"explanation": "Farming crops is the core mechanic of the Stardew Valley experience.",
+						"image_url": "",
+						"question": "What is the primary activity the player performs to make money in this game?",
+						"wrong": [
+							"Racing",
+							"Baking",
+							"Space Travel"
+						]
+					},
+					{
+						"correct": "Claims he grew it himself",
+						"difficulty": "Medium",
+						"explanation": "Dialogue from other NPCs reveals that Pierre often takes credit for the player's best crops.",
+						"image_url": "",
+						"question": "What does Pierre do with high-quality produce you sell directly to him?",
+						"wrong": [
+							"Gives it to charity",
+							"Throws it away",
+							"Feeds it to his cat"
+						]
+					},
+					{
+						"correct": "Abigail",
+						"difficulty": "Medium",
+						"explanation": "Abigail lives in the shop with Pierre and her mother, Caroline.",
+						"image_url": "",
+						"question": "What is the name of Pierre's daughter, who has famously purple hair?",
+						"wrong": [
+							"Haley",
+							"Leah",
+							"Penny"
+						]
+					},
+					{
+						"correct": "His secret stash",
+						"difficulty": "Medium",
+						"explanation": "A cutscene involves the player finding Pierre's 'secret stash' hidden behind his bookshelf.",
+						"image_url": "",
+						"question": "What 'secret' does the player find if they reach a high enough friendship with Pierre?",
+						"wrong": [
+							"His hidden treasure",
+							"His diary",
+							"His wig collection"
+						]
+					},
+					{
+						"correct": "Fried Calamari",
+						"difficulty": "Medium",
+						"explanation": "Pierre loves Fried Calamari, which can be made using Squid.",
+						"image_url": "",
+						"question": "Which of these items is Pierre's favorite gift?",
+						"wrong": [
+							"Pizza",
+							"Wine",
+							"Chocolate Cake"
+						]
+					},
+					{
+						"correct": "It stays open 7 days a week",
+						"difficulty": "Medium",
+						"explanation": "Restoring the Community Center motivates Pierre to stay open every day.",
+						"image_url": "",
+						"question": "What happens to Pierre's store hours once the Community Center is finished?",
+						"wrong": [
+							"It closes forever",
+							"It moves to the desert",
+							"It becomes a JojaMart"
+						]
+					},
+					{
+						"correct": "Boxing",
+						"difficulty": "Hard",
+						"explanation": "In the Community Center completion cutscene, Pierre might engage in a fistfight with Morris using his old boxing skills.",
+						"image_url": "",
+						"question": "What hobby does Pierre reveal he used to practice in a cutscene involving Morris?",
+						"wrong": [
+							"Painting",
+							"Fishing",
+							"Cooking"
+						]
+					},
+					{
+						"correct": "Altar of Yoba",
+						"difficulty": "Hard",
+						"explanation": "Pelican Town residents occasionally visit the Altar of Yoba in Pierre's shop for worship.",
+						"image_url": "",
+						"question": "What is the name of the altar located in the back of Pierre's shop?",
+						"wrong": [
+							"Shrine of Stars",
+							"The Harvest Table",
+							"Grandpa's Altar"
+						]
+					},
+					{
+						"correct": "Strawberry",
+						"difficulty": "Hard",
+						"explanation": "Strawberry seeds are only sold at the Egg Festival, not at Pierre's regular shop inventory.",
+						"image_url": "",
+						"question": "Which specific crop seeds does Pierre NOT sell during the Spring season?",
+						"wrong": [
+							"Parsnip",
+							"Kale",
+							"Cauliflower"
+						]
+					},
+					{
+						"correct": "25",
+						"difficulty": "Hard",
+						"explanation": "Pierre tasks the player with growing 25 gold-quality vegetables to boost his shop's reputation.",
+						"image_url": "",
+						"question": "In Pierre's 'Prime Produce' special order, how many gold-quality vegetables must you harvest?",
+						"wrong": [
+							"10",
+							"50",
+							"100"
+						]
+					},
+					{
+						"correct": "Blueberry Tart",
+						"difficulty": "Hard",
+						"explanation": "Pierre shares his recipe for Blueberry Tart once you become close friends.",
+						"image_url": "",
+						"question": "What is the name of the recipe Pierre sends you in the mail at three hearts?",
+						"wrong": [
+							"Pink Cake",
+							"Chocolate Cake",
+							"Pumpkin Pie"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_pierre",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Pierre",
+				"lore_desc": "The owner of the local general store who struggles to keep his small business afloat against the corporate giant JojaMart.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Shopkeeper",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Merchant",
+					"Town"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Livestock and Hay",
+						"difficulty": "Easy",
+						"explanation": "Marnie is the primary source for farm animals like cows, chickens, and pigs.",
+						"image_url": "https://skillcheckgame.com/assets/images/marnie.webp",
+						"question": "What does Marnie sell at her ranch?",
+						"wrong": [
+							"Seeds and Fertilizer",
+							"Fish and Bait",
+							"Ores and Coal"
+						]
+					},
+					{
+						"correct": "Dragons",
+						"difficulty": "Easy",
+						"explanation": "Marnie sells standard farm animals; dragons are not available on her ranch.",
+						"image_url": "https://skillcheckgame.com/assets/images/marnie.webp",
+						"question": "Which of these animals can you NOT buy from Marnie?",
+						"wrong": [
+							"Chickens",
+							"Cows",
+							"Goats"
+						]
+					},
+					{
+						"correct": "PC",
+						"difficulty": "Easy",
+						"explanation": "The game debuted on PC before being ported to almost every modern platform.",
+						"image_url": "",
+						"question": "On which platform was Stardew Valley first released in 2016?",
+						"wrong": [
+							"Nintendo Switch",
+							"PlayStation 5",
+							"GameBoy"
+						]
+					},
+					{
+						"correct": "Shane",
+						"difficulty": "Easy",
+						"explanation": "Shane lives at the ranch with his aunt Marnie and his goddaughter Jas.",
+						"image_url": "https://skillcheckgame.com/assets/images/marnie.webp",
+						"question": "Who is the depressed, blue-hoodie-wearing nephew that lives with Marnie?",
+						"wrong": [
+							"Sebastian",
+							"Alex",
+							"Sam"
+						]
+					},
+					{
+						"correct": "Using tools",
+						"difficulty": "Easy",
+						"explanation": "The player must use their axe, pickaxe, and scythe to clear debris from the land.",
+						"image_url": "",
+						"question": "What is the primary way to clear land on your farm in the game?",
+						"wrong": [
+							"Buying upgrades",
+							"Hiring staff",
+							"Magic spells"
+						]
+					},
+					{
+						"correct": "Jas",
+						"difficulty": "Medium",
+						"explanation": "Jas is Shane's goddaughter and lives under Marnie's care.",
+						"image_url": "",
+						"question": "What is the name of the young girl who lives with Marnie and Shane?",
+						"wrong": [
+							"Penny",
+							"Vincent",
+							"Leo"
+						]
+					},
+					{
+						"correct": "Cindersap Forest",
+						"difficulty": "Medium",
+						"explanation": "Marnie's ranch is found in the northeast corner of Cindersap Forest.",
+						"image_url": "",
+						"question": "Where is Marnie's ranch located in Pelican Town?",
+						"wrong": [
+							"The Beach",
+							"The Mountains",
+							"The Desert"
+						]
+					},
+					{
+						"correct": "Pink Cake",
+						"difficulty": "Medium",
+						"explanation": "Marnie has a sweet tooth and loves Pink Cake and Farmer's Lunch.",
+						"image_url": "",
+						"question": "Which of these items is a 'loved' gift for Marnie?",
+						"wrong": [
+							"Beer",
+							"Quartz",
+							"Holly"
+						]
+					},
+					{
+						"correct": "Staring at her microwave",
+						"difficulty": "Medium",
+						"explanation": "Players often joke about Marnie's schedule, as she can frequently be found staring at her microwave for hours.",
+						"image_url": "",
+						"question": "What is Marnie's favorite activity when she isn't working at her shop counter?",
+						"wrong": [
+							"Fishing at the pond",
+							"Mining for gold",
+							"Running in the forest"
+						]
+					},
+					{
+						"correct": "Lewis",
+						"difficulty": "Medium",
+						"explanation": "Despite their secret relationship, Lewis and Marnie are officially considered 'close friends'.",
+						"image_url": "",
+						"question": "Who is Marnie's best friend that she often dances with at the Flower Dance?",
+						"wrong": [
+							"Gus",
+							"Pierre",
+							"Linus"
+						]
+					},
+					{
+						"correct": "Cave Carrot",
+						"difficulty": "Hard",
+						"explanation": "Marnie asks the player to bring her a Cave Carrot from the mines for her animals.",
+						"image_url": "",
+						"question": "What item does Marnie request for her 'Marnie's Request' quest to feed her goats?",
+						"wrong": [
+							"Parsnip",
+							"Amaranth",
+							"Kale"
+						]
+					},
+					{
+						"correct": "The Aerobics Class",
+						"difficulty": "Hard",
+						"explanation": "Marnie joins Caroline, Jodi, Emily, and Robin for their weekly exercise session.",
+						"image_url": "",
+						"question": "Marnie is a member of which social club that meets on Tuesdays at Pierre's?",
+						"wrong": [
+							"The Book Club",
+							"The Fishing Guild",
+							"The Mining Group"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Hard",
+						"explanation": "Marnie wears a simple yellow dress during the spring festival.",
+						"image_url": "",
+						"question": "What color is the dress Marnie wears to the Flower Dance?",
+						"wrong": [
+							"Pink",
+							"Blue",
+							"White"
+						]
+					},
+					{
+						"correct": "Hay",
+						"difficulty": "Hard",
+						"explanation": "Marnie occasionally sends the player 30 units of Hay to help feed their animals.",
+						"image_url": "",
+						"question": "If you reach a high friendship with Marnie, she may send you what animal product in the mail?",
+						"wrong": [
+							"Large Milk",
+							"Cloth",
+							"Mayonnaise"
+						]
+					},
+					{
+						"correct": "She hates it",
+						"difficulty": "Hard",
+						"explanation": "Despite many townspeople liking it, Marnie lists Pale Broth as one of her hated gifts.",
+						"image_url": "",
+						"question": "What is Marnie's reaction if you give her a Pale Broth?",
+						"wrong": [
+							"She loves it",
+							"She likes it",
+							"She is neutral"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_marnie",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Marnie",
+				"lore_desc": "A kind-hearted resident who runs the local ranch and sells livestock to the player.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Animal Rancher",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Animals",
+					"Merchant"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Blacksmith",
+						"difficulty": "Easy",
+						"explanation": "Clint runs the blacksmith shop where he hammers at his anvil all day.",
+						"image_url": "https://skillcheckgame.com/assets/images/clint.webp",
+						"question": "What is Clint's profession in Pelican Town?",
+						"wrong": [
+							"Carpenter",
+							"Wizard",
+							"Bus Driver"
+						]
+					},
+					{
+						"correct": "Breaking them open",
+						"difficulty": "Easy",
+						"explanation": "For a small fee of 25 gold, Clint will crack open geodes to reveal the treasures inside.",
+						"image_url": "https://skillcheckgame.com/assets/images/clint.webp",
+						"question": "What service does Clint provide for the mysterious rocks known as 'Geodes'?",
+						"wrong": [
+							"Polishing them",
+							"Selling them",
+							"Eating them"
+						]
+					},
+					{
+						"correct": "Gold",
+						"difficulty": "Easy",
+						"explanation": "The player earns and spends Gold (G) throughout the game.",
+						"image_url": "",
+						"question": "What is the primary currency used in Stardew Valley?",
+						"wrong": [
+							"Dollars",
+							"Rupees",
+							"Credits"
+						]
+					},
+					{
+						"correct": "Fishing Pole",
+						"difficulty": "Easy",
+						"explanation": "Fishing poles are purchased or upgraded through Willy, not Clint.",
+						"image_url": "https://skillcheckgame.com/assets/images/clint.webp",
+						"question": "Which of these tools can Clint NOT upgrade?",
+						"wrong": [
+							"Pickaxe",
+							"Axe",
+							"Watering Can"
+						]
+					},
+					{
+						"correct": "Summer",
+						"difficulty": "Easy",
+						"explanation": "The game follows a standard four-season cycle starting with Spring.",
+						"image_url": "",
+						"question": "What is the name of the season that comes after Spring?",
+						"wrong": [
+							"Fall",
+							"Winter",
+							"Harvest"
+						]
+					},
+					{
+						"correct": "Emily",
+						"difficulty": "Medium",
+						"explanation": "Clint is very shy and often asks the player for help or advice on how to talk to Emily.",
+						"image_url": "",
+						"question": "Who does Clint have a major, unrequited crush on?",
+						"wrong": [
+							"Abigail",
+							"Penny",
+							"Haley"
+						]
+					},
+					{
+						"correct": "Iridium",
+						"difficulty": "Medium",
+						"explanation": "Iridium is the highest tier of metal and provides the most efficient tool upgrades.",
+						"image_url": "",
+						"question": "Which material is required for the final tier of tool upgrades at Clint's shop?",
+						"wrong": [
+							"Gold",
+							"Diamond",
+							"Steel"
+						]
+					},
+					{
+						"correct": "The Stardrop Saloon",
+						"difficulty": "Medium",
+						"explanation": "Clint can be found sitting alone at the Stardrop Saloon almost every night.",
+						"image_url": "",
+						"question": "Where does Clint spend most of his evenings after the shop closes?",
+						"wrong": [
+							"The Beach",
+							"The Library",
+							"The Mines"
+						]
+					},
+					{
+						"correct": "Nothing (Junimos reward you)",
+						"difficulty": "Medium",
+						"explanation": "The Junimos repair the minecarts, but Clint does help the player by giving them a Furnace blueprint early in the game.",
+						"image_url": "",
+						"question": "What does Clint give the player after they complete the 'Boiler Room' bundle?",
+						"wrong": [
+							"A furnace",
+							"Free geodes",
+							"Gold bar"
+						]
+					},
+					{
+						"correct": "The East side (across the river)",
+						"difficulty": "Medium",
+						"explanation": "The Blacksmith and Library are located across the river on the eastern side of Pelican Town.",
+						"image_url": "",
+						"question": "Clint's shop is located in which part of the town map?",
+						"wrong": [
+							"The North side",
+							"Next to the Farm",
+							"Inside the Mall"
+						]
+					},
+					{
+						"correct": "Amethyst",
+						"difficulty": "Hard",
+						"explanation": "Clint asks the player to give Emily an Amethyst and say it's from him.",
+						"image_url": "",
+						"question": "What item does Clint request for his 'Attempt' at making a move on Emily?",
+						"wrong": [
+							"Diamond",
+							"Ruby",
+							"Topaz"
+						]
+					},
+					{
+						"correct": "Artichoke Dip",
+						"difficulty": "Hard",
+						"explanation": "Clint loves several gems and bars, but his only loved cooked dish is Artichoke Dip.",
+						"image_url": "",
+						"question": "What specific item is Clint's ONLY loved gift that isn't a gem or metal bar?",
+						"wrong": [
+							"Pizza",
+							"Fiddlehead Risotto",
+							"Glazed Yams"
+						]
+					},
+					{
+						"correct": "His name is never mentioned",
+						"difficulty": "Hard",
+						"explanation": "Clint mentions his father and grandfather were blacksmiths, but their names are never revealed in the game.",
+						"image_url": "",
+						"question": "What is the name of Clint's father, who was also a blacksmith?",
+						"wrong": [
+							"Borg",
+							"Gunther",
+							"Grandpa"
+						]
+					},
+					{
+						"correct": "5",
+						"difficulty": "Hard",
+						"explanation": "Every tool upgrade level (Copper, Iron, Gold, Iridium) requires 5 bars of the respective metal.",
+						"image_url": "",
+						"question": "How many copper bars are required to upgrade a tool from basic to Copper tier?",
+						"wrong": [
+							"3",
+							"10",
+							"1"
+						]
+					},
+					{
+						"correct": "Ice Fishing",
+						"difficulty": "Hard",
+						"explanation": "Clint competes against the player, Pam, and Willy in the ice fishing contest.",
+						"image_url": "",
+						"question": "Which competition does Clint participate in during the Festival of Ice?",
+						"wrong": [
+							"Snowman Building",
+							"Ice Skating",
+							"The Slingshot Game"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_clint",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Clint",
+				"lore_desc": "The town's blacksmith who provides tool upgrades and breaks open geodes found in the mines.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Blacksmith",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Merchant",
+					"Crafting"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Apples",
+						"difficulty": "Easy",
+						"explanation": "Junimos are small, round spirits with stubby limbs that look like colored apples.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_junimos.webp",
+						"question": "What do Junimos resemble in their physical appearance?",
+						"wrong": [
+							"Stars",
+							"Mushrooms",
+							"Dogs"
+						]
+					},
+					{
+						"correct": "The Community Center",
+						"difficulty": "Easy",
+						"explanation": "Junimos appear in the abandoned Community Center and offer bundles for the player to complete.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_junimos.webp",
+						"question": "Where do the Junimos primarily reside at the start of the game?",
+						"wrong": [
+							"The Mines",
+							"JojaMart",
+							"The Library"
+						]
+					},
+					{
+						"correct": "Bundles",
+						"difficulty": "Easy",
+						"explanation": "Players must donate specific items to 'Bundles' to receive rewards and repair Pelican Town.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_junimos.webp",
+						"question": "What do the Junimos ask the player to complete to repair the town?",
+						"wrong": [
+							"Quests",
+							"Puzzles",
+							"Trades"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "While they come in many colors, the most iconic and common Junimo is green.",
+						"image_url": "",
+						"question": "What color is a standard Junimo?",
+						"wrong": [
+							"Pink",
+							"Silver",
+							"Black"
+						]
+					},
+					{
+						"correct": "The Wizard",
+						"difficulty": "Easy",
+						"explanation": "The Wizard, M. Rasmodius, summons the player to his tower to grant them the 'Forest Magic' power.",
+						"image_url": "",
+						"question": "Who gives the player a potion that allows them to understand the Junimo language?",
+						"wrong": [
+							"Lewis",
+							"Linus",
+							"Grandpa"
+						]
+					},
+					{
+						"correct": "Junimo Hut",
+						"difficulty": "Medium",
+						"explanation": "A Junimo Hut can be purchased from the Wizard later in the game to automate crop harvesting.",
+						"image_url": "",
+						"question": "What can the player build on their farm to have Junimos harvest their crops?",
+						"wrong": [
+							"Spirit House",
+							"Apple Barn",
+							"Nature Tent"
+						]
+					},
+					{
+						"correct": "Junimo",
+						"difficulty": "Medium",
+						"explanation": "The scrolls in the Community Center are written in 'Junimo' and look like gibberish initially.",
+						"image_url": "",
+						"question": "What is the name of the fictional language the Junimos use before you can understand them?",
+						"wrong": [
+							"Dwarvish",
+							"Shadow",
+							"Elvish"
+						]
+					},
+					{
+						"correct": "They leave the building",
+						"difficulty": "Medium",
+						"explanation": "Once the center is fixed, the Junimos disappear from the building, though they still exist in the forest.",
+						"image_url": "",
+						"question": "What happens to the Junimos after the entire Community Center is restored?",
+						"wrong": [
+							"They become humans",
+							"They die",
+							"They move into your house"
+						]
+					},
+					{
+						"correct": "A new tractor",
+						"difficulty": "Medium",
+						"explanation": "The Junimos repair infrastructure like the bus, bridge, and greenhouse, but there is no tractor in the base game.",
+						"image_url": "",
+						"question": "Which of these is NOT a major reward for completing a Community Center room?",
+						"wrong": [
+							"Bus repair",
+							"Bridge repair",
+							"Greenhouse repair"
+						]
+					},
+					{
+						"correct": "Junimo Kart",
+						"difficulty": "Medium",
+						"explanation": "Junimo Kart is a challenging minecart-themed arcade game found in the Saloon.",
+						"image_url": "",
+						"question": "What is the name of the arcade game found in the Stardrop Saloon featuring a Junimo?",
+						"wrong": [
+							"Junimo Jump",
+							"Spirit Racer",
+							"Apple Dash"
+						]
+					},
+					{
+						"correct": "Raisins",
+						"difficulty": "Hard",
+						"explanation": "In recent updates, players can give Junimos raisins to make them work faster.",
+						"image_url": "",
+						"question": "What rare item can be found inside a Junimo Hut's storage on rare occasions?",
+						"wrong": [
+							"Ancient Fruit",
+							"Wine",
+							"Cloth"
+						]
+					},
+					{
+						"correct": "Flowers",
+						"difficulty": "Hard",
+						"explanation": "Junimos will harvest almost all crops, but they will leave flowers alone so players can keep them for honey or decoration.",
+						"image_url": "",
+						"question": "Which specific crop will Junimos NOT harvest for the player?",
+						"wrong": [
+							"Corn",
+							"Wheat",
+							"Pumpkin"
+						]
+					},
+					{
+						"correct": "They stay inside",
+						"difficulty": "Hard",
+						"explanation": "Junimos do not like the rain and will not harvest crops until the weather clears up.",
+						"image_url": "",
+						"question": "What do the Junimos do during a rainy day if they have a Hut on your farm?",
+						"wrong": [
+							"They work faster",
+							"They dance",
+							"They change color"
+						]
+					},
+					{
+						"correct": "The Silver Junimo",
+						"difficulty": "Hard",
+						"explanation": "The Lost Bundle is handled by a unique Junimo after the main Community Center is finished.",
+						"image_url": "",
+						"question": "Which special Junimo is found inside the 'Lost Bundle' in the abandoned JojaMart?",
+						"wrong": [
+							"The Golden Junimo",
+							"The Rainbow Junimo",
+							"The Shadow Junimo"
+						]
+					},
+					{
+						"correct": "It has no official translation",
+						"difficulty": "Hard",
+						"explanation": "While some fans have tried to translate the Junimo language, 'Nikwi' and other words have no official English meaning provided by the dev.",
+						"image_url": "",
+						"question": "In the game's code and lore, what is the meaning of the Junimo name 'Nikwi'?",
+						"wrong": [
+							"Apple",
+							"Forest",
+							"Friend"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_the_junimos",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Junimos",
+				"lore_desc": "Mysterious forest spirits that inhabit the derelict Community Center and help the player restore it.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Forest Spirits",
+			"profiler": {
+				"vibe_tags": [
+					"Spirit",
+					"Nature",
+					"Magic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "In a tent",
+						"difficulty": "Easy",
+						"explanation": "Linus lives in a small yellow tent located in the mountains.",
+						"image_url": "https://skillcheckgame.com/assets/images/linus.webp",
+						"question": "Where does Linus live in Pelican Town?",
+						"wrong": [
+							"In a cave",
+							"In the Saloon",
+							"In a trailer"
+						]
+					},
+					{
+						"correct": "Rummage through trash cans",
+						"difficulty": "Easy",
+						"explanation": "Linus is often seen looking for food in the town's garbage bins to avoid waste.",
+						"image_url": "https://skillcheckgame.com/assets/images/linus.webp",
+						"question": "What does Linus famously do late at night that sometimes gets him in trouble with the town?",
+						"wrong": [
+							"Steal from shops",
+							"Graffiti the bus",
+							"Scare the kids"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "Linus is an NPC you can befriend, but he is not one of the marriage candidates.",
+						"image_url": "https://skillcheckgame.com/assets/images/linus.webp",
+						"question": "Is Linus a character you can marry in the game?",
+						"wrong": [
+							"Yes",
+							"Only in Winter",
+							"Only with a Mod"
+						]
+					},
+					{
+						"correct": "The Stardrop Saloon",
+						"difficulty": "Easy",
+						"explanation": "The Stardrop Saloon, run by Gus, is the primary social spot for villagers.",
+						"image_url": "",
+						"question": "What is the name of the valley's local pub and social hub?",
+						"wrong": [
+							"The Rusty Mug",
+							"Gus's Grill",
+							"The Beer Barrel"
+						]
+					},
+					{
+						"correct": "Summer",
+						"difficulty": "Easy",
+						"explanation": "The Moonlight Jellies visit the beach on the final night of Summer.",
+						"image_url": "",
+						"question": "Which season features the 'Dance of the Moonlight Jellies'?",
+						"wrong": [
+							"Spring",
+							"Fall",
+							"Winter"
+						]
+					},
+					{
+						"correct": "Wild Bait",
+						"difficulty": "Medium",
+						"explanation": "Linus teaches the player how to craft Wild Bait, which gives a chance to catch two fish at once.",
+						"image_url": "",
+						"question": "Which unique fishing bait recipe does Linus give the player?",
+						"wrong": [
+							"Magic Bait",
+							"Magnet",
+							"Stink Bait"
+						]
+					},
+					{
+						"correct": "He refuses and prefers his tent",
+						"difficulty": "Medium",
+						"explanation": "Linus values his freedom and his connection to the wilderness over traditional housing.",
+						"image_url": "",
+						"question": "What does Linus tell the player if they offer to let him move onto their farm?",
+						"wrong": [
+							"He happily accepts",
+							"He gets angry",
+							"He asks for money"
+						]
+					},
+					{
+						"correct": "The Wizard",
+						"difficulty": "Medium",
+						"explanation": "Linus can be found standing outside the Wizard's tower during the Spirit's Eve festival.",
+						"image_url": "",
+						"question": "Who is the only other resident that Linus seems to be close friends with?",
+						"wrong": [
+							"Willy",
+							"Marnie",
+							"Lewis"
+						]
+					},
+					{
+						"correct": "Blackberry Basket",
+						"difficulty": "Medium",
+						"explanation": "Linus loses his basket and asks the player to find it near the backwoods.",
+						"image_url": "",
+						"question": "What item does Linus ask the player to find for him during the Fall season?",
+						"wrong": [
+							"Golden Axe",
+							"Lost Book",
+							"Walking Cane"
+						]
+					},
+					{
+						"correct": "Yams",
+						"difficulty": "Medium",
+						"explanation": "Linus loves simple, natural gifts like Yams, Blueberries, and Cactus Fruit.",
+						"image_url": "",
+						"question": "Which of these is a 'loved' gift for Linus that reflects his lifestyle?",
+						"wrong": [
+							"Diamonds",
+							"Wine",
+							"Pizza"
+						]
+					},
+					{
+						"correct": "Inside the Spa",
+						"difficulty": "Hard",
+						"explanation": "Linus spends a lot of time in the Spa lobby during the cold winter months.",
+						"image_url": "",
+						"question": "During the winter, where can you find Linus standing to keep warm?",
+						"wrong": [
+							"Next to a campfire",
+							"In the Saloon",
+							"In the Mines"
+						]
+					},
+					{
+						"correct": "There is no such cutscene",
+						"difficulty": "Hard",
+						"explanation": "Linus teaches the player the recipe for Sashimi, but there isn't a specific 'cleaning' cutscene.",
+						"image_url": "",
+						"question": "What is the name of the cutscene where Linus teaches the player how to clean fish?",
+						"wrong": [
+							"The Wild Lesson",
+							"Sashimi Secrets",
+							"Nature's Bounty"
+						]
+					},
+					{
+						"correct": "Outcast",
+						"difficulty": "Hard",
+						"explanation": "Linus is officially designated as the town outcast in the game's social logic.",
+						"image_url": "",
+						"question": "In the game's files, Linus is categorized as having what internal 'social' status?",
+						"wrong": [
+							"Loner",
+							"Hobo",
+							"Hermit"
+						]
+					},
+					{
+						"correct": "He feels embarrassed and explains himself",
+						"difficulty": "Hard",
+						"explanation": "He explains that it's a shame to let good food go to waste, showing his philosophy on wastefulness.",
+						"image_url": "",
+						"question": "What is Linus's response if the player catches him digging in the trash?",
+						"wrong": [
+							"He runs away",
+							"He gives you a gift",
+							"He ignores you"
+						]
+					},
+					{
+						"correct": "Winter 3",
+						"difficulty": "Hard",
+						"explanation": "Linus has a winter birthday, occurring on the 3rd of the season.",
+						"image_url": "",
+						"question": "What is Linus's birthday?",
+						"wrong": [
+							"Fall 15",
+							"Summer 1",
+							"Spring 25"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_linus",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Linus",
+				"lore_desc": "A misunderstood man who lives in a tent near the mines and prefers a life connected to nature over modern society.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Wild Man",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Nature",
+					"Outcast"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Mining and Combat",
+						"difficulty": "Easy",
+						"explanation": "The Mines are where players gather stone and ore while fighting monsters.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mines.webp",
+						"question": "What is the primary activity performed in the Mines?",
+						"wrong": [
+							"Farming and Cooking",
+							"Fishing and Swimming",
+							"Dancing and Singing"
+						]
+					},
+					{
+						"correct": "Adventurer's Guild",
+						"difficulty": "Easy",
+						"explanation": "The Adventurer's Guild is where you buy weapons and claim rewards for killing monsters.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mines.webp",
+						"question": "What is the name of the guild located right next to the Mines?",
+						"wrong": [
+							"Miner's Union",
+							"Warrior's Hall",
+							"Slayer's Shop"
+						]
+					},
+					{
+						"correct": "Finding a ladder under a rock",
+						"difficulty": "Easy",
+						"explanation": "Ladders appear randomly when breaking rocks or defeating enemies.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_mines.webp",
+						"question": "How do you descend deeper into the Mines?",
+						"wrong": [
+							"Using an elevator on every floor",
+							"Jumping down a hole",
+							"Using a key"
+						]
+					},
+					{
+						"correct": "Slimes",
+						"difficulty": "Easy",
+						"explanation": "Green Slimes are the most basic and common enemy in the early mine levels.",
+						"image_url": "",
+						"question": "What is the common enemy type found on the first few floors of the Mines?",
+						"wrong": [
+							"Dragons",
+							"Goblins",
+							"Robots"
+						]
+					},
+					{
+						"correct": "Pickaxe",
+						"difficulty": "Easy",
+						"explanation": "The Pickaxe is essential for any progress in the Mines.",
+						"image_url": "",
+						"question": "What tool is used to break rocks and ore veins?",
+						"wrong": [
+							"Axe",
+							"Scythe",
+							"Hoe"
+						]
+					},
+					{
+						"correct": "The Elevator",
+						"difficulty": "Medium",
+						"explanation": "The elevator allows you to quickly return to any '0' or '5' floor you have already reached.",
+						"image_url": "",
+						"question": "What convenience feature is unlocked every 5 floors in the Mines?",
+						"wrong": [
+							"A Shop",
+							"A Portal",
+							"A Bed"
+						]
+					},
+					{
+						"correct": "The Skull Key",
+						"difficulty": "Medium",
+						"explanation": "Reaching the bottom rewards the player with the Skull Key, used for the Desert cavern and the arcade machine.",
+						"image_url": "",
+						"question": "What is found at the very bottom (Floor 120) of the Mines?",
+						"wrong": [
+							"A pile of Gold",
+							"The final boss",
+							"A portal to the moon"
+						]
+					},
+					{
+						"correct": "Gold Ore",
+						"difficulty": "Medium",
+						"explanation": "The 'Lava' floors (80-120) are the primary source for Gold Ore in the local mines.",
+						"image_url": "",
+						"question": "Which material starts appearing regularly around floor 80?",
+						"wrong": [
+							"Copper Ore",
+							"Iron Ore",
+							"Iridium Ore"
+						]
+					},
+					{
+						"correct": "The Dwarf",
+						"difficulty": "Medium",
+						"explanation": "The Dwarf lives in the mines and sells various mining-related items.",
+						"image_url": "",
+						"question": "What is the name of the creature that lives behind a rock wall on the entrance floor?",
+						"wrong": [
+							"Krobus",
+							"The Goblin",
+							"The Mole"
+						]
+					},
+					{
+						"correct": "You wake up at the entrance and lose items",
+						"difficulty": "Medium",
+						"explanation": "Getting 'knocked out' causes you to lose some money and a random selection of items from your inventory.",
+						"image_url": "",
+						"question": "What happens if your health reaches zero while inside the Mines?",
+						"wrong": [
+							"Game over",
+							"You lose all your gold",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "Dark Floors",
+						"difficulty": "Hard",
+						"explanation": "Floors 31 to 39 are significantly darker than others, making visibility a challenge.",
+						"image_url": "",
+						"question": "What is the name of the special floors that are completely dark and require a torch or glow ring?",
+						"wrong": [
+							"Shadow Zones",
+							"Void Floors",
+							"Abyssal Levels"
+						]
+					},
+					{
+						"correct": "Killing 1000 Slimes",
+						"difficulty": "Hard",
+						"explanation": "The Slime Charmer Ring, which prevents slime damage, is a reward for a massive amount of slime slaying.",
+						"image_url": "",
+						"question": "Which monster eradication goal rewards the player with the 'Slime Charmer Ring'?",
+						"wrong": [
+							"Killing 500 Bats",
+							"Killing 100 Dust Sprites",
+							"Killing 200 Skeletons"
+						]
+					},
+					{
+						"correct": "Space Boots",
+						"difficulty": "Hard",
+						"explanation": "Space Boots are found at floor 110 and are among the best footwear in the game.",
+						"image_url": "",
+						"question": "Which of these boots provides the highest defense and immunity found in a mine chest?",
+						"wrong": [
+							"Dragonscale Boots",
+							"Dark Boots",
+							"Crystal Shoes"
+						]
+					},
+					{
+						"correct": "Dust Sprites",
+						"difficulty": "Hard",
+						"explanation": "Dust Sprites are popular to farm because they often drop Coal.",
+						"image_url": "",
+						"question": "What are the little black bouncing creatures on the frozen floors called?",
+						"wrong": [
+							"Coal Spirits",
+							"Shadow Balls",
+							"Frost Jumpers"
+						]
+					},
+					{
+						"correct": "The Mushroom Level",
+						"difficulty": "Hard",
+						"explanation": "The Mushroom Level contains many forageable mushrooms and used to be famously farmable for profit.",
+						"image_url": "",
+						"question": "What is the name of the rare, mushroom-themed floor that can appear randomly?",
+						"wrong": [
+							"The Fungus Forest",
+							"Toadstool Tier",
+							"Spore Section"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_the_mines",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Mines",
+				"lore_desc": "A dangerous multi-level cavern filled with ores, gems, and monsters located at the north end of the mountains.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Underground",
+			"profiler": {
+				"vibe_tags": [
+					"Adventure",
+					"Combat",
+					"Mining"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Taking the Bus",
+						"difficulty": "Easy",
+						"explanation": "Once the bus is repaired, Pam will drive you to the Calico Desert for 500 gold.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_desert.webp",
+						"question": "How do you travel to the Desert?",
+						"wrong": [
+							"Riding a Horse",
+							"Taking the Train",
+							"Walking through a cave"
+						]
+					},
+					{
+						"correct": "Pam",
+						"difficulty": "Easy",
+						"explanation": "Pam spends her days waiting at the bus stop once the service is restored.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_desert.webp",
+						"question": "Who is the bus driver that takes you to the Desert?",
+						"wrong": [
+							"Penny",
+							"Gus",
+							"Lewis"
+						]
+					},
+					{
+						"correct": "Skull Cavern",
+						"difficulty": "Easy",
+						"explanation": "Skull Cavern is much harder than the regular mines and has no elevator.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_desert.webp",
+						"question": "What is the name of the dangerous, infinite cavern located in the Desert?",
+						"wrong": [
+							"Deep Mine",
+							"Dragon's Nest",
+							"Sand Hole"
+						]
+					},
+					{
+						"correct": "Starfruit",
+						"difficulty": "Easy",
+						"explanation": "Sandy sells Starfruit seeds, which are one of the most profitable crops in the game.",
+						"image_url": "",
+						"question": "What is the primary crop grown in the Desert's Oasis shop?",
+						"wrong": [
+							"Ancient Fruit",
+							"Pineapple",
+							"Cactus Fruit"
+						]
+					},
+					{
+						"correct": "Coconut",
+						"difficulty": "Easy",
+						"explanation": "Coconuts and Cactus Fruit are the common foraged items in the desert.",
+						"image_url": "",
+						"question": "Which of these can be found foraged on the ground in the Desert?",
+						"wrong": [
+							"Apple",
+							"Orange",
+							"Banana"
+						]
+					},
+					{
+						"correct": "Sandy",
+						"difficulty": "Medium",
+						"explanation": "Sandy is a friendly NPC who misses the valley and loves getting flowers from the player.",
+						"image_url": "",
+						"question": "What is the name of the shopkeeper who runs the Oasis?",
+						"wrong": [
+							"Mona",
+							"Lana",
+							"Tara"
+						]
+					},
+					{
+						"correct": "Prismatic Shard",
+						"difficulty": "Medium",
+						"explanation": "Standing in the center of the pillars with a Prismatic Shard transforms it into the powerful Galaxy Sword.",
+						"image_url": "",
+						"question": "What must you hold while standing between the three pillars in the Desert to get the Galaxy Sword?",
+						"wrong": [
+							"Diamond",
+							"Golden Pumpkin",
+							"Void Egg"
+						]
+					},
+					{
+						"correct": "Mr. Qi",
+						"difficulty": "Medium",
+						"explanation": "Mr. Qi is the enigmatic figure who oversees the Casino and various late-game challenges.",
+						"image_url": "",
+						"question": "Which mysterious character runs the 'Casino' hidden behind the Oasis?",
+						"wrong": [
+							"The Governor",
+							"The Wizard",
+							"Gunther"
+						]
+					},
+					{
+						"correct": "Barter (Items/Gems)",
+						"difficulty": "Medium",
+						"explanation": "The Desert Trader does not accept gold; you must trade specific gems or items for their wares.",
+						"image_url": "",
+						"question": "What item is used as currency at the Desert Trader?",
+						"wrong": [
+							"Gold",
+							"Star Tokens",
+							"Qi Coins"
+						]
+					},
+					{
+						"correct": "You can jump down holes to skip floors",
+						"difficulty": "Medium",
+						"explanation": "Shafts or holes allow players to drop down multiple levels at once, at the cost of some health.",
+						"image_url": "",
+						"question": "What is unique about the floors in Skull Cavern compared to the regular Mines?",
+						"wrong": [
+							"There are no monsters",
+							"Every floor has a shop",
+							"You can't use bombs"
+						]
+					},
+					{
+						"correct": "Serpent",
+						"difficulty": "Hard",
+						"explanation": "Serpents are fast, aggressive enemies that are often the primary cause of player death in the cavern.",
+						"image_url": "",
+						"question": "What is the name of the flying serpent enemy found in Skull Cavern?",
+						"wrong": [
+							"Dragon",
+							"Sky Eel",
+							"Sand Worm"
+						]
+					},
+					{
+						"correct": "25",
+						"difficulty": "Hard",
+						"explanation": "The first quest 'Qi's Challenge' requires reaching floor 25, followed later by a quest for floor 100.",
+						"image_url": "",
+						"question": "How many floors do you need to reach to complete Mr. Qi's first challenge in Skull Cavern?",
+						"wrong": [
+							"10",
+							"50",
+							"100"
+						]
+					},
+					{
+						"correct": "Birch Double Bed",
+						"difficulty": "Hard",
+						"explanation": "One of the Trader's specific trades is a Birch Double Bed for a rare Pearl.",
+						"image_url": "",
+						"question": "What does the Desert Trader give you in exchange for one Pearl?",
+						"wrong": [
+							"Magic Rock Candy",
+							"Artifact Trove",
+							"Mega Bomb"
+						]
+					},
+					{
+						"correct": "Thursday",
+						"difficulty": "Hard",
+						"explanation": "On Thursdays, you can trade 3 Prismatic Shards for one Magic Rock Candy.",
+						"image_url": "",
+						"question": "On which day of the week does the Desert Trader sell Magic Rock Candy?",
+						"wrong": [
+							"Monday",
+							"Friday",
+							"Sunday"
+						]
+					},
+					{
+						"correct": "Pepper Rex",
+						"difficulty": "Hard",
+						"explanation": "Pepper Rexes are found on prehistoric floors and breathe fire.",
+						"image_url": "",
+						"question": "What is the name of the tall, purple, dinosaur-like monster in Skull Cavern?",
+						"wrong": [
+							"Magma Sprite",
+							"Shadow Brute",
+							"Iridium Bat"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_the_desert",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Desert",
+				"lore_desc": "An arid region far from Pelican Town, accessible only by bus, containing a deadly cavern and unique shops.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Calico Desert",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Travel",
+					"Endgame"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "The Sewers",
+						"difficulty": "Easy",
+						"explanation": "Krobus can be found in the sewers after the player obtains the Rusty Key.",
+						"image_url": "https://skillcheckgame.com/assets/images/krobus.webp",
+						"question": "Where does Krobus live?",
+						"wrong": [
+							"The Mines",
+							"The Forest",
+							"The Desert"
+						]
+					},
+					{
+						"correct": "A Shadow Person",
+						"difficulty": "Easy",
+						"explanation": "Krobus is a 'Shadow Person' or 'Shadow Brute', though unlike those in the mines, he is peaceful.",
+						"image_url": "https://skillcheckgame.com/assets/images/krobus.webp",
+						"question": "What kind of creature is Krobus?",
+						"wrong": [
+							"A Ghost",
+							"A Goblin",
+							"A Zombie"
+						]
+					},
+					{
+						"correct": "No, but he can be your roommate",
+						"difficulty": "Easy",
+						"explanation": "While you can't marry him, Krobus can move into your farmhouse as a platonic roommate.",
+						"image_url": "https://skillcheckgame.com/assets/images/krobus.webp",
+						"question": "Can you marry Krobus in the game?",
+						"wrong": [
+							"Yes",
+							"Only if you play as a monster",
+							"No, he is a shop only"
+						]
+					},
+					{
+						"correct": "Stardrop",
+						"difficulty": "Easy",
+						"explanation": "Stardrops are iconic items that increase your maximum energy.",
+						"image_url": "",
+						"question": "What is the name of the developer's favorite item, often shown in screenshots?",
+						"wrong": [
+							"Prismatic Shard",
+							"Ancient Fruit",
+							"Golden Egg"
+						]
+					},
+					{
+						"correct": "Fishing Rod",
+						"difficulty": "Easy",
+						"explanation": "The Fishing Rod is the primary tool for the fishing mini-game.",
+						"image_url": "",
+						"question": "Which tool do you use to catch fish?",
+						"wrong": [
+							"Net",
+							"Spear",
+							"Trap"
+						]
+					},
+					{
+						"correct": "Void Ghost Pendant",
+						"difficulty": "Medium",
+						"explanation": "The Void Ghost Pendant is the roommate equivalent of the Mermaid's Pendant.",
+						"image_url": "",
+						"question": "What item must you give to Krobus to ask him to be your roommate?",
+						"wrong": [
+							"Mermaid's Pendant",
+							"Diamond",
+							"Shadow Egg"
+						]
+					},
+					{
+						"correct": "Void Egg",
+						"difficulty": "Medium",
+						"explanation": "Krobus is the primary source for Void Eggs, which can be hatched into Void Chickens.",
+						"image_url": "",
+						"question": "Which rare item does Krobus sell every single day in his shop?",
+						"wrong": [
+							"Prismatic Shard",
+							"Golden Pumpkin",
+							"Iridium Ore"
+						]
+					},
+					{
+						"correct": "Out of respect for the spirits",
+						"difficulty": "Medium",
+						"explanation": "Krobus remains silent on Fridays as a day of religious or spiritual observance.",
+						"image_url": "",
+						"question": "Why does Krobus not speak on Fridays?",
+						"wrong": [
+							"He is recharging his energy",
+							"He is mad at the player",
+							"He is visiting his family"
+						]
+					},
+					{
+						"correct": "The Dwarves",
+						"difficulty": "Medium",
+						"explanation": "The Shadow People and Dwarves fought a 'Thousand Year War' and still deeply distrust each other.",
+						"image_url": "",
+						"question": "Krobus has a long-standing feud with which other race in the game?",
+						"wrong": [
+							"The Humans",
+							"The Junimos",
+							"The Elves"
+						]
+					},
+					{
+						"correct": "Void Mayonnaise",
+						"difficulty": "Medium",
+						"explanation": "Krobus loves Void Mayonnaise, Void Eggs, and Wild Horseradish.",
+						"image_url": "",
+						"question": "What is Krobus's favorite food, which you can also forage in the sewers?",
+						"wrong": [
+							"Sashimi",
+							"Algae Soup",
+							"Strange Bun"
+						]
+					},
+					{
+						"correct": "Yoba",
+						"difficulty": "Hard",
+						"explanation": "Krobus occasionally mentions Yoba, the same deity worshipped by some humans in town.",
+						"image_url": "",
+						"question": "What is the name of the 'god' Krobus refers to in his dialogue?",
+						"wrong": [
+							"ConcernedApe",
+							"The Sky King",
+							"The Shadow Lord"
+						]
+					},
+					{
+						"correct": "Random Cooked Dish",
+						"difficulty": "Hard",
+						"explanation": "Krobus has a rotating stock, and on Saturdays, he sells a random cooked dish.",
+						"image_url": "",
+						"question": "What item does Krobus sell specifically on Saturdays?",
+						"wrong": [
+							"Iridium Sprinkler",
+							"Omni Geode",
+							"Bat Wing"
+						]
+					},
+					{
+						"correct": "They get into a fight",
+						"difficulty": "Hard",
+						"explanation": "A cutscene triggers where the two characters fight before the Wizard intervenes.",
+						"image_url": "",
+						"question": "What happens if you bring the Dwarf to the Sewers when you have high friendship with Krobus?",
+						"wrong": [
+							"They become best friends",
+							"They trade items",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "20,000g",
+						"difficulty": "Hard",
+						"explanation": "Krobus sells one permanent Stardrop for a hefty 20,000 gold.",
+						"image_url": "",
+						"question": "How much gold does the Stardrop cost in Krobus's shop?",
+						"wrong": [
+							"5,000g",
+							"10,000g",
+							"50,000g"
+						]
+					},
+					{
+						"correct": "Bridge Dweller",
+						"difficulty": "Hard",
+						"explanation": "According to Krobus, his name translates roughly to 'Bridge Dweller' in the common tongue.",
+						"image_url": "",
+						"question": "What does Krobus say his name means in his language?",
+						"wrong": [
+							"Dark Friend",
+							"Hidden One",
+							"Seeker of Light"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_krobus",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Krobus",
+				"lore_desc": "A friendly shadow person who lives in the sewers because he is too shy to live among humans.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Shadow Person",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Monster",
+					"Friend"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Purple",
+						"difficulty": "Easy",
+						"explanation": "Abigail is famous for her bright purple hair, which she claims she hasn't dyed in a long time.",
+						"image_url": "https://skillcheckgame.com/assets/images/abigail.webp",
+						"question": "What color is Abigail's hair?",
+						"wrong": [
+							"Blue",
+							"Pink",
+							"Black"
+						]
+					},
+					{
+						"correct": "Quartz",
+						"difficulty": "Easy",
+						"explanation": "When given a gemstone like Quartz, Abigail says 'How'd you know I was hungry? This looks delicious!'",
+						"image_url": "https://skillcheckgame.com/assets/images/abigail.webp",
+						"question": "Which of these items is Abigail known for 'eating' in a famous dialogue bug turned feature?",
+						"wrong": [
+							"Wood",
+							"Fish",
+							"Flowers"
+						]
+					},
+					{
+						"correct": "At the General Store",
+						"difficulty": "Easy",
+						"explanation": "Abigail lives in the back of Pierre's General Store with her parents.",
+						"image_url": "https://skillcheckgame.com/assets/images/abigail.webp",
+						"question": "Where does Abigail live?",
+						"wrong": [
+							"At the Ranch",
+							"In the Tent",
+							"In the Trailer"
+						]
+					},
+					{
+						"correct": "Flute",
+						"difficulty": "Easy",
+						"explanation": "Abigail can be found playing her flute near the mountain lake when it rains.",
+						"image_url": "",
+						"question": "What instrument does Abigail play during the rainy days by the lake?",
+						"wrong": [
+							"Guitar",
+							"Piano",
+							"Drums"
+						]
+					},
+					{
+						"correct": "Gunther",
+						"difficulty": "Easy",
+						"explanation": "Gunther manages the museum and asks the player to donate artifacts and minerals.",
+						"image_url": "",
+						"question": "What is the name of the Pelican Town museum curator?",
+						"wrong": [
+							"Clint",
+							"Willy",
+							"Morris"
+						]
+					},
+					{
+						"correct": "Journey of the Prairie King",
+						"difficulty": "Medium",
+						"explanation": "Abigail is stuck on the first level of 'Journey of the Prairie King' and needs your help.",
+						"image_url": "",
+						"question": "What is the name of the video game Abigail asks you to play with her in her bedroom?",
+						"wrong": [
+							"Junimo Kart",
+							"Stardew Quest",
+							"Monster Slayer"
+						]
+					},
+					{
+						"correct": "Caroline",
+						"difficulty": "Medium",
+						"explanation": "Caroline is Pierre's wife and Abigail's mother, often seen tending her sunroom.",
+						"image_url": "",
+						"question": "Who is Abigail's mother?",
+						"wrong": [
+							"Jodi",
+							"Marnie",
+							"Robin"
+						]
+					},
+					{
+						"correct": "David Junior",
+						"difficulty": "Medium",
+						"explanation": "Abigail keeps a guinea pig named David Junior in her bedroom.",
+						"image_url": "",
+						"question": "What is the name of Abigail's pet guinea pig?",
+						"wrong": [
+							"Hammy",
+							"Squeaky",
+							"David Senior"
+						]
+					},
+					{
+						"correct": "Amethyst",
+						"difficulty": "Medium",
+						"explanation": "Amethyst is her absolute favorite gem and matches her hair color.",
+						"image_url": "",
+						"question": "Which of these is a 'loved' gift for Abigail?",
+						"wrong": [
+							"Diamond",
+							"Ruby",
+							"Topaz"
+						]
+					},
+					{
+						"correct": "Being an adventurer",
+						"difficulty": "Medium",
+						"explanation": "Abigail wants to explore the mines and fight monsters, much to Pierre's concern.",
+						"image_url": "",
+						"question": "What is Abigail's dream job/hobby that her father Pierre disapproves of?",
+						"wrong": [
+							"Being a chef",
+							"Being a singer",
+							"Being a farmer"
+						]
+					},
+					{
+						"correct": "The Wizard",
+						"difficulty": "Hard",
+						"explanation": "Dialogue from Caroline and the Wizard suggests they had a secret connection, and Abigail's hair color is a major clue.",
+						"image_url": "",
+						"question": "According to fan theories and game hints, who might be Abigail's biological father?",
+						"wrong": [
+							"Lewis",
+							"Linus",
+							"Grandpa"
+						]
+					},
+					{
+						"correct": "Cronus",
+						"difficulty": "Hard",
+						"explanation": "There is a poster in her room that strongly resembles Crono from Chrono Trigger.",
+						"image_url": "",
+						"question": "Which poster can be seen on the wall in Abigail's room, referencing a classic Chrono Trigger character?",
+						"wrong": [
+							"Magus",
+							"Frog",
+							"Robo"
+						]
+					},
+					{
+						"correct": "Solar Essence or Void Essence",
+						"difficulty": "Hard",
+						"explanation": "Keeping with her adventurer theme, she often gives the player monster-related loot.",
+						"image_url": "",
+						"question": "What does Abigail give the player if they marry her and she helps on the farm?",
+						"wrong": [
+							"Coffee",
+							"Pancakes",
+							"Batteries"
+						]
+					},
+					{
+						"correct": "The Egg Festival",
+						"difficulty": "Hard",
+						"explanation": "Abigail is the reigning champion of the Egg Hunt and is very hard to beat.",
+						"image_url": "",
+						"question": "At which festival does Abigail always win the main competition unless the player intervenes?",
+						"wrong": [
+							"The Ice Festival",
+							"The Stardew Fair",
+							"The Luau"
+						]
+					},
+					{
+						"correct": "Sits by her grandfather's grave",
+						"difficulty": "Hard",
+						"explanation": "Abigail can often be found in the graveyard, which she finds peaceful and mysterious.",
+						"image_url": "",
+						"question": "What does Abigail do in the graveyard at night?",
+						"wrong": [
+							"Looks for ghosts",
+							"Practices swordfighting",
+							"Plants flowers"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_abigail",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Abigail",
+				"lore_desc": "A rebellious young woman who loves exploring the graveyard, playing video games, and has a strange appetite for gemstones.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Goth Bachelorette",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Bachelorette",
+					"Adventure"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Morris",
+						"difficulty": "Easy",
+						"explanation": "Morris is the representative of Joja Corp and acts as the primary antagonist.",
+						"image_url": "https://skillcheckgame.com/assets/images/jojamart.webp",
+						"question": "What is the name of the corporate manager at JojaMart?",
+						"wrong": [
+							"Clint",
+							"Lewis",
+							"Gunther"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "JojaMart is heavily branded with bright blue and white colors.",
+						"image_url": "https://skillcheckgame.com/assets/images/jojamart.webp",
+						"question": "What color is the JojaMart logo?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Join us. Thrive.",
+						"difficulty": "Easy",
+						"explanation": "The Joja slogan 'Join us. Thrive.' is seen on many signs and advertisements.",
+						"image_url": "https://skillcheckgame.com/assets/images/jojamart.webp",
+						"question": "What is the slogan of JojaMart?",
+						"wrong": [
+							"Shop cheap. Live well.",
+							"Better than Pierre.",
+							"The future is now."
+						]
+					},
+					{
+						"correct": "Joja Cola",
+						"difficulty": "Easy",
+						"explanation": "Joja Cola is a common item that provides a tiny amount of energy but is mostly considered trash.",
+						"image_url": "",
+						"question": "What is the name of the blue soda sold in JojaMart and found in trash cans?",
+						"wrong": [
+							"Joja Juice",
+							"Blue Fizz",
+							"Mega Pop"
+						]
+					},
+					{
+						"correct": "Joja Corp",
+						"difficulty": "Easy",
+						"explanation": "The game's intro shows the player working in a miserable Joja office cubicle.",
+						"image_url": "",
+						"question": "Where did the player work before moving to Stardew Valley?",
+						"wrong": [
+							"A Bank",
+							"A School",
+							"A Factory"
+						]
+					},
+					{
+						"correct": "It becomes a Joja Warehouse",
+						"difficulty": "Medium",
+						"explanation": "Purchasing a membership for 5000g turns the Community Center into a Joja Warehouse, locking you into the Joja path.",
+						"image_url": "",
+						"question": "If you buy a Joja membership, what happens to the Community Center?",
+						"wrong": [
+							"It gets demolished",
+							"It turns into a park",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "You can buy town upgrades with Gold",
+						"difficulty": "Medium",
+						"explanation": "On the Joja path, you pay gold to complete 'projects' rather than collecting items for bundles.",
+						"image_url": "",
+						"question": "What is the primary benefit of the Joja path compared to the Community Center path?",
+						"wrong": [
+							"You get better seeds",
+							"You get a free car",
+							"You win the game instantly"
+						]
+					},
+					{
+						"correct": "Shane",
+						"difficulty": "Medium",
+						"explanation": "Shane works the night shift at JojaMart and hates his job.",
+						"image_url": "",
+						"question": "Who is the tired JojaMart employee who later becomes a marriage candidate?",
+						"wrong": [
+							"Sebastian",
+							"Sam",
+							"Harvey"
+						]
+					},
+					{
+						"correct": "It goes out of business and closes",
+						"difficulty": "Medium",
+						"explanation": "Restoring the center causes Morris to leave town and the JojaMart to close down forever.",
+						"image_url": "",
+						"question": "What happens to JojaMart if the player completes the Community Center?",
+						"wrong": [
+							"It gets bigger",
+							"It becomes a library",
+							"It moves to the desert"
+						]
+					},
+					{
+						"correct": "Auto-Petter",
+						"difficulty": "Medium",
+						"explanation": "The Auto-Petter is much easier to obtain if you choose the Joja route.",
+						"image_url": "",
+						"question": "Which unique item can only be purchased from the Joja Warehouse or late-game Joja shop?",
+						"wrong": [
+							"Auto-Grabber",
+							"Iridium Sprinkler",
+							"Junimo Hut"
+						]
+					},
+					{
+						"correct": "The Movie Theater",
+						"difficulty": "Hard",
+						"explanation": "After JojaMart closes, a 'Lost Bundle' appears which, when completed, turns the building into a Movie Theater.",
+						"image_url": "",
+						"question": "What is the name of the movie theater that can replace the abandoned JojaMart?",
+						"wrong": [
+							"Starlight Cinema",
+							"Pelican Pictures",
+							"Joja Cineplex"
+						]
+					},
+					{
+						"correct": "Abigail",
+						"difficulty": "Hard",
+						"explanation": "Abigail's father is the local competitor, so she is never seen supporting JojaMart.",
+						"image_url": "",
+						"question": "Which of these NPCs is NOT seen working or shopping in JojaMart?",
+						"wrong": [
+							"Pam",
+							"Jodi",
+							"Shane"
+						]
+					},
+					{
+						"correct": "Claire",
+						"difficulty": "Hard",
+						"explanation": "The JojaMart cashier is named Claire in the game files and in the Stardew Valley Expanded mod context.",
+						"image_url": "",
+						"question": "What is the name of the cashier who works at JojaMart (she remains unnamed in most dialogue)?",
+						"wrong": [
+							"Mona",
+							"Jane",
+							"Sarah"
+						]
+					},
+					{
+						"correct": "50 percent off coupons",
+						"difficulty": "Hard",
+						"explanation": "Morris enters Pierre's store and hands out 50 percent off coupons to steal his customers.",
+						"image_url": "",
+						"question": "What does Morris offer the customers in Pierre's shop during a cutscene?",
+						"wrong": [
+							"Free Joja Cola",
+							"Golden seeds",
+							"Cash prizes"
+						]
+					},
+					{
+						"correct": "5",
+						"difficulty": "Hard",
+						"explanation": "There are 5 projects: Bridge, Bus, Glittering Boulder, Greenhouse, and Minecarts.",
+						"image_url": "",
+						"question": "How many total Joja projects are there to complete the Joja Form?",
+						"wrong": [
+							"3",
+							"6",
+							"10"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_jojamart",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "JojaMart",
+				"lore_desc": "The soulless mega-corporation that threatens the small-town charm of Pelican Town with its cheap prices and lack of community spirit.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Megacorp",
+			"profiler": {
+				"vibe_tags": [
+					"Corporate",
+					"Villain",
+					"Building"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Carpenter",
+						"difficulty": "Easy",
+						"explanation": "Robin builds all the structures on your farm and handles home renovations.",
+						"image_url": "https://skillcheckgame.com/assets/images/robin.webp",
+						"question": "What is Robin's job in Pelican Town?",
+						"wrong": [
+							"Blacksmith",
+							"Chef",
+							"Doctor"
+						]
+					},
+					{
+						"correct": "Demetrius",
+						"difficulty": "Easy",
+						"explanation": "Demetrius and Robin live together in the mountains with their children.",
+						"image_url": "https://skillcheckgame.com/assets/images/robin.webp",
+						"question": "Who is Robin's husband, the local scientist?",
+						"wrong": [
+							"Linus",
+							"Lewis",
+							"Gus"
+						]
+					},
+					{
+						"correct": "Coop",
+						"difficulty": "Easy",
+						"explanation": "Robin builds Coops, Barns, Silos, and other essential farm buildings.",
+						"image_url": "https://skillcheckgame.com/assets/images/robin.webp",
+						"question": "Which of these buildings can Robin build for your farm?",
+						"wrong": [
+							"Lighthouse",
+							"Castle",
+							"Airport"
+						]
+					},
+					{
+						"correct": "Sebastian",
+						"difficulty": "Easy",
+						"explanation": "Sebastian is Robin's son from a previous relationship.",
+						"image_url": "",
+						"question": "What is the name of Robin's son who lives in the basement?",
+						"wrong": [
+							"Sam",
+							"Alex",
+							"Shane"
+						]
+					},
+					{
+						"correct": "Wood",
+						"difficulty": "Easy",
+						"explanation": "Wood is the most common material used in construction at Robin's shop.",
+						"image_url": "",
+						"question": "What is the primary resource Robin requires for almost every building project?",
+						"wrong": [
+							"Iron",
+							"Cloth",
+							"Glass"
+						]
+					},
+					{
+						"correct": "Maru",
+						"difficulty": "Medium",
+						"explanation": "Maru is the daughter of Robin and Demetrius and works at the local clinic.",
+						"image_url": "",
+						"question": "What is the name of Robin's daughter?",
+						"wrong": [
+							"Penny",
+							"Haley",
+							"Leah"
+						]
+					},
+					{
+						"correct": "Her Axe",
+						"difficulty": "Medium",
+						"explanation": "The quest 'Robin's Lost Axe' involves finding her favorite axe near the sewer entrance.",
+						"image_url": "",
+						"question": "What item does Robin lose in the woods and ask you to find early in the game?",
+						"wrong": [
+							"Her Hammer",
+							"Her Saw",
+							"Her Tape Measure"
+						]
+					},
+					{
+						"correct": "Spaghetti",
+						"difficulty": "Medium",
+						"explanation": "Robin loves Spaghetti and Peach, among other items.",
+						"image_url": "",
+						"question": "Which of these is a 'loved' gift for Robin?",
+						"wrong": [
+							"Pizza",
+							"Salad",
+							"Wine"
+						]
+					},
+					{
+						"correct": "Goes to an exercise class",
+						"difficulty": "Medium",
+						"explanation": "Robin joins several other women at Pierre's for a weekly aerobics class.",
+						"image_url": "",
+						"question": "What does Robin do on Tuesdays?",
+						"wrong": [
+							"Visits the Mines",
+							"Hikes the mountain",
+							"Closes the shop to sleep"
+						]
+					},
+					{
+						"correct": "3",
+						"difficulty": "Medium",
+						"explanation": "The farmhouse can be upgraded three times to add a kitchen, nursery, and cellar.",
+						"image_url": "",
+						"question": "What is the maximum number of times you can upgrade your actual farmhouse with Robin?",
+						"wrong": [
+							"1",
+							"2",
+							"5"
+						]
+					},
+					{
+						"correct": "Robin's Project",
+						"difficulty": "Hard",
+						"explanation": "She asks for 1000 pieces of Wood or Stone within a week.",
+						"image_url": "",
+						"question": "What is the name of the resource challenge Robin occasionally posts on the Special Orders board?",
+						"wrong": [
+							"The Big Build",
+							"Woodcutting Contest",
+							"Stone Smasher"
+						]
+					},
+					{
+						"correct": "Stone Chest blueprint",
+						"difficulty": "Hard",
+						"explanation": "Completing her 1000-stone request rewards the player with the recipe for a Stone Chest.",
+						"image_url": "",
+						"question": "What unique furniture item does Robin give you for completing her special resource order?",
+						"wrong": [
+							"Wooden Statue",
+							"Mini-Obelisk",
+							"Junimo Plush"
+						]
+					},
+					{
+						"correct": "All of the above (Demetrius, Sebastian, Maru)",
+						"difficulty": "Hard",
+						"explanation": "The mountain house serves as both the shop and the residence for the entire family.",
+						"image_url": "",
+						"question": "Robin's shop, the Carpenter's Shop, is also the home for which other NPC?",
+						"wrong": [
+							"Only Demetrius",
+							"Only Maru",
+							"Only Sebastian"
+						]
+					},
+					{
+						"correct": "Mini-Obelisk",
+						"difficulty": "Hard",
+						"explanation": "The Mini-Obelisk allows for quick travel between two points on your farm.",
+						"image_url": "",
+						"question": "What is the name of the blueprint Robin sells that allows you to teleport around the farm?",
+						"wrong": [
+							"Farm Warp",
+							"Spirit Pillar",
+							"Fast Travel Sign"
+						]
+					},
+					{
+						"correct": "Wood and Stone",
+						"difficulty": "Hard",
+						"explanation": "The prices for basic resources at the Carpenter's and Blacksmith's shops increase after the first year.",
+						"image_url": "",
+						"question": "Which material does Robin sell for a significantly higher price in Year 2 than in Year 1?",
+						"wrong": [
+							"Hardwood",
+							"Iron Ore",
+							"Glass"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_robin",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Robin",
+				"lore_desc": "The town's skilled carpenter who can upgrade your farmhouse and build new structures for your animals.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Carpenter",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Merchant",
+					"Building"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Increases Max Energy",
+						"difficulty": "Easy",
+						"explanation": "Stardrops permanently expand your energy bar, allowing you to do more work each day.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_stardrop.webp",
+						"question": "What is the primary effect of eating a Stardrop?",
+						"wrong": [
+							"Increases Max Health",
+							"Gives 1 million gold",
+							"Teleports you home"
+						]
+					},
+					{
+						"correct": "Your mind is filled with thoughts of [Favorite Thing]",
+						"difficulty": "Easy",
+						"explanation": "The game references the 'Favorite Thing' you entered during character creation.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_stardrop.webp",
+						"question": "What text appears when you eat a Stardrop, referencing your 'Favorite Thing'?",
+						"wrong": [
+							"You feel [Favorite Thing] in your soul",
+							"You crave [Favorite Thing]",
+							"Everything tastes like [Favorite Thing]"
+						]
+					},
+					{
+						"correct": "Stardew Valley Fair",
+						"difficulty": "Easy",
+						"explanation": "The Fair is one of the earliest opportunities to get a Stardrop if you win enough tokens.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_stardrop.webp",
+						"question": "Where can you purchase a Stardrop for 2,000 Star Tokens?",
+						"wrong": [
+							"Egg Festival",
+							"Flower Dance",
+							"Spirit's Eve"
+						]
+					},
+					{
+						"correct": "Up to 4",
+						"difficulty": "Easy",
+						"explanation": "Standard multiplayer supports up to 4 players (though some versions support more).",
+						"image_url": "",
+						"question": "How many players can play together in Stardew Valley's multiplayer mode?",
+						"wrong": [
+							"Up to 2",
+							"Up to 10",
+							"Up to 100"
+						]
+					},
+					{
+						"correct": "Pizza Plant",
+						"difficulty": "Easy",
+						"explanation": "While there are many magical fruits, pizza is a cooked dish, not a plant.",
+						"image_url": "",
+						"question": "Which of these is NOT a real crop in the game?",
+						"wrong": [
+							"Ancient Fruit",
+							"Starfruit",
+							"Sweet Gem Berry"
+						]
+					},
+					{
+						"correct": "Floor 100",
+						"difficulty": "Medium",
+						"explanation": "Reaching floor 100 of the regular mines rewards you with a Stardrop.",
+						"image_url": "",
+						"question": "Which floor of the Mines contains a chest with a Stardrop?",
+						"wrong": [
+							"Floor 50",
+							"Floor 120",
+							"Floor 1"
+						]
+					},
+					{
+						"correct": "Krobus",
+						"difficulty": "Medium",
+						"explanation": "Krobus has one Stardrop for sale in his shop.",
+						"image_url": "",
+						"question": "Who sells a Stardrop in the Sewers for 20,000 gold?",
+						"wrong": [
+							"The Dwarf",
+							"The Wizard",
+							"Marnie"
+						]
+					},
+					{
+						"correct": "Sweet Gem Berry",
+						"difficulty": "Medium",
+						"explanation": "Giving the statue 'the sweetest taste' results in a Stardrop reward.",
+						"image_url": "",
+						"question": "What must you give to Old Master Cannoli in the Secret Woods to receive a Stardrop?",
+						"wrong": [
+							"Ancient Fruit",
+							"Starfruit",
+							"Diamond"
+						]
+					},
+					{
+						"correct": "Your Spouse",
+						"difficulty": "Medium",
+						"explanation": "A happy spouse will eventually gift you a Stardrop as a sign of their love.",
+						"image_url": "",
+						"question": "Which NPC gives you a Stardrop once you reach 12.5 hearts of friendship after marriage?",
+						"wrong": [
+							"Mayor Lewis",
+							"Grandpa",
+							"The Wizard"
+						]
+					},
+					{
+						"correct": "No one (you get it for Master Angler/Museum)",
+						"difficulty": "Medium",
+						"explanation": "You receive Stardrops for completing the Museum collection and catching every fish.",
+						"image_url": "",
+						"question": "What achievement-related NPC sends you a Stardrop in the mail after you ship every item?",
+						"wrong": [
+							"Lewis",
+							"Willy",
+							"Pierre"
+						]
+					},
+					{
+						"correct": "7",
+						"difficulty": "Hard",
+						"explanation": "There are exactly 7 Stardrops available, bringing your total energy to 508.",
+						"image_url": "",
+						"question": "How many total Stardrops can be found in a single-player game?",
+						"wrong": [
+							"5",
+							"10",
+							"12"
+						]
+					},
+					{
+						"correct": "You feel a strange connection to the developer",
+						"difficulty": "Hard",
+						"explanation": "The developer added a special 'thank you' message for players who use his handle.",
+						"image_url": "",
+						"question": "What is the secret text if you put 'ConcernedApe' as your favorite thing and eat a Stardrop?",
+						"wrong": [
+							"(ConcernedApe: Thanks!)",
+							"Ape sounds fill your head",
+							"You feel enlightened"
+						]
+					},
+					{
+						"correct": "He says it's an old family heirloom",
+						"difficulty": "Hard",
+						"explanation": "Willy claims the fruit has been in his family for generations.",
+						"image_url": "",
+						"question": "Master Angler Willy sends you a Stardrop after you catch every fish. What is the letter's content?",
+						"wrong": [
+							"He found it in a whale",
+							"He bought it at a shop",
+							"He grew it himself"
+						]
+					},
+					{
+						"correct": "95 (Full Collection)",
+						"difficulty": "Hard",
+						"explanation": "The Stardrop is the final reward for completing the entire Museum collection.",
+						"image_url": "",
+						"question": "To get the Stardrop from the Museum, how many items must be donated?",
+						"wrong": [
+							"50",
+							"60",
+							"80"
+						]
+					},
+					{
+						"correct": "Reaching the top of Ginger Island",
+						"difficulty": "Hard",
+						"explanation": "The top of Ginger Island (The Forge) does not grant a Stardrop, though it is an endgame location.",
+						"image_url": "",
+						"question": "Which of these is NOT a source of a Stardrop?",
+						"wrong": [
+							"Level 100 of the Mines",
+							"Old Master Cannoli",
+							"Catching all fish"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_the_stardrop",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "The Stardrop",
+				"lore_desc": "A mysterious fruit that empowers those who eat it, increasing their maximum energy permanently.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Mystical Fruit",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Power-up",
+					"Magic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "It cycles through all colors",
+						"difficulty": "Easy",
+						"explanation": "The Prismatic Shard is a rainbow gem that constantly changes color.",
+						"image_url": "https://skillcheckgame.com/assets/images/prismatic_shard.webp",
+						"question": "What is the most notable visual feature of a Prismatic Shard?",
+						"wrong": [
+							"It is bright red",
+							"It is invisible",
+							"It glows blue"
+						]
+					},
+					{
+						"correct": "Galaxy Sword",
+						"difficulty": "Easy",
+						"explanation": "The Galaxy Sword is the primary reward for bringing a shard to the Three Pillars.",
+						"image_url": "https://skillcheckgame.com/assets/images/prismatic_shard.webp",
+						"question": "Which powerful weapon is obtained by taking a Prismatic Shard to the Desert?",
+						"wrong": [
+							"Diamond Blade",
+							"Rainbow Staff",
+							"Iridium Hammer"
+						]
+					},
+					{
+						"correct": "Yes, except for Haley",
+						"difficulty": "Easy",
+						"explanation": "Almost every NPC loves the shard, but Haley famously hates it, calling it a 'colorful piece of junk'.",
+						"image_url": "https://skillcheckgame.com/assets/images/prismatic_shard.webp",
+						"question": "Is the Prismatic Shard a 'universal love' gift (most NPCs love it)?",
+						"wrong": [
+							"No, no one likes it",
+							"Yes, everyone loves it",
+							"Only the Wizard loves it"
+						]
+					},
+					{
+						"correct": "Omni Geode",
+						"difficulty": "Easy",
+						"explanation": "Omni Geodes have a small chance to contain a Prismatic Shard.",
+						"image_url": "",
+						"question": "What type of object is often broken to find a Prismatic Shard in the Mines?",
+						"wrong": [
+							"Regular Stone",
+							"Copper Node",
+							"Wood Log"
+						]
+					},
+					{
+						"correct": "The Stardew Valley Museum and Library",
+						"difficulty": "Easy",
+						"explanation": "The Museum is the first place many players take their first Prismatic Shard (often to their later regret).",
+						"image_url": "",
+						"question": "What is the name of the museum in Pelican Town where you can donate gems?",
+						"wrong": [
+							"The Town Archives",
+							"The Gem Hall",
+							"The History House"
+						]
+					},
+					{
+						"correct": "Turn children into doves",
+						"difficulty": "Medium",
+						"explanation": "Offering a shard to the Dark Shrine of Selfishness permanently removes your children.",
+						"image_url": "",
+						"question": "What can you do with a Prismatic Shard at the Witch's Hut?",
+						"wrong": [
+							"Get a free horse",
+							"Change your hair color",
+							"Make it rain"
+						]
+					},
+					{
+						"correct": "Mystic Stone",
+						"difficulty": "Medium",
+						"explanation": "Mystic Stones (blue stones with a swirl) have a 25 percent chance to drop a Prismatic Shard.",
+						"image_url": "",
+						"question": "Which type of node in the Skull Cavern has the highest chance of containing a Shard?",
+						"wrong": [
+							"Iridium Node",
+							"Gold Node",
+							"Diamond Node"
+						]
+					},
+					{
+						"correct": "3",
+						"difficulty": "Medium",
+						"explanation": "The trade for the game's best food item is 3 shards, available on Thursdays.",
+						"image_url": "",
+						"question": "How many Prismatic Shards are required to trade for one Magic Rock Candy at the Desert Trader?",
+						"wrong": [
+							"1",
+							"5",
+							"10"
+						]
+					},
+					{
+						"correct": "The Volcano Forge",
+						"difficulty": "Medium",
+						"explanation": "The Forge on Ginger Island uses Shards to add powerful enchantments to tools and weapons.",
+						"image_url": "",
+						"question": "Where can a Prismatic Shard be used to enchant or upgrade weapons late in the game?",
+						"wrong": [
+							"The Blacksmith Shop",
+							"The Wizard's Tower",
+							"The Sewers"
+						]
+					},
+					{
+						"correct": "Yes, in Treasure Chests",
+						"difficulty": "Medium",
+						"explanation": "Fishing treasure chests have a very low chance of containing a shard once you reach fishing level 6.",
+						"image_url": "",
+						"question": "Can a Prismatic Shard be found by fishing?",
+						"wrong": [
+							"No",
+							"Only on rainy days",
+							"Only in the ocean"
+						]
+					},
+					{
+						"correct": "It creates Prismatic Clothing",
+						"difficulty": "Hard",
+						"explanation": "It produces a piece of 'Prismatic' clothing that cycles through colors while you wear it.",
+						"image_url": "",
+						"question": "What happens if you use a Prismatic Shard in the sewing machine?",
+						"wrong": [
+							"The machine explodes",
+							"It creates a Rainbow Shirt",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "0.05 percent",
+						"difficulty": "Hard",
+						"explanation": "The drop rate is extremely low, making it a very rare occurrence during combat.",
+						"image_url": "",
+						"question": "What is the exact chance for a Slime to drop a Prismatic Shard once the player has reached the bottom of the mines?",
+						"wrong": [
+							"1 percent",
+							"5 percent",
+							"0.1 percent"
+						]
+					},
+					{
+						"correct": "The Movie Theater Bundle",
+						"difficulty": "Hard",
+						"explanation": "The Lost Bundle in the abandoned JojaMart accepts a Prismatic Shard as one of its high-tier donations.",
+						"image_url": "",
+						"question": "Which special item is needed to solve the 'Missing Bundle' and requires a Prismatic Shard as one of the options?",
+						"wrong": [
+							"The Vault Bundle",
+							"The Boiler Room",
+							"The Bulletin Board"
+						]
+					},
+					{
+						"correct": "2,000g",
+						"difficulty": "Hard",
+						"explanation": "Despite its rarity, it sells for 2,000 gold, which many players find surprisingly low.",
+						"image_url": "",
+						"question": "What is the Prismatic Shard's sell price?",
+						"wrong": [
+							"1,000g",
+							"5,000g",
+							"10,000g"
+						]
+					},
+					{
+						"correct": "The Junimos cycle through rainbow colors",
+						"difficulty": "Hard",
+						"explanation": "This is a purely cosmetic effect that makes your harvesting spirits look extra festive.",
+						"image_url": "",
+						"question": "A Prismatic Shard can be placed in a Junimo Hut. What effect does this have?",
+						"wrong": [
+							"The Junimos work twice as fast",
+							"The Junimos can harvest in the rain",
+							"The Junimos plant seeds for you"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_prismatic_shard",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Prismatic Shard",
+				"lore_desc": "One of the rarest and most powerful items in the game, glowing with a shifting rainbow light.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Rainbow Gem",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Rare",
+					"Magic"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Complete Bundles",
+						"difficulty": "Easy",
+						"explanation": "The restoration is done by providing specific items to the Junimos across various rooms.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_community_center.webp",
+						"question": "What must the player do to restore the Community Center?",
+						"wrong": [
+							"Pay 1 million gold",
+							"Win a race",
+							"Defeat a boss"
+						]
+					},
+					{
+						"correct": "Crafts Room",
+						"difficulty": "Easy",
+						"explanation": "The Crafts Room, focused on foraging, is the first area available to the player.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_community_center.webp",
+						"question": "Which room in the Community Center is the first to be unlocked?",
+						"wrong": [
+							"Pantry",
+							"Boiler Room",
+							"Fish Tank"
+						]
+					},
+					{
+						"correct": "Golden",
+						"difficulty": "Easy",
+						"explanation": "The scrolls are golden and contain the list of items needed for each bundle.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_community_center.webp",
+						"question": "What color is the 'Golden Scroll' that appears in the center?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Green"
+						]
+					},
+					{
+						"correct": "Lewis",
+						"difficulty": "Easy",
+						"explanation": "Lewis unlocks the building for you in an early Spring cutscene.",
+						"image_url": "",
+						"question": "What is the name of the Mayor who gives you the key to the center?",
+						"wrong": [
+							"Morris",
+							"Pierre",
+							"Gus"
+						]
+					},
+					{
+						"correct": "The Vault",
+						"difficulty": "Easy",
+						"explanation": "The Vault is unique because it only requires gold donations to complete.",
+						"image_url": "",
+						"question": "Which room restoration repairs the bus to the Desert?",
+						"wrong": [
+							"The Pantry",
+							"The Boiler Room",
+							"The Fish Tank"
+						]
+					},
+					{
+						"correct": "The Greenhouse",
+						"difficulty": "Medium",
+						"explanation": "The Greenhouse is a major reward that allows you to grow any crop in any season.",
+						"image_url": "",
+						"question": "Restoring the Pantry room repairs which building on your farm?",
+						"wrong": [
+							"The Barn",
+							"The Coop",
+							"The Silo"
+						]
+					},
+					{
+						"correct": "They start visiting the building",
+						"difficulty": "Medium",
+						"explanation": "Villagers will follow new schedules and spend time in the restored building.",
+						"image_url": "",
+						"question": "What happens to the town characters once the Community Center is finished?",
+						"wrong": [
+							"They all move away",
+							"They stop talking to you",
+							"They become Joja employees"
+						]
+					},
+					{
+						"correct": "Quality Crops Bundle",
+						"difficulty": "Medium",
+						"explanation": "This bundle is part of the Pantry and requires 5 gold-star versions of specific crops.",
+						"image_url": "",
+						"question": "Which bundle requires the 'quality' versions (Gold Star) of crops like Parsnips and Melons?",
+						"wrong": [
+							"Spring Crops Bundle",
+							"Artisan Bundle",
+							"Exotic Foraging Bundle"
+						]
+					},
+					{
+						"correct": "Repairs the Minecarts",
+						"difficulty": "Medium",
+						"explanation": "The Minecarts allow for fast travel between the Mines, Town, Bus Stop, and Quarry.",
+						"image_url": "",
+						"question": "The Boiler Room restoration provides what benefit to the town?",
+						"wrong": [
+							"Fixes the Bridge",
+							"Clears the Trash",
+							"Opens the Spa"
+						]
+					},
+					{
+						"correct": "The Bulletin Board",
+						"difficulty": "Medium",
+						"explanation": "The Bulletin Board rewards the player with friendship points with all non-datable NPCs.",
+						"image_url": "",
+						"question": "What is the name of the final bundle room that unlocks only after all others are finished?",
+						"wrong": [
+							"The Secret Room",
+							"The Attic",
+							"The Trophy Room"
+						]
+					},
+					{
+						"correct": "5 out of 9 options",
+						"difficulty": "Hard",
+						"explanation": "The Exotic Foraging bundle gives players a choice of several items like Cactus Fruit, Cave Carrots, and Mushrooms.",
+						"image_url": "",
+						"question": "How many items are required to complete the 'Exotic Foraging' bundle in the Crafts Room?",
+						"wrong": [
+							"All of them",
+							"Only 1",
+							"Exactly 3"
+						]
+					},
+					{
+						"correct": "Rabbit's Foot",
+						"difficulty": "Hard",
+						"explanation": "The Rabbit's Foot is a rare drop from rabbits or serpents, making it a late-game hurdle for many.",
+						"image_url": "",
+						"question": "Which item is famously difficult to get for the 'Chief's Bundle' because it only drops from specific monsters or rare events?",
+						"wrong": [
+							"Duck Feather",
+							"Truffle",
+							"Wine"
+						]
+					},
+					{
+						"correct": "Stardew Hero Trophy",
+						"difficulty": "Hard",
+						"explanation": "The Stardew Hero Trophy is a furniture item you can place on your farm.",
+						"image_url": "",
+						"question": "What is the name of the trophy you receive for finishing the Community Center?",
+						"wrong": [
+							"Junimo Cup",
+							"Pelican Prize",
+							"Golden Apple"
+						]
+					},
+					{
+						"correct": "Oak Resin",
+						"difficulty": "Hard",
+						"explanation": "The Enchanter's Bundle requires Oak Resin along with Wine, Rabbit's Foot, and Pomegranate.",
+						"image_url": "",
+						"question": "What specific item is required for the 'Enchanter's Bundle' that can be produced by a Tapper?",
+						"wrong": [
+							"Maple Syrup",
+							"Pine Tar",
+							"Wine"
+						]
+					},
+					{
+						"correct": "The Wizard",
+						"difficulty": "Hard",
+						"explanation": "While many NPCs have bundles themed after them (e.g., Dye Bundle for Emily), the Wizard is not directly represented there.",
+						"image_url": "",
+						"question": "Which NPC does NOT have a requested item on the Bulletin Board bundles?",
+						"wrong": [
+							"Gus",
+							"Marnie",
+							"Demeterius"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_community_center",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Community Center",
+				"lore_desc": "A once-vibrant building that fell into disrepair, serving as the primary goal for players who wish to revitalize Pelican Town.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Town Heart",
+			"profiler": {
+				"vibe_tags": [
+					"Building",
+					"Quest",
+					"Town"
+				]
+			}
+		},
+		{
+			"content": {
+				"questions": [
+					{
+						"correct": "Through Grandpa's will",
+						"difficulty": "Easy",
+						"explanation": "Grandpa leaves the player a sealed envelope to be opened when they are 'crushed by the burden of modern life'.",
+						"image_url": "https://skillcheckgame.com/assets/images/grandpa.webp",
+						"question": "How does the player receive the farm at the start of the game?",
+						"wrong": [
+							"Winning a lottery",
+							"Buying it from Lewis",
+							"Buying it from Joja"
+						]
+					},
+					{
+						"correct": "The northwest corner",
+						"difficulty": "Easy",
+						"explanation": "The shrine is tucked away in the top left corner of the farm map.",
+						"image_url": "https://skillcheckgame.com/assets/images/grandpa.webp",
+						"question": "Where is Grandpa's Shrine located on the farm?",
+						"wrong": [
+							"Behind the house",
+							"In the center",
+							"Near the pond"
+						]
+					},
+					{
+						"correct": "Year 3",
+						"difficulty": "Easy",
+						"explanation": "On the first day of Year 3, Grandpa's spirit visits to judge the player's progress.",
+						"image_url": "https://skillcheckgame.com/assets/images/grandpa.webp",
+						"question": "At the start of which year does Grandpa's ghost return to evaluate the farm?",
+						"wrong": [
+							"Year 1",
+							"Year 2",
+							"Year 5"
+						]
+					},
+					{
+						"correct": "ConcernedApe",
+						"difficulty": "Easy",
+						"explanation": "ConcernedApe is the alias of Eric Barone, the game's creator.",
+						"image_url": "",
+						"question": "What is the name of the developer who created the game?",
+						"wrong": [
+							"StardewGuy",
+							"FarmerEric",
+							"SimKing"
+						]
+					},
+					{
+						"correct": "Axe",
+						"difficulty": "Easy",
+						"explanation": "An upgraded axe is required to break large stumps and fallen logs.",
+						"image_url": "",
+						"question": "What item do you use to clear large logs on the farm?",
+						"wrong": [
+							"Pickaxe",
+							"Hoe",
+							"Scythe"
+						]
+					},
+					{
+						"correct": "Candles",
+						"difficulty": "Medium",
+						"explanation": "The shrine has four candles that light up based on how many 'points' you have earned from your farm's success.",
+						"image_url": "",
+						"question": "What is lit on Grandpa's Shrine to represent your score?",
+						"wrong": [
+							"Torches",
+							"Gems",
+							"Flowers"
+						]
+					},
+					{
+						"correct": "Statue of Perfection",
+						"difficulty": "Medium",
+						"explanation": "The Statue of Perfection produces free Iridium Ore every single day.",
+						"image_url": "",
+						"question": "What reward do you receive if all four candles on the shrine are lit?",
+						"wrong": [
+							"Statue of Endless Fortune",
+							"Golden Clock",
+							"Iridium Watering Can"
+						]
+					},
+					{
+						"correct": "A Diamond",
+						"difficulty": "Medium",
+						"explanation": "Placing a diamond on the shrine causes Grandpa to return the following day for a new score.",
+						"image_url": "",
+						"question": "What must you place on Grandpa's Shrine to request a re-evaluation if you didn't get 4 candles?",
+						"wrong": [
+							"A Prismatic Shard",
+							"An Ancient Fruit",
+							"1,000 gold"
+						]
+					},
+					{
+						"correct": "In a bed",
+						"difficulty": "Medium",
+						"explanation": "The intro shows Grandpa on his deathbed, passing his legacy to the player.",
+						"image_url": "",
+						"question": "In the game's intro, where is Grandpa when he gives you the letter?",
+						"wrong": [
+							"In the fields",
+							"In the Saloon",
+							"At a train station"
+						]
+					},
+					{
+						"correct": "All of the above (Earnings, Museum, Community Center)",
+						"difficulty": "Medium",
+						"explanation": "Many factors, including total earnings, finishing the Community Center, and friendship, count toward the score.",
+						"image_url": "",
+						"question": "Which of these contributes 'points' toward Grandpa's evaluation?",
+						"wrong": [
+							"Only total gold",
+							"Only being married",
+							"Only your fishing level"
+						]
+					},
+					{
+						"correct": "The bed was drawn very poorly",
+						"difficulty": "Hard",
+						"explanation": "The original sprite for Grandpa's bed was famously awkward, leading to many fan-made 'improved bed' mods.",
+						"image_url": "",
+						"question": "What was the famous 'meme' involving Grandpa's bed in the original version of the game?",
+						"wrong": [
+							"He was floating",
+							"The bed was made of gold",
+							"He had no head"
+						]
+					},
+					{
+						"correct": "1,000,000g",
+						"difficulty": "Hard",
+						"explanation": "Earning one million gold is a key milestone for reaching the highest evaluation tier.",
+						"image_url": "",
+						"question": "How much total earnings (gold) are required to get the full 7 points from money in the evaluation?",
+						"wrong": [
+							"100,000g",
+							"500,000g",
+							"10,000,000g"
+						]
+					},
+					{
+						"correct": "Lewis",
+						"difficulty": "Hard",
+						"explanation": "Lewis mentions his old friendship with your grandfather in several dialogues.",
+						"image_url": "",
+						"question": "According to the secret notes, who was Grandpa's best friend in Pelican Town?",
+						"wrong": [
+							"Linus",
+							"Gus",
+							"The Wizard"
+						]
+					},
+					{
+						"correct": "There is no specific achievement for this",
+						"difficulty": "Hard",
+						"explanation": "While highly sought after, lighting the candles is an in-game milestone rather than a named platform achievement.",
+						"image_url": "",
+						"question": "What is the name of the achievement for lighting all 4 candles?",
+						"wrong": [
+							"Grandpa's Pride",
+							"The Perfect Farm",
+							"Legacy Fulfilled"
+						]
+					},
+					{
+						"correct": "He says you have much to learn but he still loves you",
+						"difficulty": "Hard",
+						"explanation": "Grandpa remains supportive regardless of your score, encouraging you to keep trying.",
+						"image_url": "",
+						"question": "What does Grandpa say if you fail to get any candles lit (the worst score)?",
+						"wrong": [
+							"He takes the farm back",
+							"He haunts the house",
+							"He says he's disappointed"
+						]
+					}
+				]
+			},
+			"id": "stardew_valley_grandpa",
+			"meta": {
+				"date_added": "2026-03-28",
+				"entity_category": "Theme Item",
+				"full_title": "Grandpa",
+				"lore_desc": "The man who started it all by leaving you his farm and returning as a spirit to evaluate your progress.",
+				"theme_origin": "stardew valley",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Benefactor",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Ghost",
+					"Family"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -103224,13 +106472,441 @@
 			"id": "mass effect",
 			"synergies": [
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Commander Shepard",
 						"Garrus Vakarian",
 						"Tali'Zorah"
 					],
 					"name": "Shepard's Favourite Trio"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Garrus Vakarian",
+						"Omega"
+					],
+					"name": "Archangel"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Liara T'Soni",
+						"Illium"
+					],
+					"name": "Shadow Broker"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mordin Solus",
+						"Urdnot Wrex",
+						"Tuchanka"
+					],
+					"name": "The Genophage"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Normandy",
+						"EDI"
+					],
+					"name": "Normandy AI"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Reapers",
+						"Sovereign",
+						"Saren Arterius"
+					],
+					"name": "Cycle of Extinction"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Mako",
+						"Urdnot Wrex"
+					],
+					"name": "Bumpy Ride"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Commander Shepard",
+						"Miranda Lawson",
+						"The Illusive Man"
+					],
+					"name": "The Suicide Mission"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jack",
+						"Miranda Lawson"
+					],
+					"name": "Subject Zero"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Illusive Man",
+						"Miranda Lawson",
+						"EDI"
+					],
+					"name": "Cerberus"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Legion",
+						"The Geth",
+						"Tali'Zorah"
+					],
+					"name": "Does This Unit Have A Soul"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Commander Shepard",
+						"The Citadel",
+						"The Normandy"
+					],
+					"name": "I Should Go"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Liara T'Soni",
+						"Javik"
+					],
+					"name": "Prothean Legacy"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Urdnot Wrex",
+						"Commander Shepard",
+						"Saren Arterius"
+					],
+					"name": "Virmire"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Grunt",
+						"Urdnot Wrex",
+						"Tuchanka"
+					],
+					"name": "Krogan Blood"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Thane Krios",
+						"Illium"
+					],
+					"name": "Silent Assassin"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mordin Solus",
+						"Commander Shepard"
+					],
+					"name": "Had To Be Me"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Reapers",
+						"Commander Shepard",
+						"The Normandy"
+					],
+					"name": "The Battle For Earth"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Omega",
+						"Jack",
+						"Garrus Vakarian"
+					],
+					"name": "Pirate Station"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Liara T'Soni",
+						"Garrus Vakarian",
+						"Urdnot Wrex"
+					],
+					"name": "Council Races"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Tali'Zorah",
+						"Legion",
+						"Omni-tool"
+					],
+					"name": "Tech Experts"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"EDI",
+						"Omni-tool"
+					],
+					"name": "Hacking The Galaxy"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Saren Arterius",
+						"Sovereign"
+					],
+					"name": "Indoctrinated"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Illusive Man",
+						"Javik",
+						"The Reapers"
+					],
+					"name": "Collector Base"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Grunt",
+						"Mordin Solus"
+					],
+					"name": "Last Stand On Tuchanka"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Omega",
+						"Illium",
+						"The Illusive Man"
+					],
+					"name": "Terminus Systems"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Thane Krios",
+						"Commander Shepard"
+					],
+					"name": "Dossier: The Assassin"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Garrus Vakarian",
+						"Liara T'Soni",
+						"Tali'Zorah"
+					],
+					"name": "The Citadel Party"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Citadel",
+						"Saren Arterius",
+						"The Reapers"
+					],
+					"name": "Presidium Politics"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Mako",
+						"The Normandy"
+					],
+					"name": "Uncharted Worlds"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Geth",
+						"Saren Arterius"
+					],
+					"name": "Heretics"
+				}
+			]
+		},
+		{
+			"id": "stardew valley",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Lewis",
+						"Pierre",
+						"Robin"
+					],
+					"name": "Pelican Town Council"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"JojaMart",
+						"Community Center"
+					],
+					"name": "Corporate Takeover"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Krobus",
+						"Linus"
+					],
+					"name": "The Hermit"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Junimos",
+						"Community Center"
+					],
+					"name": "Bundle Complete"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Desert",
+						"Prismatic Shard"
+					],
+					"name": "Skull Cavern"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Abigail",
+						"The Mines"
+					],
+					"name": "Adventurer's Guild"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Stardrop",
+						"Prismatic Shard"
+					],
+					"name": "Rare Finds"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Grandpa",
+						"Community Center",
+						"The Stardrop"
+					],
+					"name": "Grandpa's Evaluation"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Pierre",
+						"Marnie",
+						"Robin"
+					],
+					"name": "Town Shopkeepers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Clint",
+						"Abigail"
+					],
+					"name": "The Blacksmith's Crush"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Krobus",
+						"The Mines"
+					],
+					"name": "Underground Dwellers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Pierre",
+						"JojaMart"
+					],
+					"name": "General Store Rivals"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Grandpa",
+						"Marnie"
+					],
+					"name": "Farm Life"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Krobus",
+						"The Junimos",
+						"Abigail"
+					],
+					"name": "Magic Forest Friends"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Mines",
+						"The Desert",
+						"Prismatic Shard"
+					],
+					"name": "Deep Exploration"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Lewis",
+						"Marnie"
+					],
+					"name": "Mayor's Secret"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Robin",
+						"Clint"
+					],
+					"name": "Upgrade Time"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Linus",
+						"The Desert"
+					],
+					"name": "Wilderness Survivors"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Grandpa",
+						"Lewis",
+						"Community Center"
+					],
+					"name": "Grandpa's Legacy"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"The Stardrop",
+						"Grandpa",
+						"The Junimos"
+					],
+					"name": "Stardew Legends"
 				}
 			]
 		}
