@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774732377,
+	"last_updated": 1774733712,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -3000,6 +3000,51 @@
 				"hollow_knight_geo",
 				"hollow_knight_charms",
 				"hollow_knight_soul"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-03": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "The Sims",
+			"share_text": "Sul sul! Time for trivia",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "power_supply"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "double_adapter"
+				}
+			],
+			"showcase": [
+				"the_sims_bella_goth",
+				"the_sims_plumbob",
+				"the_sims_pleasantview"
+			],
+			"starters": [
+				"the_sims_bella_goth",
+				"the_sims_plumbob",
+				"the_sims_simoleons",
+				"the_sims_cowplant",
+				"the_sims_the_grim_reaper",
+				"the_sims_bonehilda",
+				"the_sims_pleasantview",
+				"the_sims_strangetown",
+				"the_sims_the_mother_plant",
+				"the_sims_bob_newbie",
+				"the_sims_freezer_bunny",
+				"the_sims_mortimer_goth",
+				"the_sims_landgraab_family",
+				"the_sims_mrs._crumplebottom",
+				"the_sims_social_bunny",
+				"the_sims_tragic_clown"
 			],
 			"submitted_by": ""
 		}
