@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774713188,
+	"last_updated": 1774713481,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2804,6 +2804,51 @@
 				"mass_effect_grunt",
 				"mass_effect_the_geth",
 				"mass_effect_omni-tool"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-30": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Stardew Valley",
+			"share_text": "Time to water the crops and test your knowledge",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "save_state",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "power_supply"
+				}
+			],
+			"showcase": [
+				"stardew_valley_marnie",
+				"stardew_valley_abigail",
+				"stardew_valley_robin"
+			],
+			"starters": [
+				"stardew_valley_lewis",
+				"stardew_valley_pierre",
+				"stardew_valley_marnie",
+				"stardew_valley_clint",
+				"stardew_valley_the_junimos",
+				"stardew_valley_linus",
+				"stardew_valley_the_mines",
+				"stardew_valley_the_desert",
+				"stardew_valley_krobus",
+				"stardew_valley_abigail",
+				"stardew_valley_jojamart",
+				"stardew_valley_robin",
+				"stardew_valley_the_stardrop",
+				"stardew_valley_prismatic_shard",
+				"stardew_valley_community_center",
+				"stardew_valley_grandpa"
 			],
 			"submitted_by": ""
 		}
