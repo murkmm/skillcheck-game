@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774730248,
+	"last_updated": 1774731530,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -2894,6 +2894,67 @@
 				"metal_gear_solid_stealth_camouflage",
 				"metal_gear_solid_solidus_snake",
 				"metal_gear_solid_kazuhira_miller"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-01": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Who's That? Nintendo Edition",
+			"share_text": "April Fools! Can you name the silhouettes?",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "save_state"
+				}
+			],
+			"showcase": [
+				"nintendo_all_stars_link",
+				"nintendo_all_stars_mario",
+				"nintendo_all_stars_pikachu"
+			],
+			"starters": [
+				"nintendo_all_stars_mario",
+				"nintendo_all_stars_link",
+				"nintendo_all_stars_pikachu",
+				"nintendo_all_stars_samus_aran",
+				"nintendo_all_stars_kirby",
+				"nintendo_all_stars_donkey_kong",
+				"nintendo_all_stars_yoshi",
+				"nintendo_all_stars_fox_mccloud",
+				"nintendo_all_stars_captain_falcon",
+				"nintendo_all_stars_isabelle",
+				"nintendo_all_stars_inkling",
+				"nintendo_all_stars_tom_nook",
+				"nintendo_all_stars_bowser",
+				"nintendo_all_stars_princess_peach",
+				"nintendo_all_stars_marth",
+				"nintendo_all_stars_olimar",
+				"nintendo_all_stars_luigi",
+				"nintendo_all_stars_zelda",
+				"nintendo_all_stars_charizard",
+				"nintendo_all_stars_diddy_kong",
+				"nintendo_all_stars_wario",
+				"nintendo_all_stars_ganondorf",
+				"nintendo_all_stars_rosalina",
+				"nintendo_all_stars_meta_knight",
+				"nintendo_all_stars_pit",
+				"nintendo_all_stars_little_mac",
+				"nintendo_all_stars_villager",
+				"nintendo_all_stars_ridley",
+				"nintendo_all_stars_king_dedede",
+				"nintendo_all_stars_shulk",
+				"nintendo_all_stars_lucina",
+				"nintendo_all_stars_toad"
 			],
 			"submitted_by": ""
 		}
