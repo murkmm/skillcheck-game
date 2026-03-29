@@ -19,9 +19,7 @@ export const headerData = {
       href: getPermalink('/premium'), // Or link directly to your Ko-fi/payment page
     },
   ],
-  actions: [
-    { text: 'Play Now', href: getPermalink('/') }
-  ],
+  actions: [{ text: 'Play Now', href: getPermalink('/') }],
 };
 
 export const footerData = {
