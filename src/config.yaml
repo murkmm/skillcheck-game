@@ -17,9 +17,9 @@ metadata:
   openGraph:
     site_name: Skill Check
     images:
-      - url: '~/assets/images/default.png'
+      - url: 'https://skillcheckgame.com/images/og-card.png'
         width: 1200
-        height: 628
+        height: 630
     type: website
   twitter:
     handle: ''
