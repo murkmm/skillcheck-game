@@ -79,6 +79,10 @@ import Layout from '~/layouts/Layout.astro';
       .sidebar-ad {
         display: none !important;
       }
+      .game-column {
+        width: 100vw !important;
+        height: 100dvh !important;
+      }
       .game-wrapper {
         width: 100vw !important;
         height: 100dvh !important;
@@ -95,6 +99,9 @@ import Layout from '~/layouts/Layout.astro';
         border-radius: 0 !important;
         border: none !important;
         box-shadow: none !important;
+      }
+      .fullscreen-btn {
+        display: none !important;
       }
       .below-fold {
         display: none !important;
@@ -159,6 +166,13 @@ import Layout from '~/layouts/Layout.astro';
       display: none !important;
     }
 
+    /* Game column — wraps game + fullscreen button vertically */
+    .game-column {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
     /* Game iframe container */
     .game-wrapper {
       position: relative;
@@ -187,14 +201,13 @@ import Layout from '~/layouts/Layout.astro';
       outline: none;
     }
 
+    /* Fullscreen button — sits below the game frame */
     .fullscreen-btn {
-      position: absolute;
-      right: 0.5rem;
-      bottom: 0.5rem;
       display: none;
       align-items: center;
       gap: 0.5rem;
       padding: 0.75rem 1.25rem;
+      margin-top: 0.75rem;
       background: rgba(21, 21, 24, 0.85);
       color: var(--text-main);
       border: 1px solid var(--border);
@@ -204,7 +217,9 @@ import Layout from '~/layouts/Layout.astro';
       font-size: 0.85rem;
       font-weight: 700;
       letter-spacing: 0.08em;
-      transition: all 0.3s ease;
+      transition:
+        opacity 0.2s ease,
+        background 0.2s ease;
       backdrop-filter: blur(8px);
       z-index: 10;
     }
@@ -213,15 +228,6 @@ import Layout from '~/layouts/Layout.astro';
       background: var(--accent);
       color: var(--bg-deep);
       border-color: var(--accent);
-    }
-
-    /* When in fullscreen, pin the button */
-    :fullscreen .fullscreen-btn,
-    :-webkit-full-screen .fullscreen-btn {
-      right: 1rem;
-      bottom: 1rem;
-      position: fixed;
-      z-index: 9999;
     }
 
     @media (min-width: 768px) {
@@ -514,15 +520,17 @@ import Layout from '~/layouts/Layout.astro';
         </ins>
       </div>
 
-      <!-- GAME -->
-      <div id="game-container" class="game-wrapper">
-        <div class="game-frame-container">
-          <iframe
-            id="game-iframe"
-            src="/play/index.html?v=4"
-            allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
-            sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"
-            allowfullscreen></iframe>
+      <!-- GAME + FULLSCREEN BUTTON -->
+      <div class="game-column">
+        <div id="game-container" class="game-wrapper">
+          <div class="game-frame-container">
+            <iframe
+              id="game-iframe"
+              src="/play/index.html?v=4"
+              allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
+              sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"
+              allowfullscreen></iframe>
+          </div>
         </div>
 
         <button id="fullscreen-btn" class="fullscreen-btn" title="Toggle Fullscreen">
@@ -687,15 +695,16 @@ import Layout from '~/layouts/Layout.astro';
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     // ===== FULLSCREEN TOGGLE =====
-    const fsBtn = document.getElementById('fullscreen-btn');
+    const fsBtn = document.getElementById('fullscreen-btn') as HTMLButtonElement | null;
     const container = document.getElementById('game-container');
-    const fsText = document.getElementById('fullscreen-text');
+    const column = container ? container.parentElement : null;
+    const fsText = document.getElementById('fullscreen-text') as HTMLElement | null;
     const iconMax = document.getElementById('icon-max');
 
-    if (fsBtn && container) {
+    if (fsBtn && column) {
       fsBtn.addEventListener('click', () => {
         if (!document.fullscreenElement) {
-          container.requestFullscreen().catch((err) => {
+          column.requestFullscreen().catch((err: Error) => {
             console.error(`Error attempting to enable full-screen mode: ${err.message}`);
           });
         } else {
@@ -704,16 +713,84 @@ import Layout from '~/layouts/Layout.astro';
       });
 
       document.addEventListener('fullscreenchange', () => {
-        if (fsText && iconMax) {
+        const gameWrapper = document.getElementById('game-container');
+        const frameContainer = gameWrapper?.querySelector('.game-frame-container') as HTMLElement | null;
+
+        if (fsText && iconMax && fsBtn) {
           if (document.fullscreenElement) {
-            fsText.textContent = 'EXIT FULLSCREEN';
+            // Compact icon-only button
+            fsText.style.display = 'none';
+            fsBtn.style.position = 'fixed';
+            fsBtn.style.right = '0.5rem';
+            fsBtn.style.bottom = '0.5rem';
+            fsBtn.style.zIndex = '9999';
+            fsBtn.style.marginTop = '0';
+            fsBtn.style.padding = '0.5rem';
+            fsBtn.style.background = 'rgba(0,0,0,0.5)';
+            fsBtn.style.border = '1px solid rgba(255,255,255,0.15)';
+            fsBtn.style.borderRadius = '0.5rem';
+            fsBtn.style.opacity = '0.4';
             iconMax.innerHTML =
               '<path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>';
+
+            // Game fills the screen
+            if (gameWrapper) {
+              gameWrapper.style.maxWidth = '100vw';
+              gameWrapper.style.maxHeight = '100vh';
+              gameWrapper.style.width = '100vw';
+              gameWrapper.style.height = '100vh';
+              gameWrapper.style.aspectRatio = 'unset';
+            }
+            if (frameContainer) {
+              frameContainer.style.borderRadius = '0';
+              frameContainer.style.border = 'none';
+              frameContainer.style.boxShadow = 'none';
+            }
           } else {
+            // Restore full button
+            fsText.style.display = '';
+            fsBtn.style.position = '';
+            fsBtn.style.right = '';
+            fsBtn.style.bottom = '';
+            fsBtn.style.zIndex = '';
+            fsBtn.style.marginTop = '';
+            fsBtn.style.padding = '';
+            fsBtn.style.background = '';
+            fsBtn.style.border = '';
+            fsBtn.style.borderRadius = '';
+            fsBtn.style.opacity = '';
             fsText.textContent = 'FULLSCREEN';
             iconMax.innerHTML =
               '<path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>';
+
+            // Restore game size
+            if (gameWrapper) {
+              gameWrapper.style.maxWidth = '';
+              gameWrapper.style.maxHeight = '';
+              gameWrapper.style.width = '';
+              gameWrapper.style.height = '';
+              gameWrapper.style.aspectRatio = '';
+            }
+            if (frameContainer) {
+              frameContainer.style.borderRadius = '';
+              frameContainer.style.border = '';
+              frameContainer.style.boxShadow = '';
+            }
           }
+        }
+      });
+
+      // Hover effect for compact fullscreen button
+      fsBtn.addEventListener('mouseenter', () => {
+        if (document.fullscreenElement) {
+          fsBtn.style.opacity = '1';
+          fsBtn.style.background = 'rgba(0,0,0,0.8)';
+        }
+      });
+      fsBtn.addEventListener('mouseleave', () => {
+        if (document.fullscreenElement) {
+          fsBtn.style.opacity = '0.4';
+          fsBtn.style.background = 'rgba(0,0,0,0.5)';
         }
       });
     }
