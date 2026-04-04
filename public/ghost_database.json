@@ -127721,7 +127721,133 @@
 		},
 		{
 			"id": "spyro: year of the dragon",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Spyro",
+						"Sparx",
+						"Hunter the Cheetah"
+					],
+					"name": "The Core Team"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Sorceress",
+						"Bianca",
+						"The Rhynocs"
+					],
+					"name": "The Sorceress's Army"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Moneybags",
+						"Sheila the Kangaroo",
+						"Sgt. Byrd"
+					],
+					"name": "The Extortion"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Midnight Mountain",
+						"Agent 9",
+						"The Sorceress"
+					],
+					"name": "The Final Showdown"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Spyro",
+						"The Rhynocs",
+						"Dragon Eggs"
+					],
+					"name": "The Ultimate Goal"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Hunter the Cheetah",
+						"Bianca"
+					],
+					"name": "Star-Crossed Lovers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Spyro",
+						"Sparx"
+					],
+					"name": "Dragon's Best Friend"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Sorceress",
+						"Dragon Eggs"
+					],
+					"name": "Stolen Future"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sunrise Spring",
+						"Sheila the Kangaroo"
+					],
+					"name": "Spring Release"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Midday Gardens",
+						"Sgt. Byrd"
+					],
+					"name": "Garden Flight"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Evening Lake",
+						"Bentley the Yeti"
+					],
+					"name": "Lake Brawler"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Midnight Mountain",
+						"Agent 9"
+					],
+					"name": "Midnight Munitions"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Bianca",
+						"Dragon Eggs"
+					],
+					"name": "The Regretful Thief"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Moneybags",
+						"Spyro"
+					],
+					"name": "Small Fees"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Hunter the Cheetah",
+						"Sunrise Spring"
+					],
+					"name": "The Skateboarder"
+				}
+			]
 		}
 	],
 	"titles": {
