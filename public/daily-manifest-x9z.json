@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775337281,
+	"last_updated": 1775337669,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -3099,7 +3099,7 @@
 			"difficulty": "Easy",
 			"mode": "STANDARD",
 			"motd": "Spyro: Easter Special !",
-			"share_text": "",
+			"share_text": "Happy easter egg hunters",
 			"shops": [
 				{
 					"p1": "pause_button",
