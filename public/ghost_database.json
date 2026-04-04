@@ -119274,6 +119274,3270 @@
 					"Survivor"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Purple",
+						"difficulty": "Easy",
+						"explanation": "Spyro is famous for being a rare purple dragon in a world of much larger elders.",
+						"image_url": "https://skillcheckgame.com/assets/images/spyro.webp",
+						"question": "What is the primary color of this iconic scales-and-wings hero?",
+						"wrong": [
+							"Green",
+							"Red",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Fire",
+						"difficulty": "Easy",
+						"explanation": "Though he gains other powers, Spyro's default and most famous attack is his fire breath.",
+						"image_url": "https://skillcheckgame.com/assets/images/spyro.webp",
+						"question": "What is Spyro's signature elemental breath attack used to defeat most enemies?",
+						"wrong": [
+							"Ice",
+							"Electricity",
+							"Bubbles"
+						]
+					},
+					{
+						"correct": "PlayStation",
+						"difficulty": "Easy",
+						"explanation": "Spyro: Year of the Dragon was a flagship title for the original PlayStation in 2000.",
+						"image_url": "https://skillcheckgame.com/assets/images/spyro.webp",
+						"question": "On which original gaming console did this third installment of the series first debut?",
+						"wrong": [
+							"Nintendo 64",
+							"Sega Dreamcast",
+							"Xbox"
+						]
+					},
+					{
+						"correct": "Dragonfly",
+						"difficulty": "Easy",
+						"explanation": "Sparx the Dragonfly follows Spyro and changes color to represent his health status.",
+						"image_url": "",
+						"question": "What kind of animal is Spyro's constant companion and health indicator?",
+						"wrong": [
+							"Butterfly",
+							"Bee",
+							"Cricket"
+						]
+					},
+					{
+						"correct": "3D Platformer",
+						"difficulty": "Easy",
+						"explanation": "Spyro is a quintessential 3D platformer focusing on exploration and item collection.",
+						"image_url": "",
+						"question": "What is the primary genre of this classic video game?",
+						"wrong": [
+							"First-Person Shooter",
+							"Racing Sim",
+							"Fighting Game"
+						]
+					},
+					{
+						"correct": "Hover",
+						"difficulty": "Medium",
+						"explanation": "Spyro can flutter his wings to 'hover' at the end of a glide, helping him reach high ledges.",
+						"image_url": "",
+						"question": "Which move allows Spyro to gain a small amount of extra distance at the end of a glide?",
+						"wrong": [
+							"Double Jump",
+							"Tornado Spin",
+							"Backflip"
+						]
+					},
+					{
+						"correct": "Headbash",
+						"difficulty": "Medium",
+						"explanation": "The Headbash is learned from Moneybags in the second home world, allowing Spyro to break reinforced chests.",
+						"image_url": "",
+						"question": "In Year of the Dragon, what move can Spyro perform while in the air to smash objects directly below him?",
+						"wrong": [
+							"Tail Whip",
+							"Ground Pound",
+							"Anvil Drop"
+						]
+					},
+					{
+						"correct": "Hunter",
+						"difficulty": "Medium",
+						"explanation": "Hunter the Cheetah is Spyro's mentor for many minigames, including the fan-favorite skateboarding levels.",
+						"image_url": "",
+						"question": "Which of these characters teaches Spyro how to use various vehicles like skateboards?",
+						"wrong": [
+							"Elora",
+							"The Professor",
+							"Bianca"
+						]
+					},
+					{
+						"correct": "The Year of the Dragon",
+						"difficulty": "Medium",
+						"explanation": "The Year of the Dragon is a festival where fairies deliver a new batch of dragon eggs to the realms.",
+						"image_url": "",
+						"question": "What happens every twelve years in the Dragon Realms that serves as the game's namesake?",
+						"wrong": [
+							"The Great Migration",
+							"The Gnorc Invasion",
+							"The Night of Fire"
+						]
+					},
+					{
+						"correct": "Superflight",
+						"difficulty": "Medium",
+						"explanation": "Superflight gates grant Spyro temporary unlimited flight, often used in combat or for reaching secret areas.",
+						"image_url": "",
+						"question": "Which power-up gate allows Spyro to fly freely through a level without landing?",
+						"wrong": [
+							"Fireball",
+							"Invincibility",
+							"Speed Ramp"
+						]
+					},
+					{
+						"correct": "Gem Magnetism",
+						"difficulty": "Hard",
+						"explanation": "Without Sparx, Spyro must walk directly over gems to pick them up, as he loses the 'magnet' effect Sparx provides.",
+						"image_url": "",
+						"question": "What specific ability does Spyro lose if his companion Sparx disappears completely?",
+						"wrong": [
+							"Gliding",
+							"Charging",
+							"Swimming"
+						]
+					},
+					{
+						"correct": "A UFO",
+						"difficulty": "Hard",
+						"explanation": "Spyro pilots a UFO provided by Agent 9 to take down the Sorceress in her final encounter.",
+						"image_url": "",
+						"question": "In the final battle against the Sorceress, what vehicle does Spyro use to navigate the arena?",
+						"wrong": [
+							"A Tank",
+							"A Speedboat",
+							"A Biplane"
+						]
+					},
+					{
+						"correct": "Lost Fleet",
+						"difficulty": "Hard",
+						"explanation": "Lost Fleet is home to the challenging skateboarding race against the 'Rhynoc Big Air' team.",
+						"image_url": "",
+						"question": "Which of these levels features a famous skateboarding race against a group of lizards?",
+						"wrong": [
+							"Sunny Villa",
+							"Molten Crater",
+							"Bamboo Terrace"
+						]
+					},
+					{
+						"correct": "Bianca",
+						"difficulty": "Hard",
+						"explanation": "Bianca the Rabbit leads the initial raid, though she eventually regrets her actions and joins Spyro.",
+						"image_url": "",
+						"question": "In the game's opening, who leads the Rhynocs through the tunnels to steal the eggs?",
+						"wrong": [
+							"Ripto",
+							"Gnasty Gnorc",
+							"The Sorceress"
+						]
+					},
+					{
+						"correct": "Super Bonus Round",
+						"difficulty": "Hard",
+						"explanation": "The Super Bonus Round is the ultimate 100 percent (or 117 percent) completion level in the game.",
+						"image_url": "",
+						"question": "What is the name of the special bonus world unlocked by collecting every single egg and gem?",
+						"wrong": [
+							"Dragon Shores",
+							"Gnorc's Gnexus",
+							"The Vault"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_spyro",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Spyro",
+				"lore_desc": "The young purple dragon tasked with recovering the stolen dragon eggs from the Forgotten Worlds.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Dragon",
+					"Protagonist"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Gold",
+						"difficulty": "Easy",
+						"explanation": "A bright gold Sparx means Spyro is fully healthy and can take three more hits.",
+						"image_url": "https://skillcheckgame.com/assets/images/sparx.webp",
+						"question": "What color is Sparx when Spyro is at full, maximum health?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Red"
+						]
+					},
+					{
+						"correct": "Butterflies",
+						"difficulty": "Easy",
+						"explanation": "Eating butterflies released from fodder animals like sheep or rabbits restores Sparx's health.",
+						"image_url": "https://skillcheckgame.com/assets/images/sparx.webp",
+						"question": "What item must Spyro find to restore Sparx's health and color?",
+						"wrong": [
+							"Flowers",
+							"Gems",
+							"Mushrooms"
+						]
+					},
+					{
+						"correct": "Dragonfly",
+						"difficulty": "Easy",
+						"explanation": "Sparx is a magical dragonfly who has been with Spyro since the very first game.",
+						"image_url": "https://skillcheckgame.com/assets/images/sparx.webp",
+						"question": "What is Sparx's species?",
+						"wrong": [
+							"Damselfly",
+							"Hummingbird",
+							"Firefly"
+						]
+					},
+					{
+						"correct": "L1, L2, R1, and R2 together",
+						"difficulty": "Easy",
+						"explanation": "Pressing all four shoulder buttons simultaneously triggers Sparx to point his nose toward the closest uncollected gem.",
+						"image_url": "",
+						"question": "Which button combination (L1, L2, R1, R2) makes Sparx point toward the nearest gem?",
+						"wrong": [
+							"Select",
+							"Triangle",
+							"Circle"
+						]
+					},
+					{
+						"correct": "He disappears",
+						"difficulty": "Easy",
+						"explanation": "If Spyro takes a hit while Sparx is red, Sparx vanishes, leaving Spyro vulnerable to one final hit.",
+						"image_url": "",
+						"question": "What happens to Sparx if Spyro takes too many hits without finding food?",
+						"wrong": [
+							"He turns black",
+							"He grows larger",
+							"He falls asleep"
+						]
+					},
+					{
+						"correct": "Playable top-down shooter levels",
+						"difficulty": "Medium",
+						"explanation": "Year of the Dragon introduced Sparx-centric levels that play like top-down gauntlet shooters.",
+						"image_url": "",
+						"question": "In Year of the Dragon, what new gameplay feature was introduced specifically for Sparx?",
+						"wrong": [
+							"A racing mode",
+							"The ability to speak",
+							"A 3D flying mode"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "The order of health is Gold (full), Blue (minus 1), and Red (minus 2).",
+						"image_url": "",
+						"question": "What is the color of Sparx after Spyro has taken exactly one hit from full health?",
+						"wrong": [
+							"Green",
+							"Yellow",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Zoe the Fairy",
+						"difficulty": "Medium",
+						"explanation": "Zoe stands outside the Sparx level portals and explains the objectives to the player.",
+						"image_url": "",
+						"question": "Who gives Sparx his special missions and power-ups in the home worlds?",
+						"wrong": [
+							"The Sorceress",
+							"Hunter",
+							"The Professor"
+						]
+					},
+					{
+						"correct": "Crawdad Farm",
+						"difficulty": "Medium",
+						"explanation": "Crawdad Farm is the introductory Sparx level where he fights a giant mechanical crawdad.",
+						"image_url": "",
+						"question": "What is the name of the first Sparx-only level located in Sunrise Spring?",
+						"wrong": [
+							"Spider Town",
+							"Starfish Reef",
+							"Bugbot Factory"
+						]
+					},
+					{
+						"correct": "Extra Hit Point",
+						"difficulty": "Medium",
+						"explanation": "Completing Spider Town grants Spyro and Sparx a permanent fourth hit point, making Sparx turn bright yellow before gold.",
+						"image_url": "",
+						"question": "Which ability does Sparx gain after completing the level 'Spider Town'?",
+						"wrong": [
+							"Gem Pointer",
+							"Charged Shot",
+							"Wider Gem Pickup"
+						]
+					},
+					{
+						"correct": "Small birds or bottles",
+						"difficulty": "Hard",
+						"explanation": "Blue butterflies are rare and usually found in jars or by defeating specific fast-moving fodder.",
+						"image_url": "",
+						"question": "What kind of 'fodder' animals release a blue butterfly that completely restores Sparx's health?",
+						"wrong": [
+							"Sheep",
+							"Frogs",
+							"Chickens"
+						]
+					},
+					{
+						"correct": "Metapede",
+						"difficulty": "Hard",
+						"explanation": "The Metapede is a giant robotic centipede that Sparx must defeat in Bugbot Factory.",
+						"image_url": "",
+						"question": "What is the name of the final Sparx level boss in Midnight Mountain?",
+						"wrong": [
+							"King Crab",
+							"Scorpion King",
+							"The Master"
+						]
+					},
+					{
+						"correct": "The ability to warp to any level",
+						"difficulty": "Hard",
+						"explanation": "Completing all Sparx levels unlocks the 'Atlas Warp' feature, allowing Spyro to travel instantly to any world.",
+						"image_url": "",
+						"question": "What is the final reward for completing all four of Sparx's bonus levels?",
+						"wrong": [
+							"Infinite Fire Breath",
+							"99 Lives",
+							"A new playable character"
+						]
+					},
+					{
+						"correct": "Spread Shot",
+						"difficulty": "Hard",
+						"explanation": "Sparx can find various weapon power-ups like Spread Shot, Rapid Fire, and heat-seeking missiles.",
+						"image_url": "",
+						"question": "Which of these is a power-up Sparx can collect within his own top-down levels?",
+						"wrong": [
+							"Ice Beam",
+							"Stealth Cloak",
+							"Double Jump"
+						]
+					},
+					{
+						"correct": "He can point to hidden gems from further away",
+						"difficulty": "Hard",
+						"explanation": "Starfish Reef upgrades the gem pointer to be more sensitive and work over longer distances.",
+						"image_url": "",
+						"question": "What happens to the gem pointer ability after Sparx completes the level 'Starfish Reef'?",
+						"wrong": [
+							"He gets it for the first time",
+							"It turns into a map",
+							"He can pick them up through walls"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_sparx",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Sparx",
+				"lore_desc": "Spyro's loyal dragonfly friend who protects him and helps gather treasure.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Dragonfly",
+					"Health"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Cheetah",
+						"difficulty": "Easy",
+						"explanation": "Hunter is a cheetah, though he is often much more interested in sports than hunting.",
+						"image_url": "https://skillcheckgame.com/assets/images/hunter_the_cheetah.webp",
+						"question": "What species of big cat is Hunter?",
+						"wrong": [
+							"Leopard",
+							"Tiger",
+							"Lion"
+						]
+					},
+					{
+						"correct": "Skateboarding",
+						"difficulty": "Easy",
+						"explanation": "Hunter is the primary NPC for the skateboarding challenges found in many of the game's levels.",
+						"image_url": "https://skillcheckgame.com/assets/images/hunter_the_cheetah.webp",
+						"question": "Which of these extreme sports is Hunter most famous for practicing in this game?",
+						"wrong": [
+							"Surfing",
+							"Snowboarding",
+							"Skydiving"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Hunter wears a simple green vest/shirt throughout the original trilogy.",
+						"image_url": "https://skillcheckgame.com/assets/images/hunter_the_cheetah.webp",
+						"question": "What color is the shirt that Hunter typically wears?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Bow and Arrow",
+						"difficulty": "Easy",
+						"explanation": "Hunter is an expert archer, often providing cover fire or participating in target practice challenges.",
+						"image_url": "",
+						"question": "What weapon does Hunter use when he assists Spyro in certain combat missions?",
+						"wrong": [
+							"Sword",
+							"Laser Gun",
+							"Slingshot"
+						]
+					},
+					{
+						"correct": "Bianca",
+						"difficulty": "Easy",
+						"explanation": "Despite starting as enemies, Hunter and Bianca the Rabbit fall in love by the end of the story.",
+						"image_url": "",
+						"question": "Which character does Hunter develop a romantic crush on during the game?",
+						"wrong": [
+							"Elora",
+							"Sheila",
+							"Zoe"
+						]
+					},
+					{
+						"correct": "Avalar",
+						"difficulty": "Medium",
+						"explanation": "Hunter is a native of Avalar, the setting of the second Spyro game, 'Ripto's Rage'.",
+						"image_url": "",
+						"question": "What is the name of Hunter's home world where he first met Spyro in the previous game?",
+						"wrong": [
+							"The Forgotten Worlds",
+							"Dragon Shores",
+							"Glimmer"
+						]
+					},
+					{
+						"correct": "Lizards",
+						"difficulty": "Medium",
+						"explanation": "The 'Skateboarding with Hunter' challenge in Sunny Villa involves outscoring or outracing a group of lizards.",
+						"image_url": "",
+						"question": "In the level 'Sunny Villa', what are you and Hunter racing against on skateboards?",
+						"wrong": [
+							"Rhynocs",
+							"Crabs",
+							"Penguins"
+						]
+					},
+					{
+						"correct": "He was captured in a cage",
+						"difficulty": "Medium",
+						"explanation": "At the start of several home worlds, Spyro must find Hunter, who has often been trapped or cornered by Rhynocs.",
+						"image_url": "",
+						"question": "Early in the game, why is Hunter unable to help Spyro more effectively?",
+						"wrong": [
+							"He lost his shoes",
+							"He was turned into a frog",
+							"He forgot how to jump"
+						]
+					},
+					{
+						"correct": "Giving you hidden challenges",
+						"difficulty": "Medium",
+						"explanation": "Hunter is hidden in every Speedway level and offers a unique side mission for a Dragon Egg.",
+						"image_url": "",
+						"question": "What is Hunter's primary role in the 'Speedway' levels?",
+						"wrong": [
+							"Selling you eggs",
+							"Flying the plane",
+							"Setting the time limit"
+						]
+					},
+					{
+						"correct": "Evening Lake",
+						"difficulty": "Medium",
+						"explanation": "In the Evening Lake home world, Hunter uses a remote control to guide a submarine in a mini-game.",
+						"image_url": "",
+						"question": "In which level does Hunter challenge Spyro to a game of 'cat and mouse' with a remote-controlled sub?",
+						"wrong": [
+							"Sunrise Spring",
+							"Seashell Shore",
+							"Aquaria Towers"
+						]
+					},
+					{
+						"correct": "Speed Ramps",
+						"difficulty": "Hard",
+						"explanation": "Hunter helps by placing speed ramps that allow Spyro to chase down the Sorceress.",
+						"image_url": "",
+						"question": "During the fight against the Sorceress, what does Hunter provide to Spyro to help him win?",
+						"wrong": [
+							"Health Butterflies",
+							"Dragon Eggs",
+							"Fire Power-ups"
+						]
+					},
+					{
+						"correct": "He is captured by the Sorceress",
+						"difficulty": "Hard",
+						"explanation": "The Sorceress captures Hunter to use him as bait, forcing Spyro to reach the final world to rescue him.",
+						"image_url": "",
+						"question": "What happens to Hunter during the transition to the Midnight Mountain world?",
+						"wrong": [
+							"He goes back to Avalar",
+							"He gets lost in a swamp",
+							"He falls into a volcano"
+						]
+					},
+					{
+						"correct": "Cats",
+						"difficulty": "Hard",
+						"explanation": "In a humorous moment of irony, Hunter the Cheetah claims to be allergic to common house cats.",
+						"image_url": "",
+						"question": "Which specific animal does Hunter claim he is 'allergic' to, which causes him trouble in the game?",
+						"wrong": [
+							"Dogs",
+							"Rhynocs",
+							"Bees"
+						]
+					},
+					{
+						"correct": "There isn't one (He does it in Cloud Spires)",
+						"difficulty": "Hard",
+						"explanation": "In Cloud Spires, Hunter asks Spyro to help him herd sun seeds, not sheep, though it looks similar.",
+						"image_url": "",
+						"question": "What is the name of the 'Sheep' themed level where Hunter tries to herd animals?",
+						"wrong": [
+							"Stone Hill",
+							"Sheep Reach",
+							"Willow's End"
+						]
+					},
+					{
+						"correct": "A Turbo Sub",
+						"difficulty": "Hard",
+						"explanation": "Hunter participates in the final bonus level by racing Spyro in high-speed underwater subs.",
+						"image_url": "",
+						"question": "In the 'Super Bonus Round', what vehicle is Hunter seen driving?",
+						"wrong": [
+							"A Skateboarding Car",
+							"A Plane",
+							"A Rocket"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_hunter_the_cheetah",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Hunter the Cheetah",
+				"lore_desc": "A clumsy but athletic cheetah who acts as Spyro's trainer and friend.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Cheetah",
+					"Athlete"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Main Antagonist",
+						"difficulty": "Easy",
+						"explanation": "The Sorceress is the final boss and the mastermind behind the theft of the dragon eggs.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_sorceress.webp",
+						"question": "What is the primary role of The Sorceress in 'Year of the Dragon'?",
+						"wrong": [
+							"Spyro's Teacher",
+							"The Gem Merchant",
+							"A Playable Hero"
+						]
+					},
+					{
+						"correct": "A reptilian dinosaur-like creature",
+						"difficulty": "Easy",
+						"explanation": "She appears as a large, blue-skinned bipedal reptile, often described as a dinosaur or lizard.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_sorceress.webp",
+						"question": "What kind of creature is the Sorceress?",
+						"wrong": [
+							"A Dragon",
+							"A Rabbit",
+							"A Human"
+						]
+					},
+					{
+						"correct": "To use their wings for a spell",
+						"difficulty": "Easy",
+						"explanation": "The magic was fading from her world, and she needed dragon wings to create a spell for immortality.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_sorceress.webp",
+						"question": "Why did the Sorceress order the theft of the dragon eggs?",
+						"wrong": [
+							"To raise them as pets",
+							"To eat them",
+							"To sell them to Gnorcs"
+						]
+					},
+					{
+						"correct": "Bianca",
+						"difficulty": "Easy",
+						"explanation": "Bianca was her apprentice before she realized the Sorceress's true, cruel intentions.",
+						"image_url": "",
+						"question": "Who was the Sorceress's young rabbit apprentice at the start of the game?",
+						"wrong": [
+							"Elora",
+							"Zoe",
+							"Sheila"
+						]
+					},
+					{
+						"correct": "Midnight Mountain",
+						"difficulty": "Easy",
+						"explanation": "The Sorceress resides in the fourth and final home world, Midnight Mountain.",
+						"image_url": "",
+						"question": "Where is the Sorceress's lair located?",
+						"wrong": [
+							"Sunrise Spring",
+							"Evening Lake",
+							"Midday Gardens"
+						]
+					},
+					{
+						"correct": "She banished them",
+						"difficulty": "Medium",
+						"explanation": "The dragons used to live in the Forgotten Worlds but were driven out by the Sorceress a thousand years ago.",
+						"image_url": "",
+						"question": "What happened to the dragons in the Sorceress's realm many years before the game began?",
+						"wrong": [
+							"They never lived there",
+							"They turned into stone",
+							"They went to sleep"
+						]
+					},
+					{
+						"correct": "Rhynocs",
+						"difficulty": "Medium",
+						"explanation": "The Rhynocs are her primary minions, spawned from her dark magic.",
+						"image_url": "",
+						"question": "What is the name of the rhino-like army the Sorceress created using her magic?",
+						"wrong": [
+							"Gnorcs",
+							"Breezebuilders",
+							"Tikis"
+						]
+					},
+					{
+						"correct": "With threats and cruelty",
+						"difficulty": "Medium",
+						"explanation": "The Sorceress is abusive and threatens to destroy Bianca if she fails or shows mercy.",
+						"image_url": "",
+						"question": "How does the Sorceress treat her apprentice, Bianca, throughout the story?",
+						"wrong": [
+							"Like a daughter",
+							"With great respect",
+							"She ignores her"
+						]
+					},
+					{
+						"correct": "Buzz",
+						"difficulty": "Medium",
+						"explanation": "Buzz is a rabbit that the Sorceress transforms into a giant, fire-breathing toad-like creature.",
+						"image_url": "",
+						"question": "What is the name of the first boss Spyro fights, who was a creature transformed by the Sorceress?",
+						"wrong": [
+							"Spike",
+							"Scorch",
+							"Toasty"
+						]
+					},
+					{
+						"correct": "Lava",
+						"difficulty": "Medium",
+						"explanation": "The battle takes place on a platform in the middle of a lake of lava.",
+						"image_url": "",
+						"question": "During her first boss fight, what substance is surrounding the platform the Sorceress stands on?",
+						"wrong": [
+							"Water",
+							"Acid",
+							"Bottomless Pit"
+						]
+					},
+					{
+						"correct": "Wings",
+						"difficulty": "Hard",
+						"explanation": "She specifically needs the wings of baby dragons, which is why she waits for the stolen eggs to hatch.",
+						"image_url": "",
+						"question": "What specific body part of a dragon is required for the Sorceress's immortality spell?",
+						"wrong": [
+							"Horns",
+							"Tail",
+							"Heart"
+						]
+					},
+					{
+						"correct": "Bianca",
+						"difficulty": "Hard",
+						"explanation": "Bianca turns against her mentor once she learns that the Sorceress plans to kill the baby dragons.",
+						"image_url": "",
+						"question": "Which character ultimately betrays the Sorceress by helping Spyro enter her lair?",
+						"wrong": [
+							"Moneybags",
+							"Hunter",
+							"Agent 9"
+						]
+					},
+					{
+						"correct": "A mechanical hovercraft",
+						"difficulty": "Hard",
+						"explanation": "After surviving the first fight, she returns in a mechanical ship for the final showdown.",
+						"image_url": "",
+						"question": "In the 'Super Bonus Round' boss fight, what is the Sorceress piloting?",
+						"wrong": [
+							"A Dragon",
+							"A Giant Rhynoc",
+							"A Magic Carpet"
+						]
+					},
+					{
+						"correct": "Spike",
+						"difficulty": "Hard",
+						"explanation": "Spike is the second boss, a Rhynoc transformed into a hulking, rock-throwing beast.",
+						"image_url": "",
+						"question": "What is the name of the winged boss transformed by the Sorceress in Midday Gardens?",
+						"wrong": [
+							"Buzz",
+							"Scorch",
+							"Gulp"
+						]
+					},
+					{
+						"correct": "Bianca (initially)",
+						"difficulty": "Hard",
+						"explanation": "Bianca is ordered to trap Hunter, which leads to her eventually questioning the Sorceress's orders.",
+						"image_url": "",
+						"question": "Who does the Sorceress command to capture Hunter the Cheetah?",
+						"wrong": [
+							"The Rhynocs",
+							"Moneybags",
+							"Gnasty Gnorc"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_the_sorceress",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "The Sorceress",
+				"lore_desc": "The cruel ruler of the Forgotten Worlds who stole the dragon eggs to harness their wings for immortality.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Magic",
+					"Boss"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Rabbit",
+						"difficulty": "Easy",
+						"explanation": "Bianca is a rabbit, often seen with her long ears poking out of her hood.",
+						"image_url": "https://skillcheckgame.com/assets/images/bianca.webp",
+						"question": "What kind of animal is Bianca?",
+						"wrong": [
+							"Cat",
+							"Fox",
+							"Mouse"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Bianca is iconic for her bright red hooded cloak.",
+						"image_url": "https://skillcheckgame.com/assets/images/bianca.webp",
+						"question": "What color is the hooded cloak Bianca usually wears?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "The Sorceress",
+						"difficulty": "Easy",
+						"explanation": "She begins as the Sorceress's apprentice and is responsible for stealing the dragon eggs.",
+						"image_url": "https://skillcheckgame.com/assets/images/bianca.webp",
+						"question": "At the start of the game, which villain does Bianca work for?",
+						"wrong": [
+							"Ripto",
+							"Gnasty Gnorc",
+							"Malefor"
+						]
+					},
+					{
+						"correct": "Magic",
+						"difficulty": "Easy",
+						"explanation": "Bianca is an apprentice magic-user and can teleport or transform creatures.",
+						"image_url": "",
+						"question": "What does Bianca use to travel between worlds and perform her feats?",
+						"wrong": [
+							"A Plane",
+							"A Rocket",
+							"A Pogo Stick"
+						]
+					},
+					{
+						"correct": "She joins Spyro",
+						"difficulty": "Easy",
+						"explanation": "After discovering the Sorceress's true cruelty, Bianca switches sides to help Spyro.",
+						"image_url": "",
+						"question": "How does Bianca's allegiance change during the course of the game?",
+						"wrong": [
+							"She becomes the final boss",
+							"She stays evil",
+							"She leaves and never returns"
+						]
+					},
+					{
+						"correct": "The Sorceress needs dragon wings for immortality",
+						"difficulty": "Medium",
+						"explanation": "Bianca is horrified to learn that the baby dragons must be killed for their wings to fuel the Sorceress's spell.",
+						"image_url": "",
+						"question": "What discovery makes Bianca decide to turn against the Sorceress?",
+						"wrong": [
+							"The Sorceress stole her wand",
+							"Spyro offered her gems",
+							"Hunter beat her in a race"
+						]
+					},
+					{
+						"correct": "Hunter",
+						"difficulty": "Medium",
+						"explanation": "She and Hunter the Cheetah have a recurring subplot that leads to a romance.",
+						"image_url": "",
+						"question": "Which hero does Bianca develop a romantic interest in?",
+						"wrong": [
+							"Spyro",
+							"Bentley",
+							"Agent 9"
+						]
+					},
+					{
+						"correct": "She opens a portal",
+						"difficulty": "Medium",
+						"explanation": "Bianca uses her magic to open the way to the final home world for Spyro.",
+						"image_url": "",
+						"question": "What does Bianca do to help Spyro enter the final world, Midnight Mountain?",
+						"wrong": [
+							"She builds a bridge",
+							"She flies him there",
+							"She gives him a key"
+						]
+					},
+					{
+						"correct": "A rabbit",
+						"difficulty": "Medium",
+						"explanation": "Buzz was originally a simple rabbit before Bianca's magic (under orders) turned him into a monster.",
+						"image_url": "",
+						"question": "What animal does Bianca transform Buzz from during the first boss fight?",
+						"wrong": [
+							"A rhynoc",
+							"A frog",
+							"A sheep"
+						]
+					},
+					{
+						"correct": "Sunrise Spring",
+						"difficulty": "Medium",
+						"explanation": "She appears early in Sunrise Spring to warn Spyro to leave the Forgotten Worlds.",
+						"image_url": "",
+						"question": "Where does Bianca first appear to taunt Spyro in the game?",
+						"wrong": [
+							"Evening Lake",
+							"Midnight Mountain",
+							"Dragon Shores"
+						]
+					},
+					{
+						"correct": "The last Dragon Egg",
+						"difficulty": "Hard",
+						"explanation": "She hands over the final egg, completing the collection and finishing the main story quest.",
+						"image_url": "",
+						"question": "What does Bianca give Spyro at the end of the game after the Sorceress is defeated?",
+						"wrong": [
+							"A Magic Wand",
+							"A Gem",
+							"A Kiss"
+						]
+					},
+					{
+						"correct": "None (She helps him enter, but doesn't fight bosses with him)",
+						"difficulty": "Hard",
+						"explanation": "While she provides lore and opens paths, Bianca does not participate directly in the boss battles.",
+						"image_url": "",
+						"question": "What is the name of the boss that Bianca helps Spyro fight in Midnight Mountain?",
+						"wrong": [
+							"Scorch",
+							"Spike",
+							"The Sorceress"
+						]
+					},
+					{
+						"correct": "She thought they would just bring magic back to the realm",
+						"difficulty": "Hard",
+						"explanation": "Bianca believed that simply having the dragons back in the world would restore the magic that had faded.",
+						"image_url": "",
+						"question": "What was the original plan Bianca had for the dragon eggs before the Sorceress revealed her true plot?",
+						"wrong": [
+							"She wanted to start a dragon farm",
+							"She wanted to hatch them and keep them",
+							"She wanted to sell them"
+						]
+					},
+					{
+						"correct": "Through a hole in the ground",
+						"difficulty": "Hard",
+						"explanation": "She and the Rhynocs emerge from a tunnel dug from the other side of the world.",
+						"image_url": "",
+						"question": "In the game's intro, how does Bianca enter the Dragon Realms?",
+						"wrong": [
+							"Through a magic mirror",
+							"By flying",
+							"Using a hot air balloon"
+						]
+					},
+					{
+						"correct": "Incomplete or amateur",
+						"difficulty": "Hard",
+						"explanation": "She is referred to as an 'apprentice' and sometimes struggles with her spells or feels guilty about using them for evil.",
+						"image_url": "",
+						"question": "Which of these traits describes Bianca's magic early in the game?",
+						"wrong": [
+							"Infinite power",
+							"Dark and demonic",
+							"Non-existent"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_bianca",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Bianca",
+				"lore_desc": "A hooded rabbit apprentice who initially serves the Sorceress but eventually becomes one of Spyro's closest allies.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Rabbit",
+					"Magic",
+					"Apprentice"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Kangaroo",
+						"difficulty": "Easy",
+						"explanation": "Sheila is a mountain-climbing kangaroo from the Forgotten Worlds.",
+						"image_url": "https://skillcheckgame.com/assets/images/sheila_the_kangaroo.webp",
+						"question": "What type of animal is Sheila?",
+						"wrong": [
+							"Wallaby",
+							"Koala",
+							"Opossum"
+						]
+					},
+					{
+						"correct": "Kicking",
+						"difficulty": "Easy",
+						"explanation": "True to her species, Sheila uses her powerful legs to kick Rhynocs into the air.",
+						"image_url": "https://skillcheckgame.com/assets/images/sheila_the_kangaroo.webp",
+						"question": "What is Sheila's primary method of attacking enemies?",
+						"wrong": [
+							"Punching",
+							"Fire Breath",
+							"Tail Whip"
+						]
+					},
+					{
+						"correct": "Australian",
+						"difficulty": "Easy",
+						"explanation": "Sheila has a distinct Australian accent, fitting her kangaroo character design.",
+						"image_url": "https://skillcheckgame.com/assets/images/sheila_the_kangaroo.webp",
+						"question": "What kind of accent does Sheila have?",
+						"wrong": [
+							"British",
+							"American",
+							"French"
+						]
+					},
+					{
+						"correct": "Sunrise Spring",
+						"difficulty": "Easy",
+						"explanation": "Sheila is the first ally you unlock, found in the first home world, Sunrise Spring.",
+						"image_url": "",
+						"question": "Which home world is Sheila's portal located in?",
+						"wrong": [
+							"Midday Gardens",
+							"Evening Lake",
+							"Midnight Mountain"
+						]
+					},
+					{
+						"correct": "Moneybags",
+						"difficulty": "Easy",
+						"explanation": "Moneybags has captured her and demands gems to let her out.",
+						"image_url": "",
+						"question": "Who must Spyro pay in order to release Sheila from her cage?",
+						"wrong": [
+							"The Sorceress",
+							"Hunter",
+							"The Professor"
+						]
+					},
+					{
+						"correct": "Double Jump",
+						"difficulty": "Medium",
+						"explanation": "Sheila can jump a second time in mid-air to reach high ledges Spyro cannot.",
+						"image_url": "",
+						"question": "What special movement ability does Sheila have that allows her to reach very high places?",
+						"wrong": [
+							"Flight",
+							"Teleportation",
+							"Climbing"
+						]
+					},
+					{
+						"correct": "Mountain Goats",
+						"difficulty": "Medium",
+						"explanation": "She helps the mountain goats (like Billy) whose houses are being stomped by Rhynocs.",
+						"image_url": "",
+						"question": "In her own level, 'Sheila's Alp', who is Sheila helping to protect their homes?",
+						"wrong": [
+							"Sheep",
+							"Dragons",
+							"Fairies"
+						]
+					},
+					{
+						"correct": "Stomp",
+						"difficulty": "Medium",
+						"explanation": "By jumping and pressing the attack button, Sheila can perform a powerful downward stomp.",
+						"image_url": "",
+						"question": "What is the name of Sheila's ground-pounding attack?",
+						"wrong": [
+							"Crush",
+							"Butt-Slam",
+							"Diving Kick"
+						]
+					},
+					{
+						"correct": "Buzz",
+						"difficulty": "Medium",
+						"explanation": "Sheila kicks Spyro toward the platform during the Buzz boss fight to help him engage the toad.",
+						"image_url": "",
+						"question": "Which boss fight does Sheila assist Spyro with by kicking him into the air?",
+						"wrong": [
+							"Spike",
+							"Scorch",
+							"The Sorceress"
+						]
+					},
+					{
+						"correct": "Double jump on top of them",
+						"difficulty": "Medium",
+						"explanation": "Actually, all characters have ways to open chests, but Sheila's kick is particularly effective for multiple objects.",
+						"image_url": "",
+						"question": "Sheila is the only playable character besides Spyro who can do what to chests?",
+						"wrong": [
+							"Breathe fire on them",
+							"Open them with magic",
+							"Kick them open"
+						]
+					},
+					{
+						"correct": "Billy",
+						"difficulty": "Hard",
+						"explanation": "Billy the Mountain Goat is the NPC who introduces Sheila's home level.",
+						"image_url": "",
+						"question": "What is the name of the goat who asks Sheila for help in the Sunrise Spring world?",
+						"wrong": [
+							"Bobby",
+							"Willy",
+							"Gruff"
+						]
+					},
+					{
+						"correct": "Mushrooms",
+						"difficulty": "Hard",
+						"explanation": "In the level 'Desert Ruins', Sheila helps herd walking mushrooms into a pen.",
+						"image_url": "",
+						"question": "What kind of small creatures does Sheila have to herd into a pen in one of her missions?",
+						"wrong": [
+							"Sheep",
+							"Sun Seeds",
+							"Chicks"
+						]
+					},
+					{
+						"correct": "Seashell Shore",
+						"difficulty": "Hard",
+						"explanation": "In Seashell Shore, Sheila has a segment where she protects seals from a Rhynoc turret.",
+						"image_url": "",
+						"question": "Which level features a sub-mission where Sheila must defend a group of seals?",
+						"wrong": [
+							"Sunny Villa",
+							"Lost Fleet",
+							"Bamboo Terrace"
+						]
+					},
+					{
+						"correct": "Varies by version (Usually 2-3)",
+						"difficulty": "Hard",
+						"explanation": "Like Spyro, Sheila has a health system, though she does not have a dragonfly companion visible at all times.",
+						"image_url": "",
+						"question": "How many hits can Sheila take before she is defeated (assuming no health items)?",
+						"wrong": [
+							"Only 1",
+							"Always 5",
+							"Infinite"
+						]
+					},
+					{
+						"correct": "Kicking bombs back at him",
+						"difficulty": "Hard",
+						"explanation": "In the Spooky Swamp sub-level, Sheila must kick bombs to defeat the boss Sleepy Head.",
+						"image_url": "",
+						"question": "In 'Spooky Swamp', Sheila helps a character named Sleepy Head by doing what?",
+						"wrong": [
+							"Bringing him tea",
+							"Waking him up",
+							"Building him a bed"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_sheila_the_kangaroo",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Sheila the Kangaroo",
+				"lore_desc": "A mountain-dwelling kangaroo with a strong Australian accent and a powerful kick.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Kangaroo",
+					"Australia"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Penguin",
+						"difficulty": "Easy",
+						"explanation": "Sgt. Byrd is a rare example of a flight-capable penguin, though his origins are magical.",
+						"image_url": "https://skillcheckgame.com/assets/images/sgt_byrd.webp",
+						"question": "What kind of bird is Sgt. Byrd?",
+						"wrong": [
+							"Eagle",
+							"Sparrow",
+							"Ostrich"
+						]
+					},
+					{
+						"correct": "Rocket Launchers",
+						"difficulty": "Easy",
+						"explanation": "He has rocket launchers mounted on his shoulders (or wings) to blast Rhynocs.",
+						"image_url": "https://skillcheckgame.com/assets/images/sgt_byrd.webp",
+						"question": "What weapon does Sgt. Byrd use to attack enemies from the air?",
+						"wrong": [
+							"Machine Guns",
+							"Laser Beams",
+							"Egg Bombs"
+						]
+					},
+					{
+						"correct": "Midday Gardens",
+						"difficulty": "Easy",
+						"explanation": "Sgt. Byrd is unlocked in the second home world, Midday Gardens.",
+						"image_url": "https://skillcheckgame.com/assets/images/sgt_byrd.webp",
+						"question": "Which home world contains the portal to Sgt. Byrd's Base?",
+						"wrong": [
+							"Sunrise Spring",
+							"Evening Lake",
+							"Midnight Mountain"
+						]
+					},
+					{
+						"correct": "Fly",
+						"difficulty": "Easy",
+						"explanation": "Sgt. Byrd's primary gameplay mechanic is his ability to fly anywhere in a level.",
+						"image_url": "",
+						"question": "Unlike most penguins, what can Sgt. Byrd do indefinitely?",
+						"wrong": [
+							"Sing",
+							"Breath Fire",
+							"Swim in Lava"
+						]
+					},
+					{
+						"correct": "Sergeant",
+						"difficulty": "Easy",
+						"explanation": "His name is Sgt. (Sergeant) James Byrd.",
+						"image_url": "",
+						"question": "What is the military rank of this character?",
+						"wrong": [
+							"Captain",
+							"Major",
+							"General"
+						]
+					},
+					{
+						"correct": "Hummingbirds",
+						"difficulty": "Medium",
+						"explanation": "He was raised by hummingbirds, which is the humorous explanation for why he can fly.",
+						"image_url": "",
+						"question": "Sgt. Byrd's backstory claims he was raised by which other species of bird?",
+						"wrong": [
+							"Dragons",
+							"Eagles",
+							"Parrots"
+						]
+					},
+					{
+						"correct": "Bombs",
+						"difficulty": "Medium",
+						"explanation": "He can carry bombs with his feet to drop them on targets below him.",
+						"image_url": "",
+						"question": "What object can Sgt. Byrd pick up and drop to activate switches or destroy chests?",
+						"wrong": [
+							"Rocks",
+							"Gems",
+							"Eggs"
+						]
+					},
+					{
+						"correct": "Firework rocks",
+						"difficulty": "Medium",
+						"explanation": "Sgt. Byrd flies overhead and drops volcanic rocks that Spyro can spit back at the boss.",
+						"image_url": "",
+						"question": "In the boss fight against Spike, what does Sgt. Byrd drop for Spyro to use?",
+						"wrong": [
+							"Health",
+							"Shields",
+							"Arrows"
+						]
+					},
+					{
+						"correct": "Sgt. Byrd's Base",
+						"difficulty": "Medium",
+						"explanation": "His introductory level is titled Sgt. Byrd's Base, where he must rescue hummingbirds.",
+						"image_url": "",
+						"question": "What is the name of Sgt. Byrd's own level in the Midday Gardens?",
+						"wrong": [
+							"Frozen Altars",
+							"Hummingbird Hill",
+							"Penguin Outpost"
+						]
+					},
+					{
+						"correct": "Enchanted Towers",
+						"difficulty": "Medium",
+						"explanation": "In Enchanted Towers, Sgt. Byrd has a significant role helping Spyro navigate the high towers.",
+						"image_url": "",
+						"question": "Which of these levels features a sub-level where Sgt. Byrd must fly through a gauntlet of cat-wizards?",
+						"wrong": [
+							"Icy Peak",
+							"Molten Crater",
+							"Spooky Swamp"
+						]
+					},
+					{
+						"correct": "James Byrd",
+						"difficulty": "Hard",
+						"explanation": "His full name is Sgt. James Byrd, as mentioned in various game manuals and dialogue.",
+						"image_url": "",
+						"question": "What is the full name of Sgt. Byrd?",
+						"wrong": [
+							"Kevin Byrd",
+							"William Byrd",
+							"Arthur Byrd"
+						]
+					},
+					{
+						"correct": "Dropping bombs on totems",
+						"difficulty": "Hard",
+						"explanation": "He helps clear the path by dropping bombs on mechanical totems that block the way.",
+						"image_url": "",
+						"question": "In the level 'Bentley's Outpost', Sgt. Byrd helps Spyro by doing what?",
+						"wrong": [
+							"Flying him over a gap",
+							"Shooting down planes",
+							"Providing a shield"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "His standard attack fires two rockets simultaneously, one from each side.",
+						"image_url": "",
+						"question": "How many rockets can Sgt. Byrd fire at once with his upgrade?",
+						"wrong": [
+							"One",
+							"Four",
+							"A continuous stream"
+						]
+					},
+					{
+						"correct": "Fairies",
+						"difficulty": "Hard",
+						"explanation": "He has a mini-game where he must rescue fairies captured by cat-wizards.",
+						"image_url": "",
+						"question": "In the level 'Charmed Ridge', Sgt. Byrd is tasked with rescuing who from the towers?",
+						"wrong": [
+							"Hummingbirds",
+							"Dragons",
+							"Rabbits"
+						]
+					},
+					{
+						"correct": "Spyro (after paying Moneybags)",
+						"difficulty": "Hard",
+						"explanation": "Like all the allies, Sgt. Byrd is technically bought from Moneybags before he joins the team.",
+						"image_url": "",
+						"question": "Which character 'recruits' Sgt. Byrd to join Spyro's cause initially?",
+						"wrong": [
+							"Hunter",
+							"The Professor",
+							"Bianca"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_sgt._byrd",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Sgt. Byrd",
+				"lore_desc": "A militaristic flying penguin who was raised by hummingbirds and carries a rocket launcher.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Penguin",
+					"Soldier"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Yeti",
+						"difficulty": "Easy",
+						"explanation": "Bentley is a yeti, though he is much more polite than you would expect.",
+						"image_url": "https://skillcheckgame.com/assets/images/bentley_the_yeti.webp",
+						"question": "What type of creature is Bentley?",
+						"wrong": [
+							"Gorilla",
+							"Bear",
+							"Troll"
+						]
+					},
+					{
+						"correct": "A large ice club",
+						"difficulty": "Easy",
+						"explanation": "Bentley carries a massive club made of ice which he uses to smash Rhynocs and obstacles.",
+						"image_url": "https://skillcheckgame.com/assets/images/bentley_the_yeti.webp",
+						"question": "What does Bentley use as his primary weapon?",
+						"wrong": [
+							"His fists",
+							"A sword",
+							"A snowball cannon"
+						]
+					},
+					{
+						"correct": "Evening Lake",
+						"difficulty": "Easy",
+						"explanation": "Bentley is the third ally, found in the Evening Lake home world.",
+						"image_url": "https://skillcheckgame.com/assets/images/bentley_the_yeti.webp",
+						"question": "In which home world is Bentley first encountered and unlocked?",
+						"wrong": [
+							"Sunrise Spring",
+							"Midday Gardens",
+							"Midnight Mountain"
+						]
+					},
+					{
+						"correct": "Very sophisticated and polite",
+						"difficulty": "Easy",
+						"explanation": "Bentley is known for his large vocabulary and incredibly formal way of speaking.",
+						"image_url": "",
+						"question": "Despite his hulking appearance, how does Bentley usually speak?",
+						"wrong": [
+							"He only grunts",
+							"With a thick pirate accent",
+							"He whispers everything"
+						]
+					},
+					{
+						"correct": "Bartholomew",
+						"difficulty": "Easy",
+						"explanation": "Bartholomew is Bentley's brother who appears in several levels, often giving Spyro tasks.",
+						"image_url": "",
+						"question": "Who is Bentley's younger, smaller brother that often needs help?",
+						"wrong": [
+							"Barnaby",
+							"Benjamin",
+							"Boris"
+						]
+					},
+					{
+						"correct": "Spinning his club to deflect them",
+						"difficulty": "Medium",
+						"explanation": "Bentley can spin his ice club like a propeller to deflect incoming attacks.",
+						"image_url": "",
+						"question": "What is Bentley's unique ability for dealing with projectiles like fireballs?",
+						"wrong": [
+							"Eating them",
+							"Ducking under them",
+							"A magic shield"
+						]
+					},
+					{
+						"correct": "Bentley's Outpost",
+						"difficulty": "Medium",
+						"explanation": "Bentley's Outpost is a snow-themed level where he uses his strength to push blocks and clear paths.",
+						"image_url": "",
+						"question": "What is the name of Bentley's home level in Evening Lake?",
+						"wrong": [
+							"Yeti Peaks",
+							"Frozen Altars",
+							"Icy Peak"
+						]
+					},
+					{
+						"correct": "Boxing",
+						"difficulty": "Medium",
+						"explanation": "One of the most famous mini-games in the game is the first-person boxing match featuring Bentley.",
+						"image_url": "",
+						"question": "In the level 'Frozen Altars', what mini-game does Bentley participate in against another yeti?",
+						"wrong": [
+							"Wrestling",
+							"Hockey",
+							"Arm Wrestling"
+						]
+					},
+					{
+						"correct": "He drops missiles/bombs",
+						"difficulty": "Medium",
+						"explanation": "Bentley helps during the Scorch fight by providing explosive projectiles for Spyro to use.",
+						"image_url": "",
+						"question": "During the Scorch boss fight, what does Bentley provide to help Spyro?",
+						"wrong": [
+							"He blocks attacks",
+							"He gives health",
+							"He opens a door"
+						]
+					},
+					{
+						"correct": "Push them or smash them",
+						"difficulty": "Medium",
+						"explanation": "Bentley's strength allows him to push heavy blocks and smash boulders that block Spyro's path.",
+						"image_url": "",
+						"question": "What can Bentley do to large boulders that Spyro cannot move?",
+						"wrong": [
+							"Eat them",
+							"Melt them",
+							"Jump over them"
+						]
+					},
+					{
+						"correct": "A young dragon of diminutive stature",
+						"difficulty": "Hard",
+						"explanation": "True to his character, Bentley uses overly complex language to describe Spyro's small size.",
+						"image_url": "",
+						"question": "What does Bentley call Spyro when they first meet?",
+						"wrong": [
+							"Purple guy",
+							"Spyro the Brave",
+							"Lizard"
+						]
+					},
+					{
+						"correct": "Whacking moles",
+						"difficulty": "Hard",
+						"explanation": "Bentley plays a Whack-a-Mole style game in Crystal Islands to help his brother.",
+						"image_url": "",
+						"question": "In the level 'Crystal Islands', Bentley has to help Bartholomew by doing what?",
+						"wrong": [
+							"Finding his hat",
+							"Building a bridge",
+							"Protecting him from birds"
+						]
+					},
+					{
+						"correct": "Air Smash",
+						"difficulty": "Hard",
+						"explanation": "Bentley can bring his club down hard while in the air to deal massive damage.",
+						"image_url": "",
+						"question": "Which of these is a move Bentley can perform while jumping?",
+						"wrong": [
+							"Double Jump",
+							"Glide",
+							"Spin Flight"
+						]
+					},
+					{
+						"correct": "Explosives or special powers",
+						"difficulty": "Hard",
+						"explanation": "Bentley's standard club hit is strong enough to break metal 'Strong Chests' that Spyro needs fire or charges for.",
+						"image_url": "",
+						"question": "Bentley is the only character who can open 'Strong Chests' without what?",
+						"wrong": [
+							"Gems",
+							"Keys",
+							"A headbash"
+						]
+					},
+					{
+						"correct": "He refused to use his strength for her",
+						"difficulty": "Hard",
+						"explanation": "The Sorceress wanted Bentley to lead her Rhynoc army, but his polite and gentle nature led him to refuse.",
+						"image_url": "",
+						"question": "Why was Bentley imprisoned by the Sorceress initially?",
+						"wrong": [
+							"He stole her gems",
+							"He tried to eat her",
+							"He was too loud"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_bentley_the_yeti",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Bentley the Yeti",
+				"lore_desc": "A sophisticated and highly intelligent yeti who carries a large ice club.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Yeti",
+					"Strength"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Monkey",
+						"difficulty": "Easy",
+						"explanation": "Agent 9 is a lab monkey equipped with advanced technology.",
+						"image_url": "https://skillcheckgame.com/assets/images/agent_9.webp",
+						"question": "What kind of animal is Agent 9?",
+						"wrong": [
+							"Chimpanzee",
+							"Lemur",
+							"Baboon"
+						]
+					},
+					{
+						"correct": "Laser Gun",
+						"difficulty": "Easy",
+						"explanation": "Agent 9 uses a laser blaster for fast-paced shooting combat.",
+						"image_url": "https://skillcheckgame.com/assets/images/agent_9.webp",
+						"question": "What is Agent 9's primary weapon?",
+						"wrong": [
+							"Rocket Launcher",
+							"Sword",
+							"Banana Peels"
+						]
+					},
+					{
+						"correct": "Midnight Mountain",
+						"difficulty": "Easy",
+						"explanation": "Agent 9 is the final ally unlocked, found in the fourth home world, Midnight Mountain.",
+						"image_url": "https://skillcheckgame.com/assets/images/agent_9.webp",
+						"question": "Which home world is Agent 9's portal located in?",
+						"wrong": [
+							"Sunrise Spring",
+							"Midday Gardens",
+							"Evening Lake"
+						]
+					},
+					{
+						"correct": "He has a first-person aiming mode",
+						"difficulty": "Easy",
+						"explanation": "Agent 9's levels often transition into a first-person shooter style of play.",
+						"image_url": "",
+						"question": "What is unique about Agent 9's gameplay compared to the other characters?",
+						"wrong": [
+							"He can fly",
+							"He cannot jump",
+							"He collects fruit instead of gems"
+						]
+					},
+					{
+						"correct": "The Professor",
+						"difficulty": "Easy",
+						"explanation": "Agent 9 was the Professor's lab assistant before being captured.",
+						"image_url": "",
+						"question": "Who is Agent 9's employer and mentor?",
+						"wrong": [
+							"Spyro",
+							"Hunter",
+							"Moneybags"
+						]
+					},
+					{
+						"correct": "Frantic and hyperactive",
+						"difficulty": "Medium",
+						"explanation": "Agent 9 is portrayed as very energetic, borderline unstable, and eager to blow things up.",
+						"image_url": "",
+						"question": "What is Agent 9's personality like in his dialogue?",
+						"wrong": [
+							"Slow and sleepy",
+							"Extremely depressed",
+							"Silent"
+						]
+					},
+					{
+						"correct": "Plasma Bombs",
+						"difficulty": "Medium",
+						"explanation": "He has a secondary attack where he throws explosive plasma bombs.",
+						"image_url": "",
+						"question": "What does Agent 9 throw to destroy armored enemies or distant targets?",
+						"wrong": [
+							"Coconuts",
+							"Dynamite",
+							"Rocks"
+						]
+					},
+					{
+						"correct": "Rhynocs in space suits",
+						"difficulty": "Medium",
+						"explanation": "He clears out his laboratory, which has been overrun by Rhynocs wearing space gear.",
+						"image_url": "",
+						"question": "In his home level, what are the primary enemies Agent 9 is fighting?",
+						"wrong": [
+							"Aliens",
+							"Robots",
+							"Dinosaurs"
+						]
+					},
+					{
+						"correct": "He provides Spyro with a UFO",
+						"difficulty": "Medium",
+						"explanation": "Agent 9 provides the high-tech UFO that Spyro uses to battle the Sorceress in the lava.",
+						"image_url": "",
+						"question": "During the final battle with the Sorceress, what role does Agent 9 play?",
+						"wrong": [
+							"He shoots her with his laser",
+							"He plants bombs",
+							"He heals Spyro"
+						]
+					},
+					{
+						"correct": "Agent 9's Lab",
+						"difficulty": "Medium",
+						"explanation": "His introductory level is simply called Agent 9's Lab.",
+						"image_url": "",
+						"question": "What is the name of Agent 9's home level?",
+						"wrong": [
+							"Monkey Mountain",
+							"Space Station Alpha",
+							"The Professor's Den"
+						]
+					},
+					{
+						"correct": "Fireworks Factory",
+						"difficulty": "Hard",
+						"explanation": "In Fireworks Factory, Agent 9 has a FPS-style segment where he clears out ninja Rhynocs.",
+						"image_url": "",
+						"question": "Which level features a mini-game where Agent 9 must shoot targets in a rail-shooter style?",
+						"wrong": [
+							"Sunny Villa",
+							"Lost Fleet",
+							"Crystal Islands"
+						]
+					},
+					{
+						"correct": "He never runs out (infinite ammo)",
+						"difficulty": "Hard",
+						"explanation": "Agent 9's standard laser has infinite ammo, though his special bombs are limited.",
+						"image_url": "",
+						"question": "What happens if Agent 9 runs out of laser ammunition in his FPS segments?",
+						"wrong": [
+							"He has to punch",
+							"He loses health",
+							"He finds more in boxes"
+						]
+					},
+					{
+						"correct": "A western-style shootout",
+						"difficulty": "Hard",
+						"explanation": "Agent 9 participates in a classic 'Wild West' shootout mini-game in Dino Mines.",
+						"image_url": "",
+						"question": "In the level 'Dino Mines', what kind of themed challenge does Agent 9 have?",
+						"wrong": [
+							"An underwater race",
+							"A stealth mission",
+							"A puzzle challenge"
+						]
+					},
+					{
+						"correct": "None (He is the only one mentioned)",
+						"difficulty": "Hard",
+						"explanation": "He is 'Agent 9', implying there were others, but he is the only one the Professor works with in the game.",
+						"image_url": "",
+						"question": "What is the name of the 'Professor's' assistant that Agent 9 was meant to replace?",
+						"wrong": [
+							"Agent 8",
+							"Monkey Joe",
+							"Sparky"
+						]
+					},
+					{
+						"correct": "Yellow and white",
+						"difficulty": "Hard",
+						"explanation": "Agent 9 wears a yellow and white suit that looks like it belongs in a sci-fi laboratory.",
+						"image_url": "",
+						"question": "What color is Agent 9's space suit?",
+						"wrong": [
+							"Red and blue",
+							"Green and grey",
+							"Silver"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_agent_9",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Agent 9",
+				"lore_desc": "A frantic, laser-wielding space monkey who was the Professor's lab assistant.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Monkey",
+					"Space"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Bear",
+						"difficulty": "Easy",
+						"explanation": "Moneybags is a large, upper-class bear with a taste for fine things.",
+						"image_url": "https://skillcheckgame.com/assets/images/moneybags.webp",
+						"question": "What kind of animal is Moneybags?",
+						"wrong": [
+							"Panda",
+							"Badger",
+							"Raccoon"
+						]
+					},
+					{
+						"correct": "Gems",
+						"difficulty": "Easy",
+						"explanation": "Moneybags is famously greedy and only accepts gems as payment.",
+						"image_url": "https://skillcheckgame.com/assets/images/moneybags.webp",
+						"question": "What does Moneybags demand from Spyro in exchange for opening paths or releasing friends?",
+						"wrong": [
+							"Dragon Eggs",
+							"Talismans",
+							"Orbs"
+						]
+					},
+					{
+						"correct": "A monocle",
+						"difficulty": "Easy",
+						"explanation": "His monocle and tuxedo-style vest emphasize his 'aristocratic' personality.",
+						"image_url": "https://skillcheckgame.com/assets/images/moneybags.webp",
+						"question": "What accessory does Moneybags wear on his eye?",
+						"wrong": [
+							"Sunglasses",
+							"An eyepatch",
+							"Goggles"
+						]
+					},
+					{
+						"correct": "Greedy and condescending",
+						"difficulty": "Easy",
+						"explanation": "Moneybags views Spyro mostly as a source of income, often making snide remarks about his gem count.",
+						"image_url": "",
+						"question": "What is Moneybags' general attitude toward Spyro?",
+						"wrong": [
+							"Helpful and kind",
+							"Terrified",
+							"Aggressive and violent"
+						]
+					},
+					{
+						"correct": "Midnight Mountain",
+						"difficulty": "Easy",
+						"explanation": "In the final home world, Spyro can finally attack Moneybags and force him to drop all the gems he's taken.",
+						"image_url": "",
+						"question": "In which home world does Spyro finally get the chance to chase Moneybags and get his gems back?",
+						"wrong": [
+							"Sunrise Spring",
+							"Midday Gardens",
+							"Evening Lake"
+						]
+					},
+					{
+						"correct": "Sheila the Kangaroo's freedom",
+						"difficulty": "Medium",
+						"explanation": "Moneybags starts by charging Spyro to release Sheila from her cage.",
+						"image_url": "",
+						"question": "What is the very first thing Moneybags sells to Spyro in Sunrise Spring?",
+						"wrong": [
+							"A bridge crossing",
+							"The Headbash ability",
+							"A Dragon Egg"
+						]
+					},
+					{
+						"correct": "Headbash",
+						"difficulty": "Medium",
+						"explanation": "Moneybags 'remembers' how to do the Headbash and sells the knowledge to Spyro.",
+						"image_url": "",
+						"question": "What move does Moneybags teach Spyro in Midday Gardens for a fee?",
+						"wrong": [
+							"Double Jump",
+							"Swim Underwater",
+							"Climb"
+						]
+					},
+					{
+						"correct": "Retire in style",
+						"difficulty": "Medium",
+						"explanation": "Moneybags often mentions his plans for a luxurious retirement or buying expensive estates.",
+						"image_url": "",
+						"question": "What does Moneybags claim he will do with the gems he collects from Spyro?",
+						"wrong": [
+							"Give them to the Sorceress",
+							"Buy more eggs",
+							"Build a school"
+						]
+					},
+					{
+						"correct": "A gondola/lift",
+						"difficulty": "Medium",
+						"explanation": "He holds the gondola service hostage until Spyro pays up.",
+						"image_url": "",
+						"question": "In the level 'Icy Peak', what does Moneybags charge Spyro to use?",
+						"wrong": [
+							"Ice skates",
+							"A heater",
+							"A bridge"
+						]
+					},
+					{
+						"correct": "A 'small' donation of gems",
+						"difficulty": "Medium",
+						"explanation": "True to form, even in the final world, he charges for access to specific level portals.",
+						"image_url": "",
+						"question": "What is the 'fee' Moneybags charges to let Spyro into the Tomb Towers area of Midnight Mountain?",
+						"wrong": [
+							"An egg",
+							"A race",
+							"Nothing (it's a trap)"
+						]
+					},
+					{
+						"correct": "He is left penniless and runs away",
+						"difficulty": "Hard",
+						"explanation": "After losing all his gems to Spyro, Moneybags is seen fleeing the Forgotten Worlds.",
+						"image_url": "",
+						"question": "In the ending sequence, what happens to Moneybags after Spyro chases him?",
+						"wrong": [
+							"He becomes king",
+							"He joins the Sorceress",
+							"He goes to jail"
+						]
+					},
+					{
+						"correct": "He doesn't (He only sells to Spyro)",
+						"difficulty": "Hard",
+						"explanation": "Moneybags is purely a neutral capitalist; he doesn't care about the Sorceress's side, only the gems.",
+						"image_url": "",
+						"question": "Which character does Moneybags attempt to sell back to the Sorceress before Spyro stops him?",
+						"wrong": [
+							"Hunter",
+							"Bianca",
+							"The baby dragons"
+						]
+					},
+					{
+						"correct": "1000",
+						"difficulty": "Hard",
+						"explanation": "His highest single fee is 1000 gems, usually for unlocking the later allies like Agent 9.",
+						"image_url": "",
+						"question": "What is the maximum number of gems Moneybags can charge for a single service in this game?",
+						"wrong": [
+							"500",
+							"2000",
+							"5000"
+						]
+					},
+					{
+						"correct": "Spooky Swamp",
+						"difficulty": "Hard",
+						"explanation": "In Spooky Swamp, he blocks the path to the end of the level until he receives his 'toll'.",
+						"image_url": "",
+						"question": "In which level does Moneybags charge Spyro to open a 'spooky' door?",
+						"wrong": [
+							"Haunted Tomb",
+							"Midnight Mountain",
+							"Bamboo Terrace"
+						]
+					},
+					{
+						"correct": "A green vest and white shirt",
+						"difficulty": "Hard",
+						"explanation": "Moneybags wears a distinctive green vest over a white collared shirt, giving him a posh look.",
+						"image_url": "",
+						"question": "What kind of suit does Moneybags wear?",
+						"wrong": [
+							"A black tuxedo",
+							"A red robe",
+							"No clothes at all"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_moneybags",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Moneybags",
+				"lore_desc": "An aristocratic, gem-obsessed bear who charges Spyro for every service and bridge crossing.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Bear",
+					"Greedy"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Recover stolen eggs",
+						"difficulty": "Easy",
+						"explanation": "The entire plot revolves around rescuing the eggs stolen by the Rhynocs.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_eggs.webp",
+						"question": "What is the primary objective of Spyro in 'Year of the Dragon'?",
+						"wrong": [
+							"Collect 1000 gems",
+							"Find a magic sword",
+							"Save a princess"
+						]
+					},
+					{
+						"correct": "A baby dragon hatches",
+						"difficulty": "Easy",
+						"explanation": "Each egg hatches into a unique baby dragon who performs a short animation or dance.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_eggs.webp",
+						"question": "What happens immediately after Spyro collects an egg?",
+						"wrong": [
+							"Spyro gains a new power",
+							"The egg turns into gems",
+							"A Rhynoc appears"
+						]
+					},
+					{
+						"correct": "White with colored spots",
+						"difficulty": "Easy",
+						"explanation": "Dragon eggs are white with distinctive colored spots, usually green or blue.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_eggs.webp",
+						"question": "What do the shells of the dragon eggs look like?",
+						"wrong": [
+							"Solid gold",
+							"Pure black",
+							"Rainbow striped"
+						]
+					},
+					{
+						"correct": "The Rhynocs and Bianca",
+						"difficulty": "Easy",
+						"explanation": "Bianca led the Rhynoc army into the Dragon Realms to steal the eggs while the dragons were sleeping.",
+						"image_url": "",
+						"question": "Who stolen the eggs from the Dragon Realms at the start of the game?",
+						"wrong": [
+							"Gnasty Gnorc",
+							"Ripto",
+							"The Professor"
+						]
+					},
+					{
+						"correct": "150",
+						"difficulty": "Easy",
+						"explanation": "There are exactly 150 eggs scattered across the four home worlds and their levels.",
+						"image_url": "",
+						"question": "How many dragon eggs are there in total to find for full completion?",
+						"wrong": [
+							"100",
+							"80",
+							"200"
+						]
+					},
+					{
+						"correct": "They vanish back to the Dragon Realms",
+						"difficulty": "Medium",
+						"explanation": "After hatching and performing a cute move, the babies are safely transported back home.",
+						"image_url": "",
+						"question": "Where do the baby dragons go after they hatch from the eggs?",
+						"wrong": [
+							"They follow Spyro",
+							"They stay in the level",
+							"They go to the Sorceress"
+						]
+					},
+					{
+						"correct": "Egg Thieves",
+						"difficulty": "Medium",
+						"explanation": "The blue or red cloaked Egg Thieves return from the previous games, taunting Spyro as they run with an egg.",
+						"image_url": "",
+						"question": "Which character is responsible for carrying many of the eggs and must be chased down by Spyro?",
+						"wrong": [
+							"Moneybags",
+							"Hunter",
+							"The Sorceress"
+						]
+					},
+					{
+						"correct": "The Atlas",
+						"difficulty": "Medium",
+						"explanation": "The Atlas tracks all your collected gems and the names of every baby dragon hatched.",
+						"image_url": "",
+						"question": "What is the name of the menu where you can see all the dragons you've rescued?",
+						"wrong": [
+							"The Dragon Book",
+							"The Egg List",
+							"The Progress Map"
+						]
+					},
+					{
+						"correct": "Complete the Time Trial and a Race",
+						"difficulty": "Medium",
+						"explanation": "Every Speedway offers eggs for completing the main course and for winning a race or specific challenge.",
+						"image_url": "",
+						"question": "In the 'Speedway' levels, what must you do to earn one of the two eggs?",
+						"wrong": [
+							"Find it in a box",
+							"Buy it from Hunter",
+							"Defeat a boss"
+						]
+					},
+					{
+						"correct": "A specific number of collected eggs",
+						"difficulty": "Medium",
+						"explanation": "You need 100 eggs to unlock the portal to the final confrontation with the Sorceress.",
+						"image_url": "",
+						"question": "What is the requirement to face the Sorceress for the first time?",
+						"wrong": [
+							"All 150 eggs",
+							"10000 gems",
+							"Defeating all other allies"
+						]
+					},
+					{
+						"correct": "Ami",
+						"difficulty": "Hard",
+						"explanation": "Ami is one of the many baby dragons; others include names like 'Liam', 'Isabelle', or 'Bruce'.",
+						"image_url": "",
+						"question": "Which of these is the name of a baby dragon hatched in the game?",
+						"wrong": [
+							"Gnasty",
+							"Ripto",
+							"Malefor"
+						]
+					},
+					{
+						"correct": "The dragon race will die out",
+						"difficulty": "Hard",
+						"explanation": "The eggs are the only new generation of dragons; without them, the species has no future.",
+						"image_url": "",
+						"question": "What happens to the 'Year of the Dragon' if the eggs are not returned?",
+						"wrong": [
+							"The sun will stop shining",
+							"The dragons will turn to stone",
+							"Magic will disappear forever"
+						]
+					},
+					{
+						"correct": "Twin Dragons",
+						"difficulty": "Hard",
+						"explanation": "Spyro must fight two Chinese-style dragons in a special mini-game to earn an egg.",
+						"image_url": "",
+						"question": "In the level 'Fireworks Factory', one egg is earned by defeating what twin bosses?",
+						"wrong": [
+							"The Ninja Brothers",
+							"The Rocket Rhynocs",
+							"The Fire Lizards"
+						]
+					},
+					{
+						"correct": "None (This mechanic isn't in the game)",
+						"difficulty": "Hard",
+						"explanation": "Eggs are always static or carried by thieves; there is no 'rolling egg' protection mission.",
+						"image_url": "",
+						"question": "Which level requires Spyro to hatch an egg by protecting it while it rolls down a path?",
+						"wrong": [
+							"Sunny Villa",
+							"Molten Crater",
+							"Bamboo Terrace"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Hard",
+						"explanation": "While most thieves are blue or red, the one in Midnight Mountain is a distinct yellow color.",
+						"image_url": "",
+						"question": "What is the color of the egg thief in the Midnight Mountain home world?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Green"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_dragon_eggs",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Dragon Eggs",
+				"lore_desc": "The 150 stolen eggs that Spyro must recover to save the dragon race from extinction.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Collectible",
+					"Item",
+					"Magic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "First",
+						"difficulty": "Easy",
+						"explanation": "Sunrise Spring is the introductory home world where Spyro begins his adventure.",
+						"image_url": "https://skillcheckgame.com/assets/images/sunrise_spring.webp",
+						"question": "Is Sunrise Spring the first, second, or third home world Spyro visits?",
+						"wrong": [
+							"Second",
+							"Third",
+							"Final"
+						]
+					},
+					{
+						"correct": "Morning",
+						"difficulty": "Easy",
+						"explanation": "The four home worlds are named after different times of day, starting with Sunrise.",
+						"image_url": "https://skillcheckgame.com/assets/images/sunrise_spring.webp",
+						"question": "Which time of day is represented in the name of this first home world?",
+						"wrong": [
+							"Noon",
+							"Evening",
+							"Midnight"
+						]
+					},
+					{
+						"correct": "Sheila the Kangaroo",
+						"difficulty": "Easy",
+						"explanation": "Sheila is the only ally whose dedicated portal is found in Sunrise Spring.",
+						"image_url": "https://skillcheckgame.com/assets/images/sunrise_spring.webp",
+						"question": "Which ally's portal is located in the Sunrise Spring home world?",
+						"wrong": [
+							"Sgt. Byrd",
+							"Bentley",
+							"Agent 9"
+						]
+					},
+					{
+						"correct": "Sunny Villa",
+						"difficulty": "Easy",
+						"explanation": "Sunny Villa is the very first level most players enter, known for its skateboarding and gladiator rhynocs.",
+						"image_url": "",
+						"question": "What is the name of the first level in Sunrise Spring, featuring a Roman villa theme?",
+						"wrong": [
+							"Cloud Spires",
+							"Molten Crater",
+							"Seashell Shore"
+						]
+					},
+					{
+						"correct": "A Hot Air Balloon",
+						"difficulty": "Easy",
+						"explanation": "A large balloon takes Spyro from Sunrise Spring to Midday Gardens.",
+						"image_url": "",
+						"question": "What method of transportation does Spyro use to leave Sunrise Spring for the next world?",
+						"wrong": [
+							"A Whirlwind",
+							"A Rocket",
+							"A Boat"
+						]
+					},
+					{
+						"correct": "Buzz",
+						"difficulty": "Medium",
+						"explanation": "Buzz is the guardian boss of the first home world.",
+						"image_url": "",
+						"question": "Which boss must be defeated to fully 'complete' the Sunrise Spring world and move on?",
+						"wrong": [
+							"Spike",
+							"Scorch",
+							"Ripto"
+						]
+					},
+					{
+						"correct": "Mushroom Speedway",
+						"difficulty": "Medium",
+						"explanation": "Mushroom Speedway is the first flying challenge level, featuring oversized fungi.",
+						"image_url": "",
+						"question": "What is the name of the Speedway level found in Sunrise Spring?",
+						"wrong": [
+							"Country Speedway",
+							"Honey Speedway",
+							"Harbor Speedway"
+						]
+					},
+					{
+						"correct": "Molten Crater",
+						"difficulty": "Medium",
+						"explanation": "Molten Crater features lava-filled tunnels and tikis.",
+						"image_url": "",
+						"question": "Which of these levels in Sunrise Spring is predominantly set inside a volcano?",
+						"wrong": [
+							"Cloud Spires",
+							"Seashell Shore",
+							"Sunny Villa"
+						]
+					},
+					{
+						"correct": "Behind a waterfall",
+						"difficulty": "Medium",
+						"explanation": "To find Sheila's level, Spyro must walk through a waterfall in the home world's main lake.",
+						"image_url": "",
+						"question": "Where is the portal to Sheila's Alp hidden in Sunrise Spring?",
+						"wrong": [
+							"Inside a cave",
+							"On top of a tower",
+							"Under a bridge"
+						]
+					},
+					{
+						"correct": "Cloud Spires",
+						"difficulty": "Medium",
+						"explanation": "Cloud Spires is a high-altitude level where you help restore the sun to the world.",
+						"image_url": "",
+						"question": "What is the name of the level in Sunrise Spring that features flying machines and sun seeds?",
+						"wrong": [
+							"Sunny Villa",
+							"Molten Crater",
+							"Seashell Shore"
+						]
+					},
+					{
+						"correct": "Hunter",
+						"difficulty": "Hard",
+						"explanation": "Hunter meets Spyro at the very start of the world to explain the situation.",
+						"image_url": "",
+						"question": "Who is the NPC in Sunrise Spring that tells Spyro about the stolen eggs?",
+						"wrong": [
+							"Bianca",
+							"The Professor",
+							"Moneybags"
+						]
+					},
+					{
+						"correct": "Seals",
+						"difficulty": "Hard",
+						"explanation": "Seashell Shore is home to a group of seals who are being bullied by Rhynocs.",
+						"image_url": "",
+						"question": "What kind of creatures inhabit the 'Seashell Shore' level in Sunrise Spring?",
+						"wrong": [
+							"Turtles",
+							"Crabs",
+							"Fish"
+						]
+					},
+					{
+						"correct": "6",
+						"difficulty": "Hard",
+						"explanation": "There is Sunny Villa, Cloud Spires, Molten Crater, Seashell Shore, Mushroom Speedway, and Buzz's Dungeon.",
+						"image_url": "",
+						"question": "How many levels (including the Speedway and boss) are accessible from Sunrise Spring?",
+						"wrong": [
+							"5",
+							"4",
+							"7"
+						]
+					},
+					{
+						"correct": "Pinkish-orange",
+						"difficulty": "Hard",
+						"explanation": "To match the 'Sunrise' theme, the sky has a warm, early-morning orange and pink glow.",
+						"image_url": "",
+						"question": "What color is the sky in the Sunrise Spring home world?",
+						"wrong": [
+							"Deep blue",
+							"Bright yellow",
+							"Green"
+						]
+					},
+					{
+						"correct": "The Professor",
+						"difficulty": "Hard",
+						"explanation": "The Professor does not appear until later in the game, specifically in the Midday Gardens world.",
+						"image_url": "",
+						"question": "Which of these characters is NOT found in the Sunrise Spring home world?",
+						"wrong": [
+							"Zoe",
+							"Moneybags",
+							"Hunter"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_sunrise_spring",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Sunrise Spring",
+				"lore_desc": "The first home world in the Forgotten Worlds, characterized by its lush greenery and peaceful atmosphere.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Home World",
+					"First"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Midday Gardens",
+						"difficulty": "Easy",
+						"explanation": "Midday Gardens is the second of the four major hubs in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/midday_gardens.webp",
+						"question": "Which home world follows Sunrise Spring?",
+						"wrong": [
+							"Evening Lake",
+							"Midnight Mountain",
+							"Summer Forest"
+						]
+					},
+					{
+						"correct": "A lush, sunny garden",
+						"difficulty": "Easy",
+						"explanation": "Midday Gardens is filled with greenery, flowers, and bright daylight.",
+						"image_url": "https://skillcheckgame.com/assets/images/midday_gardens.webp",
+						"question": "What is the general aesthetic of the Midday Gardens hub world?",
+						"wrong": [
+							"A dark cave",
+							"An underwater city",
+							"A snowy mountain"
+						]
+					},
+					{
+						"correct": "Sgt. Byrd",
+						"difficulty": "Easy",
+						"explanation": "Sgt. Byrd's base is located within the Midday Gardens home world.",
+						"image_url": "https://skillcheckgame.com/assets/images/midday_gardens.webp",
+						"question": "Which ally penguin can be unlocked in Midday Gardens?",
+						"wrong": [
+							"Sheila",
+							"Bentley",
+							"Agent 9"
+						]
+					},
+					{
+						"correct": "Headbash",
+						"difficulty": "Easy",
+						"explanation": "For a small fee, Moneybags teaches Spyro the Headbash in the center of the gardens.",
+						"image_url": "",
+						"question": "What move does Moneybags teach you in this world?",
+						"wrong": [
+							"Swim Underwater",
+							"Climb",
+							"Double Jump"
+						]
+					},
+					{
+						"correct": "A Whirligig",
+						"difficulty": "Easy",
+						"explanation": "The Whirligig is the second main vehicle Spyro uses to travel between hubs.",
+						"image_url": "",
+						"question": "What transportation device takes you from Midday Gardens to Evening Lake?",
+						"wrong": [
+							"A Hot Air Balloon",
+							"A Submarine",
+							"A Rocket"
+						]
+					},
+					{
+						"correct": "Icy Peak",
+						"difficulty": "Medium",
+						"explanation": "Icy Peak is the snow level of the second world, famous for its skating challenges.",
+						"image_url": "",
+						"question": "Which level in Midday Gardens features a snowy mountain and a goat on ice skates?",
+						"wrong": [
+							"Enchanted Towers",
+							"Spooky Swamp",
+							"Bamboo Terrace"
+						]
+					},
+					{
+						"correct": "Spike",
+						"difficulty": "Medium",
+						"explanation": "Spike is the hulking beast that Spyro must defeat in the arena of this world.",
+						"image_url": "",
+						"question": "What is the name of the boss at the end of the Midday Gardens world?",
+						"wrong": [
+							"Buzz",
+							"Scorch",
+							"Gulp"
+						]
+					},
+					{
+						"correct": "Bamboo Terrace",
+						"difficulty": "Medium",
+						"explanation": "Bamboo Terrace is a beautiful level filled with pandas and fireworks.",
+						"image_url": "",
+						"question": "Which level in Midday Gardens has a distinct Chinese architecture and panda inhabitants?",
+						"wrong": [
+							"Sunny Villa",
+							"Crystal Islands",
+							"Dino Mines"
+						]
+					},
+					{
+						"correct": "A skeleton",
+						"difficulty": "Medium",
+						"explanation": "The skeleton NPCs in Enchanted Towers ask Spyro to find pieces of a statue.",
+						"image_url": "",
+						"question": "In the level 'Enchanted Towers', who is the main NPC you help build a statue?",
+						"wrong": [
+							"A wizard",
+							"A panda",
+							"A hummingbird"
+						]
+					},
+					{
+						"correct": "Country Speedway",
+						"difficulty": "Medium",
+						"explanation": "Country Speedway is the second flight level, themed after a farm.",
+						"image_url": "",
+						"question": "What is the name of the Speedway level in Midday Gardens?",
+						"wrong": [
+							"Mushroom Speedway",
+							"Honey Speedway",
+							"Harbor Speedway"
+						]
+					},
+					{
+						"correct": "The Professor",
+						"difficulty": "Hard",
+						"explanation": "The Professor appears near the Whirligig to help Spyro travel to the next world.",
+						"image_url": "",
+						"question": "Which of these characters makes their first appearance in Midday Gardens?",
+						"wrong": [
+							"Hunter",
+							"Bianca",
+							"Moneybags"
+						]
+					},
+					{
+						"correct": "A bear",
+						"difficulty": "Hard",
+						"explanation": "Sleepy Head is a large bear who serves as a mini-boss in Spooky Swamp.",
+						"image_url": "",
+						"question": "What kind of animal is the NPC 'Sleepy Head' in Spooky Swamp?",
+						"wrong": [
+							"A frog",
+							"A turtle",
+							"A crocodile"
+						]
+					},
+					{
+						"correct": "None (That was Cloud Spires in Sunrise Spring)",
+						"difficulty": "Hard",
+						"explanation": "Sun Seeds are specific to Cloud Spires in the first home world.",
+						"image_url": "",
+						"question": "Which level in this world features a challenge involving herding 'Sun Seeds'?",
+						"wrong": [
+							"Enchanted Towers",
+							"Icy Peak",
+							"Bamboo Terrace"
+						]
+					},
+					{
+						"correct": "700",
+						"difficulty": "Hard",
+						"explanation": "Moneybags demands 700 gems to release Sgt. Byrd from his cell.",
+						"image_url": "",
+						"question": "How many gems are required to pay Moneybags for Sgt. Byrd's freedom?",
+						"wrong": [
+							"500",
+							"1000",
+							"300"
+						]
+					},
+					{
+						"correct": "Li",
+						"difficulty": "Hard",
+						"explanation": "Li the Panda is the NPC at the start of the level who guides Spyro.",
+						"image_url": "",
+						"question": "What is the name of the panda who wants to light the giant firework in Bamboo Terrace?",
+						"wrong": [
+							"Po",
+							"Ling",
+							"Wei"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_midday_gardens",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Midday Gardens",
+				"lore_desc": "The second home world, a beautiful garden setting filled with flowers and topiary.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Home World",
+					"Second"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A giant lake you can swim in",
+						"difficulty": "Easy",
+						"explanation": "Evening Lake is a massive body of water where most level portals are located underwater.",
+						"image_url": "https://skillcheckgame.com/assets/images/evening_lake.webp",
+						"question": "What is the primary feature of the Evening Lake home world hub?",
+						"wrong": [
+							"A volcano",
+							"A dark forest",
+							"A desert"
+						]
+					},
+					{
+						"correct": "A Whale",
+						"difficulty": "Easy",
+						"explanation": "A friendly giant whale swims in the lake; Spyro can be 'eaten' by it to find a secret area.",
+						"image_url": "https://skillcheckgame.com/assets/images/evening_lake.webp",
+						"question": "What large animal is swimming in the center of Evening Lake and can be entered?",
+						"wrong": [
+							"A Shark",
+							"A Kraken",
+							"A Dolphin"
+						]
+					},
+					{
+						"correct": "Bentley the Yeti",
+						"difficulty": "Easy",
+						"explanation": "Bentley the Yeti is the third ally you release in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/evening_lake.webp",
+						"question": "Which ally is unlocked in the Evening Lake world?",
+						"wrong": [
+							"Sheila",
+							"Sgt. Byrd",
+							"Agent 9"
+						]
+					},
+					{
+						"correct": "Evening/Sunset",
+						"difficulty": "Easy",
+						"explanation": "The sky is a deep blue and purple, representing the transition into night.",
+						"image_url": "",
+						"question": "What time of day does this world represent?",
+						"wrong": [
+							"Morning",
+							"Noon",
+							"Midnight"
+						]
+					},
+					{
+						"correct": "Lost Fleet",
+						"difficulty": "Easy",
+						"explanation": "Lost Fleet features ghost ships and a very challenging skateboarding race.",
+						"image_url": "",
+						"question": "Which level in Evening Lake is famous for its pirate theme and skateboarding race?",
+						"wrong": [
+							"Frozen Altars",
+							"Charmed Ridge",
+							"Fireworks Factory"
+						]
+					},
+					{
+						"correct": "Scorch",
+						"difficulty": "Medium",
+						"explanation": "Scorch is a winged demon-like boss that Spyro fights in this world.",
+						"image_url": "",
+						"question": "What is the name of the boss at the end of the Evening Lake world?",
+						"wrong": [
+							"Buzz",
+							"Spike",
+							"The Sorceress"
+						]
+					},
+					{
+						"correct": "Haunted Tomb",
+						"difficulty": "Medium",
+						"explanation": "Haunted Tomb is an Egypt-inspired level filled with mummies and riddles.",
+						"image_url": "",
+						"question": "Which level in Evening Lake features an Egyptian theme and many puzzles?",
+						"wrong": [
+							"Lost Fleet",
+							"Frozen Altars",
+							"Charmed Ridge"
+						]
+					},
+					{
+						"correct": "Ice Breath",
+						"difficulty": "Medium",
+						"explanation": "For the duration of Frozen Altars, Spyro's fire is replaced with ice breath to freeze enemies into blocks.",
+						"image_url": "",
+						"question": "In the level 'Frozen Altars', what does Spyro's breath turn into?",
+						"wrong": [
+							"Bubble Breath",
+							"Electric Breath",
+							"Plasma"
+						]
+					},
+					{
+						"correct": "Honey Speedway",
+						"difficulty": "Medium",
+						"explanation": "Honey Speedway is a bee-themed flight level with honey-slicked tracks.",
+						"image_url": "",
+						"question": "What is the name of the Speedway level in Evening Lake?",
+						"wrong": [
+							"Mushroom Speedway",
+							"Country Speedway",
+							"Harbor Speedway"
+						]
+					},
+					{
+						"correct": "A Rocket",
+						"difficulty": "Medium",
+						"explanation": "The Rocket is the final major vehicle, built by the Professor.",
+						"image_url": "",
+						"question": "What vehicle does Spyro use to reach the final home world, Midnight Mountain?",
+						"wrong": [
+							"A Hot Air Balloon",
+							"A Whirligig",
+							"A Submarine"
+						]
+					},
+					{
+						"correct": "None (There is a whale, but it's not a level)",
+						"difficulty": "Hard",
+						"explanation": "While there is a whale in the hub, there is no level set inside a mechanical fish in this game.",
+						"image_url": "",
+						"question": "Which level in Evening Lake is entirely set inside a giant mechanical fish?",
+						"wrong": [
+							"Lost Fleet",
+							"Seashell Shore",
+							"Aquaria Towers"
+						]
+					},
+					{
+						"correct": "Cat-Wizards",
+						"difficulty": "Hard",
+						"explanation": "The level features cat-wizards who have captured a fairy princess.",
+						"image_url": "",
+						"question": "In 'Charmed Ridge', Spyro must stop what kind of creatures from marrying a princess?",
+						"wrong": [
+							"Rhynocs",
+							"Frogs",
+							"Yetis"
+						]
+					},
+					{
+						"correct": "None (You fight Twin Dragons)",
+						"difficulty": "Hard",
+						"explanation": "The major mini-boss encounter in Fireworks Factory is against the Twin Dragons.",
+						"image_url": "",
+						"question": "What is the name of the mini-boss in Fireworks Factory who is a giant ninja?",
+						"wrong": [
+							"Master Ninja",
+							"Hanzo",
+							"Shadow"
+						]
+					},
+					{
+						"correct": "1000",
+						"difficulty": "Hard",
+						"explanation": "Moneybags increases his price to 1000 gems for the third ally.",
+						"image_url": "",
+						"question": "How many gems does Moneybags charge to release Bentley in Evening Lake?",
+						"wrong": [
+							"700",
+							"500",
+							"1500"
+						]
+					},
+					{
+						"correct": "Ghost Rhynocs",
+						"difficulty": "Hard",
+						"explanation": "They are Rhynocs who have died and returned as ghosts to protect the sunken treasure.",
+						"image_url": "",
+						"question": "In the level 'Lost Fleet', what are the ghosts haunting the ships called?",
+						"wrong": [
+							"Specters",
+							"Banshees",
+							"Phantoms"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_evening_lake",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Evening Lake",
+				"lore_desc": "An underwater-themed home world dominated by a massive lake and a giant whale.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Home World",
+					"Third"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Midnight Mountain",
+						"difficulty": "Easy",
+						"explanation": "Midnight Mountain is the dark, final hub leading to the Sorceress's Lair.",
+						"image_url": "https://skillcheckgame.com/assets/images/midnight_mountain.webp",
+						"question": "What is the fourth and final home world in 'Year of the Dragon'?",
+						"wrong": [
+							"Evening Lake",
+							"Sunrise Spring",
+							"Dragon Shores"
+						]
+					},
+					{
+						"correct": "Agent 9",
+						"difficulty": "Easy",
+						"explanation": "Agent 9's laboratory portal is found in the final hub world.",
+						"image_url": "https://skillcheckgame.com/assets/images/midnight_mountain.webp",
+						"question": "Which ally monkey is unlocked in Midnight Mountain?",
+						"wrong": [
+							"Sheila",
+							"Sgt. Byrd",
+							"Bentley"
+						]
+					},
+					{
+						"correct": "Sorceress's Lair",
+						"difficulty": "Easy",
+						"explanation": "The central portal leads to the final battle in the Sorceress's Lair.",
+						"image_url": "https://skillcheckgame.com/assets/images/midnight_mountain.webp",
+						"question": "What is the name of the final boss level located in the center of this world?",
+						"wrong": [
+							"Midnight Palace",
+							"The Final Stand",
+							"Dragon's Peak"
+						]
+					},
+					{
+						"correct": "Midnight/Night",
+						"difficulty": "Easy",
+						"explanation": "The world is draped in deep purples and blacks to match the Midnight theme.",
+						"image_url": "",
+						"question": "What time of day is represented by the dark sky of this world?",
+						"wrong": [
+							"Morning",
+							"Noon",
+							"Evening"
+						]
+					},
+					{
+						"correct": "Moneybags",
+						"difficulty": "Easy",
+						"explanation": "After opening the final level, Spyro can chase Moneybags around the hub to recover all his gems.",
+						"image_url": "",
+						"question": "Which character can you finally attack and chase in this world to get your gems back?",
+						"wrong": [
+							"The Sorceress",
+							"Bianca",
+							"Hunter"
+						]
+					},
+					{
+						"correct": "Dino Mines",
+						"difficulty": "Medium",
+						"explanation": "Dino Mines combines dinosaurs with a cowboy/western setting.",
+						"image_url": "",
+						"question": "What is the name of the level in Midnight Mountain that features a Wild West theme?",
+						"wrong": [
+							"Desert Ruins",
+							"Crystal Islands",
+							"Haunted Tomb"
+						]
+					},
+					{
+						"correct": "Crystal Islands",
+						"difficulty": "Medium",
+						"explanation": "Crystal Islands is a surreal level filled with gems, magic, and flying beavers.",
+						"image_url": "",
+						"question": "Which level in this world is known for its floating platforms and gem-like environment?",
+						"wrong": [
+							"Desert Ruins",
+							"Dino Mines",
+							"Midnight Mountain"
+						]
+					},
+					{
+						"correct": "Harbor Speedway",
+						"difficulty": "Medium",
+						"explanation": "Harbor Speedway is the final flying challenge level, set in a dark lighthouse-filled harbor.",
+						"image_url": "",
+						"question": "What is the name of the Speedway level in Midnight Mountain?",
+						"wrong": [
+							"Mushroom Speedway",
+							"Country Speedway",
+							"Honey Speedway"
+						]
+					},
+					{
+						"correct": "Desert Ruins",
+						"difficulty": "Medium",
+						"explanation": "Desert Ruins features ancient ruins, lava, and a segment where Sheila herds mushrooms.",
+						"image_url": "",
+						"question": "What is the name of the desert-themed level that features mummies and Sheila?",
+						"wrong": [
+							"Haunted Tomb",
+							"Dino Mines",
+							"Crystal Islands"
+						]
+					},
+					{
+						"correct": "Bianca",
+						"difficulty": "Medium",
+						"explanation": "Bianca uses her magic to open the final portal once Spyro has enough eggs.",
+						"image_url": "",
+						"question": "Which character helps you enter the Sorceress's Lair by providing the final portal?",
+						"wrong": [
+							"Hunter",
+							"The Professor",
+							"Moneybags"
+						]
+					},
+					{
+						"correct": "15000",
+						"difficulty": "Hard",
+						"explanation": "To access the ultimate bonus level, you must have all 15000 gems in the game.",
+						"image_url": "",
+						"question": "In the 'Super Bonus Round' unlocked after Midnight Mountain, what is the total gem count required to enter?",
+						"wrong": [
+							"10000",
+							"12000",
+							"20000"
+						]
+					},
+					{
+						"correct": "The Amazing Randini",
+						"difficulty": "Hard",
+						"explanation": "The Amazing Randini is a magician beaver who needs help with his show.",
+						"image_url": "",
+						"question": "What is the name of the NPC beaver you meet in Crystal Islands?",
+						"wrong": [
+							"Barnaby",
+							"Bartholomew",
+							"Billy"
+						]
+					},
+					{
+						"correct": "There is no shark (You fight sea horses)",
+						"difficulty": "Hard",
+						"explanation": "The underwater segments of Dino Mines feature sea horses with guns, not sharks.",
+						"image_url": "",
+						"question": "In 'Dino Mines', what is the name of the shark you must defeat while swimming?",
+						"wrong": [
+							"Bruce",
+							"Snappy",
+							"Jaws"
+						]
+					},
+					{
+						"correct": "Sheila",
+						"difficulty": "Hard",
+						"explanation": "Sheila has a dedicated section in Desert Ruins where she helps herd mushrooms into a pen.",
+						"image_url": "",
+						"question": "Which ally has a sub-mission in the 'Desert Ruins' level?",
+						"wrong": [
+							"Sgt. Byrd",
+							"Bentley",
+							"Agent 9"
+						]
+					},
+					{
+						"correct": "It's a digital/magic bridge (Transparent Blue)",
+						"difficulty": "Hard",
+						"explanation": "The bridge to the later levels in the hub is a magical, semi-transparent construct.",
+						"image_url": "",
+						"question": "What color is the bridge that appears after you pay Moneybags in the hub world of Midnight Mountain?",
+						"wrong": [
+							"Solid Stone",
+							"Wooden Plank",
+							"Golden"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_midnight_mountain",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "Midnight Mountain",
+				"lore_desc": "The dark and dangerous final home world, where the Sorceress makes her last stand.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Home World",
+					"Final"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Rhinoceros",
+						"difficulty": "Easy",
+						"explanation": "Rhynocs are bulky, horn-bearing creatures inspired by rhinos.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_rhynocs.webp",
+						"question": "What animal are the primary enemies of the game, the Rhynocs, based on?",
+						"wrong": [
+							"Hippo",
+							"Elephant",
+							"Boar"
+						]
+					},
+					{
+						"correct": "The Sorceress",
+						"difficulty": "Easy",
+						"explanation": "The Sorceress created them to serve as her personal army to control the Forgotten Worlds.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_rhynocs.webp",
+						"question": "Who created the Rhynoc army using magic?",
+						"wrong": [
+							"Bianca",
+							"Gnasty Gnorc",
+							"Ripto"
+						]
+					},
+					{
+						"correct": "It disappears in a puff of smoke/magic",
+						"difficulty": "Easy",
+						"explanation": "Because they are magical constructs, they vanish when defeated, often leaving a gem behind.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_rhynocs.webp",
+						"question": "What happens to a Rhynoc when Spyro defeats it?",
+						"wrong": [
+							"It turns into a dragon",
+							"It runs away crying",
+							"It explodes into water"
+						]
+					},
+					{
+						"correct": "No, they are generally dim-witted",
+						"difficulty": "Easy",
+						"explanation": "Rhynocs are portrayed as clumsy and simple-minded minions who just follow orders.",
+						"image_url": "",
+						"question": "Are Rhynocs considered smart or intelligent in the game's lore?",
+						"wrong": [
+							"Yes, they are scholars",
+							"They are geniuses",
+							"They don't have brains"
+						]
+					},
+					{
+						"correct": "Gems",
+						"difficulty": "Easy",
+						"explanation": "Defeating enemies is one of the primary ways Spyro collects the gems needed to pay Moneybags.",
+						"image_url": "",
+						"question": "What do Rhynocs often drop once Spyro defeats them for the first time in a level?",
+						"wrong": [
+							"Dragon Eggs",
+							"Health",
+							"Extra Lives"
+						]
+					},
+					{
+						"correct": "Ninjas",
+						"difficulty": "Medium",
+						"explanation": "In Fireworks Factory, Rhynocs appear as ninjas, showing their ability to adapt to different level themes.",
+						"image_url": "",
+						"question": "Which of these is a common 'disguise' or costume worn by Rhynocs in specific levels?",
+						"wrong": [
+							"Clowns",
+							"Statues",
+							"Trees"
+						]
+					},
+					{
+						"correct": "Cowboys",
+						"difficulty": "Medium",
+						"explanation": "They wear cowboy hats and carry guns in the Western-themed level.",
+						"image_url": "",
+						"question": "In the level 'Dino Mines', what are the Rhynocs dressed as?",
+						"wrong": [
+							"Miners",
+							"Astronauts",
+							"Pirates"
+						]
+					},
+					{
+						"correct": "Large/Heavy Rhynocs",
+						"difficulty": "Medium",
+						"explanation": "Spyro must use fire or a special move like the Headbash to defeat the larger, armored varieties.",
+						"image_url": "",
+						"question": "What is the name of the very large, armored Rhynocs that Spyro cannot charge through?",
+						"wrong": [
+							"Super Rhynocs",
+							"Gnorcs",
+							"Titan Rhynocs"
+						]
+					},
+					{
+						"correct": "Agent 9",
+						"difficulty": "Medium",
+						"explanation": "Agent 9 has a first-person shooting gallery where he blasts Ninja Rhynocs in Fireworks Factory.",
+						"image_url": "",
+						"question": "Which ally has a specific mission to clear out 'Ninja Rhynocs' from a factory?",
+						"wrong": [
+							"Sheila",
+							"Sgt. Byrd",
+							"Bentley"
+						]
+					},
+					{
+						"correct": "Gladiators",
+						"difficulty": "Medium",
+						"explanation": "They wear helmets and carry shields like Roman gladiators.",
+						"image_url": "",
+						"question": "In 'Sunny Villa', what are the Rhynocs dressed as to match the Roman theme?",
+						"wrong": [
+							"Senators",
+							"Gods",
+							"Lions"
+						]
+					},
+					{
+						"correct": "They cease to exist or lose their magic",
+						"difficulty": "Hard",
+						"explanation": "Since they were created by her magic, her defeat likely results in the end of their army.",
+						"image_url": "",
+						"question": "What happens to the Rhynocs in the Forgotten Worlds after the Sorceress is defeated?",
+						"wrong": [
+							"They become Spyro's friends",
+							"They move to the Dragon Realms",
+							"They choose a new king"
+						]
+					},
+					{
+						"correct": "Dragon-Rhynoc",
+						"difficulty": "Hard",
+						"explanation": "While they take many forms, there is no hybrid 'Dragon-Rhynoc' enemy.",
+						"image_url": "",
+						"question": "Which of these is NOT a type of Rhynoc found in the game?",
+						"wrong": [
+							"Scuba-Rhynoc",
+							"Wizard-Rhynoc",
+							"Space-Rhynoc"
+						]
+					},
+					{
+						"correct": "Snowballs",
+						"difficulty": "Hard",
+						"explanation": "They throw snowballs at Spyro, who can freeze them back using his temporary ice breath.",
+						"image_url": "",
+						"question": "In the level 'Frozen Altars', what are the Rhynocs using to attack from a distance?",
+						"wrong": [
+							"Ice Beams",
+							"Magic Wands",
+							"Slingshots"
+						]
+					},
+					{
+						"correct": "Butterflies for health",
+						"difficulty": "Hard",
+						"explanation": "Fodder (like sheep or frogs) provides butterflies for Sparx, while Rhynocs only provide gems.",
+						"image_url": "",
+						"question": "What do the small 'Fodder' animals provide that Rhynocs do not?",
+						"wrong": [
+							"Gems",
+							"Eggs",
+							"Portals"
+						]
+					},
+					{
+						"correct": "Fire-proof/Metal armored Rhynocs",
+						"difficulty": "Hard",
+						"explanation": "Any Rhynoc wearing metal armor is immune to fire; Spyro must charge them instead.",
+						"image_url": "",
+						"question": "Which Rhynocs are known for being the only ones that can survive being hit by fire?",
+						"wrong": [
+							"Water Rhynocs",
+							"Ghost Rhynocs",
+							"Ninja Rhynocs"
+						]
+					}
+				]
+			},
+			"id": "spyro_year_of_the_dragon_the_rhynocs",
+			"meta": {
+				"date_added": "2026-04-04",
+				"entity_category": "Theme Item",
+				"full_title": "The Rhynocs",
+				"lore_desc": "The primary grunt soldiers of the Sorceress's army, appearing in many shapes and sizes.",
+				"theme_origin": "spyro: year of the dragon",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Enemy",
+					"Minion",
+					"Magic"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -124219,7 +127483,7 @@
 			"id": "red dead redemption 2",
 			"synergies": [
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Dutch van der Linde",
 						"Arthur Morgan"
@@ -124227,7 +127491,7 @@
 					"name": "Have Some Faith"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"John Marston",
 						"Abigail Roberts",
@@ -124236,7 +127500,7 @@
 					"name": "The Marston Family"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Micah Bell",
 						"Dutch van der Linde"
@@ -124244,7 +127508,7 @@
 					"name": "The Rat"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Dutch van der Linde",
 						"Hosea Matthews",
@@ -124253,7 +127517,7 @@
 					"name": "One Last Score"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Pinkerton Agency",
 						"Blackwater"
@@ -124261,7 +127525,7 @@
 					"name": "The Law"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Lenny Summers",
 						"Valentine"
@@ -124269,7 +127533,7 @@
 					"name": "Bar Fight"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Arthur Morgan",
 						"Lenny Summers"
@@ -124277,7 +127541,7 @@
 					"name": "LENNY!"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Arthur Morgan",
 						"John Marston"
@@ -124285,7 +127549,7 @@
 					"name": "The Better Man"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Saint Denis",
 						"Hosea Matthews"
@@ -124293,7 +127557,7 @@
 					"name": "High Society"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Guarma",
 						"Dutch van der Linde",
@@ -124302,7 +127566,7 @@
 					"name": "Shipwrecked"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Charles Smith",
 						"Bill Williamson"
@@ -124310,7 +127574,7 @@
 					"name": "Gang's Muscle"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Sadie Adler",
 						"Arthur Morgan",
@@ -124319,7 +127583,7 @@
 					"name": "Loyalty"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Blackwater",
 						"The Van der Linde Gang",
@@ -124328,7 +127592,7 @@
 					"name": "Wanted Dead or Alive"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Valentine",
 						"The Van der Linde Gang",
@@ -124337,7 +127601,7 @@
 					"name": "Chapter One"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Sadie Adler",
 						"Micah Bell"
@@ -124345,7 +127609,7 @@
 					"name": "Widow's Revenge"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Micah Bell",
 						"Arthur Morgan",
@@ -124354,7 +127618,7 @@
 					"name": "The Betrayal"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"John Marston",
 						"Beecher's Hope",
@@ -124363,7 +127627,7 @@
 					"name": "Ranch Life"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Hosea Matthews",
 						"Bill Williamson",
@@ -124372,7 +127636,7 @@
 					"name": "Old Guard"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Saint Denis",
 						"Lenny Summers",
@@ -124381,7 +127645,7 @@
 					"name": "City Slickers"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Arthur Morgan",
 						"Sadie Adler",
@@ -124390,7 +127654,7 @@
 					"name": "Outlaws To The End"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Guarma",
 						"Dutch van der Linde"
@@ -124398,7 +127662,7 @@
 					"name": "Paradise Lost"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Valentine",
 						"Beecher's Hope"
@@ -124406,7 +127670,7 @@
 					"name": "Simple Folk"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Pinkerton Agency",
 						"Arthur Morgan"
@@ -124414,7 +127678,7 @@
 					"name": "Hunted"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Charles Smith",
 						"Sadie Adler"
@@ -124422,7 +127686,7 @@
 					"name": "The Muscle"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Micah Bell",
 						"Bill Williamson"
@@ -124430,7 +127694,7 @@
 					"name": "Snake In The Grass"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Saint Denis",
 						"Blackwater"
@@ -124438,7 +127702,7 @@
 					"name": "Civilisation"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Arthur Morgan",
 						"Hosea Matthews"
@@ -124446,12 +127710,142 @@
 					"name": "Gone Fishing"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Abigail Roberts",
 						"The Van der Linde Gang"
 					],
 					"name": "Dear Abigail"
+				}
+			]
+		},
+		{
+			"id": "spyro: year of the dragon",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Spyro",
+						"Sparx",
+						"Hunter the Cheetah"
+					],
+					"name": "The Core Team"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Sorceress",
+						"Bianca",
+						"The Rhynocs"
+					],
+					"name": "The Sorceress's Army"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Moneybags",
+						"Sheila the Kangaroo",
+						"Sgt. Byrd"
+					],
+					"name": "The Extortion"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Midnight Mountain",
+						"Agent 9",
+						"The Sorceress"
+					],
+					"name": "The Final Showdown"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Spyro",
+						"The Rhynocs",
+						"Dragon Eggs"
+					],
+					"name": "The Ultimate Goal"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Hunter the Cheetah",
+						"Bianca"
+					],
+					"name": "Star-Crossed Lovers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Spyro",
+						"Sparx"
+					],
+					"name": "Dragon's Best Friend"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Sorceress",
+						"Dragon Eggs"
+					],
+					"name": "Stolen Future"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sunrise Spring",
+						"Sheila the Kangaroo"
+					],
+					"name": "Spring Release"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Midday Gardens",
+						"Sgt. Byrd"
+					],
+					"name": "Garden Flight"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Evening Lake",
+						"Bentley the Yeti"
+					],
+					"name": "Lake Brawler"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Midnight Mountain",
+						"Agent 9"
+					],
+					"name": "Midnight Munitions"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Bianca",
+						"Dragon Eggs"
+					],
+					"name": "The Regretful Thief"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Moneybags",
+						"Spyro"
+					],
+					"name": "Small Fees"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Hunter the Cheetah",
+						"Sunrise Spring"
+					],
+					"name": "The Skateboarder"
 				}
 			]
 		}
