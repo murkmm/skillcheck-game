@@ -1,5 +1,5 @@
 {
-	"last_updated": 1774734693,
+	"last_updated": 1775337281,
 	"schedule": {
 		"2026-01-23": [
 			"crash_bandicoot",
@@ -3091,6 +3091,51 @@
 				"red_dead_redemption_2_pinkerton_agency",
 				"red_dead_redemption_2_bill_williamson",
 				"red_dead_redemption_2_abigail_roberts"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-05": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Spyro: Easter Special !",
+			"share_text": "",
+			"shops": [
+				{
+					"p1": "pause_button",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "s_video",
+					"p2": "power_supply"
+				},
+				{
+					"p1": "training_mode",
+					"p2": "second_chance"
+				}
+			],
+			"showcase": [
+				"spyro_year_of_the_dragon_spyro",
+				"spyro_year_of_the_dragon_sparx",
+				"spyro_year_of_the_dragon_bianca"
+			],
+			"starters": [
+				"spyro_year_of_the_dragon_spyro",
+				"spyro_year_of_the_dragon_sparx",
+				"spyro_year_of_the_dragon_hunter_the_cheetah",
+				"spyro_year_of_the_dragon_the_sorceress",
+				"spyro_year_of_the_dragon_bianca",
+				"spyro_year_of_the_dragon_sheila_the_kangaroo",
+				"spyro_year_of_the_dragon_sgt._byrd",
+				"spyro_year_of_the_dragon_bentley_the_yeti",
+				"spyro_year_of_the_dragon_agent_9",
+				"spyro_year_of_the_dragon_moneybags",
+				"spyro_year_of_the_dragon_dragon_eggs",
+				"spyro_year_of_the_dragon_sunrise_spring",
+				"spyro_year_of_the_dragon_midday_gardens",
+				"spyro_year_of_the_dragon_evening_lake",
+				"spyro_year_of_the_dragon_midnight_mountain",
+				"spyro_year_of_the_dragon_the_rhynocs"
 			],
 			"submitted_by": ""
 		}
