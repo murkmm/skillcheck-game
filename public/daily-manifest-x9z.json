@@ -1,11 +1,6 @@
 {
-	"last_updated": 1775337669,
+	"last_updated": 1775407516,
 	"schedule": {
-		"2026-01-23": [
-			"crash_bandicoot",
-			"crash_bandicoot_2_cortex_strikes_back",
-			"crash_bandicoot_warped"
-		],
 		"2026-01-24": {
 			"difficulty": "Expert",
 			"games": [
