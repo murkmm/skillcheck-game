@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775408528,
+	"last_updated": 1775408587,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -1125,22 +1125,23 @@
 			]
 		},
 		"2026-02-26": {
+			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
-			"motd": "Halo Crossover Daily",
-			"share_text": "",
+			"motd": "Halo Universe Showcase",
+			"share_text": "Chief and Forge in the same briefing.",
 			"shops": [
 				{
-					"p1": "expansion_pak",
+					"p1": "extra_life",
+					"p2": "multitap"
+				},
+				{
+					"p1": "game_shark",
 					"p2": "rumble_pack"
 				},
 				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
+					"p1": "turbo_button",
+					"p2": "second_chance"
 				}
 			],
 			"showcase": [
@@ -1190,7 +1191,8 @@
 				"halo_wars_spartan_douglas",
 				"halo_wars_the_cartographer",
 				"halo_wars_voridus"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-27": {
 			"difficulty": "Expert",
