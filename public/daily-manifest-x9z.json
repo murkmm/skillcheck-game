@@ -1,27 +1,6 @@
 {
-	"last_updated": 1775408054,
+	"last_updated": 1775408130,
 	"schedule": {
-		"2026-01-30": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Crash Firday !",
-			"share_text": "CRASHING INTO A TOP SCORE !",
-			"shops": [
-				{
-					"game": "doctor_neo_cortex_trivia",
-					"peri": "expansion_pak"
-				},
-				{
-					"game": "n_sanity_beach_trivia_20",
-					"peri": "rumble_pack"
-				}
-			],
-			"starters": [
-				"crash_bandicoot_character_trivia",
-				"warp_room_crash_2_trivia",
-				"coco_bandicoot_cb2_trivia"
-			]
-		},
 		"2026-01-31": {
 			"difficulty": "Normal",
 			"mode": "STANDARD",
