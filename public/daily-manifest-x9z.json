@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775408587,
+	"last_updated": 1775408681,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -145,18 +145,23 @@
 			]
 		},
 		"2026-02-03": {
+			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
-			"motd": "Prepare to Die Edition",
-			"share_text": "Bonfire Lit",
+			"motd": "Dark Souls: Prepare to Die",
+			"share_text": "Bonfire Lit.",
 			"shops": [
 				{
-					"game": "sewer_rat",
-					"peri": "rumble_pack"
+					"p1": "rumble_pack",
+					"p2": "turbo_button"
 				},
 				{
-					"game": "gaping_dragon",
-					"peri": "expansion_pak"
+					"p1": "combo_breaker",
+					"p2": "game_shark"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "lucky_dice"
 				}
 			],
 			"showcase": [
@@ -199,7 +204,8 @@
 				"logan",
 				"oswald",
 				"quelana"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-04": {
 			"difficulty": "Easy",
