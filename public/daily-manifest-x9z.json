@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775410648,
+	"last_updated": 1775410748,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -415,56 +415,6 @@
 				"keepsakes",
 				"dionysus",
 				"wretched_broker"
-			]
-		},
-		"2026-02-13": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Doom 2 Test",
-			"share_text": "Testing testing",
-			"shops": [
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				}
-			],
-			"showcase": [
-				"doom_slayer",
-				"argent_d'nur",
-				"cacodaemon"
-			],
-			"starters": [
-				"doom_slayer",
-				"samuel_hayden",
-				"chainsaw",
-				"super_shotgun",
-				"uac_facility",
-				"argent_d'nur",
-				"imp",
-				"hell_knight",
-				"spider_mastermind",
-				"cacodaemon",
-				"pinky",
-				"revenant",
-				"mancubus",
-				"baron_of_hell",
-				"lost_soul",
-				"summoner",
-				"cyberdemon",
-				"spectre",
-				"possessed_soldier",
-				"prowler",
-				"hell_razor",
-				"unwilling",
-				"hell_razer"
 			]
 		},
 		"2026-02-14": {
