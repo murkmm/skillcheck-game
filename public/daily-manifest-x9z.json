@@ -1,26 +1,6 @@
 {
-	"last_updated": 1775407726,
+	"last_updated": 1775407787,
 	"schedule": {
-		"2026-01-26": {
-			"difficulty": "Easy",
-			"mode": "INFLATION",
-			"motd": "Fortnite",
-			"shops": [
-				{
-					"game": "",
-					"peri": "rumble_pack"
-				},
-				{
-					"game": "",
-					"peri": "expansion_pak"
-				}
-			],
-			"starters": [
-				"fortnite_trivia_archive",
-				"fortnite_trivia_archive",
-				"fortnite_trivia_archive"
-			]
-		},
 		"2026-01-27": {
 			"difficulty": "Normal",
 			"mode": "STANDARD",
