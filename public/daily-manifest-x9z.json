@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775409467,
+	"last_updated": 1775409557,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -976,22 +976,23 @@
 			"submitted_by": ""
 		},
 		"2026-02-27": {
+			"daily_type": "normal",
 			"difficulty": "Expert",
 			"mode": "STANDARD",
-			"motd": "Pokemon Red Day!",
-			"share_text": "Fire Red and Leaf Green !",
+			"motd": "Pokémon: Red & Blue",
+			"share_text": "Choose your starter wisely.",
 			"shops": [
 				{
-					"p1": "expansion_pak",
+					"p1": "combo_breaker",
 					"p2": "rumble_pack"
 				},
 				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
+					"p1": "gold_cartridge",
+					"p2": "memory_card"
 				},
 				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
+					"p1": "second_chance",
+					"p2": "piggy_bank"
 				}
 			],
 			"showcase": [
@@ -1035,7 +1036,8 @@
 				"pokemon_rayquaza",
 				"pokemon_ditto",
 				"pokemon_zubat"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-28": {
 			"difficulty": "Easy",
