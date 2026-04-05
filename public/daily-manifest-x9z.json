@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775411418,
+	"last_updated": 1775429741,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -422,6 +422,63 @@
 				"keepsakes",
 				"dionysus",
 				"wretched_broker"
+			],
+			"submitted_by": ""
+		},
+		"2026-02-08": {
+			"daily_type": "normal",
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Yu-Gi-Oh!: Shadow Games",
+			"share_text": "You activated my trap card.",
+			"shops": [
+				{
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"yu_gi_oh_yugi_muto",
+				"yu_gi_oh_joey_wheeler",
+				"yu_gi_oh_seto_kaiba"
+			],
+			"starters": [
+				"yu_gi_oh_kaibacorp",
+				"yu_gi_oh_exodia_necross",
+				"yu_gi_oh_kuriboh",
+				"yu_gi_oh_duel_academy",
+				"yu_gi_oh_the_winged_dragon_of_ra",
+				"yu_gi_oh_maximillion_pegasus",
+				"yu_gi_oh_slifer_the_sky_dragon",
+				"yu_gi_oh_obelisk_the_tormentor",
+				"yu_gi_oh_joey_wheeler",
+				"yu_gi_oh_yugi_muto",
+				"yu_gi_oh_exodia_the_forbidden_one",
+				"yu_gi_oh_seto_kaiba",
+				"yu_gi_oh_dark_magician",
+				"yu_gi_oh_blue-eyes_white_dragon",
+				"yu-gi-oh_mirror_force",
+				"yu-gi-oh_polymerization",
+				"yu-gi-oh_domino_city",
+				"yu-gi-oh_ishizu_ishtar",
+				"yu-gi-oh_alexis_rhodes",
+				"yu-gi-oh_syrus_truesdale",
+				"yu-gi-oh_yusei_fudo",
+				"yu-gi-oh_tea_gardner",
+				"yu-gi-oh_time_wizard",
+				"yu-gi-oh_duel_disk",
+				"yu-gi-oh_pot_of_greed",
+				"yu-gi-oh_monster_reborn",
+				"yu-gi-oh_millennium_puzzle",
+				"yu-gi-oh_yami_yugi"
 			],
 			"submitted_by": ""
 		},
