@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775408950,
+	"last_updated": 1775409021,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -1407,49 +1407,6 @@
 				"gamecube_classics_mewtwo"
 			],
 			"submitted_by": ""
-		},
-		"2026-03-08": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Gamecube Lazy Day",
-			"share_text": "REPEATS",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"gamecube_classics_mario",
-				"gamecube_classics_luigi",
-				"gamecube_classics_samus_aran"
-			],
-			"starters": [
-				"gamecube_classics_mario",
-				"gamecube_classics_luigi",
-				"gamecube_classics_link",
-				"gamecube_classics_samus_aran",
-				"gamecube_classics_pikmin",
-				"gamecube_classics_leon_kennedy",
-				"gamecube_classics_captain_falcon",
-				"gamecube_classics_villager",
-				"gamecube_classics_fox_mccloud",
-				"gamecube_classics_shadow_the_hedgehog",
-				"gamecube_classics_kirby",
-				"gamecube_classics_ganondorf",
-				"gamecube_classics_zelda",
-				"gamecube_classics_meta_knight",
-				"gamecube_classics_donkey_kong",
-				"gamecube_classics_mewtwo"
-			]
 		},
 		"2026-03-09": {
 			"difficulty": "Easy",
