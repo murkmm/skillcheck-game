@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775409403,
+	"last_updated": 1775409467,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -565,68 +565,6 @@
 				"wario",
 				"rosalina",
 				"shy_guy"
-			]
-		},
-		"2026-02-16": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "I need more themes",
-			"share_text": "word",
-			"shops": [
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				}
-			],
-			"showcase": [
-				"pikachu",
-				"red",
-				"mewtwo"
-			],
-			"starters": [
-				"pikachu",
-				"red",
-				"s.s._anne",
-				"master_ball",
-				"lavender_town",
-				"mewtwo",
-				"brock",
-				"bicycle",
-				"team_rocket",
-				"elite_four",
-				"surf",
-				"blue",
-				"pokédex",
-				"cinnabar_island",
-				"oak",
-				"cynthia",
-				"potions",
-				"tms",
-				"mt._silver",
-				"nurse_joy",
-				"charizard",
-				"gym_badges",
-				"poké_ball",
-				"squirtle",
-				"bulbasaur",
-				"eevee",
-				"snorlax",
-				"jigglypuff",
-				"lapras",
-				"gengar",
-				"gyarados",
-				"lugia",
-				"rayquaza",
-				"ditto",
-				"zubat"
 			]
 		},
 		"2026-02-19": {
