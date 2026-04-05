@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775411229,
+	"last_updated": 1775411310,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -674,22 +674,23 @@
 			"submitted_by": ""
 		},
 		"2026-02-25": {
+			"daily_type": "normal",
 			"difficulty": "Expert",
 			"mode": "STANDARD",
-			"motd": "Sonic Adventure 2: Less cards test",
-			"share_text": "Live and Learn !",
+			"motd": "Sonic Adventure 2: Live and Learn",
+			"share_text": "Shadow is faster and you know it.",
 			"shops": [
 				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
+					"p1": "double_adapter",
+					"p2": "game_shark"
 				},
 				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
+					"p1": "combo_breaker",
+					"p2": "link_cable"
 				},
 				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
+					"p1": "piggy_bank",
+					"p2": "multitap"
 				}
 			],
 			"showcase": [
@@ -714,7 +715,8 @@
 				"sonic_adventure_2_gun",
 				"sonic_adventure_2_green_forest",
 				"sonic_adventure_2_pumpkin_hill"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-26": {
 			"daily_type": "normal",
