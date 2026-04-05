@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775409557,
+	"last_updated": 1775409626,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -1672,20 +1672,20 @@
 			"daily_type": "mystery",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
-			"motd": "Who's that pokemon FIXED",
-			"share_text": "I fixed it !",
+			"motd": "Who's That Pokémon?",
+			"share_text": "I know that silhouette anywhere.",
 			"shops": [
 				{
 					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p2": "memory_card"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "combo_breaker",
+					"p2": "lucky_dice"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "piggy_bank",
+					"p2": "second_chance"
 				}
 			],
 			"showcase": [
@@ -1720,7 +1720,8 @@
 				"pokemon_decidueye",
 				"pokemon_sylveon",
 				"pokemon_lapras"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-03-19": {
 			"daily_type": "normal",
