@@ -1,27 +1,6 @@
 {
-	"last_updated": 1775407853,
+	"last_updated": 1775407929,
 	"schedule": {
-		"2026-01-28": {
-			"difficulty": "Expert",
-			"mode": "SUDDEN_DEATH",
-			"motd": "Mark's Halo Daily Testing",
-			"share_text": "Finished the fight !",
-			"shops": [
-				{
-					"game": "halo_wars_classic",
-					"peri": "rumble_pack"
-				},
-				{
-					"game": "halo_3_odst_trivia",
-					"peri": "expansion_pak"
-				}
-			],
-			"starters": [
-				"halo_ce_vibe_check_001",
-				"halo_2_master_chief",
-				"halo_3_nostalgia_trivia"
-			]
-		},
 		"2026-01-29": {
 			"difficulty": "Hard",
 			"mode": "SUDDEN_DEATH",
