@@ -1,27 +1,6 @@
 {
-	"last_updated": 1775407929,
+	"last_updated": 1775408054,
 	"schedule": {
-		"2026-01-29": {
-			"difficulty": "Hard",
-			"mode": "SUDDEN_DEATH",
-			"motd": "MORE TESTING",
-			"share_text": "Pokemon  madness !",
-			"shops": [
-				{
-					"game": "",
-					"peri": "rumble_pack"
-				},
-				{
-					"game": "",
-					"peri": "expansion_pak"
-				}
-			],
-			"starters": [
-				"eevee_trivia_challenge",
-				"pokemon_legends_za_trivia_v1",
-				"pokemon_sword_shield_gen8"
-			]
-		},
 		"2026-01-30": {
 			"difficulty": "Easy",
 			"mode": "STANDARD",
