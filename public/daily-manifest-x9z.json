@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775411059,
+	"last_updated": 1775411142,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -102,18 +102,23 @@
 			"submitted_by": ""
 		},
 		"2026-02-02": {
+			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
-			"motd": "Mario Kart Mondays !",
-			"share_text": "Avoided the blue shell !",
+			"motd": "Mario Kart Monday",
+			"share_text": "Dodged the blue shell. Claimed the cup.",
 			"shops": [
 				{
-					"game": "toad",
-					"peri": "rumble_pack"
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
 				},
 				{
-					"game": "yoshi",
-					"peri": "expansion_pak"
+					"p1": "combo_breaker",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "rumble_pack"
 				}
 			],
 			"showcase": [
@@ -148,7 +153,8 @@
 				"wario",
 				"rosalina",
 				"shy_guy"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-03": {
 			"daily_type": "normal",
