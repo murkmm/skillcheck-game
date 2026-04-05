@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775410954,
+	"last_updated": 1775411059,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -369,22 +369,23 @@
 			"submitted_by": ""
 		},
 		"2026-02-07": {
+			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
-			"motd": "Hades: Underworld Run",
+			"motd": "Hades 1 and 2: Escape the Underworld",
 			"share_text": "Death to Chronos",
 			"shops": [
 				{
-					"p1": "charon_counter_v1",
-					"p2": "infernal_triptych_mk2"
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
 				},
 				{
-					"p1": "olympian_patron_seal",
-					"p2": "cthonic_focus_coil"
+					"p1": "combo_breaker",
+					"p2": "rumble_pack"
 				},
 				{
-					"p1": "pact_modifier_unit",
-					"p2": "olympian_rhapsody_driver"
+					"p1": "gold_cartridge",
+					"p2": "rumble_pack"
 				}
 			],
 			"showcase": [
@@ -415,7 +416,8 @@
 				"keepsakes",
 				"dionysus",
 				"wretched_broker"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-14": {
 			"difficulty": "Easy",
