@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775408398,
+	"last_updated": 1775408465,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -934,22 +934,23 @@
 			]
 		},
 		"2026-02-22": {
+			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
-			"motd": "Yet another Halo test",
-			"share_text": "More Halos",
+			"motd": "Halo: Installation 04",
+			"share_text": "I need a weapon.",
 			"shops": [
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "double_adapter",
+					"p2": "memory_card"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "combo_breaker",
+					"p2": "piggy_bank"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "gold_cartridge",
+					"p2": "quick_save"
 				}
 			],
 			"showcase": [
@@ -979,7 +980,8 @@
 				"halo_gravemind",
 				"halo_guilty_spark",
 				"halo_master_chief"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-23": {
 			"difficulty": "Easy",
