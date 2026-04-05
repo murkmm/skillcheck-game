@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775409801,
+	"last_updated": 1775410053,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -265,22 +265,23 @@
 			"submitted_by": ""
 		},
 		"2026-02-05": {
+			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
-			"motd": "Tunnel Snakes Rule!",
-			"share_text": "War... War never changes",
+			"motd": "Fallout 3: Tunnel Snakes Rule!",
+			"share_text": "War. War never changes.",
 			"shops": [
 				{
-					"p1": "specialist_targeting_scope",
-					"p2": "rumble_pack"
+					"p1": "extra_life",
+					"p2": "second_chance"
 				},
 				{
-					"p1": "gambler_triple_stack",
-					"p2": "expansion_pak"
+					"p1": "combo_breaker",
+					"p2": "double_adapter"
 				},
 				{
-					"p1": "expert_enclave_chip",
-					"p2": "expansion_pak"
+					"p1": "rumble_pack",
+					"p2": "piggy_bank"
 				}
 			],
 			"showcase": [
@@ -312,7 +313,8 @@
 				"abraham_washington",
 				"eden",
 				"star_paladin_cross"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-06": {
 			"difficulty": "Normal",
