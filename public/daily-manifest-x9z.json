@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775411142,
+	"last_updated": 1775411229,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -424,60 +424,6 @@
 				"wretched_broker"
 			],
 			"submitted_by": ""
-		},
-		"2026-02-14": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Wario Kart",
-			"share_text": "Wah",
-			"shops": [
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "rumble_pack"
-				}
-			],
-			"showcase": [
-				"mario",
-				"wario",
-				"rosalina"
-			],
-			"starters": [
-				"mario",
-				"blue_shell",
-				"rainbow_road",
-				"bowser",
-				"banana",
-				"toad",
-				"coconut_mall",
-				"kart",
-				"feather",
-				"coin",
-				"dry_bones",
-				"standard_kart",
-				"super_star",
-				"yoshi",
-				"gliding",
-				"lakitu",
-				"fire_flower",
-				"mushroom",
-				"wario_stadium",
-				"piranha_plant",
-				"lightning",
-				"luigi",
-				"peach",
-				"donkey_kong",
-				"wario",
-				"rosalina",
-				"shy_guy"
-			]
 		},
 		"2026-02-19": {
 			"daily_type": "normal",
