@@ -1,5 +1,6 @@
 // functions/api/polar-webhook.ts
 // Cloudflare Pages Function — receives Polar webhooks and flips is_premium=true in Supabase
+// Matches users by email (Polar Checkout Links don't support custom metadata)
 import { validateEvent, WebhookVerificationError } from '@polar-sh/sdk/webhooks';
 
 interface Env {
@@ -11,6 +12,26 @@ interface Env {
 interface EventContext<E> {
   request: Request;
   env: E;
+}
+
+interface PolarCustomer {
+  email?: string;
+  [key: string]: unknown;
+}
+
+interface PolarOrder {
+  customer?: PolarCustomer;
+  customer_email?: string;
+  [key: string]: unknown;
+}
+
+interface SupabaseAuthUser {
+  id: string;
+  email: string;
+}
+
+interface SupabaseAuthUsersResponse {
+  users: SupabaseAuthUser[];
 }
 
 export async function onRequestPost(context: EventContext<Env>): Promise<Response> {
@@ -48,17 +69,45 @@ export async function onRequestPost(context: EventContext<Env>): Promise<Respons
     return new Response('Event ignored', { status: 200 });
   }
 
-  // 5. Extract user_id from metadata (typed by Polar's SDK)
-  const order = event.data;
-  const metadata = (order.metadata as Record<string, string>) || {};
-  const userId = metadata.user_id;
+  // 5. Extract customer email from the order
+  const order = event.data as PolarOrder;
+  const email = order.customer?.email || order.customer_email;
 
-  if (!userId) {
-    console.error('❌ No user_id in order metadata. Metadata was:', JSON.stringify(metadata));
-    return new Response('Missing user_id metadata', { status: 400 });
+  if (!email) {
+    console.error('❌ No customer email in order. Order keys:', Object.keys(order).join(', '));
+    return new Response('Missing customer email', { status: 400 });
   }
 
-  // 6. Update Supabase — flip is_premium to true
+  console.log('📧 Order email:', email);
+
+  // 6. Look up the user_id from Supabase Auth Admin API by email
+  const authUrl = `${env.SUPABASE_URL}/auth/v1/admin/users?email=${encodeURIComponent(email)}`;
+  const authResponse = await fetch(authUrl, {
+    method: 'GET',
+    headers: {
+      apikey: env.SUPABASE_SERVICE_ROLE_KEY,
+      Authorization: `Bearer ${env.SUPABASE_SERVICE_ROLE_KEY}`,
+    },
+  });
+
+  if (!authResponse.ok) {
+    const errorText = await authResponse.text();
+    console.error('❌ Supabase Auth lookup failed:', authResponse.status, errorText);
+    return new Response('User lookup failed', { status: 500 });
+  }
+
+  const authData = (await authResponse.json()) as SupabaseAuthUsersResponse;
+  const matchedUser = authData.users?.find((u) => u.email?.toLowerCase() === email.toLowerCase());
+
+  if (!matchedUser) {
+    console.error('❌ No Supabase user found with email:', email);
+    return new Response('User not found', { status: 404 });
+  }
+
+  const userId = matchedUser.id;
+  console.log('👤 Matched user_id:', userId);
+
+  // 7. Update Supabase profiles — flip is_premium to true
   const supabaseResponse = await fetch(`${env.SUPABASE_URL}/rest/v1/profiles?user_id=eq.${userId}`, {
     method: 'PATCH',
     headers: {
@@ -76,7 +125,7 @@ export async function onRequestPost(context: EventContext<Env>): Promise<Respons
     return new Response('Database update failed', { status: 500 });
   }
 
-  console.log(`✅ Premium unlocked for user ${userId}`);
+  console.log(`✅ Premium unlocked for user ${userId} (${email})`);
   return new Response('OK', { status: 200 });
 }
 
