@@ -29,13 +29,13 @@ export async function onRequestPost(context: EventContext<Env>): Promise<Respons
   const rawBody = await request.text();
 
   // 2. Extract Polar's three webhook headers (Standard Webhooks spec)
-  const webhookId = request.headers.get("webhook-id");
-  const webhookTimestamp = request.headers.get("webhook-timestamp");
-  const webhookSignature = request.headers.get("webhook-signature");
+  const webhookId = request.headers.get('webhook-id');
+  const webhookTimestamp = request.headers.get('webhook-timestamp');
+  const webhookSignature = request.headers.get('webhook-signature');
 
   if (!webhookId || !webhookTimestamp || !webhookSignature) {
-    console.error("❌ Missing webhook headers");
-    return new Response("Missing webhook headers", { status: 400 });
+    console.error('❌ Missing webhook headers');
+    return new Response('Missing webhook headers', { status: 400 });
   }
 
   // 3. Verify the signature
@@ -48,8 +48,8 @@ export async function onRequestPost(context: EventContext<Env>): Promise<Respons
   );
 
   if (!isValid) {
-    console.error("❌ Invalid webhook signature");
-    return new Response("Invalid signature", { status: 401 });
+    console.error('❌ Invalid webhook signature');
+    return new Response('Invalid signature', { status: 401 });
   }
 
   // 4. Parse the event JSON
@@ -57,16 +57,16 @@ export async function onRequestPost(context: EventContext<Env>): Promise<Respons
   try {
     event = JSON.parse(rawBody);
   } catch {
-    console.error("❌ Invalid JSON body");
-    return new Response("Invalid JSON", { status: 400 });
+    console.error('❌ Invalid JSON body');
+    return new Response('Invalid JSON', { status: 400 });
   }
 
-  console.log("✅ Polar webhook received:", event.type);
+  console.log('✅ Polar webhook received:', event.type);
 
   // 5. Only act on order.paid events — ignore everything else
-  if (event.type !== "order.paid") {
-    console.log("ℹ️ Event ignored (not order.paid):", event.type);
-    return new Response("Event ignored", { status: 200 });
+  if (event.type !== 'order.paid') {
+    console.log('ℹ️ Event ignored (not order.paid):', event.type);
+    return new Response('Event ignored', { status: 200 });
   }
 
   // 6. Extract user_id from the order's metadata
@@ -74,33 +74,30 @@ export async function onRequestPost(context: EventContext<Env>): Promise<Respons
   const userId = order?.metadata?.user_id;
 
   if (!userId) {
-    console.error("❌ No user_id in order metadata. Order:", JSON.stringify(order));
-    return new Response("Missing user_id metadata", { status: 400 });
+    console.error('❌ No user_id in order metadata. Order:', JSON.stringify(order));
+    return new Response('Missing user_id metadata', { status: 400 });
   }
 
   // 7. Update Supabase — flip is_premium to true for this user
-  const supabaseResponse = await fetch(
-    `${env.SUPABASE_URL}/rest/v1/profiles?user_id=eq.${userId}`,
-    {
-      method: "PATCH",
-      headers: {
-        "apikey": env.SUPABASE_SERVICE_ROLE_KEY,
-        "Authorization": `Bearer ${env.SUPABASE_SERVICE_ROLE_KEY}`,
-        "Content-Type": "application/json",
-        "Prefer": "return=minimal",
-      },
-      body: JSON.stringify({ is_premium: true }),
-    }
-  );
+  const supabaseResponse = await fetch(`${env.SUPABASE_URL}/rest/v1/profiles?user_id=eq.${userId}`, {
+    method: 'PATCH',
+    headers: {
+      apikey: env.SUPABASE_SERVICE_ROLE_KEY,
+      Authorization: `Bearer ${env.SUPABASE_SERVICE_ROLE_KEY}`,
+      'Content-Type': 'application/json',
+      Prefer: 'return=minimal',
+    },
+    body: JSON.stringify({ is_premium: true }),
+  });
 
   if (!supabaseResponse.ok) {
     const errorText = await supabaseResponse.text();
-    console.error("❌ Supabase update failed:", supabaseResponse.status, errorText);
-    return new Response("Database update failed", { status: 500 });
+    console.error('❌ Supabase update failed:', supabaseResponse.status, errorText);
+    return new Response('Database update failed', { status: 500 });
   }
 
   console.log(`✅ Premium unlocked for user ${userId}`);
-  return new Response("OK", { status: 200 });
+  return new Response('OK', { status: 200 });
 }
 
 // --- Signature verification (Standard Webhooks / Svix-compatible HMAC-SHA256) ---
@@ -112,36 +109,23 @@ async function verifyPolarSignature(
   signatureHeader: string
 ): Promise<boolean> {
   // The secret comes as "whsec_<base64>". Strip prefix and base64-decode.
-  const secretBytes = Uint8Array.from(
-    atob(secret.replace("whsec_", "")),
-    (c) => c.charCodeAt(0)
-  );
+  const secretBytes = Uint8Array.from(atob(secret.replace('whsec_', '')), (c) => c.charCodeAt(0));
 
   // The signed payload format: webhook-id.webhook-timestamp.body
   const signedPayload = `${webhookId}.${webhookTimestamp}.${body}`;
 
   // Compute HMAC-SHA256
-  const key = await crypto.subtle.importKey(
-    "raw",
-    secretBytes,
-    { name: "HMAC", hash: "SHA-256" },
-    false,
-    ["sign"]
-  );
-  const signature = await crypto.subtle.sign(
-    "HMAC",
-    key,
-    new TextEncoder().encode(signedPayload)
-  );
+  const key = await crypto.subtle.importKey('raw', secretBytes, { name: 'HMAC', hash: 'SHA-256' }, false, ['sign']);
+  const signature = await crypto.subtle.sign('HMAC', key, new TextEncoder().encode(signedPayload));
 
   // Base64-encode the computed signature
   const expectedSig = btoa(String.fromCharCode(...new Uint8Array(signature)));
 
   // Header format: "v1,XXXXX v1,YYYYY" (space-separated, may have multiple versions)
-  const receivedSigs = signatureHeader.split(" ");
+  const receivedSigs = signatureHeader.split(' ');
   for (const sig of receivedSigs) {
-    const [version, value] = sig.split(",");
-    if (version === "v1" && value === expectedSig) {
+    const [version, value] = sig.split(',');
+    if (version === 'v1' && value === expectedSig) {
       return true;
     }
   }
@@ -150,5 +134,5 @@ async function verifyPolarSignature(
 
 // Handle GET requests (for sanity-checking the endpoint is deployed)
 export async function onRequestGet(): Promise<Response> {
-  return new Response("Polar webhook endpoint is live. POST only.", { status: 405 });
+  return new Response('Polar webhook endpoint is live. POST only.', { status: 405 });
 }
