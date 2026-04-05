@@ -128673,6 +128673,3270 @@
 					"Tech"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "He was insulted during a TV interview",
+						"difficulty": "Easy",
+						"explanation": "Gnasty Gnorc was watching a live TV interview where the dragons called him 'ugly' and 'no threat,' prompting him to cast his crystal spell immediately.",
+						"image_url": "https://skillcheckgame.com/assets/images/gnasty_gnorc.webp",
+						"question": "What is the primary motivation for this villain's attack on the Dragon Realms?",
+						"wrong": [
+							"He wanted to eat all the dragon eggs",
+							"He was hungry for gems",
+							"He wanted to prove he could fly"
+						]
+					},
+					{
+						"correct": "PlayStation",
+						"difficulty": "Easy",
+						"explanation": "The original Spyro the Dragon was a flagship title for the first PlayStation console in 1998.",
+						"image_url": "",
+						"question": "On which original console did this green villain first appear?",
+						"wrong": [
+							"Nintendo 64",
+							"Sega Saturn",
+							"Dreamcast"
+						]
+					},
+					{
+						"correct": "A magic mace",
+						"difficulty": "Easy",
+						"explanation": "Gnasty uses a powerful scepter or mace to channel magic that encases dragons in crystalline shells.",
+						"image_url": "",
+						"question": "What does this villain use to trap the dragons in crystal statues?",
+						"wrong": [
+							"A magic wand",
+							"A dragon-trapping net",
+							"A cursed mirror"
+						]
+					},
+					{
+						"correct": "Gnome and Orc",
+						"difficulty": "Easy",
+						"explanation": "His name, 'Gnorc', is a portmanteau of Gnome and Orc.",
+						"image_url": "",
+						"question": "What is the hybrid race of this villain?",
+						"wrong": [
+							"Goblin and Troll",
+							"Giant and Ogre",
+							"Gremlin and Orc"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Gnasty Gnorc is famously green and wears golden armor.",
+						"image_url": "",
+						"question": "What color is this villain's skin?",
+						"wrong": [
+							"Purple",
+							"Red",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Gnasty's World",
+						"difficulty": "Medium",
+						"explanation": "The final world of the first game is a mechanical, junkyard-themed realm named after the villain himself.",
+						"image_url": "https://skillcheckgame.com/assets/images/gnasty_gnorc.webp",
+						"question": "Where does the final showdown with this villain take place?",
+						"wrong": [
+							"The Artisan Home",
+							"Dream Weavers",
+							"Midnight Mountain"
+						]
+					},
+					{
+						"correct": "An army of Gnorcs",
+						"difficulty": "Medium",
+						"explanation": "Gnasty Gnorc uses a magic spell to transform the dragons' precious gems into loyal soldiers.",
+						"image_url": "",
+						"question": "What does this villain turn the Dragon Realms' gems into?",
+						"wrong": [
+							"Crystal statues",
+							"Fire-breathing lizards",
+							"Explosive barrels"
+						]
+					},
+					{
+						"correct": "Gnasty Gnorc",
+						"difficulty": "Medium",
+						"explanation": "The final level shares the same name as the villain, where you must chase him down across moving platforms.",
+						"image_url": "",
+						"question": "What is the name of the final level where you directly fight this villain?",
+						"wrong": [
+							"Twilight Harbor",
+							"Gnorc Cove",
+							"Dragon Shores"
+						]
+					},
+					{
+						"correct": "Chase him through a timed obstacle course",
+						"difficulty": "Medium",
+						"explanation": "The fight is unique because it is primarily a race where you must navigate platforms quickly before the villain escapes.",
+						"image_url": "",
+						"question": "In the final battle, what must Spyro do to catch this villain?",
+						"wrong": [
+							"Breathe ice on him",
+							"Solve a series of puzzles",
+							"Defeat 100 Gnorcs first"
+						]
+					},
+					{
+						"correct": "Calling him simple and ugly",
+						"difficulty": "Medium",
+						"explanation": "When Lindar called him 'simple' and 'ugly,' Gnasty took it personally and launched his attack.",
+						"image_url": "",
+						"question": "Which specific insult by the Dragon Elders triggered his magic attack?",
+						"wrong": [
+							"Calling him a coward",
+							"Calling him a thief",
+							"Mocking his lack of wings"
+						]
+					},
+					{
+						"correct": "Twilight Harbor",
+						"difficulty": "Hard",
+						"explanation": "Twilight Harbor is the final standard level of the game, featuring Gnorcs with guns.",
+						"image_url": "https://skillcheckgame.com/assets/images/gnasty_gnorc.webp",
+						"question": "What is the name of the industrial-themed level right before the final boss?",
+						"wrong": [
+							"Metalhead",
+							"Industrial Port",
+							"Gnorc Harbor"
+						]
+					},
+					{
+						"correct": "The Dragon Junkyard",
+						"difficulty": "Hard",
+						"explanation": "The dragons banished him to a junkyard, which he eventually transformed into his personal base.",
+						"image_url": "",
+						"question": "According to the lore, where was the villain banished to before the game starts?",
+						"wrong": [
+							"The Forgotten Realms",
+							"The Shadow Realm",
+							"The Frozen Wastes"
+						]
+					},
+					{
+						"correct": "Gnasty's Loot",
+						"difficulty": "Hard",
+						"explanation": "Gnasty's Loot is a flying level where Spyro can collect massive amounts of gems as a reward for 100 percent completion.",
+						"image_url": "",
+						"question": "What is the name of the secret 100 percent completion level in his world?",
+						"wrong": [
+							"The Vault",
+							"Dragon Shores",
+							"Gnorc Treasure"
+						]
+					},
+					{
+						"correct": "Commandos",
+						"difficulty": "Hard",
+						"explanation": "Twilight Harbor and Gnorc Cove feature industrial Gnorcs like Commandos and Engineers.",
+						"image_url": "",
+						"question": "Which of these Gnorc types is found specifically in Gnasty's world?",
+						"wrong": [
+							"Shield Gnorcs",
+							"Electric Gnorcs",
+							"Archer Gnorcs"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Hard",
+						"explanation": "In the Reignited Trilogy, his mace glows with a sickly green magical energy that matches his skin.",
+						"image_url": "",
+						"question": "In the remake, what color are the glowing runes on his mace?",
+						"wrong": [
+							"Red",
+							"Purple",
+							"Yellow"
+						]
+					}
+				]
+			},
+			"id": "spyro_gnasty_gnorc",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Gnasty Gnorc",
+				"lore_desc": "A half-Gnome, half-Orc creature who was banished to the Dragon Junkyard for his bad attitude. He retaliated by trapping all dragons in crystal and turning their gems into a Gnorc army.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Gnasty Gnorc",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Gnorc",
+					"Boss"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Crush",
+						"difficulty": "Easy",
+						"explanation": "Crush is the first of Ripto's two loyal (but dim-witted) minions that Spyro must face.",
+						"image_url": "https://skillcheckgame.com/assets/images/ripto.webp",
+						"question": "What is the name of this villain's massive orange dinosaur henchman?",
+						"wrong": [
+							"Gulp",
+							"Bash",
+							"Gnosh"
+						]
+					},
+					{
+						"correct": "A Riptoc",
+						"difficulty": "Easy",
+						"explanation": "Ripto belongs to a race known as Riptocs, though he is much shorter and more magical than the ones Spyro fights.",
+						"image_url": "",
+						"question": "What kind of creature is this villain usually identified as?",
+						"wrong": [
+							"A Gnorc",
+							"A Dragon",
+							"A Rhynoc"
+						]
+					},
+					{
+						"correct": "Spyro 2: Ripto's Rage",
+						"difficulty": "Easy",
+						"explanation": "Ripto was introduced in the second game, known as Ripto's Rage in North America and Gateway to Glimmer in Europe.",
+						"image_url": "",
+						"question": "Which game in the series marked this villain's debut?",
+						"wrong": [
+							"Spyro the Dragon",
+							"Spyro: Year of the Dragon",
+							"Spyro: Enter the Dragonfly"
+						]
+					},
+					{
+						"correct": "A scepter",
+						"difficulty": "Easy",
+						"explanation": "Ripto is rarely seen without his magic scepter, which he uses to cast spells and blast Spyro.",
+						"image_url": "",
+						"question": "What item does this villain use to channel his magic?",
+						"wrong": [
+							"A book",
+							"A hat",
+							"A ring"
+						]
+					},
+					{
+						"correct": "Dragons",
+						"difficulty": "Easy",
+						"explanation": "Ripto's defining character trait is his absolute loathing of dragons, which is why he was so upset to find Spyro in Avalar.",
+						"image_url": "",
+						"question": "What animal does this villain have a deep-seated hatred for?",
+						"wrong": [
+							"Cheetahs",
+							"Fauns",
+							"Moles"
+						]
+					},
+					{
+						"correct": "Gulp",
+						"difficulty": "Medium",
+						"explanation": "Gulp is a large green beast that Ripto rides into battle during their second boss encounter.",
+						"image_url": "https://skillcheckgame.com/assets/images/ripto.webp",
+						"question": "What is the name of Ripto's four-legged green minion who eats metal objects?",
+						"wrong": [
+							"Crunch",
+							"Grip",
+							"Chomp"
+						]
+					},
+					{
+						"correct": "Winter Tundra",
+						"difficulty": "Medium",
+						"explanation": "After defeating him in the first two hubs, Spyro faces Ripto for the final time in the Winter Tundra boss arena.",
+						"image_url": "",
+						"question": "In which realm does the final battle against Ripto take place?",
+						"wrong": [
+							"Summer Forest",
+							"Autumn Plains",
+							"Sunrise Spring"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Medium",
+						"explanation": "Ripto is a small, bright red creature who wears a purple cape.",
+						"image_url": "",
+						"question": "What color is Ripto's skin?",
+						"wrong": [
+							"Purple",
+							"Green",
+							"Orange"
+						]
+					},
+					{
+						"correct": "Orbs",
+						"difficulty": "Medium",
+						"explanation": "Hunter drops orbs into the arena, and both Spyro and Ripto try to collect three of them to gain a super power-up.",
+						"image_url": "",
+						"question": "What do Ripto and Spyro compete for during the final phase of their boss fight?",
+						"wrong": [
+							"Gems",
+							"Talismans",
+							"Dragon Eggs"
+						]
+					},
+					{
+						"correct": "He was summoned by a portal experiment",
+						"difficulty": "Medium",
+						"explanation": "The Professor was trying to bring a dragon to Avalar but accidentally pulled Ripto and his henchmen through instead.",
+						"image_url": "",
+						"question": "How did Ripto accidentally end up in the world of Avalar?",
+						"wrong": [
+							"He took a wrong turn in a tunnel",
+							"He was born there",
+							"He was banished from the Dragon Realms"
+						]
+					},
+					{
+						"correct": "A robotic bird",
+						"difficulty": "Hard",
+						"explanation": "In the final phase of the battle, Ripto constructs a mechanical bird to engage Spyro in an aerial dogfight.",
+						"image_url": "https://skillcheckgame.com/assets/images/ripto.webp",
+						"question": "During his final phase, what creature does Ripto create to fight Spyro in the air?",
+						"wrong": [
+							"A dragon clone",
+							"A giant bat",
+							"A flying turtle"
+						]
+					},
+					{
+						"correct": "Ripto's Arena",
+						"difficulty": "Hard",
+						"explanation": "The boss level is simply titled 'Ripto's Arena' and is found in the Winter Tundra home world.",
+						"image_url": "",
+						"question": "What is the name of the arena where Spyro first fights Ripto one-on-one?",
+						"wrong": [
+							"Dungeon of Fire",
+							"The Dragon Pit",
+							"The Tundra Peak"
+						]
+					},
+					{
+						"correct": "He was bullied by them as a child",
+						"difficulty": "Hard",
+						"explanation": "Instruction manuals and lore blurbs suggest Ripto's hatred stems from being picked on by dragons when he was younger.",
+						"image_url": "",
+						"question": "Why does Ripto hate dragons so much according to early lore materials?",
+						"wrong": [
+							"They stole his magic",
+							"They burned his home",
+							"He thinks they are too loud"
+						]
+					},
+					{
+						"correct": "Gnasty Gnorc",
+						"difficulty": "Hard",
+						"explanation": "The secret epilogue shows Ripto and Gnasty Gnorc meeting to discuss their mutual hatred of Spyro.",
+						"image_url": "",
+						"question": "In the 'Year of the Dragon' epilogue, who does Ripto team up with?",
+						"wrong": [
+							"The Sorceress",
+							"Moneybags",
+							"Bianca"
+						]
+					},
+					{
+						"correct": "A massive plant-based shockwave",
+						"difficulty": "Hard",
+						"explanation": "The green orbs provide a nature/earth based area-of-effect attack that Spyro must jump over.",
+						"image_url": "",
+						"question": "What power does Ripto gain if he collects three GREEN orbs in the final fight?",
+						"wrong": [
+							"Super fire breath",
+							"A protective shield",
+							"Lightning bolts"
+						]
+					}
+				]
+			},
+			"id": "spyro_ripto",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Ripto",
+				"lore_desc": "A short, dragon-hating sorcerer who accidentally entered the world of Avalar. He seeks to conquer it and rid it of all dragons, despite being significantly smaller than his henchmen.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Ripto",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Avalar",
+					"Magic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Spyro",
+						"difficulty": "Easy",
+						"explanation": "Artisans is the very first world Spyro explores in the 1998 original game.",
+						"image_url": "https://skillcheckgame.com/assets/images/artisans.webp",
+						"question": "This location is the starting home world for which iconic purple dragon?",
+						"wrong": [
+							"Cinder",
+							"Ember",
+							"Malefor"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "The Artisans world is defined by its rolling green hills and lush meadows.",
+						"image_url": "",
+						"question": "What is the primary color of the landscape in this peaceful home world?",
+						"wrong": [
+							"Red",
+							"Purple",
+							"Sand Brown"
+						]
+					},
+					{
+						"correct": "Rescue dragons from crystal",
+						"difficulty": "Easy",
+						"explanation": "As the first world of Spyro 1, the core mechanic is freeing the dragons Gnasty Gnorc trapped in stone.",
+						"image_url": "",
+						"question": "What is the main task Spyro must perform in this world to progress?",
+						"wrong": [
+							"Find dragon eggs",
+							"Collect orbs",
+							"Defeat Ripto"
+						]
+					},
+					{
+						"correct": "Sheep",
+						"difficulty": "Easy",
+						"explanation": "Sheep are the primary source of butterflies (fodder) in the Artisans world.",
+						"image_url": "",
+						"question": "Which of these animals can be seen hopping around the fields for Spyro to flame?",
+						"wrong": [
+							"Chickens",
+							"Frogs",
+							"Crabs"
+						]
+					},
+					{
+						"correct": "The Dragon Realms",
+						"difficulty": "Easy",
+						"explanation": "The first game takes place entirely within the Dragon Realms, divided into five dragon-family territories.",
+						"image_url": "",
+						"question": "Artisans is a world found within which larger geographical region?",
+						"wrong": [
+							"Avalar",
+							"The Forgotten Worlds",
+							"The Shadow Realm"
+						]
+					},
+					{
+						"correct": "Nestor",
+						"difficulty": "Medium",
+						"explanation": "Nestor is the leader of the Artisan dragons and gives Spyro his first instructions.",
+						"image_url": "https://skillcheckgame.com/assets/images/artisans.webp",
+						"question": "What is the name of the first dragon Spyro rescues, who stands directly in front of him at the start?",
+						"wrong": [
+							"Lindar",
+							"Gavin",
+							"Tomas"
+						]
+					},
+					{
+						"correct": "Town Square",
+						"difficulty": "Medium",
+						"explanation": "Town Square is famous for its classic European architecture and the bull enemies that charge at Spyro.",
+						"image_url": "",
+						"question": "Which level in the Artisans world features a town with a fountain and many bulls?",
+						"wrong": [
+							"Stone Hill",
+							"Dark Hollow",
+							"Sunny Flight"
+						]
+					},
+					{
+						"correct": "Sunny Flight",
+						"difficulty": "Medium",
+						"explanation": "Sunny Flight is the first speedway level where Spyro must fly through rings and arches against a timer.",
+						"image_url": "",
+						"question": "What is the name of the flight-based bonus level found in the Artisans world?",
+						"wrong": [
+							"Night Flight",
+							"Crystal Flight",
+							"Icy Flight"
+						]
+					},
+					{
+						"correct": "The Balloonist",
+						"difficulty": "Medium",
+						"explanation": "The Balloonists are the main NPCs that transport Spyro between the five main home worlds in the first game.",
+						"image_url": "",
+						"question": "In the Artisans home world, where must Spyro go to travel to the next world?",
+						"wrong": [
+							"A Portal",
+							"A Whirlwind",
+							"A Rocket"
+						]
+					},
+					{
+						"correct": "Dark Hollow",
+						"difficulty": "Medium",
+						"explanation": "Dark Hollow is a night-themed level where dragons study literature and history.",
+						"image_url": "",
+						"question": "Which level in this world is known for its library and dark, indoor atmosphere?",
+						"wrong": [
+							"Stone Hill",
+							"Haunted Towers",
+							"Lofty Castle"
+						]
+					},
+					{
+						"correct": "Toasty",
+						"difficulty": "Hard",
+						"explanation": "Toasty is a sheep standing on stilts disguised as a scarecrow, acting as the first boss.",
+						"image_url": "https://skillcheckgame.com/assets/images/artisans.webp",
+						"question": "What is the name of the boss who resides in the Artisans world?",
+						"wrong": [
+							"Doctor Shemp",
+							"Blowhard",
+							"Metalhead"
+						]
+					},
+					{
+						"correct": "Jump on the five stones in the water",
+						"difficulty": "Hard",
+						"explanation": "Spyro must jump across five small stepping stones in the pond to make the portal appear.",
+						"image_url": "",
+						"question": "In the Artisans world, how do you open the secret entrance to Sunny Flight?",
+						"wrong": [
+							"Flame all the bushes",
+							"Headbash the well",
+							"Speak to Nestor three times"
+						]
+					},
+					{
+						"correct": "Argus",
+						"difficulty": "Hard",
+						"explanation": "Argus stands near the exit to the next world and provides camera tips.",
+						"image_url": "",
+						"question": "Which dragon in the Artisans world tells you how to use the 'Look' camera feature?",
+						"wrong": [
+							"Delbin",
+							"Nils",
+							"Thor"
+						]
+					},
+					{
+						"correct": "Ram",
+						"difficulty": "Hard",
+						"explanation": "The Rams in Stone Hill will duck down, requiring Spyro to charge them instead of flaming.",
+						"image_url": "",
+						"question": "What unique enemy type in Stone Hill hides inside their shells to avoid fire?",
+						"wrong": [
+							"Gnorc",
+							"Turtle",
+							"Armadillo"
+						]
+					},
+					{
+						"correct": "Darius",
+						"difficulty": "Hard",
+						"explanation": "Darius is found at the end of the Dark Hollow level, surrounded by books.",
+						"image_url": "",
+						"question": "What is the name of the dragon trapped in the Dark Hollow library?",
+						"wrong": [
+							"Oswin",
+							"Alban",
+							"Gildas"
+						]
+					}
+				]
+			},
+			"id": "spyro_artisans",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Artisans",
+				"lore_desc": "The lush, green home of the Artisan dragons, known for their love of art, music, and poetry. It is the very first area Spyro explores in his original adventure.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Artisans",
+			"profiler": {
+				"vibe_tags": [
+					"Home World",
+					"Dragon Realms",
+					"Peaceful"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Desert",
+						"difficulty": "Easy",
+						"explanation": "The Peace Keepers world is famous for its dry, sandy canyons and scorching sun.",
+						"image_url": "https://skillcheckgame.com/assets/images/peace_keepers.webp",
+						"question": "What is the primary climate of the Peace Keepers home world?",
+						"wrong": [
+							"Snowy",
+							"Tropical",
+							"Swamp"
+						]
+					},
+					{
+						"correct": "Cannons",
+						"difficulty": "Easy",
+						"explanation": "Many Gnorcs in the Peace Keepers world operate heavy cannons that Spyro can also use.",
+						"image_url": "",
+						"question": "What type of weapon do the Gnorcs in this world frequently use to attack Spyro?",
+						"wrong": [
+							"Laser guns",
+							"Slingshots",
+							"Boomerangs"
+						]
+					},
+					{
+						"correct": "Doctor Shemp",
+						"difficulty": "Easy",
+						"explanation": "Doctor Shemp is a giant Gnorc who stands on a high pedestal and must be hit in the back.",
+						"image_url": "",
+						"question": "What is the name of the boss who wears a large robe and sunglasses in this world?",
+						"wrong": [
+							"Gnasty Gnorc",
+							"Toasty",
+							"Blowhard"
+						]
+					},
+					{
+						"correct": "They moon him",
+						"difficulty": "Easy",
+						"explanation": "The Peace Keeper Gnorcs are known for their cheeky behavior, literally mooning Spyro from inside their tents.",
+						"image_url": "",
+						"question": "How do Gnorcs in this world often react when Spyro defeats their leaders?",
+						"wrong": [
+							"They explode",
+							"They surrender",
+							"They turn into gems"
+						]
+					},
+					{
+						"correct": "Brown and Tan",
+						"difficulty": "Easy",
+						"explanation": "Reflecting their desert environment and military nature, these dragons often have earth-toned scales.",
+						"image_url": "",
+						"question": "What color are the dragons of the Peace Keepers family usually associated with?",
+						"wrong": [
+							"Green",
+							"Blue",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Ice Cavern",
+						"difficulty": "Medium",
+						"explanation": "Despite the desert theme of the hub, the Ice Cavern level introduces slippery physics and bats.",
+						"image_url": "https://skillcheckgame.com/assets/images/peace_keepers.webp",
+						"question": "Which level in the Peace Keepers world features an ice-covered floor and slippery movement?",
+						"wrong": [
+							"Dry Canyon",
+							"Cliff Town",
+							"Night Flight"
+						]
+					},
+					{
+						"correct": "Cannons",
+						"difficulty": "Medium",
+						"explanation": "Spyro must flame the back of the cannons to fire them at the reinforced metal and rock chests.",
+						"image_url": "",
+						"question": "What must Spyro use to destroy the large rock chests found in this home world?",
+						"wrong": [
+							"Headbash",
+							"Supercharge",
+							"Fire breath"
+						]
+					},
+					{
+						"correct": "Dry Canyon",
+						"difficulty": "Medium",
+						"explanation": "Dry Canyon is filled with vultures and Egg Thieves that Spyro must chase across gaps.",
+						"image_url": "",
+						"question": "What is the name of the thief-heavy level where Spyro must glide between tall desert mesas?",
+						"wrong": [
+							"Cliff Town",
+							"Stone Hill",
+							"Alpine Ridge"
+						]
+					},
+					{
+						"correct": "Gosnold the Balloonist",
+						"difficulty": "Medium",
+						"explanation": "Gosnold is the balloonist stationed in the Peace Keepers world.",
+						"image_url": "",
+						"question": "Which NPC in this world tells Spyro that he needs to save more dragons to fly the balloon?",
+						"wrong": [
+							"Marco the Balloonist",
+							"Tuco the Balloonist",
+							"Kevin the Balloonist"
+						]
+					},
+					{
+						"correct": "Vultures",
+						"difficulty": "Medium",
+						"explanation": "Cliff Town is famous for its Vultures that drop from the sky and the Gnorc ladies who hit you with handbags.",
+						"image_url": "",
+						"question": "What are the primary enemies in Cliff Town that wear large hats?",
+						"wrong": [
+							"Gnorcs",
+							"Dogs",
+							"Bears"
+						]
+					},
+					{
+						"correct": "Titan",
+						"difficulty": "Hard",
+						"explanation": "Titan is the lead Peace Keeper who greets Spyro as he enters the desert.",
+						"image_url": "https://skillcheckgame.com/assets/images/peace_keepers.webp",
+						"question": "What is the name of the first dragon you rescue in the Peace Keepers home world?",
+						"wrong": [
+							"Magnus",
+							"Gunnar",
+							"Conan"
+						]
+					},
+					{
+						"correct": "Dry Canyon",
+						"difficulty": "Hard",
+						"explanation": "While Thieves appear in home worlds, Dry Canyon is a prominent level for this mechanic in the second world.",
+						"image_url": "",
+						"question": "Which Peace Keepers level is the first to introduce the 'Egg Thief' chase mechanic?",
+						"wrong": [
+							"Cliff Town",
+							"Ice Cavern",
+							"Artisans Home"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "There are exactly two cannons in the hub world used for clearing paths and breaking chests.",
+						"image_url": "",
+						"question": "In the Peace Keepers world, how many cannons are available for Spyro to use in the hub?",
+						"wrong": [
+							"One",
+							"Three",
+							"Four"
+						]
+					},
+					{
+						"correct": "Night Flight",
+						"difficulty": "Hard",
+						"explanation": "Night Flight takes place in a dark, star-filled canyon and is notably harder than Sunny Flight.",
+						"image_url": "",
+						"question": "What is the name of the flight level in the Peace Keepers world?",
+						"wrong": [
+							"Sunny Flight",
+							"Crystal Flight",
+							"Icy Flight"
+						]
+					},
+					{
+						"correct": "Ragnar",
+						"difficulty": "Hard",
+						"explanation": "Ragnar is found early in the Ice Cavern level to warn players about the slippery floors.",
+						"image_url": "",
+						"question": "Which dragon in Ice Cavern tells you to 'be careful on the ice'?",
+						"wrong": [
+							"Ulric",
+							"Toddy",
+							"Andor"
+						]
+					}
+				]
+			},
+			"id": "spyro_peace_keepers",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Peace Keepers",
+				"lore_desc": "The second home world in the Dragon Realms, inhabited by strong, battle-hardened dragons. The landscape is a mix of dry deserts, canyons, and military outposts.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Peace Keepers",
+			"profiler": {
+				"vibe_tags": [
+					"Home World",
+					"Dragon Realms",
+					"Desert"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Supercharge",
+						"difficulty": "Easy",
+						"explanation": "Magic Crafters is where Spyro first uses the green arrow ramps to reach incredible speeds.",
+						"image_url": "https://skillcheckgame.com/assets/images/magic_crafters.webp",
+						"question": "What iconic gameplay mechanic is heavily featured in the Magic Crafters world for the first time?",
+						"wrong": [
+							"Swimming",
+							"Climbing",
+							"Headbashing"
+						]
+					},
+					{
+						"correct": "High Mountains",
+						"difficulty": "Easy",
+						"explanation": "The Magic Crafters live in remote, snowy mountain peaks to conduct their magic in peace.",
+						"image_url": "",
+						"question": "What kind of terrain is this home world set in?",
+						"wrong": [
+							"Deep Ocean",
+							"Underground Lava",
+							"Tropical Beach"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "The wizards in this world wear long blue robes and can move platforms or shoot bolts.",
+						"image_url": "",
+						"question": "What color are the wizard-like Gnorcs that populate this world?",
+						"wrong": [
+							"Red",
+							"Orange",
+							"Pink"
+						]
+					},
+					{
+						"correct": "Alpine Ridge",
+						"difficulty": "Easy",
+						"explanation": "Alpine Ridge is a classic Magic Crafters level featuring giant mountain beasts.",
+						"image_url": "",
+						"question": "Which of these levels is found within the Magic Crafters world?",
+						"wrong": [
+							"Stone Hill",
+							"Tree Tops",
+							"Dark Passage"
+						]
+					},
+					{
+						"correct": "Studying magic and making items",
+						"difficulty": "Easy",
+						"explanation": "As the name suggests, the Magic Crafters are the intellectuals and magicians of the Dragon Realms.",
+						"image_url": "",
+						"question": "What is the primary role of the dragons that live here?",
+						"wrong": [
+							"Mining gems",
+							"Gardening",
+							"Military training"
+						]
+					},
+					{
+						"correct": "Blowhard",
+						"difficulty": "Medium",
+						"explanation": "Blowhard is a storm-wizard boss that Spyro must chase through a series of caves.",
+						"image_url": "https://skillcheckgame.com/assets/images/magic_crafters.webp",
+						"question": "What is the name of the boss who teleports and hides behind fans in this world?",
+						"wrong": [
+							"Metalhead",
+							"Toasty",
+							"Doctor Shemp"
+						]
+					},
+					{
+						"correct": "Move walls and platforms",
+						"difficulty": "Medium",
+						"explanation": "Green-robed Druids use their magic to move platforms back and forth, often trying to crush Spyro or block his path.",
+						"image_url": "",
+						"question": "What do the Druid enemies do to the environment in the Magic Crafters world?",
+						"wrong": [
+							"Make it rain",
+							"Create gem duplicates",
+							"Freeze Spyro"
+						]
+					},
+					{
+						"correct": "High Caves",
+						"difficulty": "Medium",
+						"explanation": "High Caves features the infamous 'armored spiders' that can only be defeated with Supercharge or Superflame.",
+						"image_url": "",
+						"question": "What is the name of the level that consists of multiple high towers and difficult glides?",
+						"wrong": [
+							"Wizard Peak",
+							"Alpine Ridge",
+							"Crystal Flight"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Medium",
+						"explanation": "Supercharge ramps are always marked with glowing green arrows on the floor.",
+						"image_url": "",
+						"question": "What color are the Supercharge ramps found in this world?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Egg Thief",
+						"difficulty": "Medium",
+						"explanation": "The Magic Crafters hub has multiple thieves that taunt Spyro and lead him on long chases.",
+						"image_url": "",
+						"question": "Which character in the Magic Crafters hub is an annoying thief you must chase for a key?",
+						"wrong": [
+							"Moneybags",
+							"Ripto",
+							"Gnorc"
+						]
+					},
+					{
+						"correct": "Cosmos",
+						"difficulty": "Hard",
+						"explanation": "Cosmos is the dragon who explains the nature of the Magic Crafters home world to Spyro.",
+						"image_url": "https://skillcheckgame.com/assets/images/magic_crafters.webp",
+						"question": "What is the name of the first dragon you rescue in the Magic Crafters hub?",
+						"wrong": [
+							"Zantor",
+							"Boldar",
+							"Mane"
+						]
+					},
+					{
+						"correct": "Wizard Peak",
+						"difficulty": "Hard",
+						"explanation": "Wizard Peak is the definitive Supercharge level of the first game, requiring a long chain of jumps to reach the end.",
+						"image_url": "",
+						"question": "Which level in this world features 'Wizard Peak' where you must chain Supercharges?",
+						"wrong": [
+							"Alpine Ridge",
+							"High Caves",
+							"Lofty Castle"
+						]
+					},
+					{
+						"correct": "Supercharge or Superflame",
+						"difficulty": "Hard",
+						"explanation": "Normal attacks bounce off the spiders; you must use the Supercharge ramp or the Superflame power-up fairy.",
+						"image_url": "",
+						"question": "How do you defeat the giant armored spiders in the High Caves level?",
+						"wrong": [
+							"Normal Charge",
+							"Normal Flame",
+							"Headbash"
+						]
+					},
+					{
+						"correct": "Crystal Flight",
+						"difficulty": "Hard",
+						"explanation": "Crystal Flight is the third speedway, featuring crystalline structures and electrified rings.",
+						"image_url": "",
+						"question": "What is the name of the speedway level in Magic Crafters?",
+						"wrong": [
+							"Sunny Flight",
+							"Night Flight",
+							"Icy Flight"
+						]
+					},
+					{
+						"correct": "Throw chunks of ice",
+						"difficulty": "Hard",
+						"explanation": "The large hairy beasts in Alpine Ridge will throw large blocks of ice at Spyro if he lingers.",
+						"image_url": "",
+						"question": "In Alpine Ridge, what do the large 'Beast' enemies do when you get close?",
+						"wrong": [
+							"Roar and stun you",
+							"Turn into stone",
+							"Eat you"
+						]
+					}
+				]
+			},
+			"id": "spyro_magic_crafters",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Magic Crafters",
+				"lore_desc": "The third home world, located high in the snowy mountains. It is the home of dragons who specialize in magical research and the creation of artifacts.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Magic Crafters",
+			"profiler": {
+				"vibe_tags": [
+					"Home World",
+					"Dragon Realms",
+					"Magic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Swamp",
+						"difficulty": "Easy",
+						"explanation": "Beast Makers is a murky, dark world filled with swamps, mud, and wooden walkways.",
+						"image_url": "https://skillcheckgame.com/assets/images/beast_makers.webp",
+						"question": "What is the main environmental theme of the Beast Makers world?",
+						"wrong": [
+							"Snow",
+							"Desert",
+							"Outer Space"
+						]
+					},
+					{
+						"correct": "Metalhead",
+						"difficulty": "Easy",
+						"explanation": "Metalhead is a giant robot Gnorc powered by electrical pylons.",
+						"image_url": "",
+						"question": "What is the name of the mechanical boss who throws lightning and resides in this world?",
+						"wrong": [
+							"Gnorc",
+							"Toasty",
+							"Blowhard"
+						]
+					},
+					{
+						"correct": "Poisonous swamp water",
+						"difficulty": "Easy",
+						"explanation": "The murky water in Beast Makers is dangerous and will cause Spyro to lose a life quickly.",
+						"image_url": "",
+						"question": "What is the primary danger if Spyro falls off the walkways in the Beast Makers hub?",
+						"wrong": [
+							"Bottomless pit",
+							"Lava",
+							"Spiked floor"
+						]
+					},
+					{
+						"correct": "Tree Tops",
+						"difficulty": "Easy",
+						"explanation": "Tree Tops is one of the most famous levels in the series due to its complex Supercharge ramps.",
+						"image_url": "",
+						"question": "Which of these levels is famously found in the Beast Makers world and involves massive jumps?",
+						"wrong": [
+							"Stone Hill",
+							"Town Square",
+							"Dry Canyon"
+						]
+					},
+					{
+						"correct": "The animals found in other worlds",
+						"difficulty": "Easy",
+						"explanation": "Lore states the Beast Makers are the architects of the diverse wildlife across the Dragon Realms.",
+						"image_url": "",
+						"question": "What kind of 'beasts' do the dragons here supposedly create?",
+						"wrong": [
+							"Only Gnorcs",
+							"Robots",
+							"Dragon clones"
+						]
+					},
+					{
+						"correct": "Power pylons",
+						"difficulty": "Medium",
+						"explanation": "Metalhead is invincible until Spyro charges or flames the glowing power pylons providing his shield.",
+						"image_url": "https://skillcheckgame.com/assets/images/beast_makers.webp",
+						"question": "What must Spyro destroy to damage the boss Metalhead?",
+						"wrong": [
+							"His legs",
+							"His head",
+							"His shield"
+						]
+					},
+					{
+						"correct": "Misty Bog",
+						"difficulty": "Medium",
+						"explanation": "Misty Bog is a challenging level filled with 'Attack Frogs' and 'Boar-dogs'.",
+						"image_url": "",
+						"question": "Which level in the Beast Makers world features misty swamps and attack dogs?",
+						"wrong": [
+							"Dark Passage",
+							"Wild Flight",
+							"Haunted Towers"
+						]
+					},
+					{
+						"correct": "He sinks",
+						"difficulty": "Medium",
+						"explanation": "The thick mud in levels like Misty Bog acts like quicksand, pulling Spyro down.",
+						"image_url": "",
+						"question": "What happens if Spyro stands in the mud for too long in some Beast Makers levels?",
+						"wrong": [
+							"He gets faster",
+							"He turns green",
+							"He loses gems"
+						]
+					},
+					{
+						"correct": "Dark Passage",
+						"difficulty": "Medium",
+						"explanation": "In Dark Passage, Gnorcs appear as massive demons in the shadows but shrink when exposed to the light of the fireflies.",
+						"image_url": "",
+						"question": "Which level is a series of caves where enemies look much larger in the dark?",
+						"wrong": [
+							"Ice Cavern",
+							"High Caves",
+							"Gnorc Cove"
+						]
+					},
+					{
+						"correct": "Wild Flight",
+						"difficulty": "Medium",
+						"explanation": "Wild Flight is set in a green, foggy canyon with narrow tunnels.",
+						"image_url": "",
+						"question": "What is the flight-based level found in the Beast Makers world?",
+						"wrong": [
+							"Sunny Flight",
+							"Night Flight",
+							"Icy Flight"
+						]
+					},
+					{
+						"correct": "Bruno",
+						"difficulty": "Hard",
+						"explanation": "Bruno is the lead dragon who welcomes Spyro to the swampy home world.",
+						"image_url": "https://skillcheckgame.com/assets/images/beast_makers.webp",
+						"question": "What is the name of the first dragon you rescue in the Beast Makers hub?",
+						"wrong": [
+							"Claude",
+							"Cyprus",
+							"Bubba"
+						]
+					},
+					{
+						"correct": "Jed",
+						"difficulty": "Hard",
+						"explanation": "Jed is found early in Tree Tops to explain the complex Supercharge mechanics needed for the level.",
+						"image_url": "",
+						"question": "Which dragon in the Tree Tops level gives you the tip about 'not losing your speed'?",
+						"wrong": [
+							"Isaak",
+							"Lyle",
+							"Kasiya"
+						]
+					},
+					{
+						"correct": "Foolies",
+						"difficulty": "Hard",
+						"explanation": "The 'Foolies' carry lanterns that determine if the other enemies in the room are big or small.",
+						"image_url": "",
+						"question": "What are the enemies in Dark Passage that carry lanterns called?",
+						"wrong": [
+							"Lantern Gnorcs",
+							"Light Bringers",
+							"Shadow Rogues"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Hard",
+						"explanation": "There are four distinct ramps that must be used in a specific sequence to reach the furthest platform.",
+						"image_url": "",
+						"question": "How many Supercharge ramps are there in the Tree Tops level?",
+						"wrong": [
+							"Two",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "They have incredibly long tongues",
+						"difficulty": "Hard",
+						"explanation": "The frogs in Misty Bog can whip Spyro from a distance with their extremely long, fast tongues.",
+						"image_url": "",
+						"question": "What is the unique property of the 'Attack Frogs' in Misty Bog?",
+						"wrong": [
+							"They explode",
+							"They can fly",
+							"They steal gems"
+						]
+					}
+				]
+			},
+			"id": "spyro_beast_makers",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Beast Makers",
+				"lore_desc": "The fourth home world, a dark and foggy marshland. The dragons here are responsible for creating the weird and wonderful creatures found across the realms.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Beast Makers",
+			"profiler": {
+				"vibe_tags": [
+					"Home World",
+					"Dragon Realms",
+					"Swamp"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Floating islands in the sky",
+						"difficulty": "Easy",
+						"explanation": "Dream Weavers is famous for its surreal purple skies and islands that float high above the clouds.",
+						"image_url": "https://skillcheckgame.com/assets/images/dream_weavers.webp",
+						"question": "What is the visual theme of the Dream Weavers home world?",
+						"wrong": [
+							"Deep underground caves",
+							"Underwater city",
+							"Industrial factory"
+						]
+					},
+					{
+						"correct": "They change size",
+						"difficulty": "Easy",
+						"explanation": "A core mechanic of Dream Weavers is wizards using magic to grow or shrink Gnorcs.",
+						"image_url": "",
+						"question": "What happens to many enemies in this world when they are hit by a wizard's ray?",
+						"wrong": [
+							"They disappear",
+							"They turn into gems",
+							"They multiply"
+						]
+					},
+					{
+						"correct": "Jacques",
+						"difficulty": "Easy",
+						"explanation": "Jacques is a jack-in-the-box style wizard boss found at the end of the Dream Weavers world.",
+						"image_url": "",
+						"question": "Who is the boss of the Dream Weavers world, a wizard who wears a large hat?",
+						"wrong": [
+							"Toasty",
+							"Doctor Shemp",
+							"Blowhard"
+						]
+					},
+					{
+						"correct": "Purple and Pink",
+						"difficulty": "Easy",
+						"explanation": "The world has a dreamlike, twilight aesthetic with vibrant purple and pink hues.",
+						"image_url": "",
+						"question": "What color is the sky in most of the Dream Weavers world?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Full suits of metal",
+						"difficulty": "Easy",
+						"explanation": "The Gnorcs in Haunted Towers wear heavy metal armor that makes them immune to fire.",
+						"image_url": "",
+						"question": "What type of armor do many Gnorcs wear in the 'Haunted Towers' level?",
+						"wrong": [
+							"Wooden shields",
+							"Leather tunics",
+							"Magic capes"
+						]
+					},
+					{
+						"correct": "Lofty Castle",
+						"difficulty": "Medium",
+						"explanation": "Lofty Castle is a bright, beautiful level in Dream Weavers filled with fairies and high-altitude glides.",
+						"image_url": "https://skillcheckgame.com/assets/images/dream_weavers.webp",
+						"question": "What is the name of the level where Spyro must glide between floating castles and towers?",
+						"wrong": [
+							"Stone Hill",
+							"Dark Passage",
+							"Icy Cavern"
+						]
+					},
+					{
+						"correct": "Superflame",
+						"difficulty": "Medium",
+						"explanation": "The large knights in Haunted Towers can only be melted by the Superflame power-up given by fairies.",
+						"image_url": "",
+						"question": "How do you defeat the giant tin soldiers in the 'Haunted Towers' level?",
+						"wrong": [
+							"Charging",
+							"Normal Flame",
+							"Headbash"
+						]
+					},
+					{
+						"correct": "Foolies",
+						"difficulty": "Medium",
+						"explanation": "Foolies use their lanterns to alter the size and threat level of other enemies in the room.",
+						"image_url": "",
+						"question": "What are the enemies in Dark Passage that carry lanterns called?",
+						"wrong": [
+							"Light Bearers",
+							"Gnorc Guards",
+							"Shadow Men"
+						]
+					},
+					{
+						"correct": "Armored Gnorcs",
+						"difficulty": "Medium",
+						"explanation": "Two giant armored Gnorcs guard the portal to the boss, and they shrink when the nearby wizard is flamed.",
+						"image_url": "",
+						"question": "In the Dream Weavers hub, what are the two large creatures that block the path to Jacques?",
+						"wrong": [
+							"Dragons",
+							"Dogs",
+							"Bears"
+						]
+					},
+					{
+						"correct": "Icy Flight",
+						"difficulty": "Medium",
+						"explanation": "Icy Flight is the final speedway of the first game, set in a frozen, starry canyon.",
+						"image_url": "",
+						"question": "What is the name of the flight level in the Dream Weavers world?",
+						"wrong": [
+							"Sunny Flight",
+							"Night Flight",
+							"Wild Flight"
+						]
+					},
+					{
+						"correct": "Lateef",
+						"difficulty": "Hard",
+						"explanation": "Lateef is the lead Dream Weaver who explains the magical nature of their realm to Spyro.",
+						"image_url": "https://skillcheckgame.com/assets/images/dream_weavers.webp",
+						"question": "What is the name of the first dragon you rescue in the Dream Weavers hub?",
+						"wrong": [
+							"Zikomo",
+							"Mazi",
+							"Lutalo"
+						]
+					},
+					{
+						"correct": "Dark Passage",
+						"difficulty": "Hard",
+						"explanation": "Dark Passage is a Dream Weavers level that plays with lighting and enemy size transitions.",
+						"image_url": "",
+						"question": "Which level features enemies that appear as small and weak but turn into giant demons in the dark?",
+						"wrong": [
+							"Haunted Towers",
+							"Lofty Castle",
+							"High Caves"
+						]
+					},
+					{
+						"correct": "Haunted Towers",
+						"difficulty": "Hard",
+						"explanation": "Haunted Towers features a notoriously difficult Supercharge ramp that requires a sharp turn to reach a secret area.",
+						"image_url": "",
+						"question": "What is the name of the 'Supercharge' challenge level in Dream Weavers?",
+						"wrong": [
+							"Wizard Peak",
+							"Tree Tops",
+							"Twilight Harbor"
+						]
+					},
+					{
+						"correct": "Fairies",
+						"difficulty": "Hard",
+						"explanation": "Spyro must release fairies from cages to have them create a magical whirlwind that lifts him to the exit.",
+						"image_url": "",
+						"question": "Which character in Lofty Castle must be rescued to create a whirlwind to the end of the level?",
+						"wrong": [
+							"Dragons",
+							"Monks",
+							"Satyrs"
+						]
+					},
+					{
+						"correct": "Wrapped boxes",
+						"difficulty": "Hard",
+						"explanation": "Jacques throws explosive gift boxes while hopping between pedestals.",
+						"image_url": "",
+						"question": "In the Jacques boss fight, what does the boss throw at Spyro?",
+						"wrong": [
+							"Fireballs",
+							"Lightning bolts",
+							"Hammers"
+						]
+					}
+				]
+			},
+			"id": "spyro_dream_weavers",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Dream Weavers",
+				"lore_desc": "The final and most surreal home world in the Dragon Realms. It consists of floating islands in the sky where dragons manage the dreams of all creatures.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Dream Weavers",
+			"profiler": {
+				"vibe_tags": [
+					"Home World",
+					"Dragon Realms",
+					"Dreams"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Spyro 2: Ripto's Rage",
+						"difficulty": "Easy",
+						"explanation": "Summer Forest introduces the player to the world of Avalar in the second game.",
+						"image_url": "https://skillcheckgame.com/assets/images/summer_forest.webp",
+						"question": "Summer Forest is the first hub world in which Spyro sequel?",
+						"wrong": [
+							"Spyro 1",
+							"Spyro: Year of the Dragon",
+							"Spyro: Enter the Dragonfly"
+						]
+					},
+					{
+						"correct": "Elora the Faun",
+						"difficulty": "Easy",
+						"explanation": "Elora greets Spyro in Summer Forest and provides him with the Guidebook.",
+						"image_url": "",
+						"question": "Which recurring character is first met in the Summer Forest castle?",
+						"wrong": [
+							"Bianca",
+							"The Sorceress",
+							"Sheila"
+						]
+					},
+					{
+						"correct": "A Castle",
+						"difficulty": "Easy",
+						"explanation": "The hub is centered around a beautiful stone castle with several wings and rooms.",
+						"image_url": "",
+						"question": "What is the central architectural feature of the Summer Forest hub?",
+						"wrong": [
+							"A Pyramid",
+							"A Giant Tree",
+							"A Volcano"
+						]
+					},
+					{
+						"correct": "Talismans",
+						"difficulty": "Easy",
+						"explanation": "Completing levels in Summer Forest rewards Spyro with Talismans needed to reach the boss.",
+						"image_url": "",
+						"question": "What type of collectibles are unique to Spyro 2 and first found here?",
+						"wrong": [
+							"Dragon Eggs",
+							"Dragon Statues",
+							"Power Stars"
+						]
+					},
+					{
+						"correct": "Moneybags",
+						"difficulty": "Easy",
+						"explanation": "Moneybags makes his first appearances here, charging Spyro for bridges and new abilities.",
+						"image_url": "",
+						"question": "What is the name of the greedy bear who demands gems to open paths in this world?",
+						"wrong": [
+							"Hunter",
+							"The Professor",
+							"Bentley"
+						]
+					},
+					{
+						"correct": "Aquaria Towers",
+						"difficulty": "Medium",
+						"explanation": "Aquaria Towers is an underwater-heavy level where Spyro helps Seahorses.",
+						"image_url": "https://skillcheckgame.com/assets/images/summer_forest.webp",
+						"question": "Which water-themed level is found in the Summer Forest hub?",
+						"wrong": [
+							"Skelos Badlands",
+							"Magma Cone",
+							"Crystal Glacier"
+						]
+					},
+					{
+						"correct": "Swimming underwater",
+						"difficulty": "Medium",
+						"explanation": "Spyro can only swim on the surface until he pays Moneybags to learn how to dive.",
+						"image_url": "",
+						"question": "What skill must Spyro pay Moneybags to learn in Summer Forest?",
+						"wrong": [
+							"Climbing",
+							"Headbashing",
+							"Double Jumping"
+						]
+					},
+					{
+						"correct": "Crush",
+						"difficulty": "Medium",
+						"explanation": "Crush is the first boss of the second game, fought in a dungeon after collecting all Talismans in the hub.",
+						"image_url": "",
+						"question": "What is the name of the boss who guards the exit of Summer Forest?",
+						"wrong": [
+							"Gulp",
+							"Ripto",
+							"The Sorceress"
+						]
+					},
+					{
+						"correct": "Idol Springs",
+						"difficulty": "Medium",
+						"explanation": "Idol Springs features sentient wooden idols and craftsmen who need Spyro's help.",
+						"image_url": "",
+						"question": "Which level in Summer Forest is inhabited by small, idol-worshipping creatures?",
+						"wrong": [
+							"Colossus",
+							"Sunny Beach",
+							"Hurricos"
+						]
+					},
+					{
+						"correct": "Ocean Speedway",
+						"difficulty": "Medium",
+						"explanation": "Ocean Speedway is the first flight challenge in the second game.",
+						"image_url": "",
+						"question": "What is the name of the speedway level in Summer Forest?",
+						"wrong": [
+							"Metro Speedway",
+							"Icy Speedway",
+							"Canyon Speedway"
+						]
+					},
+					{
+						"correct": "It is the level Spyro starts in",
+						"difficulty": "Hard",
+						"explanation": "Glimmer is the introductory level that leads directly into the Summer Forest hub.",
+						"image_url": "https://skillcheckgame.com/assets/images/summer_forest.webp",
+						"question": "In the Summer Forest hub, where is the portal to the 'Glimmer' level located?",
+						"wrong": [
+							"Behind the castle",
+							"In the basement",
+							"On top of the tower"
+						]
+					},
+					{
+						"correct": "Colossus",
+						"difficulty": "Hard",
+						"explanation": "Colossus is home to the peaceful Monks and a Yeti who challenges Spyro to hockey.",
+						"image_url": "",
+						"question": "What is the name of the level in Summer Forest that features a large monastery and a hockey mini-game?",
+						"wrong": [
+							"Hurricos",
+							"Sunny Beach",
+							"Idol Springs"
+						]
+					},
+					{
+						"correct": "Hurricos",
+						"difficulty": "Hard",
+						"explanation": "Hurricos is an industrial, stormy level where Spyro must help the Electrolls.",
+						"image_url": "",
+						"question": "Which level in Summer Forest is constantly raining and features Gear-grinders?",
+						"wrong": [
+							"Aquaria Towers",
+							"Sunny Beach",
+							"Glimmer"
+						]
+					},
+					{
+						"correct": "Six",
+						"difficulty": "Hard",
+						"explanation": "There are six levels in Summer Forest that reward a Talisman upon completion (Glimmer has none).",
+						"image_url": "",
+						"question": "How many Talismans are there to collect in the Summer Forest world?",
+						"wrong": [
+							"Four",
+							"Eight",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Elora",
+						"difficulty": "Hard",
+						"explanation": "Elora explains how defeating enemies charges the Power Gates found in each level.",
+						"image_url": "",
+						"question": "What is the name of the character who teaches Spyro how to use 'Power Gates' in Summer Forest?",
+						"wrong": [
+							"The Professor",
+							"Hunter",
+							"Moneybags"
+						]
+					}
+				]
+			},
+			"id": "spyro_summer_forest",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Summer Forest",
+				"lore_desc": "The first home world of the Avalar region. It is a peaceful, lush forest surrounding a central castle where Elora and the Professor are first encountered.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Summer Forest",
+			"profiler": {
+				"vibe_tags": [
+					"Home World",
+					"Avalar",
+					"Summer"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Orange and Gold",
+						"difficulty": "Easy",
+						"explanation": "Autumn Plains is characterized by its beautiful fall colors and sunset atmosphere.",
+						"image_url": "https://skillcheckgame.com/assets/images/autumn_plains.webp",
+						"question": "What is the primary color palette of the Autumn Plains home world?",
+						"wrong": [
+							"Blue and White",
+							"Green and Brown",
+							"Red and Black"
+						]
+					},
+					{
+						"correct": "Climbing walls",
+						"difficulty": "Easy",
+						"explanation": "In this hub, Moneybags teaches Spyro how to scale ladders and rock walls.",
+						"image_url": "",
+						"question": "Which of these abilities must Spyro pay Moneybags to learn in Autumn Plains?",
+						"wrong": [
+							"Swimming",
+							"Headbashing",
+							"Double Jumping"
+						]
+					},
+					{
+						"correct": "Skelos Badlands",
+						"difficulty": "Easy",
+						"explanation": "Skelos Badlands is a classic lava and desert level where Spyro fights bone-throwing enemies.",
+						"image_url": "",
+						"question": "What is the name of the desert-themed level in Autumn Plains that features cavemen and dinosaurs?",
+						"wrong": [
+							"Magma Cone",
+							"Scorch",
+							"Shady Oasis"
+						]
+					},
+					{
+						"correct": "A huge castle with high walls",
+						"difficulty": "Easy",
+						"explanation": "The hub is a massive, multi-tiered castle complex that requires gliding and climbing to explore fully.",
+						"image_url": "",
+						"question": "What type of massive stone structure dominates the center of the Autumn Plains hub?",
+						"wrong": [
+							"A pyramid",
+							"A giant tree",
+							"A spaceship"
+						]
+					},
+					{
+						"correct": "Whirlwinds",
+						"difficulty": "Easy",
+						"explanation": "Whirlwinds are the primary way Spyro ascends the tall towers of Autumn Plains.",
+						"image_url": "",
+						"question": "Which flying creature does Spyro often use to reach the top of the towers in this hub?",
+						"wrong": [
+							"Dragons",
+							"Eagles",
+							"Rockets"
+						]
+					},
+					{
+						"correct": "Gulp",
+						"difficulty": "Medium",
+						"explanation": "Gulp is Ripto's giant green steed who tries to crush and eat Spyro.",
+						"image_url": "https://skillcheckgame.com/assets/images/autumn_plains.webp",
+						"question": "What is the name of the second boss of Spyro 2, fought at the end of Autumn Plains?",
+						"wrong": [
+							"Crush",
+							"Ripto",
+							"The Sorceress"
+						]
+					},
+					{
+						"correct": "Magma Cone",
+						"difficulty": "Medium",
+						"explanation": "Magma Cone features the famous 'Crystal Popcorn' mini-game against Hunter.",
+						"image_url": "",
+						"question": "Which level in Autumn Plains is set inside a giant volcano and involves a crystal popcorn challenge?",
+						"wrong": [
+							"Skelos Badlands",
+							"Scorch",
+							"Fracture Hills"
+						]
+					},
+					{
+						"correct": "Fracture Hills",
+						"difficulty": "Medium",
+						"explanation": "Fracture Hills is known for its Satyrs that need to be freed from stone and the challenging Alchemist quest.",
+						"image_url": "",
+						"question": "What is the name of the level in Autumn Plains inhabited by Satyrs and Fauns?",
+						"wrong": [
+							"Shady Oasis",
+							"Zephyr",
+							"Breeze Harbor"
+						]
+					},
+					{
+						"correct": "Zephyr and Breeze Harbor",
+						"difficulty": "Medium",
+						"explanation": "The Land Blubbers and Breezebuilders are in a constant conflict across these two levels.",
+						"image_url": "",
+						"question": "Which two levels in Autumn Plains are involved in a long-standing war against each other?",
+						"wrong": [
+							"Skelos Badlands and Crystal Glacier",
+							"Scorch and Shady Oasis",
+							"Magma Cone and Fracture Hills"
+						]
+					},
+					{
+						"correct": "Shady Oasis",
+						"difficulty": "Medium",
+						"explanation": "In Shady Oasis, Spyro must protect the hippos and their magical berry trees.",
+						"image_url": "",
+						"question": "What is the name of the Arabian-themed level where Spyro helps Genies?",
+						"wrong": [
+							"Scorch",
+							"Crystal Glacier",
+							"Metro Speedway"
+						]
+					},
+					{
+						"correct": "Ten",
+						"difficulty": "Hard",
+						"explanation": "Autumn Plains has the most levels of any hub in the game, requiring 10 Talismans to reach the boss.",
+						"image_url": "https://skillcheckgame.com/assets/images/autumn_plains.webp",
+						"question": "How many Talismans are required to open the door to Gulp's Overlook?",
+						"wrong": [
+							"Eight",
+							"Twelve",
+							"Six"
+						]
+					},
+					{
+						"correct": "Metro Speedway",
+						"difficulty": "Hard",
+						"explanation": "Metro Speedway features pigeons, bungee jumpers, and neon signs.",
+						"image_url": "",
+						"question": "What is the name of the speedway level set in a modern city within Autumn Plains?",
+						"wrong": [
+							"City Speedway",
+							"Ocean Speedway",
+							"Icy Speedway"
+						]
+					},
+					{
+						"correct": "Crystal Glacier",
+						"difficulty": "Hard",
+						"explanation": "Crystal Glacier is where Spyro helps find George and fights Draclets.",
+						"image_url": "",
+						"question": "Which level in Autumn Plains features an ice-themed mission where you fight a 'George the Snow Leopard'?",
+						"wrong": [
+							"Icy Speedway",
+							"Skelos Badlands",
+							"Winter Tundra"
+						]
+					},
+					{
+						"correct": "Scorch",
+						"difficulty": "Hard",
+						"explanation": "In Scorch, Spyro must follow Agent Zero to his secret hideout without being seen.",
+						"image_url": "",
+						"question": "What is the name of the level where Spyro must help a secret agent named 'Agent Zero'?",
+						"wrong": [
+							"Shady Oasis",
+							"Zephyr",
+							"Breeze Harbor"
+						]
+					},
+					{
+						"correct": "Behind a breakable wall in the castle",
+						"difficulty": "Hard",
+						"explanation": "Spyro must use the Supercharge ramp in the hub to break through a wall high up in the castle to find a secret area.",
+						"image_url": "",
+						"question": "Where is the hidden secret orb located in the Autumn Plains hub itself?",
+						"wrong": [
+							"At the bottom of the lake",
+							"On top of the tallest tower",
+							"Under the balloon"
+						]
+					}
+				]
+			},
+			"id": "spyro_autumn_plains",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Autumn Plains",
+				"lore_desc": "The second and largest home world in Avalar. It is a vast, golden-hued realm with high towers, soaring cliffs, and many portals to diverse levels.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Autumn Plains",
+			"profiler": {
+				"vibe_tags": [
+					"Home World",
+					"Avalar",
+					"Autumn"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Snowy and Cold",
+						"difficulty": "Easy",
+						"explanation": "As the name suggests, Winter Tundra is a frozen landscape under a starry night sky.",
+						"image_url": "https://skillcheckgame.com/assets/images/winter_tundra.webp",
+						"question": "What is the primary climate of the Winter Tundra home world?",
+						"wrong": [
+							"Hot and Desert",
+							"Tropical and Wet",
+							"Dark and Spooky"
+						]
+					},
+					{
+						"correct": "Headbash",
+						"difficulty": "Easy",
+						"explanation": "This is the final ability Spyro learns, allowing him to smash rocks and buttons by jumping and pressing the action button.",
+						"image_url": "",
+						"question": "Which ability does Moneybags teach Spyro in the Winter Tundra?",
+						"wrong": [
+							"Climbing",
+							"Swimming",
+							"Gliding"
+						]
+					},
+					{
+						"correct": "Ripto",
+						"difficulty": "Easy",
+						"explanation": "The final showdown of Spyro 2 takes place in the Winter Tundra boss arena.",
+						"image_url": "",
+						"question": "Who is the final boss encountered in the Winter Tundra hub?",
+						"wrong": [
+							"Gnasty Gnorc",
+							"The Sorceress",
+							"Crush"
+						]
+					},
+					{
+						"correct": "Talismans",
+						"difficulty": "Easy",
+						"explanation": "Unlike the first two hubs, Winter Tundra levels do not provide Talismans; players only collect Orbs and Gems.",
+						"image_url": "",
+						"question": "What type of collectible is NOT found in the levels of Winter Tundra?",
+						"wrong": [
+							"Gems",
+							"Orbs",
+							"Butterflies"
+						]
+					},
+					{
+						"correct": "Night",
+						"difficulty": "Easy",
+						"explanation": "The hub is set under a beautiful night sky filled with bright stars.",
+						"image_url": "",
+						"question": "What is the time of day depicted in the Winter Tundra hub?",
+						"wrong": [
+							"Noon",
+							"Dawn",
+							"Dusk"
+						]
+					},
+					{
+						"correct": "Metropolis",
+						"difficulty": "Medium",
+						"explanation": "Metropolis is a futuristic level where Spyro fights Ox enemies and robots.",
+						"image_url": "https://skillcheckgame.com/assets/images/winter_tundra.webp",
+						"question": "Which level in Winter Tundra is set in a giant factory filled with robots?",
+						"wrong": [
+							"Cloud Temples",
+							"Mystic Marsh",
+							"Robotica"
+						]
+					},
+					{
+						"correct": "Cloud Temples",
+						"difficulty": "Medium",
+						"explanation": "Cloud Temples is home to Wizards who need help ringing bells and stopping an evil warlock.",
+						"image_url": "",
+						"question": "What is the name of the level in Winter Tundra where Spyro helps Wizards stop a warlock?",
+						"wrong": [
+							"Mystic Marsh",
+							"Metropolis",
+							"Zephyr"
+						]
+					},
+					{
+						"correct": "Mystic Marsh",
+						"difficulty": "Medium",
+						"explanation": "Mystic Marsh is a surreal level where Spyro helps catch 'Plushies' and deals with fountain spirits.",
+						"image_url": "",
+						"question": "What is the name of the level in Winter Tundra that is a swampy area filled with strange creatures?",
+						"wrong": [
+							"Cloud Temples",
+							"Metropolis",
+							"Misty Bog"
+						]
+					},
+					{
+						"correct": "Canyon Speedway",
+						"difficulty": "Medium",
+						"explanation": "Canyon Speedway is the final flight challenge of the second game.",
+						"image_url": "",
+						"question": "What is the name of the speedway in the Winter Tundra world?",
+						"wrong": [
+							"Icy Speedway",
+							"Metro Speedway",
+							"Ocean Speedway"
+						]
+					},
+					{
+						"correct": "A whirlwind appears after getting enough orbs",
+						"difficulty": "Medium",
+						"explanation": "Once Spyro has 40 orbs, a whirlwind activates to take him to the final battle.",
+						"image_url": "",
+						"question": "In the Winter Tundra hub, how do you reach the top of the castle where Ripto is hiding?",
+						"wrong": [
+							"Climb a ladder",
+							"Fly a rocket",
+							"Pay Moneybags"
+						]
+					},
+					{
+						"correct": "Dragon Shores",
+						"difficulty": "Hard",
+						"explanation": "Dragon Shores is the secret reward level found in Winter Tundra, though it functions more as an amusement park.",
+						"image_url": "https://skillcheckgame.com/assets/images/winter_tundra.webp",
+						"question": "What is the name of the Professor's lab level in Winter Tundra?",
+						"wrong": [
+							"The Lab",
+							"Professor's Peak",
+							"Winter Lab"
+						]
+					},
+					{
+						"correct": "Alakazam",
+						"difficulty": "Hard",
+						"explanation": "In one of the orb missions, you must follow a wizard and wait for him to perform his spell.",
+						"image_url": "",
+						"question": "In Cloud Temples, what is the secret phrase you must wait for the wizard to say?",
+						"wrong": [
+							"Abracadabra",
+							"Open Sesame",
+							"Hocus Pocus"
+						]
+					},
+					{
+						"correct": "Wild Boar (actually no, it's just the 'Ox')",
+						"difficulty": "Hard",
+						"explanation": "The mini-boss in Metropolis is a large mechanical Ox that Spyro must defeat using bombs.",
+						"image_url": "",
+						"question": "What is the name of the Ox boss found in the Metropolis level?",
+						"wrong": [
+							"Crush",
+							"Gulp",
+							"The Master Ox"
+						]
+					},
+					{
+						"correct": "Sixty-four",
+						"difficulty": "Hard",
+						"explanation": "To fully unlock Dragon Shores and the permanent Superflame, Spyro must collect all 64 orbs.",
+						"image_url": "",
+						"question": "How many orbs are required to unlock the final gate to Dragon Shores?",
+						"wrong": [
+							"Forty",
+							"Fifty",
+							"Eighty"
+						]
+					},
+					{
+						"correct": "A pencil",
+						"difficulty": "Hard",
+						"explanation": "The Professor lost his pencil and Spyro must engage in a series of trades to get it back.",
+						"image_url": "",
+						"question": "In Mystic Marsh, what item does Spyro have to bring back to the Professor?",
+						"wrong": [
+							"A book",
+							"A glass eye",
+							"A shoe"
+						]
+					}
+				]
+			},
+			"id": "spyro_winter_tundra",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Winter Tundra",
+				"lore_desc": "The third and final home world of Avalar. A quiet, snow-covered landscape that serves as the final staging ground for Spyro's confrontation with Ripto.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Winter Tundra",
+			"profiler": {
+				"vibe_tags": [
+					"Home World",
+					"Avalar",
+					"Winter"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Spyro 2: Ripto's Rage",
+						"difficulty": "Easy",
+						"explanation": "Orbs replaced Dragon Statues as the primary 'mission' collectible in the second game.",
+						"image_url": "https://skillcheckgame.com/assets/images/orbs.webp",
+						"question": "Which game in the series first introduced Orbs as a primary collectible?",
+						"wrong": [
+							"Spyro the Dragon",
+							"Spyro: Year of the Dragon",
+							"Spyro: A Hero's Tail"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Orbs have a distinct glowing green appearance with a white center.",
+						"image_url": "",
+						"question": "What color are the Orbs that Spyro collects in Avalar?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "The Guidebook",
+						"difficulty": "Easy",
+						"explanation": "The Guidebook tracks every Orb, Talisman, and Gem count for each level.",
+						"image_url": "",
+						"question": "Where does Spyro keep track of how many Orbs he has collected?",
+						"wrong": [
+							"The Dragon Journal",
+							"The Atlas",
+							"The Gem Bag"
+						]
+					},
+					{
+						"correct": "An NPC after a task",
+						"difficulty": "Easy",
+						"explanation": "Orbs are typically rewards for finishing side-quests or mini-games given by local residents.",
+						"image_url": "",
+						"question": "Who usually gives Spyro an Orb in a level?",
+						"wrong": [
+							"A defeated boss",
+							"A dragon statue",
+							"A hidden chest"
+						]
+					},
+					{
+						"correct": "Winning a mini-game",
+						"difficulty": "Easy",
+						"explanation": "Many Orbs are hidden behind challenges like hockey, target practice, or races.",
+						"image_url": "",
+						"question": "Which of these is a common task required to earn an Orb?",
+						"wrong": [
+							"Defeating 1000 enemies",
+							"Paying 5000 gems",
+							"Finding a secret exit"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Medium",
+						"explanation": "There are three orbs hidden within the Winter Tundra hub world, requiring various skills to find.",
+						"image_url": "https://skillcheckgame.com/assets/images/orbs.webp",
+						"question": "How many Orbs are hidden in the Winter Tundra hub world itself?",
+						"wrong": [
+							"One",
+							"Two",
+							"Four"
+						]
+					},
+					{
+						"correct": "A high-pitched whistle",
+						"difficulty": "Medium",
+						"explanation": "Collecting an Orb plays a very distinct, celebratory whistling sound.",
+						"image_url": "",
+						"question": "What is the sound effect when Spyro collects an Orb?",
+						"wrong": [
+							"A dragon roar",
+							"A gem chime",
+							"A drum beat"
+						]
+					},
+					{
+						"correct": "Opening doors and activating whirlwinds",
+						"difficulty": "Medium",
+						"explanation": "Certain paths and the final boss fight are locked behind 'Orb Gates' that require a specific total count.",
+						"image_url": "",
+						"question": "What are Orbs used for in the home worlds?",
+						"wrong": [
+							"Buying upgrades",
+							"Saving the game",
+							"Defeating Ripto directly"
+						]
+					},
+					{
+						"correct": "Ice Hockey",
+						"difficulty": "Medium",
+						"explanation": "Spyro must play hockey against a Yeti to win one of the level's Orbs.",
+						"image_url": "",
+						"question": "In the 'Colossus' level, what mini-game must you win to earn an Orb?",
+						"wrong": [
+							"Basketball",
+							"Soccer",
+							"Tennis"
+						]
+					},
+					{
+						"correct": "Elora",
+						"difficulty": "Medium",
+						"explanation": "Elora often gives Spyro hints about where to find orbs and how many he needs.",
+						"image_url": "",
+						"question": "Which character is most often associated with managing and explaining Orbs?",
+						"wrong": [
+							"Hunter",
+							"The Professor",
+							"Moneybags"
+						]
+					},
+					{
+						"correct": "Sixty-four",
+						"difficulty": "Hard",
+						"explanation": "There are 64 orbs in total, including those in hubs and secret levels.",
+						"image_url": "https://skillcheckgame.com/assets/images/orbs.webp",
+						"question": "What is the total number of Orbs in Spyro 2: Ripto's Rage?",
+						"wrong": [
+							"Forty",
+							"Eighty",
+							"One Hundred"
+						]
+					},
+					{
+						"correct": "Zephyr",
+						"difficulty": "Hard",
+						"explanation": "In Zephyr, Spyro must help reunite Juliet with her beloved Romeo (who is a large bird).",
+						"image_url": "",
+						"question": "Which level features an Orb mission involving 'Romeo and Juliet'?",
+						"wrong": [
+							"Breeze Harbor",
+							"Fracture Hills",
+							"Idol Springs"
+						]
+					},
+					{
+						"correct": "It stays with you in a New Game",
+						"difficulty": "Hard",
+						"explanation": "Collecting all 64 orbs allows you to take the permanent Superflame power-up into any save file on that console.",
+						"image_url": "",
+						"question": "What happens to the permanent Superflame power-up once you collect all Orbs and Gems?",
+						"wrong": [
+							"It disappears",
+							"It becomes blue",
+							"It only works in Dragon Shores"
+						]
+					},
+					{
+						"correct": "Baby turtles",
+						"difficulty": "Hard",
+						"explanation": "Spyro must guide baby turtles into the water while preventing them from falling into pits.",
+						"image_url": "",
+						"question": "In 'Sunny Beach', what are you protecting to earn an Orb?",
+						"wrong": [
+							"Seahorses",
+							"Crabs",
+							"Sandcastles"
+						]
+					},
+					{
+						"correct": "Crystal Popcorn",
+						"difficulty": "Hard",
+						"explanation": "The mission involves grabbing crystals as they pop out of the ground before Hunter can get them.",
+						"image_url": "",
+						"question": "What is the specific name of the Orb mission in 'Magma Cone'?",
+						"wrong": [
+							"Lava Race",
+							"Volcano Jump",
+							"Stone Toss"
+						]
+					}
+				]
+			},
+			"id": "spyro_orbs",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Orbs",
+				"lore_desc": "Green glowing spheres used as a source of energy in Avalar. They are often given to Spyro by NPCs as a reward for completing various tasks or mini-games.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Orbs",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Collectible",
+					"Avalar"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Spyro 2: Ripto's Rage",
+						"difficulty": "Easy",
+						"explanation": "Talismans are the primary progression item in the second game, representing the gratitude of the level's inhabitants.",
+						"image_url": "https://skillcheckgame.com/assets/images/talismans.webp",
+						"question": "In which Spyro game do you collect Talismans?",
+						"wrong": [
+							"Spyro 1",
+							"Spyro: Year of the Dragon",
+							"Spyro: Enter the Dragonfly"
+						]
+					},
+					{
+						"correct": "The Guidebook",
+						"difficulty": "Easy",
+						"explanation": "Just like Orbs, Talismans are recorded and displayed in Spyro's Guidebook.",
+						"image_url": "",
+						"question": "Where are Talismans stored once Spyro collects them?",
+						"wrong": [
+							"The Gem Bag",
+							"A magic chest",
+							"Hunter's backpack"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "Each level has exactly one Talisman, given at the very end when you reach the exit portal.",
+						"image_url": "",
+						"question": "How many Talismans are found in each standard level of Summer Forest and Autumn Plains?",
+						"wrong": [
+							"Two",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "To unlock the boss of the home world",
+						"difficulty": "Easy",
+						"explanation": "Spyro must collect all Talismans in a hub world to open the door to the boss arena (Crush or Gulp).",
+						"image_url": "",
+						"question": "What is the purpose of collecting Talismans?",
+						"wrong": [
+							"To buy upgrades",
+							"To learn to fly",
+							"To rescue dragons"
+						]
+					},
+					{
+						"correct": "The Golden Egg",
+						"difficulty": "Easy",
+						"explanation": "Golden Eggs are associated with 'Year of the Dragon,' not the Talisman system of 'Ripto's Rage'.",
+						"image_url": "",
+						"question": "Which of these is NOT a Talisman found in the game?",
+						"wrong": [
+							"The Jade Idol",
+							"The Ice Crystal",
+							"The Gear of Power"
+						]
+					},
+					{
+						"correct": "There is no Talisman in Glimmer",
+						"difficulty": "Medium",
+						"explanation": "Glimmer is a tutorial level and does not provide a Talisman, only Orbs.",
+						"image_url": "https://skillcheckgame.com/assets/images/talismans.webp",
+						"question": "What is the Talisman reward for completing the 'Glimmer' level?",
+						"wrong": [
+							"The Gem Stone",
+							"The Pickaxe",
+							"The Mining Lantern"
+						]
+					},
+					{
+						"correct": "Golden Statue",
+						"difficulty": "Medium",
+						"explanation": "The Monks of Colossus give Spyro a Golden Statue (an Idol) for helping them.",
+						"image_url": "",
+						"question": "What is the Talisman from 'Colossus'?",
+						"wrong": [
+							"Silver Bell",
+							"Magic Scroll",
+							"Stone Tablet"
+						]
+					},
+					{
+						"correct": "Turtle Medallion",
+						"difficulty": "Medium",
+						"explanation": "The Turtle Medallion is awarded by the Chef at the end of the Sunny Beach level.",
+						"image_url": "",
+						"question": "What is the Talisman from 'Sunny Beach'?",
+						"wrong": [
+							"Shell Trophy",
+							"Pearl",
+							"Beach Ball"
+						]
+					},
+					{
+						"correct": "Gear of Power",
+						"difficulty": "Medium",
+						"explanation": "The Electrolls give Spyro the Gear of Power for fixing their generators.",
+						"image_url": "",
+						"question": "In 'Hurricos', what is the name of the Talisman you receive?",
+						"wrong": [
+							"Lightning Bolt",
+							"Electric Wrench",
+							"Copper Coil"
+						]
+					},
+					{
+						"correct": "They float into slots on the wall",
+						"difficulty": "Medium",
+						"explanation": "In a famous animation, the Talismans fly out of Spyro and fit into circular slots to break the seal.",
+						"image_url": "",
+						"question": "Where do the Talismans physically appear when Spyro approaches the boss door?",
+						"wrong": [
+							"They turn into a key",
+							"Spyro throws them at the door",
+							"Moneybags takes them"
+						]
+					},
+					{
+						"correct": "Ancient Bone",
+						"difficulty": "Hard",
+						"explanation": "The cavemen give Spyro an Ancient Bone for stopping the lava-dwelling lizards.",
+						"image_url": "https://skillcheckgame.com/assets/images/talismans.webp",
+						"question": "What is the Talisman from 'Skelos Badlands'?",
+						"wrong": [
+							"Dinosaur Tooth",
+							"Lava Rock",
+							"Fossil Shield"
+						]
+					},
+					{
+						"correct": "Ruby Bomb",
+						"difficulty": "Hard",
+						"explanation": "Reflecting the level's theme of war, the Land Blubbers give Spyro a Ruby Bomb.",
+						"image_url": "",
+						"question": "What is the Talisman from 'Zephyr'?",
+						"wrong": [
+							"Wind Feather",
+							"TNT Crate",
+							"Golden Bird"
+						]
+					},
+					{
+						"correct": "Scorch",
+						"difficulty": "Hard",
+						"explanation": "The Emerald Flamingo is the prize for helping the genies in the Scorch level.",
+						"image_url": "",
+						"question": "Which level awards the 'Emerald Flamingo' Talisman?",
+						"wrong": [
+							"Shady Oasis",
+							"Autumn Plains",
+							"Magma Cone"
+						]
+					},
+					{
+						"correct": "Glass Anchor",
+						"difficulty": "Hard",
+						"explanation": "The Breezebuilders award Spyro the Glass Anchor for restarting their fire.",
+						"image_url": "",
+						"question": "What is the name of the Talisman given by the Breezebuilders in 'Breeze Harbor'?",
+						"wrong": [
+							"Wind Compass",
+							"Cloud Jar",
+							"Propeller Blade"
+						]
+					},
+					{
+						"correct": "Fourteen",
+						"difficulty": "Hard",
+						"explanation": "There are 6 in Summer Forest and 8 in Autumn Plains, totaling 14 (Winter Tundra has none).",
+						"image_url": "",
+						"question": "How many total Talismans are there to collect in the entire game?",
+						"wrong": [
+							"Twelve",
+							"Sixteen",
+							"Ten"
+						]
+					}
+				]
+			},
+			"id": "spyro_talismans",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Talismans",
+				"lore_desc": "Unique magical artifacts held by the inhabitants of Avalar. Each level in the first two worlds has one, and Spyro must collect them to challenge Ripto's henchmen.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Talismans",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Collectible",
+					"Avalar"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "Red gems are the most common and represent a single unit of currency.",
+						"image_url": "https://skillcheckgame.com/assets/images/gems.webp",
+						"question": "What is the value of a Red gem?",
+						"wrong": [
+							"Two",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "Green gems are worth two units and are frequently found in wooden chests.",
+						"image_url": "",
+						"question": "What is the value of a Green gem?",
+						"wrong": [
+							"One",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Easy",
+						"explanation": "Blue gems are worth five units and are often hidden in more difficult locations.",
+						"image_url": "",
+						"question": "What is the value of a Blue gem?",
+						"wrong": [
+							"Two",
+							"Ten",
+							"Twenty-five"
+						]
+					},
+					{
+						"correct": "Moneybags",
+						"difficulty": "Easy",
+						"explanation": "Moneybags the Bear is the series' primary 'gem sink,' charging for everything from bridges to new skills.",
+						"image_url": "",
+						"question": "Which character is famous for demanding gems in exchange for progress?",
+						"wrong": [
+							"Hunter",
+							"Elora",
+							"The Professor"
+						]
+					},
+					{
+						"correct": "PlayStation",
+						"difficulty": "Easy",
+						"explanation": "Spyro's gem-collecting adventures began on the PlayStation 1 in 1998.",
+						"image_url": "",
+						"question": "On which original gaming platform did Spyro first start collecting these gems?",
+						"wrong": [
+							"Nintendo 64",
+							"Sega Genesis",
+							"GameCube"
+						]
+					},
+					{
+						"correct": "Yellow or Gold",
+						"difficulty": "Medium",
+						"explanation": "Yellow/Gold gems are worth 10 and are usually found at the end of challenges.",
+						"image_url": "https://skillcheckgame.com/assets/images/gems.webp",
+						"question": "What color is the gem worth 10 units?",
+						"wrong": [
+							"Purple",
+							"Pink",
+							"White"
+						]
+					},
+					{
+						"correct": "Twenty-five",
+						"difficulty": "Medium",
+						"explanation": "Purple gems are the highest standard value in most levels, worth 25 units.",
+						"image_url": "",
+						"question": "What is the value of a Purple gem?",
+						"wrong": [
+							"Ten",
+							"Fifty",
+							"One Hundred"
+						]
+					},
+					{
+						"correct": "Locked Chest",
+						"difficulty": "Medium",
+						"explanation": "Locked chests usually contain a high-value gem or several smaller ones and require finding a key hidden in the level.",
+						"image_url": "",
+						"question": "What type of chest requires a small metal key to open?",
+						"wrong": [
+							"Wooden Chest",
+							"Metal Chest",
+							"Firework Chest"
+						]
+					},
+					{
+						"correct": "Pink or Purple",
+						"difficulty": "Medium",
+						"explanation": "While standard purple is 25, some larger pink/purple gems in 'Gnasty's Loot' have much higher values.",
+						"image_url": "",
+						"question": "In the first game, what color are the gems that have a value of 50 or 100 in the bonus levels?",
+						"wrong": [
+							"Silver",
+							"Black",
+							"Orange"
+						]
+					},
+					{
+						"correct": "They turn into Gnorcs",
+						"difficulty": "Medium",
+						"explanation": "Gnasty Gnorc used a magic spell to transform the dragons' gem collection into his personal army.",
+						"image_url": "",
+						"question": "What happens to the gems when Gnasty Gnorc casts his spell at the start of the first game?",
+						"wrong": [
+							"They disappear",
+							"They turn into stone",
+							"They explode"
+						]
+					},
+					{
+						"correct": "Metal or Reinforced Chest",
+						"difficulty": "Hard",
+						"explanation": "Dark-colored metal chests in the first game are immune to fire and charge; they require a high-speed Supercharge hit.",
+						"image_url": "https://skillcheckgame.com/assets/images/gems.webp",
+						"question": "What type of chest must be hit with a Supercharge to be broken?",
+						"wrong": [
+							"Wooden Chest",
+							"Locked Chest",
+							"Vase"
+						]
+					},
+					{
+						"correct": "There is no 20-value gem",
+						"difficulty": "Hard",
+						"explanation": "The series sticks to 1, 2, 5, 10, and 25 value increments.",
+						"image_url": "",
+						"question": "In 'Year of the Dragon,' what color is the gem worth 20 units?",
+						"wrong": [
+							"Orange",
+							"Brown",
+							"Silver"
+						]
+					},
+					{
+						"correct": "Flame them and wait for the explosion",
+						"difficulty": "Hard",
+						"explanation": "Spyro must light the fuse and then move away as the chest launches into the air and explodes into gems.",
+						"image_url": "",
+						"question": "How do you open the 'Firework Chests' found in the first game?",
+						"wrong": [
+							"Charge them",
+							"Headbash them",
+							"Use a key"
+						]
+					},
+					{
+						"correct": "Twelve Thousand",
+						"difficulty": "Hard",
+						"explanation": "The total gem count in the first game is exactly 12,000 (reaching 14,000 with the 120 percent secret level).",
+						"image_url": "",
+						"question": "In the original Spyro 1, what is the maximum gem count for 100 percent completion?",
+						"wrong": [
+							"Ten Thousand",
+							"Fourteen Thousand",
+							"Twenty Thousand"
+						]
+					},
+					{
+						"correct": "Dragon Statues",
+						"difficulty": "Hard",
+						"explanation": "Dragon Statues contain dragons; while gems may be nearby, they are never inside the statues themselves.",
+						"image_url": "",
+						"question": "Which of these objects NEVER contains gems?",
+						"wrong": [
+							"Vases",
+							"Fans",
+							"Baskets"
+						]
+					}
+				]
+			},
+			"id": "spyro_gems",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Gems",
+				"lore_desc": "The primary currency and collectible of the Dragon Realms and Avalar. They come in various colors, each representing a different numerical value.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Gems",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Currency",
+					"Collectible"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Spyro the Dragon (1998)",
+						"difficulty": "Easy",
+						"explanation": "The entire first game revolves around Spyro rescuing the 80 dragons trapped in crystal by Gnasty Gnorc.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_statues.webp",
+						"question": "In which game is freeing these statues the primary objective?",
+						"wrong": [
+							"Spyro 2: Ripto's Rage",
+							"Spyro: Year of the Dragon",
+							"Spyro: Season of Ice"
+						]
+					},
+					{
+						"correct": "Crystal",
+						"difficulty": "Easy",
+						"explanation": "The dragons were encased in a green crystalline shell by Gnasty Gnorc's magic.",
+						"image_url": "",
+						"question": "What material appear to make up these statues?",
+						"wrong": [
+							"Wood",
+							"Iron",
+							"Ice"
+						]
+					},
+					{
+						"correct": "The dragon is freed and speaks to him",
+						"difficulty": "Easy",
+						"explanation": "Rescuing a dragon usually results in a short cutscene where the dragon gives Spyro advice or lore.",
+						"image_url": "",
+						"question": "What happens immediately after Spyro touches a statue?",
+						"wrong": [
+							"Spyro gets a power-up",
+							"The level ends",
+							"Gems rain from the sky"
+						]
+					},
+					{
+						"correct": "Save points",
+						"difficulty": "Easy",
+						"explanation": "Touching a dragon statue or standing on its pedestal saves the player's progress within the level.",
+						"image_url": "",
+						"question": "In the original game, what do these statues serve as for the player's progress?",
+						"wrong": [
+							"Fast travel points",
+							"Health refills",
+							"Shops"
+						]
+					},
+					{
+						"correct": "Gold",
+						"difficulty": "Easy",
+						"explanation": "The dragon stands on a ornate gold pedestal that remains as a save point marker.",
+						"image_url": "",
+						"question": "What is the color of the pedestal that remains after a dragon is freed?",
+						"wrong": [
+							"Silver",
+							"Green",
+							"Stone Grey"
+						]
+					},
+					{
+						"correct": "Nestor",
+						"difficulty": "Medium",
+						"explanation": "Nestor is the leader of the Artisans and is rescued in the very first room of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_statues.webp",
+						"question": "What is the name of the first dragon Spyro rescues in the game?",
+						"wrong": [
+							"Lindar",
+							"Gildas",
+							"Titan"
+						]
+					},
+					{
+						"correct": "Eighty",
+						"difficulty": "Medium",
+						"explanation": "There are exactly 80 dragons scattered across the five home worlds and their levels.",
+						"image_url": "",
+						"question": "How many total dragons must Spyro rescue to complete the first game 100 percent?",
+						"wrong": [
+							"Fifty",
+							"Sixty",
+							"One Hundred"
+						]
+					},
+					{
+						"correct": "Peace Keepers",
+						"difficulty": "Medium",
+						"explanation": "The Peace Keepers are the second group of dragons Spyro rescues.",
+						"image_url": "",
+						"question": "Which dragon family is known for their military strength and desert home?",
+						"wrong": [
+							"Magic Crafters",
+							"Beast Makers",
+							"Dream Weavers"
+						]
+					},
+					{
+						"correct": "Lindar",
+						"difficulty": "Medium",
+						"explanation": "Lindar, found early in the Artisans world, explains the mechanics of gliding at the peak of a jump.",
+						"image_url": "",
+						"question": "Which dragon gives Spyro the hint about how to perform a long glide?",
+						"wrong": [
+							"Nestor",
+							"Argus",
+							"Darius"
+						]
+					},
+					{
+						"correct": "Each dragon has a unique, personalized model",
+						"difficulty": "Medium",
+						"explanation": "The remake gave every one of the 80 dragons a unique appearance, outfit, and personality.",
+						"image_url": "",
+						"question": "In the Reignited Trilogy, how are the dragon statues different from the original game?",
+						"wrong": [
+							"They are made of gold",
+							"They are all the same height",
+							"They don't talk"
+						]
+					},
+					{
+						"correct": "Cosmos",
+						"difficulty": "Hard",
+						"explanation": "Cosmos is the lead dragon of the Magic Crafters who introduces the Supercharge ramps.",
+						"image_url": "https://skillcheckgame.com/assets/images/dragon_statues.webp",
+						"question": "Which dragon in the Magic Crafters world explains the Supercharge mechanic?",
+						"wrong": [
+							"Boldar",
+							"Zantor",
+							"Lucas"
+						]
+					},
+					{
+						"correct": "Nevin",
+						"difficulty": "Hard",
+						"explanation": "Nevin is the only dragon found in the first boss level, positioned right before the fight.",
+						"image_url": "",
+						"question": "What is the name of the dragon found in the 'Toasty' boss level?",
+						"wrong": [
+							"Nils",
+							"Thor",
+							"Gavin"
+						]
+					},
+					{
+						"correct": "Jed",
+						"difficulty": "Hard",
+						"explanation": "Jed is the final dragon in the difficult Tree Tops level.",
+						"image_url": "",
+						"question": "Which dragon is rescued at the end of the 'Tree Tops' level?",
+						"wrong": [
+							"Bubba",
+							"Claude",
+							"Cyprus"
+						]
+					},
+					{
+						"correct": "Lateef",
+						"difficulty": "Hard",
+						"explanation": "Lateef is the first Dream Weaver rescued, providing info on the world's magic.",
+						"image_url": "",
+						"question": "In the Dream Weavers world, which dragon warns Spyro about the size-changing enemies?",
+						"wrong": [
+							"Zikomo",
+							"Mazi",
+							"Lutalo"
+						]
+					},
+					{
+						"correct": "Andor",
+						"difficulty": "Hard",
+						"explanation": "Andor is found at the beginning of Ice Cavern.",
+						"image_url": "",
+						"question": "What is the name of the dragon in the 'Ice Cavern' level who tells Spyro about the slippery floors?",
+						"wrong": [
+							"Ragnar",
+							"Ulric",
+							"Toddy"
+						]
+					}
+				]
+			},
+			"id": "spyro_dragon_statues",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Dragon Statues",
+				"lore_desc": "The crystalline prisons of the dragon elders, created by Gnasty Gnorc's magic. Spyro must touch them to free the dragons and receive advice or save his progress.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Dragon Statues",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Objective",
+					"Curse"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A Faun",
+						"difficulty": "Easy",
+						"explanation": "Elora is a Faun, which is a creature that is half-human and half-goat.",
+						"image_url": "https://skillcheckgame.com/assets/images/elora.webp",
+						"question": "What mythical creature is this character?",
+						"wrong": [
+							"A Centaur",
+							"A Satyr",
+							"A Dryad"
+						]
+					},
+					{
+						"correct": "Spyro 2: Ripto's Rage",
+						"difficulty": "Easy",
+						"explanation": "Elora was introduced as one of the main allies in the second game, helping Spyro navigate Avalar.",
+						"image_url": "",
+						"question": "In which game does this character first appear?",
+						"wrong": [
+							"Spyro the Dragon",
+							"Spyro: Year of the Dragon",
+							"Spyro: Enter the Dragonfly"
+						]
+					},
+					{
+						"correct": "The Guidebook",
+						"difficulty": "Easy",
+						"explanation": "Elora gives Spyro the Guidebook to help him track his progress through the worlds of Avalar.",
+						"image_url": "",
+						"question": "What essential item does she give Spyro at the start of their journey?",
+						"wrong": [
+							"The Map",
+							"A Magic Wand",
+							"A Fire Gem"
+						]
+					},
+					{
+						"correct": "Avalar",
+						"difficulty": "Easy",
+						"explanation": "Unlike the first game's Dragon Realms, Elora's home is the three-world system of Avalar.",
+						"image_url": "",
+						"question": "What is the name of the region that Elora is trying to protect from Ripto?",
+						"wrong": [
+							"The Dragon Realms",
+							"The Forgotten Worlds",
+							"The Shadow Realm"
+						]
+					},
+					{
+						"correct": "Sensible and organized",
+						"difficulty": "Easy",
+						"explanation": "Elora is often the most grounded character, keeping the Professor and Hunter on task.",
+						"image_url": "",
+						"question": "Which of these best describes her personality?",
+						"wrong": [
+							"Clumsy and shy",
+							"Greedy and mean",
+							"Lazy and tired"
+						]
+					},
+					{
+						"correct": "Superportals",
+						"difficulty": "Medium",
+						"explanation": "The Professor built Superportals that Elora uses to move between Summer Forest, Autumn Plains, and Winter Tundra.",
+						"image_url": "https://skillcheckgame.com/assets/images/elora.webp",
+						"question": "What does Elora use to travel between the home worlds of Avalar?",
+						"wrong": [
+							"Balloons",
+							"Wings",
+							"Magic Carpets"
+						]
+					},
+					{
+						"correct": "Skateboarding",
+						"difficulty": "Medium",
+						"explanation": "Elora makes a cameo in the third game, helping Spyro in a skateboarding challenge.",
+						"image_url": "",
+						"question": "In 'Year of the Dragon,' what sport does Elora participate in during a side mission?",
+						"wrong": [
+							"Hockey",
+							"Swimming",
+							"Boxing"
+						]
+					},
+					{
+						"correct": "The Forgotten Worlds",
+						"difficulty": "Medium",
+						"explanation": "In 'Year of the Dragon,' it is revealed that Elora was originally from the Forgotten Worlds.",
+						"image_url": "",
+						"question": "Where is Elora's home world according to the lore?",
+						"wrong": [
+							"Avalar",
+							"Dragon Realms",
+							"The Sky Kingdom"
+						]
+					},
+					{
+						"correct": "I'm a faun, you dork!",
+						"difficulty": "Medium",
+						"explanation": "When Spyro first meets her and asks what she is, she playfully replies, 'I'm a faun, you dork!'",
+						"image_url": "",
+						"question": "What is Elora's catchphrase when she meets Spyro?",
+						"wrong": [
+							"Dragons rule!",
+							"Watch your step!",
+							"Gems are for everyone!"
+						]
+					},
+					{
+						"correct": "She gives Spyro the final Superportal access",
+						"difficulty": "Medium",
+						"explanation": "Elora is the one who finally enables the portal to Ripto's Arena once you have enough orbs.",
+						"image_url": "",
+						"question": "What role does she play in the final confrontation with Ripto?",
+						"wrong": [
+							"She fights alongside him",
+							"She heals him",
+							"She distracts Gulp"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Hard",
+						"explanation": "The remake updated her look with a leaf-like green top and boots.",
+						"image_url": "https://skillcheckgame.com/assets/images/elora.webp",
+						"question": "In the Reignited Trilogy, what color is her top?",
+						"wrong": [
+							"Purple",
+							"Blue",
+							"Red"
+						]
+					},
+					{
+						"correct": "Sunny Beach",
+						"difficulty": "Hard",
+						"explanation": "Elora appears at the start of Sunny Beach to explain the situation with the turtles and the chef.",
+						"image_url": "",
+						"question": "What is the name of the level where Elora is seen helping the baby turtles?",
+						"wrong": [
+							"Aquaria Towers",
+							"Ocean Speedway",
+							"Idol Springs"
+						]
+					},
+					{
+						"correct": "A Centaur",
+						"difficulty": "Hard",
+						"explanation": "Early concept art showed her as a centaur before she was changed to a faun to fit the game's scale.",
+						"image_url": "",
+						"question": "Who was Elora's character originally supposed to be in early development?",
+						"wrong": [
+							"A Dragon",
+							"A Human Princess",
+							"A Fairy"
+						]
+					},
+					{
+						"correct": "The Skateboarding challenge in Sunny Villa",
+						"difficulty": "Hard",
+						"explanation": "Elora appears in Sunny Villa to challenge and guide Spyro through the skate park.",
+						"image_url": "",
+						"question": "Which specific orb mission in 'Year of the Dragon' involves Elora?",
+						"wrong": [
+							"The boxing match in Bentley's world",
+							"The shooting range in Agent 9's world",
+							"The submarine mission"
+						]
+					},
+					{
+						"correct": "She asks him for a dance at Dragon Shores",
+						"difficulty": "Hard",
+						"explanation": "At the very end of the game, she invites Spyro to Dragon Shores for a celebration.",
+						"image_url": "",
+						"question": "What is the last thing Elora says to Spyro at the end of 'Ripto's Rage'?",
+						"wrong": [
+							"She says goodbye forever",
+							"She tells him to go home",
+							"She warns him about the Sorceress"
+						]
+					}
+				]
+			},
+			"id": "spyro_elora",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Elora",
+				"lore_desc": "A resourceful Faun who helps lead the resistance against Ripto in Avalar. She provides Spyro with vital information, maps, and access to new worlds.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Elora",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Faun",
+					"Avalar"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A Mole",
+						"difficulty": "Easy",
+						"explanation": "The Professor is a highly intelligent mole, though he doesn't do much digging.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_professor.webp",
+						"question": "What kind of animal is this character?",
+						"wrong": [
+							"A Rabbit",
+							"A Badger",
+							"A Hamster"
+						]
+					},
+					{
+						"correct": "Spyro 2: Ripto's Rage",
+						"difficulty": "Easy",
+						"explanation": "He was introduced alongside Elora and Hunter as part of the Avalar resistance.",
+						"image_url": "",
+						"question": "In which game does this character make his first appearance?",
+						"wrong": [
+							"Spyro the Dragon",
+							"Spyro: Year of the Dragon",
+							"Spyro: A Hero's Tail"
+						]
+					},
+					{
+						"correct": "Portals",
+						"difficulty": "Easy",
+						"explanation": "The Professor is the mastermind behind the portal systems that allow travel between worlds.",
+						"image_url": "",
+						"question": "What technology is the Professor most famous for inventing?",
+						"wrong": [
+							"Flying machines",
+							"Guns",
+							"Time travel"
+						]
+					},
+					{
+						"correct": "Glasses",
+						"difficulty": "Easy",
+						"explanation": "The Professor wears large, round glasses that highlight his scholarly nature.",
+						"image_url": "",
+						"question": "What accessory does the Professor always wear?",
+						"wrong": [
+							"A top hat",
+							"A monocle",
+							"A cape"
+						]
+					},
+					{
+						"correct": "Hunter the Cheetah",
+						"difficulty": "Easy",
+						"explanation": "While they are friends, Hunter's antics often disrupt the Professor's careful scientific work.",
+						"image_url": "",
+						"question": "Who is the Professor's clumsy assistant who usually causes trouble?",
+						"wrong": [
+							"Moneybags",
+							"Spyro",
+							"Agent 9"
+						]
+					},
+					{
+						"correct": "A Dragon",
+						"difficulty": "Medium",
+						"explanation": "The Professor wanted a dragon to help scare off Ripto's influence, but his calculations were off, bringing Ripto himself through first.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_professor.webp",
+						"question": "What was the Professor trying to summon when he accidentally brought Ripto to Avalar?",
+						"wrong": [
+							"A Gnorc",
+							"A Giant Gem",
+							"A Sandwich"
+						]
+					},
+					{
+						"correct": "Agent 9",
+						"difficulty": "Medium",
+						"explanation": "Agent 9 is a space monkey who was trained at the Professor's lab.",
+						"image_url": "",
+						"question": "In 'Year of the Dragon,' who is revealed to be the Professor's star pupil?",
+						"wrong": [
+							"Bianca",
+							"Bentley",
+							"Sheila"
+						]
+					},
+					{
+						"correct": "Winter Tundra",
+						"difficulty": "Medium",
+						"explanation": "The Professor's main base of operations and the entrance to Dragon Shores are in Winter Tundra.",
+						"image_url": "",
+						"question": "Which home world in Avalar contains the Professor's primary laboratory?",
+						"wrong": [
+							"Summer Forest",
+							"Autumn Plains",
+							"Sunrise Spring"
+						]
+					},
+					{
+						"correct": "Agent 9",
+						"difficulty": "Medium",
+						"explanation": "Agent 9 was a student at the Professor's laboratory on the Moon.",
+						"image_url": "",
+						"question": "What is the name of the Professor's monkey student who uses a laser blaster?",
+						"wrong": [
+							"Sergeant Byrd",
+							"Bentley",
+							"Sheila"
+						]
+					},
+					{
+						"correct": "His pencil",
+						"difficulty": "Medium",
+						"explanation": "Spyro must complete a long series of item trades to finally return the Professor's favorite pencil.",
+						"image_url": "",
+						"question": "In 'Ripto's Rage,' what does the Professor lose in Mystic Marsh that Spyro must find?",
+						"wrong": [
+							"His glasses",
+							"His lab coat",
+							"His portal key"
+						]
+					},
+					{
+						"correct": "Mole University",
+						"difficulty": "Hard",
+						"explanation": "Lore snippets mention he is a graduate and former teacher at Mole University.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_professor.webp",
+						"question": "What is the name of the University the Professor attended?",
+						"wrong": [
+							"Avalar Academy",
+							"Dragon Institute",
+							"Science College"
+						]
+					},
+					{
+						"correct": "A Dragon Statue",
+						"difficulty": "Hard",
+						"explanation": "He was using the magical residue from a dragon statue to lock onto the Dragon Realms.",
+						"image_url": "",
+						"question": "In the intro to the second game, what item did the Professor use to try and pull a dragon through the portal?",
+						"wrong": [
+							"A Dragon Egg",
+							"A Gem",
+							"An Orb"
+						]
+					},
+					{
+						"correct": "Fixing the transportation rockets",
+						"difficulty": "Hard",
+						"explanation": "The Professor works on repairing and maintaining the various rockets and vehicles used to move between hubs.",
+						"image_url": "",
+						"question": "What is the Professor's primary role in 'Year of the Dragon'?",
+						"wrong": [
+							"Fighting the Rhynocs",
+							"Guarding the eggs",
+							"Training Bianca"
+						]
+					},
+					{
+						"correct": "Metropolis",
+						"difficulty": "Hard",
+						"explanation": "In Metropolis, the Professor provides the bombs needed to defeat the mechanical Ox.",
+						"image_url": "",
+						"question": "What is the name of the level where the Professor helps Spyro fight the 'Ox' boss?",
+						"wrong": [
+							"Cloud Temples",
+							"Mystic Marsh",
+							"Zephyr"
+						]
+					},
+					{
+						"correct": "The Bubble Breath",
+						"difficulty": "Hard",
+						"explanation": "The Professor modifies Spyro's breath so he can safely trap escaped dragonflies in bubbles.",
+						"image_url": "",
+						"question": "In 'Enter the Dragonfly', what invention does the Professor give Spyro to help him catch dragonflies?",
+						"wrong": [
+							"A Butterfly Net",
+							"A Vacuum",
+							"A Magic Jar"
+						]
+					}
+				]
+			},
+			"id": "spyro_the_professor",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "The Professor",
+				"lore_desc": "A brilliant but absent-minded Mole scientist who is responsible for the portal technology in Avalar. His experiments often set the plot in motion.",
+				"theme_origin": "spyro",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Professor",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Scientist",
+					"Mole"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -132016,7 +135280,7 @@
 					"name": "Tomb Keeper"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Duel Academy",
 						"Syrus Truesdale"
@@ -134115,6 +137379,136 @@
 						"Sunrise Spring"
 					],
 					"name": "The Skateboarder"
+				}
+			]
+		},
+		{
+			"id": "spyro",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Summer Forest",
+						"Autumn Plains",
+						"Winter Tundra"
+					],
+					"name": "The Realms of Avalar"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Gnasty Gnorc",
+						"Dragon Statues",
+						"Gems"
+					],
+					"name": "Gnasty's Spell"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Professor",
+						"Orbs",
+						"Talismans"
+					],
+					"name": "The Portal Tech"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Artisans",
+						"Peace Keepers",
+						"Magic Crafters"
+					],
+					"name": "The Core Dragon Worlds"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Beast Makers",
+						"Dream Weavers",
+						"Gnasty Gnorc"
+					],
+					"name": "The Darker Realms"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ripto",
+						"Gnasty Gnorc"
+					],
+					"name": "Dimensional Threats"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Elora",
+						"Summer Forest"
+					],
+					"name": "The Welcome Committee"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Professor",
+						"Winter Tundra"
+					],
+					"name": "Winter Research"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Artisans",
+						"Summer Forest"
+					],
+					"name": "Starting Hubs"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Beast Makers",
+						"Dream Weavers"
+					],
+					"name": "The Swamps and Nightmares"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ripto",
+						"Autumn Plains"
+					],
+					"name": "Castle Takeover"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Orbs",
+						"Talismans"
+					],
+					"name": "Avalar's Treasures"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Peace Keepers",
+						"Dragon Statues"
+					],
+					"name": "The First Responders"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gems",
+						"Elora"
+					],
+					"name": "Universal Currency"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Magic Crafters",
+						"Talismans"
+					],
+					"name": "The Magic Builders"
 				}
 			]
 		}
