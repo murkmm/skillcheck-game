@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775409021,
+	"last_updated": 1775409090,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -208,18 +208,23 @@
 			"submitted_by": ""
 		},
 		"2026-02-04": {
+			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
-			"motd": "Nook Inc. Debt Repayment",
+			"motd": "Animal Crossing: Nook's Debt Tour",
 			"share_text": "0 Bells remaining on my loan!",
 			"shops": [
 				{
-					"game": "kapp'n",
-					"peri": "expansion_pak"
+					"p1": "extra_life",
+					"p2": "gold_cartridge"
 				},
 				{
-					"game": "lottie",
-					"peri": "rumble_pack"
+					"p1": "combo_breaker",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "multitap",
+					"p2": "quick_save"
 				}
 			],
 			"showcase": [
@@ -250,7 +255,8 @@
 				"cyrus",
 				"leif",
 				"harvey"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-02-05": {
 			"difficulty": "Normal",
