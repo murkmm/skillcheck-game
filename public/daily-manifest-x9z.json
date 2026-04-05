@@ -1,5 +1,5 @@
 {
-	"last_updated": 1775411310,
+	"last_updated": 1775411418,
 	"schedule": {
 		"2026-01-31": {
 			"daily_type": "normal",
@@ -853,22 +853,23 @@
 			"submitted_by": ""
 		},
 		"2026-03-03": {
+			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
-			"motd": "Resident Evil Daily Test",
-			"share_text": "Boulder",
+			"motd": "Resident Evil: Survive the Horror",
+			"share_text": "S.T.A.R.S. reporting. Boulder defeated.",
 			"shops": [
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "lucky_dice",
+					"p2": "second_chance"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "gold_cartridge",
+					"p2": "extra_life"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p1": "turbo_button",
+					"p2": "multitap"
 				}
 			],
 			"showcase": [
@@ -893,7 +894,8 @@
 				"resident_evil_mr._x",
 				"resident_evil_typewriter",
 				"resident_evil_leon_s._kennedy"
-			]
+			],
+			"submitted_by": ""
 		},
 		"2026-03-04": {
 			"difficulty": "Normal",
