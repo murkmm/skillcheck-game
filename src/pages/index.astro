@@ -173,13 +173,24 @@ import Layout from '~/layouts/Layout.astro';
       align-items: center;
     }
 
-    /* Game iframe container */
+    /* Game iframe container - Strict 9:16, Max Height */
     .game-wrapper {
       position: relative;
-      width: 100%;
-      max-width: 450px;
+      /* Instead of forcing width, we force the height to fill the screen */
+      height: 78vh;
+      max-height: 900px;
+      /* The width will automatically calculate based on the height */
       aspect-ratio: 9 / 16;
-      max-height: 85vh;
+      margin: 0 auto;
+    }
+
+    /* Make sure mobile still looks perfect */
+    @media (max-width: 767px) {
+      .game-wrapper {
+        height: auto;
+        width: 100vw;
+        max-height: none;
+      }
     }
 
     .game-frame-container {
