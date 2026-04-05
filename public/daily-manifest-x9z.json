@@ -1,26 +1,6 @@
 {
-	"last_updated": 1775407660,
+	"last_updated": 1775407726,
 	"schedule": {
-		"2026-01-25": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Hello Kitty Daily Challenge",
-			"shops": [
-				{
-					"game": "hello_kitty_roller_rescue",
-					"peri": "rumble_pack"
-				},
-				{
-					"game": "hello_kitty_party_pals",
-					"peri": "expansion_pak"
-				}
-			],
-			"starters": [
-				"hello_kitty_island_adventure",
-				"hello_kitty_kruisers",
-				"hello_kitty_parade"
-			]
-		},
 		"2026-01-26": {
 			"difficulty": "Easy",
 			"mode": "INFLATION",
