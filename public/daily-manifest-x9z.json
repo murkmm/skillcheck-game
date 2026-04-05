@@ -1,16 +1,6 @@
 {
-	"last_updated": 1775407516,
+	"last_updated": 1775407660,
 	"schedule": {
-		"2026-01-24": {
-			"difficulty": "Expert",
-			"games": [
-				"crash_team_racing_ps1",
-				"crash_bandicoot_4_its_about_time",
-				"crash_bandicoot"
-			],
-			"mode": "STANDARD",
-			"motd": "Crash Daily !"
-		},
 		"2026-01-25": {
 			"difficulty": "Easy",
 			"mode": "STANDARD",
