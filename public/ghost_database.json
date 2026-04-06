@@ -131937,6 +131937,3270 @@
 					"Mole"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Pokemon Silver",
+						"difficulty": "Easy",
+						"explanation": "Lugia's silhouette is featured prominently on the cover of the Silver version of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/lugia.webp",
+						"question": "Lugia is the legendary mascot of which classic handheld game version?",
+						"wrong": [
+							"Pokemon Gold",
+							"Pokemon Crystal",
+							"Pokemon Red"
+						]
+					},
+					{
+						"correct": "Role Playing Game",
+						"difficulty": "Easy",
+						"explanation": "The series is a classic turn-based RPG focused on collecting and battling creatures.",
+						"image_url": "https://skillcheckgame.com/assets/images/lugia.webp",
+						"question": "What is the primary genre of the game Lugia appears in?",
+						"wrong": [
+							"First Person Shooter",
+							"Racing Game",
+							"Puzzle Game"
+						]
+					},
+					{
+						"correct": "Whirl Islands",
+						"difficulty": "Easy",
+						"explanation": "Lugia is found deep within the Whirl Islands, which are protected by massive whirlpools.",
+						"image_url": "https://skillcheckgame.com/assets/images/lugia.webp",
+						"question": "Which specific islands in the Johto region serve as the home of Lugia?",
+						"wrong": [
+							"Seafoam Islands",
+							"Cinnabar Island",
+							"Orange Islands"
+						]
+					},
+					{
+						"correct": "Game Boy Color",
+						"difficulty": "Easy",
+						"explanation": "While playable on the original Game Boy, these games were specifically designed for the Game Boy Color.",
+						"image_url": "",
+						"question": "On which handheld console were Gold and Silver originally released?",
+						"wrong": [
+							"Nintendo DS",
+							"Game Boy Advance",
+							"Sega Game Gear"
+						]
+					},
+					{
+						"correct": "The Seas",
+						"difficulty": "Easy",
+						"explanation": "Lugia is often referred to as the Guardian of the Seas and resides in the deep ocean.",
+						"image_url": "",
+						"question": "In the second Pokemon movie, Lugia is known as the Guardian of what?",
+						"wrong": [
+							"The Skies",
+							"The Mountains",
+							"The Forest"
+						]
+					},
+					{
+						"correct": "Aeroblast",
+						"difficulty": "Medium",
+						"explanation": "Aeroblast is a high-crit-ratio move that was unique to Lugia in Generation 2.",
+						"image_url": "",
+						"question": "What is the name of Lugia's powerful signature move that involves a blast of air?",
+						"wrong": [
+							"Air Slash",
+							"Sky Attack",
+							"Hurricane"
+						]
+					},
+					{
+						"correct": "Silver Wing",
+						"difficulty": "Medium",
+						"explanation": "The Silver Wing is given to the player in either Pewter City or Goldenrod City depending on the version.",
+						"image_url": "",
+						"question": "Which key item is required to encounter Lugia in the Whirl Islands?",
+						"wrong": [
+							"Rainbow Wing",
+							"Tidal Bell",
+							"Gold Leaf"
+						]
+					},
+					{
+						"correct": "Psychic and Flying",
+						"difficulty": "Medium",
+						"explanation": "Surprisingly, Lugia is not a Water type; it is a Psychic and Flying type.",
+						"image_url": "",
+						"question": "Despite being the Guardian of the Seas, what is Lugia's actual primary typing?",
+						"wrong": [
+							"Water and Flying",
+							"Water and Dragon",
+							"Psychic and Dragon"
+						]
+					},
+					{
+						"correct": "Whirlpool",
+						"difficulty": "Medium",
+						"explanation": "The Whirlpool HM is required to clear the obstacles surrounding the Whirl Islands.",
+						"image_url": "",
+						"question": "Which HM move is necessary to navigate the waters leading to Lugia's chamber?",
+						"wrong": [
+							"Waterfall",
+							"Surf",
+							"Dive"
+						]
+					},
+					{
+						"correct": "Legendary Birds",
+						"difficulty": "Medium",
+						"explanation": "Lore from the movies and later games establishes Lugia as the master of Articuno, Zapdos, and Moltres.",
+						"image_url": "",
+						"question": "In the Johto region lore, which Legendary Trio does Lugia serve as the master of?",
+						"wrong": [
+							"Legendary Beasts",
+							"Legendary Titans",
+							"Weather Trio"
+						]
+					},
+					{
+						"correct": "3",
+						"difficulty": "Hard",
+						"explanation": "Lugia has a catch rate of 3, the lowest possible value, making it extremely difficult to capture.",
+						"image_url": "",
+						"question": "What is the base catch rate of Lugia, shared with most other box-art Legendaries?",
+						"wrong": [
+							"10",
+							"45",
+							"1"
+						]
+					},
+					{
+						"correct": "Level 40",
+						"difficulty": "Hard",
+						"explanation": "In its own version, Lugia is encountered at level 40, while in Gold it is level 70.",
+						"image_url": "",
+						"question": "In the Pokemon Silver version, what level is Lugia when you first encounter it in the wild?",
+						"wrong": [
+							"Level 50",
+							"Level 70",
+							"Level 30"
+						]
+					},
+					{
+						"correct": "Multiscale",
+						"difficulty": "Hard",
+						"explanation": "Multiscale reduces damage taken when the Pokemon is at full HP, making Lugia even bulkier.",
+						"image_url": "",
+						"question": "Which of these Hidden Abilities was eventually given to Lugia in later generations to boost its defense?",
+						"wrong": [
+							"Pressure",
+							"Inner Focus",
+							"Regenerator"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Hard",
+						"explanation": "There are four distinct islands, though only one leads to the deep chamber where Lugia resides.",
+						"image_url": "",
+						"question": "How many separate islands make up the Whirl Islands where Lugia hides?",
+						"wrong": [
+							"Two",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "Takeshi Shudo",
+						"difficulty": "Hard",
+						"explanation": "Takeshi Shudo, the head writer of the anime, created Lugia specifically for the second film.",
+						"image_url": "",
+						"question": "Lugia was the first Pokemon ever to be designed by whom?",
+						"wrong": [
+							"Ken Sugimori",
+							"Satoshi Tajiri",
+							"Shigeru Miyamoto"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_lugia",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Lugia",
+				"lore_desc": "Known as the Guardian of the Seas, this majestic creature is said to spend its time at the bottom of the ocean to avoid causing accidental destruction with its power.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Legendary",
+					"Psychic",
+					"Flying"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Pokemon Gold",
+						"difficulty": "Easy",
+						"explanation": "Ho-Oh shines on the cover of the Gold version, representing the sun and the heavens.",
+						"image_url": "https://skillcheckgame.com/assets/images/ho-oh.webp",
+						"question": "Ho-Oh is the legendary mascot of which classic Pokemon game?",
+						"wrong": [
+							"Pokemon Silver",
+							"Pokemon Crystal",
+							"Pokemon Yellow"
+						]
+					},
+					{
+						"correct": "Role Playing Game",
+						"difficulty": "Easy",
+						"explanation": "It is an RPG where you train creatures to battle other trainers.",
+						"image_url": "https://skillcheckgame.com/assets/images/ho-oh.webp",
+						"question": "What type of game is Pokemon Gold and Silver?",
+						"wrong": [
+							"Sports Game",
+							"Platformer",
+							"Sandbox"
+						]
+					},
+					{
+						"correct": "Bell Tower",
+						"difficulty": "Easy",
+						"explanation": "Ho-Oh rests at the top of the Bell Tower, formerly known as the Tin Tower.",
+						"image_url": "https://skillcheckgame.com/assets/images/ho-oh.webp",
+						"question": "Where does Ho-Oh reside in the Johto region?",
+						"wrong": [
+							"Burned Tower",
+							"Sprout Tower",
+							"Radio Tower"
+						]
+					},
+					{
+						"correct": "Fire and Flying",
+						"difficulty": "Easy",
+						"explanation": "Ho-Oh is the Fire and Flying type guardian of the skies.",
+						"image_url": "",
+						"question": "What are the primary types of the legendary bird Ho-Oh?",
+						"wrong": [
+							"Fire and Psychic",
+							"Electric and Flying",
+							"Normal and Flying"
+						]
+					},
+					{
+						"correct": "Rainbow Wing",
+						"difficulty": "Easy",
+						"explanation": "The Rainbow Wing matches Ho-Oh's colorful feathers and is needed to reach the tower top.",
+						"image_url": "",
+						"question": "Which of these items is required to summon Ho-Oh in Pokemon Gold?",
+						"wrong": [
+							"Silver Wing",
+							"Gold Leaf",
+							"Sacred Ash"
+						]
+					},
+					{
+						"correct": "Ecruteak City",
+						"difficulty": "Medium",
+						"explanation": "Ecruteak City is the cultural heart of Johto and home to both the Bell and Burned Towers.",
+						"image_url": "",
+						"question": "Which city is the Bell Tower located in?",
+						"wrong": [
+							"Goldenrod City",
+							"Violet City",
+							"Blackthorn City"
+						]
+					},
+					{
+						"correct": "Legendary Beasts",
+						"difficulty": "Medium",
+						"explanation": "Ho-Oh brought Raikou, Entei, and Suicune back to life after the Brass Tower burned down.",
+						"image_url": "",
+						"question": "Ho-Oh is credited with resurrecting which trio of legendary creatures after a fire?",
+						"wrong": [
+							"Legendary Birds",
+							"Regis",
+							"Lake Guardians"
+						]
+					},
+					{
+						"correct": "Sacred Fire",
+						"difficulty": "Medium",
+						"explanation": "Sacred Fire is a powerful physical move with a high 50 percent chance to burn the target.",
+						"image_url": "",
+						"question": "What is the name of Ho-Oh's signature fire-type move?",
+						"wrong": [
+							"Fire Blast",
+							"Flamethrower",
+							"Flare Blitz"
+						]
+					},
+					{
+						"correct": "Ho-Oh",
+						"difficulty": "Medium",
+						"explanation": "Ash saw Ho-Oh at the end of the first episode, long before it was officially named in the games.",
+						"image_url": "",
+						"question": "In the very first episode of the Pokemon anime, what did Ash see in the sky?",
+						"wrong": [
+							"Fearow",
+							"Articuno",
+							"Moltres"
+						]
+					},
+					{
+						"correct": "Brass Tower",
+						"difficulty": "Medium",
+						"explanation": "The Brass Tower was the twin to the Tin Tower before it was struck by lightning and burned.",
+						"image_url": "",
+						"question": "What is the name of the tower that stood next to Ho-Oh's home before it burned down?",
+						"wrong": [
+							"Silver Tower",
+							"Copper Tower",
+							"Iron Tower"
+						]
+					},
+					{
+						"correct": "Kimono Girls",
+						"difficulty": "Hard",
+						"explanation": "The Kimono Girls maintain the traditions of Ecruteak and test the player's worthiness.",
+						"image_url": "",
+						"question": "Which group of trainers in Ecruteak City performs dances to honor Ho-Oh?",
+						"wrong": [
+							"Wise Trio",
+							"Shrine Maidens",
+							"Dragon Clan"
+						]
+					},
+					{
+						"correct": "Level 40",
+						"difficulty": "Hard",
+						"explanation": "In its own version, Gold, Ho-Oh is encountered at level 40.",
+						"image_url": "",
+						"question": "In Pokemon Gold, what level is Ho-Oh when you battle it at the top of the tower?",
+						"wrong": [
+							"Level 50",
+							"Level 70",
+							"Level 45"
+						]
+					},
+					{
+						"correct": "Fenghuang",
+						"difficulty": "Hard",
+						"explanation": "Ho-Oh is based on the Fenghuang, the immortal fire bird from East Asian mythology.",
+						"image_url": "",
+						"question": "Ho-Oh's name is a palindrome. What mythical creature is it based on?",
+						"wrong": [
+							"Garuda",
+							"Simurgh",
+							"Yatagarasu"
+						]
+					},
+					{
+						"correct": "Sacred Ash",
+						"difficulty": "Hard",
+						"explanation": "Sacred Ash is a unique item held by Ho-Oh that fully heals the entire party.",
+						"image_url": "",
+						"question": "What item is Ho-Oh often found holding that can revive all fainted Pokemon?",
+						"wrong": [
+							"Max Revive",
+							"Revival Herb",
+							"Phoenix Down"
+						]
+					},
+					{
+						"correct": "Tin Tower",
+						"difficulty": "Hard",
+						"explanation": "It was originally the Tin Tower, renamed to the Bell Tower in the HeartGold and SoulSilver remakes.",
+						"image_url": "",
+						"question": "What was the original name of the Bell Tower in the Japanese version and the Gen 2 English games?",
+						"wrong": [
+							"Copper Tower",
+							"Steel Tower",
+							"Gold Tower"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_ho-oh",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Ho-Oh",
+				"lore_desc": "A magnificent bird said to have rainbow-colored wings. Legend says that anyone who sees Ho-Oh is promised eternal happiness.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Legendary",
+					"Fire",
+					"Flying"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Pokemon Crystal",
+						"difficulty": "Easy",
+						"explanation": "Suicune is the star of Pokemon Crystal, which featured an expanded story about it.",
+						"image_url": "https://skillcheckgame.com/assets/images/suicune.webp",
+						"question": "Suicune is the mascot for which upgraded version of the Gen 2 games?",
+						"wrong": [
+							"Pokemon Platinum",
+							"Pokemon Emerald",
+							"Pokemon Yellow"
+						]
+					},
+					{
+						"correct": "Game Freak",
+						"difficulty": "Easy",
+						"explanation": "Game Freak has been the primary developer for the core series since the beginning.",
+						"image_url": "https://skillcheckgame.com/assets/images/suicune.webp",
+						"question": "Who is the developer of the Pokemon games?",
+						"wrong": [
+							"Nintendo",
+							"HAL Laboratory",
+							"Rare"
+						]
+					},
+					{
+						"correct": "Water",
+						"difficulty": "Easy",
+						"explanation": "Suicune is a pure Water type, despite its association with the wind and ice-like appearance.",
+						"image_url": "https://skillcheckgame.com/assets/images/suicune.webp",
+						"question": "What is Suicune's single elemental type?",
+						"wrong": [
+							"Ice",
+							"Flying",
+							"Psychic"
+						]
+					},
+					{
+						"correct": "Entei",
+						"difficulty": "Easy",
+						"explanation": "Raikou, Entei, and Suicune make up the trio often called the Legendary Beasts.",
+						"image_url": "",
+						"question": "Suicune is part of a legendary trio alongside Raikou and who else?",
+						"wrong": [
+							"Arcanine",
+							"Moltres",
+							"Kyogre"
+						]
+					},
+					{
+						"correct": "Dirty Water",
+						"difficulty": "Easy",
+						"explanation": "Suicune purifies water instantly upon touching it, leaving it crystal clear.",
+						"image_url": "",
+						"question": "What is Suicune said to have the power to purify?",
+						"wrong": [
+							"Dark Souls",
+							"Polluted Air",
+							"Lava"
+						]
+					},
+					{
+						"correct": "Eusine",
+						"difficulty": "Medium",
+						"explanation": "Eusine is a Suicune hunter who has spent ten years chasing the legendary beast.",
+						"image_url": "",
+						"question": "In Pokemon Crystal, which character is obsessed with tracking down Suicune?",
+						"wrong": [
+							"Silver",
+							"Lance",
+							"Morty"
+						]
+					},
+					{
+						"correct": "Legendary Beasts",
+						"difficulty": "Medium",
+						"explanation": "While fans often call them dogs or cats, the official term is the Legendary Beasts.",
+						"image_url": "",
+						"question": "What is the collective name often used to describe Suicune, Entei, and Raikou?",
+						"wrong": [
+							"Legendary Dogs",
+							"Legendary Cats",
+							"Legendary Hamsters"
+						]
+					},
+					{
+						"correct": "The North Wind",
+						"difficulty": "Medium",
+						"explanation": "Suicune's Pokedex entry states it is the embodiment of the North Wind.",
+						"image_url": "",
+						"question": "Suicune is said to be the embodiment of which specific wind?",
+						"wrong": [
+							"The South Wind",
+							"The East Wind",
+							"The West Wind"
+						]
+					},
+					{
+						"correct": "Roaming randomly in the wild",
+						"difficulty": "Medium",
+						"explanation": "In Gold and Silver, it roams Johto randomly, unlike in Crystal where it has a fixed location.",
+						"image_url": "",
+						"question": "In the original Gold and Silver games, how do you encounter Suicune?",
+						"wrong": [
+							"Static battle in a cave",
+							"At the top of a tower",
+							"In the ocean"
+						]
+					},
+					{
+						"correct": "Morty",
+						"difficulty": "Medium",
+						"explanation": "Morty, the Ecruteak Gym Leader, is friends with Eusine and shares an interest in the legendary beasts.",
+						"image_url": "",
+						"question": "Which city's Gym Leader is a close friend of Eusine and also studies Suicune?",
+						"wrong": [
+							"Falkner",
+							"Bugsy",
+							"Chuck"
+						]
+					},
+					{
+						"correct": "Clear Bell",
+						"difficulty": "Hard",
+						"explanation": "The Clear Bell is a key item obtained after defeating Team Rocket at the Radio Tower.",
+						"image_url": "",
+						"question": "What is the name of the special bell required to encounter Suicune in Pokemon Crystal?",
+						"wrong": [
+							"Tidal Bell",
+							"Soothe Bell",
+							"Shell Bell"
+						]
+					},
+					{
+						"correct": "Pressure",
+						"difficulty": "Hard",
+						"explanation": "Pressure was the standard ability for all three Legendary Beasts in early generations.",
+						"image_url": "",
+						"question": "Which of these abilities does Suicune possess in the Gen 2 games?",
+						"wrong": [
+							"Intimidate",
+							"Swift Swim",
+							"Water Absorb"
+						]
+					},
+					{
+						"correct": "Tin Tower",
+						"difficulty": "Hard",
+						"explanation": "In Crystal, Suicune waits for you at the bottom floor of the Tin Tower.",
+						"image_url": "",
+						"question": "In Pokemon Crystal, where does the final battle with Suicune take place?",
+						"wrong": [
+							"Mt. Silver",
+							"Lake of Rage",
+							"Tohjo Falls"
+						]
+					},
+					{
+						"correct": "Two PP",
+						"difficulty": "Hard",
+						"explanation": "Pressure forces the opponent to use two PP per move instead of one.",
+						"image_url": "",
+						"question": "How many HP does the move 'Pressure' consume from the opponent when they attack Suicune?",
+						"wrong": [
+							"One PP",
+							"Three PP",
+							"Five PP"
+						]
+					},
+					{
+						"correct": "Purple",
+						"difficulty": "Hard",
+						"explanation": "Suicune features a prominent hexagonal purple crest on its forehead.",
+						"image_url": "",
+						"question": "What color is the 'crest' on Suicune's head?",
+						"wrong": [
+							"Blue",
+							"White",
+							"Yellow"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_suicune",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Suicune",
+				"lore_desc": "The embodiment of north winds, Suicune is said to be the reincarnation of the winds that blow across the world, purifying polluted water as it runs.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Legendary",
+					"Water",
+					"Beast"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Mount Silver",
+						"difficulty": "Easy",
+						"explanation": "Red is the ultimate hidden boss found at the summit of Mount Silver.",
+						"image_url": "https://skillcheckgame.com/assets/images/red.webp",
+						"question": "Where is Red found in the Pokemon Gold and Silver games?",
+						"wrong": [
+							"Indigo Plateau",
+							"Victory Road",
+							"Cinnabar Island"
+						]
+					},
+					{
+						"correct": "Kanto",
+						"difficulty": "Easy",
+						"explanation": "Red was the hero of the original Kanto-based games, Red, Blue, and Yellow.",
+						"image_url": "https://skillcheckgame.com/assets/images/red.webp",
+						"question": "Which region is Red originally from?",
+						"wrong": [
+							"Johto",
+							"Hoenn",
+							"Sinnoh"
+						]
+					},
+					{
+						"correct": "...",
+						"difficulty": "Easy",
+						"explanation": "Red is famously silent and only communicates with ellipses.",
+						"image_url": "https://skillcheckgame.com/assets/images/red.webp",
+						"question": "What is the first thing Red says to you when you challenge him?",
+						"wrong": [
+							"I challenge you!",
+							"Welcome to the peak.",
+							"You are the new champion?"
+						]
+					},
+					{
+						"correct": "Pikachu",
+						"difficulty": "Easy",
+						"explanation": "His Pikachu is level 81, making it the highest-leveled trainer Pokemon in the game.",
+						"image_url": "",
+						"question": "Which of these iconic Pokemon is Red's highest-leveled team member?",
+						"wrong": [
+							"Charizard",
+							"Mewtwo",
+							"Dragonite"
+						]
+					},
+					{
+						"correct": "Main Protagonist",
+						"difficulty": "Easy",
+						"explanation": "Red was the character controlled by players in the original 1996 games.",
+						"image_url": "",
+						"question": "What role did Red play in the previous generation of games?",
+						"wrong": [
+							"Gym Leader",
+							"Rival",
+							"Team Rocket Leader"
+						]
+					},
+					{
+						"correct": "Red has all three",
+						"difficulty": "Medium",
+						"explanation": "Reflecting his status as the hero of Pokemon Yellow, he has the fully evolved versions of all three starters.",
+						"image_url": "",
+						"question": "Which Kanto starter Pokemon does Red NOT have on his team?",
+						"wrong": [
+							"Bulbasaur",
+							"Charmander",
+							"Squirtle"
+						]
+					},
+					{
+						"correct": "Snorlax",
+						"difficulty": "Medium",
+						"explanation": "Red uses a Snorlax, which was a famous obstacle in his own journey through Kanto.",
+						"image_url": "",
+						"question": "Which massive, sleeping Pokemon does Red use on his team?",
+						"wrong": [
+							"Slaking",
+							"Ursaring",
+							"Golem"
+						]
+					},
+					{
+						"correct": "Espeon",
+						"difficulty": "Medium",
+						"explanation": "In the original Gen 2 games, he uses an Espeon, though it was replaced by Lapras in the remakes.",
+						"image_url": "",
+						"question": "In the original Gold and Silver, which Eeveelution does Red use?",
+						"wrong": [
+							"Umbreon",
+							"Vaporeon",
+							"Jolteon"
+						]
+					},
+					{
+						"correct": "16",
+						"difficulty": "Medium",
+						"explanation": "You must conquer both the Johto and Kanto leagues to access Mt. Silver.",
+						"image_url": "",
+						"question": "How many badges must you obtain before you can enter Red's hideout?",
+						"wrong": [
+							"8",
+							"12",
+							"0"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "Blue, the rival from the first games, took over the Viridian City Gym.",
+						"image_url": "",
+						"question": "Who is the former rival of Red who is now the 8th Gym Leader of Kanto?",
+						"wrong": [
+							"Silver",
+							"Lance",
+							"Giovanni"
+						]
+					},
+					{
+						"correct": "Level 81",
+						"difficulty": "Hard",
+						"explanation": "Pikachu is his ace and is level 81, a massive jump in difficulty from the Elite Four.",
+						"image_url": "",
+						"question": "What is the specific level of Red's Pikachu in the original Pokemon Gold and Silver?",
+						"wrong": [
+							"Level 100",
+							"Level 88",
+							"Level 75"
+						]
+					},
+					{
+						"correct": "Hail",
+						"difficulty": "Hard",
+						"explanation": "While it wasn't in the original GBC games, the remakes added permanent Hail to his battle.",
+						"image_url": "",
+						"question": "What is unique about the weather during the battle with Red in later remakes?",
+						"wrong": [
+							"Rain",
+							"Sandstorm",
+							"Fog"
+						]
+					},
+					{
+						"correct": "Iron Tail",
+						"difficulty": "Hard",
+						"explanation": "In most versions, Red's Pikachu knows Iron Tail to deal with Rock and Ground types.",
+						"image_url": "",
+						"question": "Which of these moves does Red's Pikachu famously know to counter its weakness?",
+						"wrong": [
+							"Dig",
+							"Earthquake",
+							"Surf"
+						]
+					},
+					{
+						"correct": "Pallet Town",
+						"difficulty": "Hard",
+						"explanation": "Red hails from Pallet Town, where his mother still lives and waits for him.",
+						"image_url": "",
+						"question": "Which town in Kanto is Red's hometown?",
+						"wrong": [
+							"Viridian City",
+							"Pewter City",
+							"Lavender Town"
+						]
+					},
+					{
+						"correct": "Lapras",
+						"difficulty": "Hard",
+						"explanation": "Lapras was added to his team in HeartGold and SoulSilver to reference the gift Lapras from Silph Co.",
+						"image_url": "",
+						"question": "In the remakes, which Pokemon replaces Espeon on Red's team?",
+						"wrong": [
+							"Dragonite",
+							"Aerodactyl",
+							"Tyranitar"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_red",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Red",
+				"lore_desc": "The silent protagonist of the first generation games who has become a living legend, waiting at the highest peak for a worthy challenger.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Trainer",
+					"Champion",
+					"Legend"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Mudkip",
+						"difficulty": "Easy",
+						"explanation": "Mudkip is a starter from the Hoenn region, introduced in Generation 3.",
+						"image_url": "https://skillcheckgame.com/assets/images/johto_region.webp",
+						"question": "Which of these is NOT a starter Pokemon in the Johto region?",
+						"wrong": [
+							"Chikorita",
+							"Cyndaquil",
+							"Totodile"
+						]
+					},
+					{
+						"correct": "Generation 2",
+						"difficulty": "Easy",
+						"explanation": "Gold, Silver, and Crystal introduced the world to Johto.",
+						"image_url": "https://skillcheckgame.com/assets/images/johto_region.webp",
+						"question": "The Johto region is the primary setting for which generation of Pokemon games?",
+						"wrong": [
+							"Generation 1",
+							"Generation 3",
+							"Generation 4"
+						]
+					},
+					{
+						"correct": "Kanto",
+						"difficulty": "Easy",
+						"explanation": "Kanto is Johto's neighbor to the east; players can visit both in Gen 2.",
+						"image_url": "https://skillcheckgame.com/assets/images/johto_region.webp",
+						"question": "Which region is connected to Johto by land and sea?",
+						"wrong": [
+							"Hoenn",
+							"Sinnoh",
+							"Unova"
+						]
+					},
+					{
+						"correct": "New Bark Town",
+						"difficulty": "Easy",
+						"explanation": "Players begin their journey in New Bark Town, the town where the winds of a new beginning blow.",
+						"image_url": "",
+						"question": "What is the name of the starting town in the Johto region?",
+						"wrong": [
+							"Pallet Town",
+							"Littleroot Town",
+							"Twinleaf Town"
+						]
+					},
+					{
+						"correct": "8",
+						"difficulty": "Easy",
+						"explanation": "Like most regions, you must defeat 8 Gym Leaders to earn the right to the League.",
+						"image_url": "",
+						"question": "How many Gym Badges are required to challenge the Elite Four in Johto?",
+						"wrong": [
+							"16",
+							"6",
+							"10"
+						]
+					},
+					{
+						"correct": "Goldenrod City",
+						"difficulty": "Medium",
+						"explanation": "Goldenrod City is the metropolis of Johto, featuring a department store, gym, and radio tower.",
+						"image_url": "",
+						"question": "Which city in Johto is the largest and contains a massive Radio Tower?",
+						"wrong": [
+							"Ecruteak City",
+							"Olivine City",
+							"Blackthorn City"
+						]
+					},
+					{
+						"correct": "Magnet Train",
+						"difficulty": "Medium",
+						"explanation": "The Magnet Train runs between Goldenrod City and Saffron City.",
+						"image_url": "",
+						"question": "What is the name of the high-speed transportation that connects Johto and Kanto?",
+						"wrong": [
+							"Bullet Train",
+							"Monorail",
+							"S.S. Anne"
+						]
+					},
+					{
+						"correct": "Ruins of Alph",
+						"difficulty": "Medium",
+						"explanation": "The Ruins of Alph are famous for the Unown that reside there.",
+						"image_url": "",
+						"question": "Which mysterious ruins are found in Johto, filled with letter-shaped Pokemon?",
+						"wrong": [
+							"Ruins of Abyssal",
+							"Solaceon Ruins",
+							"Sinjoh Ruins"
+						]
+					},
+					{
+						"correct": "Olivine City",
+						"difficulty": "Medium",
+						"explanation": "Olivine City is home to the Glitter Lighthouse and Gym Leader Jasmine.",
+						"image_url": "",
+						"question": "Which Johto city is famous for its lighthouse and sea port?",
+						"wrong": [
+							"Cianwood City",
+							"Cherrygrove City",
+							"Azalea Town"
+						]
+					},
+					{
+						"correct": "New Bark Town",
+						"difficulty": "Medium",
+						"explanation": "Professor Elm's lab is located in New Bark Town.",
+						"image_url": "",
+						"question": "In which Johto town do players receive their very first Pokemon from the local professor?",
+						"wrong": [
+							"Violet City",
+							"Azalea Town",
+							"Ecruteak City"
+						]
+					},
+					{
+						"correct": "Victory Road",
+						"difficulty": "Hard",
+						"explanation": "Victory Road is the final hurdle for trainers before they reach the Elite Four.",
+						"image_url": "",
+						"question": "What is the name of the cave that connects the Johto region to the Indigo Plateau?",
+						"wrong": [
+							"Mt. Mortar",
+							"Dark Cave",
+							"Union Cave"
+						]
+					},
+					{
+						"correct": "Kansai",
+						"difficulty": "Hard",
+						"explanation": "Johto is geographically and culturally based on the Kansai region of Japan.",
+						"image_url": "",
+						"question": "Which of these real-world Japanese regions is Johto based on?",
+						"wrong": [
+							"Kanto",
+							"Kyushu",
+							"Hokkaido"
+						]
+					},
+					{
+						"correct": "Mt. Silver",
+						"difficulty": "Hard",
+						"explanation": "The massive Mt. Silver marks the boundary between the two regions.",
+						"image_url": "",
+						"question": "What is the name of the specific mountain range that separates Johto and Kanto?",
+						"wrong": [
+							"Mt. Moon",
+							"Mt. Chimney",
+							"Mt. Coronet"
+						]
+					},
+					{
+						"correct": "National Park",
+						"difficulty": "Hard",
+						"explanation": "The National Park is located north of Goldenrod City and is famous for its fountain and contests.",
+						"image_url": "",
+						"question": "Which park in Johto hosts the Bug-Catching Contest every Tuesday, Thursday, and Saturday?",
+						"wrong": [
+							"Goldenrod Park",
+							"Safari Zone",
+							"Ilex Forest"
+						]
+					},
+					{
+						"correct": "Tohjo Falls",
+						"difficulty": "Hard",
+						"explanation": "Tohjo Falls is the geographical gateway where Johto ends and Kanto begins.",
+						"image_url": "",
+						"question": "What is the name of the waterfall that marks the border between Johto and Kanto?",
+						"wrong": [
+							"Victory Falls",
+							"Dragon Falls",
+							"Silver Falls"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_johto_region",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Johto Region",
+				"lore_desc": "A land steeped in tradition and mythology, located west of Kanto. It is known for its beautiful towers and rural landscapes.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Region",
+					"Johto",
+					"World"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Hatching an Egg",
+						"difficulty": "Easy",
+						"explanation": "You are given a Mystery Egg early in the game that hatches into Togepi.",
+						"image_url": "https://skillcheckgame.com/assets/images/togepi.webp",
+						"question": "How does the player first obtain a Togepi in the Gen 2 games?",
+						"wrong": [
+							"Catching it in the grass",
+							"Trading with a Gym Leader",
+							"Finding it in a cave"
+						]
+					},
+					{
+						"correct": "Metronome",
+						"difficulty": "Easy",
+						"explanation": "Metronome wiggles the user's fingers to trigger nearly any move in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/togepi.webp",
+						"question": "What is the name of Togepi's signature move that performs a random attack?",
+						"wrong": [
+							"Splash",
+							"Mimic",
+							"Sketch"
+						]
+					},
+					{
+						"correct": "Misty",
+						"difficulty": "Easy",
+						"explanation": "Misty became the primary caretaker of Togepi in the anime series.",
+						"image_url": "https://skillcheckgame.com/assets/images/togepi.webp",
+						"question": "Which anime character is famous for carrying a Togepi everywhere?",
+						"wrong": [
+							"Ash",
+							"Brock",
+							"May"
+						]
+					},
+					{
+						"correct": "Normal",
+						"difficulty": "Easy",
+						"explanation": "In Gen 2, Togepi was a pure Normal type. It was changed to Fairy type much later.",
+						"image_url": "",
+						"question": "In the original Gold and Silver, what is Togepi's single type?",
+						"wrong": [
+							"Fairy",
+							"Psychic",
+							"Flying"
+						]
+					},
+					{
+						"correct": "Mystery Egg",
+						"difficulty": "Easy",
+						"explanation": "The item is specifically called the Mystery Egg in the game's story.",
+						"image_url": "",
+						"question": "What kind of item is Togepi hatched from?",
+						"wrong": [
+							"Lucky Egg",
+							"Old Amber",
+							"Fossil"
+						]
+					},
+					{
+						"correct": "High Friendship",
+						"difficulty": "Medium",
+						"explanation": "Togepi was one of the first Pokemon to showcase the new happiness evolution mechanic.",
+						"image_url": "",
+						"question": "What method is required to evolve Togepi into Togetic?",
+						"wrong": [
+							"Level 20",
+							"Moon Stone",
+							"Trading"
+						]
+					},
+					{
+						"correct": "Professor Elm",
+						"difficulty": "Medium",
+						"explanation": "Professor Elm asks you to retrieve the egg from Mr. Pokemon's house.",
+						"image_url": "",
+						"question": "Who is the researcher that sends the player to pick up the Togepi egg?",
+						"wrong": [
+							"Professor Oak",
+							"Professor Birch",
+							"Mr. Pokemon"
+						]
+					},
+					{
+						"correct": "Togetic",
+						"difficulty": "Medium",
+						"explanation": "Togetic was the final form of the line until Togekiss was added in Gen 4.",
+						"image_url": "",
+						"question": "What is the name of Togepi's evolved form in Generation 2?",
+						"wrong": [
+							"Togekiss",
+							"Togemaru",
+							"Togepi evolved"
+						]
+					},
+					{
+						"correct": "Red and Blue",
+						"difficulty": "Medium",
+						"explanation": "Togepi has red and blue triangles on its white egg-shell body.",
+						"image_url": "",
+						"question": "What color are the triangular patterns on Togepi's shell?",
+						"wrong": [
+							"Red and Green",
+							"Yellow and Blue",
+							"Pink and Blue"
+						]
+					},
+					{
+						"correct": "Generation 1",
+						"difficulty": "Medium",
+						"explanation": "Togepi appeared in the Kanto anime as a teaser for the upcoming Gold and Silver games.",
+						"image_url": "",
+						"question": "Togepi was a 'Sneak Peek' Pokemon. In which generation's anime did it first appear?",
+						"wrong": [
+							"Generation 2",
+							"Generation 3",
+							"Generation 4"
+						]
+					},
+					{
+						"correct": "Serene Grace",
+						"difficulty": "Hard",
+						"explanation": "Serene Grace doubles the chance of moves having additional effects like flinching.",
+						"image_url": "",
+						"question": "Which of these abilities can Togepi have, which increases the chance of secondary move effects?",
+						"wrong": [
+							"Hustle",
+							"Super Luck",
+							"Inner Focus"
+						]
+					},
+					{
+						"correct": "Growl and Charm",
+						"difficulty": "Hard",
+						"explanation": "In GSC, a newly hatched Togepi knows Growl and Charm.",
+						"image_url": "",
+						"question": "What move does Togepi learn at level 1 in the original Gen 2 games?",
+						"wrong": [
+							"Metronome",
+							"Pound",
+							"Tackle"
+						]
+					},
+					{
+						"correct": "Flying",
+						"difficulty": "Hard",
+						"explanation": "Togetic becomes a Normal/Flying type in Gen 2, losing its pure Normal status.",
+						"image_url": "",
+						"question": "When Togepi evolves into Togetic, which secondary type does it gain?",
+						"wrong": [
+							"Fairy",
+							"Psychic",
+							"Normal"
+						]
+					},
+					{
+						"correct": "Falkner",
+						"difficulty": "Hard",
+						"explanation": "While he didn't have it in GSC, Falkner uses a Togetic in rematches in the remakes.",
+						"image_url": "",
+						"question": "Which Johto Gym Leader uses a Togetic on their team in the remakes?",
+						"wrong": [
+							"Bugsy",
+							"Whitney",
+							"Morty"
+						]
+					},
+					{
+						"correct": "Happiness",
+						"difficulty": "Hard",
+						"explanation": "The Pokedex states it stores happiness in its shell and releases it to those who treat it kindly.",
+						"image_url": "",
+						"question": "According to the Pokedex, Togepi stores what inside its shell to share with others?",
+						"wrong": [
+							"Energy",
+							"Water",
+							"Light"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_togepi",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Togepi",
+				"lore_desc": "A baby Pokemon that is said to be a symbol of good luck. It is said its shell is filled with happiness.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Baby",
+					"Normal",
+					"Fairy"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Whitney",
+						"difficulty": "Easy",
+						"explanation": "Whitney is the 3rd Gym Leader of Johto and is famous for her difficult Miltank.",
+						"image_url": "https://skillcheckgame.com/assets/images/whitneys_miltank.webp",
+						"question": "Which Johto Gym Leader owns this infamous Miltank?",
+						"wrong": [
+							"Jasmine",
+							"Clair",
+							"Janine"
+						]
+					},
+					{
+						"correct": "Normal",
+						"difficulty": "Easy",
+						"explanation": "Miltank is a pure Normal-type Pokemon.",
+						"image_url": "https://skillcheckgame.com/assets/images/whitneys_miltank.webp",
+						"question": "What is the elemental type of Miltank?",
+						"wrong": [
+							"Ground",
+							"Grass",
+							"Fighting"
+						]
+					},
+					{
+						"correct": "Goldenrod City",
+						"difficulty": "Easy",
+						"explanation": "Goldenrod City is the home of the Normal-type Gym.",
+						"image_url": "https://skillcheckgame.com/assets/images/whitneys_miltank.webp",
+						"question": "In which city can you find Whitney and her Miltank?",
+						"wrong": [
+							"Violet City",
+							"Ecruteak City",
+							"Olivine City"
+						]
+					},
+					{
+						"correct": "Rollout",
+						"difficulty": "Easy",
+						"explanation": "Rollout doubles in power each turn it hits, making it a nightmare for early-game teams.",
+						"image_url": "",
+						"question": "Which infamous move does Miltank use that gets stronger every turn?",
+						"wrong": [
+							"Stomp",
+							"Body Slam",
+							"Strength"
+						]
+					},
+					{
+						"correct": "Milk Drink",
+						"difficulty": "Easy",
+						"explanation": "Milk Drink is a signature move for Miltank that heals 50 percent of its max HP.",
+						"image_url": "",
+						"question": "What healing move does Miltank use to recover its health during battle?",
+						"wrong": [
+							"Recover",
+							"Soft-Boiled",
+							"Heal Order"
+						]
+					},
+					{
+						"correct": "She cries and won't give you the badge",
+						"difficulty": "Medium",
+						"explanation": "Whitney is a sore loser and cries, requiring the player to talk to her again to get the badge.",
+						"image_url": "",
+						"question": "What happens immediately after you defeat Whitney in the gym?",
+						"wrong": [
+							"She gives you the badge",
+							"She challenges you to a rematch",
+							"She runs away"
+						]
+					},
+					{
+						"correct": "Plain Badge",
+						"difficulty": "Medium",
+						"explanation": "The Plain Badge is the reward for conquering the Goldenrod Gym.",
+						"image_url": "",
+						"question": "What is the name of the badge you receive from Whitney?",
+						"wrong": [
+							"Zephyr Badge",
+							"Hive Badge",
+							"Fog Badge"
+						]
+					},
+					{
+						"correct": "Attract",
+						"difficulty": "Medium",
+						"explanation": "Attract makes Pokemon of the opposite gender fall in love and fail to attack 50 percent of the time.",
+						"image_url": "",
+						"question": "Which move does Miltank use to make your male Pokemon unable to attack?",
+						"wrong": [
+							"Charm",
+							"Sing",
+							"Sweet Scent"
+						]
+					},
+					{
+						"correct": "Level 20",
+						"difficulty": "Medium",
+						"explanation": "Miltank is level 20, which is quite high for the 3rd gym.",
+						"image_url": "",
+						"question": "What level is Whitney's Miltank in the original Gold and Silver?",
+						"wrong": [
+							"Level 18",
+							"Level 25",
+							"Level 15"
+						]
+					},
+					{
+						"correct": "Machop",
+						"difficulty": "Medium",
+						"explanation": "Trading an Abra for a Machop (named Rocky) is the classic strategy to beat Whitney.",
+						"image_url": "",
+						"question": "Which Pokemon can you trade for in the Goldenrod Dept. Store that is strong against Miltank?",
+						"wrong": [
+							"Geodude",
+							"Gastly",
+							"Onix"
+						]
+					},
+					{
+						"correct": "Scrappy",
+						"difficulty": "Hard",
+						"explanation": "Scrappy allows Normal and Fighting moves to hit Ghost types, though this was added after Gen 2.",
+						"image_url": "",
+						"question": "In later games, what Ability does Miltank have that allows it to hit Ghost types?",
+						"wrong": [
+							"Thick Fat",
+							"Sap Sipper",
+							"Intimidate"
+						]
+					},
+					{
+						"correct": "Flinch",
+						"difficulty": "Hard",
+						"explanation": "Stomp has a chance to flinch the target, especially if Miltank is faster.",
+						"image_url": "",
+						"question": "Which status effect does Miltank's Stomp move have a chance to inflict?",
+						"wrong": [
+							"Paralysis",
+							"Confusion",
+							"Sleep"
+						]
+					},
+					{
+						"correct": "Female",
+						"difficulty": "Hard",
+						"explanation": "Miltank is a 100 percent female species, making her Attract move very effective against most starters.",
+						"image_url": "",
+						"question": "What is the gender of Whitney's Miltank?",
+						"wrong": [
+							"Male",
+							"Genderless",
+							"Random"
+						]
+					},
+					{
+						"correct": "Stomp",
+						"difficulty": "Hard",
+						"explanation": "Stomp's power is doubled if the target has used the move Minimize.",
+						"image_url": "",
+						"question": "Which move does Miltank know that deals double damage if the target is minimized?",
+						"wrong": [
+							"Rollout",
+							"Body Slam",
+							"Headbutt"
+						]
+					},
+					{
+						"correct": "Clefairy",
+						"difficulty": "Hard",
+						"explanation": "Whitney leads with a level 18 Clefairy before sending out her powerhouse Miltank.",
+						"image_url": "",
+						"question": "Besides Miltank, which other Pokemon does Whitney use in her gym battle?",
+						"wrong": [
+							"Jigglypuff",
+							"Snubbull",
+							"Teddiursa"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_whitney_miltank",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Whitney Miltank",
+				"lore_desc": "The infamous cow Pokemon of the Goldenrod Gym Leader, known for ending the dreams of many unprepared trainers.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Gym Leader",
+					"Normal",
+					"Boss"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "SquirtBottle",
+						"difficulty": "Easy",
+						"explanation": "Sudowoodo hates water, so spraying it with the SquirtBottle forces it to attack.",
+						"image_url": "https://skillcheckgame.com/assets/images/sudowoodo.webp",
+						"question": "Which item is required to move the Sudowoodo blocking the path?",
+						"wrong": [
+							"Wailmer Pail",
+							"Water Stone",
+							"Super Potion"
+						]
+					},
+					{
+						"correct": "Rock",
+						"difficulty": "Easy",
+						"explanation": "Despite looking like a tree, it is actually the 'Imitation' Pokemon and is pure Rock type.",
+						"image_url": "https://skillcheckgame.com/assets/images/sudowoodo.webp",
+						"question": "What is Sudowoodo's actual elemental type?",
+						"wrong": [
+							"Grass",
+							"Wood",
+							"Ground"
+						]
+					},
+					{
+						"correct": "Violet City",
+						"difficulty": "Easy",
+						"explanation": "It blocks the path leading between Violet City, Goldenrod City, and Ecruteak City.",
+						"image_url": "https://skillcheckgame.com/assets/images/sudowoodo.webp",
+						"question": "Sudowoodo blocks the intersection of Route 36 and which other location?",
+						"wrong": [
+							"Goldenrod City",
+							"Azalea Town",
+							"Ecruteak City"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "It mimics a Grass-type tree, but its Rock typing is a trick for players using Fire moves.",
+						"image_url": "",
+						"question": "Is Sudowoodo a Grass-type Pokemon?",
+						"wrong": [
+							"Yes",
+							"Only in sunlight",
+							"Only when it evolves"
+						]
+					},
+					{
+						"correct": "A girl in the Flower Shop",
+						"difficulty": "Easy",
+						"explanation": "After defeating Whitney, a girl in the Goldenrod Flower Shop gives you the SquirtBottle.",
+						"image_url": "",
+						"question": "Who gives you the item needed to interact with Sudowoodo?",
+						"wrong": [
+							"Professor Elm",
+							"Whitney",
+							"The Rival"
+						]
+					},
+					{
+						"correct": "Mimic",
+						"difficulty": "Medium",
+						"explanation": "Mimic is Sudowoodo's defining move, fitting its 'Imitation' theme.",
+						"image_url": "",
+						"question": "What is the name of the move Sudowoodo uses to copy the last move used?",
+						"wrong": [
+							"Copycat",
+							"Mirror Move",
+							"Sketch"
+						]
+					},
+					{
+						"correct": "Razor Leaf",
+						"difficulty": "Medium",
+						"explanation": "As a Rock type, it is weak to Grass, Water, and Fighting moves.",
+						"image_url": "",
+						"question": "Which of these Grass-type moves is Sudowoodo actually weak to?",
+						"wrong": [
+							"Ember",
+							"Thunder Shock",
+							"Tackle"
+						]
+					},
+					{
+						"correct": "It ran away in fear",
+						"difficulty": "Medium",
+						"explanation": "Sudowoodo's primary trait is its extreme phobia of water.",
+						"image_url": "",
+						"question": "In the anime, how did Brock's Sudowoodo react to water?",
+						"wrong": [
+							"It drank it",
+							"It used it to attack",
+							"It turned into a tree"
+						]
+					},
+					{
+						"correct": "Level 20",
+						"difficulty": "Medium",
+						"explanation": "The Sudowoodo you fight on Route 36 is level 20.",
+						"image_url": "",
+						"question": "What level is the static Sudowoodo encounter on Route 36?",
+						"wrong": [
+							"Level 15",
+							"Level 25",
+							"Level 30"
+						]
+					},
+					{
+						"correct": "Bonsly",
+						"difficulty": "Medium",
+						"explanation": "Bonsly is the baby form of Sudowoodo, introduced two generations later.",
+						"image_url": "",
+						"question": "What is the name of Sudowoodo's pre-evolution introduced in Gen 4?",
+						"wrong": [
+							"Sudobaby",
+							"Rocktree",
+							"Bonsai"
+						]
+					},
+					{
+						"correct": "Defense",
+						"difficulty": "Hard",
+						"explanation": "Because it is made of rock, Sudowoodo has a high base Defense stat.",
+						"image_url": "",
+						"question": "Which of these stats is Sudowoodo's highest?",
+						"wrong": [
+							"Speed",
+							"Special Attack",
+							"HP"
+						]
+					},
+					{
+						"correct": "Petrifaction",
+						"difficulty": "Hard",
+						"explanation": "Petrified wood is organic material that has turned into stone through mineralization.",
+						"image_url": "",
+						"question": "Sudowoodo is based on a petrified tree. What is the real-world term for this?",
+						"wrong": [
+							"Fossilization",
+							"Carbonization",
+							"Calcification"
+						]
+					},
+					{
+						"correct": "Floria",
+						"difficulty": "Hard",
+						"explanation": "Floria is the sister of the flower shop owner who helps you move the 'tree'.",
+						"image_url": "",
+						"question": "What was the name of the girl who gives you the SquirtBottle in Goldenrod?",
+						"wrong": [
+							"Daisy",
+							"Rose",
+							"Whitney"
+						]
+					},
+					{
+						"correct": "Sturdy",
+						"difficulty": "Hard",
+						"explanation": "Sturdy acts like a Focus Band in later gens, though in Gen 2 it only prevented OHKO moves.",
+						"image_url": "",
+						"question": "Which ability does Sudowoodo have that prevents it from being knocked out in one hit?",
+						"wrong": [
+							"Rock Head",
+							"Inner Focus",
+							"Solid Rock"
+						]
+					},
+					{
+						"correct": "Low Kick",
+						"difficulty": "Hard",
+						"explanation": "Sudowoodo learns Low Kick early on to help deal with other Rock types.",
+						"image_url": "",
+						"question": "Which of these Fighting-type moves can Sudowoodo learn by leveling up in Gen 2?",
+						"wrong": [
+							"Dynamic Punch",
+							"Mach Punch",
+							"Cross Chop"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_sudowoodo",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Sudowoodo",
+				"lore_desc": "To avoid being attacked, it does its best to mimic a tree. However, because it is made of rock, it is very weak to water.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Rock",
+					"Mimic",
+					"Obstacle"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Lake of Rage",
+						"difficulty": "Easy",
+						"explanation": "The Red Gyarados is the icon of the Lake of Rage, located north of Mahogany Town.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_red_gyarados.webp",
+						"question": "In which body of water is the Red Gyarados found?",
+						"wrong": [
+							"Lake Valor",
+							"Slowpoke Well",
+							"Whirl Islands"
+						]
+					},
+					{
+						"correct": "It is a Shiny Pokemon",
+						"difficulty": "Easy",
+						"explanation": "The Red Gyarados was the first guaranteed 'Shiny' Pokemon encounter in the series.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_red_gyarados.webp",
+						"question": "What is special about the Red Gyarados compared to normal ones?",
+						"wrong": [
+							"It is a Legendary Pokemon",
+							"It is a Fire type",
+							"It is twice as large"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Standard Gyarados are blue, making the red one a striking anomaly.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_red_gyarados.webp",
+						"question": "What color is a standard Gyarados?",
+						"wrong": [
+							"Green",
+							"Yellow",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Team Rocket",
+						"difficulty": "Easy",
+						"explanation": "Team Rocket used radio waves to force Magikarp to evolve, resulting in the Red Gyarados.",
+						"image_url": "",
+						"question": "Which evil organization is responsible for the Red Gyarados's state?",
+						"wrong": [
+							"Team Magma",
+							"Team Aqua",
+							"Team Galactic"
+						]
+					},
+					{
+						"correct": "Lance",
+						"difficulty": "Easy",
+						"explanation": "Lance, the dragon master, joins the player to stop Team Rocket's signal.",
+						"image_url": "",
+						"question": "What is the name of the Elite Four trainer who helps you investigate the lake?",
+						"wrong": [
+							"Bruno",
+							"Koga",
+							"Karen"
+						]
+					},
+					{
+						"correct": "Red Scale",
+						"difficulty": "Medium",
+						"explanation": "The Red Scale can be traded to Mr. Pokemon for an Experience Share.",
+						"image_url": "",
+						"question": "What item do you obtain after catching or defeating the Red Gyarados?",
+						"wrong": [
+							"Dragon Scale",
+							"Red Flute",
+							"Mystic Water"
+						]
+					},
+					{
+						"correct": "It evolved too fast and kept its Magikarp color",
+						"difficulty": "Medium",
+						"explanation": "The forced evolution didn't allow its scales to change from Magikarp's red to Gyarados's blue.",
+						"image_url": "",
+						"question": "According to lore, why is the Red Gyarados red?",
+						"wrong": [
+							"It is angry",
+							"It was painted by Team Rocket",
+							"It was burned in the lake"
+						]
+					},
+					{
+						"correct": "Level 30",
+						"difficulty": "Medium",
+						"explanation": "The Lake of Rage encounter is fixed at level 30.",
+						"image_url": "",
+						"question": "What level is the Red Gyarados when you encounter it in the lake?",
+						"wrong": [
+							"Level 20",
+							"Level 40",
+							"Level 50"
+						]
+					},
+					{
+						"correct": "Water and Flying",
+						"difficulty": "Medium",
+						"explanation": "Gyarados is famously a Water and Flying type, despite not being able to learn many Flying moves in Gen 2.",
+						"image_url": "",
+						"question": "What are the two elemental types of Gyarados?",
+						"wrong": [
+							"Water and Dragon",
+							"Water and Dark",
+							"Fire and Water"
+						]
+					},
+					{
+						"correct": "Dragon Rage",
+						"difficulty": "Medium",
+						"explanation": "Dragon Rage is its signature move in this encounter, dealing a fixed 40 damage.",
+						"image_url": "",
+						"question": "Which of these moves does the Red Gyarados use during the battle?",
+						"wrong": [
+							"Hydro Pump",
+							"Hyper Beam",
+							"Fire Blast"
+						]
+					},
+					{
+						"correct": "Mahogany Town",
+						"difficulty": "Hard",
+						"explanation": "Mahogany Town serves as the base for Team Rocket's radio operations.",
+						"image_url": "",
+						"question": "Which town is located just south of the Lake of Rage?",
+						"wrong": [
+							"Blackthorn City",
+							"Goldenrod City",
+							"Azalea Town"
+						]
+					},
+					{
+						"correct": "Intimidate",
+						"difficulty": "Hard",
+						"explanation": "Intimidate is one of the best abilities in the game and is standard for Gyarados.",
+						"image_url": "",
+						"question": "What ability does Gyarados have that lowers the opponent's attack on entry?",
+						"wrong": [
+							"Moxie",
+							"Pressure",
+							"Terrify"
+						]
+					},
+					{
+						"correct": "Exp. Share",
+						"difficulty": "Hard",
+						"explanation": "Mr. Pokemon is so impressed by the scale that he gives you the valuable Exp. Share.",
+						"image_url": "",
+						"question": "What can you exchange the Red Scale for when talking to Mr. Pokemon?",
+						"wrong": [
+							"Rare Candy",
+							"Master Ball",
+							"Lucky Egg"
+						]
+					},
+					{
+						"correct": "Lance",
+						"difficulty": "Hard",
+						"explanation": "In the Johto arc of the anime, Lance captures the Red Gyarados to save it.",
+						"image_url": "",
+						"question": "In the anime, who eventually captures the Red Gyarados to calm it down?",
+						"wrong": [
+							"Ash",
+							"Gary",
+							"Professor Oak"
+						]
+					},
+					{
+						"correct": "Surf",
+						"difficulty": "Hard",
+						"explanation": "While simple, you must have Surf to reach the center of the lake.",
+						"image_url": "",
+						"question": "Which HM move is required to reach the middle of the Lake of Rage where Gyarados is?",
+						"wrong": [
+							"Whirlpool",
+							"Waterfall",
+							"Fly"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_the_red_gyarados",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "The Red Gyarados",
+				"lore_desc": "A Gyarados forced into evolution by Team Rocket's radio waves, causing it to retain its red color from its Magikarp stage.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Water",
+					"Shiny",
+					"Dragon"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Espeon and Umbreon",
+						"difficulty": "Easy",
+						"explanation": "Espeon and Umbreon were the first new evolutions added to the Eevee line.",
+						"image_url": "https://skillcheckgame.com/assets/images/eevee.webp",
+						"question": "Which two new 'Eeveelutions' were introduced in Gold and Silver?",
+						"wrong": [
+							"Leafeon and Glaceon",
+							"Sylveon and Jolteon",
+							"Vaporeon and Flareon"
+						]
+					},
+					{
+						"correct": "Dark",
+						"difficulty": "Easy",
+						"explanation": "Umbreon was one of the first Pokemon to showcase the brand new Dark type.",
+						"image_url": "https://skillcheckgame.com/assets/images/eevee.webp",
+						"question": "What type is the Eevee evolution known as Umbreon?",
+						"wrong": [
+							"Ghost",
+							"Psychic",
+							"Poison"
+						]
+					},
+					{
+						"correct": "Nighttime",
+						"difficulty": "Easy",
+						"explanation": "Umbreon is the Moonlight Pokemon and requires it to be night in the game's clock.",
+						"image_url": "https://skillcheckgame.com/assets/images/eevee.webp",
+						"question": "What time of day must Eevee evolve to become an Umbreon?",
+						"wrong": [
+							"Daytime",
+							"Morning",
+							"Midnight"
+						]
+					},
+					{
+						"correct": "Bill",
+						"difficulty": "Easy",
+						"explanation": "Bill, the PC storage system creator, gives you an Eevee after you meet him in Ecruteak City.",
+						"image_url": "",
+						"question": "Who gives the player an Eevee in Goldenrod City?",
+						"wrong": [
+							"Professor Elm",
+							"Whitney",
+							"Oak"
+						]
+					},
+					{
+						"correct": "Psychic",
+						"difficulty": "Easy",
+						"explanation": "Espeon is the Sun Pokemon and represents the Psychic type.",
+						"image_url": "",
+						"question": "What is the elemental type of Espeon?",
+						"wrong": [
+							"Magic",
+							"Fairy",
+							"Light"
+						]
+					},
+					{
+						"correct": "Friendship",
+						"difficulty": "Medium",
+						"explanation": "The 'Happiness' or Friendship mechanic is crucial for these two evolutions.",
+						"image_url": "",
+						"question": "Besides the time of day, what must be high for Eevee to evolve into Espeon or Umbreon?",
+						"wrong": [
+							"Level",
+							"Attack Stat",
+							"Beauty"
+						]
+					},
+					{
+						"correct": "Kimono Girls",
+						"difficulty": "Medium",
+						"explanation": "The Kimono Girls challenge the player using Vaporeon, Jolteon, Flareon, Espeon, and Umbreon.",
+						"image_url": "",
+						"question": "What is the name of the group of five sisters in Ecruteak City who each own an Eeveelution?",
+						"wrong": [
+							"Eevee Sisters",
+							"Five Maidens",
+							"Battle Belles"
+						]
+					},
+					{
+						"correct": "Fire Stone",
+						"difficulty": "Medium",
+						"explanation": "Fire Stones, Water Stones, and Thunder Stones still worked for the original trio in Johto.",
+						"image_url": "",
+						"question": "Which evolution stone is used to get a Flareon?",
+						"wrong": [
+							"Sun Stone",
+							"Moon Stone",
+							"Leaf Stone"
+						]
+					},
+					{
+						"correct": "Normal",
+						"difficulty": "Medium",
+						"explanation": "Eevee itself is a pure Normal type.",
+						"image_url": "",
+						"question": "What is Eevee's own elemental type before it evolves?",
+						"wrong": [
+							"Neutral",
+							"Cuddly",
+							"None"
+						]
+					},
+					{
+						"correct": "Ecruteak City",
+						"difficulty": "Medium",
+						"explanation": "The Kimono Girls dance hall is a landmark of Ecruteak City.",
+						"image_url": "",
+						"question": "In which city can you find the Kimono Girls and their Eeveelutions?",
+						"wrong": [
+							"Goldenrod City",
+							"Violet City",
+							"Blackthorn City"
+						]
+					},
+					{
+						"correct": "Level 20",
+						"difficulty": "Hard",
+						"explanation": "Bill gives you a level 20 Eevee, which is ready to evolve if its friendship is high enough.",
+						"image_url": "",
+						"question": "At what level does Bill's gift Eevee start at in Pokemon Gold and Silver?",
+						"wrong": [
+							"Level 5",
+							"Level 10",
+							"Level 25"
+						]
+					},
+					{
+						"correct": "Baton Pass",
+						"difficulty": "Hard",
+						"explanation": "Baton Pass was a new move in Gen 2 that allowed Eevee to pass its stat boosts to another Pokemon.",
+						"image_url": "",
+						"question": "Which move does Eevee learn at level 36 in Generation 2?",
+						"wrong": [
+							"Double-Edge",
+							"Take Down",
+							"Last Resort"
+						]
+					},
+					{
+						"correct": "Espeon",
+						"difficulty": "Hard",
+						"explanation": "Espeon is categorized as the Sun Pokemon in the Pokedex.",
+						"image_url": "",
+						"question": "What is the name of the Eeveelution that is the Sun Pokemon?",
+						"wrong": [
+							"Flareon",
+							"Solareon",
+							"Umbreon"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Hard",
+						"explanation": "Vaporeon, Jolteon, Flareon, Espeon, and Umbreon were the five available.",
+						"image_url": "",
+						"question": "How many total evolutions did Eevee have by the end of Generation 2?",
+						"wrong": [
+							"Three",
+							"Six",
+							"Eight"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Hard",
+						"explanation": "A Shiny Umbreon has glow-in-the-dark blue rings instead of the usual yellow.",
+						"image_url": "",
+						"question": "What color are the rings on Umbreon's body when it is a Shiny Pokemon?",
+						"wrong": [
+							"Yellow",
+							"Red",
+							"Silver"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_eevee",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Eevee",
+				"lore_desc": "An extremely rare Pokemon that may evolve in a number of different ways depending on its environment and bond with its trainer.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Evolution",
+					"Normal",
+					"Rare"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Red waits at the summit of Mount Silver for the player's challenge.",
+						"image_url": "https://skillcheckgame.com/assets/images/mount_silver.webp",
+						"question": "Mount Silver is the location of the final battle against which legendary trainer?",
+						"wrong": [
+							"Blue",
+							"Gold",
+							"Professor Oak"
+						]
+					},
+					{
+						"correct": "16",
+						"difficulty": "Easy",
+						"explanation": "You must earn all 8 Johto badges and all 8 Kanto badges to be allowed entry.",
+						"image_url": "https://skillcheckgame.com/assets/images/mount_silver.webp",
+						"question": "How many badges are required to gain access to Mount Silver?",
+						"wrong": [
+							"8",
+							"12",
+							"0"
+						]
+					},
+					{
+						"correct": "Larvitar",
+						"difficulty": "Easy",
+						"explanation": "Mount Silver is the only place in the game to catch Larvitar, the base form of Tyranitar.",
+						"image_url": "https://skillcheckgame.com/assets/images/mount_silver.webp",
+						"question": "Which of these rare Rock/Ground Pokemon is found wild inside Mount Silver?",
+						"wrong": [
+							"Geodude",
+							"Onix",
+							"Rhyhorn"
+						]
+					},
+					{
+						"correct": "Flash",
+						"difficulty": "Easy",
+						"explanation": "Like many caves in the early games, Flash is needed to navigate the darkness.",
+						"image_url": "",
+						"question": "What HM move is required to see inside the dark caves of Mount Silver?",
+						"wrong": [
+							"Strength",
+							"Rock Smash",
+							"Fly"
+						]
+					},
+					{
+						"correct": "Johto and Kanto",
+						"difficulty": "Easy",
+						"explanation": "It is located at the far west of Kanto and far east of Johto.",
+						"image_url": "",
+						"question": "Mount Silver acts as a border between which two regions?",
+						"wrong": [
+							"Johto and Hoenn",
+							"Kanto and Sinnoh",
+							"Hoenn and Sinnoh"
+						]
+					},
+					{
+						"correct": "Professor Oak",
+						"difficulty": "Medium",
+						"explanation": "Professor Oak grants you access to the mountain after you have 16 badges.",
+						"image_url": "",
+						"question": "Which Elite Four member gives you permission to enter Mount Silver?",
+						"wrong": [
+							"Lance",
+							"Bruno",
+							"Karen"
+						]
+					},
+					{
+						"correct": "Snorlax",
+						"difficulty": "Medium",
+						"explanation": "You must move Snorlax in Kanto to reach the path toward the mountain.",
+						"image_url": "",
+						"question": "Which sleeping giant blocks the path to Mount Silver in the Kanto region?",
+						"wrong": [
+							"Sudowoodo",
+							"Dragonite",
+							"Golem"
+						]
+					},
+					{
+						"correct": "They are the highest in the game",
+						"difficulty": "Medium",
+						"explanation": "Wild Pokemon here can be found at levels exceeding 50, higher than anywhere else.",
+						"image_url": "",
+						"question": "What is unique about the wild Pokemon levels in Mount Silver?",
+						"wrong": [
+							"They are all level 100",
+							"They are all Shiny",
+							"They are all legendary"
+						]
+					},
+					{
+						"correct": "Misdreavus",
+						"difficulty": "Medium",
+						"explanation": "Misdreavus is a rare encounter exclusive to the mountain's caves at night.",
+						"image_url": "",
+						"question": "Which of these rare Ghost Pokemon can be found at night in Mount Silver?",
+						"wrong": [
+							"Gastly",
+							"Haunter",
+							"Gengar"
+						]
+					},
+					{
+						"correct": "Mt. Silver Center",
+						"difficulty": "Medium",
+						"explanation": "The Mt. Silver Center is the final resting point before the climb.",
+						"image_url": "",
+						"question": "What is the name of the Pokemon Center located at the base of the mountain?",
+						"wrong": [
+							"Victory Center",
+							"Silver Gate",
+							"Indigo Center"
+						]
+					},
+					{
+						"correct": "Moltres",
+						"difficulty": "Hard",
+						"explanation": "Moltres was moved from Victory Road to Mt. Silver in the Gen 4 remakes.",
+						"image_url": "",
+						"question": "In the HeartGold remakes, which Legendary Bird can be found in a cave here?",
+						"wrong": [
+							"Articuno",
+							"Zapdos",
+							"Ho-Oh"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "The cave system is relatively short but contains three main chambers leading to the peak.",
+						"image_url": "",
+						"question": "How many floors or rooms must you navigate to reach Red?",
+						"wrong": [
+							"One",
+							"Five",
+							"Seven"
+						]
+					},
+					{
+						"correct": "Hail",
+						"difficulty": "Hard",
+						"explanation": "In the remakes, Hail buffets the battle, a mechanic not present in the original GBC version.",
+						"image_url": "",
+						"question": "What weather effect is permanently active at the top of Mt. Silver in the remakes?",
+						"wrong": [
+							"Snow",
+							"Rain",
+							"Sandstorm"
+						]
+					},
+					{
+						"correct": "Master Ball",
+						"difficulty": "Hard",
+						"explanation": "While there are many high-tier items, the Master Ball is not one of them.",
+						"image_url": "",
+						"question": "Which of these items is NOT found as a hidden item in Mount Silver?",
+						"wrong": [
+							"Ultra Ball",
+							"Full Restore",
+							"Max Elixir"
+						]
+					},
+					{
+						"correct": "Level 20",
+						"difficulty": "Hard",
+						"explanation": "Despite the other high levels, Larvitar is found at a relatively low level 20.",
+						"image_url": "",
+						"question": "What is the highest level a wild Larvitar can be found at in Mount Silver?",
+						"wrong": [
+							"Level 15",
+							"Level 30",
+							"Level 50"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_mount_silver",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Mount Silver",
+				"lore_desc": "A giant mountain home to many powerful wild Pokemon. It is off-limits to all but the most elite trainers.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Mountain",
+					"Dungeon",
+					"End-game"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "New Bark Town",
+						"difficulty": "Easy",
+						"explanation": "Professor Elm lives and works in New Bark Town, where the player starts.",
+						"image_url": "https://skillcheckgame.com/assets/images/professor_elm.webp",
+						"question": "In which town is Professor Elm's laboratory located?",
+						"wrong": [
+							"Cherrygrove City",
+							"Violet City",
+							"Pallet Town"
+						]
+					},
+					{
+						"correct": "Professor Oak",
+						"difficulty": "Easy",
+						"explanation": "Professor Oak is the senior mentor and friend to Professor Elm.",
+						"image_url": "https://skillcheckgame.com/assets/images/professor_elm.webp",
+						"question": "What is the name of the professor in the original Kanto games who is friends with Elm?",
+						"wrong": [
+							"Professor Birch",
+							"Professor Rowan",
+							"Professor Juniper"
+						]
+					},
+					{
+						"correct": "A Starter Pokemon",
+						"difficulty": "Easy",
+						"explanation": "Elm lets the player choose between Chikorita, Cyndaquil, or Totodile.",
+						"image_url": "https://skillcheckgame.com/assets/images/professor_elm.webp",
+						"question": "What does Professor Elm give the player at the very start of the journey?",
+						"wrong": [
+							"A Pokedex",
+							"Running Shoes",
+							"A Fishing Rod"
+						]
+					},
+					{
+						"correct": "Breeding and Eggs",
+						"difficulty": "Easy",
+						"explanation": "Elm's primary research focus is the discovery of Pokemon Eggs.",
+						"image_url": "",
+						"question": "Which area of Pokemon research is Professor Elm specifically known for?",
+						"wrong": [
+							"Evolution",
+							"Pokemon Origins",
+							"Legendary Myths"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "Like most professors, he offers a choice of three: Grass, Fire, or Water types.",
+						"image_url": "",
+						"question": "How many starter Pokemon does Elm offer the player to choose from?",
+						"wrong": [
+							"One",
+							"Two",
+							"Four"
+						]
+					},
+					{
+						"correct": "Mystery Egg",
+						"difficulty": "Medium",
+						"explanation": "The aide returns the egg you fetched earlier so you can hatch it yourself.",
+						"image_url": "",
+						"question": "What item does Elm's aide give you in the Violet City Pokemon Center?",
+						"wrong": [
+							"Lucky Egg",
+							"Master Ball",
+							"Poke Flute"
+						]
+					},
+					{
+						"correct": "It stays there forever",
+						"difficulty": "Medium",
+						"explanation": "In the original GSC, the third starter simply stays on the table for the rest of the game.",
+						"image_url": "",
+						"question": "What happens to the Pokemon that remains on Elm's table after you and the rival take yours?",
+						"wrong": [
+							"The rival steals it",
+							"Professor Oak takes it",
+							"It is released"
+						]
+					},
+					{
+						"correct": "Everstone",
+						"difficulty": "Medium",
+						"explanation": "Elm gives you an Everstone after you show him the hatched Togepi.",
+						"image_url": "",
+						"question": "Which of these items does Elm give you specifically to prevent Pokemon from evolving?",
+						"wrong": [
+							"Hard Stone",
+							"Moon Stone",
+							"Sun Stone"
+						]
+					},
+					{
+						"correct": "Pokegear",
+						"difficulty": "Medium",
+						"explanation": "The Pokegear's phone function allows Elm to check in on your progress.",
+						"image_url": "",
+						"question": "What device does Elm use to call the player throughout the game?",
+						"wrong": [
+							"Pokedex",
+							"Pokenav",
+							"Xtransceiver"
+						]
+					},
+					{
+						"correct": "Silver",
+						"difficulty": "Medium",
+						"explanation": "The red-haired rival, Silver, breaks into the lab and steals a Pokemon.",
+						"image_url": "",
+						"question": "Who is the 'rival' who steals a Pokemon from Professor Elm's lab?",
+						"wrong": [
+							"Blue",
+							"Barry",
+							"Wally"
+						]
+					},
+					{
+						"correct": "He is only known as Elm",
+						"difficulty": "Hard",
+						"explanation": "Unlike Professor Oak (Samuel), Elm's first name is never mentioned in the core games.",
+						"image_url": "",
+						"question": "What is the first name of Professor Elm?",
+						"wrong": [
+							"Samuel",
+							"Aidan",
+							"Augustine"
+						]
+					},
+					{
+						"correct": "A Pokemon Egg",
+						"difficulty": "Hard",
+						"explanation": "He was shocked that Pokemon could produce eggs, as it was a brand new mechanic in Gen 2.",
+						"image_url": "",
+						"question": "What was the specific 'discovery' Elm was excited about at the start of the game?",
+						"wrong": [
+							"Shiny Pokemon",
+							"Legendary Birds",
+							"New Evolution"
+						]
+					},
+					{
+						"correct": "Master Ball",
+						"difficulty": "Hard",
+						"explanation": "Professor Elm rewards your progress with the ultimate Poke Ball.",
+						"image_url": "",
+						"question": "Which item does Elm give the player after they have earned all 8 Johto badges?",
+						"wrong": [
+							"Rare Candy",
+							"S.S. Ticket",
+							"Magnet Pass"
+						]
+					},
+					{
+						"correct": "He forgets to eat when he works",
+						"difficulty": "Hard",
+						"explanation": "She mentions his scatterbrained nature and how he gets absorbed in his research.",
+						"image_url": "",
+						"question": "What does Elm's wife tell the player if they visit his house?",
+						"wrong": [
+							"He is secretly a great trainer",
+							"He is Oak's son",
+							"He wants to retire"
+						]
+					},
+					{
+						"correct": "He does not have a daughter",
+						"difficulty": "Hard",
+						"explanation": "Elm has a son, not a daughter. The son is usually seen playing with a Pokemon outside.",
+						"image_url": "",
+						"question": "In the remakes, what Pokemon does Professor Elm's daughter have?",
+						"wrong": [
+							"Marill",
+							"Pikachu",
+							"Chikorita"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_professor_elm",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Professor Elm",
+				"lore_desc": "The resident Pokemon Professor of Johto, specialized in Pokemon breeding and eggs. He is famously a bit scatterbrained.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Professor",
+					"Mentor",
+					"Researcher"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Ruins of Alph",
+						"difficulty": "Easy",
+						"explanation": "The Ruins of Alph are the primary home of the Unown in the Johto region.",
+						"image_url": "https://skillcheckgame.com/assets/images/unown.webp",
+						"question": "Unown are found exclusively in which Johto location?",
+						"wrong": [
+							"Burned Tower",
+							"Mt. Silver",
+							"Dark Cave"
+						]
+					},
+					{
+						"correct": "Latin Alphabet",
+						"difficulty": "Easy",
+						"explanation": "There are 26 Unown shapes in Gen 2, corresponding to the letters A through Z.",
+						"image_url": "https://skillcheckgame.com/assets/images/unown.webp",
+						"question": "Unown are shaped like the letters of which alphabet?",
+						"wrong": [
+							"Greek Alphabet",
+							"Cyrillic Alphabet",
+							"Hieroglyphs"
+						]
+					},
+					{
+						"correct": "Hidden Power",
+						"difficulty": "Easy",
+						"explanation": "Unown are unique because they can only learn and use the move Hidden Power.",
+						"image_url": "https://skillcheckgame.com/assets/images/unown.webp",
+						"question": "What is the only move that an Unown can ever learn?",
+						"wrong": [
+							"Psychic",
+							"Metronome",
+							"Confusion"
+						]
+					},
+					{
+						"correct": "Psychic",
+						"difficulty": "Easy",
+						"explanation": "All variations of Unown are pure Psychic types.",
+						"image_url": "",
+						"question": "What is the elemental type of all Unown?",
+						"wrong": [
+							"Normal",
+							"Ghost",
+							"Ancient"
+						]
+					},
+					{
+						"correct": "26",
+						"difficulty": "Easy",
+						"explanation": "The exclamation and question mark forms weren't added until Generation 3.",
+						"image_url": "",
+						"question": "How many different forms of Unown existed in the original Gold and Silver?",
+						"wrong": [
+							"28",
+							"15",
+							"50"
+						]
+					},
+					{
+						"correct": "Sliding Puzzles",
+						"difficulty": "Medium",
+						"explanation": "Solving the puzzles of Kabuto, Aerodactyl, Ho-Oh, and Omanyte unlocks different Unown forms.",
+						"image_url": "",
+						"question": "What must you solve in the Ruins of Alph to make more Unown appear?",
+						"wrong": [
+							"Math Riddles",
+							"Battle Trials",
+							"Maze Navigation"
+						]
+					},
+					{
+						"correct": "Radio",
+						"difficulty": "Medium",
+						"explanation": "Tuning the radio while inside the Ruins of Alph plays a mysterious, eerie signal.",
+						"image_url": "",
+						"question": "Which feature of the Pokegear allows you to hear the 'melody' of the Unown?",
+						"wrong": [
+							"Map",
+							"Clock",
+							"Phone"
+						]
+					},
+					{
+						"correct": "Kabuto",
+						"difficulty": "Medium",
+						"explanation": "The Kabuto sliding puzzle is the most accessible one in the ruins.",
+						"image_url": "",
+						"question": "Which of these is the first puzzle the player encounters in the Ruins of Alph?",
+						"wrong": [
+							"Aerodactyl",
+							"Pikachu",
+							"Charizard"
+						]
+					},
+					{
+						"correct": "Unown Mode",
+						"difficulty": "Medium",
+						"explanation": "A scientist in the ruins upgrades your Pokedex with the Unown Mode.",
+						"image_url": "",
+						"question": "What is the name of the special Pokedex mode used to track Unown forms?",
+						"wrong": [
+							"Symbol Mode",
+							"Alphabet Mode",
+							"Ruins Mode"
+						]
+					},
+					{
+						"correct": "Molly Hale",
+						"difficulty": "Medium",
+						"explanation": "The Unown create a dream world for a lonely girl named Molly Hale.",
+						"image_url": "",
+						"question": "In the third Pokemon movie, Unown are the main antagonists. Who do they serve?",
+						"wrong": [
+							"Giovanni",
+							"Professor Oak",
+							"Ash's Mom"
+						]
+					},
+					{
+						"correct": "Sacred Ash",
+						"difficulty": "Hard",
+						"explanation": "If you have a Ho-Oh in your party, you can access a room with the Sacred Ash.",
+						"image_url": "",
+						"question": "Which item is found in a secret room behind the Ho-Oh puzzle?",
+						"wrong": [
+							"Master Ball",
+							"Gold Leaf",
+							"Rainbow Wing"
+						]
+					},
+					{
+						"correct": "Individual Values or IVs",
+						"difficulty": "Hard",
+						"explanation": "Hidden Power's type and strength are calculated based on a Pokemon's hidden IV stats.",
+						"image_url": "",
+						"question": "What determines the elemental type of an Unown's Hidden Power?",
+						"wrong": [
+							"Its letter shape",
+							"Its level",
+							"The location it was caught"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Hard",
+						"explanation": "The words ESCAPE, LIGHT, WATER, and HO-OH are hidden in the back of the chambers.",
+						"image_url": "",
+						"question": "How many secret words are written on the floors of the Ruins of Alph puzzle rooms?",
+						"wrong": [
+							"One",
+							"Three",
+							"Six"
+						]
+					},
+					{
+						"correct": "It was not in Gen 2",
+						"difficulty": "Hard",
+						"explanation": "The Exclamation and Question mark Unown were introduced in the FireRed and LeafGreen games.",
+						"image_url": "",
+						"question": "What is the name of the 'Unown' that looks like an exclamation point?",
+						"wrong": [
+							"Unown Exclamation",
+							"Unown Bang",
+							"Unown Point"
+						]
+					},
+					{
+						"correct": "The symbols of the ancient people",
+						"difficulty": "Hard",
+						"explanation": "The ruins suggest that the Unown and the ancient civilization shared a deep bond.",
+						"image_url": "",
+						"question": "According to ancient lore in the ruins, the Unown are said to be what?",
+						"wrong": [
+							"Aliens",
+							"Mutated Rattata",
+							"Ghosts of trainers"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_unown",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Unown",
+				"lore_desc": "Mysterious Pokemon that look like ancient hieroglyphs. They are said to have some connection to an ancient civilization.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ancient",
+					"Psychic",
+					"Symbol"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Time Travel",
+						"difficulty": "Easy",
+						"explanation": "Celebi is the Time Travel Pokemon and can wander across different eras.",
+						"image_url": "https://skillcheckgame.com/assets/images/celebi.webp",
+						"question": "What is the unique power that Celebi is famous for?",
+						"wrong": [
+							"Mind Reading",
+							"Invisibility",
+							"Shape Shifting"
+						]
+					},
+					{
+						"correct": "Ilex Forest",
+						"difficulty": "Easy",
+						"explanation": "Celebi protects the Ilex Forest, which contains a shrine dedicated to it.",
+						"image_url": "https://skillcheckgame.com/assets/images/celebi.webp",
+						"question": "Which Johto forest is Celebi the guardian of?",
+						"wrong": [
+							"Viridian Forest",
+							"Petalburg Woods",
+							"National Park"
+						]
+					},
+					{
+						"correct": "Psychic and Grass",
+						"difficulty": "Easy",
+						"explanation": "Celebi shares its typing with Exeggutor and later, Victini (Psychic/Fire).",
+						"image_url": "https://skillcheckgame.com/assets/images/celebi.webp",
+						"question": "What are Celebi's two elemental types?",
+						"wrong": [
+							"Grass and Flying",
+							"Psychic and Fairy",
+							"Bug and Grass"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Celebi is primarily green, blending in with the forests it protects.",
+						"image_url": "",
+						"question": "What color is a standard Celebi?",
+						"wrong": [
+							"Pink",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "GS Ball",
+						"difficulty": "Easy",
+						"explanation": "The GS Ball was a special event item used to trigger the Celebi encounter at the Ilex Shrine.",
+						"image_url": "",
+						"question": "What is the name of the special Poké Ball required to encounter Celebi in the Japanese version?",
+						"wrong": [
+							"Master Ball",
+							"Park Ball",
+							"Crystal Ball"
+						]
+					},
+					{
+						"correct": "Voice of the Forest",
+						"difficulty": "Medium",
+						"explanation": "Celebi is revered as the 'Voice of the Forest' in the fourth Pokemon movie.",
+						"image_url": "",
+						"question": "In the anime, Celebi is referred to by what title?",
+						"wrong": [
+							"King of Time",
+							"Spirit of Nature",
+							"Heart of the Woods"
+						]
+					},
+					{
+						"correct": "Kurt",
+						"difficulty": "Medium",
+						"explanation": "Kurt, the Apricorn ball maker in Azalea Town, is the one who inspects the GS Ball.",
+						"image_url": "",
+						"question": "Which Johto Poké Ball smith is involved in the GS Ball storyline?",
+						"wrong": [
+							"Professor Elm",
+							"Mr. Pokemon",
+							"The Rival"
+						]
+					},
+					{
+						"correct": "Grass and trees flourish",
+						"difficulty": "Medium",
+						"explanation": "Celebi's presence causes plant life to grow and flourish instantly.",
+						"image_url": "",
+						"question": "What happens to the forest when Celebi travels through time?",
+						"wrong": [
+							"Time stops moving",
+							"Everything turns to stone",
+							"It begins to rain"
+						]
+					},
+					{
+						"correct": "251",
+						"difficulty": "Medium",
+						"explanation": "Celebi is the very last entry in the Johto Pokedex.",
+						"image_url": "",
+						"question": "What is Celebi's Pokedex number, marking it as the final Pokemon of Johto?",
+						"wrong": [
+							"151",
+							"250",
+							"300"
+						]
+					},
+					{
+						"correct": "Ilex Forest Shrine",
+						"difficulty": "Medium",
+						"explanation": "The small wooden shrine in the middle of Ilex Forest is the key location.",
+						"image_url": "",
+						"question": "In Pokemon Crystal, where do you place the GS Ball to summon Celebi?",
+						"wrong": [
+							"Bell Tower",
+							"Ruins of Alph",
+							"Tohjo Falls"
+						]
+					},
+					{
+						"correct": "Natural Cure",
+						"difficulty": "Hard",
+						"explanation": "Natural Cure heals Celebi's status conditions whenever it switches out of battle.",
+						"image_url": "",
+						"question": "What is the name of Celebi's signature ability?",
+						"wrong": [
+							"Serene Grace",
+							"Leaf Guard",
+							"Inner Focus"
+						]
+					},
+					{
+						"correct": "Perish Song",
+						"difficulty": "Hard",
+						"explanation": "Celebi is one of the few Grass types that can use the haunting Perish Song.",
+						"image_url": "",
+						"question": "Which of these moves does Celebi learn that causes both Pokemon to faint in three turns?",
+						"wrong": [
+							"Destiny Bond",
+							"Self-Destruct",
+							"Explosion"
+						]
+					},
+					{
+						"correct": "Pink",
+						"difficulty": "Hard",
+						"explanation": "Shiny Celebi is a distinct bright pink, making it one of the most sought-after shinies.",
+						"image_url": "",
+						"question": "What color is a 'Shiny' Celebi?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Autumn Orange"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "The time travel event takes the player back three years to see the rival's past.",
+						"image_url": "",
+						"question": "How many years into the future does Celebi take the player in the HeartGold event?",
+						"wrong": [
+							"One",
+							"Ten",
+							"Fifty"
+						]
+					},
+					{
+						"correct": "Future Sight",
+						"difficulty": "Hard",
+						"explanation": "Fitting its time-travel theme, it learns Future Sight at level 50.",
+						"image_url": "",
+						"question": "Which move does Celebi learn at level 50 in the original games?",
+						"wrong": [
+							"Psychic",
+							"Solar Beam",
+							"Recover"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_celebi",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Celebi",
+				"lore_desc": "Known as the Voice of the Forest, this mythical Pokemon has the power to travel through time and is said to only appear in peaceful times.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Mythical",
+					"Grass",
+					"Time"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "R",
+						"difficulty": "Easy",
+						"explanation": "The large red 'R' is the symbol found on all Team Rocket uniforms and hideouts.",
+						"image_url": "https://skillcheckgame.com/assets/images/team_rocket.webp",
+						"question": "What is the iconic single-letter logo of Team Rocket?",
+						"wrong": [
+							"G",
+							"M",
+							"T"
+						]
+					},
+					{
+						"correct": "Radio Tower",
+						"difficulty": "Easy",
+						"explanation": "They seized the Radio Tower to try and contact their missing leader, Giovanni.",
+						"image_url": "https://skillcheckgame.com/assets/images/team_rocket.webp",
+						"question": "Team Rocket takes over a building in Goldenrod City to broadcast a message. Which one?",
+						"wrong": [
+							"Department Store",
+							"Gym",
+							"Train Station"
+						]
+					},
+					{
+						"correct": "Giovanni",
+						"difficulty": "Easy",
+						"explanation": "Giovanni went into hiding after being defeated in the Kanto region three years prior.",
+						"image_url": "https://skillcheckgame.com/assets/images/team_rocket.webp",
+						"question": "Who is the missing leader Team Rocket is trying to contact?",
+						"wrong": [
+							"Cyrus",
+							"Maxie",
+							"Lance"
+						]
+					},
+					{
+						"correct": "Rattata",
+						"difficulty": "Easy",
+						"explanation": "Team Rocket grunts are famous for using 'weak' Pokemon like Rattata, Zubat, and Koffing.",
+						"image_url": "",
+						"question": "Which of these is a common Pokemon frequently used by Team Rocket grunts?",
+						"wrong": [
+							"Pikachu",
+							"Chikorita",
+							"Dragonite"
+						]
+					},
+					{
+						"correct": "Slowpoke",
+						"difficulty": "Easy",
+						"explanation": "They were selling SlowpokeTails as a gourmet delicacy for high prices.",
+						"image_url": "",
+						"question": "Team Rocket is found cutting off the tails of which Pokemon in Azalea Town?",
+						"wrong": [
+							"Pikachu",
+							"Mareep",
+							"Quagsire"
+						]
+					},
+					{
+						"correct": "Under a souvenir shop",
+						"difficulty": "Medium",
+						"explanation": "The 'Just a Souvenir' shop hides the entrance to their signal-transmitting base.",
+						"image_url": "",
+						"question": "Where is the secret Team Rocket hideout located in Mahogany Town?",
+						"wrong": [
+							"In the gym",
+							"Under the lake",
+							"Inside a lighthouse"
+						]
+					},
+					{
+						"correct": "Rocket Executives",
+						"difficulty": "Medium",
+						"explanation": "The Johto branch is led by four Executives: Archer, Ariana, Proton, and Petrel.",
+						"image_url": "",
+						"question": "What is the name of the 'Executives' who lead Team Rocket in Johto?",
+						"wrong": [
+							"Rocket Admirals",
+							"Rocket Captains",
+							"Rocket Bosses"
+						]
+					},
+					{
+						"correct": "Radio Station staff",
+						"difficulty": "Medium",
+						"explanation": "They infiltrated the tower and replaced the staff, even kidnapping the real Director.",
+						"image_url": "",
+						"question": "In the Radio Tower, Team Rocket disguises themselves as whom to take control?",
+						"wrong": [
+							"Gym Leaders",
+							"The Police",
+							"Pokemon Professors"
+						]
+					},
+					{
+						"correct": "Lance",
+						"difficulty": "Medium",
+						"explanation": "Lance uses his Dragonite to help the player take down the grunts and the Executives.",
+						"image_url": "",
+						"question": "Which Elite Four member helps the player clear out the Mahogany Town base?",
+						"wrong": [
+							"Bruno",
+							"Koga",
+							"Karen"
+						]
+					},
+					{
+						"correct": "To force Pokemon to evolve",
+						"difficulty": "Medium",
+						"explanation": "The signal was intended to force evolution, which caused the Red Gyarados to appear.",
+						"image_url": "",
+						"question": "What was the purpose of the radio signal sent from Mahogany Town?",
+						"wrong": [
+							"To control people's minds",
+							"To summon Lugia",
+							"To destroy the Magnet Train"
+						]
+					},
+					{
+						"correct": "Archer",
+						"difficulty": "Hard",
+						"explanation": "Archer is the highest-ranking member of the Johto branch and the interim leader.",
+						"image_url": "",
+						"question": "Which Executive is the final boss of the Radio Tower takeover?",
+						"wrong": [
+							"Proton",
+							"Petrel",
+							"Ariana"
+						]
+					},
+					{
+						"correct": "Proton",
+						"difficulty": "Hard",
+						"explanation": "Proton is the cruelest Executive and is responsible for the Slowpoke tail operation.",
+						"image_url": "",
+						"question": "In the Slowpoke Well, which Executive does the player face?",
+						"wrong": [
+							"Archer",
+							"Petrel",
+							"Ariana"
+						]
+					},
+					{
+						"correct": "Hail Giovanni",
+						"difficulty": "Hard",
+						"explanation": "You must obtain two passwords from grunts to open the electronic lock.",
+						"image_url": "",
+						"question": "What is the name of the password used to enter the boss's room in Mahogany Town?",
+						"wrong": [
+							"Rocket Power",
+							"Slowpoke Tail",
+							"Red Gyarados"
+						]
+					},
+					{
+						"correct": "Koffing and Weezing",
+						"difficulty": "Hard",
+						"explanation": "Petrel uses a team full of Koffing and one Weezing in his Radio Tower battle.",
+						"image_url": "",
+						"question": "Which of these Pokemon is Petrel famous for using multiple copies of?",
+						"wrong": [
+							"Raticate",
+							"Golbat",
+							"Arbok"
+						]
+					},
+					{
+						"correct": "Three years",
+						"difficulty": "Hard",
+						"explanation": "The events of Gold and Silver take place exactly three years after Red and Blue.",
+						"image_url": "",
+						"question": "How many years has it been since Team Rocket was defeated in Kanto?",
+						"wrong": [
+							"One year",
+							"Five years",
+							"Ten years"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_team_rocket",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Team Rocket",
+				"lore_desc": "A criminal organization that was thought to have disbanded three years ago. They have resurfaced in Johto to find their lost leader.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villains",
+					"Criminals",
+					"Organization"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "He steals it",
+						"difficulty": "Easy",
+						"explanation": "Silver is a thief who breaks into the lab and takes a starter Pokemon while the player is away.",
+						"image_url": "https://skillcheckgame.com/assets/images/silver.webp",
+						"question": "How does Silver obtain his first Pokemon from Professor Elm's lab?",
+						"wrong": [
+							"He receives it as a gift",
+							"He finds it in the wild",
+							"He trades for it"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Silver is easily recognized by his long, spiky red hair.",
+						"image_url": "https://skillcheckgame.com/assets/images/silver.webp",
+						"question": "What color is the rival Silver's hair?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Black"
+						]
+					},
+					{
+						"correct": "The one strong against yours",
+						"difficulty": "Easy",
+						"explanation": "Following the rival tradition, he picks the starter that has a type advantage over the player's choice.",
+						"image_url": "https://skillcheckgame.com/assets/images/silver.webp",
+						"question": "Which Pokemon will Silver always choose at the start of the game?",
+						"wrong": [
+							"The one weak against yours",
+							"A random one",
+							"Always Totodile"
+						]
+					},
+					{
+						"correct": "Giovanni",
+						"difficulty": "Easy",
+						"explanation": "Silver is the son of the Team Rocket leader, Giovanni, which explains his hatred for the organization.",
+						"image_url": "",
+						"question": "Who is revealed to be Silver's father in later game lore?",
+						"wrong": [
+							"Professor Elm",
+							"Lance",
+							"Professor Oak"
+						]
+					},
+					{
+						"correct": "Strength is all that matters",
+						"difficulty": "Easy",
+						"explanation": "Silver initially treats Pokemon as tools and despises 'weak' trainers.",
+						"image_url": "",
+						"question": "What is Silver's main philosophy regarding Pokemon at the start of the game?",
+						"wrong": [
+							"Pokemon are friends",
+							"Pokemon are for profit",
+							"Trust is important"
+						]
+					},
+					{
+						"correct": "Sneasel",
+						"difficulty": "Medium",
+						"explanation": "Silver uses a Sneasel, which fits his cold and edgy personality.",
+						"image_url": "",
+						"question": "Which Ice/Dark type Pokemon is a signature member of Silver's team?",
+						"wrong": [
+							"Weavile",
+							"Lapras",
+							"Dewgong"
+						]
+					},
+					{
+						"correct": "Cherrygrove City",
+						"difficulty": "Medium",
+						"explanation": "The 'Mystery Man' challenges you on the way back from Mr. Pokemon's house.",
+						"image_url": "",
+						"question": "Where does the player first battle Silver?",
+						"wrong": [
+							"New Bark Town",
+							"Violet City",
+							"Azalea Town"
+						]
+					},
+					{
+						"correct": "Radio Tower",
+						"difficulty": "Medium",
+						"explanation": "Silver attempts to take down Team Rocket at the Radio Tower but is defeated by an Executive.",
+						"image_url": "",
+						"question": "Which location does Silver visit to try and stop Team Rocket himself?",
+						"wrong": [
+							"Slowpoke Well",
+							"Lake of Rage",
+							"Union Cave"
+						]
+					},
+					{
+						"correct": "Gengar",
+						"difficulty": "Medium",
+						"explanation": "Silver's team eventually includes a powerful Gengar.",
+						"image_url": "",
+						"question": "What is the name of the evolved Ghost-type Pokemon Silver uses on his team?",
+						"wrong": [
+							"Haunter",
+							"Misdreavus",
+							"Alakazam"
+						]
+					},
+					{
+						"correct": "New Bark Town",
+						"difficulty": "Medium",
+						"explanation": "After the robbery, you return to Elm's lab to tell the police the rival's name.",
+						"image_url": "",
+						"question": "What is the name of the city where the player gives the police the name of the rival?",
+						"wrong": [
+							"Cherrygrove City",
+							"Violet City",
+							"Goldenrod City"
+						]
+					},
+					{
+						"correct": "Crobat",
+						"difficulty": "Hard",
+						"explanation": "Crobat evolves via high friendship, showing that Silver's attitude toward his Pokemon changed.",
+						"image_url": "",
+						"question": "Silver eventually evolves his Golbat into which Pokemon, proving he finally cares for it?",
+						"wrong": [
+							"Aerodactyl",
+							"Skarmory",
+							"Noivern"
+						]
+					},
+					{
+						"correct": "Victory Road",
+						"difficulty": "Hard",
+						"explanation": "Silver challenges you one last time just before you exit Victory Road.",
+						"image_url": "",
+						"question": "Where does the player have their final scheduled battle with Silver in the Johto region?",
+						"wrong": [
+							"Indigo Plateau",
+							"Mt. Silver",
+							"Blackthorn City"
+						]
+					},
+					{
+						"correct": "Dragon's Den",
+						"difficulty": "Hard",
+						"explanation": "In the remakes and some story events, Silver is seen training in the Dragon's Den in Blackthorn City.",
+						"image_url": "",
+						"question": "Which legendary location does Silver visit to train after being defeated at the Radio Tower?",
+						"wrong": [
+							"Whirl Islands",
+							"Mt. Mortar",
+							"Tin Tower"
+						]
+					},
+					{
+						"correct": "He insults them for being weak",
+						"difficulty": "Hard",
+						"explanation": "He hates Team Rocket and constantly berates them for their reliance on numbers rather than individual strength.",
+						"image_url": "",
+						"question": "What does Silver do when he encounters Team Rocket grunts?",
+						"wrong": [
+							"He joins them",
+							"He hides from them",
+							"He pays them off"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Hard",
+						"explanation": "You battle him in Cherrygrove, Azalea, Burned Tower, Radio Tower, and Victory Road.",
+						"image_url": "",
+						"question": "In the original GSC, how many total times do you battle Silver throughout the game?",
+						"wrong": [
+							"Four",
+							"Six",
+							"Three"
+						]
+					}
+				]
+			},
+			"id": "pokemon_gold_and_silver_silver",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Silver",
+				"lore_desc": "A cold and power-hungry trainer who steals his first Pokemon. He believes that only strong Pokemon have value.",
+				"theme_origin": "pokemon gold and silver",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Rival",
+					"Trainer",
+					"Thief"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -137503,12 +140767,126 @@
 					"name": "Universal Currency"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Magic Crafters",
 						"Talismans"
 					],
 					"name": "The Magic Builders"
+				}
+			]
+		},
+		{
+			"id": "pokemon gold and silver",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Ho-Oh",
+						"Lugia",
+						"Suicune"
+					],
+					"name": "The Box Art Mascots"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Red Gyarados",
+						"Team Rocket",
+						"Silver"
+					],
+					"name": "The Lake of Rage Plot"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Red",
+						"Mount Silver",
+						"Johto Region"
+					],
+					"name": "The Ultimate Test"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Professor Elm",
+						"Togepi",
+						"Johto Region"
+					],
+					"name": "The Egg Research"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Whitney Miltank",
+						"Sudowoodo",
+						"Team Rocket"
+					],
+					"name": "The Goldenrod Roadblocks"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Silver",
+						"Team Rocket"
+					],
+					"name": "The Boss's Son"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ho-Oh",
+						"Togepi"
+					],
+					"name": "The Anime Teasers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Whitney Miltank",
+						"Sudowoodo"
+					],
+					"name": "The Ragequits"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ho-Oh",
+						"Lugia"
+					],
+					"name": "The Tower Duo"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Red",
+						"Mount Silver"
+					],
+					"name": "The Secret Peak"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Team Rocket",
+						"Celebi"
+					],
+					"name": "The Time Travel Event"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Red Gyarados",
+						"Johto Region"
+					],
+					"name": "The First Shiny"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Unown",
+						"Johto Region"
+					],
+					"name": "The Ruins of Alph"
 				}
 			]
 		}
