@@ -135201,6 +135201,3270 @@
 					"Thief"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Increasing the player's level",
+						"difficulty": "Easy",
+						"explanation": "She is the only person who can channel souls to increase the player's attributes.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_emerald_herald.webp",
+						"question": "What is the primary role of the Emerald Herald for the player character?",
+						"wrong": [
+							"Selling weapons",
+							"Repairing armor",
+							"Teaching sorceries"
+						]
+					},
+					{
+						"correct": "Action RPG",
+						"difficulty": "Easy",
+						"explanation": "Dark Souls 2 is a famous Action Role-Playing Game known for its high difficulty.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_emerald_herald.webp",
+						"question": "In what genre of game does the Emerald Herald appear?",
+						"wrong": [
+							"Racing",
+							"First Person Shooter",
+							"Sports Simulator"
+						]
+					},
+					{
+						"correct": "Majula",
+						"difficulty": "Easy",
+						"explanation": "Majula is the sunny, seaside hub where the player returns frequently.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_emerald_herald.webp",
+						"question": "At which hub location does the Emerald Herald first greet the player?",
+						"wrong": [
+							"Firelink Shrine",
+							"The Nexus",
+							"Hunter's Dream"
+						]
+					},
+					{
+						"correct": "Estus Flask",
+						"difficulty": "Easy",
+						"explanation": "She provides the Estus Flask, which is the primary reusable healing source in the series.",
+						"image_url": "",
+						"question": "Which iconic healing item does the Emerald Herald give the player upon their first meeting?",
+						"wrong": [
+							"Lifegem",
+							"Divine Blessing",
+							"Elizabeth Mushroom"
+						]
+					},
+					{
+						"correct": "FromSoftware",
+						"difficulty": "Easy",
+						"explanation": "FromSoftware is the studio famous for creating the 'Soulsborne' series.",
+						"image_url": "",
+						"question": "Who is the primary developer of the game featuring the Emerald Herald?",
+						"wrong": [
+							"Ubisoft",
+							"Electronic Arts",
+							"Nintendo"
+						]
+					},
+					{
+						"correct": "Shanalotte",
+						"difficulty": "Medium",
+						"explanation": "She reveals her name, Shanalotte, later in the game at the Dragon Shrine.",
+						"image_url": "",
+						"question": "What is the Emerald Herald's true given name?",
+						"wrong": [
+							"Anastacia",
+							"Filianore",
+							"Rosaria"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Medium",
+						"explanation": "Her signature green cloak is why fans often refer to her simply as the Emerald Herald.",
+						"image_url": "",
+						"question": "What color is the cloak worn by the Emerald Herald?",
+						"wrong": [
+							"Red",
+							"Purple",
+							"White"
+						]
+					},
+					{
+						"correct": "Vendrick and Aldia",
+						"difficulty": "Medium",
+						"explanation": "King Vendrick and his brother Aldia created her in an attempt to break the curse of the Undead.",
+						"image_url": "",
+						"question": "The Emerald Herald was a 'failed experiment' created by which duo of brothers?",
+						"wrong": [
+							"Lorian and Lothric",
+							"Andre and Bam",
+							"Patches and Pate"
+						]
+					},
+					{
+						"correct": "Bearer of the Curse",
+						"difficulty": "Medium",
+						"explanation": "Every Souls protagonist has a title, and in this game, it is the Bearer of the Curse.",
+						"image_url": "",
+						"question": "What title does the Emerald Herald use when addressing the player character?",
+						"wrong": [
+							"The Chosen Undead",
+							"The Ashen One",
+							"Good Hunter"
+						]
+					},
+					{
+						"correct": "Her left eye",
+						"difficulty": "Medium",
+						"explanation": "One of her eyes is a different color, reflecting her unnatural origins.",
+						"image_url": "",
+						"question": "Which part of her body is often covered by her hair or hood, hiding a unique trait?",
+						"wrong": [
+							"Her right hand",
+							"Her feet",
+							"Her back"
+						]
+					},
+					{
+						"correct": "Aged Feather",
+						"difficulty": "Hard",
+						"explanation": "The Aged Feather acts as an infinite-use Homeward Bone.",
+						"image_url": "",
+						"question": "What item, which allows the player to return to a bonfire, does she give you at the Dragon Shrine?",
+						"wrong": [
+							"Homeward Bone",
+							"Darksign",
+							"Coiled Sword"
+						]
+					},
+					{
+						"correct": "She was born of dragons",
+						"difficulty": "Hard",
+						"explanation": "She describes herself as being born of dragons, created to defy the fate of the Undead.",
+						"image_url": "",
+						"question": "Which of these is part of the Herald's origin story?",
+						"wrong": [
+							"She is a ghost",
+							"She is a machine",
+							"She is from the future"
+						]
+					},
+					{
+						"correct": "The Throne of Want",
+						"difficulty": "Hard",
+						"explanation": "She waits outside the boss fog of the Throne of Want to witness your final choice.",
+						"image_url": "",
+						"question": "Where does the Emerald Herald move to during the final confrontation of the base game?",
+						"wrong": [
+							"The Gutter",
+							"Iron Keep",
+							"Frozen Eleum Loyce"
+						]
+					},
+					{
+						"correct": "To find one who can link it",
+						"difficulty": "Hard",
+						"explanation": "She was designed to guide a powerful enough soul to the kiln to succeed King Vendrick.",
+						"image_url": "",
+						"question": "According to her dialogue, what is her purpose regarding the 'flame'?",
+						"wrong": [
+							"To extinguish it forever",
+							"To consume it",
+							"To cook for the player"
+						]
+					},
+					{
+						"correct": "Skipping her dialogue quickly",
+						"difficulty": "Hard",
+						"explanation": "When players spam through her level-up dialogue, the first words of her sentences ('Bearer...', 'Seek...', 'Seek...', 'Lest...') overlap.",
+						"image_phrase": "",
+						"question": "The famous player meme 'Bear Seek Seek Lest' refers to what specific action?",
+						"wrong": [
+							"A secret emote",
+							"A hidden ending",
+							"A translation error"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_the_emerald_herald",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "The Emerald Herald",
+				"lore_desc": "Also known as Shanalotte, this mysterious woman guides the Bearer of the Curse and manages their leveling at the Majula bonfire.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Emerald Herald",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Guide",
+					"Majula"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Setting",
+						"difficulty": "Easy",
+						"explanation": "The golden hour aesthetic is Majula's most recognizable feature.",
+						"image_url": "https://skillcheckgame.com/assets/images/majula.webp",
+						"question": "Majula is famous for having a sun that is perpetually in what state?",
+						"wrong": [
+							"Noon high",
+							"Midnight",
+							"Rising"
+						]
+					},
+					{
+						"correct": "The Ocean",
+						"difficulty": "Easy",
+						"explanation": "Majula sits on high cliffs overlooking a vast sea.",
+						"image_url": "https://skillcheckgame.com/assets/images/majula.webp",
+						"question": "What kind of geographical feature borders one side of Majula?",
+						"wrong": [
+							"A desert",
+							"A volcano",
+							"A forest"
+						]
+					},
+					{
+						"correct": "A Bonfire",
+						"difficulty": "Easy",
+						"explanation": "Bonfires are the universal fast-travel and checkpoint system in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/majula.webp",
+						"question": "Which of these commonly found objects in Majula is used to travel to other locations?",
+						"wrong": [
+							"A car",
+							"A portal",
+							"A ship"
+						]
+					},
+					{
+						"correct": "PlayStation 3 and Xbox 360",
+						"difficulty": "Easy",
+						"explanation": "It was a late-cycle release for the PS3/360 generation.",
+						"image_url": "",
+						"question": "Which of these platforms was the game originally released on in 2014?",
+						"wrong": [
+							"Nintendo Switch",
+							"PlayStation 5",
+							"Atari 2600"
+						]
+					},
+					{
+						"correct": "Melancholic and peaceful",
+						"difficulty": "Easy",
+						"explanation": "The Majula theme is one of the most beloved and relaxing tracks in the series.",
+						"image_url": "",
+						"question": "What is the general mood of the music that plays in Majula?",
+						"wrong": [
+							"Heavy metal",
+							"Upbeat and poppy",
+							"Silent"
+						]
+					},
+					{
+						"correct": "The Gutter",
+						"difficulty": "Medium",
+						"explanation": "The Pit leads down to the Grave of Saints and eventually The Gutter.",
+						"image_url": "",
+						"question": "In the center of Majula, there is a giant, deep hole. Where does it lead?",
+						"wrong": [
+							"Drangleic Castle",
+							"The Moon",
+							"The Tutorial"
+						]
+					},
+					{
+						"correct": "Saulden, the Crestfallen Warrior",
+						"difficulty": "Medium",
+						"explanation": "Saulden sits near the monument and offers advice to new players.",
+						"image_url": "",
+						"question": "Which NPC in Majula allows you to join the 'Way of Blue' covenant?",
+						"wrong": [
+							"Maughlin the Armorer",
+							"Cale the Cartographer",
+							"Sweet Shalquoir"
+						]
+					},
+					{
+						"correct": "Forest of Fallen Giants",
+						"difficulty": "Medium",
+						"explanation": "Cale the Cartographer gives you the key after you meet him in a cave in the Forest.",
+						"image_url": "",
+						"question": "There is a locked mansion in Majula. Where do you find the key?",
+						"wrong": [
+							"Heide's Tower of Flame",
+							"Iron Keep",
+							"No-man's Wharf"
+						]
+					},
+					{
+						"correct": "Pigs",
+						"difficulty": "Medium",
+						"explanation": "The three little pigs near the well are notoriously difficult for low-level players.",
+						"image_url": "",
+						"question": "What small, surprisingly aggressive enemies are found near the mansion in Majula?",
+						"wrong": [
+							"Dogs",
+							"Rats",
+							"Cats"
+						]
+					},
+					{
+						"correct": "An Estus Flask Shard",
+						"difficulty": "Medium",
+						"explanation": "Knocking the stone into the well raises a corpse holding a vital Estus Shard.",
+						"image_url": "",
+						"question": "What can you find by hitting the rock on the well in Majula?",
+						"wrong": [
+							"A weapon",
+							"A boss",
+							"A secret passage"
+						]
+					},
+					{
+						"correct": "Rosabeth of Melfia",
+						"difficulty": "Hard",
+						"explanation": "After you use a Fragrant Branch of Yore to unpetrify her, she moves to Majula.",
+						"image_url": "",
+						"question": "Which of these characters eventually opens a shop in Majula after being rescued?",
+						"wrong": [
+							"The Last Giant",
+							"The Pursuer",
+							"Lucatiel"
+						]
+					},
+					{
+						"correct": "The Victor's Stone",
+						"difficulty": "Hard",
+						"explanation": "It tracks the total number of deaths worldwide and allows players to join the Company of Champions.",
+						"image_url": "",
+						"question": "What is the name of the monument in Majula that tracks global player deaths?",
+						"wrong": [
+							"The Obelisk",
+							"The Death Clock",
+							"The Shrine of Storms"
+						]
+					},
+					{
+						"correct": "Sweet Shalquoir",
+						"difficulty": "Hard",
+						"explanation": "Shalquoir is a sentient cat who sells rings and comments on the player's progress.",
+						"image_url": "",
+						"question": "Which Majula resident is actually a cat that talks?",
+						"wrong": [
+							"Chloanne",
+							"Lenigrast",
+							"Licia"
+						]
+					},
+					{
+						"correct": "He sells better armor",
+						"difficulty": "Hard",
+						"explanation": "As you buy from him, his confidence grows and he begins stocking boss armor sets.",
+						"image_url": "",
+						"question": "What is unique about Maughlin the Armorer's inventory as the player spends more souls?",
+						"wrong": [
+							"He stops selling things",
+							"He sells weapons",
+							"He sells magic"
+						]
+					},
+					{
+						"correct": "Defeating major bosses",
+						"difficulty": "Hard",
+						"explanation": "Cale's map tracks your progress by lighting a blue flame for each 'Great Soul' boss defeated.",
+						"image_url": "",
+						"question": "There is a map on the floor of the Majula mansion. What causes the flames on it to light up?",
+						"wrong": [
+							"Leveling up",
+							"Lighting bonfires",
+							"Invading players"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_majula",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Majula",
+				"lore_desc": "A lonely, sun-drenched settlement on the coast of Drangleic that serves as a sanctuary for the lost.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Majula",
+			"profiler": {
+				"vibe_tags": [
+					"Hub",
+					"Settlement",
+					"Coastline"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Carried by a giant bird",
+						"difficulty": "Easy",
+						"explanation": "A massive crow drops him onto the ramparts in the Forest of Fallen Giants.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pursuer.webp",
+						"question": "How does the Pursuer traditionally enter the battlefield for the first time?",
+						"wrong": [
+							"Rising from the ground",
+							"Walking through a door",
+							"Teleporting in smoke"
+						]
+					},
+					{
+						"correct": "Greatsword",
+						"difficulty": "Easy",
+						"explanation": "He wields a massive, cursed ultra greatsword.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pursuer.webp",
+						"question": "What is the Pursuer's signature oversized weapon?",
+						"wrong": [
+							"Greataxe",
+							"Spear",
+							"Hammer"
+						]
+					},
+					{
+						"correct": "Armor-clad knight with a glowing red eye",
+						"difficulty": "Easy",
+						"explanation": "He is a heavily armored knight known for his red-glowing visor.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_pursuer.webp",
+						"question": "Which of these best describes the Pursuer's appearance?",
+						"wrong": [
+							"A naked giant",
+							"A four-legged beast",
+							"A wizard in robes"
+						]
+					},
+					{
+						"correct": "He appears multiple times throughout the game",
+						"difficulty": "Easy",
+						"explanation": "The Pursuer lives up to his name by hunting the player in several different locations.",
+						"image_url": "",
+						"question": "What makes the Pursuer unique compared to most early bosses?",
+						"wrong": [
+							"He cannot be killed",
+							"He heals the player",
+							"He is friendly"
+						]
+					},
+					{
+						"correct": "Dark Souls 2",
+						"difficulty": "Easy",
+						"explanation": "He is one of the most iconic early-game challenges in the second game.",
+						"image_url": "",
+						"question": "The Pursuer is a boss in which numbered entry of the Dark Souls series?",
+						"wrong": [
+							"Dark Souls 1",
+							"Dark Souls 3",
+							"Elden Ring"
+						]
+					},
+					{
+						"correct": "Ballistas",
+						"difficulty": "Medium",
+						"explanation": "The arena in the Forest of Fallen Giants contains two ballistas that can nearly one-shot him.",
+						"image_url": "",
+						"question": "What large stationary weapons can players use to deal massive damage to the Pursuer in his boss arena?",
+						"wrong": [
+							"Catapults",
+							"Cannons",
+							"Tridents"
+						]
+					},
+					{
+						"correct": "Weapons of his victims",
+						"difficulty": "Medium",
+						"explanation": "His quiver-like pack is filled with the weapons of the Undead he has successfully hunted.",
+						"image_url": "",
+						"question": "The Pursuer carries a backpack-like container full of what?",
+						"wrong": [
+							"Gold coins",
+							"Healing potions",
+							"Letters"
+						]
+					},
+					{
+						"correct": "Curse",
+						"difficulty": "Medium",
+						"explanation": "His sword glows blue during his impale attack, which curses the player and drains health.",
+						"image_url": "",
+						"question": "What status effect does the Pursuer's 'blue sword' grab attack inflict?",
+						"wrong": [
+							"Poison",
+							"Bleed",
+							"Frostbite"
+						]
+					},
+					{
+						"correct": "The Lost Bastille",
+						"difficulty": "Medium",
+						"explanation": "He spawns in several locations throughout the Lost Bastille to surprise the player.",
+						"image_url": "",
+						"question": "In the 'Scholar of the First Sin' edition, the Pursuer appears frequently in which early-game location?",
+						"wrong": [
+							"The Gutter",
+							"Harvest Valley",
+							"Majula"
+						]
+					},
+					{
+						"correct": "Ring of Blades",
+						"difficulty": "Medium",
+						"explanation": "The Ring of Blades increases physical attack damage, reflecting his martial prowess.",
+						"image_url": "",
+						"question": "The Pursuer drops a ring upon defeat. Which one is it?",
+						"wrong": [
+							"Chloranthy Ring",
+							"Havel's Ring",
+							"Ring of Favor"
+						]
+					},
+					{
+						"correct": "The Throne Room in Drangleic Castle",
+						"difficulty": "Hard",
+						"explanation": "Entering the Throne Room in NG+ triggers a difficult double-Pursuer encounter.",
+						"image_url": "",
+						"question": "Where does a pair of Pursuers fight the player simultaneously in New Game Plus?",
+						"wrong": [
+							"The Iron Keep bridge",
+							"The Dragon Shrine",
+							"Majula Mansion"
+						]
+					},
+					{
+						"correct": "Attoning for his sins by hunting the Undead",
+						"difficulty": "Hard",
+						"explanation": "His soul description suggests he is seeking atonement through the systematic slaughter of the cursed.",
+						"image_url": "",
+						"question": "What lore-based task is the Pursuer supposedly performing?",
+						"wrong": [
+							"Guarding a princess",
+							"Searching for a lost child",
+							"Building a castle"
+						]
+					},
+					{
+						"correct": "Magical levitation",
+						"difficulty": "Hard",
+						"explanation": "He floats mysteriously during combat, giving his movements an eerie, unnatural quality.",
+						"image_url": "",
+						"question": "How does the Pursuer hover or fly despite wearing heavy armor?",
+						"wrong": [
+							"He has wings",
+							"Jetpacks",
+							"A small bird"
+						]
+					},
+					{
+						"correct": "He does not appear in the boss arena",
+						"difficulty": "Hard",
+						"explanation": "Defeating him in the optional early encounter prevents the boss fight from occurring later in that level.",
+						"image_url": "",
+						"question": "If you defeat the Pursuer on the high platform before his actual boss arena, what happens?",
+						"wrong": [
+							"He drops twice the souls",
+							"The game ends",
+							"He becomes your ally"
+						]
+					},
+					{
+						"correct": "Souls and a trade with Straid of Olaphis",
+						"difficulty": "Hard",
+						"explanation": "Straid is the petrified wizard who can transpose souls into unique items like the Pursuer's sword.",
+						"image_url": "",
+						"question": "What specific item is required to trade the Pursuer's Soul for his Greatsword?",
+						"wrong": [
+							"Trading with Ornifex",
+							"Using it from the inventory",
+							"Giving it to the Herald"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_the_pursuer",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "The Pursuer",
+				"lore_desc": "A relentless knight who hunts those branded with the curse, traveling via a giant bird.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Pursuer",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Knight",
+					"Rival"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A mask",
+						"difficulty": "Easy",
+						"explanation": "She wears a mask to hide the hollowing mark that is slowly spreading across her face.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucatiel_of_mirrah.webp",
+						"question": "What distinctive feature does Lucatiel wear to hide her face?",
+						"wrong": [
+							"A blindfold",
+							"A heavy iron bucket",
+							"A veil"
+						]
+					},
+					{
+						"correct": "Greatsword",
+						"difficulty": "Easy",
+						"explanation": "She wields the Mirrah Greatsword with exceptional skill.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucatiel_of_mirrah.webp",
+						"question": "What is the primary weapon used by Lucatiel?",
+						"wrong": [
+							"Dagger",
+							"Whip",
+							"Bow"
+						]
+					},
+					{
+						"correct": "Losing her memories and identity",
+						"difficulty": "Easy",
+						"explanation": "Her tragic arc revolves around her fear of being forgotten as she hollows.",
+						"image_url": "https://skillcheckgame.com/assets/images/lucatiel_of_mirrah.webp",
+						"question": "Which of these is the main theme of Lucatiel's personal story?",
+						"wrong": [
+							"Searching for treasure",
+							"Seeking revenge for a dead king",
+							"Becoming a god"
+						]
+					},
+					{
+						"correct": "Summoning",
+						"difficulty": "Easy",
+						"explanation": "Players use her summon sign to have her assist with difficult bosses.",
+						"image_url": "",
+						"question": "Lucatiel is a helpful NPC. What is the common term for bringing her into a boss fight?",
+						"wrong": [
+							"Hiring",
+							"Inviting",
+							"Teleporting"
+						]
+					},
+					{
+						"correct": "Mirrah",
+						"difficulty": "Easy",
+						"explanation": "It is right in her name! She is a proud knight of Mirrah.",
+						"image_url": "",
+						"question": "What land does Lucatiel come from?",
+						"wrong": [
+							"Astora",
+							"Catarina",
+							"Lordran"
+						]
+					},
+					{
+						"correct": "The Pursuer",
+						"difficulty": "Medium",
+						"explanation": "She can help with the Flexile Sentry, Lost Sinner, Smelter Demon, and The Rotten, but not the Pursuer.",
+						"image_url": "",
+						"question": "Which boss is NOT one that Lucatiel can be summoned to help fight?",
+						"wrong": [
+							"The Lost Sinner",
+							"Smelter Demon",
+							"The Rotten"
+						]
+					},
+					{
+						"correct": "No-man's Wharf",
+						"difficulty": "Medium",
+						"explanation": "She is found leaning against a wall near a bonfire in No-man's Wharf.",
+						"image_url": "",
+						"question": "Where is the first location the player typically encounters Lucatiel?",
+						"wrong": [
+							"Forest of Fallen Giants",
+							"Majula",
+							"Heide's Tower of Flame"
+						]
+					},
+					{
+						"correct": "Her brother",
+						"difficulty": "Medium",
+						"explanation": "She is following her brother Aslatiel, who also came to Drangleic and lost himself.",
+						"image_url": "",
+						"question": "What is Lucatiel searching for in Drangleic?",
+						"wrong": [
+							"A new sword",
+							"The Queen",
+							"A cure for her mother"
+						]
+					},
+					{
+						"correct": "Have her survive 3 boss fights",
+						"difficulty": "Medium",
+						"explanation": "You must summon her and ensure she survives three of her eligible boss encounters.",
+						"image_url": "",
+						"question": "What must the player do to receive Lucatiel's equipment at the end of her questline?",
+						"wrong": [
+							"Kill her",
+							"Buy it from Majula",
+							"Give her 50,000 souls"
+						]
+					},
+					{
+						"correct": "Aldia's Keep",
+						"difficulty": "Medium",
+						"explanation": "She appears one last time at the entrance to Aldia's Keep, barely remembering her own name.",
+						"image_url": "",
+						"question": "In which location does Lucatiel make her final, heartbreaking appearance?",
+						"wrong": [
+							"Drangleic Castle",
+							"The Gutter",
+							"Earthen Peak"
+						]
+					},
+					{
+						"correct": "Aslatiel",
+						"difficulty": "Hard",
+						"explanation": "Aslatiel of Mirrah invades the player at the entrance to Aldia's Keep.",
+						"image_url": "",
+						"question": "What is the name of Lucatiel's brother, whom you can fight as an invader?",
+						"wrong": [
+							"Bernhart",
+							"Tark",
+							"Vengarl"
+						]
+					},
+					{
+						"correct": "It is a land of constant war",
+						"difficulty": "Hard",
+						"explanation": "She mentions that in Mirrah, your worth is determined by your skill with a blade because of the constant conflict.",
+						"image_url": "",
+						"question": "Which specific detail is mentioned in her dialogue about her homeland, Mirrah?",
+						"wrong": [
+							"It is made of gold",
+							"It is underwater",
+							"It is floating in the sky"
+						]
+					},
+					{
+						"correct": "Remember her name",
+						"difficulty": "Hard",
+						"explanation": "Her final words are a plea: 'I beg of you, remember my name. For I may not.'.",
+						"image_url": "",
+						"question": "What request does Lucatiel make of the player during her final dialogue?",
+						"wrong": [
+							"Kill her brother",
+							"Link the fire",
+							"Take her mask"
+						]
+					},
+					{
+						"correct": "She dies and fails that attempt",
+						"difficulty": "Hard",
+						"explanation": "She is notorious for poor AI pathfinding in No-man's Wharf, often walking straight into the water.",
+						"image_url": "",
+						"question": "What happens if Lucatiel falls off the pier in No-man's Wharf during a boss fight?",
+						"wrong": [
+							"She swims back",
+							"She teleports to the boss",
+							"The boss dies instantly"
+						]
+					},
+					{
+						"correct": "Lucatiel's",
+						"difficulty": "Hard",
+						"explanation": "The Hollowslayer Greatsword is her Mirrah Greatsword, renamed due to the legend of her tragic quest.",
+						"image_url": "",
+						"question": "In Dark Souls 3, a set of armor 'Mirrah Set' and a 'Hollowslayer Greatsword' are found. Whose are they?",
+						"wrong": [
+							"The Bearer of the Curse's",
+							"Vendrick's",
+							"The Fume Knight's"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_lucatiel_of_mirrah",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Lucatiel of Mirrah",
+				"lore_desc": "A proud but tragic knight from Mirrah who is slowly losing her memories and sense of self to the Undead curse.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Lucatiel of Mirrah",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Summon",
+					"Knight"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "He founded it",
+						"difficulty": "Easy",
+						"explanation": "Vendrick built Drangleic on the souls of the four Great Ones.",
+						"image_url": "https://skillcheckgame.com/assets/images/king_vendrick.webp",
+						"question": "What is King Vendrick's relation to the kingdom of Drangleic?",
+						"wrong": [
+							"He destroyed it",
+							"He was a common prisoner",
+							"He was a foreign invader"
+						]
+					},
+					{
+						"correct": "Hollowed and mindless",
+						"difficulty": "Easy",
+						"explanation": "The great king is found shambling aimlessly in his loincloth, having lost his soul.",
+						"image_url": "https://skillcheckgame.com/assets/images/king_vendrick.webp",
+						"question": "In what state do you find King Vendrick when you first encounter him?",
+						"wrong": [
+							"Fighting a dragon",
+							"Giving a speech",
+							"Sleeping in a bed"
+						]
+					},
+					{
+						"correct": "Nashandra",
+						"difficulty": "Easy",
+						"explanation": "Nashandra came from a far land to warn him of giants, eventually becoming his queen.",
+						"image_url": "https://skillcheckgame.com/assets/images/king_vendrick.webp",
+						"question": "Who was King Vendrick's queen?",
+						"wrong": [
+							"Gwynevere",
+							"Elana",
+							"Alsanna"
+						]
+					},
+					{
+						"correct": "Challenging but rewarding",
+						"difficulty": "Easy",
+						"explanation": "Like its predecessor, it's known for 'Prepare to Die' level difficulty.",
+						"image_url": "",
+						"question": "What is the primary difficulty of Dark Souls 2 often compared to?",
+						"wrong": [
+							"Relaxing and easy",
+							"A casual puzzle game",
+							"A turn-based strategy"
+						]
+					},
+					{
+						"correct": "Undead Crypt",
+						"difficulty": "Easy",
+						"explanation": "He retreated to the deepest part of the Undead Crypt to keep his soul away from Nashandra.",
+						"image_url": "",
+						"question": "Where does the player finally find King Vendrick?",
+						"wrong": [
+							"Iron Keep",
+							"Drangleic Castle",
+							"Majula"
+						]
+					},
+					{
+						"correct": "The number of Giant Souls in your inventory",
+						"difficulty": "Medium",
+						"explanation": "Vendrick has massive defense that only decreases for every Soul of a Giant you possess.",
+						"image_url": "",
+						"question": "What unique mechanic governs how much damage you deal to Vendrick?",
+						"wrong": [
+							"Your character level",
+							"How much gold you have",
+							"The time of day"
+						]
+					},
+					{
+						"correct": "Giants",
+						"difficulty": "Medium",
+						"explanation": "Prompted by Nashandra, Vendrick invaded the land of the Giants and stole a 'prize' from them.",
+						"image_url": "",
+						"question": "Vendrick crossed the sea to wage war against which race?",
+						"wrong": [
+							"Dragons",
+							"Demons",
+							"Elves"
+						]
+					},
+					{
+						"correct": "Aldia",
+						"difficulty": "Medium",
+						"explanation": "Aldia, Scholar of the First Sin, was Vendrick's brother and partner in researching the curse.",
+						"image_url": "",
+						"question": "Who was Vendrick's brother, who performed dark experiments in a secluded keep?",
+						"wrong": [
+							"Manus",
+							"Gwyn",
+							"Straid"
+						]
+					},
+					{
+						"correct": "To hide the Ring of the King from Nashandra",
+						"difficulty": "Medium",
+						"explanation": "He realized Nashandra's true dark nature and hid himself so she could never reach the Throne of Want.",
+						"image_url": "",
+						"question": "Why did Vendrick choose to hollow and hide in the crypt?",
+						"wrong": [
+							"He was bored",
+							"He was afraid of the dark",
+							"He wanted to be a zombie"
+						]
+					},
+					{
+						"correct": "Velstadt, the Royal Aegis",
+						"difficulty": "Medium",
+						"explanation": "Velstadt remained fiercely loyal, guarding the entrance to Vendrick's final resting place.",
+						"image_url": "",
+						"question": "What is the name of the elite guard who stayed to protect Vendrick in the crypt?",
+						"wrong": [
+							"Raime, the Fume Knight",
+							"The Pursuer",
+							"Looking Glass Knight"
+						]
+					},
+					{
+						"correct": "Fragrant Branch of Yore",
+						"difficulty": "Hard",
+						"explanation": "The Ashen Mist Heart allows you to enter the memories of the withered King.",
+						"image_url": "",
+						"question": "Which of these items is NOT needed to reach Vendrick's memories in the DLC?",
+						"wrong": [
+							"Ashen Mist Heart",
+							"The King's Ring",
+							"Crown of the King"
+						]
+					},
+					{
+						"correct": "The Giant's Kinship",
+						"difficulty": "Hard",
+						"explanation": "The Kinship allowed him to command the Golems that built Drangleic Castle.",
+						"image_url": "",
+						"question": "What 'prize' did Vendrick steal from the Giants?",
+						"wrong": [
+							"A pile of gold",
+							"The sun",
+							"A magical sword"
+						]
+					},
+					{
+						"correct": "You deal almost zero damage",
+						"difficulty": "Hard",
+						"explanation": "His defense is 32 times higher than normal if you have zero Giant Souls.",
+						"image_url": "",
+						"question": "What happens if you attack Vendrick without any Giant Souls in your inventory?",
+						"wrong": [
+							"He dies instantly",
+							"He gives you a hug",
+							"He teleports you to Majula"
+						]
+					},
+					{
+						"correct": "He lost a duel to Velstadt and was exiled",
+						"difficulty": "Hard",
+						"explanation": "Raime and Velstadt disagreed on how to handle the curse; after a duel, Raime was branded a traitor.",
+						"image_url": "",
+						"question": "Raime, the Fume Knight, was once a commander for Vendrick. Why did he leave?",
+						"wrong": [
+							"He wanted to retire",
+							"He hated the weather",
+							"He was allergic to armor"
+						]
+					},
+					{
+						"correct": "The Lost Crowns",
+						"difficulty": "Hard",
+						"explanation": "The DLC trilogy revolves around collecting the crowns of ancient kings to transcend the curse.",
+						"image_url": "",
+						"question": "What is the collective name of the crowns Vendrick tells you to find?",
+						"wrong": [
+							"The Seven Rings",
+							"The Elder Crowns",
+							"The Soul Orbs"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_king_vendrick",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "King Vendrick",
+				"lore_desc": "The former ruler of Drangleic who built a kingdom but eventually hollowed and retreated to a dark crypt.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "King Vendrick",
+			"profiler": {
+				"vibe_tags": [
+					"King",
+					"Boss",
+					"Lore"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Crown of the Old Iron King",
+						"difficulty": "Easy",
+						"explanation": "He resides at the bottom of Brume Tower in the second DLC.",
+						"image_url": "https://skillcheckgame.com/assets/images/fume_knight.webp",
+						"question": "The Fume Knight is the final boss of which DLC expansion?",
+						"wrong": [
+							"Crown of the Sunken King",
+							"Crown of the Ivory King",
+							"Artorias of the Abyss"
+						]
+					},
+					{
+						"correct": "A straight sword and an ultra greatsword",
+						"difficulty": "Easy",
+						"explanation": "He uses a smaller sword for fast attacks and a massive 'Fume Ultra Greatsword' for heavy hits.",
+						"image_url": "https://skillcheckgame.com/assets/images/fume_knight.webp",
+						"question": "The Fume Knight dual-wields two different types of weapons. What are they?",
+						"wrong": [
+							"Two shields",
+							"A bow and an arrow",
+							"A staff and a wand"
+						]
+					},
+					{
+						"correct": "Black and Orange",
+						"difficulty": "Easy",
+						"explanation": "His greatsword becomes imbued with dark flame during his power-up.",
+						"image_url": "https://skillcheckgame.com/assets/images/fume_knight.webp",
+						"question": "What color is the flame that erupts from his sword in the second phase of the fight?",
+						"wrong": [
+							"Bright Blue",
+							"Toxic Green",
+							"Pure White"
+						]
+					},
+					{
+						"correct": "One of the hardest bosses in the series",
+						"difficulty": "Easy",
+						"explanation": "Stats released by FromSoftware once revealed he had the highest win rate against players.",
+						"image_url": "",
+						"question": "What is the common reputation of the Fume Knight among the player community?",
+						"wrong": [
+							"A very easy tutorial boss",
+							"A boss that gives up",
+							"A boss that is actually a puzzle"
+						]
+					},
+					{
+						"correct": "Raime",
+						"difficulty": "Easy",
+						"explanation": "Raime was one of King Vendrick's two most trusted left-and-right hand men.",
+						"image_url": "",
+						"question": "Before he was the Fume Knight, what was his name as a knight of Drangleic?",
+						"wrong": [
+							"Velstadt",
+							"Alonne",
+							"Solaire"
+						]
+					},
+					{
+						"correct": "Velstadt's Helm",
+						"difficulty": "Medium",
+						"explanation": "Because of his grudge against Velstadt, seeing the helm enrages him instantly.",
+						"image_url": "",
+						"question": "Which specific item, if worn by the player, causes the Fume Knight to enter his second phase immediately?",
+						"wrong": [
+							"Emerald Herald's Hood",
+							"The King's Crown",
+							"Havel's Greatshield"
+						]
+					},
+					{
+						"correct": "Ashen Idols",
+						"difficulty": "Medium",
+						"explanation": "The Smelter Wedges are used to destroy Ashen Idols that heal him if he stands nearby.",
+						"image_url": "",
+						"question": "What objects must the player destroy around his arena to prevent him from healing?",
+						"wrong": [
+							"Crystals",
+							"Torches",
+							"Statues of the Queen"
+						]
+					},
+					{
+						"correct": "Fire and Dark",
+						"difficulty": "Medium",
+						"explanation": "His large sword deals both physical and a combination of fire/dark damage.",
+						"image_url": "",
+						"question": "What element is the Fume Knight's secondary weapon imbued with?",
+						"wrong": [
+							"Lightning",
+							"Poison",
+							"Magic"
+						]
+					},
+					{
+						"correct": "In search of greater power",
+						"difficulty": "Medium",
+						"explanation": "He sought the power of the Old Iron King's bride, Nadalia.",
+						"image_url": "",
+						"question": "Why did Raime travel to Brume Tower after his exile?",
+						"wrong": [
+							"To go on vacation",
+							"To build a new castle",
+							"To hide from the sun"
+						]
+					},
+					{
+						"correct": "Velstadt, the Royal Aegis",
+						"difficulty": "Medium",
+						"explanation": "Their duel resulted in Raime's defeat and subsequent exile.",
+						"image_url": "",
+						"question": "Who was Raime's rival that defeated him in Drangleic?",
+						"wrong": [
+							"The Pursuer",
+							"Looking Glass Knight",
+							"Nashandra"
+						]
+					},
+					{
+						"correct": "Nadalia, Bride of Ash",
+						"difficulty": "Hard",
+						"explanation": "He became the champion of Nadalia, who had split her soul into several fragments.",
+						"image_url": "",
+						"question": "The Fume Knight is protecting whose 'soul fragments' in Brume Tower?",
+						"wrong": [
+							"Nashandra",
+							"Elana",
+							"The Emerald Herald"
+						]
+					},
+					{
+						"correct": "Soul of the Fume Knight",
+						"difficulty": "Hard",
+						"explanation": "Boss weapons in Dark Souls 2 are transposed from the bosses' unique souls.",
+						"image_url": "",
+						"question": "What is the name of the special material used to create his weapons at a blacksmith?",
+						"wrong": [
+							"Iron Ore",
+							"Dragon Bone",
+							"Titanite Slab"
+						]
+					},
+					{
+						"correct": "A block frames during the swing",
+						"difficulty": "Hard",
+						"explanation": "The heavy attack has a 'block' property, allowing the player to take less damage while attacking.",
+						"image_url": "",
+						"question": "What unique 'buff' does his Fume Ultra Greatsword have when the player uses its special attack?",
+						"wrong": [
+							"Invisibility",
+							"Health regeneration",
+							"Infinite stamina"
+						]
+					},
+					{
+						"correct": "He discarded it for offensive power",
+						"difficulty": "Hard",
+						"explanation": "Lore states he cast aside his shield to focus on the overwhelming strength of his dual blades.",
+						"image_url": "",
+						"question": "Unlike many knights, Raime's shield is nowhere to be found. Why?",
+						"wrong": [
+							"It was stolen by Patches",
+							"It broke in the rain",
+							"He never had one"
+						]
+					},
+					{
+						"correct": "Strength",
+						"difficulty": "Hard",
+						"explanation": "It requires a massive 40 Strength to even hold it properly with two hands.",
+						"image_url": "",
+						"question": "Which stat is primarily required to wield the Fume Ultra Greatsword?",
+						"wrong": [
+							"Intelligence",
+							"Faith",
+							"Dexterity"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_fume_knight",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Fume Knight",
+				"lore_desc": "Formerly known as Raime, this powerful warrior was exiled from Drangleic and found a new purpose in the Brume Tower.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Fume Knight",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Knight",
+					"DLC"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Heavy Rain",
+						"difficulty": "Easy",
+						"explanation": "The approach to the castle is famous for its dark, rainy atmosphere.",
+						"image_url": "https://skillcheckgame.com/assets/images/drangleic_castle.webp",
+						"question": "What is the constant weather condition outside Drangleic Castle?",
+						"wrong": [
+							"Blizzard",
+							"Sandstorm",
+							"Bright Sunlight"
+						]
+					},
+					{
+						"correct": "Golems",
+						"difficulty": "Easy",
+						"explanation": "The castle is full of stone Golems that activate when an enemy is killed near them.",
+						"image_url": "https://skillcheckgame.com/assets/images/drangleic_castle.webp",
+						"question": "What creatures serve as the 'statues' that open the castle gates when fed souls?",
+						"wrong": [
+							"Dragons",
+							"Gargoyles",
+							"Humans"
+						]
+					},
+					{
+						"correct": "Nashandra",
+						"difficulty": "Easy",
+						"explanation": "The final battle takes place in the Throne of Want, beneath the castle.",
+						"image_url": "https://skillcheckgame.com/assets/images/drangleic_castle.webp",
+						"question": "Who is the primary 'final' boss found at the very end of Drangleic Castle's depths?",
+						"wrong": [
+							"The Last Giant",
+							"The Pursuer",
+							"Old Dragonslayer"
+						]
+					},
+					{
+						"correct": "Black/Dark Grey",
+						"difficulty": "Easy",
+						"explanation": "The castle has a dark, imposing gothic aesthetic.",
+						"image_url": "",
+						"question": "What color is the primary stone used in the architecture of Drangleic Castle?",
+						"wrong": [
+							"White Marble",
+							"Bright Gold",
+							"Red Brick"
+						]
+					},
+					{
+						"correct": "Royal Swordsman",
+						"difficulty": "Easy",
+						"explanation": "The Royal Swordsmen and Syan Knights make up the bulk of the castle's defense.",
+						"image_url": "",
+						"question": "Which of these is a common 'rank and file' enemy found guarding the castle?",
+						"wrong": [
+							"Stormtrooper",
+							"Orc",
+							"Space Marine"
+						]
+					},
+					{
+						"correct": "Chancellor Wellager",
+						"difficulty": "Medium",
+						"explanation": "Wellager is the ghostly chancellor who remains loyal to his king even after death.",
+						"image_url": "",
+						"question": "Who is the ghost NPC found at the entrance who tells you about the King?",
+						"wrong": [
+							"Saulden",
+							"Straid",
+							"Navlaan"
+						]
+					},
+					{
+						"correct": "Sitting on a high throne",
+						"difficulty": "Medium",
+						"explanation": "She appears as a giant human woman sitting on a distant throne, speaking to you from afar.",
+						"image_url": "",
+						"question": "Where is Queen Nashandra located when you first meet her in the castle?",
+						"wrong": [
+							"In the kitchen",
+							"In a dungeon cell",
+							"Standing on the roof"
+						]
+					},
+					{
+						"correct": "Looking Glass Knight",
+						"difficulty": "Medium",
+						"explanation": "He guards the path leading to the Shrine of Amana.",
+						"image_url": "",
+						"question": "What boss waits for you at the top of the castle near the King's Passage?",
+						"wrong": [
+							"Smelter Demon",
+							"The Rotten",
+							"Executioner's Chariot"
+						]
+					},
+					{
+						"correct": "King's Ring",
+						"difficulty": "Medium",
+						"explanation": "The King's Ring is found in the Undead Crypt and is required to access the final areas.",
+						"image_url": "",
+						"question": "What item must you possess to open the 'King's Door' within the castle?",
+						"wrong": [
+							"Key to the Castle",
+							"Drangleic Sword",
+							"Soul of the King"
+						]
+					},
+					{
+						"correct": "The Milfanito",
+						"difficulty": "Medium",
+						"explanation": "One of the singing Milfanito sisters is locked in a high cage in the castle.",
+						"image_url": "",
+						"question": "There is a 'prisoner' found in a cage at the top of the castle. Who is it?",
+						"wrong": [
+							"Lucatiel",
+							"The Herald",
+							"Ornifex"
+						]
+					},
+					{
+						"correct": "Throne Defender and Throne Watcher",
+						"difficulty": "Hard",
+						"explanation": "They guard the Throne of Want and can revive each other if one isn't killed quickly enough.",
+						"image_url": "",
+						"question": "Which boss pair must you defeat simultaneously in the Throne of Want?",
+						"wrong": [
+							"Twin Princes",
+							"Ornstein and Smough",
+							"The Ruin Sentinels"
+						]
+					},
+					{
+						"correct": "The lift to the Central Castle Drangleic bonfire",
+						"difficulty": "Hard",
+						"explanation": "A Golem-powered lift leads to the imprisoned Milfanito and the Key to the Embedded.",
+						"image_url": "",
+						"question": "What is the name of the lift that takes you to the highest point of the castle?",
+						"wrong": [
+							"The Sky Elevator",
+							"The Golem Lift",
+							"The Dragon Flight"
+						]
+					},
+					{
+						"correct": "Ruin Sentinels",
+						"difficulty": "Hard",
+						"explanation": "In the room with many doors, several Ruin Sentinels wait behind stone panels.",
+						"image_url": "",
+						"question": "Which of these enemies is hidden behind many of the castle's stone walls?",
+						"wrong": [
+							"Bonfire Ascetics",
+							"Mimics",
+							"Dragons"
+						]
+					},
+					{
+						"correct": "Hunter's Blackbow",
+						"difficulty": "Hard",
+						"explanation": "The Hunter's Blackbow is a high-dexterity weapon found in a hidden area of the castle.",
+						"image_url": "",
+						"question": "What weapon can be found behind a hidden wall near the first bonfire of the castle?",
+						"wrong": [
+							"Moonlight Greatsword",
+							"Zweihander",
+							"Washing Pole"
+						]
+					},
+					{
+						"correct": "Dark Chasm of Old",
+						"difficulty": "Hard",
+						"explanation": "Darkdiver Grandahl can be found here to grant access to the Pilgrims of Dark covenant.",
+						"image_url": "",
+						"question": "The castle's basement contains a portal to which secret covenant area?",
+						"wrong": [
+							"Abyss",
+							"The Painted World",
+							"Nightmare Realm"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_drangleic_castle",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Drangleic Castle",
+				"lore_desc": "The majestic but rain-soaked capital of the kingdom, built by King Vendrick using the power of Golems.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Drangleic Castle",
+			"profiler": {
+				"vibe_tags": [
+					"Castle",
+					"Dungeon",
+					"Capital"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "It can summon other enemies",
+						"difficulty": "Easy",
+						"explanation": "He can summon an NPC (or another player) from the mirrored surface of his shield.",
+						"image_url": "https://skillcheckgame.com/assets/images/looking_glass_knight.webp",
+						"question": "What is the most unique feature of the Looking Glass Knight's shield?",
+						"wrong": [
+							"It is invisible",
+							"It is made of wood",
+							"It shoots lasers"
+						]
+					},
+					{
+						"correct": "Lightning",
+						"difficulty": "Easy",
+						"explanation": "He raises his sword to the sky during the storm to imbue it with lightning damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/looking_glass_knight.webp",
+						"question": "What weather element does the Looking Glass Knight use to charge his sword?",
+						"wrong": [
+							"Fire",
+							"Ice",
+							"Poison"
+						]
+					},
+					{
+						"correct": "King's Passage",
+						"difficulty": "Easy",
+						"explanation": "He guards the King's Passage, the final hallway of Drangleic Castle.",
+						"image_url": "https://skillcheckgame.com/assets/images/looking_glass_knight.webp",
+						"question": "The Looking Glass Knight is found in which section of the castle?",
+						"wrong": [
+							"The Kitchen",
+							"The Dungeon",
+							"The Stables"
+						]
+					},
+					{
+						"correct": "Polished silver plate armor",
+						"difficulty": "Easy",
+						"explanation": "He has a very distinct, shiny silver aesthetic that fits his mirror theme.",
+						"image_url": "",
+						"question": "What kind of armor does the Looking Glass Knight wear?",
+						"wrong": [
+							"Leather rags",
+							"Wizard robes",
+							"Nothing"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "He summons one phantom at a time to assist him in the fight.",
+						"image_url": "",
+						"question": "How many players can he summon from his shield at once?",
+						"wrong": [
+							"Fifty",
+							"Ten",
+							"Zero"
+						]
+					},
+					{
+						"correct": "Mirror Knight",
+						"difficulty": "Medium",
+						"explanation": "He is often referred to by fans by his simpler development name, Mirror Knight.",
+						"image_url": "",
+						"question": "What is the Looking Glass Knight's original name in the Japanese version and design documents?",
+						"wrong": [
+							"Glass Warrior",
+							"Silver Defender",
+							"Reflecting Paladin"
+						]
+					},
+					{
+						"correct": "Real players can be summoned to fight for the boss",
+						"difficulty": "Medium",
+						"explanation": "If a player places a red sign in the King's Passage, they may be summoned into the boss's shield.",
+						"image_url": "",
+						"question": "Which of these is a mechanic that can occur during the Looking Glass Knight fight?",
+						"wrong": [
+							"The arena floods with water",
+							"The boss turns into a dragon",
+							"The player's weapons break instantly"
+						]
+					},
+					{
+						"correct": "A face with several masks",
+						"difficulty": "Medium",
+						"explanation": "His helmet has a distinct 'multi-faced' design, common in Drangleic architecture.",
+						"image_url": "",
+						"question": "What shape is the Looking Glass Knight's helmet?",
+						"wrong": [
+							"A bird",
+							"A simple bucket",
+							"A dragon head"
+						]
+					},
+					{
+						"correct": "Your attacks will bounce off with no damage",
+						"difficulty": "Medium",
+						"explanation": "His shield provides near-total protection from the front when raised.",
+						"image_url": "",
+						"question": "What happens if you stand too close to the front of his shield while he isn't attacking?",
+						"wrong": [
+							"He will give you a soul",
+							"You will be teleported",
+							"You will be healed"
+						]
+					},
+					{
+						"correct": "Thorned Greatsword",
+						"difficulty": "Medium",
+						"explanation": "The Thorned Greatsword allows players to shoot lightning bolts just like the boss.",
+						"image_url": "",
+						"question": "What is the name of the sword he drops (transposed from his soul)?",
+						"wrong": [
+							"Mirror Blade",
+							"Storm Ruler",
+							"Lightning Tooth"
+						]
+					},
+					{
+						"correct": "No specific covenant, just the Red Sign Soapstone",
+						"difficulty": "Hard",
+						"explanation": "Any player using the Red Sign Soapstone in the area can be pulled into the fight.",
+						"image_url": "",
+						"question": "Which of these covenants is loosely associated with the mirror-summoning mechanic?",
+						"wrong": [
+							"Blue Sentinels",
+							"Heirs to the Sun",
+							"Rat King Covenant"
+						]
+					},
+					{
+						"correct": "To eliminate those not strong enough to serve the King",
+						"difficulty": "Hard",
+						"explanation": "He acts as a final test for those seeking the King's deeper secrets.",
+						"image_url": "",
+						"question": "According to lore, what is the purpose of the Looking Glass Knight's trial?",
+						"wrong": [
+							"To find a new chef",
+							"To entertain the Queen",
+							"To guard a library"
+						]
+					},
+					{
+						"correct": "They spread out in a fan pattern",
+						"difficulty": "Hard",
+						"explanation": "One of his most dangerous attacks is a wide-range lightning arc.",
+						"image_url": "",
+						"question": "What is unique about the lightning bolts the boss shoots from his sword?",
+						"wrong": [
+							"They follow you forever",
+							"They heal the player",
+							"They are green"
+						]
+					},
+					{
+						"correct": "A special glass that reflects the soul",
+						"difficulty": "Hard",
+						"explanation": "The 'Mirror Shield' is said to reflect the true nature of those who gaze into it.",
+						"image_url": "",
+						"question": "What material is his shield actually made of, according to its description?",
+						"wrong": [
+							"Iron",
+							"Wood",
+							"Frozen water"
+						]
+					},
+					{
+						"correct": "It doesn't move; it leads to a different lift",
+						"difficulty": "Hard",
+						"explanation": "The battle takes place on a stationary rooftop platform; a separate lift afterwards takes you to Amana.",
+						"image_url": "",
+						"question": "The boss arena is a massive elevator. Where does it end up?",
+						"wrong": [
+							"The bottom of the ocean",
+							"The top of the castle",
+							"The Gutter"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_looking_glass_knight",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Looking Glass Knight",
+				"lore_desc": "A mirror-shield wielding knight who stands on a rain-slicked platform, testing those who wish to reach the Shrine of Amana.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Looking Glass Knight",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Knight",
+					"Summon"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A fragment of Manus",
+						"difficulty": "Easy",
+						"explanation": "She is a shard of the Father of the Abyss, representing his 'want'.",
+						"image_url": "https://skillcheckgame.com/assets/images/nashandra.webp",
+						"question": "What is Nashandra's true identity in the world of Dark Souls?",
+						"wrong": [
+							"A goddess",
+							"A dragon",
+							"A normal human"
+						]
+					},
+					{
+						"correct": "Curse",
+						"difficulty": "Easy",
+						"explanation": "She summons 'Curse Orbs' that drain the player's maximum health over time.",
+						"image_url": "https://skillcheckgame.com/assets/images/nashandra.webp",
+						"question": "What status effect does Nashandra constantly emit during her boss fight?",
+						"wrong": [
+							"Poison",
+							"Bleed",
+							"Petrification"
+						]
+					},
+					{
+						"correct": "King Vendrick",
+						"difficulty": "Easy",
+						"explanation": "She manipulated King Vendrick into invading the Giants to further her own goals.",
+						"image_url": "https://skillcheckgame.com/assets/images/nashandra.webp",
+						"question": "Who was Nashandra's husband, the ruler of Drangleic?",
+						"wrong": [
+							"Lord Gwyn",
+							"Old Iron King",
+							"Ivory King"
+						]
+					},
+					{
+						"correct": "To claim the First Flame",
+						"difficulty": "Easy",
+						"explanation": "She wants the power of the Throne of Want to usher in an age of Dark.",
+						"image_url": "",
+						"question": "What is the final goal Nashandra is trying to achieve?",
+						"wrong": [
+							"To go home",
+							"To save the dragons",
+							"To build a hospital"
+						]
+					},
+					{
+						"correct": "A beautiful human queen",
+						"difficulty": "Easy",
+						"explanation": "She maintains a human disguise until the very end of the game.",
+						"image_url": "",
+						"question": "In what form does Nashandra first appear to the player?",
+						"wrong": [
+							"A skeletal monster",
+							"A talking cat",
+							"A giant raven"
+						]
+					},
+					{
+						"correct": "The Emerald Herald",
+						"difficulty": "Medium",
+						"explanation": "Her sisters appear as the primary antagonists/figures in the three DLC packs.",
+						"image_url": "",
+						"question": "Which of these is NOT one of Nashandra's 'sisters' (other fragments of Manus)?",
+						"wrong": [
+							"Elana",
+							"Nadalia",
+							"Alsanna"
+						]
+					},
+					{
+						"correct": "A giant scythe",
+						"difficulty": "Medium",
+						"explanation": "She fights with a massive, dark-imbued scythe.",
+						"image_url": "",
+						"question": "What weapon does Nashandra wield in her monstrous form?",
+						"wrong": [
+							"A whip",
+							"A catalyst",
+							"A pair of daggers"
+						]
+					},
+					{
+						"correct": "The Throne of Want",
+						"difficulty": "Medium",
+						"explanation": "The arena is the kiln-like area beneath Drangleic Castle.",
+						"image_url": "",
+						"question": "Where does the final showdown with Nashandra take place?",
+						"wrong": [
+							"Undead Crypt",
+							"Dragon Shrine",
+							"Majula"
+						]
+					},
+					{
+						"correct": "The threat of the Giants",
+						"difficulty": "Medium",
+						"explanation": "She convinced him that the Giants across the sea were a threat that needed to be struck first.",
+						"image_url": "",
+						"question": "What was the 'warning' Nashandra brought to Vendrick when she first arrived?",
+						"wrong": [
+							"A coming storm",
+							"A plague of rats",
+							"A dragon invasion"
+						]
+					},
+					{
+						"correct": "Bow of Want",
+						"difficulty": "Medium",
+						"explanation": "The Bow of Want has a special lightning-imbued heavy attack.",
+						"image_url": "",
+						"question": "What is the name of the bow transposed from Nashandra's soul?",
+						"wrong": [
+							"Darkbow",
+							"Abyssal String",
+							"Nashandra's Reach"
+						]
+					},
+					{
+						"correct": "Want",
+						"difficulty": "Hard",
+						"explanation": "As the smallest fragment, she was defined by an insatiable 'want' for power.",
+						"image_url": "",
+						"question": "Which 'desire' or 'emotion' of Manus does Nashandra specifically represent?",
+						"wrong": [
+							"Wrath",
+							"Loneliness",
+							"Fear"
+						]
+					},
+					{
+						"correct": "Aldia, Scholar of the First Sin",
+						"difficulty": "Hard",
+						"explanation": "If certain conditions are met, Aldia challenges the player immediately after Nashandra dies.",
+						"image_url": "",
+						"question": "In the Scholar of the First Sin edition, who can be a secret final boss after Nashandra?",
+						"wrong": [
+							"The Emerald Herald",
+							"Vendrick",
+							"The Pursuer"
+						]
+					},
+					{
+						"correct": "A perfect image of beauty to manipulate Vendrick",
+						"difficulty": "Hard",
+						"explanation": "She took a form that Vendrick would find irresistible to gain his trust.",
+						"image_url": "",
+						"question": "Nashandra's human appearance is said to be based on what?",
+						"wrong": [
+							"The Emerald Herald",
+							"Her mother",
+							"A portrait she found"
+						]
+					},
+					{
+						"correct": "She lacks the King's Ring and the Giant's Kinship",
+						"difficulty": "Hard",
+						"explanation": "She needs the player to collect the necessary items to open the way for her.",
+						"image_url": "",
+						"question": "Why can't Nashandra enter the Throne of Want herself?",
+						"wrong": [
+							"She is too tall",
+							"She is afraid of the dark",
+							"The door is jammed"
+						]
+					},
+					{
+						"correct": "It can be blocked, but it deals massive dark damage",
+						"difficulty": "Hard",
+						"explanation": "The beam is a signature move that can easily catch players off guard if they stay at range.",
+						"image_url": "",
+						"question": "What is unique about Nashandra's beam attack?",
+						"wrong": [
+							"It heals the player",
+							"It breaks the floor",
+							"It turns you into a pig"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_nashandra",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Nashandra",
+				"lore_desc": "The Queen of Drangleic and the smallest fragment of Manus, the Father of the Abyss, who covets the First Flame.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Nashandra",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Villain",
+					"Queen"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Light Blue/Green",
+						"difficulty": "Easy",
+						"explanation": "The sword is famous for its glowing, translucent blue-green hue.",
+						"image_url": "https://skillcheckgame.com/assets/images/moonlight_greatsword.webp",
+						"question": "What is the primary color of the Moonlight Greatsword's blade?",
+						"wrong": [
+							"Deep Red",
+							"Golden Yellow",
+							"Pitch Black"
+						]
+					},
+					{
+						"correct": "Beams of magic light",
+						"difficulty": "Easy",
+						"explanation": "Its heavy attack releases a wave of moonlight energy at the cost of durability.",
+						"image_url": "https://skillcheckgame.com/assets/images/moonlight_greatsword.webp",
+						"question": "What unique projectile can the Moonlight Greatsword fire?",
+						"wrong": [
+							"Fireballs",
+							"Arrows",
+							"Boulders"
+						]
+					},
+					{
+						"correct": "Intelligence",
+						"difficulty": "Easy",
+						"explanation": "It is the ultimate weapon for Sorcery-based builds.",
+						"image_url": "https://skillcheckgame.com/assets/images/moonlight_greatsword.webp",
+						"question": "The Moonlight Greatsword scales its damage primarily with which attribute?",
+						"wrong": [
+							"Strength",
+							"Faith",
+							"Dexterity"
+						]
+					},
+					{
+						"correct": "Benhart of Jugo",
+						"difficulty": "Easy",
+						"explanation": "Benhart carries the 'Bluemoon Greatsword,' which looks identical but lacks magic powers.",
+						"image_url": "",
+						"question": "Which recurring character in Dark Souls 2 wields a 'fake' version of this sword?",
+						"wrong": [
+							"Lucatiel",
+							"Pate",
+							"Creighton"
+						]
+					},
+					{
+						"correct": "Armored Core",
+						"difficulty": "Easy",
+						"explanation": "The Moonlight sword has appeared in nearly every FromSoftware game since King's Field.",
+						"image_url": "",
+						"question": "In which other game series by the same developer does this sword also appear?",
+						"wrong": [
+							"Halo",
+							"Final Fantasy",
+							"The Legend of Zelda"
+						]
+					},
+					{
+						"correct": "Old Paledrake Soul",
+						"difficulty": "Medium",
+						"explanation": "In NG+, Duke's Dear Freja drops this soul, which is a reference to Seath the Scaleless.",
+						"image_url": "",
+						"question": "Which boss soul is required to craft the true Moonlight Greatsword?",
+						"wrong": [
+							"Soul of the Rotten",
+							"Lost Sinner Soul",
+							"Dragonrider Soul"
+						]
+					},
+					{
+						"correct": "Complete his questline or kill him",
+						"difficulty": "Medium",
+						"explanation": "He will gift it to you if you summon him for three boss fights and he survives.",
+						"image_url": "",
+						"question": "How do you obtain the 'Bluemoon Greatsword' (the fake version) from Benhart?",
+						"wrong": [
+							"Find it in a chest",
+							"Buy it from Majula",
+							"Trade a soul for it"
+						]
+					},
+					{
+						"correct": "The real one can fire beams; the fake one cannot",
+						"difficulty": "Medium",
+						"explanation": "The 'fake' Bluemoon Greatsword is just a piece of enchanted glass with no magical beam.",
+						"image_url": "",
+						"question": "What is the main physical difference between the real and fake versions?",
+						"wrong": [
+							"The real one is red",
+							"The fake one is longer",
+							"The real one is made of wood"
+						]
+					},
+					{
+						"correct": "Weaponsmith Ornifex",
+						"difficulty": "Medium",
+						"explanation": "Ornifex, the crow-woman, handles the more advanced boss soul transpositions.",
+						"image_url": "",
+						"question": "In the base version of Dark Souls 2, who do you trade the boss soul to for the Moonlight Greatsword?",
+						"wrong": [
+							"Straid of Olaphis",
+							"Blacksmith Lenigrast",
+							"Maughlin"
+						]
+					},
+					{
+						"correct": "It decreases",
+						"difficulty": "Medium",
+						"explanation": "Each beam shot consumes 10 points of durability.",
+						"image_url": "",
+						"question": "What happens to the sword's durability when you use its special beam attack?",
+						"wrong": [
+							"It increases",
+							"Nothing",
+							"The sword breaks instantly"
+						]
+					},
+					{
+						"correct": "Seath the Scaleless",
+						"difficulty": "Hard",
+						"explanation": "Seath was the original owner of the Moonlight Greatsword in the first game.",
+						"image_url": "",
+						"question": "The 'Old Paledrake Soul' is a direct reference to which boss from Dark Souls 1?",
+						"wrong": [
+							"Gwyn",
+							"Artorias",
+							"Manus"
+						]
+					},
+					{
+						"correct": "Defeat Duke's Dear Freja in NG+ (or use a Bonfire Ascetic)",
+						"difficulty": "Hard",
+						"explanation": "The 'Great' souls of the DS1 era only drop in NG+ cycles in DS2.",
+						"image_url": "",
+						"question": "Which of these is a requirement to even see the 'Old Paledrake Soul' drop from the boss?",
+						"wrong": [
+							"Kill the boss with a bow",
+							"Level up to 200",
+							"Join the Sunbros"
+						]
+					},
+					{
+						"correct": "Pure Magic",
+						"difficulty": "Hard",
+						"explanation": "Uniquely in DS2, the real Moonlight Greatsword deals 100 percent magic damage.",
+						"image_url": "",
+						"question": "What is the damage type of the Moonlight Greatsword in Dark Souls 2?",
+						"wrong": [
+							"Pure Physical",
+							"Physical and Fire",
+							"Dark and Lightning"
+						]
+					},
+					{
+						"correct": "It is a family heirloom passed down for generations",
+						"difficulty": "Hard",
+						"explanation": "Benhart truly believes his sword is the legendary blade of lore.",
+						"image_url": "",
+						"question": "What is written in the description of Benhart's fake sword regarding its origin?",
+						"wrong": [
+							"He found it in the trash",
+							"He bought it from a traveling merchant",
+							"He made it himself"
+						]
+					},
+					{
+						"correct": "No, it was patched out",
+						"difficulty": "Hard",
+						"explanation": "An early patch removed the ability to buff the sword because it became too powerful.",
+						"image_url": "",
+						"question": "Can the Moonlight Greatsword be buffed with 'Crystal Magic Weapon' in the current version of the game?",
+						"wrong": [
+							"Yes, always",
+							"Only if you have 99 INT",
+							"Only in the DLC"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_moonlight_greatsword",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Moonlight Greatsword",
+				"lore_desc": "A legendary pale-blue blade that channels the power of the moon, appearing in various forms across many FromSoftware games.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Moonlight Greatsword",
+			"profiler": {
+				"vibe_tags": [
+					"Sword",
+					"Magic",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Gavlan wheel, Gavlan deal",
+						"difficulty": "Easy",
+						"explanation": "His rhythmic 'Wheel and Deal' line made him an instant fan favorite.",
+						"image_url": "https://skillcheckgame.com/assets/images/gavlan.webp",
+						"question": "What is Gavlan's famous three-word catchphrase?",
+						"wrong": [
+							"Gavlan sells, Gavlan tells",
+							"Gavlan drinks, Gavlan thinks",
+							"Gavlan buys, Gavlan lies"
+						]
+					},
+					{
+						"correct": "He can buy items from the player",
+						"difficulty": "Easy",
+						"explanation": "Gavlan is the only NPC who will give you souls in exchange for your unwanted gear.",
+						"image_url": "https://skillcheckgame.com/assets/images/gavlan.webp",
+						"question": "What is unique about Gavlan compared to every other merchant in the game?",
+						"wrong": [
+							"He sells only magic",
+							"He is invisible",
+							"He is a dragon"
+						]
+					},
+					{
+						"correct": "Drinking from a large mug",
+						"difficulty": "Easy",
+						"explanation": "He is always seen chugging a beverage, likely beer or ale.",
+						"image_url": "https://skillcheckgame.com/assets/images/gavlan.webp",
+						"question": "What is Gavlan constantly doing while he waits for the player?",
+						"wrong": [
+							"Sleeping",
+							"Sharpening a sword",
+							"Dancing"
+						]
+					},
+					{
+						"correct": "Gyrm",
+						"difficulty": "Easy",
+						"explanation": "The Gyrm are a stout, hardy race that was exiled underground.",
+						"image_url": "",
+						"question": "To which subterranean race does Gavlan belong?",
+						"wrong": [
+							"Giant",
+							"Human",
+							"Dwarf"
+						]
+					},
+					{
+						"correct": "Souls",
+						"difficulty": "Easy",
+						"explanation": "Souls are the universal currency of the Dark Souls world.",
+						"image_url": "",
+						"question": "What is the primary currency Gavlan gives you for your items?",
+						"wrong": [
+							"Gold",
+							"Gems",
+							"Bottle caps"
+						]
+					},
+					{
+						"correct": "No-man's Wharf",
+						"difficulty": "Medium",
+						"explanation": "He is found in a small house filled with poison jars in the Wharf.",
+						"image_url": "",
+						"question": "Where is the first location you can encounter Gavlan?",
+						"wrong": [
+							"Forest of Fallen Giants",
+							"The Gutter",
+							"Iron Keep"
+						]
+					},
+					{
+						"correct": "Poison Moss",
+						"difficulty": "Medium",
+						"explanation": "He sells various poison-related items, fitting his initial location.",
+						"image_url": "",
+						"question": "What specific type of status-curing item is Gavlan known for selling?",
+						"wrong": [
+							"Bleed Serum",
+							"Curse Tablet",
+							"Fire Paper"
+						]
+					},
+					{
+						"correct": "Harvest Valley",
+						"difficulty": "Medium",
+						"explanation": "He can be found in a cave filled with poison gas in Harvest Valley.",
+						"image_url": "",
+						"question": "Where does Gavlan move to after you meet him in No-man's Wharf?",
+						"wrong": [
+							"Majula",
+							"Drangleic Castle",
+							"Lost Bastille"
+						]
+					},
+					{
+						"correct": "Doors of Pharros",
+						"difficulty": "Medium",
+						"explanation": "He settles down near the campfire in the Doors of Pharros, the home of the Gyrm.",
+						"image_url": "",
+						"question": "What is Gavlan's final permanent location?",
+						"wrong": [
+							"Majula",
+							"Shrine of Amana",
+							"Aldia's Keep"
+						]
+					},
+					{
+						"correct": "Gyrm Warrior Armor",
+						"difficulty": "Medium",
+						"explanation": "He wears the heavy, rugged gear characteristic of his people.",
+						"image_url": "",
+						"question": "What type of armor does Gavlan wear?",
+						"wrong": [
+							"Elite Knight Armor",
+							"Wizard Robes",
+							"Leather rags"
+						]
+					},
+					{
+						"correct": "Gyrm Greataxe",
+						"difficulty": "Hard",
+						"explanation": "He drops his signature heavy greataxe, though killing him is generally a bad idea.",
+						"image_url": "",
+						"question": "If you kill Gavlan, what item does he drop?",
+						"wrong": [
+							"Moonlight Greatsword",
+							"A mug of beer",
+							"1 million souls"
+						]
+					},
+					{
+						"correct": "The act of trading",
+						"difficulty": "Hard",
+						"explanation": "It is an old-fashioned idiom for trading (wheeling and dealing).",
+						"image_url": "",
+						"question": "What is the name of the 'Wheel' Gavlan refers to in lore terms?",
+						"wrong": [
+							"A literal giant wheel",
+							"The cycle of the world",
+							"His favorite shield"
+						]
+					},
+					{
+						"correct": "Key items",
+						"difficulty": "Hard",
+						"explanation": "Like most games, essential story items cannot be sold or discarded.",
+						"image_url": "",
+						"question": "Which of these items can you NOT sell to Gavlan?",
+						"wrong": [
+							"Broken swords",
+							"Boss souls",
+							"Common armor"
+						]
+					},
+					{
+						"correct": "As many as you have in your inventory",
+						"difficulty": "Hard",
+						"explanation": "Gavlan has no limit on how much 'dealing' he is willing to do.",
+						"image_url": "",
+						"question": "How many items can you sell to Gavlan at once?",
+						"wrong": [
+							"Only 10",
+							"Only 1",
+							"Only 5"
+						]
+					},
+					{
+						"correct": "No, they stayed the same",
+						"difficulty": "Hard",
+						"explanation": "While many enemies moved in the updated edition, Gavlan's journey remained identical.",
+						"image_url": "",
+						"question": "In the 'Scholar of the First Sin' edition, did Gavlan's locations change?",
+						"wrong": [
+							"Yes, he is only in Majula",
+							"Yes, he was removed",
+							"Yes, he is now a boss"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_gavlan",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Gavlan",
+				"lore_desc": "A member of the Gyrm race who loves to drink and is the only merchant in Drangleic who will buy items from the player.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Gavlan",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Merchant",
+					"Meme"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Japanese Samurai",
+						"difficulty": "Easy",
+						"explanation": "He is a rare example of a 'Samurai' character in the Dark Souls universe.",
+						"image_url": "https://skillcheckgame.com/assets/images/sir_alonne.webp",
+						"question": "What is the cultural inspiration for Sir Alonne's armor and fighting style?",
+						"wrong": [
+							"European Knight",
+							"Egyptian Pharaoh",
+							"Viking Warrior"
+						]
+					},
+					{
+						"correct": "A Katana",
+						"difficulty": "Easy",
+						"explanation": "He wields the 'Alonne Nichirin,' a long-reaching katana.",
+						"image_url": "https://skillcheckgame.com/assets/images/sir_alonne.webp",
+						"question": "What type of weapon does Sir Alonne use?",
+						"wrong": [
+							"A Spear",
+							"An Axe",
+							"A Mace"
+						]
+					},
+					{
+						"correct": "Being incredibly shiny and reflective",
+						"difficulty": "Easy",
+						"explanation": "The polished floor of his memory chamber is a visual highlight of the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/sir_alonne.webp",
+						"question": "What is the floor of Sir Alonne's boss arena famous for?",
+						"wrong": [
+							"Being covered in lava",
+							"Being made of grass",
+							"Being invisible"
+						]
+					},
+					{
+						"correct": "Crown of the Old Iron King",
+						"difficulty": "Easy",
+						"explanation": "His fight is a secret encounter within the Brume Tower DLC.",
+						"image_url": "",
+						"question": "To fight Sir Alonne, you must enter a 'Memory' found in which DLC?",
+						"wrong": [
+							"Crown of the Ivory King",
+							"Crown of the Sunken King",
+							"Artorias of the Abyss"
+						]
+					},
+					{
+						"correct": "He performs a unique ritual suicide (Seppuku)",
+						"difficulty": "Easy",
+						"explanation": "If you play perfectly, he acknowledges his shame by committing ritual suicide.",
+						"image_url": "",
+						"question": "What is the reward for defeating Sir Alonne without taking any damage?",
+						"wrong": [
+							"He gives you a million souls",
+							"The game crashes",
+							"He becomes your friend"
+						]
+					},
+					{
+						"correct": "He was the King's most trusted captain",
+						"difficulty": "Medium",
+						"explanation": "Alonne trained the King's men and helped him rise to power before leaving mysteriously.",
+						"image_url": "",
+						"question": "What was Sir Alonne's relationship with the Old Iron King?",
+						"wrong": [
+							"He was the King's son",
+							"He was the King's prisoner",
+							"He was the King's chef"
+						]
+					},
+					{
+						"correct": "Ashen Mist Heart",
+						"difficulty": "Medium",
+						"explanation": "The Ashen Mist Heart is always the key to entering memories of the past.",
+						"image_url": "",
+						"question": "What item is required to enter the 'Memory of the Old Iron King' to fight him?",
+						"wrong": [
+							"Soul of a Giant",
+							"King's Ring",
+							"Smelter Wedge"
+						]
+					},
+					{
+						"correct": "His sword becomes buffed with dark energy",
+						"difficulty": "Medium",
+						"explanation": "If he successfully impales the player, he absorbs their essence to power up.",
+						"image_url": "",
+						"question": "What happens when Sir Alonne stabs you with his 'grab' attack?",
+						"wrong": [
+							"You get healed",
+							"He loses health",
+							"You get teleported out"
+						]
+					},
+					{
+						"correct": "Alonne Knights",
+						"difficulty": "Medium",
+						"explanation": "The Alonne Knights wear armor modeled after their legendary captain.",
+						"image_url": "",
+						"question": "What is the name of the knights that guard the Iron Keep, named after him?",
+						"wrong": [
+							"Iron Sentinels",
+							"Katana Warriors",
+							"Eastern Guards"
+						]
+					},
+					{
+						"correct": "He saw the King becoming corrupt",
+						"difficulty": "Medium",
+						"explanation": "As the King grew depraved, Alonne chose to depart, seeking a new path.",
+						"image_url": "",
+						"question": "Why did Sir Alonne eventually leave the Old Iron King?",
+						"wrong": [
+							"He wanted to go home",
+							"He died of old age",
+							"He got lost"
+						]
+					},
+					{
+						"correct": "Bewitched Alonne Sword",
+						"difficulty": "Hard",
+						"explanation": "The Bewitched Alonne Sword allows the player to perform the same Seppuku buff as the boss.",
+						"image_url": "",
+						"question": "Which specific katana can the player obtain using his soul?",
+						"wrong": [
+							"Uchigatana",
+							"Washing Pole",
+							"Chaos Blade"
+						]
+					},
+					{
+						"correct": "The fastest in the game",
+						"difficulty": "Hard",
+						"explanation": "He is famous for his 'skating' movement and extremely high speed.",
+						"image_url": "",
+						"question": "What is Sir Alonne's speed and mobility often compared to by players?",
+						"wrong": [
+							"Very slow and tanky",
+							"Average",
+							"He doesn't move"
+						]
+					},
+					{
+						"correct": "Rows of empty armor",
+						"difficulty": "Hard",
+						"explanation": "The room is filled with Alonne Knight armor sets, standing as silent witnesses.",
+						"image_url": "",
+						"question": "In his boss arena, what are the objects lined up against the walls?",
+						"wrong": [
+							"Piles of gold",
+							"Crates of food",
+							"Bookshelves"
+						]
+					},
+					{
+						"correct": "Defeating the Fume Knight",
+						"difficulty": "Hard",
+						"explanation": "You cannot interact with the armor that leads to his memory until Fume Knight is dead.",
+						"image_url": "",
+						"question": "Which of these is a requirement to access the Sir Alonne boss fight?",
+						"wrong": [
+							"Defeating the Smelter Demon",
+							"Defeating Nashandra",
+							"Having 50 Dexterity"
+						]
+					},
+					{
+						"correct": "He left Drangleic long before the game begins",
+						"difficulty": "Hard",
+						"explanation": "Because Alonne left the King years ago, the only way to face him is to visit the time when he was still at the Keep.",
+						"image_url": "",
+						"question": "What is the lore reason for the fight taking place in a memory?",
+						"wrong": [
+							"He is a ghost",
+							"He is too shy to fight in person",
+							"He is actually the player's father"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_sir_alonne",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Sir Alonne",
+				"lore_desc": "A master swordsman from the East who served the Old Iron King and helped him establish his empire.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Sir Alonne",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Samurai",
+					"DLC"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Falling into deep pits",
+						"difficulty": "Easy",
+						"explanation": "The water obscures the floor, making it easy to walk off a ledge into an instant-death abyss.",
+						"image_url": "https://skillcheckgame.com/assets/images/shrine_of_amana.webp",
+						"question": "What is the primary danger when walking through the waters of Amana?",
+						"wrong": [
+							"Drowning from rain",
+							"Sharks",
+							"Lava"
+						]
+					},
+					{
+						"correct": "Women singing",
+						"difficulty": "Easy",
+						"explanation": "The Milfanito sisters sing to soothe the nearby 'Little Ones' and the Undead.",
+						"image_url": "https://skillcheckgame.com/assets/images/shrine_of_amana.webp",
+						"question": "What sound can be heard constantly throughout the Shrine of Amana?",
+						"wrong": [
+							"Drumming",
+							"Industrial machinery",
+							"Complete silence"
+						]
+					},
+					{
+						"correct": "Homing Soul Arrows",
+						"difficulty": "Easy",
+						"explanation": "The Amana Priestesses have legendary range and tracking with their soul arrows.",
+						"image_url": "https://skillcheckgame.com/assets/images/shrine_of_amana.webp",
+						"question": "What kind of long-range magic is notoriously used by the enemies here?",
+						"wrong": [
+							"Fireballs",
+							"Lightning Bolts",
+							"Poison Clouds"
+						]
+					},
+					{
+						"correct": "A Torch",
+						"difficulty": "Easy",
+						"explanation": "A torch helps you see the underwater ledges more clearly.",
+						"image_url": "",
+						"question": "Which of these items is most helpful for navigating the dark parts of Amana?",
+						"wrong": [
+							"A Heavy Shield",
+							"A Map",
+							"A Whistle"
+						]
+					},
+					{
+						"correct": "Demon of Song",
+						"difficulty": "Easy",
+						"explanation": "The Demon of Song is a giant frog-like creature with a human face inside its mouth.",
+						"image_url": "",
+						"question": "The boss of this area is a giant, grotesque creature. What is its name?",
+						"wrong": [
+							"The Rotten",
+							"Frog King",
+							"Water Demon"
+						]
+					},
+					{
+						"correct": "The Milfanito",
+						"difficulty": "Medium",
+						"explanation": "They were taught to sing by 'the Great Dead One' to bring peace to the dark.",
+						"image_url": "",
+						"question": "What is the name of the singing sisters who live in Amana?",
+						"wrong": [
+							"The Fire Keepers",
+							"The Maidens in Black",
+							"The Daughters of Chaos"
+						]
+					},
+					{
+						"correct": "Bright Blue",
+						"difficulty": "Medium",
+						"explanation": "The blue flora gives the area its beautiful, ethereal glow.",
+						"image_url": "",
+						"question": "What color are the glowing flowers found throughout the shrine?",
+						"wrong": [
+							"Red",
+							"Yellow",
+							"Purple"
+						]
+					},
+					{
+						"correct": "A Bow or Crossbow",
+						"difficulty": "Medium",
+						"explanation": "Sniping the priestesses from a distance is much safer than trying to reach them in the water.",
+						"image_url": "",
+						"question": "Which weapon type is considered 'essential' by many players to deal with priestesses?",
+						"wrong": [
+							"A Dagger",
+							"A Hammer",
+							"A Fist Weapon"
+						]
+					},
+					{
+						"correct": "The Altar of Amana",
+						"difficulty": "Medium",
+						"explanation": "The altar at the very end of the area can un-hollow the player if they are truly desperate.",
+						"image_url": "",
+						"question": "What hidden feature in Amana can restore your humanity if you have no Human Effigies left?",
+						"wrong": [
+							"A secret bonfire",
+							"The singing sisters",
+							"The boss soul"
+						]
+					},
+					{
+						"correct": "They become aggressive and attack",
+						"difficulty": "Medium",
+						"explanation": "The song keeps the 'Little Ones' (the lizardmen) in a docile state.",
+						"image_url": "",
+						"question": "What do the enemies in the water do when the singing stops?",
+						"wrong": [
+							"They die",
+							"They fall asleep",
+							"They start dancing"
+						]
+					},
+					{
+						"correct": "Nito",
+						"difficulty": "Hard",
+						"explanation": "It is a reference to Gravelord Nito from the first Dark Souls game.",
+						"image_url": "",
+						"question": "What is the name of the 'Great Dead One' mentioned by the Milfanito?",
+						"wrong": [
+							"Vendrick",
+							"Manus",
+							"Gwyn"
+						]
+					},
+					{
+						"correct": "Undead Crypt",
+						"difficulty": "Hard",
+						"explanation": "Amana serves as the final barrier before reaching the King's final resting place.",
+						"image_url": "",
+						"question": "Where does the elevator at the end of Amana lead?",
+						"wrong": [
+							"Majula",
+							"Drangleic Castle",
+							"Dragon Aerie"
+						]
+					},
+					{
+						"correct": "Manslayer (Katana)",
+						"difficulty": "Hard",
+						"explanation": "The door at the end of the area requires the player to be in an undead state to enter.",
+						"image_url": "",
+						"question": "What specific item can be found behind a door that only opens if the player is Hollow?",
+						"wrong": [
+							"Moonlight Greatsword",
+							"Soul of the King",
+							"Estus Shard"
+						]
+					},
+					{
+						"correct": "It is invincible while its 'skin' is closed",
+						"difficulty": "Hard",
+						"explanation": "The demon pulls a thick layer of skin over its face like a hood, making it immune to damage.",
+						"image_url": "",
+						"question": "What is unique about the 'Demon of Song's' defense?",
+						"wrong": [
+							"It has no defense",
+							"It heals from fire",
+							"It reflects magic"
+						]
+					},
+					{
+						"correct": "Felicia the Brave",
+						"difficulty": "Hard",
+						"explanation": "Felicia the Brave is a powerful tank NPC found earlier in the shrine.",
+						"image_url": "",
+						"question": "Which of these NPCs can be summoned to help with the Demon of Song?",
+						"wrong": [
+							"Lucatiel",
+							"Pate",
+							"Benhart"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_shrine_of_amana",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Shrine of Amana",
+				"lore_desc": "A beautiful but treacherous water-filled cavern inhabited by singing priestesses and hidden pitfalls.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Shrine of Amana",
+			"profiler": {
+				"vibe_tags": [
+					"Swamp",
+					"Cave",
+					"Water"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A Cat",
+						"difficulty": "Easy",
+						"explanation": "She is a talking cat found in a small shack in Majula.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_shalquoir.webp",
+						"question": "What kind of animal is Sweet Shalquoir?",
+						"wrong": [
+							"A Dog",
+							"A Bird",
+							"A Dragon"
+						]
+					},
+					{
+						"correct": "Selling rings and tracking covenants",
+						"difficulty": "Easy",
+						"explanation": "She sells useful rings and allows players to check their progress in various covenants.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_shalquoir.webp",
+						"question": "What is Shalquoir's main function for the player?",
+						"wrong": [
+							"Upgrading weapons",
+							"Leveling up",
+							"Teleporting the player"
+						]
+					},
+					{
+						"correct": "She is immortal and mocks you",
+						"difficulty": "Easy",
+						"explanation": "She cannot be killed and will simply laugh at your pathetic attempts.",
+						"image_url": "https://skillcheckgame.com/assets/images/sweet_shalquoir.webp",
+						"question": "What happens if you try to attack Shalquoir?",
+						"wrong": [
+							"She dies instantly",
+							"She turns into a boss",
+							"She runs away"
+						]
+					},
+					{
+						"correct": "Dark Souls 2",
+						"difficulty": "Easy",
+						"explanation": "She is a unique character specific to the second Dark Souls game.",
+						"image_url": "",
+						"question": "Which of these games was Sweet Shalquoir featured in?",
+						"wrong": [
+							"Bloodborne",
+							"Sekiro",
+							"Elden Ring"
+						]
+					},
+					{
+						"correct": "A nice, familiar scent (or a foul one)",
+						"difficulty": "Easy",
+						"explanation": "She often comments on the player's scent as they progress through the game.",
+						"image_url": "",
+						"question": "What does Shalquoir say the player 'smells' like?",
+						"wrong": [
+							"Flowers",
+							"Cooking",
+							"Nothing"
+						]
+					},
+					{
+						"correct": "Silvercat Ring",
+						"difficulty": "Medium",
+						"explanation": "The Silvercat Ring is essential for surviving the drop into the Majula Pit.",
+						"image_url": "",
+						"question": "Shalquoir sells a ring that reduces fall damage. What is its name?",
+						"wrong": [
+							"Havel's Ring",
+							"Feather Ring",
+							"Gravity Ring"
+						]
+					},
+					{
+						"correct": "The history of the Great Souls and bosses",
+						"difficulty": "Medium",
+						"explanation": "She provides cryptic lore about the four 'Old Ones' you must hunt.",
+						"image_url": "",
+						"question": "What does Shalquoir know a lot about, based on her dialogue?",
+						"wrong": [
+							"How to cook",
+							"How to fix swords",
+							"Where to find gold"
+						]
+					},
+					{
+						"correct": "King Vendrick",
+						"difficulty": "Medium",
+						"explanation": "She speaks quite dismissively of the former king of Drangleic.",
+						"image_url": "",
+						"question": "Who does Shalquoir refer to as the 'wrinkly old man'?",
+						"wrong": [
+							"The Blacksmith",
+							"The Crestfallen Warrior",
+							"The Pursuer"
+						]
+					},
+					{
+						"correct": "Name-engraved Ring",
+						"difficulty": "Medium",
+						"explanation": "The Name-engraved Ring makes it easier to connect with specific friends for multiplayer.",
+						"image_url": "",
+						"question": "What item does she sell that allows you to hear the 'voices' of other players?",
+						"wrong": [
+							"Ring of Whispers",
+							"Voice Ring",
+							"Link Ring"
+						]
+					},
+					{
+						"correct": "She gives you more lore as you defeat bosses",
+						"difficulty": "Medium",
+						"explanation": "Her dialogue updates significantly after you defeat major story bosses.",
+						"image_url": "",
+						"question": "What is unique about her reaction when you talk to her multiple times?",
+						"wrong": [
+							"She starts singing",
+							"She gives you free money",
+							"She falls asleep"
+						]
+					},
+					{
+						"correct": "She is ancient and has lived through many cycles",
+						"difficulty": "Hard",
+						"explanation": "She hints that she has seen kingdoms rise and fall many times before.",
+						"image_url": "",
+						"question": "According to Shalquoir, what is her 'true' age?",
+						"wrong": [
+							"She is 2 years old",
+							"She was born yesterday",
+							"She is exactly 100"
+						]
+					},
+					{
+						"correct": "The Old Iron King",
+						"difficulty": "Hard",
+						"explanation": "Her description refers to the Iron King's transformation into a lava-dwelling demon.",
+						"image_url": "",
+						"question": "Which boss does she describe as 'a petty thing' who 'tossed himself into the flames'?",
+						"wrong": [
+							"The Lost Sinner",
+							"The Rotten",
+							"Duke's Dear Freja"
+						]
+					},
+					{
+						"correct": "Ring of Whispers",
+						"difficulty": "Hard",
+						"explanation": "The Ring of Whispers allows you to hear the thoughts of enemies and NPCs like Manscorpion Tark.",
+						"image_url": "",
+						"question": "What specific ring does she sell that lets you talk to Scorpioness Najka?",
+						"wrong": [
+							"Ring of the Scorpion",
+							"Ring of Speech",
+							"Ring of the Cat"
+						]
+					},
+					{
+						"correct": "She thinks she is a 'distracted' and 'fragile' girl",
+						"difficulty": "Hard",
+						"explanation": "Shalquoir views most other characters with a sense of aloof superiority.",
+						"image_url": "",
+						"question": "What is her opinion of the 'Emerald Herald'?",
+						"wrong": [
+							"She thinks she is a goddess",
+							"She hates her",
+							"They are sisters"
+						]
+					},
+					{
+						"correct": "Flying Dragon Bones",
+						"difficulty": "Hard",
+						"explanation": "She actually sells the 'Redeye Ring', which draws enemy attention, for 6,700 souls. (Wait, let me correct the question/answer choice for accuracy). Correct answer: Redeye Ring.",
+						"image_url": "",
+						"question": "Which of these is a rare item she sells for 11,000 souls?",
+						"wrong": [
+							"Titanite Slabs",
+							"Human Effigies",
+							"Fragrant Branch of Yore"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_sweet_shalquoir",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Sweet Shalquoir",
+				"lore_desc": "A small, immortal cat living in Majula who speaks to the player and sells rings and items.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Sweet Shalquoir",
+			"profiler": {
+				"vibe_tags": [
+					"NPC",
+					"Animal",
+					"Majula"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Rips off his own arm to use as a weapon",
+						"difficulty": "Easy",
+						"explanation": "In a moment of pure desperation and rage, he tears off his left arm to increase his reach.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_last_giant.webp",
+						"question": "What does the Last Giant do to his own body during the boss fight when his health is low?",
+						"wrong": [
+							"Rips off his head",
+							"Grows wings",
+							"Explodes"
+						]
+					},
+					{
+						"correct": "Forest of Fallen Giants",
+						"difficulty": "Easy",
+						"explanation": "He is imprisoned deep beneath the ruins of the Forest.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_last_giant.webp",
+						"question": "The Last Giant is typically the first major boss found in which location?",
+						"wrong": [
+							"Iron Keep",
+							"Lost Bastille",
+							"Drangleic Castle"
+						]
+					},
+					{
+						"correct": "He recognizes the player from a past memory",
+						"difficulty": "Easy",
+						"explanation": "Due to time-traveling shenanigans, you are the person who defeated him in the past.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_last_giant.webp",
+						"question": "Why does the Last Giant become so aggressive when he sees the player?",
+						"wrong": [
+							"He is hungry",
+							"He hates humans",
+							"He is guarding treasure"
+						]
+					},
+					{
+						"correct": "Stomping and swinging his arms",
+						"difficulty": "Easy",
+						"explanation": "He uses his massive size to stomp the player or sweep them with his long arms.",
+						"image_url": "",
+						"question": "What is the primary way the Last Giant attacks the player?",
+						"wrong": [
+							"Shooting fireballs",
+							"Using a bow",
+							"Casting sorceries"
+						]
+					},
+					{
+						"correct": "Soul of the Last Giant",
+						"difficulty": "Easy",
+						"explanation": "Almost every boss in Dark Souls 2 rewards you with their unique soul.",
+						"image_url": "",
+						"question": "What is the name of the 'Soul' you receive for defeating him?",
+						"wrong": [
+							"Giant's Kinship",
+							"Great Soul",
+							"Soul of the King"
+						]
+					},
+					{
+						"correct": "The Giant Lord",
+						"difficulty": "Medium",
+						"explanation": "When you enter the Memory of Jeigh, you fight his past self, the Giant Lord.",
+						"image_url": "",
+						"question": "Who is the Last Giant actually revealed to be later in the game?",
+						"wrong": [
+							"Vendrick",
+							"The Pursuer",
+							"Aldia"
+						]
+					},
+					{
+						"correct": "He was defeated and imprisoned by Vendrick's forces",
+						"difficulty": "Medium",
+						"explanation": "After the war with the Giants, he was the sole survivor, left to rot in the dungeons.",
+						"image_url": "",
+						"question": "How did the Last Giant end up in the pits beneath the forest?",
+						"wrong": [
+							"He fell",
+							"He was born there",
+							"He was hiding"
+						]
+					},
+					{
+						"correct": "Soldier Key",
+						"difficulty": "Medium",
+						"explanation": "The Soldier Key opens several locked doors throughout the Forest of Fallen Giants.",
+						"image_url": "",
+						"question": "What key item does the Last Giant drop upon defeat?",
+						"wrong": [
+							"King's Ring",
+							"Bastille Key",
+							"Antiquated Key"
+						]
+					},
+					{
+						"correct": "Mild Mannered Pate",
+						"difficulty": "Medium",
+						"explanation": "If you complete his small task nearby, Pate's summon sign appears for the fight.",
+						"image_url": "",
+						"question": "What is the name of the NPC summon found right outside his boss door?",
+						"wrong": [
+							"Lucatiel",
+							"Benhart",
+							"Solaire"
+						]
+					},
+					{
+						"correct": "They have a hole where their face should be",
+						"difficulty": "Medium",
+						"explanation": "Unlike the Giants in DS1, these Giants have a distinct 'void' or hole for a face.",
+						"image_url": "",
+						"question": "What physical characteristic is shared by all Giants in Dark Souls 2?",
+						"wrong": [
+							"They have three eyes",
+							"They are made of wood",
+							"They have wings"
+						]
+					},
+					{
+						"correct": "Fire",
+						"difficulty": "Hard",
+						"explanation": "As a being of 'wood-like' flesh, fire damage is particularly effective against him.",
+						"image_url": "",
+						"question": "The Last Giant is weak to which type of elemental damage?",
+						"wrong": [
+							"Magic",
+							"Lightning",
+							"Dark"
+						]
+					},
+					{
+						"correct": "What Vendrick stole from the Giants",
+						"difficulty": "Hard",
+						"explanation": "He led the invasion of Drangleic to get back what King Vendrick had stolen from their land.",
+						"image_url": "",
+						"question": "What is the 'prize' the Giant Lord (his past self) was trying to reclaim?",
+						"wrong": [
+							"The Princess",
+							"The First Flame",
+							"A magical ring"
+						]
+					},
+					{
+						"correct": "Memory of Jeigh",
+						"difficulty": "Hard",
+						"explanation": "The Memory of Jeigh depicts the final battle of the Giant invasion.",
+						"image_url": "",
+						"question": "What is the name of the memory where you fight his past self?",
+						"wrong": [
+							"Memory of Orro",
+							"Memory of Vammar",
+							"Memory of the King"
+						]
+					},
+					{
+						"correct": "He performs a double-stomp or a fall-over attack",
+						"difficulty": "Hard",
+						"explanation": "His main defense against 'crotch-hackers' is a massive body slam or repeated stomps.",
+						"image_url": "",
+						"question": "What happens if you stay directly under the Last Giant for too long?",
+						"wrong": [
+							"He heals",
+							"He gives you souls",
+							"He teleports"
+						]
+					},
+					{
+						"correct": "Zero (you get a regular boss soul)",
+						"difficulty": "Hard",
+						"explanation": "Despite being a giant, he drops a 'Soul of the Last Giant.' The 'Souls of a Giant' items are found elsewhere.",
+						"image_url": "",
+						"question": "How many 'Souls of a Giant' do you get for defeating the Last Giant?",
+						"wrong": [
+							"One",
+							"Five",
+							"Two"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_the_last_giant",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "The Last Giant",
+				"lore_desc": "An ancient, imprisoned giant who was the king of his kind, now filled with rage against the one who defeated him long ago.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Last Giant",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Giant",
+					"Tutorial"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Lava",
+						"difficulty": "Easy",
+						"explanation": "The entire keep is partially submerged in a sea of molten lava.",
+						"image_url": "https://skillcheckgame.com/assets/images/iron_keep.webp",
+						"question": "What is the primary environmental hazard in the Iron Keep?",
+						"wrong": [
+							"Poison Gas",
+							"Deep Water",
+							"Falling Snow"
+						]
+					},
+					{
+						"correct": "Old Iron King",
+						"difficulty": "Easy",
+						"explanation": "The Old Iron King resembles a massive balrog-like demon rising from the lava.",
+						"image_url": "https://skillcheckgame.com/assets/images/iron_keep.webp",
+						"question": "What is the name of the giant, demon-like boss found in the lava at the end of the Keep?",
+						"wrong": [
+							"Smelter Demon",
+							"The Rotten",
+							"Last Giant"
+						]
+					},
+					{
+						"correct": "Iron",
+						"difficulty": "Easy",
+						"explanation": "It was built with iron to show the King's immense wealth and power.",
+						"image_url": "https://skillcheckgame.com/assets/images/iron_keep.webp",
+						"question": "Which material is the majority of the fortress constructed from?",
+						"wrong": [
+							"Wood",
+							"Glass",
+							"Gold"
+						]
+					},
+					{
+						"correct": "Alonne Knights",
+						"difficulty": "Easy",
+						"explanation": "The Alonne Knights are famous for their speed and annoying katana lunges.",
+						"image_url": "",
+						"question": "What kind of knights are most common in this area?",
+						"wrong": [
+							"Silver Knights",
+							"Heide Knights",
+							"Royal Swordsmen"
+						]
+					},
+					{
+						"correct": "Earthen Peak",
+						"difficulty": "Easy",
+						"explanation": "In a famous geographical quirk, taking an elevator 'up' from a windmill leads to a volcano.",
+						"image_url": "",
+						"question": "The Iron Keep is accessed after completing which windmill-filled area?",
+						"wrong": [
+							"Majula",
+							"Forest of Fallen Giants",
+							"The Gutter"
+						]
+					},
+					{
+						"correct": "Magerold of Lanafir",
+						"difficulty": "Medium",
+						"explanation": "Magerold is a traveler who sells items and allows players to join the Dragon Remnants.",
+						"image_url": "",
+						"question": "What is the name of the merchant found near the start of the Iron Keep?",
+						"wrong": [
+							"Gavlan",
+							"Lenigrast",
+							"Straid"
+						]
+					},
+					{
+						"correct": "Smelter Demon",
+						"difficulty": "Medium",
+						"explanation": "The Smelter Demon is a notoriously difficult iron golem filled with fire.",
+						"image_url": "",
+						"question": "What optional boss is found in the middle of the Iron Keep?",
+						"wrong": [
+							"Pursuer",
+							"Looking Glass Knight",
+							"Ruin Sentinels"
+						]
+					},
+					{
+						"correct": "Pharros Lockstones (to activate water)",
+						"difficulty": "Medium",
+						"explanation": "Using a Lockstone can create pools of water that provide fire resistance to the player.",
+						"image_url": "",
+						"question": "What item can you use to 'lower' the heat of the lava platforms in the Keep?",
+						"wrong": [
+							"Ice cubes",
+							"Fire Moss",
+							"A fan"
+						]
+					},
+					{
+						"correct": "The Old Iron King",
+						"difficulty": "Medium",
+						"explanation": "He is one of the four owners of the Great Souls required to reach the castle.",
+						"image_url": "",
+						"question": "The Iron Keep is the seat of power for which 'Great One'?",
+						"wrong": [
+							"The Lost Sinner",
+							"Duke's Dear Freja",
+							"The Rotten"
+						]
+					},
+					{
+						"correct": "The Iron Keep Bridge",
+						"difficulty": "Medium",
+						"explanation": "The first bridge in Iron Keep is the most iconic location for player-vs-player duels.",
+						"image_url": "",
+						"question": "What is the name of the bridge at the start of the area, famous for PvP battles?",
+						"wrong": [
+							"The Bridge of Sighs",
+							"The Lava Crossing",
+							"Vendrick's Walk"
+						]
+					},
+					{
+						"correct": "It became too heavy with iron",
+						"difficulty": "Hard",
+						"explanation": "The King's hubris led him to build a castle so heavy that the earth literally gave way.",
+						"image_url": "",
+						"question": "Why did the Iron Keep sink into the ground?",
+						"wrong": [
+							"An earthquake",
+							"A curse from a wizard",
+							"The lava rose"
+						]
+					},
+					{
+						"correct": "The player falls into a small, deadly lava hole",
+						"difficulty": "Hard",
+						"explanation": "The arena is famous for a tiny, annoying hole of lava that kills many players.",
+						"image_url": "",
+						"question": "What happens if the Old Iron King hits the player with his fist into the center of the arena?",
+						"wrong": [
+							"The player heals",
+							"The player is teleported",
+							"The floor breaks"
+						]
+					},
+					{
+						"correct": "Nadalia",
+						"difficulty": "Hard",
+						"explanation": "Nadalia, Bride of Ash, arrived only to find the King already dead and the Keep sunk.",
+						"image_url": "",
+						"question": "What is the name of the 'Bride' who waited for the Iron King in the nearby Brume Tower?",
+						"wrong": [
+							"Nashandra",
+							"Elana",
+							"Alsanna"
+						]
+					},
+					{
+						"correct": "Armorer Dennis",
+						"difficulty": "Hard",
+						"explanation": "Armorer Dennis and Fencer Sharron are notorious for jumping new players in this area.",
+						"image_url": "",
+						"question": "Which NPC invades the player on the bridge in the Scholar of the First Sin edition?",
+						"wrong": [
+							"Forlorn",
+							"Mildred",
+							"Kirk"
+						]
+					},
+					{
+						"correct": "Sir Alonne",
+						"difficulty": "Hard",
+						"explanation": "While Sir Alonne is in the DLC, his memory is physically located within the Iron Keep's architecture.",
+						"image_url": "",
+						"question": "What is the 'secret' boss found in the Iron Keep ONLY in the DLC memories?",
+						"wrong": [
+							"Blue Smelter Demon",
+							"Fume Knight",
+							"Sinh"
+						]
+					}
+				]
+			},
+			"id": "dark_souls_2_iron_keep",
+			"meta": {
+				"date_added": "2026-04-06",
+				"entity_category": "Theme Item",
+				"full_title": "Iron Keep",
+				"lore_desc": "A massive iron fortress that sank into a pool of molten earth due to its own immense weight.",
+				"theme_origin": "dark souls 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Iron Keep",
+			"profiler": {
+				"vibe_tags": [
+					"Fortress",
+					"Lava",
+					"Fire"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -140881,12 +144145,134 @@
 					"name": "The First Shiny"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Unown",
 						"Johto Region"
 					],
 					"name": "The Ruins of Alph"
+				}
+			]
+		},
+		{
+			"id": "dark souls 2",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"King Vendrick",
+						"Nashandra",
+						"Drangleic Castle"
+					],
+					"name": "The Royal Family"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Iron Keep",
+						"Fume Knight",
+						"Sir Alonne"
+					],
+					"name": "The Iron Crown"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Majula",
+						"The Emerald Herald",
+						"Sweet Shalquoir"
+					],
+					"name": "The Safe Haven"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Drangleic Castle",
+						"Looking Glass Knight",
+						"Shrine of Amana"
+					],
+					"name": "The Path to the Crypt"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Last Giant",
+						"The Pursuer",
+						"King Vendrick"
+					],
+					"name": "The Memory of War"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Drangleic Castle",
+						"The Pursuer"
+					],
+					"name": "The Twin Pursuers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Fume Knight",
+						"King Vendrick"
+					],
+					"name": "The Exiled Champion"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Lucatiel of Mirrah",
+						"Iron Keep"
+					],
+					"name": "The Smelter Carry"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gavlan",
+						"Iron Keep"
+					],
+					"name": "The Gyrm Exile"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Looking Glass Knight",
+						"Moonlight Greatsword"
+					],
+					"name": "Benhart's Summon"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Lucatiel of Mirrah",
+						"King Vendrick"
+					],
+					"name": "The Tragic Hollows"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Last Giant",
+						"King Vendrick"
+					],
+					"name": "The Stolen Prize"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Shrine of Amana",
+						"Moonlight Greatsword"
+					],
+					"name": "The Magic Gauntlet"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Gavlan",
+						"Sweet Shalquoir"
+					],
+					"name": "The Non-Human Merchants"
 				}
 			]
 		}
