@@ -1,53 +1,48 @@
 {
-	"last_updated": 1775462012,
+	"last_updated": 1775463615,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
-			"motd": "Pokémon: Kanto Gym Challenge",
-			"share_text": "Pokédex filled. Badges earned.",
+			"motd": "Pokémon: Return to Johto",
+			"share_text": "Whitney's Miltank couldn't stop my perfect run today!",
 			"shops": [
 				{
-					"p1": "rumble_pack",
-					"p2": "memory_card"
+					"p1": "combo_breaker",
+					"p2": "link_cable"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "game_shark"
+					"p1": "turbo_button",
+					"p2": "lucky_dice"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "multitap"
+					"p1": "gold_cartridge",
+					"p2": "rumble_pack"
 				}
 			],
 			"showcase": [
-				"pikachu",
-				"charizard",
-				"pokédex"
+				"pokemon_gold_and_silver_lugia",
+				"pokemon_gold_and_silver_ho-oh",
+				"pokemon_gold_and_silver_suicune"
 			],
 			"starters": [
-				"pikachu",
-				"red",
-				"s.s._anne",
-				"lavender_town",
-				"mewtwo",
-				"brock",
-				"bicycle",
-				"team_rocket",
-				"elite_four",
-				"surf",
-				"blue",
-				"pokédex",
-				"cinnabar_island",
-				"oak",
-				"cynthia",
-				"potions",
-				"tms",
-				"mt._silver",
-				"nurse_joy",
-				"gym_badges",
-				"poké_ball"
+				"pokemon_gold_and_silver_lugia",
+				"pokemon_gold_and_silver_ho-oh",
+				"pokemon_gold_and_silver_suicune",
+				"pokemon_gold_and_silver_red",
+				"pokemon_gold_and_silver_johto_region",
+				"pokemon_gold_and_silver_togepi",
+				"pokemon_gold_and_silver_whitney_miltank",
+				"pokemon_gold_and_silver_sudowoodo",
+				"pokemon_gold_and_silver_the_red_gyarados",
+				"pokemon_gold_and_silver_eevee",
+				"pokemon_gold_and_silver_mount_silver",
+				"pokemon_gold_and_silver_professor_elm",
+				"pokemon_gold_and_silver_unown",
+				"pokemon_gold_and_silver_celebi",
+				"pokemon_gold_and_silver_team_rocket",
+				"pokemon_gold_and_silver_silver"
 			],
 			"submitted_by": ""
 		},
