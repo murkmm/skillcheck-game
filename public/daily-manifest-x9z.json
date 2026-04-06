@@ -1,57 +1,7 @@
 {
-	"last_updated": 1775431813,
+	"last_updated": 1775462012,
 	"schedule": {
-		"2026-01-31": {
-			"daily_type": "normal",
-			"difficulty": "Normal",
-			"mode": "STANDARD",
-			"motd": "Halo: Finish the Fight",
-			"share_text": "Covenant classified. Warthog intact",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "lucky_dice",
-					"p2": "extra_life"
-				},
-				{
-					"p1": "link_cable",
-					"p2": "second_chance"
-				}
-			],
-			"showcase": [
-				"",
-				"",
-				""
-			],
-			"starters": [
-				"master_chief",
-				"cortana",
-				"warthog",
-				"ghost",
-				"energy_sword",
-				"assault_rifle",
-				"reach",
-				"truth",
-				"installation_07",
-				"assault_on_the_control_room",
-				"flood",
-				"arbiter",
-				"installation_04",
-				"needler",
-				"scorpion",
-				"johnson",
-				"battle_rifle",
-				"high_charity",
-				"banshee",
-				"gravemind",
-				"guilty_spark"
-			],
-			"submitted_by": ""
-		},
-		"2026-02-01": {
+		"2026-03-06": {
 			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
@@ -101,62 +51,7 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-02": {
-			"daily_type": "normal",
-			"difficulty": "Normal",
-			"mode": "STANDARD",
-			"motd": "Mario Kart Monday",
-			"share_text": "Dodged the blue shell. Claimed the cup.",
-			"shops": [
-				{
-					"p1": "turbo_button",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "combo_breaker",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "gold_cartridge",
-					"p2": "rumble_pack"
-				}
-			],
-			"showcase": [
-				"luigi",
-				"mario",
-				"peach"
-			],
-			"starters": [
-				"mario",
-				"bowser",
-				"kart",
-				"gliding",
-				"fire_flower",
-				"blue_shell",
-				"rainbow_road",
-				"banana",
-				"coconut_mall",
-				"feather",
-				"coin",
-				"dry_bones",
-				"standard_kart",
-				"super_star",
-				"lakitu",
-				"mushroom",
-				"waluigi",
-				"wario_stadium",
-				"piranha_plant",
-				"lightning",
-				"luigi",
-				"peach",
-				"donkey_kong",
-				"wario",
-				"rosalina",
-				"shy_guy"
-			],
-			"submitted_by": ""
-		},
-		"2026-02-03": {
+		"2026-03-07": {
 			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
@@ -219,7 +114,7 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-04": {
+		"2026-03-08": {
 			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
@@ -270,59 +165,7 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-05": {
-			"daily_type": "normal",
-			"difficulty": "Normal",
-			"mode": "STANDARD",
-			"motd": "Fallout 3: Tunnel Snakes Rule!",
-			"share_text": "War. War never changes.",
-			"shops": [
-				{
-					"p1": "extra_life",
-					"p2": "second_chance"
-				},
-				{
-					"p1": "combo_breaker",
-					"p2": "double_adapter"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "piggy_bank"
-				}
-			],
-			"showcase": [
-				"three_dog",
-				"wanderer",
-				"colonel_autumn"
-			],
-			"starters": [
-				"wanderer",
-				"megaton",
-				"fat_man",
-				"deathclaw",
-				"project_purity",
-				"galaxy_news_radio",
-				"shishkebab",
-				"fawkes",
-				"james",
-				"colonel_autumn",
-				"james's_lab",
-				"sentinel_lyons",
-				"moira_brown",
-				"three_dog",
-				"mister_burke",
-				"butch_deloria",
-				"charon",
-				"lucas_simms",
-				"clover",
-				"harold",
-				"abraham_washington",
-				"eden",
-				"star_paladin_cross"
-			],
-			"submitted_by": ""
-		},
-		"2026-02-06": {
+		"2026-03-09": {
 			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
@@ -374,12 +217,968 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-07": {
+		"2026-03-10": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Mass Effect: Commander Shepard",
+			"share_text": "Saren is coming. The Reapers are already here.",
+			"shops": [
+				{
+					"p1": "strategy_guide",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "link_cable",
+					"p2": "turbo_button"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "cooling_fan"
+				}
+			],
+			"showcase": [
+				"mass_effect_commander_shepard",
+				"mass_effect_liara_t'soni",
+				"mass_effect_garrus_vakarian"
+			],
+			"starters": [
+				"mass_effect_commander_shepard",
+				"mass_effect_garrus_vakarian",
+				"mass_effect_liara_t'soni",
+				"mass_effect_tali'zorah",
+				"mass_effect_urdnot_wrex",
+				"mass_effect_the_normandy",
+				"mass_effect_the_citadel",
+				"mass_effect_the_reapers",
+				"mass_effect_the_mako",
+				"mass_effect_mordin_solus",
+				"mass_effect_miranda_lawson",
+				"mass_effect_thane_krios",
+				"mass_effect_jack",
+				"mass_effect_legion",
+				"mass_effect_the_illusive_man",
+				"mass_effect_saren_arterius",
+				"mass_effect_omega",
+				"mass_effect_illium",
+				"mass_effect_tuchanka",
+				"mass_effect_sovereign",
+				"mass_effect_edi",
+				"mass_effect_javik",
+				"mass_effect_grunt",
+				"mass_effect_the_geth",
+				"mass_effect_omni-tool"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-11": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "The Witcher 3: Wild Hunt",
+			"share_text": "Evil is evil. Lesser, greater, all the same.",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"the_witcher_3_wild_hunt_geralt_of_rivia",
+				"the_witcher_3_wild_hunt_yennefer_of_vengerberg",
+				"the_witcher_3_wild_hunt_triss_merigold"
+			],
+			"starters": [
+				"the_witcher_3_wild_hunt_geralt_of_rivia",
+				"the_witcher_3_wild_hunt_cirilla_fiona_elen_riannon",
+				"the_witcher_3_wild_hunt_yennefer_of_vengerberg",
+				"the_witcher_3_wild_hunt_triss_merigold",
+				"the_witcher_3_wild_hunt_vesemir",
+				"the_witcher_3_wild_hunt_dandelion",
+				"the_witcher_3_wild_hunt_eredin_bréacc_glas",
+				"the_witcher_3_wild_hunt_gaunter_o'dimm",
+				"the_witcher_3_wild_hunt_the_bloody_baron",
+				"the_witcher_3_wild_hunt_roach",
+				"the_witcher_3_wild_hunt_kaer_morhen",
+				"the_witcher_3_wild_hunt_novigrad",
+				"the_witcher_3_wild_hunt_gwent",
+				"the_witcher_3_wild_hunt_aerondight",
+				"the_witcher_3_wild_hunt_leshen",
+				"the_witcher_3_wild_hunt_the_skellige_isles",
+				"the_witcher_3_wild_hunt_igni"
+			]
+		},
+		"2026-03-12": {
 			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
-			"motd": "Hades 1 and 2: Escape the Underworld",
-			"share_text": "Death to Chronos",
+			"motd": "Mario Kart Monday",
+			"share_text": "Dodged the blue shell. Claimed the cup.",
+			"shops": [
+				{
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"luigi",
+				"mario",
+				"peach"
+			],
+			"starters": [
+				"mario",
+				"bowser",
+				"kart",
+				"gliding",
+				"fire_flower",
+				"blue_shell",
+				"rainbow_road",
+				"banana",
+				"coconut_mall",
+				"feather",
+				"coin",
+				"dry_bones",
+				"standard_kart",
+				"super_star",
+				"lakitu",
+				"mushroom",
+				"waluigi",
+				"wario_stadium",
+				"piranha_plant",
+				"lightning",
+				"luigi",
+				"peach",
+				"donkey_kong",
+				"wario",
+				"rosalina",
+				"shy_guy"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-13": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Bloodborne: Insight Check",
+			"share_text": "Tonight... Gehrman joins the hunt",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"bloodborne_lady_maria",
+				"bloodborne_gehrman",
+				"bloodborne_holy_moonlight_sword"
+			],
+			"starters": [
+				"bloodborne_hunter's_dream",
+				"bloodborne_father_gascoigne",
+				"bloodborne_the_doll",
+				"bloodborne_lady_maria",
+				"bloodborne_ludwig",
+				"bloodborne_saw_cleaver",
+				"bloodborne_eileen_the_crow",
+				"bloodborne_central_yharnam",
+				"bloodborne_holy_moonlight_sword",
+				"bloodborne_gehrman",
+				"bloodborne_vicar_amelia",
+				"bloodborne_rom",
+				"bloodborne_micolash",
+				"bloodborne_orphan_of_kos",
+				"bloodborne_amygdala",
+				"bloodborne_alfred",
+				"bloodborne_djura",
+				"bloodborne_old_yharnam",
+				"bloodborne_byrgenwerth",
+				"bloodborne_cainhurst_castle",
+				"bloodborne_whirligig_saw",
+				"bloodborne_burial_blade",
+				"bloodborne_insight",
+				"bloodborne_blood_echoes",
+				"bloodborne_moon_presence",
+				"bloodborne_messengers"
+			]
+		},
+		"2026-03-14": {
+			"daily_type": "normal",
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Fallout 3: Capital Wasteland",
+			"share_text": "War. War never changes.",
+			"shops": [
+				{
+					"p1": "extra_life",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "double_adapter"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "piggy_bank"
+				}
+			],
+			"showcase": [
+				"three_dog",
+				"wanderer",
+				"colonel_autumn"
+			],
+			"starters": [
+				"wanderer",
+				"megaton",
+				"fat_man",
+				"deathclaw",
+				"project_purity",
+				"galaxy_news_radio",
+				"shishkebab",
+				"fawkes",
+				"james",
+				"colonel_autumn",
+				"james's_lab",
+				"sentinel_lyons",
+				"moira_brown",
+				"three_dog",
+				"mister_burke",
+				"butch_deloria",
+				"charon",
+				"lucas_simms",
+				"clover",
+				"harold",
+				"abraham_washington",
+				"eden",
+				"star_paladin_cross"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-15": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Zelda: The Wind Waker",
+			"share_text": "The wind is on our side.",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "quick_save"
+				},
+				{
+					"p1": "link_cable",
+					"p2": "double_adapter"
+				}
+			],
+			"showcase": [
+				"the_legend_of_zelda_wind_waker_link",
+				"the_legend_of_zelda_wind_waker_tetra",
+				"the_legend_of_zelda_wind_waker_the_king_of_red_lions"
+			],
+			"starters": [
+				"the_legend_of_zelda_wind_waker_link",
+				"the_legend_of_zelda_wind_waker_tetra",
+				"the_legend_of_zelda_wind_waker_ganondorf",
+				"the_legend_of_zelda_wind_waker_the_king_of_red_lions",
+				"the_legend_of_zelda_wind_waker_medli",
+				"the_legend_of_zelda_wind_waker_makar",
+				"the_legend_of_zelda_wind_waker_valoo",
+				"the_legend_of_zelda_wind_waker_the_wind_waker",
+				"the_legend_of_zelda_wind_waker_the_master_sword",
+				"the_legend_of_zelda_wind_waker_dragon_roost_island",
+				"the_legend_of_zelda_wind_waker_forest_haven",
+				"the_legend_of_zelda_wind_waker_outset_island",
+				"the_legend_of_zelda_wind_waker_aryll",
+				"the_legend_of_zelda_wind_waker_tingle",
+				"the_legend_of_zelda_wind_waker_beedle",
+				"the_legend_of_zelda_wind_waker_forsaken_fortress"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-16": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Persona 5: Shujin Academy Midterms",
+			"share_text": "Looking cool, Joker!",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"persona_5_joker",
+				"persona_5_morgana",
+				"persona_5_shujin_academy"
+			],
+			"starters": [
+				"persona_5_joker",
+				"persona_5_morgana",
+				"persona_5_ryuji_sakamoto",
+				"persona_5_ann_takamaki",
+				"persona_5_yusuke_kitagawa",
+				"persona_5_makoto_niijima",
+				"persona_5_futaba_sakura",
+				"persona_5_haru_okumura",
+				"persona_5_goro_akechi",
+				"persona_5_arsene",
+				"persona_5_igor",
+				"persona_5_leblanc",
+				"persona_5_shujin_academy",
+				"persona_5_mementos",
+				"persona_5_sae_niijima",
+				"persona_5_sojiro_sakura"
+			]
+		},
+		"2026-03-17": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Yakuza 0: Kiryu & Majima",
+			"share_text": "Dame da ne. Dame yo, dame na no yo.",
+			"shops": [
+				{
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "link_cable",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "memory_card",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"yakuza_0_kazuma_kiryu",
+				"yakuza_0_goro_majima",
+				"yakuza_0_makoto_makimura"
+			],
+			"starters": [
+				"yakuza_0_kazuma_kiryu",
+				"yakuza_0_goro_majima",
+				"yakuza_0_akira_nishikiyama",
+				"yakuza_0_daisaku_kuze",
+				"yakuza_0_makoto_makimura",
+				"yakuza_0_the_empty_lot",
+				"yakuza_0_tetsu_tachibana",
+				"yakuza_0_mr._shakedown",
+				"yakuza_0_hiroki_awano",
+				"yakuza_0_keiji_shibusawa",
+				"yakuza_0_kamurocho",
+				"yakuza_0_sotenbori",
+				"yakuza_0_pocket_circuit_fighter",
+				"yakuza_0_dragon_of_dojima_style",
+				"yakuza_0_mad_dog_of_shimano_style",
+				"yakuza_0_disco",
+				"yakuza_0_cabaret_club_sunshine",
+				"yakuza_0_real_estate_royale",
+				"yakuza_0_bacchus",
+				"yakuza_0_reina"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-18": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Who's That Pokémon?",
+			"share_text": "I know that silhouette anywhere.",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "lucky_dice"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "second_chance"
+				}
+			],
+			"showcase": [
+				"pokemon_mystery_sylveon",
+				"pokemon_mystery_zapdos",
+				"pokemon_mystery_salamence"
+			],
+			"starters": [
+				"pokemon_mystery_jigglypuff",
+				"pokemon_mystery_lugia",
+				"pokemon_mystery_mudkip",
+				"pokemon_mystery_ho_oh",
+				"pokemon_mystery_blaziken",
+				"pokemon_mystery_metagross",
+				"pokemon_mystery_darkrai",
+				"pokemon_mystery_tinkaton",
+				"pokemon_mystery_scizor",
+				"pokemon_mystery_gyarados",
+				"pokemon_mystery_dialga",
+				"pokemon_mystery_incineroar",
+				"pokemon_mystery_palkia",
+				"pokemon_mystery_bulbasaur",
+				"pokemon_mystery_squirtle",
+				"pokemon_mystery_zapdos",
+				"pokemon_mystery_articuno",
+				"pokemon_mystery_dragonair",
+				"pokemon_mystery_moltres",
+				"pokemon_mystery_tyranitar",
+				"pokemon_mystery_salamence",
+				"pokemon_mystery_groudon",
+				"pokemon_mystery_kyogre",
+				"pokemon_mystery_decidueye",
+				"pokemon_mystery_sylveon",
+				"pokemon_mystery_lapras"
+			]
+		},
+		"2026-03-19": {
+			"daily_type": "normal",
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "BioShock: Welcome to Rapture",
+			"share_text": "A man chooses. A slave obeys.",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "lucky_dice"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "second_chance"
+				}
+			],
+			"showcase": [
+				"elizabeth",
+				"jack",
+				"booker_dewitt"
+			],
+			"starters": [
+				"andrew_ryan",
+				"big_daddy",
+				"little_sister",
+				"rapture",
+				"plasmids",
+				"elizabeth",
+				"columbia",
+				"songbird",
+				"adam",
+				"frank_fontaine",
+				"sander_cohen",
+				"bridget_tenenbaum",
+				"splicers",
+				"vigors",
+				"the_lutece_twins",
+				"fort_frolic",
+				"eve",
+				"booker_dewitt",
+				"zachary_hale_comstock",
+				"jack"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-20": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Final Fantasy X: Pilgrimage",
+			"share_text": "Tidus will laugh anyway.",
+			"shops": [
+				{
+					"p1": "strategy_guide",
+					"p2": "save_state"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "piggy_bank"
+				}
+			],
+			"showcase": [
+				"final_fantasy_10_tidus",
+				"final_fantasy_10_yuna",
+				"final_fantasy_10_wakka"
+			],
+			"starters": [
+				"final_fantasy_10_tidus",
+				"final_fantasy_10_yuna",
+				"final_fantasy_10_auron",
+				"final_fantasy_10_sin",
+				"final_fantasy_10_rikku",
+				"final_fantasy_10_lulu",
+				"final_fantasy_10_wakka",
+				"final_fantasy_10_zanarkand",
+				"final_fantasy_10_blitzball",
+				"final_fantasy_10_seymour_guado",
+				"final_fantasy_10_jecht",
+				"final_fantasy_10_the_calm_lands",
+				"final_fantasy_10_bahamut",
+				"final_fantasy_10_besaid_island",
+				"final_fantasy_10_kimahri",
+				"final_fantasy_10_valefor",
+				"final_fantasy_10_anima",
+				"final_fantasy_10_bevelle",
+				"final_fantasy_10_shiva"
+			],
+			"submitted_by": "Bradley"
+		},
+		"2026-03-21": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "N64 Classics: Blow on the Cartridge",
+			"share_text": "Blew on the cartridge, installed the Expansion Pak, and didn't drop a single polygon!",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"n64_classics_mario",
+				"n64_classics_link",
+				"n64_classics_banjo_and_kazooie"
+			],
+			"starters": [
+				"n64_classics_link",
+				"n64_classics_mario",
+				"n64_classics_fox_mccloud",
+				"n64_classics_banjo_and_kazooie",
+				"n64_classics_donkey_kong",
+				"n64_classics_pikachu",
+				"n64_classics_master_sword",
+				"n64_classics_peach's_castle",
+				"n64_classics_arwing",
+				"n64_classics_golden_gun",
+				"n64_classics_majora's_mask",
+				"n64_classics_bowser",
+				"n64_classics_gruntilda",
+				"n64_classics_epona",
+				"n64_classics_rainbow_road",
+				"n64_classics_master_hand"
+			]
+		},
+		"2026-03-22": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Red Dead Redemption 2: Van der Linde Gang",
+			"share_text": "We just need one more score.",
+			"shops": [
+				{
+					"p1": "memory_card",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "game_shark",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "second_chance"
+				}
+			],
+			"showcase": [
+				"red_dead_redemption_2_arthur_morgan",
+				"red_dead_redemption_2_john_marston",
+				"red_dead_redemption_2_dutch_van_der_linde"
+			],
+			"starters": [
+				"red_dead_redemption_2_arthur_morgan",
+				"red_dead_redemption_2_dutch_van_der_linde",
+				"red_dead_redemption_2_john_marston",
+				"red_dead_redemption_2_sadie_adler",
+				"red_dead_redemption_2_micah_bell",
+				"red_dead_redemption_2_saint_denis",
+				"red_dead_redemption_2_valentine",
+				"red_dead_redemption_2_blackwater",
+				"red_dead_redemption_2_the_van_der_linde_gang",
+				"red_dead_redemption_2_hosea_matthews",
+				"red_dead_redemption_2_charles_smith",
+				"red_dead_redemption_2_lenny_summers",
+				"red_dead_redemption_2_beecher's_hope",
+				"red_dead_redemption_2_guarma",
+				"red_dead_redemption_2_pinkerton_agency",
+				"red_dead_redemption_2_bill_williamson",
+				"red_dead_redemption_2_abigail_roberts"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-23": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Stardew Valley: Pelican Town",
+			"share_text": "Grandpa would approve.",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "save_state",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "power_supply"
+				}
+			],
+			"showcase": [
+				"stardew_valley_marnie",
+				"stardew_valley_abigail",
+				"stardew_valley_robin"
+			],
+			"starters": [
+				"stardew_valley_lewis",
+				"stardew_valley_pierre",
+				"stardew_valley_marnie",
+				"stardew_valley_clint",
+				"stardew_valley_the_junimos",
+				"stardew_valley_linus",
+				"stardew_valley_the_mines",
+				"stardew_valley_the_desert",
+				"stardew_valley_krobus",
+				"stardew_valley_abigail",
+				"stardew_valley_jojamart",
+				"stardew_valley_robin",
+				"stardew_valley_the_stardrop",
+				"stardew_valley_prismatic_shard",
+				"stardew_valley_community_center",
+				"stardew_valley_grandpa"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-24": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Yu-Gi-Oh!: It's Time to Duel",
+			"share_text": "Heart of the cards, engaged.",
+			"shops": [
+				{
+					"p1": "power_supply",
+					"p2": "quick_save"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "turbo_button"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "s_video"
+				}
+			],
+			"showcase": [
+				"yu_gi_oh_mystery_yugi_muto",
+				"yu_gi_oh_mystery_seto_kaiba",
+				"yu_gi_oh_mystery_dark_magician"
+			],
+			"starters": [
+				"yu_gi_oh_mystery_dark_magician",
+				"yu_gi_oh_mystery_blue_eyes_white_dragon",
+				"yu_gi_oh_mystery_exodia_the_forbidden_one",
+				"yu_gi_oh_mystery_kuriboh",
+				"yu_gi_oh_mystery_red_eyes_black_dragon",
+				"yu_gi_oh_mystery_dark_magician_girl",
+				"yu_gi_oh_mystery_slifer_the_sky_dragon",
+				"yu_gi_oh_mystery_obelisk_the_tormentor",
+				"yu_gi_oh_mystery_the_winged_dragon_of_ra",
+				"yu_gi_oh_mystery_jinzo",
+				"yu_gi_oh_mystery_summoned_skull",
+				"yu_gi_oh_mystery_elemental_hero_neos",
+				"yu_gi_oh_mystery_stardust_dragon",
+				"yu_gi_oh_mystery_seto_kaiba",
+				"yu_gi_oh_mystery_yugi_muto",
+				"yu_gi_oh_mystery_maximillion_pegasus"
+			]
+		},
+		"2026-03-25": {
+			"daily_type": "normal",
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Halo: Finish the Fight",
+			"share_text": "Covenant classified. Warthog intact",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "lucky_dice",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "link_cable",
+					"p2": "second_chance"
+				}
+			],
+			"showcase": [
+				"",
+				"",
+				""
+			],
+			"starters": [
+				"master_chief",
+				"cortana",
+				"warthog",
+				"ghost",
+				"energy_sword",
+				"assault_rifle",
+				"reach",
+				"truth",
+				"installation_07",
+				"assault_on_the_control_room",
+				"flood",
+				"arbiter",
+				"installation_04",
+				"needler",
+				"scorpion",
+				"johnson",
+				"battle_rifle",
+				"high_charity",
+				"banshee",
+				"gravemind",
+				"guilty_spark"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-26": {
+			"daily_type": "normal",
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Resident Evil: Survive the Horror",
+			"share_text": "S.T.A.R.S. reporting. Boulder defeated.",
+			"shops": [
+				{
+					"p1": "lucky_dice",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"resident_evil_leon_s._kennedy",
+				"resident_evil_chris_redfield",
+				"resident_evil_jill_valentine"
+			],
+			"starters": [
+				"resident_evil_jill_valentine",
+				"resident_evil_chris_redfield",
+				"resident_evil_albert_wesker",
+				"resident_evil_nemesis",
+				"resident_evil_lady_dimitrescu",
+				"resident_evil_spencer_mansion",
+				"resident_evil_raccoon_city",
+				"resident_evil_the_merchant",
+				"resident_evil_green_herb",
+				"resident_evil_rocket_launcher",
+				"resident_evil_t-virus",
+				"resident_evil_claire_redfield",
+				"resident_evil_ada_wong",
+				"resident_evil_mr._x",
+				"resident_evil_typewriter",
+				"resident_evil_leon_s._kennedy"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-27": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Fallout: New Vegas",
+			"share_text": "The house always wins.",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "overclock_chip",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "gold_cartridge"
+				}
+			],
+			"showcase": [
+				"fallout_new_vegas_mr_house",
+				"fallout_new_vegas_benny",
+				"fallout_new_vegas_caesar"
+			],
+			"starters": [
+				"fallout_new_vegas_mr_house",
+				"fallout_new_vegas_benny",
+				"fallout_new_vegas_the_platinum_chip",
+				"fallout_new_vegas_yes_man",
+				"fallout_new_vegas_hoover_dam",
+				"fallout_new_vegas_the_strip",
+				"fallout_new_vegas_ncr_ranger",
+				"fallout_new_vegas_caesar",
+				"fallout_new_vegas_rex",
+				"fallout_new_vegas_ed-e",
+				"fallout_new_vegas_pip_boy",
+				"fallout_new_vegas_vault_21",
+				"fallout_new_vegas_goodsprings",
+				"fallout_new_vegas_legate_lanius",
+				"fallout_new_vegas_victor",
+				"fallout_new_vegas_craig_boone"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-28": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Super Mario Sunshine: Isle Delfino",
+			"share_text": "FLUDD equipped. Shines collected.",
+			"shops": [
+				{
+					"p1": "game_shark",
+					"p2": "multitap"
+				},
+				{
+					"p1": "overclock_chip",
+					"p2": "pause_button"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "power_supply"
+				}
+			],
+			"showcase": [
+				"super_mario_sunshine_mario",
+				"super_mario_sunshine_fludd",
+				"super_mario_sunshine_shadow_mario"
+			],
+			"starters": [
+				"super_mario_sunshine_fludd",
+				"super_mario_sunshine_shadow_mario",
+				"super_mario_sunshine_princess_peach",
+				"super_mario_sunshine_petey_piranha",
+				"super_mario_sunshine_isle_delfino",
+				"super_mario_sunshine_bowser_jr.",
+				"super_mario_sunshine_shine_sprite",
+				"super_mario_sunshine_yoshi",
+				"super_mario_sunshine_pianta",
+				"super_mario_sunshine_toadsworth",
+				"super_mario_sunshine_delfino_plaza",
+				"super_mario_sunshine_king_boo",
+				"super_mario_sunshine_blue_coin",
+				"super_mario_sunshine_gooper_blooper",
+				"super_mario_sunshine_noki",
+				"super_mario_sunshine_noki_bay",
+				"super_mario_sunshine_corona_mountain",
+				"super_mario_sunshine_turbo_nozzle",
+				"super_mario_sunshine_bianco_hills",
+				"super_mario_sunshine_mario"
+			],
+			"submitted_by": ""
+		},
+		"2026-03-29": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Elden Ring: Let Me Solo This Trivia",
+			"share_text": "Foul tarnished !",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"elden_ring_malenia,_blade_of_miquella",
+				"elden_ring_ranni_the_witch",
+				"elden_ring_melina"
+			],
+			"starters": [
+				"elden_ring_malenia,_blade_of_miquella",
+				"elden_ring_starscourge_radahn",
+				"elden_ring_ranni_the_witch",
+				"elden_ring_the_erdtree",
+				"elden_ring_torrent",
+				"elden_ring_iron_fist_alexander",
+				"elden_ring_margit_the_fell_omen",
+				"elden_ring_godrick_the_grafted",
+				"elden_ring_melina",
+				"elden_ring_blaidd_the_half-wolf",
+				"elden_ring_dark_moon_greatsword",
+				"elden_ring_morgott_the_omen_king",
+				"elden_ring_rykard,_lord_of_blasphemy",
+				"elden_ring_maliketh,_the_black_blade",
+				"elden_ring_rennala,_queen_of_the_full_moon",
+				"elden_ring_godfrey,_first_elden_lord"
+			]
+		},
+		"2026-03-30": {
+			"daily_type": "normal",
+			"difficulty": "Normal",
+			"mode": "STANDARD",
+			"motd": "Hades: Escape the Underworld",
+			"share_text": "Zagreus will try again.",
 			"shops": [
 				{
 					"p1": "turbo_button",
@@ -425,7 +1224,560 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-08": {
+		"2026-03-31": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Super Smash Bros. Melee",
+			"share_text": "No items. Fox only. Final Destination.",
+			"shops": [
+				{
+					"p1": "second_chance",
+					"p2": "turbo_button"
+				},
+				{
+					"p1": "double_adapter",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "expansion_pak",
+					"p2": "game_shark"
+				}
+			],
+			"showcase": [
+				"super_smash_bros_melee_falco",
+				"super_smash_bros_melee_fox",
+				"super_smash_bros_melee_master_hand"
+			],
+			"starters": [
+				"super_smash_bros_melee_fox",
+				"super_smash_bros_melee_marth",
+				"super_smash_bros_melee_falco",
+				"super_smash_bros_melee_sheik",
+				"super_smash_bros_melee_jigglypuff",
+				"super_smash_bros_melee_peach",
+				"super_smash_bros_melee_captain_falcon",
+				"super_smash_bros_melee_ganondorf",
+				"super_smash_bros_melee_ice_climbers",
+				"super_smash_bros_melee_mewtwo",
+				"super_smash_bros_melee_mr._game_&_watch",
+				"super_smash_bros_melee_master_hand",
+				"super_smash_bros_melee_final_destination",
+				"super_smash_bros_melee_battlefield",
+				"super_smash_bros_melee_poké_floats",
+				"super_smash_bros_melee_home_run_bat"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-01": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Who's That? Nintendo Edition",
+			"share_text": "April Fools! Can you name the silhouettes?",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "save_state"
+				}
+			],
+			"showcase": [
+				"nintendo_all_stars_mystery_link",
+				"nintendo_all_stars_mystery_mario",
+				"nintendo_all_stars_mystery_pikachu"
+			],
+			"starters": [
+				"nintendo_all_stars_mystery_mario",
+				"nintendo_all_stars_mystery_link",
+				"nintendo_all_stars_mystery_pikachu",
+				"nintendo_all_stars_mystery_samus_aran",
+				"nintendo_all_stars_mystery_kirby",
+				"nintendo_all_stars_mystery_donkey_kong",
+				"nintendo_all_stars_mystery_yoshi",
+				"nintendo_all_stars_mystery_fox_mccloud",
+				"nintendo_all_stars_mystery_captain_falcon",
+				"nintendo_all_stars_mystery_isabelle",
+				"nintendo_all_stars_mystery_inkling",
+				"nintendo_all_stars_mystery_tom_nook",
+				"nintendo_all_stars_mystery_bowser",
+				"nintendo_all_stars_mystery_princess_peach",
+				"nintendo_all_stars_mystery_marth",
+				"nintendo_all_stars_mystery_olimar",
+				"nintendo_all_stars_mystery_luigi",
+				"nintendo_all_stars_mystery_zelda",
+				"nintendo_all_stars_mystery_charizard",
+				"nintendo_all_stars_mystery_diddy_kong",
+				"nintendo_all_stars_mystery_wario",
+				"nintendo_all_stars_mystery_ganondorf",
+				"nintendo_all_stars_mystery_rosalina",
+				"nintendo_all_stars_mystery_meta_knight",
+				"nintendo_all_stars_mystery_pit",
+				"nintendo_all_stars_mystery_little_mac",
+				"nintendo_all_stars_mystery_villager",
+				"nintendo_all_stars_mystery_ridley",
+				"nintendo_all_stars_mystery_king_dedede",
+				"nintendo_all_stars_mystery_shulk",
+				"nintendo_all_stars_mystery_lucina",
+				"nintendo_all_stars_mystery_toad"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-02": {
+			"daily_type": "normal",
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Sonic Adventure 2: Live and Learn",
+			"share_text": "Shadow is faster and you know it.",
+			"shops": [
+				{
+					"p1": "double_adapter",
+					"p2": "game_shark"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"sonic_adventure_2_sonic_the_hedgehog",
+				"sonic_adventure_2_shadow_the_hedgehog",
+				"sonic_adventure_2_dr_eggman"
+			],
+			"starters": [
+				"sonic_adventure_2_sonic_the_hedgehog",
+				"sonic_adventure_2_shadow_the_hedgehog",
+				"sonic_adventure_2_knuckles_the_echidna",
+				"sonic_adventure_2_rouge_the_bat",
+				"sonic_adventure_2_miles_tails_prower",
+				"sonic_adventure_2_dr_eggman",
+				"sonic_adventure_2_chao",
+				"sonic_adventure_2_city_escape",
+				"sonic_adventure_2_space_colony_ark",
+				"sonic_adventure_2_the_master_emerald",
+				"sonic_adventure_2_chaos_emeralds",
+				"sonic_adventure_2_biolizard",
+				"sonic_adventure_2_maria_robotnik",
+				"sonic_adventure_2_gun",
+				"sonic_adventure_2_green_forest",
+				"sonic_adventure_2_pumpkin_hill"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-03": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Skyrim: Elder Scrolls V",
+			"share_text": "I used to be an adventurer like you, then I played today's Skillcheck.",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"skyrim_dovahkiin",
+				"skyrim_alduin",
+				"skyrim_ulfric_stormcloak"
+			],
+			"starters": [
+				"skyrim_dovahkiin",
+				"skyrim_alduin",
+				"skyrim_whiterun",
+				"skyrim_lydia",
+				"skyrim_sweetroll",
+				"skyrim_paarthurnax",
+				"skyrim_fus_ro_dah",
+				"skyrim_the_dark_brotherhood",
+				"skyrim_blackreach",
+				"skyrim_m'aiq_the_liar",
+				"skyrim_mehrunes'_razor",
+				"skyrim_skooma",
+				"skyrim_ulfric_stormcloak",
+				"skyrim_solitude",
+				"skyrim_cicero",
+				"skyrim_azura's_star"
+			]
+		},
+		"2026-04-04": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Hollow Knight: Hallownest",
+			"share_text": "No cost too great. No mind to think.",
+			"shops": [
+				{
+					"p1": "game_shark",
+					"p2": "training_mode"
+				},
+				{
+					"p1": "s_video",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "overclock_chip",
+					"p2": "cooling_fan"
+				}
+			],
+			"showcase": [
+				"hollow_knight_the_knight",
+				"hollow_knight_hornet",
+				"hollow_knight_zote_the_mighty"
+			],
+			"starters": [
+				"hollow_knight_the_knight",
+				"hollow_knight_hornet",
+				"hollow_knight_hallownest",
+				"hollow_knight_the_grubfather",
+				"hollow_knight_elderbug",
+				"hollow_knight_the_radiance",
+				"hollow_knight_zote_the_mighty",
+				"hollow_knight_cornifer",
+				"hollow_knight_the_mantis_lords",
+				"hollow_knight_quirrel",
+				"hollow_knight_the_hollow_knight",
+				"hollow_knight_city_of_tears",
+				"hollow_knight_dirtmouth",
+				"hollow_knight_geo",
+				"hollow_knight_charms",
+				"hollow_knight_soul"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-05": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Spyro: Easter Special!",
+			"share_text": "Happy easter egg hunters",
+			"shops": [
+				{
+					"p1": "pause_button",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "s_video",
+					"p2": "power_supply"
+				},
+				{
+					"p1": "training_mode",
+					"p2": "second_chance"
+				}
+			],
+			"showcase": [
+				"spyro_year_of_the_dragon_spyro",
+				"spyro_year_of_the_dragon_sparx",
+				"spyro_year_of_the_dragon_bianca"
+			],
+			"starters": [
+				"spyro_year_of_the_dragon_spyro",
+				"spyro_year_of_the_dragon_sparx",
+				"spyro_year_of_the_dragon_hunter_the_cheetah",
+				"spyro_year_of_the_dragon_the_sorceress",
+				"spyro_year_of_the_dragon_bianca",
+				"spyro_year_of_the_dragon_sheila_the_kangaroo",
+				"spyro_year_of_the_dragon_sgt._byrd",
+				"spyro_year_of_the_dragon_bentley_the_yeti",
+				"spyro_year_of_the_dragon_agent_9",
+				"spyro_year_of_the_dragon_moneybags",
+				"spyro_year_of_the_dragon_dragon_eggs",
+				"spyro_year_of_the_dragon_sunrise_spring",
+				"spyro_year_of_the_dragon_midday_gardens",
+				"spyro_year_of_the_dragon_evening_lake",
+				"spyro_year_of_the_dragon_midnight_mountain",
+				"spyro_year_of_the_dragon_the_rhynocs"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-06": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Metal Gear Solid: Shadow Moses",
+			"share_text": "Kept you waiting, huh?",
+			"shops": [
+				{
+					"p1": "strategy_guide",
+					"p2": "rumble_pack"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "overclock_chip"
+				},
+				{
+					"p1": "second_chance",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"metal_gear_solid_solid_snake",
+				"metal_gear_solid_psycho_mantis",
+				"metal_gear_solid_meryl_silverburgh"
+			],
+			"starters": [
+				"metal_gear_solid_solid_snake",
+				"metal_gear_solid_liquid_snake",
+				"metal_gear_solid_big_boss",
+				"metal_gear_solid_revolver_ocelot",
+				"metal_gear_solid_metal_gear_rex",
+				"metal_gear_solid_the_boss",
+				"metal_gear_solid_psycho_mantis",
+				"metal_gear_solid_otacon",
+				"metal_gear_solid_meryl_silverburgh",
+				"metal_gear_solid_gray_fox",
+				"metal_gear_solid_raiden",
+				"metal_gear_solid_shadow_moses",
+				"metal_gear_solid_cardboard_box",
+				"metal_gear_solid_stealth_camouflage",
+				"metal_gear_solid_solidus_snake",
+				"metal_gear_solid_kazuhira_miller"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-07": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Slay the Spire",
+			"share_text": "The Spire slain. Ascension earned.",
+			"shops": [
+				{
+					"p1": "piggy_bank",
+					"p2": "pause_button"
+				},
+				{
+					"p1": "game_shark",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "double_adapter",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"slay_the_spire_the_ironclad",
+				"slay_the_spire_the_silent",
+				"slay_the_spire_the_defect"
+			],
+			"starters": [
+				"slay_the_spire_the_ironclad",
+				"slay_the_spire_the_silent",
+				"slay_the_spire_the_defect",
+				"slay_the_spire_the_watcher",
+				"slay_the_spire_the_spire",
+				"slay_the_spire_the_merchant",
+				"slay_the_spire_neow",
+				"slay_the_spire_the_corrupt_heart",
+				"slay_the_spire_the_time_eater",
+				"slay_the_spire_the_cultist",
+				"slay_the_spire_donu_and_deca",
+				"slay_the_spire_snecko",
+				"slay_the_spire_gremlin_nob",
+				"slay_the_spire_the_boot",
+				"slay_the_spire_awakened_one",
+				"slay_the_spire_lagavulin"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-08": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "God of War (2018): Ghost of Sparta",
+			"share_text": "Boy.",
+			"shops": [
+				{
+					"p1": "expansion_pak",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "training_mode",
+					"p2": "gold_cartridge"
+				}
+			],
+			"showcase": [
+				"god_of_war_2018_kratos",
+				"god_of_war_2018_atreus",
+				"god_of_war_2018_baldur"
+			],
+			"starters": [
+				"god_of_war_2018_kratos",
+				"god_of_war_2018_atreus",
+				"god_of_war_2018_baldur",
+				"god_of_war_2018_leviathan_axe",
+				"god_of_war_2018_mimir",
+				"god_of_war_2018_brok",
+				"god_of_war_2018_sindri",
+				"god_of_war_2018_freya",
+				"god_of_war_2018_jormungandr",
+				"god_of_war_2018_valkyries",
+				"god_of_war_2018_midgard",
+				"god_of_war_2018_alfheim",
+				"god_of_war_2018_helheim",
+				"god_of_war_2018_blades_of_chaos",
+				"god_of_war_2018_magni",
+				"god_of_war_2018_modi"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-09": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "The Sims: Welcome Home",
+			"share_text": "Sul sul! Plumbob steady.",
+			"shops": [
+				{
+					"p1": "training_mode",
+					"p2": "power_supply"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "double_adapter"
+				}
+			],
+			"showcase": [
+				"the_sims_bella_goth",
+				"the_sims_plumbob",
+				"the_sims_pleasantview"
+			],
+			"starters": [
+				"the_sims_bella_goth",
+				"the_sims_plumbob",
+				"the_sims_simoleons",
+				"the_sims_cowplant",
+				"the_sims_the_grim_reaper",
+				"the_sims_bonehilda",
+				"the_sims_pleasantview",
+				"the_sims_strangetown",
+				"the_sims_the_mother_plant",
+				"the_sims_bob_newbie",
+				"the_sims_freezer_bunny",
+				"the_sims_mortimer_goth",
+				"the_sims_landgraab_family",
+				"the_sims_mrs._crumplebottom",
+				"the_sims_social_bunny",
+				"the_sims_tragic_clown"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-10": {
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "PS1: The 32-Bit Revolution",
+			"share_text": "I survived Midgar, Shadow Moses, and today's Skillcheck!",
+			"shops": [
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "expansion_pak"
+				}
+			],
+			"showcase": [
+				"ps1_classics_crash_bandicoot",
+				"ps1_classics_lara_croft",
+				"ps1_classics_cloud_strife"
+			],
+			"starters": [
+				"ps1_classics_solid_snake",
+				"ps1_classics_cloud_strife",
+				"ps1_classics_crash_bandicoot",
+				"ps1_classics_spyro_the_dragon",
+				"ps1_classics_lara_croft",
+				"ps1_classics_jill_valentine",
+				"ps1_classics_sephiroth",
+				"ps1_classics_midgar",
+				"ps1_classics_sweet_tooth",
+				"ps1_classics_alucard",
+				"ps1_classics_aku_aku",
+				"ps1_classics_raccoon_city",
+				"ps1_classics_parappa_the_rapper",
+				"ps1_classics_buster_sword",
+				"ps1_classics_raziel",
+				"ps1_classics_shadow_moses_island",
+				"ps1_classics_sweet_tooth_truck"
+			]
+		},
+		"2026-04-11": {
+			"daily_type": "normal",
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "GameCube Classics: The Handle Console",
+			"share_text": "Nintendo's purple lunchbox delivered.",
+			"shops": [
+				{
+					"p1": "piggy_bank",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "multitap",
+					"p2": "memory_card"
+				}
+			],
+			"showcase": [
+				"gamecube_classics_mario",
+				"gamecube_classics_link",
+				"gamecube_classics_samus_aran"
+			],
+			"starters": [
+				"gamecube_classics_mario",
+				"gamecube_classics_luigi",
+				"gamecube_classics_link",
+				"gamecube_classics_samus_aran",
+				"gamecube_classics_pikmin",
+				"gamecube_classics_leon_kennedy",
+				"gamecube_classics_captain_falcon",
+				"gamecube_classics_villager",
+				"gamecube_classics_fox_mccloud",
+				"gamecube_classics_shadow_the_hedgehog",
+				"gamecube_classics_kirby",
+				"gamecube_classics_ganondorf",
+				"gamecube_classics_zelda",
+				"gamecube_classics_meta_knight",
+				"gamecube_classics_donkey_kong",
+				"gamecube_classics_mewtwo"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-12": {
 			"daily_type": "normal",
 			"difficulty": "Normal",
 			"mode": "STANDARD",
@@ -482,113 +1834,56 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-19": {
+		"2026-04-13": {
 			"daily_type": "normal",
-			"difficulty": "Expert",
+			"difficulty": "Easy",
 			"mode": "STANDARD",
-			"motd": "Animal Crossing: Resident Services",
-			"share_text": "Isabelle would be proud.",
+			"motd": "Neopets: Return to Neopia",
+			"share_text": "How well do you know Neopia?",
 			"shops": [
-				{
-					"p1": "lucky_dice",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "combo_breaker",
-					"p2": "game_shark"
-				},
 				{
 					"p1": "link_cable",
-					"p2": "multitap"
-				}
-			],
-			"showcase": [
-				"dodo_airlines",
-				"resident_services",
-				"gyroid"
-			],
-			"starters": [
-				"tom_nook",
-				"isabelle",
-				"the_museum",
-				"k.k._slider",
-				"redd",
-				"bell_bag",
-				"stalk_market",
-				"net",
-				"resident_services",
-				"dodo_airlines",
-				"flick",
-				"blathers",
-				"celeste",
-				"sable",
-				"brewster",
-				"gulliver",
-				"c.j.",
-				"reese",
-				"cyrus",
-				"leif",
-				"harvey",
-				"kapp'n",
-				"lottie",
-				"gyroid"
-			],
-			"submitted_by": ""
-		},
-		"2026-02-20": {
-			"daily_type": "normal",
-			"difficulty": "Expert",
-			"mode": "STANDARD",
-			"motd": "BioShock: Welcome to Rapture",
-			"share_text": "A man chooses. A slave obeys.",
-			"shops": [
-				{
-					"p1": "rumble_pack",
 					"p2": "memory_card"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "lucky_dice"
+					"p1": "save_state",
+					"p2": "expansion_pak"
 				},
 				{
-					"p1": "rumble_pack",
-					"p2": "second_chance"
+					"p1": "gold_cartridge",
+					"p2": "turbo_button"
 				}
 			],
 			"showcase": [
-				"elizabeth",
-				"jack",
-				"booker_dewitt"
+				"neopets_meepit",
+				"neopets_fyora_the_faerie_queen",
+				"neopets_dr_frank_sloth"
 			],
 			"starters": [
-				"andrew_ryan",
-				"big_daddy",
-				"little_sister",
-				"rapture",
-				"plasmids",
-				"elizabeth",
-				"columbia",
-				"songbird",
-				"adam",
-				"frank_fontaine",
-				"sander_cohen",
-				"bridget_tenenbaum",
-				"splicers",
-				"vigors",
-				"the_lutece_twins",
-				"fort_frolic",
-				"eve",
-				"booker_dewitt",
-				"zachary_hale_comstock",
-				"jack"
+				"neopets_kacheek",
+				"neopets_dr_frank_sloth",
+				"neopets_faerieland",
+				"neopets_the_pant_devil",
+				"neopets_meridell",
+				"neopets_fyora_the_faerie_queen",
+				"neopets_giant_omelette",
+				"neopets_meepit",
+				"neopets_the_money_tree",
+				"neopets_shoyru",
+				"neopets_tombola",
+				"neopets_dubloon",
+				"neopets_negg",
+				"neopets_illusen",
+				"neopets_jhudora",
+				"neopets_taelia_the_snow_faerie"
 			],
-			"submitted_by": ""
+			"submitted_by": "Rosikins"
 		},
-		"2026-02-21": {
-			"difficulty": "Expert",
+		"2026-04-14": {
+			"difficulty": "Normal",
 			"mode": "STANDARD",
-			"motd": "Paper Mario TTYD Saturday",
-			"share_text": "Great Gonzales rises again",
+			"motd": "Dragon Age: Origins — The Blight",
+			"share_text": "The Grey Wardens stand ready.",
 			"shops": [
 				{
 					"p1": "rumble_pack",
@@ -604,34 +1899,30 @@
 				}
 			],
 			"showcase": [
-				"mario",
-				"the_thousand_year_door",
-				"princess_peach"
+				"dragon_age_origins_alistair",
+				"dragon_age_origins_morrigan",
+				"dragon_age_origins_the_archdemon"
 			],
 			"starters": [
-				"mario",
-				"rogueport",
-				"goombella",
-				"the_crystal_stars",
-				"vivian",
-				"the_shadow_queen",
-				"admiral_bobbery",
-				"glitzville",
-				"princess_peach",
-				"the_thousand_year_door",
-				"koops",
-				"sir_grodus",
-				"excess_express",
-				"professor_frankly",
-				"ms._mowz",
-				"rawk_hawk",
-				"poshley_heights",
-				"x-nauts",
-				"magical_map",
-				"madame_flurrie"
+				"dragon_age_origins_morrigan",
+				"dragon_age_origins_loghain_mac_tir",
+				"dragon_age_origins_the_archdemon",
+				"dragon_age_origins_duncan",
+				"dragon_age_origins_the_joining",
+				"dragon_age_origins_flemeth",
+				"dragon_age_origins_the_deep_roads",
+				"dragon_age_origins_leliana",
+				"dragon_age_origins_zevran",
+				"dragon_age_origins_sten",
+				"dragon_age_origins_oghren",
+				"dragon_age_origins_shale",
+				"dragon_age_origins_ostagar",
+				"dragon_age_origins_redcliffe",
+				"dragon_age_origins_the_landsmeet",
+				"dragon_age_origins_alistair"
 			]
 		},
-		"2026-02-22": {
+		"2026-04-15": {
 			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
@@ -681,7 +1972,7 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-23": {
+		"2026-04-16": {
 			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
@@ -730,52 +2021,7 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-25": {
-			"daily_type": "normal",
-			"difficulty": "Expert",
-			"mode": "STANDARD",
-			"motd": "Sonic Adventure 2: Live and Learn",
-			"share_text": "Shadow is faster and you know it.",
-			"shops": [
-				{
-					"p1": "double_adapter",
-					"p2": "game_shark"
-				},
-				{
-					"p1": "combo_breaker",
-					"p2": "link_cable"
-				},
-				{
-					"p1": "piggy_bank",
-					"p2": "multitap"
-				}
-			],
-			"showcase": [
-				"sonic_adventure_2_sonic_the_hedgehog",
-				"sonic_adventure_2_shadow_the_hedgehog",
-				"sonic_adventure_2_dr_eggman"
-			],
-			"starters": [
-				"sonic_adventure_2_sonic_the_hedgehog",
-				"sonic_adventure_2_shadow_the_hedgehog",
-				"sonic_adventure_2_knuckles_the_echidna",
-				"sonic_adventure_2_rouge_the_bat",
-				"sonic_adventure_2_miles_tails_prower",
-				"sonic_adventure_2_dr_eggman",
-				"sonic_adventure_2_chao",
-				"sonic_adventure_2_city_escape",
-				"sonic_adventure_2_space_colony_ark",
-				"sonic_adventure_2_the_master_emerald",
-				"sonic_adventure_2_chaos_emeralds",
-				"sonic_adventure_2_biolizard",
-				"sonic_adventure_2_maria_robotnik",
-				"sonic_adventure_2_gun",
-				"sonic_adventure_2_green_forest",
-				"sonic_adventure_2_pumpkin_hill"
-			],
-			"submitted_by": ""
-		},
-		"2026-02-26": {
+		"2026-04-17": {
 			"daily_type": "normal",
 			"difficulty": "Easy",
 			"mode": "STANDARD",
@@ -845,7 +2091,60 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-02-27": {
+		"2026-04-18": {
+			"daily_type": "normal",
+			"difficulty": "Expert",
+			"mode": "STANDARD",
+			"motd": "Animal Crossing: Resident Services",
+			"share_text": "Isabelle would be proud.",
+			"shops": [
+				{
+					"p1": "lucky_dice",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "game_shark"
+				},
+				{
+					"p1": "link_cable",
+					"p2": "multitap"
+				}
+			],
+			"showcase": [
+				"dodo_airlines",
+				"resident_services",
+				"gyroid"
+			],
+			"starters": [
+				"tom_nook",
+				"isabelle",
+				"the_museum",
+				"k.k._slider",
+				"redd",
+				"bell_bag",
+				"stalk_market",
+				"net",
+				"resident_services",
+				"dodo_airlines",
+				"flick",
+				"blathers",
+				"celeste",
+				"sable",
+				"brewster",
+				"gulliver",
+				"c.j.",
+				"reese",
+				"cyrus",
+				"leif",
+				"harvey",
+				"kapp'n",
+				"lottie",
+				"gyroid"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-19": {
 			"daily_type": "normal",
 			"difficulty": "Expert",
 			"mode": "STANDARD",
@@ -909,187 +2208,11 @@
 			],
 			"submitted_by": ""
 		},
-		"2026-03-03": {
-			"daily_type": "normal",
-			"difficulty": "Normal",
-			"mode": "STANDARD",
-			"motd": "Resident Evil: Survive the Horror",
-			"share_text": "S.T.A.R.S. reporting. Boulder defeated.",
-			"shops": [
-				{
-					"p1": "lucky_dice",
-					"p2": "second_chance"
-				},
-				{
-					"p1": "gold_cartridge",
-					"p2": "extra_life"
-				},
-				{
-					"p1": "turbo_button",
-					"p2": "multitap"
-				}
-			],
-			"showcase": [
-				"resident_evil_leon_s._kennedy",
-				"resident_evil_chris_redfield",
-				"resident_evil_jill_valentine"
-			],
-			"starters": [
-				"resident_evil_jill_valentine",
-				"resident_evil_chris_redfield",
-				"resident_evil_albert_wesker",
-				"resident_evil_nemesis",
-				"resident_evil_lady_dimitrescu",
-				"resident_evil_spencer_mansion",
-				"resident_evil_raccoon_city",
-				"resident_evil_the_merchant",
-				"resident_evil_green_herb",
-				"resident_evil_rocket_launcher",
-				"resident_evil_t-virus",
-				"resident_evil_claire_redfield",
-				"resident_evil_ada_wong",
-				"resident_evil_mr._x",
-				"resident_evil_typewriter",
-				"resident_evil_leon_s._kennedy"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-04": {
-			"difficulty": "Normal",
-			"mode": "STANDARD",
-			"motd": "Pokopia (broken)",
-			"share_text": "This set didn't work ",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"pokopia_pikachu",
-				"pokopia_charizard",
-				"pokopia_eevee"
-			],
-			"starters": [
-				"pokopia_pikachu",
-				"pokopia_poké_ball",
-				"pokopia_charizard",
-				"pokopia_mewtwo",
-				"pokopia_professor_oak",
-				"pokopia_team_rocket",
-				"pokopia_snorlax",
-				"pokopia_eevee",
-				"pokopia_master_ball",
-				"pokopia_bulbasaur",
-				"pokopia_gengar",
-				"pokopia_mew",
-				"pokopia_jigglypuff",
-				"pokopia_pallet_town",
-				"pokopia_brock",
-				"pokopia_giovanni"
-			]
-		},
-		"2026-03-05": {
-			"difficulty": "Normal",
-			"mode": "STANDARD",
-			"motd": "Dragon Age Origins",
-			"share_text": "Wardens Unite !",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"dragon_age_origins_alistair",
-				"dragon_age_origins_morrigan",
-				"dragon_age_origins_the_archdemon"
-			],
-			"starters": [
-				"dragon_age_origins_morrigan",
-				"dragon_age_origins_loghain_mac_tir",
-				"dragon_age_origins_the_archdemon",
-				"dragon_age_origins_duncan",
-				"dragon_age_origins_the_joining",
-				"dragon_age_origins_flemeth",
-				"dragon_age_origins_the_deep_roads",
-				"dragon_age_origins_leliana",
-				"dragon_age_origins_zevran",
-				"dragon_age_origins_sten",
-				"dragon_age_origins_oghren",
-				"dragon_age_origins_shale",
-				"dragon_age_origins_ostagar",
-				"dragon_age_origins_redcliffe",
-				"dragon_age_origins_the_landsmeet",
-				"dragon_age_origins_alistair"
-			]
-		},
-		"2026-03-06": {
-			"daily_type": "normal",
+		"2026-04-20": {
 			"difficulty": "Expert",
 			"mode": "STANDARD",
-			"motd": "GameCube Classics: The Handle Console",
-			"share_text": "Nintendo's purple lunchbox delivered.",
-			"shops": [
-				{
-					"p1": "piggy_bank",
-					"p2": "extra_life"
-				},
-				{
-					"p1": "gold_cartridge",
-					"p2": "second_chance"
-				},
-				{
-					"p1": "multitap",
-					"p2": "memory_card"
-				}
-			],
-			"showcase": [
-				"gamecube_classics_mario",
-				"gamecube_classics_link",
-				"gamecube_classics_samus_aran"
-			],
-			"starters": [
-				"gamecube_classics_mario",
-				"gamecube_classics_luigi",
-				"gamecube_classics_link",
-				"gamecube_classics_samus_aran",
-				"gamecube_classics_pikmin",
-				"gamecube_classics_leon_kennedy",
-				"gamecube_classics_captain_falcon",
-				"gamecube_classics_villager",
-				"gamecube_classics_fox_mccloud",
-				"gamecube_classics_shadow_the_hedgehog",
-				"gamecube_classics_kirby",
-				"gamecube_classics_ganondorf",
-				"gamecube_classics_zelda",
-				"gamecube_classics_meta_knight",
-				"gamecube_classics_donkey_kong",
-				"gamecube_classics_mewtwo"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-10": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Persona 5: Shujin Academy Midterms ",
-			"share_text": "Looking cool, Joker!",
+			"motd": "Paper Mario TTYD Saturday",
+			"share_text": "Great Gonzales rises again",
 			"shops": [
 				{
 					"p1": "rumble_pack",
@@ -1105,1292 +2228,32 @@
 				}
 			],
 			"showcase": [
-				"persona_5_joker",
-				"persona_5_morgana",
-				"persona_5_shujin_academy"
+				"mario",
+				"the_thousand_year_door",
+				"princess_peach"
 			],
 			"starters": [
-				"persona_5_joker",
-				"persona_5_morgana",
-				"persona_5_ryuji_sakamoto",
-				"persona_5_ann_takamaki",
-				"persona_5_yusuke_kitagawa",
-				"persona_5_makoto_niijima",
-				"persona_5_futaba_sakura",
-				"persona_5_haru_okumura",
-				"persona_5_goro_akechi",
-				"persona_5_arsene",
-				"persona_5_igor",
-				"persona_5_leblanc",
-				"persona_5_shujin_academy",
-				"persona_5_mementos",
-				"persona_5_sae_niijima",
-				"persona_5_sojiro_sakura"
+				"mario",
+				"rogueport",
+				"goombella",
+				"the_crystal_stars",
+				"vivian",
+				"the_shadow_queen",
+				"admiral_bobbery",
+				"glitzville",
+				"princess_peach",
+				"the_thousand_year_door",
+				"koops",
+				"sir_grodus",
+				"excess_express",
+				"professor_frankly",
+				"ms._mowz",
+				"rawk_hawk",
+				"poshley_heights",
+				"x-nauts",
+				"magical_map",
+				"madame_flurrie"
 			]
-		},
-		"2026-03-11": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "The Witcher 3: Trivia Hunt",
-			"share_text": "Evil is evil. Lesser, greater, middling, makes no difference",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"the_witcher_3_wild_hunt_geralt_of_rivia",
-				"the_witcher_3_wild_hunt_yennefer_of_vengerberg",
-				"the_witcher_3_wild_hunt_triss_merigold"
-			],
-			"starters": [
-				"the_witcher_3_wild_hunt_geralt_of_rivia",
-				"the_witcher_3_wild_hunt_cirilla_fiona_elen_riannon",
-				"the_witcher_3_wild_hunt_yennefer_of_vengerberg",
-				"the_witcher_3_wild_hunt_triss_merigold",
-				"the_witcher_3_wild_hunt_vesemir",
-				"the_witcher_3_wild_hunt_dandelion",
-				"the_witcher_3_wild_hunt_eredin_bréacc_glas",
-				"the_witcher_3_wild_hunt_gaunter_o'dimm",
-				"the_witcher_3_wild_hunt_the_bloody_baron",
-				"the_witcher_3_wild_hunt_roach",
-				"the_witcher_3_wild_hunt_kaer_morhen",
-				"the_witcher_3_wild_hunt_novigrad",
-				"the_witcher_3_wild_hunt_gwent",
-				"the_witcher_3_wild_hunt_aerondight",
-				"the_witcher_3_wild_hunt_leshen",
-				"the_witcher_3_wild_hunt_the_skellige_isles",
-				"the_witcher_3_wild_hunt_igni"
-			]
-		},
-		"2026-03-12": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Elden Ring: Let Me Solo This Trivia",
-			"share_text": "Foul tarnished !",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"elden_ring_malenia,_blade_of_miquella",
-				"elden_ring_ranni_the_witch",
-				"elden_ring_melina"
-			],
-			"starters": [
-				"elden_ring_malenia,_blade_of_miquella",
-				"elden_ring_starscourge_radahn",
-				"elden_ring_ranni_the_witch",
-				"elden_ring_the_erdtree",
-				"elden_ring_torrent",
-				"elden_ring_iron_fist_alexander",
-				"elden_ring_margit_the_fell_omen",
-				"elden_ring_godrick_the_grafted",
-				"elden_ring_melina",
-				"elden_ring_blaidd_the_half-wolf",
-				"elden_ring_dark_moon_greatsword",
-				"elden_ring_morgott_the_omen_king",
-				"elden_ring_rykard,_lord_of_blasphemy",
-				"elden_ring_maliketh,_the_black_blade",
-				"elden_ring_rennala,_queen_of_the_full_moon",
-				"elden_ring_godfrey,_first_elden_lord"
-			]
-		},
-		"2026-03-13": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Bloodborne: Insight Check",
-			"share_text": "Tonight... Gehrman joins the hunt",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"bloodborne_lady_maria",
-				"bloodborne_gehrman",
-				"bloodborne_holy_moonlight_sword"
-			],
-			"starters": [
-				"bloodborne_hunter's_dream",
-				"bloodborne_father_gascoigne",
-				"bloodborne_the_doll",
-				"bloodborne_lady_maria",
-				"bloodborne_ludwig",
-				"bloodborne_saw_cleaver",
-				"bloodborne_eileen_the_crow",
-				"bloodborne_central_yharnam",
-				"bloodborne_holy_moonlight_sword",
-				"bloodborne_gehrman",
-				"bloodborne_vicar_amelia",
-				"bloodborne_rom",
-				"bloodborne_micolash",
-				"bloodborne_orphan_of_kos",
-				"bloodborne_amygdala",
-				"bloodborne_alfred",
-				"bloodborne_djura",
-				"bloodborne_old_yharnam",
-				"bloodborne_byrgenwerth",
-				"bloodborne_cainhurst_castle",
-				"bloodborne_whirligig_saw",
-				"bloodborne_burial_blade",
-				"bloodborne_insight",
-				"bloodborne_blood_echoes",
-				"bloodborne_moon_presence",
-				"bloodborne_messengers"
-			]
-		},
-		"2026-03-14": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "N64 Classics",
-			"share_text": "Blew on the cartridge, installed the Expansion Pak, and didn't drop a single polygon!",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"n64_classics_mario",
-				"n64_classics_link",
-				"n64_classics_banjo_and_kazooie"
-			],
-			"starters": [
-				"n64_classics_link",
-				"n64_classics_mario",
-				"n64_classics_fox_mccloud",
-				"n64_classics_banjo_and_kazooie",
-				"n64_classics_donkey_kong",
-				"n64_classics_pikachu",
-				"n64_classics_master_sword",
-				"n64_classics_peach's_castle",
-				"n64_classics_arwing",
-				"n64_classics_golden_gun",
-				"n64_classics_majora's_mask",
-				"n64_classics_bowser",
-				"n64_classics_gruntilda",
-				"n64_classics_epona",
-				"n64_classics_rainbow_road",
-				"n64_classics_master_hand"
-			]
-		},
-		"2026-03-15": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Skyrim: The Trivia Scrolls",
-			"share_text": "I used to be an adventurer like you, then I played today's Skillcheck.",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"skyrim_dovahkiin",
-				"skyrim_alduin",
-				"skyrim_ulfric_stormcloak"
-			],
-			"starters": [
-				"skyrim_dovahkiin",
-				"skyrim_alduin",
-				"skyrim_whiterun",
-				"skyrim_lydia",
-				"skyrim_sweetroll",
-				"skyrim_paarthurnax",
-				"skyrim_fus_ro_dah",
-				"skyrim_the_dark_brotherhood",
-				"skyrim_blackreach",
-				"skyrim_m'aiq_the_liar",
-				"skyrim_mehrunes'_razor",
-				"skyrim_skooma",
-				"skyrim_ulfric_stormcloak",
-				"skyrim_solitude",
-				"skyrim_cicero",
-				"skyrim_azura's_star"
-			]
-		},
-		"2026-03-16": {
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "PS1: The 32-Bit Revolution",
-			"share_text": "I survived Midgar, Shadow Moses, and today's Skillcheck!",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"ps1_classics_crash_bandicoot",
-				"ps1_classics_lara_croft",
-				"ps1_classics_cloud_strife"
-			],
-			"starters": [
-				"ps1_classics_solid_snake",
-				"ps1_classics_cloud_strife",
-				"ps1_classics_crash_bandicoot",
-				"ps1_classics_spyro_the_dragon",
-				"ps1_classics_lara_croft",
-				"ps1_classics_jill_valentine",
-				"ps1_classics_sephiroth",
-				"ps1_classics_midgar",
-				"ps1_classics_sweet_tooth",
-				"ps1_classics_alucard",
-				"ps1_classics_aku_aku",
-				"ps1_classics_raccoon_city",
-				"ps1_classics_parappa_the_rapper",
-				"ps1_classics_buster_sword",
-				"ps1_classics_raziel",
-				"ps1_classics_shadow_moses_island",
-				"ps1_classics_sweet_tooth_truck"
-			]
-		},
-		"2026-03-17": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Whos That Pokemon?",
-			"share_text": "IS THIS BROKEN",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "rumble_pack",
-					"p2": "expansion_pak"
-				}
-			],
-			"showcase": [
-				"pokemon_eevee",
-				"pokemon_pikachu",
-				"pokemon_mewtwo"
-			],
-			"starters": [
-				"pokemon_alakazam",
-				"pokemon_arcanine",
-				"pokemon_dragonite",
-				"pokemon_garchomp",
-				"pokemon_gardevoir",
-				"pokemon_greninja",
-				"pokemon_gengar",
-				"pokemon_lucario",
-				"pokemon_pikachu",
-				"pokemon_charizard",
-				"pokemon_mewtwo",
-				"pokemon_snorlax",
-				"pokemon_blastoise",
-				"pokemon_venusaur",
-				"pokemon_eevee",
-				"pokemon_rayquaza"
-			],
-			"submitted_by": "Mcmanusmark93 outlook"
-		},
-		"2026-03-18": {
-			"daily_type": "mystery",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Who's That Pokémon?",
-			"share_text": "I know that silhouette anywhere.",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "combo_breaker",
-					"p2": "lucky_dice"
-				},
-				{
-					"p1": "piggy_bank",
-					"p2": "second_chance"
-				}
-			],
-			"showcase": [
-				"pokemon_sylveon",
-				"pokemon_zapdos",
-				"pokemon_salamence"
-			],
-			"starters": [
-				"pokemon_jigglypuff",
-				"pokemon_lugia",
-				"pokemon_mudkip",
-				"pokemon_ho_oh",
-				"pokemon_blaziken",
-				"pokemon_metagross",
-				"pokemon_darkrai",
-				"pokemon_tinkaton",
-				"pokemon_scizor",
-				"pokemon_gyarados",
-				"pokemon_dialga",
-				"pokemon_incineroar",
-				"pokemon_palkia",
-				"pokemon_bulbasaur",
-				"pokemon_squirtle",
-				"pokemon_zapdos",
-				"pokemon_articuno",
-				"pokemon_dragonair",
-				"pokemon_moltres",
-				"pokemon_tyranitar",
-				"pokemon_salamence",
-				"pokemon_groudon",
-				"pokemon_kyogre",
-				"pokemon_decidueye",
-				"pokemon_sylveon",
-				"pokemon_lapras"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-19": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Final Fantasy 10 Daily",
-			"share_text": "HA HA HA HA HA HA HA",
-			"shops": [
-				{
-					"p1": "strategy_guide",
-					"p2": "save_state"
-				},
-				{
-					"p1": "turbo_button",
-					"p2": "link_cable"
-				},
-				{
-					"p1": "gold_cartridge",
-					"p2": "piggy_bank"
-				}
-			],
-			"showcase": [
-				"final_fantasy_10_tidus",
-				"final_fantasy_10_yuna",
-				"final_fantasy_10_wakka"
-			],
-			"starters": [
-				"final_fantasy_10_tidus",
-				"final_fantasy_10_yuna",
-				"final_fantasy_10_auron",
-				"final_fantasy_10_sin",
-				"final_fantasy_10_rikku",
-				"final_fantasy_10_lulu",
-				"final_fantasy_10_wakka",
-				"final_fantasy_10_zanarkand",
-				"final_fantasy_10_blitzball",
-				"final_fantasy_10_seymour_guado",
-				"final_fantasy_10_jecht",
-				"final_fantasy_10_the_calm_lands",
-				"final_fantasy_10_bahamut",
-				"final_fantasy_10_besaid_island",
-				"final_fantasy_10_kimahri",
-				"final_fantasy_10_valefor",
-				"final_fantasy_10_anima",
-				"final_fantasy_10_bevelle",
-				"final_fantasy_10_shiva"
-			],
-			"submitted_by": "Bradley"
-		},
-		"2026-03-20": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Yakuza 0: Like a Dragon Quiz",
-			"share_text": "Dame da ne... dame yo, dame na no yo. Can you answer them all?",
-			"shops": [
-				{
-					"p1": "turbo_button",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "link_cable",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "memory_card",
-					"p2": "multitap"
-				}
-			],
-			"showcase": [
-				"yakuza_0_kazuma_kiryu",
-				"yakuza_0_goro_majima",
-				"yakuza_0_makoto_makimura"
-			],
-			"starters": [
-				"yakuza_0_kazuma_kiryu",
-				"yakuza_0_goro_majima",
-				"yakuza_0_akira_nishikiyama",
-				"yakuza_0_daisaku_kuze",
-				"yakuza_0_makoto_makimura",
-				"yakuza_0_the_empty_lot",
-				"yakuza_0_tetsu_tachibana",
-				"yakuza_0_mr._shakedown",
-				"yakuza_0_hiroki_awano",
-				"yakuza_0_keiji_shibusawa",
-				"yakuza_0_kamurocho",
-				"yakuza_0_sotenbori",
-				"yakuza_0_pocket_circuit_fighter",
-				"yakuza_0_dragon_of_dojima_style",
-				"yakuza_0_mad_dog_of_shimano_style",
-				"yakuza_0_disco",
-				"yakuza_0_cabaret_club_sunshine",
-				"yakuza_0_real_estate_royale",
-				"yakuza_0_bacchus",
-				"yakuza_0_reina"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-21": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Neopets The Quiz",
-			"share_text": "How well do you know Neopia?",
-			"shops": [
-				{
-					"p1": "link_cable",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "save_state",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "gold_cartridge",
-					"p2": "turbo_button"
-				}
-			],
-			"showcase": [
-				"neopets_meepit",
-				"neopets_fyora_the_faerie_queen",
-				"neopets_dr_frank_sloth"
-			],
-			"starters": [
-				"neopets_kacheek",
-				"neopets_dr_frank_sloth",
-				"neopets_faerieland",
-				"neopets_the_pant_devil",
-				"neopets_meridell",
-				"neopets_fyora_the_faerie_queen",
-				"neopets_giant_omelette",
-				"neopets_meepit",
-				"neopets_the_money_tree",
-				"neopets_shoyru",
-				"neopets_tombola",
-				"neopets_dubloon",
-				"neopets_negg",
-				"neopets_illusen",
-				"neopets_jhudora",
-				"neopets_taelia_the_snow_faerie"
-			],
-			"submitted_by": "Rosikins"
-		},
-		"2026-03-22": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Super Mario Sunshine: Trivia In Paradise",
-			"share_text": "I cleared my name and cleaned up Isle Delfino in today's Skillcheck!",
-			"shops": [
-				{
-					"p1": "game_shark",
-					"p2": "multitap"
-				},
-				{
-					"p1": "overclock_chip",
-					"p2": "pause_button"
-				},
-				{
-					"p1": "piggy_bank",
-					"p2": "power_supply"
-				}
-			],
-			"showcase": [
-				"super_mario_sunshine_mario",
-				"super_mario_sunshine_fludd",
-				"super_mario_sunshine_shadow_mario"
-			],
-			"starters": [
-				"super_mario_sunshine_fludd",
-				"super_mario_sunshine_shadow_mario",
-				"super_mario_sunshine_princess_peach",
-				"super_mario_sunshine_petey_piranha",
-				"super_mario_sunshine_isle_delfino",
-				"super_mario_sunshine_bowser_jr.",
-				"super_mario_sunshine_shine_sprite",
-				"super_mario_sunshine_yoshi",
-				"super_mario_sunshine_pianta",
-				"super_mario_sunshine_toadsworth",
-				"super_mario_sunshine_delfino_plaza",
-				"super_mario_sunshine_king_boo",
-				"super_mario_sunshine_blue_coin",
-				"super_mario_sunshine_gooper_blooper",
-				"super_mario_sunshine_noki",
-				"super_mario_sunshine_noki_bay",
-				"super_mario_sunshine_corona_mountain",
-				"super_mario_sunshine_turbo_nozzle",
-				"super_mario_sunshine_bianco_hills",
-				"super_mario_sunshine_mario"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-23": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "God of War 2018: Ghost of Trivia",
-			"share_text": "",
-			"shops": [
-				{
-					"p1": "expansion_pak",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "turbo_button",
-					"p2": "second_chance"
-				},
-				{
-					"p1": "training_mode",
-					"p2": "gold_cartridge"
-				}
-			],
-			"showcase": [
-				"god_of_war_2018_kratos",
-				"god_of_war_2018_atreus",
-				"god_of_war_2018_baldur"
-			],
-			"starters": [
-				"god_of_war_2018_kratos",
-				"god_of_war_2018_atreus",
-				"god_of_war_2018_baldur",
-				"god_of_war_2018_leviathan_axe",
-				"god_of_war_2018_mimir",
-				"god_of_war_2018_brok",
-				"god_of_war_2018_sindri",
-				"god_of_war_2018_freya",
-				"god_of_war_2018_jormungandr",
-				"god_of_war_2018_valkyries",
-				"god_of_war_2018_midgard",
-				"god_of_war_2018_alfheim",
-				"god_of_war_2018_helheim",
-				"god_of_war_2018_blades_of_chaos",
-				"god_of_war_2018_magni",
-				"god_of_war_2018_modi"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-24": {
-			"daily_type": "mystery",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Yu Gi Oh: Guess That Character !",
-			"share_text": "YUGI BOY",
-			"shops": [
-				{
-					"p1": "power_supply",
-					"p2": "quick_save"
-				},
-				{
-					"p1": "piggy_bank",
-					"p2": "turbo_button"
-				},
-				{
-					"p1": "gold_cartridge",
-					"p2": "s_video"
-				}
-			],
-			"showcase": [
-				"god_of_war_2018_kratos",
-				"god_of_war_2018_atreus",
-				"god_of_war_2018_baldur"
-			],
-			"starters": [
-				"yu-gi-oh_dark_magician",
-				"yu-gi-oh_blue-eyes_white_dragon",
-				"yu-gi-oh_exodia_the_forbidden_one",
-				"yu-gi-oh_kuriboh",
-				"yu-gi-oh_red-eyes_black_dragon",
-				"yu-gi-oh_dark_magician_girl",
-				"yu-gi-oh_slifer_the_sky_dragon",
-				"yu-gi-oh_obelisk_the_tormentor",
-				"yu-gi-oh_the_winged_dragon_of_ra",
-				"yu-gi-oh_jinzo",
-				"yu-gi-oh_summoned_skull",
-				"yu-gi-oh_elemental_hero_neos",
-				"yu-gi-oh_stardust_dragon",
-				"yu-gi-oh_seto_kaiba",
-				"yu-gi-oh_yugi_muto",
-				"yu-gi-oh_maximillion_pegasus"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-25": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "The Legend of Zelda: The Trivia Waker",
-			"share_text": "Not even Tingle could charge me for this perfect Skillcheck run!",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "quick_save"
-				},
-				{
-					"p1": "link_cable",
-					"p2": "double_adapter"
-				}
-			],
-			"showcase": [
-				"the_legend_of_zelda_wind_waker_link",
-				"the_legend_of_zelda_wind_waker_tetra",
-				"the_legend_of_zelda_wind_waker_the_king_of_red_lions"
-			],
-			"starters": [
-				"the_legend_of_zelda_wind_waker_link",
-				"the_legend_of_zelda_wind_waker_tetra",
-				"the_legend_of_zelda_wind_waker_ganondorf",
-				"the_legend_of_zelda_wind_waker_the_king_of_red_lions",
-				"the_legend_of_zelda_wind_waker_medli",
-				"the_legend_of_zelda_wind_waker_makar",
-				"the_legend_of_zelda_wind_waker_valoo",
-				"the_legend_of_zelda_wind_waker_the_wind_waker",
-				"the_legend_of_zelda_wind_waker_the_master_sword",
-				"the_legend_of_zelda_wind_waker_dragon_roost_island",
-				"the_legend_of_zelda_wind_waker_forest_haven",
-				"the_legend_of_zelda_wind_waker_outset_island",
-				"the_legend_of_zelda_wind_waker_aryll",
-				"the_legend_of_zelda_wind_waker_tingle",
-				"the_legend_of_zelda_wind_waker_beedle",
-				"the_legend_of_zelda_wind_waker_forsaken_fortress"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-26": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Super Smash Bros; Melee",
-			"share_text": "No items, Fox only",
-			"shops": [
-				{
-					"p1": "second_chance",
-					"p2": "turbo_button"
-				},
-				{
-					"p1": "double_adapter",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "expansion_pak",
-					"p2": "game_shark"
-				}
-			],
-			"showcase": [
-				"super_smash_bros_melee_falco",
-				"super_smash_bros_melee_fox",
-				"super_smash_bros_melee_master_hand"
-			],
-			"starters": [
-				"super_smash_bros_melee_fox",
-				"super_smash_bros_melee_marth",
-				"super_smash_bros_melee_falco",
-				"super_smash_bros_melee_sheik",
-				"super_smash_bros_melee_jigglypuff",
-				"super_smash_bros_melee_peach",
-				"super_smash_bros_melee_captain_falcon",
-				"super_smash_bros_melee_ganondorf",
-				"super_smash_bros_melee_ice_climbers",
-				"super_smash_bros_melee_mewtwo",
-				"super_smash_bros_melee_mr._game_&_watch",
-				"super_smash_bros_melee_master_hand",
-				"super_smash_bros_melee_final_destination",
-				"super_smash_bros_melee_battlefield",
-				"super_smash_bros_melee_poké_floats",
-				"super_smash_bros_melee_home_run_bat"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-27": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Fallout New Vegas ",
-			"share_text": "War never changes",
-			"shops": [
-				{
-					"p1": "rumble_pack",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "overclock_chip",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "piggy_bank",
-					"p2": "gold_cartridge"
-				}
-			],
-			"showcase": [
-				"fallout_new_vegas_mr_house",
-				"fallout_new_vegas_benny",
-				"fallout_new_vegas_caesar"
-			],
-			"starters": [
-				"fallout_new_vegas_mr_house",
-				"fallout_new_vegas_benny",
-				"fallout_new_vegas_the_platinum_chip",
-				"fallout_new_vegas_yes_man",
-				"fallout_new_vegas_hoover_dam",
-				"fallout_new_vegas_the_strip",
-				"fallout_new_vegas_ncr_ranger",
-				"fallout_new_vegas_caesar",
-				"fallout_new_vegas_rex",
-				"fallout_new_vegas_ed-e",
-				"fallout_new_vegas_pip_boy",
-				"fallout_new_vegas_vault_21",
-				"fallout_new_vegas_goodsprings",
-				"fallout_new_vegas_legate_lanius",
-				"fallout_new_vegas_victor",
-				"fallout_new_vegas_craig_boone"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-28": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Slay the Spire ",
-			"share_text": "I survived the The Spire !",
-			"shops": [
-				{
-					"p1": "piggy_bank",
-					"p2": "pause_button"
-				},
-				{
-					"p1": "game_shark",
-					"p2": "second_chance"
-				},
-				{
-					"p1": "double_adapter",
-					"p2": "multitap"
-				}
-			],
-			"showcase": [
-				"slay_the_spire_the_ironclad",
-				"slay_the_spire_the_silent",
-				"slay_the_spire_the_defect"
-			],
-			"starters": [
-				"slay_the_spire_the_ironclad",
-				"slay_the_spire_the_silent",
-				"slay_the_spire_the_defect",
-				"slay_the_spire_the_watcher",
-				"slay_the_spire_the_spire",
-				"slay_the_spire_the_merchant",
-				"slay_the_spire_neow",
-				"slay_the_spire_the_corrupt_heart",
-				"slay_the_spire_the_time_eater",
-				"slay_the_spire_the_cultist",
-				"slay_the_spire_donu_and_deca",
-				"slay_the_spire_snecko",
-				"slay_the_spire_gremlin_nob",
-				"slay_the_spire_the_boot",
-				"slay_the_spire_awakened_one",
-				"slay_the_spire_lagavulin"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-29": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Mass Effect",
-			"share_text": "Commander Shepard needs your help",
-			"shops": [
-				{
-					"p1": "strategy_guide",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "link_cable",
-					"p2": "turbo_button"
-				},
-				{
-					"p1": "gold_cartridge",
-					"p2": "cooling_fan"
-				}
-			],
-			"showcase": [
-				"mass_effect_commander_shepard",
-				"mass_effect_liara_t'soni",
-				"mass_effect_garrus_vakarian"
-			],
-			"starters": [
-				"mass_effect_commander_shepard",
-				"mass_effect_garrus_vakarian",
-				"mass_effect_liara_t'soni",
-				"mass_effect_tali'zorah",
-				"mass_effect_urdnot_wrex",
-				"mass_effect_the_normandy",
-				"mass_effect_the_citadel",
-				"mass_effect_the_reapers",
-				"mass_effect_the_mako",
-				"mass_effect_mordin_solus",
-				"mass_effect_miranda_lawson",
-				"mass_effect_thane_krios",
-				"mass_effect_jack",
-				"mass_effect_legion",
-				"mass_effect_the_illusive_man",
-				"mass_effect_saren_arterius",
-				"mass_effect_omega",
-				"mass_effect_illium",
-				"mass_effect_tuchanka",
-				"mass_effect_sovereign",
-				"mass_effect_edi",
-				"mass_effect_javik",
-				"mass_effect_grunt",
-				"mass_effect_the_geth",
-				"mass_effect_omni-tool"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-30": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Stardew Valley",
-			"share_text": "Time to water the crops and test your knowledge",
-			"shops": [
-				{
-					"p1": "training_mode",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "save_state",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "turbo_button",
-					"p2": "power_supply"
-				}
-			],
-			"showcase": [
-				"stardew_valley_marnie",
-				"stardew_valley_abigail",
-				"stardew_valley_robin"
-			],
-			"starters": [
-				"stardew_valley_lewis",
-				"stardew_valley_pierre",
-				"stardew_valley_marnie",
-				"stardew_valley_clint",
-				"stardew_valley_the_junimos",
-				"stardew_valley_linus",
-				"stardew_valley_the_mines",
-				"stardew_valley_the_desert",
-				"stardew_valley_krobus",
-				"stardew_valley_abigail",
-				"stardew_valley_jojamart",
-				"stardew_valley_robin",
-				"stardew_valley_the_stardrop",
-				"stardew_valley_prismatic_shard",
-				"stardew_valley_community_center",
-				"stardew_valley_grandpa"
-			],
-			"submitted_by": ""
-		},
-		"2026-03-31": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Metal Gear Solid",
-			"share_text": "Kept you waiting, huh? ",
-			"shops": [
-				{
-					"p1": "strategy_guide",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "quick_save",
-					"p2": "overclock_chip"
-				},
-				{
-					"p1": "second_chance",
-					"p2": "multitap"
-				}
-			],
-			"showcase": [
-				"metal_gear_solid_solid_snake",
-				"metal_gear_solid_psycho_mantis",
-				"metal_gear_solid_meryl_silverburgh"
-			],
-			"starters": [
-				"metal_gear_solid_solid_snake",
-				"metal_gear_solid_liquid_snake",
-				"metal_gear_solid_big_boss",
-				"metal_gear_solid_revolver_ocelot",
-				"metal_gear_solid_metal_gear_rex",
-				"metal_gear_solid_the_boss",
-				"metal_gear_solid_psycho_mantis",
-				"metal_gear_solid_otacon",
-				"metal_gear_solid_meryl_silverburgh",
-				"metal_gear_solid_gray_fox",
-				"metal_gear_solid_raiden",
-				"metal_gear_solid_shadow_moses",
-				"metal_gear_solid_cardboard_box",
-				"metal_gear_solid_stealth_camouflage",
-				"metal_gear_solid_solidus_snake",
-				"metal_gear_solid_kazuhira_miller"
-			],
-			"submitted_by": ""
-		},
-		"2026-04-01": {
-			"daily_type": "mystery",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Who's That? Nintendo Edition",
-			"share_text": "April Fools! Can you name the silhouettes?",
-			"shops": [
-				{
-					"p1": "training_mode",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "turbo_button",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "gold_cartridge",
-					"p2": "save_state"
-				}
-			],
-			"showcase": [
-				"nintendo_all_stars_link",
-				"nintendo_all_stars_mario",
-				"nintendo_all_stars_pikachu"
-			],
-			"starters": [
-				"nintendo_all_stars_mario",
-				"nintendo_all_stars_link",
-				"nintendo_all_stars_pikachu",
-				"nintendo_all_stars_samus_aran",
-				"nintendo_all_stars_kirby",
-				"nintendo_all_stars_donkey_kong",
-				"nintendo_all_stars_yoshi",
-				"nintendo_all_stars_fox_mccloud",
-				"nintendo_all_stars_captain_falcon",
-				"nintendo_all_stars_isabelle",
-				"nintendo_all_stars_inkling",
-				"nintendo_all_stars_tom_nook",
-				"nintendo_all_stars_bowser",
-				"nintendo_all_stars_princess_peach",
-				"nintendo_all_stars_marth",
-				"nintendo_all_stars_olimar",
-				"nintendo_all_stars_luigi",
-				"nintendo_all_stars_zelda",
-				"nintendo_all_stars_charizard",
-				"nintendo_all_stars_diddy_kong",
-				"nintendo_all_stars_wario",
-				"nintendo_all_stars_ganondorf",
-				"nintendo_all_stars_rosalina",
-				"nintendo_all_stars_meta_knight",
-				"nintendo_all_stars_pit",
-				"nintendo_all_stars_little_mac",
-				"nintendo_all_stars_villager",
-				"nintendo_all_stars_ridley",
-				"nintendo_all_stars_king_dedede",
-				"nintendo_all_stars_shulk",
-				"nintendo_all_stars_lucina",
-				"nintendo_all_stars_toad"
-			],
-			"submitted_by": ""
-		},
-		"2026-04-02": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Hollow Knight",
-			"share_text": "No cost too great for a perfect score",
-			"shops": [
-				{
-					"p1": "game_shark",
-					"p2": "training_mode"
-				},
-				{
-					"p1": "s_video",
-					"p2": "link_cable"
-				},
-				{
-					"p1": "overclock_chip",
-					"p2": "cooling_fan"
-				}
-			],
-			"showcase": [
-				"hollow_knight_the_knight",
-				"hollow_knight_hornet",
-				"hollow_knight_zote_the_mighty"
-			],
-			"starters": [
-				"hollow_knight_the_knight",
-				"hollow_knight_hornet",
-				"hollow_knight_hallownest",
-				"hollow_knight_the_grubfather",
-				"hollow_knight_elderbug",
-				"hollow_knight_the_radiance",
-				"hollow_knight_zote_the_mighty",
-				"hollow_knight_cornifer",
-				"hollow_knight_the_mantis_lords",
-				"hollow_knight_quirrel",
-				"hollow_knight_the_hollow_knight",
-				"hollow_knight_city_of_tears",
-				"hollow_knight_dirtmouth",
-				"hollow_knight_geo",
-				"hollow_knight_charms",
-				"hollow_knight_soul"
-			],
-			"submitted_by": ""
-		},
-		"2026-04-03": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "The Sims",
-			"share_text": "Sul sul! Time for trivia",
-			"shops": [
-				{
-					"p1": "training_mode",
-					"p2": "power_supply"
-				},
-				{
-					"p1": "quick_save",
-					"p2": "memory_card"
-				},
-				{
-					"p1": "piggy_bank",
-					"p2": "double_adapter"
-				}
-			],
-			"showcase": [
-				"the_sims_bella_goth",
-				"the_sims_plumbob",
-				"the_sims_pleasantview"
-			],
-			"starters": [
-				"the_sims_bella_goth",
-				"the_sims_plumbob",
-				"the_sims_simoleons",
-				"the_sims_cowplant",
-				"the_sims_the_grim_reaper",
-				"the_sims_bonehilda",
-				"the_sims_pleasantview",
-				"the_sims_strangetown",
-				"the_sims_the_mother_plant",
-				"the_sims_bob_newbie",
-				"the_sims_freezer_bunny",
-				"the_sims_mortimer_goth",
-				"the_sims_landgraab_family",
-				"the_sims_mrs._crumplebottom",
-				"the_sims_social_bunny",
-				"the_sims_tragic_clown"
-			],
-			"submitted_by": ""
-		},
-		"2026-04-04": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Red Dead Redemption 2",
-			"share_text": "I HAVE A PLAN",
-			"shops": [
-				{
-					"p1": "memory_card",
-					"p2": "rumble_pack"
-				},
-				{
-					"p1": "game_shark",
-					"p2": "link_cable"
-				},
-				{
-					"p1": "quick_save",
-					"p2": "second_chance"
-				}
-			],
-			"showcase": [
-				"red_dead_redemption_2_arthur_morgan",
-				"red_dead_redemption_2_john_marston",
-				"red_dead_redemption_2_dutch_van_der_linde"
-			],
-			"starters": [
-				"red_dead_redemption_2_arthur_morgan",
-				"red_dead_redemption_2_dutch_van_der_linde",
-				"red_dead_redemption_2_john_marston",
-				"red_dead_redemption_2_sadie_adler",
-				"red_dead_redemption_2_micah_bell",
-				"red_dead_redemption_2_saint_denis",
-				"red_dead_redemption_2_valentine",
-				"red_dead_redemption_2_blackwater",
-				"red_dead_redemption_2_the_van_der_linde_gang",
-				"red_dead_redemption_2_hosea_matthews",
-				"red_dead_redemption_2_charles_smith",
-				"red_dead_redemption_2_lenny_summers",
-				"red_dead_redemption_2_beecher's_hope",
-				"red_dead_redemption_2_guarma",
-				"red_dead_redemption_2_pinkerton_agency",
-				"red_dead_redemption_2_bill_williamson",
-				"red_dead_redemption_2_abigail_roberts"
-			],
-			"submitted_by": ""
-		},
-		"2026-04-05": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Spyro: Easter Special !",
-			"share_text": "Happy easter egg hunters",
-			"shops": [
-				{
-					"p1": "pause_button",
-					"p2": "expansion_pak"
-				},
-				{
-					"p1": "s_video",
-					"p2": "power_supply"
-				},
-				{
-					"p1": "training_mode",
-					"p2": "second_chance"
-				}
-			],
-			"showcase": [
-				"spyro_year_of_the_dragon_spyro",
-				"spyro_year_of_the_dragon_sparx",
-				"spyro_year_of_the_dragon_bianca"
-			],
-			"starters": [
-				"spyro_year_of_the_dragon_spyro",
-				"spyro_year_of_the_dragon_sparx",
-				"spyro_year_of_the_dragon_hunter_the_cheetah",
-				"spyro_year_of_the_dragon_the_sorceress",
-				"spyro_year_of_the_dragon_bianca",
-				"spyro_year_of_the_dragon_sheila_the_kangaroo",
-				"spyro_year_of_the_dragon_sgt._byrd",
-				"spyro_year_of_the_dragon_bentley_the_yeti",
-				"spyro_year_of_the_dragon_agent_9",
-				"spyro_year_of_the_dragon_moneybags",
-				"spyro_year_of_the_dragon_dragon_eggs",
-				"spyro_year_of_the_dragon_sunrise_spring",
-				"spyro_year_of_the_dragon_midday_gardens",
-				"spyro_year_of_the_dragon_evening_lake",
-				"spyro_year_of_the_dragon_midnight_mountain",
-				"spyro_year_of_the_dragon_the_rhynocs"
-			],
-			"submitted_by": ""
-		},
-		"2026-04-06": {
-			"daily_type": "normal",
-			"difficulty": "Easy",
-			"mode": "STANDARD",
-			"motd": "Spyro: The Dragon Realms & Beyond",
-			"share_text": "I saved Avalar and the Dragon Realms on today's Skillcheck!",
-			"shops": [
-				{
-					"p1": "combo_breaker",
-					"p2": "extra_life"
-				},
-				{
-					"p1": "double_adapter",
-					"p2": "turbo_button"
-				},
-				{
-					"p1": "multitap",
-					"p2": "piggy_bank"
-				}
-			],
-			"showcase": [
-				"spyro_year_of_the_dragon_spyro",
-				"spyro_year_of_the_dragon_sparx",
-				"spyro_gnasty_gnorc"
-			],
-			"starters": [
-				"spyro_year_of_the_dragon_spyro",
-				"spyro_year_of_the_dragon_sparx",
-				"spyro_gnasty_gnorc",
-				"spyro_ripto",
-				"spyro_artisans",
-				"spyro_peace_keepers",
-				"spyro_magic_crafters",
-				"spyro_beast_makers",
-				"spyro_dream_weavers",
-				"spyro_summer_forest",
-				"spyro_autumn_plains",
-				"spyro_winter_tundra",
-				"spyro_orbs",
-				"spyro_talismans",
-				"spyro_gems",
-				"spyro_dragon_statues",
-				"spyro_elora",
-				"spyro_the_professor"
-			],
-			"submitted_by": ""
 		}
 	}
 }
