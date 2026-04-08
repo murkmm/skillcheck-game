@@ -3,3 +3,12 @@
 
 /play/*.wasm
   Content-Encoding: gzip
+
+/daily-manifest-x9z.json
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Cache-Control: public, max-age=60
+
+/ghost_database.json
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
