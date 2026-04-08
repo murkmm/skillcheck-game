@@ -91966,6 +91966,7 @@
 						"correct": "Roguelike Deckbuilder",
 						"difficulty": "Easy",
 						"explanation": "Slay the Spire is credited with popularizing the roguelike deckbuilding genre.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_ironclad.webp",
 						"question": "What genre of game is this character featured in?",
 						"wrong": [
@@ -91978,6 +91979,7 @@
 						"correct": "Mega Crit",
 						"difficulty": "Easy",
 						"explanation": "Mega Crit is the independent studio behind the massive success of Slay the Spire.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which company developed the game featuring the Ironclad?",
 						"wrong": [
@@ -91990,6 +91992,7 @@
 						"correct": "Red",
 						"difficulty": "Easy",
 						"explanation": "Each hero in the game is color-coded; the Ironclad uses red cards representing strength and fire.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the primary color of the cards used by the Ironclad?",
 						"wrong": [
@@ -92002,6 +92005,7 @@
 						"correct": "Burning Blood",
 						"difficulty": "Easy",
 						"explanation": "Burning Blood allows the Ironclad to recover some health at the end of every fight.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the Ironclad's starting relic that heals him after combat?",
 						"wrong": [
@@ -92014,6 +92018,7 @@
 						"correct": "Strength",
 						"difficulty": "Easy",
 						"explanation": "Strength increases the damage of every attack card the Ironclad plays.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of these is a signature status effect the Ironclad can gain to increase his damage?",
 						"wrong": [
@@ -92026,6 +92031,7 @@
 						"correct": "Block",
 						"difficulty": "Medium",
 						"explanation": "Normally Block is lost at the start of your turn, but Barricade allows it to stack indefinitely.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_ironclad.webp",
 						"question": "The Ironclad's 'Barricade' card prevents which resource from disappearing at the end of a turn?",
 						"wrong": [
@@ -92038,6 +92044,7 @@
 						"correct": "Feed",
 						"difficulty": "Medium",
 						"explanation": "Feed is a powerful card that rewards players with more health for finishing off enemies with it.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which Ironclad card allows him to gain permanent Max HP if it deals the killing blow?",
 						"wrong": [
@@ -92050,6 +92057,7 @@
 						"correct": "Exhaust",
 						"difficulty": "Medium",
 						"explanation": "Many Ironclad cards utilize the Exhaust mechanic to thin the deck during a fight.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What mechanic involves removing a card from combat for the rest of the battle?",
 						"wrong": [
@@ -92062,6 +92070,7 @@
 						"correct": "Demon Form",
 						"difficulty": "Medium",
 						"explanation": "Demon Form is a high-cost card that makes the player significantly stronger the longer the fight lasts.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which 'Form' card grants the Ironclad Strength at the start of every turn?",
 						"wrong": [
@@ -92074,6 +92083,7 @@
 						"correct": "Greatsword",
 						"difficulty": "Medium",
 						"explanation": "The Ironclad is almost always shown wielding a massive, jagged sword.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What type of weapon is most commonly depicted in the Ironclad's card art?",
 						"wrong": [
@@ -92083,11 +92093,12 @@
 						]
 					},
 					{
-						"correct": "Corruption",
+						"correct": "Second Wind",
 						"difficulty": "Hard",
 						"explanation": "Corruption is considered one of the most powerful cards in the game when paired with specific relics.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_ironclad.webp",
-						"question": "Which Ironclad card costs zero Energy but exhausts all non-attack cards in your hand?",
+						"question": "Which Ironclad card exhausts all non-attack cards in your hand?",
 						"wrong": [
 							"Havoc",
 							"Fiery Prowess",
@@ -92098,8 +92109,9 @@
 						"correct": "Dead Branch",
 						"difficulty": "Hard",
 						"explanation": "The Dead Branch and Corruption combo is a legendary 'win condition' for Ironclad players.",
+						"fact_checked": true,
 						"image_url": "",
-						"question": "What is the name of the Ironclad's rare relic that adds a random card to your hand whenever you Exhaust one?",
+						"question": "What is the name of the rare relic that adds a random card to your hand whenever you Exhaust one?",
 						"wrong": [
 							"Twisted Twig",
 							"Ancient Log",
@@ -92110,6 +92122,7 @@
 						"correct": "He sold their souls to a demon",
 						"difficulty": "Hard",
 						"explanation": "The flavor text suggests he made a pact that resulted in the extinction of his tribe.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the lore, why is the Ironclad the only one left of his kind?",
 						"wrong": [
@@ -92122,6 +92135,7 @@
 						"correct": "Twin Strike",
 						"difficulty": "Hard",
 						"explanation": "Twin Strike is a common card that becomes devastating if the player has high Strength.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which attack card hits twice and scales heavily with Strength?",
 						"wrong": [
@@ -92134,6 +92148,7 @@
 						"correct": "Deals damage when you draw status or curse cards",
 						"difficulty": "Hard",
 						"explanation": "It turned a weakness into a strength by punishing enemies that clutter your deck with junk cards.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does the 'Fire Breathing' card do after it was reworked in later updates?",
 						"wrong": [
@@ -92170,6 +92185,7 @@
 						"correct": "Slay the Spire",
 						"difficulty": "Easy",
 						"explanation": "The game's title is the literal objective of the four protagonists.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_silent.webp",
 						"question": "What is the main objective of the heroes in this game?",
 						"wrong": [
@@ -92182,6 +92198,7 @@
 						"correct": "PlayStation 5",
 						"difficulty": "Easy",
 						"explanation": "The game debuted on PC via Steam early access before moving to consoles later.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which platform was Slay the Spire NOT originally released on during early access?",
 						"wrong": [
@@ -92194,6 +92211,7 @@
 						"correct": "Green",
 						"difficulty": "Easy",
 						"explanation": "The Silent uses green cards, which focus on poison, agility, and multiple small attacks.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What color are the cards used by The Silent?",
 						"wrong": [
@@ -92206,6 +92224,7 @@
 						"correct": "Great Serpent",
 						"difficulty": "Easy",
 						"explanation": "Her design features the skull of a giant snake she supposedly hunted.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What animal skull does The Silent wear as a mask?",
 						"wrong": [
@@ -92218,6 +92237,7 @@
 						"correct": "Shivs",
 						"difficulty": "Easy",
 						"explanation": "Shivs are temporary cards that are generated by other cards and disappear after use.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which mechanic allows The Silent to play cards that deal small damage and cost zero Energy?",
 						"wrong": [
@@ -92230,6 +92250,7 @@
 						"correct": "Deals damage at the start of their turn",
 						"difficulty": "Medium",
 						"explanation": "Poison damage bypasses Block, making it very effective against high-defense enemies.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_silent.webp",
 						"question": "What does the 'Poison' status effect do to enemies in the game?",
 						"wrong": [
@@ -92242,6 +92263,7 @@
 						"correct": "Ring of the Snake",
 						"difficulty": "Medium",
 						"explanation": "The Ring of the Snake provides an early-turn advantage by giving the player more options.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which starter relic does The Silent begin with to draw extra cards at the start of combat?",
 						"wrong": [
@@ -92254,6 +92276,7 @@
 						"correct": "Intangible",
 						"difficulty": "Medium",
 						"explanation": "Intangible reduces all incoming damage to 1 for a limited number of turns.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Silent's 'Wraith Form' card gives her which powerful defensive buff?",
 						"wrong": [
@@ -92263,21 +92286,10 @@
 						]
 					},
 					{
-						"correct": "Adrenaline",
-						"difficulty": "Medium",
-						"explanation": "Adrenaline is a zero-cost card that effectively gives the player a free boost during their turn.",
-						"image_url": "",
-						"question": "Which card allows The Silent to gain Energy and draw cards by discarding others?",
-						"wrong": [
-							"Sprint",
-							"Focus",
-							"Reflex"
-						]
-					},
-					{
 						"correct": "Gremlin Nob",
 						"difficulty": "Medium",
 						"explanation": "Gremlin Nob gains Strength whenever a Skill card is played, punishing The Silent's defensive nature.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which elite enemy in Act 1 is particularly dangerous for The Silent's 'Skill' heavy decks?",
 						"wrong": [
@@ -92290,6 +92302,7 @@
 						"correct": "Catalyst",
 						"difficulty": "Hard",
 						"explanation": "Catalyst is the key to achieving thousands of poison damage in a single turn.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_silent.webp",
 						"question": "What is the name of the rare Silent card that doubles an enemy's Poison count?",
 						"wrong": [
@@ -92299,21 +92312,10 @@
 						]
 					},
 					{
-						"correct": "Infinite Blades",
-						"difficulty": "Hard",
-						"explanation": "While Blade Dance gives Shivs immediately, Infinite Blades provides one at the start of each turn.",
-						"image_url": "",
-						"question": "Which card gives The Silent a Shiv every time she plays another card during that turn?",
-						"wrong": [
-							"Blade Dance",
-							"Cloak and Dagger",
-							"A Thousand Cuts"
-						]
-					},
-					{
 						"correct": "It decreases by 1",
 						"difficulty": "Hard",
 						"explanation": "Poison naturally wears off slowly over time, unless the player has the 'Snecko Skull' or 'Specimen'.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What happens to the Poison count on an enemy after it deals damage at the start of their turn?",
 						"wrong": [
@@ -92326,8 +92328,9 @@
 						"correct": "Runic Dome",
 						"difficulty": "Hard",
 						"explanation": "Actually, Runic Dome is a general boss relic, but many Silent players use it. A more specific boss relic for her is the Hovering Kite.",
+						"fact_checked": true,
 						"image_url": "",
-						"question": "Which relic, specific to The Silent, gives her additional Energy but prevents her from seeing enemy intents?",
+						"question": "Which relic gives additional Energy but prevents from seeing enemy intents?",
 						"wrong": [
 							"Coffee Dripper",
 							"Ectoplasm",
@@ -92338,6 +92341,7 @@
 						"correct": "Slaying a Great Serpent",
 						"difficulty": "Hard",
 						"explanation": "Her clothes and mask are trophies from this ritualistic hunt.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In her background story, what was the trial The Silent had to pass to become a hunter?",
 						"wrong": [
@@ -92374,6 +92378,7 @@
 						"correct": "Playing cards",
 						"difficulty": "Easy",
 						"explanation": "Everything from attacking to defending is handled through a deck of cards.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_defect.webp",
 						"question": "What is the primary way players interact with this game?",
 						"wrong": [
@@ -92386,6 +92391,7 @@
 						"correct": "True",
 						"difficulty": "Easy",
 						"explanation": "As a roguelike, once your health reaches zero, the run is over and you must start from the beginning.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "True or False: Slay the Spire features permanent death (permadeath).",
 						"wrong": [
@@ -92396,6 +92402,7 @@
 						"correct": "Orbs",
 						"difficulty": "Easy",
 						"explanation": "The Defect channels elemental Orbs that hover around it and trigger effects each turn.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What unique mechanic does The Defect use to deal passive damage or gain defense?",
 						"wrong": [
@@ -92408,6 +92415,7 @@
 						"correct": "Blue",
 						"difficulty": "Easy",
 						"explanation": "The Defect uses blue cards, themed around technology, electricity, and frost.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which color are the cards used by The Defect?",
 						"wrong": [
@@ -92420,6 +92428,7 @@
 						"correct": "Fire",
 						"difficulty": "Easy",
 						"explanation": "While there is a Plasma orb, Fire is not an orb type available to the Defect.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of these is NOT a standard orb type for the Defect?",
 						"wrong": [
@@ -92432,6 +92441,7 @@
 						"correct": "Cracked Core",
 						"difficulty": "Medium",
 						"explanation": "Cracked Core gives the Defect an immediate offensive presence in every fight.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_defect.webp",
 						"question": "What is the name of the starter relic for The Defect that channels a Lightning orb at the start of combat?",
 						"wrong": [
@@ -92444,6 +92454,7 @@
 						"correct": "Focus",
 						"difficulty": "Medium",
 						"explanation": "Focus increases both the passive and 'Evoke' effects of most orbs.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which status effect increases the effectiveness of the Defect's orbs?",
 						"wrong": [
@@ -92456,6 +92467,7 @@
 						"correct": "The oldest orb is Evoked",
 						"difficulty": "Medium",
 						"explanation": "Evoking an orb triggers a more powerful version of its effect immediately.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What happens when the Defect fills all orb slots and channels a new one?",
 						"wrong": [
@@ -92468,6 +92480,7 @@
 						"correct": "Claw",
 						"difficulty": "Medium",
 						"explanation": "Claw is the center of many fan-favorite 'Claw is Law' meme decks.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which zero-cost attack card deals more damage for every other copy of that card played in the combat?",
 						"wrong": [
@@ -92480,6 +92493,7 @@
 						"correct": "Played twice",
 						"difficulty": "Medium",
 						"explanation": "Echo Form is one of the most powerful scaling cards in the game.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The card 'Echo Form' allows the first card played each turn to be what?",
 						"wrong": [
@@ -92492,6 +92506,7 @@
 						"correct": "Dark",
 						"difficulty": "Hard",
 						"explanation": "Dark orbs build up damage over time and are usually triggered by 'Multi-Cast' or 'Recursion'.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_defect.webp",
 						"question": "What is the name of the orb that deals damage based on how many turns it has been held?",
 						"wrong": [
@@ -92501,21 +92516,10 @@
 						]
 					},
 					{
-						"correct": "Reckless Charge",
-						"difficulty": "Hard",
-						"explanation": "It offers high efficiency at the cost of future turn deck-clogging.",
-						"image_url": "",
-						"question": "Which Defect card adds a 'Dazed' status card to your draw pile in exchange for high damage?",
-						"wrong": [
-							"Overclock",
-							"Wild Strike",
-							"Turbo"
-						]
-					},
-					{
 						"correct": "Adds a random Power card to your hand",
 						"difficulty": "Hard",
 						"explanation": "It allows the Defect to eventually have dozens of active powers.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does the 'Creative AI' card do at the start of every turn?",
 						"wrong": [
@@ -92528,6 +92532,7 @@
 						"correct": "An extra orb slot",
 						"difficulty": "Hard",
 						"explanation": "Inserter is key for long boss fights where having many orbs is advantageous.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The 'Inserter' boss relic gives the Defect what benefit every two turns?",
 						"wrong": [
@@ -92540,6 +92545,7 @@
 						"correct": "It gained a soul or self-awareness",
 						"difficulty": "Hard",
 						"explanation": "It broke its programming and stopped following the Spire's logic.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the lore reason the Defect is 'defective' compared to other automata?",
 						"wrong": [
@@ -92576,6 +92582,7 @@
 						"correct": "Randomized levels and permanent death",
 						"difficulty": "Easy",
 						"explanation": "Roguelikes feature procedural generation so no two runs are the same.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_watcher.webp",
 						"question": "Slay the Spire is often categorized as a 'Roguelike'. What does the 'like' usually imply?",
 						"wrong": [
@@ -92588,6 +92595,7 @@
 						"correct": "A turn or 'Rest' action",
 						"difficulty": "Easy",
 						"explanation": "At a Rest Site, you must choose between healing (Resting) or Upgrading a card.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In this game, what do you spend at a rest site to recover Health?",
 						"wrong": [
@@ -92600,6 +92608,7 @@
 						"correct": "Stances",
 						"difficulty": "Easy",
 						"explanation": "The Watcher switches between Calm, Wrath, and Divinity to alter her combat capabilities.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the signature mechanic of The Watcher that involves switching between different states?",
 						"wrong": [
@@ -92612,6 +92621,7 @@
 						"correct": "Purple",
 						"difficulty": "Easy",
 						"explanation": "Purple cards represent the spiritual and disciplined nature of the Watcher.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What color are The Watcher's cards?",
 						"wrong": [
@@ -92624,6 +92634,7 @@
 						"correct": "Double damage",
 						"difficulty": "Easy",
 						"explanation": "Wrath is a high-risk, high-reward state where all damage is doubled for both the player and the enemy.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "While in the 'Wrath' stance, how much damage does The Watcher deal and take?",
 						"wrong": [
@@ -92636,6 +92647,7 @@
 						"correct": "Gain 2 Energy",
 						"difficulty": "Medium",
 						"explanation": "Managing the transition from Calm to Wrath is essential for gaining enough Energy to finish fights.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_watcher.webp",
 						"question": "What is the benefit of exiting the 'Calm' stance?",
 						"wrong": [
@@ -92648,6 +92660,7 @@
 						"correct": "Scry",
 						"difficulty": "Medium",
 						"explanation": "Scry helps the player filter out bad draws and find their key cards faster.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which Watcher mechanic allows the player to look at the top cards of their draw pile and discard them?",
 						"wrong": [
@@ -92660,6 +92673,7 @@
 						"correct": "Divinity",
 						"difficulty": "Medium",
 						"explanation": "Divinity is usually reached by accumulating 'Mantra' points.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What rare stance triples the damage dealt by The Watcher and ends at the start of the next turn?",
 						"wrong": [
@@ -92672,6 +92686,7 @@
 						"correct": "Retain",
 						"difficulty": "Medium",
 						"explanation": "The Watcher has many cards with Retain, allowing her to save powerful moves for the perfect moment.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which keyword prevents a card from being discarded at the end of the turn?",
 						"wrong": [
@@ -92684,6 +92699,7 @@
 						"correct": "Miracle",
 						"difficulty": "Medium",
 						"explanation": "Miracle is a zero-cost card that provides 1 Energy when played.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The starter relic for The Watcher, Pure Water, adds which card to your hand at the start of combat?",
 						"wrong": [
@@ -92693,21 +92709,10 @@
 						]
 					},
 					{
-						"correct": "Body Slam",
-						"difficulty": "Hard",
-						"explanation": "Body Slam is actually an Ironclad card. For the Watcher, the similar high-defense-scaling card is 'Wallop', which gains block based on damage dealt.",
-						"image_url": "https://skillcheckgame.com/assets/images/the_watcher.webp",
-						"question": "Which card deals damage to all enemies equal to the amount of Block the Watcher has?",
-						"wrong": [
-							"Wallop",
-							"Judgement",
-							"The Ending"
-						]
-					},
-					{
 						"correct": "Sets HP to zero if it is below a certain threshold",
 						"difficulty": "Hard",
 						"explanation": "If an enemy has 30 HP or less (40 if upgraded), Judgement kills them instantly.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does the card 'Judgement' do to an enemy?",
 						"wrong": [
@@ -92720,6 +92725,7 @@
 						"correct": "Battle Hymn",
 						"difficulty": "Hard",
 						"explanation": "Battle Hymn is a Power card that provides consistent offensive pressure.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which Watcher card creates a 'Smite' card in your hand every turn?",
 						"wrong": [
@@ -92732,6 +92738,7 @@
 						"correct": "Teardrop Locket",
 						"difficulty": "Hard",
 						"explanation": "Teardrop Locket is an Uncommon relic, not a boss relic, that facilitates faster stance dancing.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the boss relic that allows the Watcher to start every combat in the Calm stance?",
 						"wrong": [
@@ -92744,6 +92751,7 @@
 						"correct": "Report on the Spire's inhabitants",
 						"difficulty": "Hard",
 						"explanation": "She is an observer who records the events within the Spire.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "According to the game's lore, the Watcher was sent by a 'Master' to do what?",
 						"wrong": [
@@ -92780,6 +92788,7 @@
 						"correct": "Three",
 						"difficulty": "Easy",
 						"explanation": "The standard game loop consists of Act 1 (The Exordium), Act 2 (The City), and Act 3 (The Beyond).",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_spire.webp",
 						"question": "How many main Acts must a player complete to reach the initial credits?",
 						"wrong": [
@@ -92792,6 +92801,7 @@
 						"correct": "Shop",
 						"difficulty": "Easy",
 						"explanation": "Shops appear on the map as a blue rug icon.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the map nodes where players can buy relics and remove cards?",
 						"wrong": [
@@ -92804,6 +92814,7 @@
 						"correct": "Act 4",
 						"difficulty": "Easy",
 						"explanation": "Act 4, or 'The Ending', contains the final boss of the game.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the final secret area unlocked by collecting three keys?",
 						"wrong": [
@@ -92816,6 +92827,7 @@
 						"correct": "A monster with horns (Elite)",
 						"difficulty": "Easy",
 						"explanation": "Elite combats are much harder than normal ones but are the primary source of Relics.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of these icons on the map represents a difficult combat that rewards a Relic?",
 						"wrong": [
@@ -92828,6 +92840,7 @@
 						"correct": "The Exordium",
 						"difficulty": "Easy",
 						"explanation": "The Exordium is the bottom-most part of the Spire where every run begins.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the first Act of the Spire?",
 						"wrong": [
@@ -92840,6 +92853,7 @@
 						"correct": "Ruby, Sapphire, Emerald",
 						"difficulty": "Medium",
 						"explanation": "You get them from a Rest Site, a Chest, and a burning Elite combat.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_spire.webp",
 						"question": "What are the names of the three keys required to reach the Heart?",
 						"wrong": [
@@ -92849,21 +92863,10 @@
 						]
 					},
 					{
-						"correct": "The Slime Boss",
-						"difficulty": "Medium",
-						"explanation": "The Slime Boss is actually the Act 1 boss that features this splitting mechanic.",
-						"image_url": "",
-						"question": "Which Act 2 boss is known for splitting into two smaller versions when its HP drops?",
-						"wrong": [
-							"The Collector",
-							"Bronze Automaton",
-							"The Champ"
-						]
-					},
-					{
 						"correct": "Ascension",
 						"difficulty": "Medium",
 						"explanation": "Each Ascension level adds a new penalty, such as stronger enemies or less healing.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the term for the difficulty modifiers that can be unlocked up to level 20?",
 						"wrong": [
@@ -92876,6 +92879,7 @@
 						"correct": "An Elite that drops the Emerald Key",
 						"difficulty": "Medium",
 						"explanation": "Burning Elites have extra buffs like increased HP or Strength.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does a 'Burning Elite' on the map represent?",
 						"wrong": [
@@ -92888,6 +92892,7 @@
 						"correct": "Donu and Deca",
 						"difficulty": "Medium",
 						"explanation": "Donu and Deca are iconic geometric bosses found at the top of The Beyond.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the Act 3 boss that looks like two geometric shapes?",
 						"wrong": [
@@ -92900,6 +92905,7 @@
 						"correct": "Act 2",
 						"difficulty": "Hard",
 						"explanation": "This event offers the player Apparition cards in exchange for half of their Max HP.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_spire.webp",
 						"question": "Which Act contains the event 'The Council of Ghosts'?",
 						"wrong": [
@@ -92912,6 +92918,7 @@
 						"correct": "The Spire is alive/Living rock",
 						"difficulty": "Hard",
 						"explanation": "The Spire is a biological entity that regenerates and changes its internal layout.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the lore-consistent name of the substance the Spire is made of?",
 						"wrong": [
@@ -92921,33 +92928,10 @@
 						]
 					},
 					{
-						"correct": "It teleports you directly to the Boss",
-						"difficulty": "Hard",
-						"explanation": "The Secret Portal is a rare event that lets you skip the rest of Act 3.",
-						"image_url": "",
-						"question": "Which boss is found in the 'Secret Portal' event in Act 3?",
-						"wrong": [
-							"The Merchant",
-							"Neow",
-							"The Heart"
-						]
-					},
-					{
-						"correct": "The Time Eater",
-						"difficulty": "Hard",
-						"explanation": "The Time Eater says 'Never liked you...' implying a past connection to the Watcher's order.",
-						"image_url": "",
-						"question": "What is the name of the special Act 3 boss who claims to have killed the player before?",
-						"wrong": [
-							"The Awakened One",
-							"The Collector",
-							"The Nemesis"
-						]
-					},
-					{
 						"correct": "Seven",
 						"difficulty": "Hard",
 						"explanation": "The map width is consistently 7 nodes wide, offering various pathing choices.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "How many total nodes are usually in a single floor of the Spire map?",
 						"wrong": [
@@ -92984,6 +92968,7 @@
 						"correct": "Gold",
 						"difficulty": "Easy",
 						"explanation": "Gold is earned from combats and events and spent primarily at the shop.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_merchant.webp",
 						"question": "What is the currency used to buy items from the Merchant?",
 						"wrong": [
@@ -92996,6 +92981,7 @@
 						"correct": "A rug",
 						"difficulty": "Easy",
 						"explanation": "The Merchant is always seen sitting or standing on a blue rug.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the Merchant's signature blue item that he stands on?",
 						"wrong": [
@@ -93008,6 +92994,7 @@
 						"correct": "Remove it",
 						"difficulty": "Easy",
 						"explanation": "Removing cards is a key strategy to make your deck more consistent.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What can you pay the Merchant to do to a card in your deck?",
 						"wrong": [
@@ -93020,6 +93007,7 @@
 						"correct": "Money",
 						"difficulty": "Easy",
 						"explanation": "The Merchant is quite fond of the player's gold.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Merchant is known for saying 'I like your...' what?",
 						"wrong": [
@@ -93032,6 +93020,7 @@
 						"correct": "White",
 						"difficulty": "Easy",
 						"explanation": "He wears a distinct white mask with simple features.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What color is the mask worn by the Merchant?",
 						"wrong": [
@@ -93041,11 +93030,12 @@
 						]
 					},
 					{
-						"correct": "The Courier",
+						"correct": "The Courier ",
 						"difficulty": "Medium",
 						"explanation": "The Courier also allows the shop to restock items after you buy them.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_merchant.webp",
-						"question": "Which relic makes shop prices lower by 25 percent?",
+						"question": "Which relic makes shop prices lower by 20 percent?",
 						"wrong": [
 							"Membership Card",
 							"Smiling Mask",
@@ -93056,6 +93046,7 @@
 						"correct": "Rare Relics",
 						"difficulty": "Medium",
 						"explanation": "Relics provide permanent buffs and are priced according to their rarity.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the most expensive type of item usually sold in the shop?",
 						"wrong": [
@@ -93068,6 +93059,7 @@
 						"correct": "Smiling Mask",
 						"difficulty": "Medium",
 						"explanation": "The Smiling Mask makes card removal cost a flat 50 gold forever.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of these is a relic specifically tied to the Merchant's face?",
 						"wrong": [
@@ -93080,6 +93072,7 @@
 						"correct": "Old Coin",
 						"difficulty": "Medium",
 						"explanation": "Old Coin is a huge boost to your purchasing power for the next shop visit.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which relic gives you 300 gold immediately upon pickup?",
 						"wrong": [
@@ -93092,6 +93085,7 @@
 						"correct": "You can't; he is not a combatant",
 						"difficulty": "Medium",
 						"explanation": "Unlike some other roguelikes, the Merchant in Slay the Spire cannot be fought.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "If you attack the Merchant, what happens?",
 						"wrong": [
@@ -93104,6 +93098,7 @@
 						"correct": "Membership Card",
 						"difficulty": "Hard",
 						"explanation": "The Membership Card is one of the most powerful economic relics in the game.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_merchant.webp",
 						"question": "What is the name of the relic that gives a 50 percent discount at all shops?",
 						"wrong": [
@@ -93116,6 +93111,7 @@
 						"correct": "Colorless",
 						"difficulty": "Hard",
 						"explanation": "Colorless cards like 'Hand of Greed' or 'Apotheosis' are unique shop offerings.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What rare color of card can only be found in the Merchant's shop or through specific events?",
 						"wrong": [
@@ -93125,21 +93121,10 @@
 						]
 					},
 					{
-						"correct": "Ambrosia",
-						"difficulty": "Hard",
-						"explanation": "Ambrosia is actually the Watcher's potion for Divinity. The card-choice potion is 'Discovery Potion'.",
-						"image_url": "",
-						"question": "Which potion, sold by the Merchant, allows you to choose 1 of 3 rare cards to add to your hand?",
-						"wrong": [
-							"Liquid Memories",
-							"Cultist Potion",
-							"Distilled Chaos"
-						]
-					},
-					{
 						"correct": "Gives them a 50 percent chance to go to discard instead",
 						"difficulty": "Hard",
 						"explanation": "This allows players to potentially reuse powerful one-time-use cards.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does the 'Strange Spoon' relic, sold in shops, do to cards that Exhaust?",
 						"wrong": [
@@ -93152,6 +93137,7 @@
 						"correct": "Merchant",
 						"difficulty": "Hard",
 						"explanation": "While fans have nicknames, he is simply the Merchant in the game's files.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the Merchant's name in the game's code?",
 						"wrong": [
@@ -93188,6 +93174,7 @@
 						"correct": "The very beginning of a run",
 						"difficulty": "Easy",
 						"explanation": "Neow greets every player at the start of Act 1.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/neow.webp",
 						"question": "Where do you encounter Neow in the Spire?",
 						"wrong": [
@@ -93200,6 +93187,7 @@
 						"correct": "Whale",
 						"difficulty": "Easy",
 						"explanation": "Neow is a giant, multi-eyed whale.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What animal species is Neow?",
 						"wrong": [
@@ -93209,21 +93197,10 @@
 						]
 					},
 					{
-						"correct": "The first boss",
-						"difficulty": "Easy",
-						"explanation": "If you die before the first boss, Neow only offers basic options in the next run.",
-						"image_url": "",
-						"question": "Neow's blessings are only available if you reached which point in your previous run?",
-						"wrong": [
-							"The second Act",
-							"The campfire",
-							"The Heart"
-						]
-					},
-					{
 						"correct": "Resurrects them",
 						"difficulty": "Easy",
 						"explanation": "Neow is an Ancient of Resurrection who brings the heroes back to life to fight again.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does Neow do to the player at the start of every run?",
 						"wrong": [
@@ -93236,6 +93213,7 @@
 						"correct": "Six",
 						"difficulty": "Easy",
 						"explanation": "Neow has three eyes on each side of her head.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "How many eyes does Neow have visible in her character art?",
 						"wrong": [
@@ -93248,6 +93226,7 @@
 						"correct": "1 HP",
 						"difficulty": "Medium",
 						"explanation": "This blessing allows players to snipe an Elite enemy if they path correctly.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/neow.webp",
 						"question": "Which 'Neow's Lament' blessing makes the first 3 combats of a run have enemies with how much HP?",
 						"wrong": [
@@ -93257,21 +93236,10 @@
 						]
 					},
 					{
-						"correct": "Losing Max HP or gaining a Curse",
-						"difficulty": "Medium",
-						"explanation": "Stronger rewards like boss relics or rare cards often require a sacrifice.",
-						"image_url": "",
-						"question": "What is the penalty usually associated with Neow's most powerful blessings?",
-						"wrong": [
-							"Losing the run immediately",
-							"Starting at half health",
-							"Losing all gold"
-						]
-					},
-					{
 						"correct": "The Ancients",
 						"difficulty": "Medium",
 						"explanation": "She was exiled to the bottom of the Spire by her fellow Ancients.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Neow is an exiled member of which group?",
 						"wrong": [
@@ -93284,6 +93252,7 @@
 						"correct": "To destroy the Heart of the Spire",
 						"difficulty": "Medium",
 						"explanation": "She uses the heroes as pawns to strike at the Heart of the Spire.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is Neow's ultimate goal in the game's lore?",
 						"wrong": [
@@ -93296,6 +93265,7 @@
 						"correct": "Transform 2 cards",
 						"difficulty": "Medium",
 						"explanation": "Transforming basic cards into random ones can drastically change a run's early game.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of these is a possible starting gift from Neow?",
 						"wrong": [
@@ -93308,6 +93278,7 @@
 						"correct": "Max HP or Neow's Lament",
 						"difficulty": "Hard",
 						"explanation": "This mechanic prevents players from restarting repeatedly just to get the perfect starting gift.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/neow.webp",
 						"question": "If you fail to reach the first boss, what is the 'consolation' blessing Neow offers?",
 						"wrong": [
@@ -93317,33 +93288,10 @@
 						]
 					},
 					{
-						"correct": "The End?",
-						"difficulty": "Hard",
-						"explanation": "The achievement hints that the cycle may not truly be over.",
-						"image_url": "",
-						"question": "What is the name of the achievement for defeating the Heart with all four characters?",
-						"wrong": [
-							"Neow's Revenge",
-							"Spire Slayer",
-							"Complete Victory"
-						]
-					},
-					{
-						"correct": "Welcome back...",
-						"difficulty": "Hard",
-						"explanation": "Neow acknowledges the player's return after a long absence.",
-						"image_url": "",
-						"question": "Which dialogue line does Neow say if you haven't played the game in a long time?",
-						"wrong": [
-							"Who are you?",
-							"The Spire has missed you",
-							"Your soul is weary"
-						]
-					},
-					{
 						"correct": "Blue/White",
 						"difficulty": "Hard",
 						"explanation": "She emanates a ghostly blue light from the bottom of the pit.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the specific color of the aura surrounding Neow?",
 						"wrong": [
@@ -93356,6 +93304,7 @@
 						"correct": "Four",
 						"difficulty": "Hard",
 						"explanation": "The options always scale in risk and reward from top to bottom.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "How many total blessing options does Neow present to a player who reached the first boss?",
 						"wrong": [
@@ -93392,6 +93341,7 @@
 						"correct": "You don't; you just deal score damage",
 						"difficulty": "Easy",
 						"explanation": "In a standard run, the character attacks the Heart during a cutscene but does not actually fight it.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_corrupt_heart.webp",
 						"question": "How do you 'kill' the Heart at the end of a standard 3-Act run?",
 						"wrong": [
@@ -93404,6 +93354,7 @@
 						"correct": "Act 4",
 						"difficulty": "Easy",
 						"explanation": "The Heart is the final encounter of the secret fourth act.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Where is the Corrupt Heart located?",
 						"wrong": [
@@ -93416,6 +93367,7 @@
 						"correct": "Beat of Death",
 						"difficulty": "Easy",
 						"explanation": "Beat of Death deals 1 or 2 damage to the player every time they play a card.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the status effect the Heart uses to punish you for every card played?",
 						"wrong": [
@@ -93428,6 +93380,7 @@
 						"correct": "True",
 						"difficulty": "Easy",
 						"explanation": "The 'Invincible' buff limits how much damage the Heart can take per turn to prevent one-shot combos.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "True or False: The Heart has a damage cap that prevents it from taking too much damage in one turn.",
 						"wrong": [
@@ -93438,6 +93391,7 @@
 						"correct": "Deep Red",
 						"difficulty": "Easy",
 						"explanation": "The room is filled with pulsing red veins and blood-like energy.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the primary color of the Heart and the room it is in?",
 						"wrong": [
@@ -93447,21 +93401,10 @@
 						]
 					},
 					{
-						"correct": "The Heart's Debuff attack",
-						"difficulty": "Medium",
-						"explanation": "On turn 1, the Heart fills your deck with Dazed, Slimed, Wound, Burn, and Void cards.",
-						"image_url": "https://skillcheckgame.com/assets/images/the_corrupt_heart.webp",
-						"question": "Which of these is a unique debuff the Heart applies that adds five different 'Status' cards to your deck?",
-						"wrong": [
-							"The Curse",
-							"Spire's Burden",
-							"Void Call"
-						]
-					},
-					{
 						"correct": "200",
 						"difficulty": "Medium",
 						"explanation": "The 'Invincible' threshold drops as Ascension increases, making the fight last longer.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the maximum amount of damage the Heart can take in a single turn on Ascension 20?",
 						"wrong": [
@@ -93474,6 +93417,7 @@
 						"correct": "Shield and Spear",
 						"difficulty": "Medium",
 						"explanation": "The Spire Shield and Spire Spear are the gatekeepers of the Heart fight.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the two mini-bosses you must fight immediately before the Heart?",
 						"wrong": [
@@ -93486,6 +93430,7 @@
 						"correct": "Blood Shots",
 						"difficulty": "Medium",
 						"explanation": "The Heart fires many small hits that can be devastating without enough Block.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of these is the name of the massive multi-hit attack the Heart performs?",
 						"wrong": [
@@ -93498,6 +93443,7 @@
 						"correct": "750",
 						"difficulty": "Medium",
 						"explanation": "It has the highest HP of any enemy in the game by a significant margin.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "How many total HP does the Heart have on standard difficulty?",
 						"wrong": [
@@ -93507,21 +93453,10 @@
 						]
 					},
 					{
-						"correct": "It gains Strength and its attacks grow stronger",
-						"difficulty": "Hard",
-						"explanation": "The Heart scales extremely fast, making it a race against time.",
-						"image_url": "https://skillcheckgame.com/assets/images/the_corrupt_heart.webp",
-						"question": "What happens on the turn after the Heart's 'Buff' move?",
-						"wrong": [
-							"It heals itself",
-							"It removes your relics",
-							"It ends the fight"
-						]
-					},
-					{
 						"correct": "Tungsten Rod",
 						"difficulty": "Hard",
 						"explanation": "Tungsten Rod reduces all damage by 1, which effectively negates the Beat of Death and weakens multi-hits.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which relic is considered the most important for surviving the 'Blood Shots' attack?",
 						"wrong": [
@@ -93531,21 +93466,10 @@
 						]
 					},
 					{
-						"correct": "Malaise",
-						"difficulty": "Hard",
-						"explanation": "Malaise reduces Strength permanently, while Piercing Wail does it for one crucial turn.",
-						"image_url": "",
-						"question": "Which card from the Silent can reduce the Heart's multi-hit damage to almost zero?",
-						"wrong": [
-							"Piercing Wail",
-							"Wraith Form",
-							"Blur"
-						]
-					},
-					{
 						"correct": "It is the source of the Spire's evil and resurrection cycle",
 						"difficulty": "Hard",
 						"explanation": "The Heart sustains the living Spire and the endless cycle of the climbers.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the 'Lore', why is the Heart considered 'Corrupt'?",
 						"wrong": [
@@ -93558,6 +93482,7 @@
 						"correct": "The screen turns white and shows 'Victory!'",
 						"difficulty": "Hard",
 						"explanation": "Unlike the standard ending, a Heart kill results in a special 'Victory!' screen instead of 'Victory?'.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the visual indicator that you have successfully 'defeated' the heart after the fight?",
 						"wrong": [
@@ -93594,6 +93519,7 @@
 						"correct": "Your turn ends immediately",
 						"difficulty": "Easy",
 						"explanation": "His unique mechanic forces your turn to end and increases his Strength after every 12 cards.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_time_eater.webp",
 						"question": "What happens if you play 12 cards against the Time Eater?",
 						"wrong": [
@@ -93606,6 +93532,7 @@
 						"correct": "Act 3",
 						"difficulty": "Easy",
 						"explanation": "He is one of the three possible bosses at the end of The Beyond.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which Act does the Time Eater appear in as a final boss?",
 						"wrong": [
@@ -93618,6 +93545,7 @@
 						"correct": "A large humanoid slug in robes",
 						"difficulty": "Easy",
 						"explanation": "He wears purple robes and carries a large clock-like staff.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does the Time Eater look like?",
 						"wrong": [
@@ -93630,6 +93558,7 @@
 						"correct": "Carefully counting how many cards you play",
 						"difficulty": "Easy",
 						"explanation": "Playing exactly 12 cards on your own terms is better than having your turn cut short unexpectedly.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the main strategy to beat the Time Eater?",
 						"wrong": [
@@ -93639,21 +93568,10 @@
 						]
 					},
 					{
-						"correct": "Draw Reduction",
-						"difficulty": "Easy",
-						"explanation": "He can reduce the number of cards you draw on your next turn.",
-						"image_url": "",
-						"question": "What is the name of the status the Time Eater applies that slows you down?",
-						"wrong": [
-							"Slow",
-							"Weak",
-							"Vulnerable"
-						]
-					},
-					{
 						"correct": "Heals back to half and removes debuffs",
 						"difficulty": "Medium",
 						"explanation": "This 'reset' makes the fight much longer and harder if you don't have enough damage.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_time_eater.webp",
 						"question": "When the Time Eater's health falls below half, what does he do on his next turn?",
 						"wrong": [
@@ -93666,6 +93584,7 @@
 						"correct": "The Watcher",
 						"difficulty": "Medium",
 						"explanation": "He says 'Never liked you...' to the Watcher, implying they were from the same order.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which character does the Time Eater specifically recognize in his dialogue?",
 						"wrong": [
@@ -93678,6 +93597,7 @@
 						"correct": "Time Warp",
 						"difficulty": "Medium",
 						"explanation": "Time Warp tracks the 12 cards played across all turns.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the clock-hand mechanic shown under his health bar?",
 						"wrong": [
@@ -93690,6 +93610,7 @@
 						"correct": "Infinite or Shiv-based decks",
 						"difficulty": "Medium",
 						"explanation": "Decks that rely on playing dozens of low-impact cards are heavily punished by the card limit.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which type of deck is most disadvantaged against the Time Eater?",
 						"wrong": [
@@ -93702,6 +93623,7 @@
 						"correct": "True",
 						"difficulty": "Medium",
 						"explanation": "If you play 5 cards and end your turn, the counter will stay at 5 for your next turn.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "True or False: The Time Eater's card counter persists across turns.",
 						"wrong": [
@@ -93709,21 +93631,10 @@
 						]
 					},
 					{
-						"correct": "Slow",
-						"difficulty": "Hard",
-						"explanation": "The 'Slow' debuff (usually applied by the Giant Head enemy) increases damage taken per card played, which ironically counters the Time Eater's goal.",
-						"image_url": "https://skillcheckgame.com/assets/images/the_time_eater.webp",
-						"question": "Which status effect from the Watcher makes the Time Eater take more damage for every card played?",
-						"wrong": [
-							"Vulnerable",
-							"Lock-On",
-							"Pressure Points"
-						]
-					},
-					{
 						"correct": "2",
 						"difficulty": "Hard",
 						"explanation": "This scaling means that if the fight goes on too long, his attacks become unblockable.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "How much Strength does the Time Eater gain every time his Time Warp triggers?",
 						"wrong": [
@@ -93736,6 +93647,7 @@
 						"correct": "Snail",
 						"difficulty": "Hard",
 						"explanation": "His shell and slow, methodical nature are very snail-like.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Time Eater's design is inspired by what type of animal combined with a human?",
 						"wrong": [
@@ -93748,6 +93660,7 @@
 						"correct": "Static Discharge",
 						"difficulty": "Hard",
 						"explanation": "Passive damage from orbs doesn't count toward the Time Warp limit.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which card from the Defect can help bypass the card limit by dealing damage via Orbs?",
 						"wrong": [
@@ -93760,6 +93673,7 @@
 						"correct": "Applies 1 Vulnerable and 1 Frail",
 						"difficulty": "Hard",
 						"explanation": "It makes you both take more damage and gain less block, a deadly combination.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does the Time Eater's 'Ripple' attack do to the player?",
 						"wrong": [
@@ -93796,6 +93710,7 @@
 						"correct": "CAW! CAW!",
 						"difficulty": "Easy",
 						"explanation": "The 'Caw Caw!' cry has become the most iconic meme in the Slay the Spire community.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_cultist.webp",
 						"question": "What is the famous battle cry of the Cultist?",
 						"wrong": [
@@ -93808,6 +93723,7 @@
 						"correct": "Grants Strength every turn",
 						"difficulty": "Easy",
 						"explanation": "Ritual makes the Cultist more dangerous the longer the fight lasts.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does the 'Ritual' buff do for the Cultist?",
 						"wrong": [
@@ -93820,6 +93736,7 @@
 						"correct": "Bird mask",
 						"difficulty": "Easy",
 						"explanation": "They worship a giant bird god, so they dress to match.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What kind of mask do the Cultists wear?",
 						"wrong": [
@@ -93832,6 +93749,7 @@
 						"correct": "Act 1",
 						"difficulty": "Easy",
 						"explanation": "The Cultist is often the first 'tutorial' fight of a new run.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In which Act are you most likely to encounter a lone Cultist as the very first enemy?",
 						"wrong": [
@@ -93844,6 +93762,7 @@
 						"correct": "Blue",
 						"difficulty": "Easy",
 						"explanation": "Cultists wear distinctive blue robes that match their bird-like masks.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What color are the robes worn by the standard Cultist?",
 						"wrong": [
@@ -93856,6 +93775,7 @@
 						"correct": "Cultist Potion",
 						"difficulty": "Medium",
 						"explanation": "The Cultist Potion grants the player 1 Strength (or more) every turn.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_cultist.webp",
 						"question": "Which potion allows the player to gain the same 'Ritual' buff as a Cultist?",
 						"wrong": [
@@ -93868,6 +93788,7 @@
 						"correct": "Causes you to say 'CAW!' at the start of combat",
 						"difficulty": "Medium",
 						"explanation": "It is a purely cosmetic effect that makes the player join the meme.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "There is a rare event where you can acquire a 'Cultist Headpiece'. What does it do?",
 						"wrong": [
@@ -93880,6 +93801,7 @@
 						"correct": "The Awakened One",
 						"difficulty": "Medium",
 						"explanation": "The Awakened One is a massive bird creature that serves as their deity.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which boss do the Cultists worship?",
 						"wrong": [
@@ -93892,6 +93814,7 @@
 						"correct": "Two",
 						"difficulty": "Medium",
 						"explanation": "Dealing with the Cultists quickly is key to surviving the first phase of the boss.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "How many Cultists usually accompany the Awakened One in its boss fight?",
 						"wrong": [
@@ -93904,6 +93827,7 @@
 						"correct": "The Nest",
 						"difficulty": "Medium",
 						"explanation": "In The Nest, you can gain gold or the powerful Ritual Dagger card.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which event allows you to choose between fighting a Cultist or 'performing a ritual'?",
 						"wrong": [
@@ -93913,9 +93837,10 @@
 						]
 					},
 					{
-						"correct": "Incantation",
+						"correct": "Dark Strike",
 						"difficulty": "Hard",
 						"explanation": "Incantation is actually the name of the buff; its primary attack is just 'Dark Strike'.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_cultist.webp",
 						"question": "What is the name of the attack the Cultist uses on the turn after it buffs itself?",
 						"wrong": [
@@ -93928,6 +93853,7 @@
 						"correct": "The Cultists",
 						"difficulty": "Hard",
 						"explanation": "It's a common hard-pool encounter in the second Act.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "If you encounter three Cultists in Act 2, what is the encounter name?",
 						"wrong": [
@@ -93940,6 +93866,7 @@
 						"correct": "How many times it has dealt a killing blow",
 						"difficulty": "Hard",
 						"explanation": "The Ritual Dagger is a permanent scaling card that carries over between fights.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Ritual Dagger card gained from the Cultist event deals more damage based on what?",
 						"wrong": [
@@ -93952,6 +93879,7 @@
 						"correct": "You escape as normal",
 						"difficulty": "Hard",
 						"explanation": "Even 'holy' birds can't see through a good smoke bomb.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What happens if you use a Smoke Bomb to flee from a Cultist fight?",
 						"wrong": [
@@ -93964,6 +93892,7 @@
 						"correct": "They lose their humanity and can only say Caw",
 						"difficulty": "Hard",
 						"explanation": "The transformation is both mental and physical for the Spire's inhabitants.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the game's lore, what happens to people who wear the bird masks too long?",
 						"wrong": [
@@ -93997,9 +93926,10 @@
 			"content": {
 				"questions": [
 					{
-						"correct": "A circle and a triangle (with depth)",
+						"correct": "A torus and a dodecahedron",
 						"difficulty": "Easy",
 						"explanation": "Donu is the donut-shaped one, and Deca is the triangular-prism-shaped one.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/donu_and_deca.webp",
 						"question": "What are the two shapes of Donu and Deca?",
 						"wrong": [
@@ -94009,9 +93939,10 @@
 						]
 					},
 					{
-						"correct": "Donu",
+						"correct": "Donu ",
 						"difficulty": "Easy",
 						"explanation": "Donu buffs their offense, while Deca provides defense.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of the two bosses grants Strength to both each turn?",
 						"wrong": [
@@ -94024,6 +93955,7 @@
 						"correct": "You Are What You Eat",
 						"difficulty": "Easy",
 						"explanation": "It's a reference to Donu's donut-like appearance.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What achievement do you get for killing Donu with a 'Feed' card?",
 						"wrong": [
@@ -94036,6 +93968,7 @@
 						"correct": "Act 3",
 						"difficulty": "Easy",
 						"explanation": "They are one of the possible boss encounters at the end of Act 3.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In which Act do Donu and Deca appear as the final boss?",
 						"wrong": [
@@ -94048,6 +93981,7 @@
 						"correct": "False",
 						"difficulty": "Easy",
 						"explanation": "Unlike some boss pairs in other games, you can kill one and then the other at your leisure.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "True or False: Donu and Deca must be killed on the same turn.",
 						"wrong": [
@@ -94058,6 +93992,7 @@
 						"correct": "Deca",
 						"difficulty": "Medium",
 						"explanation": "Deca's role is to provide defense and disrupt the player's deck.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/donu_and_deca.webp",
 						"question": "Which boss adds 'Dazed' status cards to your discard pile?",
 						"wrong": [
@@ -94070,6 +94005,7 @@
 						"correct": "Focusing down Donu first",
 						"difficulty": "Medium",
 						"explanation": "Killing Donu stops their Strength scaling, making the rest of the fight much safer.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the recommended strategy for this fight?",
 						"wrong": [
@@ -94082,6 +94018,7 @@
 						"correct": "3",
 						"difficulty": "Medium",
 						"explanation": "3 Strength per turn for two enemies adds up very quickly.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "How much Strength do they gain from Donu's buff on standard difficulty?",
 						"wrong": [
@@ -94091,21 +94028,10 @@
 						]
 					},
 					{
-						"correct": "Artifact",
-						"difficulty": "Medium",
-						"explanation": "Artifact prevents the first few debuffs you try to apply to them.",
-						"image_url": "",
-						"question": "What type of artifact do they both start the fight with?",
-						"wrong": [
-							"Plated Armor",
-							"Thorns",
-							"Malleable"
-						]
-					},
-					{
 						"correct": "2",
 						"difficulty": "Medium",
 						"explanation": "He typically hits twice, making his Strength scaling even more dangerous.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "How many times does Donu attack per turn on his attacking cycles?",
 						"wrong": [
@@ -94118,6 +94044,7 @@
 						"correct": "They are ancient security systems of the Spire",
 						"difficulty": "Hard",
 						"explanation": "They are artificial guardians built to ensure no one reaches the Heart.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/donu_and_deca.webp",
 						"question": "What is the lore-implied origin of Donu and Deca?",
 						"wrong": [
@@ -94127,9 +94054,10 @@
 						]
 					},
 					{
-						"correct": "Square Shield",
+						"correct": "Square of Protection",
 						"difficulty": "Hard",
 						"explanation": "Wait, the move is actually just called 'Shield', though Deca is the one that performs it.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of Deca's defensive buff move?",
 						"wrong": [
@@ -94139,39 +94067,16 @@
 						]
 					},
 					{
-						"correct": "Red Mask",
-						"difficulty": "Hard",
-						"explanation": "Bag of Marbles applies Vulnerable at the start, immediately stripping an Artifact charge.",
-						"image_url": "",
-						"question": "Which relic is particularly effective in this fight to remove their Artifact charges?",
-						"wrong": [
-							"Vajra",
-							"Bag of Marbles",
-							"Preserved Insect"
-						]
-					},
-					{
 						"correct": "4",
 						"difficulty": "Hard",
 						"explanation": "The increase to 4 Strength makes the fight an extreme damage race.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In Ascension 19 or higher, how much Strength does Donu grant?",
 						"wrong": [
 							"3",
 							"5",
 							"6"
-						]
-					},
-					{
-						"correct": "The Beyond",
-						"difficulty": "Hard",
-						"explanation": "It shares the boss theme for the third Act.",
-						"image_url": "",
-						"question": "What is the name of the music track that plays during the Donu and Deca fight?",
-						"wrong": [
-							"Geometric Death",
-							"The Twins",
-							"Final Boss Theme"
 						]
 					}
 				]
@@ -94202,6 +94107,7 @@
 						"correct": "Confusion",
 						"difficulty": "Easy",
 						"explanation": "Confusion randomizes the energy cost of every card you draw.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/snecko.webp",
 						"question": "What status effect does the Snecko apply to the player?",
 						"wrong": [
@@ -94214,6 +94120,7 @@
 						"correct": "0 to 3",
 						"difficulty": "Easy",
 						"explanation": "Any card drawn while confused will cost 0, 1, 2, or 3 Energy regardless of its original cost.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the range of energy costs a card can have when Confused?",
 						"wrong": [
@@ -94226,6 +94133,7 @@
 						"correct": "A green snake with a large eye",
 						"difficulty": "Easy",
 						"explanation": "It is a vibrant green serpent dominated by a single large, glowing eye.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What does a Snecko look like?",
 						"wrong": [
@@ -94238,6 +94146,7 @@
 						"correct": "False",
 						"difficulty": "Easy",
 						"explanation": "Snecko is a standard 'high-tier' enemy found in Act 2, not a boss.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "True or False: Snecko is a boss at the end of an Act.",
 						"wrong": [
@@ -94248,6 +94157,7 @@
 						"correct": "It can increase to 1, 2, or 3",
 						"difficulty": "Easy",
 						"explanation": "Confusion can make free cards expensive, which is why it's a risky effect.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What happens to a card's cost if it was originally 0 but you are Confused?",
 						"wrong": [
@@ -138465,6 +138375,3882 @@
 					"Fire"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "V",
+						"difficulty": "Easy",
+						"explanation": "The player character is referred to exclusively by their initial, V, which stands for either Vincent or Valerie.",
+						"image_url": "https://skillcheckgame.com/assets/images/v.webp",
+						"question": "What is the primary nickname used by the protagonist throughout the game?",
+						"wrong": [
+							"J",
+							"K",
+							"X"
+						]
+					},
+					{
+						"correct": "Lifepaths",
+						"difficulty": "Easy",
+						"explanation": "Lifepaths determine V's starting location and provide unique dialogue options throughout the story.",
+						"image_url": "",
+						"question": "V starts the game by choosing one of three different background stories. What are these called?",
+						"wrong": [
+							"Origins",
+							"Classes",
+							"Factions"
+						]
+					},
+					{
+						"correct": "Mercenary",
+						"difficulty": "Easy",
+						"explanation": "V works as a 'Merc' or 'Edgerunner,' taking on dangerous jobs for fixers across the city.",
+						"image_url": "",
+						"question": "What is the profession V pursues to make a living in Night City?",
+						"wrong": [
+							"Police Officer",
+							"Corporat",
+							"Ripperdoc"
+						]
+					},
+					{
+						"correct": "Johnny Silverhand",
+						"difficulty": "Easy",
+						"explanation": "Johnny Silverhand's personality is stored on the Relic chip that V is forced to slot into their own head.",
+						"image_url": "",
+						"question": "Whose 'Construct' or digital ghost ends up sharing a headspace with V after a failed heist?",
+						"wrong": [
+							"Saburo Arasaka",
+							"Morgan Blackhand",
+							"Adam Smasher"
+						]
+					},
+					{
+						"correct": "Night City",
+						"difficulty": "Easy",
+						"explanation": "Night City is a free city located in the Free State of Northern California.",
+						"image_url": "",
+						"question": "In which futuristic metropolis does V's story primarily take place?",
+						"wrong": [
+							"Neo Tokyo",
+							"Liberty City",
+							"San Francisco"
+						]
+					},
+					{
+						"correct": "Corpo",
+						"difficulty": "Medium",
+						"explanation": "The Corpo-Rat path begins with V working for Arasaka's Counter-Intelligence department.",
+						"image_url": "https://skillcheckgame.com/assets/images/v.webp",
+						"question": "Which Lifepath sees V starting as an employee of the Arasaka Corporation?",
+						"wrong": [
+							"Nomad",
+							"Streetkid",
+							"Neomilitia"
+						]
+					},
+					{
+						"correct": "Vincent",
+						"difficulty": "Medium",
+						"explanation": "Though they prefer to go by V, the male protagonist's full name is Vincent.",
+						"image_url": "",
+						"question": "What is the real first name of V if the player chooses the male body type?",
+						"wrong": [
+							"Victor",
+							"Vance",
+							"Valentin"
+						]
+					},
+					{
+						"correct": "Nomad",
+						"difficulty": "Medium",
+						"explanation": "The Nomad path starts in the Badlands, where V meets Jackie Welles during a smuggling job.",
+						"image_url": "",
+						"question": "Which Lifepath begins with V crossing the border into Night City with a smuggled package?",
+						"wrong": [
+							"Streetkid",
+							"Corpo",
+							"Drifter"
+						]
+					},
+					{
+						"correct": "Jackie Welles",
+						"difficulty": "Medium",
+						"explanation": "Jackie is V's constant companion through the prologue and the Konpeki Plaza heist.",
+						"image_url": "",
+						"question": "Who is V's loyal best friend and partner during the early hours of the game?",
+						"wrong": [
+							"T-Bug",
+							"Dexter DeShawn",
+							"Viktor Vektor"
+						]
+					},
+					{
+						"correct": "Megabuilding H10",
+						"difficulty": "Medium",
+						"explanation": "V's initial home is a small unit located in the massive Megabuilding H10 in the Watson district.",
+						"image_url": "",
+						"question": "What is the name of the high-end apartment building where V lives at the start of the game?",
+						"wrong": [
+							"Megabuilding H8",
+							"Lizzie's Bar",
+							"The Glen Apartments"
+						]
+					},
+					{
+						"correct": "Dexter DeShawn",
+						"difficulty": "Hard",
+						"explanation": "Dexter DeShawn is a legendary fixer who returns to Night City specifically to coordinate the Arasaka job.",
+						"image_url": "https://skillcheckgame.com/assets/images/v.webp",
+						"question": "Which high-profile fixer hires V and Jackie for the 'Heist of the Century' involving the Relic?",
+						"wrong": [
+							"Wakako Okada",
+							"Padre",
+							"Dino Dinovic"
+						]
+					},
+					{
+						"correct": "Crystal Palace",
+						"difficulty": "Hard",
+						"explanation": "If V becomes a legend of the Afterlife, their final job involves a daring mission to the Crystal Palace space station.",
+						"image_url": "",
+						"question": "In the 'Sun' ending, what is the name of the orbital casino that V is sent to rob?",
+						"wrong": [
+							"The Moonbase",
+							"Arasaka Station",
+							"Kusanagi Point"
+						]
+					},
+					{
+						"correct": "Valerie",
+						"difficulty": "Hard",
+						"explanation": "The female version of the protagonist is named Valerie, though she rarely uses the name.",
+						"image_url": "",
+						"question": "What is the real first name of V if the player chooses the female body type?",
+						"wrong": [
+							"Veronica",
+							"Vanessa",
+							"Victoria"
+						]
+					},
+					{
+						"correct": "Viktor Vektor",
+						"difficulty": "Hard",
+						"explanation": "Viktor operates out of a clinic in the back of Misty's shop and is a father figure to V.",
+						"image_url": "",
+						"question": "Which specific Ripperdoc is V's long-time friend and provides them with their first Kiroshi optics?",
+						"wrong": [
+							"Cassius Ryder",
+							"Robert Rainwater",
+							"Charles Bucks"
+						]
+					},
+					{
+						"correct": "Hella EC-D I360",
+						"difficulty": "Hard",
+						"explanation": "The Archer Hella EC-D I360 is V's starting vehicle, which gets totaled by a rogue AI taxi.",
+						"image_url": "",
+						"question": "What is the name of V's customized car that is damaged by a Delamain taxi early in the game?",
+						"wrong": [
+							"Quadra Turbo-R",
+							"Thorton Galena",
+							"Mizutani Shion"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_v",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "V",
+				"lore_desc": "A mercenary for hire in Night City, V's life changes forever after a heist gone wrong leaves them with the 'Relic' biochip in their head.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Protagonist",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Mercenary",
+					"Legend"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Keanu Reeves",
+						"difficulty": "Easy",
+						"explanation": "Keanu Reeves was revealed as Johnny Silverhand during a famous E3 stage presentation.",
+						"image_url": "https://skillcheckgame.com/assets/images/johnny_silverhand.webp",
+						"question": "Which famous actor provided the voice and motion capture for Johnny Silverhand?",
+						"wrong": [
+							"Norman Reedus",
+							"Idris Elba",
+							"Mads Mikkelsen"
+						]
+					},
+					{
+						"correct": "Samurai",
+						"difficulty": "Easy",
+						"explanation": "Johnny was the lead singer of Samurai, famous for hits like 'Chippin' In'.",
+						"image_url": "",
+						"question": "What was the name of the rock band that Johnny Silverhand fronted?",
+						"wrong": [
+							"Refused",
+							"The Usurpers",
+							"Chrome Rock"
+						]
+					},
+					{
+						"correct": "He has a silver cybernetic arm",
+						"difficulty": "Easy",
+						"explanation": "Johnny lost his left arm in the Central American Conflict and replaced it with a distinctive silver cyber-limb.",
+						"image_url": "",
+						"question": "Why is Johnny called 'Silverhand'?",
+						"wrong": [
+							"He was a famous thief",
+							"He wears silver rings",
+							"His guitar is made of silver"
+						]
+					},
+					{
+						"correct": "Rebel musician",
+						"difficulty": "Easy",
+						"explanation": "Rockerboys use music and charisma to fight authority and inspire social change.",
+						"image_url": "",
+						"question": "What kind of 'Rockerboy' social class does Johnny represent?",
+						"wrong": [
+							"Corpo executive",
+							"Stealthy ninja",
+							"Digital hacker"
+						]
+					},
+					{
+						"correct": "Arasaka",
+						"difficulty": "Easy",
+						"explanation": "Johnny's hatred for Arasaka culminated in him bombing their Night City headquarters in 2023.",
+						"image_url": "",
+						"question": "Against which mega-corporation did Johnny lead his most famous and final assault?",
+						"wrong": [
+							"Militech",
+							"Kang Tao",
+							"Petrochem"
+						]
+					},
+					{
+						"correct": "Malorian Arms 3516",
+						"difficulty": "Medium",
+						"explanation": "The Malorian Arms 3516 is a custom-made, high-powered pistol designed specifically for Johnny.",
+						"image_url": "https://skillcheckgame.com/assets/images/johnny_silverhand.webp",
+						"question": "What is the name of the iconic pistol that Johnny uses, which V can later obtain?",
+						"wrong": [
+							"Liberty",
+							"Overture",
+							"Unity"
+						]
+					},
+					{
+						"correct": "Engram",
+						"difficulty": "Medium",
+						"explanation": "An Engram is a digital copy of a human mind, created using 'Soulkiller' technology.",
+						"image_url": "",
+						"question": "Johnny's consciousness is stored on a digital device known as the Relic. What is the technical term for this digital ghost?",
+						"wrong": [
+							"Soul-code",
+							"Neural-link",
+							"A.I. Core"
+						]
+					},
+					{
+						"correct": "Alt Cunningham",
+						"difficulty": "Medium",
+						"explanation": "Alt was the creator of Soulkiller and the catalyst for Johnny's war against Arasaka.",
+						"image_url": "",
+						"question": "Who was Johnny's girlfriend and a brilliant netrunner who was kidnapped by Arasaka?",
+						"wrong": [
+							"Rogue Amendiares",
+							"Judy Alvarez",
+							"T-Bug"
+						]
+					},
+					{
+						"correct": "2023",
+						"difficulty": "Medium",
+						"explanation": "The 'Night City Holocaust' occurred in 2023 when a nuclear device was detonated in the tower.",
+						"image_url": "",
+						"question": "In what year did Johnny Silverhand die during the raid on Night City's Arasaka Tower?",
+						"wrong": [
+							"2013",
+							"2077",
+							"2050"
+						]
+					},
+					{
+						"correct": "Rogue Amendiares",
+						"difficulty": "Medium",
+						"explanation": "Rogue was part of the 2023 raid and survived to become the Queen of the Afterlife.",
+						"image_url": "",
+						"question": "Which former lover and mercenary friend helps V locate Johnny's old belongings?",
+						"wrong": [
+							"Nancy Hartley",
+							"Kerry Eurodyne",
+							"Denny"
+						]
+					},
+					{
+						"correct": "911 Turbo",
+						"difficulty": "Hard",
+						"explanation": "It is one of the few real-world licensed cars in the game, specifically a 1977 Porsche 911 Turbo.",
+						"image_url": "https://skillcheckgame.com/assets/images/johnny_silverhand.webp",
+						"question": "What is the name of Johnny Silverhand's customized Porsche 911?",
+						"wrong": [
+							"911 Carrera",
+							"911 GT3",
+							"911 Targa"
+						]
+					},
+					{
+						"correct": "Adam Smasher",
+						"difficulty": "Hard",
+						"explanation": "Adam Smasher intercepted Johnny on the roof of the tower during the 2023 raid.",
+						"image_url": "",
+						"question": "Who was the legendary cyborg mercenary that allegedly killed Johnny Silverhand?",
+						"wrong": [
+							"Goro Takemura",
+							"Oda Sandayu",
+							"Morgan Blackhand"
+						]
+					},
+					{
+						"correct": "Operation Nightfall",
+						"difficulty": "Hard",
+						"explanation": "The assault was a Militech-backed operation intended to end the Fourth Corporate War.",
+						"image_url": "",
+						"question": "What was the name of the operation where Johnny and his team bombed Arasaka Tower?",
+						"wrong": [
+							"Operation Silver",
+							"Operation Red",
+							"Operation Black"
+						]
+					},
+					{
+						"correct": "Kerry Eurodyne",
+						"difficulty": "Hard",
+						"explanation": "Kerry is the only original member who achieved massive solo fame after the band split.",
+						"image_url": "",
+						"question": "Which Samurai band member did Johnny attempt to reconcile with through V's body?",
+						"wrong": [
+							"Henry",
+							"Denny",
+							"Bes Isis"
+						]
+					},
+					{
+						"correct": "Tequila Old Fashioned with a chili garnish",
+						"difficulty": "Hard",
+						"explanation": "In Night City, you only get a drink named after you if you die a legend.",
+						"image_url": "",
+						"question": "What is the specific cocktail named after Johnny Silverhand at the Afterlife bar?",
+						"wrong": [
+							"Vodka Martini with a twist",
+							"Whiskey Sour with beer",
+							"Rum and Cola with lime"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_johnny_silverhand",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Johnny Silverhand",
+				"lore_desc": "The charismatic lead singer of the band Samurai and a revolutionary who died during an assault on Arasaka Tower in 2023.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Rockerboy",
+			"profiler": {
+				"vibe_tags": [
+					"Icon",
+					"Musician",
+					"Rebel"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Heywood",
+						"difficulty": "Easy",
+						"explanation": "Jackie is a proud resident of Heywood and grew up in the El Coyote Cojo bar.",
+						"image_url": "https://skillcheckgame.com/assets/images/jackie_welles.webp",
+						"question": "Which district of Night City does Jackie Welles call home?",
+						"wrong": [
+							"Watson",
+							"Pacifica",
+							"Westbrook"
+						]
+					},
+					{
+						"correct": "Mama Welles",
+						"difficulty": "Easy",
+						"explanation": "Mama Welles is a beloved figure in Heywood and treats V like family.",
+						"image_url": "",
+						"question": "What is the name of Jackie's mother who runs the El Coyote Cojo bar?",
+						"wrong": [
+							"Misty",
+							"Gloria",
+							"Lupe"
+						]
+					},
+					{
+						"correct": "Valentinos",
+						"difficulty": "Easy",
+						"explanation": "Jackie has deep ties to the Valentinos, though he left the gang to become a solo merc.",
+						"image_url": "",
+						"question": "Jackie was a former member of which Night City gang?",
+						"wrong": [
+							"Maelstrom",
+							"6th Street",
+							"Voodoo Boys"
+						]
+					},
+					{
+						"correct": "Misty",
+						"difficulty": "Easy",
+						"explanation": "Misty is a kind-hearted soul who reads tarot cards and worries about Jackie's dangerous life.",
+						"image_url": "",
+						"question": "Who is Jackie's girlfriend, the spiritual owner of a small shop in Watson?",
+						"wrong": [
+							"Judy",
+							"T-Bug",
+							"Rogue"
+						]
+					},
+					{
+						"correct": "The Konpeki Plaza Heist",
+						"difficulty": "Easy",
+						"explanation": "The duo breaks into Konpeki Plaza to steal the Relic from Yorinobu Arasaka.",
+						"image_url": "",
+						"question": "What is the name of the major heist Jackie and V participate in at the start of the game?",
+						"wrong": [
+							"The Arasaka Raid",
+							"The Relic Job",
+							"The All Foods Heist"
+						]
+					},
+					{
+						"correct": "La Chingona Dorada",
+						"difficulty": "Medium",
+						"explanation": "These are two highly customized gold-plated pistols that V can eventually acquire.",
+						"image_url": "https://skillcheckgame.com/assets/images/jackie_welles.webp",
+						"question": "What are Jackie's signature dual pistols called?",
+						"wrong": [
+							"Malorian Arms",
+							"The Golden Dragon",
+							"Malady"
+						]
+					},
+					{
+						"correct": "Arch Nazare",
+						"difficulty": "Medium",
+						"explanation": "The Arch Nazare is a high-end bike; Arch is a real company co-founded by Keanu Reeves.",
+						"image_url": "",
+						"question": "What kind of motorcycle does Jackie ride?",
+						"wrong": [
+							"Yaiba Kusanagi",
+							"Brennan Apollo",
+							"Jackie's Chopper"
+						]
+					},
+					{
+						"correct": "The Afterlife",
+						"difficulty": "Medium",
+						"explanation": "In Night City lore, you only get a drink at the Afterlife if you die in a spectacular way.",
+						"image_url": "",
+						"question": "Where does Jackie dream of having a drink named after him?",
+						"wrong": [
+							"Lizzie's Bar",
+							"The Totentanz",
+							"Riot"
+						]
+					},
+					{
+						"correct": "The Relic",
+						"difficulty": "Medium",
+						"explanation": "Critically wounded, Jackie passes the biochip to V to ensure the mission succeeds.",
+						"image_url": "",
+						"question": "What object does Jackie hand to V in the back of the Delamain taxi?",
+						"wrong": [
+							"A data shard",
+							"His car keys",
+							"A credit chip"
+						]
+					},
+					{
+						"correct": "Centzon Totochtin",
+						"difficulty": "Medium",
+						"explanation": "The 'Jackie Welles' cocktail includes Moscow Mule ingredients with a splash of love and Centzon beer.",
+						"image_url": "",
+						"question": "What is Jackie's favorite beer that V can order at the Afterlife in his honor?",
+						"wrong": [
+							"Broze",
+							"Nicola",
+							"Real Water"
+						]
+					},
+					{
+						"correct": "Heroes",
+						"difficulty": "Hard",
+						"explanation": "The side quest 'Heroes' involves V attending a ceremony at El Coyote Cojo to honor Jackie's life.",
+						"image_url": "https://skillcheckgame.com/assets/images/jackie_welles.webp",
+						"question": "What is the name of the 'Offrenda' ceremony held for Jackie after his death?",
+						"wrong": [
+							"The Wake",
+							"Farewell",
+							"Valetudinarian"
+						]
+					},
+					{
+						"correct": "For Whom the Bell Tolls",
+						"difficulty": "Hard",
+						"explanation": "Jackie uses the book to learn about bravery and legacy, and it is featured during his funeral.",
+						"image_url": "",
+						"question": "Jackie mentions a specific Hemingway book several times. Which one is it?",
+						"wrong": [
+							"The Old Man and the Sea",
+							"A Farewell to Arms",
+							"The Sun Also Rises"
+						]
+					},
+					{
+						"correct": "Delamain",
+						"difficulty": "Hard",
+						"explanation": "Jackie books the 'Excelsior Package' with Delamain for maximum security during the heist.",
+						"image_url": "",
+						"question": "What is the name of the AI taxi service Jackie insists on using for the big heist?",
+						"wrong": [
+							"Combat Cab",
+							"Night Taxi",
+							"Uber-Net"
+						]
+					},
+					{
+						"correct": "Royce",
+						"difficulty": "Hard",
+						"explanation": "If things go south during the Flathead deal, Jackie and Royce square off in a tense dialogue sequence.",
+						"image_url": "",
+						"question": "Which character does Jackie have a brief, tense standoff with during the 'All Foods' mission?",
+						"wrong": [
+							"Dum Dum",
+							"Brick",
+							"Stout"
+						]
+					},
+					{
+						"correct": "Raul",
+						"difficulty": "Hard",
+						"explanation": "Jackie's father was an abusive member of the Valentinos, which influenced Jackie's decision to leave the gang.",
+						"image_url": "",
+						"question": "What is the name of Jackie's father, who he had a very strained relationship with?",
+						"wrong": [
+							"Pedro",
+							"Carlos",
+							"Mateo"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_jackie_welles",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Jackie Welles",
+				"lore_desc": "A former Valentino and V's loyal partner who dreams of becoming a legend in the Afterlife.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Best Friend",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Mercenary",
+					"Valentinos"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Braindance technician",
+						"difficulty": "Easy",
+						"explanation": "Judy is an expert at editing and 'scrolling' Braindances (BDs) for entertainment and investigation.",
+						"image_url": "https://skillcheckgame.com/assets/images/judy_alvarez.webp",
+						"question": "What is Judy Alvarez's primary profession?",
+						"wrong": [
+							"Ripperdoc",
+							"Netrunner",
+							"Fixer"
+						]
+					},
+					{
+						"correct": "The Mox",
+						"difficulty": "Easy",
+						"explanation": "Judy works out of Lizzie's Bar, the headquarters of the Mox gang.",
+						"image_url": "",
+						"question": "Which Night City gang is Judy associated with?",
+						"wrong": [
+							"Tyger Claws",
+							"Voodoo Boys",
+							"Maelstrom"
+						]
+					},
+					{
+						"correct": "Lizzie's Bar",
+						"difficulty": "Easy",
+						"explanation": "Lizzie's Bar is a Mox-run establishment where Judy has her specialized BD studio.",
+						"image_url": "",
+						"question": "What is the name of the bar where Judy can usually be found in the basement?",
+						"wrong": [
+							"The Afterlife",
+							"Riot",
+							"El Coyote Cojo"
+						]
+					},
+					{
+						"correct": "13",
+						"difficulty": "Easy",
+						"explanation": "Judy has several tattoos, including the number 13 on her left arm.",
+						"image_url": "",
+						"question": "Judy's signature tattoos include a large number on her arm. What is that number?",
+						"wrong": [
+							"77",
+							"21",
+							"69"
+						]
+					},
+					{
+						"correct": "Evelyn Parker",
+						"difficulty": "Easy",
+						"explanation": "Evelyn brings V to Judy's studio to prepare for the Konpeki Plaza heist.",
+						"image_url": "",
+						"question": "Which character introduces V to Judy for the first time?",
+						"wrong": [
+							"Jackie Welles",
+							"Dexter DeShawn",
+							"T-Bug"
+						]
+					},
+					{
+						"correct": "Laguna Bend",
+						"difficulty": "Medium",
+						"explanation": "Laguna Bend was submerged by a dam project, and it was Judy's childhood home.",
+						"image_url": "https://skillcheckgame.com/assets/images/judy_alvarez.webp",
+						"question": "What is the name of the flooded town where Judy takes V for a sentimental dive?",
+						"wrong": [
+							"Rocky Ridge",
+							"Pacifica",
+							"North Oak"
+						]
+					},
+					{
+						"correct": "Pyramid Song",
+						"difficulty": "Medium",
+						"explanation": "Pyramid Song is one of the most acclaimed quests in the game, focusing on Judy's past.",
+						"image_url": "",
+						"question": "What is the name of Judy's final personal quest where she and V go diving?",
+						"wrong": [
+							"Pisces",
+							"Both Sides Now",
+							"Ex-Factor"
+						]
+					},
+					{
+						"correct": "Susie Q",
+						"difficulty": "Medium",
+						"explanation": "Susie Q is the boss of the Mox, though Judy often disagrees with her management style.",
+						"image_url": "",
+						"question": "Who is the leader of the Mox that Judy has a professional relationship with?",
+						"wrong": [
+							"Elizabeth Peralez",
+							"Maiko",
+							"Rita Wheeler"
+						]
+					},
+					{
+						"correct": "Maiko Maeda",
+						"difficulty": "Medium",
+						"explanation": "Maiko and Judy have a complicated history that comes to a head during the 'Pisces' quest.",
+						"image_url": "",
+						"question": "What is the name of Judy's former lover who works at Clouds and tries to take over the club?",
+						"wrong": [
+							"Evelyn Parker",
+							"Cheri Nowlin",
+							"Rachel Casich"
+						]
+					},
+					{
+						"correct": "A shark",
+						"difficulty": "Medium",
+						"explanation": "Judy's van features a stylized shark painting, matching her general aesthetic.",
+						"image_url": "",
+						"question": "What animal is featured prominently on Judy's iconic colorful van?",
+						"wrong": [
+							"A tiger",
+							"A dragon",
+							"A cat"
+						]
+					},
+					{
+						"correct": "Charter Hill Megabuilding",
+						"difficulty": "Hard",
+						"explanation": "Judy's apartment is a key location where V can visit her and check her progress on various projects.",
+						"image_url": "https://skillcheckgame.com/assets/images/judy_alvarez.webp",
+						"question": "What is the name of the mega-building where Judy's personal apartment is located?",
+						"wrong": [
+							"Watson Megabuilding",
+							"Kabuki Megabuilding",
+							"North End Megabuilding"
+						]
+					},
+					{
+						"correct": "The Scuba Suit",
+						"difficulty": "Hard",
+						"explanation": "Technically, it's a high-tech wetsuit calibrated for the specific neural demands of her BD recording.",
+						"image_url": "",
+						"question": "Judy gives V a special piece of gear for the dive in Laguna Bend. What is its name?",
+						"wrong": [
+							"The Neo-Diver",
+							"The Deep-Dive Rig",
+							"The Aqua-Link"
+						]
+					},
+					{
+						"correct": "A digital holographic fish",
+						"difficulty": "Hard",
+						"explanation": "Since real animals are incredibly rare and expensive, Judy has a holographic projection in her tank.",
+						"image_url": "",
+						"question": "What kind of fish does Judy keep in a tank in her apartment?",
+						"wrong": [
+							"A real goldfish",
+							"A shark",
+							"A piranha"
+						]
+					},
+					{
+						"correct": "Pyramid Song",
+						"difficulty": "Hard",
+						"explanation": "Most of the quests in the game are named after famous songs; this one refers to the Radiohead track.",
+						"image_url": "",
+						"question": "Which song by the band Radiohead is the quest 'Pyramid Song' likely named after?",
+						"wrong": [
+							"Creep",
+							"Karma Police",
+							"No Surprises"
+						]
+					},
+					{
+						"correct": "Clouds",
+						"difficulty": "Hard",
+						"explanation": "Clouds is a unique high-end brothel where 'dolls' use neural chips to cater to customers' subconscious desires.",
+						"image_url": "",
+						"question": "What is the name of the doll-house club that Judy helps V infiltrate to find Evelyn?",
+						"wrong": [
+							"The Forlorn Hope",
+							"Riot",
+							"Lizzie's"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_judy_alvarez",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Judy Alvarez",
+				"lore_desc": "The premiere Braindance technician in Night City and a member of the Mox gang who values justice and her friends.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Braindance Expert",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Techie",
+					"Moxes"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Aldecaldos",
+						"difficulty": "Easy",
+						"explanation": "Panam has a love-hate relationship with her tribe, the Aldecaldos, but ultimately remains loyal.",
+						"image_url": "https://skillcheckgame.com/assets/images/panam_palmer.webp",
+						"question": "Which nomad tribe does Panam Palmer belong to?",
+						"wrong": [
+							"Wraiths",
+							"Raffen Shiv",
+							"Snake Nation"
+						]
+					},
+					{
+						"correct": "The Badlands",
+						"difficulty": "Easy",
+						"explanation": "The Badlands is the arid, lawless area surrounding Night City where nomads roam.",
+						"image_url": "",
+						"question": "In which region outside of Night City does Panam primarily operate?",
+						"wrong": [
+							"The Desert",
+							"The Wasteland",
+							"The Outskirts"
+						]
+					},
+					{
+						"correct": "Power Sniper Rifle",
+						"difficulty": "Easy",
+						"explanation": "Overwatch is a powerful, silenced sniper rifle she gives to V as a reward.",
+						"image_url": "",
+						"question": "What kind of weapon is Panam's signature sniper rifle, 'Overwatch'?",
+						"wrong": [
+							"Tech Sniper Rifle",
+							"Smart Sniper Rifle",
+							"Assault Rifle"
+						]
+					},
+					{
+						"correct": "Saul",
+						"difficulty": "Easy",
+						"explanation": "Saul is the chieftain of the Aldecaldos who favors a more cautious approach than Panam.",
+						"image_url": "",
+						"question": "Who is the leader of the Aldecaldos that Panam frequently argues with?",
+						"wrong": [
+							"Mitch",
+							"Scorpion",
+							"Dakota"
+						]
+					},
+					{
+						"correct": "Basilisk",
+						"difficulty": "Easy",
+						"explanation": "The Basilisk is a hover-tank that requires two pilots to be neurally linked together.",
+						"image_url": "",
+						"question": "What is the name of the military tank that Panam and V steal from Militech?",
+						"wrong": [
+							"Behemoth",
+							"Gorgon",
+							"Manticore"
+						]
+					},
+					{
+						"correct": "Rogue Amendiares",
+						"difficulty": "Medium",
+						"explanation": "Rogue sets V up with Panam when V needs to track down Hellman.",
+						"image_url": "https://skillcheckgame.com/assets/images/panam_palmer.webp",
+						"question": "Which fixer introduces V to Panam Palmer for a specific job involving a stolen car?",
+						"wrong": [
+							"Dakota Smith",
+							"Dexter DeShawn",
+							"Wakako Okada"
+						]
+					},
+					{
+						"correct": "Her Thorton Mackinaw truck",
+						"difficulty": "Medium",
+						"explanation": "Panam's partner Nash betrayed her and stole her custom truck, the 'Warhorse'.",
+						"image_url": "",
+						"question": "What was stolen from Panam that V helps her retrieve during their first mission together?",
+						"wrong": [
+							"Her sniper rifle",
+							"Her Basilisk",
+							"A shipment of drugs"
+						]
+					},
+					{
+						"correct": "Rocky Ridge",
+						"difficulty": "Medium",
+						"explanation": "The tribe moves around, but they spend significant time near the ghost town of Rocky Ridge.",
+						"image_url": "",
+						"question": "What is the name of the Nomad camp where the Aldecaldos settle during the game?",
+						"wrong": [
+							"Sunken Town",
+							"Fuel Depot",
+							"Sunset Motel"
+						]
+					},
+					{
+						"correct": "Mitch and Scorpion",
+						"difficulty": "Medium",
+						"explanation": "Mitch and Scorpion are former corporate soldiers who joined the nomads and became Panam's mentors.",
+						"image_url": "",
+						"question": "Who are Panam's two closest friends and fellow veterans in the Aldecaldos?",
+						"wrong": [
+							"Saul and Cassidy",
+							"Dakota and Bob",
+							"Teddy and Carol"
+						]
+					},
+					{
+						"correct": "The Star",
+						"difficulty": "Medium",
+						"explanation": "The Star ending is widely considered the 'good' ending for V and Panam.",
+						"image_url": "",
+						"question": "What is the name of the final quest where the Aldecaldos help V storm Arasaka Tower?",
+						"wrong": [
+							"The Sun",
+							"The Moon",
+							"The Devil"
+						]
+					},
+					{
+						"correct": "Raffen Shiv",
+						"difficulty": "Hard",
+						"explanation": "Raffen Shiv are outcasts from various tribes who have formed a violent gang, often represented by the Wraiths.",
+						"image_url": "https://skillcheckgame.com/assets/images/panam_palmer.webp",
+						"question": "What is the name of the group of exiled nomads who act as the primary antagonists in the Badlands?",
+						"wrong": [
+							"6th Street",
+							"Maelstrom",
+							"The Pack"
+						]
+					},
+					{
+						"correct": "SPT32 Grad",
+						"difficulty": "Hard",
+						"explanation": "The Grad is a heavy, bolt-action sniper rifle known for its immense stopping power.",
+						"image_url": "",
+						"question": "Panam's Sniper Rifle, 'Overwatch', is a customized version of which base weapon?",
+						"wrong": [
+							"Nekomata",
+							"Ashura",
+							"Kyubi"
+						]
+					},
+					{
+						"correct": "Militech",
+						"difficulty": "Hard",
+						"explanation": "The Basilisk is a piece of experimental Militech hardware that Panam manages to highjack.",
+						"image_url": "",
+						"question": "What is the specific brand of the Basilisk tank?",
+						"wrong": [
+							"Arasaka",
+							"Kang Tao",
+							"Petrochem"
+						]
+					},
+					{
+						"correct": "A Wraiths camp",
+						"difficulty": "Hard",
+						"explanation": "Saul is captured by the Wraiths after a scouting mission goes wrong during a sandstorm.",
+						"image_url": "",
+						"question": "In the quest 'Riders on the Storm', where must V and Panam rescue Saul from?",
+						"wrong": [
+							"An Arasaka warehouse",
+							"A Militech bunker",
+							"A Kang Tao shuttle"
+						]
+					},
+					{
+						"correct": "Lemonade",
+						"difficulty": "Hard",
+						"explanation": "Actually, Panam often drinks beer, but in a specific campfire scene, she mentions they are out of the good stuff and drinks what's available.",
+						"image_url": "",
+						"question": "What drink does Panam share with V around the campfire that she describes as 'fuel'?",
+						"wrong": [
+							"Whiskey",
+							"Beer",
+							"Tequila"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_panam_palmer",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Panam Palmer",
+				"lore_desc": "A former member of the Aldecaldos nomad tribe who left the family to work as a merc in Night City.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Nomad",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Nomad",
+					"Aldecaldos"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Arasaka",
+						"difficulty": "Easy",
+						"explanation": "Adam Smasher is Arasaka's ultimate weapon, serving as the personal security for the Arasaka CEOs.",
+						"image_url": "https://skillcheckgame.com/assets/images/adam_smasher.webp",
+						"question": "Which mega-corporation employs Adam Smasher as their top enforcer?",
+						"wrong": [
+							"Militech",
+							"Kang Tao",
+							"Biotechnica"
+						]
+					},
+					{
+						"correct": "96 percent",
+						"difficulty": "Easy",
+						"explanation": "Smasher is almost entirely machine, with only a few organic components of his brain and spine remaining.",
+						"image_url": "",
+						"question": "What percentage of Adam Smasher's body is estimated to be cybernetic?",
+						"wrong": [
+							"50 percent",
+							"75 percent",
+							"100 percent"
+						]
+					},
+					{
+						"correct": "Adam Smasher",
+						"difficulty": "Easy",
+						"explanation": "Smasher's history with Johnny and his role as Arasaka's wall makes him the ultimate antagonist for V.",
+						"image_url": "",
+						"question": "Who is the main rival of Johnny Silverhand and the final boss of the game?",
+						"wrong": [
+							"Goro Takemura",
+							"Yorinobu Arasaka",
+							"Oda Sandayu"
+						]
+					},
+					{
+						"correct": "Who are you?",
+						"difficulty": "Easy",
+						"explanation": "Smasher is known for his cold indifference to the people he kills, often asking 'Who are you?' before finishing them.",
+						"image_url": "",
+						"question": "What is Smasher's iconic catchphrase when he enters a fight, particularly in the anime 'Edgerunners'?",
+						"wrong": [
+							"Die, meatbag!",
+							"I am the future.",
+							"Arasaka rules."
+						]
+					},
+					{
+						"correct": "Yorinobu Arasaka",
+						"difficulty": "Easy",
+						"explanation": "Smasher is seen in the Konpeki Plaza penthouse acting as Yorinobu's muscle.",
+						"image_url": "",
+						"question": "During the heist, Smasher is present as a bodyguard for which character?",
+						"wrong": [
+							"Saburo Arasaka",
+							"Hanako Arasaka",
+							"Dexter DeShawn"
+						]
+					},
+					{
+						"correct": "Soldier",
+						"difficulty": "Medium",
+						"explanation": "He was a soldier in the Army before being discharged and becoming a mercenary.",
+						"image_url": "https://skillcheckgame.com/assets/images/adam_smasher.webp",
+						"question": "What was Adam Smasher's original profession before he became a cyborg?",
+						"wrong": [
+							"Netrunner",
+							"Ripperdoc",
+							"Street Thug"
+						]
+					},
+					{
+						"correct": "Smart Shotgun",
+						"difficulty": "Medium",
+						"explanation": "The Ba Xing Chong is a legendary weapon that fires explosive shells.",
+						"image_url": "",
+						"question": "What type of weapon is 'Ba Xing Chong', the iconic smart shotgun V can loot from Smasher's vault?",
+						"wrong": [
+							"Power Shotgun",
+							"Tech Shotgun",
+							"Assault Rifle"
+						]
+					},
+					{
+						"correct": "Morgan Blackhand",
+						"difficulty": "Medium",
+						"explanation": "The two represent the 'Machine' vs 'Man' rivalry in the mercenary world.",
+						"image_url": "",
+						"question": "Adam Smasher is known for his rivalry with which legendary Solo from the 2020s?",
+						"wrong": [
+							"Rogue Amendiares",
+							"Spider Murphy",
+							"Andrew Weyland"
+						]
+					},
+					{
+						"correct": "David Martinez",
+						"difficulty": "Medium",
+						"explanation": "Smasher serves as the final antagonist of the anime, brutally ending David's journey.",
+						"image_url": "",
+						"question": "Which anime character did Adam Smasher infamously kill at the end of 'Cyberpunk: Edgerunners'?",
+						"wrong": [
+							"Maine",
+							"Lucy",
+							"Rebecca"
+						]
+					},
+					{
+						"correct": "The Ebunike",
+						"difficulty": "Medium",
+						"explanation": "The Ebunike is a large cargo ship docked in Night City where Smasher keeps his personal trophies.",
+						"image_url": "",
+						"question": "Where is Adam Smasher's secret vault and private quarters located?",
+						"wrong": [
+							"Arasaka Tower",
+							"Konpeki Plaza",
+							"The Afterlife"
+						]
+					},
+					{
+						"correct": "The Night City Holocaust",
+						"difficulty": "Hard",
+						"explanation": "The event refers to the nuclear bombing of Arasaka Tower during the Fourth Corporate War.",
+						"image_url": "https://skillcheckgame.com/assets/images/adam_smasher.webp",
+						"question": "What was the name of the operation where Smasher supposedly killed Johnny Silverhand in 2023?",
+						"wrong": [
+							"The Big Bang",
+							"Operation Overlord",
+							"The Corporate Collapse"
+						]
+					},
+					{
+						"correct": "A missile launcher",
+						"difficulty": "Hard",
+						"explanation": "His combat chassis features a shoulder-mounted missile pod used for devastating area attacks.",
+						"image_url": "",
+						"question": "Smasher uses an integrated weapon system on his back. What is it primarily?",
+						"wrong": [
+							"A sniper railgun",
+							"A laser array",
+							"A chemical sprayer"
+						]
+					},
+					{
+						"correct": "Dragoon",
+						"difficulty": "Hard",
+						"explanation": "The Dragoon is a specialized full-body conversion used by Arasaka's highest-tier shock troops.",
+						"image_url": "",
+						"question": "What is the name of the elite cyborg unit that Smasher occasionally leads?",
+						"wrong": [
+							"Samurai",
+							"Oni",
+							"Tengu"
+						]
+					},
+					{
+						"correct": "Arasaka 'DaiOni'",
+						"difficulty": "Hard",
+						"explanation": "The DaiOni is a massive combat chassis that makes him look like a walking tank.",
+						"image_url": "",
+						"question": "Adam Smasher's primary body in 2077 is which model of conversion?",
+						"wrong": [
+							"Militech 'Behemoth'",
+							"Kang Tao 'Dragon'",
+							"Zetatech 'Atlas'"
+						]
+					},
+					{
+						"correct": "No one knows for sure",
+						"difficulty": "Hard",
+						"explanation": "The lore states 'a mysterious Arasaka operative' offered him the deal: work for us as a cyborg or die.",
+						"image_url": "",
+						"question": "Who was the Arasaka executive that originally recruited Smasher and saved him from death in New York?",
+						"wrong": [
+							"Saburo Arasaka",
+							"Arthur Jenkins",
+							"Anders Hellman"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_adam_smasher",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Adam Smasher",
+				"lore_desc": "A full-body cyborg mercenary and the personal bodyguard of the Arasaka family, known for his utter lack of humanity.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Boogeyman",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Cyborg",
+					"Arasaka"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Afterlife",
+						"difficulty": "Easy",
+						"explanation": "The Afterlife is a neutral ground for 'Solos' and fixers.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_afterlife.webp",
+						"question": "What is the name of the legendary bar where Night City's top mercenaries congregate?",
+						"wrong": [
+							"Lizzie's Bar",
+							"The Totentanz",
+							"El Coyote Cojo"
+						]
+					},
+					{
+						"correct": "Rogue Amendiares",
+						"difficulty": "Easy",
+						"explanation": "Rogue is the city's top fixer and has owned the Afterlife for decades.",
+						"image_url": "",
+						"question": "Who is the legendary owner and 'Queen' of the Afterlife in 2077?",
+						"wrong": [
+							"Wakako Okada",
+							"Susie Q",
+							"Maiko Maeda"
+						]
+					},
+					{
+						"correct": "You have to die as a legend",
+						"difficulty": "Easy",
+						"explanation": "The menu is a list of dead legends, including Johnny Silverhand and Jackie Welles.",
+						"image_url": "",
+						"question": "How do you get a drink named after you at the Afterlife?",
+						"wrong": [
+							"You have to pay 1 million eddies",
+							"You have to win a bar fight",
+							"You have to be the owner"
+						]
+					},
+					{
+						"correct": "Watson",
+						"difficulty": "Easy",
+						"explanation": "It is located in the Little China area of the Watson district.",
+						"image_url": "",
+						"question": "In which district of Night City is the Afterlife located?",
+						"wrong": [
+							"Heywood",
+							"City Center",
+							"Westbrook"
+						]
+					},
+					{
+						"correct": "A mortuary",
+						"difficulty": "Easy",
+						"explanation": "The bar's name and theme are a dark joke about its former life as a funeral home.",
+						"image_url": "",
+						"question": "What was the Afterlife building used for before it became a bar?",
+						"wrong": [
+							"A police station",
+							"A corporate bank",
+							"A shopping mall"
+						]
+					},
+					{
+						"correct": "Claire Russell",
+						"difficulty": "Medium",
+						"explanation": "Claire is a skilled bartender and also a professional street racer.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_afterlife.webp",
+						"question": "Who is the main bartender at the Afterlife who serves V and Jackie?",
+						"wrong": [
+							"Pepe Nandez",
+							"Mateo",
+							"Brendan"
+						]
+					},
+					{
+						"correct": "Tequila Old Fashioned with a chili garnish",
+						"difficulty": "Medium",
+						"explanation": "Johnny's drink is as fiery and bold as his personality.",
+						"image_url": "",
+						"question": "What is the 'Silverhand' cocktail made of?",
+						"wrong": [
+							"Vodka and orange juice",
+							"Bourbon on the rocks",
+							"Gin and Tonic with lime"
+						]
+					},
+					{
+						"correct": "The Soundproof Booths",
+						"difficulty": "Medium",
+						"explanation": "These booths allow for secure, private conversations about high-stakes jobs.",
+						"image_url": "",
+						"question": "Which area of the bar is reserved for the highest-tier fixers like Rogue?",
+						"wrong": [
+							"The VIP Lounge",
+							"The Back Alley",
+							"The Roof Garden"
+						]
+					},
+					{
+						"correct": "Morgan Blackhand",
+						"difficulty": "Medium",
+						"explanation": "Morgan Blackhand is a legendary figure in the Cyberpunk RPG lore.",
+						"image_url": "",
+						"question": "Which mercenary legend and 'Best Solo in the World' is honored at the Afterlife but never seen in person?",
+						"wrong": [
+							"Andrew Weyland",
+							"Spider Murphy",
+							"Santiago"
+						]
+					},
+					{
+						"correct": "Reputation (Street Cred)",
+						"difficulty": "Medium",
+						"explanation": "The bouncers won't let V in until they have built up enough of a name for themselves.",
+						"image_url": "",
+						"question": "What is the entry fee for a new merc wanting to enter the Afterlife for the first time?",
+						"wrong": [
+							"100 Eurodollars",
+							"A weapon check",
+							"A corporate ID"
+						]
+					},
+					{
+						"correct": "The Forlorn Hope",
+						"difficulty": "Hard",
+						"explanation": "The Forlorn Hope was the predecessor to the current Afterlife, also serving mercenaries.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_afterlife.webp",
+						"question": "What was the name of the Afterlife when it was founded back in the 2020s?",
+						"wrong": [
+							"The Morgue",
+							"The Crypt",
+							"The Last Stop"
+						]
+					},
+					{
+						"correct": "Emmerick Bronson",
+						"difficulty": "Hard",
+						"explanation": "Emmerick is the large, cybernetic bouncer who decides who is famous enough to enter.",
+						"image_url": "",
+						"question": "Which character is the bouncer at the front door of the Afterlife?",
+						"wrong": [
+							"Ozob Bozo",
+							"Crispin Weyland",
+							"Dennis Cranmer"
+						]
+					},
+					{
+						"correct": "There is no elevator",
+						"difficulty": "Hard",
+						"explanation": "The Afterlife is on the ground floor; you enter through a nondescript door in a garage.",
+						"image_url": "",
+						"question": "What is the name of the elevator service that takes V from the street down to the Afterlife?",
+						"wrong": [
+							"Arasaka Lift",
+							"NCX Express",
+							"Cargo Lift"
+						]
+					},
+					{
+						"correct": "Spider Murphy",
+						"difficulty": "Hard",
+						"explanation": "Spider Murphy was a key part of Johnny's team during the Arasaka Tower raid.",
+						"image_url": "",
+						"question": "Who is the legendary Netrunner who has a drink named after them, consisting of 'The Blood of a Corpo'?",
+						"wrong": [
+							"Alt Cunningham",
+							"Rache Bartmoss",
+							"T-Bug"
+						]
+					},
+					{
+						"correct": "Vodka on the rocks with a splash of NiCola",
+						"difficulty": "Hard",
+						"explanation": "Added after the Edgerunners update, it commemorates the protagonist of the anime.",
+						"image_url": "",
+						"question": "What is the 'David Martinez' drink at the Afterlife?",
+						"wrong": [
+							"Tequila shot with a beer chaser",
+							"Whiskey with a dash of bitters",
+							"Rum and cola"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_the_afterlife",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "The Afterlife",
+				"lore_desc": "The most famous bar in Night City, where fixers and mercenaries meet to plan the city's most dangerous jobs.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Mercenary Bar",
+			"profiler": {
+				"vibe_tags": [
+					"Bar",
+					"Hub",
+					"Legend"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Japan",
+						"difficulty": "Easy",
+						"explanation": "Arasaka was founded in Tokyo and is the world's leader in security and banking.",
+						"image_url": "https://skillcheckgame.com/assets/images/arasaka_tower.webp",
+						"question": "Arasaka is a mega-corporation originating from which country?",
+						"wrong": [
+							"China",
+							"United States",
+							"Germany"
+						]
+					},
+					{
+						"correct": "Saburo Arasaka",
+						"difficulty": "Easy",
+						"explanation": "Saburo Arasaka was over 150 years old, kept alive by advanced cybernetics and medicine.",
+						"image_url": "",
+						"question": "Who was the long-time patriarch and CEO of Arasaka at the start of the game?",
+						"wrong": [
+							"Yorinobu Arasaka",
+							"Hanako Arasaka",
+							"Michiko Arasaka"
+						]
+					},
+					{
+						"correct": "Yorinobu Arasaka",
+						"difficulty": "Easy",
+						"explanation": "Yorinobu strangles his father during the heist, triggering the game's main conflict.",
+						"image_url": "",
+						"question": "Which Arasaka family member is the primary antagonist who kills Saburo?",
+						"wrong": [
+							"Hanako Arasaka",
+							"Michiko Arasaka",
+							"Kei Arasaka"
+						]
+					},
+					{
+						"correct": "City Center",
+						"difficulty": "Easy",
+						"explanation": "The tower dominates the skyline of the Corporate Plaza in City Center.",
+						"image_url": "",
+						"question": "In which district of Night City is the current Arasaka Tower located?",
+						"wrong": [
+							"Watson",
+							"Westbrook",
+							"Pacifica"
+						]
+					},
+					{
+						"correct": "It was destroyed by a nuclear bomb",
+						"difficulty": "Easy",
+						"explanation": "Johnny Silverhand and Morgan Blackhand led a raid that ended in a nuclear detonation.",
+						"image_url": "",
+						"question": "What happened to the original Arasaka Tower in 2023?",
+						"wrong": [
+							"It collapsed due to an earthquake",
+							"It was bought by Militech",
+							"It was turned into a museum"
+						]
+					},
+					{
+						"correct": "Secure Your Soul",
+						"difficulty": "Medium",
+						"explanation": "Secure Your Soul marketed digital immortality to the ultra-wealthy.",
+						"image_url": "https://skillcheckgame.com/assets/images/arasaka_tower.webp",
+						"question": "What is the name of the secret program Arasaka developed to store human consciousness?",
+						"wrong": [
+							"Relic Project",
+							"Project Oracle",
+							"Soul Keeper"
+						]
+					},
+					{
+						"correct": "Hanako Arasaka",
+						"difficulty": "Medium",
+						"explanation": "Hanako represents the traditional side of the Arasaka family.",
+						"image_url": "",
+						"question": "Who is the daughter of Saburo Arasaka and a master diplomat within the company?",
+						"wrong": [
+							"Michiko Arasaka",
+							"Alt Cunningham",
+							"Maiko Maeda"
+						]
+					},
+					{
+						"correct": "Sandayu Oda",
+						"difficulty": "Medium",
+						"explanation": "Oda is a highly skilled cyber-ninja and the protege of Takemura.",
+						"image_url": "",
+						"question": "What is the name of the elite guard who serves as Hanako Arasaka's personal bodyguard?",
+						"wrong": [
+							"Adam Smasher",
+							"Goro Takemura",
+							"Hino-san"
+						]
+					},
+					{
+						"correct": "Mikoshi",
+						"difficulty": "Medium",
+						"explanation": "Mikoshi is the digital prison where Arasaka keeps harvested Engrams.",
+						"image_url": "",
+						"question": "What is the name of the massive underground data fortress beneath Arasaka Tower?",
+						"wrong": [
+							"The Vault",
+							"Black Ice",
+							"Soul-Well"
+						]
+					},
+					{
+						"correct": "Goro Takemura",
+						"difficulty": "Medium",
+						"explanation": "Takemura was Saburo's most trusted protector and becomes an unlikely ally to V.",
+						"image_url": "",
+						"question": "Who was Saburo Arasaka's lead bodyguard before he was framed for Saburo's murder?",
+						"wrong": [
+							"Adam Smasher",
+							"Arthur Jenkins",
+							"Sandayu Oda"
+						]
+					},
+					{
+						"correct": "The Memorial Park",
+						"difficulty": "Hard",
+						"explanation": "The park serves as a tribute to the thousands who died in the 2023 bombing.",
+						"image_url": "https://skillcheckgame.com/assets/images/arasaka_tower.webp",
+						"question": "What is the name of the memorial built on the site of the old Arasaka Tower?",
+						"wrong": [
+							"The Silverhand Plaza",
+							"Ground Zero",
+							"The Peace Garden"
+						]
+					},
+					{
+						"correct": "Red and Black",
+						"difficulty": "Hard",
+						"explanation": "Arasaka's visual identity is defined by intimidating black and blood-red tones.",
+						"image_url": "",
+						"question": "What is the primary color scheme associated with the Arasaka Corporation's branding?",
+						"wrong": [
+							"Blue and White",
+							"Green and Gold",
+							"Yellow and Black"
+						]
+					},
+					{
+						"correct": "Steel Dragons",
+						"difficulty": "Hard",
+						"explanation": "Yorinobu spent years in Japan trying to bring down his father's company from the outside.",
+						"image_url": "",
+						"question": "Before he joined the family business, Yorinobu Arasaka led which rebellious gang?",
+						"wrong": [
+							"Tyger Claws",
+							"Iron Slayers",
+							"Chrome Warriors"
+						]
+					},
+					{
+						"correct": "Research and Development",
+						"difficulty": "Hard",
+						"explanation": "The Relic was a top-secret R&D project headed by Anders Hellman.",
+						"image_url": "",
+						"question": "Which Arasaka division is responsible for the creation of the Relic?",
+						"wrong": [
+							"Counter-Intelligence",
+							"Armed Forces",
+							"Financial Services"
+						]
+					},
+					{
+						"correct": "Kujira",
+						"difficulty": "Hard",
+						"explanation": "'Kujira' means 'Whale' in Japanese; it serves as Saburo's mobile fortress.",
+						"image_url": "",
+						"question": "What is the name of the Arasaka aircraft carrier docked in Night City during the game?",
+						"wrong": [
+							"Yamato",
+							"Musashi",
+							"Shinano"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_arasaka_tower",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Arasaka Tower",
+				"lore_desc": "The headquarters of the Arasaka Corporation in Night City and a symbol of corporate dominance over the world.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Corporate Bastion",
+			"profiler": {
+				"vibe_tags": [
+					"Corporation",
+					"Skyscraper",
+					"Fortress"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Forearms",
+						"difficulty": "Easy",
+						"explanation": "The blades are housed within the forearms and deploy through the skin.",
+						"image_url": "https://skillcheckgame.com/assets/images/mantis_blades.webp",
+						"question": "Where are Mantis Blades installed on V's body?",
+						"wrong": [
+							"Legs",
+							"Shoulders",
+							"Hands"
+						]
+					},
+					{
+						"correct": "Melee",
+						"difficulty": "Easy",
+						"explanation": "Mantis Blades are fast, lethal melee weapons that allow for rapid strikes.",
+						"image_url": "",
+						"question": "What type of combat are Mantis Blades primarily designed for?",
+						"wrong": [
+							"Long-range",
+							"Hacking",
+							"Defense"
+						]
+					},
+					{
+						"correct": "Ripperdoc",
+						"difficulty": "Easy",
+						"explanation": "Ripperdocs are the specialized surgeons who install cybernetic implants.",
+						"image_url": "",
+						"question": "Who do you need to visit to get Mantis Blades installed?",
+						"wrong": [
+							"Fixer",
+							"Gunsmith",
+							"Netrunner"
+						]
+					},
+					{
+						"correct": "Mantis Blades",
+						"difficulty": "Easy",
+						"explanation": "The iconic image of a woman with blades in her arms kneeling in front of a Max-Tac squad defined the game's early hype.",
+						"image_url": "",
+						"question": "In the very first teaser trailer for Cyberpunk 2077 (2013), what cyberware is the woman using?",
+						"wrong": [
+							"Gorilla Arms",
+							"Monowire",
+							"Projectile Launcher"
+						]
+					},
+					{
+						"correct": "Max-Tac",
+						"difficulty": "Easy",
+						"explanation": "Max-Tac (Maximum Force Tactical Division) handles the most dangerous cyber-criminals.",
+						"image_url": "",
+						"question": "Which specialized police unit in Night City is known for recruiting individuals who have 'cyberpsychosis' and often use Mantis Blades?",
+						"wrong": [
+							"NCPD",
+							"Trauma Team",
+							"NetWatch"
+						]
+					},
+					{
+						"correct": "It closes the distance to an enemy instantly",
+						"difficulty": "Medium",
+						"explanation": "The heavy attack allows V to lunge forward and impale a distant target.",
+						"image_url": "https://skillcheckgame.com/assets/images/mantis_blades.webp",
+						"question": "What is the benefit of the 'Leap' attack associated with Mantis Blades?",
+						"wrong": [
+							"It makes V invisible",
+							"It heals V",
+							"It disables enemy guns"
+						]
+					},
+					{
+						"correct": "Physical",
+						"difficulty": "Medium",
+						"explanation": "Standard blades deal physical damage, but they can be modified for elemental effects.",
+						"image_url": "",
+						"question": "Which damage type is the standard version of Mantis Blades?",
+						"wrong": [
+							"Thermal",
+							"Electric",
+							"Chemical"
+						]
+					},
+					{
+						"correct": "Thermal Rotor",
+						"difficulty": "Medium",
+						"explanation": "The Thermal mod heats the blades to white-hot temperatures.",
+						"image_url": "",
+						"question": "Which Mantis Blade modification adds fire damage to every hit?",
+						"wrong": [
+							"Electric Blade",
+							"Poison Edge",
+							"Shock Coil"
+						]
+					},
+					{
+						"correct": "You cannot use them to force open doors",
+						"difficulty": "Medium",
+						"explanation": "Gorilla Arms provide a strength boost for environmental interactions, while Mantis Blades are purely for combat.",
+						"image_url": "",
+						"question": "What is the primary trade-off for using Mantis Blades instead of Gorilla Arms?",
+						"wrong": [
+							"They drain health",
+							"They are slower",
+							"They are more expensive"
+						]
+					},
+					{
+						"correct": "Wall-hanging",
+						"difficulty": "Medium",
+						"explanation": "The ability to stick to walls with the blades was shown in 2018 but removed for technical reasons.",
+						"image_url": "",
+						"question": "In early gameplay demos, what could V do with Mantis Blades that was eventually cut from the final game?",
+						"wrong": [
+							"Flying",
+							"Swimming faster",
+							"Deflecting bullets"
+						]
+					},
+					{
+						"correct": "Zaria Hughes",
+						"difficulty": "Hard",
+						"explanation": "Zaria emerges from a tub in a creepy ritual site and uses Thermal Mantis Blades.",
+						"image_url": "https://skillcheckgame.com/assets/images/mantis_blades.webp",
+						"question": "What is the name of the legendary 'Cyberpsycho' boss who uses Mantis Blades in the 'Bloody Ritual' quest?",
+						"wrong": [
+							"Matt Liaw",
+							"Norio Akuhara",
+							"Cedric Muller"
+						]
+					},
+					{
+						"correct": "Rotor",
+						"difficulty": "Hard",
+						"explanation": "Rotor mods come in Slow, Fast, and Haste variants to increase DPS.",
+						"image_url": "",
+						"question": "What specific mod increases the attack speed of Mantis Blades?",
+						"wrong": [
+							"Battery",
+							"Heatsink",
+							"Weight"
+						]
+					},
+					{
+						"correct": "Arms",
+						"difficulty": "Hard",
+						"explanation": "They are one of the four main 'Arm' cyberware options alongside Gorilla Arms, Monowire, and Projectile Launchers.",
+						"image_url": "",
+						"question": "Which cyberware slot do Mantis Blades occupy?",
+						"wrong": [
+							"Hands",
+							"Skeleton",
+							"Integumentary System"
+						]
+					},
+					{
+						"correct": "Sandayu Oda",
+						"difficulty": "Hard",
+						"explanation": "Oda uses dual Mantis Blades that glow with heat during his intense boss battle in 'Play It Safe'.",
+						"image_url": "",
+						"question": "Which Arasaka ninja uses a specialized, glowing version of Mantis Blades during a boss fight?",
+						"wrong": [
+							"Adam Smasher",
+							"Goro Takemura",
+							"Michiko Arasaka"
+						]
+					},
+					{
+						"correct": "They are just Legendary Mantis Blades",
+						"difficulty": "Hard",
+						"explanation": "Unlike guns, cyberware usually doesn't have 'Iconic' names, but legendary versions can be found in high-level areas.",
+						"image_url": "",
+						"question": "What is the name of the legendary 'Mantis Blades' you can find for free in a chest during a specific side mission in City Center?",
+						"wrong": [
+							"The Ripper",
+							"Widowmaker",
+							"Satori"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_mantis_blades",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Mantis Blades",
+				"lore_desc": "A popular choice for high-end mercenaries, these blades fold out of the forearms for lethal close-quarters combat.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Arm Blades",
+			"profiler": {
+				"vibe_tags": [
+					"Cyberware",
+					"Weapon",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "BD",
+						"difficulty": "Easy",
+						"explanation": "BD is the shorthand used by everyone in Night City for this immersive media.",
+						"image_url": "https://skillcheckgame.com/assets/images/braindance.webp",
+						"question": "What is the common abbreviation for 'Braindance'?",
+						"wrong": [
+							"VR",
+							"AR",
+							"XD"
+						]
+					},
+					{
+						"correct": "Emotions and physical sensations",
+						"difficulty": "Easy",
+						"explanation": "BDs record neural impulses, allowing the viewer to feel exactly what the recorder felt.",
+						"image_url": "",
+						"question": "Unlike modern VR, what does a Braindance allow the user to feel?",
+						"wrong": [
+							"The future",
+							"Nothing",
+							"Only sound"
+						]
+					},
+					{
+						"correct": "A BD Wreath",
+						"difficulty": "Easy",
+						"explanation": "A wreath or headset is required to interface the BD data with the user's brain.",
+						"image_url": "",
+						"question": "What device must a person wear on their head to experience a Braindance?",
+						"wrong": [
+							"A Neural Link",
+							"A Kiroshi Lens",
+							"A Cyberdeck"
+						]
+					},
+					{
+						"correct": "Judy Alvarez",
+						"difficulty": "Easy",
+						"explanation": "Judy is a master BD editor who teaches V how to use 'Editor Mode'.",
+						"image_url": "",
+						"question": "Who is the primary character that helps V 'edit' Braindances to find clues?",
+						"wrong": [
+							"T-Bug",
+							"Rogue",
+							"Misty"
+						]
+					},
+					{
+						"correct": "XBD",
+						"difficulty": "Easy",
+						"explanation": "XBD stands for 'extreme' or 'illegal' braindance, often featuring real crimes or deaths.",
+						"image_url": "",
+						"question": "What is the slang term for the illegal, often violent Braindances found on the black market?",
+						"wrong": [
+							"G-BD",
+							"Dark-Dance",
+							"Death-Scroll"
+						]
+					},
+					{
+						"correct": "Visual, Audio, and Thermal",
+						"difficulty": "Medium",
+						"explanation": "V must switch between these layers to find hidden objects or listen to distant conversations.",
+						"image_url": "https://skillcheckgame.com/assets/images/braindance.webp",
+						"question": "In Editor Mode, what are the three different layers you can scan for clues?",
+						"wrong": [
+							"Sight, Sound, and Smell",
+							"Digital, Physical, and Neural",
+							"Past, Present, and Future"
+						]
+					},
+					{
+						"correct": "Flatlining or brain fry",
+						"difficulty": "Medium",
+						"explanation": "Incorrectly calibrated BDs can cause severe neural damage or death.",
+						"image_url": "",
+						"question": "What happens if a user tries to play a Braindance meant for a different species or a highly modified brain?",
+						"wrong": [
+							"Nothing happens",
+							"The colors are weird",
+							"It plays in slow motion"
+						]
+					},
+					{
+						"correct": "Scrolling",
+						"difficulty": "Medium",
+						"explanation": "Actors in the BD industry are referred to as 'scrollers'.",
+						"image_url": "",
+						"question": "What is the name of the process where a person's life is recorded for a Braindance?",
+						"wrong": [
+							"Taping",
+							"Streaming",
+							"Vibing"
+						]
+					},
+					{
+						"correct": "Stefan",
+						"difficulty": "Medium",
+						"explanation": "The quest 'Sweet Dreams' starts with Stefan tricking V into using a rigged BD headset.",
+						"image_url": "",
+						"question": "Which character sells V a 'faulty' BD that leads to them being robbed by scavengers in a side quest?",
+						"wrong": [
+							"Kirk",
+							"Wakako",
+							"Dex"
+						]
+					},
+					{
+						"correct": "BD Junkie",
+						"difficulty": "Medium",
+						"explanation": "BD addiction is a major social issue in the world of Cyberpunk.",
+						"image_url": "",
+						"question": "What is the term for a person who has become addicted to Braindances and lost touch with reality?",
+						"wrong": [
+							"Chromehead",
+							"Flatliner",
+							"Wired-out"
+						]
+					},
+					{
+						"correct": "Prisoner rehabilitation",
+						"difficulty": "Hard",
+						"explanation": "It was first developed as a way to force prisoners to experience their crimes from the victim's perspective.",
+						"image_url": "https://skillcheckgame.com/assets/images/braindance.webp",
+						"question": "What was the original purpose of Braindance technology before it was used for entertainment?",
+						"wrong": [
+							"Military training",
+							"Deep space travel",
+							"Psychological therapy"
+						]
+					},
+					{
+						"correct": "Yuriko Suhimoto",
+						"difficulty": "Hard",
+						"explanation": "Suhimoto was a graduate student at UC Santa Cruz who developed the first interface.",
+						"image_url": "",
+						"question": "Who was the researcher credited with the invention of the Braindance in the lore?",
+						"wrong": [
+							"Anders Hellman",
+							"Alt Cunningham",
+							"Richard Night"
+						]
+					},
+					{
+						"correct": "Rachel Casich",
+						"difficulty": "Hard",
+						"explanation": "Rachel is a producer for Fourth Wall Studios who is recording a highly controversial 'Death Row' BD.",
+						"image_url": "",
+						"question": "What is the name of the famous BD star that V meets during a mission involving the Sinnerman quest?",
+						"wrong": [
+							"Lizzy Wizzy",
+							"Blue Moon",
+							"Bes Isis"
+						]
+					},
+					{
+						"correct": "Evelyn Parker",
+						"difficulty": "Hard",
+						"explanation": "Evelyn recorded the footage secretly while visiting Yorinobu as a companion.",
+						"image_url": "",
+						"question": "In the quest 'The Information', whose Braindance does V scan to map out Yorinobu Arasaka's penthouse?",
+						"wrong": [
+							"T-Bug",
+							"Adam Smasher",
+							"A servant"
+						]
+					},
+					{
+						"correct": "The Totentanz",
+						"difficulty": "Hard",
+						"explanation": "The Totentanz is a Maelstrom gang hangout famous for its extreme sensory experiences.",
+						"image_url": "",
+						"question": "What is the name of the nightclub where the 'Heaviest' and most intense Braindances are scrolled?",
+						"wrong": [
+							"The Afterlife",
+							"Lizzie's",
+							"Riot"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_braindance",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Braindance",
+				"lore_desc": "A digital recording of a person's thoughts, emotions, and sensory experiences that can be 'played back' by others.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The VR Experience",
+			"profiler": {
+				"vibe_tags": [
+					"Technology",
+					"Media",
+					"Cyberware"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Relic",
+						"difficulty": "Easy",
+						"explanation": "The Relic is the prototype hardware developed by Arasaka's Secure Your Soul program.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_relic.webp",
+						"question": "What is the official name of the biochip V steals from Arasaka?",
+						"wrong": [
+							"The Soul-Key",
+							"The Arasaka Chip",
+							"The Memory Core"
+						]
+					},
+					{
+						"correct": "Johnny Silverhand",
+						"difficulty": "Easy",
+						"explanation": "Johnny's engram was uploaded to the chip decades after his death.",
+						"image_url": "",
+						"question": "Whose consciousness is stored on the Relic chip that V ends up with?",
+						"wrong": [
+							"Saburo Arasaka",
+							"Alt Cunningham",
+							"Jackie Welles"
+						]
+					},
+					{
+						"correct": "In their neural socket",
+						"difficulty": "Easy",
+						"explanation": "After the transport case is damaged, V has to slot it into their own head to preserve the data.",
+						"image_url": "",
+						"question": "Where does V have to physically keep the Relic to prevent it from degrading?",
+						"wrong": [
+							"In a briefcase",
+							"In their pocket",
+							"In a special freezer"
+						]
+					},
+					{
+						"correct": "Seeing and hearing Johnny Silverhand",
+						"difficulty": "Easy",
+						"explanation": "The chip begins to merge Johnny's personality with V's, causing hallucinations.",
+						"image_url": "",
+						"question": "What is the main side effect V experiences because of the Relic?",
+						"wrong": [
+							"Turning into a robot",
+							"Losing their sight",
+							"Becoming super strong"
+						]
+					},
+					{
+						"correct": "Overwriting it with Johnny's data",
+						"difficulty": "Easy",
+						"explanation": "The chip is designed to take over a 'dead' host's brain and replace it with the stored engram.",
+						"image_url": "",
+						"question": "What is the Relic eventually doing to V's brain?",
+						"wrong": [
+							"Shutting it down",
+							"Making it smarter",
+							"Uploading it to the internet"
+						]
+					},
+					{
+						"correct": "Anders Hellman",
+						"difficulty": "Medium",
+						"explanation": "Hellman later defected to Kang Tao, and V has to track him down to find a cure.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_relic.webp",
+						"question": "Who was the lead scientist at Arasaka responsible for the development of the Relic?",
+						"wrong": [
+							"Arthur Jenkins",
+							"Goro Takemura",
+							"Viktor Vektor"
+						]
+					},
+					{
+						"correct": "V being shot in the head",
+						"difficulty": "Medium",
+						"explanation": "When Dexter DeShawn shoots V, the chip detects the host's death and begins the resurrection/overwrite process.",
+						"image_url": "",
+						"question": "What triggered the Relic to start the 'reboot' process in V's head?",
+						"wrong": [
+							"A virus from the Net",
+							"A signal from Arasaka",
+							"V drinking too much"
+						]
+					},
+					{
+						"correct": "Relic 2.0",
+						"difficulty": "Medium",
+						"explanation": "The 2.0 version is unique because it can function in a living (or recently deceased) host.",
+						"image_url": "",
+						"question": "What is the specific version number of the Relic prototype V possesses?",
+						"wrong": [
+							"Relic 1.0",
+							"Relic X",
+							"Relic Prime"
+						]
+					},
+					{
+						"correct": "Yorinobu Arasaka",
+						"difficulty": "Medium",
+						"explanation": "Yorinobu's plan was to use the chip to damage his father's legacy.",
+						"image_url": "",
+						"question": "Which Arasaka family member originally stole the Relic to sell it to NetWatch?",
+						"wrong": [
+							"Hanako Arasaka",
+							"Saburo Arasaka",
+							"Michiko Arasaka"
+						]
+					},
+					{
+						"correct": "Alt Cunningham",
+						"difficulty": "Medium",
+						"explanation": "Alt Cunningham was the brilliant netrunner who first discovered how to digitize a human mind.",
+						"image_url": "",
+						"question": "Which character created the original 'Soulkiller' program that makes the Relic possible?",
+						"wrong": [
+							"Spider Murphy",
+							"T-Bug",
+							"Brigitte"
+						]
+					},
+					{
+						"correct": "In a specialized cold-case",
+						"difficulty": "Hard",
+						"explanation": "The chip requires a specific temperature to remain stable, which the case provided.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_relic.webp",
+						"question": "How did V and Jackie transport the Relic during the heist before the case broke?",
+						"wrong": [
+							"Inside a robot",
+							"In a lead-lined bag",
+							"In a cyberdeck"
+						]
+					},
+					{
+						"correct": "Mosley",
+						"difficulty": "Hard",
+						"explanation": "Mosley is found in the Grand Imperial Mall during the Voodoo Boys questline.",
+						"image_url": "",
+						"question": "What was the name of the NetWatch agent V can meet who was supposed to buy the Relic?",
+						"wrong": [
+							"Thompson",
+							"Bryce",
+							"Cunningham"
+						]
+					},
+					{
+						"correct": "Relic Points",
+						"difficulty": "Hard",
+						"explanation": "Songbird helps V unlock the 'Relic' skill tree using Militech data terminals.",
+						"image_url": "",
+						"question": "What is the term for the points V earns in the 'Phantom Liberty' expansion to upgrade the chip's combat capabilities?",
+						"wrong": [
+							"Skill Points",
+							"Attribute Points",
+							"Engram Points"
+						]
+					},
+					{
+						"correct": "Neural plasticity",
+						"difficulty": "Hard",
+						"explanation": "The chip nanites are physically reconfiguring V's neurons to accommodate Johnny's engram.",
+						"image_url": "",
+						"question": "What is the 'Condition' that the Relic is simulating in V's brain to allow the overwrite?",
+						"wrong": [
+							"Brain death",
+							"Total amnesia",
+							"Digital psychosis"
+						]
+					},
+					{
+						"correct": "Upload it to Mikoshi",
+						"difficulty": "Hard",
+						"explanation": "V can choose to have their mind digitized and stored in Arasaka's data fortress, waiting for a new body.",
+						"image_url": "",
+						"question": "In the 'Devil' ending, what does Arasaka do with V's consciousness after removing the Relic?",
+						"wrong": [
+							"Put it in a new robot",
+							"Give it to Johnny",
+							"Delete it"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_the_relic",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "The Relic",
+				"lore_desc": "A prototype biochip that contains the digital Engram of Johnny Silverhand and is slowly overwriting V's personality.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Biochip",
+			"profiler": {
+				"vibe_tags": [
+					"Technology",
+					"Story",
+					"Arasaka"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "California",
+						"difficulty": "Easy",
+						"explanation": "Specifically, it is located in the Free State of Northern California.",
+						"image_url": "https://skillcheckgame.com/assets/images/night_city.webp",
+						"question": "Which US state is Night City located in according to the game's lore?",
+						"wrong": [
+							"Texas",
+							"New York",
+							"Nevada"
+						]
+					},
+					{
+						"correct": "City of Dreams",
+						"difficulty": "Easy",
+						"explanation": "The tagline 'City of Dreams' is used ironically throughout the game to highlight the city's harsh reality.",
+						"image_url": "",
+						"question": "What is the popular nickname for Night City?",
+						"wrong": [
+							"The Neon Jungle",
+							"The Chrome Apple",
+							"The Steel Hive"
+						]
+					},
+					{
+						"correct": "Richard Night",
+						"difficulty": "Easy",
+						"explanation": "Richard Night envisioned a corporate utopia before he was assassinated by the mob.",
+						"image_url": "",
+						"question": "Who was the entrepreneur that Night City was named after?",
+						"wrong": [
+							"Johnny Night",
+							"Arthur City",
+							"Saburo Arasaka"
+						]
+					},
+					{
+						"correct": "Dogtown",
+						"difficulty": "Easy",
+						"explanation": "Dogtown is a sub-district of Pacifica ruled by the warlord Kurt Hansen.",
+						"image_url": "",
+						"question": "What is the name of the lawless, walled-off district featured in the 'Phantom Liberty' expansion?",
+						"wrong": [
+							"Pacifica",
+							"The Glen",
+							"Charter Hill"
+						]
+					},
+					{
+						"correct": "Pacifica",
+						"difficulty": "Easy",
+						"explanation": "Pacifica was abandoned by investors during a corporate war and became a gang-controlled combat zone.",
+						"image_url": "",
+						"question": "What is the name of the massive slum district in the south that was intended to be a vacation resort?",
+						"wrong": [
+							"Watson",
+							"Santo Domingo",
+							"Westbrook"
+						]
+					},
+					{
+						"correct": "Watson",
+						"difficulty": "Medium",
+						"explanation": "Watson, specifically Kabuki and Little China, has a heavy Asian cultural presence.",
+						"image_url": "https://skillcheckgame.com/assets/images/night_city.webp",
+						"question": "Which district is known for its Japanese influence and is home to the Tyger Claws gang?",
+						"wrong": [
+							"Heywood",
+							"Westbrook",
+							"City Center"
+						]
+					},
+					{
+						"correct": "Westbrook",
+						"difficulty": "Medium",
+						"explanation": "Westbrook contains Japan Town and North Oak, the most expensive neighborhood in the city.",
+						"image_url": "",
+						"question": "What is the name of the rich, hilly district where the elite and celebrities live?",
+						"wrong": [
+							"Santa Monica",
+							"Charter Hill",
+							"North Oak"
+						]
+					},
+					{
+						"correct": "Arasaka",
+						"difficulty": "Medium",
+						"explanation": "The Arasaka Tower is the tallest and most imposing building in the district.",
+						"image_url": "",
+						"question": "Which mega-corporation's headquarters dominates the skyline of the City Center?",
+						"wrong": [
+							"Militech",
+							"Kang Tao",
+							"Petrochem"
+						]
+					},
+					{
+						"correct": "Orbital Air Spaceport",
+						"difficulty": "Medium",
+						"explanation": "Located on Morro Rock, it is the primary hub for travel to the Moon and space stations.",
+						"image_url": "",
+						"question": "What is the name of the artificial island used as a spaceport off the coast of Night City?",
+						"wrong": [
+							"Arasaka Island",
+							"Kusanagi Port",
+							"The Crystal Reach"
+						]
+					},
+					{
+						"correct": "Santo Domingo",
+						"difficulty": "Medium",
+						"explanation": "Santo Domingo is filled with factories, power plants, and endless rows of housing.",
+						"image_url": "",
+						"question": "What is the name of the city's largest industrial district and its oldest residential area?",
+						"wrong": [
+							"Heywood",
+							"Watson",
+							"Pacifica"
+						]
+					},
+					{
+						"correct": "Coronado City",
+						"difficulty": "Hard",
+						"explanation": "Richard Night's original project was named Coronado City before his death.",
+						"image_url": "https://skillcheckgame.com/assets/images/night_city.webp",
+						"question": "Before it was called Night City, what was the planned name of the settlement?",
+						"wrong": [
+							"New San Francisco",
+							"Utopia",
+							"Corporate Bay"
+						]
+					},
+					{
+						"correct": "Valentinos",
+						"difficulty": "Hard",
+						"explanation": "Heywood is the heart of the Latino community and the base for the Valentinos.",
+						"image_url": "",
+						"question": "Which gang primarily controls the Heywood district?",
+						"wrong": [
+							"6th Street",
+							"Voodoo Boys",
+							"Animals"
+						]
+					},
+					{
+						"correct": "The Badlands Scrapyard",
+						"difficulty": "Hard",
+						"explanation": "After being betrayed by Dexter DeShawn, V is left for dead in a massive pile of trash.",
+						"image_url": "",
+						"question": "What is the name of the massive landfill site on the outskirts of the city where V is dumped?",
+						"wrong": [
+							"The Pit",
+							"South Night Landfill",
+							"Medusa's Grave"
+						]
+					},
+					{
+						"correct": "The Pincheira Bridge",
+						"difficulty": "Hard",
+						"explanation": "It is one of the main thoroughfares for players moving between the early and mid-game areas.",
+						"image_url": "",
+						"question": "What is the name of the bridge that connects Watson to the City Center?",
+						"wrong": [
+							"The Golden Gate",
+							"The Arasaka Bridge",
+							"The Night Bridge"
+						]
+					},
+					{
+						"correct": "NCPD",
+						"difficulty": "Hard",
+						"explanation": "The Night City Police Department is chronically underfunded and relies on 'Subcon' mercs (like V) for help.",
+						"image_url": "",
+						"question": "Which organization provides the automated law enforcement and bounty system in Night City?",
+						"wrong": [
+							"Max-Tac",
+							"NetWatch",
+							"Trauma Team"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_night_city",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Night City",
+				"lore_desc": "A sprawling neon metropolis where the divide between the rich and the poor is absolute, and technology has permeated every aspect of life.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Setting",
+			"profiler": {
+				"vibe_tags": [
+					"City",
+					"Open World",
+					"Metropolis"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Motorcycle",
+						"difficulty": "Easy",
+						"explanation": "The Kusanagi is a sleek, futuristic sportbike.",
+						"image_url": "https://skillcheckgame.com/assets/images/yaiba_kusanagi_ct-3x.webp",
+						"question": "What type of vehicle is the Yaiba Kusanagi CT-3X?",
+						"wrong": [
+							"Car",
+							"Tank",
+							"Hovercraft"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "The bike is famous for its vibrant red color, similar to Kaneda's bike in Akira.",
+						"image_url": "",
+						"question": "What color is the standard model of the Yaiba Kusanagi that V can purchase?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Black"
+						]
+					},
+					{
+						"correct": "Motorcycles",
+						"difficulty": "Easy",
+						"explanation": "It has the highest top speed of any bike available for purchase in the game.",
+						"image_url": "",
+						"question": "The Yaiba Kusanagi is the fastest vehicle in which category?",
+						"wrong": [
+							"Hypercars",
+							"Trucks",
+							"Off-roaders"
+						]
+					},
+					{
+						"correct": "Akira",
+						"difficulty": "Easy",
+						"explanation": "The bike's low profile and elongated front are direct homages to the manga and film Akira.",
+						"image_url": "",
+						"question": "Which real-world media franchise inspired the design of the Yaiba Kusanagi?",
+						"wrong": [
+							"Ghost in the Shell",
+							"Tron",
+							"Blade Runner"
+						]
+					},
+					{
+						"correct": "Westbrook",
+						"difficulty": "Easy",
+						"explanation": "Wakako Okada, the fixer for Westbrook, offers the bike to V.",
+						"image_url": "",
+						"question": "In which district can V find the fixer who sells the Yaiba Kusanagi?",
+						"wrong": [
+							"Watson",
+							"Heywood",
+							"Pacifica"
+						]
+					},
+					{
+						"correct": "Yaiba",
+						"difficulty": "Medium",
+						"explanation": "Yaiba is a Japanese company specializing in high-performance motorcycles.",
+						"image_url": "https://skillcheckgame.com/assets/images/yaiba_kusanagi_ct-3x.webp",
+						"question": "What is the name of the manufacturer of the Kusanagi?",
+						"wrong": [
+							"Brennan",
+							"Arch",
+							"Mizutani"
+						]
+					},
+					{
+						"correct": "Motoko Kusanagi",
+						"difficulty": "Medium",
+						"explanation": "The name Kusanagi is a tribute to the protagonist of the legendary cyberpunk series Ghost in the Shell.",
+						"image_url": "",
+						"question": "Which female character in 'Ghost in the Shell' shares a name with this bike?",
+						"wrong": [
+							"Batou",
+							"Togusa",
+							"Ishikawa"
+						]
+					},
+					{
+						"correct": "CT-3X",
+						"difficulty": "Medium",
+						"explanation": "The CT-3X is the peak of Yaiba's engineering in the 2070s.",
+						"image_url": "",
+						"question": "What is the specific model designation of the Kusanagi?",
+						"wrong": [
+							"X-100",
+							"Z-Series",
+							"Turbo"
+						]
+					},
+					{
+						"correct": "22,000 Eurodollars",
+						"difficulty": "Medium",
+						"explanation": "It is surprisingly affordable given its high performance, making it a fan favorite.",
+						"image_url": "",
+						"question": "How much does the Kusanagi typically cost when Wakako offers it to V?",
+						"wrong": [
+							"5,000 Eurodollars",
+							"50,000 Eurodollars",
+							"100,000 Eurodollars"
+						]
+					},
+					{
+						"correct": "Kiroshi",
+						"difficulty": "Medium",
+						"explanation": "Kiroshi makes optics and cyberware, not vehicles.",
+						"image_url": "",
+						"question": "Which of these is NOT a vehicle manufacturer in Cyberpunk 2077?",
+						"wrong": [
+							"Quadra",
+							"Herrera",
+							"Rayfield"
+						]
+					},
+					{
+						"correct": "Speed and gear",
+						"difficulty": "Hard",
+						"explanation": "Like most vehicles, it displays tactical telemetry directly on the windshield or screen.",
+						"image_url": "https://skillcheckgame.com/assets/images/yaiba_kusanagi_ct-3x.webp",
+						"question": "The Kusanagi features a unique digital display on its dashboard. What information does it show?",
+						"wrong": [
+							"Current quest",
+							"Radio station",
+							"V's health"
+						]
+					},
+					{
+						"correct": "Tyger Claws",
+						"difficulty": "Hard",
+						"explanation": "The Tyger Claws favor Japanese tech and often use yellow-and-green customized Yaiba bikes.",
+						"image_url": "",
+						"question": "Which gang's members are often seen riding modified versions of the Kusanagi?",
+						"wrong": [
+							"Maelstrom",
+							"Valentinos",
+							"6th Street"
+						]
+					},
+					{
+						"correct": "183 hp",
+						"difficulty": "Hard",
+						"explanation": "For a lightweight bike, 183 hp provides an incredible power-to-weight ratio.",
+						"image_url": "",
+						"question": "What is the horsepower of the Yaiba Kusanagi CT-3X according to its in-game database entry?",
+						"wrong": [
+							"100 hp",
+							"250 hp",
+							"500 hp"
+						]
+					},
+					{
+						"correct": "There isn't one",
+						"difficulty": "Hard",
+						"explanation": "The NCPD typically uses Archer or Thorton cars and Brennan bikes, not the high-end Kusanagi.",
+						"image_url": "",
+						"question": "What is the name of the special 'Peacekeeper' variant of the Kusanagi used by police?",
+						"wrong": [
+							"Enforcer",
+							"Patrol",
+							"Interceptor"
+						]
+					},
+					{
+						"correct": "Under the rear tail",
+						"difficulty": "Hard",
+						"explanation": "The sleek design hides the exhaust tucked under the rear seat cowling.",
+						"image_url": "",
+						"question": "The Kusanagi's exhaust system is located where on the bike?",
+						"wrong": [
+							"On the sides",
+							"Near the front wheel",
+							"It doesn't have one"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_yaiba_kusanagi_ct-3x",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Yaiba Kusanagi CT-3X",
+				"lore_desc": "The fastest motorcycle in Night City, heavily inspired by the bike from the classic anime 'Akira'.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Iconic Bike",
+			"profiler": {
+				"vibe_tags": [
+					"Vehicle",
+					"Motorcycle",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Johnny Silverhand",
+						"difficulty": "Easy",
+						"explanation": "Johnny had this gun custom-made to handle the recoil of its massive caliber.",
+						"image_url": "https://skillcheckgame.com/assets/images/malorian_arms_3516.webp",
+						"question": "Who is the original owner of the Malorian Arms 3516?",
+						"wrong": [
+							"Adam Smasher",
+							"Morgan Blackhand",
+							"Jackie Welles"
+						]
+					},
+					{
+						"correct": "Pistol",
+						"difficulty": "Easy",
+						"explanation": "It is a heavy, power-based semi-automatic pistol.",
+						"image_url": "",
+						"question": "What type of weapon is the Malorian Arms 3516?",
+						"wrong": [
+							"Shotgun",
+							"Sniper Rifle",
+							"Submachine Gun"
+						]
+					},
+					{
+						"correct": "A flamethrower puff",
+						"difficulty": "Easy",
+						"explanation": "The gun's melee attack triggers a burst of flame from the side vent.",
+						"image_url": "",
+						"question": "What unique melee animation does V perform when using this gun?",
+						"wrong": [
+							"A knife stab",
+							"A pistol whip",
+							"An electric shock"
+						]
+					},
+					{
+						"correct": "Rogue Amendiares",
+						"difficulty": "Easy",
+						"explanation": "Rogue helps V track down Johnny's old gear during the 'Chippin' In' quest.",
+						"image_url": "",
+						"question": "Which character gives V the quest to finally find Johnny's gun in the present day?",
+						"wrong": [
+							"Kerry Eurodyne",
+							"Viktor Vektor",
+							"River Ward"
+						]
+					},
+					{
+						"correct": "The bullets ricochet",
+						"difficulty": "Easy",
+						"explanation": "As a Power weapon, its primary gimmick is bullet ricochet, though it also has high penetration.",
+						"image_url": "",
+						"question": "What happens when V aims down sights and fires at a wall with this gun?",
+						"wrong": [
+							"The bullets explode",
+							"The bullets pierce through",
+							"The gun jams"
+						]
+					},
+					{
+						"correct": "Be broken by the recoil",
+						"difficulty": "Medium",
+						"explanation": "The gun was designed for Johnny's cybernetic arm to withstand the immense kickback.",
+						"image_url": "https://skillcheckgame.com/assets/images/malorian_arms_3516.webp",
+						"question": "The Malorian Arms 3516 was custom-built for Johnny because a regular human's arm would...",
+						"wrong": [
+							"Not be able to reach the trigger",
+							"Be too weak to lift it",
+							"Melt from the heat"
+						]
+					},
+					{
+						"correct": "2023",
+						"difficulty": "Medium",
+						"explanation": "Johnny used it during his final raid on Arasaka Tower in 2023.",
+						"image_url": "",
+						"question": "In which year was the Malorian Arms 3516 manufactured?",
+						"wrong": [
+							"2013",
+							"2077",
+							"2045"
+						]
+					},
+					{
+						"correct": "Being incredibly stylish and flashy",
+						"difficulty": "Medium",
+						"explanation": "The reload involves a series of complex flips and spins that reflect Johnny's 'Rockerboy' flair.",
+						"image_url": "",
+						"question": "What is the reload animation known for in the Cyberpunk community?",
+						"wrong": [
+							"Being very slow",
+							"Dropping the magazine",
+							"Spinning the gun on a finger"
+						]
+					},
+					{
+						"correct": "Grayson",
+						"difficulty": "Medium",
+						"explanation": "Jeremiah Grayson, a henchman for Adam Smasher, was the one who ended up with Johnny's gun.",
+						"image_url": "",
+						"question": "Who does V have to defeat to loot the Malorian Arms 3516?",
+						"wrong": [
+							"Adam Smasher",
+							"Royce",
+							"Woodman"
+						]
+					},
+					{
+						"correct": "10 rounds",
+						"difficulty": "Medium",
+						"explanation": "Despite being a massive pistol, it holds a respectable 10 rounds.",
+						"image_url": "",
+						"question": "What is the ammo capacity of the Malorian Arms 3516 in one magazine?",
+						"wrong": [
+							"6 rounds",
+							"15 rounds",
+							"30 rounds"
+						]
+					},
+					{
+						"correct": "The year and sequence of design",
+						"difficulty": "Hard",
+						"explanation": "Malorian Arms used a specific dating system for their custom prototypes.",
+						"image_url": "https://skillcheckgame.com/assets/images/malorian_arms_3516.webp",
+						"question": "The 3516 model number refers to what in the Malorian company lore?",
+						"wrong": [
+							"The caliber of the bullet",
+							"The weight in grams",
+							"The designer's birthdate"
+						]
+					},
+					{
+						"correct": "Eran Malour",
+						"difficulty": "Hard",
+						"explanation": "Eran Malour was the legendary gunsmith behind the Malorian brand.",
+						"image_url": "",
+						"question": "What is the name of the designer who personally crafted the gun for Johnny Silverhand?",
+						"wrong": [
+							"Wilson",
+							"Robert Rainwater",
+							"Judy Alvarez"
+						]
+					},
+					{
+						"correct": "Thermal",
+						"difficulty": "Hard",
+						"explanation": "The 'flamethrower' blast deals thermal damage to enemies.",
+						"image_url": "",
+						"question": "What elemental damage type is natively associated with the Malorian's quick-melee?",
+						"wrong": [
+							"Electric",
+							"Chemical",
+							"Physical"
+						]
+					},
+					{
+						"correct": "The Ebunike",
+						"difficulty": "Hard",
+						"explanation": "Grayson is found on the Ebunike, which is also Smasher's personal hideout.",
+						"image_url": "",
+						"question": "What is the name of the ship where Grayson is hiding with the gun?",
+						"wrong": [
+							"The Kujira",
+							"The Iron Dragon",
+							"The Nomad"
+						]
+					},
+					{
+						"correct": "It deals much more damage and penetrates walls",
+						"difficulty": "Hard",
+						"explanation": "The flashbacks represent Johnny's own (exaggerated) memories, making the gun feel far more powerful than the version V finds.",
+						"image_url": "",
+						"question": "During the Johnny Silverhand flashbacks, the Malorian Arms 3516 behaves differently. How?",
+						"wrong": [
+							"It has infinite ammo",
+							"It never needs to reload",
+							"It is a smart weapon"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_malorian_arms_3516",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Malorian Arms 3516",
+				"lore_desc": "Johnny Silverhand's custom-built handgun, designed to be the most powerful pistol ever held by a human.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "Johnny's Pistol",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Iconic",
+					"Handgun"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Saburo Arasaka",
+						"difficulty": "Easy",
+						"explanation": "Takemura was the most trusted protector of the Arasaka patriarch.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_takemura.webp",
+						"question": "Whose bodyguard was Takemura before the events of the heist?",
+						"wrong": [
+							"Yorinobu Arasaka",
+							"Hanako Arasaka",
+							"Adam Smasher"
+						]
+					},
+					{
+						"correct": "He needs V to testify against Yorinobu",
+						"difficulty": "Easy",
+						"explanation": "Takemura realizes V is the only witness to Saburo's true cause of death.",
+						"image_url": "",
+						"question": "Why does Takemura save V from the landfill?",
+						"wrong": [
+							"He is V's friend",
+							"He wants the Relic",
+							"He was hired by Dexter DeShawn"
+						]
+					},
+					{
+						"correct": "Japan",
+						"difficulty": "Easy",
+						"explanation": "Takemura was raised in the slums of Chiba-City, Japan.",
+						"image_url": "",
+						"question": "Which country is Takemura originally from?",
+						"wrong": [
+							"China",
+							"Korea",
+							"USA"
+						]
+					},
+					{
+						"correct": "He thinks it is disgusting 'sawdust'",
+						"difficulty": "Easy",
+						"explanation": "Takemura frequently complains about the poor quality of food in Night City compared to Japan.",
+						"image_url": "",
+						"question": "What is Takemura's opinion of Night City food?",
+						"wrong": [
+							"He loves the street food",
+							"He thinks it is okay",
+							"He only eats pizza"
+						]
+					},
+					{
+						"correct": "He sends blurry selfies and weird photos",
+						"difficulty": "Easy",
+						"explanation": "Takemura is unfamiliar with consumer-grade tech, leading to several humorous text exchanges.",
+						"image_url": "",
+						"question": "What does Takemura accidentally do when trying to use a smartphone to message V?",
+						"wrong": [
+							"He breaks it",
+							"He loses it",
+							"He calls the police"
+						]
+					},
+					{
+						"correct": "Sandayu Oda",
+						"difficulty": "Medium",
+						"explanation": "Takemura trained Oda personally, leading to a conflicted relationship when they are forced to oppose each other.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_takemura.webp",
+						"question": "What is the name of the elite Arasaka ninja who was Takemura's student?",
+						"wrong": [
+							"Adam Smasher",
+							"Hino-san",
+							"Arthur Jenkins"
+						]
+					},
+					{
+						"correct": "Chiba-City",
+						"difficulty": "Medium",
+						"explanation": "He often reminisces about his harsh childhood in the Chiba slums before being recruited by Arasaka.",
+						"image_url": "",
+						"question": "What is the name of the Japanese town where Takemura grew up?",
+						"wrong": [
+							"Tokyo",
+							"Osaka",
+							"Kyoto"
+						]
+					},
+					{
+						"correct": "Hanako Arasaka",
+						"difficulty": "Medium",
+						"explanation": "Takemura believes Hanako is the only one who will listen to the truth and act with honor.",
+						"image_url": "",
+						"question": "Which Arasaka family member does Takemura insist V must talk to in order to clear their name?",
+						"wrong": [
+							"Michiko Arasaka",
+							"Yorinobu Arasaka",
+							"Saburo's ghost"
+						]
+					},
+					{
+						"correct": "Go back upstairs and save him",
+						"difficulty": "Medium",
+						"explanation": "Saving Takemura is an optional objective that many players miss on their first playthrough.",
+						"image_url": "",
+						"question": "During the mission 'Search and Destroy', what can V do to change Takemura's fate?",
+						"wrong": [
+							"Give him a medkit",
+							"Shoot him",
+							"Call Panam for help"
+						]
+					},
+					{
+						"correct": "It is remotely deactivated by Arasaka",
+						"difficulty": "Medium",
+						"explanation": "Arasaka 'turns off' his high-end combat implants, leaving him much more vulnerable.",
+						"image_url": "",
+						"question": "What happens to Takemura's cyberware after he is framed for murder?",
+						"wrong": [
+							"It is stolen by Scavengers",
+							"It malfunctions",
+							"V has to repair it"
+						]
+					},
+					{
+						"correct": "Tom's Diner",
+						"difficulty": "Hard",
+						"explanation": "Tom's Diner is a classic Night City establishment where the two form their alliance.",
+						"image_url": "https://skillcheckgame.com/assets/images/goro_takemura.webp",
+						"question": "What is the name of the diner where Takemura and V meet to discuss their plan after the prologue?",
+						"wrong": [
+							"El Coyote Cojo",
+							"Buck's Slices",
+							"The Diner"
+						]
+					},
+					{
+						"correct": "A fly",
+						"difficulty": "Hard",
+						"explanation": "He often uses metaphors regarding duty and insignificance.",
+						"image_url": "",
+						"question": "Takemura compares V to what kind of insect in one of his philosophical moments?",
+						"wrong": [
+							"A cockroach",
+							"A moth",
+							"A bee"
+						]
+					},
+					{
+						"correct": "Arasaka Industrial Park",
+						"difficulty": "Hard",
+						"explanation": "The mission 'Gimme Danger' involves scouting and infiltrating this secure facility.",
+						"image_url": "",
+						"question": "What is the name of the Arasaka facility where V and Takemura break in to hack a parade float?",
+						"wrong": [
+							"Arasaka Tower",
+							"Konpeki Plaza",
+							"Kusanagi Docks"
+						]
+					},
+					{
+						"correct": "A contract for Secure Your Soul",
+						"difficulty": "Hard",
+						"explanation": "He offers V the chance to have their consciousness stored in Mikoshi.",
+						"image_url": "",
+						"question": "In the 'Devil' ending, if Takemura is alive, what does he bring to V in the orbital station?",
+						"wrong": [
+							"A gun",
+							"A new body",
+							"A ticket home"
+						]
+					},
+					{
+						"correct": "The Dashi Parade",
+						"difficulty": "Hard",
+						"explanation": "The Dashi Parade honors Saburo Arasaka and is the center of a major story mission.",
+						"image_url": "",
+						"question": "What is the name of the parade in Japan Town that Takemura plans to infiltrate?",
+						"wrong": [
+							"The Arasaka Festival",
+							"The Cherry Blossom Parade",
+							"The Night Parade"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_goro_takemura",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Goro Takemura",
+				"lore_desc": "The former personal bodyguard of Saburo Arasaka, who seeks to avenge his master's death after being framed for it.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Ronin",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Samurai",
+					"Arasaka"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Queen of Fixers",
+						"difficulty": "Easy",
+						"explanation": "Rogue has maintained her position at the top of the fixer hierarchy for decades.",
+						"image_url": "https://skillcheckgame.com/assets/images/rogue_amendiares.webp",
+						"question": "What is Rogue's title within the mercenary world of Night City?",
+						"wrong": [
+							"The Netrunner Queen",
+							"The Solo Supreme",
+							"The Cyber-Lady"
+						]
+					},
+					{
+						"correct": "The Afterlife",
+						"difficulty": "Easy",
+						"explanation": "Rogue runs her business from a private booth in the back of the Afterlife.",
+						"image_url": "",
+						"question": "Which bar does Rogue own and operate?",
+						"wrong": [
+							"Lizzie's Bar",
+							"Riot",
+							"The Forlorn Hope"
+						]
+					},
+					{
+						"correct": "Johnny Silverhand",
+						"difficulty": "Easy",
+						"explanation": "Rogue was one of Johnny's closest allies and lovers during his war with Arasaka.",
+						"image_url": "",
+						"question": "Rogue was a member of which character's strike team in 2023?",
+						"wrong": [
+							"Adam Smasher",
+							"Saburo Arasaka",
+							"Dexter DeShawn"
+						]
+					},
+					{
+						"correct": "Over 80 years old",
+						"difficulty": "Easy",
+						"explanation": "Thanks to high-end anti-aging treatments and cybernetics, she still looks and fights like she's in her prime.",
+						"image_url": "",
+						"question": "How old is Rogue roughly during the events of 2077?",
+						"wrong": [
+							"30 years old",
+							"50 years old",
+							"Over 150 years old"
+						]
+					},
+					{
+						"correct": "15,000 Eurodollars",
+						"difficulty": "Easy",
+						"explanation": "Rogue doesn't do 'friends and family' discounts unless she has to.",
+						"image_url": "",
+						"question": "What does Rogue charge V for her services the first time they meet?",
+						"wrong": [
+							"Nothing",
+							"A favor",
+							"A new gun"
+						]
+					},
+					{
+						"correct": "Crispin Weyland",
+						"difficulty": "Medium",
+						"explanation": "Crispin is the son of Andrew Weyland, who was also a teammate of Johnny's.",
+						"image_url": "https://skillcheckgame.com/assets/images/rogue_amendiares.webp",
+						"question": "What is the name of Rogue's personal bodyguard and assistant?",
+						"wrong": [
+							"Andrew Weyland",
+							"Emmerick Bronson",
+							"Denny"
+						]
+					},
+					{
+						"correct": "A drive-in movie theater",
+						"difficulty": "Medium",
+						"explanation": "They go to the Silver Pixel Cloud drive-in to watch an old movie.",
+						"image_url": "",
+						"question": "Where does Rogue go on a date with 'Johnny' (using V's body)?",
+						"wrong": [
+							"A fancy restaurant",
+							"A rock concert",
+							"The Afterlife"
+						]
+					},
+					{
+						"correct": "Arasaka",
+						"difficulty": "Medium",
+						"explanation": "It's hinted that Rogue made a deal with the devil to keep her status and stay alive.",
+						"image_url": "",
+						"question": "Which company did Rogue secretly work with after the 2023 Arasaka raid to survive?",
+						"wrong": [
+							"Militech",
+							"Kang Tao",
+							"NetWatch"
+						]
+					},
+					{
+						"correct": "Power Pistol",
+						"difficulty": "Medium",
+						"explanation": "Pride is a highly accurate and powerful handgun V can obtain.",
+						"image_url": "",
+						"question": "What type of weapon is Rogue's iconic pistol, 'Pride'?",
+						"wrong": [
+							"Tech Pistol",
+							"Smart Pistol",
+							"Revolver"
+						]
+					},
+					{
+						"correct": "Solo",
+						"difficulty": "Medium",
+						"explanation": "Before she was a fixer, she was one of the most feared Solos in the world.",
+						"image_url": "",
+						"question": "What was Rogue's mercenary class back in the 2020s?",
+						"wrong": [
+							"Netrunner",
+							"Fixer",
+							"Techie"
+						]
+					},
+					{
+						"correct": "The Sun",
+						"difficulty": "Hard",
+						"explanation": "This path leads to V becoming the new legend of the Afterlife.",
+						"image_url": "https://skillcheckgame.com/assets/images/rogue_amendiares.webp",
+						"question": "What is the name of the ending where V asks Rogue for help to storm Arasaka Tower?",
+						"wrong": [
+							"The Star",
+							"The Temperance",
+							"The Devil"
+						]
+					},
+					{
+						"correct": "Santiago Aldecaldo",
+						"difficulty": "Hard",
+						"explanation": "Rogue had a long-standing relationship with the former leader of the Aldecaldos.",
+						"image_url": "",
+						"question": "Who was Rogue's partner and child's father, who was also a Nomad?",
+						"wrong": [
+							"Saul Bright",
+							"Panam Palmer",
+							"Mitch Anderson"
+						]
+					},
+					{
+						"correct": "No one, she finds it herself",
+						"difficulty": "Hard",
+						"explanation": "As the top fixer, Rogue has her own extensive network that doesn't rely on intermediaries.",
+						"image_url": "",
+						"question": "What is the name of the contact who provides Rogue with info on Anders Hellman?",
+						"wrong": [
+							"Nyx",
+							"T-Bug",
+							"Evelyn Parker"
+						]
+					},
+					{
+						"correct": "Quadra Type-66 'Cthulhu'",
+						"difficulty": "Hard",
+						"explanation": "Actually, Rogue is usually seen in a customized Quadra variant, fitting her rugged but stylish persona.",
+						"image_url": "",
+						"question": "What kind of car does Rogue drive during the 2077 events?",
+						"wrong": [
+							"Rayfield Caliburn",
+							"Mizutani Shion",
+							"Quadra Turbo-R"
+						]
+					},
+					{
+						"correct": "Providing air support and extraction",
+						"difficulty": "Hard",
+						"explanation": "Rogue manages the team's helicopter and ensures they have a way out of the tower.",
+						"image_url": "",
+						"question": "In the 2023 flashback, what is the specific task Rogue performs during the Arasaka raid?",
+						"wrong": [
+							"Planting the bomb",
+							"Hacking the mainframe",
+							"Killing Saburo"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_rogue_amendiares",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Rogue Amendiares",
+				"lore_desc": "The most powerful fixer in Night City and the owner of the Afterlife bar, with a history tied to Johnny Silverhand.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Fixer Legend",
+			"profiler": {
+				"vibe_tags": [
+					"Fixer",
+					"Legend",
+					"Afterlife"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "It is 100 percent chrome cybernetics",
+						"difficulty": "Easy",
+						"explanation": "Lizzy is famous for her striking, full-body chrome look.",
+						"image_url": "https://skillcheckgame.com/assets/images/lizzy_wizzy.webp",
+						"question": "What is unique about Lizzy Wizzy's physical body?",
+						"wrong": [
+							"She has no cyberware",
+							"She is a hologram",
+							"She is a brain in a jar"
+						]
+					},
+					{
+						"correct": "Pop Star",
+						"difficulty": "Easy",
+						"explanation": "She is the biggest musical icon in Night City and the world.",
+						"image_url": "",
+						"question": "What is Lizzy Wizzy's primary profession?",
+						"wrong": [
+							"Mercenary",
+							"Politician",
+							"Ripperdoc"
+						]
+					},
+					{
+						"correct": "Grimes",
+						"difficulty": "Easy",
+						"explanation": "The real-world musician Grimes provided the voice and some music for the character.",
+						"image_url": "",
+						"question": "Who voiced Lizzy Wizzy in the game?",
+						"wrong": [
+							"Lady Gaga",
+							"Halsey",
+							"Billie Eilish"
+						]
+					},
+					{
+						"correct": "Violence",
+						"difficulty": "Easy",
+						"explanation": "The quest 'Violence' involves investigating Lizzy's boyfriend, Liam.",
+						"image_url": "",
+						"question": "Which quest features V working directly for Lizzy Wizzy?",
+						"wrong": [
+							"Sinnerman",
+							"Dream On",
+							"Epistrophy"
+						]
+					},
+					{
+						"correct": "She died and was brought back to life",
+						"difficulty": "Easy",
+						"explanation": "She committed suicide on stage as a performance art piece and was resurrected with a full cyber-body.",
+						"image_url": "",
+						"question": "What did Lizzy Wizzy famously do during a live concert that made her a legend?",
+						"wrong": [
+							"She started a riot",
+							"She gave away 1 million eddies",
+							"She blew up the stage"
+						]
+					},
+					{
+						"correct": "Liam Northom",
+						"difficulty": "Medium",
+						"explanation": "Liam is plotting to create a digital backup of Lizzy's personality, which leads to the quest events.",
+						"image_url": "https://skillcheckgame.com/assets/images/lizzy_wizzy.webp",
+						"question": "What is the name of Lizzy Wizzy's manager and boyfriend?",
+						"wrong": [
+							"Jefferson Peralez",
+							"River Ward",
+							"Anthony Gilchrist"
+						]
+					},
+					{
+						"correct": "Lizzie (Tech Pistol)",
+						"difficulty": "Medium",
+						"explanation": "The 'Lizzie' is an iconic pink Om-5 Tech Pistol.",
+						"image_url": "",
+						"question": "What kind of weapon does Lizzy Wizzy give V (or can be found in her quest)?",
+						"wrong": [
+							"Widowmaker",
+							"Chaos",
+							"Plan B"
+						]
+					},
+					{
+						"correct": "Lizzy Wizzy and the Metadwarves",
+						"difficulty": "Medium",
+						"explanation": "The Metadwarves are her backing band, though she is clearly the star.",
+						"image_url": "",
+						"question": "What is the name of Lizzy Wizzy's band?",
+						"wrong": [
+							"Samurai",
+							"Us Cracks",
+							"The Chrome Dolls"
+						]
+					},
+					{
+						"correct": "The Black Sapphire",
+						"difficulty": "Medium",
+						"explanation": "She performs at Kurt Hansen's elite party in Dogtown.",
+						"image_url": "",
+						"question": "In 'Phantom Liberty', where does Lizzy Wizzy perform a massive concert?",
+						"wrong": [
+							"Lizzie's Bar",
+							"Arasaka Tower",
+							"The Crystal Palace"
+						]
+					},
+					{
+						"correct": "Pink",
+						"difficulty": "Medium",
+						"explanation": "She maintains a striking pink color that contrasts with her silver skin.",
+						"image_url": "",
+						"question": "What is the primary color of Lizzy Wizzy's iconic hair/head in her chrome form?",
+						"wrong": [
+							"Blue",
+							"Silver",
+							"Gold"
+						]
+					},
+					{
+						"correct": "EBM",
+						"difficulty": "Hard",
+						"explanation": "EBM (Euro-Business Machines) is a major player in electronics and consumer goods.",
+						"image_url": "https://skillcheckgame.com/assets/images/lizzy_wizzy.webp",
+						"question": "What is the name of the cosmetic company Lizzy Wizzy is the face of?",
+						"wrong": [
+							"Kiroshi",
+							"Biotechnica",
+							"Petrochem"
+						]
+					},
+					{
+						"correct": "Delicate Weapon",
+						"difficulty": "Hard",
+						"explanation": "Grimes wrote 'Delicate Weapon' specifically for the Cyberpunk 2077 soundtrack.",
+						"image_url": "",
+						"question": "Which song does Lizzy Wizzy perform during the 'Phantom Liberty' expansion?",
+						"wrong": [
+							"Chippin' In",
+							"Never Fade Away",
+							"PonPon Shit"
+						]
+					},
+					{
+						"correct": "Arasaka 'IEC' custom",
+						"difficulty": "Hard",
+						"explanation": "Her body is a custom job designed for aesthetics rather than combat.",
+						"image_url": "",
+						"question": "What is the specific model of full-body conversion Lizzy uses?",
+						"wrong": [
+							"Dragoon",
+							"Gemini",
+							"Smasher-Type"
+						]
+					},
+					{
+						"correct": "She kills him",
+						"difficulty": "Hard",
+						"explanation": "Lizzy's psyche begins to fracture, leading her to murder Liam in a fit of rage.",
+						"image_url": "",
+						"question": "What does Lizzy do to Liam at the end of the quest 'Violence' if V chooses certain options?",
+						"wrong": [
+							"She marries him",
+							"She fires him",
+							"She sends him to jail"
+						]
+					},
+					{
+						"correct": "Wizzies",
+						"difficulty": "Hard",
+						"explanation": "Her massive fanbase is dedicated to following her every move and transformation.",
+						"image_url": "",
+						"question": "Lizzy Wizzy's fans are often referred to as what?",
+						"wrong": [
+							"Chromeheads",
+							"Little Monsters",
+							"Glitterati"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_lizzy_wizzy",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Lizzy Wizzy",
+				"lore_desc": "A world-famous pop star who replaced her entire body with chrome after dying on stage during a performance.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Chrome Popstar",
+			"profiler": {
+				"vibe_tags": [
+					"Celebrity",
+					"Cyborg",
+					"Musician"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Security and Weapons",
+						"difficulty": "Easy",
+						"explanation": "Arasaka provides the private security for most of the world's elite.",
+						"image_url": "https://skillcheckgame.com/assets/images/arasaka_corporation.webp",
+						"question": "What is the primary industry that Arasaka is world-famous for?",
+						"wrong": [
+							"Fast Food",
+							"Space Travel",
+							"Clothing"
+						]
+					},
+					{
+						"correct": "Saburo Arasaka",
+						"difficulty": "Easy",
+						"explanation": "Saburo ruled the company with an iron fist for over a century.",
+						"image_url": "",
+						"question": "Who is the 'Emperor' and long-time leader of Arasaka?",
+						"wrong": [
+							"Yorinobu Arasaka",
+							"Hanako Arasaka",
+							"Michiko Arasaka"
+						]
+					},
+					{
+						"correct": "Militech",
+						"difficulty": "Easy",
+						"explanation": "The rivalry between Arasaka (Japanese) and Militech (American) defined the Fourth Corporate War.",
+						"image_url": "",
+						"question": "Which other mega-corporation is Arasaka's primary global rival?",
+						"wrong": [
+							"Kang Tao",
+							"Petrochem",
+							"Biotechnica"
+						]
+					},
+					{
+						"correct": "Secure Your Soul",
+						"difficulty": "Easy",
+						"explanation": "It promises digital immortality by uploading the user's mind to Arasaka's servers.",
+						"image_url": "",
+						"question": "What is the name of the digital soul-storing program marketed by Arasaka?",
+						"wrong": [
+							"Soulkiller",
+							"Cyber-Life",
+							"Ever-Last"
+						]
+					},
+					{
+						"correct": "Arasaka Ninjas",
+						"difficulty": "Easy",
+						"explanation": "They use advanced stealth tech and thermal katanas to eliminate targets.",
+						"image_url": "",
+						"question": "What is the name of the special unit of ninjas and assassins employed by Arasaka?",
+						"wrong": [
+							"The Black Hand",
+							"Night-Stalkers",
+							"Steel Dragons"
+						]
+					},
+					{
+						"correct": "Soulkiller",
+						"difficulty": "Medium",
+						"explanation": "Soulkiller digitizes a mind while simultaneously killing the host body.",
+						"image_url": "https://skillcheckgame.com/assets/images/arasaka_corporation.webp",
+						"question": "What is the name of the legendary software that Arasaka uses to 'kill' netrunners?",
+						"wrong": [
+							"Black Ice",
+							"Firewall",
+							"Brain-Fry"
+						]
+					},
+					{
+						"correct": "Yorinobu Arasaka",
+						"difficulty": "Medium",
+						"explanation": "Yorinobu views his father's company as a cancer on the world.",
+						"image_url": "",
+						"question": "Which Arasaka heir wants to destroy the company from within?",
+						"wrong": [
+							"Hanako Arasaka",
+							"Michiko Arasaka",
+							"Kei Arasaka"
+						]
+					},
+					{
+						"correct": "Mikoshi",
+						"difficulty": "Medium",
+						"explanation": "Mikoshi is located deep in the Net and is physically housed beneath Arasaka Tower.",
+						"image_url": "",
+						"question": "What is the name of the secret data fortress where Arasaka stores its digital engrams?",
+						"wrong": [
+							"The Vault",
+							"The Core",
+							"Soul-Well"
+						]
+					},
+					{
+						"correct": "Arasaka R&D",
+						"difficulty": "Medium",
+						"explanation": "Research and Development created the Relic as the hardware for Secure Your Soul.",
+						"image_url": "",
+						"question": "The 'Relic' project was developed under which specific Arasaka branch?",
+						"wrong": [
+							"Arasaka Security",
+							"Arasaka Finance",
+							"Arasaka Intelligence"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Medium",
+						"explanation": "The iconic triple-petal cherry blossom logo is a striking red.",
+						"image_url": "",
+						"question": "What color is the Arasaka logo?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"White"
+						]
+					},
+					{
+						"correct": "Kei Arasaka",
+						"difficulty": "Hard",
+						"explanation": "Kei was Saburo's eldest son and was forced to commit seppuku after the war was lost.",
+						"image_url": "https://skillcheckgame.com/assets/images/arasaka_corporation.webp",
+						"question": "Which Arasaka CEO committed suicide during the Fourth Corporate War?",
+						"wrong": [
+							"Saburo Arasaka",
+							"Yorinobu Arasaka",
+							"Michiko Arasaka"
+						]
+					},
+					{
+						"correct": "Tyger Claws",
+						"difficulty": "Hard",
+						"explanation": "The Tyger Claws receive funding and equipment from Arasaka in exchange for street-level control.",
+						"image_url": "",
+						"question": "What is the name of the Arasaka-backed gang in Night City?",
+						"wrong": [
+							"Maelstrom",
+							"Valentinos",
+							"6th Street"
+						]
+					},
+					{
+						"correct": "Zero Pilot",
+						"difficulty": "Hard",
+						"explanation": "He was a pilot for the Imperial Japanese Navy before the company rose to power.",
+						"image_url": "",
+						"question": "What was Saburo Arasaka's profession during World War II?",
+						"wrong": [
+							"Ship Captain",
+							"Intelligence Officer",
+							"Infantryman"
+						]
+					},
+					{
+						"correct": "Arthur Jenkins",
+						"difficulty": "Hard",
+						"explanation": "Jenkins is a cutthroat executive who tries to use V to eliminate his rival, Abernathy.",
+						"image_url": "",
+						"question": "What is the name of the Arasaka counter-intelligence director who is V's boss in the Corpo Lifepath?",
+						"wrong": [
+							"Susan Abernathy",
+							"Frank Nostra",
+							"James Norris"
+						]
+					},
+					{
+						"correct": "Tokyo",
+						"difficulty": "Hard",
+						"explanation": "While they have a massive presence in Night City, the 'mothership' is in Tokyo.",
+						"image_url": "",
+						"question": "In which city is the global headquarters of Arasaka located?",
+						"wrong": [
+							"Night City",
+							"New York",
+							"Hong Kong"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_arasaka_corporation",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Arasaka Corporation",
+				"lore_desc": "The most powerful mega-corporation in the world, specializing in banking, manufacturing, and security services.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Corporate Giant",
+			"profiler": {
+				"vibe_tags": [
+					"Corporation",
+					"Villain",
+					"Megacorp"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Arch",
+						"difficulty": "Easy",
+						"explanation": "Arch is a high-end, boutique motorcycle manufacturer.",
+						"image_url": "https://skillcheckgame.com/assets/images/jackie's_arch.webp",
+						"question": "What is the brand of Jackie's motorcycle?",
+						"wrong": [
+							"Yaiba",
+							"Brennan",
+							"Mizutani"
+						]
+					},
+					{
+						"correct": "Inherited from Jackie after his death",
+						"difficulty": "Easy",
+						"explanation": "Mama Welles gives V the keys during the 'Heroes' quest.",
+						"image_url": "",
+						"question": "How does V obtain Jackie's motorcycle?",
+						"wrong": [
+							"Bought from a fixer",
+							"Stolen from a gang",
+							"Found in a junkyard"
+						]
+					},
+					{
+						"correct": "Yellow and Black",
+						"difficulty": "Easy",
+						"explanation": "The bike matches Jackie's signature style and Valentino colors.",
+						"image_url": "",
+						"question": "What color is Jackie's custom Arch Nazare?",
+						"wrong": [
+							"Red and White",
+							"Blue and Silver",
+							"Green and Orange"
+						]
+					},
+					{
+						"correct": "Arch Motorcycle",
+						"difficulty": "Easy",
+						"explanation": "Arch Motorcycle is a real company co-founded by Keanu Reeves.",
+						"image_url": "",
+						"question": "What is the name of the real-world company that 'Arch' represents in the game?",
+						"wrong": [
+							"Harley Davidson",
+							"Yamaha",
+							"Ducati"
+						]
+					},
+					{
+						"correct": "He tuned the engine and changed the exhaust",
+						"difficulty": "Easy",
+						"explanation": "Jackie is proud of his mechanical skills and spent time 'tuning her up'.",
+						"image_url": "",
+						"question": "What did Jackie do to his bike to make it 'custom'?",
+						"wrong": [
+							"He added wings",
+							"He made it electric",
+							"He installed a machine gun"
+						]
+					},
+					{
+						"correct": "To use a different exhaust",
+						"difficulty": "Medium",
+						"explanation": "V can suggest an exhaust modification that Jackie actually implements.",
+						"image_url": "https://skillcheckgame.com/assets/images/jackie's_arch.webp",
+						"question": "If V has a high Technical Ability, what can they suggest to Jackie about his bike?",
+						"wrong": [
+							"To paint it red",
+							"To add more wheels",
+							"To use a bigger seat"
+						]
+					},
+					{
+						"correct": "Nazare",
+						"difficulty": "Medium",
+						"explanation": "The Nazare is the flagship model for Arch in 2077.",
+						"image_url": "",
+						"question": "What is the model name of the Arch bike Jackie owns?",
+						"wrong": [
+							"Apollo",
+							"Kusanagi",
+							"Vindicator"
+						]
+					},
+					{
+						"correct": "Outside Misty's shop",
+						"difficulty": "Medium",
+						"explanation": "The bike is often seen parked right outside Misty's Esoterica in Watson.",
+						"image_url": "",
+						"question": "Where does Jackie keep his bike parked during the prologue?",
+						"wrong": [
+							"In V's garage",
+							"At the Afterlife",
+							"In Heywood"
+						]
+					},
+					{
+						"correct": "Four exhaust pipes",
+						"difficulty": "Medium",
+						"explanation": "Jackie's custom tuning includes a very distinctive quad-exhaust setup.",
+						"image_url": "",
+						"question": "What unique physical feature does Jackie's Arch have that standard Arch bikes don't?",
+						"wrong": [
+							"A sidecar",
+							"Glowing wheels",
+							"Spiked tires"
+						]
+					},
+					{
+						"correct": "Jackie's Arch",
+						"difficulty": "Medium",
+						"explanation": "It is named in honor of its original owner.",
+						"image_url": "",
+						"question": "What is the 'Summon' name for the bike in V's vehicle list?",
+						"wrong": [
+							"Yellow Beast",
+							"Nazare Custom",
+							"Welles Rider"
+						]
+					},
+					{
+						"correct": "On a table in Jackie's garage",
+						"difficulty": "Hard",
+						"explanation": "V must go into Jackie's room and garage to pay their respects.",
+						"image_url": "https://skillcheckgame.com/assets/images/jackie's_arch.webp",
+						"question": "In the 'Heroes' quest, where does Mama Welles leave the keys for V?",
+						"wrong": [
+							"In V's mailbox",
+							"At the Afterlife bar",
+							"Under the bike's seat"
+						]
+					},
+					{
+						"correct": "178 mph",
+						"difficulty": "Hard",
+						"explanation": "It's one of the faster bikes in the game, though slightly slower than the Kusanagi.",
+						"image_url": "",
+						"question": "What is the top speed of Jackie's Arch (unmodified by V)?",
+						"wrong": [
+							"150 mph",
+							"200 mph",
+							"120 mph"
+						]
+					},
+					{
+						"correct": "Mama Welles leaves a package for V at their apartment",
+						"difficulty": "Hard",
+						"explanation": "Mama Welles is forgiving and will send V the keys regardless of their attendance.",
+						"image_url": "",
+						"question": "If V chooses not to go to the funeral, how do they get the bike?",
+						"wrong": [
+							"They don't get it",
+							"They have to steal it",
+							"A fixer sends it"
+						]
+					},
+					{
+						"correct": "The Highwayman",
+						"difficulty": "Hard",
+						"explanation": "The Highwayman is a hidden quest involving a scavenger hunt for a modified Nazare 'Itsumade'.",
+						"image_url": "",
+						"question": "What is the name of the side mission where V can win a different variant of the Arch bike?",
+						"wrong": [
+							"Beat on the Brat",
+							"The Beast in Me",
+							"Fast and Furious"
+						]
+					},
+					{
+						"correct": "Tyger Claw bosses",
+						"difficulty": "Hard",
+						"explanation": "High-ranking Tyger Claws are often seen with yellow/blue variants of the Nazare.",
+						"image_url": "",
+						"question": "Which of these characters ALSO owns an Arch Nazare?",
+						"wrong": [
+							"Panam Palmer",
+							"Judy Alvarez",
+							"Dexter DeShawn"
+						]
+					}
+				]
+			},
+			"id": "cyberpunk_2077_jackie's_arch",
+			"meta": {
+				"date_added": "2026-04-08",
+				"entity_category": "Theme Item",
+				"full_title": "Jackie's Arch",
+				"lore_desc": "A custom-tuned Arch Nazare motorcycle belonging to Jackie Welles, later inherited by V.",
+				"theme_origin": "cyberpunk 2077",
+				"type": "ENTITY"
+			},
+			"mystery_name": "The Custom Bike",
+			"profiler": {
+				"vibe_tags": [
+					"Vehicle",
+					"Motorcycle",
+					"Jackie"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -144267,7 +148053,7 @@
 					"name": "The Magic Gauntlet"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Gavlan",
 						"Sweet Shalquoir"
@@ -144275,6 +148061,10 @@
 					"name": "The Non-Human Merchants"
 				}
 			]
+		},
+		{
+			"id": "cyberpunk 2077",
+			"synergies": []
 		}
 	],
 	"titles": {
