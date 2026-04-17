@@ -148064,7 +148064,167 @@
 		},
 		{
 			"id": "cyberpunk 2077",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"V",
+						"Johnny Silverhand",
+						"The Relic"
+					],
+					"name": "The Relic Infection"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Arasaka Corporation",
+						"Arasaka Tower",
+						"Adam Smasher"
+					],
+					"name": "The Arasaka Empire"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Rogue Amendiares",
+						"Johnny Silverhand",
+						"Malorian Arms 3516"
+					],
+					"name": "The 2023 Strike Team"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Jackie Welles",
+						"The Afterlife",
+						"Jackie's Arch"
+					],
+					"name": "A Thief's Legacy"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Judy Alvarez",
+						"Braindance",
+						"V"
+					],
+					"name": "The Investigation"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Goro Takemura",
+						"Arasaka Corporation"
+					],
+					"name": "The Exiled Bodyguard"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Rogue Amendiares",
+						"The Afterlife"
+					],
+					"name": "Queen of the Mercs"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Adam Smasher",
+						"Johnny Silverhand"
+					],
+					"name": "The Rivalry"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Arasaka Corporation",
+						"The Relic"
+					],
+					"name": "Creator of the Construct"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jackie Welles",
+						"The Afterlife"
+					],
+					"name": "The Major Leagues"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Judy Alvarez",
+						"Braindance"
+					],
+					"name": "Virtu Editor"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Panam Palmer",
+						"Night City"
+					],
+					"name": "The Nomad Path"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"V",
+						"Night City"
+					],
+					"name": "City of Dreams"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jackie Welles",
+						"Jackie's Arch"
+					],
+					"name": "The Fallen Friend"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Goro Takemura",
+						"V"
+					],
+					"name": "The Ronin"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Lizzy Wizzy",
+						"Rogue Amendiares",
+						"The Afterlife"
+					],
+					"name": "Street Legends & Superstars"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mantis Blades",
+						"Adam Smasher",
+						"Arasaka Corporation"
+					],
+					"name": "High-End Chrome"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mantis Blades",
+						"V"
+					],
+					"name": "Lethal Implants"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Yaiba Kusanagi CT-3X",
+						"V"
+					],
+					"name": "Two-Wheeled Terror"
+				}
+			]
 		}
 	],
 	"titles": {
