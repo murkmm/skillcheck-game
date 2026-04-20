@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776371944,
+	"last_updated": 1776685993,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2163,22 +2163,23 @@
 			"submitted_by": ""
 		},
 		"2026-04-20": {
+			"daily_type": "normal",
 			"difficulty": "Expert",
 			"mode": "STANDARD",
-			"motd": "Paper Mario TTYD Saturday",
+			"motd": "Paper Mario TTYD ",
 			"share_text": "Great Gonzales rises again",
 			"shops": [
 				{
 					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p2": "rumble_pack"
 				},
 				{
 					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p2": "rumble_pack"
 				},
 				{
 					"p1": "rumble_pack",
-					"p2": "expansion_pak"
+					"p2": "rumble_pack"
 				}
 			],
 			"showcase": [
@@ -2207,7 +2208,8 @@
 				"x-nauts",
 				"magical_map",
 				"madame_flurrie"
-			]
+			],
+			"submitted_by": ""
 		}
 	}
 }
