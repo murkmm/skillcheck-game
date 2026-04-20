@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776685993,
+	"last_updated": 1776690731,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2188,7 +2188,6 @@
 				"princess_peach"
 			],
 			"starters": [
-				"mario",
 				"rogueport",
 				"goombella",
 				"the_crystal_stars",
