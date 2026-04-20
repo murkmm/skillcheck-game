@@ -539,7 +539,7 @@ import Layout from '~/layouts/Layout.astro';
               id="game-iframe"
               src="/play/index.html?v=4"
               allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment"
-              sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"
+              sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
               allowfullscreen></iframe>
           </div>
         </div>
@@ -846,7 +846,57 @@ import Layout from '~/layouts/Layout.astro';
       if (leftAd) leftAd.style.display = 'none';
       if (rightAd) rightAd.style.display = 'none';
     }
+    // OAuth success relay — callback tab sends tokens to this parent window
+    if (event.data && event.data.type === 'OAUTH_SUCCESS') {
+      console.log('[ASTRO] OAuth tokens received, forwarding to Godot...');
+      const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement;
+      if (gameIframe && gameIframe.contentWindow) {
+        gameIframe.contentWindow.postMessage(
+          {
+            type: 'OAUTH_SUCCESS',
+            access_token: event.data.access_token,
+            refresh_token: event.data.refresh_token,
+          },
+          '*'
+        );
+      }
+    }
   });
+
+  // Pickup sessionStorage fallback (when callback couldn't reach opener and redirected home)
+  (function () {
+    try {
+      const url = new URL(window.location.href);
+      if (url.searchParams.get('oauth') === 'pending') {
+        const stored = sessionStorage.getItem('sc_oauth_tokens');
+        if (stored) {
+          const payload = JSON.parse(stored);
+          sessionStorage.removeItem('sc_oauth_tokens');
+          // Wait for iframe to be ready, then post
+          const deliver = () => {
+            const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement;
+            if (gameIframe && gameIframe.contentWindow) {
+              gameIframe.contentWindow.postMessage(
+                {
+                  type: 'OAUTH_SUCCESS',
+                  access_token: payload.access_token,
+                  refresh_token: payload.refresh_token,
+                },
+                '*'
+              );
+              // Clean the URL
+              url.searchParams.delete('oauth');
+              window.history.replaceState({}, '', url.pathname);
+            }
+          };
+          // Wait a moment for the iframe to load up
+          setTimeout(deliver, 2000);
+        }
+      }
+    } catch (e) {
+      console.error('[ASTRO] OAuth pickup error:', e);
+    }
+  })();
 </script>
 
 <!-- AdSense loader for sidebar display ads -->
