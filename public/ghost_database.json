@@ -142251,6 +142251,2694 @@
 					"Jackie"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "Crash is famous for his bright orange fur, which helped him stand out on the PlayStation's hardware.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/crash_bandicoot.webp",
+						"question": "What is the primary color of this iconic hero's fur?",
+						"wrong": [
+							"Purple",
+							"Blue",
+							"Green"
+						]
+					},
+					{
+						"correct": "Bandicoot",
+						"difficulty": "Easy",
+						"explanation": "Though often confused with a fox or wolf, Crash is specifically a mutated Eastern Barred Bandicoot.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What real-life marsupial species is this hero based on?",
+						"wrong": [
+							"Wombat",
+							"Bilby",
+							"Wallaby"
+						]
+					},
+					{
+						"correct": "PlayStation",
+						"difficulty": "Easy",
+						"explanation": "Crash Bandicoot was developed as a flagship title for the original Sony PlayStation.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which video game console was the original home of this hero's first adventure?",
+						"wrong": [
+							"Nintendo 64",
+							"Sega Saturn",
+							"Dreamcast"
+						]
+					},
+					{
+						"correct": "Spin",
+						"difficulty": "Easy",
+						"explanation": "Crash's 'Tornado Spin' is his most iconic ability, allowing him to deflect projectiles and shatter boxes.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Crash's signature move used to defeat enemies and break crates?",
+						"wrong": [
+							"Punch",
+							"Kick",
+							"Slash"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Crash wears bright red and white sneakers that match his high-energy personality.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color are the sneakers that Crash wears throughout his journey?",
+						"wrong": [
+							"Yellow",
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Tawna",
+						"difficulty": "Medium",
+						"explanation": "Tawna is Crash's girlfriend who is held captive by Dr. Neo Cortex throughout the first game.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/crash_bandicoot.webp",
+						"question": "Who is the female bandicoot that Crash is trying to rescue from the villain's castle?",
+						"wrong": [
+							"Coco",
+							"Nina",
+							"Pasadena"
+						]
+					},
+					{
+						"correct": "Evolvo-Ray",
+						"difficulty": "Medium",
+						"explanation": "The Evolvo-Ray, invented by N. Brio, was used to give the animals human-like intelligence and strength.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which machine was used to mutate Crash from a normal animal into a sentient hero?",
+						"wrong": [
+							"Cortex Vortex",
+							"Psychetron",
+							"Time Twister"
+						]
+					},
+					{
+						"correct": "He was rejected",
+						"difficulty": "Medium",
+						"explanation": "The Cortex Vortex rejected Crash because he was still 'too pure,' allowing him to escape Cortex's control.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What was the result of Crash's attempt to be brainwashed by the Cortex Vortex?",
+						"wrong": [
+							"He became evil",
+							"He lost his memory",
+							"He turned into a monster"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "Crash is almost always seen in his classic pair of blue denim jeans.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color are the pants that Crash Bandicoot typically wears?",
+						"wrong": [
+							"Brown",
+							"Red",
+							"Green"
+						]
+					},
+					{
+						"correct": "N. Sanity Island",
+						"difficulty": "Medium",
+						"explanation": "N. Sanity Island is the first of the three islands and serves as the tropical home for the start of the game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "On which specific island does Crash's journey begin after he washes up on a beach?",
+						"wrong": [
+							"Wumpa Island",
+							"Cortex Island",
+							"Wumpa Rock"
+						]
+					},
+					{
+						"correct": "General",
+						"difficulty": "Hard",
+						"explanation": "Cortex intended for Crash to be the leader, or General, of his 'Cortex Commandos' army.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/crash_bandicoot.webp",
+						"question": "What role did Dr. Neo Cortex originally intend for Crash to play in his mutant army?",
+						"wrong": [
+							"Spy",
+							"Janitor",
+							"Cook"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "The game is divided into three distinct islands: N. Sanity Island, Wumpa Island, and Cortex Island.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many total islands must Crash traverse to reach Dr. Neo Cortex's lair?",
+						"wrong": [
+							"One",
+							"Five",
+							"Seven"
+						]
+					},
+					{
+						"correct": "Warthog",
+						"difficulty": "Hard",
+						"explanation": "The rideable warthog is one of the most memorable gameplay segments in the original title.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which creature does Crash ride across the 'Hog Wild' and 'Whole Hog' levels?",
+						"wrong": [
+							"Polar Bear",
+							"Tiger",
+							"Dinosaur"
+						]
+					},
+					{
+						"correct": "N. Sanity Beach",
+						"difficulty": "Hard",
+						"explanation": "N. Sanity Beach is the iconic first level, famous for its beach setting and the 'Crash Bandicoot' sign.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the very first level of the game where Crash wakes up?",
+						"wrong": [
+							"Jungle Rollers",
+							"The Great Gate",
+							"Upstream"
+						]
+					},
+					{
+						"correct": "Naughty Dog",
+						"difficulty": "Hard",
+						"explanation": "Naughty Dog developed the first three Crash games before moving on to series like Jak and Daxter and Uncharted.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who was the lead designer and developer of the original 1996 game?",
+						"wrong": [
+							"Insomniac Games",
+							"Sucker Punch",
+							"Rare"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_crash_bandicoot",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Crash Bandicoot",
+				"lore_desc": "An escaped experiment of Dr. Neo Cortex who must traverse three islands to rescue his girlfriend and stop Cortex's world domination.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Bandicoot",
+					"Protagonist"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "N",
+						"difficulty": "Easy",
+						"explanation": "Cortex has a large black 'N' on his forehead, which stands for Neo (and possibly Naughty Dog).",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dr_neo_cortex.webp",
+						"question": "What letter is prominently tattooed or engraved on this villain's forehead?",
+						"wrong": [
+							"C",
+							"M",
+							"X"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Cortex has a distinct, sickly yellow complexion that sets him apart from the other human characters.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the primary color of Dr. Neo Cortex's skin?",
+						"wrong": [
+							"Pink",
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Ray Gun",
+						"difficulty": "Easy",
+						"explanation": "Cortex attacks using a laser or ray gun that fires colored plasma bolts at Crash.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What type of weapon does Cortex use during his final boss battle?",
+						"wrong": [
+							"Sword",
+							"Hammer",
+							"Bow"
+						]
+					},
+					{
+						"correct": "Crash Bandicoot",
+						"difficulty": "Easy",
+						"explanation": "He is the arch-nemesis of Crash Bandicoot and appears in almost every game in the series.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Dr. Neo Cortex is the primary antagonist of which video game franchise?",
+						"wrong": [
+							"Spyro the Dragon",
+							"Ratchet and Clank",
+							"Sly Cooper"
+						]
+					},
+					{
+						"correct": "Lab Coat",
+						"difficulty": "Easy",
+						"explanation": "As a scientist, he wears a white lab coat with large gloves.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What kind of coat does Dr. Neo Cortex typically wear?",
+						"wrong": [
+							"Trench Coat",
+							"Raincoat",
+							"Cape"
+						]
+					},
+					{
+						"correct": "Cortex Vortex",
+						"difficulty": "Medium",
+						"explanation": "The Cortex Vortex is designed to instill absolute loyalty in his evolved animal subjects.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dr_neo_cortex.webp",
+						"question": "What is the name of the machine Cortex uses to attempt to brainwash his mutant animals?",
+						"wrong": [
+							"Evolvo-Ray",
+							"Psychetron",
+							"Brain Drainer"
+						]
+					},
+					{
+						"correct": "Third Island",
+						"difficulty": "Medium",
+						"explanation": "Cortex's industrial fortress is located on the third and final island, often called Cortex Island.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "On which of the three islands is Cortex's massive castle located?",
+						"wrong": [
+							"First Island",
+							"Second Island",
+							"Fourth Island"
+						]
+					},
+					{
+						"correct": "Neo",
+						"difficulty": "Medium",
+						"explanation": "His full name is Dr. Neo Periwinkle Cortex.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Dr. Neo Cortex's first name?",
+						"wrong": [
+							"Nitrus",
+							"Nefarious",
+							"Nigel"
+						]
+					},
+					{
+						"correct": "Hoverboard",
+						"difficulty": "Medium",
+						"explanation": "Cortex hovers above his burning castle on a small, circular hoverboard while firing at Crash.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What vehicle does Cortex fly on during the final boss fight of the first game?",
+						"wrong": [
+							"Helicopter",
+							"Rocket",
+							"Biplane"
+						]
+					},
+					{
+						"correct": "Dr. Nitrus Brio",
+						"difficulty": "Medium",
+						"explanation": "Dr. Nitrus Brio is Cortex's assistant in the first game, though they have a strained relationship.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is the fellow scientist and right-hand man who helps Cortex in the first game?",
+						"wrong": [
+							"Dr. N. Gin",
+							"Dr. N. Tropy",
+							"Dr. Nefarious"
+						]
+					},
+					{
+						"correct": "Ripper Roo",
+						"difficulty": "Hard",
+						"explanation": "Ripper Roo was the first 'successful' use of the Evolvo-Ray, though it left him mentally unstable.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dr_neo_cortex.webp",
+						"question": "Which of these was the first successful mutant created by Cortex and Brio?",
+						"wrong": [
+							"Tiny Tiger",
+							"Dingodile",
+							"Koala Kong"
+						]
+					},
+					{
+						"correct": "Cortex Commandos",
+						"difficulty": "Hard",
+						"explanation": "He refers to his brainwashed animal army as the Cortex Commandos.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the game's intro, what does Cortex call the army he is building?",
+						"wrong": [
+							"Neo Knights",
+							"Wumpa Warriors",
+							"Mutant Menace"
+						]
+					},
+					{
+						"correct": "Dr. Neo Cortex",
+						"difficulty": "Hard",
+						"explanation": "Wait, actually, while the final platforming challenge is The Lab/Great Hall, the final confrontation occurs on his Airship after the Lab.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the final level where Crash confronts Cortex for the last time?",
+						"wrong": [
+							"Cortex Power",
+							"The Lab",
+							"Slippery Climb"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Hard",
+						"explanation": "Cortex wears long black gloves that reach up his forearms.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color are the gloves that Dr. Neo Cortex wears?",
+						"wrong": [
+							"White",
+							"Yellow",
+							"Red"
+						]
+					},
+					{
+						"correct": "Tries to brainwash him",
+						"difficulty": "Hard",
+						"explanation": "The failure of the Cortex Vortex causes the machine to spark, and Crash leaps out the window to escape.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What does Cortex do to Crash in the opening cutscene that causes him to fall out a window?",
+						"wrong": [
+							"Pushes him",
+							"Shoots him",
+							"Feeds him"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_dr._neo_cortex",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Dr. Neo Cortex",
+				"lore_desc": "The mad scientist with a massive 'N' on his forehead who seeks to rule the world with an army of evolved animals.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Scientist",
+					"Boss"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Wooden Mask",
+						"difficulty": "Easy",
+						"explanation": "Aku Aku is a floating wooden mask decorated with colorful feathers.",
+						"image_url": "https://skillcheckgame.com/assets/images/aku_aku.webp",
+						"question": "What type of object does this character appear as?",
+						"wrong": [
+							"Stone Statue",
+							"Golden Shield",
+							"Magic Staff"
+						]
+					},
+					{
+						"correct": "Ooga Booga",
+						"difficulty": "Easy",
+						"explanation": "The iconic 'Ooga Booga' (or 'Rutabaga' to some fans) sound plays whenever you break an Aku Aku crate.",
+						"image_url": "",
+						"question": "What sound or phrase does Aku Aku famously make when he is collected?",
+						"wrong": [
+							"Huzzah",
+							"Crash",
+							"Wumpa"
+						]
+					},
+					{
+						"correct": "Temporary Invincibility",
+						"difficulty": "Easy",
+						"explanation": "Collecting three masks turns Aku Aku gold and grants Crash temporary invincibility to most hazards.",
+						"image_url": "",
+						"question": "What happens if you collect three Aku Aku masks without taking damage?",
+						"wrong": [
+							"Extra Life",
+							"Super Jump",
+							"Infinite Fruit"
+						]
+					},
+					{
+						"correct": "Multi-colored",
+						"difficulty": "Easy",
+						"explanation": "Aku Aku features several brightly colored feathers, typically red, yellow, and blue.",
+						"image_url": "",
+						"question": "What color are the feathers on top of Aku Aku's mask?",
+						"wrong": [
+							"All Black",
+							"All White",
+							"All Green"
+						]
+					},
+					{
+						"correct": "Absorb the hit",
+						"difficulty": "Easy",
+						"explanation": "Aku Aku acts as a shield, disappearing to protect Crash from losing a life when he takes damage.",
+						"image_url": "",
+						"question": "What is the primary function of Aku Aku when Crash is hit by an enemy?",
+						"wrong": [
+							"Kill the enemy",
+							"Drop a life",
+							"Restart the level"
+						]
+					},
+					{
+						"correct": "Witch Doctor",
+						"difficulty": "Medium",
+						"explanation": "Aku Aku is the spirit of an ancient witch doctor who swore to protect the islands from evil.",
+						"image_url": "https://skillcheckgame.com/assets/images/aku_aku.webp",
+						"question": "According to the lore, what was Aku Aku's profession when he was alive?",
+						"wrong": [
+							"King",
+							"Warrior",
+							"Fisherman"
+						]
+					},
+					{
+						"correct": "Gold",
+						"difficulty": "Medium",
+						"explanation": "The mask glows bright gold and Crash is accompanied by a fast-paced tribal drum beat while invincible.",
+						"image_url": "",
+						"question": "What color does the Aku Aku mask turn when Crash becomes invincible?",
+						"wrong": [
+							"Silver",
+							"Rainbow",
+							"Red"
+						]
+					},
+					{
+						"correct": "Uka Uka",
+						"difficulty": "Medium",
+						"explanation": "Though Uka Uka doesn't appear until the third game, he is established as Aku Aku's evil twin brother.",
+						"image_url": "",
+						"question": "Aku Aku serves as a guide for Crash. Which evil mask is his twin brother and rival?",
+						"wrong": [
+							"Lani-Loli",
+							"Akano",
+							"Ika-Ika"
+						]
+					},
+					{
+						"correct": "Inside Crates",
+						"difficulty": "Medium",
+						"explanation": "Crash must break specific wooden crates with Aku Aku's face on them to gain his protection.",
+						"image_url": "",
+						"question": "In the first game, where do you usually find Aku Aku?",
+						"wrong": [
+							"Hanging on trees",
+							"Under rocks",
+							"Buried in sand"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Medium",
+						"explanation": "Each mask protects Crash from exactly one hit before it vanishes.",
+						"image_url": "",
+						"question": "How many hits can a standard (non-gold) Aku Aku mask protect Crash from?",
+						"wrong": [
+							"Two",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "Falling into pits",
+						"difficulty": "Hard",
+						"explanation": "Even with Aku Aku's protection or invincibility, falling into a bottomless pit results in instant death.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/aku_aku.webp",
+						"question": "Which of these hazards can Aku Aku NOT protect Crash from?",
+						"wrong": [
+							"Spikes",
+							"Enemies",
+							"TNT Crates"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Hard",
+						"explanation": "Crash can carry two masks; the third one triggers the invincibility state immediately.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the maximum number of Aku Aku masks Crash can hold at one time before becoming invincible?",
+						"wrong": [
+							"One",
+							"Three",
+							"Four"
+						]
+					},
+					{
+						"correct": "To stop Cortex's pollution",
+						"difficulty": "Hard",
+						"explanation": "Aku Aku senses the evil and pollution Cortex is spreading and decides to aid Crash in stopping him.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the original 1996 manual, why is Aku Aku helping Crash?",
+						"wrong": [
+							"To find gold",
+							"To escape the island",
+							"To find his brother"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Hard",
+						"explanation": "Aku Aku has a green leafy trim at the bottom that resembles a beard.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color is Aku Aku's 'beard' or the trim at the bottom of his mask?",
+						"wrong": [
+							"Brown",
+							"Black",
+							"White"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_aku_aku",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Aku Aku",
+				"lore_desc": "The benevolent spirit of an ancient witch doctor who inhabits a wooden mask to protect Crash on his journey.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Mask",
+					"Guide",
+					"Magic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Beakers",
+						"difficulty": "Easy",
+						"explanation": "Brio throws green and purple chemical beakers that either explode or turn into monsters.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dr_nitrus_brio.webp",
+						"question": "What does Dr. Nitrus Brio throw at Crash during his boss fight?",
+						"wrong": [
+							"Rocks",
+							"Wumpa Fruit",
+							"Gears"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Easy",
+						"explanation": "Like most scientists in the series, Brio wears a standard white lab coat.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color is Dr. Nitrus Brio's lab coat?",
+						"wrong": [
+							"Black",
+							"Yellow",
+							"Green"
+						]
+					},
+					{
+						"correct": "Drinks a potion",
+						"difficulty": "Easy",
+						"explanation": "Brio drinks a large chemical mixture to transform into a giant monster for the second phase.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the boss fight, what does Brio do when he runs out of beakers?",
+						"wrong": [
+							"Runs away",
+							"Calls Cortex",
+							"Shoots a gun"
+						]
+					},
+					{
+						"correct": "N. Brio",
+						"difficulty": "Easy",
+						"explanation": "His name is a pun on the word 'embryo' and is typically written as N. Brio.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the abbreviation often used for this character's name?",
+						"wrong": [
+							"N. Gin",
+							"N. Tropy",
+							"N. Trance"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "The green beakers spawn slime-like creatures that Crash must jump on.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color are the monsters that emerge from Brio's green beakers?",
+						"wrong": [
+							"Purple",
+							"Red",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Dr. Neo Cortex",
+						"difficulty": "Medium",
+						"explanation": "N. Brio serves as Cortex's lead scientist and right-hand man, despite Cortex taking all the credit.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dr_nitrus_brio.webp",
+						"question": "Who is the superior that N. Brio assists throughout the game?",
+						"wrong": [
+							"Tiny Tiger",
+							"Papu Papu",
+							"Ripper Roo"
+						]
+					},
+					{
+						"correct": "Evolvo-Ray",
+						"difficulty": "Medium",
+						"explanation": "Brio is the true mastermind behind the Evolvo-Ray technology used to create the mutants.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to Brio, which invention did he actually create (not Cortex)?",
+						"wrong": [
+							"Cortex Vortex",
+							"Hoverboard",
+							"Time Machine"
+						]
+					},
+					{
+						"correct": "A Giant Monster",
+						"difficulty": "Medium",
+						"explanation": "Brio transforms into a massive, muscular version of himself, similar to Dr. Jekyll and Mr. Hyde.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What kind of creature does N. Brio transform into after drinking his serum?",
+						"wrong": [
+							"A Dragon",
+							"A Bat",
+							"A Werewolf"
+						]
+					},
+					{
+						"correct": "A Laboratory",
+						"difficulty": "Medium",
+						"explanation": "Crash fights Brio in his chemical lab on the third island.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Where does the boss battle with Dr. Nitrus Brio take place?",
+						"wrong": [
+							"The Beach",
+							"The Ruins",
+							"A Volcano"
+						]
+					},
+					{
+						"correct": "He loses a life",
+						"difficulty": "Medium",
+						"explanation": "The purple beakers cause an explosion that instantly defeats Crash if he is too close.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens if Crash gets hit by one of Brio's purple beakers?",
+						"wrong": [
+							"He gets smaller",
+							"He gets slower",
+							"He spins faster"
+						]
+					},
+					{
+						"correct": "To collect Gems",
+						"difficulty": "Hard",
+						"explanation": "Brio wants Crash to collect Gems to stop Cortex's plot in the second game, as he feels betrayed.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dr_nitrus_brio.webp",
+						"question": "Why does N. Brio contact Crash via hologram in the sequel games?",
+						"wrong": [
+							"To say sorry",
+							"To kill him",
+							"To find Tawna"
+						]
+					},
+					{
+						"correct": "Green and Purple",
+						"difficulty": "Hard",
+						"explanation": "He drinks two beakers, but the transformation is triggered by the final purple mixture.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the color of the liquid in the final beaker Brio drinks to transform?",
+						"wrong": [
+							"Green",
+							"Orange",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "Crash must jump on the giant Brio's head three times while avoiding his massive hands.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the monster form, how many hits must Crash land on Brio's head to win?",
+						"wrong": [
+							"One",
+							"Five",
+							"Six"
+						]
+					},
+					{
+						"correct": "Bolts",
+						"difficulty": "Hard",
+						"explanation": "Brio has two large bolts sticking out of his head, resembling Frankenstein's monster.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the distinct feature on Brio's head that indicates his scientific nature?",
+						"wrong": [
+							"Antenna",
+							"Goggles",
+							"Lightbulb"
+						]
+					},
+					{
+						"correct": "Pinstripe Potoroo",
+						"difficulty": "Hard",
+						"explanation": "Pinstripe is the final boss of the industrial area before you enter the castle to face Brio.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which boss comes immediately before N. Brio in the game's progression?",
+						"wrong": [
+							"Koala Kong",
+							"Ripper Roo",
+							"Papu Papu"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_dr._nitrus_brio",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Dr. Nitrus Brio",
+				"lore_desc": "The true inventor of the Evolvo-Ray and Cortex's insecure, beaker-throwing assistant.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Scientist",
+					"Boss"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Girlfriend",
+						"difficulty": "Easy",
+						"explanation": "Tawna is established as Crash's love interest whom he is trying to rescue.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/tawna_bandicoot.webp",
+						"question": "What is the relationship between Tawna and Crash?",
+						"wrong": [
+							"Sister",
+							"Mother",
+							"Enemy"
+						]
+					},
+					{
+						"correct": "Blonde",
+						"difficulty": "Easy",
+						"explanation": "Tawna is a tall, blonde bandicoot, contrasting with Crash's orange fur.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color is Tawna's hair in the original game?",
+						"wrong": [
+							"Red",
+							"Black",
+							"Blue"
+						]
+					},
+					{
+						"correct": "Dr. Neo Cortex",
+						"difficulty": "Easy",
+						"explanation": "Cortex keeps Tawna prisoner in his castle to use as another experiment.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which character has kidnapped Tawna at the start of the game?",
+						"wrong": [
+							"Papu Papu",
+							"Ripper Roo",
+							"Koala Kong"
+						]
+					},
+					{
+						"correct": "Bonus Rounds",
+						"difficulty": "Easy",
+						"explanation": "Crash must collect three Tawna tokens to enter her bonus rounds and reach a save point.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In which type of level sections does Tawna typically appear to help Crash save his game?",
+						"wrong": [
+							"Boss Fights",
+							"Beach Levels",
+							"Underwater"
+						]
+					},
+					{
+						"correct": "Cortex's Castle",
+						"difficulty": "Medium",
+						"explanation": "She is kept in the high tower of Cortex's industrial castle on the third island.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/tawna_bandicoot.webp",
+						"question": "Where is Tawna held captive for the majority of the game?",
+						"wrong": [
+							"Native Village",
+							"The Temple",
+							"The Dungeon"
+						]
+					},
+					{
+						"correct": "Three Tokens",
+						"difficulty": "Medium",
+						"explanation": "Crash must find and break crates containing three Tawna character tokens.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What do you need to collect within a level to access Tawna's bonus stage?",
+						"wrong": [
+							"One Gem",
+							"Five Wumpa",
+							"Two Keys"
+						]
+					},
+					{
+						"correct": "Coco Bandicoot",
+						"difficulty": "Medium",
+						"explanation": "Because Tawna was considered too 'provocative,' she was replaced by Crash's sister Coco in later games.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Tawna was replaced in the sequels by which character as Crash's primary female companion?",
+						"wrong": [
+							"Nina Cortex",
+							"Tiny Tiger",
+							"Aku Aku"
+						]
+					},
+					{
+						"correct": "They fly away together",
+						"difficulty": "Medium",
+						"explanation": "Crash and Tawna are seen escaping on Cortex's airship together in the finale.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens at the end of the game after Crash defeats Cortex?",
+						"wrong": [
+							"She goes missing",
+							"She turns evil",
+							"They get married"
+						]
+					},
+					{
+						"correct": "Mutant",
+						"difficulty": "Medium",
+						"explanation": "She was subjected to the Evolvo-Ray just like Crash and the other bosses.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Is Tawna a normal animal or a mutant like Crash?",
+						"wrong": [
+							"Normal Animal",
+							"Robot",
+							"Spirit"
+						]
+					},
+					{
+						"correct": "Tawna Icon",
+						"difficulty": "Hard",
+						"explanation": "The character icons (tokens) are found in boxes and are used to unlock bonus areas.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/tawna_bandicoot.webp",
+						"question": "What is the specific name of the item you collect to reach her bonus round?",
+						"wrong": [
+							"Cortex Icon",
+							"Brio Icon",
+							"Aku Mask"
+						]
+					},
+					{
+						"correct": "Nitrus Brio",
+						"difficulty": "Hard",
+						"explanation": "While Tawna has the most, N. Brio also has difficult bonus rounds that award extra lives.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which of these characters also has a bonus round named after them in the first game?",
+						"wrong": [
+							"Papu Papu",
+							"Ripper Roo",
+							"Pinstripe"
+						]
+					},
+					{
+						"correct": "Saving the game",
+						"difficulty": "Hard",
+						"explanation": "In the original 1996 release, you could only save your progress by completing Tawna's or Brio's bonus rounds.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the primary purpose of completing a Tawna bonus round in the original PlayStation version?",
+						"wrong": [
+							"Getting a Gem",
+							"Unlocking a level",
+							"Infinite lives"
+						]
+					},
+					{
+						"correct": "Five",
+						"difficulty": "Hard",
+						"explanation": "There are three opportunities to save via Tawna on the first island (Jungle Rollers, Great Gate, Upstream).",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many Tawna bonus rounds exist on the first island?",
+						"wrong": [
+							"One",
+							"Two",
+							"Five"
+						]
+					},
+					{
+						"correct": "Watching Crash's experiment",
+						"difficulty": "Hard",
+						"explanation": "She is seen standing by as Cortex attempts to brainwash Crash in the laboratory intro.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the game's opening, what is Tawna doing right before she is taken away?",
+						"wrong": [
+							"Sleeping",
+							"Eating Wumpa",
+							"Fighting guards"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_tawna_bandicoot",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Tawna Bandicoot",
+				"lore_desc": "Crash's girlfriend who was captured and mutated by Cortex, and the ultimate goal of his adventure.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Bandicoot",
+					"Heroine",
+					"Rescue"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "First Island",
+						"difficulty": "Easy",
+						"explanation": "Papu Papu is the very first boss encounter, located on N. Sanity Island.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/papu_papu.webp",
+						"question": "Papu Papu is the first boss of the game. On which island do you fight him?",
+						"wrong": [
+							"Second Island",
+							"Third Island",
+							"Cortex Island"
+						]
+					},
+					{
+						"correct": "A Staff",
+						"difficulty": "Easy",
+						"explanation": "He swings a large wooden staff in a circle around him.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What weapon does Papu Papu use to attack Crash?",
+						"wrong": [
+							"A Sword",
+							"A Bow",
+							"A Shield"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Easy",
+						"explanation": "Three successful jumps on his head will end the battle.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many times must Crash jump on Papu Papu's head to defeat him?",
+						"wrong": [
+							"One",
+							"Five",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Chief",
+						"difficulty": "Easy",
+						"explanation": "He is the leader or chief of the native tribe on the island.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Papu Papu's role in his tribe?",
+						"wrong": [
+							"Shaman",
+							"Warrior",
+							"Cook"
+						]
+					},
+					{
+						"correct": "Large and overweight",
+						"difficulty": "Easy",
+						"explanation": "Papu Papu is famously large, which is why his name is doubled.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which of these describes Papu Papu's physical appearance?",
+						"wrong": [
+							"Small and fast",
+							"Tall and thin",
+							"Muscular and blue"
+						]
+					},
+					{
+						"correct": "Crash woke him up",
+						"difficulty": "Medium",
+						"explanation": "Crash stumbles into Papu Papu's hut while he is sleeping, and the chief attacks out of grumpiness.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/papu_papu.webp",
+						"question": "Why does Papu Papu attack Crash in the first game?",
+						"wrong": [
+							"Crash stole his food",
+							"Cortex told him to",
+							"Crash broke his staff"
+						]
+					},
+					{
+						"correct": "Inside his Hut",
+						"difficulty": "Medium",
+						"explanation": "The battle takes place within the 'Native Village' inside Papu Papu's large circular dwelling.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Where exactly is the fight against Papu Papu located?",
+						"wrong": [
+							"On a Bridge",
+							"In a Cave",
+							"At the Beach"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Medium",
+						"explanation": "Papu Papu is an independent character who just wants to be left alone; he is not part of Cortex's army.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Unlike other bosses, does Papu Papu work for Dr. Neo Cortex?",
+						"wrong": [
+							"Yes",
+							"Only on weekends",
+							"He is Cortex's brother"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Medium",
+						"explanation": "He has white tribal stripes painted on his face.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color is the face paint on Papu Papu's cheeks?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Papu Papu",
+						"difficulty": "Hard",
+						"explanation": "Simple and direct, the boss level is titled exactly after the character's name.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/papu_papu.webp",
+						"question": "What is the name of the level where you fight Papu Papu?",
+						"wrong": [
+							"Native Village",
+							"Chief's Hut",
+							"Big Chief"
+						]
+					},
+					{
+						"correct": "Nothing",
+						"difficulty": "Hard",
+						"explanation": "In the original Crash 1, Papu Papu has no voiced lines and only grunts.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What does Papu Papu say during his boss fight?",
+						"wrong": [
+							"Ooga Booga",
+							"Go away",
+							"Cortex!"
+						]
+					},
+					{
+						"correct": "A feathered headdress",
+						"difficulty": "Hard",
+						"explanation": "He wears a simple native headdress adorned with feathers.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What kind of crown or headwear does Papu Papu wear?",
+						"wrong": [
+							"A golden crown",
+							"A straw hat",
+							"A bandana"
+						]
+					},
+					{
+						"correct": "Selling tribal land",
+						"difficulty": "Hard",
+						"explanation": "The humorous epilogue states that Papu Papu sells his tribe's land to build a resort.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the game's credits, what is Papu Papu seen doing?",
+						"wrong": [
+							"Eating Wumpa",
+							"Sleeping",
+							"Joining Cortex"
+						]
+					},
+					{
+						"correct": "He winces and grunts",
+						"difficulty": "Hard",
+						"explanation": "He stays standing but shows clear signs of being dazed and annoyed.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How does Papu Papu react when Crash jumps on his head?",
+						"wrong": [
+							"He falls over",
+							"He spins",
+							"He cries"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_papu_papu",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Papu Papu",
+				"lore_desc": "The oversized chief of the N. Sanity Island tribe who fights Crash simply because he was woken up from a nap.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Native",
+					"Chief"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Kangaroo",
+						"difficulty": "Easy",
+						"explanation": "Ripper Roo is a mutated kangaroo, recognizable by his long ears and hopping.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/ripper_roo.webp",
+						"question": "What animal species is Ripper Roo based on?",
+						"wrong": [
+							"Wallaby",
+							"Dog",
+							"Rabbit"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Ripper Roo is famously bright blue, unlike the orange Crash.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color is Ripper Roo's fur?",
+						"wrong": [
+							"Orange",
+							"Green",
+							"Pink"
+						]
+					},
+					{
+						"correct": "A straitjacket",
+						"difficulty": "Easy",
+						"explanation": "He is depicted as insane and wears a white straitjacket throughout the series.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Ripper Roo wearing that restricts his arm movement?",
+						"wrong": [
+							"A sweater",
+							"A cape",
+							"A harness"
+						]
+					},
+					{
+						"correct": "Hopping",
+						"difficulty": "Easy",
+						"explanation": "As a kangaroo, he hops from tile to tile in a predictable pattern.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How does Ripper Roo typically move around during a battle?",
+						"wrong": [
+							"Running",
+							"Rolling",
+							"Flying"
+						]
+					},
+					{
+						"correct": "Maniacal laughter",
+						"difficulty": "Easy",
+						"explanation": "Ripper Roo constantly laughs in a high-pitched, crazy tone.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What sound is Ripper Roo most famous for making?",
+						"wrong": [
+							"Barking",
+							"Whistling",
+							"Crying"
+						]
+					},
+					{
+						"correct": "TNT Crates",
+						"difficulty": "Medium",
+						"explanation": "Crash must time his movements to blow up TNT crates when Ripper Roo is nearby.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/ripper_roo.webp",
+						"question": "Which of these objects must Crash use to damage Ripper Roo in his first boss fight?",
+						"wrong": [
+							"Wumpa Fruit",
+							"Rocks",
+							"Spin Attack"
+						]
+					},
+					{
+						"correct": "On a waterfall",
+						"difficulty": "Medium",
+						"explanation": "The fight occurs on a grid of floating platforms at the top of a massive waterfall.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Where does the boss battle against Ripper Roo take place?",
+						"wrong": [
+							"In a cave",
+							"At a beach",
+							"In a desert"
+						]
+					},
+					{
+						"correct": "He became insane",
+						"difficulty": "Medium",
+						"explanation": "The process was unsuccessful in making him a soldier, instead leaving him completely mad.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the result of Ripper Roo being exposed to the Evolvo-Ray?",
+						"wrong": [
+							"He became a genius",
+							"He turned invisible",
+							"He grew wings"
+						]
+					},
+					{
+						"correct": "First Island",
+						"difficulty": "Medium",
+						"explanation": "Ripper Roo is the second boss of the game and the gatekeeper of the first island.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "On which island is Ripper Roo the final boss?",
+						"wrong": [
+							"Second Island",
+							"Third Island",
+							"Cortex Island"
+						]
+					},
+					{
+						"correct": "Giant tongue",
+						"difficulty": "Hard",
+						"explanation": "He often has his long pink tongue hanging out of his mouth while laughing.",
+						"image_url": "https://skillcheckgame.com/assets/images/ripper_roo.webp",
+						"question": "What is Ripper Roo's signature physical feature besides his fur color?",
+						"wrong": [
+							"One eye",
+							"Robot arm",
+							"Small tail"
+						]
+					},
+					{
+						"correct": "Ripper Roo",
+						"difficulty": "Hard",
+						"explanation": "Like most bosses in Crash 1, the level is simply named after the character.",
+						"image_url": "",
+						"question": "What is the name of the level where you fight him?",
+						"wrong": [
+							"Waterfall Fight",
+							"Blue Roo",
+							"Kangaroo Hop"
+						]
+					},
+					{
+						"correct": "Three",
+						"difficulty": "Hard",
+						"explanation": "He must be caught in three TNT explosions to be defeated.",
+						"image_url": "",
+						"question": "How many hits does it take to defeat Ripper Roo in the first game?",
+						"wrong": [
+							"One",
+							"Five",
+							"Six"
+						]
+					},
+					{
+						"correct": "His toes",
+						"difficulty": "Hard",
+						"explanation": "His feet/toes have sharp claws that he uses to plant or ignite explosives.",
+						"image_url": "",
+						"question": "Which part of his body does Ripper Roo use to trigger the TNT crates in the sequel games?",
+						"wrong": [
+							"His tail",
+							"His nose",
+							"His ears"
+						]
+					},
+					{
+						"correct": "Gets a PhD",
+						"difficulty": "Hard",
+						"explanation": "In a surprising twist, the epilogue says he goes to university and writes a book on social psychology.",
+						"image_url": "",
+						"question": "According to the epilogue, what does Ripper Roo do after the events of the first game?",
+						"wrong": [
+							"Opens a circus",
+							"Goes to prison",
+							"Joins a band"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_ripper_roo",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Ripper Roo",
+				"lore_desc": "A blue, crazed kangaroo wearing a straitjacket who loves explosions and maniacal laughter.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Mutant",
+					"Kangaroo"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Wumpa Fruit",
+						"difficulty": "Easy",
+						"explanation": "Wumpa Fruit is the signature collectible of the series, often mistaken for an apple or mango.",
+						"image_url": "https://skillcheckgame.com/assets/images/wumpa_fruit.webp",
+						"question": "What is the name of this fruit that Crash collects throughout the game?",
+						"wrong": [
+							"Mango",
+							"Apple",
+							"Peach"
+						]
+					},
+					{
+						"correct": "100",
+						"difficulty": "Easy",
+						"explanation": "Collecting 100 Wumpa Fruits rewards the player with one extra life (Life Icon).",
+						"image_url": "",
+						"question": "How many of these fruits must Crash collect to earn an extra life?",
+						"wrong": [
+							"10",
+							"50",
+							"200"
+						]
+					},
+					{
+						"correct": "Inside Crates",
+						"difficulty": "Easy",
+						"explanation": "While some are found floating in the air, most are obtained by breaking wooden crates.",
+						"image_url": "",
+						"question": "Where are these fruits most commonly found?",
+						"wrong": [
+							"Underground",
+							"In the ocean",
+							"Dropped by bosses"
+						]
+					},
+					{
+						"correct": "Red and Orange",
+						"difficulty": "Easy",
+						"explanation": "The fruit has a gradient of red, orange, and yellow on the outside.",
+						"image_url": "",
+						"question": "What color is the exterior of a Wumpa Fruit?",
+						"wrong": [
+							"Solid Blue",
+							"Solid Green",
+							"Purple and Black"
+						]
+					},
+					{
+						"correct": "It resets to zero",
+						"difficulty": "Easy",
+						"explanation": "After granting a life, the counter resets to zero to begin the next count.",
+						"image_url": "",
+						"question": "What happens to the counter once you reach 100 Wumpa Fruits?",
+						"wrong": [
+							"It stays at 100",
+							"It goes to 101",
+							"It disappears"
+						]
+					},
+					{
+						"correct": "Purple",
+						"difficulty": "Medium",
+						"explanation": "When smashed or eaten, Wumpa Fruit is depicted as having bright purple or pink insides.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the color of the fruit's juice or inside in the game's lore?",
+						"wrong": [
+							"Yellow",
+							"Clear",
+							"Green"
+						]
+					},
+					{
+						"correct": "Ten",
+						"difficulty": "Medium",
+						"explanation": "The bounce crates (unmarked) give up to 10 fruits if jumped on repeatedly.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many Wumpa Fruits are contained in a standard 'Multi-Jump' crate if you hit it as fast as possible?",
+						"wrong": [
+							"Five",
+							"Fifteen",
+							"Twenty"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Medium",
+						"explanation": "Bonus rounds are often filled with Wumpa Fruits to help players stock up on lives.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Can Wumpa Fruits be found in the bonus rounds?",
+						"wrong": [
+							"No",
+							"Only in Brio's",
+							"Only in Tawna's"
+						]
+					},
+					{
+						"correct": "Top Right",
+						"difficulty": "Hard",
+						"explanation": "The fruit counter appears in the top left corner when collected, opposite the life counter.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/wumpa_fruit.webp",
+						"question": "In the game's UI, where is the Wumpa Fruit counter located?",
+						"wrong": [
+							"Top Right",
+							"Bottom Left",
+							"Bottom Right"
+						]
+					},
+					{
+						"correct": "Boss Fights",
+						"difficulty": "Hard",
+						"explanation": "Boss arenas are generally empty of collectibles, focusing entirely on the fight.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the only level type where Wumpa Fruits are scarce or non-existent in the air?",
+						"wrong": [
+							"Beach Levels",
+							"Jungle Levels",
+							"Bridge Levels"
+						]
+					},
+					{
+						"correct": "A 'gulp' sound",
+						"difficulty": "Hard",
+						"explanation": "The collection sound resembles a wet 'gulp' or 'slurp' as if Crash is eating them instantly.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What sound does collecting a single Wumpa Fruit make?",
+						"wrong": [
+							"A 'ding' sound",
+							"A 'pop' sound",
+							"A 'crash' sound"
+						]
+					},
+					{
+						"correct": "The High Road",
+						"difficulty": "Hard",
+						"explanation": "The difficult bridge levels often hide fruits on the rope rails or in off-screen paths.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which of these levels is famous for having a hidden path of Wumpa Fruit in the sky?",
+						"wrong": [
+							"Cortex Power",
+							"Heavy Machinery",
+							"Hog Wild"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_wumpa_fruit",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Wumpa Fruit",
+				"lore_desc": "The staple diet of the N. Sanity Islands and the most common collectible throughout Crash's adventure.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Collectible",
+					"Food"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "TNT crates are bright red with white lettering to warn players of the danger.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/tnt_crate.webp",
+						"question": "What color is a standard TNT crate?",
+						"wrong": [
+							"Green",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "It explodes instantly",
+						"difficulty": "Easy",
+						"explanation": "Spinning a TNT crate causes an immediate explosion, which usually results in losing a life.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens if Crash spins into a TNT crate?",
+						"wrong": [
+							"It starts a timer",
+							"It breaks safely",
+							"It disappears"
+						]
+					},
+					{
+						"correct": "3 Seconds",
+						"difficulty": "Easy",
+						"explanation": "A countdown from 3 appears over the crate before it detonates.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How long is the countdown timer when you jump on a TNT crate?",
+						"wrong": [
+							"1 Second",
+							"5 Seconds",
+							"10 Seconds"
+						]
+					},
+					{
+						"correct": "TNT",
+						"difficulty": "Easy",
+						"explanation": "The letters stand for Trinitrotoluene, a common explosive.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What letters are written on the side of this explosive crate?",
+						"wrong": [
+							"POW",
+							"BAM",
+							"BOOM"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Easy",
+						"explanation": "The explosion from a TNT crate will defeat any enemy caught in its blast radius.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Can TNT crates be used to defeat enemies?",
+						"wrong": [
+							"No",
+							"Only bosses",
+							"Only in water"
+						]
+					},
+					{
+						"correct": "Jumping on it",
+						"difficulty": "Medium",
+						"explanation": "Jumping on top of a TNT crate starts the timer, allowing Crash to move away before it blows.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/tnt_crate.webp",
+						"question": "Which of these is a safe way to trigger a TNT crate without dying?",
+						"wrong": [
+							"Spinning it",
+							"Touching it from the side",
+							"Sliding into it"
+						]
+					},
+					{
+						"correct": "Nitro Crate",
+						"difficulty": "Medium",
+						"explanation": "Nitro crates (green) explode on contact, whereas TNT (red) can be safely jumped on.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What kind of crate is essentially an 'instant' version of the TNT crate introduced in later games?",
+						"wrong": [
+							"Iron Crate",
+							"Magic Crate",
+							"Time Crate"
+						]
+					},
+					{
+						"correct": "Jungle Rollers",
+						"difficulty": "Medium",
+						"explanation": "They first appear in the second level of the game, Jungle Rollers.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In which level do TNT crates first appear as a hazard?",
+						"wrong": [
+							"N. Sanity Beach",
+							"The Great Gate",
+							"Upstream"
+						]
+					},
+					{
+						"correct": "Everything above it is destroyed",
+						"difficulty": "Medium",
+						"explanation": "TNT explosions have a vertical and horizontal reach, breaking all nearby crates.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If a TNT crate is at the bottom of a stack, what happens when it explodes?",
+						"wrong": [
+							"Nothing",
+							"Only the crate above",
+							"The ground breaks"
+						]
+					},
+					{
+						"correct": "It explodes instantly",
+						"difficulty": "Medium",
+						"explanation": "Any explosion nearby will cause a TNT crate to detonate immediately, regardless of its current timer.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens if a TNT crate's timer is active and it gets hit by another explosion?",
+						"wrong": [
+							"The timer resets",
+							"The timer speeds up",
+							"It is deactivated"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Hard",
+						"explanation": "Every single crate in a level, including TNT, must be destroyed to earn the clear Gem.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/tnt_crate.webp",
+						"question": "Do TNT crates count toward the total crate percentage for earning a Gem?",
+						"wrong": [
+							"No",
+							"Only if you spin them",
+							"Only if you jump on them"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Hard",
+						"explanation": "The entire strategy for the Ripper Roo fight is baiting him into the explosion of TNT crates.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Can the Ripper Roo boss be hurt by his own TNT crates?",
+						"wrong": [
+							"No",
+							"Only if Crash jumps",
+							"He is immune"
+						]
+					},
+					{
+						"correct": "It expands and pulses",
+						"difficulty": "Hard",
+						"explanation": "The crate model itself scales up and down rapidly (pulses) just before detonating.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the visual indicator that a TNT crate is about to explode after the timer hits 1?",
+						"wrong": [
+							"It turns white",
+							"It shrinks",
+							"It starts smoking"
+						]
+					},
+					{
+						"correct": "Cortex Power",
+						"difficulty": "Hard",
+						"explanation": "Cortex Power features sections where Crash must carefully navigate paths made of explosives.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which level contains a famous 'bridge' made entirely of TNT crates?",
+						"wrong": [
+							"The High Road",
+							"Hog Wild",
+							"The Lab"
+						]
+					},
+					{
+						"correct": "Yes, it explodes harmlessly",
+						"difficulty": "Hard",
+						"explanation": "While invincible, Crash can run through or spin TNT crates, and they will explode without hurting him.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If Crash is invincible (Aku Aku level 3), can he touch a TNT crate safely?",
+						"wrong": [
+							"No, he still dies",
+							"Yes, but he loses invincibility",
+							"No, it won't explode"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_tnt_crate",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "TNT Crate",
+				"lore_desc": "A volatile red crate that explodes upon impact, though it can be safely triggered with a jump.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Hazard",
+					"Explosive"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "N. Sanity Beach",
+						"difficulty": "Easy",
+						"explanation": "N. Sanity Beach is the iconic starting level of the original game.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/n_sanity_beach.webp",
+						"question": "This location is the very first level of the game. What is its name?",
+						"wrong": [
+							"Wumpa Beach",
+							"Cortex Coast",
+							"Turtle Woods"
+						]
+					},
+					{
+						"correct": "Tropical Beach",
+						"difficulty": "Easy",
+						"explanation": "It features sand, palm trees, and clear blue water.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the primary environment of this location?",
+						"wrong": [
+							"Snowy Mountain",
+							"Industrial Lab",
+							"Volcanic Cave"
+						]
+					},
+					{
+						"correct": "N. Sanity Island",
+						"difficulty": "Easy",
+						"explanation": "The beach is the shore of the first of the three islands, N. Sanity Island.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the island where this beach is located?",
+						"wrong": [
+							"Wumpa Island",
+							"Cortex Island",
+							"Mutant Island"
+						]
+					},
+					{
+						"correct": "Nothing, he's sleeping",
+						"difficulty": "Easy",
+						"explanation": "Crash starts the game face-down in the sand, waking up to the player's control.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What does Crash find at the very beginning of this level?",
+						"wrong": [
+							"A weapon",
+							"A gem",
+							"A map"
+						]
+					},
+					{
+						"correct": "Crabs",
+						"difficulty": "Medium",
+						"explanation": "Small red crabs are the first enemies Crash encounters on the beach.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/n_sanity_beach.webp",
+						"question": "What kind of small enemy is frequently found scurrying on this beach?",
+						"wrong": [
+							"Snakes",
+							"Spiders",
+							"Lizards"
+						]
+					},
+					{
+						"correct": "Clear Gem",
+						"difficulty": "Medium",
+						"explanation": "Like most levels, N. Sanity Beach rewards a clear Gem for a perfect crate run.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the original game, what is the reward for breaking all the crates in this level?",
+						"wrong": [
+							"Red Gem",
+							"Power Star",
+							"Gold Trophy"
+						]
+					},
+					{
+						"correct": "TNT Crates",
+						"difficulty": "Medium",
+						"explanation": "TNT crates do not appear until the second level, Jungle Rollers.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which of these is NOT found in N. Sanity Beach?",
+						"wrong": [
+							"Wumpa Fruit",
+							"Aku Aku",
+							"Checkpoint Crates"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Medium",
+						"explanation": "The game follows a linear path at the start, leading directly to Jungle Rollers.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many paths does the player eventually choose from after completing this beach level?",
+						"wrong": [
+							"Two",
+							"Three",
+							"Four"
+						]
+					},
+					{
+						"correct": "N. Sanity Beach",
+						"difficulty": "Medium",
+						"explanation": "The level's soundtrack is synonymous with the level name itself.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the music track that plays in this level?",
+						"wrong": [
+							"Jungle Theme",
+							"Island Life",
+							"Crash Main Theme"
+						]
+					},
+					{
+						"correct": "You need the Red Gem to get it",
+						"difficulty": "Hard",
+						"explanation": "In the remake (N. Sane Trilogy), you need the Red Gem, but in the original, you just need to break all the boxes, some of which are on a hidden path.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/n_sanity_beach.webp",
+						"question": "What is unique about the 'hidden' Gem in the N. Sanity Beach level?",
+						"wrong": [
+							"It's invisible",
+							"It's underwater",
+							"It doesn't exist"
+						]
+					},
+					{
+						"correct": "Not many (less than 50)",
+						"difficulty": "Hard",
+						"explanation": "It is one of the shortest levels with only 48 crates in the original version.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many crates are in the original PS1 version of N. Sanity Beach?",
+						"wrong": [
+							"Over 100",
+							"Zero",
+							"Exactly 75"
+						]
+					},
+					{
+						"correct": "He performs idle animations",
+						"difficulty": "Hard",
+						"explanation": "Crash will look at the camera, play with a fruit, or dance if left idle.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens if Crash stands still on the beach for too long?",
+						"wrong": [
+							"He dies",
+							"The screen goes black",
+							"He falls asleep"
+						]
+					},
+					{
+						"correct": "A bird",
+						"difficulty": "Hard",
+						"explanation": "A small bird sits near the end of the level that Crash can spin away.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the final obstacle or enemy type seen before the exit portal in this level?",
+						"wrong": [
+							"A crab",
+							"A trap",
+							"A native"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Hard",
+						"explanation": "Unlike most levels that follow it, N. Sanity Beach does not feature a bonus round token set.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Is there a bonus round in the original N. Sanity Beach level?",
+						"wrong": [
+							"Yes, Tawna's",
+							"Yes, Brio's",
+							"Yes, Cortex's"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_n._sanity_beach",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "N. Sanity Beach",
+				"lore_desc": "The idyllic, sun-drenched beach where Crash Bandicoot first washes up and begins his journey.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Island",
+					"Tropical"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Break all crates",
+						"difficulty": "Easy",
+						"explanation": "In the first game, you must break every single crate in a level without dying to earn a Gem.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/power_gems.webp",
+						"question": "What is the primary way to earn a clear Power Gem in most levels?",
+						"wrong": [
+							"Beat the time trial",
+							"Find the hidden room",
+							"Defeat the boss"
+						]
+					},
+					{
+						"correct": "Clear",
+						"difficulty": "Easy",
+						"explanation": "Most levels reward a 'Clear Gem' (sometimes appearing white or light blue).",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the most common color for Gems found in the game?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Green"
+						]
+					},
+					{
+						"correct": "Six",
+						"difficulty": "Easy",
+						"explanation": "There are six colored gems: Red, Blue, Green, Yellow, Orange, and Purple.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many different colors of 'special' Gems exist in the first game?",
+						"wrong": [
+							"Two",
+							"Ten",
+							"Four"
+						]
+					},
+					{
+						"correct": "Walk on a special path",
+						"difficulty": "Easy",
+						"explanation": "The Gems form a platform path that leads to the secret ending.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What do the Gems allow Crash to do at 'The Great Hall'?",
+						"wrong": [
+							"Fly a plane",
+							"Teleport",
+							"Shoot lasers"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "You can beat the final boss without any gems, but you won't get the 'True Ending.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Are Gems required to simply finish the game and beat Cortex?",
+						"wrong": [
+							"Yes",
+							"Only on Hard mode",
+							"Only the Red one"
+						]
+					},
+					{
+						"correct": "They unlock secret paths",
+						"difficulty": "Medium",
+						"explanation": "Colored Gems appear in other levels as moving platforms to reach previously inaccessible areas.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/power_gems.webp",
+						"question": "What is the special property of Colored Gems compared to Clear Gems?",
+						"wrong": [
+							"They give infinite lives",
+							"They kill all enemies",
+							"They make Crash faster"
+						]
+					},
+					{
+						"correct": "You cannot get the Gem",
+						"difficulty": "Medium",
+						"explanation": "One of the hardest aspects of Crash 1 was that you had to break all crates in a single life (except for bonus rounds).",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the original PS1 game, what happens if you die after hitting a checkpoint while going for a Gem?",
+						"wrong": [
+							"You can still get it",
+							"The crates stay broken",
+							"You lose all Wumpa"
+						]
+					},
+					{
+						"correct": "The Lost City",
+						"difficulty": "Medium",
+						"explanation": "The Green Gem is the reward for breaking all crates in 'The Lost City.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which level rewards the Green Gem?",
+						"wrong": [
+							"Jungle Rollers",
+							"Slippery Climb",
+							"The Lab"
+						]
+					},
+					{
+						"correct": "Slippery Climb",
+						"difficulty": "Medium",
+						"explanation": "The Red Gem is notoriously difficult to get, found in the vertical level 'Slippery Climb.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which level rewards the Red Gem?",
+						"wrong": [
+							"Road to Nowhere",
+							"Sunset Vista",
+							"Lights Out"
+						]
+					},
+					{
+						"correct": "26",
+						"difficulty": "Medium",
+						"explanation": "There are 26 Gems in total, including the six colored ones.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many total Gems are there to collect in the original Crash Bandicoot?",
+						"wrong": [
+							"20",
+							"30",
+							"42"
+						]
+					},
+					{
+						"correct": "Purple Gem",
+						"difficulty": "Hard",
+						"explanation": "The Purple Gem is the reward for the dark level 'Lights Out' on the second island.",
+						"image_url": "https://skillcheckgame.com/assets/images/power_gems.webp",
+						"question": "Which colored Gem is obtained from the level 'Lights Out'?",
+						"wrong": [
+							"Blue Gem",
+							"Orange Gem",
+							"Yellow Gem"
+						]
+					},
+					{
+						"correct": "Third Island",
+						"difficulty": "Hard",
+						"explanation": "The Lab is one of the final levels on Cortex's home island.",
+						"image_url": "",
+						"question": "The Yellow Gem is found in 'The Lab'. Which island is that on?",
+						"wrong": [
+							"First Island",
+							"Second Island",
+							"Secret Island"
+						]
+					},
+					{
+						"correct": "He gets the 100 percent ending",
+						"difficulty": "Hard",
+						"explanation": "Collecting all gems allows Crash to skip the final fight and escape with Tawna via the Great Hall.",
+						"image_url": "",
+						"question": "What happens if Crash collects all 26 Gems?",
+						"wrong": [
+							"He turns into Gold Crash",
+							"He can play as Cortex",
+							"He unlocks a new island"
+						]
+					},
+					{
+						"correct": "A large bird",
+						"difficulty": "Hard",
+						"explanation": "The 'True Ending' shows them flying into the sunset on the back of a giant vulture/bird.",
+						"image_url": "",
+						"question": "In 'The Great Hall,' the Gems form a bridge. What kind of vehicle do Crash and Tawna use to leave?",
+						"wrong": [
+							"A spaceship",
+							"A motorboat",
+							"A helicopter"
+						]
+					},
+					{
+						"correct": "None in the original",
+						"difficulty": "Hard",
+						"explanation": "In the original PS1 game, you could get the Gem on your first try; the Red Gem requirement was added in the Remake.",
+						"image_url": "",
+						"question": "Which colored Gem do you need to reach the hidden crates in the very first level, 'N. Sanity Beach'?",
+						"wrong": [
+							"Red Gem",
+							"Blue Gem",
+							"Green Gem"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_power_gems",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Power Gems",
+				"lore_desc": "Powerful stones scattered across the islands that are required to achieve the game's true ending.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Collectible",
+					"Secret"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Tommy Gun",
+						"difficulty": "Easy",
+						"explanation": "Pinstripe is themed after a 1920s gangster and uses a Thompson submachine gun.",
+						"image_url": "https://skillcheckgame.com/assets/images/pinstripe_potoroo.webp",
+						"question": "What kind of weapon does Pinstripe Potoroo use during his boss fight?",
+						"wrong": [
+							"Ray Gun",
+							"Shotgun",
+							"Bazooka"
+						]
+					},
+					{
+						"correct": "A pinstripe suit",
+						"difficulty": "Easy",
+						"explanation": "True to his name, he wears a red pinstripe suit with a green shirt.",
+						"image_url": "",
+						"question": "What kind of clothing is Pinstripe Potoroo famously wearing?",
+						"wrong": [
+							"A lab coat",
+							"A swimsuit",
+							"A superhero costume"
+						]
+					},
+					{
+						"correct": "Potoroo",
+						"difficulty": "Easy",
+						"explanation": "A potoroo is a small, kangaroo-like marsupial native to Australia.",
+						"image_url": "",
+						"question": "Pinstripe is a mutant based on which real-life animal?",
+						"wrong": [
+							"Kangaroo",
+							"Rat",
+							"Opossum"
+						]
+					},
+					{
+						"correct": "Arrogant Gangster",
+						"difficulty": "Easy",
+						"explanation": "He is depicted as a cocky, high-ranking member of Cortex's operation.",
+						"image_url": "",
+						"question": "Which of these traits best describes Pinstripe's personality?",
+						"wrong": [
+							"Crazed Lunatic",
+							"Silent Warrior",
+							"Gentle Giant"
+						]
+					},
+					{
+						"correct": "Tries to fix it",
+						"difficulty": "Easy",
+						"explanation": "When his gun overheats or jams, he struggles with it, leaving him vulnerable to an attack.",
+						"image_url": "",
+						"question": "What does Pinstripe do during the fight when his gun jams?",
+						"wrong": [
+							"Throws it at Crash",
+							"Punches Crash",
+							"Runs away"
+						]
+					},
+					{
+						"correct": "An Office",
+						"difficulty": "Medium",
+						"explanation": "The fight occurs in his executive office within the Cortex Power plant.",
+						"image_url": "https://skillcheckgame.com/assets/images/pinstripe_potoroo.webp",
+						"question": "Where does the boss battle against Pinstripe take place?",
+						"wrong": [
+							"A Dungeon",
+							"A Beach",
+							"A Jungle"
+						]
+					},
+					{
+						"correct": "Third Island",
+						"difficulty": "Medium",
+						"explanation": "He is the first boss Crash encounters on the final industrial island.",
+						"image_url": "",
+						"question": "Pinstripe is the boss of which island in the first game?",
+						"wrong": [
+							"First Island",
+							"Second Island",
+							"Wumpa Island"
+						]
+					},
+					{
+						"correct": "Chairs",
+						"difficulty": "Medium",
+						"explanation": "Crash must hide behind the two large chairs in the office to stay safe from gunfire.",
+						"image_url": "",
+						"question": "What must Crash hide behind to avoid Pinstripe's bullets?",
+						"wrong": [
+							"Crates",
+							"Pillars",
+							"Walls"
+						]
+					},
+					{
+						"correct": "CEO of Cortex Power",
+						"difficulty": "Medium",
+						"explanation": "He runs the power plant that fuels Cortex's operations on the third island.",
+						"image_url": "",
+						"question": "What is Pinstripe's official job title within Cortex's organization?",
+						"wrong": [
+							"Chief of Security",
+							"Lead Scientist",
+							"Janitor"
+						]
+					},
+					{
+						"correct": "Six",
+						"difficulty": "Medium",
+						"explanation": "Crash must hit him six times while his gun is jammed to win the fight.",
+						"image_url": "",
+						"question": "How many hits does it take to defeat Pinstripe?",
+						"wrong": [
+							"Three",
+							"One",
+							"Ten"
+						]
+					},
+					{
+						"correct": "Light Brown",
+						"difficulty": "Hard",
+						"explanation": "He has light brown or tan fur, which contrasts with his bright red suit.",
+						"image_url": "https://skillcheckgame.com/assets/images/pinstripe_potoroo.webp",
+						"question": "What color is Pinstripe Potoroo's fur?",
+						"wrong": [
+							"Orange",
+							"Blue",
+							"Black"
+						]
+					},
+					{
+						"correct": "Laughing and jumping",
+						"difficulty": "Hard",
+						"explanation": "He hops around the room between windows while laughing mockingly at Crash.",
+						"image_url": "",
+						"question": "What is Pinstripe doing during his boss fight while he is not shooting?",
+						"wrong": [
+							"Sleeping",
+							"Eating",
+							"Talking to Cortex"
+						]
+					},
+					{
+						"correct": "Chicago",
+						"difficulty": "Hard",
+						"explanation": "The epilogue states that he moves to Chicago to run a sanitation company.",
+						"image_url": "",
+						"question": "According to the game's credits, where does Pinstripe move after being defeated?",
+						"wrong": [
+							"Australia",
+							"London",
+							"New York"
+						]
+					},
+					{
+						"correct": "It gets shot out",
+						"difficulty": "Hard",
+						"explanation": "As the fight progresses, Pinstripe's stray bullets shatter the glass window behind his desk.",
+						"image_url": "",
+						"question": "What happens to the window in the background of Pinstripe's office during the fight?",
+						"wrong": [
+							"It stays intact",
+							"It turns into a door",
+							"It reveals a Gem"
+						]
+					},
+					{
+						"correct": "Koala Kong",
+						"difficulty": "Hard",
+						"explanation": "Koala Kong is the final boss of the second island, and Pinstripe is the first boss of the third.",
+						"image_url": "",
+						"question": "Which of these bosses appears immediately BEFORE Pinstripe in the game?",
+						"wrong": [
+							"Papu Papu",
+							"Ripper Roo",
+							"Nitrus Brio"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_pinstripe_potoroo",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Pinstripe Potoroo",
+				"lore_desc": "A sharp-dressed, tommy-gun-wielding mutant potoroo who serves as Cortex's bodyguard and CEO of Cortex Power.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Boss",
+					"Mutant",
+					"Gangster"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Rides it",
+						"difficulty": "Easy",
+						"explanation": "The Hog levels are famous for Crash jumping on the animal's back for a high-speed chase.",
+						"image_url": "https://skillcheckgame.com/assets/images/hog.webp",
+						"question": "What does Crash do with this animal in the level 'Hog Wild'?",
+						"wrong": [
+							"Fights it",
+							"Eats it",
+							"Carries it"
+						]
+					},
+					{
+						"correct": "Wild Boar",
+						"difficulty": "Easy",
+						"explanation": "It is a brown wild boar with small tusks.",
+						"image_url": "",
+						"question": "What type of animal is the 'Hog' based on?",
+						"wrong": [
+							"Bear",
+							"Tiger",
+							"Dog"
+						]
+					},
+					{
+						"correct": "No",
+						"difficulty": "Easy",
+						"explanation": "The Hog runs forward automatically, requiring the player to dodge and jump constantly.",
+						"image_url": "",
+						"question": "In a Hog level, can the player stop moving forward?",
+						"wrong": [
+							"Yes",
+							"Only if you hit a wall",
+							"Only in bonus rounds"
+						]
+					},
+					{
+						"correct": "He gets bounced back",
+						"difficulty": "Easy",
+						"explanation": "Hitting a shield native will bounce Crash and the Hog backward, often into a hazard.",
+						"image_url": "",
+						"question": "What happens if the Hog hits a native carrying a shield?",
+						"wrong": [
+							"He dies instantly",
+							"The native dies",
+							"He speeds up"
+						]
+					},
+					{
+						"correct": "Brown",
+						"difficulty": "Easy",
+						"explanation": "The Hog has a simple brown coat typical of wild boars.",
+						"image_url": "",
+						"question": "What color is the Hog?",
+						"wrong": [
+							"Pink",
+							"Black",
+							"White"
+						]
+					},
+					{
+						"correct": "Two",
+						"difficulty": "Medium",
+						"explanation": "There are two levels: 'Hog Wild' and the secret level 'Whole Hog.'",
+						"image_url": "https://skillcheckgame.com/assets/images/hog.webp",
+						"question": "How many 'Hog riding' levels are there in the original Crash Bandicoot?",
+						"wrong": [
+							"One",
+							"Three",
+							"Five"
+						]
+					},
+					{
+						"correct": "Roasting Spits",
+						"difficulty": "Medium",
+						"explanation": "Crash must time his jumps to avoid natives who are roasting meat on spits.",
+						"image_url": "",
+						"question": "What obstacle is often found spinning over the track in Hog levels?",
+						"wrong": [
+							"Rolling Boulders",
+							"Falling Icicles",
+							"Spinning Blades"
+						]
+					},
+					{
+						"correct": "X Button",
+						"difficulty": "Medium",
+						"explanation": "The jump button remains the same as when Crash is on foot.",
+						"image_url": "",
+						"question": "Which of these buttons does the player use to jump while riding the Hog?",
+						"wrong": [
+							"Circle Button",
+							"Square Button",
+							"Triangle Button"
+						]
+					},
+					{
+						"correct": "Whole Hog",
+						"difficulty": "Medium",
+						"explanation": "Whole Hog is a secret level accessed via a key found on the second island.",
+						"image_url": "",
+						"question": "What is the name of the secret Hog level?",
+						"wrong": [
+							"Hog Heaven",
+							"Hog Fever",
+							"Road Hog"
+						]
+					},
+					{
+						"correct": "Falling into pits",
+						"difficulty": "Medium",
+						"explanation": "The Hog levels feature many narrow bridges and gaps over water that require precise jumping.",
+						"image_url": "",
+						"question": "What is the primary danger when crossing water on the Hog?",
+						"wrong": [
+							"Sharks",
+							"Losing speed",
+							"Getting wet"
+						]
+					},
+					{
+						"correct": "Cortex (via Sunset Vista)",
+						"difficulty": "Hard",
+						"explanation": "While it's a Cortex bonus round, you obtain the key to 'Whole Hog' from the Sunset Vista level.",
+						"image_url": "https://skillcheckgame.com/assets/images/hog.webp",
+						"question": "To unlock the secret Hog level, from which boss must you obtain a key?",
+						"wrong": [
+							"Papu Papu",
+							"Ripper Roo",
+							"Pinstripe"
+						]
+					},
+					{
+						"correct": "The Hog throws Crash off",
+						"difficulty": "Hard",
+						"explanation": "In the end animation, the Hog stops abruptly, sending Crash flying into the level exit.",
+						"image_url": "",
+						"question": "What happens if you reach the end of 'Hog Wild'?",
+						"wrong": [
+							"The Hog disappears",
+							"The Hog explodes",
+							"Crash keeps riding"
+						]
+					},
+					{
+						"correct": "Crabs",
+						"difficulty": "Hard",
+						"explanation": "Crabs are beach enemies and don't appear in the high-speed village levels.",
+						"image_url": "",
+						"question": "Which of these enemies is NOT found in a Hog level?",
+						"wrong": [
+							"Natives with shields",
+							"Natives with spits",
+							"Obstacle poles"
+						]
+					},
+					{
+						"correct": "Constant grunting",
+						"difficulty": "Hard",
+						"explanation": "The Hog makes rhythmic grunting noises as it gallops forward.",
+						"image_url": "",
+						"question": "What sound does the Hog make while running?",
+						"wrong": [
+							"Squealing",
+							"Oinking",
+							"Snorting"
+						]
+					},
+					{
+						"correct": "Yes",
+						"difficulty": "Hard",
+						"explanation": "The Hog automatically smashes any crate it touches, making it easier to collect items at high speed.",
+						"image_url": "",
+						"question": "Can the Hog break crates by simply running into them?",
+						"wrong": [
+							"No",
+							"Only if you jump",
+							"Only TNT"
+						]
+					}
+				]
+			},
+			"id": "crash_bandicoot_1_hog",
+			"meta": {
+				"date_added": "2026-04-21",
+				"entity_category": "Theme Item",
+				"full_title": "Hog",
+				"lore_desc": "A wild boar that Crash can ride for high-speed, obstacle-dodging levels through the native villages.",
+				"theme_origin": "crash bandicoot 1",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Animal",
+					"Ride",
+					"Hazard"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -148217,7 +150905,7 @@
 					"name": "Lethal Implants"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Yaiba Kusanagi CT-3X",
 						"V"
@@ -148225,6 +150913,10 @@
 					"name": "Two-Wheeled Terror"
 				}
 			]
+		},
+		{
+			"id": "crash bandicoot 1",
+			"synergies": []
 		}
 	],
 	"titles": {
