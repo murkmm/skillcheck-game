@@ -147215,6 +147215,64 @@
 						"Stealth Camouflage"
 					],
 					"name": "Tactical Espionage"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Crash Bandicoot",
+						"Dr. Neo Cortex"
+					],
+					"name": "Arch Rivals"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Crash Bandicoot",
+						"Aku Aku"
+					],
+					"name": "Spirit Guide"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Crash Bandicoot",
+						"Tawna Bandicoot"
+					],
+					"name": "Rescue Mission"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Crash Bandicoot",
+						"Wumpa Fruit"
+					],
+					"name": "100 for a 1 UP"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Crash Bandicoot",
+						"TNT Crate"
+					],
+					"name": "3, 2, 1, BOOM"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Crash Bandicoot",
+						"Dr. Neo Cortex",
+						"Dr. Nitrus Brio"
+					],
+					"name": "The COrtex Vortex"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Crash Bandicoot",
+						"Dr. Neo Cortex",
+						"Tawna Bandicoot"
+					],
+					"name": "Damsel in distress"
 				}
 			]
 		},
@@ -150916,7 +150974,57 @@
 		},
 		{
 			"id": "crash bandicoot 1",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Dr. Neo Cortex",
+						"Dr. Nitrus Brio"
+					],
+					"name": "Lab Partners"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Dr. Neo Cortex",
+						"Ripper Roo"
+					],
+					"name": "Unstable Creation"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Dr. Neo Cortex",
+						"Pinstripe Potoroo"
+					],
+					"name": "The Enforcer"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Papu Papu",
+						"Ripper Roo",
+						"Pinstripe Potoroo"
+					],
+					"name": "Boss Rush"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Power Gems",
+						"Wumpa Fruit"
+					],
+					"name": "Collectibles"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Hog",
+						"Crash Bandicoot"
+					],
+					"name": "Hang on !"
+				}
+			]
 		}
 	],
 	"titles": {
