@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776761689,
+	"last_updated": 1776763998,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2252,6 +2252,48 @@
 				"fallout_new_vegas_legate_lanius",
 				"fallout_new_vegas_victor",
 				"fallout_new_vegas_craig_boone"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-22": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Crash Bandiccot 1 - PS1 Royalty",
+			"share_text": "Collect all the gems !",
+			"shops": [
+				{
+					"p1": "quick_save",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "lucky_dice",
+					"p2": "double_adapter"
+				},
+				{
+					"p1": "memory_card",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"crash_bandicoot_1_dr._neo_cortex",
+				"crash_bandicoot_1_crash_bandicoot",
+				"crash_bandicoot_1_aku_aku"
+			],
+			"starters": [
+				"crash_bandicoot_1_hog",
+				"crash_bandicoot_1_power_gems",
+				"crash_bandicoot_1_pinstripe_potoroo",
+				"crash_bandicoot_1_n._sanity_beach",
+				"crash_bandicoot_1_tnt_crate",
+				"crash_bandicoot_1_wumpa_fruit",
+				"crash_bandicoot_1_ripper_roo",
+				"crash_bandicoot_1_tawna_bandicoot",
+				"crash_bandicoot_1_papu_papu",
+				"crash_bandicoot_1_dr._nitrus_brio",
+				"crash_bandicoot_1_aku_aku",
+				"crash_bandicoot_1_dr._neo_cortex",
+				"crash_bandicoot_1_crash_bandicoot"
 			],
 			"submitted_by": ""
 		}
