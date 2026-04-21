@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776690731,
+	"last_updated": 1776761689,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2207,6 +2207,51 @@
 				"x-nauts",
 				"magical_map",
 				"madame_flurrie"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-21": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Fallout New Vegas: Mojave Madness",
+			"share_text": "10 karat run of bad luck",
+			"shops": [
+				{
+					"p1": "game_shark",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "lucky_dice"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "piggy_bank"
+				}
+			],
+			"showcase": [
+				"fallout_new_vegas_mr_house",
+				"fallout_new_vegas_yes_man",
+				"fallout_new_vegas_benny"
+			],
+			"starters": [
+				"fallout_new_vegas_mr_house",
+				"fallout_new_vegas_benny",
+				"fallout_new_vegas_the_platinum_chip",
+				"fallout_new_vegas_yes_man",
+				"fallout_new_vegas_hoover_dam",
+				"fallout_new_vegas_the_strip",
+				"fallout_new_vegas_ncr_ranger",
+				"fallout_new_vegas_caesar",
+				"fallout_new_vegas_rex",
+				"fallout_new_vegas_ed-e",
+				"fallout_new_vegas_pip_boy",
+				"fallout_new_vegas_vault_21",
+				"fallout_new_vegas_goodsprings",
+				"fallout_new_vegas_legate_lanius",
+				"fallout_new_vegas_victor",
+				"fallout_new_vegas_craig_boone"
 			],
 			"submitted_by": ""
 		}
