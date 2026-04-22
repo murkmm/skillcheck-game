@@ -144939,6 +144939,3393 @@
 					"Hazard"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Tequila Sunset",
+						"difficulty": "Easy",
+						"explanation": "This is one of the first of many bizarre names Harry can adopt, setting the tone for his journey of self-(re)discovery.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When introducing himself while suffering from amnesia, what cocktail-inspired alias does Harry come up with on the spot?",
+						"wrong": [
+							"Whiskey Sour",
+							"Old Fashioned",
+							"Bloody Mary"
+						]
+					},
+					{
+						"correct": "The Expression",
+						"difficulty": "Easy",
+						"explanation": "'The Expression' is so terrifying it can cause physical and mental damage to both the target and Harry himself.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/harry_du_bois.webp",
+						"question": "What is the name of the horrifying, jaw-distending facial contortion Harry can pull off to intimidate people, which often backfires spectacularly?",
+						"wrong": [
+							"The Grin",
+							"The Grimace",
+							"The Smirk"
+						]
+					},
+					{
+						"correct": "Revachol Citizens Militia",
+						"difficulty": "Easy",
+						"explanation": "The RCM is the semi-functional police force of Revachol, and Harry's Precinct 41 is notoriously chaotic even by their standards.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Harry is a detective for which police organization, whose jurisdiction covers the city of Revachol?",
+						"wrong": [
+							"Moralintern Police",
+							"Martinaise Volunteer Guard",
+							"Precinct 57 Task Force"
+						]
+					},
+					{
+						"correct": "A Hobocop",
+						"difficulty": "Easy",
+						"explanation": "The Hobocop thought is one of the earliest and most memorable paths Harry can go down, focusing on collecting junk to survive on the mean streets of Martinaise.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Before he remembers his name or profession, what self-proclaimed archetype does Harry adopt, complete with a plastic bag for collecting tàre?",
+						"wrong": [
+							"A Sorry Cop",
+							"An Apocalypse Cop",
+							"A Superstar Cop"
+						]
+					},
+					{
+						"correct": "His gun",
+						"difficulty": "Easy",
+						"explanation": "The hunt for Harry's lost sidearm, a Villiers 9mm Pepperbox, forms a significant side-quest throughout the investigation.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What crucial piece of his police equipment is missing at the start of the game, having been lost during his multi-day bender?",
+						"wrong": [
+							"His badge",
+							"His handcuffs",
+							"His ledger"
+						]
+					},
+					{
+						"correct": "Raphaël Ambrosius Costeau",
+						"difficulty": "Medium",
+						"explanation": "This alias is a nod to the historical artist Rembrandt van Rijn and the explorer Jacques Cousteau, fitting the game's painterly art style and themes of exploration.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In a moment of artistic flair, Harry can declare his name is not Harrier Du Bois, but what absurdly pretentious art-cop persona?",
+						"wrong": [
+							"Viggo Mortensen",
+							"Maximus Decimus Meridius",
+							"Dante Alighieri"
+						]
+					},
+					{
+						"correct": "Inland Empire",
+						"difficulty": "Medium",
+						"explanation": "Named after the surreal David Lynch film, Inland Empire represents Harry's powerful and often unsettling intuition and connection to the subconscious.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which of Harry's 24 skills allows him to speak with inanimate objects, like his own necktie or a mailbox, and grants him cryptic insights into the world?",
+						"wrong": [
+							"Esprit de Corps",
+							"Shivers",
+							"Conceptualization"
+						]
+					},
+					{
+						"correct": "Dora Ingerlund",
+						"difficulty": "Medium",
+						"explanation": "The memory of Dora and their breakup is the central trauma that led to Harry's amnesia-inducing spiral of self-destruction.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The memory of what person, his ex-fiancée, is the source of Harry's profound sadness and the 'greatest pain in the world'?",
+						"wrong": [
+							"Klaasje Amandou",
+							"Sylvie Malaìka",
+							"Lena, the cryptozoolgist's wife"
+						]
+					},
+					{
+						"correct": "His Faln anorak",
+						"difficulty": "Medium",
+						"explanation": "The FALN brand anorak is a high-quality piece of outdoor gear, a strange sight in the urban decay of Martinaise and a relic of a more functional Harry.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/harry_du_bois.webp",
+						"question": "What is the official name of Harry's iconic, bright green amphibious jacket that holds his ledger and gets stuck in a tree?",
+						"wrong": [
+							"His RCM patrol coat",
+							"His disco windbreaker",
+							"His hobo trenchcoat"
+						]
+					},
+					{
+						"correct": "The Insulindian Phasmid",
+						"difficulty": "Medium",
+						"explanation": "This giant, sentient stick insect is a creature of pure wonder, and its appearance provides a moment of quiet, beautiful resolution to the chaos of the case.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "At the very end of the game, Harry and his partner finally come face to face with what legendary, almost mythical creature?",
+						"wrong": [
+							"The Col Do Ma Ma Daqua",
+							"The Martinaise Cryptid",
+							"The Invisible Dragon"
+						]
+					},
+					{
+						"correct": "The Hanged Man of Couron",
+						"difficulty": "Hard",
+						"explanation": "This case involved a young woman's suicide that Harry obsessively and fruitlessly investigated as a murder, leading to his professional and personal collapse.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the old, unsolved case that mentally broke Harry and sent him on his downward spiral before the game's events?",
+						"wrong": [
+							"The Jamrock Strangler",
+							"The Martinaise Killer",
+							"The Wild Pines Arsonist"
+						]
+					},
+					{
+						"correct": "A magnesium-based lifeform",
+						"difficulty": "Hard",
+						"explanation": "This bizarre thought comes from the 'Advanced Race Theory' thought, where Harry's mind tries to rationalize his own strangeness by concluding he must be an alien.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When theorizing about reality, Harry's drug-addled brain can conclude he is not human but actually what kind of being?",
+						"wrong": [
+							"A being of pure light",
+							"A forgotten radio wave",
+							"An extra-isolary human"
+						]
+					},
+					{
+						"correct": "The Deserter",
+						"difficulty": "Hard",
+						"explanation": "Iosef Lilianovich Dros, an old communist deserter living on the island, shot the mercenary out of a decades-old sense of duty and paranoia.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After interrogating all the suspects, who does Harry ultimately discover is the person who fired the fatal shot that killed the hanged man?",
+						"wrong": [
+							"Klaasje Amandou",
+							"Ruby the instigator",
+							"Titus Hardie"
+						]
+					},
+					{
+						"correct": "The Precinct 41 Major Crimes Unit",
+						"difficulty": "Hard",
+						"explanation": "Despite his failures, solving the case proves Harry's skills are still valuable, earning him a place in a new, more serious unit alongside his partner.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/harry_du_bois.webp",
+						"question": "At the conclusion of the game, Harry's former colleagues invite him and his partner to join what special task force within the RCM?",
+						"wrong": [
+							"The Moralintern Oversight Committee",
+							"The Suzerainty of Revachol",
+							"The Martinaise Community Watch"
+						]
+					},
+					{
+						"correct": "Jamrock",
+						"difficulty": "Hard",
+						"explanation": "Jamrock is one of the poorest and most crime-ridden districts of Revachol, which helps explain the state of Precinct 41 and its detectives.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The district that houses Harry's famously chaotic home base, Precinct 41, is known by what name?",
+						"wrong": [
+							"Martinaise",
+							"The Pox",
+							"Grand Couron"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_harry_du_bois",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Harry Du Bois",
+				"lore_desc": "The amnesiac detective protagonist attempting to solve a murder in Martinaise. A shattered mind in a polyester suit, he is a walking, talking disco inferno of self-destruction and unlikely heroism.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Protagonist",
+					"Detective",
+					"Amnesiac"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Precinct 57",
+						"difficulty": "Easy",
+						"explanation": "Kim's professionalism is a direct reflection of his precinct's reputation, standing in stark contrast to the barely-controlled chaos of Harry's Precinct 41.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Kim is a highly disciplined officer from which RCM precinct, known for being far more professional than Harry's?",
+						"wrong": [
+							"Precinct 41",
+							"Precinct 99",
+							"Precinct 1"
+						]
+					},
+					{
+						"correct": "Kineema",
+						"difficulty": "Easy",
+						"explanation": "The Coupris Kineema is a rare and powerful vehicle in Revachol, and Kim's expertise in handling and repairing it is a recurring point of pride.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/kim_kitsuragi.webp",
+						"question": "What is the model of Kim's beloved, high-performance motor carriage, which he maintains with meticulous care?",
+						"wrong": [
+							"Falcon",
+							"Coupris",
+							"Centurion"
+						]
+					},
+					{
+						"correct": "His notebook",
+						"difficulty": "Easy",
+						"explanation": "Kim's dedication to note-taking highlights his methodical approach to detective work, serving as a reliable anchor for Harry's fractured memory.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What object does Kim almost always have in his hands, using it to meticulously record case details and observations?",
+						"wrong": [
+							"His service pistol",
+							"A portable radio",
+							"A cigarette case"
+						]
+					},
+					{
+						"correct": "On the balcony at the end of the day",
+						"difficulty": "Easy",
+						"explanation": "This small, disciplined ritual is a perfect example of Kim's personality. Sharing this moment with him is a sign of building genuine trust and friendship.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When Harry asks about his smoking, Kim reveals he limits himself to one cigarette at a specific time and place. Where is that?",
+						"wrong": [
+							"In his Kineema after a long drive",
+							"At the station before a shift",
+							"While reviewing case files"
+						]
+					},
+					{
+						"correct": "His orange bomber jacket",
+						"difficulty": "Easy",
+						"explanation": "The jacket is not just stylish; it's fire-resistant, a nod to a past case that earned him the nickname 'Pyro-Kinetic' among his old colleagues.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/kim_kitsuragi.webp",
+						"question": "What is Kim's iconic and practical piece of outerwear, a gift from his precinct to celebrate a major accomplishment?",
+						"wrong": [
+							"A leather duster",
+							"A standard issue RCM greatcoat",
+							"A pinstripe suit"
+						]
+					},
+					{
+						"correct": "Pinball",
+						"difficulty": "Medium",
+						"explanation": "Kim reveals he's a fan of the 'KRUL-machine,' an in-universe brand of pinball, showcasing a hidden, more playful side to his serious demeanor.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Beyond his police work and motor carriage expertise, what is Kim's surprising personal hobby and 'one vice'?",
+						"wrong": [
+							"Board games",
+							"Karaoke",
+							"Collecting stamps"
+						]
+					},
+					{
+						"correct": "Aerostatics",
+						"difficulty": "Medium",
+						"explanation": "His fascination with aerostatics hints at a dream beyond police work, a love for the forgotten age of Revachol's majestic airships.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Kim displays a deep and surprising passion for what specific field of science, related to airships and the physics of flight?",
+						"wrong": [
+							"Cryptozoology",
+							"Pyrotechnics",
+							"Naval history"
+						]
+					},
+					{
+						"correct": "The Moralists",
+						"difficulty": "Medium",
+						"explanation": "As a man of order and process, Kim's Moralist alignment reflects his belief in stability and gradual change through established systems.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If asked about his political views, Kim will cautiously align himself with which centrist, status-quo ideology?",
+						"wrong": [
+							"The Communists",
+							"The Ultraliberals",
+							"The Fascists"
+						]
+					},
+					{
+						"correct": "Binoclard",
+						"difficulty": "Medium",
+						"explanation": "This French-inspired insult is just one of many colorful bits of slang in Revachol's unique dialect.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cuno often hurls insults at the detectives, calling Kim by what specific pejorative term for someone who wears glasses?",
+						"wrong": [
+							"Four-eyes",
+							"Speccy",
+							"Bookworm"
+						]
+					},
+					{
+						"correct": "Lieutenant Double-Yefreitor",
+						"difficulty": "Hard",
+						"explanation": "The unique rank structure of the RCM combines different historical and cultural influences, with 'Yefreitor' being a rank from the Russian military.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/kim_kitsuragi.webp",
+						"question": "What is Kim's full, formal rank within the Revachol Citizens Militia, reflecting his seniority?",
+						"wrong": [
+							"Sergeant-at-Arms",
+							"Patrol Officer First Class",
+							"Detective-Captain"
+						]
+					},
+					{
+						"correct": "Sunday Friend",
+						"difficulty": "Hard",
+						"explanation": "Joyce uses this term to describe someone reliable and trustworthy, recognizing Kim's steadfast nature amidst the chaos of the investigation.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the respectful title that Joyce Messier, the Wild Pines representative, gives to Kim after observing his quiet competence?",
+						"wrong": [
+							"Silent Partner",
+							"The Watcher",
+							"Gentleman Detective"
+						]
+					},
+					{
+						"correct": "His father was a mechanic",
+						"difficulty": "Hard",
+						"explanation": "This small detail, revealed in a quiet moment, adds depth to Kim's character and explains his unusual expertise with his Kineema.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Kim's extensive knowledge of motor carriages and mechanics stems from what aspect of his family background?",
+						"wrong": [
+							"He was a professional racer",
+							"He ran a Kineema dealership",
+							"He studied engineering"
+						]
+					},
+					{
+						"correct": "He transfers to Precinct 41",
+						"difficulty": "Hard",
+						"explanation": "Seeing potential in their partnership, Kim chooses to leave the stability of Precinct 57 to join Harry in his chaotic but effective Major Crimes Unit.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If Harry proves himself a competent detective, what major career decision does Kim make at the end of the game?",
+						"wrong": [
+							"He retires from the RCM",
+							"He requests a promotion to Captain",
+							"He moves to another city"
+						]
+					},
+					{
+						"correct": "Jean Vicquemare",
+						"difficulty": "Hard",
+						"explanation": "Jean is one of Harry's old partners from Precinct 41, now in Precinct 57. His appearance provides a stark look at Harry's past reputation from a less patient perspective.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If Kim is incapacitated late in the game, who is his by-the-book, and somewhat cynical, replacement partner from Precinct 57?",
+						"wrong": [
+							"Judit Minot",
+							"Trant Heidelstam",
+							"Chester McLaine"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_kim_kitsuragi",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Kim Kitsuragi",
+				"lore_desc": "The stoic, by-the-book detective from Precinct 57 assigned to the Martinaise murder. He is Harry's partner, foil, and the unwavering bastion of professionalism in a sea of chaos.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Detective",
+					"Partner",
+					"Moral Compass"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A ceiling fan",
+						"difficulty": "Easy",
+						"explanation": "The image of the garish tie slowly rotating on the ceiling fan is one of the first and most memorable surreal sights in the game.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_horrific_necktie.webp",
+						"question": "When Harry first wakes up, he finds this talking piece of clothing hanging from what object in his room?",
+						"wrong": [
+							"A coat rack",
+							"A door knob",
+							"A lampshade"
+						]
+					},
+					{
+						"correct": "Communism",
+						"difficulty": "Easy",
+						"explanation": "The necktie acts as Harry's 'comrade,' urging him to build communism and sharing trivia about historical materialist figures like Kras Mazov.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The necktie is a staunch supporter of a particular political ideology, which it frequently tries to convince Harry to embrace. What is it?",
+						"wrong": [
+							"Moralism",
+							"Ultraliberalism",
+							"Fascism"
+						]
+					},
+					{
+						"correct": "Egg Head",
+						"difficulty": "Easy",
+						"explanation": "The necktie calls Harry 'Egg Head' to refer to his baldness and his intellectual, if scattered, way of thinking.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the necktie's favorite, slightly condescending nickname for Harry?",
+						"wrong": [
+							"Superstar",
+							"Hobo",
+							"Detective"
+						]
+					},
+					{
+						"correct": "Alcohol",
+						"difficulty": "Easy",
+						"explanation": "As a remnant of Harry's self-destructive bender, the necktie embodies his addictive tendencies, constantly begging for another drink.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Besides spouting political theory, what substance does the necktie frequently demand that Harry acquire for it?",
+						"wrong": [
+							"Money",
+							"Cigarettes",
+							"Information"
+						]
+					},
+					{
+						"correct": "Talk to it",
+						"difficulty": "Easy",
+						"explanation": "This initial check establishes that interacting with the strange reality of Martinaise requires Harry to push the limits of his own mind.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The first time Harry encounters the necktie, he must pass a skill check simply to be able to do what?",
+						"wrong": [
+							"Wear it",
+							"Untie it",
+							"Throw it away"
+						]
+					},
+					{
+						"correct": "Inland Empire",
+						"difficulty": "Medium",
+						"explanation": "Inland Empire governs Harry's connection to his subconscious and the soul of the city, making it the perfect channel for a talking piece of clothing.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which of Harry's skills is the primary one that allows him to have conversations with the sentient necktie?",
+						"wrong": [
+							"Logic",
+							"Rhetoric",
+							"Drama"
+						]
+					},
+					{
+						"correct": "Esprit de Corps",
+						"difficulty": "Medium",
+						"explanation": "Esprit de Corps gives Harry a psychic link to his fellow officers, and the necktie boasts it can tap into this 'cop-channel' for gossip.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The necktie claims it can get information from Harry's old precinct by telepathically linking with which specific skill?",
+						"wrong": [
+							"Authority",
+							"Composure",
+							"Suggestion"
+						]
+					},
+					{
+						"correct": "The 'Homo-Sexual Underground' thought",
+						"difficulty": "Medium",
+						"explanation": "The necktie encourages Harry to 'contact Mike' and explore the city's queer scene, leading to the internalization of this thought.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_horrific_necktie.webp",
+						"question": "Equipping and listening to the necktie over time can eventually help Harry develop what new item in his Thought Cabinet?",
+						"wrong": [
+							"The 'Advanced Race Theory' thought",
+							"The 'Hobocop' thought",
+							"The 'Kingdom of Conscience' thought"
+						]
+					},
+					{
+						"correct": "The party",
+						"difficulty": "Medium",
+						"explanation": "It remembers 'the party' with a certain fondness, recalling the absolute chaos and disco energy that led to Harry's memory loss.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The necktie often refers to the wild, amnesia-inducing bender that Harry went on as what?",
+						"wrong": [
+							"The big one",
+							"The case",
+							"The apocalypse"
+						]
+					},
+					{
+						"correct": "Communicating with the corpse",
+						"difficulty": "Medium",
+						"explanation": "In a moment of pure absurdity, the necktie claims it can speak to the spirit of the hanged man, though it's likely just messing with Harry.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If Harry is performing the autopsy on the victim, the necktie suggests it can help by doing what?",
+						"wrong": [
+							"Identifying the murder weapon",
+							"Recalling forensic procedures",
+							"Distracting Kim Kitsuragi"
+						]
+					},
+					{
+						"correct": "Pyrolidon",
+						"difficulty": "Hard",
+						"explanation": "This fictional substance is described as a 'mood-fabric' that was banned for being too distracting, which perfectly suits the tie's personality.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The necktie claims its hideous pattern is made from a now-banned, psychoactive material. What is this substance called?",
+						"wrong": [
+							"Pyrholidon",
+							"Al-Ghul",
+							"Tien-En-Men"
+						]
+					},
+					{
+						"correct": "Conceptualization",
+						"difficulty": "Hard",
+						"explanation": "Conceptualization is all about art and ideas, so it naturally has a very strong and very negative opinion on the necktie's aesthetic qualities.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which of Harry's artistic skills will comment on the necktie's 'violent' and 'unapologetic' pattern, calling it 'an act of aggression'?",
+						"wrong": [
+							"Visual Calculus",
+							"Hand-Eye Coordination",
+							"Savvy"
+						]
+					},
+					{
+						"correct": "To intimidate suspects",
+						"difficulty": "Hard",
+						"explanation": "The pre-amnesia Harry would allegedly spin the tie on the ceiling fan to disorient and intimidate suspects, a hint of his former unhinged methods.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_horrific_necktie.webp",
+						"question": "The necktie remembers the 'old' Harry using it for what purpose during interrogations before he lost his memory?",
+						"wrong": [
+							"As a makeshift weapon",
+							"To get free drinks",
+							"As a good luck charm"
+						]
+					},
+					{
+						"correct": "Gaudy Commodore Red",
+						"difficulty": "Hard",
+						"explanation": "This perfectly pretentious color name captures the tie's loud, attention-seeking personality and its connection to the world of disco.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The necktie boasts that its color is not simply red, but what specific, ostentatious shade?",
+						"wrong": [
+							"Revolutionary Crimson",
+							"Signal-Blue",
+							"Incandescent Rage"
+						]
+					},
+					{
+						"correct": "To contact Mike",
+						"difficulty": "Hard",
+						"explanation": "This instruction is the key to unlocking the 'Homo-Sexual Underground' thought, as 'Mike' is the code name for a contact in the city's queer community.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The tie strongly advises Harry to use the payphone in the Whirling-in-Rags for what specific, mysterious purpose?",
+						"wrong": [
+							"To call his ex-fiancée",
+							"To report to his precinct",
+							"To order a pizza"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_the_horrific_necktie",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Horrific Necktie",
+				"lore_desc": "A sentient, incredibly ugly necktie found hanging in Harry's hotel room. It's a manifestation of his subconscious, offering terrible advice, demanding alcohol, and espousing radical communist theory.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Clothing",
+					"Skill"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Garte",
+						"difficulty": "Easy",
+						"explanation": "Garte is the first person Harry speaks to, and he's primarily concerned with Harry paying for the massive damages he caused to his room.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/whirling-in-rags.webp",
+						"question": "Who is the perpetually stressed-out cafeteria manager of the Whirling-in-Rags?",
+						"wrong": [
+							"Titus",
+							"Evrart",
+							"Roy"
+						]
+					},
+					{
+						"correct": "Hanging from a tree",
+						"difficulty": "Easy",
+						"explanation": "The shocking sight of the hanged man is the catalyst for the entire story, kicking off the RCM's involvement in Martinaise.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The murder investigation begins with a body found in the backyard of the Whirling-in-Rags. How was the victim displayed?",
+						"wrong": [
+							"In a dumpster",
+							"Floating in the canal",
+							"Buried in the garden"
+						]
+					},
+					{
+						"correct": "The water lock to be fixed",
+						"difficulty": "Easy",
+						"explanation": "The broken canal lock has trapped Lena in Martinaise, making her a valuable source of information for Harry in the early days of the case.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Lena, the cryptozoolgist's wife, can be found patiently waiting in the lobby. What is she waiting for so she can leave Martinaise?",
+						"wrong": [
+							"Her husband to return",
+							"A ferry to arrive",
+							"The strike to end"
+						]
+					},
+					{
+						"correct": "Paying for the damages",
+						"difficulty": "Easy",
+						"explanation": "Before he's a detective, Harry is a deadbeat customer who owes Garte 130 reál for the destruction of Room #1.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the first and most pressing task that Garte, the manager, demands of Harry?",
+						"wrong": [
+							"Solving the murder",
+							"Questioning the guests",
+							"Cleaning his room"
+						]
+					},
+					{
+						"correct": "The Cuno",
+						"difficulty": "Easy",
+						"explanation": "Cuno's abrasive, unforgettable personality makes him one of the most iconic characters Harry encounters right outside his home base.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What foul-mouthed child and his equally foul-mouthed friend, Cunoesse, can be found just outside the Whirling, throwing rocks at the victim?",
+						"wrong": [
+							"The Lilli",
+							"The Sylvie",
+							"The Lena"
+						]
+					},
+					{
+						"correct": "Singing karaoke",
+						"difficulty": "Medium",
+						"explanation": "Passing or failing the dramatic karaoke check is a memorable moment, showcasing either a hidden talent or a spectacular failure.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "On the stage of the Whirling's main room, Harry can attempt what musical performance, with potentially beautiful or disastrous results?",
+						"wrong": [
+							"Playing the piano",
+							"Reciting poetry",
+							"Performing a dance"
+						]
+					},
+					{
+						"correct": "Frittte",
+						"difficulty": "Medium",
+						"explanation": "Frittte is a ubiquitous brand in Revachol, and their abandoned kiosk becomes a key location later in the game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the popular brand of potato crisps sold by Garte at the cafeteria counter?",
+						"wrong": [
+							"Potent",
+							"Snack!",
+							"RevachIPS"
+						]
+					},
+					{
+						"correct": "His precinct colleagues",
+						"difficulty": "Medium",
+						"explanation": "This call from Jean and Judit at Precinct 41 is a harsh reality check, revealing just how much trouble Harry is in with his own squad.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/whirling-in-rags.webp",
+						"question": "The payphone in the lobby is initially broken, but once fixed, Harry receives an important call from whom?",
+						"wrong": [
+							"His ex-fiancée",
+							"The union boss",
+							"A mysterious informant"
+						]
+					},
+					{
+						"correct": "A secret passage",
+						"difficulty": "Medium",
+						"explanation": "This hidden door, concealed behind a shelf, allows Harry to bypass the main entrance and access a crucial part of the crime scene.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A clever detective can discover what useful feature in the back of the building, connecting the kitchen to the locked room of the victim?",
+						"wrong": [
+							"A dumbwaiter",
+							"A set of spare keys",
+							"A hidden crawlspace"
+						]
+					},
+					{
+						"correct": "The smoker",
+						"difficulty": "Medium",
+						"explanation": "This character is later revealed to be the Wild Pines representative, a key player in the corporate side of the labor dispute.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is the quiet, melancholy man that Harry can meet on the balcony just outside his room?",
+						"wrong": [
+							"The gambler in the corner",
+							"The man in the wheelchair",
+							"The sleeping longshoreman"
+						]
+					},
+					{
+						"correct": "The Hardie Boys",
+						"difficulty": "Hard",
+						"explanation": "Named after their leader, the Hardie Boys act as the unofficial law in Martinaise during the strike, and they are primary suspects in the murder.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the union-backed group of 'security guards', led by Titus Hardie, who confront Harry in the cafeteria?",
+						"wrong": [
+							"The Dockworkers Union",
+							"The Martinaise Militia",
+							"The Wild Pines Security"
+						]
+					},
+					{
+						"correct": "The Moralintern",
+						"difficulty": "Hard",
+						"explanation": "The building's history as a Moralintern 'communard' reflects the changing political tides of Revachol and the slow decay of its institutions.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The building now known as the Whirling-in-Rags was originally a community center founded by what pre-Revolution political entity?",
+						"wrong": [
+							"The Communist Party of Martinaise",
+							"The Suzerain of Revachol",
+							"The Frittte Corporation"
+						]
+					},
+					{
+						"correct": "A cryptozoolgist",
+						"difficulty": "Hard",
+						"explanation": "Her husband, Morell, is out searching for the legendary Insulindian Phasmid, a creature most believe to be a myth.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the profession of Lena's husband, for whom she is waiting in the lobby of the Whirling?",
+						"wrong": [
+							"A cartographer",
+							"A botanist",
+							"A historian"
+						]
+					},
+					{
+						"correct": "Klaasje Amandou",
+						"difficulty": "Hard",
+						"explanation": "Klaasje, the mysterious woman staying in the room next to Harry's, was the victim's lover and a central witness in the case.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/whirling-in-rags.webp",
+						"question": "Which character, found crying in the phone booth of the Whirling, eventually reveals the victim's name to the detectives?",
+						"wrong": [
+							"Ruby the instigator",
+							"The washerwoman",
+							"Miss Oranje Disco Dancer"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_whirling-in-rags",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Whirling-in-Rags",
+				"lore_desc": "The central hub of Martinaise, a combination cafeteria, bar, and hostel where Harry wakes up. It's home to a colorful cast of characters and the starting point for the murder investigation.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Hub",
+					"Martinaise"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A cryptid",
+						"difficulty": "Easy",
+						"explanation": "The Phasmid is a cryptid, a creature from folklore and legend whose existence is disputed or unsubstantiated, much like Bigfoot or the Loch Ness Monster.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Insulindian Phasmid is a legendary creature whose existence is unproven, making it what specific type of animal?",
+						"wrong": [
+							"A paledriver",
+							"A coleopteran",
+							"A samaran sand-wolf"
+						]
+					},
+					{
+						"correct": "Pheromones",
+						"difficulty": "Easy",
+						"explanation": "Lena posits that phasmids communicate using complex pheromonal signals, which are so potent they might even influence the emotions of humans nearby.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Lena, the cryptozoolgist's wife, believes that these giant 'stick insects' are able to communicate through what subtle, invisible means?",
+						"wrong": [
+							"Telepathy",
+							"Sonar clicks",
+							"Bioluminescence"
+						]
+					},
+					{
+						"correct": "Morell",
+						"difficulty": "Easy",
+						"explanation": "Morell, the devoted cryptozoologist, has spent years searching for the Insulindian Phasmid, a quest he passionately shares with his wife, Lena.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_insulindian_phasmid.webp",
+						"question": "The hunt for this creature is led by a husband-and-wife team of cryptozoologists. While the wife is Lena, what is her dedicated husband's name?",
+						"wrong": [
+							"Gary",
+							"Eugene",
+							"Leo"
+						]
+					},
+					{
+						"correct": "On the boardwalk",
+						"difficulty": "Easy",
+						"explanation": "Morell instructs you to place the pheromone trap on the rickety wooden boardwalk west of the fishing village, hoping to lure the creature out of the reeds.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "To help the cryptozoologists, you must place one of their pheromone traps in a specific location along the coast. Where do they ask you to set it up?",
+						"wrong": [
+							"In the fishing village",
+							"Inside the Flak Tower",
+							"On the abandoned fish market roof"
+						]
+					},
+					{
+						"correct": "The five reál note",
+						"difficulty": "Easy",
+						"explanation": "The five reál note features a stylized image of the Insulindian Phasmid, hinting at its cultural significance long before you begin your search.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The phasmid is such an iconic part of local Revacholian culture that its image is featured on a piece of currency. Which one is it?",
+						"wrong": [
+							"The ten cent piece",
+							"The one reál coin",
+							"The fifty reál note"
+						]
+					},
+					{
+						"correct": "Inland Empire",
+						"difficulty": "Medium",
+						"explanation": "A successful Inland Empire check allows the detective's vibrant intuition to bridge the gap between species, resulting in a surreal and philosophical conversation.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If you are able to finally meet the phasmid, which of your skills allows you to have a direct, profound conversation with it?",
+						"wrong": [
+							"Shivers",
+							"Esprit de Corps",
+							"Conceptualization"
+						]
+					},
+					{
+						"correct": "A photograph",
+						"difficulty": "Medium",
+						"explanation": "Using Morell's camera, you can capture a photograph of the magnificent creature, providing the first concrete proof of its existence and completing the cryptozoologists' life's work.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After your encounter with the majestic creature, what physical proof can you bring back to Lena and Morell to prove its existence?",
+						"wrong": [
+							"A shed antenna",
+							"A piece of its exoskeleton",
+							"A footprint casting"
+						]
+					},
+					{
+						"correct": "insectoid ",
+						"difficulty": "Medium",
+						"explanation": "The phasmid explains that it's a gestalt organism, a swarm of microscopic creatures called nécton, which explains its strange, almost dreamlike appearance.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_insulindian_phasmid.webp",
+						"question": "In your conversation, the phasmid reveals that it is not made of traditional matter, but is actually a massive colony of what microscopic organisms?",
+						"wrong": [
+							"Isotope-7",
+							"Pyro-Lye",
+							"Dolorian matter"
+						]
+					},
+					{
+						"correct": "Human thought",
+						"difficulty": "Medium",
+						"explanation": "The phasmid nourishes itself on the lingering residue of human consciousness, making it deeply, if passively, connected to the people of Martinaise.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The creature has a very unusual diet. Instead of plants, it claims to feed on the 'afterglow' of what phenomenon?",
+						"wrong": [
+							"Solar radiation",
+							"Geothermal energy",
+							"The Pale"
+						]
+					},
+					{
+						"correct": "The murder",
+						"difficulty": "Medium",
+						"explanation": "The ancient and empathetic creature was a silent witness to the hanging, describing the immense sadness and fear it felt from the victim as it happened.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Being a silent observer in the reeds, the phasmid tells you that it witnessed a terrible event across the water. What did it see?",
+						"wrong": [
+							"The deserter hiding",
+							"The RCM patrol boat arriving",
+							"The Union lynching"
+						]
+					},
+					{
+						"correct": "The Saramirizian Blue",
+						"difficulty": "Hard",
+						"explanation": "The Saramirizian Blue is a legendary variant of the phasmid, spoken of in cryptozoological circles with the same reverence as the Insulindian variety.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The cryptozoologist Morell mentions another famous phasmid from history, known for its distinctive and unusual coloration. What was its name?",
+						"wrong": [
+							"The Ozonne Crimson",
+							"The Ignusian Gold",
+							"The Semenese Black"
+						]
+					},
+					{
+						"correct": "Biting off your own antennae",
+						"difficulty": "Hard",
+						"explanation": "In its alien yet empathetic way, the phasmid likens the detective's amnesia to a form of self-mutilation, like an insect tearing off its own sensory organs.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_insulindian_phasmid.webp",
+						"question": "The phasmid compares the detective's self-inflicted amnesia to a form of violence against oneself, similar to what act for an insect?",
+						"wrong": [
+							"Shedding your own skin",
+							"Breaking your own legs",
+							"Forgetting how to fly"
+						]
+					},
+					{
+						"correct": "Insulindian reeds",
+						"difficulty": "Hard",
+						"explanation": "The phasmid gets its name from the Insulindian reeds where it makes its home, camouflaging perfectly within the coastal environment.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In what specific type of reeds does the phasmid live, which are also its namesake in the local language?",
+						"wrong": [
+							"Martinaise bullrushes",
+							"Sepal-grass",
+							"Dolorian flax"
+						]
+					},
+					{
+						"correct": "Micro-phasmids",
+						"difficulty": "Hard",
+						"explanation": "A successful Interfacing check allows you to intuit the truth before the visual reveal: the giant creature is a colonial organism, a swarm of billions of micro-phasmids.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Before it appears, a high Interfacing skill check with the pheromone trap can reveal the truth of the creature's nature: that it is made of 'billions' of what?",
+						"wrong": [
+							"Sentient spores",
+							"Light-particles",
+							"Crystalline structures"
+						]
+					},
+					{
+						"correct": "The Pale",
+						"difficulty": "Hard",
+						"explanation": "The ancient creature offers a unique perspective, suggesting that the Pale is a metaphysical scar on reality, formed by the weight of human history and information.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The phasmid explains that humanity's collective history and sorrow have created a vast and terrible phenomenon. What is it referring to?",
+						"wrong": [
+							"The Moralist International",
+							"The Revolution",
+							"The Antecentennial Revolution"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_the_insulindian_phasmid",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Insulindian Phasmid",
+				"lore_desc": "A legendary, semi-mythical cryptid said to inhabit the isles of Insulinde, a creature of immense size and sensitivity that is central to a key side quest.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Creature",
+					"Cryptid",
+					"Lore"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Cunoesse",
+						"difficulty": "Easy",
+						"explanation": "Cunoesse is Cuno's loyal, if often mistreated, partner in crime. Her name is simply a feminized version of his own.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cuno is almost always seen with his female sidekick, who often just echoes his aggressive sentiments. What is her name?",
+						"wrong": [
+							"Sylvie",
+							"Lena",
+							"Cindy"
+						]
+					},
+					{
+						"correct": "amphetamine ",
+						"difficulty": "Easy",
+						"explanation": "Cuno's aggressive and manic personality is fueled by his constant use of amphetamines, which he simply refers to as 'speed'.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What illicit substance is Cuno frequently seen using, which clearly contributes to his hyperactive and erratic behavior?",
+						"wrong": [
+							"Tobacco",
+							"Alcohol",
+							"Pyrholidon"
+						]
+					},
+					{
+						"correct": "Stones",
+						"difficulty": "Easy",
+						"explanation": "Your first interaction with Cuno involves him and Cunoesse throwing stones at the hanging man, an act of shocking disrespect that immediately establishes his character.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/cuno.webp",
+						"question": "Cuno is infamous for throwing what objects at the victim's body when you first encounter him near the crime scene?",
+						"wrong": [
+							"Darts",
+							"Bottles",
+							"Mud"
+						]
+					},
+					{
+						"correct": "The Whirling-in-Rags",
+						"difficulty": "Easy",
+						"explanation": "Cuno has claimed a small, dilapidated container behind the Whirling-in-Rags hotel and bar as his personal domain.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cuno's 'shack' is a repurposed structure in the backyard of which major Martinaise location?",
+						"wrong": [
+							"The Fishing Village",
+							"The FELD building",
+							"The Bookstore"
+						]
+					},
+					{
+						"correct": "The Cuno doesn't f***ing care.",
+						"difficulty": "Easy",
+						"explanation": "Cuno's defiant mantra perfectly encapsulates his nihilistic and aggressive worldview, as well as his habit of referring to himself in the third person.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Cuno's signature, constantly repeated catchphrase, which he always says in the third person?",
+						"wrong": [
+							"This is Cuno's turf!",
+							"Get lost, pig!",
+							"You can't handle the Cuno!"
+						]
+					},
+					{
+						"correct": "Cuno and the F***ing Pig",
+						"difficulty": "Medium",
+						"explanation": "In a rare moment of begrudging respect, Cuno offers to team up, christening the partnership with his typically vulgar flair.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If you manage to gain his respect, Cuno offers to become your partner. What name does he coin for this potential new crime-fighting duo?",
+						"wrong": [
+							"The Martinaise Murder Squad",
+							"Cops and Robbers",
+							"The Dynamic Duo"
+						]
+					},
+					{
+						"correct": "The Cuno's Da",
+						"difficulty": "Medium",
+						"explanation": "Cuno's tragic home life is revealed through his alcoholic and drug-addled father, who is only ever referred to by his relation to Cuno.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "You can find Cuno's abusive, drug-dealing father passed out in his apartment. How is this character referred to in the game?",
+						"wrong": [
+							"Roy",
+							"Scab Leader",
+							"The Sunday Friend"
+						]
+					},
+					{
+						"correct": "Being taken to a juvenarium",
+						"difficulty": "Medium",
+						"explanation": "Beneath the attitude, Cuno is terrified of being sent to an orphanage or 'juvenarium,' which explains his fierce and misguided attempts at independence.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/cuno.webp",
+						"question": "A successful Empathy check reveals Cuno's aggressive bravado is a front for a deep-seated fear of what?",
+						"wrong": [
+							"His father",
+							"The police",
+							"The Hardy Boys"
+						]
+					},
+					{
+						"correct": "Ultra-sound",
+						"difficulty": "Medium",
+						"explanation": "Cuno claims to have 'ultra-sound' hearing, which he uses to justify his wild claims, such as being able to hear the corpse's blood coagulating.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cuno boasts that he has a unique ability related to his hearing, claiming he can perceive things no one else can. What does he call this superpower?",
+						"wrong": [
+							"Echo-location",
+							"Pitch-perfect",
+							"Sonic-sense"
+						]
+					},
+					{
+						"correct": "Cuno",
+						"difficulty": "Medium",
+						"explanation": "In a shocking but memorable turn of events, Cuno can rise to the occasion and become your foul-mouthed but surprisingly loyal partner if Kim is put out of commission.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Under specific circumstances where Kim Kitsuragi is incapacitated, who can surprisingly step in to become your temporary partner for the game's climax?",
+						"wrong": [
+							"Measurehead",
+							"Titus Hardie",
+							"Evrart Claire"
+						]
+					},
+					{
+						"correct": "F*** THE WORLD",
+						"difficulty": "Hard",
+						"explanation": "The graffiti on Cuno's shack is a perfect, concise summary of his antagonistic and nihilistic philosophy.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "On the side of Cuno's shack is a piece of graffiti that perfectly summarizes his entire worldview. What two words are written there?",
+						"wrong": [
+							"CUNO RULES",
+							"PIG GO HOME",
+							"MARTINAISERO"
+						]
+					},
+					{
+						"correct": "A two-stroke engine",
+						"difficulty": "Hard",
+						"explanation": "When asked for a tool, Cuno bizarrely offers a loud and oily two-stroke engine, claiming it's 'multi-purpose' and could probably get the body down.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "During the autopsy, if you're desperate enough to ask Cuno for a 'tool' to help, what bizarre object does he offer you from his shack?",
+						"wrong": [
+							"A crowbar",
+							"A sledgehammer",
+							"A handsaw"
+						]
+					},
+					{
+						"correct": "A rabid little goblin-ape",
+						"difficulty": "Hard",
+						"explanation": "Your intuition personifies Cuno's primal rage and instability, seeing him not as a child, but as a screeching 'goblin-ape'.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/cuno.webp",
+						"question": "A high Inland Empire check while talking to Cuno can trigger a strange vision, causing you to perceive him not as a boy, but as what kind of animal?",
+						"wrong": [
+							"A snarling sewer-rat",
+							"A feral alley cat",
+							"A cornered badger"
+						]
+					},
+					{
+						"correct": "Cunoesse",
+						"difficulty": "Hard",
+						"explanation": "In a shocking twist, Cuno's report card is addressed to 'Cunoesse,' implying he adopted the masculine name 'Cuno' and gave his original name to his female friend.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If you investigate his father's apartment, you can find a report card that reveals Cuno's actual, rarely used first name. What is it?",
+						"wrong": [
+							"Kuno",
+							"Conrad",
+							"Cuno is his only name"
+						]
+					},
+					{
+						"correct": "CUNO",
+						"difficulty": "Hard",
+						"explanation": "When Cuno dons the RCM jacket, he proudly marks his new territory by scrawling his own name on the back, making the uniform his.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If Cuno becomes your partner, he takes Kim's jacket. What does he scrawl in huge letters on the back of it?",
+						"wrong": [
+							"PIG F***ER",
+							"ACAB",
+							"SPEED FREAK"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_cuno",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Cuno",
+				"lore_desc": "A loud, obnoxious, and speed-addled child who acts as a minor antagonist and potential ally in Martinaise. Cuno doesn't care.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Antagonist",
+					"Martinaise"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Thoughts",
+						"difficulty": "Easy",
+						"explanation": "The core of the system involves finding, equipping, and internalizing 'Thoughts' to shape the detective's personality and abilities.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the in-game term for the ideas you can equip in the Thought Cabinet to 'research' and eventually master them?",
+						"wrong": [
+							"Memories",
+							"Skills",
+							"Concepts"
+						]
+					},
+					{
+						"correct": "Problem",
+						"difficulty": "Easy",
+						"explanation": "While a thought is being researched, it presents a 'Problem,' temporarily lowering one or more of your skills until it's fully understood and a solution is reached.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When a new thought is first internalized, it often comes with a temporary stat penalty. What is this 'research' phase called?",
+						"wrong": [
+							"Debuff",
+							"Penalty",
+							"Hindrance"
+						]
+					},
+					{
+						"correct": "A skill point",
+						"difficulty": "Easy",
+						"explanation": "Forgetting is an active mental process. To remove a thought and its effects, you must spend a valuable skill point to represent the effort of un-learning something.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "To forget a completed thought and free up a slot in the cabinet, what resource must the detective spend?",
+						"wrong": [
+							"Reál",
+							"One hour of time",
+							"One point of Morale"
+						]
+					},
+					{
+						"correct": "Mazovian Socio-Economics",
+						"difficulty": "Easy",
+						"explanation": "Internalizing this thought allows you to build communism one dialogue choice at a time, granting you XP for espousing the theories of Kras Mazov.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_thought_cabinet.webp",
+						"question": "Which thought, derived from asking about politics, gives you experience points for every 'communist' dialogue option you choose?",
+						"wrong": [
+							"Revacholian Nationhood",
+							"The Fifteenth Indotribe",
+							"Homo-Sexual Underground"
+						]
+					},
+					{
+						"correct": "Lets you find money in the street",
+						"difficulty": "Medium",
+						"explanation": "The Hobocop thought rewires your brain to see the world as a source of scrap and treasure, highlighting loose change and valuable tare on the ground.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The 'Hobocop' thought is developed by asking people for money. Once completed, what unique benefit does it provide?",
+						"wrong": [
+							"Gives you discounts from vendors",
+							"Lets you sleep on benches for free",
+							"Helps you steal items more easily"
+						]
+					},
+					{
+						"correct": "Unbelievable Stand-Up of the Desperate",
+						"difficulty": "Medium",
+						"explanation": "This thought, born from constant failure, turns desperation into a strength, giving you a massive stat boost when you're on the verge of a mental breakdown.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which thought, developed from repeatedly failing checks, grants you +1 to ALL skills when your Morale is at its last point?",
+						"wrong": [
+							"Volumetric S*** Compressor",
+							"The Precarious World",
+							"Col Do Ma Ma Daqua"
+						]
+					},
+					{
+						"correct": "Endurance",
+						"difficulty": "Medium",
+						"explanation": "This toxic ideology makes you physically tougher by boosting Endurance, but it comes at the steep social cost of forever damaging your relationship with Kim Kitsuragi.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Internalizing 'Advanced Race Theory' after talking with Measurehead grants a bonus to which physical skill, much to Kim's disapproval?",
+						"wrong": [
+							"Logic",
+							"Empathy",
+							"Authority"
+						]
+					},
+					{
+						"correct": "A chance to gain extra reál",
+						"difficulty": "Medium",
+						"explanation": "This thought rewires your brain to see every interaction as a taxable event, giving you a 10% chance to find extra money whenever you gain experience.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The thought 'Indirect Modes of Taxation' is developed after discussing games with Siileng. What bonus does it grant when you click on dialogue orbs?",
+						"wrong": [
+							"A chance to heal Morale",
+							"A chance to gain extra skill points",
+							"A chance to gain double XP"
+						]
+					},
+					{
+						"correct": "The Wearing of the Armour",
+						"difficulty": "Medium",
+						"explanation": "This thought represents the armor becoming a part of your identity. Once it's locked in, the T-500 cuirass and greaves cannot be unequipped for the rest of the game.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_thought_cabinet.webp",
+						"question": "Which thought, developed from equipping the Fairweather T-500 armor, has the strange side effect of making it impossible to ever remove the armor?",
+						"wrong": [
+							"Man from Hjelmdall",
+							"Fairweather T-500 Armament",
+							"Rigid Uppercrust"
+						]
+					},
+					{
+						"correct": "The Head-Wrecker",
+						"difficulty": "Hard",
+						"explanation": "The 12th and final slot is named the Head-Wrecker, reflecting the profound and reality-altering nature of the thoughts that can be placed there.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the ominous name of the final, secret 12th thought slot that can only be unlocked near the end of the game?",
+						"wrong": [
+							"The Ego-Slot",
+							"The Subconscious",
+							"The Pineal Gland"
+						]
+					},
+					{
+						"correct": "Magnesium",
+						"difficulty": "Hard",
+						"explanation": "Believing you are a harbinger of the apocalypse somehow causes a dose of Magnesium, a health-restoring chemical, to manifest in your inventory each day upon waking.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The 'Cop of the Apocalypse' thought is unlocked by predicting the end of the world. What unique item does it cause to appear in your inventory each morning?",
+						"wrong": [
+							"A bottle of beer",
+							"A cigarette",
+							"A cryptic note"
+						]
+					},
+					{
+						"correct": "Anti-Object Task Force",
+						"difficulty": "Hard",
+						"explanation": "This thought solidifies your moral stance against racism but makes you clumsy, locking your Hand/Eye Coordination skill at its base level for the rest of the game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which thought, triggered by punching Measurehead, provides a bonus to Volition but permanently locks your Hand/Eye Coordination at 1?",
+						"wrong": [
+							"Finger on the Eject Button",
+							"The Wompty-Dompty Dom Centre",
+							"Overproductive Honour Glands"
+						]
+					},
+					{
+						"correct": "It resets all of them",
+						"difficulty": "Hard",
+						"explanation": "This profound thought represents a complete mental reset, unlocking and allowing you to re-attempt every single white skill check you have previously failed.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_thought_cabinet.webp",
+						"question": "The thought 'Jamais Vu (Derealization)' is triggered by repeatedly examining your empty ledger. When completed, what powerful effect does it have on white skill checks?",
+						"wrong": [
+							"It doubles their difficulty",
+							"It makes them free to retry",
+							"It guarantees success on the next one"
+						]
+					},
+					{
+						"correct": "The Sunday Friend",
+						"difficulty": "Hard",
+						"explanation": "You must tell the Sunday Friend that you are a 'boring, regular old cop' and a 'soldier of the law,' a key moralist phrase that opens the path to this thought.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "To unlock the moralist 'Kingdom of Conscience' thought, you must select a key dialogue option when speaking to which character about your role as a police officer?",
+						"wrong": [
+							"Joyce Messier",
+							"Evrart Claire",
+							"The Deserter"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_the_thought_cabinet",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Thought Cabinet",
+				"lore_desc": "A mental 'palace' where the detective can internalize and develop thoughts, gaining unique stat bonuses, penalties, and dialogue options.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Mechanic",
+					"Internal",
+					"Psychology"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Grey",
+						"difficulty": "Easy",
+						"explanation": "The Pale is an all-consuming, featureless greyness, a void where sensory information and the very laws of physics begin to break down.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Pale is an unnatural mist separating the continents of the world. What is its most commonly described color?",
+						"wrong": [
+							"White",
+							"Blue",
+							"Black"
+						]
+					},
+					{
+						"correct": "Paledriver",
+						"difficulty": "Easy",
+						"explanation": "Paledrivers are the brave or foolish souls who navigate the treacherous null-space of the Pale, a career with an extremely high rate of insanity and death.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the job title for someone who pilots a vehicle through the Pale, a profession known for being incredibly dangerous?",
+						"wrong": [
+							"Isola-hopper",
+							"Void-walker",
+							"Mist-sailor"
+						]
+					},
+					{
+						"correct": "Memory loss",
+						"difficulty": "Easy",
+						"explanation": "The Pale's primary danger is its erosion of information. It slowly dissolves memories, identities, and eventually, the mind itself.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to Joyce Messier, prolonged exposure to the Pale has a severe effect on the human mind, primarily causing what specific ailment?",
+						"wrong": [
+							"Hallucinations",
+							"Physical mutations",
+							"Accelerated aging"
+						]
+					},
+					{
+						"correct": "The Pale",
+						"difficulty": "Easy",
+						"explanation": "This dream symbolizes the detective's lost memories, with his 'ex-something' being consumed by the information-destroying fog of the Pale.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The detective has a recurring nightmare about his ex-fiancée, in which she stands on a pier and slowly fades into what phenomenon?",
+						"wrong": [
+							"The sea",
+							"A snowstorm",
+							"The city smog"
+						]
+					},
+					{
+						"correct": "A Pale Latitude Compressor",
+						"difficulty": "Easy",
+						"explanation": "These devices create a small bubble of stable reality around a vehicle, compressing the Pale and making transit possible, though still extremely hazardous.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_pale.webp",
+						"question": "What is the only known technology that can temporarily ward off the Pale's effects, allowing for transit between landmasses?",
+						"wrong": [
+							"A Reality Anchor",
+							"An Innocence Stabilizer",
+							"A Sensory Emitter"
+						]
+					},
+					{
+						"correct": "The accumulated weight of past events",
+						"difficulty": "Medium",
+						"explanation": "He theorizes that the Pale is humanity's past—all the data, history, and memory becoming so dense that it tears holes in the fabric of reality.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Deserter on the island has a complex theory about the Pale's origin, believing it to be a physical manifestation of what?",
+						"wrong": [
+							"A failed scientific experiment",
+							"A weapon from the revolution",
+							"An alien entity"
+						]
+					},
+					{
+						"correct": "All land will be consumed",
+						"difficulty": "Medium",
+						"explanation": "Joyce grimly states that the Pale's expansion is inevitable, and it's only a matter of decades or centuries before every isola in the world is swallowed by it.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Joyce Messier soberly informs you that the Pale is expanding. What is the predicted long-term fate of the world due to this expansion?",
+						"wrong": [
+							"A new ice age will begin",
+							"It will reverse its expansion",
+							"It will stabilize"
+						]
+					},
+					{
+						"correct": "A 2mm hole in reality",
+						"difficulty": "Medium",
+						"explanation": "A successful Shivers check reveals a tiny hole in the world behind the stained glass, a pinprick leading directly into the Pale's nothingness.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The old church in Martinaise contains a tiny, concentrated anomaly related to the Pale. What is it?",
+						"wrong": [
+							"A weeping stained-glass window",
+							"A whispering crucifix",
+							"A reflection of the future"
+						]
+					},
+					{
+						"correct": "Like he's being unwritten",
+						"difficulty": "Medium",
+						"explanation": "Kim's description perfectly captures the existential horror of the Pale—the feeling that one's very existence is being erased from the fabric of reality.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While crossing the water to the island, the normally stoic Kim Kitsuragi admits that being near the Pale gives him a specific, unsettling feeling. How does he describe it?",
+						"wrong": [
+							"Like he's being watched",
+							"Like he's freezing cold",
+							"Like he's falling"
+						]
+					},
+					{
+						"correct": "Human sorrow",
+						"difficulty": "Hard",
+						"explanation": "The ancient and empathetic cryptid suggests that the Pale is a metaphysical wound created by the sheer, accumulated weight of human sadness and history.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Insulindian Phasmid offers its own unique, ancient perspective on the Pale. What does the creature claim the Pale is made of?",
+						"wrong": [
+							"Forgotten gods",
+							"The absence of heat",
+							"Pure mathematics"
+						]
+					},
+					{
+						"correct": "Dora Ingerlund",
+						"difficulty": "Hard",
+						"explanation": "This ghostly message is from Dora Ingerlund, the detective's ex-fiancée, broadcasting from within the Pale years ago. Her words are a haunting echo from the past.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A very high Shivers check near the coast can trigger a ghostly radio broadcast from deep within the Pale. What is the name of the paledriver speaking?",
+						"wrong": [
+							"Guillaume Le Million",
+							"L-2 'The Lynx'",
+							"Kjelborg"
+						]
+					},
+					{
+						"correct": "An Innocence",
+						"difficulty": "Hard",
+						"explanation": "Innocences are god-like, arch-embryonic beings whose presence defines the reality of an isola, holding the all-consuming Pale at bay.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to the game's deep lore, what lies at the 'center' of each of the world's seven landmasses, acting as an anchor of reality against the Pale?",
+						"wrong": [
+							"A colossus",
+							"A tectonic plate",
+							"A singularity"
+						]
+					},
+					{
+						"correct": "Causality",
+						"difficulty": "Hard",
+						"explanation": "The Pale is so antithetical to reality that it doesn't just block signals; it warps the very principle of cause and effect, making it profoundly unpredictable and dangerous.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_pale.webp",
+						"question": "The game's narration states that the strange properties of the Pale bend not only radio waves, but also what other fundamental concept of reality?",
+						"wrong": [
+							"Gravity",
+							"Time",
+							"Light"
+						]
+					},
+					{
+						"correct": "Porch-rot",
+						"difficulty": "Hard",
+						"explanation": "He uses the term 'porch-rot' to describe the slow and inevitable way the Pale eats away at the edges of the world, making the cosmic horror feel chillingly familiar.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Deserter uses a specific, mundane term to describe the slow, creeping encroachment of the Pale into reality, like decay spreading through wood. What does he call it?",
+						"wrong": [
+							"Rust",
+							"Erosion",
+							"Entropy"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_the_pale",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Pale",
+				"lore_desc": "An unexplained, ever-expanding phenomenon of 'connective tissue' between the world's landmasses, characterized by sensory deprivation, memory loss, and the degradation of reality itself.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Phenomenon",
+					"Lore",
+					"Sci-Fi"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "In a tree behind the Whirling-in-Rags",
+						"difficulty": "Easy",
+						"explanation": "The grim discovery in the tree behind the local cafeteria and hostel is what kicks off the entire RCM investigation in Martinaise.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In what prominent location is the Hanged Man's body discovered at the start of the game?",
+						"wrong": [
+							"In the harbor's shipping containers",
+							"On the roof of the bookstore",
+							"In the abandoned Feld Building"
+						]
+					},
+					{
+						"correct": "The Hardie Boys",
+						"difficulty": "Easy",
+						"explanation": "The Hardie Boys, the Union's security force, confess to the crime early on, though the details of their story quickly begin to unravel.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The seven members of which self-proclaimed 'law and order' group initially take responsibility for the hanging?",
+						"wrong": [
+							"The Skulls",
+							"The Dockworkers' Union",
+							"The Moralintern"
+						]
+					},
+					{
+						"correct": "Pay for his damages and drinks",
+						"difficulty": "Easy",
+						"explanation": "Garte is more concerned about the 130 reál the deceased owes for his trashed room and beverages than the murder itself.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After a successful Suggestion check, what does the bartender Garte ask you to do regarding the victim's unpaid bill?",
+						"wrong": [
+							"Find his next of kin",
+							"Help clean his room",
+							"Bury his body properly"
+						]
+					},
+					{
+						"correct": "A bullet",
+						"difficulty": "Easy",
+						"explanation": "The field autopsy, if you can stomach it, reveals that the hanging was staged to cover up a murder by gunshot.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What critical piece of evidence is lodged in the victim's skull, revealing the true cause of death?",
+						"wrong": [
+							"A shard of glass",
+							"A knife fragment",
+							"A railroad spike"
+						]
+					},
+					{
+						"correct": "Ellis 'Lely' Kortenaer",
+						"difficulty": "Easy",
+						"explanation": "Known only by his nickname 'Lely', he was a sergeant in a mercenary company sent by Wild Pines.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the Hanged Man's real name, which is eventually uncovered during the investigation?",
+						"wrong": [
+							"Rene Arnoux",
+							"Jean-Luc Cousteau",
+							"Theo de Ruyter"
+						]
+					},
+					{
+						"correct": "His jacket",
+						"difficulty": "Medium",
+						"explanation": "The victim's impressive jacket is a key item. Kim Kitsuragi eventually retrieves it for the RCM, but the detective can acquire it for himself.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_hanged_man.webp",
+						"question": "This image shows the victim's most prominent piece of attire. What specific type of clothing is it?",
+						"wrong": [
+							"His boots",
+							"His hat",
+							"His scarf"
+						]
+					},
+					{
+						"correct": "Wild Pines",
+						"difficulty": "Medium",
+						"explanation": "Wild Pines Group hired Krenel, a private military company, to intimidate the striking union, which ultimately led to Lely's death.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The victim was a soldier from a mercenary company hired by which corporation to break the dockworkers' strike?",
+						"wrong": [
+							"Frittte",
+							"FALN",
+							"Coupris"
+						]
+					},
+					{
+						"correct": "Sergeant",
+						"difficulty": "Medium",
+						"explanation": "He was a Colonel in the Coalition military, but held the rank of Sergeant in the Krenel mercenary company.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What was the Hanged Man's military rank within his mercenary company?",
+						"wrong": [
+							"Colonel",
+							"Private",
+							"Captain"
+						]
+					},
+					{
+						"correct": "A deer",
+						"difficulty": "Medium",
+						"explanation": "The deer tattoo on his chest is a key identifying feature, linking him to his past and a specific conversation with Klaasje.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "During the autopsy, Dr. Lilianne Carter determines the victim has a very specific, unusual tattoo. What does it depict?",
+						"wrong": [
+							"A serpent",
+							"An anchor",
+							"A crown"
+						]
+					},
+					{
+						"correct": "Room #2",
+						"difficulty": "Medium",
+						"explanation": "He was staying next door to Klaasje, who was in Room #1, allowing her to overhear the events leading to his murder.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Hanged Man was staying in a room at the Whirling-in-Rags. Which room number was it?",
+						"wrong": [
+							"Room #1",
+							"The broom closet",
+							"The debtor's room"
+						]
+					},
+					{
+						"correct": "The medulla oblongata",
+						"difficulty": "Hard",
+						"explanation": "The shot was incredibly precise, severing the brain stem and causing instant death, a detail that points towards a highly skilled marksman.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_hanged_man.webp",
+						"question": "This image shows the state of the victim's body. A successful Visual Calculus check reveals the fatal shot destroyed which specific part of his anatomy?",
+						"wrong": [
+							"The left ventricle",
+							"The temporal lobe",
+							"The carotid artery"
+						]
+					},
+					{
+						"correct": "Attempted sexual assault",
+						"difficulty": "Hard",
+						"explanation": "Their fabricated story claims they were defending Klaasje's honor, a lie she initially corroborates to hide the truth about the Deserter.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to the Hardie Boys' initial confession, what specific offense did the Hanged Man commit against Klaasje to provoke them?",
+						"wrong": [
+							"Theft of union funds",
+							"Spying for Wild Pines",
+							"Vandalizing the cafeteria"
+						]
+					},
+					{
+						"correct": "Insulinde",
+						"difficulty": "Hard",
+						"explanation": "Krenel is a well-known mercenary outfit that has seen extensive action across the Insulindian isles, the setting of the game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The mercenary group the victim belonged to, Krenel, is infamous for its service in which foreign continent?",
+						"wrong": [
+							"Mundi",
+							"Graad",
+							"Revachol"
+						]
+					},
+					{
+						"correct": "Ceramic plate armor",
+						"difficulty": "Hard",
+						"explanation": "Despite being equipped with modern ceramic armor, the full metal jacket round penetrated it easily, a testament to the rifle's power.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_hanged_man.webp",
+						"question": "What type of armor does the Hanged Man wear, which Kim notes is surprisingly ineffective against the bullet that killed him?",
+						"wrong": [
+							"Steel plate armor",
+							"Fairweather T-500 armor",
+							"Standard issue RCM armor"
+						]
+					},
+					{
+						"correct": "Apricots",
+						"difficulty": "Hard",
+						"explanation": "In a surreal conversation, the victim's spirit complains of the lingering taste of apricot-flavored chewing gum, a recurring motif.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If you speak to his corpse via the Inland Empire skill, what does the Hanged Man complain about tasting?",
+						"wrong": [
+							"Cigarettes",
+							"Cheap alcohol",
+							"Gunpowder"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_the_hanged_man",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Hanged Man",
+				"lore_desc": "The central victim of the murder case in Martinaise. Found hanging from a tree behind the Whirling-in-Rags, his identity and the circumstances of his death are the driving force of the investigation.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Victim",
+					"Mystery",
+					"Martinaise"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Next door",
+						"difficulty": "Easy",
+						"explanation": "Her proximity allowed her to overhear the argument and subsequent gunshot, making her the most important witness in the case.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Klaasje is a key witness because her room at the Whirling-in-Rags is located where in relation to the Hanged Man's?",
+						"wrong": [
+							"Directly above",
+							"Across the hall",
+							"Two floors down"
+						]
+					},
+					{
+						"correct": "A market researcher",
+						"difficulty": "Easy",
+						"explanation": "She initially claims a mundane job to deflect suspicion from her true identity as a corporate intelligence operative.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When first asked about her profession, what does Klaasje claim to do for a living?",
+						"wrong": [
+							"A radio host",
+							"An artist",
+							"A trade unionist"
+						]
+					},
+					{
+						"correct": "Her phonograph records",
+						"difficulty": "Easy",
+						"explanation": "A successful perception check reveals a secret stash in her record case, hinting at her clandestine activities.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What object in her room can you examine to find a hidden compartment containing sensitive materials?",
+						"wrong": [
+							"Her ashtray",
+							"Her travel suitcase",
+							"The window frame"
+						]
+					},
+					{
+						"correct": "Blonde",
+						"difficulty": "Easy",
+						"explanation": "Her striking blonde hair and unique accent make her a memorable character in the dreary setting of Martinaise.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/klaasje_amandou.webp",
+						"question": "This image shows Klaasje's distinctive appearance. What color is her hair?",
+						"wrong": [
+							"Red",
+							"Brown",
+							"Black"
+						]
+					},
+					{
+						"correct": "Herself",
+						"difficulty": "Easy",
+						"explanation": "Her primary motivation is self-preservation, and she lies to deflect any attention that might expose her as a corporate spy.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Klaasje initially corroborates the Hardie Boys' story that they killed Lely in order to protect whom?",
+						"wrong": [
+							"The Union",
+							"Ruby",
+							"The Deserter"
+						]
+					},
+					{
+						"correct": "Moralintern",
+						"difficulty": "Medium",
+						"explanation": "She is an intelligence operative for the Moralintern, sent to monitor Wild Pines' anti-union activities.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Klaasje is not her real name. It is revealed she is a corporate spy working for what powerful organization?",
+						"wrong": [
+							"Wild Pines",
+							"The RCM",
+							"The Dockworkers' Union"
+						]
+					},
+					{
+						"correct": "A new class of armor-piercing ammunition",
+						"difficulty": "Medium",
+						"explanation": "Her true mission was to gather intelligence on a revolutionary new type of bullet being field-tested by Krenel mercenaries.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In her confession, Klaasje reveals she was trying to extract information from the Hanged Man about what?",
+						"wrong": [
+							"Union strike-breaking tactics",
+							"A hidden cache of weapons",
+							"The route of a smuggling ship"
+						]
+					},
+					{
+						"correct": "The Hanged Man",
+						"difficulty": "Medium",
+						"explanation": "It's the victim's jacket, which she took from his room. It's a key piece of evidence that can be acquired for the investigation (or for yourself).",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/klaasje_amandou.webp",
+						"question": "This image shows Klaasje in her room. To whom does the distinctive yellow jacket hanging by her door belong?",
+						"wrong": [
+							"Harry Du Bois",
+							"Kim Kitsuragi",
+							"Ruby the conspirator"
+						]
+					},
+					{
+						"correct": "Ruby",
+						"difficulty": "Medium",
+						"explanation": "She sends the RCM on a wild goose chase after Ruby, who she claims organized the murder, in order to protect the real shooter.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Klaasje directs you to a secondary suspect to deflect from the true killer. Who is this drug-addicted conspirator?",
+						"wrong": [
+							"Titus Hardie",
+							"The Deserter",
+							"Measurehead"
+						]
+					},
+					{
+						"correct": "The Törnskär",
+						"difficulty": "Medium",
+						"explanation": "Details from her passport reveal she arrived on the Törnskär, a vessel registered in a foreign archipelago.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the ship that Klaasje used to travel to Martinaise?",
+						"wrong": [
+							"The Orca",
+							"The Revacholier",
+							"The Dolorian"
+						]
+					},
+					{
+						"correct": "The Antecentennial Revolution",
+						"difficulty": "Hard",
+						"explanation": "She deserted her post during the revolution, an act that has had her on the run from her former employers ever since.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Moralintern branded Klaasje a 'traitor-deserter' for her actions during which past global event?",
+						"wrong": [
+							"The Isole-Civitatian War",
+							"The Apricot War",
+							"The Founding of Revachol"
+						]
+					},
+					{
+						"correct": "A radio-computer",
+						"difficulty": "Hard",
+						"explanation": "Hidden in her record case is an advanced, compact radio-computer, far beyond the typical technology found in Martinaise.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What specific type of technology does Klaasje use to communicate with her Moralintern handlers, found hidden in her room?",
+						"wrong": [
+							"A carrier pigeon",
+							"A dead drop in a mailbox",
+							"A teletype machine"
+						]
+					},
+					{
+						"correct": "Oranje",
+						"difficulty": "Hard",
+						"explanation": "Her unique accent is Oranje-Vespertine, a detail that can be picked up by a detective with a high Encyclopedia skill.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/klaasje_amandou.webp",
+						"question": "This image shows Klaasje's portrait. She is from a specific archipelago known for its distinctive accents. What is it called?",
+						"wrong": [
+							"The Pelerines",
+							"The Insulindian Archipelago",
+							"Samara"
+						]
+					},
+					{
+						"correct": "Shooting at a Radiocomputer",
+						"difficulty": "Hard",
+						"explanation": "She shot her own equipment in a fit of pique after a frustrating conversation with her superiors, a detail she fabricates a story to conceal.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Klaasje admits the bullet hole in her window was not from the murder, but from her doing what?",
+						"wrong": [
+							"Practicing her aim",
+							"A warning shot at Lely",
+							"Scaring away a drunk"
+						]
+					},
+					{
+						"correct": "Hitting a belt on a leather chair",
+						"difficulty": "Hard",
+						"explanation": "The entire tape is a performance designed to mislead the RCM, with the gunshot sound effect being created in a surprisingly low-tech way.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If you push her on the details, Klaasje admits the tape recording she gives you of the murder is a fake. What did she use to create the gunshot sound?",
+						"wrong": [
+							"Dropping a heavy book",
+							"Slamming the hotel room door",
+							"Smashing a bottle"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_klaasje_amandou",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Klaasje Amandou",
+				"lore_desc": "A mysterious and alluring woman staying at the Whirling-in-Rags. As the sole witness to the events in the victim's room, she is a central figure in the investigation, though her testimony is full of deception.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Witness",
+					"Spy",
+					"Femme Fatale"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Dockworkers' Union",
+						"difficulty": "Easy",
+						"explanation": "As the head of Local 57 of the Debardeurs' Union, Evrart Claire holds near-total control over the district of Martinaise.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Evrart Claire is the powerful and charismatic leader of what organization in Martinaise?",
+						"wrong": [
+							"The RCM Precinct 41",
+							"The Wild Pines Group",
+							"The Sunday Friends"
+						]
+					},
+					{
+						"correct": "A very ugly, uncomfortable chair",
+						"difficulty": "Easy",
+						"explanation": "Passing a difficult Pain Threshold check is required just to sit in the horrible chair opposite Evrart without complaining.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/evrart_claire.webp",
+						"question": "Evrart is infamous for the piece of furniture he sits on in his office, which causes the detective immense discomfort. What is it?",
+						"wrong": [
+							"A throne made of tires",
+							"A plush velvet sofa",
+							"A simple wooden stool"
+						]
+					},
+					{
+						"correct": "In a shipping container",
+						"difficulty": "Easy",
+						"explanation": "His makeshift office in a converted shipping container in the harbor is a testament to the union's grip on the district.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Where is Evrart Claire's 'office' located?",
+						"wrong": [
+							"In the back of the Whirling-in-Rags",
+							"On the top floor of the Feld Building",
+							"On a boat in the harbor"
+						]
+					},
+					{
+						"correct": "Measurehead",
+						"difficulty": "Easy",
+						"explanation": "Measurehead forces you to internalize his bizarre racial theories or find an alternate way into the harbor to meet his boss.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of Evrart's massive, hyper-racist head of security who guards the entrance to his office?",
+						"wrong": [
+							"Titus Hardie",
+							"Eugene 'The Pisser' Malclyffe",
+							"Call Me Mañana"
+						]
+					},
+					{
+						"correct": "Get two signatures for a petition",
+						"difficulty": "Easy",
+						"explanation": "His first seemingly simple request is to get signatures from two specific people to open a door for his 'youth program'.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Evrart offers to help your investigation by providing information. In return, what is the first 'favour' he asks of you?",
+						"wrong": [
+							"Intimidate a rival",
+							"Steal files from Wild Pines",
+							"Deliver a package"
+						]
+					},
+					{
+						"correct": "Edgar Claire",
+						"difficulty": "Medium",
+						"explanation": "Edgar handles the more delicate financial side of the union's business, and can be found in a separate container office.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of Evrart's more soft-spoken but equally cunning brother, who also works for the union?",
+						"wrong": [
+							"Titus Hardie",
+							"Rene Arnoux",
+							"Roy G. Bivol"
+						]
+					},
+					{
+						"correct": "The fishing village",
+						"difficulty": "Medium",
+						"explanation": "By opening the lock, you grant the union access to the fishing village, furthering Evrart's plan to expand his influence.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The second 'favour' Evrart asks of you involves opening the water lock to allow access to what location?",
+						"wrong": [
+							"The abandoned Feld Building",
+							"The sea fortress",
+							"The city of Jamrock"
+						]
+					},
+					{
+						"correct": "He makes you catch it from the air",
+						"difficulty": "Medium",
+						"explanation": "In a power move, he flicks the money into the air, forcing you to snatch it before it falls, reinforcing his dominance.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Evrart can be a source of cash for the detective, but he gives it in a very specific, demeaning way. How does he hand it to you?",
+						"wrong": [
+							"He leaves it on the table",
+							"He puts it directly in your hand",
+							"He sends it via his brother"
+						]
+					},
+					{
+						"correct": "The Debardeurs' Union",
+						"difficulty": "Medium",
+						"explanation": "While Evrart is the king of Martinaise, he is still part of the larger Debardeurs' Union that controls all of Revachol's port workers.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the larger, city-wide union organization that the Martinaise local belongs to?",
+						"wrong": [
+							"The Revachol Communist Party",
+							"The Moralintern",
+							"The International Trade Syndicate"
+						]
+					},
+					{
+						"correct": "The 'La Puta Madre' syndicate boss",
+						"difficulty": "Medium",
+						"explanation": "Eavesdropping reveals Evrart's deep connections to organized crime, as he negotiates with the infamous syndicate leader.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/evrart_claire.webp",
+						"question": "This image shows Evrart in his office. Passing an Interfacing check on the intercom allows you to listen in on his private calls. Who is he talking to?",
+						"wrong": [
+							"The RCM Precinct Captain",
+							"A Wild Pines executive",
+							"His mother"
+						]
+					},
+					{
+						"correct": "He was a union scab-hunter",
+						"difficulty": "Hard",
+						"explanation": "He falsely claims the victim was hired by the union to find scabs, a lie meant to obscure the man's real mission and sow confusion.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Evrart tells a very specific lie about the Hanged Man's employment status to mislead you. What does he claim?",
+						"wrong": [
+							"He was a Wild Pines negotiator",
+							"He was an undercover RCM officer",
+							"He was a disgruntled dockworker"
+						]
+					},
+					{
+						"correct": "A drug refinery",
+						"difficulty": "Hard",
+						"explanation": "A high Logic or Encyclopedia check reveals that the architectural plans are for a drug processing plant, not a youth center.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The petition Evrart wants you to get signed is to build a 'youth center'. What is this building's true purpose?",
+						"wrong": [
+							"A weapons cache",
+							"A smuggling warehouse",
+							"A private prison"
+						]
+					},
+					{
+						"correct": "The Kingdom of Conscience",
+						"difficulty": "Hard",
+						"explanation": "The 'Mazovian Socio-Economics' thought is unlocked by agreeing with his methods, causing the detective to analyze the world through a communistic lens.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Evrart's influence is so great that a thought can be unlocked in the Thought Cabinet about him, comparing his methods to what?",
+						"wrong": [
+							"The Moralintern",
+							"The Mazovian Socio-Economics",
+							"The Suzerainty of Revachol"
+						]
+					},
+					{
+						"correct": "He uses a cargo crane to lift you",
+						"difficulty": "Hard",
+						"explanation": "In a bizarre display of power, he has you stand on a platform which is then lifted by a crane to eye-level, refusing to cede any advantage.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If you refuse to sit in the uncomfortable chair, how does Evrart eventually get you to his level?",
+						"wrong": [
+							"He stands up from his chair",
+							"He meets you outside",
+							"He asks his brother to talk to you"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_evrart_claire",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Evrart Claire",
+				"lore_desc": "The enormously influential and physically immense head of the Martinaise Dockworkers' Union. He operates from a shipping container, offering 'help' to the detective that always comes with strings attached.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Union Boss",
+					"Political",
+					"Antagonist"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The RCM",
+						"difficulty": "Easy",
+						"explanation": "The Kineema is standard issue for the Revachol Citizens Militia, though Kim's is a particularly well-maintained model.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Kineema is the official motor carriage of which law enforcement organization?",
+						"wrong": [
+							"The Martinaise Union",
+							"Wild Pines Security",
+							"The Moralintern"
+						]
+					},
+					{
+						"correct": "Kim Kitsuragi",
+						"difficulty": "Easy",
+						"explanation": "Lieutenant Kitsuragi is meticulous in the care of his Kineema, and he is the only one who drives it during the investigation.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is the primary driver and caretaker of the Kineema that partners with you on the case?",
+						"wrong": [
+							"Jean Vicquemare",
+							"Titus Hardie",
+							"Lena the cryptozoolgist's wife"
+						]
+					},
+					{
+						"correct": "A pair of rubber gloves",
+						"difficulty": "Easy",
+						"explanation": "Kim insists on proper procedure, requiring you to fetch a pair of sanitary gloves from the car before examining the body.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What essential tool for the investigation must be retrieved from the Kineema's trunk before you can perform the field autopsy?",
+						"wrong": [
+							"A magnifying glass",
+							"A crowbar",
+							"A sample collection kit"
+						]
+					},
+					{
+						"correct": "Its radio",
+						"difficulty": "Easy",
+						"explanation": "The radio-telephone in the Kineema is your primary link to Precinct 41, allowing you to check in with your colleagues.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_kineema.webp",
+						"question": "This image shows the Kineema. What feature on its roof can be used to communicate with your precinct?",
+						"wrong": [
+							"Its siren",
+							"Its loudspeaker",
+							"Its satellite dish"
+						]
+					},
+					{
+						"correct": "The fishing village",
+						"difficulty": "Easy",
+						"explanation": "Once Evrart's favour is done and the water lock is open, the Kineema is the only way to cross the submerged road to the western part of Martinaise.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When the tide comes in after Day 2, the Kineema allows you to cross the water lock to reach which new area?",
+						"wrong": [
+							"The abandoned Feld Building",
+							"The city center",
+							"A remote island"
+						]
+					},
+					{
+						"correct": "The King of Carriages",
+						"difficulty": "Medium",
+						"explanation": "Even the hard-bitten scab leader shows respect for the Kineema's performance and legendary status among vehicle enthusiasts.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What nickname does the Scab Leader, a former lorry driver, give to the Kineema, acknowledging its reputation?",
+						"wrong": [
+							"The Tin Can",
+							"The White Whale",
+							"The RCM Express"
+						]
+					},
+					{
+						"correct": "A hubcap",
+						"difficulty": "Medium",
+						"explanation": "He claims to be a collector and refuses to cooperate until you find a missing Coupris Kineema hubcap for him.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The racist lorry driver, Siileng, complains about the Kineema's foreign origins and demands you find something specific. What part of the car is he looking for?",
+						"wrong": [
+							"A spark plug",
+							"The hood ornament",
+							"A side mirror"
+						]
+					},
+					{
+						"correct": "The Sunday Friend and 'The Pisser'",
+						"difficulty": "Medium",
+						"explanation": "These two drunks botch the siphoning job, stealing your fuel canister and some of the Kineema's gasoline for themselves.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When siphoning fuel for a Molotov cocktail, which two drunks by the water lock 'help' you, resulting in them stealing gas from the Kineema?",
+						"wrong": [
+							"The Hardie Boys",
+							"Cuno and Cunoesse",
+							"The Skulls"
+						]
+					},
+					{
+						"correct": "Coupris",
+						"difficulty": "Medium",
+						"explanation": "The vehicle is a Coupris Kineema, a brand known for its speed and performance, though Kim's model is an older, souped-up version.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_kineema.webp",
+						"question": "What is the full manufacturer name of the Kineema motor carriage?",
+						"wrong": [
+							"FALN",
+							"Feld",
+							"Wild Pines"
+						]
+					},
+					{
+						"correct": "Outside the old church",
+						"difficulty": "Medium",
+						"explanation": "Kim parks the car near the ravers' makeshift church, which becomes the new base of operations in the latter half of the game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After crossing the water lock, where can the Kineema be found parked for the remainder of the investigation?",
+						"wrong": [
+							"Next to the fishing shacks",
+							"In the hidden smugglers' cove",
+							"At the end of the boardwalk"
+						]
+					},
+					{
+						"correct": "Its silence at low speeds",
+						"difficulty": "Hard",
+						"explanation": "Kim boasts about the Kineema's 'acoustical stealth technology,' allowing it to move almost silently when not accelerating, perfect for police work.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_kineema.webp",
+						"question": "This image shows the Kineema's sleek design. According to Kim, what specific feature of its engine is he particularly proud of, relating to its sound?",
+						"wrong": [
+							"Its intimidating roar when accelerating",
+							"The high-pitched turbo whine",
+							"The backfire that sounds like a gunshot"
+						]
+					},
+					{
+						"correct": "'48",
+						"difficulty": "Hard",
+						"explanation": "A high Encyclopedia skill will allow the detective to identify the motor carriage as a Coupris Kineema, model of '48.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In what year of production was Kim's specific Kineema model manufactured?",
+						"wrong": [
+							"'51",
+							"'39",
+							"'44"
+						]
+					},
+					{
+						"correct": "The siren light",
+						"difficulty": "Hard",
+						"explanation": "A botched attempt can result in the body swinging down and smashing the Kineema's blue siren light, much to Kim's disapproval.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If you fail a crucial check while trying to get the Hanged Man down from the tree, what part of the Kineema gets damaged?",
+						"wrong": [
+							"The windshield",
+							"The front bumper",
+							"A tire"
+						]
+					},
+					{
+						"correct": "Hydro-pneumatic suspension",
+						"difficulty": "Hard",
+						"explanation": "Kim notes its advanced hydro-pneumatic suspension as one of the reasons for its superior handling and smooth ride.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Kineema has a specific, high-end type of suspension that Kim mentions. What is it called?",
+						"wrong": [
+							"Magnetic ride suspension",
+							"Leaf spring suspension",
+							"Airbag suspension"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_the_kineema",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Kineema",
+				"lore_desc": "The RCM's high-performance motor carriage. Maintained by Kim Kitsuragi, the Coupris Kineema is not just transportation but a mobile base of operations, a symbol of the RCM's authority, and a source of pride for your partner.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Vehicle",
+					"RCM",
+					"Equipment"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Whirling-in-Rags",
+						"difficulty": "Easy",
+						"explanation": "The Whirling-in-Rags is more than just a hostel; it's the heart of Martinaise, managed by the long-suffering Sylvie and home to a cast of colourful characters.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the dilapidated hotel and cafeteria that serves as the detective's initial base of operations in Martinaise?",
+						"wrong": [
+							"Frittte",
+							"The Pox",
+							"Débardeurs' Post"
+						]
+					},
+					{
+						"correct": "Cuno",
+						"difficulty": "Easy",
+						"explanation": "Cuno is the foul-mouthed, speed-addled terror of Martinaise, whose abrasive personality hides a tragic backstory.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A loud, obnoxious child duo constantly insults the detective. The boy of this pair is famously known by what name?",
+						"wrong": [
+							"Cunoesse",
+							"Eugene",
+							"Siileng"
+						]
+					},
+					{
+						"correct": "The Whirling-in-Rags",
+						"difficulty": "Easy",
+						"explanation": "The placement of the body in such a central, public location is one of the first clues that the murder was meant to send a message.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The central murder victim is found hanging from a tree behind which building?",
+						"wrong": [
+							"Frittte",
+							"The bookshop",
+							"The fishing village"
+						]
+					},
+					{
+						"correct": "Evrart Claire",
+						"difficulty": "Easy",
+						"explanation": "Evrart Claire, the 'Dabbler in Forgeries and Social Engineering', uses the detective's lost gun as leverage to get him to perform some less-than-legal tasks.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/martinaise.webp",
+						"question": "The detective must retrieve his service weapon from the clutches of which loud-mouthed leader of the Dockworker's Union?",
+						"wrong": [
+							"Edgar Claire",
+							"Titus Hardie",
+							"The Deserter"
+						]
+					},
+					{
+						"correct": "In the trash can",
+						"difficulty": "Easy",
+						"explanation": "The key is found in the garbage after being thrown away during the detective's amnesia-inducing bender, an early sign of his self-destructive tendencies.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The detective's room key for the Whirling-in-Rags is lost. Where does the amnesiac detective eventually find it?",
+						"wrong": [
+							"In his pocket",
+							"Under the bed",
+							"Lena has it"
+						]
+					},
+					{
+						"correct": "Crime, Romance, and Biographies of Famous People",
+						"difficulty": "Medium",
+						"explanation": "The bookstore is located inside the 'Doomed Commercial Area,' which has a supposed curse that drives businesses away. The owner, Plaisance, is trying to fight it.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the local bookstore run by a woman who is plagued by a mysterious 'curse'?",
+						"wrong": [
+							"Anodic Dance Music",
+							"The Grand Dame",
+							"Revachol West Books"
+						]
+					},
+					{
+						"correct": "An Insulindian Phasmid",
+						"difficulty": "Medium",
+						"explanation": "The Insulindian Phasmid is a legendary stick-insect of immense size, considered by most to be a myth. Its existence becomes a major plot point later in the game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Lena, the cryptozoolgist's wife, is waiting by the waterlock for her husband, Morell. What kind of creature are they searching for?",
+						"wrong": [
+							"A Col Do Ma Ma Daqua",
+							"A Wompty-Dompty-Dom",
+							"A Hypogean Behemoth"
+						]
+					},
+					{
+						"correct": "Suzerainty",
+						"difficulty": "Medium",
+						"explanation": "Suzerainty is a complex political board game that mirrors the power struggles of Revachol, and playing it can reveal much about the Claire brothers' philosophy.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/martinaise.webp",
+						"question": "What is the name of the cryptic board game that the detective can play with the Union boss Evrart Claire and his brother?",
+						"wrong": [
+							"Knights of the Old Code",
+							"The Coming of the Law",
+							"Insulindian Politics"
+						]
+					},
+					{
+						"correct": "Ceramic armor plating",
+						"difficulty": "Medium",
+						"explanation": "The high-tech ceramic plating on the victim's boots is an early indicator that he was not a simple dockworker, but a highly-trained professional.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Sylvie Malaika, a union worker, provides a crucial clue about the victim's boots. What distinctive feature did they have?",
+						"wrong": [
+							"Steel toes",
+							"Ornate silver buckles",
+							"Hidden compartments"
+						]
+					},
+					{
+						"correct": "L'Arroseur Arrosé",
+						"difficulty": "Hard",
+						"explanation": "L'Arroseur Arrosé translates to 'The Waterer Watered,' a reference to a pioneering 1895 comedy film, hinting at the farcical nature of his predicament.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The racist lorry driver is trying to get his cargo through the union blockade. What is the name of his haulage company?",
+						"wrong": [
+							"Frittte",
+							"Spinnaker",
+							"Korojev"
+						]
+					},
+					{
+						"correct": "The Moralist International",
+						"difficulty": "Hard",
+						"explanation": "The note is a coded message left by a Moralintern spy, a hint towards the broader geopolitical forces at play in Martinaise.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "An abandoned Fritte kiosk contains a hidden compartment with a note. This note is a reference to what historical Revacholian organization?",
+						"wrong": [
+							"The Communards",
+							"The Antecentennial Revolution",
+							"The Apricot-Scented Station"
+						]
+					},
+					{
+						"correct": "Georges",
+						"difficulty": "Hard",
+						"explanation": "The washerwoman's commentary on her husband Georges provides a slice-of-life glimpse into the hardships faced by the families of the striking dockworkers.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The working class woman washing clothes complains about her husband, a stevedore. What is her husband's name?",
+						"wrong": [
+							"Leo",
+							"Gary",
+							"Roy"
+						]
+					},
+					{
+						"correct": "Tioumoutiri",
+						"difficulty": "Hard",
+						"explanation": "Tioumoutiri was a philosopher-king of the Suresne dynasty, and the cigarette brand carrying his name is described as being particularly harsh.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/martinaise.webp",
+						"question": "The smoker on the balcony can be identified by the brand of cigarette he favors, which shares its name with what historical figure from the game's lore?",
+						"wrong": [
+							"Kras Mazov",
+							"Sola",
+							"Dolores Dei"
+						]
+					},
+					{
+						"correct": "Interfacing",
+						"difficulty": "Hard",
+						"explanation": "A high Interfacing skill is needed to jimmy the complex electronic lock on the door, leading to a hidden nightclub and a side quest involving Anodic Dance Music.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The 'cursed' commercial area has a hidden back room. Accessing it requires passing a difficult check related to which skill?",
+						"wrong": [
+							"Shivers",
+							"Half Light",
+							"Conceptualization"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_martinaise",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Martinaise",
+				"lore_desc": "The waterfront district of Revachol West where the game begins, a place of faded glory, union disputes, and a hanging corpse that kicks off a very strange week.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"District",
+					"Revachol"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Hardie Boys",
+						"difficulty": "Easy",
+						"explanation": "The Hardie Boys act as the de facto law in Martinaise during the strike, and their name is a simple, effective piece of branding by their leader.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Titus Hardie is the leader of a self-proclaimed 'citizens' militia' that patrols Martinaise. What is this group called?",
+						"wrong": [
+							"The Dockworkers' Union",
+							"The RCM",
+							"The Wild Pines Militia"
+						]
+					},
+					{
+						"correct": "His enormous arms",
+						"difficulty": "Easy",
+						"explanation": "Titus's seven-day-a-week arms are his defining physical trait, a testament to a life of hard labor and a clear threat to anyone who crosses him.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the most prominent and intimidating physical feature of Titus Hardie, often commented on by the detective's skills?",
+						"wrong": [
+							"His facial scars",
+							"His missing eye",
+							"His booming voice"
+						]
+					},
+					{
+						"correct": "In the Whirling-in-Rags",
+						"difficulty": "Easy",
+						"explanation": "The Hardie Boys corner the detectives in the main hall of the Whirling-in-Rags, establishing their dominance on their home turf.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Titus and his crew are prime suspects in the murder. Where do they initially confront the detective and Kim Kitsuragi?",
+						"wrong": [
+							"By the waterlock",
+							"At the crime scene",
+							"In the fishing village"
+						]
+					},
+					{
+						"correct": "A table",
+						"difficulty": "Easy",
+						"explanation": "In a show of strength and frustration, Titus cracks a solid wooden table with a single punch, a moment that can be used to intimidate him or show him you're not afraid.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/titus_hardie.webp",
+						"question": "During a tense confrontation, Titus slams his fist down, damaging a piece of furniture. What object does he break?",
+						"wrong": [
+							"A chair",
+							"A jukebox",
+							"A window"
+						]
+					},
+					{
+						"correct": "Klaasje",
+						"difficulty": "Easy",
+						"explanation": "Much of Titus's hostility stems from his desire to protect Klaasje, the mysterious woman who was in a relationship with the murder victim.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Titus Hardie is fiercely protective of a woman involved in the case, who he claims the victim assaulted. What is her name?",
+						"wrong": [
+							"Sylvie",
+							"Lena",
+							"Lilienne"
+						]
+					},
+					{
+						"correct": "They strung him up in the tree",
+						"difficulty": "Medium",
+						"explanation": "Titus admits the Hardie Boys found the victim's body and decided to stage a lynching to scare off the Wild Pines corporation, inadvertently creating a murder scene.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When finally confessing, Titus reveals that the Hardie Boys did not kill the victim but did do something else to his body. What was it?",
+						"wrong": [
+							"They buried him at sea",
+							"They hid his belongings",
+							"They moved him to the island"
+						]
+					},
+					{
+						"correct": "The man was shot, not lynched",
+						"difficulty": "Medium",
+						"explanation": "Titus is confident that a proper examination of the body will reveal a bullet wound, proving their innocence in the actual killing and shifting the focus of the case.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "To prove their story, Titus challenges the detective to an 'autopsy.' What specific piece of information does he claim an autopsy will reveal?",
+						"wrong": [
+							"The man was poisoned",
+							"The man died of a heart attack",
+							"The man had a pre-existing injury"
+						]
+					},
+					{
+						"correct": "Alain",
+						"difficulty": "Medium",
+						"explanation": "Alain acts as the group's unofficial spokesman after Titus, often interjecting with nervous energy and providing key details the others might omit.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/titus_hardie.webp",
+						"question": "Besides Titus, the Hardie Boys consist of four other core members. Which one is the youngest and most talkative?",
+						"wrong": [
+							"Eugene",
+							"Glen",
+							"Theo"
+						]
+					},
+					{
+						"correct": "Watching a boxing match",
+						"difficulty": "Medium",
+						"explanation": "The alibi of the Hardie Boys rests on them being with the 'Saturday Night Pals,' a group of old men who gather to watch boxing, making their story difficult to verify.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Titus's account of the murder night relies heavily on the testimony of the 'Saturday Night Pals,' who were doing what?",
+						"wrong": [
+							"Playing cards",
+							"Having a union meeting",
+							"Repairing a boat"
+						]
+					},
+					{
+						"correct": "Half Light",
+						"difficulty": "Hard",
+						"explanation": "A successful Half Light check lets the detective tap into his primal rage, promising extreme violence so convincingly that even Titus Hardie is momentarily stunned.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which specific skill check allows the detective to intimidate Titus into backing down during their first major confrontation?",
+						"wrong": [
+							"Authority",
+							"Physical Instrument",
+							"Composure"
+						]
+					},
+					{
+						"correct": "A mooring post",
+						"difficulty": "Hard",
+						"explanation": "In the chaotic firefight with the Krenel mercenaries, Titus rips a heavy iron mooring post from the ground to use as a club, a feat of incredible strength.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "During the tribunal, Titus wields a specific type of makeshift weapon against the mercenaries. What is it?",
+						"wrong": [
+							"A lead pipe",
+							"A crowbar",
+							"A fire axe"
+						]
+					},
+					{
+						"correct": "Balancing a bottle of beer on his head",
+						"difficulty": "Hard",
+						"explanation": "This small detail humanizes Titus and speaks to the unique culture and traditions of the Martinaise dockworkers, where even simple acts require immense balance and control.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Titus mentions his father was a 'champion docker.' What specific, unusual skill did his father possess?",
+						"wrong": [
+							"Tying knots with one hand",
+							"Lifting impossible weights",
+							"Whistling complex sea shanties"
+						]
+					},
+					{
+						"correct": "Glen",
+						"difficulty": "Hard",
+						"explanation": "Glen rarely speaks, communicating mostly through his actions and his nervous habit of whittling, a detail that makes him subtly stand out from the rest of the crew.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/titus_hardie.webp",
+						"question": "What is the name of the quietest member of the Hardie Boys, who is often seen whittling wood?",
+						"wrong": [
+							"Alain",
+							"Eugene",
+							"Theo"
+						]
+					},
+					{
+						"correct": "A jacket",
+						"difficulty": "Hard",
+						"explanation": "By proving his loyalty, the detective can earn the 'Hardie Boys' Black Jacket,' a symbol of his acceptance into their inner circle, at least for a while.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If the detective sides with the Union, Titus may offer a piece of gear as a sign of respect. What type of clothing item is it?",
+						"wrong": [
+							"A hat",
+							"A pair of boots",
+							"A pair of gloves"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_titus_hardie",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Titus Hardie",
+				"lore_desc": "The burly, imposing leader of the Hardie Boys, a self-appointed citizen's militia in Martinaise. He acts as a major obstacle and source of information in the murder investigation.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Character",
+					"Hardie Boys",
+					"Antagonist"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The City",
+						"difficulty": "Easy",
+						"explanation": "Shivers personifies the city of Revachol, allowing its 'spirit' to communicate directly with the detective, offering cryptic clues and poetic observations.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Shivers skill allows the detective to 'listen' to the whispers of what entity?",
+						"wrong": [
+							"The Dead",
+							"The Past",
+							"The Ocean"
+						]
+					},
+					{
+						"correct": "Psyche",
+						"difficulty": "Easy",
+						"explanation": "As a Psyche skill, Shivers is tied to the detective's soul and intuition, contrasting with the cold, hard facts of the Intellect skills.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Shivers belongs to which of the four main Attribute categories?",
+						"wrong": [
+							"Intellect",
+							"Physique",
+							"Motorics"
+						]
+					},
+					{
+						"correct": "A feeling of cold",
+						"difficulty": "Easy",
+						"explanation": "The skill gets its name from the literal shivers and goosebumps that run down the detective's spine when the city speaks to him.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "This skill often provides information in a poetic, metaphorical style, sometimes describing events happening far away. What sensation does it use to describe these visions?",
+						"wrong": [
+							"A ringing in the ears",
+							"A flash of light",
+							"A sense of deja vu"
+						]
+					},
+					{
+						"correct": "Amphibian Sports Visor",
+						"difficulty": "Easy",
+						"explanation": "A successful Shivers check near the coast reveals the location of this stylish visor, a small reward for being in tune with the city.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/shivers.webp",
+						"question": "Shivers can help the detective find a hidden treasure by the water. What specific piece of clothing can be found by listening to the 'spirit of the city'?",
+						"wrong": [
+							"T-500 Armor Cuirass",
+							"Fairweather T-500 Greaves",
+							"SARF-Military Jacket"
+						]
+					},
+					{
+						"correct": "Officer",
+						"difficulty": "Easy",
+						"explanation": "The city calls him 'Officer,' a simple, direct title that reinforces his role as an agent of order within its chaotic streets.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The voice of the city, when communicating through Shivers, often refers to the detective by what title?",
+						"wrong": [
+							"Detective",
+							"Sir",
+							"Pig"
+						]
+					},
+					{
+						"correct": "An old fort",
+						"difficulty": "Medium",
+						"explanation": "Looking at the old anti-aircraft fort on the island triggers a powerful Shivers check, providing a haunting vision of its history and the lonely man who now resides there.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A crucial Shivers check occurs when the detective stands on the coast, looking out towards a small, dilapidated structure. What is this structure?",
+						"wrong": [
+							"A lighthouse",
+							"A shipwreck",
+							"A radio tower"
+						]
+					},
+					{
+						"correct": "The arteries of Revachol",
+						"difficulty": "Medium",
+						"explanation": "This description portrays the city as a living, breathing organism, with roads and highways acting as the veins and arteries that carry its lifeblood.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When a high-level Shivers check succeeds, the text describes the city's infrastructure in great detail, referring to its road system as what?",
+						"wrong": [
+							"The concrete skeleton",
+							"The city's nervous system",
+							"The great machine"
+						]
+					},
+					{
+						"correct": "Inland Empire",
+						"difficulty": "Medium",
+						"explanation": "While Shivers communes with the city, Inland Empire communes with the detective's own strange subconscious, including inanimate objects and his necktie.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which other skill is considered the 'sister skill' to Shivers, also dealing with supernatural or extrasensory perception?",
+						"wrong": [
+							"Esprit de Corps",
+							"Conceptualization",
+							"Logic"
+						]
+					},
+					{
+						"correct": "A woman's face",
+						"difficulty": "Medium",
+						"explanation": "This vision hints at Klaasje's presence during the murder, a critical piece of the puzzle that Shivers can provide long before you get the full story.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/shivers.webp",
+						"question": "Near the end of the game, a successful Shivers check can provide a haunting vision of the murder victim's final moments. What does the city say was the last thing he saw?",
+						"wrong": [
+							"The barrel of a gun",
+							"His own reflection",
+							"The morning sun"
+						]
+					},
+					{
+						"correct": "In a postbox",
+						"difficulty": "Medium",
+						"explanation": "Shivers can guide the detective to a postbox containing money from the Sunday Friend, a mysterious benefactor who seems to know about the detective's financial troubles.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "This skill is particularly useful for locating a hidden stash belonging to a character known as the 'Sunday Friend'. Where is this stash hidden?",
+						"wrong": [
+							"Under a loose floorboard",
+							"In a chimney",
+							"Buried under the swings"
+						]
+					},
+					{
+						"correct": "The moment the statue was beheaded",
+						"difficulty": "Hard",
+						"explanation": "Shivers can tap into the historical residue of the location, letting the detective experience a brief, violent echo of the revolution that toppled the monarchy.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When the detective is near the statue of Filippe III, a high Shivers check can reveal a ghostly memory. What is the memory about?",
+						"wrong": [
+							"The king giving a speech",
+							"The construction of the statue",
+							"A secret admirer leaving a flower"
+						]
+					},
+					{
+						"correct": "The Deserter",
+						"difficulty": "Hard",
+						"explanation": "Only Shivers can truly connect the detective to the immense loneliness and historical weight of the Deserter, a communist soldier who never stopped fighting the war.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A very difficult Shivers check is required to fully understand the story of a character who lives in a tiny apartment above the bookstore. What is this character's name?",
+						"wrong": [
+							"The Gardener",
+							"The Sunday Friend",
+							"The Scab Leader"
+						]
+					},
+					{
+						"correct": "The small of your back",
+						"difficulty": "Hard",
+						"explanation": "This odd, specific detail in the skill's description adds to its strange and mystical nature, suggesting a deep, physical connection to the urban environment.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/shivers.webp",
+						"question": "The skill's description mentions raising the 'hairs on your arms' to receive information. Which specific part of the body does it claim to be the city's 'most sensitive organ'?",
+						"wrong": [
+							"The nape of your neck",
+							"The palms of your hands",
+							"The soles of your feet"
+						]
+					},
+					{
+						"correct": "The coming of the Moralintern",
+						"difficulty": "Hard",
+						"explanation": "Shivers warns of the arrival of the Moralintern, a powerful outside force whose 'pale' presence signals the end of Martinaise's isolation and the climax of the story.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In one of its most cryptic messages, Shivers whispers about a future event, mentioning a 'pale' vehicle. What is this a premonition of?",
+						"wrong": [
+							"The end of the world",
+							"A snowstorm",
+							"A new murder case"
+						]
+					},
+					{
+						"correct": "Indifferent",
+						"difficulty": "Hard",
+						"explanation": "When the detective fails to connect, Shivers reminds him that for all its whispers, the city is a vast, uncaring entity. 'The city is indifferent. As it always is.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The text for a failed Shivers check often describes the city as being something specific. What is it?",
+						"wrong": [
+							"Angry",
+							"Asleep",
+							"Laughing"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_shivers",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Shivers",
+				"lore_desc": "A passive Psyche skill that represents the detective's connection to the city itself. It grants strange, poetic insights, whispers from the streets, and a deep, almost extrasensory understanding of Martinaise and Revachol.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Skill",
+					"Psyche",
+					"Supernatural"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Amnesia",
+						"difficulty": "Easy",
+						"explanation": "Jamais Vu, meaning 'never seen,' perfectly describes the detective's state of mind, where even the most common objects and concepts are alien to him.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The thought Jamais Vu is a direct reflection of the detective's most significant problem at the start of the game. What is this problem?",
+						"wrong": [
+							"Alcoholism",
+							"Depression",
+							"Poverty"
+						]
+					},
+					{
+						"correct": "Thoughts",
+						"difficulty": "Easy",
+						"explanation": "The Thought Cabinet is a unique system where the detective can 'internalize' different ideologies or concepts—called Thoughts—to gain permanent bonuses and penalties.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Jamais Vu belongs to the 'Thought Cabinet,' a game mechanic representing the detective's mind. What do you 'equip' in the Thought Cabinet?",
+						"wrong": [
+							"Memories",
+							"Skills",
+							"Items"
+						]
+					},
+					{
+						"correct": "Gaining extra experience (XP)",
+						"difficulty": "Easy",
+						"explanation": "Jamais Vu turns the detective's ignorance into a strength, granting +1 XP every time he interacts with a new concept, which happens frequently due to his amnesia.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the primary *benefit* of internalizing the Jamais Vu thought?",
+						"wrong": [
+							"Increasing health",
+							"Boosting all skills",
+							"Making money"
+						]
+					},
+					{
+						"correct": "Déjà vu",
+						"difficulty": "Easy",
+						"explanation": "While Déjà vu is the eerie feeling of having experienced something before, Jamais Vu is the unsettling feeling of experiencing something familiar as if it's completely new.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/jamais_vu.webp",
+						"question": "The description of Jamais Vu uses a French term that means 'never seen.' It is the opposite of which more common French term meaning 'already seen'?",
+						"wrong": [
+							"C'est la vie",
+							"Faux pas",
+							"Bon voyage"
+						]
+					},
+					{
+						"correct": "Lowers all Intellect skill caps",
+						"difficulty": "Medium",
+						"explanation": "The trade-off for seeing the world anew is a reduced capacity for learning, represented by a -1 penalty to the learning caps of all Intellect skills.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While Jamais Vu provides an XP bonus, what is its primary *drawback* once internalized?",
+						"wrong": [
+							"Lowers all Psyche skill caps",
+							"Prevents fast travel",
+							"Costs money to unequip"
+						]
+					},
+					{
+						"correct": "By passing a Rhetoric or Logic check",
+						"difficulty": "Medium",
+						"explanation": "The thought becomes available very early in the game when you confess your memory loss to Kim Kitsuragi, turning your debilitating condition into a tangible game mechanic.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How does the detective initially acquire the Jamais Vu thought, making it available for research in the Thought Cabinet?",
+						"wrong": [
+							"By reading a specific book",
+							"By looking in the mirror",
+							"By failing a specific skill check"
+						]
+					},
+					{
+						"correct": "The memory loss",
+						"difficulty": "Medium",
+						"explanation": "This haunting line suggests that the detective's amnesia might not be a temporary state, but a fundamental and permanent change to his being.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The thought's description reads: 'The world is brand new. Every day. Forever.' This is a reference to the potential permanence of what?",
+						"wrong": [
+							"The murder case",
+							"The union strike",
+							"His partnership with Kim"
+						]
+					},
+					{
+						"correct": "Shpadoinkles",
+						"difficulty": "Medium",
+						"explanation": "The term 'shpadoinkle' is a quirky, nonsensical word that perfectly fits the game's offbeat tone for describing these clickable lore objects.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/jamais_vu.webp",
+						"question": "Jamais Vu grants +1 XP for clicking on blue orbs. What specific in-game term is used for these interactive environmental details?",
+						"wrong": [
+							"Orbs of cognition",
+							"Mind nodes",
+							"Lore bubbles"
+						]
+					},
+					{
+						"correct": "Several in-game hours",
+						"difficulty": "Medium",
+						"explanation": "Internalizing thoughts takes time, which passes as you engage in conversations. You must ponder the idea before it becomes a permanent part of your personality.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Once a thought is fully 'internalized' in the Thought Cabinet, it provides a permanent bonus or change. How long does it typically take to internalize a thought like Jamais Vu?",
+						"wrong": [
+							"Instantly",
+							"One full day",
+							"Until you level up"
+						]
+					},
+					{
+						"correct": "Savoir Faire",
+						"difficulty": "Hard",
+						"explanation": "Savoir Faire, the skill of navigating the world with grace and style, belongs to the Motorics attribute, governing movement and dexterity.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Jamais Vu thought falls under the Intellect attribute. Which of the following is NOT an Intellect skill?",
+						"wrong": [
+							"Logic",
+							"Encyclopedia",
+							"Rhetoric"
+						]
+					},
+					{
+						"correct": "Tequila Sunset",
+						"difficulty": "Hard",
+						"explanation": "'Tequila Sunset' is one of the many nicknames for the detective's past self, a man so defined by his spectacular flameout that it was given a name.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The solution to the thought describes the detective as 'a new man' who 'left the other one behind in a sea of booze and regret.' What name does the game give to this 'other one'?",
+						"wrong": [
+							"The Expression",
+							"The Hobocop",
+							"The Superstar"
+						]
+					},
+					{
+						"correct": "Volition",
+						"difficulty": "Hard",
+						"explanation": "Forgetting a part of yourself requires immense willpower. In game terms, this means spending a valuable Volition skill point to clear a slot in the Thought Cabinet.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/jamais_vu.webp",
+						"question": "Forgetting a thought costs one point in a specific skill. Which skill is used as a resource to 'forget' thoughts in the cabinet?",
+						"wrong": [
+							"Logic",
+							"Pain Threshold",
+							"Conceptualization"
+						]
+					},
+					{
+						"correct": "XP Farming",
+						"difficulty": "Hard",
+						"explanation": "Players who internalize Jamais Vu early can 'farm' XP by clicking every blue orb they see, allowing them to level up much faster than they otherwise would.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The thought's bonus XP is particularly useful for players trying to level up quickly. This strategy is often referred to by players as what?",
+						"wrong": [
+							"Thought Grinding",
+							"Skill Rushing",
+							"Cabinet Maxing"
+						]
+					},
+					{
+						"correct": "The Fifteenth Indotribe",
+						"difficulty": "Hard",
+						"explanation": "The Fifteenth Indotribe provides XP for clicking white orbs (character thoughts), creating a powerful XP-generating combo with Jamais Vu's bonus from blue orbs.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If Jamais Vu is internalized, which other thought provides a strong synergy by also granting XP for clicking orbs, specifically the white ones?",
+						"wrong": [
+							"Volumetric Shit Compressor",
+							"The Precarious World",
+							"Lonesome Long Way Home"
+						]
+					}
+				]
+			},
+			"id": "disco_elysium_jamais_vu",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Jamais Vu",
+				"lore_desc": "A thought from the Thought Cabinet that encapsulates the detective's profound amnesia. It describes the feeling of experiencing familiar things as if for the first time, granting bonus XP for interacting with the world.",
+				"theme_origin": "disco elysium",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Thought",
+					"Intellect",
+					"Amnesia"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -151017,12 +154404,193 @@
 					"name": "Collectibles"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Hog",
 						"Crash Bandicoot"
 					],
 					"name": "Hang on !"
+				}
+			]
+		},
+		{
+			"id": "disco elysium",
+			"synergies": [
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Harry Du Bois",
+						"Kim Kitsuragi"
+					],
+					"name": "The Partnership"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Harry Du Bois",
+						"The Horrific Necktie"
+					],
+					"name": "Dressed for the Role"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Hanged Man",
+						"Whirling-in-Rags"
+					],
+					"name": "The Crime Scene"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Hanged Man",
+						"Klaasje Amandou"
+					],
+					"name": "Murder Investigation"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Evrart Claire",
+						"Titus Hardie"
+					],
+					"name": "Union vs Corporation"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Cuno",
+						"Martinaise"
+					],
+					"name": "The Little Lamb"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Pale",
+						"Martinaise"
+					],
+					"name": "Silence and Decay"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Pale",
+						"Shivers"
+					],
+					"name": "The Unseen Walls"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jamais Vu",
+						"The Insulindian Phasmid"
+					],
+					"name": "Things That Shouldn't Exist"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Thought Cabinet",
+						"Shivers"
+					],
+					"name": "Inside Harry's Head"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Kim Kitsuragi",
+						"The Kineema"
+					],
+					"name": "The Getaway Car"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Klaasje Amandou",
+						"Evrart Claire"
+					],
+					"name": "Capitalist Realism"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jamais Vu",
+						"The Thought Cabinet"
+					],
+					"name": "Déjà Vu, Jamais Vu"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Harry Du Bois",
+						"Kim Kitsuragi",
+						"The Kineema"
+					],
+					"name": "The RCM"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Harry Du Bois",
+						"The Hanged Man",
+						"Klaasje Amandou"
+					],
+					"name": "The Case File"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Evrart Claire",
+						"Titus Hardie",
+						"Martinaise"
+					],
+					"name": "The Strike"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Jamais Vu",
+						"Shivers",
+						"The Insulindian Phasmid"
+					],
+					"name": "Cryptid Hunt"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Pale",
+						"Shivers",
+						"The Insulindian Phasmid"
+					],
+					"name": "Existential Horror"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Whirling-in-Rags",
+						"Klaasje Amandou",
+						"The Hanged Man"
+					],
+					"name": "The Whirling Crime"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Harry Du Bois",
+						"The Thought Cabinet",
+						"Shivers"
+					],
+					"name": "Harry's Fragmented Mind"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Evrart Claire",
+						"Titus Hardie",
+						"Klaasje Amandou"
+					],
+					"name": "The Great Revolution"
 				}
 			]
 		}
