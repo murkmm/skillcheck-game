@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776763998,
+	"last_updated": 1776850018,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2294,6 +2294,51 @@
 				"crash_bandicoot_1_aku_aku",
 				"crash_bandicoot_1_dr._neo_cortex",
 				"crash_bandicoot_1_crash_bandicoot"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-23": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Disco Elysium: The Return of the Hanged Man",
+			"share_text": "Horrific Necktie. Still Alive. Somehow.",
+			"shops": [
+				{
+					"p1": "extra_life",
+					"p2": "piggy_bank"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "multitap"
+				},
+				{
+					"p1": "lucky_dice",
+					"p2": "double_adapter"
+				}
+			],
+			"showcase": [
+				"disco_elysium_harry_du_bois",
+				"disco_elysium_kim_kitsuragi",
+				"disco_elysium_cuno"
+			],
+			"starters": [
+				"disco_elysium_harry_du_bois",
+				"disco_elysium_kim_kitsuragi",
+				"disco_elysium_the_horrific_necktie",
+				"disco_elysium_whirling-in-rags",
+				"disco_elysium_the_insulindian_phasmid",
+				"disco_elysium_cuno",
+				"disco_elysium_the_thought_cabinet",
+				"disco_elysium_the_pale",
+				"disco_elysium_the_hanged_man",
+				"disco_elysium_klaasje_amandou",
+				"disco_elysium_evrart_claire",
+				"disco_elysium_the_kineema",
+				"disco_elysium_martinaise",
+				"disco_elysium_titus_hardie",
+				"disco_elysium_shivers",
+				"disco_elysium_jamais_vu"
 			],
 			"submitted_by": ""
 		}
