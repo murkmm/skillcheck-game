@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776850018,
+	"last_updated": 1776851422,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2339,6 +2339,51 @@
 				"disco_elysium_titus_hardie",
 				"disco_elysium_shivers",
 				"disco_elysium_jamais_vu"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-24": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Baldur's Gate 3: Absolutely Tadpoled",
+			"share_text": "Natural 20. The Absolute would be proud.",
+			"shops": [
+				{
+					"p1": "lucky_dice",
+					"p2": "quick_save"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "quick_save"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "piggy_bank"
+				}
+			],
+			"showcase": [
+				"baldur's_gate_3_astarion",
+				"baldur's_gate_3_shadowheart",
+				"baldur's_gate_3_karlach"
+			],
+			"starters": [
+				"baldur's_gate_3_astarion",
+				"baldur's_gate_3_shadowheart",
+				"baldur's_gate_3_karlach",
+				"baldur's_gate_3_gale",
+				"baldur's_gate_3_lae'zel",
+				"baldur's_gate_3_mind_flayer_parasite",
+				"baldur's_gate_3_the_absolute",
+				"baldur's_gate_3_baldur's_gate",
+				"baldur's_gate_3_raphael",
+				"baldur's_gate_3_the_emperor",
+				"baldur's_gate_3_ketheric_thorm",
+				"baldur's_gate_3_mind_flayer",
+				"baldur's_gate_3_owlbear_cub",
+				"baldur's_gate_3_the_astral_prism",
+				"baldur's_gate_3_the_nautiloid",
+				"baldur's_gate_3_house_of_hope"
 			],
 			"submitted_by": ""
 		}
