@@ -148326,6 +148326,3270 @@
 					"Amnesia"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Baldur's Gate",
+						"difficulty": "Easy",
+						"explanation": "Astarion was a magistrate in Baldur's Gate before his transformation and served his master Cazador within the city's walls for 200 years.",
+						"image_url": "",
+						"question": "For two centuries, Astarion was an unwilling servant to a powerful vampire lord in which major city?",
+						"wrong": [
+							"Waterdeep",
+							"Neverwinter",
+							"Athkatla"
+						]
+					},
+					{
+						"correct": "Cazador Szarr",
+						"difficulty": "Easy",
+						"explanation": "Cazador Szarr is the cruel master who turned Astarion and carved a poem into his back as part of a diabolical ritual.",
+						"image_url": "",
+						"question": "What is the name of the sadistic vampire master Astarion served, who seeks to become a Vampire Ascendant?",
+						"wrong": [
+							"Strahd von Zarovich",
+							"Lord Soth",
+							"Viconia DeVir"
+						]
+					},
+					{
+						"correct": "Rogue",
+						"difficulty": "Easy",
+						"explanation": "Astarion begins as a Rogue, reflecting his silver tongue, nimble fingers, and a talent for a deadly backstab.",
+						"image_url": "",
+						"question": "When you first meet him, this pale elf is trying to fend off a monster. What is Astarion's starting character class?",
+						"wrong": [
+							"Ranger",
+							"Fighter",
+							"Bard"
+						]
+					},
+					{
+						"correct": "Vampire Bite",
+						"difficulty": "Easy",
+						"explanation": "His Vampire Bite not only damages a target but also heals him, and can leave a target 'Bloodless'.",
+						"image_url": "",
+						"question": "Astarion's vampiric nature grants him a special bite attack. What is the name of this unique action?",
+						"wrong": [
+							"Blood Drain",
+							"Exsanguinate",
+							"Sanguine Lash"
+						]
+					},
+					{
+						"correct": "Walk in the sun",
+						"difficulty": "Easy",
+						"explanation": "The Illithid parasite blocks the sun's burning effects, giving Astarion a freedom he hasn't known in centuries.",
+						"image_url": "",
+						"question": "The strange tadpole has an unusual side effect for Astarion, allowing him to do something impossible for other vampire spawn. What is it?",
+						"wrong": [
+							"Cross running water",
+							"Enter homes uninvited",
+							"See his reflection"
+						]
+					},
+					{
+						"correct": "Infernal",
+						"difficulty": "Medium",
+						"explanation": "The text is written in the language of devils, part of a pact made between Cazador and the archdevil Mephistopheles.",
+						"image_url": "https://skillcheckgame.com/assets/images/astarion.webp",
+						"question": "Astarion has intricate, poem-like carvings on his back, forming part of a diabolical contract. What type of fiendish text is it written in?",
+						"wrong": [
+							"Abyssal",
+							"Celestial",
+							"Draconic"
+						]
+					},
+					{
+						"correct": "The Rite of Profane Ascension",
+						"difficulty": "Medium",
+						"explanation": "This dark ritual requires sacrificing thousands of souls to transform the caster into a nearly unstoppable Vampire Ascendant.",
+						"image_url": "",
+						"question": "What is the name of the grand, diabolical ritual Cazador intends to perform using Astarion and his six sibling spawn?",
+						"wrong": [
+							"The Grand Design",
+							"The Pact of the Chain",
+							"The Weave's Unraveling"
+						]
+					},
+					{
+						"correct": "A Dead Raven",
+						"difficulty": "Medium",
+						"explanation": "Reading the plaque on the 'grave' reveals it was for a pet raven named 'Astarion' owned by a little girl, a humorous red herring for players.",
+						"image_url": "",
+						"question": "You can find Astarion's 'very own' grave in a graveyard. What's the comically mundane item buried there instead of a body?",
+						"wrong": [
+							"An Empty Wine Bottle",
+							"A Single Boot",
+							"A Bag of Teeth"
+						]
+					},
+					{
+						"correct": "Gandrel",
+						"difficulty": "Medium",
+						"explanation": "Gandrel is a Gur, a monster hunter whose people were tasked by the Szarrs to hunt down Astarion's fellow spawn.",
+						"image_url": "",
+						"question": "Which monster hunter corners Astarion near the swamps, seeking revenge for a past victim of his vampiric hunger?",
+						"wrong": [
+							"Aradin",
+							"Rugan",
+							"He Who Was"
+						]
+					},
+					{
+						"correct": "Vampire Ascendant",
+						"difficulty": "Medium",
+						"explanation": "Becoming a Vampire Ascendant grants him incredible new powers, including a misty escape form and the ability to dominate his foes.",
+						"image_url": "",
+						"question": "If Astarion completes the Rite of Profane Ascension, he gains a powerful new vampiric form. What is this form called?",
+						"wrong": [
+							"True Vampire",
+							"Vampire Lord",
+							"Daywalker"
+						]
+					},
+					{
+						"correct": "Salazon",
+						"difficulty": "Hard",
+						"explanation": "Salazon is the gate guard of Cazador's palace, not one of the seven spawn required for the ritual. The other six are Petras, Dalyria, Leon, Violet, Aurilia, and Yousen.",
+						"image_url": "https://skillcheckgame.com/assets/images/astarion.webp",
+						"question": "In Cazador's palace, you can find the tormented bodies of Astarion's fellow vampire spawn. Which of these is NOT one of his 'siblings'?",
+						"wrong": [
+							"Petras",
+							"Dalyria",
+							"Leon"
+						]
+					},
+					{
+						"correct": "The Vicious Verses",
+						"difficulty": "Hard",
+						"explanation": "Each of the seven spawn has a different section of the Vicious Verses carved on their back, which together form the infernal contract.",
+						"image_url": "",
+						"question": "The poem carved on Astarion's back is part of a larger piece. What is the name of this multi-part poem?",
+						"wrong": [
+							"The Canticle of Cazador",
+							"The Rhyme of the Damned",
+							"The Szarr Family Sonnet"
+						]
+					},
+					{
+						"correct": "The Pale Elf",
+						"difficulty": "Hard",
+						"explanation": "Unusually, Astarion's quest name remains 'The Pale Elf' from the moment you recruit him to the very end of his personal story.",
+						"image_url": "",
+						"question": "Astarion's personal quest is titled 'The Pale Elf'. What is the final chapter of this questline named?",
+						"wrong": [
+							"Astarion's Ascension",
+							"The Szarr Palace",
+							"Free the Vampire Spawn"
+						]
+					},
+					{
+						"correct": "The Player Character",
+						"difficulty": "Hard",
+						"explanation": "Astarion's first attempt to feed at camp will always be on the player character, leading to the full revelation of his vampiric nature.",
+						"image_url": "https://skillcheckgame.com/assets/images/astarion.webp",
+						"question": "If you allow him, Astarion will attempt to feed on a companion in the night. According to the default story progression, who is his first choice of victim?",
+						"wrong": [
+							"Lae'zel",
+							"Gale",
+							"Shadowheart"
+						]
+					},
+					{
+						"correct": "The Gur",
+						"difficulty": "Hard",
+						"explanation": "The Gur are a nomadic people of monster hunters. Astarion sentenced many of their children to be devoured by werewolves, leading to the attack that left him for dead and found by Cazador.",
+						"image_url": "",
+						"question": "In a note found in his crypt, you learn Astarion was attacked by a group he angered in his mortal life as a corrupt magistrate. What was this group called?",
+						"wrong": [
+							"The Zhentarim",
+							"The Flaming Fist",
+							"The Harpers"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_astarion",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Astarion",
+				"lore_desc": "A charming and cunning vampire spawn who spent centuries as a slave to a cruel master. Freed by the nautiloid's crash, he now walks in the sun for the first time, grappling with his newfound liberty and a thirst for power.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Vampire",
+					"Rogue"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Shar",
+						"difficulty": "Easy",
+						"explanation": "Her worship of Shar, the Lady of Loss, is central to her identity and personal quest for much of the game.",
+						"image_url": "",
+						"question": "Shadowheart is a devout follower of which goddess of darkness, loss, and secrets?",
+						"wrong": [
+							"Selûne",
+							"Mystra",
+							"Lolth"
+						]
+					},
+					{
+						"correct": "The Astral Prism",
+						"difficulty": "Easy",
+						"explanation": "The Astral Prism is a legendary Githyanki artifact with the power to hold a person's consciousness, and it's the key to protecting the party from the Absolute.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadowheart.webp",
+						"question": "At the start of the game, what is the name of the mysterious, glowing Dodecahedron artifact Shadowheart is desperate to protect?",
+						"wrong": [
+							"The Githyanki Egg",
+							"The Necromancy of Thay",
+							"The Orphic Hammer"
+						]
+					},
+					{
+						"correct": "Cleric",
+						"difficulty": "Easy",
+						"explanation": "She begins as a Trickery Domain Cleric, a domain fitting for a follower of the goddess of secrets.",
+						"image_url": "",
+						"question": "What is Shadowheart's default starting character class, reflecting her divine connection?",
+						"wrong": [
+							"Paladin",
+							"Rogue",
+							"Wizard"
+						]
+					},
+					{
+						"correct": "Purple light",
+						"difficulty": "Easy",
+						"explanation": "The wound glows with purple energy, a constant reminder of Shar's influence and the magic suppressing her memories.",
+						"image_url": "",
+						"question": "Shadowheart has a mysterious wound on her hand that occasionally causes her pain. What magical energy visibly emanates from it?",
+						"wrong": [
+							"Green acid",
+							"Red fire",
+							"White frost"
+						]
+					},
+					{
+						"correct": "Wolves",
+						"difficulty": "Easy",
+						"explanation": "This fear is a key part of her suppressed memories, connected to a traumatic event from her childhood.",
+						"image_url": "",
+						"question": "Shadowheart has a deep and immediate phobia of what type of animal, which she finds 'all teeth and claws'?",
+						"wrong": [
+							"Spiders",
+							"Bears",
+							"Snakes"
+						]
+					},
+					{
+						"correct": "The Gauntlet of Shar",
+						"difficulty": "Medium",
+						"explanation": "The Gauntlet of Shar contains several trials, such as the Self-Same Trial and the Faith-Leap Trial, designed to test her worthiness.",
+						"image_url": "",
+						"question": "What is the name of the Sharran temple in the Underdark where Shadowheart must undergo a series of trials to prove her devotion?",
+						"wrong": [
+							"The Grymforge",
+							"The Adamantine Forge",
+							"The Zhentarim Hideout"
+						]
+					},
+					{
+						"correct": "The Nightsong",
+						"difficulty": "Medium",
+						"explanation": "The Nightsong, whose real name is Dame Aylin, is an Aasimar and the immortal daughter of the moon goddess Selûne.",
+						"image_url": "",
+						"question": "The ultimate test in the Gauntlet of Shar is to slay a celestial being who has been imprisoned for a century. What is this being's title?",
+						"wrong": [
+							"The Daybreak",
+							"The Evenstar",
+							"The Moonmaiden"
+						]
+					},
+					{
+						"correct": "White",
+						"difficulty": "Medium",
+						"explanation": "Her hair turns from black to white, symbolizing her return to the light of Selûne and her rejection of Shar's darkness.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadowheart.webp",
+						"question": "If Shadowheart turns away from Shar and embraces her past, what color does her hair famously change to?",
+						"wrong": [
+							"Blonde",
+							"Silver",
+							"Light Brown"
+						]
+					},
+					{
+						"correct": "Viconia DeVir",
+						"difficulty": "Medium",
+						"explanation": "Viconia DeVir is a legendary Drow priestess from previous Baldur's Gate games, now the leader of Shar's enclave in the city.",
+						"image_url": "",
+						"question": "In Baldur's Gate, Shadowheart must confront the leader of her former cloister. What is the name of this formidable Sharran Mother Superior?",
+						"wrong": [
+							"Mother Urthka",
+							"Orin the Red",
+							"Sarevok Anchev"
+						]
+					},
+					{
+						"correct": "Spear of Night",
+						"difficulty": "Medium",
+						"explanation": "The Spear of Night is found in the Gauntlet of Shar and is the only weapon capable of killing the Nightsong, though it can also be blessed by Selûne.",
+						"image_url": "",
+						"question": "What is the name of the special spear that Shadowheart can acquire, which is a legendary weapon tied to her ultimate choice?",
+						"wrong": [
+							"Moonlight Glaive",
+							"Selûne's Spear of Light",
+							"Vision of the Absolute"
+						]
+					},
+					{
+						"correct": "Night Orchid",
+						"difficulty": "Hard",
+						"explanation": "The Night Orchid is a rare, glowing flower that only blooms in darkness. It's Shadowheart's favorite, a memory from her life before Shar.",
+						"image_url": "",
+						"question": "A key piece of Shadowheart's forgotten past is a specific type of flower. What is this flower called?",
+						"wrong": [
+							"Moonpetal",
+							"Shadow Lily",
+							"Grief-Mourn"
+						]
+					},
+					{
+						"correct": "Jenevelle Hallowleaf",
+						"difficulty": "Hard",
+						"explanation": "Her true name is revealed if she rejects Shar, a symbol of reclaiming the identity that was stolen from her as a child.",
+						"image_url": "",
+						"question": "What was the name given to Shadowheart by her Selûnite parents before she was taken by the Sharrans?",
+						"wrong": [
+							"Isobel Thorm",
+							"Jaheira",
+							"Minthara Baenre"
+						]
+					},
+					{
+						"correct": "Forbert",
+						"difficulty": "Hard",
+						"explanation": "Forbert was the cleric who stole Jenevelle from her parents and brought her into Shar's grasp, as revealed in a hidden note.",
+						"image_url": "https://skillcheckgame.com/assets/images/shadowheart.webp",
+						"question": "The leader of the Sharran cloister who abducted Shadowheart as a child and raised her was a man named...",
+						"wrong": [
+							"Balthazar",
+							"Ketheric",
+							"Gortash"
+						]
+					},
+					{
+						"correct": "Dark Justiciar",
+						"difficulty": "Hard",
+						"explanation": "Becoming a Dark Justiciar is the ultimate goal for a Sharran warrior, a commander of both the church's armies and its faithful.",
+						"image_url": "",
+						"question": "If she remains loyal to Shar, Shadowheart is tasked with becoming the head of the church in Baldur's Gate. What is the title she would assume?",
+						"wrong": [
+							"Mother Superior",
+							"Lady of Loss",
+							"Hand of Shar"
+						]
+					},
+					{
+						"correct": "Remove Curse",
+						"difficulty": "Hard",
+						"explanation": "The Sharrans perverted the healing spell 'Remove Curse', twisting it into a tool to painfully erase memories and enforce loyalty.",
+						"image_url": "",
+						"question": "In the House of Grief, you learn the 'memory-wiping' spell used on Shadowheart is a modified version of what powerful enchantment spell?",
+						"wrong": [
+							"Modify Memory",
+							"Feeblemind",
+							"Bestow Curse"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_shadowheart",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Shadowheart",
+				"lore_desc": "A loyal cleric of Shar, goddess of darkness and loss. Shadowheart is the sole survivor of a holy mission, entrusted with a powerful artifact that she must deliver to her kin in Baldur's Gate while wrestling with a past shrouded in mystery.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Cleric",
+					"Shar"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Blood War",
+						"difficulty": "Easy",
+						"explanation": "The Blood War is a never-ending war waged across the Lower Planes, and Karlach served on the front lines in Avernus, the first layer of the Nine Hells.",
+						"image_url": "",
+						"question": "Karlach was forced to fight as a champion in which eternal, hellish conflict between devils and demons?",
+						"wrong": [
+							"The Time of Troubles",
+							"The Spellplague",
+							"The Crown Wars"
+						]
+					},
+					{
+						"correct": "An Infernal Engine",
+						"difficulty": "Easy",
+						"explanation": "This prototype Infernal Engine gives her immense power but burns so hot that it threatens to consume her on the material plane.",
+						"image_url": "https://skillcheckgame.com/assets/images/karlach.webp",
+						"question": "What is the name of the volatile, fire-belching machine implanted in Karlach's chest that functions as her heart?",
+						"wrong": [
+							"A Soul Coin",
+							"A Hellfire Core",
+							"A Ticking Time-Bomb"
+						]
+					},
+					{
+						"correct": "Barbarian",
+						"difficulty": "Easy",
+						"explanation": "Karlach is a Barbarian, using her rage to enter a frenzy that increases her damage and resilience in a fight.",
+						"image_url": "",
+						"question": "What is Karlach's starting character class, perfect for a warrior who channels her rage into powerful attacks?",
+						"wrong": [
+							"Fighter",
+							"Paladin",
+							"Ranger"
+						]
+					},
+					{
+						"correct": "Touch them",
+						"difficulty": "Easy",
+						"explanation": "Her body is so hot that her touch literally sets things—and people—on fire, causing her great emotional distress.",
+						"image_url": "",
+						"question": "Because her Infernal Engine runs so hot, what is Karlach physically unable to do with another person until her heart is cooled down?",
+						"wrong": [
+							"Speak to them",
+							"See them",
+							"Hear them"
+						]
+					},
+					{
+						"correct": "Baldur's Gate",
+						"difficulty": "Easy",
+						"explanation": "Karlach was Gortash's bodyguard in the Lower City of Baldur's Gate before he betrayed her to the Archdevil Zariel.",
+						"image_url": "",
+						"question": "Karlach was sold into servitude in the Hells by a younger, more ambitious Enver Gortash. What city did they both live in before her exile?",
+						"wrong": [
+							"Elturel",
+							"Waterdeep",
+							"Candlekeep"
+						]
+					},
+					{
+						"correct": "Zariel",
+						"difficulty": "Medium",
+						"explanation": "The fallen angel Zariel leads the armies of the Nine Hells against the abyss and was Karlach's commanding officer.",
+						"image_url": "",
+						"question": "Karlach was the prized soldier of which powerful Archdevil, the ruler of Avernus?",
+						"wrong": [
+							"Asmodeus",
+							"Raphael",
+							"Mephistopheles"
+						]
+					},
+					{
+						"correct": "Infernal Iron",
+						"difficulty": "Medium",
+						"explanation": "This special metal, mined from the Hells, is the only material strong enough to reinforce her Infernal Engine.",
+						"image_url": "https://skillcheckgame.com/assets/images/karlach.webp",
+						"question": "What rare, dark metal is needed to repair and upgrade Karlach's unstable heart?",
+						"wrong": [
+							"Adamantine",
+							"Mithral",
+							"Netherese Steel"
+						]
+					},
+					{
+						"correct": "Anders",
+						"difficulty": "Medium",
+						"explanation": "Anders and his 'Paladins of Tyr' are actually secret cultists of Zariel, sent to retrieve her prized soldier.",
+						"image_url": "",
+						"question": "A group of self-proclaimed 'paladins' are hunting Karlach, believing her to be a devil. Who is the leader of this zealous group?",
+						"wrong": [
+							"Wyll",
+							"Abdirak",
+							"Gortash"
+						]
+					},
+					{
+						"correct": "Dammon",
+						"difficulty": "Medium",
+						"explanation": "Dammon is a gifted smith with a rare knowledge of infernal mechanics, making him essential to Karlach's survival.",
+						"image_url": "",
+						"question": "Which skilled Tiefling blacksmith, found at the Emerald Grove and later Last Light Inn, is the only person who can work on Karlach's heart?",
+						"wrong": [
+							"Gyldro Angleiron",
+							"Barcus Wroot",
+							"Volo"
+						]
+					},
+					{
+						"correct": "Wyll",
+						"difficulty": "Medium",
+						"explanation": "Wyll, the Blade of Avernus, can choose to accompany Karlach, fighting by her side as they hunt devils together in the fiery landscape.",
+						"image_url": "",
+						"question": "In one of her endings, Karlach must return to the hells to prevent her engine from exploding. Who can volunteer to go with her to share the burden?",
+						"wrong": [
+							"Gale",
+							"Astarion",
+							"Halsin"
+						]
+					},
+					{
+						"correct": "Mama K",
+						"difficulty": "Hard",
+						"explanation": "A note from a guard named Cugel calls her 'Mama K,' revealing that she was a protective and beloved figure to her comrades before Gortash's betrayal.",
+						"image_url": "",
+						"question": "If you visit the barracks at Wyrm's Rock Fortress, you can find a note from a former colleague of Karlach's. What was her affectionate nickname among the guards?",
+						"wrong": [
+							"The Fury",
+							"Big K",
+							"Cliffgate"
+						]
+					},
+					{
+						"correct": "The nautiloid is unnamed",
+						"difficulty": "Hard",
+						"explanation": "While it's the central vessel of the game's introduction, the specific nautiloid that abducted Karlach (and the player) is never given a proper name in the lore.",
+						"image_url": "https://skillcheckgame.com/assets/images/karlach.webp",
+						"question": "What is the name of the nautiloid ship that Karlach stowed away on to escape from Avernus?",
+						"wrong": [
+							"The Scion",
+							"The Emperor",
+							"The Devourer"
+						]
+					},
+					{
+						"correct": "A prototype",
+						"difficulty": "Hard",
+						"explanation": "Dammon recognizes it as an unstable prototype, which is why it runs hotter and is more dangerous than the engines in other infernal constructs.",
+						"image_url": "",
+						"question": "What is the specific model of Karlach's infernal engine, as described by Dammon?",
+						"wrong": [
+							"Mark II",
+							"A standard model",
+							"A Zariel custom"
+						]
+					},
+					{
+						"correct": "Enver Gortash",
+						"difficulty": "Hard",
+						"explanation": "The contract provides definitive proof that Gortash personally signed the deal that condemned his former bodyguard to a decade of hellfire and warfare.",
+						"image_url": "",
+						"question": "In the House of Hope, you can find a legal document outlining Karlach's original sale to Zariel. Who is listed as the 'seller'?",
+						"wrong": [
+							"Cazador Szarr",
+							"Raphael",
+							"Sarevok Anchev"
+						]
+					},
+					{
+						"correct": "A Tavern Bouncer",
+						"difficulty": "Hard",
+						"explanation": "She mentions running a 'tavern-and-ale-house security business', using her brawn to keep the peace long before she was sent to the front lines of the Blood War.",
+						"image_url": "",
+						"question": "Before becoming a bodyguard, what was Karlach's humble occupation in the alleys of Baldur's Gate?",
+						"wrong": [
+							"A Blacksmith's Apprentice",
+							"A Dock Worker",
+							"A Flaming Fist Recruit"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_karlach",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Karlach",
+				"lore_desc": "A fiery tiefling barbarian who escaped a decade of forced service in the Hells. With an infernal engine for a heart that burns too hot for the mortal plane, she's on a desperate race against time to fix it before it burns her up from the inside.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Barbarian",
+					"Tiefling"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Mystra",
+						"difficulty": "Easy",
+						"explanation": "His entire personal story revolves around his complicated, romantic relationship with Mystra, the Mother of All Magic.",
+						"image_url": "",
+						"question": "Gale of Waterdeep was once the chosen lover and magical prodigy of which powerful goddess of magic?",
+						"wrong": [
+							"Shar",
+							"Selûne",
+							"Eilistraee"
+						]
+					},
+					{
+						"correct": "A Netherese Orb",
+						"difficulty": "Easy",
+						"explanation": "He has a Netherese Destruction Orb, a piece of raw magic from the fallen empire of Netheril, lodged in his chest.",
+						"image_url": "https://skillcheckgame.com/assets/images/gale.webp",
+						"question": "Gale has a volatile magical object embedded in his chest that threatens to detonate. What is this object?",
+						"wrong": [
+							"A Dragon's Egg",
+							"An Illithid Power Source",
+							"A Githyanki Psionic Amplifier"
+						]
+					},
+					{
+						"correct": "Wizard",
+						"difficulty": "Easy",
+						"explanation": "Gale is a Wizard, a class that learns magic through intense study and intelligence, which perfectly fits his character.",
+						"image_url": "",
+						"question": "What is Gale's starting character class, reflecting his scholarly pursuit of the arcane?",
+						"wrong": [
+							"Sorcerer",
+							"Warlock",
+							"Bard"
+						]
+					},
+					{
+						"correct": "Magic Items",
+						"difficulty": "Easy",
+						"explanation": "The orb feeds on the Weave, and Gale must 'feed' it common magic items to prevent it from consuming his own magical essence and exploding.",
+						"image_url": "",
+						"question": "To temporarily stabilize the orb in his chest, what must Gale regularly consume?",
+						"wrong": [
+							"Soul Coins",
+							"Mind Flayer Parasites",
+							"Rare Herbs"
+						]
+					},
+					{
+						"correct": "Tara",
+						"difficulty": "Easy",
+						"explanation": "Tara is his tressym, a special type of familiar who has been his companion since he was a young boy.",
+						"image_url": "",
+						"question": "What is the name of Gale's beloved pet, a winged cat that he can summon as a familiar?",
+						"wrong": [
+							"Tressym",
+							"Myshka",
+							"Quaal"
+						]
+					},
+					{
+						"correct": "The Karsite Weave",
+						"difficulty": "Medium",
+						"explanation": "He attempted to impress Mystra by accessing a piece of the Karsite Weave, the raw magic used by the archmage Karsus to temporarily steal Mystra's power and cause the fall of Netheril.",
+						"image_url": "",
+						"question": "The orb in Gale's chest is not just any magic; it is a fragment of what forbidden and dangerous type of magic?",
+						"wrong": [
+							"The Shadow Weave",
+							"Wild Magic",
+							"Psionics"
+						]
+					},
+					{
+						"correct": "Elminster Aumar",
+						"difficulty": "Medium",
+						"explanation": "Elminster is one of the most famous and powerful wizards in the Forgotten Realms, and a close associate (and sometimes lover) of the goddess Mystra.",
+						"image_url": "",
+						"question": "Who is the legendary, long-bearded archmage who appears to Gale with a task from Mystra?",
+						"wrong": [
+							"Volo",
+							"Mordenkainen",
+							"Fizban"
+						]
+					},
+					{
+						"correct": "The Absolute",
+						"difficulty": "Medium",
+						"explanation": "Mystra commands him to detonate the orb at the heart of the Absolute, an act that would destroy both the Absolute and himself instantly.",
+						"image_url": "",
+						"question": "Mystra gives Gale a grim task: to use the orb in his chest to destroy what ultimate target?",
+						"wrong": [
+							"The Emperor",
+							"The Netherbrain",
+							"The Elder Brain"
+						]
+					},
+					{
+						"correct": "Projection",
+						"difficulty": "Medium",
+						"explanation": "Gale uses the Projection spell, a high-level illusion, to communicate with others from afar, most notably with the player before they properly meet.",
+						"image_url": "",
+						"question": "Gale's magical prowess is so great that he can recreate a magical 'image' of himself for conversation. What is this spell called?",
+						"wrong": [
+							"Simulacrum",
+							"Major Image",
+							"Seeming"
+						]
+					},
+					{
+						"correct": "The Crown of Karsus",
+						"difficulty": "Medium",
+						"explanation": "The Crown of Karsus is the artifact Karsus used in his failed bid for godhood, and Gale believes it can be used to control the Netherbrain.",
+						"image_url": "https://skillcheckgame.com/assets/images/gale.webp",
+						"question": "If Gale seeks to control the Absolute instead of destroying it, he must reforge a legendary Netherese artifact. What is it called?",
+						"wrong": [
+							"The Scepter of Shar",
+							"The Orphic Hammer",
+							"The Mask of Mephistopheles"
+						]
+					},
+					{
+						"correct": "Myling",
+						"difficulty": "Hard",
+						"explanation": "A book in his private study at a Baldur's Gate bookstore reveals details of his friendly but intense rivalry with a sorceress named Myling.",
+						"image_url": "",
+						"question": "In his youth, Gale had a magical rivalry with a fellow student at the academy in Waterdeep. What was her name?",
+						"wrong": [
+							"Morena",
+							"Miriam",
+							"Maeve"
+						]
+					},
+					{
+						"correct": "Pigeons",
+						"difficulty": "Hard",
+						"explanation": "Tara comically mentions that she has a particular fondness for eating carrier pigeons, often intercepting important messages in the process.",
+						"image_url": "",
+						"question": "Gale's tressym, Tara, has a habit of eating certain small, magical creatures. What are they?",
+						"wrong": [
+							"Cranium Rats",
+							"Quasits",
+							"Mephits"
+						]
+					},
+					{
+						"correct": "The Netherbrain itself",
+						"difficulty": "Hard",
+						"explanation": "The third Netherstone is already embedded in the Elder Brain, which is why it must be defeated before the Crown can be claimed and controlled.",
+						"image_url": "",
+						"question": "To reforge the Crown of Karsus, Gale needs three Netherstones. One is from Orin, one from Gortash, but from where does the third one come?",
+						"wrong": [
+							"Raphael's Vault",
+							"Ketheric's Armor",
+							"The Astral Prism"
+						]
+					},
+					{
+						"correct": "He does not have a tower",
+						"difficulty": "Hard",
+						"explanation": "This is a trick of sorts; while he's associated with towers, his home is revealed to be a modest apartment above The blushing Mermaid. The tower belongs to his mentor, Elminster.",
+						"image_url": "",
+						"question": "Where in Baldur's Gate does Gale have a tower, which serves as his primary home and research laboratory?",
+						"wrong": [
+							"The Upper City",
+							"The Lower City",
+							"Blackstaff Academy"
+						]
+					},
+					{
+						"correct": "The Celestial and His Lover",
+						"difficulty": "Hard",
+						"explanation": "This book of poetry and prose provides insight into Gale's deeply romantic nature and his feelings about his relationship with Mystra.",
+						"image_url": "",
+						"question": "What is the name of the book Gale wrote, a copy of which can be found in Ramazith's Tower, detailing his romantic philosophies?",
+						"wrong": [
+							"Annals of Karsus",
+							"The Weave and I",
+							"Waterdeep: A Love Story"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_gale",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Gale",
+				"lore_desc": "A prodigiously skilled wizard from Waterdeep with a dangerous secret. To win the affection of the goddess of magic herself, he meddled with forces beyond his control and now has a Netherese destruction orb ticking away in his chest.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Wizard",
+					"Mystra"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Githyanki",
+						"difficulty": "Easy",
+						"explanation": "The githyanki are a martial race who escaped mind flayer enslavement ages ago and now traverse the Astral Plane on the backs of red dragons.",
+						"image_url": "",
+						"question": "Lae'zel belongs to what proud, warlike race from the Astral Plane?",
+						"wrong": [
+							"Githzerai",
+							"Drow",
+							"Tiefling"
+						]
+					},
+					{
+						"correct": "Vlaakith",
+						"difficulty": "Easy",
+						"explanation": "Vlaakith CLVII is the lich-queen of the githyanki, demanding absolute loyalty and promising ascension to those who serve her faithfully.",
+						"image_url": "",
+						"question": "What is the name of the githyanki queen, a powerful lich who Lae'zel fanatically serves at the start of the game?",
+						"wrong": [
+							"Tiamat",
+							"Lolth",
+							"Shar"
+						]
+					},
+					{
+						"correct": "Fighter",
+						"difficulty": "Easy",
+						"explanation": "Lae'zel exemplifies the Fighter class, beginning the game with proficiency in a wide variety of armor and weapons.",
+						"image_url": "",
+						"question": "Lae'zel's starting class is a master of martial combat. What is this class?",
+						"wrong": [
+							"Barbarian",
+							"Paladin",
+							"Ranger"
+						]
+					},
+					{
+						"correct": "Ghaik",
+						"difficulty": "Easy",
+						"explanation": "The word 'ghaik' is an expression of pure contempt, used by the githyanki to refer to their ancient mind flayer enslavers.",
+						"image_url": "",
+						"question": "Lae'zel and her people refer to mind flayers by what derogatory githyanki term?",
+						"wrong": [
+							"Tsk'va",
+							"K'liir",
+							"Istik"
+						]
+					},
+					{
+						"correct": "Shadowheart",
+						"difficulty": "Easy",
+						"explanation": "Lae'zel's devotion to finding a githyanki cure clashes directly with Shadowheart's mysterious artifact, leading to constant conflict between the two.",
+						"image_url": "",
+						"question": "Which fellow companion does Lae'zel have an immediate and intense rivalry with, due to their opposing beliefs and possessions?",
+						"wrong": [
+							"Gale",
+							"Astarion",
+							"Wyll"
+						]
+					},
+					{
+						"correct": "Zaith'isk",
+						"difficulty": "Medium",
+						"explanation": "The zaith'isk is a githyanki device purported to extract and destroy illithid tadpoles, though its true function is far more sinister.",
+						"image_url": "",
+						"question": "Lae'zel believes a device at a githyanki crèche can cure her parasite. What is this machine called?",
+						"wrong": [
+							"Planecaster",
+							"Soulbreaker",
+							"Mind-Purifier"
+						]
+					},
+					{
+						"correct": "Kith'rak Voss",
+						"difficulty": "Medium",
+						"explanation": "Kith'rak Voss is a respected githyanki leader whose initial hunt for the Astral Prism eventually leads him to question Vlaakith's rule.",
+						"image_url": "https://skillcheckgame.com/assets/images/lae'zel.webp",
+						"question": "This githyanki commander, who rides a red dragon, holds key information about the Astral Prism and is a recurring figure in Lae'zel's story. Who is he?",
+						"wrong": [
+							"Inquisitor Ch'r'ai",
+							"Orpheus",
+							"Varsh Ko'kuu"
+						]
+					},
+					{
+						"correct": "The Astral Prism",
+						"difficulty": "Medium",
+						"explanation": "The githyanki seek the Astral Prism, which they call the 'weapon,' unaware that it houses the key to resisting the Absolute's influence.",
+						"image_url": "",
+						"question": "What is the name of the mysterious artifact that Lae'zel and her people are desperately searching for, believing it to be a powerful weapon?",
+						"wrong": [
+							"The Netherese Orb",
+							"The Crown of Karsus",
+							"The Spear of Night"
+						]
+					},
+					{
+						"correct": "I will do as you command",
+						"difficulty": "Medium",
+						"explanation": "Despite its harsh sound, 'tsk'va' is a formal address of respect to a superior, roughly translating to 'I will do as you command.'",
+						"image_url": "",
+						"question": "In the githyanki language, the dismissive term 'tsk'va' is often used by Lae'zel. What does it mean?",
+						"wrong": [
+							"Get out of my sight",
+							"You are a fool",
+							"For the queen"
+						]
+					},
+					{
+						"correct": "Silver Sword",
+						"difficulty": "Medium",
+						"explanation": "The githyanki silver sword is a legendary weapon, often two-handed, that can sever a target's connection to the Astral Plane.",
+						"image_url": "https://skillcheckgame.com/assets/images/lae'zel.webp",
+						"question": "Githyanki warriors like Lae'zel often wield what iconic, powerful blade, known for its ability to disrupt the psychic abilities of their enemies?",
+						"wrong": [
+							"Adamantine Longsword",
+							"Moonlight Glaive",
+							"Everburn Blade"
+						]
+					},
+					{
+						"correct": "The Githyanki Warrior",
+						"difficulty": "Hard",
+						"explanation": "Lae'zel's quest, 'The Githyanki Warrior,' follows her journey from a loyal soldier of Vlaakith to potentially a liberator of her people.",
+						"image_url": "",
+						"question": "Lae'zel's personal quest revolves around her identity and duty. What is it called in the Journal?",
+						"wrong": [
+							"The Creche's Curse",
+							"For the Queen",
+							"Astral-Touched"
+						]
+					},
+					{
+						"correct": "Orpheus",
+						"difficulty": "Hard",
+						"explanation": "Orpheus is the son of Gith, the original liberator of the githyanki. Vlaakith imprisoned him to secure her own rule and has lied about his fate for centuries.",
+						"image_url": "",
+						"question": "Who is the imprisoned prince of the gith people, whom Lae'zel can eventually choose to free and ally with against Vlaakith?",
+						"wrong": [
+							"Zerthimon",
+							"Gith",
+							"Ansur"
+						]
+					},
+					{
+						"correct": "Lathander's temple",
+						"difficulty": "Hard",
+						"explanation": "Crèche Y'llek is hidden deep within the foundations of a desecrated temple to Lathander, the Morninglord.",
+						"image_url": "https://skillcheckgame.com/assets/images/lae'zel.webp",
+						"question": "The crèche Lae'zel seeks is located beneath which holy site on the Rosymorn Monastery Trail?",
+						"wrong": [
+							"Selûne's temple",
+							"Shar's temple",
+							"Helm's temple"
+						]
+					},
+					{
+						"correct": "Tieflings",
+						"difficulty": "Hard",
+						"explanation": "If the player bypasses the initial encounter, Lae'zel is later found dead, having been shot down by the tieflings she was threatening.",
+						"image_url": "",
+						"question": "If Lae'zel is not recruited, her corpse can be found near a bridge, having been killed by what kind of creatures?",
+						"wrong": [
+							"Goblins",
+							"Githyanki",
+							"Gnolls"
+						]
+					},
+					{
+						"correct": "Phalorm",
+						"difficulty": "Hard",
+						"explanation": "During a 'prove your worth' mission to the colony on Phalorm, Lae'zel's entire squad was wiped out and she was captured by the crew of the nautiloid.",
+						"image_url": "",
+						"question": "Before being captured on the nautiloid, Lae'zel was part of a raid on a mind flayer colony on which planet?",
+						"wrong": [
+							"Tears of Selûne",
+							"Anadia",
+							"Garden of Night"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_lae'zel",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Lae'zel",
+				"lore_desc": "A fierce githyanki warrior, Lae'zel is wholly dedicated to her people's cause: the destruction of all mind flayers. Abducted and infected with a parasite, she seeks a githyanki crèche to be 'purified' before it's too late.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Companion",
+					"Githyanki",
+					"Warrior"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Ceremorphosis",
+						"difficulty": "Easy",
+						"explanation": "Ceremorphosis is the horrifying, week-long process where the tadpole devours the host's brain and transforms the body into a fully-formed mind flayer.",
+						"image_url": "",
+						"question": "The process where a parasite transforms its host into a mind flayer is known by what name?",
+						"wrong": [
+							"Metamorphosis",
+							"Transmutation",
+							"Illithid Genesis"
+						]
+					},
+					{
+						"correct": "Nautiloid",
+						"difficulty": "Easy",
+						"explanation": "Nautiloids are the primary vessels used by mind flayers to travel between worlds and through the Astral Plane, serving as mobile colonies.",
+						"image_url": "",
+						"question": "The parasites were implanted in the protagonists aboard what type of squid-like spelljamming ship?",
+						"wrong": [
+							"Skiff",
+							"Galleon",
+							"Man-O-War"
+						]
+					},
+					{
+						"correct": "Illithid Powers",
+						"difficulty": "Easy",
+						"explanation": "The parasite grants access to Illithid Powers, allowing the host to read minds, persuade NPCs, and even unleash psionic attacks in combat.",
+						"image_url": "",
+						"question": "Infected individuals can use the parasite's power to influence others' thoughts. What is this general ability called?",
+						"wrong": [
+							"The Weave",
+							"Psionic Arts",
+							"Mind Control"
+						]
+					},
+					{
+						"correct": "The Absolute",
+						"difficulty": "Easy",
+						"explanation": "Those with these special parasites are branded as True Souls, chosen followers of the mysterious new deity known as The Absolute.",
+						"image_url": "",
+						"question": "If an infected person doesn't transform, they become a 'True Soul,' a devotee of what entity?",
+						"wrong": [
+							"The Elder Brain",
+							"Vlaakith",
+							"The Dead Three"
+						]
+					},
+					{
+						"correct": "Eye discoloration",
+						"difficulty": "Easy",
+						"explanation": "The veins around the eye of an infected person often darken and become more prominent, a subtle but tell-tale sign of the parasite within.",
+						"image_url": "https://skillcheckgame.com/assets/images/mind_flayer_parasite.webp",
+						"question": "Which of these is the most common, visible symptom of someone infected with an illithid tadpole?",
+						"wrong": [
+							"Skin turning purple",
+							"Growing tentacles",
+							"Losing hair"
+						]
+					},
+					{
+						"correct": "Netherese",
+						"difficulty": "Medium",
+						"explanation": "The parasites are encased in a layer of Netherese magic, which halts ceremorphosis and links the host to the hive mind of the Absolute.",
+						"image_url": "",
+						"question": "The parasites used by the Absolute have been modified with what kind of forgotten, powerful magic to alter their behavior?",
+						"wrong": [
+							"Elven High Magic",
+							"Draconic",
+							"Abyssal"
+						]
+					},
+					{
+						"correct": "Brine jar",
+						"difficulty": "Medium",
+						"explanation": "Specimens of mind flayer parasites are found in jars filled with a greenish brine, which keeps the tadpole alive and dormant.",
+						"image_url": "https://skillcheckgame.com/assets/images/mind_flayer_parasite.webp",
+						"question": "You can find more parasites throughout the world, often preserved in what kind of container?",
+						"wrong": [
+							"Crystal flask",
+							"Velvet pouch",
+							"Lead-lined box"
+						]
+					},
+					{
+						"correct": "The Astral Prism",
+						"difficulty": "Medium",
+						"explanation": "The Astral Prism creates a protective bubble around the parasites, shielding them from the Absolute's direct control and halting their transformation.",
+						"image_url": "",
+						"question": "The mysterious Guardian who protects you from the parasite's influence resides within what powerful artifact?",
+						"wrong": [
+							"The Crown of Karsus",
+							"The Annulus",
+							"The Soul Cage"
+						]
+					},
+					{
+						"correct": "Balduran",
+						"difficulty": "Medium",
+						"explanation": "The Emperor reveals he was once the famous adventurer Balduran, founder of Baldur's Gate, who was captured and turned into a mind flayer.",
+						"image_url": "",
+						"question": "This NPC, also known as The Emperor, is a mind flayer who has broken free from the hive mind and helps you control the parasite. What was his original name?",
+						"wrong": [
+							"Elminster",
+							"Karsus",
+							"Jergal"
+						]
+					},
+					{
+						"correct": "They unlock more Illithid Powers",
+						"difficulty": "Medium",
+						"explanation": "Consuming additional parasites allows a character to absorb their power, unlocking new and more potent abilities in the Illithid skill tree.",
+						"image_url": "",
+						"question": "What happens if a character consumes one of the extra parasites found in the world?",
+						"wrong": [
+							"They take psychic damage",
+							"They instantly transform",
+							"Nothing happens"
+						]
+					},
+					{
+						"correct": "An Elder Brain",
+						"difficulty": "Hard",
+						"explanation": "An Elder Brain is the physical and psionic hub of a mind flayer colony, formed from the brains of deceased illithids.",
+						"image_url": "",
+						"question": "A fully mature mind flayer society is controlled by what massive, central creature?",
+						"wrong": [
+							"An Aboleth",
+							"A Mind Tyrant",
+							"An Ulitharid"
+						]
+					},
+					{
+						"correct": "Tadpoling Centre",
+						"difficulty": "Hard",
+						"explanation": "The Tadpoling Centre at Moonrise is where willing cultists and captured prisoners are implanted with parasites to become True Souls.",
+						"image_url": "",
+						"question": "At the Moonrise Towers, you can find a room dedicated to implanting parasites. What is this area called?",
+						"wrong": [
+							"Ceremorphosis Tank",
+							"Mind Flayer Nursery",
+							"Illithid Conversion Chamber"
+						]
+					},
+					{
+						"correct": "Charm Person",
+						"difficulty": "Hard",
+						"explanation": "While the tadpole allows you to influence people, the spell 'Charm Person' is a standard enchantment spell, not a specific Illithid Power from the skill tree.",
+						"image_url": "",
+						"question": "Which of these is NOT a power granted by the Illithid skill tree?",
+						"wrong": [
+							"Psionic Blast",
+							"Favourable Beginnings",
+							"Force Tunnel"
+						]
+					},
+					{
+						"correct": "Ulitharid",
+						"difficulty": "Hard",
+						"explanation": "About one in every hundred tadpoles is a rare ulitharid, destined to become a superior mind flayer that eventually detaches to form a new colony and become an Elder Brain itself.",
+						"image_url": "https://skillcheckgame.com/assets/images/mind_flayer_parasite.webp",
+						"question": "What is the ultimate, evolved form of a mind flayer parasite, which can create its own colony without an Elder Brain?",
+						"wrong": [
+							"Neothelid",
+							"Alhoon",
+							"Mindwitness"
+						]
+					},
+					{
+						"correct": "To kill the host and extract knowledge",
+						"difficulty": "Hard",
+						"explanation": "Vlaakith uses the Zaith'isk to kill anyone who has experienced a tadpole's evolution, as she fears the revelation that a mind flayer can evolve beyond the need for an Elder Brain.",
+						"image_url": "",
+						"question": "The githyanki device meant to 'purify' victims of parasites is called a Zaith'isk. What is its secret, true purpose?",
+						"wrong": [
+							"To turn the host into a ghoul",
+							"To accelerate ceremorphosis",
+							"To teleport the host to Vlaakith"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_mind_flayer_parasite",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Mind Flayer Parasite",
+				"lore_desc": "A horrifying tadpole-like creature that, when implanted behind a victim's eye, initiates a process called ceremorphosis. It consumes the host from within, transforming them into a new mind flayer.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Creature",
+					"Plot Device",
+					"Tadpole"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Ketheric, Orin, and Gortash",
+						"difficulty": "Easy",
+						"explanation": "This evil trio—General Ketheric Thorm, Orin the Red, and Lord Enver Gortash—are the architects of the Absolute's plot.",
+						"image_url": "",
+						"question": "The Absolute's cult is led by a trio of chosen. Who are they?",
+						"wrong": [
+							"Sarevok, Irenicus, and Amelyssan",
+							"Bane, Bhaal, and Myrkul",
+							"Raphael, Mizora, and Korrilla"
+						]
+					},
+					{
+						"correct": "A brand on the hand",
+						"difficulty": "Easy",
+						"explanation": "Priestess Gut and other cult leaders use a special branding iron to mark the hands of new True Soul initiates.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_absolute.webp",
+						"question": "What is the visible symbol that marks a follower as a 'True Soul' of the Absolute?",
+						"wrong": [
+							"A tattoo on the face",
+							"A sigil on the forehead",
+							"A scar across the eye"
+						]
+					},
+					{
+						"correct": "Ketheric Thorm",
+						"difficulty": "Easy",
+						"explanation": "Ketheric Thorm rules over the Shadow-Cursed Lands from Moonrise Towers, made invincible by the power of the necromantic god, Myrkul.",
+						"image_url": "",
+						"question": "Which one of the Absolute's chosen, a seemingly immortal general, is the main antagonist of Act 2?",
+						"wrong": [
+							"Enver Gortash",
+							"Orin the Red",
+							"Balthazar"
+						]
+					},
+					{
+						"correct": "An Elder Brain",
+						"difficulty": "Easy",
+						"explanation": "The entity known as The Absolute is revealed to be a Netherbrain, an Elder Brain enhanced with powerful Netherese magic.",
+						"image_url": "",
+						"question": "The Absolute's 'voice' is actually a massive, telepathic creature. What is its true nature?",
+						"wrong": [
+							"An Aboleth",
+							"A Dragon God",
+							"A Beholder"
+						]
+					},
+					{
+						"correct": "Bugbears",
+						"difficulty": "Easy",
+						"explanation": "The goblin camp is led by a trio of leaders: Dror Ragzlin the hobgoblin, Minthara the drow, and Gut the goblin priestess, with bugbears serving as heavy infantry.",
+						"image_url": "",
+						"question": "The Absolute's army in Act 1 primarily consists of goblins, drow, and what other type of creature?",
+						"wrong": [
+							"Ogres",
+							"Gnolls",
+							"Kobolds"
+						]
+					},
+					{
+						"correct": "The Crown of Karsus",
+						"difficulty": "Medium",
+						"explanation": "The Crown of Karsus is an archmage's failed attempt at godhood, now used to psychically dominate the Elder Brain and command its army of tadpoled victims.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_absolute.webp",
+						"question": "The Elder Brain is being controlled by the Chosen using what powerful artifact?",
+						"wrong": [
+							"The Astral Prism",
+							"The Hand of Vecna",
+							"The Wand of Orcus"
+						]
+					},
+					{
+						"correct": "Netherstones",
+						"difficulty": "Medium",
+						"explanation": "Orin, Gortash, and Ketheric each possess one of the three Netherstones, which they use to control the Crown and, by extension, the Absolute.",
+						"image_url": "",
+						"question": "The Crown of Karsus is powered by three magical gems, each held by one of the Chosen. What are these gems called?",
+						"wrong": [
+							"Ioun Stones",
+							"Soul Gems",
+							"Dragonshards"
+						]
+					},
+					{
+						"correct": "Bane",
+						"difficulty": "Medium",
+						"explanation": "Gortash is the chosen of Bane, the god of tyranny, which is reflected in his desire for absolute control over Baldur's Gate through his Steel Watch.",
+						"image_url": "",
+						"question": "Each of the Chosen of the Absolute secretly serves one of the Dead Three. Which god does Lord Gortash serve?",
+						"wrong": [
+							"Bhaal",
+							"Myrkul",
+							"Jergal"
+						]
+					},
+					{
+						"correct": "Bhaal",
+						"difficulty": "Medium",
+						"explanation": "As the Chosen of Bhaal, Lord of Murder, Orin is a sadistic killer who delights in bloodshed and sowing chaos.",
+						"image_url": "",
+						"question": "Orin the Red, a shapeshifting murderer, is the chosen of which god of slaughter?",
+						"wrong": [
+							"Bane",
+							"Myrkul",
+							"Cyric"
+						]
+					},
+					{
+						"correct": "The Steel Watch",
+						"difficulty": "Medium",
+						"explanation": "The Steel Watch are formidable constructs that patrol Baldur's Gate, acting as Gortash's personal army and enforcers of his tyrannical rule.",
+						"image_url": "",
+						"question": "Gortash commands an army of magical automatons that act as the city guard of Baldur's Gate. What are they called?",
+						"wrong": [
+							"The Flaming Fist",
+							"The Iron Legion",
+							"The Adamantine Guard"
+						]
+					},
+					{
+						"correct": "A Mind Flayer Colony",
+						"difficulty": "Hard",
+						"explanation": "The Chosen keep the Elder Brain hidden deep within a Mind Flayer Colony, first beneath Moonrise Towers and later beneath Baldur's Gate itself.",
+						"image_url": "",
+						"question": "Where is the Elder Brain, the physical form of the Absolute, located for most of the game?",
+						"wrong": [
+							"The Astral Plane",
+							"The Nine Hells",
+							"The Shadowfell"
+						]
+					},
+					{
+						"correct": "Myrkul",
+						"difficulty": "Hard",
+						"explanation": "After his daughter Isobel's death, a grief-stricken Ketheric renounced Shar and pledged himself to Myrkul, Lord of Bones, in exchange for power over life and death.",
+						"image_url": "",
+						"question": "Ketheric Thorm was once a follower of Shar, but he turned to which god of death to make him immortal and resurrect his daughter?",
+						"wrong": [
+							"Bane",
+							"Bhaal",
+							"Kelemvor"
+						]
+					},
+					{
+						"correct": "The Grand Design",
+						"difficulty": "Hard",
+						"explanation": "The Grand Design is the name Gortash gives to his master plan: to use the Absolute's army to conquer the Sword Coast and establish a new world order under his rule.",
+						"image_url": "",
+						"question": "What is the name of the grand conspiracy and overarching plot of the Chosen to use the tadpoled army?",
+						"wrong": [
+							"The Great Plan",
+							"The Final Ascension",
+							"The Mind Plague"
+						]
+					},
+					{
+						"correct": "Karsus",
+						"difficulty": "Hard",
+						"explanation": "The archmage Karsus created the crown to steal godhood, but the raw power of magic destroyed him and created the first dead magic zone in Faerûn.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_absolute.webp",
+						"question": "Which legendary wizard created the Crown of Karsus in a failed bid to usurp the goddess of magic, Mystryl?",
+						"wrong": [
+							"Elminster",
+							"Mordenkainen",
+							"Irenicus"
+						]
+					},
+					{
+						"correct": "The Shadowsong",
+						"difficulty": "Hard",
+						"explanation": "The source of Ketheric's power, 'The Shadowsong', is actually the captured aasimar Dame Aylin, also known as the Nightsong, whose immortality is siphoned to make Ketheric invincible.",
+						"image_url": "",
+						"question": "The Absolute's influence over the Shadow-Cursed Lands is projected from Moonrise Towers by a specific powerful relic. What is it?",
+						"wrong": [
+							"The Netherstone",
+							"The Nightsong",
+							"The Selûnite Curse"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_the_absolute",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Absolute",
+				"lore_desc": "A mysterious, god-like entity commanding a massive cult across the Sword Coast. Worshipped by goblins, drow, and even nobles, the Absolute offers power and unity to its 'True Soul' followers, all linked by mind flayer parasites.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Cult",
+					"Deity"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Flaming Fist",
+						"difficulty": "Easy",
+						"explanation": "The Flaming Fist is a powerful mercenary army that is contracted to police the city of Baldur's Gate, led by figures like Grand Duke Ulder Ravengard.",
+						"image_url": "",
+						"question": "What is the name of the mercenary company that serves as the primary law enforcement in Baldur's Gate?",
+						"wrong": [
+							"The City Watch",
+							"The Order of the Gauntlet",
+							"The Zhentarim"
+						]
+					},
+					{
+						"correct": "Elfsong Tavern",
+						"difficulty": "Easy",
+						"explanation": "The Elfsong Tavern is known for the ghostly elven voice that can be heard singing within its walls, providing a safe haven for the party in Act 3.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldurs_gate.webp",
+						"question": "A famous and cozy tavern in the Lower City provides a central hub and a place to rest. What is it called?",
+						"wrong": [
+							"The Blushing Mermaid",
+							"The Yawning Portal",
+							"The Prancing Pony"
+						]
+					},
+					{
+						"correct": "Wyrm's Rock Fortress",
+						"difficulty": "Easy",
+						"explanation": "Wyrm's Rock Fortress is a formidable citadel situated on an island in the middle of the Chionthar River, connected by two large drawbridges.",
+						"image_url": "",
+						"question": "Lord Enver Gortash's inauguration as Archduke takes place at what massive fortress that serves as the main entrance to the Lower City?",
+						"wrong": [
+							"Moonrise Towers",
+							"The High Hall",
+							"Sea Tower of Balduran"
+						]
+					},
+					{
+						"correct": "Sorcerous Sundries",
+						"difficulty": "Easy",
+						"explanation": "Sorcerous Sundries is a towering magic shop in the Lower City, known for its vast collection of scrolls, potions, and magical artifacts.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldurs_gate.webp",
+						"question": "What is the name of the premier magic shop in the city, run by a projection of a legendary wizard?",
+						"wrong": [
+							"The Wizard of Wines",
+							"Magical Miscellany",
+							"Gale's Enchantments"
+						]
+					},
+					{
+						"correct": "Baldur's Mouth",
+						"difficulty": "Easy",
+						"explanation": "The Baldur's Mouth Gazette reports on the party's deeds and misdeeds, often with a biased slant depending on who you've made friends or enemies with.",
+						"image_url": "",
+						"question": "The city's official, and often sensationalist, newspaper is known by what name?",
+						"wrong": [
+							"The Daily Prophet",
+							"The Rivington Times",
+							"The Sword Coast Chronicle"
+						]
+					},
+					{
+						"correct": "Balduran",
+						"difficulty": "Medium",
+						"explanation": "The explorer Balduran founded the city after returning from his travels, using his vast wealth to build the original city walls.",
+						"image_url": "",
+						"question": "The city of Baldur's Gate was originally founded by what legendary adventurer?",
+						"wrong": [
+							"Ansur",
+							"Drizzt Do'Urden",
+							"Elminster"
+						]
+					},
+					{
+						"correct": "Nine-Fingers Keene",
+						"difficulty": "Medium",
+						"explanation": "Nine-Fingers Keene is the shrewd and respected Guildmaster of the Baldur's Gate underworld, operating out of a tavern in the city's sewers.",
+						"image_url": "",
+						"question": "Who is the leader of the city's criminal underworld, known simply as The Guild?",
+						"wrong": [
+							"Sarevok Anchev",
+							"The Stonelord",
+							"Xanathar"
+						]
+					},
+					{
+						"correct": "Sharess' Caress",
+						"difficulty": "Medium",
+						"explanation": "Sharess' Caress is a festhall in Wyrm's Crossing that Raphael uses as his base of operations on the mortal plane.",
+						"image_url": "",
+						"question": "The devil Raphael owns a lavish establishment in the city that doubles as a den of iniquity and a portal to his home. What is it called?",
+						"wrong": [
+							"The Devil's Fee",
+							"House of Hope",
+							"Avernus Arms"
+						]
+					},
+					{
+						"correct": "Orin the Red",
+						"difficulty": "Medium",
+						"explanation": "Orin the Red, a chosen of Bhaal and a master shapeshifter, orchestrates a series of horrific murders throughout Baldur's Gate.",
+						"image_url": "",
+						"question": "A Bhaalist serial killer is terrorizing the city, committing grisly murders to impress the Lord of Murder. What is her title?",
+						"wrong": [
+							"Dolor",
+							"The Dark Urge",
+							"Slayer"
+						]
+					},
+					{
+						"correct": "Ansur",
+						"difficulty": "Medium",
+						"explanation": "Ansur, known as the Heart of the Gate, was a bronze dragon and close friend of Balduran. His hidden lair contains a trial for those worthy of leading the city.",
+						"image_url": "",
+						"question": "Deep beneath the city, you can find the slumbering lair of what legendary bronze dragon, who was a companion to the city's founder?",
+						"wrong": [
+							"Klauth",
+							"Niv-Mizzet",
+							"Paladien"
+						]
+					},
+					{
+						"correct": "The Counting House",
+						"difficulty": "Hard",
+						"explanation": "The Counting House, managed by Head Banker Rakath Glitterbeard, is the most secure bank in Baldur's Gate and the headquarters of the Stone Lord's criminal activities.",
+						"image_url": "",
+						"question": "What is the name of the secure, high-security vault used by the city's wealthy elite, which becomes a key location for a heist?",
+						"wrong": [
+							"The Iron Bank",
+							"The Gold Depository",
+							"The Mint"
+						]
+					},
+					{
+						"correct": "Auntie Ethel",
+						"difficulty": "Hard",
+						"explanation": "Auntie Ethel, having survived her earlier encounter, can be found masquerading as the proprietor of 'The Blushing Mermaid' while preying on the city's desperate.",
+						"image_url": "",
+						"question": "Which infamous hag, first encountered in Act 1, has set up a new shop in the basement of a Lower City building?",
+						"wrong": [
+							"Grizelda the Greedy",
+							"Mad Maggie",
+							"Baba Yaga"
+						]
+					},
+					{
+						"correct": "The Lower City",
+						"difficulty": "Hard",
+						"explanation": "The heavily fortified Steel Watch Foundry is situated on the waterfront of the Lower City, where Gondian gnomes are forced to construct the automatons.",
+						"image_url": "https://skillcheckgame.com/assets/images/baldurs_gate.webp",
+						"question": "The Steel Watch Foundry, where Gortash builds his army, is located in which district of the city?",
+						"wrong": [
+							"The Upper City",
+							"Rivington",
+							"Wyrm's Crossing"
+						]
+					},
+					{
+						"correct": "Figaro's Facemaker's",
+						"difficulty": "Hard",
+						"explanation": "Access to the Undercity Ruins and the Temple of Bhaal is gained through a secret passage in the basement of Figaro's Facemaker's, a fittingly morbid front.",
+						"image_url": "",
+						"question": "The Temple of Bhaal, hidden deep beneath the city, is located directly under what tailor shop?",
+						"wrong": [
+							"Carm's Garms",
+							"Facemaker's Boutique",
+							"The Threadbare"
+						]
+					},
+					{
+						"correct": "Lucretious",
+						"difficulty": "Hard",
+						"explanation": "The enchanted skull of the lich Lucretious oversees the archives, offering lore and complaining about her eternal boredom to any who will listen.",
+						"image_url": "",
+						"question": "What is the name of the talking, hedonistic skull that serves as the 'librarian' in the Elfsong Tavern's cellar archives?",
+						"wrong": [
+							"Morte",
+							"Withers",
+							"Jergal"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_baldur's_gate",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Baldur's Gate",
+				"lore_desc": "A bustling, influential metropolis on the Sword Coast, known for its harbor, diverse population, and the formidable Flaming Fist mercenaries who act as its city guard. It is the ultimate destination for the player's journey.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"City",
+					"Setting"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The House of Hope",
+						"difficulty": "Easy",
+						"explanation": "Raphael's home is a lavish prison for his debtors' souls, complete with a boudoir, a feast hall, and its own personal archivist.",
+						"image_url": "",
+						"question": "This suave devil offers you a deal in exchange for your tadpole, but what is the name of his opulent, personal domain located in the Hells?",
+						"wrong": [
+							"The House of Healing",
+							"The House of Grief",
+							"The Counting House"
+						]
+					},
+					{
+						"correct": "Cambion",
+						"difficulty": "Easy",
+						"explanation": "A cambion is the offspring of a powerful fiend (usually a devil) and a mortal, inheriting great power and a sinister nature.",
+						"image_url": "",
+						"question": "What is the species of this fiendish deal-maker, a powerful type of devil known for their cunning and ambition?",
+						"wrong": [
+							"Tiefling",
+							"Succubus",
+							"Rakshasa"
+						]
+					},
+					{
+						"correct": "Raphael's Final Act",
+						"difficulty": "Easy",
+						"explanation": "The song was performed by Andrew Wincott, the voice actor for Raphael, and it plays during his climactic boss battle, making for a truly theatrical showdown.",
+						"image_url": "",
+						"question": "In a grand musical number, Raphael reveals his true intentions. What is the title of this iconic, self-aggrandizing song?",
+						"wrong": [
+							"Down by the River",
+							"The Power",
+							"I Want to Live"
+						]
+					},
+					{
+						"correct": "Hope",
+						"difficulty": "Easy",
+						"explanation": "Hope is the last bastion of goodness within the House of Hope and is key to escaping Raphael's domain.",
+						"image_url": "",
+						"question": "Raphael keeps a 'pet' in his house, an infernally corrupted being who has been there so long she's forgotten her own name. What name does the player give her?",
+						"wrong": [
+							"Faith",
+							"Charity",
+							"Patience"
+						]
+					},
+					{
+						"correct": "Haarlep",
+						"difficulty": "Easy",
+						"explanation": "Haarlep can take on Raphael's form, or any form one desires, and guards the key to Raphael's safe.",
+						"image_url": "https://skillcheckgame.com/assets/images/raphael.webp",
+						"question": "At Sharess' Caress, Raphael appears in a dashing human form. What is the name of the lecherous incubus who serves as his personal attendant?",
+						"wrong": [
+							"Korilla",
+							"Kith'rak",
+							"Lorroakan"
+						]
+					},
+					{
+						"correct": "The Orphic Hammer",
+						"difficulty": "Medium",
+						"explanation": "The Orphic Hammer is the only tool capable of breaking the chains that bind Prince Orpheus within the Astral Prism.",
+						"image_url": "",
+						"question": "What is the name of the legendary artifact Raphael tasks you with stealing from the Githyanki Creche in exchange for his help?",
+						"wrong": [
+							"The Blood of Lathander",
+							"The Spear of Night",
+							"The Astral Prism"
+						]
+					},
+					{
+						"correct": "Mephistopheles",
+						"difficulty": "Medium",
+						"explanation": "Raphael's entire scheme is a bid to usurp power in the Hells, believing he is more clever and capable than his father.",
+						"image_url": "",
+						"question": "Who is Raphael's powerful and influential father, one of the Archdukes of the Nine Hells?",
+						"wrong": [
+							"Asmodeus",
+							"Zariel",
+							"Bane"
+						]
+					},
+					{
+						"correct": "Soul Pillars",
+						"difficulty": "Medium",
+						"explanation": "These pillars draw power from the souls of his past victims, granting him immense strength and resilience until they are shattered.",
+						"image_url": "",
+						"question": "In the final battle against Raphael in his domain, what must be destroyed to make him vulnerable to attack?",
+						"wrong": [
+							"Infernal Chains",
+							"Brimstone Altars",
+							"Veridian Crystals"
+						]
+					},
+					{
+						"correct": "The Crown of Karsus",
+						"difficulty": "Medium",
+						"explanation": "The Crown of Karsus, which controls the Netherbrain, is a relic of immense power, capable of elevating its wearer to godhood.",
+						"image_url": "https://skillcheckgame.com/assets/images/raphael.webp",
+						"question": "What artifact does Raphael ultimately want to control for his own bid to rule the Nine Hells?",
+						"wrong": [
+							"The Amulet of Bhaal",
+							"The Gauntlets of Bane",
+							"The Scepter of Myrkul"
+						]
+					},
+					{
+						"correct": "The Devil's Fee",
+						"difficulty": "Medium",
+						"explanation": "The shop is run by Helsik, a diabolist who knows the complex ritual required to open a gateway to the Hells... for a price.",
+						"image_url": "",
+						"question": "The portal to the House of Hope can be opened at a specific shop in Baldur's Gate. What is the name of this diabolist's establishment?",
+						"wrong": [
+							"Sorcerous Sundries",
+							"The Bonecloak's Apothecary",
+							"Felogyr's Fireworks"
+						]
+					},
+					{
+						"correct": "Plaice",
+						"difficulty": "Hard",
+						"explanation": "Korilla Plaice is the sister of Mizora's other thrall, Zevlor. Her contract forces her to meticulously document all of Raphael's dealings.",
+						"image_url": "",
+						"question": "What is the last name of the dwarf paladin who Raphael has enslaved as his personal archivist within the House of Hope?",
+						"wrong": [
+							"Stonehand",
+							"Ironhead",
+							"Goldhand"
+						]
+					},
+					{
+						"correct": "The Crown of Karsus",
+						"difficulty": "Hard",
+						"explanation": "Raphael doesn't want your soul; he wants the means to conquer the Hells. The tadpole removal is just bait for a much grander prize.",
+						"image_url": "https://skillcheckgame.com/assets/images/raphael.webp",
+						"question": "According to the contract you can find, what is the 'final and non-negotiable' price for Raphael removing the tadpole?",
+						"wrong": [
+							"Your eternal soul",
+							"The Orphic Hammer",
+							"Absolute loyalty"
+						]
+					},
+					{
+						"correct": "To serve him in the Hells",
+						"difficulty": "Hard",
+						"explanation": "He offers to 'fix' her Infernal Engine in exchange for her eternal servitude, essentially trading one devilish master for another.",
+						"image_url": "",
+						"question": "If you play as Karlach, what does Raphael offer her as an alternative to returning to Avernus with Zariel or dying?",
+						"wrong": [
+							"A permanent cure for her engine",
+							"Vengeance against Gortash",
+							"A place in his personal guard"
+						]
+					},
+					{
+						"correct": "Multi-Attack: Soul-Strike",
+						"difficulty": "Hard",
+						"explanation": "This powerful ability lets him command the souls fueling him to unleash devastating spells, making him one of the game's toughest bosses.",
+						"image_url": "",
+						"question": "In his final demonic form, Raphael gains an ability that allows him to cast multiple powerful spells in one turn. What is this ability called?",
+						"wrong": [
+							"Hellfire Onslaught",
+							"Diabolical Fury",
+							"Infernal Retribution"
+						]
+					},
+					{
+						"correct": "Raphael",
+						"difficulty": "Hard",
+						"explanation": "In his arrogance, Raphael doesn't even bother to change his first name, hiding in plain sight with a simple change of clothes and a charming smile.",
+						"image_url": "",
+						"question": "Before his grand reveal, Raphael often refers to himself as a 'friend' or 'acquaintance'. What is the first name of his human guise?",
+						"wrong": [
+							"Rolan",
+							"Raph",
+							"Rael"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_raphael",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Raphael",
+				"lore_desc": "A charismatic and arrogant archdevil who resides in the House of Hope. He offers the player a tempting pact to remove their Mind Flayer parasite, but his deals always come with a steep price.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Devil",
+					"Pact-Maker"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Astral Prism",
+						"difficulty": "Easy",
+						"explanation": "The Astral Prism contains an entire pocket dimension, where The Emperor shields you and holds his greatest enemy captive.",
+						"image_url": "",
+						"question": "This mysterious mind flayer resides within a powerful Githyanki artifact, protecting you from the Absolute. What is this artifact called?",
+						"wrong": [
+							"The Orphic Hammer",
+							"The Planecaster's Sphere",
+							"The Soul Cage"
+						]
+					},
+					{
+						"correct": "The Dream Visitor",
+						"difficulty": "Easy",
+						"explanation": "He creates this idealized 'Dream Visitor' persona to gain your trust, as he believes you would reject him in his true mind flayer form.",
+						"image_url": "",
+						"question": "Throughout the early parts of the game, the Emperor appears to you in dreams as a customizable figure. What name is this persona most commonly known by?",
+						"wrong": [
+							"The Guardian Angel",
+							"The Spirit Guide",
+							"The Astral Self"
+						]
+					},
+					{
+						"correct": "Orpheus",
+						"difficulty": "Easy",
+						"explanation": "Prince Orpheus is the son of the first Gith queen, and his immense psionic power is the only thing strong enough to block the Netherbrain's influence.",
+						"image_url": "",
+						"question": "To maintain the party's freedom, the Emperor uses his psychic power to suppress the will of a Githyanki royal. Who is this imprisoned prince?",
+						"wrong": [
+							"Vlaakith",
+							"Lae'zel",
+							"Voss"
+						]
+					},
+					{
+						"correct": "Baldur's Gate",
+						"difficulty": "Easy",
+						"explanation": "As the adventurer Balduran, he was instrumental in the founding and early protection of the city that now bears his name.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_emperor.webp",
+						"question": "What famous city, central to the game's plot, did the Emperor help found in his previous life as a human adventurer?",
+						"wrong": [
+							"Waterdeep",
+							"Neverwinter",
+							"Elturel"
+						]
+					},
+					{
+						"correct": "Tadpoles",
+						"difficulty": "Easy",
+						"explanation": "He insists that consuming more parasites, preserved in jars, will grant you greater power without any negative side effects. A classic 'trust me' situation.",
+						"image_url": "",
+						"question": "The Emperor encourages you to evolve your Illithid powers by consuming more of the very creatures that infected you. What are these called?",
+						"wrong": [
+							"Mind Larvae",
+							"Intellect Devourers",
+							"Brain Maggots"
+						]
+					},
+					{
+						"correct": "Balduran",
+						"difficulty": "Medium",
+						"explanation": "The legendary founder of Baldur's Gate, Balduran, sailed to the far east and was captured by a mind flayer colony, eventually undergoing ceremorphosis.",
+						"image_url": "",
+						"question": "Before he became a mind flayer, what was the Emperor's human name?",
+						"wrong": [
+							"Ansur",
+							"Stelmane",
+							"Gortash"
+						]
+					},
+					{
+						"correct": "A dragon",
+						"difficulty": "Medium",
+						"explanation": "Ansur was a bronze dragon and a dear friend to Balduran. He patiently waited for his friend's return, only to be slain by Balduran after his illithid transformation.",
+						"image_url": "",
+						"question": "Deep beneath the city, you can find the remains of the Emperor's former adventuring companion and friend. What kind of creature was this companion, named Ansur?",
+						"wrong": [
+							"A giant",
+							"A djinni",
+							"An archmage"
+						]
+					},
+					{
+						"correct": "Githyanki",
+						"difficulty": "Medium",
+						"explanation": "The Emperor took over an old Githyanki hideout after escaping their clutches, turning their own base against them.",
+						"image_url": "",
+						"question": "The secret lair the Emperor uses beneath the Elfsong Tavern was once a hideout for what group, who are now his sworn enemies?",
+						"wrong": [
+							"The Bhaalspawn",
+							"The Knights of the Shield",
+							"The Zhentarim"
+						]
+					},
+					{
+						"correct": "Netherstones",
+						"difficulty": "Medium",
+						"explanation": "These stones were used by the Dead Three to control the Elder Brain and are the key to either dominating or destroying it.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_emperor.webp",
+						"question": "To defeat the Netherbrain, the Emperor insists you must retrieve three specific artifacts. What are these powerful objects called?",
+						"wrong": [
+							"Soul Coins",
+							"Mind Stones",
+							"Ioun Stones"
+						]
+					},
+					{
+						"correct": "The Knights of the Shield",
+						"difficulty": "Medium",
+						"explanation": "Originally a benevolent group, the Knights of the Shield became the Emperor's shadowy spy network after his return to the city.",
+						"image_url": "",
+						"question": "What was the name of the secret society Balduran founded, which he later took control of as the Emperor to manipulate events in Baldur's Gate?",
+						"wrong": [
+							"The Harpers",
+							"The Flaming Fist",
+							"The Zhentarim"
+						]
+					},
+					{
+						"correct": "An Ulitharid",
+						"difficulty": "Hard",
+						"explanation": "Ulitharids are born from a special tadpole and are destined to one day break away and form their own mind flayer colony by becoming a new Elder Brain.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_emperor.webp",
+						"question": "The Emperor claims that he retained his individuality after ceremorphosis, breaking free from the elder brain. What is the specific term for this rare type of powerful mind flayer?",
+						"wrong": [
+							"An Alhoon",
+							"A Mindwitness",
+							"A Neothelid"
+						]
+					},
+					{
+						"correct": "His former lover",
+						"difficulty": "Hard",
+						"explanation": "After Stelmane was turned into a vampire, Balduran felt he had no choice but to slay her, a memory that still seems to haunt him.",
+						"image_url": "",
+						"question": "Who was Duke Stelmane, a character from Balduran's past whose mind he secretly controlled for years?",
+						"wrong": [
+							"His adventuring rival",
+							"His mother",
+							"His first mate"
+						]
+					},
+					{
+						"correct": "The Elfsong Tavern",
+						"difficulty": "Hard",
+						"explanation": "The kitchens of the Elfsong Tavern hold a hidden passage to the knightly orders and, deeper still, the Emperor's personal sanctum.",
+						"image_url": "",
+						"question": "The secret entrance to the Emperor's old hideout is found in the basement of which famous Baldur's Gate tavern?",
+						"wrong": [
+							"The Blushing Mermaid",
+							"The Low Lantern",
+							"Wyrm's Crossing Inn"
+						]
+					},
+					{
+						"correct": "The Chamber of Courage",
+						"difficulty": "Hard",
+						"explanation": "This trial pits you against a strategic battlefield puzzle, testing your tactical prowess in the same way Balduran himself was once tested.",
+						"image_url": "",
+						"question": "What is the name of the 'Mind-Combat' challenge Ansur's spirit forces you to undergo to prove your worthiness?",
+						"wrong": [
+							"The Chamber of Strategy",
+							"The Chamber of Justice",
+							"The Chamber of Insight"
+						]
+					},
+					{
+						"correct": "He joins the Netherbrain",
+						"difficulty": "Hard",
+						"explanation": "Believing self-preservation is the only logical choice, he realigns with his old masters, becoming a final obstacle in your path to victory.",
+						"image_url": "",
+						"question": "If you refuse to give the Emperor the Netherstones, what final, desperate action does he take?",
+						"wrong": [
+							"He tries to kill you",
+							"He frees Orpheus",
+							"He flees the Astral Plane"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_the_emperor",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Emperor",
+				"lore_desc": "A renegade mind flayer who has freed himself from the control of an elder brain. He resides in the Astral Prism, protecting the party from the Absolute's influence and acting as a guide.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Mind Flayer",
+					"Guardian",
+					"Ally"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Moonrise Towers",
+						"difficulty": "Easy",
+						"explanation": "Moonrise Towers serves as the central headquarters for the Cult of the Absolute and Ketheric's personal seat of power.",
+						"image_url": "",
+						"question": "This imposing general rules over the Shadow-Cursed Lands from what ominous fortress?",
+						"wrong": [
+							"Grymforge",
+							"The Rosymorn Monastery",
+							"Wyrm's Rock Fortress"
+						]
+					},
+					{
+						"correct": "Myrkul",
+						"difficulty": "Easy",
+						"explanation": "Ketheric serves Myrkul, the Lord of Bones, which is why his powers are necromantic and why he transforms into a skeletal avatar.",
+						"image_url": "",
+						"question": "Ketheric Thorm is one of the three chosen of the Absolute. Which of the 'Dead Three' gods grants him his power over death?",
+						"wrong": [
+							"Bane",
+							"Bhaal",
+							"Shar"
+						]
+					},
+					{
+						"correct": "Isobel",
+						"difficulty": "Easy",
+						"explanation": "Isobel's death was the catalyst for Ketheric's turn to evil. He would do anything, even serve a dark god, to have her back.",
+						"image_url": "",
+						"question": "What is the name of Ketheric's beloved daughter, a cleric of Selûne whom he had resurrected against her will?",
+						"wrong": [
+							"Aylin",
+							"Melodia",
+							"Dame Aylin"
+						]
+					},
+					{
+						"correct": "The Nightsong",
+						"difficulty": "Easy",
+						"explanation": "The Nightsong, whose real name is Dame Aylin, is the daughter of the moon goddess Selûne, and her immortal soul is used to fuel Ketheric's unnatural life.",
+						"image_url": "https://skillcheckgame.com/assets/images/ketheric_thorm.webp",
+						"question": "Ketheric's invulnerability is not his own; he draws it from a powerful, imprisoned Aasimar. What is this captive's common title?",
+						"wrong": [
+							"The Daybreak",
+							"The Moonmaiden",
+							"The Shadowheart"
+						]
+					},
+					{
+						"correct": "Squire",
+						"difficulty": "Easy",
+						"explanation": "You can learn that Squire was once a real, living dog named Mystic who was a beloved childhood pet of Ketheric's.",
+						"image_url": "",
+						"question": "What is the name of Ketheric's loyal, three-headed skeletal dog that you can find on the first floor of Moonrise Towers?",
+						"wrong": [
+							"Scout",
+							"Scratch",
+							"Shovel"
+						]
+					},
+					{
+						"correct": "Shar",
+						"difficulty": "Medium",
+						"explanation": "Grief-stricken, he turned to Shar, the goddess of darkness and loss, and built a massive temple in her honor beneath the town of Reithwin.",
+						"image_url": "",
+						"question": "Before turning to Myrkul, Ketheric was a devout follower of a different, dark goddess. Who did he worship after his wife's death?",
+						"wrong": [
+							"Selûne",
+							"Lolth",
+							"Tiamat"
+						]
+					},
+					{
+						"correct": "A Netherstone",
+						"difficulty": "Medium",
+						"explanation": "His Netherstone is embedded in his armor. It's one of three stones that are used to control the Elder Brain.",
+						"image_url": "",
+						"question": "As one of the Absolute's chosen, Ketheric is in possession of a powerful artifact that allows him to command the cult. What is this item?",
+						"wrong": [
+							"A Soul Coin",
+							"An Ioun Stone",
+							"A Sharran Gem"
+						]
+					},
+					{
+						"correct": "The Mind Flayer Colony",
+						"difficulty": "Medium",
+						"explanation": "Ketheric retreats to the colony's main chamber, where the Elder Brain is being transformed into a Netherbrain.",
+						"image_url": "https://skillcheckgame.com/assets/images/ketheric_thorm.webp",
+						"question": "The final confrontation with Ketheric Thorm takes place far beneath Moonrise Towers, in what gruesome location?",
+						"wrong": [
+							"The Gauntlet of Shar",
+							"The House of Hope",
+							"The Wyrmway"
+						]
+					},
+					{
+						"correct": "Reithwin",
+						"difficulty": "Medium",
+						"explanation": "Reithwin was a thriving town dedicated to Selûne before Ketheric's grief and turn to Shar led to its cursed downfall.",
+						"image_url": "",
+						"question": "The Shadow Curse that plagues the lands around Moonrise was unleashed by Ketheric himself. What was the original name of the town he ruled and then destroyed?",
+						"wrong": [
+							"Elturel",
+							"Beregost",
+							"Greenest"
+						]
+					},
+					{
+						"correct": "The Last Light Inn",
+						"difficulty": "Medium",
+						"explanation": "The Last Light Inn is protected by Isobel, Ketheric's own daughter, who uses her power to hold back the curse her father unleashed.",
+						"image_url": "",
+						"question": "What is the name of the last bastion of safety in the Shadow-Cursed Lands, protected from the darkness by a Selûnite cleric's shield?",
+						"wrong": [
+							"The Friendly Arm Inn",
+							"The Elfsong Tavern",
+							"The Blushing Mermaid"
+						]
+					},
+					{
+						"correct": "Apostle of Myrkul",
+						"difficulty": "Hard",
+						"explanation": "This massive skeletal form is a direct manifestation of Myrkul's power, a final gift from the Lord of Bones to his most devoted general.",
+						"image_url": "https://skillcheckgame.com/assets/images/ketheric_thorm.webp",
+						"question": "In his final, desperate form, Ketheric merges with a grotesque creature to become the 'Apostle' of his god. What is this creature's name?",
+						"wrong": [
+							"Avatar of Myrkul",
+							"Champion of Myrkul",
+							"Reaper of Myrkul"
+						]
+					},
+					{
+						"correct": "Melodia",
+						"difficulty": "Hard",
+						"explanation": "Melodia Thorm's passing devastated Ketheric, leading him to first reject Selûne, then embrace Shar, and finally bargain with Myrkul.",
+						"image_url": "",
+						"question": "What was the name of Ketheric's deceased wife, whose death set him on his path of grief and darkness?",
+						"wrong": [
+							"Isolde",
+							"Selûne",
+							"Myrnia"
+						]
+					},
+					{
+						"correct": "Ketheric's Shield",
+						"difficulty": "Hard",
+						"explanation": "This magical shield not only protects Ketheric but also allows him to cast a powerful shielding spell on his nearby followers.",
+						"image_url": "",
+						"question": "Ketheric has a unique piece of equipment that allows him to magically shield his allies. What is this item called?",
+						"wrong": [
+							"Myrkul's Aegis",
+							"Bulwark of the Absolute",
+							"Shield of the Undying"
+						]
+					},
+					{
+						"correct": "Z'rell",
+						"difficulty": "Hard",
+						"explanation": "Z'rell is a True Soul who holds the rank of Disciple and can be found directing troops on the first floor of Moonrise Towers.",
+						"image_url": "",
+						"question": "Who was Ketheric's second-in-command, a drow who is ruthlessly devoted to him and the Absolute?",
+						"wrong": [
+							"Minthara",
+							"Orin",
+							"Sazza"
+						]
+					},
+					{
+						"correct": "His love for his daughter",
+						"difficulty": "Hard",
+						"explanation": "By reminding him of Isobel's love and his own paternal grief, it's possible to make him question his path, leading him to be abandoned by his god.",
+						"image_url": "",
+						"question": "Before the final fight, Ketheric can be persuaded to stand down, at least momentarily. What is the key motivation one must appeal to?",
+						"wrong": [
+							"His fear of Myrkul",
+							"His former faith in Selûne",
+							"His desire for power"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_ketheric_thorm",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Ketheric Thorm",
+				"lore_desc": "The seemingly immortal general leading the cult of the Absolute from Moonrise Towers. He is the chosen of Myrkul, the Lord of Bones, and a man driven by grief and a desire to see his daughter again.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"General",
+					"Undead"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Nautiloid",
+						"difficulty": "Easy",
+						"explanation": "The game opens with the player character trapped aboard one of these organic vessels as it flies over the city of Yartar.",
+						"image_url": "",
+						"question": "What is the common name for the flying, tentacled ships that these creatures use to travel between worlds?",
+						"wrong": [
+							"Spelljammer",
+							"Death Tyrant",
+							"Beholder"
+						]
+					},
+					{
+						"correct": "Ceremorphosis",
+						"difficulty": "Easy",
+						"explanation": "The entire plot of Baldur's Gate 3 revolves around the player trying to find a cure and stop this transformation from completing.",
+						"image_url": "",
+						"question": "What is the name of the horrific process where a tadpole burrows into a host's brain and transforms them into a Mind Flayer?",
+						"wrong": [
+							"Metamorphosis",
+							"Polymorph",
+							"Transmutation"
+						]
+					},
+					{
+						"correct": "Brains",
+						"difficulty": "Easy",
+						"explanation": "A Mind Flayer extracts and devours the brain of a sentient creature, absorbing its memories and psionic energy in the process.",
+						"image_url": "https://skillcheckgame.com/assets/images/mind_flayer.webp",
+						"question": "These creatures are psychic predators that require a specific part of a humanoid's body for sustenance. What do they eat?",
+						"wrong": [
+							"Souls",
+							"Spinal fluid",
+							"Dreams"
+						]
+					},
+					{
+						"correct": "Tadpole",
+						"difficulty": "Easy",
+						"explanation": "These psionically-altered tadpoles are the source of the player's strange powers and the ticking clock driving the story forward.",
+						"image_url": "",
+						"question": "The larval form of a Mind Flayer, which is implanted behind the eye of a host, is commonly known by what name?",
+						"wrong": [
+							"Intellect Devourer",
+							"Cranium Rat",
+							"Mindworm"
+						]
+					},
+					{
+						"correct": "An Elder Brain",
+						"difficulty": "Easy",
+						"explanation": "An Elder Brain is a horrifying amalgamation of countless deceased Mind Flayer brains, floating in a brine pool at the heart of their lair.",
+						"image_url": "",
+						"question": "What is the name for the massive, central intelligence that psychically controls an entire colony of Mind Flayers?",
+						"wrong": [
+							"A Hive Mind",
+							"A Grand Elder",
+							"An Overmind"
+						]
+					},
+					{
+						"correct": "Illithid",
+						"difficulty": "Medium",
+						"explanation": "While 'Mind Flayer' is the common name, sages and the creatures themselves use the term Illithid, which means 'mind ruler' in their language.",
+						"image_url": "",
+						"question": "What is the proper, in-universe term for the Mind Flayer species?",
+						"wrong": [
+							"Ghaik",
+							"Aboleth",
+							"Tsochari"
+						]
+					},
+					{
+						"correct": "The Githyanki",
+						"difficulty": "Medium",
+						"explanation": "Led by their liberator Gith, the Githyanki rose up, shattered the Illithid empire, and now hunt them across the planes.",
+						"image_url": "https://skillcheckgame.com/assets/images/mind_flayer.webp",
+						"question": "The Illithid empire once spanned the Astral Plane, enslaving a warrior race for millennia. Who are these sworn enemies of all Mind Flayers?",
+						"wrong": [
+							"The Drow",
+							"The Duergar",
+							"The Kuo-Toa"
+						]
+					},
+					{
+						"correct": "The Netherbrain",
+						"difficulty": "Medium",
+						"explanation": "The Netherbrain is an Elder Brain infused with the power of the Crown of Karsus, granting it godlike psionic abilities.",
+						"image_url": "",
+						"question": "What is the name of the colossal, crown-controlled evolution of an Elder Brain that serves as the game's final antagonist?",
+						"wrong": [
+							"The Overbrain",
+							"The Karsus Brain",
+							"The Absolute"
+						]
+					},
+					{
+						"correct": "An Ulitharid",
+						"difficulty": "Medium",
+						"explanation": "Only one in a hundred tadpoles is an Ulitharid, identifiable by its extra two face tentacles. The Emperor is one such example.",
+						"image_url": "",
+						"question": "A rare and powerful type of Mind Flayer can break away from an Elder Brain to start its own colony. What is this superior variant called?",
+						"wrong": [
+							"An Alhoon",
+							"A Mindwitness",
+							"A Neothelid"
+						]
+					},
+					{
+						"correct": "Intellect Devourers",
+						"difficulty": "Medium",
+						"explanation": "These creatures can magically consume a victim's brain and take over their body, acting as perfect infiltrators for their Illithid masters.",
+						"image_url": "",
+						"question": "What is the name of the walking brain-like creatures that serve as spies and foot soldiers for Mind Flayer colonies?",
+						"wrong": [
+							"Cranium Rats",
+							"Mindleeches",
+							"Thought Eaters"
+						]
+					},
+					{
+						"correct": "Mind Blast",
+						"difficulty": "Hard",
+						"explanation": "A Mind Flayer's Mind Blast is its most iconic and dangerous ability, capable of incapacitating an entire party of adventurers in an instant.",
+						"image_url": "",
+						"question": "What is the name of a Mind Flayer's signature psionic attack, which unleashes a cone of mental force that can stun multiple enemies?",
+						"wrong": [
+							"Psychic Scream",
+							"Ego Whip",
+							"Synaptic Static"
+						]
+					},
+					{
+						"correct": "The Githzerai",
+						"difficulty": "Hard",
+						"explanation": "While the Githyanki are militaristic raiders, the Githzerai are ascetic monks who seek inner, psychic perfection.",
+						"image_url": "",
+						"question": "What is the name of the other major faction of the Gith people, who separated from the Githyanki and now live in the chaotic plane of Limbo?",
+						"wrong": [
+							"The Githdrow",
+							"The Githforged",
+							"The Githpirates"
+						]
+					},
+					{
+						"correct": "The Far Realm",
+						"difficulty": "Hard",
+						"explanation": "The Far Realm is a place beyond reality, filled with incomprehensible madness and alien entities, a fitting origin for the mind-bending Illithids.",
+						"image_url": "",
+						"question": "According to ancient lore, from what distant and horrifying plane of existence are the Illithids theorized to have originally come?",
+						"wrong": [
+							"The Abyss",
+							"The Nine Hells",
+							"The Shadowfell"
+						]
+					},
+					{
+						"correct": "Ghaik",
+						"difficulty": "Hard",
+						"explanation": "To a Githyanki, 'Ghaik' is one of the foulest insults imaginable, used to describe the species that enslaved them for generations.",
+						"image_url": "https://skillcheckgame.com/assets/images/mind_flayer.webp",
+						"question": "What is the Githyanki term for Mind Flayers, a word dripping with hatred that translates roughly to 'the sickness'?",
+						"wrong": [
+							"Tsk'va",
+							"Istik",
+							"Kaincha"
+						]
+					},
+					{
+						"correct": "Alhoons",
+						"difficulty": "Hard",
+						"explanation": "An Alhoon is a Mind Flayer lich, a being that has used forbidden magic to achieve a twisted form of immortality outside the Elder Brain's collective.",
+						"image_url": "",
+						"question": "Mind Flayers who pursue arcane magic instead of psionics risk becoming outcasts shunned by the Elder Brain. What are these undead Illithid mages called?",
+						"wrong": [
+							"Mindliches",
+							"Ulitharids",
+							"Brainstealers"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_mind_flayer",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Mind Flayer",
+				"lore_desc": "Psionic tyrants of the Underdark, also known as Illithids. These tentacled aberrations reproduce via ceremorphosis, a horrific process where a tadpole transforms a humanoid host from the inside out.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Creature",
+					"Aberration",
+					"Psionic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Goblins",
+						"difficulty": "Easy",
+						"explanation": "The cub is taken to the Goblin Camp, where it's tormented and used for a cruel game of 'chicken-chasing'.",
+						"image_url": "",
+						"question": "After its mother is slain, what group of rambunctious creatures captures the owlbear cub and takes it to their camp?",
+						"wrong": [
+							"Gnolls",
+							"Kobolds",
+							"Myconids"
+						]
+					},
+					{
+						"correct": "A cave",
+						"difficulty": "Easy",
+						"explanation": "The Owlbear Nest is a distinct cave system, which also contains a Gilded Chest of Selûne.",
+						"image_url": "",
+						"question": "You first encounter the owlbear cub and its protective mother in what type of natural formation near the Blighted Village?",
+						"wrong": [
+							"A swamp",
+							"A deep forest",
+							"An abandoned temple"
+						]
+					},
+					{
+						"correct": "Chicken-Chasing",
+						"difficulty": "Easy",
+						"explanation": "You can intervene in the chicken-chasing game, either by participating or persuading the goblins to give you the cub.",
+						"image_url": "",
+						"question": "At the Goblin Camp, the cub is being forced to participate in a cruel sport. What is this 'game' called?",
+						"wrong": [
+							"Rat-Racing",
+							"Frog-Jumping",
+							"Pig-Wrestling"
+						]
+					},
+					{
+						"correct": "Its paw",
+						"difficulty": "Easy",
+						"explanation": "The cub has a wounded paw, and players with the right skills can tend to the injury to help it heal.",
+						"image_url": "",
+						"question": "When the cub finally arrives at your camp, it's suffering from a noticeable injury. Which part of its body is hurt?",
+						"wrong": [
+							"Its wing",
+							"Its beak",
+							"Its eye"
+						]
+					},
+					{
+						"correct": "A ball",
+						"difficulty": "Easy",
+						"explanation": "If you have both Scratch and the owlbear cub, you can witness adorable scenes of them playing fetch together.",
+						"image_url": "https://skillcheckgame.com/assets/images/owlbear_cub.webp",
+						"question": "Once it feels at home in your camp, the owlbear cub enjoys playing fetch with a specific round object. What is this toy?",
+						"wrong": [
+							"A skull",
+							"A severed hand",
+							"A magic stone"
+						]
+					},
+					{
+						"correct": "\"Mama\" or \"Papa\"",
+						"difficulty": "Medium",
+						"explanation": "Depending on your actions, the cub will imprint on you, seeing you as its new parent and protector.",
+						"image_url": "",
+						"question": "If you use a 'Speak with Animals' spell on the cub, it may eventually start referring to you by what affectionate parental title?",
+						"wrong": [
+							"\"Chief\"",
+							"\"Friend-Leader\"",
+							"\"Snack-Giver\""
+						]
+					},
+					{
+						"correct": "Scratch",
+						"difficulty": "Medium",
+						"explanation": "Initially wary of each other, the cub and the dog Scratch eventually become inseparable best friends.",
+						"image_url": "https://skillcheckgame.com/assets/images/owlbear_cub.webp",
+						"question": "After a few long rests, the lonely owlbear cub forms a heartwarming friendship with another animal resident of the camp. Who is this friend?",
+						"wrong": [
+							"The Strange Ox",
+							"A carrier pigeon",
+							"A squirrel"
+						]
+					},
+					{
+						"correct": "Edowin",
+						"difficulty": "Medium",
+						"explanation": "Brynna and Andrick are trying to retrieve their brother Edowin's body, who was killed by the owlbear just before you arrived.",
+						"image_url": "",
+						"question": "If you return to the owlbear cave after dealing with its mother, you'll find the siblings of a dying True Soul arguing over the corpse. What was their brother's name?",
+						"wrong": [
+							"Andrick",
+							"Brynna",
+							"Novice Crusher"
+						]
+					},
+					{
+						"correct": "Killed and dismembered it",
+						"difficulty": "Medium",
+						"explanation": "One of the darkest moments for a resisting Dark Urge player is waking up covered in the feathers and blood of their beloved camp pet.",
+						"image_url": "",
+						"question": "If you are playing as The Dark Urge and fail to resist your murderous thoughts, what do you tragically wake up to find you've done to the owlbear cub?",
+						"wrong": [
+							"Scared it away forever",
+							"Sold it to a circus",
+							"Given it to the goblins"
+						]
+					},
+					{
+						"correct": "Armour",
+						"difficulty": "Medium",
+						"explanation": "If the cub survives and is cared for, it grows into a formidable, armour-clad ally for the game's climactic confrontation.",
+						"image_url": "",
+						"question": "In the final battle for Baldur's Gate, a fully grown and armored owlbear can be summoned as an ally. What special gear is it wearing?",
+						"wrong": [
+							"A magic saddle",
+							"A flaming collar",
+							"Goggles of Night"
+						]
+					},
+					{
+						"correct": "A keg of ale",
+						"difficulty": "Hard",
+						"explanation": "A successful skill check allows you to gently steer the cub away from the strong drink, preventing a potentially messy situation.",
+						"image_url": "",
+						"question": "During the Tiefling celebration, you can catch the owlbear cub curiously sniffing a large container of alcohol. What is it about to drink?",
+						"wrong": [
+							"A bottle of wine",
+							"A flask of whiskey",
+							"A potion of invisibility"
+						]
+					},
+					{
+						"correct": "Owlbear Egg",
+						"difficulty": "Hard",
+						"explanation": "This is one of the few ways to acquire an Owlbear Egg, an item desired by several characters and merchants for its rarity and value.",
+						"image_url": "",
+						"question": "If you kill the owlbear cub instead of saving it, what unique and valuable item can be looted from its tiny body?",
+						"wrong": [
+							"Cub's Collar",
+							"Feather of Strength",
+							"Beak of Biting"
+						]
+					},
+					{
+						"correct": "Krolla",
+						"difficulty": "Hard",
+						"explanation": "Krolla is the goblin you must speak to, and either outwit, intimidate, or pay off to secure the cub's freedom.",
+						"image_url": "https://skillcheckgame.com/assets/images/owlbear_cub.webp",
+						"question": "What is the name of the goblin who runs the chicken-chasing 'game' and holds the owlbear cub's fate in her hands?",
+						"wrong": [
+							"Sazza",
+							"Priestess Gut",
+							"Dror Ragzlin"
+						]
+					},
+					{
+						"correct": "Animal Handling",
+						"difficulty": "Hard",
+						"explanation": "A successful Animal Handling check allows you to soothe the dreaming cub, strengthening your bond with the creature.",
+						"image_url": "",
+						"question": "During a specific long rest scene, the cub can be seen whimpering in its sleep. What skill must be used to successfully comfort it through its nightmare?",
+						"wrong": [
+							"Sleight of Hand",
+							"Persuasion",
+							"Medicine"
+						]
+					},
+					{
+						"correct": "A drow",
+						"difficulty": "Hard",
+						"explanation": "The owlbear's previous encounter was with a drow, and she seems to have a lingering negative association, causing her to back away.",
+						"image_url": "",
+						"question": "If you have the Disguise Self spell and approach the owlbear mother while disguised as a specific race, she will not be hostile. Which race is it?",
+						"wrong": [
+							"A goblin",
+							"A gnome",
+							"A githyanki"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_owlbear_cub",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "Owlbear Cub",
+				"lore_desc": "A young, orphaned owlbear that can be befriended and brought to the player's camp, where it becomes a beloved and occasionally mischievous resident.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Creature",
+					"Companion",
+					"Camp Follower"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Ceremorphosis",
+						"difficulty": "Easy",
+						"explanation": "Ceremorphosis is the horrifying process where a tadpole consumes a host's brain, turning them into a new mind flayer.",
+						"image_url": "",
+						"question": "This powerful artifact prevents the Mind Flayer tadpole in your head from completing its transformation. What is this dreaded process called?",
+						"wrong": [
+							"Psionic Overload",
+							"Illithid Metamorphosis",
+							"Brain Bloom"
+						]
+					},
+					{
+						"correct": "Lae'zel",
+						"difficulty": "Easy",
+						"explanation": "Lae'zel's personal quest is entirely centered around the Prism, which she calls the 'k'liir,' believing it holds the key to defeating the Illithids.",
+						"image_url": "",
+						"question": "Which Githyanki companion is fiercely dedicated to retrieving the Astral Prism for her people and her queen?",
+						"wrong": [
+							"Shadowheart",
+							"Karlach",
+							"Minthara"
+						]
+					},
+					{
+						"correct": "The Emperor",
+						"difficulty": "Easy",
+						"explanation": "The guardian is later revealed to be a powerful, renegade mind flayer known as The Emperor.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_astral_prism.webp",
+						"question": "Who is the mysterious 'Dream Guardian' residing within the prism, who appears in your dreams to offer protection and guidance?",
+						"wrong": [
+							"The Absolute",
+							"The Guardian",
+							"The Dreamer"
+						]
+					},
+					{
+						"correct": "Shadowheart",
+						"difficulty": "Easy",
+						"explanation": "Shadowheart was tasked by her goddess Shar to steal the prism from the Githyanki, setting the game's entire plot in motion.",
+						"image_url": "",
+						"question": "At the beginning of the game, which companion is in possession of the prism, referring to it simply as a 'strange device'?",
+						"wrong": [
+							"Gale",
+							"Astarion",
+							"Wyll"
+						]
+					},
+					{
+						"correct": "Purple",
+						"difficulty": "Easy",
+						"explanation": "The interior of the prism is a swirling, crystalline expanse of purple and indigo energy.",
+						"image_url": "",
+						"question": "The strange, ethereal landscape inside the Astral Prism is dominated by what primary color?",
+						"wrong": [
+							"Green",
+							"Red",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "The Orphic Hammer",
+						"difficulty": "Medium",
+						"explanation": "This legendary hammer is said to be the only tool that can break the bonds imprisoning the individual trapped within the prism.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_astral_prism.webp",
+						"question": "The Githyanki believe a legendary weapon is the only key capable of opening the prism. What is this powerful artifact called?",
+						"wrong": [
+							"The Silver Sword of Gith",
+							"The Soulbreaker Greatsword",
+							"The Astral Blade"
+						]
+					},
+					{
+						"correct": "The Zaith'isk",
+						"difficulty": "Medium",
+						"explanation": "The Zaith'isk is supposed to purify individuals infected with tadpoles, but it is actually designed to kill the host.",
+						"image_url": "",
+						"question": "In the Githyanki Crèche, you can use a dangerous device to try and connect with the prism's power. What is this machine called?",
+						"wrong": [
+							"The Psionic Amplifier",
+							"The Tadpole Extractor",
+							"The Illithid Purifier"
+						]
+					},
+					{
+						"correct": "Orpheus",
+						"difficulty": "Medium",
+						"explanation": "Prince Orpheus is the son of the original Gith who led the rebellion against the mind flayers, and his psychic power is immense.",
+						"image_url": "",
+						"question": "The Githyanki trapped inside the prism is said to be the only one who can defeat the Absolute. What is his name?",
+						"wrong": [
+							"Voss",
+							"Kith'rak",
+							"Gith"
+						]
+					},
+					{
+						"correct": "Balduran",
+						"difficulty": "Medium",
+						"explanation": "The mind flayer known as the Emperor is none other than Balduran, the legendary founder of Baldur's Gate.",
+						"image_url": "",
+						"question": "The Emperor, the prism's inhabitant, was once a famed human adventurer and the founder of a great city. What was his original name?",
+						"wrong": [
+							"Elminster",
+							"Ansur",
+							"Ketheric"
+						]
+					},
+					{
+						"correct": "Inquisitor",
+						"difficulty": "Medium",
+						"explanation": "The Githyanki honour guard is led by an Inquisitor, a high-ranking warrior-judge in their society.",
+						"image_url": "",
+						"question": "When you first physically enter the prism to defend its occupant, you are attacked by a squad of Githyanki. What is their leader's title?",
+						"wrong": [
+							"Kith'rak",
+							"Supreme",
+							"Sarth"
+						]
+					},
+					{
+						"correct": "Vlaakith",
+						"difficulty": "Hard",
+						"explanation": "Vlaakith fears that the prisoner within the prism, Prince Orpheus, could expose her as a false heir and usurp her throne.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_astral_prism.webp",
+						"question": "Who is the tyrannical Lich-Queen of the Githyanki who demands the prism be brought to her at all costs?",
+						"wrong": [
+							"Tiamat",
+							"Lolth",
+							"Shar"
+						]
+					},
+					{
+						"correct": "Gith",
+						"difficulty": "Hard",
+						"explanation": "Gith was the warrior who led her people to freedom, and Orpheus is her son, carrying on her legacy of fighting the Illithid empire.",
+						"image_url": "",
+						"question": "Prince Orpheus is the direct heir of the Githyanki rebellion, being the son of which historical figure who first fought the Mind Flayers?",
+						"wrong": [
+							"Zerthimon",
+							"Dak'kon",
+							"Vilquar"
+						]
+					},
+					{
+						"correct": "The Knights of the Shield",
+						"difficulty": "Hard",
+						"explanation": "Before becoming a mind flayer, Balduran led a famous adventuring company called the Knights of the Shield.",
+						"image_url": "",
+						"question": "Inside the prism, The Emperor keeps mementos from his past life. One book details his old adventuring party. What was their name?",
+						"wrong": [
+							"The Company of Crazed Venturers",
+							"The Flaming Fist",
+							"The Order of the Empty Hand"
+						]
+					},
+					{
+						"correct": "Consume it",
+						"difficulty": "Hard",
+						"explanation": "The Emperor subtly grooms you to accept illithid power, suggesting that consuming the prism's energy is a path to salvation.",
+						"image_url": "",
+						"question": "Before revealing his true form, the Dream Visitor suggests that if they falter, you should do what with the prism's power?",
+						"wrong": [
+							"Release it",
+							"Destroy it",
+							"Offer it to the gods"
+						]
+					},
+					{
+						"correct": "Psionic resistance to the Netherbrain",
+						"difficulty": "Hard",
+						"explanation": "By consuming the brain of the Gith prince, the Emperor absorbs Orpheus's unique psionic abilities, which are the key to shielding the party's minds.",
+						"image_url": "",
+						"question": "If you side with the Emperor and he consumes Orpheus's brain, what specific type of psionic ability does he claim to have gained?",
+						"wrong": [
+							"The ability to time travel",
+							"Control over all githyanki",
+							"The power of a god"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_the_astral_prism",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Astral Prism",
+				"lore_desc": "A mysterious Githyanki artifact of immense power, housing a secret that is central to the player's survival and the fate of the Sword Coast.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Artifact",
+					"Githyanki",
+					"Key Item"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Mind Flayers",
+						"difficulty": "Easy",
+						"explanation": "Nautiloids are the signature vessels of the Mind Flayers, or Illithids, used for their raids across the planes.",
+						"image_url": "",
+						"question": "The game begins aboard this tentacled, spelljamming ship, which is under the command of what psychic race?",
+						"wrong": [
+							"Githyanki",
+							"Beholders",
+							"Aboleths"
+						]
+					},
+					{
+						"correct": "Avernus",
+						"difficulty": "Easy",
+						"explanation": "The ship is caught in the crossfire of the eternal Blood War, which rages across Avernus, the first layer of the Nine Hells.",
+						"image_url": "",
+						"question": "In the tutorial, the Nautiloid is flying through which fiery, war-torn plane of existence?",
+						"wrong": [
+							"The Astral Plane",
+							"The Shadowfell",
+							"The Abyss"
+						]
+					},
+					{
+						"correct": "Lae'zel",
+						"difficulty": "Easy",
+						"explanation": "You find Lae'zel fighting imps shortly after you awaken, establishing her as a formidable warrior from the very beginning.",
+						"image_url": "",
+						"question": "Also trapped on the ship is a fierce Githyanki warrior who can become one of your first companions. What is her name?",
+						"wrong": [
+							"Shadowheart",
+							"Karlach",
+							"Voss"
+						]
+					},
+					{
+						"correct": "The transponder",
+						"difficulty": "Easy",
+						"explanation": "Your final objective on the Nautiloid is to connect the transponder, initiating a plane shift that causes the ship to crash.",
+						"image_url": "",
+						"question": "To pilot the ship and escape the Hells, the mind flayer at the helm must connect a series of nerves to what control device?",
+						"wrong": [
+							"The spelljammer helm",
+							"The psychic matrix",
+							"The navigation orb"
+						]
+					},
+					{
+						"correct": "Us",
+						"difficulty": "Easy",
+						"explanation": "If you free Us from its pod, it will fight alongside you on the Nautiloid and can even be found and recruited again later in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_nautiloid.webp",
+						"question": "Inside a pod in the nursery, you can free a friendly, sentient creature that looks like a brain on legs. What is its name?",
+						"wrong": [
+							"We",
+							"Them",
+							"It"
+						]
+					},
+					{
+						"correct": "Red Dragons",
+						"difficulty": "Medium",
+						"explanation": "The Githyanki have a pact with red dragons, who serve as their fearsome mounts in the war against the mind flayers.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_nautiloid.webp",
+						"question": "As the Nautiloid flies through the Hells, it is being pursued and attacked by Githyanki warriors riding what powerful, winged creatures?",
+						"wrong": [
+							"Nightmares",
+							"Wyverns",
+							"Griffons"
+						]
+					},
+					{
+						"correct": "Commander Zhalk",
+						"difficulty": "Medium",
+						"explanation": "Commander Zhalk is a tough optional boss; defeating him before the time runs out is a major challenge for new players.",
+						"image_url": "",
+						"question": "On the bridge of the ship, a powerful cambion is busy fighting a mind flayer, giving you a chance to slip by. What is this devil's name?",
+						"wrong": [
+							"Raphael",
+							"Zariel",
+							"Mizora"
+						]
+					},
+					{
+						"correct": "Lae'zel",
+						"difficulty": "Medium",
+						"explanation": "Just before you wake up, you witness a cutscene showing Lae'zel being restrained and infected by one of the tadpoles.",
+						"image_url": "",
+						"question": "Besides your character, you can witness another person being implanted with a mind flayer tadpole. Who is this unfortunate captive?",
+						"wrong": [
+							"Astarion",
+							"Gale",
+							"Wyll"
+						]
+					},
+					{
+						"correct": "The Sword Coast",
+						"difficulty": "Medium",
+						"explanation": "The ship crashes just east of the city of Baldur's Gate, kicking off the adventure along the iconic Sword Coast.",
+						"image_url": "",
+						"question": "After initiating the plane shift, the damaged Nautiloid crash-lands on a beach along what famous region of Faerûn?",
+						"wrong": [
+							"The Spine of the World",
+							"The Sea of Swords",
+							"The Western Heartlands"
+						]
+					},
+					{
+						"correct": "Shadowheart",
+						"difficulty": "Medium",
+						"explanation": "Freeing Shadowheart from her pod is one of the first major choices you can make, determining if she joins you on the ship or if you meet her later.",
+						"image_url": "",
+						"question": "You also find a mysterious cleric of Shar trapped inside a mind flayer pod near the start of the ship. What is her name?",
+						"wrong": [
+							"Jahiera",
+							"Minsc",
+							"Isobel"
+						]
+					},
+					{
+						"correct": "The Everburn Blade",
+						"difficulty": "Hard",
+						"explanation": "This magical greatsword deals extra fire damage and is one of the best early-game weapons, rewarding players who take on the difficult fight.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_nautiloid.webp",
+						"question": "If you manage to defeat Commander Zhalk on the bridge, he drops a powerful, flaming greatsword. What is this weapon called?",
+						"wrong": [
+							"Sword of Justice",
+							"Sorrow",
+							"Hellfire Greataxe"
+						]
+					},
+					{
+						"correct": "The Underdark",
+						"difficulty": "Hard",
+						"explanation": "A second, ancient Nautiloid can be found crashed in the Underdark, containing powerful loot and a clue about the Absolute's army.",
+						"image_url": "",
+						"question": "The crashed Nautiloid from the tutorial isn't the only one in the game. The wreckage of a much older ship can be found in which dark, subterranean area?",
+						"wrong": [
+							"The Shadow-Cursed Lands",
+							"Grymforge",
+							"The Zhentarim Hideout"
+						]
+					},
+					{
+						"correct": "Brine pools",
+						"difficulty": "Hard",
+						"explanation": "These horrifying brine pools are central to the Illithid life cycle, serving as the gestation sites for new mind flayers.",
+						"image_url": "",
+						"question": "The large, fluid-filled chambers used by mind flayers to convert victims into more of their kind are known by what name?",
+						"wrong": [
+							"Transformation vats",
+							"Spawning chambers",
+							"Ceremorphosis pods"
+						]
+					},
+					{
+						"correct": "A silver sword",
+						"difficulty": "Hard",
+						"explanation": "The discovery of a Githyanki silver sword wound hints at the intense battle that took place just before the game started.",
+						"image_url": "",
+						"question": "Near Shadowheart's pod is a dead mind flayer. A successful Investigation check reveals it was killed by what type of signature Githyanki weapon?",
+						"wrong": [
+							"A psionic blade",
+							"An adamantine mace",
+							"A dragon's tooth dagger"
+						]
+					},
+					{
+						"correct": "Binngey",
+						"difficulty": "Hard",
+						"explanation": "The note from Binngey to her beloved Myrnath is a small, sad detail that highlights the personal tragedies caused by the mind flayers' attack.",
+						"image_url": "",
+						"question": "One of the enthralled victims on the ship is a gnome carrying a tragic, smudged note from his love. What is her name?",
+						"wrong": [
+							"Lillimp",
+							"Wulbren",
+							"Barcus"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_the_nautiloid",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "The Nautiloid",
+				"lore_desc": "An iconic, squid-like spelljamming vessel used by mind flayers to traverse the planes, and the starting location where the player awakens after being abducted.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Vehicle",
+					"Mind Flayer"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Raphael",
+						"difficulty": "Easy",
+						"explanation": "The House of Hope is Raphael's personal domain, a place where he keeps his collection of souls, treasures, and secrets.",
+						"image_url": "https://skillcheckgame.com/assets/images/house_of_hope.webp",
+						"question": "This lavish, demonic mansion serves as the personal prison and sanctuary for which charming archdevil?",
+						"wrong": [
+							"Zariel",
+							"Asmodeus",
+							"Mephistopheles"
+						]
+					},
+					{
+						"correct": "Avernus",
+						"difficulty": "Easy",
+						"explanation": "Despite its opulent appearance, the house is situated in Avernus, the first and most chaotic layer of the Nine Hells.",
+						"image_url": "",
+						"question": "The House of Hope is located within which fiery, war-torn layer of the Nine Hells?",
+						"wrong": [
+							"Dis",
+							"Stygia",
+							"Nessus"
+						]
+					},
+					{
+						"correct": "Hope",
+						"difficulty": "Easy",
+						"explanation": "Hope is a dwarven cleric who was tricked by Raphael. She becomes your guide and ally when you infiltrate his home.",
+						"image_url": "",
+						"question": "What is the name of the eternally optimistic and imprisoned character who is the namesake of the house?",
+						"wrong": [
+							"Faith",
+							"Charity",
+							"Prudence"
+						]
+					},
+					{
+						"correct": "A diamond",
+						"difficulty": "Easy",
+						"explanation": "The ritual requires a diamond, incense, a skull, and a coin of Mammon, placed in a specific pattern.",
+						"image_url": "",
+						"question": "To open a portal to the House of Hope, Helsik's ritual requires several components, including a specific, valuable gemstone. What kind is it?",
+						"wrong": [
+							"A ruby",
+							"An emerald",
+							"A sapphire"
+						]
+					},
+					{
+						"correct": "Tempt them",
+						"difficulty": "Easy",
+						"explanation": "Every element of the house is a temptation designed to lure mortals into making a deal with Raphael and forfeiting their souls.",
+						"image_url": "",
+						"question": "The entire purpose of the House of Hope's luxurious design, from the feast to the bathhouse, is to do what to its mortal visitors?",
+						"wrong": [
+							"Confuse them",
+							"Terrify them",
+							"Bore them"
+						]
+					},
+					{
+						"correct": "Korrilla",
+						"difficulty": "Medium",
+						"explanation": "You can find Korrilla in the house and, with Hope's help, temporarily restore her sanity.",
+						"image_url": "",
+						"question": "Hope's older sister is another prisoner of Raphael, driven to madness and tasked with cleaning the house. What is her name?",
+						"wrong": [
+							"Nocturne",
+							"Orin",
+							"Mizora"
+						]
+					},
+					{
+						"correct": "The Helldusk Gloves",
+						"difficulty": "Medium",
+						"explanation": "The gloves are locked in Raphael's safe. They are part of the Helldusk set, one of the most powerful armor sets in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/house_of_hope.webp",
+						"question": "In Raphael's boudoir, you can find a powerful piece of his signature infernal armor set, which grants bonuses to spellcasters. What is this item called?",
+						"wrong": [
+							"The Gauntlets of Hill Giant Strength",
+							"The Gloves of Power",
+							"The Abyss Beckoners"
+						]
+					},
+					{
+						"correct": "The Orphic Hammer",
+						"difficulty": "Medium",
+						"explanation": "Raphael offers you the Orphic Hammer in exchange for the Crown of Karsus, but you can choose to steal it from his vault instead.",
+						"image_url": "",
+						"question": "The primary objective for many who brave the House of Hope is to steal a legendary weapon capable of breaking Orpheus's bonds. What is it?",
+						"wrong": [
+							"The Nyrulna Trident",
+							"The Balduran's Giantslayer",
+							"The Silver Sword of the Astral Plane"
+						]
+					},
+					{
+						"correct": "Destroy the two pillars",
+						"difficulty": "Medium",
+						"explanation": "Hope is chained in the center of her prison, and the two massive pillars on either side must be destroyed to release her.",
+						"image_url": "",
+						"question": "Before you can confront Raphael, you must free Hope from her prison. How do you break her magical chains?",
+						"wrong": [
+							"Solve a light puzzle",
+							"Recite a prayer to Lathander",
+							"Pick the infernal lock"
+						]
+					},
+					{
+						"correct": "Haarlep",
+						"difficulty": "Medium",
+						"explanation": "Haarlep is a shapeshifting fiend who guards the key to Raphael's safe and offers a dangerous 'encounter' to the player.",
+						"image_url": "",
+						"question": "Raphael's personal incubus, who guards his boudoir, takes on a perfect copy of Raphael's form. What is this manipulative creature's name?",
+						"wrong": [
+							"Incubus",
+							"Succubus",
+							"Mol"
+						]
+					},
+					{
+						"correct": "Helsik",
+						"difficulty": "Hard",
+						"explanation": "Helsik is a former worshipper of Mammon who now runs a shop as a front for her diabolical dealings.",
+						"image_url": "https://skillcheckgame.com/assets/images/house_of_hope.webp",
+						"question": "In Baldur's Gate, you must seek out a diabolist to learn the ritual to enter the House of Hope. Who is this proprietor of the Devil's Fee shop?",
+						"wrong": [
+							"Lorroakan",
+							"Sorcerous Sundries",
+							"Figaro"
+						]
+					},
+					{
+						"correct": "Verillius Receptor",
+						"difficulty": "Hard",
+						"explanation": "Verillius Receptor is a stickler for rules and will only bend them for the most persuasive, or intimidating, of individuals.",
+						"image_url": "",
+						"question": "Raphael's archives are guarded by a polite but firm devil who will only give you your contract if you pass a difficult speech check. What is his name?",
+						"wrong": [
+							"The Archivist",
+							"K'rallo",
+							"Nubaldin"
+						]
+					},
+					{
+						"correct": "An Observer",
+						"difficulty": "Hard",
+						"explanation": "These Observers are a constant threat while sneaking through the House of Hope, forcing players to be cautious.",
+						"image_url": "",
+						"question": "As a security measure, a specific type of powerful, multi-eyed beholder-kin floats through the halls, ready to sound an alarm. What is it called?",
+						"wrong": [
+							"A Beholder",
+							"A Spectator",
+							"A Gauth"
+						]
+					},
+					{
+						"correct": "Cambions",
+						"difficulty": "Hard",
+						"explanation": "Raphael summons four Vengeful Cambions, each representing a different class, making the final fight incredibly challenging.",
+						"image_url": "",
+						"question": "During the final battle, Raphael transforms into his true cambion form and summons several powerful, winged fiends to aid him. What are they called?",
+						"wrong": [
+							"Imps",
+							"Hell Hounds",
+							"Erinyes"
+						]
+					},
+					{
+						"correct": "The warden of the House of Hope",
+						"difficulty": "Hard",
+						"explanation": "With Raphael defeated, Hope takes control of the domain, vowing to make it a true place of hope and redemption for the souls trapped within.",
+						"image_url": "",
+						"question": "If Hope survives the battle against Raphael, she makes a final declaration, claiming a new title for herself. What does she become?",
+						"wrong": [
+							"The queen of Avernus",
+							"The new archdevil",
+							"The guardian of the portal"
+						]
+					}
+				]
+			},
+			"id": "baldur's_gate_3_house_of_hope",
+			"meta": {
+				"date_added": "2026-04-22",
+				"entity_category": "Theme Item",
+				"full_title": "House of Hope",
+				"lore_desc": "The opulent, infernal residence of the archdevil Raphael, located in Avernus. It's a place of temptation, luxury, and eternal damnation.",
+				"theme_origin": "baldur's gate 3",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Nine Hells",
+					"Dungeon"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -154584,13 +157848,208 @@
 					"name": "Harry's Fragmented Mind"
 				},
 				{
-					"bonus": 3500,
+					"bonus": 3500.0,
 					"items": [
 						"Evrart Claire",
 						"Titus Hardie",
 						"Klaasje Amandou"
 					],
 					"name": "The Great Revolution"
+				}
+			]
+		},
+		{
+			"id": "baldur's gate 3",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Astarion",
+						"Gale",
+						"Shadowheart"
+					],
+					"name": "The First Three"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Astarion",
+						"Raphael"
+					],
+					"name": "Bite Me"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Shadowheart",
+						"The Absolute"
+					],
+					"name": "The Goddess's Burden"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Karlach",
+						"Raphael"
+					],
+					"name": "Engine Trouble"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gale",
+						"The Astral Prism"
+					],
+					"name": "Mystra's Problem"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Lae'zel",
+						"Mind Flayer Parasite"
+					],
+					"name": "Chk'Chk'Chk"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Lae'zel",
+						"The Astral Prism"
+					],
+					"name": "The Crèche"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Emperor",
+						"Mind Flayer Parasite"
+					],
+					"name": "Inside Your Head"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mind Flayer",
+						"Mind Flayer Parasite"
+					],
+					"name": "Ghaik"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Baldur's Gate",
+						"The Absolute"
+					],
+					"name": "Welcome to Baldur's Gate"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ketheric Thorm",
+						"The Absolute"
+					],
+					"name": "The Chosen"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Nautiloid",
+						"Mind Flayer Parasite"
+					],
+					"name": "Once More Unto the Breach"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"The Nautiloid",
+						"Lae'zel"
+					],
+					"name": "First Flight"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Astarion",
+						"Baldur's Gate"
+					],
+					"name": "Smooth Criminal"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Karlach",
+						"Owlbear Cub"
+					],
+					"name": "Scratch's Friend"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Raphael",
+						"House of Hope"
+					],
+					"name": "The Deal"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Mind Flayer",
+						"The Emperor"
+					],
+					"name": "Larian's Horror"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Ketheric Thorm",
+						"Baldur's Gate"
+					],
+					"name": "The Dead Three's Pawn"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mind Flayer Parasite",
+						"The Emperor",
+						"The Astral Prism"
+					],
+					"name": "Tadpole Problems"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Raphael",
+						"Karlach",
+						"House of Hope"
+					],
+					"name": "Hells to Pay"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Ketheric Thorm",
+						"The Absolute",
+						"Baldur's Gate"
+					],
+					"name": "The Three Chosen"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Mind Flayer",
+						"Lae'zel",
+						"The Astral Prism"
+					],
+					"name": "Githyanki Path"
+				},
+				{
+					"bonus": 3500,
+					"items": [
+						"Karlach",
+						"Shadowheart",
+						"Gale"
+					],
+					"name": "Red, Black, and Blue"
 				}
 			]
 		}
