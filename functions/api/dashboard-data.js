@@ -1,6 +1,5 @@
 // functions/api/dashboard-data.js
 // Cloudflare Pages Function — server-side proxy
-// Builds leaderboards directly from player_saves history data
 
 export async function onRequest(context) {
   const { env } = context;
@@ -20,7 +19,6 @@ export async function onRequest(context) {
     apikey: SUPABASE_KEY,
     Authorization: 'Bearer ' + SUPABASE_KEY,
     Accept: 'application/json',
-    'Content-Type': 'application/json',
   };
 
   async function sbFetch(path) {
@@ -32,158 +30,132 @@ export async function onRequest(context) {
     return r.json();
   }
 
-  async function sbRpc(fnName, params) {
-    const r = await fetch(SUPABASE_URL + '/rest/v1/rpc/' + fnName, {
-      method: 'POST',
-      headers: sbHeaders,
-      body: JSON.stringify(params),
-    });
-    if (!r.ok) {
-      const text = await r.text();
-      throw new Error('RPC ' + fnName + ' ' + r.status + ': ' + text.slice(0, 300));
-    }
-    return r.json();
-  }
-
-  // Today's leaderboard query — join saves history with profiles for display names
-  const todayQuery = `
-    SELECT
-      p.display_name,
-      p.is_premium,
-      (h.value->>'score')::numeric AS score,
-      h.value->>'theme' AS theme,
-      (h.value->>'victory')::boolean AS victory
-    FROM player_saves ps
-    JOIN profiles p ON p.user_id = ps.user_id
-    , jsonb_each(ps.save_data->'history') AS h(key, value)
-    WHERE h.key = '${todayUTC}'
-      AND p.display_name IS NOT NULL
-      AND p.display_name != ''
-    ORDER BY score DESC
-    LIMIT 50
-  `.trim();
-
-  // All-time best: highest score per player across all history entries
-  const allTimeQuery = `
-    SELECT
-      p.display_name,
-      p.is_premium,
-      MAX((h.value->>'score')::numeric) AS score,
-      COUNT(DISTINCT h.key) AS days_played
-    FROM player_saves ps
-    JOIN profiles p ON p.user_id = ps.user_id
-    , jsonb_each(ps.save_data->'history') AS h(key, value)
-    WHERE p.display_name IS NOT NULL
-      AND p.display_name != ''
-    GROUP BY p.display_name, p.is_premium
-    ORDER BY score DESC
-    LIMIT 20
-  `.trim();
-
-  const results = await Promise.allSettled([
-    // 0: profiles
+  // Fetch profiles and saves in parallel
+  const [profilesResult, savesResult] = await Promise.allSettled([
     sbFetch('/rest/v1/profiles?select=user_id,display_name,is_premium,public_stats&limit=1000'),
-    // 1: today's leaderboard via raw query
-    fetch(SUPABASE_URL + '/rest/v1/rpc/execute_sql', {
-      method: 'POST',
-      headers: sbHeaders,
-      body: JSON.stringify({ query: todayQuery }),
-    }).then(() => null), // fallback — RPC may not exist, use direct query approach below
+    sbFetch('/rest/v1/player_saves?select=user_id,save_data&limit=1000'),
   ]);
 
-  // ── Profiles ──────────────────────────────────────────────────────────────
+  // ── Profiles map ──────────────────────────────────────────────────────────
   let totalAccounts = 0,
     namedPlayers = 0,
     premiumSubs = 0;
-  let recentNamed = [];
   let supabaseOk = false;
+  const profileMap = {}; // user_id -> {display_name, is_premium, public_stats}
 
-  if (results[0].status === 'fulfilled') {
-    const profiles = results[0].value;
+  if (profilesResult.status === 'fulfilled') {
+    const profiles = profilesResult.value;
     supabaseOk = true;
     totalAccounts = profiles.length;
-    namedPlayers = profiles.filter((p) => p.display_name && p.display_name.trim() !== '').length;
-    premiumSubs = profiles.filter((p) => p.is_premium).length;
-    recentNamed = profiles
-      .filter((p) => p.display_name && p.display_name.trim() !== '')
-      .slice(0, 10)
-      .map((p) => ({
-        display_name: p.display_name,
-        is_premium: p.is_premium || false,
-        best_score: p.public_stats ? p.public_stats.best_score || p.public_stats.high_score || null : null,
-        streak: p.public_stats ? p.public_stats.streak || p.public_stats.daily_streak || null : null,
-      }));
+    for (const p of profiles) {
+      if (p.display_name && p.display_name.trim() !== '') {
+        namedPlayers++;
+        profileMap[p.user_id] = p;
+      }
+      if (p.is_premium) premiumSubs++;
+    }
   }
 
-  // ── Today's leaderboard — query saves directly ────────────────────────────
+  // ── Build leaderboards from save data ─────────────────────────────────────
   let dailyScores = [];
   let alltimeScores = [];
   let todayTheme = '';
   let lbOk = false;
+  let totalRunsToday = 0;
+  let totalRunsAllTime = 0;
 
-  try {
-    const dailyR = await fetch(
-      SUPABASE_URL + '/rest/v1/player_saves?select=user_id,save_data,profiles(display_name,is_premium)&limit=1000',
-      { headers: sbHeaders }
-    );
-    if (dailyR.ok) {
-      const saves = await dailyR.json();
+  if (savesResult.status === 'fulfilled') {
+    const saves = savesResult.value;
+    lbOk = true;
 
-      // Extract today's entry per player
-      const todayEntries = [];
-      const allEntries = [];
+    const todayEntries = [];
+    const allTimeMap = {}; // display_name -> {score, days, is_premium}
 
-      for (const save of saves) {
-        const profile = save.profiles;
-        const name = profile && profile.display_name ? profile.display_name : null;
-        if (!name) continue;
+    for (const save of saves) {
+      const profile = profileMap[save.user_id];
+      const name = profile ? profile.display_name : null;
+      if (!name) continue; // skip unnamed players
 
-        const history = save.save_data && save.save_data.history ? save.save_data.history : {};
-        const isPrem = profile.is_premium || false;
+      const history = save.save_data && typeof save.save_data === 'object' ? save.save_data.history || {} : {};
+      const isPrem = profile.is_premium || false;
 
-        // Today's score
-        if (history[todayUTC]) {
-          const entry = history[todayUTC];
-          const score = parseFloat(entry.score || 0);
-          if (score > 0) {
-            todayEntries.push({
-              player_name: name,
-              score: score,
-              theme: entry.theme || '',
-              victory: entry.victory || false,
-              is_premium: isPrem,
-            });
-            if (!todayTheme && entry.theme) todayTheme = entry.theme;
-          }
-        }
+      let bestScore = 0;
+      let daysPlayed = Object.keys(history).length;
+      totalRunsAllTime += daysPlayed;
 
-        // All-time best score across all dates
-        let bestScore = 0;
-        let daysPlayed = 0;
-        for (const [date, entry] of Object.entries(history)) {
-          const s = parseFloat(entry.score || 0);
-          if (s > bestScore) bestScore = s;
-          daysPlayed++;
-        }
-        if (bestScore > 0) {
-          allEntries.push({
+      for (const [date, entry] of Object.entries(history)) {
+        const s = parseFloat(entry.score || 0);
+        if (s > bestScore) bestScore = s;
+
+        // Today's entry
+        if (date === todayUTC && s > 0) {
+          totalRunsToday++;
+          todayEntries.push({
             player_name: name,
-            score: bestScore,
-            days_played: daysPlayed,
+            score: s,
+            theme: entry.theme || '',
+            victory: entry.victory === true || entry.victory === 'true',
             is_premium: isPrem,
           });
+          if (!todayTheme && entry.theme) todayTheme = entry.theme;
         }
       }
 
-      dailyScores = todayEntries.sort((a, b) => b.score - a.score).slice(0, 10);
-      alltimeScores = allEntries.sort((a, b) => b.score - a.score).slice(0, 10);
-      lbOk = true;
+      if (bestScore > 0) {
+        // Keep only best entry per player
+        if (!allTimeMap[name] || bestScore > allTimeMap[name].score) {
+          allTimeMap[name] = { player_name: name, score: bestScore, days_played: daysPlayed, is_premium: isPrem };
+        }
+      }
     }
-  } catch (e) {
-    console.error('Leaderboard build error:', e);
+
+    dailyScores = todayEntries.sort((a, b) => b.score - a.score).slice(0, 10);
+    alltimeScores = Object.values(allTimeMap)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 10);
   }
 
-  const errors = results
+  // ── Named players list with best scores ───────────────────────────────────
+  // Build from saves data for accuracy
+  const namedList = [];
+  if (savesResult.status === 'fulfilled') {
+    const saves = savesResult.value;
+    for (const save of saves) {
+      const profile = profileMap[save.user_id];
+      if (!profile) continue;
+      const history = save.save_data && typeof save.save_data === 'object' ? save.save_data.history || {} : {};
+      let bestScore = 0;
+      let bestTheme = '';
+      let daysPlayed = 0;
+      let victories = 0;
+      for (const [, entry] of Object.entries(history)) {
+        const s = parseFloat(entry.score || 0);
+        daysPlayed++;
+        if (s > bestScore) {
+          bestScore = s;
+          bestTheme = entry.theme || '';
+        }
+        if (entry.victory === true || entry.victory === 'true') victories++;
+      }
+      namedList.push({
+        display_name: profile.display_name,
+        is_premium: profile.is_premium || false,
+        best_score: bestScore > 0 ? bestScore : null,
+        best_theme: bestTheme,
+        days_played: daysPlayed,
+        victories: victories,
+        streak: profile.public_stats
+          ? profile.public_stats.streak ||
+            profile.public_stats.daily_streak ||
+            profile.public_stats.current_streak ||
+            null
+          : null,
+      });
+    }
+    namedList.sort((a, b) => (b.best_score || 0) - (a.best_score || 0));
+  }
+
+  const errors = [profilesResult, savesResult]
     .map((r, i) => (r.status === 'rejected' ? { index: i, reason: r.reason?.message || String(r.reason) } : null))
     .filter(Boolean);
 
@@ -196,7 +168,7 @@ export async function onRequest(context) {
       total_accounts: totalAccounts,
       named_players: namedPlayers,
       premium_subs: premiumSubs,
-      recent_named: recentNamed,
+      named_list: namedList.slice(0, 20),
     },
     leaderboards: {
       ok: lbOk,
@@ -204,10 +176,12 @@ export async function onRequest(context) {
         board: 'daily_' + todayUTC,
         theme: todayTheme,
         count: dailyScores.length,
+        total_runs: totalRunsToday,
         scores: dailyScores,
       },
       alltime: {
         count: alltimeScores.length,
+        total_runs: totalRunsAllTime,
         scores: alltimeScores,
       },
     },
