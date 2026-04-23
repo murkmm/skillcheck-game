@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776851422,
+	"last_updated": 1776953455,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2384,6 +2384,67 @@
 				"baldur's_gate_3_the_astral_prism",
 				"baldur's_gate_3_the_nautiloid",
 				"baldur's_gate_3_house_of_hope"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-25": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Overwatch: Mystery Heroes",
+			"share_text": "Nerf this!",
+			"shops": [
+				{
+					"p1": "link_cable",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "double_adapter",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "lucky_dice"
+				}
+			],
+			"showcase": [
+				"overwatch_mystery_tracer",
+				"overwatch_mystery_mercy",
+				"overwatch_mystery_widowmaker"
+			],
+			"starters": [
+				"overwatch_mystery_reinhardt",
+				"overwatch_mystery_tracer",
+				"overwatch_mystery_mercy",
+				"overwatch_mystery_roadhog",
+				"overwatch_mystery_winston",
+				"overwatch_mystery_widowmaker",
+				"overwatch_mystery_genji",
+				"overwatch_mystery_bastion",
+				"overwatch_mystery_d.va",
+				"overwatch_mystery_zenyatta",
+				"overwatch_mystery_pharah",
+				"overwatch_mystery_junkrat",
+				"overwatch_mystery_reaper",
+				"overwatch_mystery_orisa",
+				"overwatch_mystery_ashe",
+				"overwatch_mystery_torbjörn",
+				"overwatch_mystery_soldier_76",
+				"overwatch_mystery_sombra",
+				"overwatch_mystery_mei",
+				"overwatch_mystery_hanzo",
+				"overwatch_mystery_lúcio",
+				"overwatch_mystery_symmetra",
+				"overwatch_mystery_ana",
+				"overwatch_mystery_zarya",
+				"overwatch_mystery_moira",
+				"overwatch_mystery_doomfist",
+				"overwatch_mystery_brigitte",
+				"overwatch_mystery_wrecking_ball",
+				"overwatch_mystery_sigma",
+				"overwatch_mystery_baptiste",
+				"overwatch_mystery_echo",
+				"overwatch_mystery_kiriko"
 			],
 			"submitted_by": ""
 		}
