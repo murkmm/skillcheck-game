@@ -117,24 +117,24 @@ tbody tr:hover td{background:var(--surface2)}
   <!-- STAT CARDS -->
   <div class="stat-row">
     <div class="stat">
-      <div class="stat-lbl">TOTAL ACCOUNTS</div>
-      <div class="stat-val g" id="s-total">—</div>
-      <div class="stat-sub">registered users</div>
+      <div class="stat-lbl">RUNS TODAY</div>
+      <div class="stat-val g" id="s-runs-today">—</div>
+      <div class="stat-sub" id="s-runs-breakdown">— logged in &nbsp;|&nbsp; — guests</div>
     </div>
     <div class="stat">
-      <div class="stat-lbl">NAMED PLAYERS</div>
-      <div class="stat-val b" id="s-named">—</div>
-      <div class="stat-sub">set a display name</div>
+      <div class="stat-lbl">RUNS THIS WEEK</div>
+      <div class="stat-val b" id="s-runs-week">—</div>
+      <div class="stat-sub">all players inc. guests</div>
+    </div>
+    <div class="stat">
+      <div class="stat-lbl">ACCOUNTS</div>
+      <div class="stat-val g" id="s-total">—</div>
+      <div class="stat-sub" id="s-named-sub">— named &nbsp;|&nbsp; — premium ★</div>
     </div>
     <div class="stat">
       <div class="stat-lbl">PREMIUM SUBS</div>
       <div class="stat-val a" id="s-prem">—</div>
-      <div class="stat-sub" id="s-prem-pct">—% conversion</div>
-    </div>
-    <div class="stat">
-      <div class="stat-lbl">RUNS TODAY</div>
-      <div class="stat-val g" id="s-runs-today">—</div>
-      <div class="stat-sub" id="s-runs-all">— all-time runs</div>
+      <div class="stat-sub" id="s-prem-pct">—% of named players</div>
     </div>
   </div>
 
@@ -243,26 +243,32 @@ async function load() {
     if (!r.ok) throw new Error('API ' + r.status);
     const d = await r.json();
 
-    // Stats
+    // Run pings (includes guests)
+    const runs = d.runs;
+    if (runs != null) {
+      set('s-runs-today', fmt(runs.today));
+      const bd = document.getElementById('s-runs-breakdown');
+      if (bd) bd.textContent = fmt(runs.today_logged_in) + ' logged in | ' + fmt(runs.today_guest) + ' guests';
+      set('s-runs-week', fmt(runs.this_week), 'b');
+    }
+
+    // Accounts
     const sb = d.supabase;
     if (sb && sb.ok) {
       set('s-total', fmt(sb.total_accounts), 'g');
-      set('s-named', fmt(sb.named_players),  'b');
       set('s-prem',  fmt(sb.premium_subs),   'a');
       const pct = sb.named_players > 0 ? Math.round((sb.premium_subs / sb.named_players) * 100) : 0;
       document.getElementById('s-prem-pct').textContent = pct + '% of named players';
+      const ns = document.getElementById('s-named-sub');
+      if (ns) ns.textContent = fmt(sb.named_players) + ' named | ' + fmt(sb.premium_subs) + ' premium ★';
     }
 
     // Leaderboards
     const lb = d.leaderboards;
     if (lb) {
-      set('s-runs-today', fmt(lb.daily.total_runs || lb.daily.count));
-      document.getElementById('s-runs-all').textContent = fmt(lb.alltime.total_runs) + ' all-time runs';
-
       set('lb-today-count', fmt(lb.daily.count));
       const themeEl = document.getElementById('lb-theme');
       if (themeEl) themeEl.textContent = lb.daily.theme || 'no runs yet today';
-
       set('lb-at-count', fmt(lb.alltime.count));
       renderLB('lb-today', lb.daily.scores);
       renderLB('lb-alltime', lb.alltime.scores);
