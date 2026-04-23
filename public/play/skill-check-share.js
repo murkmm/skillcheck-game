@@ -58,8 +58,9 @@
       const file = new File([blob], filename, { type: "image/png" });
       const shareText = buildShareText(data);
 
-      // --- 1. Try Web Share API (mobile + Chrome/Edge desktop) ---
-      if (navigator.canShare && navigator.canShare({ files: [file] })) {
+      // --- 1. Try Web Share API (mobile only — desktop Chrome's share UI is flaky) ---
+      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      if (isMobile && navigator.canShare && navigator.canShare({ files: [file] })) {
         try {
           await navigator.share({
             files: [file],
