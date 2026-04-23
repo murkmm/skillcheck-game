@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776685993,
+	"last_updated": 1776953455,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2188,7 +2188,6 @@
 				"princess_peach"
 			],
 			"starters": [
-				"mario",
 				"rogueport",
 				"goombella",
 				"the_crystal_stars",
@@ -2208,6 +2207,244 @@
 				"x-nauts",
 				"magical_map",
 				"madame_flurrie"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-21": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Fallout New Vegas: Mojave Madness",
+			"share_text": "10 karat run of bad luck",
+			"shops": [
+				{
+					"p1": "game_shark",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "lucky_dice"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "piggy_bank"
+				}
+			],
+			"showcase": [
+				"fallout_new_vegas_mr_house",
+				"fallout_new_vegas_yes_man",
+				"fallout_new_vegas_benny"
+			],
+			"starters": [
+				"fallout_new_vegas_mr_house",
+				"fallout_new_vegas_benny",
+				"fallout_new_vegas_the_platinum_chip",
+				"fallout_new_vegas_yes_man",
+				"fallout_new_vegas_hoover_dam",
+				"fallout_new_vegas_the_strip",
+				"fallout_new_vegas_ncr_ranger",
+				"fallout_new_vegas_caesar",
+				"fallout_new_vegas_rex",
+				"fallout_new_vegas_ed-e",
+				"fallout_new_vegas_pip_boy",
+				"fallout_new_vegas_vault_21",
+				"fallout_new_vegas_goodsprings",
+				"fallout_new_vegas_legate_lanius",
+				"fallout_new_vegas_victor",
+				"fallout_new_vegas_craig_boone"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-22": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Crash Bandiccot 1 - PS1 Royalty",
+			"share_text": "Collect all the gems !",
+			"shops": [
+				{
+					"p1": "quick_save",
+					"p2": "link_cable"
+				},
+				{
+					"p1": "lucky_dice",
+					"p2": "double_adapter"
+				},
+				{
+					"p1": "memory_card",
+					"p2": "rumble_pack"
+				}
+			],
+			"showcase": [
+				"crash_bandicoot_1_dr._neo_cortex",
+				"crash_bandicoot_1_crash_bandicoot",
+				"crash_bandicoot_1_aku_aku"
+			],
+			"starters": [
+				"crash_bandicoot_1_hog",
+				"crash_bandicoot_1_power_gems",
+				"crash_bandicoot_1_pinstripe_potoroo",
+				"crash_bandicoot_1_n._sanity_beach",
+				"crash_bandicoot_1_tnt_crate",
+				"crash_bandicoot_1_wumpa_fruit",
+				"crash_bandicoot_1_ripper_roo",
+				"crash_bandicoot_1_tawna_bandicoot",
+				"crash_bandicoot_1_papu_papu",
+				"crash_bandicoot_1_dr._nitrus_brio",
+				"crash_bandicoot_1_aku_aku",
+				"crash_bandicoot_1_dr._neo_cortex",
+				"crash_bandicoot_1_crash_bandicoot"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-23": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Disco Elysium: The Return of the Hanged Man",
+			"share_text": "Horrific Necktie. Still Alive. Somehow.",
+			"shops": [
+				{
+					"p1": "extra_life",
+					"p2": "piggy_bank"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "multitap"
+				},
+				{
+					"p1": "lucky_dice",
+					"p2": "double_adapter"
+				}
+			],
+			"showcase": [
+				"disco_elysium_harry_du_bois",
+				"disco_elysium_kim_kitsuragi",
+				"disco_elysium_cuno"
+			],
+			"starters": [
+				"disco_elysium_harry_du_bois",
+				"disco_elysium_kim_kitsuragi",
+				"disco_elysium_the_horrific_necktie",
+				"disco_elysium_whirling-in-rags",
+				"disco_elysium_the_insulindian_phasmid",
+				"disco_elysium_cuno",
+				"disco_elysium_the_thought_cabinet",
+				"disco_elysium_the_pale",
+				"disco_elysium_the_hanged_man",
+				"disco_elysium_klaasje_amandou",
+				"disco_elysium_evrart_claire",
+				"disco_elysium_the_kineema",
+				"disco_elysium_martinaise",
+				"disco_elysium_titus_hardie",
+				"disco_elysium_shivers",
+				"disco_elysium_jamais_vu"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-24": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Baldur's Gate 3: Absolutely Tadpoled",
+			"share_text": "Natural 20. The Absolute would be proud.",
+			"shops": [
+				{
+					"p1": "lucky_dice",
+					"p2": "quick_save"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "quick_save"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "piggy_bank"
+				}
+			],
+			"showcase": [
+				"baldur's_gate_3_astarion",
+				"baldur's_gate_3_shadowheart",
+				"baldur's_gate_3_karlach"
+			],
+			"starters": [
+				"baldur's_gate_3_astarion",
+				"baldur's_gate_3_shadowheart",
+				"baldur's_gate_3_karlach",
+				"baldur's_gate_3_gale",
+				"baldur's_gate_3_lae'zel",
+				"baldur's_gate_3_mind_flayer_parasite",
+				"baldur's_gate_3_the_absolute",
+				"baldur's_gate_3_baldur's_gate",
+				"baldur's_gate_3_raphael",
+				"baldur's_gate_3_the_emperor",
+				"baldur's_gate_3_ketheric_thorm",
+				"baldur's_gate_3_mind_flayer",
+				"baldur's_gate_3_owlbear_cub",
+				"baldur's_gate_3_the_astral_prism",
+				"baldur's_gate_3_the_nautiloid",
+				"baldur's_gate_3_house_of_hope"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-25": {
+			"daily_type": "mystery",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Overwatch: Mystery Heroes",
+			"share_text": "Nerf this!",
+			"shops": [
+				{
+					"p1": "link_cable",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "double_adapter",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "lucky_dice"
+				}
+			],
+			"showcase": [
+				"overwatch_mystery_tracer",
+				"overwatch_mystery_mercy",
+				"overwatch_mystery_widowmaker"
+			],
+			"starters": [
+				"overwatch_mystery_reinhardt",
+				"overwatch_mystery_tracer",
+				"overwatch_mystery_mercy",
+				"overwatch_mystery_roadhog",
+				"overwatch_mystery_winston",
+				"overwatch_mystery_widowmaker",
+				"overwatch_mystery_genji",
+				"overwatch_mystery_bastion",
+				"overwatch_mystery_d.va",
+				"overwatch_mystery_zenyatta",
+				"overwatch_mystery_pharah",
+				"overwatch_mystery_junkrat",
+				"overwatch_mystery_reaper",
+				"overwatch_mystery_orisa",
+				"overwatch_mystery_ashe",
+				"overwatch_mystery_torbjörn",
+				"overwatch_mystery_soldier_76",
+				"overwatch_mystery_sombra",
+				"overwatch_mystery_mei",
+				"overwatch_mystery_hanzo",
+				"overwatch_mystery_lúcio",
+				"overwatch_mystery_symmetra",
+				"overwatch_mystery_ana",
+				"overwatch_mystery_zarya",
+				"overwatch_mystery_moira",
+				"overwatch_mystery_doomfist",
+				"overwatch_mystery_brigitte",
+				"overwatch_mystery_wrecking_ball",
+				"overwatch_mystery_sigma",
+				"overwatch_mystery_baptiste",
+				"overwatch_mystery_echo",
+				"overwatch_mystery_kiriko"
 			],
 			"submitted_by": ""
 		}
