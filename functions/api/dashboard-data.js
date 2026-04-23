@@ -7,25 +7,28 @@ export async function onRequest(context) {
   // Keys — SUPABASE_SERVICE_KEY set in Cloudflare Pages env vars
   const SUPABASE_URL = 'https://sneidksdbqzptlecezma.supabase.co';
   const SUPABASE_KEY = env.SUPABASE_SERVICE_KEY || 'sb_publishable_mdU6mAWsRF5arvFCLnu98A_OMaVHFGA';
-  const SW_GAME_ID   = 'RetroRecall';
-  const SW_API_KEY   = 'FVEdSbSGe9S6Z1sZ2xKB4rhS47RlFAN2sfR8Rpj0';
-  const SW_BASE      = 'https://api.silentwolf.com';
+  const SW_GAME_ID = 'RetroRecall';
+  const SW_API_KEY = 'FVEdSbSGe9S6Z1sZ2xKB4rhS47RlFAN2sfR8Rpj0';
+  const SW_BASE = 'https://api.silentwolf.com';
 
   // Today's date in UTC
   const now = new Date();
-  const todayUTC = now.getUTCFullYear() + '-' +
-    String(now.getUTCMonth() + 1).padStart(2, '0') + '-' +
+  const todayUTC =
+    now.getUTCFullYear() +
+    '-' +
+    String(now.getUTCMonth() + 1).padStart(2, '0') +
+    '-' +
     String(now.getUTCDate()).padStart(2, '0');
 
   const weekAgo = new Date(now);
   weekAgo.setDate(weekAgo.getDate() - 7);
   const weekAgoISO = weekAgo.toISOString().split('.')[0] + 'Z';
-  const todayISO   = todayUTC + 'T00:00:00Z';
+  const todayISO = todayUTC + 'T00:00:00Z';
 
   const sbHeaders = {
-    'apikey': SUPABASE_KEY,
-    'Authorization': 'Bearer ' + SUPABASE_KEY,
-    'Accept': 'application/json',
+    apikey: SUPABASE_KEY,
+    Authorization: 'Bearer ' + SUPABASE_KEY,
+    Accept: 'application/json',
   };
 
   // ── Helpers ────────────────────────────────────────────────────────────────
@@ -60,8 +63,11 @@ export async function onRequest(context) {
   ]);
 
   // ── Process Supabase results ───────────────────────────────────────────────
-  let totalAccounts = 0, namedPlayers = 0, premiumSubs = 0;
-  let newToday = 0, newWeek = 0;
+  let totalAccounts = 0,
+    namedPlayers = 0,
+    premiumSubs = 0;
+  let newToday = 0,
+    newWeek = 0;
   let recentSignups = [];
   let supabaseOk = false;
 
@@ -69,17 +75,17 @@ export async function onRequest(context) {
     const profiles = results[0].value;
     supabaseOk = true;
     totalAccounts = profiles.length;
-    namedPlayers  = profiles.filter(p => p.display_name && p.display_name.trim() !== '').length;
-    premiumSubs   = profiles.filter(p => p.is_premium).length;
+    namedPlayers = profiles.filter((p) => p.display_name && p.display_name.trim() !== '').length;
+    premiumSubs = profiles.filter((p) => p.is_premium).length;
 
     // Recent signups: last 10 with a display name
     recentSignups = profiles
-      .filter(p => p.display_name && p.display_name.trim() !== '')
+      .filter((p) => p.display_name && p.display_name.trim() !== '')
       .slice(0, 10)
-      .map(p => ({
+      .map((p) => ({
         display_name: p.display_name,
-        created_at:   p.created_at || null,
-        is_premium:   p.is_premium || false,
+        created_at: p.created_at || null,
+        is_premium: p.is_premium || false,
       }));
   }
 
@@ -91,7 +97,8 @@ export async function onRequest(context) {
   }
 
   // ── Process SilentWolf results ─────────────────────────────────────────────
-  let dailyScores = [], alltimeScores = [];
+  let dailyScores = [],
+    alltimeScores = [];
   let swOk = false;
 
   if (results[3].status === 'fulfilled') {
@@ -107,7 +114,7 @@ export async function onRequest(context) {
 
   // ── Collect errors for debugging ──────────────────────────────────────────
   const errors = results
-    .map((r, i) => r.status === 'rejected' ? { index: i, reason: r.reason?.message || String(r.reason) } : null)
+    .map((r, i) => (r.status === 'rejected' ? { index: i, reason: r.reason?.message || String(r.reason) } : null))
     .filter(Boolean);
 
   // ── Return JSON ───────────────────────────────────────────────────────────
@@ -118,21 +125,21 @@ export async function onRequest(context) {
     supabase: {
       ok: supabaseOk,
       total_accounts: totalAccounts,
-      named_players:  namedPlayers,
-      premium_subs:   premiumSubs,
-      new_today:      newToday,
-      new_week:       newWeek,
+      named_players: namedPlayers,
+      premium_subs: premiumSubs,
+      new_today: newToday,
+      new_week: newWeek,
       recent_signups: recentSignups,
     },
     leaderboards: {
       ok: swOk,
       daily: {
-        board:  'daily_' + todayUTC,
-        count:  dailyScores.length,
+        board: 'daily_' + todayUTC,
+        count: dailyScores.length,
         scores: dailyScores.slice(0, 10),
       },
       alltime: {
-        count:  alltimeScores.length,
+        count: alltimeScores.length,
         scores: alltimeScores.slice(0, 10),
       },
     },
