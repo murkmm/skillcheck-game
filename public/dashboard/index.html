@@ -221,8 +221,10 @@ function renderLB(id, scores, max) {
     return `<div class="lb-row">
       <span class="lb-rank ${i < 3 ? 'top' : ''}">${i + 1}</span>
       <span class="lb-name">${name}</span>
+      ${s.victory ? `<span class="badge rank-b">WIN</span>` : ''}
       ${rank ? `<span class="badge rank-b">${rank}</span>` : ''}
       ${prem  ? `<span class="badge prem-b">★</span>` : ''}
+      ${s.days_played ? `<span class="td-muted" style="font-size:11px;">${s.days_played}d</span>` : ''}
       <span class="lb-score">${score}</span>
     </div>`;
   }).join('');
@@ -292,20 +294,21 @@ async function fetchAll() {
     // Leaderboards
     const lb = data.leaderboards;
     if (lb) {
-      if (lb.daily && lb.daily.count != null) {
+      if (lb.daily) {
         setVal('v-daily-count', fmt(lb.daily.count));
         renderLB('daily-lb', lb.daily.scores, 8);
+        // Use theme from save data if available, otherwise fetch manifest
+        if (lb.daily.theme) {
+          const el = document.getElementById('today-theme');
+          if (el) el.textContent = lb.daily.theme;
+          setSd('sd-mf', 'ok');
+        } else {
+          fetchManifest(data.today);
+        }
       }
-      if (lb.alltime && lb.alltime.count != null) {
+      if (lb.alltime) {
         setVal('v-alltime-count', fmt(lb.alltime.count));
         renderLB('alltime-lb', lb.alltime.scores, 8);
-      }
-      // If SW failed, fall back to profile best scores
-      if (!lb.ok && sb && sb.top_scores_from_profiles && sb.top_scores_from_profiles.length) {
-        renderLB('alltime-lb', sb.top_scores_from_profiles, 8);
-        setVal('v-alltime-count', fmt(sb.top_scores_from_profiles.length));
-        document.getElementById('alltime-lb').insertAdjacentHTML('afterbegin',
-          '<div class="note" style="padding:6px 0;">from profile data (SW unavailable)</div>');
       }
       setDot('sw-dot', lb.ok ? '' : 'dead');
       setSd('sd-sw', lb.ok ? 'ok' : 'fail');
