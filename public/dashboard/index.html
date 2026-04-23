@@ -38,9 +38,7 @@
   }
   .lock-box {
     border: 1px solid var(--border-bright);
-    padding: 40px;
-    width: 320px;
-    text-align: center;
+    padding: 40px; width: 320px; text-align: center;
   }
   .lock-title { font-size: 20px; letter-spacing: 0.1em; color: var(--green); margin-bottom: 8px; }
   .lock-sub { font-size: 11px; color: var(--muted); letter-spacing: 0.08em; margin-bottom: 24px; }
@@ -62,8 +60,7 @@
   .header {
     display: flex; align-items: center; justify-content: space-between;
     margin-bottom: 28px; flex-wrap: wrap; gap: 12px;
-    padding-bottom: 16px;
-    border-bottom: 1px solid var(--border);
+    padding-bottom: 16px; border-bottom: 1px solid var(--border);
   }
   .logo { font-size: 22px; letter-spacing: 0.1em; }
   .logo .g { color: var(--green); }
@@ -84,11 +81,9 @@
     color: var(--muted); margin-bottom: 12px;
     display: flex; align-items: center; gap: 8px;
   }
-  .dot {
-    width: 7px; height: 7px; border-radius: 50%; background: var(--green);
-    animation: pulse 2s infinite;
-  }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); animation: pulse 2s infinite; }
   .dot.dead { background: var(--red); animation: none; }
+  .dot.pending { background: var(--amber); }
   @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.25} }
 
   /* --- METRIC CARDS --- */
@@ -97,18 +92,14 @@
   @media(max-width: 700px) { .grid-4 { grid-template-columns: repeat(2, 1fr); } }
   @media(max-width: 480px) { .grid-2, .grid-4 { grid-template-columns: 1fr; } }
 
-  .card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    padding: 14px 16px;
-  }
+  .card { background: var(--surface); border: 1px solid var(--border); padding: 14px 16px; }
   .card-label { font-size: 10px; color: var(--muted); letter-spacing: 0.08em; margin-bottom: 6px; }
   .card-value { font-size: 30px; font-weight: bold; line-height: 1; }
-  .card-value.green { color: var(--green); }
-  .card-value.amber { color: var(--amber); }
-  .card-value.blue  { color: var(--blue); }
-  .card-value.purple{ color: var(--purple); }
-  .card-value.err   { color: var(--red); font-size: 16px; }
+  .card-value.green  { color: var(--green); }
+  .card-value.amber  { color: var(--amber); }
+  .card-value.blue   { color: var(--blue); }
+  .card-value.purple { color: var(--purple); }
+  .card-value.err    { color: var(--red); font-size: 14px; }
   .card-sub { font-size: 11px; color: var(--dim); margin-top: 4px; }
 
   /* --- LEADERBOARD --- */
@@ -123,22 +114,18 @@
   .lb-list { padding: 0 14px; }
   .lb-row {
     display: flex; align-items: center; gap: 10px;
-    padding: 8px 0; border-bottom: 1px solid var(--border);
-    font-size: 13px;
+    padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 13px;
   }
   .lb-row:last-child { border-bottom: none; }
   .lb-rank { width: 24px; text-align: right; color: var(--muted); flex-shrink: 0; font-size: 12px; }
   .lb-rank.top { color: var(--amber); }
-  .lb-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--text); }
+  .lb-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .lb-score { color: var(--muted); flex-shrink: 0; font-variant-numeric: tabular-nums; }
-  .badge {
-    font-size: 9px; padding: 2px 5px; letter-spacing: 0.06em; flex-shrink: 0;
-    font-weight: bold;
-  }
-  .badge.rank { background: #1a1a2e; color: var(--purple); border: 1px solid var(--purple); }
-  .badge.prem { background: #1a1500; color: var(--amber); border: 1px solid var(--amber); }
+  .badge { font-size: 9px; padding: 2px 5px; letter-spacing: 0.06em; flex-shrink: 0; font-weight: bold; }
+  .badge.rank-badge { background: #1a1a2e; color: var(--purple); border: 1px solid var(--purple); }
+  .badge.prem-badge  { background: #1a1500; color: var(--amber);  border: 1px solid var(--amber); }
   .lb-empty { padding: 16px 0; color: var(--dim); font-size: 12px; }
-  .lb-err { padding: 16px 0; color: var(--red); font-size: 12px; }
+  .lb-err   { padding: 16px 0; color: var(--red); font-size: 12px; }
 
   /* --- RECENT SIGNUPS TABLE --- */
   .signup-table { width: 100%; border-collapse: collapse; }
@@ -147,26 +134,30 @@
     text-align: left; padding: 8px 10px;
     border-bottom: 1px solid var(--border); font-weight: normal;
   }
-  .signup-table td {
-    font-size: 12px; padding: 8px 10px;
-    border-bottom: 1px solid var(--border); color: var(--text);
-  }
+  .signup-table td { font-size: 12px; padding: 8px 10px; border-bottom: 1px solid var(--border); }
   .signup-table tr:last-child td { border-bottom: none; }
-  .signup-table td.muted { color: var(--muted); }
+  .muted-td { color: var(--muted); }
   .prem-yes { color: var(--amber); }
   .prem-no  { color: var(--dim); }
+
+  /* --- ERROR BOX --- */
+  .error-box {
+    background: #1a0808; border: 1px solid var(--red);
+    padding: 12px 16px; margin-bottom: 16px; font-size: 12px; color: var(--red);
+    display: none;
+  }
 
   /* --- STATUS BAR --- */
   .status-bar {
     position: fixed; bottom: 0; left: 0; right: 0;
     background: var(--surface); border-top: 1px solid var(--border);
-    padding: 8px 24px;
-    display: flex; align-items: center; gap: 16px; font-size: 11px; color: var(--muted);
+    padding: 8px 24px; display: flex; align-items: center; gap: 16px;
+    font-size: 11px; color: var(--muted);
   }
   .status-item { display: flex; align-items: center; gap: 5px; }
   .status-dot { width: 6px; height: 6px; border-radius: 50%; }
-  .status-dot.ok { background: var(--green); }
-  .status-dot.fail { background: var(--red); }
+  .status-dot.ok      { background: var(--green); }
+  .status-dot.fail    { background: var(--red); }
   .status-dot.pending { background: var(--amber); animation: pulse 1s infinite; }
 
   .loading-text { color: var(--dim); font-size: 12px; padding: 8px 0; }
@@ -179,14 +170,14 @@
   <div class="lock-box">
     <div class="lock-title">SKILL CHECK</div>
     <div class="lock-sub">// DEVELOPER DASHBOARD //</div>
-    <input type="password" id="pw-input" placeholder="enter password" onkeydown="if(event.key==='Enter')checkPw()">
+    <input type="password" id="pw-input" placeholder="enter password">
     <button onclick="checkPw()">ACCESS</button>
     <div class="lock-error" id="pw-error">incorrect password</div>
   </div>
 </div>
 
-<!-- MAIN DASHBOARD (hidden until unlocked) -->
-<div id="dashboard" style="display:none; padding-bottom: 48px;">
+<!-- MAIN DASHBOARD -->
+<div id="dashboard" style="display:none; padding-bottom: 52px;">
 
   <div class="header">
     <div class="logo"><span class="g">SKILL</span> CHECK // DASHBOARD</div>
@@ -196,9 +187,11 @@
     </div>
   </div>
 
+  <div class="error-box" id="error-box"></div>
+
   <!-- PLAYERS & ACCOUNTS -->
   <div class="section">
-    <div class="section-label"><span class="dot" id="supabase-dot"></span>players &amp; accounts</div>
+    <div class="section-label"><span class="dot pending" id="supabase-dot"></span>players &amp; accounts</div>
     <div class="grid-4">
       <div class="card">
         <div class="card-label">TOTAL ACCOUNTS</div>
@@ -213,7 +206,7 @@
       <div class="card">
         <div class="card-label">PREMIUM SUBS</div>
         <div class="card-value amber" id="v-premium">—</div>
-        <div class="card-sub" id="v-premium-pct">— % of named players</div>
+        <div class="card-sub" id="v-premium-pct">—% of named players</div>
       </div>
       <div class="card">
         <div class="card-label">NEW SIGNUPS</div>
@@ -225,10 +218,8 @@
 
   <!-- LEADERBOARDS -->
   <div class="section">
-    <div class="section-label"><span class="dot" id="sw-dot"></span>leaderboards</div>
+    <div class="section-label"><span class="dot pending" id="sw-dot"></span>leaderboards</div>
     <div class="grid-2">
-
-      <!-- TODAY -->
       <div class="lb-container">
         <div class="lb-header">
           <div>
@@ -242,8 +233,6 @@
         </div>
         <div class="lb-list" id="daily-lb"><div class="loading-text">loading...</div></div>
       </div>
-
-      <!-- ALL TIME -->
       <div class="lb-container">
         <div class="lb-header">
           <div>
@@ -257,16 +246,15 @@
         </div>
         <div class="lb-list" id="alltime-lb"><div class="loading-text">loading...</div></div>
       </div>
-
     </div>
   </div>
 
   <!-- RECENT SIGNUPS -->
   <div class="section">
-    <div class="section-label">recent signups</div>
+    <div class="section-label">recent named signups</div>
     <div class="lb-container">
       <div class="lb-list" style="padding: 0;">
-        <table class="signup-table" id="signup-table">
+        <table class="signup-table">
           <thead>
             <tr>
               <th>DISPLAY NAME</th>
@@ -275,7 +263,7 @@
             </tr>
           </thead>
           <tbody id="signup-tbody">
-            <tr><td colspan="3" class="muted" style="padding:16px 10px;">loading...</td></tr>
+            <tr><td colspan="3" class="muted-td" style="padding:16px 10px;">loading...</td></tr>
           </tbody>
         </table>
       </div>
@@ -286,6 +274,10 @@
 
 <!-- STATUS BAR -->
 <div class="status-bar" id="status-bar" style="display:none;">
+  <div class="status-item">
+    <div class="status-dot pending" id="sb-api"></div>
+    <span>api</span>
+  </div>
   <div class="status-item">
     <div class="status-dot pending" id="sb-supabase"></div>
     <span>supabase</span>
@@ -304,15 +296,8 @@
 </div>
 
 <script>
-// ─── CONFIG ──────────────────────────────────────────────────────────────────
-const DASHBOARD_PASSWORD = 'ki10dev';   // change this to whatever you like
-const SUPABASE_URL  = 'https://sneidksdbqzptlecezma.supabase.co';
-const SUPABASE_KEY  = 'sb_publishable_mdU6mAWsRF5arvFCLnu98A_OMaVHFGA';
-const SW_GAME_ID    = 'RetroRecall';
-const SW_API_KEY    = 'FVEdSbSGe9S6Z1sZ2xKB4rhS47RlFAN2sfR8Rpj0';
-const SW_BASE       = 'https://api.silentwolf.com';
+const DASHBOARD_PASSWORD = 'ki10dev'; // change this
 
-// ─── PASSWORD GATE ────────────────────────────────────────────────────────────
 function checkPw() {
   const val = document.getElementById('pw-input').value;
   if (val === DASHBOARD_PASSWORD) {
@@ -331,29 +316,27 @@ document.getElementById('pw-input').addEventListener('keydown', e => {
   if (e.key === 'Enter') checkPw();
 });
 
-// ─── HELPERS ──────────────────────────────────────────────────────────────────
 function fmt(n) {
-  if (n == null || n === '—') return '—';
+  if (n == null) return '—';
   return Number(n).toLocaleString();
 }
-function todayUTC() {
-  const d = new Date();
-  return d.getUTCFullYear() + '-' +
-    String(d.getUTCMonth()+1).padStart(2,'0') + '-' +
-    String(d.getUTCDate()).padStart(2,'0');
-}
+
 function timeAgo(isoStr) {
-  const d = new Date(isoStr);
-  const diff = Math.floor((Date.now() - d) / 1000);
-  if (diff < 60)   return diff + 's ago';
-  if (diff < 3600) return Math.floor(diff/60) + 'm ago';
-  if (diff < 86400) return Math.floor(diff/3600) + 'h ago';
-  return Math.floor(diff/86400) + 'd ago';
+  if (!isoStr) return '—';
+  const diff = Math.floor((Date.now() - new Date(isoStr)) / 1000);
+  if (diff < 60)    return diff + 's ago';
+  if (diff < 3600)  return Math.floor(diff / 60) + 'm ago';
+  if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+  return Math.floor(diff / 86400) + 'd ago';
 }
-function setStatus(id, state) {
+
+function setDot(id, state) {
   const el = document.getElementById(id);
-  if (!el) return;
-  el.className = 'status-dot ' + state;
+  if (el) el.className = 'dot ' + state;
+}
+function setStatusDot(id, state) {
+  const el = document.getElementById(id);
+  if (el) el.className = 'status-dot ' + state;
 }
 function setVal(id, val, cls) {
   const el = document.getElementById(id);
@@ -362,32 +345,6 @@ function setVal(id, val, cls) {
   if (cls) el.className = 'card-value ' + cls;
 }
 
-// ─── SUPABASE FETCH ───────────────────────────────────────────────────────────
-async function sb(path) {
-  const r = await fetch(SUPABASE_URL + path, {
-    headers: {
-      'apikey': SUPABASE_KEY,
-      'Authorization': 'Bearer ' + SUPABASE_KEY,
-      'Accept': 'application/json',
-      'Prefer': 'count=exact'
-    }
-  });
-  if (!r.ok) throw new Error('Supabase ' + r.status);
-  return r.json();
-}
-
-// ─── SILENTWOLF FETCH ─────────────────────────────────────────────────────────
-async function sw(boardName, numScores) {
-  const n = numScores || 10;
-  const r = await fetch(
-    SW_BASE + '/get_scores/' + SW_GAME_ID + '/' + boardName +
-    '?api_key=' + SW_API_KEY + '&num_scores=' + n
-  );
-  if (!r.ok) throw new Error('SW ' + r.status + ' ' + boardName);
-  return r.json();
-}
-
-// ─── RENDER LEADERBOARD ───────────────────────────────────────────────────────
 function renderLB(containerId, scores, max) {
   const el = document.getElementById(containerId);
   if (!el) return;
@@ -395,153 +352,141 @@ function renderLB(containerId, scores, max) {
     el.innerHTML = '<div class="lb-empty">no entries yet</div>';
     return;
   }
-  const top = scores.slice(0, max || 8);
-  el.innerHTML = top.map((s, i) => {
+  el.innerHTML = scores.slice(0, max || 8).map((s, i) => {
     const name  = s.player_name || s.username || '—';
     const score = fmt(Math.round(parseFloat(s.score) || 0));
     const meta  = s.metadata || {};
-    const rank  = meta.rank  || '';
+    const rank  = meta.rank || '';
     const isPrem = meta.is_premium;
-    const isTop  = i < 3;
     return `<div class="lb-row">
-      <span class="lb-rank ${isTop ? 'top' : ''}">${i+1}</span>
+      <span class="lb-rank ${i < 3 ? 'top' : ''}">${i + 1}</span>
       <span class="lb-name">${name}</span>
-      ${rank  ? `<span class="badge rank">${rank}</span>` : ''}
-      ${isPrem ? `<span class="badge prem">★</span>` : ''}
+      ${rank   ? `<span class="badge rank-badge">${rank}</span>` : ''}
+      ${isPrem ? `<span class="badge prem-badge">★</span>` : ''}
       <span class="lb-score">${score}</span>
     </div>`;
   }).join('');
 }
 
-// ─── FETCH PLAYERS (SUPABASE) ─────────────────────────────────────────────────
-async function fetchPlayers() {
-  setStatus('sb-supabase', 'pending');
-  try {
-    const today   = todayUTC() + 'T00:00:00Z';
-    const weekAgo = new Date();
-    weekAgo.setDate(weekAgo.getDate() - 7);
-    const weekStr = weekAgo.toISOString().split('.')[0] + 'Z';
-
-    const [allProfiles, newToday, newWeek] = await Promise.all([
-      sb('/rest/v1/profiles?select=user_id,display_name,is_premium,created_at&order=created_at.desc&limit=200'),
-      sb('/rest/v1/profiles?select=user_id&created_at=gte.' + today),
-      sb('/rest/v1/profiles?select=user_id&created_at=gte.' + weekStr),
-    ]);
-
-    const total  = allProfiles.length;
-    const named  = allProfiles.filter(p => p.display_name && p.display_name.trim() !== '').length;
-    const prem   = allProfiles.filter(p => p.is_premium).length;
-    const nt     = Array.isArray(newToday) ? newToday.length : 0;
-    const nw     = Array.isArray(newWeek)  ? newWeek.length  : 0;
-    const pct    = named > 0 ? Math.round((prem / named) * 100) : 0;
-
-    setVal('v-total',    fmt(total),  'green');
-    setVal('v-named',    fmt(named),  'blue');
-    setVal('v-premium',  fmt(prem),   'amber');
-    document.getElementById('v-premium-pct').textContent = pct + '% of named players';
-    setVal('v-new-today', fmt(nt),   nt > 0 ? 'green' : '');
-    document.getElementById('v-new-week').textContent = fmt(nw) + ' this week';
-
-    // Populate recent signups table (last 10 with display names)
-    const recent = allProfiles
-      .filter(p => p.display_name && p.display_name.trim() !== '')
-      .slice(0, 10);
-
-    const tbody = document.getElementById('signup-tbody');
-    if (tbody) {
-      if (recent.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="3" class="muted" style="padding:16px 10px;">no named players yet</td></tr>';
-      } else {
-        tbody.innerHTML = recent.map(p => `
-          <tr>
-            <td>${p.display_name}</td>
-            <td class="muted">${p.created_at ? timeAgo(p.created_at) : '—'}</td>
-            <td class="${p.is_premium ? 'prem-yes' : 'prem-no'}">${p.is_premium ? '★ YES' : 'no'}</td>
-          </tr>`).join('');
-      }
-    }
-
-    document.getElementById('supabase-dot').className = 'dot';
-    setStatus('sb-supabase', 'ok');
-  } catch(e) {
-    console.error('Supabase error:', e);
-    ['v-total','v-named','v-premium','v-new-today'].forEach(id => setVal(id, 'err', 'err'));
-    document.getElementById('supabase-dot').className = 'dot dead';
-    setStatus('sb-supabase', 'fail');
-  }
-}
-
-// ─── FETCH LEADERBOARDS (SILENTWOLF) ─────────────────────────────────────────
-async function fetchLeaderboards() {
-  setStatus('sb-sw', 'pending');
-  const today = todayUTC();
-  const dailyBoard = 'daily_' + today;
-  let swOk = true;
-
-  try {
-    const d = await sw(dailyBoard, 50);
-    const scores = d.scores || d.high_scores || [];
-    setVal('v-daily-count', fmt(scores.length), 'green');
-    renderLB('daily-lb', scores, 8);
-  } catch(e) {
-    console.error('SW daily error:', e);
-    setVal('v-daily-count', '0');
-    document.getElementById('daily-lb').innerHTML = '<div class="lb-empty">no entries yet today</div>';
-    swOk = false;
-  }
-
-  try {
-    const d = await sw('all_time', 10);
-    const scores = d.scores || d.high_scores || [];
-    setVal('v-alltime-count', fmt(scores.length));
-    renderLB('alltime-lb', scores, 8);
-  } catch(e) {
-    console.error('SW all-time error:', e);
-    document.getElementById('alltime-lb').innerHTML = '<div class="lb-err">failed to load</div>';
-    swOk = false;
-  }
-
-  setStatus('sb-sw', swOk ? 'ok' : 'fail');
-  document.getElementById('sw-dot').className = swOk ? 'dot' : 'dot dead';
-}
-
-// ─── FETCH MANIFEST (today's theme) ──────────────────────────────────────────
-async function fetchManifest() {
-  setStatus('sb-manifest', 'pending');
+async function fetchManifest(today) {
   try {
     const r = await fetch('/daily-manifest-x9z.json?t=' + Date.now());
-    if (!r.ok) throw new Error('manifest ' + r.status);
+    if (!r.ok) throw new Error(r.status);
     const manifest = await r.json();
-    const today = todayUTC();
     const entry = manifest[today];
-    const themeEl = document.getElementById('today-theme');
-    if (themeEl) {
-      themeEl.textContent = entry
-        ? (entry.theme || entry.daily_theme || 'no theme set')
-        : 'no entry for today';
-    }
-    setStatus('sb-manifest', 'ok');
+    const el = document.getElementById('today-theme');
+    if (el) el.textContent = entry
+      ? (entry.theme || entry.daily_theme || 'no theme set')
+      : 'no entry for today';
+    setStatusDot('sb-manifest', 'ok');
   } catch(e) {
-    console.error('Manifest error:', e);
-    const themeEl = document.getElementById('today-theme');
-    if (themeEl) themeEl.textContent = 'manifest unavailable';
-    setStatus('sb-manifest', 'fail');
+    const el = document.getElementById('today-theme');
+    if (el) el.textContent = 'manifest unavailable';
+    setStatusDot('sb-manifest', 'fail');
   }
 }
 
-// ─── FETCH ALL ────────────────────────────────────────────────────────────────
 async function fetchAll() {
   const btn = document.getElementById('refresh-btn');
   if (btn) { btn.disabled = true; btn.textContent = '↻ FETCHING...'; }
 
-  await Promise.all([fetchPlayers(), fetchLeaderboards(), fetchManifest()]);
+  setStatusDot('sb-api', 'pending');
+  const errBox = document.getElementById('error-box');
+  if (errBox) errBox.style.display = 'none';
 
-  const now = new Date();
-  const timeStr = now.toLocaleTimeString();
-  const el = document.getElementById('last-fetch');
-  if (el) el.textContent = 'updated ' + timeStr;
-  const sb2 = document.getElementById('sb-time');
-  if (sb2) sb2.textContent = timeStr;
+  try {
+    const r = await fetch('/api/dashboard-data?t=' + Date.now());
+    if (!r.ok) throw new Error('API responded with ' + r.status);
+    const data = await r.json();
+
+    setStatusDot('sb-api', 'ok');
+
+    // ── Supabase ───────────────────────────────────────────────────────────
+    if (data.supabase && data.supabase.ok) {
+      const sb = data.supabase;
+      const pct = sb.named_players > 0
+        ? Math.round((sb.premium_subs / sb.named_players) * 100) : 0;
+
+      setVal('v-total',     fmt(sb.total_accounts), 'green');
+      setVal('v-named',     fmt(sb.named_players),  'blue');
+      setVal('v-premium',   fmt(sb.premium_subs),   'amber');
+      document.getElementById('v-premium-pct').textContent = pct + '% of named players';
+      setVal('v-new-today', fmt(sb.new_today), sb.new_today > 0 ? 'green' : '');
+      document.getElementById('v-new-week').textContent = fmt(sb.new_week) + ' this week';
+
+      setDot('supabase-dot', '');
+      setStatusDot('sb-supabase', 'ok');
+
+      // Recent signups table
+      const tbody = document.getElementById('signup-tbody');
+      if (tbody) {
+        if (!sb.recent_signups || sb.recent_signups.length === 0) {
+          tbody.innerHTML = '<tr><td colspan="3" class="muted-td" style="padding:16px 10px;">no named players yet</td></tr>';
+        } else {
+          tbody.innerHTML = sb.recent_signups.map(p => `
+            <tr>
+              <td>${p.display_name}</td>
+              <td class="muted-td">${timeAgo(p.created_at)}</td>
+              <td class="${p.is_premium ? 'prem-yes' : 'prem-no'}">${p.is_premium ? '★ YES' : 'no'}</td>
+            </tr>`).join('');
+        }
+      }
+    } else {
+      ['v-total','v-named','v-premium','v-new-today'].forEach(id => setVal(id, 'err', 'err'));
+      setDot('supabase-dot', 'dead');
+      setStatusDot('sb-supabase', 'fail');
+    }
+
+    // ── Leaderboards ───────────────────────────────────────────────────────
+    if (data.leaderboards) {
+      const lb = data.leaderboards;
+      if (lb.ok) {
+        setVal('v-daily-count',   fmt(lb.daily.count));
+        setVal('v-alltime-count', fmt(lb.alltime.count));
+        renderLB('daily-lb',   lb.daily.scores,   8);
+        renderLB('alltime-lb', lb.alltime.scores, 8);
+        setDot('sw-dot', '');
+        setStatusDot('sb-sw', 'ok');
+      } else {
+        setVal('v-daily-count', 'err', 'err');
+        setVal('v-alltime-count', 'err', 'err');
+        document.getElementById('daily-lb').innerHTML  = '<div class="lb-err">failed to load</div>';
+        document.getElementById('alltime-lb').innerHTML = '<div class="lb-err">failed to load</div>';
+        setDot('sw-dot', 'dead');
+        setStatusDot('sb-sw', 'fail');
+      }
+    }
+
+    // ── Errors from worker ─────────────────────────────────────────────────
+    if (data.errors && data.errors.length > 0) {
+      const errBox = document.getElementById('error-box');
+      if (errBox) {
+        errBox.style.display = 'block';
+        errBox.textContent = 'Worker errors: ' + data.errors.map(e => '[' + e.index + '] ' + e.reason).join(' | ');
+      }
+    }
+
+    // ── Manifest ───────────────────────────────────────────────────────────
+    fetchManifest(data.today);
+
+    // ── Timestamp ─────────────────────────────────────────────────────────
+    const now = new Date();
+    const ts = now.toLocaleTimeString();
+    const lf = document.getElementById('last-fetch');
+    if (lf) lf.textContent = 'updated ' + ts;
+    const st = document.getElementById('sb-time');
+    if (st) st.textContent = ts;
+
+  } catch(e) {
+    console.error('Dashboard fetch error:', e);
+    setStatusDot('sb-api', 'fail');
+    const errBox = document.getElementById('error-box');
+    if (errBox) {
+      errBox.style.display = 'block';
+      errBox.textContent = 'Failed to reach /api/dashboard-data: ' + e.message +
+        '. Make sure functions/api/dashboard-data.js is deployed.';
+    }
+  }
 
   if (btn) { btn.disabled = false; btn.textContent = '↻ REFRESH'; }
 }
