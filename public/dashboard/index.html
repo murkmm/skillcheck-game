@@ -6,166 +6,83 @@
 <title>Skill Check // Dashboard</title>
 <style>
   :root {
-    --bg: #0a0a0d;
-    --surface: #111116;
-    --border: #1e1e28;
-    --border-bright: #2e2e3e;
-    --text: #e8e8f0;
-    --muted: #5a5a72;
-    --dim: #3a3a4e;
-    --green: #00e5a0;
-    --amber: #f5a623;
-    --red: #e24b4a;
-    --blue: #4a9eff;
-    --purple: #9b6dff;
+    --bg: #0a0a0d; --surface: #111116; --border: #1e1e28; --border-bright: #2e2e3e;
+    --text: #e8e8f0; --muted: #5a5a72; --dim: #3a3a4e;
+    --green: #00e5a0; --amber: #f5a623; --red: #e24b4a; --blue: #4a9eff; --purple: #9b6dff;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Courier New', monospace;
-    font-size: 14px;
-    min-height: 100vh;
-    padding: 24px;
-  }
-
-  /* --- LOCK SCREEN --- */
-  #lock-screen {
-    position: fixed; inset: 0;
-    background: var(--bg);
-    display: flex; align-items: center; justify-content: center;
-    z-index: 999;
-  }
-  .lock-box {
-    border: 1px solid var(--border-bright);
-    padding: 40px; width: 320px; text-align: center;
-  }
+  body { background: var(--bg); color: var(--text); font-family: 'Courier New', monospace; font-size: 14px; min-height: 100vh; padding: 24px; }
+  #lock-screen { position: fixed; inset: 0; background: var(--bg); display: flex; align-items: center; justify-content: center; z-index: 999; }
+  .lock-box { border: 1px solid var(--border-bright); padding: 40px; width: 320px; text-align: center; }
   .lock-title { font-size: 20px; letter-spacing: 0.1em; color: var(--green); margin-bottom: 8px; }
   .lock-sub { font-size: 11px; color: var(--muted); letter-spacing: 0.08em; margin-bottom: 24px; }
-  .lock-box input {
-    width: 100%; background: var(--surface); border: 1px solid var(--border-bright);
-    color: var(--text); font-family: 'Courier New', monospace; font-size: 14px;
-    padding: 10px 12px; outline: none; margin-bottom: 12px; letter-spacing: 0.1em;
-  }
+  .lock-box input { width: 100%; background: var(--surface); border: 1px solid var(--border-bright); color: var(--text); font-family: 'Courier New', monospace; font-size: 14px; padding: 10px 12px; outline: none; margin-bottom: 12px; letter-spacing: 0.1em; }
   .lock-box input:focus { border-color: var(--green); }
-  .lock-box button {
-    width: 100%; background: var(--green); color: #000; border: none;
-    font-family: 'Courier New', monospace; font-size: 13px; font-weight: bold;
-    letter-spacing: 0.1em; padding: 10px; cursor: pointer;
-  }
+  .lock-box button { width: 100%; background: var(--green); color: #000; border: none; font-family: 'Courier New', monospace; font-size: 13px; font-weight: bold; letter-spacing: 0.1em; padding: 10px; cursor: pointer; }
   .lock-box button:hover { background: #00c88a; }
   .lock-error { font-size: 11px; color: var(--red); margin-top: 8px; display: none; }
-
-  /* --- HEADER --- */
-  .header {
-    display: flex; align-items: center; justify-content: space-between;
-    margin-bottom: 28px; flex-wrap: wrap; gap: 12px;
-    padding-bottom: 16px; border-bottom: 1px solid var(--border);
-  }
+  .header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 28px; flex-wrap: wrap; gap: 12px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
   .logo { font-size: 22px; letter-spacing: 0.1em; }
   .logo .g { color: var(--green); }
   .header-right { display: flex; align-items: center; gap: 12px; }
-  .last-fetch { font-size: 11px; color: var(--muted); letter-spacing: 0.05em; }
-  .refresh-btn {
-    background: transparent; border: 1px solid var(--border-bright);
-    color: var(--muted); font-family: 'Courier New', monospace;
-    font-size: 12px; padding: 6px 14px; cursor: pointer; letter-spacing: 0.05em;
-  }
+  .last-fetch { font-size: 11px; color: var(--muted); }
+  .refresh-btn { background: transparent; border: 1px solid var(--border-bright); color: var(--muted); font-family: 'Courier New', monospace; font-size: 12px; padding: 6px 14px; cursor: pointer; letter-spacing: 0.05em; }
   .refresh-btn:hover { border-color: var(--green); color: var(--green); }
   .refresh-btn:disabled { opacity: 0.3; cursor: not-allowed; }
-
-  /* --- SECTIONS --- */
   .section { margin-bottom: 28px; }
-  .section-label {
-    font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase;
-    color: var(--muted); margin-bottom: 12px;
-    display: flex; align-items: center; gap: 8px;
-  }
+  .section-label { font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
   .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); animation: pulse 2s infinite; }
   .dot.dead { background: var(--red); animation: none; }
   .dot.pending { background: var(--amber); }
   @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.25} }
-
-  /* --- METRIC CARDS --- */
-  .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
   .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
-  @media(max-width: 700px) { .grid-4 { grid-template-columns: repeat(2, 1fr); } }
-  @media(max-width: 480px) { .grid-2, .grid-4 { grid-template-columns: 1fr; } }
-
+  @media(max-width: 600px) { .grid-3 { grid-template-columns: 1fr 1fr; } .grid-2 { grid-template-columns: 1fr; } }
   .card { background: var(--surface); border: 1px solid var(--border); padding: 14px 16px; }
   .card-label { font-size: 10px; color: var(--muted); letter-spacing: 0.08em; margin-bottom: 6px; }
   .card-value { font-size: 30px; font-weight: bold; line-height: 1; }
-  .card-value.green  { color: var(--green); }
-  .card-value.amber  { color: var(--amber); }
-  .card-value.blue   { color: var(--blue); }
-  .card-value.purple { color: var(--purple); }
-  .card-value.err    { color: var(--red); font-size: 14px; }
+  .card-value.green { color: var(--green); }
+  .card-value.amber { color: var(--amber); }
+  .card-value.blue  { color: var(--blue); }
+  .card-value.err   { color: var(--red); font-size: 14px; }
   .card-sub { font-size: 11px; color: var(--dim); margin-top: 4px; }
-
-  /* --- LEADERBOARD --- */
   .lb-container { background: var(--surface); border: 1px solid var(--border); }
-  .lb-header {
-    display: flex; align-items: center; justify-content: space-between;
-    padding: 12px 14px; border-bottom: 1px solid var(--border);
-  }
+  .lb-header { display: flex; align-items: center; justify-content: space-between; padding: 12px 14px; border-bottom: 1px solid var(--border); }
   .lb-header-title { font-size: 11px; letter-spacing: 0.08em; color: var(--muted); }
   .lb-count { font-size: 20px; font-weight: bold; color: var(--green); }
-  .lb-theme { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .lb-sub { font-size: 11px; color: var(--muted); margin-top: 2px; }
   .lb-list { padding: 0 14px; }
-  .lb-row {
-    display: flex; align-items: center; gap: 10px;
-    padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 13px;
-  }
+  .lb-row { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
   .lb-row:last-child { border-bottom: none; }
   .lb-rank { width: 24px; text-align: right; color: var(--muted); flex-shrink: 0; font-size: 12px; }
   .lb-rank.top { color: var(--amber); }
   .lb-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .lb-score { color: var(--muted); flex-shrink: 0; font-variant-numeric: tabular-nums; }
   .badge { font-size: 9px; padding: 2px 5px; letter-spacing: 0.06em; flex-shrink: 0; font-weight: bold; }
-  .badge.rank-badge { background: #1a1a2e; color: var(--purple); border: 1px solid var(--purple); }
-  .badge.prem-badge  { background: #1a1500; color: var(--amber);  border: 1px solid var(--amber); }
+  .badge.rank-b { background: #1a1a2e; color: var(--purple); border: 1px solid var(--purple); }
+  .badge.prem-b { background: #1a1500; color: var(--amber); border: 1px solid var(--amber); }
   .lb-empty { padding: 16px 0; color: var(--dim); font-size: 12px; }
   .lb-err   { padding: 16px 0; color: var(--red); font-size: 12px; }
-
-  /* --- RECENT SIGNUPS TABLE --- */
-  .signup-table { width: 100%; border-collapse: collapse; }
-  .signup-table th {
-    font-size: 10px; letter-spacing: 0.1em; color: var(--muted);
-    text-align: left; padding: 8px 10px;
-    border-bottom: 1px solid var(--border); font-weight: normal;
-  }
-  .signup-table td { font-size: 12px; padding: 8px 10px; border-bottom: 1px solid var(--border); }
-  .signup-table tr:last-child td { border-bottom: none; }
-  .muted-td { color: var(--muted); }
+  .named-table { width: 100%; border-collapse: collapse; }
+  .named-table th { font-size: 10px; letter-spacing: 0.1em; color: var(--muted); text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); font-weight: normal; }
+  .named-table td { font-size: 12px; padding: 8px 10px; border-bottom: 1px solid var(--border); }
+  .named-table tr:last-child td { border-bottom: none; }
+  .td-muted { color: var(--muted); }
   .prem-yes { color: var(--amber); }
   .prem-no  { color: var(--dim); }
-
-  /* --- ERROR BOX --- */
-  .error-box {
-    background: #1a0808; border: 1px solid var(--red);
-    padding: 12px 16px; margin-bottom: 16px; font-size: 12px; color: var(--red);
-    display: none;
-  }
-
-  /* --- STATUS BAR --- */
-  .status-bar {
-    position: fixed; bottom: 0; left: 0; right: 0;
-    background: var(--surface); border-top: 1px solid var(--border);
-    padding: 8px 24px; display: flex; align-items: center; gap: 16px;
-    font-size: 11px; color: var(--muted);
-  }
-  .status-item { display: flex; align-items: center; gap: 5px; }
-  .status-dot { width: 6px; height: 6px; border-radius: 50%; }
-  .status-dot.ok      { background: var(--green); }
-  .status-dot.fail    { background: var(--red); }
-  .status-dot.pending { background: var(--amber); animation: pulse 1s infinite; }
-
+  .error-box { background: #1a0808; border: 1px solid var(--red); padding: 12px 16px; margin-bottom: 16px; font-size: 11px; color: var(--red); display: none; word-break: break-word; }
+  .status-bar { position: fixed; bottom: 0; left: 0; right: 0; background: var(--surface); border-top: 1px solid var(--border); padding: 8px 24px; display: flex; align-items: center; gap: 16px; font-size: 11px; color: var(--muted); }
+  .si { display: flex; align-items: center; gap: 5px; }
+  .sd { width: 6px; height: 6px; border-radius: 50%; }
+  .sd.ok { background: var(--green); }
+  .sd.fail { background: var(--red); }
+  .sd.pending { background: var(--amber); animation: pulse 1s infinite; }
+  .note { font-size: 11px; color: var(--dim); margin-top: 6px; }
   .loading-text { color: var(--dim); font-size: 12px; padding: 8px 0; }
 </style>
 </head>
 <body>
 
-<!-- LOCK SCREEN -->
 <div id="lock-screen">
   <div class="lock-box">
     <div class="lock-title">SKILL CHECK</div>
@@ -176,8 +93,7 @@
   </div>
 </div>
 
-<!-- MAIN DASHBOARD -->
-<div id="dashboard" style="display:none; padding-bottom: 52px;">
+<div id="dashboard" style="display:none; padding-bottom:52px;">
 
   <div class="header">
     <div class="logo"><span class="g">SKILL</span> CHECK // DASHBOARD</div>
@@ -192,7 +108,7 @@
   <!-- PLAYERS & ACCOUNTS -->
   <div class="section">
     <div class="section-label"><span class="dot pending" id="supabase-dot"></span>players &amp; accounts</div>
-    <div class="grid-4">
+    <div class="grid-3">
       <div class="card">
         <div class="card-label">TOTAL ACCOUNTS</div>
         <div class="card-value green" id="v-total">—</div>
@@ -208,12 +124,8 @@
         <div class="card-value amber" id="v-premium">—</div>
         <div class="card-sub" id="v-premium-pct">—% of named players</div>
       </div>
-      <div class="card">
-        <div class="card-label">NEW SIGNUPS</div>
-        <div class="card-value green" id="v-new-today">—</div>
-        <div class="card-sub" id="v-new-week">— this week</div>
-      </div>
     </div>
+    <p class="note">&#9432; No signup date column in profiles table — add <code>created_at timestamptz default now()</code> to track new signups over time.</p>
   </div>
 
   <!-- LEADERBOARDS -->
@@ -224,7 +136,7 @@
         <div class="lb-header">
           <div>
             <div class="lb-header-title">TODAY'S BOARD</div>
-            <div class="lb-theme" id="today-theme">loading...</div>
+            <div class="lb-sub" id="today-theme">loading...</div>
           </div>
           <div style="text-align:right;">
             <div class="lb-count" id="v-daily-count">—</div>
@@ -237,7 +149,7 @@
         <div class="lb-header">
           <div>
             <div class="lb-header-title">ALL-TIME BOARD</div>
-            <div class="lb-theme">cumulative scores</div>
+            <div class="lb-sub">cumulative scores</div>
           </div>
           <div style="text-align:right;">
             <div class="lb-count" id="v-alltime-count">—</div>
@@ -249,22 +161,14 @@
     </div>
   </div>
 
-  <!-- RECENT SIGNUPS -->
+  <!-- NAMED PLAYERS TABLE -->
   <div class="section">
-    <div class="section-label">recent named signups</div>
+    <div class="section-label">named players</div>
     <div class="lb-container">
-      <div class="lb-list" style="padding: 0;">
-        <table class="signup-table">
-          <thead>
-            <tr>
-              <th>DISPLAY NAME</th>
-              <th>SIGNED UP</th>
-              <th>PREMIUM</th>
-            </tr>
-          </thead>
-          <tbody id="signup-tbody">
-            <tr><td colspan="3" class="muted-td" style="padding:16px 10px;">loading...</td></tr>
-          </tbody>
+      <div class="lb-list" style="padding:0;">
+        <table class="named-table">
+          <thead><tr><th>DISPLAY NAME</th><th>BEST SCORE</th><th>STREAK</th><th>PREMIUM</th></tr></thead>
+          <tbody id="named-tbody"><tr><td colspan="4" class="td-muted" style="padding:16px 10px;">loading...</td></tr></tbody>
         </table>
       </div>
     </div>
@@ -272,97 +176,53 @@
 
 </div>
 
-<!-- STATUS BAR -->
 <div class="status-bar" id="status-bar" style="display:none;">
-  <div class="status-item">
-    <div class="status-dot pending" id="sb-api"></div>
-    <span>api</span>
-  </div>
-  <div class="status-item">
-    <div class="status-dot pending" id="sb-supabase"></div>
-    <span>supabase</span>
-  </div>
-  <div class="status-item">
-    <div class="status-dot pending" id="sb-sw"></div>
-    <span>silentwolf</span>
-  </div>
-  <div class="status-item">
-    <div class="status-dot pending" id="sb-manifest"></div>
-    <span>manifest</span>
-  </div>
-  <div class="status-item" style="margin-left:auto;">
-    <span id="sb-time">—</span>
-  </div>
+  <div class="si"><div class="sd pending" id="sd-api"></div><span>api</span></div>
+  <div class="si"><div class="sd pending" id="sd-sb"></div><span>supabase</span></div>
+  <div class="si"><div class="sd pending" id="sd-sw"></div><span>silentwolf</span></div>
+  <div class="si"><div class="sd pending" id="sd-mf"></div><span>manifest</span></div>
+  <div class="si" style="margin-left:auto;"><span id="sb-time">—</span></div>
 </div>
 
 <script>
-const DASHBOARD_PASSWORD = 'ki10dev'; // change this
+const PW = 'ki10dev';
 
 function checkPw() {
-  const val = document.getElementById('pw-input').value;
-  if (val === DASHBOARD_PASSWORD) {
+  if (document.getElementById('pw-input').value === PW) {
     document.getElementById('lock-screen').style.display = 'none';
     document.getElementById('dashboard').style.display = 'block';
     document.getElementById('status-bar').style.display = 'flex';
     fetchAll();
   } else {
-    const err = document.getElementById('pw-error');
-    err.style.display = 'block';
+    const e = document.getElementById('pw-error');
+    e.style.display = 'block';
     document.getElementById('pw-input').value = '';
-    setTimeout(() => err.style.display = 'none', 2000);
+    setTimeout(() => (e.style.display = 'none'), 2000);
   }
 }
-document.getElementById('pw-input').addEventListener('keydown', e => {
-  if (e.key === 'Enter') checkPw();
-});
+document.getElementById('pw-input').addEventListener('keydown', (e) => { if (e.key === 'Enter') checkPw(); });
 
-function fmt(n) {
-  if (n == null) return '—';
-  return Number(n).toLocaleString();
-}
+function fmt(n) { return n == null ? '—' : Number(n).toLocaleString(); }
 
-function timeAgo(isoStr) {
-  if (!isoStr) return '—';
-  const diff = Math.floor((Date.now() - new Date(isoStr)) / 1000);
-  if (diff < 60)    return diff + 's ago';
-  if (diff < 3600)  return Math.floor(diff / 60) + 'm ago';
-  if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
-  return Math.floor(diff / 86400) + 'd ago';
-}
+function setDot(id, s) { const e = document.getElementById(id); if (e) e.className = 'dot ' + s; }
+function setSd(id, s)  { const e = document.getElementById(id); if (e) e.className = 'sd ' + s; }
+function setVal(id, v, c) { const e = document.getElementById(id); if (!e) return; e.textContent = v; if (c) e.className = 'card-value ' + c; }
 
-function setDot(id, state) {
-  const el = document.getElementById(id);
-  if (el) el.className = 'dot ' + state;
-}
-function setStatusDot(id, state) {
-  const el = document.getElementById(id);
-  if (el) el.className = 'status-dot ' + state;
-}
-function setVal(id, val, cls) {
+function renderLB(id, scores, max) {
   const el = document.getElementById(id);
   if (!el) return;
-  el.textContent = val;
-  if (cls) el.className = 'card-value ' + cls;
-}
-
-function renderLB(containerId, scores, max) {
-  const el = document.getElementById(containerId);
-  if (!el) return;
-  if (!scores || scores.length === 0) {
-    el.innerHTML = '<div class="lb-empty">no entries yet</div>';
-    return;
-  }
+  if (!scores || !scores.length) { el.innerHTML = '<div class="lb-empty">no entries yet</div>'; return; }
   el.innerHTML = scores.slice(0, max || 8).map((s, i) => {
-    const name  = s.player_name || s.username || '—';
+    const name  = s.player_name || s.name || s.username || '—';
     const score = fmt(Math.round(parseFloat(s.score) || 0));
     const meta  = s.metadata || {};
     const rank  = meta.rank || '';
-    const isPrem = meta.is_premium;
+    const prem  = meta.is_premium || s.is_premium;
     return `<div class="lb-row">
       <span class="lb-rank ${i < 3 ? 'top' : ''}">${i + 1}</span>
       <span class="lb-name">${name}</span>
-      ${rank   ? `<span class="badge rank-badge">${rank}</span>` : ''}
-      ${isPrem ? `<span class="badge prem-badge">★</span>` : ''}
+      ${rank ? `<span class="badge rank-b">${rank}</span>` : ''}
+      ${prem  ? `<span class="badge prem-b">★</span>` : ''}
       <span class="lb-score">${score}</span>
     </div>`;
   }).join('');
@@ -372,125 +232,106 @@ async function fetchManifest(today) {
   try {
     const r = await fetch('/daily-manifest-x9z.json?t=' + Date.now());
     if (!r.ok) throw new Error(r.status);
-    const manifest = await r.json();
-    const entry = manifest[today];
+    const m = await r.json();
+    const entry = m[today];
     const el = document.getElementById('today-theme');
-    if (el) el.textContent = entry
-      ? (entry.theme || entry.daily_theme || 'no theme set')
-      : 'no entry for today';
-    setStatusDot('sb-manifest', 'ok');
-  } catch(e) {
+    if (el) el.textContent = entry ? (entry.theme || entry.daily_theme || 'no theme set') : 'no entry for today';
+    setSd('sd-mf', 'ok');
+  } catch {
     const el = document.getElementById('today-theme');
     if (el) el.textContent = 'manifest unavailable';
-    setStatusDot('sb-manifest', 'fail');
+    setSd('sd-mf', 'fail');
   }
 }
 
 async function fetchAll() {
   const btn = document.getElementById('refresh-btn');
   if (btn) { btn.disabled = true; btn.textContent = '↻ FETCHING...'; }
-
-  setStatusDot('sb-api', 'pending');
+  setSd('sd-api', 'pending');
   const errBox = document.getElementById('error-box');
   if (errBox) errBox.style.display = 'none';
 
   try {
     const r = await fetch('/api/dashboard-data?t=' + Date.now());
-    if (!r.ok) throw new Error('API responded with ' + r.status);
+    if (!r.ok) throw new Error('API ' + r.status);
     const data = await r.json();
+    setSd('sd-api', 'ok');
 
-    setStatusDot('sb-api', 'ok');
-
-    // ── Supabase ───────────────────────────────────────────────────────────
-    if (data.supabase && data.supabase.ok) {
-      const sb = data.supabase;
-      const pct = sb.named_players > 0
-        ? Math.round((sb.premium_subs / sb.named_players) * 100) : 0;
-
-      setVal('v-total',     fmt(sb.total_accounts), 'green');
-      setVal('v-named',     fmt(sb.named_players),  'blue');
-      setVal('v-premium',   fmt(sb.premium_subs),   'amber');
+    // Supabase
+    const sb = data.supabase;
+    if (sb && sb.ok) {
+      const pct = sb.named_players > 0 ? Math.round((sb.premium_subs / sb.named_players) * 100) : 0;
+      setVal('v-total',   fmt(sb.total_accounts), 'green');
+      setVal('v-named',   fmt(sb.named_players),  'blue');
+      setVal('v-premium', fmt(sb.premium_subs),   'amber');
       document.getElementById('v-premium-pct').textContent = pct + '% of named players';
-      setVal('v-new-today', fmt(sb.new_today), sb.new_today > 0 ? 'green' : '');
-      document.getElementById('v-new-week').textContent = fmt(sb.new_week) + ' this week';
-
       setDot('supabase-dot', '');
-      setStatusDot('sb-supabase', 'ok');
+      setSd('sd-sb', 'ok');
 
-      // Recent signups table
-      const tbody = document.getElementById('signup-tbody');
+      // Named players table
+      const tbody = document.getElementById('named-tbody');
+      const rows = sb.recent_named || [];
       if (tbody) {
-        if (!sb.recent_signups || sb.recent_signups.length === 0) {
-          tbody.innerHTML = '<tr><td colspan="3" class="muted-td" style="padding:16px 10px;">no named players yet</td></tr>';
+        if (!rows.length) {
+          tbody.innerHTML = '<tr><td colspan="4" class="td-muted" style="padding:16px 10px;">no named players yet</td></tr>';
         } else {
-          tbody.innerHTML = sb.recent_signups.map(p => `
-            <tr>
-              <td>${p.display_name}</td>
-              <td class="muted-td">${timeAgo(p.created_at)}</td>
-              <td class="${p.is_premium ? 'prem-yes' : 'prem-no'}">${p.is_premium ? '★ YES' : 'no'}</td>
-            </tr>`).join('');
+          tbody.innerHTML = rows.map((p) => `<tr>
+            <td>${p.display_name}</td>
+            <td class="td-muted">${p.best_score != null ? fmt(p.best_score) : '—'}</td>
+            <td class="td-muted">${p.streak != null ? p.streak + ' 🔥' : '—'}</td>
+            <td class="${p.is_premium ? 'prem-yes' : 'prem-no'}">${p.is_premium ? '★ YES' : 'no'}</td>
+          </tr>`).join('');
         }
       }
     } else {
-      ['v-total','v-named','v-premium','v-new-today'].forEach(id => setVal(id, 'err', 'err'));
+      ['v-total','v-named','v-premium'].forEach((id) => setVal(id, 'err', 'err'));
       setDot('supabase-dot', 'dead');
-      setStatusDot('sb-supabase', 'fail');
+      setSd('sd-sb', 'fail');
     }
 
-    // ── Leaderboards ───────────────────────────────────────────────────────
-    if (data.leaderboards) {
-      const lb = data.leaderboards;
-      if (lb.ok) {
-        setVal('v-daily-count',   fmt(lb.daily.count));
-        setVal('v-alltime-count', fmt(lb.alltime.count));
-        renderLB('daily-lb',   lb.daily.scores,   8);
-        renderLB('alltime-lb', lb.alltime.scores, 8);
-        setDot('sw-dot', '');
-        setStatusDot('sb-sw', 'ok');
-      } else {
-        setVal('v-daily-count', 'err', 'err');
-        setVal('v-alltime-count', 'err', 'err');
-        document.getElementById('daily-lb').innerHTML  = '<div class="lb-err">failed to load</div>';
-        document.getElementById('alltime-lb').innerHTML = '<div class="lb-err">failed to load</div>';
-        setDot('sw-dot', 'dead');
-        setStatusDot('sb-sw', 'fail');
+    // Leaderboards
+    const lb = data.leaderboards;
+    if (lb) {
+      if (lb.daily && lb.daily.count != null) {
+        setVal('v-daily-count', fmt(lb.daily.count));
+        renderLB('daily-lb', lb.daily.scores, 8);
       }
+      if (lb.alltime && lb.alltime.count != null) {
+        setVal('v-alltime-count', fmt(lb.alltime.count));
+        renderLB('alltime-lb', lb.alltime.scores, 8);
+      }
+      // If SW failed, fall back to profile best scores
+      if (!lb.ok && sb && sb.top_scores_from_profiles && sb.top_scores_from_profiles.length) {
+        renderLB('alltime-lb', sb.top_scores_from_profiles, 8);
+        setVal('v-alltime-count', fmt(sb.top_scores_from_profiles.length));
+        document.getElementById('alltime-lb').insertAdjacentHTML('afterbegin',
+          '<div class="note" style="padding:6px 0;">from profile data (SW unavailable)</div>');
+      }
+      setDot('sw-dot', lb.ok ? '' : 'dead');
+      setSd('sd-sw', lb.ok ? 'ok' : 'fail');
     }
 
-    // ── Errors from worker ─────────────────────────────────────────────────
-    if (data.errors && data.errors.length > 0) {
-      const errBox = document.getElementById('error-box');
+    // Errors
+    if (data.errors && data.errors.length) {
       if (errBox) {
         errBox.style.display = 'block';
-        errBox.textContent = 'Worker errors: ' + data.errors.map(e => '[' + e.index + '] ' + e.reason).join(' | ');
+        errBox.textContent = data.errors.map((e) => '[' + e.index + '] ' + e.reason).join(' | ');
       }
     }
 
-    // ── Manifest ───────────────────────────────────────────────────────────
     fetchManifest(data.today);
 
-    // ── Timestamp ─────────────────────────────────────────────────────────
-    const now = new Date();
-    const ts = now.toLocaleTimeString();
-    const lf = document.getElementById('last-fetch');
-    if (lf) lf.textContent = 'updated ' + ts;
-    const st = document.getElementById('sb-time');
-    if (st) st.textContent = ts;
+    const ts = new Date().toLocaleTimeString();
+    const lf = document.getElementById('last-fetch'); if (lf) lf.textContent = 'updated ' + ts;
+    const st = document.getElementById('sb-time');    if (st) st.textContent = ts;
 
-  } catch(e) {
-    console.error('Dashboard fetch error:', e);
-    setStatusDot('sb-api', 'fail');
-    const errBox = document.getElementById('error-box');
-    if (errBox) {
-      errBox.style.display = 'block';
-      errBox.textContent = 'Failed to reach /api/dashboard-data: ' + e.message +
-        '. Make sure functions/api/dashboard-data.js is deployed.';
-    }
+  } catch (e) {
+    setSd('sd-api', 'fail');
+    if (errBox) { errBox.style.display = 'block'; errBox.textContent = 'Failed: ' + e.message; }
   }
 
   if (btn) { btn.disabled = false; btn.textContent = '↻ REFRESH'; }
 }
 </script>
-
 </body>
 </html>
