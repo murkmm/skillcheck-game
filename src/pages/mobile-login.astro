@@ -69,9 +69,10 @@ import Layout from '~/layouts/Layout.astro';
 
       // 3. Android Intent FIX: Change the '#' to a '?' so it doesn't break the Intent parsing!
       const safeTokens = tokens.replace('#', '?');
-      const packageName = 'com.ki10games.skillcheck';
+
+      // Explicitly request the VIEW action, without forcing a specific Play Store package match
       const intentLink =
-        'intent://auth/callback' + safeTokens + '#Intent;scheme=skillcheck;package=' + packageName + ';end;';
+        'intent://auth/callback' + safeTokens + '#Intent;scheme=skillcheck;action=android.intent.action.VIEW;end;';
 
       // 4. Route based on device
       const isAndroid = /Android/i.test(navigator.userAgent);
