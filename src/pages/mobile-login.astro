@@ -61,24 +61,29 @@ import Layout from '~/layouts/Layout.astro';
 
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-      // 1. Grab the Supabase tokens (starts with '#')
+      // 1. Grab tokens
       const tokens = window.location.hash;
 
-      // 2. Standard link for iOS/Desktop uses the '#'
+      // 2. Standard link
       const standardLink = 'skillcheck://auth/callback' + tokens;
 
-      // 3. Android Intent FIX: Change the '#' to a '?' so it doesn't break the Intent parsing!
+      // 3. Android Intent FIX: Add the package requirement back!
       const safeTokens = tokens.replace('#', '?');
+      const packageName = 'com.ki10games.skillcheck';
 
-      // Explicitly request the VIEW action, without forcing a specific Play Store package match
+      // Chrome forces Android to open THIS specific app
       const intentLink =
-        'intent://auth/callback' + safeTokens + '#Intent;scheme=skillcheck;action=android.intent.action.VIEW;end;';
+        'intent://auth/callback' +
+        safeTokens +
+        '#Intent;scheme=skillcheck;package=' +
+        packageName +
+        ';action=android.intent.action.VIEW;end;';
 
-      // 4. Route based on device
+      // 4. Route
       const isAndroid = /Android/i.test(navigator.userAgent);
       const finalLink = isAndroid ? intentLink : standardLink;
 
-      // 5. Attach & Auto-Push
+      // 5. Attach
       const returnBtn = document.getElementById('returnBtn') as HTMLAnchorElement | null;
       if (returnBtn) {
         returnBtn.href = finalLink;
