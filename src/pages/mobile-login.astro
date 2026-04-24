@@ -64,18 +64,26 @@ import Layout from '~/layouts/Layout.astro';
       // 1. Grab the Supabase tokens from the URL hash
       const tokens = window.location.hash;
 
-      // 2. Build the deep link for Android
-      const deepLink = 'skillcheck://auth/callback' + tokens;
+      // 2. Build the standard deep link (works for iOS / generic)
+      const standardLink = 'skillcheck://auth/callback' + tokens;
 
-      // 3. Attach it to the fallback button (with TypeScript casting)
+      // 3. Build the Chrome Intent URL (The Bulletproof Android Method)
+      // Format: intent://[host]/[path][hash]#Intent;scheme=[scheme];end;
+      const intentLink = 'intent://auth/callback' + tokens + '#Intent;scheme=skillcheck;end;';
+
+      // 4. Use the Intent link if on Android, otherwise fallback to standard
+      const isAndroid = /Android/i.test(navigator.userAgent);
+      const finalLink = isAndroid ? intentLink : standardLink;
+
+      // 5. Attach to the fallback button
       const returnBtn = document.getElementById('returnBtn') as HTMLAnchorElement | null;
       if (returnBtn) {
-        returnBtn.href = deepLink;
+        returnBtn.href = finalLink;
       }
 
-      // 4. Automatically push them to the app after a tiny 500ms delay
+      // 6. Automatically push them to the app after a tiny 500ms delay
       setTimeout(() => {
-        window.location.replace(deepLink);
+        window.location.replace(finalLink);
       }, 500);
     });
   </script>
