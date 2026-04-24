@@ -1,0 +1,82 @@
+---
+import Layout from '~/layouts/Layout.astro';
+---
+
+<Layout
+  metadata={{
+    title: 'Login Successful - Skill Check',
+    description: 'Redirecting back to the app...',
+  }}
+>
+  <style>
+    .trampoline-container {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem;
+      background: var(--bg-deep);
+    }
+    h2 {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 2rem;
+      font-weight: 800;
+      color: var(--success);
+      margin-bottom: 1rem;
+    }
+    p {
+      color: var(--text-dim);
+      font-size: 1.1rem;
+      margin-bottom: 2rem;
+    }
+    .btn {
+      display: inline-block;
+      padding: 1rem 2.5rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      font-size: 1rem;
+      letter-spacing: 0.05em;
+      color: var(--bg-deep);
+      background: var(--accent);
+      border: none;
+      border-radius: 0.75rem;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+    .btn:hover {
+      background: var(--warning);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 30px rgba(255, 204, 0, 0.2);
+    }
+  </style>
+
+  <div class="trampoline-container">
+    <h2>AUTHENTICATION SUCCESSFUL</h2>
+    <p>Redirecting you back to the game...</p>
+
+    <a id="returnBtn" href="#" class="btn">RETURN TO GAME</a>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // 1. Grab the Supabase tokens from the URL hash
+      const tokens = window.location.hash;
+
+      // 2. Build the deep link for Android
+      const deepLink = 'skillcheck://auth/callback' + tokens;
+
+      // 3. Attach it to the fallback button (with TypeScript casting)
+      const returnBtn = document.getElementById('returnBtn') as HTMLAnchorElement | null;
+      if (returnBtn) {
+        returnBtn.href = deepLink;
+      }
+
+      // 4. Automatically push them to the app after a tiny 500ms delay
+      setTimeout(() => {
+        window.location.replace(deepLink);
+      }, 500);
+    });
+  </script>
+</Layout>
