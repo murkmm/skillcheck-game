@@ -80,24 +80,48 @@ export async function onRequestPost(context: EventContext<Env>): Promise<Respons
 
   console.log('📧 Order email:', email);
 
-  // 6. Look up the user_id from Supabase Auth Admin API by email
-  const authUrl = `${env.SUPABASE_URL}/auth/v1/admin/users?email=${encodeURIComponent(email)}`;
-  const authResponse = await fetch(authUrl, {
-    method: 'GET',
-    headers: {
-      apikey: env.SUPABASE_SERVICE_ROLE_KEY,
-      Authorization: `Bearer ${env.SUPABASE_SERVICE_ROLE_KEY}`,
-    },
-  });
+  // 6. Look up the user_id from Supabase Auth Admin API by email.
+  // The ?email= filter is unreliable across gotrue versions, so we paginate
+  // through all users and match case-insensitively. This is fine for current scale.
+  const targetEmail = email.toLowerCase().trim();
+  let matchedUser: SupabaseAuthUser | null = null;
+  let page = 1;
+  const perPage = 1000; // Supabase max
+  const maxPages = 20; // Safety cap: 20,000 users
 
-  if (!authResponse.ok) {
-    const errorText = await authResponse.text();
-    console.error('❌ Supabase Auth lookup failed:', authResponse.status, errorText);
-    return new Response('User lookup failed', { status: 500 });
+  while (page <= maxPages && !matchedUser) {
+    const listUrl = `${env.SUPABASE_URL}/auth/v1/admin/users?page=${page}&per_page=${perPage}`;
+    const listResponse = await fetch(listUrl, {
+      method: 'GET',
+      headers: {
+        apikey: env.SUPABASE_SERVICE_ROLE_KEY,
+        Authorization: `Bearer ${env.SUPABASE_SERVICE_ROLE_KEY}`,
+      },
+    });
+
+    if (!listResponse.ok) {
+      const errorText = await listResponse.text();
+      console.error('❌ Supabase Auth list failed:', listResponse.status, errorText);
+      return new Response('User lookup failed', { status: 500 });
+    }
+
+    const listData = (await listResponse.json()) as SupabaseAuthUsersResponse;
+    const users = listData.users ?? [];
+
+    if (users.length === 0) {
+      // No more users to iterate
+      break;
+    }
+
+    matchedUser = users.find((u) => u.email?.toLowerCase().trim() === targetEmail) ?? null;
+
+    // Stop early if this page wasn't full (we've reached the end)
+    if (users.length < perPage) {
+      break;
+    }
+
+    page += 1;
   }
-
-  const authData = (await authResponse.json()) as SupabaseAuthUsersResponse;
-  const matchedUser = authData.users?.find((u) => u.email?.toLowerCase() === email.toLowerCase());
 
   if (!matchedUser) {
     console.error('❌ No Supabase user found with email:', email);
