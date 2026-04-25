@@ -33,6 +33,7 @@
         font-size: 18px;
         border-radius: 8px;
         cursor: pointer;
+        margin-bottom: 12px;
       }
     </style>
   </head>
@@ -40,10 +41,19 @@
     <h1>PAYMENT COMPLETE!</h1>
     <p>Activating your supporter status....</p>
 
-    <button onclick="window.close()">RETURN TO GAME</button>
+    <button id="returnBtn">RETURN TO GAME</button>
 
     <script>
-      // 1. Notify the Opener (The Game Tab) if possible
+      const userAgent = navigator.userAgent || '';
+      const isAndroid = /Android/i.test(userAgent);
+      const packageName = 'com.ki10games.skillcheck';
+
+      // Detect if this user came from the native Android app (vs mobile web).
+      // The native app launches a true browser tab via OS.shell_open, so window.opener is null.
+      // The web build opens the checkout in a popup window via window.open(), so window.opener exists.
+      const cameFromNativeApp = isAndroid && !window.opener;
+
+      // 1. Notify the opener (web build only — postMessage requires window.opener)
       try {
         if (window.opener) {
           window.opener.postMessage('payment_success', '*');
@@ -52,10 +62,35 @@
         console.log('Opener lost.');
       }
 
-      // 2. Attempt Auto-Close after 1 second
+      // 2. Build deep links for the native app return path
+      const standardLink = 'skillcheck://premium/success';
+      const intentLink =
+        'intent://premium/success' +
+        '#Intent;scheme=skillcheck;package=' +
+        packageName +
+        ';action=android.intent.action.VIEW;end;';
+      const finalLink = cameFromNativeApp ? intentLink : standardLink;
+
+      // 3. Wire up the manual return button
+      const returnBtn = document.getElementById('returnBtn');
+      if (returnBtn) {
+        returnBtn.addEventListener('click', () => {
+          if (cameFromNativeApp) {
+            window.location.replace(finalLink);
+          } else {
+            window.close();
+          }
+        });
+      }
+
+      // 4. Auto-action after 1.5 seconds
       setTimeout(function () {
-        window.close();
-      }, 1000);
+        if (cameFromNativeApp) {
+          window.location.replace(finalLink);
+        } else {
+          window.close();
+        }
+      }, 1500);
     </script>
   </body>
 </html>
