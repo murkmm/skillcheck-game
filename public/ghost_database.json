@@ -160773,6 +160773,3266 @@
 					"City"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "HEV Suit",
+						"difficulty": "Easy",
+						"explanation": "The Hazardous Environment Suit, or HEV Suit, is Gordon's iconic armor, featuring a built-in flashlight, Geiger counter, and morphine administrator.",
+						"image_url": "https://skillcheckgame.com/assets/images/gordon_freeman.webp",
+						"question": "What is the name of the hazardous environment suit that protects Gordon and provides him with a heads-up display?",
+						"wrong": [
+							"Praetor Suit",
+							"N7 Armor",
+							"Power Armor"
+						]
+					},
+					{
+						"correct": "Theoretical Physics",
+						"difficulty": "Easy",
+						"explanation": "Gordon earned his Ph.D. from MIT. His background in theoretical physics made him a prime candidate for work in the Anomalous Materials Lab at Black Mesa.",
+						"image_url": "",
+						"question": "Gordon is a silent protagonist, but his Ph.D. is in what field of science?",
+						"wrong": [
+							"Applied Mathematics",
+							"Quantum Biology",
+							"Chemical Engineering"
+						]
+					},
+					{
+						"correct": "Crowbar",
+						"difficulty": "Easy",
+						"explanation": "The simple red crowbar is synonymous with Gordon Freeman, used for breaking supply crates, solving puzzles, and fending off headcrabs.",
+						"image_url": "",
+						"question": "What is the first melee weapon Gordon acquires, which has since become his signature tool?",
+						"wrong": [
+							"Stun Baton",
+							"Wrench",
+							"Machete"
+						]
+					},
+					{
+						"correct": "City 17",
+						"difficulty": "Easy",
+						"explanation": "City 17, located in Eastern Europe, serves as the primary setting for Half-Life 2 and is the headquarters of the Combine's administrator, Dr. Breen.",
+						"image_url": "",
+						"question": "In which dystopian, Combine-controlled urban center does Gordon arrive at the beginning of Half-Life 2?",
+						"wrong": [
+							"City 14",
+							"Rapture",
+							"Ravenholm"
+						]
+					},
+					{
+						"correct": "Black Mesa",
+						"difficulty": "Easy",
+						"explanation": "The Black Mesa Research Facility in New Mexico is where the entire saga began, with an experiment that tore a hole between dimensions.",
+						"image_url": "",
+						"question": "What government research facility was the site of a 'resonance cascade' incident caused by Gordon's experiment in the first game?",
+						"wrong": [
+							"Aperture Science",
+							"White Forest",
+							"Nova Prospekt"
+						]
+					},
+					{
+						"correct": "Zero Point Energy Field Manipulator",
+						"difficulty": "Medium",
+						"explanation": "Commonly known as the Gravity Gun, this device was originally used for handling hazardous materials but becomes one of Gordon's most powerful and versatile weapons.",
+						"image_url": "",
+						"question": "What is the proper name of the 'gravity gun' that allows Gordon to manipulate heavy objects?",
+						"wrong": [
+							"Graviton Particle Emitter",
+							"Kinetic Displacement Device",
+							"Mass Effect Propulsion Gun"
+						]
+					},
+					{
+						"correct": "The Free Man",
+						"difficulty": "Medium",
+						"explanation": "The Vortigaunts, once enslaved by the Nihilanth, see Gordon as their liberator and refer to him with the fitting title, 'The Free Man'.",
+						"image_url": "",
+						"question": "The allied Vortigaunts have a special name for Gordon, revering him as a messianic figure. What do they call him?",
+						"wrong": [
+							"The One",
+							"The Silent One",
+							"The Crowbar"
+						]
+					},
+					{
+						"correct": "Dr. Isaac Kleiner",
+						"difficulty": "Medium",
+						"explanation": "Dr. Kleiner, a key figure in the resistance, was one of Gordon's professors and was instrumental in getting him his fateful position at Black Mesa.",
+						"image_url": "https://skillcheckgame.com/assets/images/gordon_freeman.webp",
+						"question": "Who was Gordon's former mentor at MIT who recommended him for the job at Black Mesa?",
+						"wrong": [
+							"Dr. Eli Vance",
+							"Dr. Arne Magnusson",
+							"Dr. Wallace Breen"
+						]
+					},
+					{
+						"correct": "Airboat",
+						"difficulty": "Medium",
+						"explanation": "The resistance-built airboat, equipped with a Combine pulse rifle, is Gordon's trusty transport through the hazardous waterways.",
+						"image_url": "",
+						"question": "Along the polluted canals outside City 17, Gordon pilots what kind of makeshift, armed vehicle?",
+						"wrong": [
+							"Scout Car",
+							"Swamp Skimmer",
+							"Jet Ski"
+						]
+					},
+					{
+						"correct": "Father Grigori",
+						"difficulty": "Medium",
+						"explanation": "Father Grigori uses his knowledge of the town and its many traps to help Gordon survive the horrors of Ravenholm, a town he calls his 'flock'.",
+						"image_url": "",
+						"question": "In the zombie-infested town of Ravenholm, Gordon is aided by its lone sane survivor, a priest named what?",
+						"wrong": [
+							"Brother Vance",
+							"Captain Odessa",
+							"Colonel Cubbage"
+						]
+					},
+					{
+						"correct": "Mark V",
+						"difficulty": "Hard",
+						"explanation": "While Gordon wore the Mark IV suit during the Black Mesa incident, Dr. Kleiner provides him with the upgraded Mark V at the start of Half-Life 2.",
+						"image_url": "",
+						"question": "What is the specific model designation of the HEV suit Gordon wears in Half-Life 2?",
+						"wrong": [
+							"Mark IV",
+							"Mark VI",
+							"Mark III"
+						]
+					},
+					{
+						"correct": "Anomalous Materials",
+						"difficulty": "Hard",
+						"explanation": "The Anomalous Materials Lab was the heart of Black Mesa's top-secret research, studying alien crystals and teleportation technology.",
+						"image_url": "",
+						"question": "At Black Mesa, Gordon Freeman was assigned to which specific department, where the fateful experiment took place?",
+						"wrong": [
+							"Biological Waste Processing",
+							"Advanced Propulsion Systems",
+							"Sector C Test Labs"
+						]
+					},
+					{
+						"correct": "Nova Prospekt",
+						"difficulty": "Hard",
+						"explanation": "Nova Prospekt is a former high-security prison converted by the Combine into a horrific processing facility for political prisoners and Stalker conversion.",
+						"image_url": "https://skillcheckgame.com/assets/images/gordon_freeman.webp",
+						"question": "What is the official name of the high-security Combine prison that Gordon and Alyx must infiltrate?",
+						"wrong": [
+							"Overwatch Nexus",
+							"The Citadel",
+							"Black Mesa East"
+						]
+					},
+					{
+						"correct": "Black Mesa East",
+						"difficulty": "Hard",
+						"explanation": "Black Mesa East was the primary laboratory for the resistance, led by Dr. Eli Vance, until it was discovered and assaulted by the Combine.",
+						"image_url": "",
+						"question": "What is the name of the resistance base located in a hydroelectric dam, where Gordon meets Dr. Eli Vance?",
+						"wrong": [
+							"White Forest",
+							"Portage",
+							"Shorepoint"
+						]
+					},
+					{
+						"correct": "Scout Car",
+						"difficulty": "Hard",
+						"explanation": "Referred to in-game as the Scout Car, this stripped-down and rebuilt muscle car is Gordon's vehicle for the coastal drive, later equipped with a Tau Cannon.",
+						"image_url": "",
+						"question": "What is the name of the muscle car Gordon drives along Highway 17 to reach Nova Prospekt?",
+						"wrong": [
+							"Jalopy",
+							"The Charger",
+							"Muscle Car"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_gordon_freeman",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Gordon Freeman",
+				"lore_desc": "The silent protagonist of the Half-Life series. A theoretical physicist from MIT, he becomes an unlikely hero of the resistance against the oppressive Combine empire.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Scientist",
+					"HEV Suit"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Dog",
+						"difficulty": "Easy",
+						"explanation": "Dog is Alyx's massive and expressive robot companion. She built him to protect her father, but his size and strength grew far beyond her original design.",
+						"image_url": "",
+						"question": "What is the name of Alyx's loyal and powerful robotic 'pet,' which she built from scrap?",
+						"wrong": [
+							"Claptrap",
+							"Wheatley",
+							"Scrappy"
+						]
+					},
+					{
+						"correct": "Dr. Eli Vance",
+						"difficulty": "Easy",
+						"explanation": "Dr. Eli Vance is a brilliant physicist, a loving father, and the heart of the resistance movement operating out of Black Mesa East.",
+						"image_url": "",
+						"question": "Who is Alyx's father, a former Black Mesa scientist and the leader of the human resistance?",
+						"wrong": [
+							"Dr. Isaac Kleiner",
+							"Dr. Arne Magnusson",
+							"Dr. Wallace Breen"
+						]
+					},
+					{
+						"correct": "Alyx's Gun",
+						"difficulty": "Easy",
+						"explanation": "Known simply as 'Alyx's Gun' in the game files and community, this unique firearm is a heavily modified machine pistol that is her signature weapon.",
+						"image_url": "https://skillcheckgame.com/assets/images/alyx_vance.webp",
+						"question": "What is the name of Alyx's custom-made, fully automatic pistol that she uses throughout the game?",
+						"wrong": [
+							"The Viper",
+							"Black Beauty",
+							"The Emancipator"
+						]
+					},
+					{
+						"correct": "Dr. Isaac Kleiner",
+						"difficulty": "Easy",
+						"explanation": "Alyx guides Gordon through the rooftops and back alleys of City 17 to the hidden lab of Dr. Kleiner, one of the few surviving scientists from Black Mesa.",
+						"image_url": "",
+						"question": "Early in the game, Alyx saves Gordon from Civil Protection officers and leads him to whose secret laboratory?",
+						"wrong": [
+							"Barney Calhoun",
+							"Father Grigori",
+							"Her own apartment"
+						]
+					},
+					{
+						"correct": "The Citadel",
+						"difficulty": "Easy",
+						"explanation": "The Citadel is the central command hub for the Combine on Earth, housing the offices of Dr. Breen and the technology that suppresses humanity.",
+						"image_url": "",
+						"question": "What is the name of the imposing Combine fortress that looms over City 17?",
+						"wrong": [
+							"The Spire",
+							"The Overwatch Nexus",
+							"The Tower"
+						]
+					},
+					{
+						"correct": "EMP Tool",
+						"difficulty": "Medium",
+						"explanation": "Her custom-built EMP Tool can retract force fields, open locked doors, and even reprogram Combine roller mines to fight for the resistance.",
+						"image_url": "",
+						"question": "What is the name of the multi-purpose electronic tool Alyx uses to bypass Combine security systems?",
+						"wrong": [
+							"Power Sapper",
+							"Circuit Scrambler",
+							"Omni-Key"
+						]
+					},
+					{
+						"correct": "Dr. Judith Mossman",
+						"difficulty": "Medium",
+						"explanation": "Dr. Mossman's loyalty is often in question, creating tension with Alyx, though she ultimately proves to be an ally to the resistance.",
+						"image_url": "",
+						"question": "Which former Black Mesa scientist, who has a complicated relationship with Eli, works alongside the resistance at Black Mesa East?",
+						"wrong": [
+							"Dr. Gina Cross",
+							"Dr. Colette Green",
+							"Dr. Mary S. Calhound"
+						]
+					},
+					{
+						"correct": "Sentry Turrets",
+						"difficulty": "Medium",
+						"explanation": "Alyx can re-purpose the Combine's own automated turrets, turning them against their former masters to cover Gordon's advance.",
+						"image_url": "https://skillcheckgame.com/assets/images/alyx_vance.webp",
+						"question": "In the depths of Nova Prospekt, Alyx demonstrates her hacking skills by reprogramming what type of Combine automated defense system?",
+						"wrong": [
+							"Manhacks",
+							"Scanners",
+							"Striders"
+						]
+					},
+					{
+						"correct": "The Uprising",
+						"difficulty": "Medium",
+						"explanation": "Their successful attack on the prison served as the catalyst for the citizens of City 17 to finally rise up in open rebellion against the Combine.",
+						"image_url": "",
+						"question": "After escaping Nova Prospekt, Gordon and Alyx are teleported one week into the future, an event that sparks what city-wide uprising?",
+						"wrong": [
+							"The Cascade",
+							"The Reckoning",
+							"The Purge"
+						]
+					},
+					{
+						"correct": "Antlions",
+						"difficulty": "Medium",
+						"explanation": "By retrieving 'Pheropods' from an Antlion Guard, Alyx allows Gordon to command the subterranean creatures, turning them into powerful allies on the coast.",
+						"image_url": "",
+						"question": "What insectoid alien species, native to Xen, does Alyx help Gordon pacify and command using Pheropods?",
+						"wrong": [
+							"Headcrabs",
+							"Barnacles",
+							"Bullsquids"
+						]
+					},
+					{
+						"correct": "Strider",
+						"difficulty": "Hard",
+						"explanation": "A Strider's warp cannon blast collapses the rubble Alyx is standing on, but Dog heroically intervenes, ripping open the Strider's hull.",
+						"image_url": "",
+						"question": "At the end of Half-Life 2, what powerful Combine enemy gravely injures Alyx before being stopped by Dog?",
+						"wrong": [
+							"Gunship",
+							"Hunter",
+							"Combine Advisor"
+						]
+					},
+					{
+						"correct": "The Core",
+						"difficulty": "Hard",
+						"explanation": "The Citadel's primary energy core becomes unstable after Gordon destroys the main reactor, forcing them on a perilous journey back inside to contain it.",
+						"image_url": "",
+						"question": "In Episode One, what specific structure within the Citadel must Alyx and Gordon stabilize to delay its explosion?",
+						"wrong": [
+							"The Reactor",
+							"The Nexus",
+							"The Engine"
+						]
+					},
+					{
+						"correct": "The Black Mesa Incident",
+						"difficulty": "Hard",
+						"explanation": "The G-Man shows Gordon a vision of him carrying a young Alyx out of the Black Mesa dormitories, saving her from the destruction she otherwise would not have survived.",
+						"image_url": "https://skillcheckgame.com/assets/images/alyx_vance.webp",
+						"question": "In Episode Two, the G-Man reveals he rescued a young Alyx from what catastrophic event?",
+						"wrong": [
+							"The Seven Hour War",
+							"The Fall of City 17",
+							"The Portal Storms"
+						]
+					},
+					{
+						"correct": "White Forest",
+						"difficulty": "Hard",
+						"explanation": "The White Forest base is the last major resistance stronghold, housing the rocket they plan to use to shut down the Combine's superportal.",
+						"image_url": "",
+						"question": "What is the name of the resistance base located in an old missile silo, which serves as the main setting for Episode Two?",
+						"wrong": [
+							"Black Mesa East",
+							"Victory Mine",
+							"St. Olga"
+						]
+					},
+					{
+						"correct": "Arne",
+						"difficulty": "Hard",
+						"explanation": "Dr. Arne Magnusson is a pompous but brilliant scientist from the Black Mesa days who constantly belittles Gordon while preparing the crucial satellite launch.",
+						"image_url": "",
+						"question": "What is the first name of the smug, rocket-obsessed scientist Alyx and Gordon work with at White Forest?",
+						"wrong": [
+							"Isaac",
+							"Eli",
+							"Wallace"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_alyx_vance",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Alyx Vance",
+				"lore_desc": "A key figure in the human resistance against the Combine. She is a skilled hacker, brilliant engineer, and a close companion to Gordon Freeman.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Hacker",
+					"Resistance"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A briefcase",
+						"difficulty": "Easy",
+						"explanation": "The G-Man is rarely seen without his standard-issue briefcase, the contents of which remain one of the series' greatest mysteries.",
+						"image_url": "https://skillcheckgame.com/assets/images/g_man.webp",
+						"question": "What is the G-Man's signature accessory, which he is almost never seen without?",
+						"wrong": [
+							"A fedora",
+							"A pocket watch",
+							"An umbrella"
+						]
+					},
+					{
+						"correct": "A blue suit",
+						"difficulty": "Easy",
+						"explanation": "His clean, simple blue business suit and tie contribute to his unsettlingly mundane appearance, which contrasts with his extraordinary powers.",
+						"image_url": "",
+						"question": "What is the G-Man's typical attire, giving him the appearance of a government agent or corporate bureaucrat?",
+						"wrong": [
+							"A black trench coat",
+							"A lab coat",
+							"A military uniform"
+						]
+					},
+					{
+						"correct": "A train",
+						"difficulty": "Easy",
+						"explanation": "Gordon's consciousness awakens to the G-Man's face on a ghostly train, a surreal callback to the train ride that began the original Half-Life.",
+						"image_url": "",
+						"question": "At the start of Half-Life 2, the G-Man delivers his cryptic monologue to Gordon aboard what type of vehicle?",
+						"wrong": [
+							"A helicopter",
+							"An elevator",
+							"A bus"
+						]
+					},
+					{
+						"correct": "Place",
+						"difficulty": "Easy",
+						"explanation": "'The right man in the wrong place can make all the difference in the world' is one of the G-Man's most iconic lines, summarizing his use of Gordon as a catalyst.",
+						"image_url": "",
+						"question": "The G-Man often refers to Gordon Freeman as 'the right man in the wrong...' what?",
+						"wrong": [
+							"Time",
+							"Suit",
+							"World"
+						]
+					},
+					{
+						"correct": "Adjusting his tie",
+						"difficulty": "Easy",
+						"explanation": "The G-Man frequently makes a small, precise motion to adjust his tie, a tic that adds to his strange and unsettling demeanor.",
+						"image_url": "",
+						"question": "What is the G-Man's most notable physical characteristic, often seen when he is speaking?",
+						"wrong": [
+							"Tapping his foot",
+							"Checking his watch",
+							"Cleaning his glasses"
+						]
+					},
+					{
+						"correct": "Stasis",
+						"difficulty": "Medium",
+						"explanation": "Just as he did at the end of the first game, the G-Man attempts to place Gordon back into stasis, referring to it as 'a choice' Gordon does not get to make.",
+						"image_url": "",
+						"question": "At the end of Half-Life 2, the G-Man freezes time and puts Gordon into what state before the Vortigaunts intervene?",
+						"wrong": [
+							"A deep sleep",
+							"A coma",
+							"Cryo-storage"
+						]
+					},
+					{
+						"correct": "Ashes",
+						"difficulty": "Medium",
+						"explanation": "This chilling line immediately sets the bleak, post-apocalyptic tone of the world Gordon is about to re-enter after his long stasis.",
+						"image_url": "https://skillcheckgame.com/assets/images/g_man.webp",
+						"question": "In his opening monologue of Half-Life 2, the G-Man tells Gordon to 'wake up and smell the...' what?",
+						"wrong": [
+							"Coffee",
+							"Roses",
+							"Napalm"
+						]
+					},
+					{
+						"correct": "His employers",
+						"difficulty": "Medium",
+						"explanation": "He frequently mentions his 'employers' and their interest in Gordon's progress, but their true identity and motives are completely unknown.",
+						"image_url": "",
+						"question": "The G-Man claims to be working on behalf of what mysterious group?",
+						"wrong": [
+							"The council",
+							"The benefactors",
+							"The overseers"
+						]
+					},
+					{
+						"correct": "Dr. Wallace Breen",
+						"difficulty": "Medium",
+						"explanation": "During the final confrontation, a monitor shows Dr. Breen speaking with the G-Man, who hints that Breen's 'contract was open to the highest bidder'.",
+						"image_url": "",
+						"question": "In Dr. Breen's office, who does the G-Man appear to be communicating with on a monitor, suggesting a prior deal was made?",
+						"wrong": [
+							"A Combine Advisor",
+							"Dr. Eli Vance",
+							"The Nihilanth"
+						]
+					},
+					{
+						"correct": "The Vortigaunts",
+						"difficulty": "Medium",
+						"explanation": "In a surprising show of power, a group of Vortigaunts surrounds the G-Man, blocking his influence and teleporting Gordon to safety, much to the G-Man's annoyance.",
+						"image_url": "",
+						"question": "In Episode One, which alien race directly intervenes to free Gordon from the G-Man's control?",
+						"wrong": [
+							"The Combine",
+							"The Antlions",
+							"The Headcrabs"
+						]
+					},
+					{
+						"correct": "Prepare for unforeseen consequences",
+						"difficulty": "Hard",
+						"explanation": "He implants this ominous message into Alyx's subconscious for her to repeat to her father, which causes Eli great distress and reveals his own past dealings with the G-Man.",
+						"image_url": "",
+						"question": "In Episode Two, the G-Man instructs Gordon to deliver a specific five-word message to Eli Vance. What is that message?",
+						"wrong": [
+							"The resonance cascade was a lie",
+							"Your contract is now open",
+							"The Combine's grip is weakening"
+						]
+					},
+					{
+						"correct": "The G-Man",
+						"difficulty": "Hard",
+						"explanation": "A shaken Eli Vance reveals to Gordon that the G-Man whispered the 'unforeseen consequences' warning to him just before the experiment, and delivered the crystal himself.",
+						"image_url": "",
+						"question": "According to Eli Vance, who provided the specific crystal sample that caused the resonance cascade at Black Mesa?",
+						"wrong": [
+							"Dr. Wallace Breen",
+							"The US Government",
+							"Aperture Science"
+						]
+					},
+					{
+						"correct": "A chance to save her father",
+						"difficulty": "Hard",
+						"explanation": "The G-Man offers Alyx the chance to avert her father's death at the hands of a Combine Advisor, an offer she accepts, thus placing her in his employment.",
+						"image_url": "https://skillcheckgame.com/assets/images/g_man.webp",
+						"question": "At the end of Half-Life: Alyx, the G-Man offers Alyx a reward for her help. What does he offer?",
+						"wrong": [
+							"The destruction of the Combine",
+							"The location of Gordon Freeman",
+							"A powerful new weapon"
+						]
+					},
+					{
+						"correct": "Gordon Freeman",
+						"difficulty": "Hard",
+						"explanation": "He states that his previous hire, Gordon Freeman, has been 'unable or unwilling' to perform his tasks, and that Alyx is a worthy replacement.",
+						"image_url": "",
+						"question": "After Alyx accepts his offer, the G-Man refers to her as a suitable 'replacement' for whom?",
+						"wrong": [
+							"Judith Mossman",
+							"Wallace Breen",
+							"Adrian Shephard"
+						]
+					},
+					{
+						"correct": "Syllables",
+						"difficulty": "Hard",
+						"explanation": "His tendency to stress the wrong parts of words, like 'sy-LA-ble' instead of 'SYL-la-ble', contributes to his alien and unsettling presence.",
+						"image_url": "",
+						"question": "The G-Man's strange speech patterns include mispronunciations, odd pauses, and putting emphasis on the wrong what?",
+						"wrong": [
+							"Vowels",
+							"Consonants",
+							"Adjectives"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_g-man",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "G-Man",
+				"lore_desc": "A mysterious and powerful interdimensional being. He appears to manipulate events from behind the scenes for his unseen 'employers,' with Gordon Freeman as his primary pawn.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Enigmatic",
+					"Observer",
+					"Villain"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "The bright red paint job with worn, metallic edges makes the crowbar instantly recognizable, even at a glance.",
+						"image_url": "",
+						"question": "What is the distinctive color of the crowbar wielded by Gordon Freeman?",
+						"wrong": [
+							"Yellow",
+							"Blue",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Supply crates",
+						"difficulty": "Easy",
+						"explanation": "Scattered throughout the world are Lambda-marked supply crates, which can only be opened with a good whack from the crowbar to reveal health and ammo.",
+						"image_url": "",
+						"question": "Besides being a weapon, the crowbar is most frequently used to break open what kind of item?",
+						"wrong": [
+							"Locked doors",
+							"Vending machines",
+							"Car windows"
+						]
+					},
+					{
+						"correct": "Barney Calhoun",
+						"difficulty": "Easy",
+						"explanation": "Barney, the former Black Mesa security guard now working undercover in Civil Protection, reunites Gordon with his favorite tool in Dr. Kleiner's lab.",
+						"image_url": "https://skillcheckgame.com/assets/images/crowbar.webp",
+						"question": "In Half-Life 2, which character famously returns the crowbar to Gordon, saying 'I think you dropped this back at Black Mesa'?",
+						"wrong": [
+							"Alyx Vance",
+							"Dr. Isaac Kleiner",
+							"Eli Vance"
+						]
+					},
+					{
+						"correct": "Headcrab",
+						"difficulty": "Easy",
+						"explanation": "A single, well-timed swing from the crowbar is all it takes to dispatch a standard headcrab, making it an essential tool for conservation of ammo.",
+						"image_url": "",
+						"question": "The crowbar is the perfect tool for dealing with which small, head-hugging alien parasite?",
+						"wrong": [
+							"Manhack",
+							"Snark",
+							"Antlion"
+						]
+					},
+					{
+						"correct": "Lambda",
+						"difficulty": "Easy",
+						"explanation": "The Lambda symbol, representing the lab where the resonance cascade began, was adopted by the resistance as their logo, signifying hope and rebellion.",
+						"image_url": "",
+						"question": "The crowbar is a symbol of the resistance, often seen in graffiti alongside what Greek letter?",
+						"wrong": [
+							"Omega",
+							"Alpha",
+							"Delta"
+						]
+					},
+					{
+						"correct": "A power plug",
+						"difficulty": "Medium",
+						"explanation": "While trying to help, Gordon pushes a plug into a socket with the crowbar, causing a power surge that sends him teleporting all over City 17.",
+						"image_url": "",
+						"question": "In Dr. Kleiner's lab, Gordon accidentally breaks what object with the crowbar, causing the teleport to malfunction?",
+						"wrong": [
+							"A monitor",
+							"A cooling fan",
+							"A capacitor"
+						]
+					},
+					{
+						"correct": "Ravenholm",
+						"difficulty": "Medium",
+						"explanation": "Ravenholm is a horror-themed level filled with zombies and headcrabs, forcing the player to rely heavily on the crowbar and environmental traps to survive.",
+						"image_url": "https://skillcheckgame.com/assets/images/crowbar.webp",
+						"question": "What zombie-infested mining town is notorious for the phrase 'We don't go there anymore,' a place where the crowbar is indispensable?",
+						"wrong": [
+							"St. Olga",
+							"Quarrytown",
+							"Shorepoint"
+						]
+					},
+					{
+						"correct": "A tool storage room",
+						"difficulty": "Medium",
+						"explanation": "He finds it on the floor of a storage area in Sector C, using it to break the glass on a door control panel to escape a locked-down area.",
+						"image_url": "",
+						"question": "In the original Half-Life, Gordon picks up the crowbar for the first time in what kind of location?",
+						"wrong": [
+							"A security station",
+							"An emergency locker",
+							"A scientist's corpse"
+						]
+					},
+					{
+						"correct": "The 'Use' key",
+						"difficulty": "Medium",
+						"explanation": "For the first part of the game, Gordon is completely unarmed, relying on the 'Use' key to open doors and interact with buttons.",
+						"image_url": "",
+						"question": "Before receiving the crowbar, what is the only way for Gordon to interact with the world in Half-Life 2?",
+						"wrong": [
+							"Pushing objects",
+							"Throwing cans",
+							"His bare hands"
+						]
+					},
+					{
+						"correct": "See-saw ramps",
+						"difficulty": "Medium",
+						"explanation": "Gordon must use concrete blocks to weigh down one end of a see-saw, then break the wooden supports to create a ramp he can run up.",
+						"image_url": "",
+						"question": "In the chapter 'Route Kanal', the crowbar is essential for breaking wooden beams that are part of what type of physics puzzle?",
+						"wrong": [
+							"Swinging platforms",
+							"Water wheels",
+							"Elevator counterweights"
+						]
+					},
+					{
+						"correct": "Throw the crowbar",
+						"difficulty": "Hard",
+						"explanation": "The popular co-op mod gives the crowbar a unique secondary function, allowing players to throw it like a spear, though they must then retrieve it.",
+						"image_url": "",
+						"question": "In the Half-Life 2 mod 'Synergy,' what does the crowbar's secondary fire do?",
+						"wrong": [
+							"A powerful charged swing",
+							"Block an attack",
+							"A quick jab"
+						]
+					},
+					{
+						"correct": "Barney Calhoun",
+						"difficulty": "Hard",
+						"explanation": "Just as Gordon is about to teleport, Barney can be seen on the security monitor using his own crowbar to barricade a door against attackers.",
+						"image_url": "",
+						"question": "Which character uses a crowbar to help hold a door shut against Combine soldiers, right before Gordon enters the teleporter at Kleiner's lab?",
+						"wrong": [
+							"Alyx Vance",
+							"A random citizen",
+							"Dr. Isaac Kleiner"
+						]
+					},
+					{
+						"correct": "The supercharged Gravity Gun",
+						"difficulty": "Hard",
+						"explanation": "Once the Gravity Gun is supercharged in the Citadel, it can punt enemies with lethal force, making it a far more effective close-quarters weapon than the crowbar.",
+						"image_url": "https://skillcheckgame.com/assets/images/crowbar.webp",
+						"question": "The crowbar is made obsolete as a primary melee weapon by which later, more powerful device?",
+						"wrong": [
+							"The Stun Baton",
+							"The Annabelle shotgun",
+							"The Combine pulse rifle"
+						]
+					},
+					{
+						"correct": "Collins Dynamics",
+						"difficulty": "Hard",
+						"explanation": "Though not clearly visible in the final game, texture files reveal the brand 'Collins Dynamics Industrial,' a fictional company, on the side of the crowbar model.",
+						"image_url": "",
+						"question": "What is the real-world tool manufacturer whose logo is often found on the crowbar's texture files in early versions and fan-made models?",
+						"wrong": [
+							"Stanley Tools",
+							"DeWalt",
+							"Craftsman"
+						]
+					},
+					{
+						"correct": "A jab",
+						"difficulty": "Hard",
+						"explanation": "Early beta versions of the game included a faster, weaker secondary fire for the crowbar that was a straightforward jab, which was removed for the final release.",
+						"image_url": "",
+						"question": "In the Half-Life 2 leak, the crowbar had a secondary attack that was cut from the final game. What was this attack?",
+						"wrong": [
+							"A throw",
+							"A block",
+							"A heavy swing"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_crowbar",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Crowbar",
+				"lore_desc": "A simple steel prying tool, painted red. It is the signature melee weapon of Gordon Freeman and has become an iconic symbol of the human resistance.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Tool",
+					"Iconic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Zero Point Energy Field Manipulator",
+						"difficulty": "Easy",
+						"explanation": "Dr. Eli Vance mentions its full name, though Alyx quickly shortens it to 'The G-Gun' for convenience.",
+						"image_url": "",
+						"question": "What is the official, scientific designation for the device commonly known as the 'Gravity Gun'?",
+						"wrong": [
+							"Higgs Boson Particle Projector",
+							"Gluon Field Destabilizer",
+							"Quantum Entanglement Device"
+						]
+					},
+					{
+						"correct": "Alyx Vance",
+						"difficulty": "Easy",
+						"explanation": "Alyx introduces the Gravity Gun by having Gordon play fetch with her robotic pet, Dog.",
+						"image_url": "",
+						"question": "In her lab at Black Mesa East, which character first gives Gordon Freeman the Gravity Gun and teaches him how to use it?",
+						"wrong": [
+							"Dr. Eli Vance",
+							"Dr. Judith Mossman",
+							"Dr. Arne Magnusson"
+						]
+					},
+					{
+						"correct": "Hopper Mine",
+						"difficulty": "Easy",
+						"explanation": "Hopper Mines are a constant nuisance along the coastal chapters, but they become a powerful weapon when turned against their Combine masters.",
+						"image_url": "",
+						"question": "What common, three-legged explosive mine can be plucked from the ground and launched at enemies using the Gravity Gun?",
+						"wrong": [
+							"Sentry Turret",
+							"Manhack",
+							"Rollermine"
+						]
+					},
+					{
+						"correct": "Pulls objects closer",
+						"difficulty": "Easy",
+						"explanation": "The secondary fire is key to the gun's utility, allowing the user to grab items from a distance before launching them with primary fire.",
+						"image_url": "",
+						"question": "The Gravity Gun's primary fire pushes objects away with a forceful blast. What does its secondary fire do?",
+						"wrong": [
+							"Vaporizes objects",
+							"Creates a shield",
+							"Teleports objects"
+						]
+					},
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "The iconic orange glow of the Gravity Gun matches the color scheme of Gordon Freeman's HEV Suit.",
+						"image_url": "https://skillcheckgame.com/assets/images/gravity_gun.webp",
+						"question": "The standard version of the Gravity Gun, before it is supercharged, emits an energy field of what distinct color from its 'prongs'?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Red"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "This 'blue' Gravity Gun, also called the Dark Energy Field Manipulator, is powerful enough to manipulate organic matter and vaporize soldiers.",
+						"image_url": "",
+						"question": "After passing through a Combine confiscation field in Nova Prospekt, the Gravity Gun becomes supercharged. What color does its energy field turn?",
+						"wrong": [
+							"Red",
+							"Purple",
+							"White"
+						]
+					},
+					{
+						"correct": "The G-Gun",
+						"difficulty": "Medium",
+						"explanation": "Alyx's casual nickname for the device is much easier to say than its full, scientific designation.",
+						"image_url": "",
+						"question": "What is the nickname Alyx Vance affectionately uses for the Zero Point Energy Field Manipulator?",
+						"wrong": [
+							"The ZPEFM",
+							"The Lifter",
+							"The Grabber"
+						]
+					},
+					{
+						"correct": "Combine Energy Ball",
+						"difficulty": "Medium",
+						"explanation": "These dark energy orbs are fired from wall-mounted emitters and are the primary ammunition for the Pulse Rifle's secondary fire.",
+						"image_url": "",
+						"question": "The supercharged Gravity Gun is the only weapon capable of catching and firing back what projectile, commonly used by Combine soldiers in the Citadel?",
+						"wrong": [
+							"Vortigaunt Energy Beam",
+							"Antlion Pheropod",
+							"Stalker Particle Ray"
+						]
+					},
+					{
+						"correct": "Combine Gunship",
+						"difficulty": "Medium",
+						"explanation": "While you can bat away a Gunship's energy projectiles, the gun itself cannot harm the heavily armored synth; only rockets will do the trick.",
+						"image_url": "",
+						"question": "The standard Gravity Gun is almost completely ineffective against which flying Combine synth, only able to deflect its main weapon?",
+						"wrong": [
+							"Strider",
+							"Hunter",
+							"Antlion Guard"
+						]
+					},
+					{
+						"correct": "Dog",
+						"difficulty": "Medium",
+						"explanation": "Eli Vance built Dog to protect Alyx. Despite his immense strength and intimidating appearance, he is exceptionally loyal and playful.",
+						"image_url": "https://skillcheckgame.com/assets/images/gravity_gun.webp",
+						"question": "At Black Mesa East, Alyx's massive robotic companion demonstrates the power of the Gravity Gun by tossing a car around. What is this robot's name?",
+						"wrong": [
+							"Clamps",
+							"Scamp",
+							"Lamar"
+						]
+					},
+					{
+						"correct": "Strider",
+						"difficulty": "Hard",
+						"explanation": "A direct hit from a Pulse Rifle energy ball is required to destroy a Strider's core, but the Gravity Gun is needed to expose it first.",
+						"image_url": "",
+						"question": "The supercharged Gravity Gun is the most effective tool for destroying which massive, three-legged Combine ground synth by ripping off its armor panels?",
+						"wrong": [
+							"Combine Dropship",
+							"Hunter-Chopper",
+							"Shield Scanner"
+						]
+					},
+					{
+						"correct": "Combine Elite",
+						"difficulty": "Hard",
+						"explanation": "Regular soldiers are immediately disintegrated by the blue Gravity Gun's field, but the heavily armored Elites can be briefly held before being launched.",
+						"image_url": "",
+						"question": "While the supercharged Gravity Gun can vaporize most Combine soldiers, what is the only type of soldier it can physically pick up and throw?",
+						"wrong": [
+							"Overwatch Soldier",
+							"Civil Protection",
+							"Nova Prospekt Guard"
+						]
+					},
+					{
+						"correct": "Combine Pods",
+						"difficulty": "Hard",
+						"explanation": "These pods travel on energy rails and act as both elevators and barriers, requiring Gordon to use the gun to clear a path.",
+						"image_url": "",
+						"question": "During the final ascent of the Citadel, the supercharged Gravity Gun is essential for navigating past what hazardous form of Combine transportation?",
+						"wrong": [
+							"Razor Trains",
+							"Stalker Cages",
+							"Teleporters"
+						]
+					},
+					{
+						"correct": "Dog",
+						"difficulty": "Hard",
+						"explanation": "Eli remarks that he should have just given the Gravity Gun to Dog, as it would have saved everyone a lot of trouble.",
+						"image_url": "",
+						"question": "According to a conversation with Eli Vance, the Gravity Gun was originally built for heavy lifting and wasn't intended as a weapon. Who was its intended user?",
+						"wrong": [
+							"Alyx Vance",
+							"Judith Mossman",
+							"Barney Calhoun"
+						]
+					},
+					{
+						"correct": "A Rollermine",
+						"difficulty": "Hard",
+						"explanation": "Normally a persistent nuisance, the Rollermine becomes one of the most powerful projectiles in the game when wielded by the blue Gravity Gun.",
+						"image_url": "https://skillcheckgame.com/assets/images/gravity_gun.webp",
+						"question": "What electrified, spherical enemy, when caught and launched by the supercharged Gravity Gun, is capable of vaporizing an entire squad of soldiers?",
+						"wrong": [
+							"A Supply Crate",
+							"A Manhack",
+							"A Hopper Mine"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_gravity_gun",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Gravity Gun",
+				"lore_desc": "Officially the Zero Point Energy Field Manipulator, this device projects a localized energy field, allowing the user to manipulate objects from a distance. A truly revolutionary tool for both industrial and defensive applications.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Tool",
+					"Physics"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "The bright orange color makes the HEV suit one of the most recognizable outfits in video game history.",
+						"image_url": "",
+						"question": "What is the primary, iconic color of the plating on Gordon Freeman's HEV Suit?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Black"
+						]
+					},
+					{
+						"correct": "Health",
+						"difficulty": "Easy",
+						"explanation": "The health counter is a constant reminder of Gordon's mortality, ticking down with every hit he takes.",
+						"image_url": "",
+						"question": "On the suit's Heads-Up Display, what vital statistic is represented by a number next to a red cross symbol?",
+						"wrong": [
+							"Stamina",
+							"Oxygen",
+							"Morale"
+						]
+					},
+					{
+						"correct": "Hazardous Environment",
+						"difficulty": "Easy",
+						"explanation": "The suit was designed for scientists at Black Mesa to work safely in labs with radiation, chemical spills, and other dangers.",
+						"image_url": "",
+						"question": "What does the 'HEV' in HEV Suit stand for?",
+						"wrong": [
+							"Hostile Encounter",
+							"Heavy Exoskeleton",
+							"High-Energy Variant"
+						]
+					},
+					{
+						"correct": "Flashlight",
+						"difficulty": "Easy",
+						"explanation": "The suit's flashlight is essential for navigating dark tunnels and abandoned buildings, but it draws from the same auxiliary power as the sprint function.",
+						"image_url": "",
+						"question": "What built-in feature of the HEV suit allows Gordon to see in pitch-black areas?",
+						"wrong": [
+							"Night Vision",
+							"Thermal Vision",
+							"Sonar"
+						]
+					},
+					{
+						"correct": "A lightning bolt",
+						"difficulty": "Easy",
+						"explanation": "This symbol is located next to the shield icon, which represents the suit's main defensive energy.",
+						"image_url": "https://skillcheckgame.com/assets/images/hev_suit.webp",
+						"question": "The suit's auxiliary power, used for sprinting and the flashlight, is displayed on the HUD next to what symbol?",
+						"wrong": [
+							"A battery",
+							"A shield",
+							"A flame"
+						]
+					},
+					{
+						"correct": "Mark V",
+						"difficulty": "Medium",
+						"explanation": "The Mark V is an upgraded version of the Mark IV suit Gordon wore during the Black Mesa incident.",
+						"image_url": "",
+						"question": "Gordon Freeman wears a specific model of the HEV Suit in Half-Life 2. What is its designation?",
+						"wrong": [
+							"Mark IV",
+							"Mark VI",
+							"Mark III"
+						]
+					},
+					{
+						"correct": "Batteries",
+						"difficulty": "Medium",
+						"explanation": "These small, yellow batteries are a welcome sight, as they are the only way to recharge the power for sprinting and the flashlight.",
+						"image_url": "",
+						"question": "What common item, found scattered throughout City 17 and beyond, can be used to replenish the suit's auxiliary power?",
+						"wrong": [
+							"Power Cells",
+							"Medkits",
+							"Energy Cores"
+						]
+					},
+					{
+						"correct": "Sprint",
+						"difficulty": "Medium",
+						"explanation": "Sprinting is crucial for escaping danger and traversing large areas, but it quickly drains the suit's auxiliary power.",
+						"image_url": "",
+						"question": "The HEV suit allows Gordon to move faster for a short period of time. What is this function called in the game?",
+						"wrong": [
+							"Dash",
+							"Boost",
+							"Charge"
+						]
+					},
+					{
+						"correct": "Toxic Waste",
+						"difficulty": "Medium",
+						"explanation": "While the suit offers protection from toxic sludge, it's not infinite, and prolonged exposure will still lead to damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/hev_suit.webp",
+						"question": "The suit is designed to protect the wearer from many hazards, including the glowing green substance found in the Black Mesa East scrapyard, which is what?",
+						"wrong": [
+							"Extreme Cold",
+							"Lava",
+							"Acid Rain"
+						]
+					},
+					{
+						"correct": "Crossbow",
+						"difficulty": "Medium",
+						"explanation": "The HEV suit's optical zoom is the only way to effectively use the Crossbow's scope, making it a deadly sniper weapon.",
+						"image_url": "",
+						"question": "The suit's integrated zoom function is particularly useful when aiming which silent, long-range weapon?",
+						"wrong": [
+							"Shotgun",
+							"SMG",
+							"Pulse Rifle"
+						]
+					},
+					{
+						"correct": "Black Mesa",
+						"difficulty": "Hard",
+						"explanation": "Black Mesa was a massive, secret research complex where the resonance cascade that started the alien invasion occurred.",
+						"image_url": "",
+						"question": "The HEV Suit was originally developed and manufactured at what ill-fated research facility?",
+						"wrong": [
+							"Aperture Science",
+							"Combine Citadel",
+							"White Forest"
+						]
+					},
+					{
+						"correct": "Radiation",
+						"difficulty": "Hard",
+						"explanation": "This feature was critical in the original Black Mesa facility and remains useful for navigating the irradiated canals of City 17.",
+						"image_url": "",
+						"question": "The HEV Suit's Geiger counter, which clicks in the presence of hazardous materials, is a clear indicator of what specific danger?",
+						"wrong": [
+							"Bio-toxins",
+							"Extreme heat",
+							"Low oxygen"
+						]
+					},
+					{
+						"correct": "Lamar",
+						"difficulty": "Hard",
+						"explanation": "Lamar, the de-beaked Headcrab, causes a teleporter malfunction that accidentally sends Gordon to several locations, including Dr. Breen's office.",
+						"image_url": "",
+						"question": "Dr. Kleiner's attempt to give Gordon the Mark V suit is complicated by his pet Headcrab, who jumps into a teleporter. What is the pet's name?",
+						"wrong": [
+							"Dog",
+							"Hedy",
+							"A Vortigaunt"
+						]
+					},
+					{
+						"correct": "Vortigaunts",
+						"difficulty": "Hard",
+						"explanation": "Without the suit's translator, the Vortigaunts' speech would be unintelligible, making their crucial assistance and exposition impossible to comprehend.",
+						"image_url": "https://skillcheckgame.com/assets/images/hev_suit.webp",
+						"question": "The HEV Suit's integrated translation system allows Gordon to understand the complex language of which allied alien species?",
+						"wrong": [
+							"Antlions",
+							"Ichthyosaurs",
+							"Headcrabs"
+						]
+					},
+					{
+						"correct": "Long Jump Module",
+						"difficulty": "Hard",
+						"explanation": "The Long Jump Module, which allowed for incredible horizontal leaps, was a fan-favorite item that did not make a return in the base game of Half-Life 2.",
+						"image_url": "",
+						"question": "What key piece of equipment, integral to the Mark IV suit in the first game, is notably missing from the Mark V at the start of Half-Life 2?",
+						"wrong": [
+							"Built-in Geiger Counter",
+							"Morphine Administrator",
+							"Weapon Handling System"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_hev_suit",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "HEV Suit",
+				"lore_desc": "The Hazardous Environment Suit is a full-body powered exoskeleton developed at the Black Mesa Research Facility. It provides significant protection from trauma, radiation, and hostile environments, while also monitoring vital signs.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Armor",
+					"Technology",
+					"Survival"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The head",
+						"difficulty": "Easy",
+						"explanation": "Its name is quite literal, as it engulfs the head of its victim to begin the transformation process.",
+						"image_url": "",
+						"question": "To take control of a host's nervous system, a Headcrab latches onto what part of the body?",
+						"wrong": [
+							"The chest",
+							"The back",
+							"The legs"
+						]
+					},
+					{
+						"correct": "Crowbar",
+						"difficulty": "Easy",
+						"explanation": "A well-timed swing from the crowbar is the most ammo-efficient way to deal with these common pests.",
+						"image_url": "",
+						"question": "What simple, iconic melee weapon is famously effective for dispatching a single, standard Headcrab?",
+						"wrong": [
+							"Pistol whip",
+							"Grenade",
+							"Rocket"
+						]
+					},
+					{
+						"correct": "Zombie",
+						"difficulty": "Easy",
+						"explanation": "These shambling horrors are the tragic result of a Headcrab's parasitic life cycle, forced to attack their former allies.",
+						"image_url": "",
+						"question": "A human who has been successfully taken over by a Headcrab is commonly known as what type of creature?",
+						"wrong": [
+							"Host",
+							"Carrier",
+							"Victim"
+						]
+					},
+					{
+						"correct": "Headcrab Shells",
+						"difficulty": "Easy",
+						"explanation": "These shells are a form of biological warfare used by the Combine to terrorize and infest locations like Ravenholm.",
+						"image_url": "",
+						"question": "The Combine frequently bombard Resistance areas with large projectiles that burst open to release multiple Headcrabs. What are these called?",
+						"wrong": [
+							"Headcrab Mortars",
+							"Headcrab Canisters",
+							"Headcrab Pods"
+						]
+					},
+					{
+						"correct": "Lamar",
+						"difficulty": "Easy",
+						"explanation": "Despite being de-beaked, Lamar's mischievous antics cause a major teleporter malfunction early in the game.",
+						"image_url": "https://skillcheckgame.com/assets/images/headcrab.webp",
+						"question": "Dr. Kleiner keeps a 'de-beaked' and seemingly harmless Headcrab as a pet. What is its name?",
+						"wrong": [
+							"Hedy",
+							"Hector",
+							"Larry"
+						]
+					},
+					{
+						"correct": "Fast Headcrab",
+						"difficulty": "Medium",
+						"explanation": "These creatures are far more agile than their standard cousins, capable of climbing walls and ceilings to ambush their prey.",
+						"image_url": "",
+						"question": "What is the name of the faster, black-skinned Headcrab variant that lets out a bloodcurdling shriek before it lunges?",
+						"wrong": [
+							"Quick Headcrab",
+							"Leaping Headcrab",
+							"Agile Headcrab"
+						]
+					},
+					{
+						"correct": "Poison Zombie",
+						"difficulty": "Medium",
+						"explanation": "A Poison Zombie is slow and bloated, but it carries multiple Poison Headcrabs on its back that it can throw at its victims.",
+						"image_url": "",
+						"question": "A human host that has been taken over by a black, venomous Headcrab is transformed into what specific type of zombie?",
+						"wrong": [
+							"Toxic Zombie",
+							"Venom Zombie",
+							"Acid Zombie"
+						]
+					},
+					{
+						"correct": "It is venomous",
+						"difficulty": "Medium",
+						"explanation": "A single bite from a Poison Headcrab injects a potent neurotoxin that drains the HEV suit's health to a single point.",
+						"image_url": "",
+						"question": "Besides its dark coloration, what is the defining and most dangerous characteristic of a Poison Headcrab?",
+						"wrong": [
+							"It is armored",
+							"It can fly",
+							"It explodes"
+						]
+					},
+					{
+						"correct": "Ravenholm",
+						"difficulty": "Medium",
+						"explanation": "The town's motto, 'We Don't Go To Ravenholm,' is a grim warning about the fate that befell its citizens after the Combine shelling.",
+						"image_url": "https://skillcheckgame.com/assets/images/headcrab.webp",
+						"question": "What is the name of the abandoned mining town that Father Grigori is trying to cleanse of its overwhelming Headcrab and zombie infestation?",
+						"wrong": [
+							"St. Olga",
+							"City 17",
+							"Nova Prospekt"
+						]
+					},
+					{
+						"correct": "Fast Zombie",
+						"difficulty": "Medium",
+						"explanation": "Fast Zombies are hunched-over husks that can run, leap great distances, and climb drainpipes to reach their targets.",
+						"image_url": "",
+						"question": "A Fast Headcrab transforms its human host into what correspondingly agile and terrifying type of zombie?",
+						"wrong": [
+							"Runner",
+							"Sprinter",
+							"Stalker"
+						]
+					},
+					{
+						"correct": "Zombine",
+						"difficulty": "Hard",
+						"explanation": "The term 'Zombine' is a clever combination of 'Zombie' and 'Combine', coined by Alyx Vance.",
+						"image_url": "",
+						"question": "A gruesome hybrid of a Headcrab victim and a Combine Soldier is known by what portmanteau?",
+						"wrong": [
+							"Combie",
+							"Soldombie",
+							"Overzombie"
+						]
+					},
+					{
+						"correct": "Pulls out a grenade",
+						"difficulty": "Hard",
+						"explanation": "The soldier's training partially remains, causing it to pull the pin on a grenade in a final, suicidal act.",
+						"image_url": "",
+						"question": "What unique and desperate tactic does a Zombine employ when it's heavily damaged, making it extremely dangerous at close range?",
+						"wrong": [
+							"Spits acid",
+							"Calls for reinforcements",
+							"Creates a shield"
+						]
+					},
+					{
+						"correct": "Poison Headcrab",
+						"difficulty": "Hard",
+						"explanation": "A Poison Headcrab is seen scuttling away early in the chapter, foreshadowing the dangerous Poison Zombies that appear shortly after.",
+						"image_url": "",
+						"question": "What is the very first type of non-standard Headcrab that Gordon encounters upon entering the zombie-infested town of Ravenholm?",
+						"wrong": [
+							"Fast Headcrab",
+							"Armored Headcrab",
+							"Gonarch"
+						]
+					},
+					{
+						"correct": "Reduces health to 1",
+						"difficulty": "Hard",
+						"explanation": "The suit's onboard systems can synthesize an antidote, but the neurotoxin instantly leaves the wearer critically vulnerable to any other source of damage.",
+						"image_url": "https://skillcheckgame.com/assets/images/headcrab.webp",
+						"question": "A bite from a Poison Headcrab has what immediate and terrifying effect on the HEV suit's health display, regardless of its current charge?",
+						"wrong": [
+							"Drains all suit power",
+							"Reverses movement controls",
+							"Disables the flashlight"
+						]
+					},
+					{
+						"correct": "Antlion Grub",
+						"difficulty": "Hard",
+						"explanation": "These grubs share a biological connection with the Antlions, and crushing them provides a small health boost to Gordon's HEV suit.",
+						"image_url": "",
+						"question": "While not technically a Headcrab, what large, glowing grub-like creature found in Episode Two's caves is part of the same extended ecosystem and provides healing to other aliens?",
+						"wrong": [
+							"Headcrab Larva",
+							"Xen Grub",
+							"Healing Nymph"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_headcrab",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Headcrab",
+				"lore_desc": "A parasitic extraterrestrial species that serves as the first stage in a grotesque life cycle. It seeks out a sentient host, latching onto their head to take control of their nervous system and create a zombie-like thrall.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Alien",
+					"Parasite",
+					"Enemy"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Combine",
+						"difficulty": "Easy",
+						"explanation": "The Combine are a ruthless, expansionist empire that enslaves and assimilates the native species of the worlds they conquer.",
+						"image_url": "",
+						"question": "The Combine Soldier is the primary military unit of what vast, interdimensional empire that has conquered Earth?",
+						"wrong": [
+							"The Alliance",
+							"The Union",
+							"The Dominion"
+						]
+					},
+					{
+						"correct": "Pulse Rifle",
+						"difficulty": "Easy",
+						"explanation": "The Overwatch Standard Issue Pulse Rifle, or OSIPR, is a powerful and accurate weapon that is highly sought after by Resistance fighters.",
+						"image_url": "",
+						"question": "What is the name of the standard-issue assault rifle, which fires yellow energy pulses, used by most Combine Soldiers?",
+						"wrong": [
+							"SMG",
+							"Shotgun",
+							"Crossbow"
+						]
+					},
+					{
+						"correct": "Civil Protection",
+						"difficulty": "Easy",
+						"explanation": "Often called 'Metrocops', Civil Protection are un-augmented humans who volunteered to serve the Combine in exchange for better living conditions.",
+						"image_url": "",
+						"question": "Before the full-scale uprising, what is the name of the Combine's police-like force that patrols City 17, known for their white masks and batons?",
+						"wrong": [
+							"The Guard",
+							"Metro Police",
+							"The Enforcers"
+						]
+					},
+					{
+						"correct": "Malignant",
+						"difficulty": "Easy",
+						"explanation": "Hearing a soldier shout 'Outbreak! Malignant detected!' over the radio is a sure sign that a fight is about to begin.",
+						"image_url": "",
+						"question": "Combine Soldiers use coded radio chatter to communicate. What term do they frequently use to refer to a hostile target like Gordon Freeman?",
+						"wrong": [
+							"Insurgent",
+							"Rebel",
+							"Outlier"
+						]
+					},
+					{
+						"correct": "Blue and grey",
+						"difficulty": "Easy",
+						"explanation": "This drab, utilitarian color scheme reflects the cold, sterile nature of the Combine empire.",
+						"image_url": "https://skillcheckgame.com/assets/images/combine_soldier.webp",
+						"question": "The standard Combine Soldier's uniform and armor are primarily what two colors?",
+						"wrong": [
+							"Green and black",
+							"Red and white",
+							"All black"
+						]
+					},
+					{
+						"correct": "The Overwatch",
+						"difficulty": "Medium",
+						"explanation": "The Overwatch Voice, a cold and detached female announcer, issues commands and status updates to all Overwatch units.",
+						"image_url": "",
+						"question": "What is the formal name for the Combine's transhuman military forces on Earth, which includes soldiers, synths, and gunships?",
+						"wrong": [
+							"The Expeditionary Force",
+							"The Garrison",
+							"The Vanguard"
+						]
+					},
+					{
+						"correct": "White and black",
+						"difficulty": "Medium",
+						"explanation": "These deadly soldiers, known as Combine Elites, are tougher and more accurate than their standard counterparts.",
+						"image_url": "",
+						"question": "The elite variant of the Combine Soldier, often armed with a Pulse Rifle, is easily identified by what distinct color scheme on its uniform?",
+						"wrong": [
+							"Red and black",
+							"All black",
+							"Camouflage"
+						]
+					},
+					{
+						"correct": "Frag Grenade",
+						"difficulty": "Medium",
+						"explanation": "A beeping sound is the only warning before a Combine grenade lands at your feet, forcing a quick retreat.",
+						"image_url": "",
+						"question": "What is the primary type of explosive that Combine Soldiers throw to flush enemies out of cover?",
+						"wrong": [
+							"EMP Grenade",
+							"Incendiary Grenade",
+							"Pulse Grenade"
+						]
+					},
+					{
+						"correct": "Nova Prospekt",
+						"difficulty": "Medium",
+						"explanation": "Gordon Freeman's assault on Nova Prospekt to rescue Eli Vance is the catalyst for the full-scale citizen uprising in City 17.",
+						"image_url": "https://skillcheckgame.com/assets/images/combine_soldier.webp",
+						"question": "What is the name of the Combine's high-security prison and processing facility, which was formerly a maximum-security penitentiary?",
+						"wrong": [
+							"The Citadel",
+							"Ravenholm",
+							"Black Mesa East"
+						]
+					},
+					{
+						"correct": "Gunship",
+						"difficulty": "Medium",
+						"explanation": "Unlike the man-made Hunter-Chopper, the Gunship is a bio-mechanical synth that is highly maneuverable and heavily armored.",
+						"image_url": "",
+						"question": "What flying, insect-like Combine synth often provides heavy air support for soldiers on the ground, armed with a powerful pulse cannon?",
+						"wrong": [
+							"Hunter-Chopper",
+							"Dropship",
+							"Strider"
+						]
+					},
+					{
+						"correct": "Zombine",
+						"difficulty": "Hard",
+						"explanation": "Coined by Alyx, this name perfectly describes the horrific fusion of a zombie and a Combine soldier.",
+						"image_url": "",
+						"question": "A Combine Soldier that has been taken over by a Headcrab is known by what clever portmanteau?",
+						"wrong": [
+							"Combie",
+							"Soldombie",
+							"Overzombie"
+						]
+					},
+					{
+						"correct": "Disintegrates it",
+						"difficulty": "Hard",
+						"explanation": "This incredibly powerful projectile will vaporize almost any enemy in a single hit, leaving nothing behind.",
+						"image_url": "",
+						"question": "The Pulse Rifle's secondary fire launches a slow-moving orb of dark energy. What does this orb do to any organic enemy it touches?",
+						"wrong": [
+							"Freezes it",
+							"Electrocutes it",
+							"Mutates it"
+						]
+					},
+					{
+						"correct": "AR2",
+						"difficulty": "Hard",
+						"explanation": "While its full name is the OSIPR, the 'AR2' designation is a callback to a weapon cut from the original Half-Life.",
+						"image_url": "",
+						"question": "What is the official weapon designation for the Overwatch Standard Issue Pulse Rifle, seen written on the weapon's side?",
+						"wrong": [
+							"OSIPR",
+							"MP7",
+							"SPAS-12"
+						]
+					},
+					{
+						"correct": "Overwatch Shotgunner",
+						"difficulty": "Hard",
+						"explanation": "These soldiers, identifiable by their brown and red armor, are extremely dangerous in the close-quarters combat of the Uprising chapters.",
+						"image_url": "",
+						"question": "What is the designation for the specialized Combine soldiers who are heavily armed with shotguns and used for storming buildings?",
+						"wrong": [
+							"Breacher",
+							"Enforcer",
+							"Suppressor"
+						]
+					},
+					{
+						"correct": "Stalker",
+						"difficulty": "Hard",
+						"explanation": "Stalkers are seen performing manual labor inside the Citadel and Nova Prospekt, a grim fate for captured rebels and citizens.",
+						"image_url": "https://skillcheckgame.com/assets/images/combine_soldier.webp",
+						"question": "Before a human is turned into a soldier, they are processed into a mindless, cybernetic slave with most of their limbs removed. What is this tragic creature called?",
+						"wrong": [
+							"Servitor",
+							"Drone",
+							"Husk"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_combine_soldier",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Combine Soldier",
+				"lore_desc": "The primary military force of the Combine on Earth. These transhuman soldiers are heavily modified, cybernetically enhanced humans who have been brainwashed into serving their alien overlords with brutal efficiency.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Soldier",
+					"Transhuman"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Citadel",
+						"difficulty": "Easy",
+						"explanation": "The Citadel is the heart of Combine power on Earth, a towering structure that looms over the citizens of City 17.",
+						"image_url": "https://skillcheckgame.com/assets/images/city_17.webp",
+						"question": "What is the name of the imposing, monolithic tower that dominates the skyline of City 17 and serves as the Combine's headquarters?",
+						"wrong": [
+							"Nova Prospekt",
+							"The Borealis",
+							"White Forest"
+						]
+					},
+					{
+						"correct": "Train",
+						"difficulty": "Easy",
+						"explanation": "The game opens with Gordon Freeman's arrival at a train station, setting the oppressive tone for City 17.",
+						"image_url": "",
+						"question": "Gordon Freeman arrives in City 17 via what mode of transportation at the very beginning of the game?",
+						"wrong": [
+							"Dropship",
+							"Airboat",
+							"Muscle Car"
+						]
+					},
+					{
+						"correct": "The Canals",
+						"difficulty": "Easy",
+						"explanation": "The canals provide a crucial escape route, leading Gordon on a frantic chase away from the city center in an airboat.",
+						"image_url": "",
+						"question": "What is the name of the high-speed waterway system used by the resistance to escape City 17's initial lockdown?",
+						"wrong": [
+							"The Sewers",
+							"The Aqueducts",
+							"The Water Hazard"
+						]
+					},
+					{
+						"correct": "Metrocops",
+						"difficulty": "Easy",
+						"explanation": "Metrocops are the Combine's human collaborators, tasked with enforcing brutal order on the populace with their stun batons.",
+						"image_url": "",
+						"question": "The Civil Protection officers patrolling the streets of City 17 are derogatorily called what by the citizens?",
+						"wrong": [
+							"Stalkers",
+							"Elites",
+							"Grunts"
+						]
+					},
+					{
+						"correct": "An old tenement building",
+						"difficulty": "Easy",
+						"explanation": "Dr. Kleiner's secret lab is cleverly concealed behind a vending machine in a nondescript apartment building.",
+						"image_url": "",
+						"question": "Dr. Kleiner's lab, a key resistance outpost, is hidden within what kind of unassuming building in City 17?",
+						"wrong": [
+							"A power station",
+							"A train yard warehouse",
+							"A clock tower"
+						]
+					},
+					{
+						"correct": "Eastern Europe",
+						"difficulty": "Medium",
+						"explanation": "The city's post-Soviet aesthetic adds to its bleak, oppressive atmosphere.",
+						"image_url": "",
+						"question": "The architecture and Cyrillic lettering seen throughout City 17 strongly suggest it is located in what real-world region?",
+						"wrong": [
+							"North America",
+							"East Asia",
+							"Western Europe"
+						]
+					},
+					{
+						"correct": "Scanners",
+						"difficulty": "Medium",
+						"explanation": "City Scanners and Shield Scanners constantly patrol the skies, acting as the Combine's eyes and documenting citizen infractions.",
+						"image_url": "https://skillcheckgame.com/assets/images/city_17.webp",
+						"question": "The Combine uses flying, camera-equipped drones to monitor the citizens of City 17. What are these drones called?",
+						"wrong": [
+							"Manhacks",
+							"Striders",
+							"Hoppers"
+						]
+					},
+					{
+						"correct": "City 17 Train Station",
+						"difficulty": "Medium",
+						"explanation": "The game's iconic opening sequence takes place at the City 17 Train Station, immediately immersing the player in the Combine's oppressive world.",
+						"image_url": "",
+						"question": "What is the name of the train station where Gordon Freeman first arrives and is confronted by Civil Protection?",
+						"wrong": [
+							"Grand Central",
+							"Terminal 5",
+							"Union Depot"
+						]
+					},
+					{
+						"correct": "Highway 17",
+						"difficulty": "Medium",
+						"explanation": "Highway 17 is a perilous stretch of coastline littered with abandoned vehicles and infested with Antlions, which Gordon navigates using the Scout Car.",
+						"image_url": "",
+						"question": "What is the name of the abandoned coastal area and dilapidated town Gordon must travel through after escaping City 17 for the first time?",
+						"wrong": [
+							"Route 66",
+							"The Lost Coast",
+							"Shorepoint"
+						]
+					},
+					{
+						"correct": "The chest",
+						"difficulty": "Medium",
+						"explanation": "This gesture, seen during the 'Follow Freeman' chapter, shows the citizens' readiness to join the fight against the Combine.",
+						"image_url": "",
+						"question": "During the uprising, citizens use a specific hand gesture as a signal of rebellion. What part of the body is tapped twice?",
+						"wrong": [
+							"The forehead",
+							"The shoulder",
+							"The back of the hand"
+						]
+					},
+					{
+						"correct": "Unit 3650",
+						"difficulty": "Hard",
+						"explanation": "Barney identifies himself as being from Civil Protection Unit 3650 when he pulls Gordon aside for 'random questioning'.",
+						"image_url": "",
+						"question": "What is the specific designation given to the Civil Protection unit that Barney Calhoun belonged to when he rescued Gordon at the train station?",
+						"wrong": [
+							"Sector 17",
+							"Overwatch 5",
+							"Metro Division 7"
+						]
+					},
+					{
+						"correct": "Suppression Field",
+						"difficulty": "Hard",
+						"explanation": "The Suppression Field is a key piece of Combine technology that prevents human reproduction, ensuring humanity's slow extinction.",
+						"image_url": "https://skillcheckgame.com/assets/images/city_17.webp",
+						"question": "The Combine suppresses human procreation through a device that permeates the city. What is this technology called?",
+						"wrong": [
+							"Stasis Field",
+							"Nullification Emitter",
+							"Bio-Dampener"
+						]
+					},
+					{
+						"correct": "The Breencast",
+						"difficulty": "Hard",
+						"explanation": "The Breencasts are propaganda messages delivered by Dr. Breen, played on public screens throughout City 17 to pacify and control the population.",
+						"image_url": "",
+						"question": "In the plaza outside the train station, a large public video screen features Dr. Breen. What is the name of his broadcast?",
+						"wrong": [
+							"The Overwatch Address",
+							"The City Monitor",
+							"The Benefactor's Word"
+						]
+					},
+					{
+						"correct": "The Underground Railroad",
+						"difficulty": "Hard",
+						"explanation": "The Resistance's escape network is explicitly referred to as the Underground Railroad, linking many of their hidden outposts.",
+						"image_url": "",
+						"question": "What is the name of the underground network used by the Resistance to smuggle citizens out of City 17?",
+						"wrong": [
+							"The Sub-Transit",
+							"The Freedom Line",
+							"The Exodus Path"
+						]
+					},
+					{
+						"correct": "Nova Prospekt",
+						"difficulty": "Hard",
+						"explanation": "Gordon and Alyx assault Nova Prospekt to rescue Eli Vance, an act which sparks the full-scale uprising back in City 17.",
+						"image_url": "",
+						"question": "What is the name of the high-security Combine prison located on the coast, which was formerly a maximum-security human prison?",
+						"wrong": [
+							"The Stockade",
+							"Blackgate Penitentiary",
+							"The Depot"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_city_17",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "City 17",
+				"lore_desc": "The primary setting for Half-Life 2, City 17 is a bleak, dystopian Eastern European metropolis that serves as the Combine's main base of operations on Earth.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Combine",
+					"Uprising"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Combine",
+						"difficulty": "Easy",
+						"explanation": "The Citadel is the ultimate symbol of the Combine's iron-fisted rule over Earth.",
+						"image_url": "",
+						"question": "The Citadel serves as the headquarters for what oppressive, interdimensional empire?",
+						"wrong": [
+							"The G-Man's Employers",
+							"The Nihilanth's Army",
+							"Black Mesa"
+						]
+					},
+					{
+						"correct": "Dr. Wallace Breen",
+						"difficulty": "Easy",
+						"explanation": "Dr. Breen, the former administrator of Black Mesa, acts as the Combine's puppet ruler from his office in the Citadel's peak.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_citadel.webp",
+						"question": "Who is the human administrator of Earth who resides at the very top of the Citadel?",
+						"wrong": [
+							"Eli Vance",
+							"Dr. Isaac Kleiner",
+							"G-Man"
+						]
+					},
+					{
+						"correct": "Dark Energy Field Manipulator",
+						"difficulty": "Easy",
+						"explanation": "The Citadel's confiscation field accidentally supercharges the Gravity Gun, turning it into a deadly weapon capable of disintegrating Combine soldiers.",
+						"image_url": "",
+						"question": "What powerful weapon does Gordon Freeman's Gravity Gun become after it is supercharged within the Citadel?",
+						"wrong": [
+							"Gluon Gun",
+							"Tau Cannon",
+							"Pulse Rifle"
+						]
+					},
+					{
+						"correct": "Dark Energy",
+						"difficulty": "Easy",
+						"explanation": "The Citadel is powered by a Dark Energy reactor, a mysterious and immensely powerful technology harnessed by the Combine.",
+						"image_url": "",
+						"question": "What type of energy source powers the Citadel and its Dark Fusion Reactor?",
+						"wrong": [
+							"Zero Point Energy",
+							"Nuclear Fission",
+							"Xen Crystal Resonance"
+						]
+					},
+					{
+						"correct": "It explodes",
+						"difficulty": "Easy",
+						"explanation": "The massive explosion destroys the top of the Citadel and cripples the Combine's portal technology.",
+						"image_url": "",
+						"question": "During the game's finale, Gordon and Alyx destabilize the Citadel's reactor, causing what to happen to the top of the tower?",
+						"wrong": [
+							"It teleports away",
+							"It sinks into the ground",
+							"It launches into space"
+						]
+					},
+					{
+						"correct": "Stalker pod",
+						"difficulty": "Medium",
+						"explanation": "They use a pod designed to transport Stalkers, the mutilated human captives who serve the Combine as slave labor.",
+						"image_url": "",
+						"question": "To enter the Citadel, Gordon and Alyx use a captured one of these, a biological transport pod that travels on cables.",
+						"wrong": [
+							"Combine dropship",
+							"Advisor capsule",
+							"Razor train car"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "The intense blue glow signifies the weapon's newfound power, capable of tearing apart enemies with ease.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_citadel.webp",
+						"question": "The supercharged Gravity Gun found inside the Citadel glows what color, as opposed to its normal orange?",
+						"wrong": [
+							"Red",
+							"Green",
+							"Purple"
+						]
+					},
+					{
+						"correct": "It disintegrates them",
+						"difficulty": "Medium",
+						"explanation": "The confiscation field destroys all of Gordon's conventional weapons, leaving him with only the soon-to-be-supercharged Gravity Gun.",
+						"image_url": "",
+						"question": "As Gordon ascends the Citadel, he is placed in a 'confiscation field'. What does this field do to all of his conventional weapons?",
+						"wrong": [
+							"It disables them",
+							"It teleports them away",
+							"It stores them in a locker"
+						]
+					},
+					{
+						"correct": "To bring in off-world reinforcements",
+						"difficulty": "Medium",
+						"explanation": "Dr. Breen attempts to use the portal to contact the Combine Overworld for massive reinforcements after the City 17 uprising.",
+						"image_url": "",
+						"question": "What is the primary purpose of the massive portal at the top of the Citadel that Gordon must destroy?",
+						"wrong": [
+							"To teleport Earth to another dimension",
+							"To communicate with the Combine Overworld",
+							"To drain the Earth's oceans"
+						]
+					},
+					{
+						"correct": "True",
+						"difficulty": "Medium",
+						"explanation": "The Citadel's interior is a massive, dynamic machine, with entire sections reconfiguring themselves for different purposes.",
+						"image_url": "",
+						"question": "The interior of the Citadel is notable for its constantly shifting architecture, with entire walls and floors reconfiguring themselves like a giant machine.",
+						"wrong": [
+							"False"
+						]
+					},
+					{
+						"correct": "The Vault",
+						"difficulty": "Hard",
+						"explanation": "The Vault was a massive containment vessel suspended over City 17, acting as a precursor to the final Citadel's construction.",
+						"image_url": "",
+						"question": "The Citadel is seen under construction in the prequel, Half-Life: Alyx. What smaller, prototype version of the structure is present in that game?",
+						"wrong": [
+							"The Spire",
+							"The Nexus",
+							"The Core"
+						]
+					},
+					{
+						"correct": "Dr. Judith Mossman",
+						"difficulty": "Hard",
+						"explanation": "In a moment of redemption, Dr. Mossman betrays Breen, giving Gordon and Alyx the crucial opening they need to stop him.",
+						"image_url": "",
+						"question": "Dr. Breen attempts to escape the Citadel through a portal. Who physically unplugs the console preventing his immediate escape, giving Gordon an opening?",
+						"wrong": [
+							"Alyx Vance",
+							"Eli Vance",
+							"Barney Calhoun"
+						]
+					},
+					{
+						"correct": "Striders and Gunships",
+						"difficulty": "Hard",
+						"explanation": "The elevator ride provides a chilling glimpse into the Combine's war machine, showing their most powerful synths being manufactured on a massive scale.",
+						"image_url": "https://skillcheckgame.com/assets/images/the_citadel.webp",
+						"question": "Before reaching Dr. Breen's office, Gordon travels in an elevator with a unique view of what being assembled on production lines?",
+						"wrong": [
+							"Scanners and Manhacks",
+							"Combine Soldiers and Elites",
+							"Hunter-Choppers and Dropships"
+						]
+					},
+					{
+						"correct": "Our Benefactors",
+						"difficulty": "Hard",
+						"explanation": "The chapter title 'Our Benefactors' is a darkly ironic reference to Dr. Breen's propaganda term for the Combine.",
+						"image_url": "",
+						"question": "What is the specific name of the chapter where Gordon Freeman finally infiltrates the Citadel?",
+						"wrong": [
+							"Dark Energy",
+							"Follow Freeman",
+							"Anticitizen One"
+						]
+					},
+					{
+						"correct": "It will be completely destroyed",
+						"difficulty": "Hard",
+						"explanation": "Alyx warns that the Citadel's destruction will create a 'super-portal' that would level the entirety of City 17.",
+						"image_url": "",
+						"question": "In Episode One, Alyx discovers the Citadel's core is creating a super-portal. What does she warn will happen to City 17 as a result?",
+						"wrong": [
+							"It will be teleported",
+							"It will be frozen in time",
+							"It will be flooded"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_the_citadel",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "The Citadel",
+				"lore_desc": "The colossal, ever-shifting tower at the heart of City 17. It serves as the Combine's primary command center on Earth, housing their administration, military production, and Dr. Breen's offices.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Combine",
+					"Structure"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "It has three long legs",
+						"difficulty": "Easy",
+						"explanation": "The Strider's iconic tripod design makes it instantly recognizable and allows it to navigate urban environments with surprising agility.",
+						"image_url": "https://skillcheckgame.com/assets/images/strider.webp",
+						"question": "What is the most recognizable feature of a Strider's design?",
+						"wrong": [
+							"It has four sturdy legs",
+							"It has two agile legs",
+							"It hovers without legs"
+						]
+					},
+					{
+						"correct": "Warp Cannon",
+						"difficulty": "Easy",
+						"explanation": "The Warp Cannon, also known as the cannon gun, requires a moment to charge before unleashing a beam that can vaporize almost anything.",
+						"image_url": "",
+						"question": "What is the name of the Strider's primary, devastatingly powerful energy weapon?",
+						"wrong": [
+							"Pulse Rifle",
+							"Dark Energy Beam",
+							"Gauss Cannon"
+						]
+					},
+					{
+						"correct": "Pulse Turret",
+						"difficulty": "Easy",
+						"explanation": "The pulse turret is used to suppress infantry and clear out smaller threats that are not worth a Warp Cannon blast.",
+						"image_url": "",
+						"question": "Besides its main cannon, the Strider also uses a smaller, rapid-fire weapon mounted on its 'head'. What is this weapon called?",
+						"wrong": [
+							"Repeater Gun",
+							"Minigun",
+							"Laser Emitter"
+						]
+					},
+					{
+						"correct": "RPG",
+						"difficulty": "Easy",
+						"explanation": "It takes multiple direct hits from a rocket-propelled grenade to bring down one of these towering war machines.",
+						"image_url": "",
+						"question": "In the final street battles of City 17, what is the most effective weapon Gordon can use to take down a Strider?",
+						"wrong": [
+							"Shotgun",
+							"SMG Grenade",
+							"Crossbow"
+						]
+					},
+					{
+						"correct": "Hunters",
+						"difficulty": "Easy",
+						"explanation": "Hunters, introduced in Episode Two, often accompany Striders, using their flechette guns to flush out hidden enemies.",
+						"image_url": "",
+						"question": "Striders are often escorted by smaller, four-legged synth units that fire explosive flechettes. What are these escorts called?",
+						"wrong": [
+							"Scanners",
+							"Stalkers",
+							"Rollermines"
+						]
+					},
+					{
+						"correct": "The Magnusson Device",
+						"difficulty": "Medium",
+						"explanation": "The Magnusson Device can be launched with the Gravity Gun and attached to a Strider's hull, destroying it in a single shot.",
+						"image_url": "https://skillcheckgame.com/assets/images/strider.webp",
+						"question": "In Episode Two, what special sticky bomb, invented by Dr. Magnusson, is used to destroy Striders during the defense of White Forest?",
+						"wrong": [
+							"The Strider Buster",
+							"The Pulse Bomb",
+							"The Gluon Mine"
+						]
+					},
+					{
+						"correct": "Stomping with its legs",
+						"difficulty": "Medium",
+						"explanation": "A Strider can simply walk over most obstacles, using its massive legs to crush cars, barricades, and unfortunate soldiers.",
+						"image_url": "",
+						"question": "What specific action can a Strider perform to instantly crush and destroy vehicles or barricades in its path?",
+						"wrong": [
+							"Firing a shockwave",
+							"Emitting a sonic pulse",
+							"Deploying a cutting laser"
+						]
+					},
+					{
+						"correct": "A deep, electronic roar or bellow",
+						"difficulty": "Medium",
+						"explanation": "The Strider's haunting, mournful sounds echo through the streets, serving as an intimidating warning of its presence.",
+						"image_url": "",
+						"question": "What sound is characteristically associated with a Strider's movement and vocalizations?",
+						"wrong": [
+							"A high-pitched screech",
+							"A metallic clanking",
+							"A low hum"
+						]
+					},
+					{
+						"correct": "The main body or hull",
+						"difficulty": "Medium",
+						"explanation": "While the legs can be damaged, direct hits to the main chassis with heavy explosives are the only reliable way to destroy it.",
+						"image_url": "",
+						"question": "A Strider's legs are heavily armored, but what part of its body is considered its primary weak point for taking damage?",
+						"wrong": [
+							"The leg joints",
+							"The head turret",
+							"The underside"
+						]
+					},
+					{
+						"correct": "False",
+						"difficulty": "Medium",
+						"explanation": "Striders are 'synths,' a type of biomechanical war machine created by the Combine by fusing organic creatures with technology.",
+						"image_url": "",
+						"question": "True or False: Striders are purely mechanical robots.",
+						"wrong": [
+							"True"
+						]
+					},
+					{
+						"correct": "Dog",
+						"difficulty": "Hard",
+						"explanation": "In a heroic moment, Dog leaps onto a Strider, rips open its hull, and tears out its central processing unit.",
+						"image_url": "https://skillcheckgame.com/assets/images/strider.webp",
+						"question": "In a memorable sequence, a Strider is dramatically defeated not by Gordon, but by Alyx's robotic companion who leaps on it and tears it apart. Who is this companion?",
+						"wrong": [
+							"Claptrap",
+							"Gerty",
+							"Atlas"
+						]
+					},
+					{
+						"correct": "Shoot a small clasp holding it",
+						"difficulty": "Hard",
+						"explanation": "The devices are held in dispensers by a small metal clasp that must be shot to release them for use with the Gravity Gun.",
+						"image_url": "",
+						"question": "During the battle at the White Forest base, what must a player do to a Magnusson Device to free it from its dispenser before firing it?",
+						"wrong": [
+							"Charge it at a generator",
+							"Solve a puzzle",
+							"Combine it with an energy core"
+						]
+					},
+					{
+						"correct": "Overwatch Nexus",
+						"difficulty": "Hard",
+						"explanation": "This key defensive position is referred to as the Overwatch Nexus by the Combine, and the Resistance fight tooth and nail to hold it.",
+						"image_url": "",
+						"question": "In the final battle of Half-Life 2, Gordon must defend a specific building from a massive Strider assault. The Combine refer to this building as the what?",
+						"wrong": [
+							"Capitol Building",
+							"Victory Tower",
+							"Sector 17 Command"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Hard",
+						"explanation": "A small, glowing green organ can be seen inside the Strider's chassis, believed to be its biological control unit.",
+						"image_url": "",
+						"question": "A Strider's biological brain is visible through a small viewport on its body. What color does it glow?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "The War of the Worlds",
+						"difficulty": "Hard",
+						"explanation": "The Strider's distinctive tripod design and city-leveling power are heavily inspired by the iconic Martian Tripods.",
+						"image_url": "",
+						"question": "The design of the Strider, a tall, three-legged war machine, is a direct homage to the Martian fighting machines from what classic H.G. Wells novel?",
+						"wrong": [
+							"The Time Machine",
+							"The Island of Doctor Moreau",
+							"The First Men in the Moon"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_strider",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Strider",
+				"lore_desc": "A colossal three-legged Combine war machine, the Strider is one of the most feared sights on the battlefield. Its immense height gives it a tactical advantage, while its powerful warp cannon can disintegrate targets in a single blast.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Enemy",
+					"Combine",
+					"Synth"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The Combine",
+						"difficulty": "Easy",
+						"explanation": "Dr. Breen betrayed humanity by brokering its surrender to the Combine, earning him the position of Earth's Administrator.",
+						"image_url": "",
+						"question": "Dr. Breen serves as the primary human antagonist and collaborator with what alien empire?",
+						"wrong": [
+							"The Xenians",
+							"The Vortigaunts",
+							"The G-Man's Employers"
+						]
+					},
+					{
+						"correct": "The Citadel",
+						"difficulty": "Easy",
+						"explanation": "His office is located at the very peak of the Citadel, symbolizing his high-but-precarious position in the Combine hierarchy.",
+						"image_url": "",
+						"question": "From what massive tower in City 17 does Dr. Breen rule over the planet?",
+						"wrong": [
+							"Nova Prospekt",
+							"The Borealis",
+							"White Forest"
+						]
+					},
+					{
+						"correct": "The Breencasts",
+						"difficulty": "Easy",
+						"explanation": "The Breencasts are a constant presence, with Breen attempting to justify the Combine's rule and pacify the population.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_wallace_breen.webp",
+						"question": "What is the name of Dr. Breen's propaganda broadcasts that are shown on public video screens throughout City 17?",
+						"wrong": [
+							"The City Address",
+							"The Administrator's Report",
+							"The Benefactor's Word"
+						]
+					},
+					{
+						"correct": "Administrator",
+						"difficulty": "Easy",
+						"explanation": "As Administrator, he was the highest-ranking official at Black Mesa, making his eventual betrayal even more significant.",
+						"image_url": "",
+						"question": "Before the Combine invasion, Dr. Breen held what prestigious position at the Black Mesa Research Facility?",
+						"wrong": [
+							"Head of Security",
+							"Lead Theoretical Physicist",
+							"Chief of Xenology"
+						]
+					},
+					{
+						"correct": "A portal",
+						"difficulty": "Easy",
+						"explanation": "He tries to flee through a dark energy portal to the Combine Overworld before Gordon and Alyx destroy the reactor.",
+						"image_url": "",
+						"question": "In his final confrontation with Gordon Freeman, Dr. Breen attempts to escape through what kind of technology?",
+						"wrong": [
+							"A rocket",
+							"A dropship",
+							"A stasis pod"
+						]
+					},
+					{
+						"correct": "Our Benefactors",
+						"difficulty": "Medium",
+						"explanation": "'Our Benefactors' is a classic piece of doublespeak, painting the oppressive alien regime as a benevolent force.",
+						"image_url": "",
+						"question": "Breen often refers to the oppressive Combine by a more palatable, propagandistic name. What does he call them?",
+						"wrong": [
+							"Our Saviors",
+							"The Universal Union",
+							"The Ascended"
+						]
+					},
+					{
+						"correct": "A Combine Advisor",
+						"difficulty": "Medium",
+						"explanation": "This scene reveals that even Breen is just a pawn, answering to the truly powerful and unsettling Combine Advisors.",
+						"image_url": "",
+						"question": "Who does Dr. Breen have a tense conversation with via monitor, a grub-like alien being who seems to be his direct superior?",
+						"wrong": [
+							"The G-Man",
+							"A Nihilanth",
+							"A Vortigaunt Elder"
+						]
+					},
+					{
+						"correct": "Dr. Judith Mossman",
+						"difficulty": "Medium",
+						"explanation": "Dr. Mossman's loyalty is ambiguous for much of the game, as she appears to be working with Breen until her last-minute change of heart.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_wallace_breen.webp",
+						"question": "What scientific colleague does Breen capture and attempt to use as a bargaining chip against Gordon and Eli Vance?",
+						"wrong": [
+							"Dr. Isaac Kleiner",
+							"Alyx Vance",
+							"Barney Calhoun"
+						]
+					},
+					{
+						"correct": "Jumpsuit",
+						"difficulty": "Medium",
+						"explanation": "Breen's condescending dialogue constantly belittles Gordon's actions and appearance, calling his iconic suit a simple jumpsuit.",
+						"image_url": "",
+						"question": "During their confrontation, Breen mockingly refers to Gordon's HEV suit as a 'rather handsome' what?",
+						"wrong": [
+							"Hazard suit",
+							"Orange tuxedo",
+							"Lab coat"
+						]
+					},
+					{
+						"correct": "The G-Man",
+						"difficulty": "Medium",
+						"explanation": "This line is a direct taunt about the mysterious G-Man, suggesting Breen is aware of the shadowy figure manipulating events.",
+						"image_url": "",
+						"question": "Dr. Breen claims that Gordon Freeman's contract is 'open to the highest bidder.' Who is he implying originally controlled Gordon?",
+						"wrong": [
+							"The US Government",
+							"Black Mesa's board",
+							"A rival corporation"
+						]
+					},
+					{
+						"correct": "The Seven Hour War",
+						"difficulty": "Hard",
+						"explanation": "The Seven Hour War was the brief but utterly devastating conflict in which the Combine defeated all of Earth's military forces, leading to Breen's surrender.",
+						"image_url": "",
+						"question": "Dr. Breen's surrender to the Combine came after a catastrophic event where Earth's forces were defeated. What was this event called?",
+						"wrong": [
+							"The Black Mesa Incident",
+							"The Portal Storms",
+							"The Combine Assimilation"
+						]
+					},
+					{
+						"correct": "The Gravity Gun",
+						"difficulty": "Hard",
+						"explanation": "After Gordon loses his weapons, Breen picks up the Gravity Gun from a display case, intending to use it himself before Alyx intervenes.",
+						"image_url": "https://skillcheckgame.com/assets/images/dr_wallace_breen.webp",
+						"question": "During the final confrontation, what weapon does Dr. Breen briefly wield against Gordon Freeman?",
+						"wrong": [
+							"The Pulse Rifle",
+							"A Combine baton",
+							"A crowbar"
+						]
+					},
+					{
+						"correct": "A Combine Advisor",
+						"difficulty": "Hard",
+						"explanation": "The Vortigaunts reveal that the Advisors were attempting to implant Breen's consciousness into one of their own, allowing him to survive.",
+						"image_url": "",
+						"question": "In Episode One, it's revealed that a backup of Dr. Breen's consciousness was being prepared for transfer into what type of host body?",
+						"wrong": [
+							"A Stalker",
+							"A Combine Soldier",
+							"A computer terminal"
+						]
+					},
+					{
+						"correct": "Specimen retrieval team",
+						"difficulty": "Hard",
+						"explanation": "Breen coldly mocks Eli's injury, which he sustained during his escape from Black Mesa, telling him he sent the 'finest specimen retrieval team' to find him.",
+						"image_url": "",
+						"question": "When taunting Eli Vance, Dr. Breen makes a cruel remark about the loss of Eli's leg and the 'finest' what in the Citadel?",
+						"wrong": [
+							"Medical facilities",
+							"Prosthetics department",
+							"Surgical unit"
+						]
+					},
+					{
+						"correct": "Memory replacement",
+						"difficulty": "Hard",
+						"explanation": "Breen's propaganda reveals the Combine's use of chemical agents in the water to erase memories, further controlling the population.",
+						"image_url": "",
+						"question": "In a Breencast, Dr. Breen mentions the Combine has added something to the water supply to help citizens forget their past. What is this tactic called?",
+						"wrong": [
+							"Neural dampening",
+							"Subliminal suggestion",
+							"Mass hypnosis"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_dr._wallace_breen",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Dr. Wallace Breen",
+				"lore_desc": "The former administrator of the Black Mesa Research Facility, Dr. Wallace Breen negotiated Earth's surrender to the Combine. Now acting as their puppet ruler, he governs from the Citadel in City 17, delivering propaganda speeches to the subjugated populace.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Administrator",
+					"Human"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Alyx Vance",
+						"difficulty": "Easy",
+						"explanation": "Eli Vance built Dog to protect his daughter Alyx when she was just a child. Their bond is one of the emotional cores of the series.",
+						"image_url": "",
+						"question": "Who is the young woman that Dog was built to protect and is fiercely loyal to?",
+						"wrong": [
+							"Judith Mossman",
+							"J. Lo",
+							"Meryl Silverburgh"
+						]
+					},
+					{
+						"correct": "Fetch",
+						"difficulty": "Easy",
+						"explanation": "Dog's favorite pastime seems to be playing fetch, though his choice of 'stick' can range from a Rollermine to an entire vehicle.",
+						"image_url": "",
+						"question": "What simple game does Dog love to play with Gordon Freeman, often using dangerously large objects?",
+						"wrong": [
+							"Hide and Seek",
+							"Tag",
+							"Chess"
+						]
+					},
+					{
+						"correct": "Eli Vance",
+						"difficulty": "Easy",
+						"explanation": "Dr. Eli Vance, a brilliant scientist and leader of the resistance, cobbled Dog together from various machine parts, including an old Combine scanner.",
+						"image_url": "https://skillcheckgame.com/assets/images/dog.webp",
+						"question": "Who created Dog from scavenged parts to serve as a guardian for his daughter?",
+						"wrong": [
+							"Isaac Kleiner",
+							"Arne Magnusson",
+							"Wallace Breen"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "Dog's expressive single eye shines with a warm yellow light, which can change in intensity based on his 'mood'.",
+						"image_url": "",
+						"question": "Dog's single, glowing optic is what distinct color?",
+						"wrong": [
+							"Red",
+							"Blue",
+							"Green"
+						]
+					},
+					{
+						"correct": "Black Mesa East",
+						"difficulty": "Easy",
+						"explanation": "Gordon Freeman meets Dog shortly after arriving at the Black Mesa East scrapyard, where he quickly learns of the robot's power and playful nature.",
+						"image_url": "",
+						"question": "Dog is first introduced to the player at what resistance outpost?",
+						"wrong": [
+							"White Forest",
+							"City 17",
+							"Ravenholm"
+						]
+					},
+					{
+						"correct": "The Gravity Gun",
+						"difficulty": "Medium",
+						"explanation": "After the Citadel's explosion, Dog digs through the debris to find and return the Zero Point Energy Field Manipulator to Gordon, re-arming him for the escape.",
+						"image_url": "",
+						"question": "At the start of Episode One, what iconic weapon does Dog retrieve for Gordon from the rubble of the Citadel?",
+						"wrong": [
+							"The Crowbar",
+							"The Crossbow",
+							"The SMG"
+						]
+					},
+					{
+						"correct": "A wrecked van",
+						"difficulty": "Medium",
+						"explanation": "Unable to find another way in, Alyx hatches a plan for Dog to hurl them into the Citadel inside the husk of an old passenger van.",
+						"image_url": "https://skillcheckgame.com/assets/images/dog.webp",
+						"question": "In a memorable display of strength, Dog throws Gordon and Alyx into the Citadel using what makeshift projectile?",
+						"wrong": [
+							"A shipping container",
+							"A Combine APC",
+							"A concrete slab"
+						]
+					},
+					{
+						"correct": "A Strider",
+						"difficulty": "Medium",
+						"explanation": "In one of the most cinematic moments, Dog leaps onto a Strider, rips open its hull, and tears out its central brain pod, destroying the massive war machine.",
+						"image_url": "",
+						"question": "What towering Combine Synth does Dog heroically tackle and tear apart to save Gordon?",
+						"wrong": [
+							"A Hunter",
+							"A Gunship",
+							"A Dropship"
+						]
+					},
+					{
+						"correct": "A muscle car",
+						"difficulty": "Medium",
+						"explanation": "Gordon drives the newly-rebuilt 1969 Dodge Charger, while Dog prefers to race on foot, easily keeping pace by leaping across the terrain.",
+						"image_url": "",
+						"question": "In Episode Two, Dog challenges Gordon to a race to the White Forest base. What vehicle is Gordon driving?",
+						"wrong": [
+							"An airboat",
+							"A scout car",
+							"A buggy"
+						]
+					},
+					{
+						"correct": "A Rollermine",
+						"difficulty": "Medium",
+						"explanation": "The resistance has learned how to reprogram Rollermines, turning the deadly, electro-shocking spheres into harmless playthings for Dog.",
+						"image_url": "",
+						"question": "The spherical 'toy' that Dog often uses for fetch is actually a repurposed and deactivated version of what Combine device?",
+						"wrong": [
+							"A Hopper Mine",
+							"A Manhack",
+							"A City Scanner"
+						]
+					},
+					{
+						"correct": "A Scanner",
+						"difficulty": "Hard",
+						"explanation": "Eli Vance repurposed the durable shell of a Combine Scanner to serve as the main body for his robotic creation, giving Dog his distinct shape.",
+						"image_url": "https://skillcheckgame.com/assets/images/dog.webp",
+						"question": "Dog's chassis is primarily constructed from the scavenged casing of what type of Combine machine?",
+						"wrong": [
+							"A Sentry Turret",
+							"An APC",
+							"A Shield Generator"
+						]
+					},
+					{
+						"correct": "Vortigaunts",
+						"difficulty": "Hard",
+						"explanation": "Knowing the Vortigaunts possessed mystical healing abilities, Dog carried the wounded Alyx to the Victory Mine, where their allies were sheltering.",
+						"image_url": "",
+						"question": "When Alyx is gravely injured in Episode Two, Dog carries her to an old mining complex to seek help from what species?",
+						"wrong": [
+							"Antlions",
+							"Zombies",
+							"Combine Advisors"
+						]
+					},
+					{
+						"correct": "Gives him a hug",
+						"difficulty": "Hard",
+						"explanation": "In a surprisingly gentle gesture, Dog carefully pulls Gordon from the wreckage and gives him a massive, metallic hug before returning his Gravity Gun.",
+						"image_url": "",
+						"question": "What is the first thing Dog does upon seeing Gordon Freeman again at the beginning of Episode One?",
+						"wrong": [
+							"Plays fetch",
+							"Picks up a car",
+							"Tackles a Strider"
+						]
+					},
+					{
+						"correct": "Ravenholm",
+						"difficulty": "Hard",
+						"explanation": "After the Combine assault on Black Mesa East, Dog pries open a rusted tunnel door, revealing the only available escape route: the dreaded path through Ravenholm.",
+						"image_url": "",
+						"question": "Dog helps Gordon and Alyx escape Black Mesa East by opening a secret passage that leads towards which zombie-infested town?",
+						"wrong": [
+							"St. Olga",
+							"City 17",
+							"White Forest"
+						]
+					},
+					{
+						"correct": "A burned-out van",
+						"difficulty": "Hard",
+						"explanation": "To funnel the attacking Striders into a more manageable path, Dog shoves the wreck of a van into a narrow garage entrance, creating a vital chokepoint.",
+						"image_url": "",
+						"question": "What specific object does Dog use to block the primary Combine entrance to the White Forest missile silo during the final battle of Episode Two?",
+						"wrong": [
+							"A water tower",
+							"A collapsed tree",
+							"A Combine dropship"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_dog",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Dog",
+				"lore_desc": "Alyx Vance's hulking robotic companion, built by her father Eli to protect her. Despite his intimidating size and immense strength, Dog displays a playful, loyal, and fiercely protective personality.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Robot",
+					"Ally"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Green",
+						"difficulty": "Easy",
+						"explanation": "Vortigaunts channel powerful green electrical energy, which they can use for both devastating attacks and incredible feats of healing.",
+						"image_url": "https://skillcheckgame.com/assets/images/vortigaunt.webp",
+						"question": "What is the distinctive color of the energy beam that Vortigaunts can shoot from their hands?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Purple"
+						]
+					},
+					{
+						"correct": "Allies",
+						"difficulty": "Easy",
+						"explanation": "After Gordon Freeman freed them from the Nihilanth's control at the end of Half-Life, the Vortigaunts became steadfast allies in the fight against the Combine.",
+						"image_url": "",
+						"question": "In the original Half-Life, Vortigaunts were enemies. In Half-Life 2, they are humanity's what?",
+						"wrong": [
+							"Masters",
+							"Gods",
+							"Slaves"
+						]
+					},
+					{
+						"correct": "The Vortessence",
+						"difficulty": "Easy",
+						"explanation": "The Vortessence is the cosmic, all-encompassing force that Vortigaunts can tap into, allowing them to communicate telepathically and manipulate energy.",
+						"image_url": "",
+						"question": "Vortigaunts often speak of a binding life force that connects all things, which they call what?",
+						"wrong": [
+							"The Combine",
+							"The Resonance",
+							"The Flux"
+						]
+					},
+					{
+						"correct": "One large red eye",
+						"difficulty": "Easy",
+						"explanation": "A Vortigaunt's most prominent facial feature is its single, large, crimson eye, which is surrounded by several smaller, closed eyelids.",
+						"image_url": "",
+						"question": "How many eyes does a typical Vortigaunt have?",
+						"wrong": [
+							"Two small black eyes",
+							"Three green eyes",
+							"Five yellow eyes"
+						]
+					},
+					{
+						"correct": "On their chest",
+						"difficulty": "Easy",
+						"explanation": "This third arm, emerging from the center of their torso, is a vestige of their species' biology from their home world.",
+						"image_url": "",
+						"question": "Besides their main pair of arms, Vortigaunts have a third, smaller arm located where on their body?",
+						"wrong": [
+							"On their back",
+							"On their head",
+							"On their leg"
+						]
+					},
+					{
+						"correct": "The G-Man",
+						"difficulty": "Medium",
+						"explanation": "Just as the G-Man is about to place Gordon back into stasis, a group of Vortigaunts intervene, blocking the G-Man and freeing Gordon to help Alyx.",
+						"image_url": "",
+						"question": "At the beginning of Episode One, who do the Vortigaunts teleport Gordon away from, saving him from an uncertain fate?",
+						"wrong": [
+							"Wallace Breen",
+							"An Advisor",
+							"Judith Mossman"
+						]
+					},
+					{
+						"correct": "A Hunter's flechette wound",
+						"difficulty": "Medium",
+						"explanation": "Alyx is impaled and nearly killed by a Combine Hunter. The Vortigaunts are the only ones with the power to extract the flechettes and heal the mortal wound.",
+						"image_url": "https://skillcheckgame.com/assets/images/vortigaunt.webp",
+						"question": "In Episode Two, the Vortigaunts must use their powers to heal Alyx Vance from what kind of attack?",
+						"wrong": [
+							"A Strider's cannon blast",
+							"A headcrab bite",
+							"Radiation poisoning"
+						]
+					},
+					{
+						"correct": "Larval Extract",
+						"difficulty": "Medium",
+						"explanation": "The Antlion larval extract is a crucial component of the Vortigaunt's healing ceremony, possessing unique properties that amplify their energy.",
+						"image_url": "",
+						"question": "To perform the healing ritual on Alyx, the Vortigaunts send Gordon into an Antlion nest to retrieve what key ingredient?",
+						"wrong": [
+							"Pheropods",
+							"Venom Gland",
+							"Worker Mandibles"
+						]
+					},
+					{
+						"correct": "Cooking headcrabs",
+						"difficulty": "Medium",
+						"explanation": "In a strange culinary twist, Vortigaunts can often be found tending to fires and roasting headcrabs, which they consider a delicacy.",
+						"image_url": "",
+						"question": "Some Vortigaunts can be seen in resistance camps performing what mundane task for the humans?",
+						"wrong": [
+							"Washing clothes",
+							"Repairing radios",
+							"Farming"
+						]
+					},
+					{
+						"correct": "The Gravity Gun",
+						"difficulty": "Medium",
+						"explanation": "During the final assault on the Citadel in Episode One, the Vortigaunts imbue the Gravity Gun with their energy, turning it into a far more powerful 'super' version.",
+						"image_url": "",
+						"question": "The Vortigaunts' energy attack can be used to supercharge what weapon for Gordon Freeman?",
+						"wrong": [
+							"The Crowbar",
+							"The Crossbow",
+							"The Pulse Rifle"
+						]
+					},
+					{
+						"correct": "Uriah",
+						"difficulty": "Hard",
+						"explanation": "Uriah is Dr. Magnusson's mild-mannered and surprisingly formal Vortigaunt assistant at the White Forest base, often referred to as 'our pet Vortigaunt'.",
+						"image_url": "https://skillcheckgame.com/assets/images/vortigaunt.webp",
+						"question": "What is the name of the specific Vortigaunt in Episode Two who assists Dr. Magnusson and wears a unique scientific harness?",
+						"wrong": [
+							"Galanga",
+							"Shulathoi",
+							"R-4913"
+						]
+					},
+					{
+						"correct": "\"Prepare for unforeseen consequences\"",
+						"difficulty": "Hard",
+						"explanation": "The G-Man hijacks the telepathic link during the ceremony to deliver this cryptic and ominous warning, a phrase he first used at Black Mesa.",
+						"image_url": "",
+						"question": "During the ritual to save Alyx, the G-Man appears and speaks to Gordon. What message does he ask Gordon to relay to Eli Vance?",
+						"wrong": [
+							"\"The right man in the wrong place\"",
+							"\"Rise and shine, Mr. Freeman\"",
+							"\"We've been rather busy, you and I\""
+						]
+					},
+					{
+						"correct": "The Nihilanth",
+						"difficulty": "Hard",
+						"explanation": "The immense, infant-like Nihilanth was the supreme leader of the forces on Xen, and its death at Gordon's hands broke the psychic chains on the entire Vortigaunt species.",
+						"image_url": "",
+						"question": "In the original Half-Life, the Vortigaunts (then called Alien Slaves) were psychically controlled by what powerful final boss creature?",
+						"wrong": [
+							"The Gonarch",
+							"The Gargantua",
+							"The Tentacle"
+						]
+					},
+					{
+						"correct": "A television monitor",
+						"difficulty": "Hard",
+						"explanation": "The Vortigaunt is channeling energy into a monitor displaying Judith Mossman's message, ensuring the resistance can see the critical data she discovered.",
+						"image_url": "",
+						"question": "When Gordon first arrives at White Forest, a Vortigaunt is powering a generator to keep what crucial piece of equipment running?",
+						"wrong": [
+							"A missile silo door",
+							"A medical station",
+							"A teleport"
+						]
+					},
+					{
+						"correct": "The human race",
+						"difficulty": "Hard",
+						"explanation": "Vortigaunts often use formal and poetic language, referring to humans collectively as 'the human race' or 'humanity' in their unique syntax.",
+						"image_url": "",
+						"question": "What is the Vortigaunt term for humans that they often use when speaking to Gordon?",
+						"wrong": [
+							"The Freeman",
+							"The flesh-weavers",
+							"The surface-kind"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_vortigaunt",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Vortigaunt",
+				"lore_desc": "A telepathic alien species once enslaved by the Combine, now devoted allies to the human resistance. They wield mysterious energy and speak in a cryptic, philosophical manner, referring to a universal life force called the Vortessence.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Alien",
+					"Ally",
+					"Enigmatic"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "We don't go to Ravenholm",
+						"difficulty": "Easy",
+						"explanation": "This phrase, uttered by Alyx Vance, perfectly sets the tone for the horrors that await Gordon Freeman in the abandoned town.",
+						"image_url": "",
+						"question": "What is the chilling, unspoken motto of the resistance regarding this zombie-infested town?",
+						"wrong": [
+							"Remember Ravenholm",
+							"For a free Ravenholm",
+							"Ravenholm awaits"
+						]
+					},
+					{
+						"correct": "Headcrabs",
+						"difficulty": "Easy",
+						"explanation": "The Combine bombarded Ravenholm with shells full of Headcrabs, which quickly turned the entire population into a legion of the undead.",
+						"image_url": "",
+						"question": "Ravenholm is almost entirely populated by zombies and what small, parasitic creatures that create them?",
+						"wrong": [
+							"Antlions",
+							"Manhacks",
+							"Barnacles"
+						]
+					},
+					{
+						"correct": "Father Grigori",
+						"difficulty": "Easy",
+						"explanation": "Father Grigori is the town's eccentric and slightly unhinged priest, who has managed to survive by setting traps and using his trusty shotgun, Annabelle.",
+						"image_url": "https://skillcheckgame.com/assets/images/ravenholm.webp",
+						"question": "Who is the sole, shotgun-wielding human survivor found in Ravenholm?",
+						"wrong": [
+							"Odessa Cubbage",
+							"Arne Magnusson",
+							"Eli Vance"
+						]
+					},
+					{
+						"correct": "The Gravity Gun",
+						"difficulty": "Easy",
+						"explanation": "While the crowbar is famous, Ravenholm is where the Gravity Gun truly shines, allowing players to launch saw blades, radiators, and explosive barrels at zombies.",
+						"image_url": "",
+						"question": "What iconic melee weapon does Gordon Freeman acquire and use extensively throughout Ravenholm?",
+						"wrong": [
+							"The Crowbar",
+							"A Machete",
+							"A Fire Axe"
+						]
+					},
+					{
+						"correct": "Saw blades",
+						"difficulty": "Easy",
+						"explanation": "Father Grigori and the player can use the Gravity Gun to turn the town's industrial debris, especially large circular saw blades, into deadly projectiles.",
+						"image_url": "",
+						"question": "The town's environment is filled with traps that often involve what spinning, sharp-edged tool?",
+						"wrong": [
+							"Fan blades",
+							"Propellers",
+							"Scythes"
+						]
+					},
+					{
+						"correct": "Fast Zombie",
+						"difficulty": "Medium",
+						"explanation": "These terrifying enemies can leap across rooftops and climb pipes, their blood-curdling screams announcing their presence before they charge the player.",
+						"image_url": "",
+						"question": "What new type of fast-moving zombie, created by a Fast Headcrab, is first introduced in Ravenholm?",
+						"wrong": [
+							"Poison Zombie",
+							"Zombine",
+							"Gonome"
+						]
+					},
+					{
+						"correct": "A shotgun",
+						"difficulty": "Medium",
+						"explanation": "After helping Gordon for a time, Father Grigori tosses him his own shotgun, a vital tool for surviving the town's horrors.",
+						"image_url": "",
+						"question": "What weapon does Father Grigori give to Gordon, advising him to use it for 'the head'?",
+						"wrong": [
+							"A crossbow",
+							"A magnum",
+							"An SMG"
+						]
+					},
+					{
+						"correct": "A mining town",
+						"difficulty": "Medium",
+						"explanation": "The presence of deep mineshafts, rail carts, and industrial equipment points to Ravenholm's history as a mining settlement.",
+						"image_url": "",
+						"question": "Ravenholm was originally what kind of town before it was abandoned?",
+						"wrong": [
+							"A fishing village",
+							"A farming community",
+							"A military outpost"
+						]
+					},
+					{
+						"correct": "Through a train yard",
+						"difficulty": "Medium",
+						"explanation": "Father Grigori shows Gordon the way to the old mines, which eventually lead out to a train yard where he can meet up with other resistance members.",
+						"image_url": "https://skillcheckgame.com/assets/images/ravenholm.webp",
+						"question": "How does Gordon finally escape Ravenholm?",
+						"wrong": [
+							"By helicopter",
+							"Through the sewers",
+							"Using a teleporter"
+						]
+					},
+					{
+						"correct": "Explosives",
+						"difficulty": "Medium",
+						"explanation": "The town is littered with explosive barrels and gas canisters, perfect targets for the Gravity Gun or a well-placed shot to clear out hordes of the undead.",
+						"image_url": "",
+						"question": "What type of environmental hazard, often found in red barrels, is plentiful in Ravenholm and useful for dispatching groups of zombies?",
+						"wrong": [
+							"Toxic waste",
+							"Acid",
+							"Radiation"
+						]
+					},
+					{
+						"correct": "A crypt",
+						"difficulty": "Hard",
+						"explanation": "After opening the gate for Gordon, Father Grigori retreats into a tomb, laughing maniacally as he leads his 'congregation' into the flames.",
+						"image_url": "",
+						"question": "Father Grigori's final, triumphant stand sees him leading zombies into a large fire located inside what kind of building?",
+						"wrong": [
+							"A church bell tower",
+							"A coal furnace",
+							"An abandoned warehouse"
+						]
+					},
+					{
+						"correct": "City 17",
+						"difficulty": "Hard",
+						"explanation": "The town's connection to Black Mesa East made it an ideal, albeit temporary, safe haven for those fleeing the Combine's oppressive rule in City 17.",
+						"image_url": "",
+						"question": "Before being shelled by the Combine, Ravenholm served as a hidden refuge for people escaping what major city?",
+						"wrong": [
+							"City 14",
+							"City 27",
+							"Black Mesa"
+						]
+					},
+					{
+						"correct": "Annabelle",
+						"difficulty": "Hard",
+						"explanation": "While not stated in-game, the script files for Father Grigori's lines reveal that he affectionately calls his custom-made shotgun 'Annabelle'.",
+						"image_url": "",
+						"question": "What is the name of Father Grigori's prized shotgun?",
+						"wrong": [
+							"Bertha",
+							"Lucy",
+							"Maria"
+						]
+					},
+					{
+						"correct": "Standard and Fast",
+						"difficulty": "Hard",
+						"explanation": "The shelling of Ravenholm was a targeted bio-attack, deliberately using the faster, more agile Headcrab variant alongside the standard type to ensure maximum infestation.",
+						"image_url": "https://skillcheckgame.com/assets/images/ravenholm.webp",
+						"question": "The specific type of Headcrab canister the Combine used on Ravenholm contained which two variants of the creature?",
+						"wrong": [
+							"Standard and Poison",
+							"Fast and Poison",
+							"Standard and Armored"
+						]
+					},
+					{
+						"correct": "A suspended car trap",
+						"difficulty": "Hard",
+						"explanation": "One of Father Grigori's most effective traps involves a car held aloft by a simple prop. Shooting the prop sends the car crashing down, a perfect demonstration of Ravenholm's physics-based combat.",
+						"image_url": "",
+						"question": "What type of trap, which drops a heavy vehicle on unsuspecting zombies, can be activated by Gordon near the start of the chapter?",
+						"wrong": [
+							"An electrified fence",
+							"A swinging log trap",
+							"A rolling boulder"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_ravenholm",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Ravenholm",
+				"lore_desc": "An abandoned Eastern European mining town that became a refuge for citizens fleeing City 17. After the Combine discovered it, they shelled it with headcrab canisters, turning it into a zombie-infested nightmare. The resistance has one rule about it: 'We don't go there anymore.'",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Horror",
+					"Infested"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Headcrab",
+						"difficulty": "Easy",
+						"explanation": "The Headcrab is the source of the zombification process, latching onto a host's cranium and burrowing into their brain stem.",
+						"image_url": "https://skillcheckgame.com/assets/images/zombie.webp",
+						"question": "What alien parasite attaches to a person's head to create a common Zombie?",
+						"wrong": [
+							"Antlion",
+							"Barnacle",
+							"Snark"
+						]
+					},
+					{
+						"correct": "Ribs and organs",
+						"difficulty": "Easy",
+						"explanation": "The mutation process is brutal, clawing the victim's torso open and revealing their ravaged innards, making for a truly gruesome sight.",
+						"image_url": "",
+						"question": "A standard Zombie's chest is typically split wide open, exposing what anatomical features?",
+						"wrong": [
+							"A second mouth",
+							"A glowing core",
+							"An armored plate"
+						]
+					},
+					{
+						"correct": "Destroy the Headcrab",
+						"difficulty": "Easy",
+						"explanation": "While dismembering a zombie can slow it down, the controlling Headcrab is the true target. Destroying it is the only way to guarantee the host is down for good.",
+						"image_url": "",
+						"question": "What is the most effective way to permanently neutralize any type of Zombie?",
+						"wrong": [
+							"Shoot them in the legs",
+							"Set them on fire",
+							"Use explosives"
+						]
+					},
+					{
+						"correct": "Moaning and groaning",
+						"difficulty": "Easy",
+						"explanation": "The low, guttural moans of a zombie are often the first sign of danger, echoing through dark hallways and abandoned streets.",
+						"image_url": "",
+						"question": "Zombies are often heard making what kind of noise before they are seen?",
+						"wrong": [
+							"Clicking and chittering",
+							"Hissing and growling",
+							"Singing and whistling"
+						]
+					},
+					{
+						"correct": "A crowbar",
+						"difficulty": "Easy",
+						"explanation": "Gordon Freeman's iconic crowbar is a reliable and ammo-free solution for dealing with common zombies, provided you can get close enough.",
+						"image_url": "",
+						"question": "What simple but effective tool is famous for being able to split a Zombie's Headcrab in two with a well-aimed swing?",
+						"wrong": [
+							"A sledgehammer",
+							"A shovel",
+							"A pipe wrench"
+						]
+					},
+					{
+						"correct": "Poison Zombie",
+						"difficulty": "Medium",
+						"explanation": "The slow, bloated Poison Zombie is a host to a Poison Headcrab and several of its offspring, which it lobs like venomous grenades.",
+						"image_url": "https://skillcheckgame.com/assets/images/zombie.webp",
+						"question": "What type of Zombie carries multiple parasitic allies on its back, which it can throw at its victims?",
+						"wrong": [
+							"Fast Zombie",
+							"Zombine",
+							"Standard Zombie"
+						]
+					},
+					{
+						"correct": "A Combine Soldier",
+						"difficulty": "Medium",
+						"explanation": "When a Headcrab manages to infect one of the Combine's own soldiers, the result is a Zombine: a durable, unpredictable foe that still retains some of its military training.",
+						"image_url": "",
+						"question": "The terrifying 'Zombine' is a grim fusion of a Headcrab and what type of enemy?",
+						"wrong": [
+							"A Metro Cop",
+							"A Resistance Fighter",
+							"An Antlion"
+						]
+					},
+					{
+						"correct": "Incredible speed and agility",
+						"difficulty": "Medium",
+						"explanation": "Fast Zombies are a stark contrast to their lumbering cousins. They can sprint, leap great distances, and climb structures, making them a formidable threat.",
+						"image_url": "",
+						"question": "What is the defining characteristic of the Fast Zombie, created by a Fast Headcrab?",
+						"wrong": [
+							"Thick armor plating",
+							"The ability to spit acid",
+							"Carrying multiple headcrabs"
+						]
+					},
+					{
+						"correct": "A grenade",
+						"difficulty": "Medium",
+						"explanation": "In a terrifying display of lingering instinct, a Zombine will sometimes pull the pin on a grenade and charge at the player, becoming a walking bomb.",
+						"image_url": "",
+						"question": "What item can a Zombine sometimes pull from its belt to use as a last-ditch weapon?",
+						"wrong": [
+							"A pistol",
+							"A stunstick",
+							"A flare"
+						]
+					},
+					{
+						"correct": "Reduces his health to 1",
+						"difficulty": "Medium",
+						"explanation": "The potent neurotoxin is not immediately lethal but brings Gordon to the brink of death, leaving him extremely vulnerable to any follow-up attack.",
+						"image_url": "",
+						"question": "A bite from a Poison Headcrab, or the ones thrown by a Poison Zombie, does what to Gordon Freeman?",
+						"wrong": [
+							"Instantly kills him",
+							"Blurs his vision",
+							"Reverses his controls"
+						]
+					},
+					{
+						"correct": "A person screaming for help",
+						"difficulty": "Hard",
+						"explanation": "A famous bit of sound design reveals the true horror of zombification: the garbled groans are actually reversed audio clips of a person screaming \"Oh god, help me!\"",
+						"image_url": "",
+						"question": "What distinctive and horrifying sound can be heard from a standard Zombie if played in reverse?",
+						"wrong": [
+							"Combine propaganda",
+							"Static and radio chatter",
+							"A hidden musical tune"
+						]
+					},
+					{
+						"correct": "Opposing Force",
+						"difficulty": "Hard",
+						"explanation": "The Gonome represents a later stage of the Headcrab infestation, where the host's body has mutated further, becoming stronger and gaining a ranged acid attack.",
+						"image_url": "",
+						"question": "The 'Gonome' is a more developed, aggressive, and acid-spitting form of Zombie that appeared in which Half-Life expansion?",
+						"wrong": [
+							"Blue Shift",
+							"Decay",
+							"Lost Coast"
+						]
+					},
+					{
+						"correct": "Howling and screeching",
+						"difficulty": "Hard",
+						"explanation": "The host of a Fast Zombie has been stripped down to its musculature, and its vocal cords are stretched, producing a chilling, high-pitched shriek.",
+						"image_url": "",
+						"question": "Unlike other zombies, what distinctive and unsettling sound does a Fast Zombie make as it moves and climbs?",
+						"wrong": [
+							"Deep groaning",
+							"Wet gurgling",
+							"Mechanical whirring"
+						]
+					},
+					{
+						"correct": "The body splits in half",
+						"difficulty": "Hard",
+						"explanation": "Because the Combine soldier's torso is held together by the Headcrab, removing it causes the body to gruesomely fall apart at the waist.",
+						"image_url": "https://skillcheckgame.com/assets/images/zombie.webp",
+						"question": "What happens if you manage to remove the Headcrab from a Zombine without destroying the host body?",
+						"wrong": [
+							"The soldier is revived",
+							"The body runs around aimlessly",
+							"The body explodes"
+						]
+					},
+					{
+						"correct": "Its head is tilted back at an unnatural angle",
+						"difficulty": "Hard",
+						"explanation": "The weight of the Poison Headcrab and its brood seems to snap the host's neck, forcing its head back into a disturbing, permanently skyward-facing position.",
+						"image_url": "",
+						"question": "The design of the Poison Zombie is notable for its swollen, purple flesh and what other distinct physical feature?",
+						"wrong": [
+							"It has four arms",
+							"It has no legs",
+							"Its skin is on fire"
+						]
+					}
+				]
+			},
+			"id": "half_life_2_zombie",
+			"meta": {
+				"date_added": "2026-04-26",
+				"entity_category": "Theme Item",
+				"full_title": "Zombie",
+				"lore_desc": "The horrific result of a Headcrab latching onto a humanoid's head. The parasite takes over the host's nervous system, causing grotesque mutations and turning the victim into a shambling, mindless puppet driven by aggression.",
+				"theme_origin": "half life 2",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Enemy",
+					"Reanimated",
+					"Host"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -164898,6 +168158,15 @@
 						"Saren Arterius"
 					],
 					"name": "Heretics"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"The Citadel",
+						"Dr. Wallace Breen",
+						"Combine Soldier"
+					],
+					"name": "Our Benefactors"
 				}
 			]
 		},
@@ -167387,6 +170656,14 @@
 						"Zombie"
 					],
 					"name": "Night One"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Zombie",
+						"Combine Soldier"
+					],
+					"name": "Zombine!"
 				}
 			]
 		},
@@ -167687,12 +170964,92 @@
 					"name": "Goo-reat Mascot"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Erik",
 						"Fun-Size Forge"
 					],
 					"name": "Resourceful Rogue"
+				}
+			]
+		},
+		{
+			"id": "half life 2",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Ravenholm",
+						"Zombie",
+						"Headcrab"
+					],
+					"name": "We Don't Go To Ravenholm"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Alyx Vance",
+						"Dog",
+						"Gravity Gun"
+					],
+					"name": "Zero-Point Energy"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Gordon Freeman",
+						"City 17",
+						"Strider"
+					],
+					"name": "Street Wars"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gordon Freeman",
+						"G-Man"
+					],
+					"name": "The Right Man in the Wrong Place"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"HEV Suit",
+						"Crowbar"
+					],
+					"name": "Hazardous Environments"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Gravity Gun",
+						"The Citadel"
+					],
+					"name": "Dark Energy Field"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Vortigaunt",
+						"Headcrab"
+					],
+					"name": "Galunga!"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"G-Man",
+						"City 17"
+					],
+					"name": "Wake Up and Smell the Ashes"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Dog",
+						"Strider"
+					],
+					"name": "David and Goliath"
 				}
 			]
 		}
