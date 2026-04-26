@@ -1,5 +1,5 @@
 {
-	"last_updated": 1776953455,
+	"last_updated": 1777197003,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2445,6 +2445,55 @@
 				"overwatch_mystery_baptiste",
 				"overwatch_mystery_echo",
 				"overwatch_mystery_kiriko"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-26": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Bioshock: Welcome to Rapture",
+			"share_text": "Would you kindly?",
+			"shops": [
+				{
+					"p1": "combo_breaker",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "turbo_button",
+					"p2": "lucky_dice"
+				}
+			],
+			"showcase": [
+				"bioshock_jack",
+				"bioshock_andrew_ryan",
+				"bioshock_big_daddy"
+			],
+			"starters": [
+				"bioshock_jack",
+				"bioshock_andrew_ryan",
+				"bioshock_big_daddy",
+				"bioshock_little_sister",
+				"bioshock_rapture",
+				"bioshock_plasmids",
+				"bioshock_elizabeth",
+				"bioshock_columbia",
+				"bioshock_songbird",
+				"bioshock_adam",
+				"bioshock_frank_fontaine",
+				"bioshock_sander_cohen",
+				"bioshock_bridget_tenenbaum",
+				"bioshock_splicers",
+				"bioshock_vigors",
+				"bioshock_the_lutece_twins",
+				"bioshock_fort_frolic",
+				"bioshock_eve",
+				"bioshock_booker_dewitt",
+				"bioshock_zachary_hale_comstock"
 			],
 			"submitted_by": ""
 		}
