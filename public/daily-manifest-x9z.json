@@ -1,5 +1,5 @@
 {
-	"last_updated": 1777198439,
+	"last_updated": 1777200610,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2541,6 +2541,51 @@
 				"dragon_quest_11_heliodor"
 			],
 			"submitted_by": "Bradley"
+		},
+		"2026-04-28": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Half-Life 2: City 17",
+			"share_text": "Wake up Mr Freeman",
+			"shops": [
+				{
+					"p1": "quick_save",
+					"p2": "memory_card"
+				},
+				{
+					"p1": "piggy_bank",
+					"p2": "game_shark"
+				},
+				{
+					"p1": "second_chance",
+					"p2": "turbo_button"
+				}
+			],
+			"showcase": [
+				"half_life_2_gordon_freeman",
+				"half_life_2_alyx_vance",
+				"half_life_2_g-man"
+			],
+			"starters": [
+				"half_life_2_gordon_freeman",
+				"half_life_2_alyx_vance",
+				"half_life_2_g-man",
+				"half_life_2_crowbar",
+				"half_life_2_gravity_gun",
+				"half_life_2_hev_suit",
+				"half_life_2_headcrab",
+				"half_life_2_combine_soldier",
+				"half_life_2_city_17",
+				"half_life_2_the_citadel",
+				"half_life_2_strider",
+				"half_life_2_dr._wallace_breen",
+				"half_life_2_dog",
+				"half_life_2_vortigaunt",
+				"half_life_2_ravenholm",
+				"half_life_2_zombie"
+			],
+			"submitted_by": ""
 		}
 	}
 }
