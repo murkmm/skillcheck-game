@@ -1,5 +1,5 @@
 {
-	"last_updated": 1777197003,
+	"last_updated": 1777198439,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2496,6 +2496,51 @@
 				"bioshock_zachary_hale_comstock"
 			],
 			"submitted_by": ""
+		},
+		"2026-04-27": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Dragon Quest XI: Echoes of an Elusive Age",
+			"share_text": "",
+			"shops": [
+				{
+					"p1": "second_chance",
+					"p2": "piggy_bank"
+				},
+				{
+					"p1": "multitap",
+					"p2": "double_adapter"
+				},
+				{
+					"p1": "combo_breaker",
+					"p2": "game_shark"
+				}
+			],
+			"showcase": [
+				"dragon_quest_11_the_luminary",
+				"dragon_quest_11_erik",
+				"dragon_quest_11_veronica"
+			],
+			"starters": [
+				"dragon_quest_11_the_luminary",
+				"dragon_quest_11_erik",
+				"dragon_quest_11_veronica",
+				"dragon_quest_11_sylvando",
+				"dragon_quest_11_jade",
+				"dragon_quest_11_mordegon",
+				"dragon_quest_11_slime",
+				"dragon_quest_11_tockle",
+				"dragon_quest_11_cetacea",
+				"dragon_quest_11_yggdrasil",
+				"dragon_quest_11_sword_of_light",
+				"dragon_quest_11_mark_of_the_luminary",
+				"dragon_quest_11_pep_power",
+				"dragon_quest_11_fun-size_forge",
+				"dragon_quest_11_erdrea",
+				"dragon_quest_11_heliodor"
+			],
+			"submitted_by": "Bradley"
 		}
 	}
 }
