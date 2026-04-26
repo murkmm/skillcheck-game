@@ -157518,6 +157518,7 @@
 						"correct": "The Luminary",
 						"difficulty": "Easy",
 						"explanation": "The Luminary is the sacred title given to the hero chosen by Yggdrasil to be the world's shield against the Lord of Shadows.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The hero of this tale is known by what grand title, signifying his destiny to banish darkness?",
 						"wrong": [
@@ -157530,6 +157531,7 @@
 						"correct": "Sandy",
 						"difficulty": "Easy",
 						"explanation": "Sandy is the Luminary's faithful canine friend who sees him off at the start of his grand adventure.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the Luminary's loyal dog and childhood companion from the village of Cobblestone?",
 						"wrong": [
@@ -157542,6 +157544,7 @@
 						"correct": "Darkspawn",
 						"difficulty": "Easy",
 						"explanation": "Due to a twisted prophecy, King Carnelian of Heliodor brands the Luminary as the 'Darkspawn', the very thing he is destined to destroy.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The kingdom of Heliodor wrongfully accuses the Luminary of being the what, leading to his imprisonment?",
 						"wrong": [
@@ -157554,6 +157557,7 @@
 						"correct": "Gemma",
 						"difficulty": "Easy",
 						"explanation": "Gemma is the Luminary's closest friend from his hometown, holding a deep affection for him and awaiting his safe return.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the Luminary's childhood friend from Cobblestone, who gives him her mother's lucky charm?",
 						"wrong": [
@@ -157566,6 +157570,7 @@
 						"correct": "Mark of the Luminary",
 						"difficulty": "Easy",
 						"explanation": "This sacred mark is the proof of his lineage and the source of many of his unique powers, including the ability to see echoes of the past.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/mark_of_the_luminary.webp",
 						"question": "What distinct, glowing symbol appears on the back of the Luminary's left hand, marking him as the chosen one?",
 						"wrong": [
@@ -157578,6 +157583,7 @@
 						"correct": "Erdwin",
 						"difficulty": "Medium",
 						"explanation": "Erdwin was the original Luminary from the Age of Heroes, who fought alongside the sage Serenica and the warrior Drustan.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Luminary is the reincarnation of which ancient hero who originally defeated the dark one, Calasmos?",
 						"wrong": [
@@ -157590,6 +157596,7 @@
 						"correct": "Sword of Light",
 						"difficulty": "Medium",
 						"explanation": "The Sword of Light is the only weapon capable of harming the Lord of Shadows and is a key component in creating the even more powerful Supreme Sword of Light.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/sword_of_light.webp",
 						"question": "What is the name of the legendary blade the Luminary must forge to truly fulfill his destiny?",
 						"wrong": [
@@ -157602,6 +157609,7 @@
 						"correct": "King Irwin",
 						"difficulty": "Medium",
 						"explanation": "King Irwin of Dundrasil was a noble ruler who sacrificed himself to protect his infant son and wife during a monstrous invasion.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the Luminary's biological father, who was the king of the fallen kingdom of Dundrasil?",
 						"wrong": [
@@ -157614,6 +157622,7 @@
 						"correct": "Pep Powers",
 						"difficulty": "Medium",
 						"explanation": "When characters become 'Pepped Up', they can unleash spectacular and powerful Pep Powers, often turning the tide of a difficult battle.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Luminary and his party can perform powerful cooperative moves known by what name?",
 						"wrong": [
@@ -157626,6 +157635,7 @@
 						"correct": "A fish",
 						"difficulty": "Medium",
 						"explanation": "In a bizarre twist of fate, the hero of light is turned into a simple fish and is rescued by a kind fisherman in the seaside town of Lonalulu.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "After the fall of Yggdrasil, the Luminary is transformed into what kind of creature?",
 						"wrong": [
@@ -157638,6 +157648,7 @@
 						"correct": "Tickington",
 						"difficulty": "Hard",
 						"explanation": "Tickington is a 2D, retro-styled village inhabited by 'Tockles', beings who guard the lost memories of past worlds from other Dragon Quest titles.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the definitive edition of the game, players can visit past worlds via a special location. What is this place called?",
 						"wrong": [
@@ -157650,6 +157661,7 @@
 						"correct": "Queen Eleanor",
 						"difficulty": "Hard",
 						"explanation": "Queen Eleanor of Dundrasil, with her last breath, placed her infant son in a basket and sent him down a river, praying for his survival.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the Luminary's biological mother, who sacrificed herself at the World Tree to save him as a baby?",
 						"wrong": [
@@ -157659,21 +157671,10 @@
 						]
 					},
 					{
-						"correct": "The Rainbough",
-						"difficulty": "Hard",
-						"explanation": "The Rainbough is a legendary branch from Yggdrasil that, when held, creates a rainbow bridge leading to the sacred tree's aerial island.",
-						"image_url": "https://skillcheckgame.com/assets/images/rainbough.webp",
-						"question": "What magical orb, crucial for revealing the path to Yggdrasil, does the Luminary acquire from the Sultan of Gallopolis?",
-						"wrong": [
-							"The Sunstone",
-							"The Green Orb",
-							"The Sphere of Silence"
-						]
-					},
-					{
 						"correct": "The Circle of Time",
 						"difficulty": "Hard",
 						"explanation": "This incredibly powerful Pep Power allows the Luminary to shatter the Time-Sphere and alter a catastrophic event from the past, at a great personal cost.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The ultimate Pep Power used to travel back in time involves the Luminary, Veronica, and Serena. What is its name?",
 						"wrong": [
@@ -157686,6 +157687,7 @@
 						"correct": "The Seer",
 						"difficulty": "Hard",
 						"explanation": "The Seer is later revealed to be a magical projection of the Luminary's companion, Serena, sent to guide him after he was separated from the party.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the darkest timeline, who is the mysterious, hooded, and cloaked figure who guides the hero to his lost companions?",
 						"wrong": [
@@ -157722,6 +157724,7 @@
 						"correct": "Thief",
 						"difficulty": "Easy",
 						"explanation": "Erik is a master thief, specializing in daggers, boomerangs, and skills like 'Half-Inch' to steal items from enemies.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the primary class or archetype of this blue-haired rogue?",
 						"wrong": [
@@ -157734,6 +157737,7 @@
 						"correct": "Heliodor",
 						"difficulty": "Easy",
 						"explanation": "The duo first meets in the dungeons beneath Heliodor Castle, where they were both imprisoned by the tyrannical King Carnelian.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Erik joins the Luminary after they meet and escape from a dungeon in what kingdom?",
 						"wrong": [
@@ -157743,21 +157747,10 @@
 						]
 					},
 					{
-						"correct": "The Rainbough",
-						"difficulty": "Easy",
-						"explanation": "An oracle told Erik that he would find salvation by following the Luminary, who would lead him to the legendary Rainbough.",
-						"image_url": "https://skillcheckgame.com/assets/images/rainbough.webp",
-						"question": "Erik is on a quest to find a specific legendary artifact. What is this colorful item called?",
-						"wrong": [
-							"The Sunstone",
-							"The Sphere of Light",
-							"The Sage's Stone"
-						]
-					},
-					{
 						"correct": "Boomerangs",
 						"difficulty": "Easy",
 						"explanation": "Erik is one of the few party members who can effectively wield boomerangs, making him excellent at clearing out groups of weaker monsters.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What weapon type, besides daggers, is Erik famously proficient with, capable of hitting all enemies at once?",
 						"wrong": [
@@ -157770,6 +157763,7 @@
 						"correct": "Gold",
 						"difficulty": "Easy",
 						"explanation": "His sister, Mia, accidentally touched a cursed golden relic, turning her entire body into solid gold. Erik seeks to undo this curse.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/gold_nuglet.webp",
 						"question": "Erik's quest is motivated by a desire to save his younger sister, who was cursed and turned into what?",
 						"wrong": [
@@ -157782,6 +157776,7 @@
 						"correct": "Mia",
 						"difficulty": "Medium",
 						"explanation": "Mia and Erik were orphans who survived by stealing, until their bond was tragically broken by the curse of a golden relic.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of Erik's younger sister?",
 						"wrong": [
@@ -157794,6 +157789,7 @@
 						"correct": "Sniflheim",
 						"difficulty": "Medium",
 						"explanation": "Erik is a former prince of Sniflheim, though he abandoned his royal life after the tragic incident involving his sister.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In his backstory, Erik and Mia are from what harsh, frozen kingdom in the north?",
 						"wrong": [
@@ -157806,6 +157802,7 @@
 						"correct": "Half-Inch",
 						"difficulty": "Medium",
 						"explanation": "Half-Inch is a classic Dragon Quest thief ability, and Erik is a master of it, often nabbing rare materials for crafting.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of Erik's signature ability, which allows him to steal items from monsters in battle?",
 						"wrong": [
@@ -157818,6 +157815,7 @@
 						"correct": "Divide",
 						"difficulty": "Medium",
 						"explanation": "When Pepped Up, Erik can use 'Divide' to create illusory copies, allowing him to deal massive damage in a single turn with multi-hit attacks.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Erik has a powerful Pep Power that creates multiple copies of himself to attack, which shares its name with a famous spell. What is it?",
 						"wrong": [
@@ -157827,21 +157825,10 @@
 						]
 					},
 					{
-						"correct": "A golden golem",
-						"difficulty": "Medium",
-						"explanation": "The party had to defeat a fearsome golden golem named Gyrfalcon to obtain the Midas Touch Tincture needed to save Mia.",
-						"image_url": "",
-						"question": "What type of enemy, encountered in the golden city of Midas, held the key to breaking Mia's curse?",
-						"wrong": [
-							"A gilded griffin",
-							"A treasure troll",
-							"A king metal slime"
-						]
-					},
-					{
 						"correct": "Jarvis",
 						"difficulty": "Hard",
 						"explanation": "Jarvis is the corrupted royal chancellor of Sniflheim who guards the very chalice that cursed Mia in the first place.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Norse-inspired boss who guards the cursed golden relic is named what?",
 						"wrong": [
@@ -157854,6 +157841,7 @@
 						"correct": "Critical Claim",
 						"difficulty": "Hard",
 						"explanation": "Critical Claim is one of the most powerful abilities in the game, allowing Erik to instantly defeat metal slimes or inflict huge damage on bosses.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the post-game, Erik can learn a devastating skill that guarantees a critical hit. What is this deadly technique called?",
 						"wrong": [
@@ -157866,36 +157854,13 @@
 						"correct": "Hunter's Moon",
 						"difficulty": "Hard",
 						"explanation": "The Hunter's Moon is a top-tier boomerang that can only be crafted using a recipe from the Luminary's trial in Drustan's Labyrinth.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/hunters_moon.webp",
 						"question": "What is the name of the ultimate, forgable boomerang Erik can obtain in the post-game, said to be a gift from the heavens?",
 						"wrong": [
 							"Galaxarang",
 							"Stardust Slicer",
 							"Comet-Chaser"
-						]
-					},
-					{
-						"correct": "Gyrfalcon",
-						"difficulty": "Hard",
-						"explanation": "Erik befriended the golden golem Gyrfalcon in the desert, but was forced to part with him. He later fights a different, hostile golem of the same name.",
-						"image_url": "",
-						"question": "Before he met the Luminary, Erik was traveling with a golden golem he named after a bird of prey. What was its name?",
-						"wrong": [
-							"Kestrel",
-							"Osprey",
-							"Peregrine"
-						]
-					},
-					{
-						"correct": "Pirate King",
-						"difficulty": "Hard",
-						"explanation": "The Pirate King's Kit is a reward for completing a difficult sidequest in the post-game, giving Erik a look befitting a true scourge of the seas.",
-						"image_url": "",
-						"question": "Erik's unique post-game outfit, which changes his appearance to that of a norse raider, is called the '____'s Kit'.",
-						"wrong": [
-							"Viking Lord",
-							"Sea Rover",
-							"Marauder"
 						]
 					}
 				]
@@ -157926,6 +157891,7 @@
 						"correct": "Child",
 						"difficulty": "Easy",
 						"explanation": "Mordegon drained her magical energy, causing her to revert to a child's form. Her spunky, often abrasive personality remains fully adult, however.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Due to a curse, this powerful mage appears as a what?",
 						"wrong": [
@@ -157938,6 +157904,7 @@
 						"correct": "Offensive magic",
 						"difficulty": "Easy",
 						"explanation": "Veronica is the party's primary damage-dealing spellcaster, unleashing powerful spells from the Frizz, Crack, and Bang families.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Veronica is a master of what kind of magic?",
 						"wrong": [
@@ -157950,6 +157917,7 @@
 						"correct": "Serena",
 						"difficulty": "Easy",
 						"explanation": "Serena is a talented healer, and her calm demeanor provides a perfect contrast to Veronica's fiery and impatient nature.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of Veronica's gentle, harp-playing twin sister?",
 						"wrong": [
@@ -157962,6 +157930,7 @@
 						"correct": "Sage",
 						"difficulty": "Easy",
 						"explanation": "They hail from a long line of Sages tasked with aiding the Luminary. Their journey is to fulfill the destiny of their ancestor, Serenica.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The twin sisters are sworn to protect the Luminary, fulfilling their duty as companions to the what?",
 						"wrong": [
@@ -157974,6 +157943,7 @@
 						"correct": "Heavy Wands",
 						"difficulty": "Easy",
 						"explanation": "Despite her small size, Veronica is the only party member who can wield two-handed Heavy Wands, which greatly boost her magical power.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/heavy_wand.webp",
 						"question": "What is the signature weapon type for this small but mighty spellcaster?",
 						"wrong": [
@@ -157986,6 +157956,7 @@
 						"correct": "Arboria",
 						"difficulty": "Medium",
 						"explanation": "Arboria is the hidden sanctuary of the Sages, located in a remote forest and protected by the Elder.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the sacred, secluded village where Veronica and her sister were raised?",
 						"wrong": [
@@ -157998,6 +157969,7 @@
 						"correct": "Attack power",
 						"difficulty": "Medium",
 						"explanation": "The 'Oomph' spell is a staple in the series, significantly boosting a character's physical attack damage for several turns.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Veronica can use the 'Oomph' spell on an ally to greatly increase what attribute?",
 						"wrong": [
@@ -158010,6 +157982,7 @@
 						"correct": "Serenica",
 						"difficulty": "Medium",
 						"explanation": "Serenica was the powerful Sage who fought alongside the original Luminary, Erdwin, during the first battle against Calasmos.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the ancient Sage from whom Veronica and Serena are descended?",
 						"wrong": [
@@ -158019,21 +157992,10 @@
 						]
 					},
 					{
-						"correct": "Darling",
-						"difficulty": "Medium",
-						"explanation": "Despite looking like a child, Veronica treats the Luminary like one, often calling him 'darling' in a patronizing but well-meaning way.",
-						"image_url": "",
-						"question": "Veronica often refers to the Luminary with a slightly demeaning, but affectionate, nickname. What is it?",
-						"wrong": [
-							"Twerp",
-							"Kiddo",
-							"Slowpoke"
-						]
-					},
-					{
 						"correct": "Magic Burst",
 						"difficulty": "Medium",
 						"explanation": "Magic Burst expends all of the caster's MP to create a massive explosion. Veronica uses her own life force to power the spell and shield her friends.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "To save the party from a devastating explosion at the World Tree, Veronica makes the ultimate sacrifice by using what powerful, forbidden spell?",
 						"wrong": [
@@ -158046,6 +158008,7 @@
 						"correct": "Serena",
 						"difficulty": "Hard",
 						"explanation": "Grief-stricken, Serena cuts her hair and absorbs her sister's power, gaining access to Veronica's offensive spells and the ability to wield heavy wands.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "After Veronica's sacrifice, her magical power and abilities are transferred to whom?",
 						"wrong": [
@@ -158055,9 +158018,10 @@
 						]
 					},
 					{
-						"correct": "Kaboomle",
+						"correct": "Magic Burst",
 						"difficulty": "Hard",
 						"explanation": "Kaboomle is the ultimate explosive spell, and Veronica can only learn it by finding a hidden book of lore in the post-game.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the powerful, secret spell Veronica can learn from the ghost of a past sage, which unleashes a flurry of meteors?",
 						"wrong": [
@@ -158067,21 +158031,10 @@
 						]
 					},
 					{
-						"correct": "Crown of Dundrasil",
-						"difficulty": "Hard",
-						"explanation": "After visiting the ruins of Dundrasil, the party finds the crown in a treasure chest. Due to her small size, it fits Veronica perfectly.",
-						"image_url": "https://skillcheckgame.com/assets/images/crown_of_dundrasil.webp",
-						"question": "Veronica wears a unique piece of headgear passed down through the Dundrasil royal family. What is it?",
-						"wrong": [
-							"Tiara of Arboria",
-							"Serenica's Circlet",
-							"Headdress of the Sage"
-						]
-					},
-					{
 						"correct": "A jester",
 						"difficulty": "Hard",
 						"explanation": "The Stellar Suit and Stellar Satin are part of a jester-themed outfit that provides excellent magical bonuses, reflecting her playful yet powerful nature.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The 'Stellar Set' is a powerful post-game costume for Veronica. What type of performer does it make her resemble?",
 						"wrong": [
@@ -158094,6 +158047,7 @@
 						"correct": "Elemental Overdrive",
 						"difficulty": "Hard",
 						"explanation": "Elemental Overdrive makes the entire party immune to fire, ice, wind, lightning, and earth damage for several turns, a lifesaver against certain bosses.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In a special Pep Power with Serena, the sisters can temporarily nullify all elemental damage. What is this power called?",
 						"wrong": [
@@ -158130,6 +158084,7 @@
 						"correct": "Entertainer",
 						"difficulty": "Easy",
 						"explanation": "Sylvando is a world-renowned entertainer, a master of acrobatics, comedy, and showmanship, dedicated to spreading joy.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is Sylvando's primary profession and passion in life?",
 						"wrong": [
@@ -158142,6 +158097,7 @@
 						"correct": "Margarita",
 						"difficulty": "Easy",
 						"explanation": "Margarita is Sylvando's trusted steed, always ready for a dramatic entrance or a quick getaway.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of Sylvando's fabulous and equally charismatic horse?",
 						"wrong": [
@@ -158154,6 +158110,7 @@
 						"correct": "Whips",
 						"difficulty": "Easy",
 						"explanation": "Whips are one of Sylvando's signature weapons, allowing him to strike entire groups of enemies with a single, stylish crack.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Sylvando uses his acrobatic skills to expertly wield what long, flexible weapon?",
 						"wrong": [
@@ -158166,6 +158123,7 @@
 						"correct": "A smile",
 						"difficulty": "Easy",
 						"explanation": "His philosophy is that a smile can brighten the darkest day, a belief he puts into practice by organizing parades and performances for troubled towns.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "This performer believes in the power of what to overcome any hardship?",
 						"wrong": [
@@ -158178,6 +158136,7 @@
 						"correct": "Swords",
 						"difficulty": "Easy",
 						"explanation": "His proficiency with swords is a clue to his formal training as a knight before he chose the life of a travelling performer.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/sword.webp",
 						"question": "Besides whips and daggers, Sylvando is surprisingly skilled with what knightly weapon, hinting at his past?",
 						"wrong": [
@@ -158190,6 +158149,7 @@
 						"correct": "Don Rodrigo",
 						"difficulty": "Medium",
 						"explanation": "Don Rodrigo is a celebrated knight who initially disowned his son for abandoning the path of chivalry for show business.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Sylvando is the son of what famous and disapproving knight from Puerto Valor?",
 						"wrong": [
@@ -158199,11 +158159,12 @@
 						]
 					},
 					{
-						"correct": "The Cirque de l'Amour",
+						"correct": "Soldiers of Smile",
 						"difficulty": "Medium",
 						"explanation": "The Cirque de l'Amour is Sylvando's mobile troupe of performers, acrobats, and reformed monsters, dedicated to putting on shows for those in need.",
+						"fact_checked": true,
 						"image_url": "",
-						"question": "What does Sylvando name the grand parade and circus troupe he forms to bring joy to the world?",
+						"question": "What does Sylvando name the circus troupe he forms to bring joy to the world?",
 						"wrong": [
 							"The Smile Brigade",
 							"The Jester's Jamboree",
@@ -158214,6 +158175,7 @@
 						"correct": "The Slayer of the Sands",
 						"difficulty": "Medium",
 						"explanation": "The Slayer of the Sands is a giant scorpion-like monster that Sylvando and the Luminary must defeat to restore Prince Faris's reputation.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the city of Gallopolis, Sylvando helps a prince overcome his fear by fighting what fearsome beast in the royal tournament?",
 						"wrong": [
@@ -158223,9 +158185,10 @@
 						]
 					},
 					{
-						"correct": "The Salittante",
+						"correct": "The Salty Stallion",
 						"difficulty": "Medium",
 						"explanation": "Sylvando procures the state-of-the-art vessel, The Salittante, though he personally and affectionately refers to it as 'The Salty Stallion'.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/the_salittante.webp",
 						"question": "What is the name of the ship Sylvando acquires for the party, which becomes their main mode of sea travel?",
 						"wrong": [
@@ -158238,6 +158201,7 @@
 						"correct": "Knight",
 						"difficulty": "Medium",
 						"explanation": "The Chivalry skill tree allows Sylvando to protect his allies with abilities like 'Defend Party', showcasing the knightly values he never truly abandoned.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Sylvando's unique 'Chivalry' skill tree is a reflection of his training as a what?",
 						"wrong": [
@@ -158250,6 +158214,7 @@
 						"correct": "Norberto",
 						"difficulty": "Hard",
 						"explanation": "His father, Don Rodrigo, still calls him Norberto, a name Sylvando feels doesn't fit his dazzling personality as an entertainer.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is Sylvando's real name, which he abandoned in favor of his stage name?",
 						"wrong": [
@@ -158262,6 +158227,7 @@
 						"correct": "A whip",
 						"difficulty": "Hard",
 						"explanation": "This flamboyant move involves Sylvando striking a dramatic pose before unleashing a flurry of devastating whip cracks on his foes.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Sylvando's ultimate offensive skill, 'That's Amore,' hits random enemies multiple times with what weapon?",
 						"wrong": [
@@ -158274,6 +158240,7 @@
 						"correct": "The Smile-Bringer's Spectacular",
 						"difficulty": "Hard",
 						"explanation": "This parade is a key moment for Sylvando's character, as he uses his talents as an entertainer to directly help a city in despair.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the grand parade Sylvando organizes in Gallopolis to boost the citizens' morale?",
 						"wrong": [
@@ -158286,6 +158253,7 @@
 						"correct": "The Showman",
 						"difficulty": "Hard",
 						"explanation": "The Showman is a visually spectacular attack where the duo performs an acrobatic routine before striking a final, damaging pose.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Sylvando shares a powerful, show-stopping Pep Power with the Luminary that deals massive damage and is called what?",
 						"wrong": [
@@ -158298,6 +158266,7 @@
 						"correct": "Dashing Dandy",
 						"difficulty": "Hard",
 						"explanation": "The Dashing Dandy set, consisting of a waistcoat and top hat, gives Sylvando the appearance of a true master of ceremonies and a leader of men.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/dashing_dandy.webp",
 						"question": "The post-game outfit set that bestows upon Sylvando a kingly, charismatic aura is called the '____' Set.",
 						"wrong": [
@@ -158334,6 +158303,7 @@
 						"correct": "Heliodor",
 						"difficulty": "Easy",
 						"explanation": "Jade is the daughter of King Carnelian of Heliodor, making her the rightful heir to the throne of the world's most powerful kingdom.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Jade is the princess of which major kingdom in Erdrea?",
 						"wrong": [
@@ -158343,21 +158313,10 @@
 						]
 					},
 					{
-						"correct": "Rab",
-						"difficulty": "Easy",
-						"explanation": "Rab, the former king of Dundrasil, is both the Luminary's grandfather and Jade's, having raised her after their kingdom fell.",
-						"image_url": "",
-						"question": "Who is Jade's elderly but surprisingly spry companion, who also happens to be her grandfather?",
-						"wrong": [
-							"Hendrik",
-							"Sylvando",
-							"Don Rodrigo"
-						]
-					},
-					{
 						"correct": "Spears and Claws",
 						"difficulty": "Easy",
 						"explanation": "Jade's immense physical prowess is channeled through lightning-fast strikes with claws or far-reaching lunges with spears.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/jade.webp",
 						"question": "This martial artist is known for her powerful kicks. What weapon types does she primarily specialize in?",
 						"wrong": [
@@ -158370,6 +158329,7 @@
 						"correct": "The Masked Martial Arts Tournament",
 						"difficulty": "Easy",
 						"explanation": "Held in Octagonia, the tournament pits the world's greatest fighters against each other, a perfect stage for Jade to test her skills.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the martial arts tournament Jade enters in disguise?",
 						"wrong": [
@@ -158382,6 +158342,7 @@
 						"correct": "Puff-Puff",
 						"difficulty": "Easy",
 						"explanation": "Puff-Puff is a classic and slightly silly ability from the Dragon Quest series, and Jade carries on the tradition with flair.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of Jade's alluring ability, which has a chance to mesmerize a group of enemies?",
 						"wrong": [
@@ -158391,9 +158352,10 @@
 						]
 					},
 					{
-						"correct": "The Jade Mean",
+						"correct": "Jinxed Jade",
 						"difficulty": "Medium",
 						"explanation": "Booga corrupts Jade's mind, turning her into his personal champion, 'The Jade Mean,' a formidable and tragic boss fight.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Under the influence of the villain Booga, Jade is transformed into a brainwashed, powered-up version of herself known as what?",
 						"wrong": [
@@ -158406,6 +158368,7 @@
 						"correct": "Grand Master Pang",
 						"difficulty": "Medium",
 						"explanation": "Grand Master Pang, the leader of the monks at Angri-La, puts Jade through rigorous trials to unlock her ultimate potential.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In Act 3, Jade undergoes intense training to overcome her trauma. Who is her legendary martial arts master at Angri-La?",
 						"wrong": [
@@ -158418,6 +158381,7 @@
 						"correct": "Wild Side",
 						"difficulty": "Medium",
 						"explanation": "The 'Wild Side' Pep Power transforms the royal pair into fearsome beasts, showcasing the hidden power passed down in their family line.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of Jade's Pep Power with Rab where they both tap into a feral state, greatly increasing their power and speed?",
 						"wrong": [
@@ -158427,21 +158391,10 @@
 						]
 					},
 					{
-						"correct": "Hendrik",
-						"difficulty": "Medium",
-						"explanation": "Hendrik, the loyal general of Heliodor, also enters the tournament in disguise to investigate the monsters participating.",
-						"image_url": "https://skillcheckgame.com/assets/images/jade.webp",
-						"question": "During the Masked Martial Arts Tournament, Jade's final opponent before the Luminary is a familiar face. Who is it?",
-						"wrong": [
-							"Vince",
-							"Jasper",
-							"King Carnelian"
-						]
-					},
-					{
 						"correct": "Re-Vamp",
 						"difficulty": "Medium",
 						"explanation": "Re-Vamp is a powerful claw ability that combines high damage with self-healing, making Jade an even more formidable duelist.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "After her training in Angri-La is complete, Jade learns a powerful new ability that drains HP from an enemy while damaging them. What is this skill called?",
 						"wrong": [
@@ -158454,6 +158407,7 @@
 						"correct": "A pendant",
 						"difficulty": "Hard",
 						"explanation": "This pendant, a keepsake from their shared childhood in Dundrasil, is a key symbol of their deep, lifelong bond.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "When Jade and the Luminary were children, she gave him a special item to remember her by before they were separated. What was it?",
 						"wrong": [
@@ -158463,9 +158417,10 @@
 						]
 					},
 					{
-						"correct": "The Spectral Sentinel's Lair",
+						"correct": "Octagonia",
 						"difficulty": "Hard",
 						"explanation": "This nightmarish prison, also known as Booga's Bedchamber, is where the fiend keeps his brainwashed 'playthings'.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In her solo story segment in Act 2, Jade must escape from Booga's prison. What is the name of this dungeon?",
 						"wrong": [
@@ -158478,6 +158433,7 @@
 						"correct": "Xenlon Claws",
 						"difficulty": "Hard",
 						"explanation": "The Xenlon Claws are legendary weapons named after the draconic guardian of the martial arts, obtainable only in the late game.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/jade.webp",
 						"question": "What is the name of the ultimate, top-tier claw weapon Jade can equip, often considered her best?",
 						"wrong": [
@@ -158490,6 +158446,7 @@
 						"correct": "Booga",
 						"difficulty": "Hard",
 						"explanation": "To truly overcome her past, Jade must face the spectral remnant of Booga, the demon who caused her so much suffering in Octagonia.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In Drustan's Labyrinth, one of the trials requires the party to fight a spectral version of a past foe. Jade's trial pits her against which boss?",
 						"wrong": [
@@ -158502,6 +158459,7 @@
 						"correct": "Go-Go Dancers",
 						"difficulty": "Hard",
 						"explanation": "This Pep Power has the three women perform a distracting dance that puts enemies to sleep and can sometimes make them lose a turn.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The 'Femme Fatale' Pep Power involves Jade, Martina, and Rab performing a powerful attack. Wait, that's not right. The Pep Power with Serena and Veronica is what?",
 						"wrong": [
@@ -158538,6 +158496,7 @@
 						"correct": "Shadows",
 						"difficulty": "Easy",
 						"explanation": "As the Lord of Shadows, Mordegon commands the forces of darkness and seeks to extinguish the light from the world of Erdrea.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Mordegon is known by the ominous title, 'The Lord of...' what?",
 						"wrong": [
@@ -158550,6 +158509,7 @@
 						"correct": "Yggdrasil",
 						"difficulty": "Easy",
 						"explanation": "By corrupting Yggdrasil, the heart of the world, Mordegon is able to spread his darkness across the entire land.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What sacred, life-giving tree does Mordegon corrupt and turn into a dark, withered husk?",
 						"wrong": [
@@ -158562,6 +158522,7 @@
 						"correct": "The Fortress of Fear",
 						"difficulty": "Easy",
 						"explanation": "The Fortress of Fear is the final dungeon of Act 2, a terrifying labyrinth floating above the corrupted world where the Lord of Shadows resides.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/mordegon.webp",
 						"question": "What is the name of the massive, menacing floating castle that serves as Mordegon's base of operations in Act 2?",
 						"wrong": [
@@ -158574,6 +158535,7 @@
 						"correct": "The Sword of Light",
 						"difficulty": "Easy",
 						"explanation": "The Sword of Light is the only weapon capable of harming the Lord of Shadows, which is why he prioritizes taking it from the Luminary.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Mordegon steals the Luminary's sacred weapon at Yggdrasil. What is this weapon called?",
 						"wrong": [
@@ -158586,6 +158548,7 @@
 						"correct": "Jasper",
 						"difficulty": "Easy",
 						"explanation": "Jasper's jealousy and ambition led him to betray his kingdom and align himself with Mordegon, becoming his most powerful general.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Who is Mordegon's primary subordinate, the treacherous knight of Heliodor who helps him come to power?",
 						"wrong": [
@@ -158598,6 +158561,7 @@
 						"correct": "Morcant",
 						"difficulty": "Medium",
 						"explanation": "Morcant the Magnificent was a respected member of Erdwin's party until he was tempted by the power of the dark one, Calasmos.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Mordegon was not always a demon lord. In the age of heroes, he was a powerful mage who fought alongside Erdwin. What was his original name?",
 						"wrong": [
@@ -158610,6 +158574,7 @@
 						"correct": "The Sword of Shadows",
 						"difficulty": "Medium",
 						"explanation": "The Sword of Shadows is a twisted mockery of the Luminary's sacred blade, imbued with the dark power of its new master.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "After stealing the Sword of Light, Mordegon forges his own dark version of the blade. What is this corrupted weapon named?",
 						"wrong": [
@@ -158622,6 +158587,7 @@
 						"correct": "The Spectral Sentinels",
 						"difficulty": "Medium",
 						"explanation": "Each of the six Spectral Sentinels embodies a different aspect of Mordegon's evil and rules over a region of the darkened world.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "To rule the world, Mordegon splits his power among his generals, a group of six powerful monsters. What are they collectively known as?",
 						"wrong": [
@@ -158634,6 +158600,7 @@
 						"correct": "Erdwin",
 						"difficulty": "Medium",
 						"explanation": "Blinded by a lust for power, Morcant struck down his friend Erdwin moments after their victory over Calasmos, seizing the dark one's power for himself.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which heroic companion of the original Luminary, Erdwin, did Morcant betray and murder out of jealousy?",
 						"wrong": [
@@ -158646,6 +158613,7 @@
 						"correct": "Mordragon",
 						"difficulty": "Medium",
 						"explanation": "For the final phase of the fight, Mordegon transforms into the massive, terrifying Mordragon, unleashing his full, unbridled power.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/mordegon.webp",
 						"question": "During the final battle in the Fortress of Fear, Mordegon reveals his true, monstrous form by merging with his scepter. What is this dragon-like creature called?",
 						"wrong": [
@@ -158658,6 +158626,7 @@
 						"correct": "King Carnelian",
 						"difficulty": "Hard",
 						"explanation": "Mordegon possessed King Carnelian of Heliodor, turning the Luminary's own kingdom against him from the very start of his journey.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Mordegon comes to power by possessing the body of a prominent world leader. Who is his unfortunate host?",
 						"wrong": [
@@ -158670,6 +158639,7 @@
 						"correct": "Tyriant",
 						"difficulty": "Hard",
 						"explanation": "Tyriant, the Lord of the Lair, is the malevolent force that destroyed the kingdom of Zwaardsrust and trapped its rulers in a ghostly loop.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of the Spectral Sentinels, a skeletal warrior, is responsible for the fall of Zwaardsrust and the curse upon its king?",
 						"wrong": [
@@ -158679,21 +158649,10 @@
 						]
 					},
 					{
-						"correct": "The Scepter of Darkness",
-						"difficulty": "Hard",
-						"explanation": "This scepter, containing a fragment of Mordegon's power, allows Jasper to command immense dark magic and control the golden golem Avarith.",
-						"image_url": "",
-						"question": "What item does Jasper use to control the giant ancient automaton, a gift from his dark master?",
-						"wrong": [
-							"The Orb of Power",
-							"The Rod of Ruin",
-							"The Shadow Staff"
-						]
-					},
-					{
 						"correct": "Erdwin",
 						"difficulty": "Hard",
 						"explanation": "Morcant's jealousy over Serenica's love for Erdwin was one of the key factors that drove him to his ultimate betrayal.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/mordegon.webp",
 						"question": "In his past life as Morcant, who was his romantic rival for the affection of the sage Serenica?",
 						"wrong": [
@@ -158706,6 +158665,7 @@
 						"correct": "Dora-in-Gray",
 						"difficulty": "Hard",
 						"explanation": "Dora-in-Gray is a sinister artist who traps her victims within her magical paintings, forcing them to relive tragic memories for eternity.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which Spectral Sentinel, a painter who traps people in her art, terrorizes the town of Phnom Nonh?",
 						"wrong": [
@@ -158742,6 +158702,7 @@
 						"correct": "Blue",
 						"difficulty": "Easy",
 						"explanation": "The classic blue, teardrop-shaped Slime with its wide, cheerful grin is one of the most recognizable figures in video game history.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/slime.webp",
 						"question": "What is the most common and iconic color of this goopy monster?",
 						"wrong": [
@@ -158754,6 +158715,7 @@
 						"correct": "Slime Stack",
 						"difficulty": "Easy",
 						"explanation": "The Slime Stack, also known as a Slime-in-a-Line, is a classic monster formation where three slimes team up for a wobbly assault.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "A stack of three of these creatures, one on top of the other, is known as what kind of monster?",
 						"wrong": [
@@ -158766,6 +158728,7 @@
 						"correct": "Metal Slime",
 						"difficulty": "Easy",
 						"explanation": "Spotting a Metal Slime is always exciting for adventurers, as defeating one before it runs away provides a massive boost in experience.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/slime.webp",
 						"question": "What is the name of the rare, silver-colored variant of this monster that gives a huge amount of experience points but often flees from battle?",
 						"wrong": [
@@ -158778,6 +158741,7 @@
 						"correct": "King Slime",
 						"difficulty": "Easy",
 						"explanation": "A King Slime is formed when eight slimes fuse together. It's much tougher than its individual parts and can sometimes call for even more slime backup!",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "When several of these monsters gather and merge, they form a much larger, crowned version. What is this royal monster called?",
 						"wrong": [
@@ -158790,6 +158754,7 @@
 						"correct": "Frizz",
 						"difficulty": "Easy",
 						"explanation": "Frizz is the most basic fire spell, and while it's not very threatening from a common Slime, it's their go-to magical attack.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the typical starting spell that Slimes often try to cast, though it usually fails or does minimal fire damage?",
 						"wrong": [
@@ -158802,6 +158767,7 @@
 						"correct": "Slime Slots",
 						"difficulty": "Medium",
 						"explanation": "Slime Slots are a popular attraction in the casinos of Octagonia and Puerto Valor, featuring classic Slime monsters on the reels.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the casino, you can play a slot machine themed entirely around this monster. What is this game called?",
 						"wrong": [
@@ -158814,6 +158780,7 @@
 						"correct": "Slimon",
 						"difficulty": "Medium",
 						"explanation": "Slimon is a friendly Slime who, with the help of a magic potion, gets to experience life as a human, albeit with some goopy side effects.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the town of Phnom Nonh, a sidequest involves a special Slime who dreams of becoming human. What is this aspiring person's name?",
 						"wrong": [
@@ -158823,21 +158790,10 @@
 						]
 					},
 					{
-						"correct": "Slime Crown",
-						"difficulty": "Medium",
-						"explanation": "A Slime Crown is a key ingredient for forging some of the best equipment in the game, making it a highly sought-after drop.",
-						"image_url": "https://skillcheckgame.com/assets/images/slime.webp",
-						"question": "The extremely rare and powerful Liquid Metal Slime can sometimes drop an item needed for crafting kingly equipment. What is this valuable item?",
-						"wrong": [
-							"Metal Slime Sollerets",
-							"Molten Globules",
-							"Orichalcum"
-						]
-					},
-					{
 						"correct": "Thwack",
 						"difficulty": "Medium",
 						"explanation": "Hearing a King Slime cast Thwack is a terrifying moment, as it can potentially end a battle in a single, unlucky turn.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which powerful spell, often used by King Slimes, has a chance to instantly defeat the entire party?",
 						"wrong": [
@@ -158847,21 +158803,10 @@
 						]
 					},
 					{
-						"correct": "Hallelujah",
-						"difficulty": "Medium",
-						"explanation": "Using Hallelujah is a popular strategy for leveling up quickly, as it guarantees an encounter with Metal Slimes and increases post-battle rewards.",
-						"image_url": "",
-						"question": "One of the Luminary's Pep Powers with Erik and Sylvando summons a horde of metal monsters to the battlefield for easy experience farming. What is it called?",
-						"wrong": [
-							"Metal Medley",
-							"Jackpot",
-							"Gold Rush"
-						]
-					},
-					{
 						"correct": "The Royal Jelly",
 						"difficulty": "Hard",
 						"explanation": "The Royal Jelly is a massive, green King Slime that has been greedily devouring all the special Glimmergrass in the Gallopolis region.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the 'A Right Royal Mess' sidequest, the party must defeat a giant, gluttonous, and uniquely colored King Slime boss. What is its name?",
 						"wrong": [
@@ -158874,6 +158819,7 @@
 						"correct": "Indignus",
 						"difficulty": "Hard",
 						"explanation": "Indignus is a hulking, gilded monster with a massive sword, created by Mordegon to serve as the impenetrable guard of his stolen castle.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which of the six Spectral Sentinels is a massive, golden Slime-like monster that blocks the way to Heliodor Castle in Act 2?",
 						"wrong": [
@@ -158886,6 +158832,7 @@
 						"correct": "Smiley",
 						"difficulty": "Hard",
 						"explanation": "The Slime Knight is a classic monster duo, and monster list descriptions reveal the little slime steed is affectionately named Smiley.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The 'Slime Knight' monster famously rides a green-colored Slime as a mount. According to monster lore, what is the Slime's name?",
 						"wrong": [
@@ -158898,6 +158845,7 @@
 						"correct": "Jumping to high ledges",
 						"difficulty": "Hard",
 						"explanation": "By hopping on a defeated Slime Knight's mount, the Luminary can use its powerful jumping ability to reach previously inaccessible treasure chests and areas.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "A type of Slime can be used as a ridable mount. What unique ability does riding this monster grant the player?",
 						"wrong": [
@@ -158910,6 +158858,7 @@
 						"correct": "Pot-Sticker",
 						"difficulty": "Hard",
 						"explanation": "The 'Pot-Sticker' is one of the more cleverly hidden crossbow targets, found wobbling precariously near the entrance to the Sultry Sands.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the Gallopolis region, one of the Crossbow Kid targets is a Slime Stack with a pot on its head. What is this target officially called?",
 						"wrong": [
@@ -158946,6 +158895,7 @@
 						"correct": "The Luminary",
 						"difficulty": "Easy",
 						"explanation": "Due to his unique connection to the flow of time and destiny, only the Luminary is able to perceive the ghost-like Tockles.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "These time-traveling sprites are invisible to everyone except for one person. Who can see them?",
 						"wrong": [
@@ -158958,6 +158908,7 @@
 						"correct": "Tickington",
 						"difficulty": "Easy",
 						"explanation": "Tickington serves as the hub for the Tockles' adventures, where the Luminary can access the memories of past worlds.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/tockle.webp",
 						"question": "What is the name of the secret, clock-themed village where these creatures live, located outside of normal time and space?",
 						"wrong": [
@@ -158970,6 +158921,7 @@
 						"correct": "Pastwords",
 						"difficulty": "Easy",
 						"explanation": "Each Pastword is a key to a specific historical event, allowing the Luminary to travel into a 'tome' and correct a piece of altered history.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Tockles need the Luminary to find codes hidden throughout the world to repair their sacred books. What are these codes called?",
 						"wrong": [
@@ -158982,6 +158934,7 @@
 						"correct": "Tomes",
 						"difficulty": "Easy",
 						"explanation": "Each tome in the Tickington library represents a different world from a past age, visually depicted in a charming 2D-pixel art style.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The sacred books that allow the Luminary to travel to past worlds are referred to by the Tockles as what?",
 						"wrong": [
@@ -158994,6 +158947,7 @@
 						"correct": "White",
 						"difficulty": "Easy",
 						"explanation": "White Tockles are scattered all over the world, each one holding a Pastword that unlocks a new adventure in Tickington.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the most common color of Tockle found wandering the world of Erdrea?",
 						"wrong": [
@@ -159006,6 +158960,7 @@
 						"correct": "The Timekeeper",
 						"difficulty": "Medium",
 						"explanation": "The Timekeeper is the guardian of the tomes and guides the Luminary on his quest to restore the lost pages of history.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Who is the wise and ancient leader of the Tockles in Tickington?",
 						"wrong": [
@@ -159018,6 +158973,7 @@
 						"correct": "The Timewyrm",
 						"difficulty": "Medium",
 						"explanation": "The Timewyrm is a powerful and destructive being that seeks to consume all of history, serving as the final boss of the Tickington storyline.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/tockle.webp",
 						"question": "In the post-game, Tickington is attacked by a malevolent entity that scatters the tomes. What is this creature called?",
 						"wrong": [
@@ -159030,6 +158986,7 @@
 						"correct": "Yellow",
 						"difficulty": "Medium",
 						"explanation": "Spotting a Yellow Tockle inside a past world means there's a special task to complete, which usually involves helping a character from that world.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Inside the tomes of past worlds, you can find different colored Tockles who give you sidequests. What color are these quest-giving Tockles?",
 						"wrong": [
@@ -159042,6 +158999,7 @@
 						"correct": "Their eyes",
 						"difficulty": "Medium",
 						"explanation": "A Tockle's most notable feature is its large, round eyes, with pupils that look just like the hands of a clock, hinting at their time-related nature.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What distinctive physical feature do all Tockles share, resembling the hands of a clock?",
 						"wrong": [
@@ -159051,21 +159009,10 @@
 						]
 					},
 					{
-						"correct": "Seeds of Skill",
-						"difficulty": "Medium",
-						"explanation": "Seeds of Skill are extremely valuable, as they grant extra skill points, allowing you to unlock more abilities for your party members.",
-						"image_url": "",
-						"question": "Completing the quests for the yellow Tockles often grants a valuable, permanent reward for your party members. What is this reward?",
-						"wrong": [
-							"Mini Medals",
-							"Gold Bars",
-							"Pep Pips"
-						]
-					},
-					{
 						"correct": "Find his lost children",
 						"difficulty": "Hard",
 						"explanation": "This Tockle's ten children, the 'Tockle Tots,' have gotten lost, and he asks you to find them in various dangerous, post-game dungeons.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "A distraught purple Tockle appears in the main world during Act 3. What task does he give the Luminary?",
 						"wrong": [
@@ -159078,6 +159025,7 @@
 						"correct": "Calasmos",
 						"difficulty": "Hard",
 						"explanation": "The final challenge is a super-powered version of Calasmos, the true final boss of Dragon Quest XI, providing a formidable test of skill.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/tockle.webp",
 						"question": "The final, ultimate tome in Tickington pits the Luminary against an incredibly powerful, shadowy version of which major boss from the main story?",
 						"wrong": [
@@ -159090,6 +159038,7 @@
 						"correct": "The Dragonlord",
 						"difficulty": "Hard",
 						"explanation": "In this classic adventure, you relive the final confrontation from the original game, defeating the Dragonlord to rescue the princess.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "One of the past worlds you visit is from the very first Dragon Quest game. Who is the final boss you must defeat there to set history right?",
 						"wrong": [
@@ -159102,6 +159051,7 @@
 						"correct": "Bianca and Nera",
 						"difficulty": "Hard",
 						"explanation": "This quest references one of the most famous and difficult choices in the entire series: choosing a bride for the hero of Dragon Quest V.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the tome for Dragon Quest V, the Luminary must help a young man choose between two potential brides. What are their names?",
 						"wrong": [
@@ -159114,6 +159064,7 @@
 						"correct": "The Cruelest Conundrum",
 						"difficulty": "Hard",
 						"explanation": "'The Cruelest Conundrum' is the ultimate challenge in Tickington, containing the most difficult boss fights from across the series' history.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the final, secret tome that only appears after you have defeated the Timewyrm?",
 						"wrong": [
@@ -159150,6 +159101,7 @@
 						"correct": "Whale",
 						"difficulty": "Easy",
 						"explanation": "Cetacea is a member of the cetacean family, just like whales and dolphins, but is uniquely adapted for soaring through the skies of Erdrea.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The magnificent flying creature known as Cetacea is a giant, benevolent version of what real-world animal?",
 						"wrong": [
@@ -159162,6 +159114,7 @@
 						"correct": "The sky",
 						"difficulty": "Easy",
 						"explanation": "Known as the 'sky ocean,' the heavens become fully explorable once Cetacea is healed, allowing access to floating islands and new locations.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Upon summoning Cetacea, the Luminary and his friends gain the ability to travel freely through which medium?",
 						"wrong": [
@@ -159174,6 +159127,7 @@
 						"correct": "The Luminary",
 						"difficulty": "Easy",
 						"explanation": "Cetacea has served every Luminary since the age of Erdwin, bound by an ancient pact to aid the legendary hero.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Cetacea will only answer the call of one specific person, recognizing them by their sacred mark. Who is this individual?",
 						"wrong": [
@@ -159186,6 +159140,7 @@
 						"correct": "The Calamus Flute",
 						"difficulty": "Easy",
 						"explanation": "The Calamus Flute is found broken and must be repaired by a skilled artisan in Gondolia before it can be used to call the great sky whale.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/cetacea.webp",
 						"question": "What simple musical instrument, once it has been fully restored, is used to play the melody that summons Cetacea from the heavens?",
 						"wrong": [
@@ -159198,6 +159153,7 @@
 						"correct": "The Heavens",
 						"difficulty": "Easy",
 						"explanation": "The Heavens are a serene 'sky ocean' that Cetacea calls home, a place high above the clouds of Erdrea.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "When not carrying the Luminary, Cetacea peacefully resides in a celestial realm also known by what name?",
 						"wrong": [
@@ -159210,6 +159166,7 @@
 						"correct": "The Snaerfelt",
 						"difficulty": "Medium",
 						"explanation": "The party finds the great whale near the Scholar's Cabin in the frozen Snaerfelt, prompting a quest to find a way to heal its wounds.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "After the fall of Yggdrasil, Cetacea is discovered gravely wounded and grounded near the icy shores of which northern region?",
 						"wrong": [
@@ -159222,6 +159179,7 @@
 						"correct": "The World Tree",
 						"difficulty": "Medium",
 						"explanation": "Even though Yggdrasil has fallen, a single sapling survives, and a branch from it holds the power to restore the injured Cetacea.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "To mend Cetacea's injuries, the Luminary must retrieve a sacred branch from what life-giving source?",
 						"wrong": [
@@ -159234,6 +159192,7 @@
 						"correct": "The Watchers",
 						"difficulty": "Medium",
 						"explanation": "The spirits of the Watchers at the Havens Above empower Cetacea, allowing it to shatter dark barriers and access new locations.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the post-game, Cetacea is granted a new power by the spirits of which ancient, ghostly beings who inhabit the sky?",
 						"wrong": [
@@ -159246,6 +159205,7 @@
 						"correct": "Erdwin",
 						"difficulty": "Medium",
 						"explanation": "Visions of the past reveal that Erdwin and his companions also traveled the skies aboard Cetacea on their quest to defeat Calasmos.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/cetacea.webp",
 						"question": "Cetacea is an ancient being who also served a legendary hero from a past age. What was this previous Luminary's name?",
 						"wrong": [
@@ -159258,6 +159218,7 @@
 						"correct": "Child of the Heavens",
 						"difficulty": "Medium",
 						"explanation": "Cetacea's name for the Luminary, 'Child of the Heavens,' reflects the hero's divine origins and connection to the sky.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the specific, affectionate title that Cetacea uses to refer to the Luminary?",
 						"wrong": [
@@ -159270,6 +159231,7 @@
 						"correct": "Ramia",
 						"difficulty": "Hard",
 						"explanation": "The iconic 'Heavenly Flight' theme made its debut as the overworld music when players took to the skies on the back of the divine bird, Ramia.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The musical theme that plays while flying on Cetacea, 'Heavenly Flight', is a classic melody first heard accompanying what legendary bird in Dragon Quest III?",
 						"wrong": [
@@ -159282,6 +159244,7 @@
 						"correct": "Angri-La",
 						"difficulty": "Hard",
 						"explanation": "While high in the mountains, the path to the Angri-La monastery is accessible via the Mount Pang Lai trail long before the party can fly.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Cetacea can be used to reach several floating islands. Which of these major locations can be reached on foot and does NOT require Cetacea for access?",
 						"wrong": [
@@ -159294,6 +159257,7 @@
 						"correct": "Yggdragon",
 						"difficulty": "Hard",
 						"explanation": "The mural depicts the Yggdragon, the creator of Erdrea itself, also creating Cetacea to serve as a guardian and guide for the world.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/cetacea.webp",
 						"question": "In the Echo Chamber, the party witnesses a vision of Cetacea's creation. What ancient, divine being is shown bringing the great whale into existence?",
 						"wrong": [
@@ -159303,21 +159267,10 @@
 						]
 					},
 					{
-						"correct": "Tockles",
-						"difficulty": "Hard",
-						"explanation": "The ghostly Tockles guard 'lost moments in time,' and by finding them, Cetacea can transport the party into past Dragon Quest worlds.",
-						"image_url": "",
-						"question": "After receiving its power-up in the post-game, Cetacea can travel to the past by interacting with what mysterious, time-hopping creatures?",
-						"wrong": [
-							"Watchers",
-							"Sprites",
-							"Draconians"
-						]
-					},
-					{
 						"correct": "Aural Trough",
 						"difficulty": "Hard",
 						"explanation": "These peculiar 'Aural Troughs' are remnants of dark energy that can only be dispersed by Cetacea's enhanced power.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the proper name for the dark, shimmering barriers that the empowered Cetacea can shatter to open pathways to the Trial Isle and the Lost Land?",
 						"wrong": [
@@ -159354,6 +159307,7 @@
 						"correct": "The World Tree",
 						"difficulty": "Easy",
 						"explanation": "Known as Yggdrasil, the World Tree is the source of all life in Erdrea, and its fall is a cataclysmic event.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the common name for the gigantic, life-giving tree that stands at the very center of the world of Erdrea?",
 						"wrong": [
@@ -159366,6 +159320,7 @@
 						"correct": "The Sword of Light",
 						"difficulty": "Easy",
 						"explanation": "The Sword of Light rests at the heart of the tree, waiting for the Luminary to claim it and fulfill his destiny.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "High within the branches of Yggdrasil, the Luminary is destined to find what legendary weapon?",
 						"wrong": [
@@ -159378,6 +159333,7 @@
 						"correct": "The Heart of Yggdrasil",
 						"difficulty": "Easy",
 						"explanation": "The Heart of Yggdrasil is the source of the tree's power, and Mordegon corrupts it to become the dark entity known as the Black Sun.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the glowing, spherical essence of the tree that is stolen by Mordegon, plunging the world into darkness?",
 						"wrong": [
@@ -159390,6 +159346,7 @@
 						"correct": "Yggdrasil's seedlings",
 						"difficulty": "Easy",
 						"explanation": "By touching these seedlings, the Luminary can use the power of his mark to witness visions of the past.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/yggdrasil.webp",
 						"question": "The roots of the World Tree stretch all across the globe. What are the small, glowing saplings that sprout from these roots called?",
 						"wrong": [
@@ -159399,21 +159356,10 @@
 						]
 					},
 					{
-						"correct": "Erdrea",
-						"difficulty": "Easy",
-						"explanation": "The fall of Yggdrasil is the central catastrophe of the game, altering the landscape of Erdrea and unleashing monsters across the land.",
-						"image_url": "",
-						"question": "After Mordegon steals its heart, the World Tree falls from the sky, sending a destructive shockwave across what continent?",
-						"wrong": [
-							"Torland",
-							"Alefgard",
-							"Zenithia"
-						]
-					},
-					{
 						"correct": "The First Forest",
 						"difficulty": "Medium",
 						"explanation": "The First Forest is a magical place where the path to the World Tree is hidden, guarded by ancient spirits and creatures.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The only path to ascend Yggdrasil is found within the depths of which sacred, ancient woodland?",
 						"wrong": [
@@ -159426,6 +159372,7 @@
 						"correct": "His mother, Queen Eleanor",
 						"difficulty": "Medium",
 						"explanation": "The spirit of his mother, Queen Eleanor of Dundrasil, was waiting within Yggdrasil to finally tell her son about his past and his destiny.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Upon reaching the Heart Chamber of Yggdrasil, the Luminary communes with the spirit of what person, who reveals the truth of his lineage?",
 						"wrong": [
@@ -159438,6 +159385,7 @@
 						"correct": "The Black Sun",
 						"difficulty": "Medium",
 						"explanation": "Mordegon uses the Heart of Yggdrasil to create the Black Sun, a malevolent orb in the sky that drains the world of life.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the dark world created after the tree's fall, what is the twisted, corrupted form of Yggdrasil's Heart known as?",
 						"wrong": [
@@ -159450,6 +159398,7 @@
 						"correct": "The Alizarin",
 						"difficulty": "Medium",
 						"explanation": "The Alizarin is a massive, plant-like dragon that tests the worthiness of any who would approach the sacred World Tree.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/yggdrasil.webp",
 						"question": "The party must defeat a powerful monster serving as the guardian of Yggdrasil before they are permitted to ascend it. What is this creature's name?",
 						"wrong": [
@@ -159459,21 +159408,10 @@
 						]
 					},
 					{
-						"correct": "Rainbow",
-						"difficulty": "Medium",
-						"explanation": "Yggdrasil Leaves are a rare and powerful ingredient, easily identified by their beautiful, iridescent rainbow coloring.",
-						"image_url": "",
-						"question": "Leaves from the World Tree can be found and used in the Fun-Size Forge. What distinctive color are these potent crafting ingredients?",
-						"wrong": [
-							"Gold",
-							"Silver",
-							"Crystal"
-						]
-					},
-					{
 						"correct": "Its roots",
 						"difficulty": "Hard",
 						"explanation": "The souls of the departed are drawn back to the roots of Yggdrasil, where they are eventually reborn, continuing the cycle of life.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The lore of the Watchers states that the souls of all living things eventually return to what part of the World Tree?",
 						"wrong": [
@@ -159486,6 +159424,7 @@
 						"correct": "The Yggdragon",
 						"difficulty": "Hard",
 						"explanation": "The Yggdragon is the creator god of Erdrea. After a cosmic battle, its body became the land, and Yggdrasil sprouted from its heart.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/yggdrasil.webp",
 						"question": "According to ancient murals, the entire world of Erdrea was formed from the body of what great, golden dragon?",
 						"wrong": [
@@ -159495,21 +159434,10 @@
 						]
 					},
 					{
-						"correct": "The King of Heliodor",
-						"difficulty": "Hard",
-						"explanation": "King Carnelian's royal scepter was secretly made from a branch of Yggdrasil, which allowed Mordegon's spirit to possess him.",
-						"image_url": "",
-						"question": "After the fall of Yggdrasil, pieces of its wood called 'scions' are scattered. Which major character is revealed to have been unknowingly carrying one for years?",
-						"wrong": [
-							"Hendrik",
-							"Jasper",
-							"The Sultan of Gallopolis"
-						]
-					},
-					{
 						"correct": "Yggdrasil's seedling",
 						"difficulty": "Hard",
 						"explanation": "The Tower of Lost Time contains a unique seedling that allows the Luminary to send his spirit back to a crucial moment in the past.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the post-game, the Luminary travels to the 'heart of time' itself, which is located inside a past version of what specific object?",
 						"wrong": [
@@ -159522,6 +159450,7 @@
 						"correct": "Its heart",
 						"difficulty": "Hard",
 						"explanation": "After the Yggdragon fell, the World Tree grew directly from its heart, becoming the vessel for all life in the new world.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The murals in the First Forest depict the Yggdragon's creation of the world. From what part of the dragon's body is the World Tree shown to be sprouting?",
 						"wrong": [
@@ -159558,6 +159487,7 @@
 						"correct": "The Luminary",
 						"difficulty": "Easy",
 						"explanation": "Only the Luminary, the reincarnation of the hero Erdwin, can wield the true Sword of Light to its full potential.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The legendary Sword of Light is the prophesied weapon for which central hero of the story?",
 						"wrong": [
@@ -159570,6 +159500,7 @@
 						"correct": "Within Yggdrasil",
 						"difficulty": "Easy",
 						"explanation": "The blade rests at the Heart of the World Tree, waiting for the hero of legend to arrive and claim it.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "When the Luminary first claims the Sword of Light, it is found resting deep within what sacred location?",
 						"wrong": [
@@ -159582,6 +159513,7 @@
 						"correct": "It is corrupted",
 						"difficulty": "Easy",
 						"explanation": "Mordegon turns the blade's holy power against itself, transforming it into the malevolent Sword of Shadows.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Immediately after the Luminary obtains the Sword of Light, Mordegon appears and does what to the legendary weapon?",
 						"wrong": [
@@ -159594,6 +159526,7 @@
 						"correct": "The Crucible",
 						"difficulty": "Easy",
 						"explanation": "The Crucible, located in Mount Huji, is the only place hot enough to melt Orichalcum and forge the Sword of Light.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/sword_of_light.webp",
 						"question": "To forge a new Sword of Light, the party must travel to a volcanic island and use what legendary, super-heated forge?",
 						"wrong": [
@@ -159606,6 +159539,7 @@
 						"correct": "The Sword of Shadows",
 						"difficulty": "Easy",
 						"explanation": "The Sword of Shadows is a twisted mockery of the holy blade, a symbol of Mordegon's victory at Yggdrasil.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The corrupted version of the Luminary's legendary weapon, which he must carry for a time, is known by what sinister name?",
 						"wrong": [
@@ -159618,6 +159552,7 @@
 						"correct": "Orichalcum",
 						"difficulty": "Medium",
 						"explanation": "Orichalcum is a recurring legendary metal in the Dragon Quest series, always used to create the most powerful equipment.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What rare and legendary metal, said to be a gift from the heavens, is the key ingredient for forging a new Sword of Light?",
 						"wrong": [
@@ -159630,6 +159565,7 @@
 						"correct": "The Forging Hammer",
 						"difficulty": "Medium",
 						"explanation": "This legendary hammer is a key item found in the ruins of Dundrasil, the Luminary's former home.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Besides the special ore, what other crucial item, a hammer once wielded by the gods, is needed to forge the blade at the Crucible?",
 						"wrong": [
@@ -159639,21 +159575,10 @@
 						]
 					},
 					{
-						"correct": "Rab",
-						"difficulty": "Medium",
-						"explanation": "Rab reveals that the royal family of Dundrasil were not only kings, but also the guardians of the legendary forging techniques.",
-						"image_url": "",
-						"question": "Which wise and elderly companion uses his family's secret smithing knowledge to guide the Luminary in re-forging the Sword of Light?",
-						"wrong": [
-							"Sylvando",
-							"Erik",
-							"Hendrik"
-						]
-					},
-					{
 						"correct": "Erdwin's",
 						"difficulty": "Medium",
 						"explanation": "In the post-game, the Luminary can re-forge Erdwin's Sword and combine it with his own to create the Supreme Sword of Light.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/sword_of_light.webp",
 						"question": "To create the ultimate version of the weapon, the Luminary must combine his newly forged Sword of Light with the sword of which ancient hero?",
 						"wrong": [
@@ -159666,6 +159591,7 @@
 						"correct": "Mordegon's",
 						"difficulty": "Medium",
 						"explanation": "The sword's holy power is used to shatter the defenses of the Fortress of Fear, allowing the party to confront the Lord of Shadows.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The newly-forged Sword of Light is the only thing capable of breaking the magical barrier surrounding which villain's floating fortress?",
 						"wrong": [
@@ -159678,6 +159604,7 @@
 						"correct": "The Supreme Sword of Light",
 						"difficulty": "Hard",
 						"explanation": "The Supreme Sword of Light is the most powerful weapon in the game, a perfect fusion of two legendary blades.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the official name of the fully powered-up blade, created by combining the Luminary's sword with Erdwin's in the post-game?",
 						"wrong": [
@@ -159690,6 +159617,7 @@
 						"correct": "Mordegon",
 						"difficulty": "Hard",
 						"explanation": "Morcant's jealousy of Erdwin's power allowed Calasmos to corrupt him, turning him into Mordegon, the Lord of Shadows.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The original Sword of Light was forged by Erdwin's companion, the mage Morcant. Morcant later fell to darkness and became what powerful foe?",
 						"wrong": [
@@ -159702,6 +159630,7 @@
 						"correct": "The Sword of Light itself",
 						"difficulty": "Hard",
 						"explanation": "One of the Supreme Sword of Light's unique properties is that it can be used as an item during combat to cast a powerful cleansing spell.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/sword_of_light.webp",
 						"question": "When wielding the Supreme Sword of Light, what item can the Luminary use in battle to remove all negative status effects from the entire party?",
 						"wrong": [
@@ -159711,21 +159640,10 @@
 						]
 					},
 					{
-						"correct": "The Yggdragon",
-						"difficulty": "Hard",
-						"explanation": "The party must travel to the Trial Isle and gain the blessing of the Yggdragon's spirit to temper the blade in a supernova of light.",
-						"image_url": "",
-						"question": "Before it can be used for the ultimate weapon, the flawed 'Sword of Kings' must be reforged into 'Erdwin's Sword' by using the power of what ancient being?",
-						"wrong": [
-							"Cetacea",
-							"The Seer",
-							"A Watcher"
-						]
-					},
-					{
 						"correct": "A Cut Above",
 						"difficulty": "Hard",
 						"explanation": "'A Cut Above' is a special Pep Power involving the Luminary, Erik, and Sylvando, whose combined power is needed for this unique forging event.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What specific three-person Pep Power is required to successfully re-temper the Sword of Kings at the Crucible?",
 						"wrong": [
@@ -159762,6 +159680,7 @@
 						"correct": "His left hand",
 						"difficulty": "Easy",
 						"explanation": "The sacred mark appears on the back of the Luminary's left hand, a clear sign of his destiny to all who recognize it.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/mark_of_the_luminary.webp",
 						"question": "The protagonist is identified as the legendary Luminary because of a special, glowing birthmark located on what part of his body?",
 						"wrong": [
@@ -159774,6 +159693,7 @@
 						"correct": "Erdwin",
 						"difficulty": "Easy",
 						"explanation": "Erdwin was the original Luminary who fought the dark one Calasmos, and our hero has inherited his soul and his mission.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The mark signifies that the hero is the modern-day reincarnation of which great hero from the age of legend?",
 						"wrong": [
@@ -159786,6 +159706,7 @@
 						"correct": "The Lord of Shadows",
 						"difficulty": "Easy",
 						"explanation": "The similar shape of the symbols is a cruel irony, as the mark of the hero is mistaken for the sign of his greatest enemy.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "King Carnelian accuses the Luminary of being the 'Darkspawn' because his mark is a mirrored image of the sigil belonging to whom?",
 						"wrong": [
@@ -159798,6 +159719,7 @@
 						"correct": "Yggdrasil's seedlings",
 						"difficulty": "Easy",
 						"explanation": "These seedlings act as conduits to the World Tree's memory, which the Luminary's mark can uniquely access.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The power of the mark allows the Luminary to see memories of the past by touching what small, glowing objects found throughout the world?",
 						"wrong": [
@@ -159810,6 +159732,7 @@
 						"correct": "Bright blue",
 						"difficulty": "Easy",
 						"explanation": "The mark emits a distinct purplish-blue light, a clear visual indicator that the Luminary's sacred power is being used.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "When the Luminary activates one of his special powers, such as interacting with a seedling, what color does his birthmark brightly glow?",
 						"wrong": [
@@ -159822,6 +159745,7 @@
 						"correct": "Jasper",
 						"difficulty": "Medium",
 						"explanation": "In a climactic confrontation, Jasper uses a dark ritual to absorb the power of the Luminary's mark into his own body.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "After the fall of Yggdrasil, the Luminary loses the power of his mark. Which villain is directly responsible for stealing it?",
 						"wrong": [
@@ -159834,6 +159758,7 @@
 						"correct": "Yggdrasil",
 						"difficulty": "Medium",
 						"explanation": "Within the First Forest, the mark resonates with an ancient door, revealing the celestial path to the World Tree.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Besides being a sign of his destiny, the mark is also a physical key, used to unlock the hidden path to what sacred location?",
 						"wrong": [
@@ -159846,6 +159771,7 @@
 						"correct": "The King of Heliodor",
 						"difficulty": "Medium",
 						"explanation": "King Carnelian, under Mordegon's control, bears a sinister, shadowy version of the mark, which he uses to wield dark powers.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/mark_of_the_luminary.webp",
 						"question": "Which other character is seen with a corrupted, dark version of the Luminary's mark after being possessed by Mordegon?",
 						"wrong": [
@@ -159858,6 +159784,7 @@
 						"correct": "The Sword of Light",
 						"difficulty": "Medium",
 						"explanation": "Unleashing his power to save his friends, the Luminary's mark shatters the Sword of Light, setting up the quest to forge an even greater weapon.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the post-game, the Luminary uses the full power of his mark to destroy a dark sphere, but the resulting explosion shatters what crucial item?",
 						"wrong": [
@@ -159870,6 +159797,7 @@
 						"correct": "His adoptive mother, Amber",
 						"difficulty": "Medium",
 						"explanation": "On his 16th birthday, Amber reveals the truth about the mark and his destiny, setting him on the path to Heliodor.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Who is the very first person in Cobblestone to recognize the mark and instruct the hero to begin his journey, fulfilling a promise to his mother?",
 						"wrong": [
@@ -159882,6 +159810,7 @@
 						"correct": "The Yggdragon",
 						"difficulty": "Hard",
 						"explanation": "The swirling shape of the mark mirrors the form of the Yggdragon, the creator god whose body became the land of Erdrea.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The design of the mark itself is a stylized representation of what divine creature from Erdrea's creation myth?",
 						"wrong": [
@@ -159894,6 +159823,7 @@
 						"correct": "Dundrasil",
 						"difficulty": "Hard",
 						"explanation": "The mark is also the crest of the Kingdom of Dundrasil, the Luminary's birthplace, which is why Rab and King Irwin recognized it immediately.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The symbol on the Luminary's hand is identical to the royal crest of which fallen kingdom?",
 						"wrong": [
@@ -159903,39 +159833,16 @@
 						]
 					},
 					{
-						"correct": "Veronica",
-						"difficulty": "Hard",
-						"explanation": "To save Veronica from Mordegon's attack, the Luminary instinctively uses his power as a shield, though it ultimately isn't enough.",
-						"image_url": "",
-						"question": "In a vision of the past, the Luminary transfers the power of his mark to save which companion from a fatal blow delivered by the Lord of Shadows?",
-						"wrong": [
-							"Serena",
-							"Erik",
-							"Hendrik"
-						]
-					},
-					{
 						"correct": "The Watchers",
 						"difficulty": "Hard",
 						"explanation": "Without the mark, the speech of the ghostly Watchers is unintelligible, but the mark's power translates their ancient tongue.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/mark_of_the_luminary.webp",
 						"question": "The mark allows the Luminary to understand the unique language of what race of ancient, ethereal beings who guard the secrets of the past?",
 						"wrong": [
 							"The Tockles",
 							"The Mer-folk",
 							"The Draconians"
-						]
-					},
-					{
-						"correct": "Erdwin",
-						"difficulty": "Hard",
-						"explanation": "Erdwin was the hero who led the sages, but he was not one of them. His companions—Serenica, Drustan, and the Seer—were three of the six.",
-						"image_url": "",
-						"question": "The ritual where Jasper steals the Luminary's power is held in a throne room decorated with statues of the 'Six Sages'. Which of these figures was the Luminary of his age, and thus NOT a sage?",
-						"wrong": [
-							"Serenica",
-							"Drustan",
-							"The Seer"
 						]
 					}
 				]
@@ -159966,6 +159873,7 @@
 						"correct": "Blue",
 						"difficulty": "Easy",
 						"explanation": "When a character enters the 'pepped up' state, their body glows with a distinct, bright blue aura, signaling they're ready for a team-up attack.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What color is the fiery aura that surrounds a character when they become 'Pepped Up' and ready to unleash a special move?",
 						"wrong": [
@@ -159978,6 +159886,7 @@
 						"correct": "The Real Decoy",
 						"difficulty": "Easy",
 						"explanation": "The Real Decoy has the Luminary create a glowing duplicate of himself, while Erik provides a bit of showmanship to distract foes.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the very first Pep Power the Luminary learns, a simple two-person move performed with Erik to create a diversion?",
 						"wrong": [
@@ -159990,6 +159899,7 @@
 						"correct": "Heals HP",
 						"difficulty": "Easy",
 						"explanation": "This early-game Pep Power is a reliable way to get some healing done, with Sylvando striking a pose while the Luminary provides the magic.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which basic effect can be triggered by using the Pep Power 'Heal-thy Self-ie' with the Luminary and the flamboyant entertainer Sylvando?",
 						"wrong": [
@@ -160002,6 +159912,7 @@
 						"correct": "Pepped Up",
 						"difficulty": "Easy",
 						"explanation": "Characters become Pepped Up after taking or dealing enough damage, and once the required members are all glowing blue, a Pep Power can be used.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "To activate a Pep Power, a certain number of party members must all be in what special, glowing state simultaneously?",
 						"wrong": [
@@ -160014,6 +159925,7 @@
 						"correct": "Kazam",
 						"difficulty": "Easy",
 						"explanation": "Kazam is a classic, high-level spell in the Dragon Quest series, and the twins' Pep Power unleashes an exceptionally powerful version of it.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/pep_power.webp",
 						"question": "The twins Veronica and Serena team up for a powerful offensive Pep Power that strikes all enemies with a massive explosion. What is it called?",
 						"wrong": [
@@ -160023,21 +159935,10 @@
 						]
 					},
 					{
-						"correct": "Erik",
-						"difficulty": "Medium",
-						"explanation": "Erik's 'Dire-straits' Pep Power can summon a Metal Slime, though it's not a guaranteed outcome, making it a high-risk, high-reward move for level grinding.",
-						"image_url": "",
-						"question": "Which character's unique solo Pep Power has a chance to summon a Metal Slime to the battlefield, offering a huge opportunity for experience points?",
-						"wrong": [
-							"Jade",
-							"Sylvando",
-							"Rab"
-						]
-					},
-					{
 						"correct": "Makes spells cost 0 MP",
 						"difficulty": "Medium",
 						"explanation": "Arcane Armament grants the 'MP-Cost-Free' status to the whole party for several turns, allowing for a devastating magical assault without draining resources.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Luminary, Sylvando, Jade, and Rab can team up to perform 'Arcane Armament', a Pep Power which has what powerful effect on the entire party?",
 						"wrong": [
@@ -160047,57 +159948,10 @@
 						]
 					},
 					{
-						"correct": "Guarantees rare item drops",
-						"difficulty": "Medium",
-						"explanation": "This comically named power involves Sylvando's 'charming' breath, which somehow coerces enemies into always dropping their rare items upon defeat.",
-						"image_url": "",
-						"question": "The Pep Power 'Hauletosis', performed by Sylvando, Jade, and Rab, is famous among item hunters for having what valuable effect?",
-						"wrong": [
-							"Doubles experience gained",
-							"Triples gold received",
-							"Turns enemies to gold"
-						]
-					},
-					{
-						"correct": "Gigalixir",
-						"difficulty": "Medium",
-						"explanation": "Gigalixir provides a massive boost to defense and evasion by temporarily turning the party into Metal Slimes, making them incredibly difficult to hit.",
-						"image_url": "https://skillcheckgame.com/assets/images/pep_power.webp",
-						"question": "Which 4-person Pep Power, involving the Luminary, Erik, Serena, and Sylvando, transforms the entire party into a formidable team of Metal Slimes?",
-						"wrong": [
-							"Metal Mower",
-							"Slime Time",
-							"Goobricant"
-						]
-					},
-					{
-						"correct": "Itemised Kill",
-						"difficulty": "Medium",
-						"explanation": "Performed with the Luminary and Jade, Itemised Kill is an incredibly efficient way to farm materials from large groups of monsters.",
-						"image_url": "",
-						"question": "What is the name of the Pep Power that allows Erik to steal an item from every single enemy on the field at once?",
-						"wrong": [
-							"Sticky Fingers",
-							"Five Finger Discount",
-							"Grand Larceny"
-						]
-					},
-					{
-						"correct": "Hendrik and Jasper",
-						"difficulty": "Hard",
-						"explanation": "In the restored timeline, the once-opposed Hendrik and Jasper can team up to perform this devastating attack, symbolizing their reconciled allegiance.",
-						"image_url": "",
-						"question": "Which two characters perform the Pep Power 'The Executioner', a powerful attack that is only available after a significant turn of events in the story?",
-						"wrong": [
-							"Luminary and Mordegon",
-							"Erik and Mia",
-							"Sylvando and his Father"
-						]
-					},
-					{
 						"correct": "All status ailments",
 						"difficulty": "Hard",
 						"explanation": "This extremely useful defensive power makes the party completely immune to being put to sleep, poisoned, paralyzed, and any other negative status effect for several turns.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/pep_power.webp",
 						"question": "The Pep Power 'Care Prayer', performed by the Luminary and Serena, grants the entire party immunity to what?",
 						"wrong": [
@@ -160110,6 +159964,7 @@
 						"correct": "The Magic Circle",
 						"difficulty": "Hard",
 						"explanation": "The Magic Circle is a story-critical Pep Power where the three heroes combine their magic to unleash the spirit of Erdwin, capable of repelling even the darkest of evils.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What ultimate Pep Power, performed by the Luminary, Veronica, and Serena, unleashes the power of the legendary hero Erdwin?",
 						"wrong": [
@@ -160122,24 +159977,13 @@
 						"correct": "Golden Oldies",
 						"difficulty": "Hard",
 						"explanation": "Aptly named 'Golden Oldies', this move showcases the combined power and experience of the party's two most senior members.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Hendrik and Rab team up for a Pep Power that wildly boosts their own magical mending and might. What is this self-buff called?",
 						"wrong": [
 							"Ancient Wisdom",
 							"Old Guard",
 							"Senior Service"
-						]
-					},
-					{
-						"correct": "Pep-Up Power-Up",
-						"difficulty": "Hard",
-						"explanation": "This incredible ability, Pep-Up Power-Up, essentially serves as a full reset button for the party in the middle of a tough battle, making the Luminary an invaluable leader.",
-						"image_url": "",
-						"question": "The Luminary's ultimate solo Pep Power allows him to fully restore the party's HP and MP and resurrect any fallen allies. What is it called?",
-						"wrong": [
-							"Luminary's Blessing",
-							"Yggdrasil's Grace",
-							"Full Heal"
 						]
 					}
 				]
@@ -160170,6 +160014,7 @@
 						"correct": "Fun-Size Forge",
 						"difficulty": "Easy",
 						"explanation": "The Fun-Size Forge is a key item that introduces the game's robust crafting system, letting you make gear anytime you're at a camp.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/fun-size_forge.webp",
 						"question": "What is the name of the portable anvil given to the Luminary that allows him to craft equipment while out in the field or at a campsite?",
 						"wrong": [
@@ -160182,6 +160027,7 @@
 						"correct": "Recipe books",
 						"difficulty": "Easy",
 						"explanation": "Recipe books are found all over Erdrea, from bookshelves in towns to chests in dangerous dungeons, unlocking new possibilities for the forge.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "To craft a new item, you first need to find its instructions in the world. What are these instruction manuals called?",
 						"wrong": [
@@ -160194,6 +160040,7 @@
 						"correct": "Perfectionist's Pearls",
 						"difficulty": "Easy",
 						"explanation": "Perfectionist's Pearls are a currency earned through masterful smithing, which can be traded for rare materials or new recipes.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "When you successfully craft an item to its maximum potential, filling the gauge perfectly, what special items do you receive as a bonus?",
 						"wrong": [
@@ -160206,6 +160053,7 @@
 						"correct": "Reworking",
 						"difficulty": "Easy",
 						"explanation": "Reworking items costs Perfectionist's Pearls and allows you to improve gear you've already crafted, making it even more powerful.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the term for taking an existing piece of equipment and using the Fun-Size Forge to improve its quality to +1, +2, or +3?",
 						"wrong": [
@@ -160218,6 +160066,7 @@
 						"correct": "Temperature Gauge",
 						"difficulty": "Easy",
 						"explanation": "Keeping the temperature in the ideal zone is key to successful forging, as it makes your hammer strikes much more effective.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "During the forging mini-game, you have to heat up the item to make it easier to work with. What is the meter that tracks this called?",
 						"wrong": [
@@ -160230,6 +160079,7 @@
 						"correct": "Crosswise Bash",
 						"difficulty": "Medium",
 						"explanation": "Crosswise Bash is a very useful Flourish for working on the central parts of larger items like chestplates and greatswords.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "As you level up, you gain access to special smithing techniques called 'Flourishes'. Which Flourish lets you strike four squares in a cross shape?",
 						"wrong": [
@@ -160239,21 +160089,10 @@
 						]
 					},
 					{
-						"correct": "Flawless",
-						"difficulty": "Medium",
-						"explanation": "Achieving a flawless +3 item not only boosts its stats significantly but also often changes its name, like turning a 'Sword of Light' into the 'Supreme Sword of Light'.",
-						"image_url": "",
-						"question": "What is the highest quality level an item can be reworked to, indicated by a '+3' and a sparkling rainbow icon?",
-						"wrong": [
-							"Perfect",
-							"Masterwork",
-							"Legendary"
-						]
-					},
-					{
 						"correct": "Temperature",
 						"difficulty": "Medium",
 						"explanation": "When the metal cools, a Sizzly Puff can reheat it mid-process, allowing you to continue making powerful strikes without having to stop.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/fun-size_forge.webp",
 						"question": "The 'Sizzly Puff' flourish is used to raise the item's what, making subsequent strikes more effective?",
 						"wrong": [
@@ -160263,21 +160102,10 @@
 						]
 					},
 					{
-						"correct": "Flashing Spots",
-						"difficulty": "Medium",
-						"explanation": "Strategically using Flashing Spots is essential for high-level forging, as they allow you to perfectly finish a section with a powerful, well-aimed bash.",
-						"image_url": "",
-						"question": "What is the name of the special, glowing spots that appear on the forge, which if struck, grant a guaranteed critical hit on the next strike?",
-						"wrong": [
-							"Critical Zones",
-							"Sweet Spots",
-							"Shining Marks"
-						]
-					},
-					{
 						"correct": "Focus",
 						"difficulty": "Medium",
 						"explanation": "Managing your Focus points is the core challenge of the forging mini-game; running out of Focus ends your attempt.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The meter that depletes with every hammer swing, limiting how many actions you can take, is known as the what?",
 						"wrong": [
@@ -160290,6 +160118,7 @@
 						"correct": "Orichalcum",
 						"difficulty": "Hard",
 						"explanation": "Orichalcum is a legendary material in the Dragon Quest series, and in DQ11, it's required to forge the Sword of Light and other ultimate gear.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which rare, rainbow-colored ore, famously used by the hero Erdwin, is a key ingredient for crafting the most powerful equipment in the game?",
 						"wrong": [
@@ -160302,6 +160131,7 @@
 						"correct": "Supreme Sword of Light",
 						"difficulty": "Hard",
 						"explanation": "This book is one of the final and most important recipe books you can find, allowing you to craft the Luminary's ultimate weapon.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The recipe book titled 'A Hero's Book of Brilliant Weapons' contains the instructions to craft which legendary blade?",
 						"wrong": [
@@ -160314,6 +160144,7 @@
 						"correct": "Smithing",
 						"difficulty": "Hard",
 						"explanation": "This powerful Flourish, which raises temperature and doubles the power of the next strike, is fittingly named after the master craftsman of the gods.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The Flourish 'Hephaestus' Flame', learned at a very high level, is named after the Greek god of what?",
 						"wrong": [
@@ -160323,21 +160154,10 @@
 						]
 					},
 					{
-						"correct": "The Ultimate Fun-Size Forge",
-						"difficulty": "Hard",
-						"explanation": "This upgraded forge is a massive quality-of-life improvement, awarded after completing a specific sidequest, freeing you from the need to find a campsite to craft.",
-						"image_url": "https://skillcheckgame.com/assets/images/fun-size_forge.webp",
-						"question": "In the Definitive Edition, a special forge can be used at any time, not just at campsites. What is this ultra-portable version called?",
-						"wrong": [
-							"The Master Forge",
-							"The Forge-Me-Not",
-							"The Pocket Anvil"
-						]
-					},
-					{
 						"correct": "Slime Crown",
 						"difficulty": "Hard",
 						"explanation": "Slime Crowns are exceptionally rare items, making the process of creating flawless Metal Slime equipment a true test of a player's dedication.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What rare ingredient, often dropped by metal slimes, is required to rework the 'Metal Slime' line of equipment?",
 						"wrong": [
@@ -160371,21 +160191,10 @@
 			"content": {
 				"questions": [
 					{
-						"correct": "Yggdrasil",
-						"difficulty": "Easy",
-						"explanation": "Yggdrasil, the World Tree, is central to the world's faith and the Luminary's quest, holding the souls of the departed and the legendary Sword of Light.",
-						"image_url": "https://skillcheckgame.com/assets/images/erdrea.webp",
-						"question": "What is the name of the colossal, sacred tree that floats in the center of the world and is believed to be the source of all life?",
-						"wrong": [
-							"The World Tree",
-							"The Mana Tree",
-							"The Erdtree"
-						]
-					},
-					{
 						"correct": "Cobblestone",
 						"difficulty": "Easy",
 						"explanation": "Cobblestone is a peaceful, pastoral village and the starting point of the hero's journey before he sets out to discover his destiny.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the Luminary's quiet hometown, nestled in a secluded valley and protected by a magical ward?",
 						"wrong": [
@@ -160398,6 +160207,7 @@
 						"correct": "Humans",
 						"difficulty": "Easy",
 						"explanation": "Like many Dragon Quest worlds, Erdrea is predominantly a world of humans, with various kingdoms, cities, and cultures.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The world of Erdrea is primarily populated by which race, though you can also find mermaids, spirits, and monsters?",
 						"wrong": [
@@ -160410,6 +160220,7 @@
 						"correct": "Hotto",
 						"difficulty": "Easy",
 						"explanation": "The village of Hotto is famous for its relaxing spas and its unique architectural style, distinct from the European-style castles of the mainland.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the vibrant, Japanese-inspired island kingdom known for its hot springs and grand shrine?",
 						"wrong": [
@@ -160422,6 +160233,7 @@
 						"correct": "A ship",
 						"difficulty": "Easy",
 						"explanation": "The party's ship, the Salty Stallion, is essential for exploring the full breadth of Erdrea's world map.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What form of transportation, gifted by Queen Marina, allows the party to sail the open seas and reach distant continents?",
 						"wrong": [
@@ -160434,6 +160246,7 @@
 						"correct": "Gondolia",
 						"difficulty": "Medium",
 						"explanation": "Gondolia, the 'City of Water', is where the Luminary first encounters the mage and the healer who are destined to join his quest.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In which beautiful, Venetian-inspired city does the party meet the magical twins, Veronica and Serena?",
 						"wrong": [
@@ -160446,6 +160259,7 @@
 						"correct": "Nautica",
 						"difficulty": "Medium",
 						"explanation": "Nautica is a stunning hidden realm where the party seeks aid to traverse the oceans and learns more about the world's ancient history.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the underwater kingdom inhabited by mermaids, ruled over by the benevolent Queen Marina?",
 						"wrong": [
@@ -160458,6 +160272,7 @@
 						"correct": "Sniflheim",
 						"difficulty": "Medium",
 						"explanation": "Sniflheim is the home of Queen Frysabel, whose kingdom is locked in an eternal winter by the sinister powers of the witch Krystalinda.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/erdrea.webp",
 						"question": "Which northern, ice-bound kingdom is perpetually frozen under a witch's curse until the party intervenes?",
 						"wrong": [
@@ -160470,6 +160285,7 @@
 						"correct": "The Havens Above",
 						"difficulty": "Medium",
 						"explanation": "The Havens Above is an ethereal place invisible to most mortals, from which the silent Watchers observe the events of the world below.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the floating, mystical land where the spirits known as the Watchers reside?",
 						"wrong": [
@@ -160479,21 +160295,10 @@
 						]
 					},
 					{
-						"correct": "Lorelei's Harp",
-						"difficulty": "Medium",
-						"explanation": "Lorelei's Harp is a magical instrument that, when played at specific locations, temporarily turns the party into fish, opening up new areas to explore.",
-						"image_url": "",
-						"question": "The Luminary can transform into a fish to explore underwater. What item, given by Queen Marina, allows for this transformation?",
-						"wrong": [
-							"The Green Orb",
-							"The Magic Water",
-							"Poseidon's Trident"
-						]
-					},
-					{
 						"correct": "The Fall",
 						"difficulty": "Hard",
 						"explanation": "The Fall is the pivotal mid-game event where Mordegon seemingly wins, shattering the World Tree and unleashing his armies across a darkened Erdrea.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the catastrophic event that occurs at Yggdrasil, causing the Sword of Light to shatter and plunging the world into darkness?",
 						"wrong": [
@@ -160506,6 +160311,7 @@
 						"correct": "Ygglings",
 						"difficulty": "Hard",
 						"explanation": "These friendly spirits guide the Luminary and help protect the sacred tree, though many are lost when Yggdrasil falls.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The spirits of Yggdrasil, which appear as small, green, leaf-like creatures, are known by what name?",
 						"wrong": [
@@ -160518,6 +160324,7 @@
 						"correct": "Calasmos",
 						"difficulty": "Hard",
 						"explanation": "While Mordegon is the primary antagonist for most of the game, Calasmos is the ancient 'Dark One' who was the true source of evil in Erdrea's history.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the ancient, powerful entity of darkness that the Luminary is destined to fight, considered the ultimate evil of the world?",
 						"wrong": [
@@ -160530,6 +160337,7 @@
 						"correct": "Arboria",
 						"difficulty": "Hard",
 						"explanation": "Arboria is a secluded sanctuary near Yggdrasil, where the knowledge of the Luminary and the Lord of Shadows has been preserved for generations.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the sacred, hidden village where the descendants of the ancient sages, Veronica and Serena, were raised?",
 						"wrong": [
@@ -160542,6 +160350,7 @@
 						"correct": "Cetus",
 						"difficulty": "Hard",
 						"explanation": "Summoned using the Calamus Flute, the sky whale Cetus serves as the party's airship, granting access to all of Erdrea's floating islands and final locations.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/erdrea.webp",
 						"question": "Which flying creature, a massive and benevolent whale, can be summoned to fly the party around the world in the game's later stages?",
 						"wrong": [
@@ -160578,6 +160387,7 @@
 						"correct": "Heliodor",
 						"difficulty": "Easy",
 						"explanation": "Heliodor is the first major city the player visits, and where the main plot is set in motion when the king reacts unexpectedly to the Luminary's arrival.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "At the start of the game, the Luminary travels to which massive kingdom to present himself to its king?",
 						"wrong": [
@@ -160590,6 +160400,7 @@
 						"correct": "King Carnelian",
 						"difficulty": "Easy",
 						"explanation": "King Carnelian's shocking condemnation of the heroic Luminary is the game's first major twist, branding the hero an enemy of the state.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Who is the ruler of Heliodor who accuses the Luminary of being the 'Darkspawn' and throws him in the dungeons?",
 						"wrong": [
@@ -160602,6 +160413,7 @@
 						"correct": "The Heliodorian Army",
 						"difficulty": "Easy",
 						"explanation": "The formidable Heliodorian Army, led by Hendrik and Jasper, becomes the primary force hunting the Luminary across Erdrea.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The knights of Heliodor are famous for the golden, sun-crested armor they wear. What is their army called?",
 						"wrong": [
@@ -160614,6 +160426,7 @@
 						"correct": "Erik",
 						"difficulty": "Easy",
 						"explanation": "Erik becomes the Luminary's first true ally, helping him escape the Heliodorian Dungeons and sticking with him through thick and thin.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Which blue-haired thief does the Luminary meet while imprisoned in the dungeons beneath Heliodor Castle?",
 						"wrong": [
@@ -160626,6 +160439,7 @@
 						"correct": "Jasper",
 						"difficulty": "Easy",
 						"explanation": "Sir Jasper is the kingdom's strategist, whose cruelty and ambition stand in stark contrast to Hendrik's sense of duty.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/heliodor.webp",
 						"question": "Two knights serve as the primary antagonists from Heliodor. One is the honorable Hendrik. Who is the other, more cunning and cruel knight?",
 						"wrong": [
@@ -160638,6 +160452,7 @@
 						"correct": "Hendrik",
 						"difficulty": "Medium",
 						"explanation": "Hendrik, the 'Dread-in-Waiting', is a powerful and honorable knight who serves as a recurring obstacle for the party for much of the early game.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of the determined, armored general of Heliodor who relentlessly pursues the Luminary in the name of his king?",
 						"wrong": [
@@ -160650,6 +160465,7 @@
 						"correct": "Hendrik",
 						"difficulty": "Medium",
 						"explanation": "Derk sees Hendrik not as a villain, but as a hero protecting the kingdom, and gives the party quests related to his idol.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the city's lower district, you can find a scrappy young boy named Derk who is a big admirer of which Heliodorian knight?",
 						"wrong": [
@@ -160662,6 +160478,7 @@
 						"correct": "Heliodor Region",
 						"difficulty": "Medium",
 						"explanation": "The sprawling Heliodor Region encompasses the kingdom itself, the nearby Manglegrove forest, and the path to the Cobblestone Tor.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "Heliodor Castle is located in which geographical region of Erdrea?",
 						"wrong": [
@@ -160674,6 +160491,7 @@
 						"correct": "The Slums",
 						"difficulty": "Medium",
 						"explanation": "The stark contrast between the glittering castle and the impoverished slums highlights the state of the kingdom under its corrupted king.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "During the escape from the dungeons, the party flees through what part of the city, which is home to its less fortunate citizens?",
 						"wrong": [
@@ -160686,6 +160504,7 @@
 						"correct": "Eleanor",
 						"difficulty": "Medium",
 						"explanation": "Princess Eleanor was the Luminary's mother. Her 'death' during the fall of Dundrasil is a key part of the backstory that King Carnelian is unaware of.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "What is the name of King Carnelian's daughter, the princess of Heliodor, who is believed to have died as an infant?",
 						"wrong": [
@@ -160698,6 +160517,7 @@
 						"correct": "The Fortress of Fear",
 						"difficulty": "Hard",
 						"explanation": "This ominous fortress becomes Mordegon's primary base of operations, floating menacingly above the ruined world.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/heliodor.webp",
 						"question": "After the world is plunged into darkness, Heliodor Castle is transformed into a massive, floating citadel called what?",
 						"wrong": [
@@ -160710,6 +160530,7 @@
 						"correct": "Mordegon",
 						"difficulty": "Hard",
 						"explanation": "The Lord of Shadows, Mordegon, possessed the king and used Heliodor's might to hunt the Luminary, the only one who could stop him.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The true king of Heliodor, Carnelian, was being magically controlled by which powerful villain for the first half of the game?",
 						"wrong": [
@@ -160722,6 +160543,7 @@
 						"correct": "The Last Bastion",
 						"difficulty": "Hard",
 						"explanation": "The Last Bastion, set up in the Zwaardsrust ruins, is where the scattered forces of good regroup to begin their counterattack against Mordegon.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "In the World of Ruin, Hendrik establishes a final bastion of hope for Heliodor's refugees. What is this fortified camp called?",
 						"wrong": [
@@ -160734,6 +160556,7 @@
 						"correct": "Dundrasil",
 						"difficulty": "Hard",
 						"explanation": "The mural reveals that King Irwin of Dundrasil (the Luminary's father) and King Carnelian of Heliodor were brothers, making the Luminary Carnelian's nephew.",
+						"fact_checked": true,
 						"image_url": "https://skillcheckgame.com/assets/images/heliodor.webp",
 						"question": "A secret passage in the king's bedchamber leads to a hidden storeroom containing a mural depicting the royal family line. Which kingdom is shown to be linked to Heliodor's?",
 						"wrong": [
@@ -160746,6 +160569,7 @@
 						"correct": "Golden Yellow",
 						"difficulty": "Hard",
 						"explanation": "The name perfectly matches the kingdom's sun-and-gold motif, which is prominently featured in its architecture and the armor of its knights.",
+						"fact_checked": true,
 						"image_url": "",
 						"question": "The name 'Heliodor' is derived from a real-world gemstone, which is a variety of beryl. What color is this gemstone?",
 						"wrong": [
@@ -171044,7 +170868,7 @@
 					"name": "Wake Up and Smell the Ashes"
 				},
 				{
-					"bonus": 2000,
+					"bonus": 2000.0,
 					"items": [
 						"Dog",
 						"Strider"
