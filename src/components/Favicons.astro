@@ -1,10 +1,24 @@
 ---
-import favIcon from '~/assets/favicons/favicon.ico';
-import favIconSvg from '~/assets/favicons/favicon.svg';
-import appleTouchIcon from '~/assets/favicons/apple-touch-icon.png';
+// Favicons for Skill Check
+// All icon files live in /public
 ---
 
-<link rel="shortcut icon" href={favIcon} />
-<link rel="icon" type="image/svg+xml" href={favIconSvg.src} />
-<link rel="mask-icon" href={favIconSvg.src} color="#8D46E7" />
-<link rel="apple-touch-icon" sizes="180x180" href={appleTouchIcon.src} />
+<!-- Standard favicon -->
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon_16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon_32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon_48.png" />
+
+<!-- High-res / PWA icons -->
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon_192.png" />
+<link rel="icon" type="image/png" sizes="512x512" href="/favicon_512.png" />
+
+<!-- Apple touch icon (iOS home screen) -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple_touch_icon.png" />
+
+<!-- Web App Manifest -->
+<link rel="manifest" href="/manifest.webmanifest" />
+
+<!-- Microsoft Tile (Edge / Windows pinned site) -->
+<meta name="msapplication-TileColor" content="#0a0518" />
+<meta name="msapplication-TileImage" content="/favicon_192.png" />
