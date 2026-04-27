@@ -174437,7 +174437,117 @@
 		},
 		{
 			"id": "portal",
-			"synergies": []
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Chell",
+						"Portal Gun",
+						"Long Fall Boots"
+					],
+					"name": "The Test Subject Loadout"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Wheatley",
+						"GLaDOS",
+						"GLaDOS's Chamber"
+					],
+					"name": "The Core Transfer"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Cave Johnson",
+						"Aperture Science",
+						"Repulsion Gel"
+					],
+					"name": "Old Aperture Pioneers"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Aerial Faith Plate",
+						"Weighted Storage Cube",
+						"Propulsion Gel"
+					],
+					"name": "Speedy Thing Goes In..."
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"GLaDOS",
+						"Test Chamber",
+						"The Cake"
+					],
+					"name": "The Enrichment Center Promise"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"GLaDOS",
+						"Companion Cube"
+					],
+					"name": "You Monster"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Sentry Turret",
+						"Chell"
+					],
+					"name": "Target Acquired"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Wheatley",
+						"GLaDOS"
+					],
+					"name": "The Intelligence Dampener"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Cave Johnson",
+						"Propulsion Gel"
+					],
+					"name": "Science Isn't About Why!"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Portal Gun",
+						"Long Fall Boots"
+					],
+					"name": "Terminal Velocity"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Test Chamber",
+						"Weighted Storage Cube"
+					],
+					"name": "Standard Testing Protocol"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Companion Cube",
+						"GLaDOS's Chamber"
+					],
+					"name": "Incinerator Bound"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"Portal Gun",
+						"Aerial Faith Plate"
+					],
+					"name": "Conservation of Momentum"
+				}
+			]
 		}
 	],
 	"titles": {
