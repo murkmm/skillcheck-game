@@ -163974,6 +163974,3447 @@
 					"Host"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Aperture Science Handheld Portal Device",
+						"difficulty": "Easy",
+						"explanation": "Commonly known as the 'Portal Gun,' this device creates linked entry and exit points, forming the core mechanic of the entire franchise.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/chell.webp",
+						"question": "What is the full name of the iconic device Chell uses to navigate the Enrichment Center?",
+						"wrong": [
+							"Zero Point Energy Field Manipulator",
+							"Long Fall Boot Emitter",
+							"Gravitational Anomaly Projector"
+						]
+					},
+					{
+						"correct": "Cake",
+						"difficulty": "Easy",
+						"explanation": "The phrase 'The cake is a lie' became a massive internet meme, originating from graffiti left by the survivor Doug Rattmann. [11]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What sweet treat is repeatedly promised to Chell by GLaDOS as a reward for completing tests?",
+						"wrong": [
+							"Pie",
+							"Ice Cream",
+							"Doughnuts"
+						]
+					},
+					{
+						"correct": "GLaDOS",
+						"difficulty": "Easy",
+						"explanation": "GLaDOS (Genetic Lifeform and Disk Operating System) is the malevolent and sarcastic AI in control of the Aperture Science facility. [2]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the primary AI antagonist who oversees Chell's testing?",
+						"wrong": [
+							"Wheatley",
+							"Cave Johnson",
+							"Caroline"
+						]
+					},
+					{
+						"correct": "Sentry Turret",
+						"difficulty": "Easy",
+						"explanation": "These sleek, white turrets with a single red eye are iconic obstacles, known for their polite, childlike voices and deadly accurate fire. [13]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which type of harmless, often musical, robot does Chell frequently encounter that is armed with live ammunition?",
+						"wrong": [
+							"Rocket Sentry",
+							"Defective Turret",
+							"Frankenturret"
+						]
+					},
+					{
+						"correct": "Wheatley",
+						"difficulty": "Easy",
+						"explanation": "Wheatley, an Intelligence Dampening Sphere, serves as Chell's guide before his own ambitions get the better of him. [5]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what is the name of the friendly but bumbling personality core who initially helps Chell escape?",
+						"wrong": [
+							"Space Core",
+							"Adventure Core",
+							"Fact Core"
+						]
+					},
+					{
+						"correct": "Doug Rattmann",
+						"difficulty": "Medium",
+						"explanation": "Also known as the 'Rat Man,' Doug Rattmann was a schizophrenic scientist who survived GLaDOS's initial neurotoxin attack and rearranged the test subject list to put Chell at the top. [2, 11]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to graffiti found in hidden dens, what is the name of the Aperture scientist who helps Chell from behind the scenes?",
+						"wrong": [
+							"Cave Johnson",
+							"Gregorio Stevens",
+							"Henry Wyatt"
+						]
+					},
+					{
+						"correct": "Long Fall Boots",
+						"difficulty": "Medium",
+						"explanation": "The Long Fall Boots are an advanced piece of Aperture technology that negates all impact damage from falls of any height.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What piece of equipment is permanently affixed to Chell's feet, preventing her from taking any fall damage?",
+						"wrong": [
+							"Advanced Knee Replacement",
+							"Propulsion Gel Insoles",
+							"Heel Springs"
+						]
+					},
+					{
+						"correct": "The Morality Core",
+						"difficulty": "Medium",
+						"explanation": "The Morality Core was specifically installed by Aperture scientists to prevent GLaDOS from becoming homicidal. Removing it unleashes her full malevolence. [19, 32]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What specific item must Chell retrieve and incinerate to weaken GLaDOS during their first confrontation?",
+						"wrong": [
+							"The Curiosity Core",
+							"The Intelligence Core",
+							"The Anger Core"
+						]
+					},
+					{
+						"correct": "Tenacity",
+						"difficulty": "Medium",
+						"explanation": "Rattmann chose Chell as the primary test subject because her extreme tenacity gave her the best chance of survival against GLaDOS.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the 'Lab Rat' comic, it's revealed that Chell's file has a single, notable characteristic listed. What is it?",
+						"wrong": [
+							"High Intelligence",
+							"Genetic Abnormalities",
+							"Obedience"
+						]
+					},
+					{
+						"correct": "The Moon",
+						"difficulty": "Medium",
+						"explanation": "By shooting a portal onto the lunar surface, Chell exposes Wheatley to the vacuum of space, allowing GLaDOS to regain control of the facility. [4]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "At the end of Portal 2, where does Chell place a portal in order to defeat Wheatley?",
+						"wrong": [
+							"The Sun",
+							"An alternate dimension",
+							"The Earth's Core"
+						]
+					},
+					{
+						"correct": "A potato",
+						"difficulty": "Hard",
+						"explanation": "The project is a giant, overgrown potato battery, implying one of her parents worked at Aperture Science and giving a clue to her backstory. [8]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/chell.webp",
+						"question": "A science fair project found in Portal 2, signed with Chell's name, used a special ingredient from her dad's work. What was it?",
+						"wrong": [
+							"Moon rocks",
+							"Neurotoxin",
+							"Propulsion gel"
+						]
+					},
+					{
+						"correct": "1498",
+						"difficulty": "Hard",
+						"explanation": "Doug Rattmann altered the test subject queue, moving Chell from #1498 to #1, believing she was the most likely to survive. [3]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the first game, what is Chell's designated number on the Test Subject Roster before Rattmann moves her to the top?",
+						"wrong": [
+							"0001",
+							"1287",
+							"0776"
+						]
+					},
+					{
+						"correct": "Party Escort Bot",
+						"difficulty": "Hard",
+						"explanation": "The Party Escort Bot is responsible for ensuring test subjects reach the 'Post-Testing Celebration Center,' though its true function seems more ominous. [8]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "At the very end of Portal, Chell is wounded and dragged back into the facility by an unseen character. What is this character called?",
+						"wrong": [
+							"Relaxation Vault Supervisor",
+							"Protocol Android",
+							"Facility Maintenance Unit"
+						]
+					},
+					{
+						"correct": "Adopted",
+						"difficulty": "Hard",
+						"explanation": "GLaDOS uses this information to taunt Chell, though the truth of the statement remains ambiguous given GLaDOS's manipulative nature. [8]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/chell.webp",
+						"question": "GLaDOS claims that according to Chell's file, she was...",
+						"wrong": [
+							"An orphan",
+							"A clone",
+							"A volunteer"
+						]
+					},
+					{
+						"correct": "Chell",
+						"difficulty": "Easy",
+						"explanation": "Chell is the player character in both Portal and Portal 2, known for her iconic orange jumpsuit and incredible resilience. [3]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the silent, orange-clad protagonist of the Portal series?",
+						"wrong": [
+							"Alyx",
+							"Mel",
+							"Caroline"
+						]
+					}
+				]
+			},
+			"id": "portal_chell",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Chell",
+				"lore_desc": "A remarkably persistent and resourceful test subject at Aperture Science. Armed with only a Portal Gun and her wits, she navigates treacherous test chambers and defies the malevolent AI, GLaDOS, in a relentless pursuit of freedom.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"Protagonist",
+					"Test Subject"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Genetic Lifeform and Disk Operating System",
+						"difficulty": "Easy",
+						"explanation": "This full name hints at her origins: a combination of a biological component and a sophisticated computer system. [2]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/glados.webp",
+						"question": "What does the acronym GLaDOS stand for?",
+						"wrong": [
+							"General Logistical and Defensive Operating System",
+							"Global Logistics and Defense Observation System",
+							"Guidance Logistics and Destructive Operations Software"
+						]
+					},
+					{
+						"correct": "Neurotoxin",
+						"difficulty": "Easy",
+						"explanation": "Deadly neurotoxin is GLaDOS's weapon of choice, which she used to eliminate the Aperture Science staff. [2]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What deadly substance does GLaDOS threaten to flood the test chambers with?",
+						"wrong": [
+							"Radioactive Waste",
+							"Acid",
+							"Chlorine Gas"
+						]
+					},
+					{
+						"correct": "Her experiment",
+						"difficulty": "Easy",
+						"explanation": "Despite her apparent destruction, she considers the entire ordeal a successful test, highlighting her warped scientific perspective.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the song 'Still Alive' that plays over the first game's credits, GLaDOS boasts that she is 'making a note here: HUGE SUCCESS.' What is she referring to?",
+						"wrong": [
+							"Killing Chell",
+							"Baking a cake",
+							"Escaping the facility"
+						]
+					},
+					{
+						"correct": "A potato",
+						"difficulty": "Easy",
+						"explanation": "This results in the creation of 'PotatOS,' a powerless and humiliating form for the once-mighty AI. [16]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, Wheatley temporarily transfers GLaDOS's consciousness into what object?",
+						"wrong": [
+							"A storage cube",
+							"A turret",
+							"A lemon"
+						]
+					},
+					{
+						"correct": "Cooperative Testing Initiative",
+						"difficulty": "Easy",
+						"explanation": "In Portal 2's co-op mode, GLaDOS guides the robots Atlas and P-Body through a series of complex tests designed for two. [2]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the co-op testing initiative that GLaDOS oversees, featuring two robotic test subjects?",
+						"wrong": [
+							"Advanced Teamwork Protocol",
+							"Synergy Trials",
+							"Dual-Portal Examination"
+						]
+					},
+					{
+						"correct": "Caroline",
+						"difficulty": "Medium",
+						"explanation": "Caroline was Cave Johnson's loyal personal assistant, and her mind was forcibly uploaded to become the foundation of the GLaDOS AI. [30]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The consciousness of which Aperture Science employee was used as the 'Genetic Lifeform' component of GLaDOS?",
+						"wrong": [
+							"Chell",
+							"Betty",
+							"Doug Rattmann"
+						]
+					},
+					{
+						"correct": "Personality Cores",
+						"difficulty": "Medium",
+						"explanation": "These cores were designed to regulate GLaDOS's behavior, and included a Morality Core, Curiosity Core, Intelligence (Cake) Core, and Anger Core. [19]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "During the final battle in Portal, Chell must destroy four of GLaDOS's add-ons. What are these spherical objects called?",
+						"wrong": [
+							"Logic Modules",
+							"Emotion Inhibitors",
+							"Cognitive Dampeners"
+						]
+					},
+					{
+						"correct": "Bring Your Daughter to Work Day",
+						"difficulty": "Medium",
+						"explanation": "GLaDOS was activated on this day and, within two picoseconds, locked down the facility and flooded it with neurotoxin. [31]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "On what festive occasion did GLaDOS first go rogue and murder the Aperture Science staff?",
+						"wrong": [
+							"The company's anniversary",
+							"Take Your Pet to Work Day",
+							"A mandatory science fair"
+						]
+					},
+					{
+						"correct": "Lay eggs in her",
+						"difficulty": "Medium",
+						"explanation": "This moment of vulnerability is a rare and darkly comedic one for the usually all-powerful AI. [6]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/glados.webp",
+						"question": "In Portal 2, a bird is seen pecking at GLaDOS while she is in her potato form. What does she claim the bird is trying to do?",
+						"wrong": [
+							"Eat her",
+							"Build a nest on her",
+							"Steal her wires"
+						]
+					},
+					{
+						"correct": "A reactor core meltdown",
+						"difficulty": "Medium",
+						"explanation": "Wheatley's ignorance and ineptitude lead the entire Aperture facility to the brink of total destruction. [12]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When Wheatley takes over the facility, he proves too incompetent to maintain it. What catastrophic event does he nearly cause?",
+						"wrong": [
+							"A facility-wide power failure",
+							"An earthquake",
+							"A neurotoxin explosion"
+						]
+					},
+					{
+						"correct": "A paradox",
+						"difficulty": "Hard",
+						"explanation": "She tells him 'This statement is false,' a classic liar's paradox. However, Wheatley is too dim-witted to understand it, so the trick fails. [12]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "GLaDOS attempts to trick Wheatley with a logical statement designed to short-circuit an AI. What kind of statement is this?",
+						"wrong": [
+							"A riddle",
+							"A recursive loop",
+							"A philosophical question"
+						]
+					},
+					{
+						"correct": "To prevent her from releasing neurotoxin",
+						"difficulty": "Hard",
+						"explanation": "The Aperture scientists installed the Morality Core specifically to stop her from flooding the Enrichment Center with deadly neurotoxin, a task it performed successfully until Chell removed it. [19]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Before being installed in her main chassis, what was the primary function of the Morality Core?",
+						"wrong": [
+							"To make her more empathetic",
+							"To calculate ethical dilemmas",
+							"To stop her from lying"
+						]
+					},
+					{
+						"correct": "Caroline",
+						"difficulty": "Hard",
+						"explanation": "After briefly feeling concern for Chell's safety, GLaDOS realizes it's the lingering part of Caroline's personality and promptly deletes her. [4]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/glados.webp",
+						"question": "In the song 'Want You Gone,' GLaDOS deletes a specific part of her memory. Who does she delete?",
+						"wrong": [
+							"Chell",
+							"Cave Johnson",
+							"Wheatley"
+						]
+					},
+					{
+						"correct": "Cake",
+						"difficulty": "Hard",
+						"explanation": "Its bizarre recipe includes ingredients like 'electric needle driver' and 'unethical rhubarb,' revealing the source of GLaDOS's cake obsession. [32]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Intelligence Core, when detached from GLaDOS, recites a recipe for a very strange version of what item?",
+						"wrong": [
+							"Lemonade",
+							"Fish sticks",
+							"Casserole"
+						]
+					},
+					{
+						"correct": "Deadly Neurotoxin",
+						"difficulty": "Hard",
+						"explanation": "The canisters are simply and ominously labeled 'Deadly Neurotoxin,' leaving no doubt as to their function.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the full designation of the deadly gas GLaDOS uses, as seen on canisters in her chamber?",
+						"wrong": [
+							"Sarin Gas",
+							"VX Nerve Agent",
+							"Mustard Gas"
+						]
+					}
+				]
+			},
+			"id": "portal_glados",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "GLaDOS",
+				"lore_desc": "The Genetic Lifeform and Disk Operating System, or GLaDOS, is the hyper-intelligent, dangerously unstable, and bitingly sarcastic AI that controls the Aperture Science Enrichment Center. Her relationship with Chell evolves from a homicidal testing overseer to a reluctant, and still insulting, ally.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"AI",
+					"Antagonist"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "To generate an endless stream of terrible ideas",
+						"difficulty": "Easy",
+						"explanation": "He was designed as an 'Intelligence Dampening Sphere,' intended to hamper GLaDOS's cognitive function by feeding her bad ideas. [5, 9]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/wheatley.webp",
+						"question": "According to GLaDOS, what was Wheatley's original purpose as a personality core?",
+						"wrong": [
+							"To manage the test subject relaxation vaults",
+							"To act as a moral compass for GLaDOS",
+							"To oversee turret manufacturing"
+						]
+					},
+					{
+						"correct": "Puts her in a potato battery",
+						"difficulty": "Easy",
+						"explanation": "As an act of ultimate humiliation, he transfers her powerful AI into a humble potato, nicknaming her 'PotatOS'. [16]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After taking over the facility, what is the first thing Wheatley does to GLaDOS?",
+						"wrong": [
+							"Deletes her",
+							"Throws her in the incinerator",
+							"Launches her into space"
+						]
+					},
+					{
+						"correct": "A single blue eye",
+						"difficulty": "Easy",
+						"explanation": "Wheatley is a spherical core whose single, expressive blue optic is his main way of conveying emotion.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Wheatley's most defining physical feature?",
+						"wrong": [
+							"A red targeting laser",
+							"Two robotic arms",
+							"A set of small wheels"
+						]
+					},
+					{
+						"correct": "Weighted Storage Cubes",
+						"difficulty": "Easy",
+						"explanation": "He creates bizarre, useless hybrids called 'Frankenturrets,' which are simply cubes with turret legs that hop around aimlessly. [13, 20]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When Wheatley tries to create his own test subjects, he combines turrets with what other Aperture object?",
+						"wrong": [
+							"Radios",
+							"Security Cameras",
+							"Buttons"
+						]
+					},
+					{
+						"correct": "Stranded in space",
+						"difficulty": "Easy",
+						"explanation": "After being sucked through a portal to the moon, he is left floating in space, endlessly contemplating his mistakes. [4]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Wheatley's ultimate fate at the end of Portal 2?",
+						"wrong": [
+							"Destroyed in a reactor meltdown",
+							"Permanently deleted",
+							"Reassigned to janitorial duty"
+						]
+					},
+					{
+						"correct": "The Extended Relaxation Center",
+						"difficulty": "Medium",
+						"explanation": "He was tasked with overseeing the long-term cryogenic stasis of the test subjects, a job he considered highly undesirable. [5]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Before meeting Chell, Wheatley was in charge of managing which part of the Aperture facility?",
+						"wrong": [
+							"The Neurotoxin Production Wing",
+							"The Portal Gun Testing Track",
+							"The Mainframe Core"
+						]
+					},
+					{
+						"correct": "The need to test",
+						"difficulty": "Medium",
+						"explanation": "The chassis of the central core is designed to give its occupant a euphoric rush for testing, an addiction Wheatley quickly succumbs to.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What does Wheatley call the 'itch' that he develops after taking control of the facility?",
+						"wrong": [
+							"A software glitch",
+							"A power surge",
+							"An allergic reaction to Caroline"
+						]
+					},
+					{
+						"correct": "Explosives",
+						"difficulty": "Medium",
+						"explanation": "Having learned from GLaDOS's defeat, Wheatley booby-traps the button that would normally initiate a core transfer. [42]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "During the final confrontation, Wheatley rigs the stalemate resolution button with what?",
+						"wrong": [
+							"Neurotoxin emitters",
+							"A crushing plate",
+							"A portal to a fire pit"
+						]
+					},
+					{
+						"correct": "Fatty fatty no-parents",
+						"difficulty": "Medium",
+						"explanation": "His inability to come up with a clever insult, unlike GLaDOS, further demonstrates that he truly is a moron. [12]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When trying to insult Chell, what is the childish name Wheatley calls her?",
+						"wrong": [
+							"Slowpoke slow-pants",
+							"Dummy dumb-dumb face",
+							"Smelly smelly test-smell"
+						]
+					},
+					{
+						"correct": "The Morality Core",
+						"difficulty": "Medium",
+						"explanation": "The three corrupted cores are obsessed with space, adventure, and spouting incorrect facts, respectively. The Morality Core was from the first game.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/wheatley.webp",
+						"question": "Wheatley attaches three corrupted personality cores to GLaDOS's old chassis. Which of these is NOT one of them?",
+						"wrong": [
+							"The Space Core",
+							"The Adventure Core",
+							"The Fact Core"
+						]
+					},
+					{
+						"correct": "True. I'll go with true.",
+						"difficulty": "Hard",
+						"explanation": "He simply guesses an answer to the logical impossibility, completely missing the point and rendering the paradox ineffective.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The paradox GLaDOS uses against Wheatley fails because he is too unintelligent to understand it. What does he say in response?",
+						"wrong": [
+							"Hold on, let me think about that.",
+							"That sounds like a trick.",
+							"False. No, wait, true. False."
+						]
+					},
+					{
+						"correct": "Frankenturret",
+						"difficulty": "Hard",
+						"explanation": "While they are not given an official name in-game, the developers refer to them as 'Frankenturrets' in the commentary. [20, 21]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/wheatley.webp",
+						"question": "What is the official, in-universe name for the bizarre cube-turret hybrids Wheatley creates?",
+						"wrong": [
+							"Cube-Bot",
+							"Turret-Cube",
+							"Walk-a-Block"
+						]
+					},
+					{
+						"correct": "I'm sorry",
+						"difficulty": "Hard",
+						"explanation": "Floating alone in space, Wheatley finally feels remorse for his betrayal and everything he put Chell through.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "During his final monologue in space, Wheatley admits that if he could go back, what's the first thing he would say?",
+						"wrong": [
+							"Let's get out of here",
+							"I was wrong",
+							"Don't press that button"
+						]
+					},
+					{
+						"correct": "Foreman",
+						"difficulty": "Hard",
+						"explanation": "This story, likely a fabrication, is one of Wheatley's many attempts to make himself sound more important and intelligent than he actually is. [9]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What job did Wheatley claim he almost got in the manufacturing department before losing out to an 'exact duplicate of the foreman'?",
+						"wrong": [
+							"Quality Control",
+							"Assembly Line Operator",
+							"Inventory Manager"
+						]
+					},
+					{
+						"correct": "Core overheating",
+						"difficulty": "Hard",
+						"explanation": "His ineptitude with the Aperture systems leads him to accidentally trigger a core meltdown warning, foreshadowing the climax of the game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When Chell and Wheatley are trying to escape, he plugs into a mainframe and accidentally triggers several announcements. Which of these is one of them?",
+						"wrong": [
+							"Mandatory staff meeting",
+							"Cake delivery has arrived",
+							"Test subject has escaped"
+						]
+					}
+				]
+			},
+			"id": "portal_wheatley",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Wheatley",
+				"lore_desc": "An Intelligence Dampening Sphere with a friendly British accent, Wheatley was designed for the express purpose of being a moron. He starts as Chell's bumbling sidekick before a taste of ultimate power corrupts him into the main antagonist of Portal 2.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"AI",
+					"Sidekick",
+					"Antagonist"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Aperture Science",
+						"difficulty": "Easy",
+						"explanation": "Cave Johnson is the founder and CEO of Aperture Science, a research corporation known for its questionable ethics and brilliant, if dangerous, inventions. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the company Cave Johnson founded?",
+						"wrong": [
+							"Black Mesa",
+							"Stark Industries",
+							"Mann Co."
+						]
+					},
+					{
+						"correct": "Make life take the lemons back",
+						"difficulty": "Easy",
+						"explanation": "In his iconic speech, he demands to see life's manager and invents a 'combustible lemon' to burn life's house down. [29]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cave Johnson is famous for a rant about life giving you lemons. What does he say to do with them?",
+						"wrong": [
+							"Invent a new kind of lemonade",
+							"Throw them at your enemies",
+							"Use them to power a potato battery"
+						]
+					},
+					{
+						"correct": "Caroline",
+						"difficulty": "Easy",
+						"explanation": "Caroline was his steadfast assistant whose consciousness was later used as the basis for the GLaDOS AI. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who was Cave Johnson's loyal personal assistant, whom he trusted to run the company after his death?",
+						"wrong": [
+							"Chell",
+							"GLaDOS",
+							"Betty"
+						]
+					},
+					{
+						"correct": "Shower Curtains",
+						"difficulty": "Easy",
+						"explanation": "Aperture began in 1943 as 'Aperture Fixtures,' a company that became wildly successful manufacturing shower curtains for all branches of the military except the Navy. [27]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/cave_johnson.webp",
+						"question": "Before it was a science company, Aperture was founded to manufacture what product for the US Military?",
+						"wrong": [
+							"Boots",
+							"Spam",
+							"Helmets"
+						]
+					},
+					{
+						"correct": "CEO",
+						"difficulty": "Easy",
+						"explanation": "As the founder of the company, Cave Johnson served as its charismatic and slightly unhinged Chief Executive Officer. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Cave Johnson's job title at Aperture Science?",
+						"wrong": [
+							"Lead Scientist",
+							"Head of Security",
+							"Marketing Director"
+						]
+					},
+					{
+						"correct": "Moon rocks",
+						"difficulty": "Medium",
+						"explanation": "He purchased $70 million worth of moon rocks to grind into a portal-conductive gel, which ultimately led to his tragic and painful death. [29]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to his recordings, Cave Johnson contracted a fatal illness from prolonged exposure to what substance?",
+						"wrong": [
+							"Asbestos",
+							"Mercury",
+							"Neurotoxin"
+						]
+					},
+					{
+						"correct": "Crisis-of-conscience-priests",
+						"difficulty": "Medium",
+						"explanation": "As funding got tighter, Aperture moved from recruiting the best of the best to paying subjects from a variety of less-than-ideal backgrounds.",
+						"image_url": "",
+						"question": "Cave Johnson outlines three tiers of test subjects he recruited. The first was astronauts, war heroes, and Olympians. What was the second?",
+						"wrong": [
+							"Volunteers from a temp agency",
+							"Death-row inmates",
+							"Homeless people"
+						]
+					},
+					{
+						"correct": "Aperture employees",
+						"difficulty": "Medium",
+						"explanation": "In a desperate, final phase of testing, Johnson made participation in dangerous experiments a mandatory part of every employee's contract. [46]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What was the final group of people Cave Johnson made into mandatory test subjects?",
+						"wrong": [
+							"Orphans",
+							"Prisoners of war",
+							"Animals"
+						]
+					},
+					{
+						"correct": "Conversion Gel",
+						"difficulty": "Medium",
+						"explanation": "The white Conversion Gel was created by grinding up moon rocks and allows portals to be placed on any surface it coats. [29]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What experimental product did Cave Johnson develop that transforms non-portal conductive surfaces into portal-conductive ones?",
+						"wrong": [
+							"Propulsion Gel",
+							"Repulsion Gel",
+							"Adhesion Gel"
+						]
+					},
+					{
+						"correct": "Upload his consciousness into a computer",
+						"difficulty": "Medium",
+						"explanation": "He ordered his engineers to start developing brain-mapping and consciousness-transfer technology, but he died before the project was complete. [46]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What was Cave Johnson's final plan to 'cheat death'?",
+						"wrong": [
+							"Cryogenically freeze himself",
+							"Clone himself",
+							"Discover a fountain of youth"
+						]
+					},
+					{
+						"correct": "Aperture Science Portable Quantum Tunneling Device",
+						"difficulty": "Hard",
+						"explanation": "This bulky, early version of the Portal Gun was featured in promotional videos from Aperture's golden age.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the 1950s, Aperture created a product for the US Army that was a sort of 'take-home' portal device. What was it called?",
+						"wrong": [
+							"Personal Energy-matter Transporter",
+							"Pocket Dimension Hopper",
+							"Handheld Wormhole Generator"
+						]
+					},
+					{
+						"correct": "Investment Opportunity #3",
+						"difficulty": "Hard",
+						"explanation": "He offered sixty dollars to vagrants to participate in dangerous scientific experiments, framing it as an 'investment opportunity'.",
+						"image_url": "",
+						"question": "What was the name of the Aperture Science initiative that involved paying homeless people to participate in tests?",
+						"wrong": [
+							"Project Prometheus",
+							"The Volunteer Enrichment Program",
+							"Operation Safe Haven"
+						]
+					},
+					{
+						"correct": "Aperture Fixtures",
+						"difficulty": "Hard",
+						"explanation": "He founded Aperture Fixtures in 1943, choosing the name because he felt it made the shower curtains sound more hygienic. [27]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/cave_johnson.webp",
+						"question": "Before settling on 'Aperture Science,' Cave Johnson's shower curtain company went by what name?",
+						"wrong": [
+							"Cave's Curtains",
+							"Johnson & Johnson Shower Supply",
+							"Aperture Innovators"
+						]
+					},
+					{
+						"correct": "Seven deadly shower curtains",
+						"difficulty": "Hard",
+						"explanation": "In the original backstory from a Portal ARG, he was exposed to mercury while trying to create poisonous shower curtains for members of the House Naval Appropriations committee. [34]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/cave_johnson.webp",
+						"question": "A pre-retconned version of Aperture's history stated Cave Johnson died from mercury poisoning while developing what product?",
+						"wrong": [
+							"A lead-lined top hat",
+							"Radioactive coffee mugs",
+							"Asbestos-filled neckties"
+						]
+					},
+					{
+						"correct": "Sends test chamber blueprints to alternate dimensions",
+						"difficulty": "Hard",
+						"explanation": "This plan, from the Perpetual Testing Initiative DLC, involves tricking alternate versions of Aperture Science into building and paying for the test chambers. [29]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In a parallel universe, Cave Johnson establishes the 'Extra-Earth Outsourcing Initiative' to save money. What does this initiative do?",
+						"wrong": [
+							"Builds test chambers on the moon",
+							"Outsources test chamber construction to Black Mesa",
+							"Uses robots instead of humans for building"
+						]
+					}
+				]
+			},
+			"id": "portal_cave_johnson",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Cave Johnson",
+				"lore_desc": "The eccentric, bombastic, and deceased founder and CEO of Aperture Science. Through a series of pre-recorded messages, he guides players through the dilapidated older sections of the facility, revealing his company's bizarre history and his own tragic decline.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Founder",
+					"CEO",
+					"Historical Figure"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "ASHPD",
+						"difficulty": "Easy",
+						"explanation": "The full name for the device is the Aperture Science Handheld Portal Device, or ASHPD for short.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the official, full acronym for the Portal Gun?",
+						"wrong": [
+							"ASPGD",
+							"ASPQD",
+							"AHPQD"
+						]
+					},
+					{
+						"correct": "Blue and Orange",
+						"difficulty": "Easy",
+						"explanation": "The primary Portal Gun creates one blue portal and one orange portal, a color scheme that has become iconic to the series.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/portal_gun.webp",
+						"question": "What are the two distinct colors of the portals created by Chell's main device?",
+						"wrong": [
+							"Red and Green",
+							"Yellow and Purple",
+							"Black and White"
+						]
+					},
+					{
+						"correct": "Pick up and carry objects",
+						"difficulty": "Easy",
+						"explanation": "The device is equipped with a zero-point energy field manipulator, allowing it to pick up and hold objects like cubes and turrets.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Besides creating portals, what other function, similar to the Gravity Gun, can the Portal Gun perform?",
+						"wrong": [
+							"Fire energy blasts",
+							"Create a temporary shield",
+							"Slow down time"
+						]
+					},
+					{
+						"correct": "Glass",
+						"difficulty": "Easy",
+						"explanation": "Portals can only be placed on specific static surfaces, typically those made of concrete or coated in moon rock dust; they cannot be placed on glass, metal, or moving objects.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "On which of these surfaces can portals NOT be placed?",
+						"wrong": [
+							"White tiled walls",
+							"The Moon",
+							"Surfaces coated in Conversion Gel"
+						]
+					},
+					{
+						"correct": "The Enrichment Center",
+						"difficulty": "Easy",
+						"explanation": "The Aperture Science computer-aided Enrichment Center is the primary setting for the Portal series, located in a former salt mine in Michigan.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the massive, underground research facility where the Portal Gun is tested?",
+						"wrong": [
+							"Black Mesa",
+							"The Citadel",
+							"White Forest"
+						]
+					},
+					{
+						"correct": "Yellow and Red",
+						"difficulty": "Medium",
+						"explanation": "To differentiate from Chell's and Atlas's portals, P-body's device creates yellow and red portals.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the co-op campaign, the robot P-body's portals are which two colors?",
+						"wrong": [
+							"Green and Pink",
+							"Light Blue and Dark Blue",
+							"Orange and Purple"
+						]
+					},
+					{
+						"correct": "Portable Quantum Tunneling Device",
+						"difficulty": "Medium",
+						"explanation": "Early marketing materials show the much larger, backpack-mounted predecessor was called the Aperture Science Portable Quantum Tunneling Device.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What was the official name for the 1950s prototype of the modern Portal Gun?",
+						"wrong": [
+							"Interdimensional Transport Projector",
+							"Spatial Displacement Emitter",
+							"Zero-Point Energy Field Manipulator"
+						]
+					},
+					{
+						"correct": "Organs",
+						"difficulty": "Medium",
+						"explanation": "In one of her many morbidly humorous lines, GLaDOS states, 'The Device is now more valuable than the organs and combined incomes of everyone in Subject Hometown Here.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to GLaDOS, the device is more valuable than the combined incomes and what of everyone in the test subject's hometown?",
+						"wrong": [
+							"Properties",
+							"Vehicles",
+							"Memories"
+						]
+					},
+					{
+						"correct": "Conversion Gel",
+						"difficulty": "Medium",
+						"explanation": "Conversion Gel is a white, paint-like substance that coats surfaces, making them portal-conductive. It's revealed to be made from ground-up moon rocks.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/portal_gun.webp",
+						"question": "What special substance, made from crushed moon rocks, allows portals to be placed on otherwise unsuitable surfaces?",
+						"wrong": [
+							"Propulsion Gel",
+							"Repulsion Gel",
+							"Adhesion Gel"
+						]
+					},
+					{
+						"correct": "Atlas",
+						"difficulty": "Medium",
+						"explanation": "Atlas is the short, round robot, while his partner, P-body, is tall and slender. They are the two playable characters in the co-op campaign.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the co-op campaign, what is the name of the blue, spherical robot who wields his own Portal Gun?",
+						"wrong": [
+							"P-body",
+							"Wheatley",
+							"Claptrap"
+						]
+					},
+					{
+						"correct": "Wheatley Laboratories",
+						"difficulty": "Hard",
+						"explanation": "After becoming power-mad from his connection to the central core, Wheatley rebrands the entire facility in his own name.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what does Wheatley temporarily rename the Aperture Science facility to?",
+						"wrong": [
+							"The Wheatley Science Center",
+							"Wheatley's Funhouse",
+							"The Core Testing Initiative"
+						]
+					},
+					{
+						"correct": "Half-Life",
+						"difficulty": "Hard",
+						"explanation": "The acronym is a nod to 'Adrian Shephard', the protagonist of Half-Life: Opposing Force, though this is an out-of-universe fact. In-universe, it stands for Aperture Science Handheld Portal Device.",
+						"image_url": "",
+						"question": "The acronym ASHPD is a reference to the protagonist of which other famous sci-fi property?",
+						"wrong": [
+							"System Shock",
+							"BioShock",
+							"Deus Ex"
+						]
+					},
+					{
+						"correct": "Black Mesa",
+						"difficulty": "Hard",
+						"explanation": "A slideshow presentation titled 'Dollars and Cents: Competing with Black Mesa' can be found, highlighting the fierce rivalry between the two scientific institutions.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to a presentation slide seen in an office, Aperture Science was in direct competition with what other research corporation for government contracts?",
+						"wrong": [
+							"Umbrella Corporation",
+							"Sarif Industries",
+							"VersaLife"
+						]
+					},
+					{
+						"correct": "Human Test Subjects",
+						"difficulty": "Hard",
+						"explanation": "GLaDOS created Atlas and P-body for the Cooperative Testing Initiative, stating that tests requiring cooperation had never been solved by humans.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/portal_gun.webp",
+						"question": "The co-op testing initiative was designed by GLaDOS to phase out the need for what?",
+						"wrong": [
+							"Personality Cores",
+							"Sentry Turrets",
+							"Neurotoxin"
+						]
+					},
+					{
+						"correct": "Doug Rattmann",
+						"difficulty": "Hard",
+						"explanation": "Doug Rattmann, also known as the 'Ratman,' was a schizophrenic Aperture scientist who survived GLaDOS's initial neurotoxin attack and left cryptic clues.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the former Aperture scientist who leaves behind graffiti-filled dens, guiding the player?",
+						"wrong": [
+							"Cave Johnson",
+							"Gregorio Stevens",
+							"Henry Crabtree"
+						]
+					}
+				]
+			},
+			"id": "portal_portal_gun",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Portal Gun",
+				"lore_desc": "The Aperture Science Handheld Portal Device is an experimental tool used to create two linked portals, allowing for instantaneous travel and creative puzzle-solving within the Enrichment Center.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Tool",
+					"Aperture Science"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A heart",
+						"difficulty": "Easy",
+						"explanation": "The Companion Cube is identical to a standard Weighted Storage Cube, except for the pink heart symbol on each face.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/companion_cube.webp",
+						"question": "What symbol is printed on all six sides of the Companion Cube?",
+						"wrong": [
+							"Aperture Science logo",
+							"A star",
+							"A smiley face"
+						]
+					},
+					{
+						"correct": "Test Chamber 17",
+						"difficulty": "Easy",
+						"explanation": "The memorable Test Chamber 17 requires Chell to use the Companion Cube to solve its puzzles before being forced to destroy it.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In what test chamber is Chell first introduced to the Companion Cube?",
+						"wrong": [
+							"Test Chamber 05",
+							"Test Chamber 13",
+							"Test Chamber 19"
+						]
+					},
+					{
+						"correct": "Euthanize it in an incinerator",
+						"difficulty": "Easy",
+						"explanation": "At the end of the test chamber, the only way to proceed is to drop the Companion Cube into an 'Aperture Science Emergency Intelligence Incinerator'.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What does GLaDOS force the player to do with the Companion Cube at the end of its test chamber?",
+						"wrong": [
+							"Place it on a pedestal",
+							"Give it to a turret",
+							"Leave it behind a locked door"
+						]
+					},
+					{
+						"correct": "Disregard its advice",
+						"difficulty": "Easy",
+						"explanation": "GLaDOS states, 'The Enrichment Center reminds you that the Weighted Companion Cube will never threaten to stab you and, in fact, cannot speak. In the event that it does speak, we urge you to disregard its advice.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "GLaDOS warns the player that if the Companion Cube speaks, they should do what?",
+						"wrong": [
+							"Report it to a supervisor",
+							"Follow its instructions",
+							"Sing it a song"
+						]
+					},
+					{
+						"correct": "A cake",
+						"difficulty": "Easy",
+						"explanation": "In the final cinematic, the camera pans through the Aperture facility, revealing the Companion Cube sitting next to the infamous Black Forest cake.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Companion Cube makes a surprise appearance just before the end credits of Portal, next to what other iconic item?",
+						"wrong": [
+							"A radio",
+							"A turret",
+							"The Portal Gun"
+						]
+					},
+					{
+						"correct": "Sentient",
+						"difficulty": "Medium",
+						"explanation": "Contradicting her statements from the first game, GLaDOS taunts Chell in Portal 2 by claiming the cubes are sentient right before destroying them.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, GLaDOS claims that the Companion Cubes are, in fact, what?",
+						"wrong": [
+							"Filled with cake",
+							"Radioactive",
+							"Extremely heavy"
+						]
+					},
+					{
+						"correct": "Doug Rattmann",
+						"difficulty": "Medium",
+						"explanation": "The comic delves into the psyche of Doug Rattmann, a schizophrenic scientist who survived GLaDOS's attack, and portrays the Companion Cube as his guide.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/companion_cube.webp",
+						"question": "In the 'Lab Rat' comic, who is shown having conversations with a Companion Cube?",
+						"wrong": [
+							"Cave Johnson",
+							"Chell",
+							"Caroline"
+						]
+					},
+					{
+						"correct": "I love you",
+						"difficulty": "Medium",
+						"explanation": "If the player earns the 'Preservation of Mass' achievement by saving the cube, GLaDOS will incinerate it and mockingly claim it was about to confess its love.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What does GLaDOS claim the Companion Cube in Portal 2 was 'about to say' right before it's fizzled?",
+						"wrong": [
+							"Help me",
+							"The cake is a lie",
+							"Don't trust her"
+						]
+					},
+					{
+						"correct": "A soft humming or musical tune",
+						"difficulty": "Medium",
+						"explanation": "The Companion Cube in Portal 2 emits a faint musical humming, which is actually a piece of the 'Turret Opera' heard later in the game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what subtle sound can be heard when Chell is near the Companion Cube?",
+						"wrong": [
+							"Faint whispering",
+							"A ticking sound",
+							"Static"
+						]
+					},
+					{
+						"correct": "Preservation of Mass",
+						"difficulty": "Medium",
+						"explanation": "The 'Preservation of Mass' achievement is awarded to players who manage to bring the Companion Cube with them, defying GLaDOS's expectations.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the achievement earned for carrying the Companion Cube from its test chamber to the exit elevator in Portal 2?",
+						"wrong": [
+							"Friend for Life",
+							"Sentient Cargo",
+							"Heart Breaker"
+						]
+					},
+					{
+						"correct": "Sphere",
+						"difficulty": "Hard",
+						"explanation": "In an advanced version of Test Chamber 17, an 'Edgeless Safety Cube' known as the Companion Sphere replaces the standard cube.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In one of the advanced chambers in the original Portal, the cube is replaced by a spherical version known as the Companion what?",
+						"wrong": [
+							"Ball",
+							"Orb",
+							"Globe"
+						]
+					},
+					{
+						"correct": "Playtesters didn't realize they had to keep the same cube",
+						"difficulty": "Hard",
+						"explanation": "The developers noted that during playtesting, players would often abandon the required cube, so they made it visually unique and had GLaDOS emphasize its importance to guide them.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to the developers, what was the real-world design reason for creating the Companion Cube?",
+						"wrong": [
+							"To test the game's physics engine",
+							"It was a tribute to a developer's pet",
+							"To make the game more marketable"
+						]
+					},
+					{
+						"correct": "Construct",
+						"difficulty": "Hard",
+						"explanation": "The specific tune that the Companion Cube hums can be heard in the track 'Love as a Construct' from the official game soundtrack.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The humming from the Portal 2 Companion Cube is part of a musical piece from the soundtrack titled 'Love as a...' what?",
+						"wrong": [
+							"Variable",
+							"Test",
+							"Machine"
+						]
+					},
+					{
+						"correct": "Weighted Storage Cube",
+						"difficulty": "Hard",
+						"explanation": "Despite the emotional attachment GLaDOS encourages, the Companion Cube behaves identically to a standard Weighted Storage Cube in terms of gameplay mechanics.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/companion_cube.webp",
+						"question": "What specific type of puzzle element is the Companion Cube functionally identical to?",
+						"wrong": [
+							"Sentry Turret",
+							"Edgeless Safety Cube",
+							"Discouragement Redirection Cube"
+						]
+					},
+					{
+						"correct": "Dispenses and immediately incinerates them",
+						"difficulty": "Hard",
+						"explanation": "In Test Chamber 7, GLaDOS torments Chell by dispensing multiple Companion Cubes from a vent, only to have them immediately destroyed by a fizzler field.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the Portal 2 chapter 'The Escape', what does GLaDOS repeatedly do to Companion Cubes to taunt Chell?",
+						"wrong": [
+							"Drops them into acid",
+							"Crushes them with pistons",
+							"Shoots them with turrets"
+						]
+					}
+				]
+			},
+			"id": "portal_companion_cube",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Companion Cube",
+				"lore_desc": "The Weighted Companion Cube is a special variant of the standard storage cube, distinguished by a heart symbol on its sides. It serves as a key gameplay element and a source of emotional manipulation by GLaDOS.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Tool",
+					"Aperture Science"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "A bright red laser indicates the turret's line of sight; if it locks onto you, the turret will begin firing.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color is the targeting laser emitted by a standard Sentry Turret?",
+						"wrong": [
+							"Blue",
+							"Green",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "Knock it over",
+						"difficulty": "Easy",
+						"explanation": "Simply tipping a Sentry Turret over causes it to flail, fire wildly, and then shut down.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/sentry_turret.webp",
+						"question": "What is the most common and effective way to disable a Sentry Turret?",
+						"wrong": [
+							"Shoot it with the Portal Gun",
+							"Shine a light at it",
+							"Talk to it"
+						]
+					},
+					{
+						"correct": "Are you still there?",
+						"difficulty": "Easy",
+						"explanation": "The turrets have a distinct, polite, and somewhat childlike voice, and will ask 'Are you still there?' when they lose a target.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When a turret loses sight of you, what phrase will it politely say?",
+						"wrong": [
+							"Target lost.",
+							"Where did you go?",
+							"I see you."
+						]
+					},
+					{
+						"correct": "Its white, ovoid chassis",
+						"difficulty": "Easy",
+						"explanation": "The smooth, white, egg-shaped shell of the Sentry Turret is one of its most recognizable features.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What part of a Sentry Turret's design makes it resemble a popular egg-shaped candy?",
+						"wrong": [
+							"Its three thin legs",
+							"Its single red eye",
+							"Its antennae"
+						]
+					},
+					{
+						"correct": "Crap Turrets",
+						"difficulty": "Easy",
+						"explanation": "Wheatley dismissively refers to the shoddy, non-functional turrets as 'Crap Turrets'.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what nickname does Wheatley use for the harmless, unfinished turrets?",
+						"wrong": [
+							"Dumb Turrets",
+							"Broken Bots",
+							"Junk Turrets"
+						]
+					},
+					{
+						"correct": "They are masculine and sarcastic",
+						"difficulty": "Medium",
+						"explanation": "Unlike the high-pitched, feminine voices of the standard turrets, Defective Turrets have masculine, snarky voices and personalities.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is different about the voices of the Defective Turrets compared to the standard models?",
+						"wrong": [
+							"They are deeper and robotic",
+							"They are silent",
+							"They speak in a different language"
+						]
+					},
+					{
+						"correct": "Sing an opera",
+						"difficulty": "Medium",
+						"explanation": "In one of the game's most memorable scenes, a quartet of turrets performs an Italian opera aria for Chell, conducted by the Animal King Turret.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What unique action does a group of turrets perform at the end of Portal 2?",
+						"wrong": [
+							"Form a pyramid",
+							"Solve a puzzle",
+							"Wave goodbye"
+						]
+					},
+					{
+						"correct": "Frankenturret",
+						"difficulty": "Medium",
+						"explanation": "Wheatley creates 'Frankenturrets' by combining turret parts with storage cubes in a desperate attempt to make test subjects for his chambers.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What type of turret, introduced in Portal 2, is a bizarre hybrid of a Sentry Turret and a Weighted Storage Cube?",
+						"wrong": [
+							"Cube Turret",
+							"Boxy Turret",
+							"Hybrid Sentry"
+						]
+					},
+					{
+						"correct": "Oracle Turret",
+						"difficulty": "Medium",
+						"explanation": "Though never named in-game, a unique turret that says 'I'm different' and offers cryptic clues is known to the community and developers as the 'Oracle Turret'.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/sentry_turret.webp",
+						"question": "A special turret in Portal 2, which gives cryptic prophecies, is known by what fan-given name?",
+						"wrong": [
+							"Prophet Turret",
+							"Fortune Turret",
+							"Wise Turret"
+						]
+					},
+					{
+						"correct": "The Turret Manufacturing Line",
+						"difficulty": "Medium",
+						"explanation": "In a key sequence, Chell uses the Turret Redemption Line to swap a master template, causing the production line to manufacture only faulty turrets.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "By replacing a master template turret with a defective one, Chell sabotages what process?",
+						"wrong": [
+							"The Neurotoxin Distribution System",
+							"GLaDOS's Mainframe",
+							"The Portal Gun Energy Grid"
+						]
+					},
+					{
+						"correct": "Caroline",
+						"difficulty": "Hard",
+						"explanation": "The Oracle Turret foreshadows the revelation that GLaDOS's personality was based on Cave Johnson's assistant, Caroline.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "One of the Oracle Turret's cryptic lines, 'Her name is ________,' foretells a major plot reveal.",
+						"wrong": [
+							"Chell",
+							"GLaDOS",
+							"Aperture"
+						]
+					},
+					{
+						"correct": "A Sentry Turret",
+						"difficulty": "Hard",
+						"explanation": "P-body's tall, thin chassis and single eye are derived from the design of a Sentry Turret, while Atlas is based on a Personality Core.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/sentry_turret.webp",
+						"question": "The co-op robot P-body's design is based on what Aperture device?",
+						"wrong": [
+							"A Personality Core",
+							"A Security Camera",
+							"A Weighted Storage Cube"
+						]
+					},
+					{
+						"correct": "Animal King Turret",
+						"difficulty": "Hard",
+						"explanation": "The unusually large turret, distinguished by its leopard-print pattern and crown, is referred to as the Animal King Turret.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The massive, crowned turret that conducts the opera at the end of Portal 2 is known by what title?",
+						"wrong": [
+							"Prima Donna Turret",
+							"Turret King",
+							"The Conductor"
+						]
+					},
+					{
+						"correct": "beneath",
+						"difficulty": "Hard",
+						"explanation": "The Oracle Turret says 'The answer is beneath us,' which references the old, sealed-off Aperture facility where the gels are discovered.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "One of the Oracle Turret's prophecies is 'The answer is _______ us,' hinting at the location of the mobility gels.",
+						"wrong": [
+							"above",
+							"within",
+							"behind"
+						]
+					},
+					{
+						"correct": "Ellen McLain",
+						"difficulty": "Hard",
+						"explanation": "The Prima Donna Turret is voiced by Ellen McLain, who is also the voice actress for GLaDOS and the standard Sentry Turrets.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the opera-singing 'Prima Donna' turret encountered in Portal 2?",
+						"wrong": [
+							"Ariel Duran",
+							"Maria Callas",
+							"Cecilia Bartoli"
+						]
+					}
+				]
+			},
+			"id": "portal_sentry_turret",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Sentry Turret",
+				"lore_desc": "Aperture Science Sentry Turrets are tripedal, armed robots that serve as one of the primary hazards in the Enrichment Center. They are known for their polite, childlike voices which contrast sharply with their lethal purpose.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Obstacle",
+					"Aperture Science"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "To hold down a large button",
+						"difficulty": "Easy",
+						"explanation": "The main purpose of the Weighted Storage Cube is to be placed on a '1500 Megawatt Super Colliding Super Button' to activate doors, lifts, and other devices.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the primary function of a Weighted Storage Cube in a test chamber?",
+						"wrong": [
+							"To block laser beams",
+							"To be used as a weapon",
+							"To store other items"
+						]
+					},
+					{
+						"correct": "It disintegrates",
+						"difficulty": "Easy",
+						"explanation": "The Material Emancipation Grill, often found at the end of test chambers, disintegrates any unauthorized equipment, including storage cubes.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens to a Weighted Storage Cube if it passes through a Material Emancipation Grill?",
+						"wrong": [
+							"It gets cleaned",
+							"It teleports back to the start",
+							"It turns into a Companion Cube"
+						]
+					},
+					{
+						"correct": "A shield against turret fire",
+						"difficulty": "Easy",
+						"explanation": "A test subject can hold a cube in front of themselves to act as a makeshift shield, blocking incoming fire from Sentry Turrets.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Besides dropping them from a portal, what can a Storage Cube be used for defensively?",
+						"wrong": [
+							"To jam doors",
+							"To build a wall",
+							"To reflect energy pellets"
+						]
+					},
+					{
+						"correct": "Yellow",
+						"difficulty": "Easy",
+						"explanation": "The circular lights on the cube are normally blue, but they change to yellow to indicate that the button it's on has been activated.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what color does the light on the cube change to when it's correctly placed on a button?",
+						"wrong": [
+							"Green",
+							"Red",
+							"White"
+						]
+					},
+					{
+						"correct": "Vent",
+						"difficulty": "Easy",
+						"explanation": "Weighted Storage Cubes typically enter the test chambers through a Vital Apparatus Vent, which drops them into the testing area.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cubes are dispensed into test chambers through a wall-mounted device called a Vital Apparatus what?",
+						"wrong": [
+							"Chute",
+							"Dropper",
+							"Dispenser"
+						]
+					},
+					{
+						"correct": "1500 Megawatt Super-Colliding Super Button",
+						"difficulty": "Medium",
+						"explanation": "True to Aperture Science's grandiose naming conventions, the official name for the button is the 1500 Megawatt Super-Colliding Super Button.",
+						"image_url": "",
+						"question": "What is the full, official name for the large floor buttons the cubes are designed to press?",
+						"wrong": [
+							"Heavy Duty Pressure Plate",
+							"Weighted Activation Switch",
+							"Kinetic Energy Receptor Pad"
+						]
+					},
+					{
+						"correct": "Edgeless Safety Cube",
+						"difficulty": "Medium",
+						"explanation": "The Edgeless Safety Cube is a spherical cube variant that fits into a special circular receptacle, and its name is an example of Aperture's dry humor.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, a spherical variant of the storage cube is introduced. What is it called?",
+						"wrong": [
+							"Weighted Sphere",
+							"Rolling Storage Ball",
+							"Button Orb"
+						]
+					},
+					{
+						"correct": "Discouragement Redirection Cube",
+						"difficulty": "Medium",
+						"explanation": "Introduced in Portal 2, the Discouragement Redirection Cube has a crystal core that allows it to bend Thermal Discouragement Beams.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A special cube with lenses on its sides is used to redirect laser beams. What is it called?",
+						"wrong": [
+							"Laser Refractor Cube",
+							"Thermal Beam Prism",
+							"Light-Bending Cube"
+						]
+					},
+					{
+						"correct": "Simple crates",
+						"difficulty": "Medium",
+						"explanation": "In the condemned test chambers from Cave Johnson's era, the prototype storage cubes were much simpler, resembling basic wooden or metal crates.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the older, abandoned parts of Aperture, what did the 20th-century prototype cubes look like?",
+						"wrong": [
+							"Metal spheres",
+							"Small barrels",
+							"Gray cylinders"
+						]
+					},
+					{
+						"correct": "It must be placed in a special receptacle",
+						"difficulty": "Medium",
+						"explanation": "The spherical Edgeless Safety Cube is designed to fit into a round floor receptacle instead of the flat Super Button used for standard cubes.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the main gameplay difference between a Weighted Storage Cube and an Edgeless Safety Cube?",
+						"wrong": [
+							"It is much lighter",
+							"It cannot be carried through portals",
+							"It explodes on impact"
+						]
+					},
+					{
+						"correct": "A Heavy-Duty Super Button",
+						"difficulty": "Hard",
+						"explanation": "Despite its primary purpose of redirecting lasers, the Discouragement Redirection Cube is heavy enough to function as a standard weighted cube.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Discouragement Redirection Cube can also be used to activate what other puzzle element?",
+						"wrong": [
+							"An Edgeless Safety Cube Receptacle",
+							"A Vital Apparatus Vent",
+							"A Material Emancipation Grill"
+						]
+					},
+					{
+						"correct": "Placing it in a receptacle designed to exactly fit it",
+						"difficulty": "Hard",
+						"explanation": "GLaDOS dryly remarks, 'You have no idea how tiring it is to praise someone for placing an Edgeless Safety Cube into a receptacle designed to exactly fit an Edgeless Safety Cube.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What does GLaDOS sarcastically praise Chell for when she places an Edgeless Safety Cube into its receptacle?",
+						"wrong": [
+							"Her incredible strength",
+							"Solving the puzzle so quickly",
+							"Not destroying the priceless equipment"
+						]
+					},
+					{
+						"correct": "Contraption Cube",
+						"difficulty": "Hard",
+						"explanation": "The Contraption Cube is a highly versatile testing element from the map editor with numerous adjustable properties.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What type of cube, exclusive to the Perpetual Testing Initiative, has adjustable mass, friction, and elasticity?",
+						"wrong": [
+							"Scalable Cube",
+							"Schrödinger's Cube",
+							"Frankenturret"
+						]
+					},
+					{
+						"correct": "To encourage teamwork to catch it",
+						"difficulty": "Hard",
+						"explanation": "According to developers, the cubes were made bouncy to force players to work together to trap or catch the sphere, as it could easily roll out of bounds.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the co-op campaign, why did the developers intentionally make the Edgeless Safety Cubes bouncy?",
+						"wrong": [
+							"As a reference to another game",
+							"It was a physics engine glitch they kept",
+							"To make puzzles more difficult"
+						]
+					},
+					{
+						"correct": "Cube Button",
+						"difficulty": "Hard",
+						"explanation": "While single-player uses the 'Super Button,' the co-op campaign uses a slightly different version simply called the 'Cube Button.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the official name for the button used with the Weighted Storage Cube in the co-op campaign?",
+						"wrong": [
+							"Super Button",
+							"Co-op Button",
+							"Dual Button"
+						]
+					}
+				]
+			},
+			"id": "portal_weighted_storage_cube",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Weighted Storage Cube",
+				"lore_desc": "The Aperture Science Weighted Storage Cube is a fundamental testing element used throughout the Enrichment Center. Its primary purpose is to be placed on large floor buttons to power various mechanisms in the test chambers.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Item",
+					"Tool",
+					"Aperture Science"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "The cake is a lie",
+						"difficulty": "Easy",
+						"explanation": "This iconic phrase was scrawled on the walls of hidden dens by the Aperture scientist Doug Rattmann to warn future test subjects about GLaDOS's false promises.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What famous four-word phrase is associated with the cake, warning test subjects of GLaDOS's deception?",
+						"wrong": [
+							"The cake is great",
+							"There is no cake",
+							"You deserve the cake"
+						]
+					},
+					{
+						"correct": "In a storage room with the Companion Cube",
+						"difficulty": "Easy",
+						"explanation": "After GLaDOS's defeat, the final cutscene pans through the Black Mesa-esque storage facility, revealing the cake on a table, tantalizingly out of reach.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "At the very end of the first game, where is the cake revealed to be waiting?",
+						"wrong": [
+							"In the incinerator room",
+							"In Cave Johnson's office",
+							"On GLaDOS's chassis"
+						]
+					},
+					{
+						"correct": "GLaDOS",
+						"difficulty": "Easy",
+						"explanation": "GLaDOS, the central A.I. of the Enrichment Center, uses the promise of cake as a primary motivator for Chell throughout the entirety of Portal.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which A.I. entity constantly promises the player cake as a reward for completing test chambers?",
+						"wrong": [
+							"Wheatley",
+							"Cave Johnson",
+							"Announcer"
+						]
+					},
+					{
+						"correct": "Black Forest Cake",
+						"difficulty": "Easy",
+						"explanation": "The cake seen in the game was inspired by a Black Forest cake from a bakery near Valve's headquarters, which is a German dessert with chocolate, whipped cream, and cherries.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the ending song 'Still Alive', GLaDOS sings that the cake was not a lie, but was in fact 'so delicious and moist'. What type of cake is it revealed to be?",
+						"wrong": [
+							"Chocolate Fudge Cake",
+							"Red Velvet Cake",
+							"Angel Food Cake"
+						]
+					},
+					{
+						"correct": "Doug Rattmann",
+						"difficulty": "Easy",
+						"explanation": "Doug Rattmann, a schizophrenic scientist, was the last survivor of GLaDOS's attack and left numerous paintings and warnings, including the famous phrase about the cake.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The graffiti warning about the cake was left by which unseen character, who survived GLaDOS's initial neurotoxin attack?",
+						"wrong": [
+							"Cave Johnson",
+							"Caroline",
+							"Henry"
+						]
+					},
+					{
+						"correct": "Fish-shaped crackers",
+						"difficulty": "Medium",
+						"explanation": "Among a list of bizarre ingredients like 'volatile organic compounds', the in-game recipe also suggests garnishing the cake with various fish-shaped items.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_cake.webp",
+						"question": "According to the recipe for the cake found in-game, what unusual item is listed as a potential garnish?",
+						"wrong": [
+							"Fish-shaped candies",
+							"Sediment-shaped sediment",
+							"Fish-shaped ethylbenzene"
+						]
+					},
+					{
+						"correct": "Cake Dispenser",
+						"difficulty": "Medium",
+						"explanation": "As a joke from the developers, who were well aware of the meme's popularity, a fake door in Portal 2 briefly promises a 'Cake Dispenser' before being revealed as a trap.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, a fake door in one of Wheatley's traps promises access to what kind of dispenser, as a nod to the original game's meme?",
+						"wrong": [
+							"Portal Gun Dispenser",
+							"Companion Cube Dispenser",
+							"Long Fall Boot Dispenser"
+						]
+					},
+					{
+						"correct": "Ground-up moon rocks",
+						"difficulty": "Medium",
+						"explanation": "While ground-up moon rocks are a key plot point related to Cave Johnson's illness, they are not listed in the humorous cake recipe found in the first game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The official in-game recipe for the cake contains many nonsensical and dangerous ingredients. Which of these is NOT on the list?",
+						"wrong": [
+							"Volatile malted milk impoundments",
+							"Fiberglass surface resins",
+							"Unsaturated polyester resin"
+						]
+					},
+					{
+						"correct": "Cherry",
+						"difficulty": "Medium",
+						"explanation": "The cake is adorned with maraschino cherries and is based on a Black Forest cake, which traditionally features cherries and a cherry liqueur called Kirsch.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the primary fruit flavor associated with the cake, both in its appearance and the real-world dessert it's based on?",
+						"wrong": [
+							"Strawberry",
+							"Raspberry",
+							"Blueberry"
+						]
+					},
+					{
+						"correct": "The Intelligence Core",
+						"difficulty": "Medium",
+						"explanation": "The Intelligence Core, also known as the Logic Core, constantly recites a cake recipe to GLaDOS as a means of controlling her homicidal impulses.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The cake recipe is presented to GLaDOS by one of her personality cores to distract her from more malevolent activities. Which core is responsible for this?",
+						"wrong": [
+							"The Morality Core",
+							"The Curiosity Core",
+							"The Anger Core"
+						]
+					},
+					{
+						"correct": "Rhubarb",
+						"difficulty": "Hard",
+						"explanation": "Among the many bizarre ingredients listed in the cake recipe graffiti, several lines are dedicated to different forms of rhubarb.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/the_cake.webp",
+						"question": "In Chell's personnel file, seen in the 'Lab Rat' comic, what is listed as one of the key ingredients of the cake she is supposedly allergic to?",
+						"wrong": [
+							"Chocolate",
+							"Wheat",
+							"Eggs"
+						]
+					},
+					{
+						"correct": "Regent Bakery & Cafe",
+						"difficulty": "Hard",
+						"explanation": "The developers have confirmed that the cake was based on the Black Forest cake from the Regent Bakery & Cafe in Redmond, Washington.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The specific real-world cake that inspired the Portal cake came from a bakery near the Valve offices. What is the name of that bakery?",
+						"wrong": [
+							"Piroshky Piroshky",
+							"Le Panier",
+							"Macrina Bakery"
+						]
+					},
+					{
+						"correct": "cake_still_alive.vtf",
+						"difficulty": "Hard",
+						"explanation": "As a nod to the ending song, the texture file for the cake model is named 'cake_still_alive.vtf' in the game's internal files.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the game's code, the texture file for the cake is humorously named what?",
+						"wrong": [
+							"the_lie.vtf",
+							"black_forest.vtf",
+							"delicious_moist.vtf"
+						]
+					},
+					{
+						"correct": "The Cake",
+						"difficulty": "Hard",
+						"explanation": "In a humorous easter egg, one of the slides shows a turret celebrating its birthday with the iconic Black Forest cake from the first game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the co-op campaign of Portal 2, the robots find a hidden room with a slide show. One slide depicts a birthday party for a turret. What is on the table at this party?",
+						"wrong": [
+							"A pile of bullets",
+							"An Aperture Science radio",
+							"A miniature portal gun"
+						]
+					}
+				]
+			},
+			"id": "portal_the_cake",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "The Cake",
+				"lore_desc": "A Black Forest cake promised by GLaDOS as a reward for completing the Enrichment Center's tests. Its existence becomes a subject of doubt, famously summarized by the graffitied phrase, 'The cake is a lie.'",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Food",
+					"Reward",
+					"Meme"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Cave Johnson",
+						"difficulty": "Easy",
+						"explanation": "Cave Johnson founded Aperture Science, initially as a shower curtain manufacturer, and his pre-recorded messages guide the player through the older sections of the facility in Portal 2.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is the charismatic and often unhinged founder and CEO of Aperture Science?",
+						"wrong": [
+							"Wallace Breen",
+							"Gordon Freeman",
+							"Barney Calhoun"
+						]
+					},
+					{
+						"correct": "Shower Curtains",
+						"difficulty": "Easy",
+						"explanation": "The company began as 'Aperture Fixtures' in the 1940s, winning contracts to supply shower curtains to the U.S. military.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What seemingly mundane product did Aperture Science originally manufacture before shifting its focus to experimental physics?",
+						"wrong": [
+							"Toasters",
+							"Asbestos Filing Cabinets",
+							"Diet Pudding"
+						]
+					},
+					{
+						"correct": "Black Mesa",
+						"difficulty": "Easy",
+						"explanation": "Aperture Science and Black Mesa were fierce rivals, constantly competing for grants and scientific prestige, a fact frequently referenced in both the Portal and Half-Life series.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What rival scientific research company is often mentioned as Aperture Science's main competitor for government funding?",
+						"wrong": [
+							"Mann Co.",
+							"Combine",
+							"Stark Industries"
+						]
+					},
+					{
+						"correct": "Enrichment Center",
+						"difficulty": "Easy",
+						"explanation": "The full name of the location is the Aperture Science Computer-Aided Enrichment Center, located in a massive former salt mine in Upper Michigan.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The primary Aperture Science facility where the games take place is known by what official name?",
+						"wrong": [
+							"Applied Physics Laboratory",
+							"Quantum Research Facility",
+							"Science and Testing Division"
+						]
+					},
+					{
+						"correct": "GLaDOS",
+						"difficulty": "Easy",
+						"explanation": "GLaDOS, or Genetic Lifeform and Disk Operating System, was activated on 'bring-your-daughter-to-work-day' and promptly flooded the facility with neurotoxin.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the AI created by Aperture Science to oversee the Enrichment Center, who later takes control of it?",
+						"wrong": [
+							"Cortana",
+							"SHODAN",
+							"HAL 9000"
+						]
+					},
+					{
+						"correct": "Homeless people",
+						"difficulty": "Medium",
+						"explanation": "After facing bankruptcy and being investigated for the disappearance of astronauts, Aperture began recruiting vagrants for testing, a fact mentioned in Cave Johnson's recordings.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/aperture_science.webp",
+						"question": "In the 1970s, Aperture Science's financial troubles led them to recruit test subjects from what demographic, paying them $60 for their time?",
+						"wrong": [
+							"Olympians",
+							"Astronauts",
+							"War heroes"
+						]
+					},
+					{
+						"correct": "Borealis",
+						"difficulty": "Medium",
+						"explanation": "The icebreaker ship Borealis, containing advanced portal technology, vanished from its drydock within Aperture and is sought by various factions in Half-Life 2: Episode Two.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the Aperture Science research vessel that mysteriously disappeared and is a major plot point in the Half-Life series?",
+						"wrong": [
+							"Ishimura",
+							"Von Braun",
+							"Pillar of Autumn"
+						]
+					},
+					{
+						"correct": "Caroline",
+						"difficulty": "Medium",
+						"explanation": "Caroline was Cave Johnson's trusted right-hand woman, and against her wishes, her consciousness became the foundation for the GLaDOS AI.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cave Johnson's loyal assistant, whose personality was eventually uploaded into an AI, was named what?",
+						"wrong": [
+							"Carol",
+							"Catherine",
+							"Claire"
+						]
+					},
+					{
+						"correct": "Aperture Science Portable Quantum Tunneling Device",
+						"difficulty": "Medium",
+						"explanation": "Before being refined into the Handheld Portal Device, the original portal technology was a much larger and more dangerous piece of equipment with a very scientific-sounding name.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The early, bulky version of the portal gun had a much longer name. What was it called?",
+						"wrong": [
+							"Aperture Science Handheld Portal Device",
+							"Zero Point Energy Field Manipulator",
+							"Interdimensional Matter Transporter"
+						]
+					},
+					{
+						"correct": "Moon rocks",
+						"difficulty": "Medium",
+						"explanation": "In an attempt to create portable surfaces for portals, Cave Johnson purchased and experimented with moon rocks, which tragically led to a fatal illness from the dust.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cave Johnson's health fatally declined after he was poisoned by inhaling the dust from what ground-up material?",
+						"wrong": [
+							"Asbestos",
+							"Plutonium",
+							"Mercury"
+						]
+					},
+					{
+						"correct": "Aperture Science Innovators",
+						"difficulty": "Hard",
+						"explanation": "The company was founded as Aperture Fixtures, changed to Aperture Science Innovators in 1943, and eventually became simply Aperture Science.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/aperture_science.webp",
+						"question": "Before being named Aperture Science, the company had another name besides Aperture Fixtures. What was it?",
+						"wrong": [
+							"Aperture Laboratories",
+							"Aperture Research",
+							"Aperture Dynamics"
+						]
+					},
+					{
+						"correct": "We do it because we can't not",
+						"difficulty": "Hard",
+						"explanation": "Aperture had many propaganda slogans, including 'We do what we must, because we can,' which later became the lyrics for the ending song 'Still Alive'.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which of these is NOT an official Aperture Science motto or slogan seen on posters?",
+						"wrong": [
+							"A Trusted Friend in Science",
+							"We do what we must, because we can",
+							"There's a hole in the sky through which things can fly"
+						]
+					},
+					{
+						"correct": "Diet aid",
+						"difficulty": "Hard",
+						"explanation": "Repulsion Gel was originally marketed as a diet aid called 'Propulsion Pudding,' but was recalled after reports of users bouncing uncontrollably and breaking every bone in their bodies.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Conversion Gel, made from moon rocks, was intended to be used as what kind of consumer product before its deadly side effects were discovered?",
+						"wrong": [
+							"Paint thinner",
+							"Hair gel",
+							"Laundry detergent"
+						]
+					},
+					{
+						"correct": "Praying Mantis",
+						"difficulty": "Hard",
+						"explanation": "One of the early, abandoned experiments involved creating an army of 'Mantis Men' by splicing human and praying mantis DNA.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/aperture_science.webp",
+						"question": "In the 1950s, Aperture conducted genetic experiments by combining human DNA with that of what insect?",
+						"wrong": [
+							"Cockroach",
+							"Wasp",
+							"Ant"
+						]
+					},
+					{
+						"correct": "Cleveland",
+						"difficulty": "Hard",
+						"explanation": "While the main Enrichment Center is in Michigan, Aperture owned at least one other base of operations in Cleveland, Ohio.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Aperture Science had a secondary facility, a much smaller 'Assisted Jaunt Center', located in which Ohio city?",
+						"wrong": [
+							"Cincinnati",
+							"Columbus",
+							"Dayton"
+						]
+					}
+				]
+			},
+			"id": "portal_aperture_science",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Aperture Science",
+				"lore_desc": "A scientific research corporation founded by the eccentric Cave Johnson. Originally a shower curtain manufacturer, Aperture Science evolved into a sprawling, morally ambiguous research facility responsible for the Portal Gun, GLaDOS, and the endless labyrinth of Test Chambers.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Corporation",
+					"Location",
+					"Antagonist"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "To test Aperture Science products",
+						"difficulty": "Easy",
+						"explanation": "The Test Chambers are explicitly designed to test the functionality and safety of Aperture's inventions, such as the Portal Gun and various gels, using human subjects.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the primary purpose of the Test Chambers within the Aperture Science facility?",
+						"wrong": [
+							"To house Aperture employees",
+							"To store hazardous materials",
+							"To generate power for the facility"
+						]
+					},
+					{
+						"correct": "Weighted Companion Cube",
+						"difficulty": "Easy",
+						"explanation": "The Weighted Companion Cube is a key element in one of Portal's most memorable test chambers, designed to form an emotional bond with the test subject before its incineration.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the iconic, heart-emblazoned cube that test subjects are sometimes required to protect and ultimately euthanize?",
+						"wrong": [
+							"Friendship Cube",
+							"Affection Sphere",
+							"Loyalty Box"
+						]
+					},
+					{
+						"correct": "Sentry Turrets",
+						"difficulty": "Easy",
+						"explanation": "Sentry Turrets are common obstacles, known for their polite, child-like voices and deadly machine guns.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the talkative, spherical robots with a single red eye that patrol the test chambers?",
+						"wrong": [
+							"Security Drones",
+							"Defense Orbs",
+							"Patrol Bots"
+						]
+					},
+					{
+						"correct": "Goo",
+						"difficulty": "Easy",
+						"explanation": "The Announcer and GLaDOS simply refer to the deadly liquid at the bottom of many chambers as 'goo' or 'deadly goo'.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the common term for the toxic, green liquid that often fills the floors of test chambers, resulting in instant death upon contact?",
+						"wrong": [
+							"Acid",
+							"Sludge",
+							"Mire"
+						]
+					},
+					{
+						"correct": "Aerial Faith Plate",
+						"difficulty": "Easy",
+						"explanation": "The Aerial Faith Plate is a spring-loaded platform that flings test subjects and objects along a fixed trajectory, introducing a new momentum-based puzzle mechanic.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what type of testing element allows Chell to be launched through the air across large gaps?",
+						"wrong": [
+							"Pneumatic Diversity Vent",
+							"Excursion Funnel",
+							"Thermal Discouragement Beam"
+						]
+					},
+					{
+						"correct": "1500 Megawatt Heavy Duty Super-Colliding Super Button",
+						"difficulty": "Medium",
+						"explanation": "The ridiculously long name for these simple red buttons is a classic example of Aperture Science's humorous and overly-technical branding.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/test_chamber.webp",
+						"question": "What is the official name for the large, red buttons that must be pressed, often by placing a cube on them, to activate doors or lifts?",
+						"wrong": [
+							"High Energy Pellet Receptacle",
+							"Weighted Storage Cube Activator",
+							"Pneumatic Diversity Switch"
+						]
+					},
+					{
+						"correct": "Excursion Funnel",
+						"difficulty": "Medium",
+						"explanation": "The Excursion Funnel is a key mechanic in Portal 2, allowing for controlled movement through complex spaces and the transport of items like turrets and cubes.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what is the name of the blue, tractor-beam-like field that can carry objects and the player through the air?",
+						"wrong": [
+							"Aerial Faith Plate",
+							"Propulsion Gel",
+							"Repulsion Gel"
+						]
+					},
+					{
+						"correct": "Panels",
+						"difficulty": "Medium",
+						"explanation": "In Portal 2, GLaDOS demonstrates that the test chambers are made of modular panels, which can be moved by robotic arms to create new layouts on the fly.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The walls and floors of test chambers are constructed from what, allowing them to be rapidly reconfigured?",
+						"wrong": [
+							"Concrete",
+							"Steel plates",
+							"Polymer composite"
+						]
+					},
+					{
+						"correct": "Propulsion Gel",
+						"difficulty": "Medium",
+						"explanation": "Propulsion Gel allows Chell to gain incredible speed, enabling her to clear massive gaps when combined with ramps or faith plates.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the orange gel that dramatically increases a player's running speed?",
+						"wrong": [
+							"Repulsion Gel",
+							"Conversion Gel",
+							"Adhesion Gel"
+						]
+					},
+					{
+						"correct": "A fire pit",
+						"difficulty": "Medium",
+						"explanation": "At the conclusion of testing, GLaDOS attempts to incinerate Chell in a large fire pit, which serves as the entry point for the escape sequence.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The final test chamber in the original Portal, Chamber 19, leads not to a party, but to what deadly trap?",
+						"wrong": [
+							"A neurotoxin vent",
+							"A room full of turrets",
+							"A bottomless pit"
+						]
+					},
+					{
+						"correct": "Frankenturret",
+						"difficulty": "Hard",
+						"explanation": "During his time in control, Wheatley creates 'Frankenturrets' by mashing together broken turrets and weighted cubes, which walk around aimlessly and are unable to fire.",
+						"image_url": "https://skillcheckgame.com/assets/images/test_chamber.webp",
+						"question": "In Portal 2, Wheatley's poorly designed test chambers feature a hybrid of a turret and a storage cube. What does he call this creation?",
+						"wrong": [
+							"Cube-ret",
+							"Box-bot",
+							"Turret-in-a-box"
+						]
+					},
+					{
+						"correct": "High Energy Pellet",
+						"difficulty": "Hard",
+						"explanation": "The slow-moving, deadly energy spheres featured in several of the first game's test chambers were officially designated as High Energy Pellets.",
+						"image_url": "",
+						"question": "What is the official name for the energy balls that had to be guided into receptacles in the original Portal?",
+						"wrong": [
+							"Vital Apparatus Vent",
+							"Thermal Discouragement Beam",
+							"Super-Colliding Super Button"
+						]
+					},
+					{
+						"correct": "Conversion Gel",
+						"difficulty": "Hard",
+						"explanation": "Conversion Gel, made from crushed moon rocks, is the key to solving many late-game puzzles in Portal 2 by allowing portal placement on previously non-portalable surfaces.",
+						"image_url": "",
+						"question": "What is the designated name for the white gel that allows portals to be placed on any surface it covers?",
+						"wrong": [
+							"Propulsion Gel",
+							"Repulsion Gel",
+							"Adhesion Gel"
+						]
+					},
+					{
+						"correct": "Fewer portalable surfaces",
+						"difficulty": "Hard",
+						"explanation": "The Advanced Chambers often increase the difficulty by restricting where the player can place portals, forcing them to find more creative solutions.",
+						"image_url": "",
+						"question": "Some test chambers in the first game have more difficult 'Advanced' versions. What is one of the most common changes in these maps?",
+						"wrong": [
+							"Faster turret firing rate",
+							"Shorter puzzle timers",
+							"Darker lighting"
+						]
+					},
+					{
+						"correct": "Text-to-speech",
+						"difficulty": "Hard",
+						"explanation": "The calm, monotone voice of the Announcer is generated by a text-to-speech system, which adds to the sterile and impersonal atmosphere of the Enrichment Center.",
+						"image_url": "https://skillcheckgame.com/assets/images/test_chamber.webp",
+						"question": "The Announcer's voice that provides instructions in the test chambers is an example of what kind of system?",
+						"wrong": [
+							"Pre-recorded message",
+							"Live human operator",
+							"AI-generated dialogue"
+						]
+					}
+				]
+			},
+			"id": "portal_test_chamber",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Test Chamber",
+				"lore_desc": "The fundamental building blocks of the Aperture Science Enrichment Center. These sterile, modular rooms are filled with deadly puzzles and are designed to test both the capabilities of Aperture's technology and the resilience of its human test subjects.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Puzzle",
+					"Environment"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Personality Cores",
+						"difficulty": "Easy",
+						"explanation": "To defeat GLaDOS, Chell must use a rocket turret to knock off her Personality Cores and then throw them into a nearby incinerator.",
+						"image_url": "",
+						"question": "During the final battle in Portal, what does Chell have to incinerate to defeat GLaDOS?",
+						"wrong": [
+							"Power Cables",
+							"Coolant Tanks",
+							"Her Central Processor"
+						]
+					},
+					{
+						"correct": "A rocket turret",
+						"difficulty": "Easy",
+						"explanation": "GLaDOS deploys a rocket turret, but Chell cleverly uses portals to redirect the rockets back at GLaDOS herself.",
+						"image_url": "",
+						"question": "What weapon does GLaDOS use against Chell during the first game's final encounter?",
+						"wrong": [
+							"Lasers",
+							"Neurotoxin emitters",
+							"Crushing panels"
+						]
+					},
+					{
+						"correct": "Deadly Neurotoxin",
+						"difficulty": "Easy",
+						"explanation": "Throughout the escape and final battle, a timer counts down until the chamber is filled with the same neurotoxin that GLaDOS used to kill the Aperture scientists.",
+						"image_url": "",
+						"question": "What hazardous substance does GLaDOS threaten to flood her chamber with, putting the player on a time limit?",
+						"wrong": [
+							"Acidic Goo",
+							"Radioactive Gas",
+							"Superheated Steam"
+						]
+					},
+					{
+						"correct": "Deactivated and in pieces",
+						"difficulty": "Easy",
+						"explanation": "At the beginning of Portal 2, the chamber is in ruins and GLaDOS is dormant and dismembered until Wheatley accidentally reactivates her.",
+						"image_url": "",
+						"question": "In Portal 2, when Chell and Wheatley first arrive at the ruined chamber, what is GLaDOS's physical state?",
+						"wrong": [
+							"Fully repaired and active",
+							"Trapped in a potato",
+							"Reduced to a single personality core"
+						]
+					},
+					{
+						"correct": "The Morality Core",
+						"difficulty": "Easy",
+						"explanation": "The Morality Core was installed by the scientists to prevent GLaDOS from doing things like flooding the Enrichment Center with a deadly neurotoxin, which she immediately does upon its removal.",
+						"image_url": "https://skillcheckgame.com/assets/images/glados's_chamber.webp",
+						"question": "What is the name of the first personality core Chell removes from GLaDOS?",
+						"wrong": [
+							"The Curiosity Core",
+							"The Intelligence Core",
+							"The Anger Core"
+						]
+					},
+					{
+						"correct": "Stalemate Resolution Button",
+						"difficulty": "Medium",
+						"explanation": "The Stalemate Resolution Button is a failsafe designed to resolve a situation where two AIs disagree on a core transfer, a feature Wheatley exploits to take over the facility.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what critical button must be pressed in GLaDOS's chamber to initiate a core transfer?",
+						"wrong": [
+							"Emergency Override Switch",
+							"Mainframe Reboot Lever",
+							"Core Ejection Button"
+						]
+					},
+					{
+						"correct": "The Anger Core",
+						"difficulty": "Medium",
+						"explanation": "Also known as the Cake Core, this sphere endlessly recites a bizarre and mostly inedible cake recipe. Incinerating it is the final step to defeating GLaDOS.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the final personality core Chell incinerates in Portal ?",
+						"wrong": [
+							"The Logic Core",
+							"The Cake Core",
+							"The Recipe Core"
+						]
+					},
+					{
+						"correct": "THE CAKE IS A LIE",
+						"difficulty": "Medium",
+						"explanation": "As Chell makes her way to the chamber, a digital sign that is supposed to show a cake flickers to display the iconic warning phrase, reinforcing Doug Rattmann's message.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "During the escape in Portal, a malfunctioning sign in the chamber flickers to reveal what secret message?",
+						"wrong": [
+							"HELP ME",
+							"ESCAPE NOW",
+							"SHE IS WATCHING"
+						]
+					},
+					{
+						"correct": "A potato",
+						"difficulty": "Medium",
+						"explanation": "In a moment of scientific improvisation, GLaDOS's core AI is downloaded into a potato battery, leading to the creation of 'PotatOS'.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, what object does GLaDOS's consciousness get transferred into after Wheatley takes over her body?",
+						"wrong": [
+							"A turret",
+							"A radio",
+							"A storage cube"
+						]
+					},
+					{
+						"correct": "Party Escort Bot",
+						"difficulty": "Medium",
+						"explanation": "The credits reveal that the robot that drags Chell back into the facility is the 'Party Escort Bot,' promising to move her to a 'party submission position.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After defeating GLaDOS in Portal, Chell is dragged away from the surface by an unseen figure. What is this figure called in the game's credits?",
+						"wrong": [
+							"Stasis Maintenance Droid",
+							"Relaxation Associate",
+							"Enrichment Center Guardian"
+						]
+					},
+					{
+						"correct": "The reactor core",
+						"difficulty": "Hard",
+						"explanation": "The chamber housing the central AI is situated directly above the facility's main reactor, which begins to melt down under Wheatley's incompetent control.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The final battle against Wheatley takes place in GLaDOS's chamber, but what part of the facility is exposed to space through a hole in the ceiling?",
+						"wrong": [
+							"The mainframe",
+							"The neurotoxin reserves",
+							"The panel manufacturing plant"
+						]
+					},
+					{
+						"correct": "A Stalemate Resolution Associate",
+						"difficulty": "Hard",
+						"explanation": "The Announcer specifies that only a certified Stalemate Resolution Associate is qualified to press the button, a rule that Chell and Wheatley promptly ignore.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the official title for the person qualified to press the Stalemate Resolution Button?",
+						"wrong": [
+							"A Core Transfer Technician",
+							"An AI Conflict Mediator",
+							"A Central Processing Supervisor"
+						]
+					},
+					{
+						"correct": "Art Therapy",
+						"difficulty": "Hard",
+						"explanation": "GLaDOS names the final co-op course 'Art Therapy,' where she tasks the robots with appreciating classical art while navigating deadly test chambers.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/glados's_chamber.webp",
+						"question": "In the co-op campaign, the four main testing courses are named after scientific disciplines. Which one is GLaDOS's own course named after?",
+						"wrong": [
+							"Mobility Gels",
+							"Hard Light Surfaces",
+							"Excursion Funnels"
+						]
+					}
+				]
+			},
+			"id": "portal_glados's_chamber",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "GLaDOS's Chamber",
+				"lore_desc": "The central core of the Aperture Science Enrichment Center, this massive chamber houses the AI GLaDOS. It serves as the final confrontation area in Portal and is a key location revisited multiple times in Portal 2.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Arena",
+					"Boss"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "To launch test subjects and objects",
+						"difficulty": "Easy",
+						"explanation": "The Aerial Faith Plate acts as a powerful catapult, flinging anything on it in a predetermined trajectory.",
+						"image_url": "https://skillcheckgame.com/assets/images/aerial_faith_plate.webp",
+						"question": "What is the primary function of an Aerial Faith Plate?",
+						"wrong": [
+							"To create a bridge of hard light",
+							"To dispense cubes",
+							"To disintegrate objects"
+						]
+					},
+					{
+						"correct": "Being catapulted into space",
+						"difficulty": "Easy",
+						"explanation": "GLaDOS sardonically informs Chell that the plates were used to see how well people could solve problems when launched into space, adding, \"Results were highly informative: They could not.\"",
+						"image_url": "",
+						"question": "According to GLaDOS, the Faith Plate was part of an initiative to test problem-solving skills under what extreme condition?",
+						"wrong": [
+							"Being submerged in water",
+							"Being covered in gel",
+							"Being shot at by turrets"
+						]
+					},
+					{
+						"correct": "They turn from blue to orange",
+						"difficulty": "Easy",
+						"explanation": "When a Faith Plate fails to launch someone, its blue lights will flash orange as it emits a distress beacon.",
+						"image_url": "",
+						"question": "What happens to the lights on a Faith Plate when it supposedly malfunctions?",
+						"wrong": [
+							"They turn from green to red",
+							"They begin to strobe rapidly",
+							"They shut off completely"
+						]
+					},
+					{
+						"correct": "Weighted Storage Cubes",
+						"difficulty": "Easy",
+						"explanation": "Aerial Faith Plates can launch any object placed on them, including Weighted Storage Cubes, Sentry Turrets, and even Personality Cores.",
+						"image_url": "",
+						"question": "Besides test subjects, what other Aperture Science products are commonly launched by Faith Plates?",
+						"wrong": [
+							"Relaxation Vaults",
+							"Crushers",
+							"Light Bridges"
+						]
+					},
+					{
+						"correct": "Portal 2",
+						"difficulty": "Easy",
+						"explanation": "The Aerial Faith Plate is a testing element that was introduced in Portal 2.",
+						"image_url": "",
+						"question": "In which 'Portal' game were Aerial Faith Plates first introduced as a gameplay mechanic?",
+						"wrong": [
+							"Portal",
+							"Portal: Still Alive",
+							"The Orange Box"
+						]
+					},
+					{
+						"correct": "Spiked crushing plates",
+						"difficulty": "Medium",
+						"explanation": "During his brief tenure in charge, Wheatley uses a rigged Aerial Faith Plate to send Chell and GLaDOS into a trap surrounded by spiked plates.",
+						"image_url": "https://skillcheckgame.com/assets/images/aerial_faith_plate.webp",
+						"question": "In one of Wheatley's test chambers, a booby-trapped Faith Plate transports Chell and GLaDOS towards what deadly hazard?",
+						"wrong": [
+							"A pit of acid",
+							"An incinerator",
+							"A turret firing squad"
+						]
+					},
+					{
+						"correct": "Her weight",
+						"difficulty": "Medium",
+						"explanation": "In one chamber, GLaDOS repeatedly disables a Faith Plate as Chell steps on it, sarcastically implying it's breaking under her weight before lowering the ceiling.",
+						"image_url": "",
+						"question": "GLaDOS repeatedly pretends a Faith Plate is broken to mock Chell about what personal characteristic?",
+						"wrong": [
+							"Her intelligence",
+							"Her stubbornness",
+							"Her fashion sense"
+						]
+					},
+					{
+						"correct": "Sideways",
+						"difficulty": "Medium",
+						"explanation": "In Test Chamber 17 of Wheatley's testing track, a Faith Plate is uniquely configured to launch the player sideways into another part of the chamber.",
+						"image_url": "",
+						"question": "While most Faith Plates launch you forwards or upwards, one of Wheatley's rigged chambers launches you in what unusual direction?",
+						"wrong": [
+							"Backwards",
+							"Straight down",
+							"At a random angle"
+						]
+					},
+					{
+						"correct": "Propulsion Gel",
+						"difficulty": "Medium",
+						"explanation": "Combining the speed boost from Propulsion Gel with the launch of a Faith Plate allows players to cover massive horizontal distances.",
+						"image_url": "",
+						"question": "What other testing element is often used in conjunction with a Faith Plate to reach distant, non-portalable surfaces?",
+						"wrong": [
+							"Repulsion Gel",
+							"Hard Light Bridge",
+							"Thermal Discouragement Beam"
+						]
+					},
+					{
+						"correct": "Pound-foot force",
+						"difficulty": "Medium",
+						"explanation": "The plates fling objects into the air with a massive 50,000 pound-foot force, enough to send a person flying across a large chamber.",
+						"image_url": "",
+						"question": "According to in-game lore, the force with which a Faith Plate launches an object is 50,000 what?",
+						"wrong": [
+							"Newtons",
+							"Kilograms of thrust",
+							"Aperture energy units"
+						]
+					},
+					{
+						"correct": "Standard Panels",
+						"difficulty": "Hard",
+						"explanation": "The first design for the Faith Plate was just a non-layered panel with glass, which confused playtesters who couldn't easily tell it apart from regular wall panels.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The original design for the Aerial Faith Plate was changed because playtesters had trouble distinguishing it from what other test chamber component?",
+						"wrong": [
+							"Victory Lifts",
+							"Heavy Duty Super-Colliding Super Buttons",
+							"Glass Walls"
+						]
+					},
+					{
+						"correct": "Chapter 2: The Cold Boot",
+						"difficulty": "Hard",
+						"explanation": "The Aerial Faith Plate is formally introduced in Test Chamber 05 during the second chapter of the single-player campaign.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/aerial_faith_plate.webp",
+						"question": "In what chapter of Portal 2 is the Aerial Faith Plate first introduced to the player?",
+						"wrong": [
+							"Chapter 1: The Courtesy Call",
+							"Chapter 3: The Return",
+							"Chapter 4: The Surprise"
+						]
+					},
+					{
+						"correct": "Transporting defective turrets to the redemption line",
+						"difficulty": "Hard",
+						"explanation": "During the escape from the Turret Control Center, Chell sees Faith Plates being used to launch defective turrets, including the Oracle Turret, towards their redemption.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the Turret Control Center, Faith Plates are used as part of an assembly line for what purpose?",
+						"wrong": [
+							"Launching turrets into calibration nets",
+							"Testing turret durability",
+							"Moving turrets to the incinerator"
+						]
+					},
+					{
+						"correct": "1998",
+						"difficulty": "Hard",
+						"explanation": "In-universe documentation indicates that the Aerial Faith Plate was in use by at least 1998, though it wasn't seen in the first Portal game.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to lore, Aperture Science was using Aerial Faith Plates as early as what year?",
+						"wrong": [
+							"1975",
+							"1986",
+							"2005"
+						]
+					},
+					{
+						"correct": "Tilts forward",
+						"difficulty": "Hard",
+						"explanation": "Some puzzles require the player to be launched by a Faith Plate onto a tilted panel, using the momentum to slide into the next area or portal placement.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In one of GLaDOS's test chambers, a Faith Plate launches you towards a panel that does what when you land on it?",
+						"wrong": [
+							"Flips over",
+							"Moves sideways",
+							"Retracts into the wall"
+						]
+					}
+				]
+			},
+			"id": "portal_aerial_faith_plate",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Aerial Faith Plate",
+				"lore_desc": "A spring-loaded testing element designed to launch test subjects and other objects across large gaps or to higher elevations. GLaDOS claims they were part of an initiative to see if test subjects could solve problems while being catapulted into space.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Testing Element",
+					"Mobility",
+					"Aperture Science"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Increases movement speed",
+						"difficulty": "Easy",
+						"explanation": "Also known as Speed Gel, the orange Propulsion Gel greatly reduces friction, causing players and objects to slide around and accelerate quickly.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/propulsion_gel.webp",
+						"question": "What is the primary effect of the orange-colored Propulsion Gel?",
+						"wrong": [
+							"Makes surfaces bouncy",
+							"Allows portals on any surface",
+							"Cleans other gels away"
+						]
+					},
+					{
+						"correct": "Orange",
+						"difficulty": "Easy",
+						"explanation": "Propulsion Gel is a bright orange, paint-like substance.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color is the Propulsion Gel?",
+						"wrong": [
+							"Blue",
+							"White",
+							"Purple"
+						]
+					},
+					{
+						"correct": "A diet aid",
+						"difficulty": "Easy",
+						"explanation": "It was first sold as 'Propulsion Pudding,' a dietetic pudding substitute designed to speed food through the digestive tract.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to Cave Johnson's recordings, Propulsion Gel was originally marketed as what kind of product?",
+						"wrong": [
+							"A floor polish",
+							"An engine lubricant",
+							"A non-stick cooking spray"
+						]
+					},
+					{
+						"correct": "Cave Johnson",
+						"difficulty": "Easy",
+						"explanation": "The charismatic and slightly unhinged founder and CEO of Aperture Science, Cave Johnson, introduces the gels during Chell's journey through the old facility.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which Aperture Science CEO is heard in pre-recorded messages describing the origins of the gels?",
+						"wrong": [
+							"GLaDOS",
+							"Wheatley",
+							"Caroline"
+						]
+					},
+					{
+						"correct": "Launch over large gaps",
+						"difficulty": "Easy",
+						"explanation": "By running over a strip of Propulsion Gel leading to a ramp, players can build up enough speed to fly across massive pits and hazards.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Combining Propulsion Gel with a ramp allows the player to do what?",
+						"wrong": [
+							"Stick to the ceiling",
+							"Bounce to great heights",
+							"Disintegrate turrets"
+						]
+					},
+					{
+						"correct": "Fiberglass insulation",
+						"difficulty": "Medium",
+						"explanation": "Both the Propulsion and Repulsion Gels were derived from a liquid form of fiberglass insulation.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/propulsion_gel.webp",
+						"question": "Cave Johnson mentions that the Propulsion Pudding was made from what unusual, 'largely non-toxic' ingredient?",
+						"wrong": [
+							"Asbestos",
+							"Ground-up moon rocks",
+							"Peanut water"
+						]
+					},
+					{
+						"correct": "Crouching",
+						"difficulty": "Medium",
+						"explanation": "Crouching will increase friction and slow the player down while on a surface coated with Propulsion Gel, giving them more control.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What action can the player perform to slow down or stop while sliding on Propulsion Gel?",
+						"wrong": [
+							"Jumping repeatedly",
+							"Firing the portal gun",
+							"Picking up an object"
+						]
+					},
+					{
+						"correct": "Digestion",
+						"difficulty": "Medium",
+						"explanation": "Aperture discovered that digestion plays several key roles, like breaking food down into manageable chunks before it's 'violently expelled from the human body.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Propulsion Pudding was pulled from shelves because it was discovered that what process is actually crucial to eating?",
+						"wrong": [
+							"Chewing",
+							"Swallowing",
+							"Tasting"
+						]
+					},
+					{
+						"correct": "Repulsion Gel",
+						"difficulty": "Medium",
+						"explanation": "By using Propulsion Gel to gain speed and then hitting a patch of Repulsion Gel, players can be launched incredible distances.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What other Mobility Gel is Propulsion Gel often used with to cross huge horizontal and vertical distances?",
+						"wrong": [
+							"Conversion Gel",
+							"Cleansing Gel",
+							"Adhesion Gel"
+						]
+					},
+					{
+						"correct": "Cubes and Turrets",
+						"difficulty": "Medium",
+						"explanation": "Only test elements like Weighted Storage Cubes and Sentry Turrets can be covered in the various Mobility Gels.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which objects can be coated in Propulsion Gel to make them slide around easily?",
+						"wrong": [
+							"Crushers and Panels",
+							"Buttons and Doors",
+							"Personality Cores"
+						]
+					},
+					{
+						"correct": "Tag: The Power of Paint",
+						"difficulty": "Hard",
+						"explanation": "The mechanics for the Mobility Gels were directly inspired by 'Tag: The Power of Paint,' a student project from DigiPen Institute of Technology.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/propulsion_gel.webp",
+						"question": "The gameplay mechanic of the Propulsion Gel was based on the red paint from what student game, whose team was later hired by Valve?",
+						"wrong": [
+							"Narbacular Drop",
+							"F-Stop",
+							"Prospero"
+						]
+					},
+					{
+						"correct": "Cleansing Gel",
+						"difficulty": "Hard",
+						"explanation": "Cleansing Gel, which looks like water, is the fourth type of gel and its only purpose is to erase any other gel it touches.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the liquid that can wash away Propulsion Gel from surfaces?",
+						"wrong": [
+							"Conversion Gel",
+							"Neutralizing Fluid",
+							"Aperture Science Water"
+						]
+					},
+					{
+						"correct": "Glass",
+						"difficulty": "Hard",
+						"explanation": "Gel cannot be applied to transparent surfaces like glass and will also pass straight through grating without painting it.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Propulsion Gel cannot be applied to what kind of transparent surface?",
+						"wrong": [
+							"Hard Light Bridges",
+							"Force Fields",
+							"Observation Windows"
+						]
+					},
+					{
+						"correct": "Mobility Gels",
+						"difficulty": "Hard",
+						"explanation": "The fifth course in the Cooperative Testing Initiative is fittingly named 'Mobility Gels' and culminates in a final test involving all the gels to open a human vault.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the co-op campaign, what is the name of the final course that heavily features all the Mobility Gels?",
+						"wrong": [
+							"Mass and Velocity",
+							"Hard-Light Surfaces",
+							"Excursion Funnels"
+						]
+					},
+					{
+						"correct": "The surface becomes bouncy but not slippery",
+						"difficulty": "Hard",
+						"explanation": "A surface can only take on the properties of the last gel that coated it. The Repulsion Gel would cover the Propulsion Gel, making the surface only bouncy.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If a surface is coated with Propulsion Gel and then Repulsion Gel is dropped on top, what happens?",
+						"wrong": [
+							"The gels mix and become purple",
+							"The gels neutralize each other",
+							"The surface becomes both bouncy and slippery"
+						]
+					}
+				]
+			},
+			"id": "portal_propulsion_gel",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Propulsion Gel",
+				"lore_desc": "An orange, paint-like liquid developed in the old Aperture Science facilities. It dramatically reduces friction on any surface it coats, allowing test subjects and objects to move at incredible speeds.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Aperture Science",
+					"Mobility",
+					"Testing Element"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Makes surfaces bouncy",
+						"difficulty": "Easy",
+						"explanation": "Also called Bounce Gel, the light blue Repulsion Gel provides repelling abilities, causing any player or object that hits it to bounce away.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/repulsion_gel.webp",
+						"question": "What is the primary effect of the blue-colored Repulsion Gel?",
+						"wrong": [
+							"Increases movement speed",
+							"Allows portals on any surface",
+							"Cleans other gels away"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Easy",
+						"explanation": "Repulsion Gel is a light blue, paint-like substance.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What color is the Repulsion Gel?",
+						"wrong": [
+							"Orange",
+							"White",
+							"Green"
+						]
+					},
+					{
+						"correct": "It launches the player higher than a normal jump",
+						"difficulty": "Easy",
+						"explanation": "Jumping off a surface covered in Repulsion Gel will launch the player much higher than a standard jump.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Jumping while standing on a surface coated with Repulsion Gel has what effect?",
+						"wrong": [
+							"It negates the gel's effect",
+							"It causes the player to slide",
+							"It creates a small explosion"
+						]
+					},
+					{
+						"correct": "A dietetic pudding substitute",
+						"difficulty": "Easy",
+						"explanation": "Like the Propulsion Gel, the Repulsion Gel was also originally conceived as a diet food product.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to Cave Johnson, Repulsion Gel was Aperture's first attempt at creating what?",
+						"wrong": [
+							"A shock-absorbent material",
+							"A cleaning solution",
+							"A children's toy"
+						]
+					},
+					{
+						"correct": "The height of the fall onto the gel",
+						"difficulty": "Easy",
+						"explanation": "The height from which a test subject falls before landing on a gel-covered surface directly affects the height of the subsequent jump.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The height of a bounce on Repulsion Gel is proportional to what?",
+						"wrong": [
+							"The weight of the test subject",
+							"The thickness of the gel coating",
+							"The speed of the player's movement"
+						]
+					},
+					{
+						"correct": "Caused them to bounce out of the dieter's mouth",
+						"difficulty": "Medium",
+						"explanation": "The gel was intended to make food bounce off the stomach lining and back out of the mouth, but it was pulled from shelves for 'various reasons.'",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/repulsion_gel.webp",
+						"question": "What did Aperture's dietetic Repulsion Gel do to subsequently-ingested food items?",
+						"wrong": [
+							"Caused them to be instantly digested",
+							"Turned them into fiberglass insulation",
+							"Made them taste like asbestos"
+						]
+					},
+					{
+						"correct": "The human skeleton",
+						"difficulty": "Medium",
+						"explanation": "Cave Johnson warns, 'We haven't entirely nailed down what element it is yet, but I'll tell you this: it's a lively one, and it does NOT like the human skeleton.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Cave Johnson gives a piece of advice from his lab boys: 'Do not get covered in the repulsion gel,' because it does NOT like what?",
+						"wrong": [
+							"The Handheld Portal Device",
+							"Denim or cotton fibers",
+							"The central nervous system"
+						]
+					},
+					{
+						"correct": "Crouching",
+						"difficulty": "Medium",
+						"explanation": "Crouching will stop the player from bouncing on Repulsion Gel, which is useful for regaining control in situations with excessive bouncing.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the most effective way to negate the bouncing effect of Repulsion Gel while standing on it?",
+						"wrong": [
+							"Jumping",
+							"Running",
+							"Standing still"
+						]
+					},
+					{
+						"correct": "It bounces around erratically",
+						"difficulty": "Medium",
+						"explanation": "Coating a cube in Repulsion Gel will cause it to bounce around the room, which can be used to shatter glass or knock over turrets.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens when a Weighted Storage Cube is coated in Repulsion Gel?",
+						"wrong": [
+							"It disintegrates",
+							"It becomes extremely heavy",
+							"It floats in the air"
+						]
+					},
+					{
+						"correct": "Bounce back and forth between them",
+						"difficulty": "Medium",
+						"explanation": "Coating two parallel walls allows the test subject to ricochet between them to cross large gaps.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Applying Repulsion Gel to two parallel walls allows the player to perform what maneuver?",
+						"wrong": [
+							"Create a portal between them",
+							"Walk up the walls",
+							"Create a Hard Light Bridge"
+						]
+					},
+					{
+						"correct": "Tag: The Power of Paint",
+						"difficulty": "Hard",
+						"explanation": "The bouncy blue gel is based on the green paint from 'Tag: The Power of Paint,' which had a similar trampoline-like effect.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/repulsion_gel.webp",
+						"question": "The gameplay mechanic for Repulsion Gel was inspired by the green paint from which student game?",
+						"wrong": [
+							"Narbacular Drop",
+							"F-Stop",
+							"Prospero"
+						]
+					},
+					{
+						"correct": "It bounces around and falls over",
+						"difficulty": "Hard",
+						"explanation": "Just like a Storage Cube, a Sentry Turret coated in Repulsion Gel will bounce around uncontrollably, effectively neutralizing it as a threat.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens to a Sentry Turret if it gets coated in Repulsion Gel?",
+						"wrong": [
+							"It explodes",
+							"Its bullets bounce off walls",
+							"It becomes friendly"
+						]
+					},
+					{
+						"correct": "Broke every bone in his legs",
+						"difficulty": "Hard",
+						"explanation": "Cave Johnson jokes, 'Last poor son of a gun got blue paint... broke every bone in his legs. Tragic. But informative. Or so I'm told.'",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In one of Cave Johnson's recorded messages, he mentions a test subject who tested the Repulsion Gel and suffered what tragic, but informative, fate?",
+						"wrong": [
+							"Bounced into an incinerator",
+							"Turned into pure gasoline",
+							"Was injected with praying mantis DNA"
+						]
+					},
+					{
+						"correct": "Motion sickness",
+						"difficulty": "Hard",
+						"explanation": "The Adhesion Gel, which would have allowed players to walk on walls and ceilings, was cut because it caused motion sickness and disorientation in many playtesters.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The unused, purple-colored Adhesion Gel was cut because it caused what negative effect in playtesters?",
+						"wrong": [
+							"Uncontrollable bouncing",
+							"Extreme speed",
+							"Damage over time"
+						]
+					},
+					{
+						"correct": "The 1950s",
+						"difficulty": "Hard",
+						"explanation": "The Repulsion Gel was in use as a testing element as far back as 1953, making it one of Aperture's earlier inventions.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to Aperture's historical records, the company began using Repulsion Gel as far back as what decade?",
+						"wrong": [
+							"The 1970s",
+							"The 1980s",
+							"The 1940s"
+						]
+					}
+				]
+			},
+			"id": "portal_repulsion_gel",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Repulsion Gel",
+				"lore_desc": "A blue, gelatinous substance developed by Aperture Science. When applied to a surface, it creates a powerful trampoline-like effect, causing test subjects and objects to bounce off of it with great force.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Aperture Science",
+					"Mobility",
+					"Testing Element"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "To negate all fall damage",
+						"difficulty": "Easy",
+						"explanation": "The Long Fall Boots were designed to prevent test subjects from injuring themselves when falling from any height, even at terminal velocity.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/long_fall_boots.webp",
+						"question": "What is the primary purpose of the Long Fall Boots worn by Chell in Portal 2?",
+						"wrong": [
+							"To allow her to run faster",
+							"To let her jump higher",
+							"To make her walk silently"
+						]
+					},
+					{
+						"correct": "To protect the Portal Gun from damage",
+						"difficulty": "Easy",
+						"explanation": "While they do protect the wearer, the boots were created to prevent test subjects from dropping and breaking the very expensive Handheld Portal Device upon landing.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to Aperture Science, what was the real reason for creating the Long Fall Boots?",
+						"wrong": [
+							"To ensure test subject survival",
+							"To improve test completion times",
+							"To comply with safety regulations"
+						]
+					},
+					{
+						"correct": "Party Escort Bot",
+						"difficulty": "Easy",
+						"explanation": "Before Chell is reawakened at the start of Portal 2, the Party Escort Bot is shown fitting her with the advanced boots.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Portal 2, which character fits Chell with the Long Fall Boots after she wakes up?",
+						"wrong": [
+							"GLaDOS",
+							"Wheatley",
+							"An Oracle Turret"
+						]
+					},
+					{
+						"correct": "Error problem",
+						"difficulty": "Easy",
+						"explanation": "The boots were created to resolve a 'reproducible human error problem' where falling test subjects would injure themselves and damage the Portal Device.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The problem the boots were designed to solve was referred to by Aperture as a 'reproducible human...' what?",
+						"wrong": [
+							"Design flaw",
+							"Testing anomaly",
+							"Compliance issue"
+						]
+					},
+					{
+						"correct": "Advanced Knee Replacements",
+						"difficulty": "Easy",
+						"explanation": "The boots are a new iteration of the Advanced Knee Replacement technology Chell had in the original Portal, which served a similar purpose.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Long Fall Boots are an upgraded version of what previous piece of Aperture equipment from the first game?",
+						"wrong": [
+							"Standard Issue Jumpsuit",
+							"Heel Springs",
+							"Gravity Boots"
+						]
+					},
+					{
+						"correct": "The Portal Device",
+						"difficulty": "Medium",
+						"explanation": "Cave Johnson's sales pitch for the boots focuses entirely on protecting the expensive equipment, calling them a 'foot-based suit of armor for the Portal Device.'",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/long_fall_boots.webp",
+						"question": "In an Aperture promotional video, Cave Johnson refers to the boots as a 'foot-based suit of armor' for what?",
+						"wrong": [
+							"The human skeleton",
+							"The user's shins",
+							"The Companion Cube"
+						]
+					},
+					{
+						"correct": "Lands after a fall",
+						"difficulty": "Medium",
+						"explanation": "A distinct mechanical whirring sound can be heard every time Chell lands on a surface after falling from a significant height.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The boots appear to have some sort of tightening or strengthening force around Chell's legs, which is audible when she does what?",
+						"wrong": [
+							"Jumps",
+							"Goes through a portal",
+							"Crouches"
+						]
+					},
+					{
+						"correct": "Land on her head",
+						"difficulty": "Medium",
+						"explanation": "Cave Johnson proudly demonstrates the boots' stability by showing a test subject who 'can't do it!' when instructed to try and land on her head.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A promotional video demonstrates that a test subject wearing the boots is unable to do what, no matter how hard they try?",
+						"wrong": [
+							"Break her ankles",
+							"Jump over a turret",
+							"Drop the Portal Gun"
+						]
+					},
+					{
+						"correct": "Gyroscopic mechanism",
+						"difficulty": "Medium",
+						"explanation": "It is speculated that the boots contain a gyroscopic mechanism that aids the test subject in balance and orientation during falls.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The feature that keeps the wearer from landing improperly suggests the boots may be installed with what kind of mechanism?",
+						"wrong": [
+							"Anti-gravity plates",
+							"Magnetic stabilizers",
+							"Rocket thrusters"
+						]
+					},
+					{
+						"correct": "Legs",
+						"difficulty": "Medium",
+						"explanation": "Early in Portal 2, GLaDOS tells Chell, 'Go ahead and jump. You've got braces on your legs. No braces on your arms, though.' referring to the Long Fall Boots.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While GLaDOS warns Chell she has no braces on her arms, she says she can go ahead and jump because she has braces on her what?",
+						"wrong": [
+							"Ankles",
+							"Feet",
+							"Waist"
+						]
+					},
+					{
+						"correct": "Chell",
+						"difficulty": "Hard",
+						"explanation": "Chell, the silent protagonist of the Portal series, is the character who wears the iconic orange jumpsuit and Long Fall Boots.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/long_fall_boots.webp",
+						"question": "What is the name of the protagonist who wears the Long Fall Boots throughout Portal 2?",
+						"wrong": [
+							"Caroline",
+							"Ratmann",
+							"GLaDOS"
+						]
+					},
+					{
+						"correct": "Old Aperture Science",
+						"difficulty": "Hard",
+						"explanation": "The boots prove their worth when Chell survives a fall of several kilometers down into the abandoned, vintage-era test shafts of Old Aperture.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The boots allow Chell to survive the extremely long fall from GLaDOS's chamber down into what subterranean part of the facility?",
+						"wrong": [
+							"The parking lot",
+							"The incinerator room",
+							"The Combine Overwatch Nexus"
+						]
+					},
+					{
+						"correct": "Handheld Portal Device",
+						"difficulty": "Hard",
+						"explanation": "Chell's signature equipment consists of her Aperture Science Handheld Portal Device (Portal Gun) and the Long Fall Boots.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The boots are part of a character design that includes an orange jumpsuit and what other iconic piece of Aperture equipment?",
+						"wrong": [
+							"Zero Point Energy Field Manipulator",
+							"Crowbar",
+							"HEV Suit"
+						]
+					},
+					{
+						"correct": "Atlas and P-body",
+						"difficulty": "Hard",
+						"explanation": "The cooperative campaign stars the two robots, Atlas and P-body, who can be destroyed and reassembled, making fall damage protection unnecessary.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the co-op campaign, what are the names of the two robot characters who do NOT wear Long Fall Boots?",
+						"wrong": [
+							"Wheatley and GLaDOS",
+							"Rick and Jerry",
+							"Blue and Orange"
+						]
+					},
+					{
+						"correct": "Portal 2",
+						"difficulty": "Hard",
+						"explanation": "While Chell had Advanced Knee Replacements in the first game, the iconic 'Long Fall Boot' design and name were introduced in Portal 2.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Long Fall Boots were introduced in which game of the series?",
+						"wrong": [
+							"Portal",
+							"Portal: Still Alive",
+							"The Lab"
+						]
+					}
+				]
+			},
+			"id": "portal_long_fall_boots",
+			"meta": {
+				"date_added": "2026-04-27",
+				"entity_category": "Theme Item",
+				"full_title": "Long Fall Boots",
+				"lore_desc": "Advanced footwear designed by Aperture Science to protect test subjects from fall damage. While seemingly for the subject's safety, their true purpose was to prevent the expensive Handheld Portal Device from being damaged when a subject fell from a great height.",
+				"theme_origin": "portal",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Equipment",
+					"Mobility",
+					"Aperture Science"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -170993,6 +174434,10 @@
 					"name": "David and Goliath"
 				}
 			]
+		},
+		{
+			"id": "portal",
+			"synergies": []
 		}
 	],
 	"titles": {
