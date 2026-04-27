@@ -1,5 +1,5 @@
 {
-	"last_updated": 1777200610,
+	"last_updated": 1777316985,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2584,6 +2584,51 @@
 				"half_life_2_vortigaunt",
 				"half_life_2_ravenholm",
 				"half_life_2_zombie"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-29": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Portal: The Cake is a Lie",
+			"share_text": "This was a triumph",
+			"shops": [
+				{
+					"p1": "extra_life",
+					"p2": "game_shark"
+				},
+				{
+					"p1": "lucky_dice",
+					"p2": "gold_cartridge"
+				},
+				{
+					"p1": "rumble_pack",
+					"p2": "turbo_button"
+				}
+			],
+			"showcase": [
+				"portal_chell",
+				"portal_glados",
+				"portal_wheatley"
+			],
+			"starters": [
+				"portal_chell",
+				"portal_glados",
+				"portal_wheatley",
+				"portal_cave_johnson",
+				"portal_portal_gun",
+				"portal_companion_cube",
+				"portal_sentry_turret",
+				"portal_weighted_storage_cube",
+				"portal_the_cake",
+				"portal_aperture_science",
+				"portal_test_chamber",
+				"portal_glados's_chamber",
+				"portal_aerial_faith_plate",
+				"portal_propulsion_gel",
+				"portal_repulsion_gel",
+				"portal_long_fall_boots"
 			],
 			"submitted_by": ""
 		}
