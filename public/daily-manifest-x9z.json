@@ -1,5 +1,5 @@
 {
-	"last_updated": 1777316985,
+	"last_updated": 1777386668,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2629,6 +2629,51 @@
 				"portal_propulsion_gel",
 				"portal_repulsion_gel",
 				"portal_long_fall_boots"
+			],
+			"submitted_by": ""
+		},
+		"2026-04-30": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "Street Fighter II: Here Comes a New Challenger!",
+			"share_text": "PERFECT!",
+			"shops": [
+				{
+					"p1": "game_shark",
+					"p2": "second_chance"
+				},
+				{
+					"p1": "gold_cartridge",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "game_shark",
+					"p2": "lucky_dice"
+				}
+			],
+			"showcase": [
+				"street_fighter_2_ryu",
+				"street_fighter_2_chun-li",
+				"street_fighter_2_ken_masters"
+			],
+			"starters": [
+				"street_fighter_2_ryu",
+				"street_fighter_2_ken_masters",
+				"street_fighter_2_chun-li",
+				"street_fighter_2_guile",
+				"street_fighter_2_blanka",
+				"street_fighter_2_zangief",
+				"street_fighter_2_dhalsim",
+				"street_fighter_2_e._honda",
+				"street_fighter_2_balrog",
+				"street_fighter_2_vega",
+				"street_fighter_2_sagat",
+				"street_fighter_2_m._bison",
+				"street_fighter_2_hadoken",
+				"street_fighter_2_shoryuken",
+				"street_fighter_2_bonus_stage_car",
+				"street_fighter_2_shadaloo"
 			],
 			"submitted_by": ""
 		}
