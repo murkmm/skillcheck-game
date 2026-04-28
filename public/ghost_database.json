@@ -170864,6 +170864,3423 @@
 					"World Domination"
 				]
 			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Chemical Weapons Facility",
+						"difficulty": "Easy",
+						"explanation": "The game's first level, 'Dam,' leads into the Arkhangelsk Chemical Weapons Facility, setting the stage for Trevelyan's apparent death. [33]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/james_bond.webp",
+						"question": "In the opening mission of the game, what type of facility does Bond infiltrate alongside fellow agent Alec Trevelyan?",
+						"wrong": [
+							"Nuclear Power Plant",
+							"Satellite Control Center",
+							"Submarine Base"
+						]
+					},
+					{
+						"correct": "MI6",
+						"difficulty": "Easy",
+						"explanation": "James Bond is a commander in the Royal Navy and an agent of MI6, also known as the Secret Intelligence Service. [11, 37]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the British intelligence agency that Bond works for?",
+						"wrong": [
+							"CIA",
+							"KGB",
+							"SPECTRE"
+						]
+					},
+					{
+						"correct": "Walther PPK",
+						"difficulty": "Easy",
+						"explanation": "Due to licensing, the iconic Walther PPK was renamed the PP7 in the game. It's the starting weapon in most missions. [9, 26]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Bond's signature pistol in the game, referred to as the PP7?",
+						"wrong": [
+							"Desert Eagle",
+							"AK-47",
+							"M16"
+						]
+					},
+					{
+						"correct": "Natalya Simonova",
+						"difficulty": "Easy",
+						"explanation": "Natalya Fyodorovna Simonova is the lone survivor of the GoldenEye attack on Severnaya and becomes a crucial ally to Bond. [21]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is the computer programmer that becomes Bond's primary ally after surviving the attack on Severnaya?",
+						"wrong": [
+							"Xenia Onatopp",
+							"M",
+							"Miss Moneypenny"
+						]
+					},
+					{
+						"correct": "Tank",
+						"difficulty": "Medium",
+						"explanation": "In one of the game's most iconic sequences, Bond drives a tank through the streets of St. Petersburg in pursuit of Ourumov and Natalya.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While chasing Trevelyan's armored train, what piece of military hardware does Bond commandeer to blast through St. Petersburg?",
+						"wrong": [
+							"APC",
+							"Jeep",
+							"Motorcycle"
+						]
+					},
+					{
+						"correct": "Jack Wade",
+						"difficulty": "Medium",
+						"explanation": "Jack Wade provides Bond with crucial intelligence and a plane to reach the Arecibo Observatory in Cuba. [18]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is Bond's friendly, if somewhat unreliable, CIA contact who assists him in Cuba?",
+						"wrong": [
+							"Felix Leiter",
+							"Valentin Zukovsky",
+							"Bill Tanner"
+						]
+					},
+					{
+						"correct": "London",
+						"difficulty": "Medium",
+						"explanation": "Trevelyan plans to rob the Bank of England electronically, then use GoldenEye's EMP to erase the records and destroy London's financial district. [23]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "To what city is the GoldenEye satellite targeted in Trevelyan's master plan to cause a global financial meltdown?",
+						"wrong": [
+							"Moscow",
+							"New York",
+							"Tokyo"
+						]
+					},
+					{
+						"correct": "Satellite",
+						"difficulty": "Hard",
+						"explanation": "One of the key objectives in the Silo is to use the camera gadget to take a picture of the satellite in its bay before it launches.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the 'Silo' mission, what must Bond photograph to prove the illicit launch of a GoldenEye satellite?",
+						"wrong": [
+							"Missile blueprints",
+							"Launch codes",
+							"Guidance system"
+						]
+					},
+					{
+						"correct": "Valentin Zukovsky",
+						"difficulty": "Hard",
+						"explanation": "Bond seeks out Valentin Zukovsky, who runs a bar and deals in arms, to get a meeting with the head of the Janus syndicate. [18]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the Russian ex-KGB agent and arms dealer who begrudgingly helps Bond locate Janus?",
+						"wrong": [
+							"Dimitri Mishkin",
+							"General Ourumov",
+							"Boris Grishenko"
+						]
+					},
+					{
+						"correct": "Vladimir Lenin",
+						"difficulty": "Hard",
+						"explanation": "The meeting with Janus, revealed to be Alec Trevelyan, takes place in a park filled with discarded Soviet-era statues, including a prominent one of Lenin.",
+						"image_url": "",
+						"question": "In the 'Statue' level, Bond must disarm bombs placed on a statue of which historical figure?",
+						"wrong": [
+							"Joseph Stalin",
+							"Karl Marx",
+							"Peter the Great"
+						]
+					},
+					{
+						"correct": "7.65mm",
+						"difficulty": "Hard",
+						"explanation": "While Valentin Zukovsky makes this remark in the film, the game establishes Bond's iconic sidearm as the 7.65mm Walther PPK, known in-game as the PP7. [25, 34]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "According to General Ourumov, Bond's preferred pistol is a Walther PPK, chambered in what specific caliber?",
+						"wrong": [
+							"9mm",
+							".45 ACP",
+							".380 ACP"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_james_bond",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "James Bond",
+				"lore_desc": "Codename 007, James Bond is a senior operational officer of the '00' Section, an elite, covert group within the British Secret Intelligence Service, MI6. With a license to kill, he is tasked with stopping the Janus crime syndicate from using a devastating satellite weapon.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Hero",
+					"MI6",
+					"Agent"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "006",
+						"difficulty": "Easy",
+						"explanation": "Alec Trevelyan was agent 006, and a close friend and colleague of Bond's before his faked death. [18]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What was Alec Trevelyan's agent number when he worked for MI6 alongside James Bond?",
+						"wrong": [
+							"002",
+							"004",
+							"009"
+						]
+					},
+					{
+						"correct": "Janus Syndicate",
+						"difficulty": "Easy",
+						"explanation": "After faking his death, Trevelyan established the powerful Janus crime syndicate, named after the two-faced Roman god. [13, 28]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the criminal organization founded and led by Trevelyan?",
+						"wrong": [
+							"SPECTRE",
+							"Quantum",
+							"SMERSH"
+						]
+					},
+					{
+						"correct": "Chemical Weapons Facility",
+						"difficulty": "Easy",
+						"explanation": "The game's opening mission takes place at the Arkhangelsk Chemical Weapons Facility, where Trevelyan conspires with Colonel Ourumov to stage his execution. [17]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/alec_trevelyan.webp",
+						"question": "Trevelyan fakes his own death during a mission with Bond at what type of facility?",
+						"wrong": [
+							"Nuclear Silo",
+							"Military Airbase",
+							"Naval Shipyard"
+						]
+					},
+					{
+						"correct": "His parents were Lienz Cossacks betrayed by the British",
+						"difficulty": "Easy",
+						"explanation": "Trevelyan's parents were Lienz Cossacks who collaborated with the Nazis. After the war, the British handed them over to the Soviets, leading to their deaths and Alec's lifelong thirst for revenge. [32]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Trevelyan's primary motivation for seeking revenge against Great Britain?",
+						"wrong": [
+							"He was disavowed by MI6 on a failed mission",
+							"Bond left him for dead during an operation",
+							"His family fortune was seized by the government"
+						]
+					},
+					{
+						"correct": "He is crushed by the falling antenna",
+						"difficulty": "Easy",
+						"explanation": "After Bond lets him fall, the fiery wreckage of the antenna array crashes down, crushing the injured Trevelyan and ending his threat for good. [17, 23]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the final confrontation, Bond drops Trevelyan from a massive antenna structure. What happens to Trevelyan immediately after the fall?",
+						"wrong": [
+							"He is shot by Bond in mid-air",
+							"He dissolves in a vat of acid",
+							"He is rescued by a hidden helicopter"
+						]
+					},
+					{
+						"correct": "Beginnings and endings",
+						"difficulty": "Medium",
+						"explanation": "The name Janus reflects his two-faced nature as a former MI6 agent turned villain, and the Roman god represented transitions, duality, and endings. [17]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Trevelyan's codename, 'Janus,' is a reference to the two-faced Roman god of what?",
+						"wrong": [
+							"War and peace",
+							"Love and hate",
+							"Sun and moon"
+						]
+					},
+					{
+						"correct": "Xenia Onatopp",
+						"difficulty": "Medium",
+						"explanation": "Xenia Onatopp is a former Soviet fighter pilot and a top operative within the Janus syndicate, serving as Trevelyan's primary assassin. [13]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is Trevelyan's sadistic, high-ranking enforcer and pilot?",
+						"wrong": [
+							"Natalya Simonova",
+							"General Ourumov",
+							"Boris Grishenko"
+						]
+					},
+					{
+						"correct": "Armored Train",
+						"difficulty": "Medium",
+						"explanation": "Trevelyan converted a former Soviet missile train into a high-tech, armored mobile command center. [23]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/alec_trevelyan.webp",
+						"question": "What kind of heavily modified vehicle does Trevelyan use as his mobile base of operations?",
+						"wrong": [
+							"Stealth Submarine",
+							"Cargo Plane",
+							"Mobile Fortress"
+						]
+					},
+					{
+						"correct": "Six minutes",
+						"difficulty": "Medium",
+						"explanation": "When they meet again, Trevelyan bitterly remarks that if Bond had set the timers for six minutes, he would have escaped the blast unharmed. [17, 38]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Trevelyan blames Bond for the severe facial scars he received during the Arkhangelsk explosion, claiming Bond set the detonator timers for three minutes instead of what?",
+						"wrong": [
+							"Five minutes",
+							"Ten minutes",
+							"One minute"
+						]
+					},
+					{
+						"correct": "Cuba",
+						"difficulty": "Medium",
+						"explanation": "The final levels of the game take place in Cuba, where Trevelyan has constructed a duplicate of the Severnaya control center to operate the GoldenEye. [23]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Where is Trevelyan's secret satellite control center, the 'Cradle,' located?",
+						"wrong": [
+							"Siberia",
+							"Antarctica",
+							"The Amazon"
+						]
+					},
+					{
+						"correct": "General Ourumov",
+						"difficulty": "Hard",
+						"explanation": "Colonel, later General, Arkady Grigorovich Ourumov helps Trevelyan fake his death and later uses his position as head of the Russian Space Division to steal the satellite weapon. [1, 23]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is the high-ranking Russian general who conspires with Trevelyan to steal the GoldenEye?",
+						"wrong": [
+							"General Gogol",
+							"General Pushkin",
+							"Defense Minister Mishkin"
+						]
+					},
+					{
+						"correct": "For England, James?",
+						"difficulty": "Hard",
+						"explanation": "As Bond holds him over the edge, Trevelyan asks, \"For England, James?\" to which Bond replies, \"No. For me,\" before letting him fall. [17]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the final, taunting line Trevelyan shouts to Bond during their fight on the antenna?",
+						"wrong": [
+							"You're a relic of the Cold War!",
+							"I was always better!",
+							"See you in hell, James!"
+						]
+					},
+					{
+						"correct": "Iraq",
+						"difficulty": "Hard",
+						"explanation": "According to Bond's briefing, the Janus syndicate was responsible for restocking the Iraqi forces during the Gulf War. [15, 28]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/alec_trevelyan.webp",
+						"question": "The Janus syndicate made a name for itself as top-flight arms dealers by restocking which country during the Gulf War?",
+						"wrong": [
+							"Iran",
+							"Libya",
+							"Afghanistan"
+						]
+					},
+					{
+						"correct": "AR33 Assault Rifle",
+						"difficulty": "Hard",
+						"explanation": "In the climactic battle, Trevelyan uses an AR33 Assault Rifle and grenades while running through the corridors of the Cradle's upper levels. [22]",
+						"image_url": "",
+						"question": "What weapon does Trevelyan primarily wield during the final boss fight in the 'Cradle' level?",
+						"wrong": [
+							"Golden Gun",
+							"Sniper Rifle",
+							"Rocket Launcher"
+						]
+					},
+					{
+						"correct": "Soviet era",
+						"difficulty": "Hard",
+						"explanation": "The dramatic reveal takes place in a 'statue park' or boneyard filled with fallen and discarded monuments from the recently dissolved Soviet Union.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Trevelyan reveals his identity to Bond in a park in St. Petersburg filled with discarded statues from what era?",
+						"wrong": [
+							"Tsarist era",
+							"Napoleonic era",
+							"Roman era"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_alec_trevelyan",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Alec Trevelyan",
+				"lore_desc": "Formerly MI6 agent 006 and a friend of James Bond, Alec Trevelyan faked his death to become the leader of the Janus crime syndicate. Scarred and driven by revenge against Britain, he masterminds the theft of the GoldenEye satellite weapon.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Janus",
+					"Agent"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Computer Programmer",
+						"difficulty": "Easy",
+						"explanation": "Natalya is a skilled computer programmer working on missile guidance systems at the Severnaya facility. [3, 12]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Natalya Simonova's profession at the beginning of the story?",
+						"wrong": [
+							"Satellite Technician",
+							"Nuclear Physicist",
+							"Cryptographer"
+						]
+					},
+					{
+						"correct": "Severnaya",
+						"difficulty": "Easy",
+						"explanation": "She is stationed at the Severnaya Satellite Control Center in Siberia, which is destroyed by the GoldenEye weapon. [4, 7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "At which secret Russian facility does Natalya work?",
+						"wrong": [
+							"Arkhangelsk",
+							"St. Petersburg",
+							"Cuba"
+						]
+					},
+					{
+						"correct": "Protect her",
+						"difficulty": "Easy",
+						"explanation": "Many levels, such as 'Control', feature infamous escort missions where the player must defend Natalya from waves of enemies as she hacks computer systems.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In several missions, Bond's objective is to do what for Natalya while she works?",
+						"wrong": [
+							"Distract her",
+							"Time her",
+							"Interrogate her"
+						]
+					},
+					{
+						"correct": "Boris Grishenko",
+						"difficulty": "Easy",
+						"explanation": "Boris Grishenko, a fellow programmer, betrays his colleagues at Severnaya and joins Trevelyan's plot. [5]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/natalya_simonova.webp",
+						"question": "Who is Natalya's treacherous and arrogant co-worker who allies himself with Janus?",
+						"wrong": [
+							"Valentin Zukovsky",
+							"General Ourumov",
+							"Dimitri Mishkin"
+						]
+					},
+					{
+						"correct": "Helicopter",
+						"difficulty": "Easy",
+						"explanation": "After reprogramming the GoldenEye satellite, Natalya hijacks a helicopter to save Bond just as the Cradle facility is destroyed. [3, 7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "At the end of the game, what vehicle does Natalya commandeer to rescue Bond from the collapsing antenna?",
+						"wrong": [
+							"Jeep",
+							"Boat",
+							"Snowmobile"
+						]
+					},
+					{
+						"correct": "Hiding in a kitchen",
+						"difficulty": "Medium",
+						"explanation": "Natalya narrowly survives the attack by taking cover in the control center's kitchen, away from the main operations floor. [5]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How does Natalya survive the initial EMP blast and subsequent massacre at Severnaya?",
+						"wrong": [
+							"Escaping in a ventilation shaft",
+							"Sheltering in a lead-lined bunker",
+							"Pretending to be dead"
+						]
+					},
+					{
+						"correct": "Cuba",
+						"difficulty": "Medium",
+						"explanation": "Using a computer, Natalya is able to hack into Boris's systems and trace the origin of his signals to a satellite dish in Cuba. [5, 7]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/natalya_simonova.webp",
+						"question": "After escaping Trevelyan's exploding train, Natalya uses her skills to trace the location of the Janus base to which country?",
+						"wrong": [
+							"Brazil",
+							"Puerto Rico",
+							"Mexico"
+						]
+					},
+					{
+						"correct": "Force it to burn up on re-entry",
+						"difficulty": "Medium",
+						"explanation": "Natalya reprograms the satellite's guidance system to send it into a decaying orbit, ensuring it burns up harmlessly in the atmosphere over the Atlantic Ocean. [3]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the 'Control' level, what is Natalya attempting to do to the GoldenEye satellite?",
+						"wrong": [
+							"Redirect it to strike Trevelyan's base",
+							"Shut it down completely",
+							"Take manual control of its targeting"
+						]
+					},
+					{
+						"correct": "Bond uses the ejector seat",
+						"difficulty": "Medium",
+						"explanation": "Just before the helicopter's own missiles strike it, Bond is able to trigger the ejection system, sending them both to safety. [3]",
+						"image_url": "",
+						"question": "Bond and Natalya are captured and trapped inside a stolen military helicopter. How do they escape before it self-destructs?",
+						"wrong": [
+							"Natalya hotwires the controls",
+							"They shoot out the cockpit window",
+							"Q remotely disables the missiles"
+						]
+					},
+					{
+						"correct": "Defense Minister Mishkin",
+						"difficulty": "Medium",
+						"explanation": "Believing them to be responsible for the Severnaya incident, Russia's Defense Minister Dmitri Mishkin interrogates both Bond and Natalya in St. Petersburg. [4]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After being captured by Bond, Natalya is taken to be interrogated by which Russian government official?",
+						"wrong": [
+							"Valentin Zukovsky",
+							"President Petrov",
+							"General Gogol"
+						]
+					},
+					{
+						"correct": "I am invincible!",
+						"difficulty": "Hard",
+						"explanation": "Boris frequently and arrogantly declares \"I am invincible!\" after his programming feats, most notably just before being frozen by liquid nitrogen.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/natalya_simonova.webp",
+						"question": "What is the condescending, catchphrase-like exclamation Boris Grishenko often shouts after a supposed success?",
+						"wrong": [
+							"I'm a genius!",
+							"Nobody can stop me!",
+							"Witness my power!"
+						]
+					},
+					{
+						"correct": "Level 2",
+						"difficulty": "Hard",
+						"explanation": "Boris scoffs that Natalya is 'only a second level programmer,' underestimating her ability to hack his systems and foil Trevelyan's plan. [10]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Natalya is described as what level of programmer at the Severnaya facility?",
+						"wrong": [
+							"Level 4",
+							"Junior Programmer",
+							"Lead Systems Analyst"
+						]
+					},
+					{
+						"correct": "Hands her over to Xenia Onatopp",
+						"difficulty": "Hard",
+						"explanation": "The meeting is a trap; Boris, having already joined Janus, betrays Natalya and turns her over to General Ourumov and Xenia Onatopp. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "When Natalya meets Boris in a St. Petersburg cathedral, believing he is a fellow survivor, what does he do?",
+						"wrong": [
+							"Reveals he is a double agent",
+							"Tries to eliminate her himself",
+							"Leads her into a police trap"
+						]
+					},
+					{
+						"correct": "Run into the line of fire",
+						"difficulty": "Hard",
+						"explanation": "In a famous example of frustrating escort missions, Natalya's AI was known for being 'atrociously dumb' and frequently running directly in front of the player's gunfire, causing an instant mission failure. [20]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the game, Natalya is often criticized by players for having notoriously poor AI that would often do what?",
+						"wrong": [
+							"Get stuck on scenery",
+							"Refuse to follow the player",
+							"Attack the player"
+						]
+					},
+					{
+						"correct": "Knockers",
+						"difficulty": "Hard",
+						"explanation": "Early in the film, Boris makes Natalya guess the password 'Knockers' to access a program that displays a crude caricature of their colleague, Anna. [10]",
+						"image_url": "",
+						"question": "What is the password Boris sets up that Natalya has to guess, which is a juvenile joke about their co-worker Anna?",
+						"wrong": [
+							"Password",
+							"Melons",
+							"Boris The Best"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_natalya_simonova",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Natalya Simonova",
+				"lore_desc": "A skilled Level 2 computer programmer, Natalya Fyodorovna Simonova is the sole survivor of the attack on the Severnaya satellite control center. Resourceful and courageous, she becomes an invaluable ally to James Bond, using her technical expertise to thwart the Janus syndicate's plans.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Ally",
+					"Programmer",
+					"Civilian"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Crushing people with her thighs",
+						"difficulty": "Easy",
+						"explanation": "Xenia is infamous for her sadomasochistic tendencies and her preferred killing method of squeezing the life out of her victims with her powerful legs. [2, 6]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Xenia Onatopp's signature, and highly unusual, method of assassination?",
+						"wrong": [
+							"Poison-tipped umbrella",
+							"Exploding cigars",
+							"Garrote-wire watch"
+						]
+					},
+					{
+						"correct": "Janus Syndicate",
+						"difficulty": "Easy",
+						"explanation": "A former Soviet fighter pilot, Xenia joined the Janus crime syndicate, led by renegade MI6 agent Alec Trevelyan. [2]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Xenia works as a top enforcer for which criminal organization?",
+						"wrong": [
+							"SPECTRE",
+							"The Russian Mafia",
+							"SMERSH"
+						]
+					},
+					{
+						"correct": "A hotel spa",
+						"difficulty": "Easy",
+						"explanation": "After a tense game of Baccarat, Xenia confronts Bond at his hotel's spa, leading to a steamy and dangerous brawl. [16]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In what location does Bond first confront Xenia, resulting in a fight in a steam-filled sauna?",
+						"wrong": [
+							"A casino",
+							"A military base",
+							"A nightclub"
+						]
+					},
+					{
+						"correct": "Crushed by a helicopter against a tree",
+						"difficulty": "Easy",
+						"explanation": "Bond shoots down the helicopter she is rappelling from, causing it to pin her in the fork of a tree, crushing her to death in an ironic fashion. [16]",
+						"image_url": "https://skillcheckgame.com/assets/images/xenia_onatopp.webp",
+						"question": "During the 'Jungle' level, how does Xenia ultimately meet her end?",
+						"wrong": [
+							"Shot by James Bond",
+							"Thrown into a volcano",
+							"Eaten by crocodiles"
+						]
+					},
+					{
+						"correct": "A red Ferrari",
+						"difficulty": "Easy",
+						"explanation": "Xenia is introduced driving a red Ferrari F355, engaging in a reckless road race with Bond before they formally meet at a casino. [16]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What kind of vehicle does Xenia race against Bond's Aston Martin DB5 in the mountains near Monte Carlo?",
+						"wrong": [
+							"A black Lamborghini",
+							"A silver Porsche",
+							"A white Lotus Esprit"
+						]
+					},
+					{
+						"correct": "Eurocopter Tiger",
+						"difficulty": "Medium",
+						"explanation": "She assassinates two pilots and steals the prototype Tiger attack helicopter, a craft immune to all forms of electronic interference. [16]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What type of advanced military hardware does Xenia steal from a naval frigate demonstration?",
+						"wrong": [
+							"Harrier Jump Jet",
+							"Stealth Bomber",
+							"Attack Submarine"
+						]
+					},
+					{
+						"correct": "RPC-90",
+						"difficulty": "Medium",
+						"explanation": "During the 'Jungle' level boss fight, Xenia Onatopp is armed with the powerful, rapid-fire RPC-90 submachine gun.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the game, what is the primary weapon Xenia uses against Bond during their firefight in the jungle?",
+						"wrong": [
+							"Golden Gun",
+							"Grenade Launcher",
+							"Sniper Rifle"
+						]
+					},
+					{
+						"correct": "A Canadian Admiral",
+						"difficulty": "Medium",
+						"explanation": "She seduces and murders Canadian Admiral Chuck Farrell using her signature technique to acquire his security credentials for the Tiger helicopter demonstration. [2, 6]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Whom does Xenia murder aboard a yacht in Monte Carlo to steal an ID pass?",
+						"wrong": [
+							"A French General",
+							"An American Senator",
+							"A British Diplomat"
+						]
+					},
+					{
+						"correct": "Severnaya",
+						"difficulty": "Medium",
+						"explanation": "Xenia shows her sadistic nature by gleefully gunning down the unarmed technicians at the Severnaya satellite control center. [14, 16]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/xenia_onatopp.webp",
+						"question": "Xenia assists General Ourumov in the massacre of the staff at which facility?",
+						"wrong": [
+							"Arkhangelsk",
+							"Zukovsky's Caviar Factory",
+							"The Kirghizstan Silo"
+						]
+					},
+					{
+						"correct": "Armored train",
+						"difficulty": "Medium",
+						"explanation": "Xenia and Ourumov recapture Natalya and use her as bait to lure James Bond aboard Trevelyan's heavily fortified train. [16]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After capturing Natalya, Xenia holds her hostage aboard Trevelyan's what?",
+						"wrong": [
+							"Yacht",
+							"Jet",
+							"Stealth helicopter"
+						]
+					},
+					{
+						"correct": "La Fayette",
+						"difficulty": "Hard",
+						"explanation": "The demonstration of the Eurocopter Tiger, and Xenia's subsequent theft of it, takes place aboard the French frigate La Fayette.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the French naval vessel that hosts the demonstration for the Tiger helicopter?",
+						"wrong": [
+							"Le Triomphant",
+							"Charles de Gaulle",
+							"Richelieu"
+						]
+					},
+					{
+						"correct": "Georgia",
+						"difficulty": "Hard",
+						"explanation": "Xenia Sergeyevna Onatopp was born in the Soviet republic of Georgia and served as a fighter pilot in the Soviet Air Force before joining Janus. [2]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Xenia's nationality is established as being from which former Soviet republic?",
+						"wrong": [
+							"Ukraine",
+							"Latvia",
+							"Estonia"
+						]
+					},
+					{
+						"correct": "Grenade Launcher",
+						"difficulty": "Hard",
+						"explanation": "Despite using an RPC-90 in her boss fight, official artwork for the game frequently shows Xenia wielding a Grenade Launcher.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/xenia_onatopp.webp",
+						"question": "In the game's manual and promotional materials, what weapon is Xenia often depicted holding?",
+						"wrong": [
+							"Throwing Knives",
+							"Silenced Pistol",
+							"Laser Rifle"
+						]
+					},
+					{
+						"correct": "Inflicting and receiving pain",
+						"difficulty": "Hard",
+						"explanation": "Her character is defined by her sadomasochism, gaining sexual arousal from both giving and taking pain, which is intertwined with her methods of killing. [2]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Xenia is a practitioner of sadomasochism, meaning she derives pleasure from what?",
+						"wrong": [
+							"Stealing rare artifacts",
+							"Political intrigue",
+							"Financial espionage"
+						]
+					},
+					{
+						"correct": "Baccarat",
+						"difficulty": "Hard",
+						"explanation": "The two spies test each other's nerves over a game of Baccarat, a card game frequently associated with James Bond in both films and novels. [2]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Before their fight, Bond and Xenia play what high-stakes card game in the Monte Carlo casino?",
+						"wrong": [
+							"Poker",
+							"Blackjack",
+							"Bridge"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_xenia_onatopp",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Xenia Onatopp",
+				"lore_desc": "A former Soviet fighter pilot and a key operative in the Janus syndicate, Xenia Onatopp is a sadistic and deadly assassin. She derives immense pleasure from killing, famously using her powerful thighs to crush her victims to death.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Janus",
+					"Assassin"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "I am invincible!",
+						"difficulty": "Easy",
+						"explanation": "Boris shouts 'I am invincible!' just moments before being frozen solid by liquid nitrogen, making his final words famously ironic.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Boris Grishenko's triumphant, and ultimately ironic, catchphrase?",
+						"wrong": [
+							"I am unstoppable!",
+							"I am a genius!",
+							"I am the best!"
+						]
+					},
+					{
+						"correct": "Computer Programmer",
+						"difficulty": "Easy",
+						"explanation": "Boris is a top-level computer programmer and hacker, which allows him to control the GoldenEye satellite weapon.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Boris's profession that makes him so valuable to the Janus syndicate?",
+						"wrong": [
+							"Weapons Engineer",
+							"Demolitions Expert",
+							"Helicopter Pilot"
+						]
+					},
+					{
+						"correct": "Janus",
+						"difficulty": "Easy",
+						"explanation": "Boris works for the Janus crime syndicate, a group founded by the rogue MI6 agent Alec Trevelyan.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Boris is a key member of a criminal organization led by Alec Trevelyan. What is this organization called?",
+						"wrong": [
+							"SPECTRE",
+							"Quantum",
+							"SMERSH"
+						]
+					},
+					{
+						"correct": "Disable mainframe security",
+						"difficulty": "Easy",
+						"explanation": "In the 'Bunker' level, Bond captures Boris and forces him to access a computer to disable the security for MI6.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/boris_grishenko.webp",
+						"question": "In the game, Bond must hold Boris hostage in the Severnaya Bunker to force him to do what?",
+						"wrong": [
+							"Launch a missile",
+							"Open the blast doors",
+							"Transmit fake codes"
+						]
+					},
+					{
+						"correct": "Natalya Simonova",
+						"difficulty": "Easy",
+						"explanation": "Boris frequently mocks his colleague Natalya Simonova, who later survives the Severnaya attack and works with Bond to stop Boris and Janus.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which fellow Severnaya programmer does Boris constantly belittle, only for her to become his downfall?",
+						"wrong": [
+							"Xenia Onatopp",
+							"Caroline",
+							"Moneypenny"
+						]
+					},
+					{
+						"correct": "Class 4 Grenade",
+						"difficulty": "Medium",
+						"explanation": "The pen is a Q-Branch gadget described as a Class 4 Grenade. Three clicks arms it, and another three disarms it. Boris's nervous clicking habit nearly dooms everyone.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the film, Boris is seen fiddling with a pen that is actually an explosive device belonging to James Bond. What class of gadget is it?",
+						"wrong": [
+							"Laser Cutter",
+							"Sleeping Gas",
+							"Taser"
+						]
+					},
+					{
+						"correct": "Siberia",
+						"difficulty": "Medium",
+						"explanation": "The Severnaya facility, where Boris is stationed, is a remote satellite control center located deep in Siberia.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The GoldenEye satellite control center where Boris works is located in what remote region?",
+						"wrong": [
+							"Antarctica",
+							"The Amazon",
+							"The Sahara"
+						]
+					},
+					{
+						"correct": "Natalya refuses to cooperate",
+						"difficulty": "Medium",
+						"explanation": "If Boris is killed in the 'Control' mission, Natalya becomes angry with Bond and will refuse to help him operate the main console, resulting in mission failure.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/boris_grishenko.webp",
+						"question": "In the game's 'Control' level, what happens if the player kills Boris?",
+						"wrong": [
+							"The base self-destructs",
+							"An alarm is triggered",
+							"Trevelyan executes a hostage"
+						]
+					},
+					{
+						"correct": "Liquid Nitrogen",
+						"difficulty": "Medium",
+						"explanation": "Just after declaring himself invincible, Boris is killed when ruptured canisters of liquid nitrogen erupt and freeze him instantly.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After surviving the initial destruction of the Cuban control center, what substance fatally freezes Boris solid?",
+						"wrong": [
+							"Coolant Fluid",
+							"Jet Fuel",
+							"Freon Gas"
+						]
+					},
+					{
+						"correct": "KNOCKERS",
+						"difficulty": "Medium",
+						"explanation": "In a moment of levity, Boris types 'KNOCKERS' as a password, which unexpectedly sets off the base's alarm system.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What password does Boris input into the computer in the 'Bunker' mission that accidentally triggers an alarm?",
+						"wrong": [
+							"PASSWORD",
+							"INVINCIBLE",
+							"TREVELYAN"
+						]
+					},
+					{
+						"correct": "Petya",
+						"difficulty": "Hard",
+						"explanation": "The Janus syndicate uses two GoldenEye satellites, named Petya and Mischa. Boris is instrumental in controlling them from Severnaya and later Cuba.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the first GoldenEye satellite that Boris helps to activate over the Severnaya facility?",
+						"wrong": [
+							"Mischa",
+							"Sputnik",
+							"Kosmos"
+						]
+					},
+					{
+						"correct": "Data Thief",
+						"difficulty": "Hard",
+						"explanation": "Q provides Bond with a 'Data Thief' gadget specifically for hacking the mainframe computer in the Severnaya bunker.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/boris_grishenko.webp",
+						"question": "In the game's second 'Bunker' level, Bond must use a specific Q-Branch gadget to download information from Boris's mainframe. What is it called?",
+						"wrong": [
+							"Covert Modem",
+							"Key Analyzer",
+							"Door Decrypter"
+						]
+					},
+					{
+						"correct": "madvlad",
+						"difficulty": "Hard",
+						"explanation": "During his introduction scene, Boris's email account name is shown to be 'madvlad' as he taunts the US Department of Justice.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Boris's email handle, as seen when he is hacking into the FBI's database?",
+						"wrong": [
+							"boris_the_blade",
+							"invincible1",
+							"cybergod"
+						]
+					},
+					{
+						"correct": "Body Armor",
+						"difficulty": "Hard",
+						"explanation": "In the 'Control' level, if the player follows Boris as he flees, he will run to a hidden alcove that contains a full suit of body armor.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the game, after being forced to help Bond, Boris flees to a secret alcove. What item is found inside?",
+						"wrong": [
+							"A Rocket Launcher",
+							"The Golden Gun",
+							"A Keycard"
+						]
+					},
+					{
+						"correct": "Nightcrawler",
+						"difficulty": "Hard",
+						"explanation": "While this is out-of-universe, it's a fun piece of trivia for movie buffs. Alan Cumming, who played Boris, also famously portrayed the teleporting mutant Nightcrawler.",
+						"image_url": "",
+						"question": "The actor who portrayed Boris Grishenko, Alan Cumming, also played which villain in the movie 'X2: X-Men United'?",
+						"wrong": [
+							"Magneto",
+							"Sabretooth",
+							"Toad"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_boris_grishenko",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Boris Grishenko",
+				"lore_desc": "A brilliant but arrogant computer programmer working for the Janus crime syndicate. Stationed at the Severnaya facility in Siberia, Boris is a key player in the plan to use the GoldenEye satellite weapon, often punctuating his successes with his catchphrase, 'I am invincible!'",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Programmer",
+					"Janus"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Steel Teeth",
+						"difficulty": "Easy",
+						"explanation": "Jaws is world-famous for his set of stainless steel teeth, which he uses as his primary weapon to bite through cables, chains, and enemies.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/jaws.webp",
+						"question": "What is the most recognizable and deadly feature of the henchman Jaws?",
+						"wrong": [
+							"A Metal Hand",
+							"A Razor-Rimmed Hat",
+							"An Eyepatch"
+						]
+					},
+					{
+						"correct": "His extreme height",
+						"difficulty": "Easy",
+						"explanation": "Jaws is a giant of a man, standing at an imposing 7 feet 2 inches (2.18 m) tall, making him tower over James Bond and other characters.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Besides his teeth, what physical characteristic makes Jaws such an intimidating presence?",
+						"wrong": [
+							"His muscular build",
+							"His incredible speed",
+							"His martial arts skill"
+						]
+					},
+					{
+						"correct": "Multiplayer",
+						"difficulty": "Easy",
+						"explanation": "Jaws is one of several classic characters from the Bond series that can be unlocked for use in the game's popular multiplayer deathmatches.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In GoldenEye 007, Jaws is not part of the main story but can be unlocked as a character for which game mode?",
+						"wrong": [
+							"Story Mode",
+							"Time Trials",
+							"Co-op Missions"
+						]
+					},
+					{
+						"correct": "Kiel",
+						"difficulty": "Easy",
+						"explanation": "The towering actor Richard Kiel portrayed Jaws in the films 'The Spy Who Loved Me' and 'Moonraker', becoming one of the most famous henchmen in cinema history.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The actor who famously portrayed Jaws in the films, and whose likeness is used in the game, was named Richard...?",
+						"wrong": [
+							"Dawson",
+							"Harris",
+							"Burton"
+						]
+					},
+					{
+						"correct": "His teeth",
+						"difficulty": "Easy",
+						"explanation": "One of Jaws's most memorable feats of strength is when he effortlessly bites through a thick metal chain to pursue his target.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the films, Jaws is shown to be strong enough to bite through a steel chain with his signature weapon. What is it?",
+						"wrong": [
+							"A hidden blade",
+							"A laser watch",
+							"A garrote wire"
+						]
+					},
+					{
+						"correct": "Aztec",
+						"difficulty": "Medium",
+						"explanation": "Players who unlock the secret 'Aztec' mission will face off against Jaws as a heavily-armed and incredibly durable final boss.",
+						"image_url": "",
+						"question": "Jaws appears as a surprise boss in which bonus mission of GoldenEye 007?",
+						"wrong": [
+							"Egyptian",
+							"Cradle",
+							"Train"
+						]
+					},
+					{
+						"correct": "Hugo Drax",
+						"difficulty": "Medium",
+						"explanation": "The Aztec complex is a direct reference to the film 'Moonraker,' where Jaws worked for the industrialist Hugo Drax.",
+						"image_url": "https://skillcheckgame.com/assets/images/jaws.webp",
+						"question": "In the 'Aztec' mission, Jaws serves a villain from a different Bond film. Who is this villain, known for his space-related schemes?",
+						"wrong": [
+							"Auric Goldfinger",
+							"Ernst Stavro Blofeld",
+							"Karl Stromberg"
+						]
+					},
+					{
+						"correct": "Complete the Aztec mission on 00 Agent",
+						"difficulty": "Medium",
+						"explanation": "To play as the towering henchman, players must first complete the very challenging 'Aztec' bonus mission on the highest difficulty setting, 00 Agent.",
+						"image_url": "",
+						"question": "What must players do to unlock Jaws for use in multiplayer?",
+						"wrong": [
+							"Beat the game on any difficulty",
+							"Find a hidden cheat menu",
+							"Get 100 melee kills"
+						]
+					},
+					{
+						"correct": "His punches can kill instantly",
+						"difficulty": "Medium",
+						"explanation": "In the game 'Nightfire', Jaws is not only the tallest character but his powerful punches are an instant kill, making him a formidable melee opponent.",
+						"image_url": "",
+						"question": "In the multiplayer mode of the game 'Nightfire', a sequel of sorts, Jaws is the tallest character. What unique ability does he have?",
+						"wrong": [
+							"He can throw his teeth",
+							"He moves faster than others",
+							"He can regenerate health"
+						]
+					},
+					{
+						"correct": "A broken lamp",
+						"difficulty": "Medium",
+						"explanation": "Thinking quickly, Bond grabs a shattered lamp and uses the exposed wiring to send a powerful electric shock through Jaws's metal mouth, stunning him.",
+						"image_url": "",
+						"question": "In the film 'The Spy Who Loved Me', Bond manages to defeat Jaws during a train fight by electrocuting his teeth with what object?",
+						"wrong": [
+							"A cattle prod",
+							"A live wire",
+							"A taser"
+						]
+					},
+					{
+						"correct": "Acrophobia (Fear of heights)",
+						"difficulty": "Hard",
+						"explanation": "Ironically, despite his character's famous stunt-filled sequences, actor Richard Kiel had a significant fear of heights.",
+						"image_url": "",
+						"question": "Jaws is famously near-invincible, surviving falls from planes and car crashes. What common fear did actor Richard Kiel suffer from in real life?",
+						"wrong": [
+							"Claustrophobia (Fear of small spaces)",
+							"Aquaphobia (Fear of water)",
+							"Pyrophobia (Fear of fire)"
+						]
+					},
+					{
+						"correct": "Laser rifle",
+						"difficulty": "Hard",
+						"explanation": "During the space battle in 'Moonraker', Jaws joins the fight equipped with a standard-issue laser rifle provided by Drax's forces.",
+						"image_url": "https://skillcheckgame.com/assets/images/jaws.webp",
+						"question": "In the game, Jaws often wields a heavy machine gun. In the film 'Moonraker', what specific type of futuristic weapon does he briefly use?",
+						"wrong": [
+							"Plasma cannon",
+							"Railgun",
+							"Sonic disruptor"
+						]
+					},
+					{
+						"correct": "He was a hitman for the Polish secret police",
+						"difficulty": "Hard",
+						"explanation": "The novelization gives a backstory to a character named Zbigniew Krycsiwiki, the inspiration for Jaws, who was a hitman that had his jaw destroyed and rebuilt with steel by the Polish secret police.",
+						"image_url": "",
+						"question": "In the film novelization for 'The Spy Who Loved Me', how did the character who inspired Jaws get his steel teeth?",
+						"wrong": [
+							"He was a failed circus strongman",
+							"He was a former KGB experiment",
+							"He was in a factory accident"
+						]
+					},
+					{
+						"correct": "Dolly",
+						"difficulty": "Hard",
+						"explanation": "Jaws finds love with a short, pig-tailed girl named Dolly, and her peril at the hands of Drax is what causes him to turn against his employer.",
+						"image_url": "",
+						"question": "Jaws's girlfriend in the film 'Moonraker,' who helps convince him to switch sides, is named what?",
+						"wrong": [
+							"Holly",
+							"Molly",
+							"Polly"
+						]
+					},
+					{
+						"correct": "His stepdaughter",
+						"difficulty": "Hard",
+						"explanation": "Katharina Kubrick Hobbs, stepdaughter of the acclaimed director Stanley Kubrick, designed the cog-like teeth, making them non-pointed to ensure actor Richard Kiel would not be injured.",
+						"image_url": "",
+						"question": "The designer of Jaws's iconic metal teeth for the films was Katharina Kubrick Hobbs. What was her relationship to legendary director Stanley Kubrick?",
+						"wrong": [
+							"His wife",
+							"His sister",
+							"His niece"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_jaws",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Jaws",
+				"lore_desc": "An iconic henchman from the larger Bond universe who makes a special guest appearance in GoldenEye 007. Instantly recognizable by his towering height and deadly steel teeth, Jaws is an unlockable character in multiplayer and a formidable secret boss in the single-player campaign.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Henchman",
+					"Multiplayer"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A steel-rimmed bowler hat",
+						"difficulty": "Easy",
+						"explanation": "Oddjob is famous for his razor-sharp, steel-rimmed bowler hat, which he uses as a lethal throwing weapon.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/oddjob.webp",
+						"question": "What is Oddjob's signature weapon, which he can throw with deadly accuracy?",
+						"wrong": [
+							"A poison-tipped umbrella",
+							"A shoe with a hidden blade",
+							"A deck of sharp playing cards"
+						]
+					},
+					{
+						"correct": "His short stature",
+						"difficulty": "Easy",
+						"explanation": "Oddjob is significantly shorter than other characters, causing the game's auto-aim to often fire harmlessly over his head.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In GoldenEye 007's multiplayer, what physical trait makes Oddjob a notoriously difficult target?",
+						"wrong": [
+							"His incredible speed",
+							"His ability to turn invisible",
+							"His heavy armor"
+						]
+					},
+					{
+						"correct": "Cheating",
+						"difficulty": "Easy",
+						"explanation": "The 'No Oddjob' rule became a common house rule among players, as his short stature was seen as an unfair advantage. Even the game's developers have since agreed that playing as him is 'definitely cheating'.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Due to his height advantage, selecting Oddjob in multiplayer is widely considered to be what?",
+						"wrong": [
+							"A smart strategy",
+							"A handicap",
+							"A sign of skill"
+						]
+					},
+					{
+						"correct": "Auric Goldfinger",
+						"difficulty": "Easy",
+						"explanation": "Oddjob is the loyal and silent Korean manservant to the gold-obsessed villain, Auric Goldfinger.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the film 'Goldfinger', Oddjob serves as the henchman and bodyguard for which classic Bond villain?",
+						"wrong": [
+							"Dr. No",
+							"Ernst Stavro Blofeld",
+							"Francisco Scaramanga"
+						]
+					},
+					{
+						"correct": "Slappers Only",
+						"difficulty": "Easy",
+						"explanation": "In 'Slappers Only' mode, players must use melee attacks, and Oddjob's short height makes it incredibly difficult to land a hit on him.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What common multiplayer mode in GoldenEye 007 makes Oddjob nearly impossible to hit due to its focus on melee attacks?",
+						"wrong": [
+							"The Man with the Golden Gun",
+							"You Only Live Twice",
+							"License to Kill"
+						]
+					},
+					{
+						"correct": "A stone statue",
+						"difficulty": "Medium",
+						"explanation": "To show off its lethality, Oddjob throws his hat and cleanly decapitates a stone statue on a golf course.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/oddjob.webp",
+						"question": "In the film 'Goldfinger', Oddjob demonstrates the power of his hat by decapitating what kind of object?",
+						"wrong": [
+							"A wooden post",
+							"A steel drum",
+							"A watermelon"
+						]
+					},
+					{
+						"correct": "007: Nightfire",
+						"difficulty": "Medium",
+						"explanation": "Although he appeared in GoldenEye 007, his iconic hat wasn't a usable weapon. In the later game 007: Nightfire, Oddjob could finally throw his hat as a unique weapon.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While Oddjob's deadly hat is his most famous feature, it was absent from his appearance in the original GoldenEye 007. In which subsequent Bond game could he throw it?",
+						"wrong": [
+							"Agent Under Fire",
+							"Everything or Nothing",
+							"From Russia with Love"
+						]
+					},
+					{
+						"correct": "Electrocution",
+						"difficulty": "Medium",
+						"explanation": "Bond defeats Oddjob by tricking him into retrieving his hat, which is lodged in a set of metal bars, and then electrocuting him with a severed power cable.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the final confrontation in 'Goldfinger', how does James Bond ultimately defeat Oddjob?",
+						"wrong": [
+							"Explosion",
+							"Decapitation with his own hat",
+							"Gunshot"
+						]
+					},
+					{
+						"correct": "Wrestler",
+						"difficulty": "Medium",
+						"explanation": "Harold Sakata was not only an actor but also a professional wrestler who went by the name Tosh Togo.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The actor who played Oddjob, Harold Sakata, was also a professional in what other field?",
+						"wrong": [
+							"Sumo Wrestler",
+							"Bodybuilder",
+							"Opera Singer"
+						]
+					},
+					{
+						"correct": "Lock & Co.",
+						"difficulty": "Medium",
+						"explanation": "The iconic bowler hat was made by the historic British hatters, Lock & Co., and then modified by the film's effects team to include the metal rim.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What famous British hat-making company created the original bowler hat prop for the film 'Goldfinger'?",
+						"wrong": [
+							"Christys' of London",
+							"Bates Hats",
+							"Herbert Johnson"
+						]
+					},
+					{
+						"correct": "DK Mode (Big Heads)",
+						"difficulty": "Hard",
+						"explanation": "A common counter-strategy to an 'Oddjob player' was to activate 'DK Mode,' which gave all characters giant heads, making Oddjob's primary advantage less effective.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Some players would implement a 'house rule' to counter someone picking Oddjob. What cheat mode would they activate to make his head an easier target?",
+						"wrong": [
+							"Paintball Mode",
+							"Turbo Mode",
+							"Tiny Bond"
+						]
+					},
+					{
+						"correct": "Chakram",
+						"difficulty": "Hard",
+						"explanation": "The concept of Oddjob's bladed hat is similar to a chakram, a circular throwing weapon originating from the Indian subcontinent.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/oddjob.webp",
+						"question": "Oddjob's hat is technically based on a real-life throwing weapon from India. What is it called?",
+						"wrong": [
+							"Shuriken",
+							"Kunai",
+							"Katar"
+						]
+					},
+					{
+						"correct": "A cleft palate",
+						"difficulty": "Hard",
+						"explanation": "In the book, Oddjob has a cleft palate that renders his speech mostly unintelligible, contributing to his silent and mysterious demeanor.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In Ian Fleming's original novel 'Goldfinger', Oddjob is described as having what unusual feature, which was omitted from the film?",
+						"wrong": [
+							"A glass eye",
+							"Tattooed hands",
+							"A wooden leg"
+						]
+					},
+					{
+						"correct": "MythBusters",
+						"difficulty": "Hard",
+						"explanation": "The popular science show MythBusters tested Oddjob's hat and found that while a weighted, sharpened hat could be a dangerous projectile, it was not capable of decapitating a stone statue as seen in the film.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which television show famously tested the real-world feasibility of Oddjob's hat and ultimately 'busted' the myth that it could decapitate a stone statue?",
+						"wrong": [
+							"Top Gear",
+							"Brainiac: Science Abuse",
+							"How It's Made"
+						]
+					},
+					{
+						"correct": "Korean",
+						"difficulty": "Hard",
+						"explanation": "Oddjob is consistently identified as being of Korean nationality, serving as Goldfinger's manservant and enforcer.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What nationality is Oddjob specified as being in both the original novel and the film?",
+						"wrong": [
+							"Japanese",
+							"Chinese",
+							"Mongolian"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_oddjob",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Oddjob",
+				"lore_desc": "A classic henchman from the Bond film 'Goldfinger' who became a legendary and controversial character in GoldenEye 007's multiplayer. His short stature makes him notoriously difficult to hit, leading to a common 'house rule' banning his selection.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Villain",
+					"Henchman",
+					"Multiplayer"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A bungee jump",
+						"difficulty": "Easy",
+						"explanation": "The game's first mission famously opens with James Bond doing a massive bungee jump from the top of the dam to a platform below.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dam.webp",
+						"question": "The 'Dam' mission begins with James Bond performing what spectacular stunt to infiltrate the facility?",
+						"wrong": [
+							"A parachute drop",
+							"A zipline descent",
+							"A motorcycle jump"
+						]
+					},
+					{
+						"correct": "A chemical weapons facility",
+						"difficulty": "Easy",
+						"explanation": "The mission takes place at the Arkhangelsk Chemical Weapons Facility, located in the northern USSR.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What type of facility is Bond infiltrating in this mission?",
+						"wrong": [
+							"A nuclear missile silo",
+							"A satellite control center",
+							"A secret naval base"
+						]
+					},
+					{
+						"correct": "Sniper Rifle",
+						"difficulty": "Easy",
+						"explanation": "One of the first things many players do is climb the initial guard tower to pick up the powerful Sniper Rifle, which is useful for clearing the next area.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Early in the level, players can climb a guard tower to find what long-range weapon?",
+						"wrong": [
+							"Rocket Launcher",
+							"Grenade Launcher",
+							"Crossbow"
+						]
+					},
+					{
+						"correct": "Bungee jump from platform",
+						"difficulty": "Easy",
+						"explanation": "Regardless of the difficulty, the mission always ends when Bond reaches the designated platform and makes his daring bungee jump escape.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the final objective on all difficulty levels for this mission?",
+						"wrong": [
+							"Steal a truck",
+							"Plant a bomb",
+							"Rendezvous with 006"
+						]
+					},
+					{
+						"correct": "Alarms",
+						"difficulty": "Easy",
+						"explanation": "On Secret Agent and 00 Agent difficulties, a key objective is to find and neutralize all the alarm panels throughout the level.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "On higher difficulties, Bond must destroy several of these objects to prevent guards from calling for reinforcements.",
+						"wrong": [
+							"Radios",
+							"Sirens",
+							"Control Panels"
+						]
+					},
+					{
+						"correct": "Arkhangelsk",
+						"difficulty": "Medium",
+						"explanation": "The full name of the location is the Arkhangelsk Chemical Weapons Facility, named after the Russian city of Arkhangelsk.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The name of the chemical weapons facility is the same as a real-life port city in the north of Russia. What is it called?",
+						"wrong": [
+							"Murmansk",
+							"Vladivostok",
+							"St. Petersburg"
+						]
+					},
+					{
+						"correct": "A padlock",
+						"difficulty": "Medium",
+						"explanation": "After neutralizing the alarms in the third area, Bond must shoot a padlock off a chain-link fence to proceed to the final stretch of the level.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "To open the gates leading to the dam itself, what must Bond shoot off a locked fence?",
+						"wrong": [
+							"A chain",
+							"A hinge",
+							"A control box"
+						]
+					},
+					{
+						"correct": "Covert modem",
+						"difficulty": "Medium",
+						"explanation": "One of the added objectives on 00 Agent is to install a covert modem onto a specific computer terminal located behind a building.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dam.webp",
+						"question": "On the 00 Agent difficulty, Bond has an objective to install what piece of Q-Branch technology?",
+						"wrong": [
+							"Data thief",
+							"Key analyzer",
+							"Remote mine"
+						]
+					},
+					{
+						"correct": "Four",
+						"difficulty": "Medium",
+						"explanation": "There are a total of four alarms that must be destroyed: one in the truck area and one in each of the three guard towers along the dam wall.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many alarms in total must be neutralized on Secret Agent and 00 Agent difficulty?",
+						"wrong": [
+							"Three",
+							"Five",
+							"Six"
+						]
+					},
+					{
+						"correct": "Paintball Mode",
+						"difficulty": "Medium",
+						"explanation": "Players who can speedrun the Dam on Secret Agent in 2 minutes and 40 seconds or less are rewarded with the fan-favorite Paintball Mode cheat.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Completing the Dam mission on Secret Agent difficulty in under 2:40 unlocks what popular cheat mode?",
+						"wrong": [
+							"DK Mode",
+							"Turbo Mode",
+							"Invincibility"
+						]
+					},
+					{
+						"correct": "Intercept data backup",
+						"difficulty": "Hard",
+						"explanation": "The hardest objective requires players to navigate the dangerous tunnels beneath the dam to find a server room and intercept a data backup.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/dam.webp",
+						"question": "On 00 Agent, Bond must go into the tunnels beneath the dam to perform what action?",
+						"wrong": [
+							"Disable the turbines",
+							"Rescue a hostage",
+							"Plant a tracking device"
+						]
+					},
+					{
+						"correct": "Silenced PP7",
+						"difficulty": "Hard",
+						"explanation": "Players start the first mission equipped with Bond's signature silenced PP7, which is essential for taking out guards quietly.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the film's opening scene, Bond uses a piton gun to attach his bungee cord. In the game, he begins the level with what standard issue sidearm?",
+						"wrong": [
+							"DD44 Dostovei",
+							"Klobb",
+							"KF7 Soviet"
+						]
+					},
+					{
+						"correct": "Switzerland",
+						"difficulty": "Hard",
+						"explanation": "The breathtaking opening stunt was filmed at the Verzasca Dam in Switzerland, which stands in for the fictional Russian facility.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The real-world structure used for filming the iconic bungee jump is the Verzasca Dam. In which country is it located?",
+						"wrong": [
+							"Norway",
+							"Austria",
+							"Russia"
+						]
+					},
+					{
+						"correct": "The server stacks",
+						"difficulty": "Hard",
+						"explanation": "If the player accidentally destroys the two large server stacks in the back of the room while fighting guards, the objective will fail.",
+						"image_url": "",
+						"question": "During the 'Intercept data backup' objective, what must the player be careful NOT to destroy in the server room?",
+						"wrong": [
+							"The main console",
+							"The security cameras",
+							"The explosive barrels"
+						]
+					},
+					{
+						"correct": "Michaels",
+						"difficulty": "Hard",
+						"explanation": "Stuntman Wayne Michaels performed the 220-meter jump, which set a Guinness World Record for the highest bungee jump from a structure in a film.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The stuntman who performed the record-breaking bungee jump for the film was named Wayne...?",
+						"wrong": [
+							"Armstrong",
+							"Andrews",
+							"Martin"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_dam",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Dam",
+				"lore_desc": "The iconic opening mission of GoldenEye 007. Set at the Arkhangelsk Chemical Weapons Facility in the USSR, this level introduces players to the game's core mechanics of stealth, combat, and objective-based gameplay, culminating in one of the most famous bungee jumps in cinema history.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Mission",
+					"Arkhangelsk"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Restroom",
+						"difficulty": "Easy",
+						"explanation": "The Facility level famously begins with Bond inside the ventilation system, positioned directly over the stalls of a restroom. [27]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the game's opening level, you start inside an air duct above which type of room?",
+						"wrong": [
+							"Laboratory",
+							"Cafeteria",
+							"Barracks"
+						]
+					},
+					{
+						"correct": "Dr. Doak",
+						"difficulty": "Easy",
+						"explanation": "Dr. Doak, an MI6 double agent, provides Bond with a Door Decoder needed to access the bottling room. His likeness is based on one of the game's developers, David Doak. [14, 15]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/facility.webp",
+						"question": "On higher difficulties, Bond must contact a double agent scientist to proceed. What is this scientist's name?",
+						"wrong": [
+							"Dr. Zhivago",
+							"Dr. No",
+							"Dr. Kaufman"
+						]
+					},
+					{
+						"correct": "Alec Trevelyan (006)",
+						"difficulty": "Easy",
+						"explanation": "The mission in the Facility is a flashback where Bond meets up with fellow 00-agent Alec Trevelyan. [21]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who does James Bond rendezvous with in the bottling room, nine years before the main events of the game?",
+						"wrong": [
+							"Valentin Zukovsky",
+							"Jack Wade",
+							"Bill Tanner"
+						]
+					},
+					{
+						"correct": "Remote Mines",
+						"difficulty": "Easy",
+						"explanation": "To destroy the chemical weapons, Bond must place Remote Mines on the large tanks in the bottling room. [2]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What must Bond plant on the gas tanks in the bottling room to complete his objective?",
+						"wrong": [
+							"Proximity Mines",
+							"Timed Mines",
+							"Grenades"
+						]
+					},
+					{
+						"correct": "Minimize scientist casualties",
+						"difficulty": "Easy",
+						"explanation": "A key objective in the Facility is to complete the mission while ensuring the safety of the civilian scientists. [8, 9]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is one of the primary mission objectives on all difficulty levels, related to the non-military personnel?",
+						"wrong": [
+							"Interrogate all scientists",
+							"Rescue all scientists",
+							"Evacuate all scientists"
+						]
+					},
+					{
+						"correct": "Door Decoder",
+						"difficulty": "Medium",
+						"explanation": "On Secret Agent and 00 Agent difficulties, Dr. Doak provides Bond with a special Door Decoder to unlock the path to the bottling room. [14]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What item does Dr. Doak give to Bond to help him access the bottling area?",
+						"wrong": [
+							"Keycard A",
+							"Plastique",
+							"Data Thief"
+						]
+					},
+					{
+						"correct": "General Ourumov",
+						"difficulty": "Medium",
+						"explanation": "General Ourumov makes a dramatic entrance, taking 006 captive and setting the stage for Trevelyan's faked death. [21]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After Trevelyan is captured, which high-ranking Soviet officer arrives and seemingly executes him?",
+						"wrong": [
+							"General Gogol",
+							"Minister Mishkin",
+							"Colonel Fedor"
+						]
+					},
+					{
+						"correct": "Green",
+						"difficulty": "Medium",
+						"explanation": "To progress, Bond must acquire the 'Clearance B Keycard' from a specific guard in a green uniform located near the bottom of the first stairwell. [27]",
+						"image_url": "",
+						"question": "A guard in a specific colored uniform downstairs from the restroom carries the 'Clearance B Keycard'. What color is his uniform?",
+						"wrong": [
+							"Blue",
+							"Red",
+							"Grey"
+						]
+					},
+					{
+						"correct": "Sentry Guns",
+						"difficulty": "Medium",
+						"explanation": "The long corridors of the facility are often protected by ceiling-mounted sentry guns that automatically fire on Bond if he is detected.",
+						"image_url": "",
+						"question": "Besides guards, what automated defense systems are found protecting the hallways leading to the laboratory area?",
+						"wrong": [
+							"Laser Grids",
+							"Pressure Plates",
+							"Guard Drones"
+						]
+					},
+					{
+						"correct": "Arkangelsk",
+						"difficulty": "Medium",
+						"explanation": "The opening mission of the game takes place at a chemical weapons facility in Arkangelsk, a city in the north of European Russia. [6]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The mission briefing states this facility is located in which real-world port city of Russia?",
+						"wrong": [
+							"Vladivostok",
+							"St. Petersburg",
+							"Murmansk"
+						]
+					},
+					{
+						"correct": "Bottling tanks",
+						"difficulty": "Hard",
+						"explanation": "The objective is to destroy the large, stationary bottling tanks in the final room of the facility. [2]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/facility.webp",
+						"question": "On which object does Bond place the remote mines to destroy the chemical agent supply?",
+						"wrong": [
+							"Gas canisters",
+							"Control consoles",
+							"Server racks"
+						]
+					},
+					{
+						"correct": "Clearance A Keycard",
+						"difficulty": "Hard",
+						"explanation": "A hidden interaction allows players to follow a fleeing scientist into the restroom, where he will give them the 'Clearance A Keycard' as a reward. [9]",
+						"image_url": "",
+						"question": "If you follow a specific scientist instead of letting him flee, he will retreat to the restroom and give you what item?",
+						"wrong": [
+							"Body Armor",
+							"A Silenced PP7",
+							"A Dossier"
+						]
+					},
+					{
+						"correct": "Nerve Gas",
+						"difficulty": "Hard",
+						"explanation": "The facility is a production center for a deadly nerve gas, which is why MI6 sends two 00-agents to destroy it. [14]",
+						"image_url": "https://skillcheckgame.com/assets/images/facility.webp",
+						"question": "What is the specific name of the chemical agent being produced in the facility?",
+						"wrong": [
+							"Mustard Gas",
+							"Sarin Gas",
+							"VX Agent"
+						]
+					},
+					{
+						"correct": "Rare",
+						"difficulty": "Hard",
+						"explanation": "Dr. Doak is famously based on David Doak, one of the developers at Rare who worked on the game. [35]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Dr. Doak's character model is based on a real-life developer from which company?",
+						"wrong": [
+							"Nintendo",
+							"Acclaim",
+							"Midway"
+						]
+					},
+					{
+						"correct": "Weapon Case",
+						"difficulty": "Hard",
+						"explanation": "In an earlier version of the game, Dr. Doak was planned to give Bond a Weapon Case, but this was changed to the Door Decoder for the final release. [14]",
+						"image_url": "",
+						"question": "In the game's beta version, what item did Dr. Doak originally give to Bond instead of the Door Decoder?",
+						"wrong": [
+							"Key Analyser",
+							"Watch Magnet",
+							"Safe Cracker"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_facility",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Facility",
+				"lore_desc": "A remote chemical weapons facility in Arkangelsk, USSR. This is the location of Bond's and Trevelyan's last mission together before 006's apparent death, and the first level of the game.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Arkangelsk",
+					"Chemical Weapons"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "GoldenEye Satellite",
+						"difficulty": "Easy",
+						"explanation": "The entire Cuban operation, centered on the Cradle, is dedicated to controlling the powerful GoldenEye satellite weapon. [31]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Cradle serves as the control center for which superweapon?",
+						"wrong": [
+							"ICARUS",
+							"Project Medusa",
+							"The ORB"
+						]
+					},
+					{
+						"correct": "Cuba",
+						"difficulty": "Easy",
+						"explanation": "After tracing the Janus operation, Bond and Natalya discover the GoldenEye control center is hidden in Cuba. [43]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/cradle.webp",
+						"question": "The final battle in the game takes place on the massive antenna of the Cradle. In which country is it located?",
+						"wrong": [
+							"Puerto Rico",
+							"Russia",
+							"Jamaica"
+						]
+					},
+					{
+						"correct": "Destroy control console",
+						"difficulty": "Easy",
+						"explanation": "Before confronting his old friend, Bond's main objective is to destroy the main control console for the antenna to prevent it from being used. [19, 26]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the primary objective given by M for the Cradle mission, besides dealing with Trevelyan?",
+						"wrong": [
+							"Rescue Natalya",
+							"Capture Boris",
+							"Steal the helicopter"
+						]
+					},
+					{
+						"correct": "Alec Trevelyan",
+						"difficulty": "Easy",
+						"explanation": "The climax of the game is the long-awaited final battle between James Bond and the head of Janus, his former friend Alec Trevelyan. [11]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which former 00-agent does Bond have his final showdown with at the Cradle?",
+						"wrong": [
+							"General Ourumov",
+							"Valentin Zukovsky",
+							"Boris Grishenko"
+						]
+					},
+					{
+						"correct": "It's hidden under a lake",
+						"difficulty": "Easy",
+						"explanation": "To hide from spy satellites, Trevelyan's base is ingeniously concealed beneath a large, artificial lake that can be drained to reveal the antenna. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How is the massive antenna dish of the Cradle concealed from overhead surveillance?",
+						"wrong": [
+							"It's inside a volcano",
+							"It's covered by a holographic projection",
+							"It's built into a mountain"
+						]
+					},
+					{
+						"correct": "Realign the antenna",
+						"difficulty": "Medium",
+						"explanation": "Q's concern is that even with the satellite's orbit decaying, Trevelyan could potentially realign the antenna and send one last firing command. [26]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the mission briefing, Q warns that Trevelyan might be able to do what if the control console isn't destroyed?",
+						"wrong": [
+							"Self-destruct the base",
+							"Activate a secondary weapon",
+							"Jam MI6 communications"
+						]
+					},
+					{
+						"correct": "A small platform at the bottom",
+						"difficulty": "Medium",
+						"explanation": "For the final part of the fight, Trevelyan leads Bond to a small, precarious platform at the very bottom of the antenna structure. [19]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "After defeating enough of his guards, Trevelyan says 'Finish the job, James - if you can!' and retreats to where for the final duel?",
+						"wrong": [
+							"The very top of the spire",
+							"A control room high above",
+							"An escape helicopter"
+						]
+					},
+					{
+						"correct": "Settle the score with Trevelyan",
+						"difficulty": "Medium",
+						"explanation": "Reflecting the personal nature of the conflict, the game's official objective is to 'Settle the score with Trevelyan'. [11]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the specific mission objective related to Bond's personal history with the main villain?",
+						"wrong": [
+							"Avenge the death of 006",
+							"Confront Janus",
+							"Uncover the conspiracy"
+						]
+					},
+					{
+						"correct": "Grenades",
+						"difficulty": "Medium",
+						"explanation": "As Bond chases Trevelyan across the walkways, the villain will periodically drop grenades in his path to damage and delay the player. [26]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What does Trevelyan often throw behind him to slow Bond's pursuit during the chase across the Cradle's platforms?",
+						"wrong": [
+							"Proximity Mines",
+							"Smoke Bombs",
+							"Knives"
+						]
+					},
+					{
+						"correct": "Invulnerable",
+						"difficulty": "Medium",
+						"explanation": "A key mechanic of the fight is that Trevelyan is completely invulnerable to all attacks while he is running from one point to another. [19]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While Trevelyan is running between his sniping positions, he is immune to damage. What is the game term for this state?",
+						"wrong": [
+							"Invisible",
+							"Phasing",
+							"Shielded"
+						]
+					},
+					{
+						"correct": "The exploding antenna",
+						"difficulty": "Hard",
+						"explanation": "Though badly injured from the fall, Trevelyan is finally killed when the entire antenna structure explodes and collapses on top of him. [6]",
+						"image_url": "https://skillcheckgame.com/assets/images/cradle.webp",
+						"question": "After being defeated, Trevelyan is dropped by Bond and falls to the base of the dish. What ultimately finishes him off?",
+						"wrong": [
+							"A fall from the platform",
+							"A final gunshot from Bond",
+							"A self-destruct sequence"
+						]
+					},
+					{
+						"correct": "Natalya Simonova",
+						"difficulty": "Hard",
+						"explanation": "In a heroic reversal, Natalya commandeers a helicopter and arrives just in time to rescue Bond from the imminent explosion. [6]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who rescues Bond in a helicopter just moments before the entire Cradle complex is destroyed?",
+						"wrong": [
+							"Jack Wade",
+							"Xenia Onatopp",
+							"Valentin Zukovsky"
+						]
+					},
+					{
+						"correct": "Arecibo Observatory",
+						"difficulty": "Hard",
+						"explanation": "The iconic setting for the final battle is the Arecibo Observatory in Puerto Rico, which was once the world's largest single-aperture telescope. [42]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/cradle.webp",
+						"question": "In the film, the location used for the Cradle is a real-life radio telescope. What is its name?",
+						"wrong": [
+							"Very Large Array",
+							"Jodrell Bank Observatory",
+							"Parkes Observatory"
+						]
+					},
+					{
+						"correct": "Janus Syndicate",
+						"difficulty": "Hard",
+						"explanation": "After faking his death, Trevelyan established the Janus crime syndicate, a powerful arms dealing organization. [4]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What criminal organization does Alec Trevelyan lead from his base at the Cradle?",
+						"wrong": [
+							"SPECTRE",
+							"Quantum",
+							"SMERSH"
+						]
+					},
+					{
+						"correct": "Covert operations",
+						"difficulty": "Hard",
+						"explanation": "Trevelyan's taunt, 'Forgot the first rule of covert operations, did you James? No witnesses!', calls back to their shared past as MI6 agents.",
+						"image_url": "",
+						"question": "During the final confrontation, Trevelyan taunts Bond by asking if he's forgotten the 'first rule of...' what?",
+						"wrong": [
+							"Being a 00",
+							"MI6 protocol",
+							"Surviving a mission"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_cradle",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Cradle",
+				"lore_desc": "The massive antenna cradle of a satellite dish hidden beneath a lake in Cuba. It serves as the control center for the GoldenEye satellite and the stage for the final confrontation between Bond and Alec Trevelyan.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Cuba",
+					"Antenna"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Siberia",
+						"difficulty": "Easy",
+						"explanation": "Severnaya is a top-secret installation situated in the harsh, frozen landscape of Siberia. [12]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Severnaya complex is located in which vast, remote region of Russia?",
+						"wrong": [
+							"Ural Mountains",
+							"Caucasus",
+							"Kamchatka"
+						]
+					},
+					{
+						"correct": "Natalya Simonova",
+						"difficulty": "Easy",
+						"explanation": "Natalya Simonova, a level 2 programmer, is the sole survivor of the initial massacre at the Severnaya control center. [16]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which computer programmer, a key ally to Bond, is a survivor of the attack on Severnaya?",
+						"wrong": [
+							"Anna Nishkov",
+							"Dr. Vogel",
+							"Mishka"
+						]
+					},
+					{
+						"correct": "Satellite Dish",
+						"difficulty": "Easy",
+						"explanation": "The most prominent feature of the Severnaya complex is the massive satellite dish used for communicating with the GoldenEye weapon. [32]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/severnaya.webp",
+						"question": "What type of large structure dominates the landscape of the Severnaya Surface levels?",
+						"wrong": [
+							"Missile Silo",
+							"Radio Tower",
+							"Power Plant"
+						]
+					},
+					{
+						"correct": "Copy it",
+						"difficulty": "Easy",
+						"explanation": "Bond's objective is to use a Key Analyzer to make a copy of the GoldenEye activation key while leaving the original behind to avoid suspicion. [28]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the first Bunker mission, what must Bond do to the GoldenEye key?",
+						"wrong": [
+							"Steal it",
+							"Destroy it",
+							"Activate it"
+						]
+					},
+					{
+						"correct": "Boris Grishenko",
+						"difficulty": "Easy",
+						"explanation": "Bond finds the 'invincible' hacker Boris Grishenko working at the mainframe inside the Severnaya bunker. [3]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Who is the arrogant computer programmer working for Janus that Bond encounters in the Severnaya bunker?",
+						"wrong": [
+							"Dimitri Mishkin",
+							"Valentin Zukovsky",
+							"General Ourumov"
+						]
+					},
+					{
+						"correct": "Disable it",
+						"difficulty": "Medium",
+						"explanation": "In the mission 'Surface 2', one of Bond's primary objectives is to disable the communications link by destroying the satellite dish's control console. [37]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "During the second visit to Severnaya, what must Bond do to the main satellite dish?",
+						"wrong": [
+							"Reprogram it",
+							"Protect it",
+							"Photograph it"
+						]
+					},
+					{
+						"correct": "Data Thief",
+						"difficulty": "Medium",
+						"explanation": "On 00 Agent difficulty, Bond must attach the Data Thief gadget to the mainframe to acquire the necessary intelligence. [28]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the first Bunker level, what piece of Q-Branch gadgetry must Bond use to download data from the mainframe?",
+						"wrong": [
+							"Key Analyzer",
+							"Door Decoder",
+							"Covert Modem"
+						]
+					},
+					{
+						"correct": "Helicopter",
+						"difficulty": "Medium",
+						"explanation": "General Ourumov and Xenia Onatopp arrive at Severnaya in a stolen, EMP-hardened Tiger helicopter to take control of the GoldenEye. [16]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What type of enemy vehicle does Janus use to attack the Severnaya facility at the start of the incident?",
+						"wrong": [
+							"Tank",
+							"Jet",
+							"Armored Car"
+						]
+					},
+					{
+						"correct": "Sets off the alarm",
+						"difficulty": "Medium",
+						"explanation": "After entering his password, Boris inadvertently triggers the base's security alarm, forcing Bond to fight his way out. [3]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the first Bunker mission, what does Boris accidentally do after Bond forces him to access the mainframe?",
+						"wrong": [
+							"Wipes the hard drive",
+							"Locks down the system",
+							"Sends a distress signal"
+						]
+					},
+					{
+						"correct": "Electromagnetic Pulse (EMP)",
+						"difficulty": "Medium",
+						"explanation": "Janus detonates one of the two GoldenEye satellites in the atmosphere above Severnaya, creating an EMP to destroy all electronics and hide the evidence of their theft. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "To cover their tracks, Janus uses one of the GoldenEye satellites to generate what kind of blast over Severnaya?",
+						"wrong": [
+							"Nuclear Explosion",
+							"Sonic Blast",
+							"Kinetic Strike"
+						]
+					},
+					{
+						"correct": "Staff list",
+						"difficulty": "Hard",
+						"explanation": "A key objective in the second bunker mission is to retrieve the Severnaya staff list, which helps MI6 identify who is working for Janus. [37]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/severnaya.webp",
+						"question": "In the mission 'Bunker 2', what crucial document must Bond recover that lists the names of Janus operatives?",
+						"wrong": [
+							"Black box",
+							"Blueprints",
+							"GoldenEye manual"
+						]
+					},
+					{
+						"correct": "KNOCKERS",
+						"difficulty": "Hard",
+						"explanation": "In a moment of levity, the password Boris is forced to type to access the system is 'KNOCKERS'. [3]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the password Boris Grishenko uses to log in to the mainframe in the Bunker?",
+						"wrong": [
+							"PASSWORD",
+							"JANUS_01",
+							"INVINCIBLE"
+						]
+					},
+					{
+						"correct": "A kitchen",
+						"difficulty": "Hard",
+						"explanation": "While her colleagues are being gunned down in the control room, Natalya survives because she had stepped into the small kitchen for coffee just moments before the attack. [22]",
+						"image_url": "",
+						"question": "What does Natalya hide in to survive the initial onslaught by Xenia Onatopp and General Ourumov?",
+						"wrong": [
+							"A server room",
+							"A ventilation duct",
+							"A supply closet"
+						]
+					},
+					{
+						"correct": "The escape plane",
+						"difficulty": "Hard",
+						"explanation": "After escaping in a small plane, Bond crashes and must retrieve the flight recorder from the wreckage as part of his objectives in the second Surface mission.",
+						"image_url": "https://skillcheckgame.com/assets/images/severnaya.webp",
+						"question": "In 'Surface 2', Bond must retrieve the flight recorder from which downed aircraft?",
+						"wrong": [
+							"Trevelyan's helicopter",
+							"A MiG fighter jet",
+							"A supply drone"
+						]
+					},
+					{
+						"correct": "The Tunguska event",
+						"difficulty": "Hard",
+						"explanation": "The in-game coordinates for Severnaya place it in the general vicinity of the Tunguska event, a massive, unexplained explosion that flattened over 2,000 square kilometers of Siberian forest. [12]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The coordinates for Severnaya given in the mission briefing (62.08N, 102.58E) place it near the site of what mysterious, real-life explosion from 1908?",
+						"wrong": [
+							"The Chernobyl disaster",
+							"The Chelyabinsk meteor",
+							"The Dyatlov Pass incident"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_severnaya",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Severnaya",
+				"lore_desc": "A remote satellite control and research facility located deep in Siberia. Believed by the world to be an abandoned observatory, it secretly houses the command center for the GoldenEye weapon system.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Location",
+					"Siberia",
+					"Bunker"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Two",
+						"difficulty": "Easy",
+						"explanation": "The GoldenEye system is comprised of two satellites, named Petya and Mischa. [1]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The GoldenEye weapon system consists of how many operational satellites?",
+						"wrong": [
+							"One",
+							"Three",
+							"Six"
+						]
+					},
+					{
+						"correct": "Electromagnetic Pulse (EMP)",
+						"difficulty": "Easy",
+						"explanation": "The GoldenEye's primary function is to create a powerful electromagnetic pulse, or EMP, to destroy electronic circuits over a wide area. [1]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/goldeneye_satellite.webp",
+						"question": "What kind of devastating pulse does the GoldenEye satellite generate?",
+						"wrong": [
+							"Gravitational Pulse",
+							"Sonic Pulse",
+							"Kinetic Pulse"
+						]
+					},
+					{
+						"correct": "Janus",
+						"difficulty": "Easy",
+						"explanation": "The Janus crime syndicate, led by Alec Trevelyan, is responsible for stealing the controls to the GoldenEye weapon. [4]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which criminal syndicate hijacks the GoldenEye satellite?",
+						"wrong": [
+							"SPECTRE",
+							"Quantum",
+							"SMERSH"
+						]
+					},
+					{
+						"correct": "Severnaya",
+						"difficulty": "Easy",
+						"explanation": "To erase evidence of the theft of the GoldenEye control disk, Janus uses the satellite 'Petya' to hit the Severnaya facility itself. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Where does Janus use the first GoldenEye satellite to cover their tracks?",
+						"wrong": [
+							"St. Petersburg",
+							"Monte Carlo",
+							"Arkangelsk"
+						]
+					},
+					{
+						"correct": "London",
+						"difficulty": "Easy",
+						"explanation": "Trevelyan's master plan is to cause a global financial meltdown by using the GoldenEye to wipe out all of London's financial records. [6]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is Alec Trevelyan's ultimate target for the second GoldenEye satellite blast?",
+						"wrong": [
+							"New York",
+							"Moscow",
+							"Tokyo"
+						]
+					},
+					{
+						"correct": "A computer",
+						"difficulty": "Medium",
+						"explanation": "Using her exceptional programming skills, Natalya hacks into the GoldenEye system from the Janus control center in Cuba to avert the disaster. [43]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What device does Natalya Simonova use to reprogram the GoldenEye satellite?",
+						"wrong": [
+							"A satellite phone",
+							"A DAT tape",
+							"A keypad"
+						]
+					},
+					{
+						"correct": "A nuclear warhead",
+						"difficulty": "Medium",
+						"explanation": "Each satellite carries a nuclear warhead, which is detonated high in the atmosphere to create the electromagnetic pulse. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The GoldenEye satellites, Petya and Mischa, are armed with what kind of device to generate the EMP?",
+						"wrong": [
+							"A plasma generator",
+							"A microwave emitter",
+							"A particle beam"
+						]
+					},
+					{
+						"correct": "Initiate atmospheric re-entry",
+						"difficulty": "Medium",
+						"explanation": "Natalya cleverly reprograms the satellite to de-orbit, causing it to burn up harmlessly during atmospheric re-entry. [6, 7]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/goldeneye_satellite.webp",
+						"question": "What does Natalya reprogram the satellite to do in order to destroy it?",
+						"wrong": [
+							"Self-destruct in orbit",
+							"Fly into the sun",
+							"Crash into the moon"
+						]
+					},
+					{
+						"correct": "The Bank of England",
+						"difficulty": "Medium",
+						"explanation": "The core of Trevelyan's plan is to electronically transfer billions from the Bank of England and then use the GoldenEye to erase any record of the theft. [6]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Trevelyan's plan involves stealing money electronically from which major financial institution just before the EMP blast?",
+						"wrong": [
+							"The US Federal Reserve",
+							"The Swiss National Bank",
+							"The Bank of Japan"
+						]
+					},
+					{
+						"correct": "Blue",
+						"difficulty": "Medium",
+						"explanation": "In the Silo level, Bond's objective is to photograph an incomplete satellite which has distinctive blue solar panels. [40]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the mission 'Silo', Bond must take a photograph of a satellite. What color are its folded solar panels?",
+						"wrong": [
+							"Gold",
+							"Silver",
+							"Black"
+						]
+					},
+					{
+						"correct": "Petya",
+						"difficulty": "Hard",
+						"explanation": "The first satellite, designated 'Petya', is sacrificed to wipe out the Severnaya complex and cover up the theft of the control system. [7]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the first GoldenEye satellite, which is used to destroy the Severnaya facility?",
+						"wrong": [
+							"Mischa",
+							"Sputnik",
+							"Kosmos"
+						]
+					},
+					{
+						"correct": "Mischa",
+						"difficulty": "Hard",
+						"explanation": "With 'Petya' destroyed, Trevelyan's plan hinges on the use of the second satellite, 'Mischa', to attack London. [7]",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/goldeneye_satellite.webp",
+						"question": "What is the name of the second, remaining GoldenEye satellite that Trevelyan intends to use on London?",
+						"wrong": [
+							"Petya",
+							"Zarya",
+							"Mir"
+						]
+					},
+					{
+						"correct": "Precise synchronization",
+						"difficulty": "Hard",
+						"explanation": "The firing system has a fail-safe requiring two separate keys to be turned in perfect synchronization to activate the targeting system. [1]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In order to activate the GoldenEye system, two conventional keys must be turned with what specific requirement?",
+						"wrong": [
+							"A specific sequence",
+							"A 90-degree angle",
+							"A ten-second delay"
+						]
+					},
+					{
+						"correct": "EMP hardening",
+						"difficulty": "Hard",
+						"explanation": "The Eurocopter Tiger is stolen specifically because it has been hardened against electromagnetic pulses, allowing Janus to operate it within the blast radius of GoldenEye. [31]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A prototype helicopter is stolen by Janus because it has what special defensive capability, making it useful during a GoldenEye attack?",
+						"wrong": [
+							"Stealth technology",
+							"Advanced radar",
+							"Ballistic armor"
+						]
+					},
+					{
+						"correct": "Project Excalibur",
+						"difficulty": "Hard",
+						"explanation": "The idea of the GoldenEye satellite was inspired by Project Excalibur, a real-world Cold War concept for an X-ray laser system as part of the 'Star Wars' defense program. [10]",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The real-world concept for a space-based nuclear weapon that inspired GoldenEye was part of which U.S. strategic defense initiative?",
+						"wrong": [
+							"Project Thor",
+							"Project Pluto",
+							"Project Orion"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_goldeneye_satellite",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "GoldenEye Satellite",
+				"lore_desc": "A top-secret Soviet orbital weapons system. The GoldenEye consists of satellites armed with a nuclear device designed to detonate in the upper atmosphere, generating a devastating electromagnetic pulse (EMP) to disable all electronics in a target area.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Satellite",
+					"EMP"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "Silencer",
+						"difficulty": "Easy",
+						"explanation": "The Silenced PP7 is Bond's starting weapon in many missions, including the iconic Dam level, allowing for quiet takedowns.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/pp7.webp",
+						"question": "In many missions, Bond begins with a version of the PP7 that has a key attachment for stealth operations. What is this attachment?",
+						"wrong": [
+							"Scope",
+							"Laser Sight",
+							"Grenade Launcher"
+						]
+					},
+					{
+						"correct": "Q",
+						"difficulty": "Easy",
+						"explanation": "Q, the head of Q-Branch, is responsible for providing James Bond with all his gadgets and weapons, including his trusty PP7.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The PP7 is the signature weapon of MI6 agents. Who is the head of the department responsible for creating and issuing these gadgets?",
+						"wrong": [
+							"M",
+							"Moneypenny",
+							"Bill Tanner"
+						]
+					},
+					{
+						"correct": "7 rounds",
+						"difficulty": "Easy",
+						"explanation": "The PP7 holds 7 rounds in its magazine, requiring agents to be precise with their shots.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the standard magazine capacity for a single PP7?",
+						"wrong": [
+							"6 rounds",
+							"8 rounds",
+							"10 rounds"
+						]
+					},
+					{
+						"correct": "PP7",
+						"difficulty": "Easy",
+						"explanation": "The gun barrel sequence, a staple of the Bond franchise, features the silhouette of Bond firing his PP7.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The iconic opening sequence of the game features Bond firing a pistol at the screen. What is this signature weapon?",
+						"wrong": [
+							"DD44 Dostovei",
+							"Cougar Magnum",
+							"KF7 Soviet"
+						]
+					},
+					{
+						"correct": "Walther PPK",
+						"difficulty": "Easy",
+						"explanation": "The in-game PP7 is a direct homage to the Walther PPK, James Bond's signature weapon in the novels and films.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The PP7 is based on a real-world German pistol that is famously associated with James Bond. What is its name?",
+						"wrong": [
+							"Luger P08",
+							"Mauser C96",
+							"Heckler & Koch USP"
+						]
+					},
+					{
+						"correct": "In a safe",
+						"difficulty": "Medium",
+						"explanation": "If you collect two safe keys in the Bunker 2 level, you can unlock a safe containing dual Silenced PP7s.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the 'Bunker 2' mission, where can a special pair of Silenced PP7s be found, allowing Bond to dual-wield them?",
+						"wrong": [
+							"On the commandant",
+							"In the armory",
+							"Dropped by Boris"
+						]
+					},
+					{
+						"correct": "Commandant",
+						"difficulty": "Medium",
+						"explanation": "The Russian Commandant in the first Bunker mission is one of the only NPCs in the entire game to use the PP7.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While most guards carry automatic rifles, a specific high-ranking Russian officer in 'Bunker 1' uses a standard PP7. What is his title?",
+						"wrong": [
+							"General",
+							"Colonel",
+							"Captain"
+						]
+					},
+					{
+						"correct": "He fumbles and drops it",
+						"difficulty": "Medium",
+						"explanation": "True to his character, the clumsy hacker Boris fumbles his PP7 immediately after drawing it in the Control Center.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the mission 'Control,' Boris Grishenko pulls a PP7 on Natalya. What happens immediately after he draws the weapon?",
+						"wrong": [
+							"He fires and misses",
+							"It jams",
+							"Natalya disarms him"
+						]
+					},
+					{
+						"correct": "PP7 Special Issue",
+						"difficulty": "Medium",
+						"explanation": "The weapon's full name is the 'PP7 Special Issue', signifying it's a piece of equipment specifically for 00-agents.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the full, official designation of this weapon in the Q-Branch inventory?",
+						"wrong": [
+							"PP7 Standard Edition",
+							"PP7 Covert Ops Model",
+							"PP7 Field Agent Pistol"
+						]
+					},
+					{
+						"correct": "Gold PP7",
+						"difficulty": "Medium",
+						"explanation": "The Gold PP7 cheat gives the pistol the one-shot-kill power of the Golden Gun but with a full 7-round magazine.",
+						"image_url": "",
+						"question": "If you complete the 'Cradle' level on the 00 Agent difficulty within the target time, you unlock a cheat for a powerful version of this pistol. What is it called?",
+						"wrong": [
+							"Silver PP7",
+							"Platinum PP7",
+							"Phantom PP7"
+						]
+					},
+					{
+						"correct": "Silver PP7",
+						"difficulty": "Hard",
+						"explanation": "The Silver PP7 is a cheat weapon that functions like a normal PP7 but with the high damage output of the powerful Cougar Magnum.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A cheat code unlocks a slightly more powerful variant of this pistol that shares the damage properties of the Cougar Magnum. What is this version called?",
+						"wrong": [
+							"Steel PP7",
+							"Titanium PP7",
+							"Chrome PP7"
+						]
+					},
+					{
+						"correct": "Activate the alarm",
+						"difficulty": "Hard",
+						"explanation": "Using a loud weapon like the standard PP7 in the Dam will cause the guards to trigger the alarm, making the mission much more difficult.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/pp7.webp",
+						"question": "In the first 'Dam' mission, firing the unsilenced version of the PP7 near guards will cause them to do what?",
+						"wrong": [
+							"Surrender immediately",
+							"Run for cover",
+							"Call for reinforcements"
+						]
+					},
+					{
+						"correct": "Watch Magnet Attract",
+						"difficulty": "Hard",
+						"explanation": "The Watch Magnet Attract, primarily used in Bunker 2, can also be used to pull the PP7 and its ammo clip off a table in the Archives.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the 'Archives' mission, Bond can find a PP7 and its ammunition on a table. What nearby gadget can be used to retrieve the weapon from a distance?",
+						"wrong": [
+							"Watch Laser",
+							"Key Analyzer",
+							"Plastique"
+						]
+					},
+					{
+						"correct": "Firing it rapidly",
+						"difficulty": "Hard",
+						"explanation": "Despite being silenced, firing the PP7 too quickly will still make enough noise to attract the attention of close-by enemies.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While the silenced PP7 is quieter than the standard model, what action can still alert nearby guards to your presence?",
+						"wrong": [
+							"Aiming down the sights",
+							"Reloading",
+							"Pistol-whipping an enemy"
+						]
+					},
+					{
+						"correct": "Arkangelsk",
+						"difficulty": "Hard",
+						"explanation": "Bond's infiltration of the Arkangelsk facility, which includes the Dam, Facility, and Runway levels, starts him with the silenced PP7.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/pp7.webp",
+						"question": "In which chemical warfare facility does Bond begin his mission equipped with the silenced PP7?",
+						"wrong": [
+							"Severnaya",
+							"Monte Carlo",
+							"St. Petersburg"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_pp7",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "PP7",
+				"lore_desc": "The quintessential firearm for a 00-agent, the PP7 is James Bond's reliable, easily concealed starting pistol. Based on the real-world Walther PPK, it's the trusted tool for missions requiring discretion and precision.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Sidearm",
+					"MI6"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "It kills in one shot",
+						"difficulty": "Easy",
+						"explanation": "The Golden Gun is legendary for being a one-shot-kill weapon, capable of defeating any enemy instantly.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/golden_gun.webp",
+						"question": "What is the most famous and deadly feature of the Golden Gun?",
+						"wrong": [
+							"It has infinite ammo",
+							"It shoots through walls",
+							"It never needs to reload"
+						]
+					},
+					{
+						"correct": "Francisco Scaramanga",
+						"difficulty": "Easy",
+						"explanation": "The Golden Gun is the signature weapon of Francisco Scaramanga, the world's most expensive assassin.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which villain, known as 'The Man with the Golden Gun,' is the original owner of this weapon?",
+						"wrong": [
+							"Alec Trevelyan",
+							"General Ourumov",
+							"Baron Samedi"
+						]
+					},
+					{
+						"correct": "The Man with the Golden Gun",
+						"difficulty": "Easy",
+						"explanation": "In 'The Man with the Golden Gun' multiplayer mode, players fight to control the single Golden Gun that spawns on the map.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A specific multiplayer scenario is centered entirely around this weapon. What is the name of this mode?",
+						"wrong": [
+							"You Only Live Twice",
+							"Licence to Kill",
+							"Living Daylights"
+						]
+					},
+					{
+						"correct": "One",
+						"difficulty": "Easy",
+						"explanation": "Living up to its high-risk, high-reward nature, the Golden Gun holds only a single bullet and must be reloaded after every shot.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How many bullets can the Golden Gun hold in its magazine at one time?",
+						"wrong": [
+							"Three",
+							"Five",
+							"Seven"
+						]
+					},
+					{
+						"correct": "A box of ammo",
+						"difficulty": "Easy",
+						"explanation": "When playing 'The Man with the Golden Gun', the weapon always spawns with a single box of ammunition for it.",
+						"image_url": "",
+						"question": "In multiplayer, what item typically spawns in the same location as the Golden Gun?",
+						"wrong": [
+							"Body Armor",
+							"A Proximity Mine",
+							"A different pistol"
+						]
+					},
+					{
+						"correct": "Egyptian",
+						"difficulty": "Medium",
+						"explanation": "The Golden Gun is found as a special weapon in the bonus level 'Egyptian', accessible after beating the main story.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/golden_gun.webp",
+						"question": "In which bonus mission must Bond navigate a booby-trapped temple to acquire the Golden Gun?",
+						"wrong": [
+							"Aztec",
+							"Cradle",
+							"Caverns"
+						]
+					},
+					{
+						"correct": "A shield covers the gun and turrets appear",
+						"difficulty": "Medium",
+						"explanation": "Stepping on an incorrect tile in the puzzle room causes a bulletproof shield to protect the gun and activates four deadly drone guns.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "To get the gun in the Egyptian level, Bond must walk across a specific sequence of floor tiles. What happens if he steps on the wrong tile?",
+						"wrong": [
+							"The floor gives way",
+							"Poison darts shoot from the walls",
+							"The room fills with sand"
+						]
+					},
+					{
+						"correct": "Baron Samedi",
+						"difficulty": "Medium",
+						"explanation": "Due to his extremely high health, especially on higher difficulties, the Golden Gun is the recommended weapon for defeating Baron Samedi.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which voodoo-themed adversary in the 'Egyptian' level is most effectively dispatched with the Golden Gun?",
+						"wrong": [
+							"Jaws",
+							"Oddjob",
+							"Xenia Onatopp"
+						]
+					},
+					{
+						"correct": "D5K Deutsche",
+						"difficulty": "Medium",
+						"explanation": "Interestingly, the powerful Golden Gun uses the same firing sound effect as the D5K Deutsche submachine gun.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "The Golden Gun shares its distinct firing sound with which silenced submachine gun?",
+						"wrong": [
+							"KF7 Soviet",
+							"ZMG (9mm)",
+							"RC-P90"
+						]
+					},
+					{
+						"correct": "Pen, lighter, and cigarette case",
+						"difficulty": "Medium",
+						"explanation": "The Golden Gun is famously constructed from a fountain pen (the barrel), a cigarette lighter (the firing mechanism), and a cigarette case (the handle).",
+						"image_url": "",
+						"question": "What common, everyday items does Scaramanga use to assemble the Golden Gun?",
+						"wrong": [
+							"Watch, belt buckle, and cufflink",
+							"Flask, lipstick, and compact mirror",
+							"Tie clip, ring, and shoe heel"
+						]
+					},
+					{
+						"correct": "Jaws",
+						"difficulty": "Hard",
+						"explanation": "In multiplayer with custom health modifiers set extremely high, Jaws is one of the few characters who can withstand a shot from the Golden Gun.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "While the Golden Gun can kill almost any character in one shot, which massive, metal-toothed henchman can sometimes survive a hit in multiplayer if health settings are high enough?",
+						"wrong": [
+							"Oddjob",
+							"General Ourumov",
+							"Valentin Zukovsky"
+						]
+					},
+					{
+						"correct": "Dual-wield it",
+						"difficulty": "Hard",
+						"explanation": "With the 'All Guns' cheat active, it's possible for Bond to equip two Golden Guns simultaneously for double the deadly, single-shot action.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Though only one Golden Gun exists, using the 'All Guns' cheat allows Bond to do what with the weapon?",
+						"wrong": [
+							"Fire it automatically",
+							"Attach a silencer",
+							"Use it as a melee weapon"
+						]
+					},
+					{
+						"correct": "DY357-LX",
+						"difficulty": "Hard",
+						"explanation": "Perfect Dark, also developed by Rare, features the gold-plated DY357-LX pistol, which is a direct tribute to the Golden Gun and also kills in one shot.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the name of the homage weapon in the spiritual successor game, Perfect Dark, that functions identically to the Golden Gun?",
+						"wrong": [
+							"Phoenix",
+							"Falcon 2",
+							"Callisto NTG"
+						]
+					},
+					{
+						"correct": "Their score is transferred to the new wielder",
+						"difficulty": "Hard",
+						"explanation": "A unique rule in this mode is that any kills earned with the Golden Gun are transferred to the next player who picks it up, making the weapon itself the scoring object.",
+						"image_url": "https://skillcheckgame.com/assets/images/golden_gun.webp",
+						"question": "In the multiplayer mode 'The Man with the Golden Gun,' what happens to the kill-score of a player who is eliminated while holding the gun?",
+						"wrong": [
+							"Their score is reset to zero",
+							"Their score is halved",
+							"Their score is locked"
+						]
+					},
+					{
+						"correct": "The enemy is not killed",
+						"difficulty": "Hard",
+						"explanation": "A rare exception to the one-shot-kill rule is that if the bullet strikes only the enemy's weapon, they will survive the encounter.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "A shot from the Golden Gun will instantly kill an enemy if it hits their body. What happens if the shot only hits the gun they are holding?",
+						"wrong": [
+							"They are disarmed",
+							"The enemy's gun explodes",
+							"The bullet ricochets"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_golden_gun",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Golden Gun",
+				"lore_desc": "The legendary signature weapon of the assassin Francisco Scaramanga. Assembled from a pen, lighter, and cigarette case, this unique pistol is famed for its single, deadly bullet, capable of eliminating any target with one shot.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Exotic",
+					"One-Shot Kill"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "An enemy moving nearby",
+						"difficulty": "Easy",
+						"explanation": "Proximity Mines, as their name suggests, detonate when any moving character enters their detection range.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/proximity_mine.webp",
+						"question": "What triggers the explosion of a Proximity Mine?",
+						"wrong": [
+							"A timer counting down",
+							"Pressing a detonator button",
+							"Shooting the mine"
+						]
+					},
+					{
+						"correct": "Body Armor",
+						"difficulty": "Easy",
+						"explanation": "A common and effective multiplayer strategy is to place Proximity Mines near Body Armor spawns to catch players trying to gain a health advantage.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In multiplayer, these mines are notoriously used to booby-trap what valuable pickups?",
+						"wrong": [
+							"Keycards",
+							"Mission objectives",
+							"Security cameras"
+						]
+					},
+					{
+						"correct": "Red",
+						"difficulty": "Easy",
+						"explanation": "Once thrown, the Proximity Mine arms itself and begins to flash with a distinct red light, warning observant players of the danger.",
+						"image_url": "",
+						"question": "What color does the light on the Proximity Mine blink once it is armed?",
+						"wrong": [
+							"Green",
+							"Blue",
+							"Yellow"
+						]
+					},
+					{
+						"correct": "It sticks to the surface",
+						"difficulty": "Easy",
+						"explanation": "Proximity Mines are adhesive, allowing players to place them on any surface, including walls, ceilings, and around corners, for creative traps.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What happens when you throw a Proximity Mine onto a wall or ceiling?",
+						"wrong": [
+							"It bounces off",
+							"It explodes on impact",
+							"It slides to the floor"
+						]
+					},
+					{
+						"correct": "Timed Mines",
+						"difficulty": "Easy",
+						"explanation": "The game features three types of mines: Proximity, Timed (which explode after a set duration), and Remote (which are manually detonated).",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Besides Proximity Mines, what other type of throwable mine can be detonated by a timer?",
+						"wrong": [
+							"Remote Mines",
+							"Trip Mines",
+							"Sticky Mines"
+						]
+					},
+					{
+						"correct": "Gas tanks in the bottling room",
+						"difficulty": "Medium",
+						"explanation": "In the Facility, one of the main objectives is to use Remote Mines to destroy the large gas tanks in the bottling room where Bond meets Alec Trevelyan.",
+						"image_url": "",
+						"question": "In the 'Facility' mission, Bond must use mines to complete an objective. What must he destroy?",
+						"wrong": [
+							"The main computer server",
+							"A satellite dish",
+							"An armored vehicle"
+						]
+					},
+					{
+						"correct": "Place the mine on the crate and pick up the ammo",
+						"difficulty": "Medium",
+						"explanation": "A well-known glitch allows players to make a mine invisible by placing it on an ammo box and then quickly picking up the ammunition before the mine arms.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In multiplayer, what sneaky trick can be used with a Proximity Mine and an ammo crate to make the mine invisible?",
+						"wrong": [
+							"Shoot the mine with a silenced weapon",
+							"Throw the mine while crouching",
+							"Place two mines on top of each other"
+						]
+					},
+					{
+						"correct": "By moving very slowly",
+						"difficulty": "Medium",
+						"explanation": "The mines are sensitive to velocity, meaning a player can sneak past one without triggering it by walking very slowly or moving while aiming.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "How can a player safely get past an enemy's Proximity Mine without setting it off?",
+						"wrong": [
+							"By jumping over it",
+							"By rolling past it",
+							"By throwing a grenade at it"
+						]
+					},
+					{
+						"correct": "Depot",
+						"difficulty": "Medium",
+						"explanation": "The only mission in the single-player campaign where Proximity Mines are available as a standard weapon is in the military Depot.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/proximity_mine.webp",
+						"question": "In which single-player mission are Proximity Mines found as a weapon pickup?",
+						"wrong": [
+							"Facility",
+							"Jungle",
+							"Archives"
+						]
+					},
+					{
+						"correct": "A rapid beeping",
+						"difficulty": "Medium",
+						"explanation": "As a player gets close to a Proximity Mine, it will begin to beep rapidly, giving them a brief moment to react before it detonates.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What distinct sound does a Proximity Mine make to alert a player that they are about to trigger it?",
+						"wrong": [
+							"A low humming",
+							"A clicking sound",
+							"A high-pitched whine"
+						]
+					},
+					{
+						"correct": "The bathroom",
+						"difficulty": "Hard",
+						"explanation": "Players often toss mines into the air vents in the Facility, as an unlucky opponent can spawn inside and be immediately eliminated.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the 'Facility' multiplayer map, a common strategy is to throw Proximity Mines into the vents above which specific room?",
+						"wrong": [
+							"The main lab",
+							"The bottling room",
+							"The control room"
+						]
+					},
+					{
+						"correct": "Oddjob",
+						"difficulty": "Hard",
+						"explanation": "Due to his short stature, Oddjob can sometimes walk right under Proximity Mines that would have been triggered by any other character.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which famously short character in multiplayer is notoriously difficult to hit with Proximity Mines placed at standard chest height?",
+						"wrong": [
+							"Jaws",
+							"Baron Samedi",
+							"Mishkin"
+						]
+					},
+					{
+						"correct": "Yes, explosions can damage players through thin surfaces",
+						"difficulty": "Hard",
+						"explanation": "Explosions in the game can deal splash damage through thin walls and doors, making them effective for attacking enemies who are taking cover.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "If you throw a mine on the outside of a thin wall or door, can the explosion harm a player on the other side?",
+						"wrong": [
+							"No, explosions are blocked by all surfaces",
+							"Only if the door is made of wood",
+							"Only if the mine is a Remote Mine"
+						]
+					},
+					{
+						"correct": "Motion-Sensor Bomb",
+						"difficulty": "Hard",
+						"explanation": "The Motion-Sensor Bomb item in Super Smash Bros. Melee was modeled after and functions identically to the Proximity Mine from GoldenEye 007.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/proximity_mine.webp",
+						"question": "In the Super Smash Bros. series, an item directly inspired by the Proximity Mine appears under what different name?",
+						"wrong": [
+							"Bumper",
+							"Smart Bomb",
+							"Gooey Bomb"
+						]
+					},
+					{
+						"correct": "Arming time",
+						"difficulty": "Hard",
+						"explanation": "After a Proximity Mine is thrown, there is a short 'arming time' before it becomes active, which allows the player who threw it to get clear of the blast radius.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "There is a brief delay after throwing a Proximity Mine before it becomes active. What is this period called?",
+						"wrong": [
+							"Activation sequence",
+							"Setup phase",
+							"Lag time"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_proximity_mine",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Proximity Mine",
+				"lore_desc": "A favorite tool for ambush and area denial in multiplayer matches. This throwable explosive sticks to any surface and detonates when an unsuspecting opponent moves within its trigger radius.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Weapon",
+					"Gadget",
+					"Throwable"
+				]
+			}
+		},
+		{
+			"card_type": "normal",
+			"content": {
+				"questions": [
+					{
+						"correct": "A metal panel in the floor",
+						"difficulty": "Easy",
+						"explanation": "While trapped on Alec Trevelyan's armored train, Bond uses his Watch Laser to cut a hole in a floor panel, allowing him and Natalya to escape.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/watch_laser.webp",
+						"question": "In the mission 'Train,' Bond must use the Watch Laser to escape from a dire situation. What does he cut open?",
+						"wrong": [
+							"The locks on the main door",
+							"A window to the outside",
+							"The handcuffs on Natalya"
+						]
+					},
+					{
+						"correct": "Q",
+						"difficulty": "Easy",
+						"explanation": "The Watch Laser is one of the many ingenious gadgets supplied to Bond by Q, the head of Q-Branch.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Which MI6 quartermaster is responsible for inventing and issuing this high-tech timepiece?",
+						"wrong": [
+							"M",
+							"R",
+							"Tanner"
+						]
+					},
+					{
+						"correct": "Detonating remote mines",
+						"difficulty": "Easy",
+						"explanation": "When Bond has Remote Mines equipped, selecting the watch in the menu transforms it into a detonator to trigger the explosives.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Besides emitting a laser, the watch serves another critical function in Bond's inventory. What is it used for?",
+						"wrong": [
+							"Analyzing keycards",
+							"Communicating with MI6",
+							"Tracking enemies"
+						]
+					},
+					{
+						"correct": "Omega",
+						"difficulty": "Easy",
+						"explanation": "The film marked the first time James Bond wore an Omega Seamaster, which has since become the character's signature watch brand.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What real-world luxury brand is Bond's watch in the film 'GoldenEye,' on which the game is based?",
+						"wrong": [
+							"Rolex",
+							"Tag Heuer",
+							"Breitling"
+						]
+					},
+					{
+						"correct": "Health and Armor",
+						"difficulty": "Easy",
+						"explanation": "The iconic pause screen shows Bond's watch, which displays his current health and body armor levels as red and green bars.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/watch_laser.webp",
+						"question": "The watch's pause screen interface displays two vital statistics for Bond on its face. What are they?",
+						"wrong": [
+							"Ammo and Grenades",
+							"Time and Location",
+							"Objectives and Alerts"
+						]
+					},
+					{
+						"correct": "A floor hatch",
+						"difficulty": "Medium",
+						"explanation": "To escape a locked room in the Silo, Bond uses the Watch Laser to destroy the padlock on a floor hatch.",
+						"image_url": "",
+						"question": "In the mission 'Silo,' Bond uses the laser to escape from a locked room. What object does he cut the lock off of?",
+						"wrong": [
+							"A weapons locker",
+							"A ventilation grate",
+							"A prison cell door"
+						]
+					},
+					{
+						"correct": "A blue bar at the bottom",
+						"difficulty": "Medium",
+						"explanation": "When the laser is active, a blue bar labeled 'LASER' appears at the bottom of the watch face, depleting as it's used.",
+						"image_url": "",
+						"question": "The laser has a finite amount of power before it needs to recharge. How is the remaining charge displayed on the watch?",
+						"wrong": [
+							"A percentage in the corner",
+							"The watch hands spin backwards",
+							"A number next to the date"
+						]
+					},
+					{
+						"correct": "Detonator remote",
+						"difficulty": "Medium",
+						"explanation": "In the movie, Q explicitly demonstrates that the watch contains both the cutting laser and a remote detonator for bombs.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "In the film, Q mentions that the laser is not the only feature of the watch. What other device is built into it for setting off explosives?",
+						"wrong": [
+							"Geiger counter",
+							"Garrote wire",
+							"Dart launcher"
+						]
+					},
+					{
+						"correct": "V2.01 BETA",
+						"difficulty": "Medium",
+						"explanation": "The top of the watch face in the pause menu reads 'G WATCH V2.01 BETA', giving it the feel of prototype Q-Branch technology.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the version number of the 'G. WATCH' software displayed at the top of the watch face on the pause screen?",
+						"wrong": [
+							"V1.0 FINAL",
+							"V3.5 ALPHA",
+							"V2.0 GOLD"
+						]
+					},
+					{
+						"correct": "MISSION STATUS INCOMPLETE",
+						"difficulty": "Medium",
+						"explanation": "Along with the health and armor bars, the watch face displays the text 'MISSION STATUS INCOMPLETE' until all objectives are met.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What text is displayed at the bottom of the watch face, indicating that Bond's work is not yet done?",
+						"wrong": [
+							"OBJECTIVES PENDING",
+							"AGENT STATUS ACTIVE",
+							"MI6 INTEL RECEIVED"
+						]
+					},
+					{
+						"correct": "Pistol-mounted laser",
+						"difficulty": "Hard",
+						"explanation": "In the prologue of the film, set nine years before the main story, laser technology was much bulkier, requiring Bond to use a large laser mounted on a pistol.",
+						"image_url": "",
+						"question": "In the first level of the game, the Dam, the laser is unavailable. What similar, but much larger, Q-gadget does Bond use to cut a lock on a gate?",
+						"wrong": [
+							"Laser-emitting pen",
+							"Briefcase laser",
+							"Laser cufflink"
+						]
+					},
+					{
+						"correct": "To pull metallic objects towards Bond",
+						"difficulty": "Hard",
+						"explanation": "The Watch Magnet Attract is a different Q-gadget used to retrieve items like keys and weapons that are just out of reach.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "Another gadget, the 'Watch Magnet Attract,' is used in the Bunker levels. What is its primary function?",
+						"wrong": [
+							"To repel incoming bullets",
+							"To disable electronic locks",
+							"To stick to metal surfaces"
+						]
+					},
+					{
+						"correct": "A + B",
+						"difficulty": "Hard",
+						"explanation": "A pro-level trick for using remote mines is to press the A and B buttons simultaneously, which detonates them instantly without having to switch to the watch.",
+						"fact_checked": true,
+						"image_url": "https://skillcheckgame.com/assets/images/watch_laser.webp",
+						"question": "A button combination allows for quick detonation of remote mines without switching to the watch interface. On the N64 controller, what is this combination?",
+						"wrong": [
+							"Z + R",
+							"C-Up + C-Down",
+							"Start + B"
+						]
+					},
+					{
+						"correct": "Seamaster Professional Diver 300M",
+						"difficulty": "Hard",
+						"explanation": "The exact model Pierce Brosnan wore in GoldenEye was an Omega Seamaster Professional Diver 300M, which housed the fictional laser gadget.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "What is the specific model of the Omega watch used in the film?",
+						"wrong": [
+							"Speedmaster Moonwatch",
+							"Constellation Globemaster",
+							"De Ville Trésor"
+						]
+					},
+					{
+						"correct": "To push metallic objects away",
+						"difficulty": "Hard",
+						"explanation": "Though it was cut from the final game, code exists for a 'Watch Magnet Repel' gadget, which would have performed the opposite function of the 'Attract' version.",
+						"fact_checked": true,
+						"image_url": "",
+						"question": "An unused gadget called the 'Watch Magnet Repel' exists in the game's code. What was its intended function?",
+						"wrong": [
+							"To create a temporary shield",
+							"To deflect laser beams",
+							"To jam enemy communications"
+						]
+					}
+				]
+			},
+			"id": "goldeneye_007_watch_laser",
+			"meta": {
+				"date_added": "2026-04-28",
+				"entity_category": "Theme Item",
+				"full_title": "Watch Laser",
+				"lore_desc": "A sophisticated Q-Branch gadget disguised as an elegant timepiece. This watch conceals a powerful laser capable of cutting through steel, perfect for escaping traps or creating new paths where none exist.",
+				"theme_origin": "goldeneye 007",
+				"type": "ENTITY"
+			},
+			"mystery_name": "",
+			"profiler": {
+				"vibe_tags": [
+					"Gadget",
+					"Q-Branch",
+					"Utility"
+				]
+			}
 		}
 	],
 	"peripherals": [],
@@ -178100,6 +181517,120 @@
 						"Blanka"
 					],
 					"name": "Beauty and the Beast"
+				}
+			]
+		},
+		{
+			"id": "goldeneye 007",
+			"synergies": [
+				{
+					"bonus": 3500.0,
+					"items": [
+						"James Bond",
+						"Alec Trevelyan",
+						"Cradle"
+					],
+					"name": "For England, James"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Xenia Onatopp",
+						"Alec Trevelyan",
+						"GoldenEye Satellite"
+					],
+					"name": "The Janus Syndicate"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Natalya Simonova",
+						"Boris Grishenko",
+						"Severnaya"
+					],
+					"name": "The Severnaya Incident"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"Facility",
+						"Proximity Mine",
+						"Golden Gun"
+					],
+					"name": "Multiplayer Mayhem"
+				},
+				{
+					"bonus": 3500.0,
+					"items": [
+						"James Bond",
+						"PP7",
+						"Watch Laser"
+					],
+					"name": "Q-Branch Loadout"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Oddjob",
+						"Golden Gun"
+					],
+					"name": "The Banned Pick"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Boris Grishenko",
+						"GoldenEye Satellite"
+					],
+					"name": "I Am Invincible!"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"James Bond",
+						"Dam"
+					],
+					"name": "Leap of Faith"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Facility",
+						"Proximity Mine"
+					],
+					"name": "Vent Campers"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Jaws",
+						"Oddjob"
+					],
+					"name": "Classic Henchmen"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Natalya Simonova",
+						"Watch Laser"
+					],
+					"name": "Boys with Toys"
+				},
+				{
+					"bonus": 2000.0,
+					"items": [
+						"Xenia Onatopp",
+						"Severnaya"
+					],
+					"name": "Squeeze Play"
+				},
+				{
+					"bonus": 2000,
+					"items": [
+						"James Bond",
+						"PP7"
+					],
+					"name": "Licence to Kill"
 				}
 			]
 		}
