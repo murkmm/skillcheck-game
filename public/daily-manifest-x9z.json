@@ -1,5 +1,5 @@
 {
-	"last_updated": 1777386668,
+	"last_updated": 1777389545,
 	"schedule": {
 		"2026-03-06": {
 			"daily_type": "normal",
@@ -2674,6 +2674,51 @@
 				"street_fighter_2_shoryuken",
 				"street_fighter_2_bonus_stage_car",
 				"street_fighter_2_shadaloo"
+			],
+			"submitted_by": ""
+		},
+		"2026-05-01": {
+			"daily_type": "normal",
+			"difficulty": "Easy",
+			"mode": "STANDARD",
+			"motd": "GoldenEye 007: Licence to Kill",
+			"share_text": "No Oddjob allowed!",
+			"shops": [
+				{
+					"p1": "piggy_bank",
+					"p2": "double_adapter"
+				},
+				{
+					"p1": "memory_card",
+					"p2": "extra_life"
+				},
+				{
+					"p1": "quick_save",
+					"p2": "combo_breaker"
+				}
+			],
+			"showcase": [
+				"goldeneye_007_james_bond",
+				"goldeneye_007_alec_trevelyan",
+				"goldeneye_007_natalya_simonova"
+			],
+			"starters": [
+				"goldeneye_007_james_bond",
+				"goldeneye_007_alec_trevelyan",
+				"goldeneye_007_natalya_simonova",
+				"goldeneye_007_xenia_onatopp",
+				"goldeneye_007_boris_grishenko",
+				"goldeneye_007_jaws",
+				"goldeneye_007_oddjob",
+				"goldeneye_007_dam",
+				"goldeneye_007_facility",
+				"goldeneye_007_cradle",
+				"goldeneye_007_severnaya",
+				"goldeneye_007_goldeneye_satellite",
+				"goldeneye_007_pp7",
+				"goldeneye_007_golden_gun",
+				"goldeneye_007_proximity_mine",
+				"goldeneye_007_watch_laser"
 			],
 			"submitted_by": ""
 		}
