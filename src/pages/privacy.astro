@@ -3,7 +3,7 @@ import LegalLayout from '~/layouts/LegalLayout.astro';
 ---
 
 <LegalLayout title="Privacy Policy">
-  <p class="page-updated">Last Updated: April 27, 2026</p>
+  <p class="page-updated">Last Updated: April 28, 2026</p>
 
   <p>
     Skill Check ("we", "us", or "our") respects your privacy. This Privacy Policy explains how we collect, use, store,
@@ -26,9 +26,9 @@ import LegalLayout from '~/layouts/LegalLayout.astro';
       to provide cloud saves and leaderboards.
     </li>
     <li>
-      <strong>Gameplay Analytics:</strong> When you complete a run, we log anonymised gameplay data including your display
-      name, scores, stage performance, and question results. This data is used solely to improve game balance and content
-      quality.
+      <strong>Gameplay Analytics:</strong> When you complete a run, we log your scores, stage performance, and aggregate
+      question results, attributed to your display name for leaderboard purposes. We use anonymised aggregates of this data
+      to improve game balance and content quality. We do not use this data for behavioural profiling or advertising.
     </li>
     <li>
       <strong>User Submissions:</strong> If you submit theme ideas or feedback through the in-game tools, your display name
@@ -40,6 +40,11 @@ import LegalLayout from '~/layouts/LegalLayout.astro';
     </li>
   </ul>
   <p>We do not collect your real name, address, phone number, or precise location.</p>
+  <p>
+    Specifically, we do not collect: your contacts, calendar data, photos or videos, audio recordings, files or
+    documents, web browsing history, app activity outside Skill Check, installed apps list, device or other identifiers
+    used for advertising, or precise or approximate location data.
+  </p>
 
   <h2>2. Third-Party Service Providers</h2>
   <p>We use the following trusted third-party services to operate Skill Check:</p>
@@ -61,11 +66,6 @@ import LegalLayout from '~/layouts/LegalLayout.astro';
       <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">cloudflare.com/privacypolicy</a
       >
     </li>
-    <li>
-      <strong>Google AdSense</strong> (web only) — display advertisements for non-premium players. AdSense uses cookies and
-      may collect data per Google's privacy policy.
-      <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>
-    </li>
   </ul>
 
   <h2>3. How We Use Your Data</h2>
@@ -80,25 +80,41 @@ import LegalLayout from '~/layouts/LegalLayout.astro';
     </li>
     <li>To diagnose and fix technical issues.</li>
   </ul>
-  <p>
-    We do not sell your personal data. We do not share your personal data with advertisers beyond what is required for
-    Google AdSense to display ads on the web version.
-  </p>
+  <p>We do not sell your personal data. We do not share your personal data with advertisers.</p>
 
   <h2>4. Data Security & Storage Location</h2>
   <p>
     All data transmission to our servers uses HTTPS encryption. Account credentials and game data are stored on Supabase
-    servers, hosted in the European Union. While we take reasonable measures to protect your data using
-    industry-standard security practices, no method of internet transmission or electronic storage is 100% secure.
+    servers, hosted in the European Union. Leaderboard data (display name and scores only — no email, no game progress)
+    is also transmitted to SilentWolf, which may host this data outside the European Union. Refer to SilentWolf's
+    privacy policy for details.
+  </p>
+  <p>
+    While we take reasonable measures to protect your data using industry-standard security practices, no method of
+    internet transmission or electronic storage is 100% secure.
   </p>
 
   <h2>5. Data Retention & Deletion</h2>
   <p>
-    We retain your account data for as long as your account is active. If you wish to request the deletion of your
-    account and all associated game data, please email us at
-    <a href="mailto:support@ki10games.com">support@ki10games.com</a> from the email address linked to your account. We will
-    process your request within 30 days. Anonymised gameplay analytics may be retained beyond account deletion for the purpose
-    of improving the game.
+    We retain your account data for as long as your account is active. You can request deletion of your account and all
+    associated game data in three ways:
+  </p>
+  <ul>
+    <li>
+      <strong>From within the app:</strong> Settings → Account → Delete Account
+    </li>
+    <li>
+      <strong>From our website:</strong> Visit
+      <a href="https://www.skillcheckgame.com/delete-account">skillcheckgame.com/delete-account</a>
+    </li>
+    <li>
+      <strong>By email:</strong> Contact <a href="mailto:support@ki10games.com">support@ki10games.com</a> from the email
+      address linked to your account.
+    </li>
+  </ul>
+  <p>
+    We will process deletion requests within 30 days. Anonymised gameplay analytics may be retained beyond account
+    deletion for the purpose of improving the game.
   </p>
 
   <h2>6. Your Rights</h2>
@@ -125,12 +141,11 @@ import LegalLayout from '~/layouts/LegalLayout.astro';
     contact us at <a href="mailto:support@ki10games.com">support@ki10games.com</a> and we will promptly delete the information.
   </p>
 
-  <h2>8. Cookies & Tracking</h2>
+  <h2>8. Cookies & Local Storage</h2>
   <p>
-    The web version of Skill Check uses cookies and similar technologies for authentication, saving preferences, and
-    serving advertisements via Google AdSense. You can control cookies through your browser settings. The Android
-    application does not use cookies but may store preferences locally on your device. Disabling cookies on the web
-    version may affect login functionality.
+    The web version of Skill Check uses cookies and similar technologies for authentication and saving preferences. You
+    can control cookies through your browser settings. The Android application does not use cookies but may store
+    preferences locally on your device. Disabling cookies on the web version may affect login functionality.
   </p>
 
   <h2>9. Changes to This Policy</h2>

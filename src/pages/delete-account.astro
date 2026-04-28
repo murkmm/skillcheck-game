@@ -1,0 +1,148 @@
+---
+import LegalLayout from '~/layouts/LegalLayout.astro';
+---
+
+<LegalLayout title="Delete Account">
+  <p class="page-updated">Privacy Policy: <a href="/privacy">View</a></p>
+
+  <h2>Request Account Deletion</h2>
+
+  <p>
+    You can request deletion of your Skill Check account and all associated data using the form below. We will process
+    your request within 30 days and email you at the address linked to your account when it's complete.
+  </p>
+
+  <p>
+    <strong>If you have access to the app:</strong> You can also delete your account directly from Settings → Account → Delete
+    Account, which is faster.
+  </p>
+
+  <form id="delete-form" style="display: flex; flex-direction: column; gap: 12px; max-width: 480px;">
+    <label for="email">
+      <strong>Email address</strong> (the one linked to your account)
+    </label>
+    <input
+      type="email"
+      id="email"
+      name="email"
+      required
+      placeholder="you@example.com"
+      style="padding: 10px; border-radius: 6px; border: 1px solid #444; background: #111; color: #fff;"
+    />
+
+    <label for="reason">
+      <strong>Reason</strong> (optional)
+    </label>
+    <textarea
+      id="reason"
+      name="reason"
+      rows="3"
+      placeholder="Optional — helps us improve the game"
+      style="padding: 10px; border-radius: 6px; border: 1px solid #444; background: #111; color: #fff; resize: vertical;"
+    ></textarea>
+
+    <label style="display: flex; align-items: flex-start; gap: 8px; margin-top: 8px;">
+      <input type="checkbox" id="confirm" required style="margin-top: 4px;" />
+      <span>
+        I understand that this will permanently delete my account, all cloud-saved progress, leaderboard scores,
+        collection unlocks, and run history, and that this action cannot be undone.
+      </span>
+    </label>
+
+    <button
+      type="submit"
+      id="submit-btn"
+      style="padding: 12px 20px; border-radius: 6px; border: none; background: #cc3333; color: #fff; font-weight: bold; cursor: pointer; margin-top: 16px;"
+    >
+      REQUEST DELETION
+    </button>
+
+    <div id="result" style="margin-top: 16px;"></div>
+  </form>
+
+  <h2>What happens next</h2>
+  <ol>
+    <li>Your request is received and queued for processing.</li>
+    <li>
+      Within 30 days, we will permanently delete your account, email address, display name, run history, leaderboard
+      scores, and all related data from our systems.
+    </li>
+    <li>You will receive a confirmation email at the address you provided when deletion is complete.</li>
+    <li>
+      Anonymised gameplay analytics (with no link to your identity) may be retained beyond deletion to improve the game.
+    </li>
+  </ol>
+
+  <p>
+    If you have questions, contact us at
+    <a href="mailto:support@ki10games.com">support@ki10games.com</a>.
+  </p>
+</LegalLayout>
+
+<script is:inline define:vars={{ webhookUrl: import.meta.env.PUBLIC_DISCORD_DELETION_WEBHOOK || '' }}>
+  const form = document.getElementById('delete-form');
+  const result = document.getElementById('result');
+  const submitBtn = document.getElementById('submit-btn');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = document.getElementById('email').value.trim();
+    const reason = document.getElementById('reason').value.trim();
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'SUBMITTING...';
+    result.textContent = '';
+
+    if (!webhookUrl) {
+      // Fallback: open user's email client with pre-filled message
+      const subject = encodeURIComponent('Account Deletion Request');
+      const body = encodeURIComponent(
+        `Please delete the Skill Check account associated with ${email}.\n\nReason: ${reason || '(none given)'}`
+      );
+      window.location.href = `mailto:support@ki10games.com?subject=${subject}&body=${body}`;
+      result.style.color = '#88aaff';
+      result.textContent = 'Opening your email client...';
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'REQUEST DELETION';
+      return;
+    }
+
+    try {
+      const payload = {
+        content: '🚨 **ACCOUNT DELETION REQUEST (web form)** — action required',
+        embeds: [
+          {
+            title: 'Web deletion request',
+            description: 'Reason: ' + (reason || '(no reason given)'),
+            color: 15548997,
+            fields: [
+              { name: 'Email', value: email, inline: false },
+              { name: 'Source', value: 'Web form (skillcheckgame.com/delete-account)', inline: false },
+            ],
+            footer: { text: 'Action via Supabase dashboard within 30 days' },
+          },
+        ],
+      };
+
+      const res = await fetch(webhookUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+
+      if (!res.ok) throw new Error('Webhook responded with ' + res.status);
+
+      result.style.color = '#66cc66';
+      result.innerHTML =
+        '<strong>Request received.</strong><br/>We will process your deletion within 30 days and email you when complete.';
+      form.reset();
+    } catch {
+      result.style.color = '#cc6666';
+      result.innerHTML =
+        '<strong>Submission failed.</strong><br/>Please email <a href="mailto:support@ki10games.com">support@ki10games.com</a> directly.';
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'REQUEST DELETION';
+    }
+  });
+</script>
