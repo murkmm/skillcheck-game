@@ -4,13 +4,14 @@ site:
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  # Replace with the token from your own Google Search Console property, or delete.
+  googleSiteVerificationId: ''
 
 metadata:
   title:
-    default: Skill Check - Daily Trivia Card Game
+    default: Skill Check — A Daily Trivia Card Game for Gamers
     template: '%s | Skill Check'
-  description: 'A daily trivia card game for gaming enthusiasts. Collect cartridges, discover synergies, and compete on the global leaderboard.'
+  description: 'A daily trivia card game across 86 gaming universes and 1,594 collectible cards. Build a streak, discover synergies, and compete on the global leaderboard. Free in your browser.'
   robots:
     index: true
     follow: true
@@ -37,6 +38,7 @@ apps:
 analytics:
   vendors:
     googleAnalytics:
+      # Paste your GA4 measurement ID here, e.g. 'G-XXXXXXXXXX', to turn analytics on.
       id: null
 
 ui:

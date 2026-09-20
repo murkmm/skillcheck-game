@@ -4,9 +4,12 @@ import Layout from '~/layouts/Layout.astro';
 
 <Layout
   metadata={{
-    title: 'Skill Check - Daily Trivia Card Game',
+    // The layout appends '| Skill Check', so the brand belongs there and not here,
+    // or every page reads 'Skill Check ... | Skill Check'. Nobody searches the brand
+    // yet either, so the words people DO search lead.
+    title: 'Daily Gaming Trivia Card Game',
     description:
-      'A daily trivia card game. Collect cartridges, discover synergies, and test your knowledge across gaming universes. New challenge every day.',
+      'A daily trivia card game across 86 gaming universes and 1,594 collectible cards. Collect cartridges, discover synergies, build your streak. A new challenge every day.',
   }}
 >
   <style>
@@ -599,7 +602,7 @@ import Layout from '~/layouts/Layout.astro';
         <div class="feature-card">
           <span class="feature-icon">🎴</span>
           <h3>COLLECT CARTRIDGES</h3>
-          <p>Hundreds of cards spanning iconic gaming franchises. Master them all to complete your collection.</p>
+          <p>1,594 hand-picked cards across 86 gaming universes — Pokémon, Dark Souls, Minecraft, Yu-Gi-Oh and more. Master them all to complete your collection.</p>
         </div>
         <div class="feature-card">
           <span class="feature-icon">🔗</span>
@@ -667,11 +670,11 @@ import Layout from '~/layouts/Layout.astro';
       <!-- STATS -->
       <div class="stats-bar">
         <div class="stat-item">
-          <span class="stat-value">470+</span>
+          <span class="stat-value">1,594</span>
           <span class="stat-label">Cards to Collect</span>
         </div>
         <div class="stat-item">
-          <span class="stat-value">20+</span>
+          <span class="stat-value">86</span>
           <span class="stat-label">Gaming Universes</span>
         </div>
         <div class="stat-item">
