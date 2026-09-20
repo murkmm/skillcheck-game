@@ -7,9 +7,9 @@ import Layout from '~/layouts/Layout.astro';
     // The layout appends '| Skill Check', so the brand belongs there and not here,
     // or every page reads 'Skill Check ... | Skill Check'. Nobody searches the brand
     // yet either, so the words people DO search lead.
-    title: 'Daily Gaming Trivia Card Game',
+    title: 'Free Daily Gaming Trivia Card Game',
     description:
-      'A daily trivia card game across 86 gaming universes and 1,594 collectible cards. Collect cartridges, discover synergies, build your streak. A new challenge every day.',
+      'Test your gaming knowledge in a free daily trivia card game. No account needed. Collect illustrated cards, discover combos, and unlock past daily themes from £1.',
   }}
 >
   <style>
@@ -55,88 +55,261 @@ import Layout from '~/layouts/Layout.astro';
         radial-gradient(ellipse at 80% 80%, rgba(255, 204, 0, 0.04) 0%, transparent 50%), var(--bg-deep);
     }
 
-    /* Mobile: game is fullscreen, hide everything else */
+    /* Keep the offer and instructions accessible on phones too. */
+    .site-nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      max-width: 1100px;
+      margin: auto;
+      padding: 1.25rem 1.5rem;
+    }
+    .brand {
+      font:
+        700 1rem 'JetBrains Mono',
+        monospace;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .site-nav nav {
+      display: flex;
+      gap: 1.25rem;
+      font-size: 0.85rem;
+    }
+    .site-nav nav a {
+      color: var(--text-main);
+      text-decoration: none;
+    }
+    .site-nav nav a:hover {
+      color: var(--accent);
+    }
+    .intro-hero {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      align-items: center;
+      gap: 2rem;
+      max-width: 1100px;
+      margin: auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+    .eyebrow {
+      font:
+        700 0.75rem 'JetBrains Mono',
+        monospace;
+      color: var(--success);
+      letter-spacing: 0.08em;
+      margin-bottom: 1rem;
+    }
+    .intro-hero h1 {
+      font-size: clamp(2.4rem, 4.3vw, 3.8rem);
+      font-weight: 800;
+      line-height: 1.08;
+      letter-spacing: -0.04em;
+      margin: 0 0 1.25rem;
+    }
+    .intro-hero h1 span {
+      color: var(--accent);
+    }
+    .hero-description {
+      color: #b5b5c5;
+      font-size: 1.1rem;
+      line-height: 1.7;
+      margin: 0 0 1.5rem;
+      max-width: 32rem;
+    }
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1rem;
+    }
+    .secondary-link {
+      color: var(--text-main);
+      text-underline-offset: 5px;
+    }
+    .reassurance {
+      color: #a6a6b8;
+      font-size: 0.85rem;
+      margin-top: 1rem;
+    }
+    .card-preview {
+      width: 100%;
+      height: auto;
+      border: 1px solid var(--border);
+      border-radius: 1rem;
+      box-shadow: 0 20px 70px #00e5ff0a;
+    }
+    .game-intro {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .game-intro h2 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin: 0 0 0.5rem;
+    }
+    .game-intro p {
+      color: #a6a6b8;
+      margin: 0;
+    }
+    .game-tools {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+    }
+    .direct-play {
+      color: #b5b5c5;
+      font-size: 0.85rem;
+      padding-top: 0.75rem;
+      text-underline-offset: 4px;
+    }
+    #game-container,
+    #supporter,
+    #how-to-play {
+      scroll-margin-top: 1rem;
+    }
+    .supporter-section {
+      padding: 2rem 0;
+    }
+    .supporter-section h2 {
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 800;
+      margin: 0 0 0.75rem;
+    }
+    .supporter-intro {
+      text-align: center;
+      color: #b5b5c5;
+      line-height: 1.7;
+      margin: 0 auto 1.75rem;
+      max-width: 36rem;
+    }
+    .plans {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+    .plan {
+      padding: 1.75rem;
+      border: 1px solid var(--border);
+      border-radius: 1rem;
+      background: var(--bg-card);
+    }
+    .plan-paid {
+      border-color: #ffcc0066;
+      background: linear-gradient(145deg, #272216, var(--bg-card) 65%);
+    }
+    .plan h3 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      margin: 0 0 1rem;
+    }
+    .plan-price {
+      font-size: 2rem;
+      font-weight: 800;
+      margin: 0;
+    }
+    .plan-price span {
+      font-size: 0.85rem;
+      color: #b5b5c5;
+      font-weight: 400;
+    }
+    .plan ul {
+      padding-left: 1.1rem;
+      list-style: disc;
+      color: #c4c4d0;
+      line-height: 1.7;
+      margin: 1.25rem 0;
+    }
+    .plan li {
+      margin-bottom: 0.45rem;
+    }
+    .plan .cta-btn {
+      display: block;
+      padding: 0.9rem 1rem;
+      text-align: center;
+      font-size: 0.8rem;
+    }
+    .plan-paid .cta-btn {
+      background: var(--warning);
+    }
+    .plan-note {
+      color: #b5b5c5;
+      font-size: 0.8rem;
+      line-height: 1.6;
+      margin: 0.85rem 0 0;
+    }
+    .supporter-section details {
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 0;
+    }
+    .supporter-section summary {
+      cursor: pointer;
+      font-weight: 600;
+    }
+    .supporter-section details p {
+      color: #b5b5c5;
+      line-height: 1.7;
+      margin-top: 0.75rem;
+    }
+    a:focus-visible,
+    button:focus-visible,
+    summary:focus-visible {
+      outline: 3px solid var(--accent);
+      outline-offset: 5px;
+    }
     @media (max-width: 767px) {
-      body,
-      html,
-      main,
-      .hero-section > * {
-        margin: 0 !important;
-        padding: 0 !important;
+      .intro-hero {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        padding-top: 1.5rem;
+        padding-bottom: 2rem;
+      }
+      .hero-actions .cta-btn {
+        width: 100%;
+        text-align: center;
       }
       .hero-section {
-        padding: 0 !important;
-        margin: 0 !important;
-        min-height: 100dvh;
-        justify-content: stretch;
-        position: fixed;
-        inset: 0;
-        z-index: 9999;
-      }
-      .hero-content {
-        display: none !important;
-      }
-      .game-row {
-        gap: 0 !important;
-      }
-      .sidebar-ad {
-        display: none !important;
-      }
-      .game-column {
-        width: 100vw !important;
-        height: 100dvh !important;
+        min-height: auto;
+        padding: 1.5rem 0.75rem;
       }
       .game-wrapper {
-        width: 100vw !important;
-        height: 100dvh !important;
-        max-width: 100vw !important;
-        max-height: 100dvh !important;
-        aspect-ratio: unset !important;
-        border-radius: 0 !important;
-        border: none !important;
-        box-shadow: none !important;
-        margin: 0 !important;
-        padding: 0 !important;
+        width: min(100%, 420px);
+        height: auto;
+        max-height: none;
+        aspect-ratio: 9 / 16;
       }
-      .game-wrapper .game-frame-container {
-        border-radius: 0 !important;
-        border: none !important;
-        box-shadow: none !important;
+      .game-column {
+        width: 100%;
       }
-      .fullscreen-btn {
-        display: none !important;
+      .game-row {
+        gap: 0;
       }
-      .below-fold {
-        display: none !important;
+      .plans {
+        grid-template-columns: 1fr;
       }
-      .site-footer {
-        display: none !important;
+      .stats-bar {
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+      .site-nav {
+        padding: 1rem;
+      }
+      .site-nav nav {
+        gap: 0.75rem;
+        font-size: 0.75rem;
       }
     }
-
-    .hero-content {
-      text-align: center;
-      margin-bottom: 2rem;
-      animation: fadeUp 0.8s ease-out;
-    }
-
-    .hero-logo {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 3.5rem;
-      font-weight: 900;
-      letter-spacing: -0.02em;
-      background: linear-gradient(135deg, var(--accent), var(--warning));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      margin: 0 0 0.5rem 0;
-    }
-
-    .hero-tagline {
-      font-size: 1.15rem;
-      color: var(--text-dim);
-      font-weight: 300;
-      letter-spacing: 0.04em;
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        animation: none !important;
+        transition: none !important;
+      }
     }
 
     /* ===== GAME ROW WITH SIDEBAR ADS ===== */
@@ -187,12 +360,12 @@ import Layout from '~/layouts/Layout.astro';
       margin: 0 auto;
     }
 
-    /* Make sure mobile still looks perfect */
     @media (max-width: 767px) {
       .game-wrapper {
+        width: min(100%, 420px);
         height: auto;
-        width: 100vw;
         max-height: none;
+        aspect-ratio: 9 / 16;
       }
     }
 
@@ -512,11 +685,42 @@ import Layout from '~/layouts/Layout.astro';
     }
   </style>
 
-  <!-- HERO: Game lives here -->
-  <section class="hero-section">
-    <div class="hero-content">
-      <h1 class="hero-logo">SKILL CHECK</h1>
-      <p class="hero-tagline">A daily trivia card game for gaming enthusiasts</p>
+  <header class="site-nav">
+    <a class="brand" href="/">SKILL CHECK</a>
+    <nav aria-label="Main navigation">
+      <a href="#how-to-play">How to play</a>
+      <a href="#supporter">Unlock the archive</a>
+    </nav>
+  </header>
+
+  <section class="intro-hero" aria-labelledby="hero-heading">
+    <div>
+      <p class="eyebrow">FREE DAILY GAMING TRIVIA</p>
+      <h1 id="hero-heading">Know your games?<br /><span>Put it to the test.</span></h1>
+      <p class="hero-description">
+        Build a hand of gaming icons. Combine their cards for bonuses. Answer trivia to beat today's challenge — then
+        come back for a new theme tomorrow.
+      </p>
+      <div class="hero-actions">
+        <a href="#game-container" class="cta-btn" data-funnel="play_free">PLAY FREE</a>
+        <a href="#supporter" class="secondary-link" data-funnel="view_upgrade">More to play? From £1 →</a>
+      </div>
+      <p class="reassurance">No download. No account needed to play.</p>
+    </div>
+    <img
+      class="card-preview"
+      src="/images/og-card.png"
+      width="1200"
+      height="630"
+      alt="Illustrated Skill Check cards featuring Master Chief, Pikachu, Steve, Tom Nook and Doom Slayer"
+      fetchpriority="high"
+    />
+  </section>
+
+  <section class="hero-section" aria-label="Play Skill Check">
+    <div class="game-intro">
+      <h2>Your free daily challenge</h2>
+      <p>Same cards. Same questions. How far can you get?</p>
     </div>
 
     <!-- Game row: sidebar ad | game | sidebar ad -->
@@ -540,6 +744,8 @@ import Layout from '~/layouts/Layout.astro';
           <div class="game-frame-container">
             <iframe
               id="game-iframe"
+              title="Skill Check — free daily trivia game"
+              loading="lazy"
               src="/play/index.html?v=4"
               allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment; web-share"
               sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-downloads"
@@ -547,24 +753,29 @@ import Layout from '~/layouts/Layout.astro';
           </div>
         </div>
 
-        <button id="fullscreen-btn" class="fullscreen-btn" title="Toggle Fullscreen">
-          <svg
-            id="icon-max"
-            xmlns="http://www.w3.org/2000/svg"
-            width="18"
-            height="18"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
+        <div class="game-tools">
+          <a class="direct-play" href="/play/?v=4" data-astro-reload data-funnel="open_game"
+            >Open game in full window ↗</a
           >
-            <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"
-            ></path>
-          </svg>
-          <span id="fullscreen-text">FULLSCREEN</span>
-        </button>
+          <button id="fullscreen-btn" class="fullscreen-btn" title="Toggle Fullscreen">
+            <svg
+              id="icon-max"
+              xmlns="http://www.w3.org/2000/svg"
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"
+              ></path>
+            </svg>
+            <span id="fullscreen-text">FULLSCREEN</span>
+          </button>
+        </div>
       </div>
 
       <!-- RIGHT SIDEBAR AD (desktop only, 1100px+) -->
@@ -582,9 +793,70 @@ import Layout from '~/layouts/Layout.astro';
     </div>
   </section>
 
-  <!-- BELOW THE FOLD: Only visible on desktop -->
+  <!-- Instructions and upgrade details remain available at every screen size. -->
   <div class="below-fold">
     <div class="content-column">
+      <div class="section-divider"></div>
+
+      <section class="supporter-section" id="supporter" aria-labelledby="supporter-heading">
+        <h2 id="supporter-heading">Your favourite theme. On your schedule.</h2>
+        <p class="supporter-intro">
+          The daily challenge is free. Upgrade when you want to explore past themes, replay your favourites, and play
+          without ads.
+        </p>
+        <div class="plans">
+          <article class="plan">
+            <h3>Daily player</h3>
+            <p class="plan-price">Free <span>every day</span></p>
+            <ul>
+              <li>A new themed daily challenge</li>
+              <li>Collect cards and discover synergies</li>
+              <li>Three practice replays after your daily</li>
+              <li>Optional free account for leaderboards and progress sync</li>
+            </ul>
+            <a href="#game-container" class="cta-btn" data-funnel="play_free">PLAY TODAY'S DAILY</a>
+            <p class="plan-note">
+              Start playing as a guest. Sign up when you want to keep your progress across devices.
+            </p>
+          </article>
+          <article class="plan plan-paid">
+            <h3>Archive + Supporter</h3>
+            <p class="plan-price">From £1 <span>one time</span></p>
+            <ul>
+              <li>Play past daily themes on demand</li>
+              <li>Unlimited daily replays</li>
+              <li>Remove ads</li>
+              <li>Supporter badge and monthly theme suggestions</li>
+            </ul>
+            <a href="#game-container" class="cta-btn" data-funnel="upgrade_interest">OPEN GAME TO UPGRADE</a>
+            <p class="plan-note">
+              Choose <strong>Unlock Archive</strong> in the game. Sign in to link your purchase. Pay what you want: £1 minimum,
+              £5 suggested. No subscription.
+            </p>
+          </article>
+        </div>
+        <details>
+          <summary>Do I need to pay or create an account to try it?</summary>
+          <p>
+            No. Play today's daily challenge as a guest. A free account lets you post scores and sync your progress; the
+            archive upgrade is optional.
+          </p>
+        </details>
+        <details>
+          <summary>What if today's theme isn't my thing?</summary>
+          <p>
+            A different theme arrives at midnight UTC. The archive lets supporters browse and play past themes whenever
+            they like.
+          </p>
+        </details>
+        <details>
+          <summary>How do I keep my progress?</summary>
+          <p>
+            Sign in with Google, Discord, or an email code. Use the same account when you return or switch devices, and
+            use that account's email at checkout.
+          </p>
+        </details>
+      </section>
       <div class="section-divider"></div>
 
       <!-- INTRO -->
@@ -602,7 +874,10 @@ import Layout from '~/layouts/Layout.astro';
         <div class="feature-card">
           <span class="feature-icon">🎴</span>
           <h3>COLLECT CARTRIDGES</h3>
-          <p>1,594 hand-picked cards across 86 gaming universes — Pokémon, Dark Souls, Minecraft, Yu-Gi-Oh and more. Master them all to complete your collection.</p>
+          <p>
+            1,594 hand-picked cards across 86 gaming universes — Pokémon, Dark Souls, Minecraft, Yu-Gi-Oh and more.
+            Master them all to complete your collection.
+          </p>
         </div>
         <div class="feature-card">
           <span class="feature-icon">🔗</span>
@@ -624,7 +899,7 @@ import Layout from '~/layouts/Layout.astro';
       <div class="section-divider"></div>
 
       <!-- HOW TO PLAY -->
-      <section class="howto-section">
+      <section class="howto-section" id="how-to-play">
         <h2>HOW TO PLAY</h2>
         <div class="howto-steps">
           <div class="howto-step">
@@ -687,8 +962,11 @@ import Layout from '~/layouts/Layout.astro';
 
       <!-- CTA -->
       <section class="cta-section">
-        <p>New daily challenge drops at midnight UTC. Don't break your streak.</p>
-        <a href="#game-container" class="cta-btn">PLAY NOW</a>
+        <p>
+          A new theme arrives at midnight UTC. Come back tomorrow and put a different part of your gaming knowledge to
+          the test.
+        </p>
+        <a href="#game-container" class="cta-btn" data-funnel="play_free">PLAY FREE</a>
       </section>
     </div>
   </div>
@@ -707,7 +985,19 @@ import Layout from '~/layouts/Layout.astro';
 </Layout>
 
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
+  document.addEventListener('astro:page-load', () => {
+    if (!document.getElementById('game-iframe')) return;
+    const controller = new AbortController();
+    document.addEventListener('astro:before-swap', () => controller.abort(), { once: true });
+    document.querySelectorAll<HTMLAnchorElement>('[data-funnel]').forEach((link) => {
+      if (link.dataset.tracked) return;
+      link.dataset.tracked = 'true';
+      link.addEventListener('click', () => {
+        const eventName = link.dataset.funnel;
+        const analytics = window as unknown as { gtag?: (command: string, name: string) => void };
+        if (eventName) analytics.gtag?.('event', eventName);
+      });
+    });
     // ===== FULLSCREEN TOGGLE =====
     const fsBtn = document.getElementById('fullscreen-btn') as HTMLButtonElement | null;
     const container = document.getElementById('game-container');
@@ -726,73 +1016,77 @@ import Layout from '~/layouts/Layout.astro';
         }
       });
 
-      document.addEventListener('fullscreenchange', () => {
-        const gameWrapper = document.getElementById('game-container');
-        const frameContainer = gameWrapper?.querySelector('.game-frame-container') as HTMLElement | null;
+      document.addEventListener(
+        'fullscreenchange',
+        () => {
+          const gameWrapper = document.getElementById('game-container');
+          const frameContainer = gameWrapper?.querySelector('.game-frame-container') as HTMLElement | null;
 
-        if (fsText && iconMax && fsBtn) {
-          if (document.fullscreenElement) {
-            // Compact icon-only button
-            fsText.style.display = 'none';
-            fsBtn.style.position = 'fixed';
-            fsBtn.style.right = '0.5rem';
-            fsBtn.style.bottom = '0.5rem';
-            fsBtn.style.zIndex = '9999';
-            fsBtn.style.marginTop = '0';
-            fsBtn.style.padding = '0.5rem';
-            fsBtn.style.background = 'rgba(0,0,0,0.5)';
-            fsBtn.style.border = '1px solid rgba(255,255,255,0.15)';
-            fsBtn.style.borderRadius = '0.5rem';
-            fsBtn.style.opacity = '0.4';
-            iconMax.innerHTML =
-              '<path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>';
+          if (fsText && iconMax && fsBtn) {
+            if (document.fullscreenElement) {
+              // Compact icon-only button
+              fsText.style.display = 'none';
+              fsBtn.style.position = 'fixed';
+              fsBtn.style.right = '0.5rem';
+              fsBtn.style.bottom = '0.5rem';
+              fsBtn.style.zIndex = '9999';
+              fsBtn.style.marginTop = '0';
+              fsBtn.style.padding = '0.5rem';
+              fsBtn.style.background = 'rgba(0,0,0,0.5)';
+              fsBtn.style.border = '1px solid rgba(255,255,255,0.15)';
+              fsBtn.style.borderRadius = '0.5rem';
+              fsBtn.style.opacity = '0.4';
+              iconMax.innerHTML =
+                '<path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>';
 
-            // Game fills the screen
-            if (gameWrapper) {
-              gameWrapper.style.maxWidth = '100vw';
-              gameWrapper.style.maxHeight = '100vh';
-              gameWrapper.style.width = '100vw';
-              gameWrapper.style.height = '100vh';
-              gameWrapper.style.aspectRatio = 'unset';
-            }
-            if (frameContainer) {
-              frameContainer.style.borderRadius = '0';
-              frameContainer.style.border = 'none';
-              frameContainer.style.boxShadow = 'none';
-            }
-          } else {
-            // Restore full button
-            fsText.style.display = '';
-            fsBtn.style.position = '';
-            fsBtn.style.right = '';
-            fsBtn.style.bottom = '';
-            fsBtn.style.zIndex = '';
-            fsBtn.style.marginTop = '';
-            fsBtn.style.padding = '';
-            fsBtn.style.background = '';
-            fsBtn.style.border = '';
-            fsBtn.style.borderRadius = '';
-            fsBtn.style.opacity = '';
-            fsText.textContent = 'FULLSCREEN';
-            iconMax.innerHTML =
-              '<path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>';
+              // Game fills the screen
+              if (gameWrapper) {
+                gameWrapper.style.maxWidth = '100vw';
+                gameWrapper.style.maxHeight = '100vh';
+                gameWrapper.style.width = '100vw';
+                gameWrapper.style.height = '100vh';
+                gameWrapper.style.aspectRatio = 'unset';
+              }
+              if (frameContainer) {
+                frameContainer.style.borderRadius = '0';
+                frameContainer.style.border = 'none';
+                frameContainer.style.boxShadow = 'none';
+              }
+            } else {
+              // Restore full button
+              fsText.style.display = '';
+              fsBtn.style.position = '';
+              fsBtn.style.right = '';
+              fsBtn.style.bottom = '';
+              fsBtn.style.zIndex = '';
+              fsBtn.style.marginTop = '';
+              fsBtn.style.padding = '';
+              fsBtn.style.background = '';
+              fsBtn.style.border = '';
+              fsBtn.style.borderRadius = '';
+              fsBtn.style.opacity = '';
+              fsText.textContent = 'FULLSCREEN';
+              iconMax.innerHTML =
+                '<path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>';
 
-            // Restore game size
-            if (gameWrapper) {
-              gameWrapper.style.maxWidth = '';
-              gameWrapper.style.maxHeight = '';
-              gameWrapper.style.width = '';
-              gameWrapper.style.height = '';
-              gameWrapper.style.aspectRatio = '';
-            }
-            if (frameContainer) {
-              frameContainer.style.borderRadius = '';
-              frameContainer.style.border = '';
-              frameContainer.style.boxShadow = '';
+              // Restore game size
+              if (gameWrapper) {
+                gameWrapper.style.maxWidth = '';
+                gameWrapper.style.maxHeight = '';
+                gameWrapper.style.width = '';
+                gameWrapper.style.height = '';
+                gameWrapper.style.aspectRatio = '';
+              }
+              if (frameContainer) {
+                frameContainer.style.borderRadius = '';
+                frameContainer.style.border = '';
+                frameContainer.style.boxShadow = '';
+              }
             }
           }
-        }
-      });
+        },
+        { signal: controller.signal }
+      );
 
       // Hover effect for compact fullscreen button
       fsBtn.addEventListener('mouseenter', () => {
