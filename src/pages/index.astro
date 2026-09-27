@@ -799,8 +799,9 @@ import Layout from '~/layouts/Layout.astro';
             <iframe
               id="game-iframe"
               title="Skill Check — free daily trivia game"
-              loading="lazy"
-              src="/play/index.html?v=4"
+              src="about:blank"
+              data-game-src="/play/index.html?v=4"
+              tabindex="-1"
               allow="autoplay; fullscreen; clipboard-read; clipboard-write; payment; web-share"
               sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-downloads"
               allowfullscreen></iframe>
@@ -1040,9 +1041,55 @@ import Layout from '~/layouts/Layout.astro';
 
 <script>
   document.addEventListener('astro:page-load', () => {
-    if (!document.getElementById('game-iframe')) return;
+    const gameIframe = document.getElementById('game-iframe') as HTMLIFrameElement | null;
+    if (!gameIframe) return;
+
     const controller = new AbortController();
     document.addEventListener('astro:before-swap', () => controller.abort(), { once: true });
+
+    // Do not boot the Godot iframe while someone is still reading the landing-page
+    // hero. The game focuses its canvas during startup on some mobile browsers,
+    // which can make the parent page jump down to the embedded game by itself.
+    const loadEmbeddedGame = () => {
+      if (gameIframe.dataset.loaded === 'true') return;
+      const gameSrc = gameIframe.dataset.gameSrc;
+      if (!gameSrc) return;
+
+      gameIframe.dataset.loaded = 'true';
+      gameIframe.src = gameSrc;
+    };
+
+    const pageUrl = new URL(window.location.href);
+    const mustLoadImmediately =
+      pageUrl.searchParams.get('oauth') === 'pending' || window.location.hash === '#game-container';
+
+    if (mustLoadImmediately) {
+      loadEmbeddedGame();
+    } else if ('IntersectionObserver' in window) {
+      const gameContainer = document.getElementById('game-container');
+      if (gameContainer) {
+        const gameObserver = new IntersectionObserver(
+          (entries) => {
+            if (entries.some((entry) => entry.isIntersecting)) {
+              loadEmbeddedGame();
+              gameObserver.disconnect();
+            }
+          },
+          {
+            // Start loading shortly before the game actually reaches the viewport,
+            // but not while the user is still at the top of the page.
+            rootMargin: '0px 0px 100px 0px',
+            threshold: 0.01,
+          }
+        );
+
+        gameObserver.observe(gameContainer);
+        document.addEventListener('astro:before-swap', () => gameObserver.disconnect(), { once: true });
+      }
+    } else {
+      // Older browser fallback.
+      loadEmbeddedGame();
+    }
     document.querySelectorAll<HTMLAnchorElement>('[data-funnel]').forEach((link) => {
       if (link.dataset.tracked) return;
       link.dataset.tracked = 'true';
